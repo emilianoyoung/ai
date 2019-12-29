@@ -23,6 +23,6 @@ images:
     height: 500
     title: "AWS DeepComposer Enables Developers to Get Hands-On with Generative AI"
 
-secured: "WcOEAvri1Li51kXug5rTBCcEbnh0yalQGL8WU/3dOrA5u5ku5X7h5uQzWkwnGzwgMcMlGzcahEahamcCC81aqxyAAScrgRE6v6jWU/LquWMt7FD5DSG2SrrOwcHyo+vGOUcnuQsDFxKGid8h9FSTBX5uY3tL6Cs517NxR3NbT9anMA+1M3VK3Pp6+KTz364hNbmusIY8o+lKLydaljF6/PWmEiDlgez7OnPb2tHwq1n7DezTjHeDFGBkv0JkSILZXfNR8kyIJwp9B09kCef84g==;HNrLjLq986gM9mPOHAUpxw=="
+secured: "Bi/wKuifChTwlFW/6CRoHipJQKv+etDj/zoU3kOLXj3RZlNnLqYhTb/Kl9FK0j0RfUFYwY8CwKI35MiyIwwsMxf/k7LvQkvGZkOgKVHsypqL+ihaSkJ6o3jF9Qbv5+py7ezBkesOqS/wmkMNkIlgk5VXpmpJ8jx1DlcpHgzp9v/t/b5fETglvcRP9dzRxXBDBcLR1zeS13TaweVkDI08wtkfF/P5p7tO09MYjluxN6PfxdRC7+iHk3mhPTM+rGEXpzM9dmewdL/z9ilS7HtKXw==;gBXPUEMKGf8rS8DeLjg5dQ=="
 ---
 

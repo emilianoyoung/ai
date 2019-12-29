@@ -42,19 +42,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 31
-  - title: "AI-Powered Storage Market Worth $34.5 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Storage medium include solid-state drive (SSD) and hard disk drive (HDD). Other hardware includes processors, including CPU and GPU. NVIDIA (US), Intel (US), Micron (US), and Samsung (South Korea) are a few of the companies that develop hardware needed for AI applications. The segment is expected to continue to lead the AI-powered storage ..."
-    publishedDateTime: 2019-12-09T12:30:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ai-powered-storage-market-worth-34-5-billion-by-2024--exclusive-report-by-marketsandmarkets-300971188.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.B7577AC654491E374814408D18FBCD89
-        width: 669
-        height: 229
 
 secured: "XCNkNz+if7vl1oYBnGoXnljymg0J2BpZ1u0Z/DXY2MJLMAsvEBXmDrLN4LHw9pyALtahmNQYOblgbuK45cqa0DOne479oABR3apR68w7p7A0RKEPrfFju1VYOERgMNlLO8wTAtvuZuiKEcO75AFWdSHql8ieIYVl3A0e2ZdjQknBKswVCY6w3+Soc0h/kPpPWrX6vOg02mets3DhW3tEgI9bW38IgDq4SGFnJh3rzk+2+NuP8itP+5iXSA6XnViglp8Hvv+WnO3wPctKbt9twA==;erSrt02IRKewAIUX0+vmgw=="
 ---

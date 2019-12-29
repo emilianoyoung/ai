@@ -151,6 +151,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
         width: 700
         height: 489
+  - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
+    excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
+    publishedDateTime: 2019-12-10T16:42:00Z
+    sourceUrl: https://www.manufacturing.net/automotive/video/21105520/daimler-bosch-begin-us-tests-of-selfdriving-cars
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
+        width: 700
+        height: 392
   - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-10T14:03:00Z
@@ -181,6 +194,36 @@ related:
       - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
         width: 700
         height: 489
+  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
+    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
+    publishedDateTime: 2019-12-10T18:53:00Z
+    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
+    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 35
+    images:
+      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
+        width: 1000
+        height: 562
+  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
+    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
+    publishedDateTime: 2019-12-11T00:01:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
+        width: 700
+        height: 393
   - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
     excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
     publishedDateTime: 2019-12-10T17:13:00Z

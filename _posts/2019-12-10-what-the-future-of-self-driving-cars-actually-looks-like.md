@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
-  - title: "Taking the self-driving enterprise for a spin - Aera CEO Fred Laluyaux on learning from users, building a category and not being Siebel"
-    excerpt: "Laluyaux has talked previously has talked about what Aera sets out to enable as being “the self-driving enterprise” and he frequently returns to the metaphor of the self-driving car: Does it actually work? Now you have to take the car on the road and drive it across the country and see if it's actually delivering the value that you want."
-    publishedDateTime: 2019-12-09T12:08:00Z
-    sourceUrl: https://diginomica.com/taking-self-driving-enterprise-spin-aera-ceo-fred-laluyaux-learning-users-building-category-and-not
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.588CA5093D9CAD019A255758CEEB4E77
-        width: 700
-        height: 446
 
 secured: "0DfkLjSTeGrTyfU1h4sRIu5IrIxEgkHBshf/VFyiRMfRem6uym0+LrZax0KeN3mPVgqi4t2LQQqFxi1rIueW+QqXJCQAwjJkrNGijLDdDaJ1AtwKhD233HBXXxrXfPxP1ABpSP2QExLQZ533Bo6vtvwmfPaU3UkBDww0TYNg4yX4M2302RZVxx0uhPlm90mgkOnKl2j5UtdsqPOV1CDNo9ftCR1MmamuEG6AVUrOj7LsZQhn8O5WtJ/8lwQIkgldR3FIzd7skutJ/Ix7Rv4MQw==;8wJhTsWslqle21FzQmLRCg=="
 ---

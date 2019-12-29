@@ -40,17 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
-  - title: "How AI-Infused Machine Learning Is Radically Changing Brand Localization Strategy"
-    excerpt: "Human resources also will provide the crucial quality control role, reviewing and modifying machine translations, ever improving natural language processing models with authentic human understanding and feedback. AI is already used in a wide array of translation solutions, making the localization of your web site, product and services easier ..."
-    publishedDateTime: 2019-12-09T12:14:00Z
-    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy
-    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
-    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 51
   - title: "The World Is Changing Too Fast"
     excerpt: "“2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imagin"
     publishedDateTime: 2019-12-18T08:53:00Z

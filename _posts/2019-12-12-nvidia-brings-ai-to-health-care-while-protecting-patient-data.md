@@ -29,120 +29,56 @@ images:
     title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
 
 related:
-  - title: "How AI Is Making It Easier For Healthcare Practitioners To Serve Up Nutrition To Patients"
-    excerpt: "As the CTO of a company that creates daily supplement regimens using artificial intelligence, I've seen firsthand how AI is making it even easier for healthcare practitioners to serve up nutrition to their patients right in their offices and at the patients’ homes. Nutrition discussions led by AI Three-quarters of Americans take dietary ..."
-    publishedDateTime: 2019-12-09T12:17:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
+  - title: "5 takeaways from Day 2 of the Healthcare Robotics Engineering Forum"
+    excerpt: "Current procedure reports are imprecise, said Pugh in the closing keynote of the Healthcare Robotics Engineering Forum. She described her work with a team combining wearable technologies, a variety of sensors, and artificial intelligence to record and analyze the maneuvers of surgeons. “In October, we launched the Surgical Metrics Project at ..."
+    publishedDateTime: 2019-12-12T22:08:00Z
+    sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.CDC1F7424B4E2A043047EF0B623DDA4E
-        width: 600
-        height: 315
-  - title: "Public opinion lessons for AI regulation"
-    excerpt: "Political debates around these applications touch on central themes articulated in numerous AI ethics principles, including fairness, privacy, and safety. As shown in the figure below, Americans predict some of these governance challenges as more likely to impact Americans in the next decade than others. The issues thought to be the most likely ..."
-    publishedDateTime: 2019-12-10T04:01:00Z
-    sourceUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
-    ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.DDE3C6C398E1B1BF6C8D2E38B0C8568B
+      - url: https://www.bing.com/th?id=ON.2CF993488DD1E8A9225C51DE4D9AA43A
         width: 700
-        height: 466
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+        height: 479
+  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
+    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
+    publishedDateTime: 2019-12-12T07:42:00Z
+    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
+    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
+      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
         width: 700
-        height: 393
-  - title: "Cigna to use AI to track whether patients are taking their medication"
-    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
-    publishedDateTime: 2019-12-13T21:52:00Z
-    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+        height: 402
+  - title: "How Verizon 5G is Powering the Future of Robotics"
+    excerpt: "Robots can become lighter, cheaper, and have more intelligence ... the wave of a wand in order to remotely control robotic systems and teach them to perform repetitive tasks with the help of 5G and artificial intelligence. One of our Lab residents, Medivis, recently received FDA approval for its augmented reality surgical planning toolkit."
+    publishedDateTime: 2019-12-19T12:39:00Z
+    sourceUrl: https://www.roboticstomorrow.com/article/2019/12/how-verizon-5g-is-powering-the-future-of-robotics/14572
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
-        width: 700
-        height: 367
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+      - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
+        width: 680
+        height: 340
+  - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
+    excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
+    publishedDateTime: 2019-12-12T16:18:00Z
+    sourceUrl: https://cyber.harvard.edu/story/2019-12/healthcare-general-counsels-explore-pressing-health-policy-and-legal-issues-harvard
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Friendly floating robot CIMON-2 sent to International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-09T14:01:00Z
-    sourceUrl: https://www.kxly.com/lifestyle/friendly-floating-robot-cimon2-sent-to-international-space-station/1149423192
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EE498F913AA1E0FE94C5143D3B27D7DB
-        width: 700
-        height: 393
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
-        width: 700
-        height: 457
-  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
-    publishedDateTime: 2019-12-09T19:19:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 6
 
 secured: "pXBdpnP4VyyM3XdyFQuoN4/NeGJuBnCJsBkQ82ue+c/FeeWgGJaC5XG611gVXU7SNepAEnj7MbqhqW8PQQquLYNNdMDJ/ba0R57BLGn6tziCkJOAZ/Qd8JeOjreru1G8c55BvujYMMbS+wNJtzqJ9lWqGjY9RIcr8zmE2OWt7ryqBvoAUdoG0bXXvnWAXRlRfaQ+RkgtgvHCrmuQaS/1l00RVT4rfQvsnhqStv8Vu60oW4/M2MZ9EGKqCvi0PlB5AV4Eyir7+b6yG2dfS7n+dw==;xHbTdWX6nicWZ7/BmP89dA=="
 ---

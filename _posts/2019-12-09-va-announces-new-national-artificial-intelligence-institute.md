@@ -63,19 +63,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 34
-  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
-    excerpt: "“Advancing the tremendous potential of artificial intelligence within healthcare requires a rigorous approach and a common understanding of the challenges such as privacy and confidentiality,” said Daniel Jones, co-founder, chief executive ..."
-    publishedDateTime: 2019-12-09T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005468/en/Aural-Analytics-Joins-Consumer-Technology-Association-Initiative
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: https://www.bing.com/th?id=ON.422446327D0DFEA9AA4A6F3244429449
-        width: 700
-        height: 365
   - title: "Air Force boosts funding for technology using artificial intelligence for 3D manufacturing"
     excerpt: "The award comes after the company was hired in 2017 to create a new system for the Air Force to better manage additive manufacturing (AM). \"Imaginestics' mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,\" said Jamie Tan, CEO and co-founder of ..."
     publishedDateTime: 2019-12-10T05:19:00Z

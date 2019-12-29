@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
         width: 685
         height: 362
-  - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
-    excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
-    publishedDateTime: 2019-12-09T12:34:00Z
-    sourceUrl: https://www.inc.com/justin-bariso/jeff-bezos-gave-an-amazon-employee-extraordinary-advice-after-his-epic-fail-its-a-lesson-in-emotional-intelligence.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.6BD0895D0FC301E8150C702519A53564
-        width: 700
-        height: 324
 
 secured: "NYj+JZu9jMFPD5UJwGB/GDRx+IPLlta3Jk39p2xlvf0pQzNMO5gZ4O2deTS+h9VvS8MZkdmx5GbeoRHE6q3BaEuBvif6IURVt6ehRRAFwwBroVBsH1RErTz8SHPhE17p+qlxKaIoRZvk004vaOECL7lSNyX/hnqhXEu4NuszTbOjB4mTY4ucmiUxUGw8bDdv2oKcM8wcZpQ/b9PjgR96m8VmHTIYLAcy2wOA0Vy5wht/nofxJX0AMVSTwniN2GS9JwzF1Cx2wrbrZAYzTyc2lQ==;XON60+ynWtGqVVh/OjTzvQ=="
 ---

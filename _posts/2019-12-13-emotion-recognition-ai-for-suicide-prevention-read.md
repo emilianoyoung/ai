@@ -26,118 +26,34 @@ images:
     title: "Emotion recognition, AI for suicide prevention | Read"
 
 related:
-  - title: "How AI Is Making It Easier For Healthcare Practitioners To Serve Up Nutrition To Patients"
-    excerpt: "As the CTO of a company that creates daily supplement regimens using artificial intelligence, I've seen firsthand how AI is making it even easier for healthcare practitioners to serve up nutrition to their patients right in their offices and at the patients’ homes. Nutrition discussions led by AI Three-quarters of Americans take dietary ..."
-    publishedDateTime: 2019-12-09T12:17:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
+  - title: "Concerns raised over Indian government's plan for face recognition"
+    excerpt: "INDIA’S government wants to build one of the largest facial recognition systems in the world. But critics warn it could be a blow to citizens’ rights. The country’s National Crime Records Bureau (NCRB) has invited bids to develop a nationwide facial recognition system that can automatically identify people from CCTV feeds and images ..."
+    publishedDateTime: 2019-12-11T12:44:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/
+    ampUrl: https://www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432604-400-concerns-raised-over-indian-governments-plan-for-face-recognition/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.CDC1F7424B4E2A043047EF0B623DDA4E
-        width: 600
-        height: 315
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
-  - title: "Public opinion lessons for AI regulation"
-    excerpt: "Political debates around these applications touch on central themes articulated in numerous AI ethics principles, including fairness, privacy, and safety. As shown in the figure below, Americans predict some of these governance challenges as more likely to impact Americans in the next decade than others. The issues thought to be the most likely ..."
-    publishedDateTime: 2019-12-10T04:01:00Z
-    sourceUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
-    ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.DDE3C6C398E1B1BF6C8D2E38B0C8568B
+      - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+  - title: "EU to discuss Palestine recognition in upcoming meeting"
+    excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
+    publishedDateTime: 2019-12-11T09:44:00Z
+    sourceUrl: https://www.presstv.com/Detail/2019/12/11/613384/EU-Palestine-recognition-Israel
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: Press TV
+      domain: presstv.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
-        width: 700
-        height: 393
-  - title: "Cigna to use AI to track whether patients are taking their medication"
-    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
-    publishedDateTime: 2019-12-13T21:52:00Z
-    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
-        width: 700
-        height: 367
-  - title: "Friendly floating robot CIMON-2 sent to International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-09T14:01:00Z
-    sourceUrl: https://www.kxly.com/lifestyle/friendly-floating-robot-cimon2-sent-to-international-space-station/1149423192
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EE498F913AA1E0FE94C5143D3B27D7DB
-        width: 700
-        height: 393
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
-        width: 700
-        height: 457
-  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
-    publishedDateTime: 2019-12-09T19:19:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      - url: https://www.bing.com/th?id=ON.DB22615360F8F1A0E03D5712088FCA56
+        width: 650
+        height: 365
 
 secured: "M060gBwZZqMETVhqWAUleDH51jYPrVhKdQYoelcErzFZppS1D5yMfksBfJDFSiNCU/q4obNLOuB6PXLMxc1bGzQ9yg/7nThrkMcx0ggCqgaANP+qI7Cxz2cbYLECKv6ux/PVyl1amLJIc4vqMTvWfOnpdxOZWsqV466iuuxumPIIjfjX0Nuply0Tv5cqpGIJKXLnvu6jYArTpBhOyfrvRq+UdbtpxuSzj9Y+oNRngV9TrlVw1K1Ublxt+RCmlHec3kTGej9Yyo66dvNes0Ce0w==;MONorxt01g4zvr2jjiADiw=="
 ---

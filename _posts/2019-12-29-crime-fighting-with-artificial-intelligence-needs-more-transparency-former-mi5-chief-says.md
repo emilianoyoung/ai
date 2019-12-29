@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Crime fighting with artificial intelligence needs more transparency, former MI5 chief says"
-excerpt: "Police need to more open with how their use artificial intelligence (AI) to fight crime, according to a former MI5 boss. Lord Evans of Weardale, who is leading a review into AI use in the public sector, said he found it \"troubling\" how difficult it is to find out how authorities employ this technology. \"At the very minimum, [AI use] should be ..."
-publishedDateTime: 2019-12-29T12:53:00Z
-sourceUrl: https://inews.co.uk/news/technology/crime-fighting-with-artificial-intelligence-needs-more-transparency-former-mi5-chief-says-1351054
+excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
+publishedDateTime: 2019-12-29T12:47:21Z
+sourceUrl: https://www.msn.com/en-gb/news/uknews/crime-fighting-with-artificial-intelligence-needs-more-transparency-former-mi5-chief-says/ar-BBYretz
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: i
-  domain: inews.co.uk
+  name: The i on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.1E29212172BC054BDB440A91E73023EC
+  - url: https://www.bing.com/th?id=ON.720E709F546E94CC881C7DD1B7275B50
     width: 700
-    height: 466
+    height: 367
     title: "Crime fighting with artificial intelligence needs more transparency, former MI5 chief says"
 
-secured: "Om5rKpOObB1URbVUy1vIWRoIl8iHU9/Yf1wrbO3zSSyv2IKUBMYtrB0jIYPJooxCEdTymdOQedsI7h4Cfnxj2Vke5i3x7jawHNZOge/Gobd0rV1zsrM0Cxy3AJnciVNHK2AgppKzHt9426+Z2XV4f8ypDaOCJK9n8pSZGYRww3G2auNGDowPJ49sKYaqSqaWcslDyPGRPA5PnFsTev1inJ18sFYIGnVfjmmy9zJkqN5qdlnClp9sXyWOaF5P/BNro0gx2QrqRZHbDPOSPNoP4Q==;ZFbqBgy23E03qVeFE7GTaQ=="
+secured: "on9saAUkHLNGQ9PwcL0HiLkrM4p+wurM1vahBl0P4I9dAPiNHq9257mtcew+yEr7WimCstl7y2ZFPa6HxeaTrRvVGL4g4AjdNG84J4l1Er47RtI5MZG8ABDDZCYsWcs3tFDL6XGRqf7BAFcP1O1ee06TpKYf8r4aZTtMBvDg4PFJYF9589Dv7EJsJqiZNbTkjI3F0U9VJJb9Kj5xlDyWWPTygU/rC/XD5H4Fo4tnUk1n3bbRW3pq4iwVQC9LDxCclhGDEZHStzq2mMIyoyadBQ==;eU0PXc4w1K292K4LecTAhQ=="
 ---
 

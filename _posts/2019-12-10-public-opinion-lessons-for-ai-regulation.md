@@ -8,8 +8,8 @@ ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulat
 cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Brookings Institution
@@ -27,118 +27,60 @@ images:
     title: "Public opinion lessons for AI regulation"
 
 related:
-  - title: "How AI Is Making It Easier For Healthcare Practitioners To Serve Up Nutrition To Patients"
-    excerpt: "As the CTO of a company that creates daily supplement regimens using artificial intelligence, I've seen firsthand how AI is making it even easier for healthcare practitioners to serve up nutrition to their patients right in their offices and at the patients’ homes. Nutrition discussions led by AI Three-quarters of Americans take dietary ..."
-    publishedDateTime: 2019-12-09T12:17:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/09/how-ai-is-making-it-easier-for-healthcare-practitioners-to-serve-up-nutrition-to-patients/amp/
+  - title: "Wall Street’s Predictions for Amazon vs. Microsoft in $10B JEDI Protest"
+    excerpt: "Our own research and industry discussions have revolved around Microsoft being less likely to be in regulatory issues ahead and also that security is an issue that was favoring Azure over Amazon Web Services ... seat to get more of these complex workloads (e.g., AI, machine learning, etc.) as more enterprises take the leap to a hybrid cloud ..."
+    publishedDateTime: 2019-12-09T19:05:00Z
+    sourceUrl: https://247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/
+    ampUrl: https://247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/amp/
+    cdnAmpUrl: https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 97
-    images:
-      - url: https://www.bing.com/th?id=ON.CDC1F7424B4E2A043047EF0B623DDA4E
-        width: 600
-        height: 315
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: 24/7 Wall St
+      domain: 247wallst.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
+      - url: https://247wallst.files.wordpress.com/2019/09/gettyimages-623923532.jpg?w=1200
+        width: 1200
+        height: 675
+  - title: "POLITICO Connected: An AI Community: A new venture — AI opinions — Upcoming summit"
+    excerpt: "As lawmakers face drafting legislation for a digital era for which many of their traditional models of policymaking have become outdated, I’ll follow how they think AI should be deployed and how they handle questions of safety, liability and ethics — whether it’s for the labor market, inside the connected cars roaming Europe’s streets ..."
+    publishedDateTime: 2019-12-09T19:51:00Z
+    sourceUrl: https://www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/
+    ampUrl: https://www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/amp/
+    type: article
+    provider:
+      name: POLITICO
+      domain: politico.eu
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.1EF57BE5899DFA8DFE813FFE22244405
         width: 700
-        height: 393
-  - title: "Cigna to use AI to track whether patients are taking their medication"
-    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
-    publishedDateTime: 2019-12-13T21:52:00Z
-    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+        height: 523
+  - title: "A Light Touch Regulatory Framework For AI Is Best"
+    excerpt: "It made us much more aware of the real and significant risks associated with the everyday technology tools that most of us use all the time. Bias in the use of artificial intelligence algorithms is well documented with real and significant consequences for individuals. There is a risk of knee-jerk and potentially inappropriate response."
+    publishedDateTime: 2019-12-16T21:59:00Z
+    sourceUrl: https://www.law360.com/articles/1226219/a-light-touch-regulatory-framework-for-ai-is-best
+    ampUrl: https://www.law360.com/amp/articles/1226219
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1226219
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: Law360
+      domain: law360.com
+    quality: 37
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
         width: 700
-        height: 367
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Friendly floating robot CIMON-2 sent to International Space Station"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-09T14:01:00Z
-    sourceUrl: https://www.kxly.com/lifestyle/friendly-floating-robot-cimon2-sent-to-international-space-station/1149423192
-    type: article
-    provider:
-      name: KXLY 4 News
-      domain: kxly.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EE498F913AA1E0FE94C5143D3B27D7DB
-        width: 700
-        height: 393
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
-        width: 700
-        height: 457
-  - title: "Univfy to Present at Digital Medicine & Medtech Showcase 2020 on How AI and Fintech Make IVF Easier to Navigate for Patients and Providers"
-    excerpt: "About Univfy: The proprietary Univfy AI Platform for IVF makes it simple for women and couples to access the most effective and safest fertility treatment. It is the only highly-scalable AI platform that provides scientifically validated, personalized ..."
-    publishedDateTime: 2019-12-09T19:19:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/univfy-to-present-at-digital-medicine-medtech-showcase-on-how/article_4b601435-f3d2-53fe-867c-94e849190ef2.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 5
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+        height: 394
 
 secured: "AkM6Gaq12wzJis79ZvzeHr6wDj6+orjB7ZCcn7JvIwyUCDDm7dF81vJR8G/IOcKpeUCLR47tern+N85CYpVG9ll27r8GiU5KQdgYTcet5QzYLpuNdk+MedE9cTr+86n1M2gGzLNRYUELn6cMrXvgi25FdrGNUU+9paREQBP/RxU8urizpr0R+zny0N2tzjET78XG+QQNoHDVytIy+lpdEEAMij3jI4754ZeTLZTHBFiDAiwyJfU4i4upBNi8R3Wl6/Sjp/hJI4ZQ3T6gn4UXzg==;3Id2YxPeFI4wD7IkAkNNwg=="
 ---

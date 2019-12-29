@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T06:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/self-driving-truck-technology-market-evolving-technology-and-growth-outlook-2019-to-2025-2019-12-27
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Self Driving Truck Technology Market Evolving Technology and Growth Outlook 2019 to 2025"
 
 related:
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-26T23:10:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
+    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
+        width: 700
+        height: 466
   - title: "??Image Recognition Technology Market 2019 Competitive Insights and Outlook – IBM Corporation, Imagga Technologies, Amazon Web Services"
     excerpt: "Market Segmentation by Types: Object Detection QR/Barcode Recognition Facial Recognition Pattern Recognition Optical Character Recognition The report contains pages which highly exhibit on current market analysis scenario, upcoming as well as future opportunities, revenue growth, pricing and profitability. ??Image Recognition Technology ..."
     publishedDateTime: 2019-12-23T08:36:00Z

@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "3 Tips For Incorporating AI In The Automotive Industry"
-    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
-    publishedDateTime: 2019-12-09T12:27:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
-        width: 600
-        height: 315
   - title: "‘We won’t have the sexiest AI, but everything it says is true,’ says Narrative Science"
     excerpt: "The hyperbole surrounding artificial intelligence is so thick these days, that it can be hard to break through the hype when talking with a vendor of product -- one of the reasons reporting on AI is so bad, generally speaking. When one does take the time, however, to talk to a vendor, some conversations can be enlightening about the state of ..."
     publishedDateTime: 2019-12-17T17:00:00Z

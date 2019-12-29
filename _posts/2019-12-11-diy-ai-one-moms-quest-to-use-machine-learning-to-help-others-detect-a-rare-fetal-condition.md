@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "DIY AI: One mom’s quest to use machine learning to help others detect a rare fetal condition"
 
 related:
+  - title: "Cigna to use AI to track whether patients are taking their medication"
+    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
+    publishedDateTime: 2019-12-13T21:52:00Z
+    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
+        width: 700
+        height: 367
   - title: "Using machine learning to help at work"
     excerpt: "Citrix told CNN Business it will soon launch an Intelligent Digital Workspace that uses machine learning to aggregate information from dozens of outside apps into a single place. The product is getting rolled out as an update to the existing Citrix Workspace. \"There are just too many applications. We're constantly getting notifications that are ..."
     publishedDateTime: 2019-12-12T06:22:00Z

@@ -23,63 +23,62 @@ images:
     title: "Human Rights Commission calls for regulation of artificial intelligence"
 
 related:
-  - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
-    excerpt: "When it comes to securities, banking and other finance products which are employing technology such as a facial recognition or big data analytics, technologies to regulate that intelligent finance have lagged behind AI development, according to a report by the China Finance 40 Forum, a platform for finance policy research and academic exchange."
-    publishedDateTime: 2019-12-23T12:33:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/
-    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
+  - title: "Public opinion lessons for AI regulation"
+    excerpt: "Political debates around these applications touch on central themes articulated in numerous AI ethics principles, including fairness, privacy, and safety. As shown in the figure below, Americans predict some of these governance challenges as more likely to impact Americans in the next decade than others. The issues thought to be the most likely ..."
+    publishedDateTime: 2019-12-10T04:01:00Z
+    sourceUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/
+    ampUrl: https://www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
+    cdnAmpUrl: https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/public-opinion-lessons-for-ai-regulation/amp/
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.97331B7269776F2B2C73CE8D888D034D
-        width: 457
-        height: 305
-  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
-    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading ..."
-    publishedDateTime: 2019-12-23T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
-    ampUrl: https://markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
+      - url: https://www.bing.com/th?id=ON.DDE3C6C398E1B1BF6C8D2E38B0C8568B
+        width: 700
+        height: 466
+  - title: "Wall Street’s Predictions for Amazon vs. Microsoft in $10B JEDI Protest"
+    excerpt: "Our own research and industry discussions have revolved around Microsoft being less likely to be in regulatory issues ahead and also that security is an issue that was favoring Azure over Amazon Web Services ... seat to get more of these complex workloads (e.g., AI, machine learning, etc.) as more enterprises take the leap to a hybrid cloud ..."
+    publishedDateTime: 2019-12-09T19:05:00Z
+    sourceUrl: https://247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/
+    ampUrl: https://247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/amp/
+    cdnAmpUrl: https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2019/12/09/wall-streets-predictions-for-amazon-vs-microsoft-in-10b-jedi-protest/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 59
     images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
-  - title: "China should step up regulation of artificial intelligence in finance, think tank says"
-    excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
-    publishedDateTime: 2019-12-22T07:00:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/markets/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
+      - url: https://247wallst.files.wordpress.com/2019/09/gettyimages-623923532.jpg?w=1200
+        width: 1200
+        height: 675
+  - title: "POLITICO Connected: An AI Community: A new venture — AI opinions — Upcoming summit"
+    excerpt: "As lawmakers face drafting legislation for a digital era for which many of their traditional models of policymaking have become outdated, I’ll follow how they think AI should be deployed and how they handle questions of safety, liability and ethics — whether it’s for the labor market, inside the connected cars roaming Europe’s streets ..."
+    publishedDateTime: 2019-12-09T19:51:00Z
+    sourceUrl: https://www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/
+    ampUrl: https://www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/amp/
+    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/politico-connected-an-ai-community-a-new-venture-ai-opinions-an-upcoming-summit/amp/
     type: article
     provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 9
-  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
-    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
-    publishedDateTime: 2019-12-24T00:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+      name: POLITICO
+      domain: politico.eu
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.1EF57BE5899DFA8DFE813FFE22244405
+        width: 700
+        height: 523
+  - title: "A Light Touch Regulatory Framework For AI Is Best"
+    excerpt: "It made us much more aware of the real and significant risks associated with the everyday technology tools that most of us use all the time. Bias in the use of artificial intelligence algorithms is well documented with real and significant consequences for individuals. There is a risk of knee-jerk and potentially inappropriate response."
+    publishedDateTime: 2019-12-16T21:59:00Z
+    sourceUrl: https://www.law360.com/articles/1226219/a-light-touch-regulatory-framework-for-ai-is-best
+    ampUrl: https://www.law360.com/amp/articles/1226219
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1226219
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
+      name: Law360
+      domain: law360.com
+    quality: 37
 
 secured: "d9BBGA6PJiP2We7rvPR/1+SmxY35JyTFHlor919pPvCmaXAAbvGcilCjilZeI/KZD3isVtZS7w0WX1G3a6VpNBi46CUR0vLWlUgvjYWHajbliWc33n20BgZS6WA8n98jeyAvJOUOYWtZmUl9gF8Fx1/ZsLykmFEZCscWUZlOwa1kV8U36IOkR5xzFYSPTeVEXk4tGPAugtnSEUmRLEhJUK72ZXMjShSRD/LLPTmlg685+/N8hFK3cBjI044QWS1ukDfCtQqMWymSXpxNjlabig==;Dt77eAcYobdKiVGS7Okf1w=="
 ---

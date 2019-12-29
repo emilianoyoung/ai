@@ -1,27 +1,22 @@
 ---
 category: news
-title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-publishedDateTime: 2019-12-11T11:06:00Z
-sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
+excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
+publishedDateTime: 2019-12-09T13:27:00Z
+sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
 type: article
-quality: 54
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engineering360 News
+  domain: globalspec.com
 
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 related:
   - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
@@ -95,6 +90,17 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
     excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
     publishedDateTime: 2019-12-10T11:44:00Z
@@ -168,15 +174,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
-    excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
-    publishedDateTime: 2019-12-09T13:27:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14385/flying-cars-robots-and-self-driving-delivery-vehicles-part-of-hyundai-s-future
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 32
   - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
     excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
     publishedDateTime: 2019-12-09T18:36:00Z
@@ -269,6 +266,6 @@ related:
         width: 700
         height: 419
 
-secured: "kK2z1k2obKBxyxcNxvv4/HQEHnIxblWEGKN3g4yDg/s0apPWHDZHEeUgesmZpFeqHX1W1LeykNa4Jp6fycE1TJEFQBL1tfomQloZSKkZttLqtbkZ2rA9+2SNyXAqPT3UV1j49SDcf6KFMkg2RTKkJv+/1Q5bpyxfRjZ7o8qWhqpydpHTgtffCfWUtR/kE6qhvojFVfyT76FTgVfDdLZoDWr0RTNrF3T0dzuSQgOQ8yB0oqafLGcVgfGCcf7N7ajYK1WbOyCXRVKOPrJJq5VLBg==;5WklHpQL1zZs7Nn1QHWpvg=="
+secured: "i57hMtouoMHRF63IRkwiL+N9kPKGkG8JLuQhkSDTY7rr0E+apV6rGbUShwW0zeCN20xVbAjeQjw83bMuJVePYRHpO39vbrt25zfWy3iftJJlS3eLbL111oSeOUOiqromv+wuTjowW9jFs/zph+ix6gsPNpiRZ3WNUiLKK3D+UhKPgNvOr8q2UjPHzUV/twyRYmMBKQJ/DgnQ+nEXxi4wz7PoUCTWKERxxBHVcp58P+0Ma4Vz0Z9KlebCnwQFEiNlxJvkXnsx26XopLxmpyB4Jg==;BjLqYJyrROSSSIVruAlwRw=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df138cdb269e900077e3501%2F0x0.jpg
         width: 1200
         height: 800
-  - title: "Jeff Bezos Gave an Amazon Employee Extraordinary Advice After His Epic Fail. It's a Lesson in Emotional Intelligence"
-    excerpt: "Freed and co. then hired speech scientists and artificial-intelligence experts to help them create the new software. They designed it so it could understand a variety of accents. They didn't want to place too many limitations on the software, so they gave it the ability to do all sorts of tasks--from telling you the weather to answering ..."
-    publishedDateTime: 2019-12-09T12:34:00Z
-    sourceUrl: https://www.inc.com/justin-bariso/jeff-bezos-gave-an-amazon-employee-extraordinary-advice-after-his-epic-fail-its-a-lesson-in-emotional-intelligence.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.6BD0895D0FC301E8150C702519A53564
-        width: 700
-        height: 324
 
 secured: "yRYc9tLSgwxB5uOcakXVARYVxo0Xfklkf3rjGxDY2/4UWw8WuLYIJRnaDLNPrSYruT3UbkrJf1mAVywL7+7tq7+cJjHn5+zzbTsQOjxgkuwOXG25Ey+E5iOfuTuRPbVS43CsZGX/Ikc5M77xMnWtxbZH0fTQ5WVHCnfY/RTsFwLCONvc0mtpCxsGz7L9d3DDFPs1gejtsYFwHF0xzlZFp22vNGYYbgGjnoYVjU8bYT/CCQlyDuHJRgrp3+mej8qBbSHbDwsupENlIjMu6tlwaQ==;A8Iub/Aan/zx1K3Y0DGMfw=="
 ---

@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "3 Tips For Incorporating AI In The Automotive Industry"
-    excerpt: "One of the sectors I've observed tapping into this technology is the automotive industry, as our interface with the car is quickly changing from knobs and buttons to voice-driven interactions with AI assistants. Although not all brands have yet adopted AI, it's a feature I've observed some consumers look for when deciding which vehicle to purchase."
-    publishedDateTime: 2019-12-09T12:27:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/
-    ampUrl: https://www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2019/12/09/3-tips-for-incorporating-ai-in-the-automotive-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.48CDDC06A009B1B1CAEB91A00E11584C
-        width: 600
-        height: 315
   - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
     excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
     publishedDateTime: 2019-12-14T10:26:00Z

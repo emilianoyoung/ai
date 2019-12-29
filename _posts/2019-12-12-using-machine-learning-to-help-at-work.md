@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B2CB4F014C046EA9C0B4866EBC250C09
         width: 700
         height: 700
+  - title: "Cigna to use AI to track whether patients are taking their medication"
+    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
+    publishedDateTime: 2019-12-13T21:52:00Z
+    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
+        width: 700
+        height: 367
   - title: "Using a Machine to Help Us Learn About Jupiter’s Aurora"
     excerpt: "A first usage of principal component analysis on Hubble images of Jupiter’s auroral ovals reveals the most common patterns, and machine learning classification reveals their physical causes. Source: Journal of Geophysical Research: Space Physics A difference image revealing the main features of Jupiter’s aurora, showing the most prevalent ..."
     publishedDateTime: 2019-12-09T14:21:00Z

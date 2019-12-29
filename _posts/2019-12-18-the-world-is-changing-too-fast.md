@@ -54,17 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0E85B743ACE325A0148BE0562FA62BE5
         width: 700
         height: 393
-  - title: "How AI-Infused Machine Learning Is Radically Changing Brand Localization Strategy"
-    excerpt: "Human resources also will provide the crucial quality control role, reviewing and modifying machine translations, ever improving natural language processing models with authentic human understanding and feedback. AI is already used in a wide array of translation solutions, making the localization of your web site, product and services easier ..."
-    publishedDateTime: 2019-12-09T12:14:00Z
-    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy
-    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
-    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/how-ai-infused-machine-learning-is-radically-changing-brand-localization-strategy/amp
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 51
   - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
     excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
     publishedDateTime: 2019-12-11T18:35:00Z

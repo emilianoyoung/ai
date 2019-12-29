@@ -3,15 +3,21 @@ category: news
 title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
+sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 129
+published: true
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -54,7 +60,35 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
+  - title: "What is the Procedure to Start a FinTech Company?"
+    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
+    publishedDateTime: 2019-12-29T02:05:00Z
+    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
+    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
+        width: 670
+        height: 352
+  - title: "How AI is Revolutionizing the Banking Sector"
+    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
+    publishedDateTime: 2019-12-24T09:32:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
+        width: 300
+        height: 300
 
-secured: "o6k1Em00aeU+Pfsz0XGefV6WpYZkF9IRXifcXC9hmn9X26F0EAiCSW1+HBEt6oRy9reJattxDrguPejGx9A+nnPOsxGF+Ncv/9kZy+OV6yDIc9YzxhogNA2ooqf3EFF3nFsVhvkZt7PDvPvNi69So+gdJalFrbypfgDooQHCp9XRDgnIwluhxL+OGlh8ogIaxefBNwg142nxHgLTaXRRVvrIq5/GgayPyKq9OCbHwutlpmOTd6K2yGVjzWsI4WLtHT5Wm+OhwcOLtIIlj/y4aQ==;sus6e4/QTs9zrgx3xVNMTQ=="
+secured: "tcJKiLwClq4ovBxbsGEzoq47XDOAoFwrSaRXjpV7ZgCnl/G+Arslm8R7U+4CictTmLBOMOOF6ASp4Wf4iEh0oiapqhgMgZq8H0ZFjCnLd1gu1+pzqxX6UfhFGvf4CfMzForbe+OQkHxbx7WcezO81UPmZ0xh1nebhHHygPqzoItDoRkcP1LhPae+3KLq/er5sauCVA+25XYnL0tAG85AST7dUe4HntZ5rsKF/XR+FZjSCulgKunn77vNCgyOvUv8dH80G2O7cJup7t2jnUd8EA==;52oxh3A585N1XeWLhDVUDg=="
 ---
 

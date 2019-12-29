@@ -41,6 +41,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
+  - title: "Waymo self-driving vehicle struck by another car in Tempe"
+    excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
+    publishedDateTime: 2019-12-13T18:58:00Z
+    sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
+    ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 39
   - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
     excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
     publishedDateTime: 2019-12-14T02:05:00Z

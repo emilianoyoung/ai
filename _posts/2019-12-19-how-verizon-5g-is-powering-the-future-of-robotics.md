@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
         width: 700
         height: 402
+  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
+    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
+    publishedDateTime: 2019-12-12T18:42:00Z
+    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
+        width: 300
+        height: 200
   - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
     excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
     publishedDateTime: 2019-12-12T16:18:00Z

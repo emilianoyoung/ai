@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 254
+published: true
 
 provider:
   name: Forbes
@@ -30,247 +30,146 @@ images:
     title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
 
 related:
-  - title: "Bosch and Daimler launch self-driving car pilot in San Jose"
-    excerpt: "Daimler, for its part, in June 2018 obtained a permit from the Chinese government allowing it to test self-driving cars powered by Baidu’s Apollo platform on public roads in Beijing. (It already has permits for testing self-driving cars in the U.S. and Germany.)"
-    publishedDateTime: 2019-12-09T13:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/09/bosch-and-daimler-launch-self-driving-car-pilot-in-san-jose/
-    ampUrl: https://venturebeat.com/2019/12/09/bosch-and-daimler-launch-self-driving-car-pilot-in-san-jose/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/09/bosch-and-daimler-launch-self-driving-car-pilot-in-san-jose/amp/
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.6FF447E6483A0E9AB299F28CCA4ED5DD
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
         height: 350
-  - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
-    excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
-    publishedDateTime: 2019-12-09T17:24:00Z
-    sourceUrl: https://www.theverge.com/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/9/21002911/mercedes-benz-bosch-self-driving-taxi-car-sclass-san-jose-autonomous
+  - title: "Arbe Raises $32M To Help Tesla Competitors With Radar For Self-Driving Cars"
+    excerpt: "Arbe raises $32 million to produce its chipset Arbe's technology is the first to provide precise details of the environment of a vehicle The chipset will help vehicles achieve SAE level 3 Tesla vehicles aren't considered fully autonomous, and by SAE standards -- it's only at level 2. Arbe may be able to change that with its high-definition ..."
+    publishedDateTime: 2019-12-17T04:48:00Z
+    sourceUrl: https://www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941
+    ampUrl: https://www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941?amp=1
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.715352E670B3EC10062201EB84EF4BD1
-        width: 700
-        height: 366
-  - title: "Self-driving car firms rooted in U.S. government competition"
-    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
-    publishedDateTime: 2019-12-11T11:09:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
+      - url: https://www.bing.com/th?id=ON.B04AF3E84C82E65CCE78E300CE5F7742
+        width: 640
+        height: 426
+  - title: "Air France Hopes to Reduce Delays With Self-Driving Luggage Carts"
+    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. Good night, sweet prince: An out of control ..."
+    publishedDateTime: 2019-12-11T00:14:00Z
+    sourceUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455
+    ampUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
-        width: 700
-        height: 466
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    quality: 54
+  - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
+    excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
+    publishedDateTime: 2019-12-10T11:44:00Z
+    sourceUrl: https://www.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    ampUrl: https://amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
+      - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
         width: 600
-        height: 315
-  - title: "Ex-Apple engineers cook up cheaper, more powerful tech for self-driving cars, and Volkswagen is interested"
-    excerpt: "The start-up has improved the capability of its technology. Porsche has invested an unspecified amount of money in Aeva. A Silicon Valley start-up called Aeva is inching closer to its goal of making self-driving technology more affordable. The start-up has a smaller and more capable version of its hardware, which collects and processes real ..."
-    publishedDateTime: 2019-12-11T14:07:00Z
-    sourceUrl: https://www.cnbc.com/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    ampUrl: https://www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/11/porsche-backs-self-driving-start-up-aeva-started-by-ex-apple-techs.html
+        height: 450
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Waymo Chief Executive John Krafcik said. PITTSBURGH: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of ..."
+    publishedDateTime: 2019-12-11T17:19:00Z
+    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.64F16B514DFEBCC1ED35A8E532FDD3DC
-        width: 700
-        height: 466
-  - title: "Industry Focuses More on Passenger-Aware Tech Than Self-Driving Tech"
-    excerpt: "Self-driving car tech still has a ways to go before it is ready for widespread implementation in modern vehicles. In the meantime, the industry is turning its attention to passenger-aware ..."
-    publishedDateTime: 2019-12-09T16:13:00Z
-    sourceUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/
-    ampUrl: https://thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    cdnAmpUrl: https://thenewswheel-com.cdn.ampproject.org/c/s/thenewswheel.com/industry-focuses-on-passenger-aware-tech/amp/
-    type: article
-    provider:
-      name: thenewswheel.com
-      domain: thenewswheel.com
+      name: ET Auto.com
+      domain: indiatimes.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.8A2AF38BD586D9CA689148F976843A56
-        width: 700
-        height: 466
-  - title: "Uber Ends Self-Driving Program in Arizona After Fatal Crash"
-    excerpt: "The company said it is focusing its efforts to build self-driving cars in Pittsburgh, as well as in San Francisco Uber is pulling its self-driving cars out of Arizona, a reversal triggered by the recent death of woman who was run over by one of the ride ..."
-    publishedDateTime: 2019-12-09T18:44:00Z
-    sourceUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html
-    ampUrl: https://www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
-    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/Uber-Ends-Self-Driving-Program-in-Arizona-After-Fatal-Crash-483502031.html?amp=y
+      - url: https://etimg.etb2bimg.com/thumb/msid-72474883,imgsize-77190,width-800,height-434,overlay-etauto/argo-takes-different-road-to-skirt-self-driving-challenges.jpg
+        width: 800
+        height: 434
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
     type: article
     provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 44
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.A4CF631C5ABF92A3FCF8DFDD64924A8F
-        width: 700
-        height: 393
-  - title: "Ford Expands Self-Driving Business Footprint In Austin"
-    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
-    publishedDateTime: 2019-12-11T20:05:00Z
-    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
-    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
-        width: 656
-        height: 492
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
+        width: 636
+        height: 382
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
-        width: 700
-        height: 410
-  - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
-    excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
-    publishedDateTime: 2019-12-10T16:42:00Z
-    sourceUrl: https://www.manufacturing.net/automotive/video/21105520/daimler-bosch-begin-us-tests-of-selfdriving-cars
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
-        width: 700
-        height: 392
-  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
-    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
-    publishedDateTime: 2019-12-11T00:00:00Z
-    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
-    type: article
-    provider:
-      name: BMW BLOG
-      domain: bmwblog.com
-    quality: 39
-    images:
-      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
-        width: 980
-        height: 551
-  - title: "Waymo self-driving vehicle struck by another car in Tempe"
-    excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
-    publishedDateTime: 2019-12-13T18:58:00Z
-    sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
-    ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
-    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
-        width: 700
-        height: 418
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-10T18:53:00Z
-    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
-    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
     quality: 35
     images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
-        width: 1000
-        height: 562
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-11T00:01:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
-        width: 700
-        height: 393
-  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
-    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
-    publishedDateTime: 2019-12-09T15:35:00Z
-    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
-        width: 700
-        height: 459
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
   - title: "Flying cars, robots and self-driving delivery vehicles part of Hyundai’s future"
     excerpt: "Specifically, $17 billion will be allocated to the development of electrification, self-driving vehicles, artificial intelligence, robotics, flying cars and new energy areas. The remaining $34 billion will be used for product and capital expenditure. The first fully-electric models, called the Genesis brand, will be rolled out in 2021 before ..."
     publishedDateTime: 2019-12-09T13:27:00Z
@@ -280,32 +179,32 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 32
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose."
-    publishedDateTime: 2019-12-09T13:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/mercedes-and-bosch-commence-self-driving-trials-in-san-jose/ar-BBXYv4j
+  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-09T18:36:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
+      name: Voice of America
+      domain: voanews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.720095D5EECFE46B168B1A01DCF224B2
+      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
-        height: 367
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
+        height: 393
+  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
+    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
+    publishedDateTime: 2019-12-10T13:14:00Z
+    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: After Market News
+      domain: aftermarketnews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
-        width: 700
-        height: 467
+      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
+        width: 600
+        height: 300
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z
@@ -319,19 +218,58 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
+        width: 700
+        height: 367
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-16T00:03:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
         width: 700
         height: 466
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+        width: 700
+        height: 419
 
 secured: "D4KTIYfG3Pkfi7WyPjtXDa0w3yGkLnaGUQ4S+djS+ANTgps32vFWDIphYHYTPgRzgoS0edfvvj0UTk49CYrk6eu7wRi77wvB1l1pF3kyiGwV3/7Cm3u+wbp+TadQsGG8ToYWZafX1tYKXAjeV9mKJUAaFxAj+CFn1SeaVilf4YIplVzzan7+e3wR/wo82kt5U1bvp0Nvoe84CwGEEWTnnmh2N5Zx4mxyB2VZ8/cQiYUiK7UoUYOjesEr1SSTMR0BSNTFo1Zd9GlGDCvP9MENEw==;+ILdDUNHs0IpRedsh1YiMA=="
 ---
