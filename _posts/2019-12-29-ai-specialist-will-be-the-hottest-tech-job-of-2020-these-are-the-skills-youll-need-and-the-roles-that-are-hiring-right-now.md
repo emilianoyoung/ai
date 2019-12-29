@@ -1,28 +1,45 @@
 ---
 category: news
-title: "Here are the top tech trends of 2020, according to top experts"
-excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
-publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
+excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
+publishedDateTime: 2019-12-29T15:40:00Z
+sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
 type: article
-quality: 122
-heat: 292
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Fast Company
-  domain: fastcompany.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
+  - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
     width: 700
-    height: 393
-    title: "Here are the top tech trends of 2020, according to top experts"
+    height: 350
+    title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
 
 related:
+  - title: "Here are the top tech trends of 2020, according to top experts"
+    excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
+    publishedDateTime: 2019-12-23T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 122
+    images:
+      - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
+        width: 700
+        height: 393
   - title: "8 biggest AI trends of 2020, according to experts"
     excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
     publishedDateTime: 2019-12-17T14:18:00Z
@@ -154,19 +171,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
         width: 356
         height: 200
-  - title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
-    excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
-    publishedDateTime: 2019-12-29T15:40:00Z
-    sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
-        width: 700
-        height: 350
   - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
     excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
     publishedDateTime: 2019-12-27T12:41:00Z
@@ -251,6 +255,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "7Zgnd2Nt+69PJwANENeKXApUfFZfezxR9HLo4yaFOa4eVAERgaBEjkfsOhCH+CgszFH0wVlv8BSDoB1ZzHNTVDyCyVmv1OiWa/wDtp3rTvGLWHy0NTFUTksqX0vCnPee/xuLrXx6XKGWvqaMCBZlGupReWBLNB1zZPx+xQKy12DpU/Xe4QvGOutE9zEemG0ZnE3kyEmd0R/ltYSfKRTdZf2mJ28jbBgeITWg2fi9TIhV9T+LKerh6GjuqoE/oEl5zh5PLqPMGnXvK26Aow+XYw==;Jw9VT/3R2APyAeFDbFH1lQ=="
+secured: "xfv/98tt2tS1rGzki3X5R6jMMymDxp4etocnjRbVq0OPP3R2A1JGgYZs/uSK6ioiW4eOrqNEP3VvmCDIycfa5ivue/AsHTuOG1Ma0oB3vtzAGGTrEzCyqvZyO3SrsUOU+P8hJOdDZ89e3obXKxmrr8nDKdksW7ahMBomSXVCdHnNIoifgzyXc+SsVb4Rj7i/mI4r3kGpRRe5ti9TdpkowlcM73KJHz8p0jGw0L6ipIFFwvtfvI1Zh1Qqccx3Ve48YY9nQgbRNuHmpx2WpfZjZg==;aJejQt2ymxn30hxNeKK1Yw=="
 ---
 

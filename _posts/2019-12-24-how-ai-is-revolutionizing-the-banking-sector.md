@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
         width: 700
         height: 466
+  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
+    publishedDateTime: 2019-12-29T15:08:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
+        width: 600
+        height: 315
   - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-25T05:42:00Z

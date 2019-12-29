@@ -26,6 +26,21 @@ images:
     title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
 
 related:
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage driver that is timid ... As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans, presumably you will need a similar ..."
+    publishedDateTime: 2019-12-08T15:57:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
+        width: 600
+        height: 315
   - title: "Mercedes-Benz and Bosch are testing self-driving taxis in San Jose"
     excerpt: "A new self-driving taxi service is coming to San Jose, CA, from two of Germany’s biggest companies: Mercedes-Benz and Tier 1 auto supplier Bosch. Autonomous S-Class vehicles will ferry passengers between West San Jose and the city’s downtown area, the companies announced Monday. To be sure, this is not a dynamic car service like some other ..."
     publishedDateTime: 2019-12-09T17:24:00Z
@@ -41,21 +56,64 @@ related:
       - url: https://www.bing.com/th?id=ON.715352E670B3EC10062201EB84EF4BD1
         width: 700
         height: 366
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "Ride-share giants Uber and Lyft may soon have some driverless competition. Continue Reading Below Mercedes-Benz has teamed up with German-based engineering firm Bosch to develop a new mobile ride-share app that uses automated Mercedes-Benz S-Class vehicles as transportation. A pilot project for the app just launched in San Jose, California ..."
-    publishedDateTime: 2019-12-09T22:02:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars
-    ampUrl: https://www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/mercedes-benz-new-ride-share-app-self-driving-cars.amp
+  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
+    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
+    publishedDateTime: 2019-12-10T17:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A4A47FF3B20716AE315012DA802D2D61
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
+        width: 1199
+        height: 625
+  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
+    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
+    publishedDateTime: 2019-12-12T16:00:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
+        width: 600
+        height: 315
+  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
+    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
+    publishedDateTime: 2019-12-11T13:42:00Z
+    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
         width: 700
-        height: 393
+        height: 350
+  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
+    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
+    publishedDateTime: 2019-12-11T14:44:00Z
+    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
+        width: 200
+        height: 124
   - title: "Air France Hopes To Reduce Delays With Self-Driving Luggage Carts"
     excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. The vehicle, known as the AT135 baggage tractor ..."
     publishedDateTime: 2019-12-09T20:45:00Z
@@ -69,58 +127,58 @@ related:
       - url: https://www.bing.com/th?id=ON.1254883BCE5D993A0CD9A777340F9DFD
         width: 700
         height: 393
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+  - title: "Using artificial intelligence to improve chronic care"
+    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
+    publishedDateTime: 2019-12-12T15:49:00Z
+    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: Fortune India
+      domain: fortuneindia.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
         width: 700
-        height: 410
-  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
-    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
-    publishedDateTime: 2019-12-11T00:00:00Z
-    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
+        height: 447
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
     type: article
     provider:
-      name: BMW BLOG
-      domain: bmwblog.com
-    quality: 39
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 35
     images:
-      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
-        width: 980
-        height: 551
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
+  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
+    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
+    publishedDateTime: 2019-12-11T20:40:00Z
+    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
     images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
+      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
-        height: 418
-  - title: "Mercedes-Benz and Bosch launch self-driving ride-hailing pilot program in San José"
-    excerpt: "Mercedes-Benz has provided an update on the automated vehicle ride-hailing service that it has been developing with Bosch, revealing that it has entered the pilot phase. Mercedes-Benz kicked off the week by announcing on Monday that the joint project that's been in the works with Bosch has launched as a pilot in Silicon Valley. In San José ..."
-    publishedDateTime: 2019-12-09T15:35:00Z
-    sourceUrl: https://news.yahoo.com/mercedes-benz-bosch-launch-self-driving-ride-hailing-153501744.html
+        height: 350
+  - title: "Teaching a Self-Driving Car to Feel Passengers' Emotions"
+    excerpt: "Imagine if your car can sense your emotions and play happy music when you are sad. That’s what a team of researchers at Texas A&M University is working on -- to look at brain waves that correlate to different human emotions and ultimately teach that to an autonomous vehicle. VOA’s Elizabeth Lee has the details from College Station, Texas."
+    publishedDateTime: 2019-12-09T18:36:00Z
+    sourceUrl: https://www.voanews.com/episode/teaching-self-driving-car-feel-passengers-emotions-4111141
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 33
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.9849F01A2174566E1C40B8EE1BEDAC9F
+      - url: https://www.bing.com/th?id=ON.060939CF2DDB8C0DF4FBB3C4C3554A76
         width: 700
-        height: 459
+        height: 393
   - title: "Mercedes and Bosch commence self-driving trials in San Jose"
     excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
     publishedDateTime: 2019-12-10T00:09:00Z
@@ -147,32 +205,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+  - title: "Editorial: Be aware of limits to self-driving cars"
+    excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
+    publishedDateTime: 2019-12-11T05:00:00Z
+    sourceUrl: https://www.ctpost.com/opinion/article/Editorial-Be-aware-of-limits-to-self-driving-cars-14896305.php
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
+      name: Connecticut Post
+      domain: ctpost.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+      - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
-        height: 466
-  - title: "From a self-driving bus to a pocket HIV test, here are this year's Beazley Award winners"
-    excerpt: "Users can operate the pocket- sized device in three easy steps in privacy. A collaboration between minimalist Japanese lifestyle company Muji and Finnish autonomous driving company Sensible 4, Gacha is a “self-driving” bus that functions under all weather conditions. The gently rounded, square-shaped bus has no defined front or back and ..."
-    publishedDateTime: 2019-12-16T04:05:00Z
-    sourceUrl: https://www.thestar.com.my/lifestyle/living/2019/12/16/londons-design-museum-honours-six-inspiring-creations-with-the-beazley-award-for-improving-peoples-lives
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.7898594F811E58317026581915BE97BD
-        width: 700
-        height: 280
+        height: 445
 
 secured: "SWZtH3SEmwS9QZLFZsaZtC/FG5tqXlftuYD0F3ZJj6b8/rlzaAx1dn7cYYzW8FekQmBDLsJBp4OzMXrtHMmr5GN7I7YDVDKHcR7CRUZyIswucEm55QZ3WKmrQLdqrBgkE6PmX4AQ5Gpi9qSflWYHnD4i66O7wp/fmPB5nQPbsLF39nkRf84DbWm8ExYj+gd8WTeixHTmzgsOuOjv3VExJ9ODQFCDCPPlKnrqr+hqKkwdk/WER3Ge3RTpvl8qcQCxAIDWxbgK2URS6kPsTev8ZA==;30dH35opGtWzRG8dfAdx5Q=="
 ---

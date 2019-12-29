@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
 
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving and there is no need ... reasoning and in no manner whatsoever has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things ..."
-    publishedDateTime: 2019-12-08T15:57:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
-        width: 600
-        height: 315
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z
@@ -209,6 +194,19 @@ related:
       - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
         width: 360
         height: 290
+  - title: "What the Future of Self-Driving Cars Actually Looks Like"
+    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
+    publishedDateTime: 2019-12-10T07:34:00Z
+    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
+        width: 700
+        height: 324
   - title: "Ford adding to Austin self-driving car operation"
     excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
     publishedDateTime: 2019-12-11T22:48:00Z
@@ -222,6 +220,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
         width: 700
         height: 465
+  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+    publishedDateTime: 2019-12-13T12:21:00Z
+    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+        width: 700
+        height: 413
   - title: "How AI shifts enterprise decision-making into self-driving mode"
     excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
     publishedDateTime: 2019-12-12T18:47:00Z

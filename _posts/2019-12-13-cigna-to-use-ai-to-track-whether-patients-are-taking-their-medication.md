@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AFFC167FC18C87BA8358C2EBC315A75A
         width: 160
         height: 90
-  - title: "Using a Machine to Help Us Learn About Jupiter’s Aurora"
-    excerpt: "A first usage of principal component analysis on Hubble images of Jupiter’s auroral ovals reveals the most common patterns, and machine learning classification reveals their physical causes. Source: Journal of Geophysical Research: Space Physics A difference image revealing the main features of Jupiter’s aurora, showing the most prevalent ..."
-    publishedDateTime: 2019-12-09T14:21:00Z
-    sourceUrl: https://eos.org/editor-highlights/using-a-machine-to-help-us-learn-about-jupiters-aurora
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6ACAD16D0DC002EAA1942512FB195D45
-        width: 700
-        height: 525
 
 secured: "dthqnqCGAuJeZtW11oak4G9xYWLb1sWsd7HeKYEtKwTb5KjXdzzXD5hrrg8EfHabDeB1WAzi8SQBgtQ8paMy6OWqFT6muPlJOLXsAWqY4iMcRTFuH971FyrqesWu/3kDKn064ypGYBdlh2qenBtW8Fycg/apn208DJW3otRrSWRuBXHOJlV6wAGD/w1f8ieGnb3Fr7tu0kp7jstddpXQgiR/S0aa7iFmi5ry2iCpDU3EAc7Mw02ScR3npXlnDcOMdvnEaqcFytAk5UvSiZG8XA==;RPt0uAlNXwBGjPWxCSWoCg=="
 ---

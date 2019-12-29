@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AFFC167FC18C87BA8358C2EBC315A75A
         width: 160
         height: 90
-  - title: "Using a Machine to Help Us Learn About Jupiter’s Aurora"
-    excerpt: "A first usage of principal component analysis on Hubble images of Jupiter’s auroral ovals reveals the most common patterns, and machine learning classification reveals their physical causes. Source: Journal of Geophysical Research: Space Physics A difference image revealing the main features of Jupiter’s aurora, showing the most prevalent ..."
-    publishedDateTime: 2019-12-09T14:21:00Z
-    sourceUrl: https://eos.org/editor-highlights/using-a-machine-to-help-us-learn-about-jupiters-aurora
-    type: article
-    provider:
-      name: Eos
-      domain: eos.org
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6ACAD16D0DC002EAA1942512FB195D45
-        width: 700
-        height: 525
 
 secured: "fBeyA4m0jlX7PQ3jp9SI1daE+efwB2N8P2EMjOXErEK5WZDTgDt927pvGqITjFW39gvTxMjsUQpxkf78D6CZJfylKBUs/MM9Xv2TdQ6nFUmE0R3nneUa2ZjocAZHQ1eT2qNsdPAQUjWxo7yzMndocSBKjiB3pnGNU/rg5y9ieRYAALl48Vy3wuPEyFrV6IqWioOHm1GxbcDl2MDJfQDXMPd8NhNNrqePXRq9myCPcmFbgne4PaMJVj3OaCtQTuBysbFlATt3OnAdBZFVnH/G+w==;79WLtfxDVJq5fpW2yHCyIQ=="
 ---

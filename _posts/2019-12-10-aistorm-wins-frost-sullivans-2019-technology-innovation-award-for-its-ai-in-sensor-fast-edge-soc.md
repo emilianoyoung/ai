@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T12:00:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/aistorm-wins-frost--sullivans-2019-technology-innovation-award-for-its-ai-in-sensor-fast-edge-soc-300971908.html
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "AIStorm wins Frost & Sullivan's 2019 Technology Innovation Award for its AI-in-Sensor Fast Edge SoC"
 
 related:
-  - title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
-    excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies ..."
-    publishedDateTime: 2019-12-09T14:36:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191209005060/en/AppTek-Wins-2019-Northern-Virginia-Technology-Council
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 26
-    images:
-      - url: https://mms.businesswire.com/media/20191209005060/en/761095/23/AppTek_logo.jpg
-        width: 1200
-        height: 627
   - title: "AppTek Wins 2019 Northern Virginia Technology Council Tech 100 Award"
     excerpt: "and Neural Machine Translation (NMT), today announced that for the second consecutive year, the company is a winner of the 2019 Northern Virginia Technology Council (NVTC) Tech 100 awards. This prestigious award recognizes groundbreaking companies, leaders and innovators within the Greater Washington, D.C. technology community. AppTek utilizes ..."
     publishedDateTime: 2019-12-10T00:06:00Z

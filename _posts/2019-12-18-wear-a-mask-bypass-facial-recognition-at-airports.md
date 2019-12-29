@@ -55,21 +55,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
-    publishedDateTime: 2019-12-22T20:34:00Z
-    sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 172
-    images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
   - title: "75,000 people call on Congress to ban on facial recognition tech"
     excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
     publishedDateTime: 2019-12-16T16:30:00Z
@@ -472,21 +457,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
         width: 700
         height: 393
-  - title: "How China cornered the facial recognition surveillance market"
-    excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing, according to research by the Carnegie Endowment for International Peace. Chinese ..."
-    publishedDateTime: 2019-12-09T14:19:00Z
-    sourceUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance
-    ampUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C03A31EFB775684DED2D08D37CB03171
-        width: 700
-        height: 367
   - title: "Nearly 80% of people in China worry about facial recognition data leaks"
     excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
     publishedDateTime: 2019-12-10T00:19:00Z
@@ -1413,6 +1383,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
+    publishedDateTime: 2019-12-22T21:34:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
+        width: 700
+        height: 367
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1528,19 +1511,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Department of Homeland Security Proposals Fade, But Facial Recognition is Forever"
-    excerpt: "There’s never a dull moment in facial recognition. On Thursday, the Washington Post reported that the Department of Homeland Security (DHS) withdrew a proposal it made earlier this week that would have expanded airport face scans of passengers arriving in or leaving the U.S. to include American citizens. So why the quick turnaround?"
-    publishedDateTime: 2019-12-09T14:49:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2019/12/09/department-of-homeland-security-proposals-fade-but-facial-recognition-is-forever/
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.727CA7EA950A9EA98882B952807946D4
-        width: 620
-        height: 372
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z

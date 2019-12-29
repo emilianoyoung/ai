@@ -162,6 +162,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
         width: 356
         height: 200
+  - title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
+    excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
+    publishedDateTime: 2019-12-29T15:40:00Z
+    sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
+        width: 700
+        height: 350
   - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
     excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
     publishedDateTime: 2019-12-27T12:41:00Z
