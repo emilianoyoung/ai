@@ -1,20 +1,30 @@
 ---
 category: news
-title: "China should step up regulation of artificial intelligence in finance, think tank says"
-excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
-publishedDateTime: 2019-12-22T07:00:00Z
-sourceUrl: https://www.msn.com/en-us/finance/markets/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
+title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
+excerpt: "\"We should not deify artificial intelligence as it could go wrong just like any other technology,\" said the former chief of China's securities regulator, Xiao Gang, who is now a senior researcher at the China Finance 40 Forum. \"The point is how we make sure it is safe for use and include it with proper supervision,\" Xiao told a forum in Qingdao ..."
+publishedDateTime: 2019-12-22T06:35:00Z
+sourceUrl: https://money.usnews.com/investing/news/articles/2019-12-22/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says
 type: article
-quality: 9
-heat: -1
-published: false
+quality: 59
+heat: 69
+published: true
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.A14B8283E703FE82A8791744EC03F329
+    width: 700
+    height: 445
+    title: "China Should Step up Regulation of Artificial Intelligence in Finance, Think Tank Says"
 
 related:
   - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
@@ -32,40 +42,7 @@ related:
       - url: https://www.bing.com/th?id=ON.97331B7269776F2B2C73CE8D888D034D
         width: 457
         height: 305
-  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
-    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading ..."
-    publishedDateTime: 2019-12-23T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
-    ampUrl: https://markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
-  - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
-    excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
-    publishedDateTime: 2019-12-24T00:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
-secured: "SGlhOjOdSebE7DkFkCYcrDVFOX0snhEMOzt7E0JamadrjQDn3J1M3YwLLe46DecsMV6Yg3HYawBx3rCFtibGtS3r0MbGOB1qzY/QqBJGBIoZMd7iEUfAmzqBBRqUjf8OeaeZAp8tCui34tzfjvAwsdny54bmRXbdz4wBjhbyKJkj96N8FhgaPKqQB7swvSw+URtvJEYHoLGiPGeeQPimVTB8RsaTiuIvmeYlHKvXhZHgNZ1Mny1zVh6F8D3Q9DFB15mJx6jxLtuMshv5iGhxnw==;ZLeQoDsUKC0fC4vyrnYM6A=="
+secured: "E2JF9rtfHj8ObJ89P/M7iUBObFs+gIUAtEgkWKcwYgS+JM4CW4tY7Ie3/4Mlg+rOwRQrZkJ/MAyI8wDxvoSkGVoPv+ZNn+4CTHnjOgo6AIi9WP+eguLKLlEL94U4p6kSiDbclFsch+qiD60DgXxc33CV58CI054cBj6ho6YGMtYflRGPHcay5mcHhjKjU1YiBYJSlXm5ieoDRRJN4AvQUjzegjir+yToA0gqnWoM9hxfrR2ToC1NC70jxGgIjzoY4JakZ0TxYx/fHxDIIZUw1Q==;5emQtMxQaq+kpzSpWn0mXw=="
 ---
 

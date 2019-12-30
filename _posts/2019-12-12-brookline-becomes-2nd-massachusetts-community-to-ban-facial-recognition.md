@@ -458,21 +458,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
         width: 700
         height: 393
-  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
-    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
-    publishedDateTime: 2019-12-10T00:19:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
-        width: 700
-        height: 367
   - title: "Brookline Passes Ban On Municipal Use Of Facial Recognition Tech"
     excerpt: "Brookline is now the second town in Massachusetts to ban the municipal use of facial recognition technology. Town Meeting members voted Wednesday night to restrict the town government from using the surveillance, which is currently not regulated by state or federal law. Somerville passed a similar ban earlier this year. The ACLU of ..."
     publishedDateTime: 2019-12-12T15:51:00Z

@@ -17,32 +17,19 @@ topics:
   - AI
 
 related:
-  - title: "This Dubai-based startup helps financial institutions improve customer experience by blending AI with banking"
-    excerpt: "They also highlighted the possible areas where AI and our solution could be applied. We then started co-creating POCs with our mentors, and they also guided us in expanding our solution from a domain and local requirement point of view,” Aditya says. He adds that the startup was selected by around 25 percent of FinTech hive sponsors for ..."
-    publishedDateTime: 2019-12-10T00:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy
-    ampUrl: https://yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/dubai-startup-ai-help-financial-institutions-banks-bankbuddy/amp
+  - title: "Building a home for AI"
+    excerpt: "According to Fletcher, AI training is proving to be much more compute-intensive than traditional HPC workloads that the company is used to, like computational fluid dynamics. “We have people like DeepL [a machine translation service] in our data center that are running tens of racks full of GPU-powered servers; they are running them at 95 ..."
+    publishedDateTime: 2019-12-11T11:26:00Z
+    sourceUrl: https://www.datacenterdynamics.com/analysis/building-home-ai/
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 55
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.97F40836DEAE5458B7C2A3E52920AFAB
+      - url: https://www.bing.com/th?id=ON.7CE4B8B850470F6A6FD0289654081B3D
         width: 700
-        height: 350
-  - title: "Deltec Bank, Bahamas says Artificial Intelligence will Change the Banking Sector"
-    excerpt: "According to Deltec Bank, \"Digital assistants in the banking industry can help customers make better financial decisions.\" Artificial intelligence stands poised to change numerous industries with the way it handles data, but the banking sector might see the most transformative outcomes. Only one-third of financial institutions are using AI ..."
-    publishedDateTime: 2019-12-10T01:30:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14959706/deltec-bank-bahamas-says-artificial-intelligence-will-change-the-banking-sector
-    ampUrl: https://amp.benzinga.com/amp/content/14959706
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14959706
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
+        height: 368
 
 secured: "Kwp5VCbCkoSKJBjx5XpN4DllkYCo/QKpglKUFRkcLz7zZBj3ASdN/m/U9JehRq8xQADAAy+Lpg8Bdkpuj5RiTXWF9/nJIrSbK3Rrg98v0Yo5P8WgJu3CEW5hrqZf05NqhUI8EM8/fvENJEG3sS9Szt9u4/HljEhYC7cWmVUOof+hLSEBi4aQ5+05QMFxellEIY4h+fbcrHjR3I0HNjEi4GCQyEQ4K8a93m6LCiNCEjsYvEt9/3CF2Ejz2XTRe98ITaUkugnfDpjg+vWkaAKnmw==;UCvTc0md8ymynjGHLF5ykg=="
 ---

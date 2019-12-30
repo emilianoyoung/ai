@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -142,32 +142,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
-        width: 700
-        height: 467
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z
@@ -182,6 +156,6 @@ related:
         width: 700
         height: 445
 
-secured: "Ay7f6RIpvhtCt7MaC0vNjsRgXxEMeGMOe76RRACciRArk6hT1BWs3zn9JdkHMfn+08dxeBubCler/+Z2UT+I081zjuTQThQfEiI2/LThPNrIVPfjs391EO23H1GX3RH5C72ijMsP3BWGrom8o1NZRjKmcn6GETm3m8ecNMq7egtTdhiD0yNo4Q7xKvMV0lXPm2eFAYAW6GWZy+E/vncp1lSOD0ptQH9P7dJ0+P7EutSL6je2JOwQoeArW6ORyoiaE2z1CV3M6st+tJOMFx5YGQ==;8ock4MGfyXFO7qNoSw0SzQ=="
+secured: "riTrpm8+tElGg3a3VoW1H6ymCK4/jOJ9xnfjf+HyHuMG9ucxWA5bU8tyXePU2hKgPDTsZHAGCoqHnU0OBLVs7X1RjwQHj9/jAeamGmLSE7CKGmHcQvN4ulAsvSZkgE4JaCDw51RrPdSKAQaY4vwOx8kG+fDi4uwQhFulLaC4cT2yKblmDnAkLWM88HkQ0u0OQSooCFMqczs6M23Mlc8Lp+isf0sHwwZBnsMb/h1+wqwkp7Ic517nGrAzVvGcRSZAYQ7odGF+X9cgV21B8rYzJA==;+mPwGTE+ia3uZWgTWnMnww=="
 ---
 

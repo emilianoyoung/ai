@@ -142,32 +142,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
-        width: 700
-        height: 467
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z

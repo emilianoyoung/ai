@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
         width: 600
         height: 315
+  - title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
+    excerpt: "Globally, the Fintech revolution offers solutions to all manner of issues, and as we see in so many sectors, algorithms and AI can locate data and highlight trends. In doing so, such technologies operate automatically – and therefore can carry out functions much quicker than by human effort – and at a reduced financial cost as technology ..."
+    publishedDateTime: 2019-12-30T00:00:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
+        width: 700
+        height: 589
   - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-25T05:42:00Z

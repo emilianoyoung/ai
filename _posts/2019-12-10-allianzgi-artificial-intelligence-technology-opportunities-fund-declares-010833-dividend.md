@@ -17,15 +17,6 @@ topics:
   - AI
 
 related:
-  - title: "AllianzGI Artificial Intelligence & Technology Opportunities Fund Announces Initial Monthly Distribution"
-    excerpt: "The Board of Trustees of the AllianzGI Artificial Intelligence & Technology Opportunities Fund (the \"Fund\") (NYSE: AIO) announced today that it has declared the Fund's initial monthly distribution of $0.10833 per common share. At the Fund's initial offering price of $20.00 per common share, this monthly distribution rate represents an ..."
-    publishedDateTime: 2019-12-10T00:08:00Z
-    sourceUrl: https://finance.yahoo.com/news/allianzgi-artificial-intelligence-technology-opportunities-210500666.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "AllianzGI Artificial Intelligence & Technology Opportunities Fund Announces Second Partial Exercise of Over-Allotment Option"
     excerpt: "AllianzGI Artificial Intelligence & Technology Opportunities Fund (the \"Fund\") announced today that the underwriters of its initial public offering of common shares, which closed on October 31, 2019, exercised a second partial over-allotment option having purchased an additional 1,500,000 common shares of the Fund. The closing of the second ..."
     publishedDateTime: 2019-12-10T13:49:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.blackenterprise.com/facebook-claims-the-epoch-times-used-art
 cdnAmpUrl: https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/facebook-claims-the-epoch-times-used-artificial-intelligence-to-push-pro-trump-conspiracies/amp/
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: Black Enterprise
@@ -25,6 +25,21 @@ images:
     title: "Facebook Claims The Epoch Times Used Artificial Intelligence to Push Pro-Trump Conspiracies"
 
 related:
+  - title: "Facebook says a pro-Trump media outlet used artificial intelligence to create fake people and push conspiracies"
+    excerpt: "Facebook took down more than 600 accounts tied to the pro-Trump conspiracy website The Epoch Times for using identities created by artificial intelligence to push stories about a variety of topics including impeachment and elections. The network was called “The BL” and was run by Vietnamese users posing as Americans, using fake photos ..."
+    publishedDateTime: 2019-12-30T01:13:00Z
+    sourceUrl: https://www.nbcnews.com/tech/tech-news/facebook-says-pro-trump-media-outlet-used-artificial-intelligence-create-n1105951?cid=public-rss_20191230
+    ampUrl: https://www.nbcnews.com/news/amp/ncna1105951
+    cdnAmpUrl: https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1105951
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 67
+    images:
+      - url: https://media2.s-nbcnews.com/i/newscms/2019_51/2891901/190611-facebook-al-1422_3470d3f8a17421149353fb60aee862d5.jpg
+        width: 2500
+        height: 1667
   - title: "Facebook purges accounts that used AI-generated profile photos"
     excerpt: "Hundreds of political Facebook accounts, groups and pages — and 72 Instagram accounts — have been purged after using fake, AI-generated profile photos to masquerade as Americans, the company announced. Why it matters: This is the first time Facebook has seen “a systemic use\" of AI-generated photos in profile pictures \"to make accounts ..."
     publishedDateTime: 2019-12-28T18:13:00Z

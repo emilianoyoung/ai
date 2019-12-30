@@ -443,21 +443,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
-  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
-    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
-    publishedDateTime: 2019-12-10T00:19:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
-        width: 700
-        height: 367
   - title: "Brookline becomes 2nd Massachusetts community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. “By passing a ban on government use of face surveillance technology, the people of Brookline are standing up in defense of fundamental rights and civil liberties ..."
     publishedDateTime: 2019-12-12T20:08:00Z

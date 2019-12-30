@@ -151,32 +151,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Mercedes and Bosch commence self-driving trials in San Jose"
-    excerpt: "Do you know the way to San Jose? It doesn't matter if you're in a self-driving car. As they previewed earlier this year, Bosch and Mercedes-Benz have commenced trials for an automated ride-hailing service in the Silicon Valley city of San Jose. To start with, autonomous S-Class Mercedes-Benz vehicles (with safety drivers at the wheel ..."
-    publishedDateTime: 2019-12-10T00:09:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-09-mercedes-bosch-san-jose-self-driving-trials.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.68A21DF40D3ECBDDEAB6865A2F35479A
-        width: 700
-        height: 467
-  - title: "Mercedes-Benz working on new ride-share app with self-driving cars"
-    excerpt: "The cars, while automated, won’t be completely driverless. The company said they will be monitored by a safety ... kind of driving situations that occur only very rarely in road traffic,” instead of relying solely on artificial intelligence. CLICK HERE TO GET FOX BUSINESS ON THE GO “We want to know more about how automated vehicles ..."
-    publishedDateTime: 2019-12-10T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/mercedes-benz-working-ride-share-215236234.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "qsakSGeROMsp/HHws4ZZMLDazKT1GriAfN6jHd0k3qFYS+WQBcNn06WzZFWht4bKwRhOPBHr5qvIlM5FhkWRAdWNOiITNC7SHZ7rw9YMKTbRsnM2G4+QpAyM7Out2D25O6ntDQ84nyJiineAJz2zS2XQw9vCEzWcuEr8jJQabyPspibX0jDcWTB4eX6VCH9BK7npuESFryVG/afxvkhv9a56RJI9gBrGOubHC8TwTd7u7SSYnDbOJ6wIIvhVeTzfl4XM/nbydDCT5jfvEUb+4g==;QEAeJinNVc1s8YWlK55+SQ=="
 ---

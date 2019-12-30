@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1DBEEE1F6ACAB124B794E2E7377E122
         width: 700
         height: 363
-  - title: "Predicting disease-associated mutation of metal-binding sites in proteins using a deep learning approach"
-    excerpt: "Here we develop a deep learning approach to successfully predict disease-associated mutations that occur at the metal-binding sites of metalloproteins. We generate energy-based affinity grid maps and physiochemical features of the metal-binding pockets (obtained from different databases as spatial and sequential features) and subsequently ..."
-    publishedDateTime: 2019-12-10T00:39:00Z
-    sourceUrl: https://www.nature.com/articles/s42256-019-0119-z
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.9FB13ACE21C15CAC180DB6F25BFFB336
-        width: 685
-        height: 462
   - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
     excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
     publishedDateTime: 2019-12-12T14:05:00Z

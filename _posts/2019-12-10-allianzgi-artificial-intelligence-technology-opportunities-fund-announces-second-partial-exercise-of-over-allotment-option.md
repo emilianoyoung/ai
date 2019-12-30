@@ -26,15 +26,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 6
-  - title: "AllianzGI Artificial Intelligence & Technology Opportunities Fund Announces Initial Monthly Distribution"
-    excerpt: "The Board of Trustees of the AllianzGI Artificial Intelligence & Technology Opportunities Fund (the \"Fund\") (NYSE: AIO) announced today that it has declared the Fund's initial monthly distribution of $0.10833 per common share. At the Fund's initial offering price of $20.00 per common share, this monthly distribution rate represents an ..."
-    publishedDateTime: 2019-12-10T00:08:00Z
-    sourceUrl: https://finance.yahoo.com/news/allianzgi-artificial-intelligence-technology-opportunities-210500666.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "I25y3w0R2JjwDLnx/VQO0FMo33ekZTPlW26eC43s8yXa6vx4RwgNPQhh5EVO0iZ4N1AwcTB9XsWMVEI6Ryb4IaD/ERj1qWKeg/06gsdCqpJOu8kxloa2q71gaTcCeyOp+sjuWH3Z4kYJAwcWG5P2yVwjgoQ3TK+khH7O7BazuVgpmdQy0Lq4qcV4OVJ89FadyZDhbjG9Xw8Tjt8y7FfehsQES57ZX/HxIzlGiPU4Oy21jn7rF3E51Yz3T8mi4t43AYn+/Tx1H5T7hwUllqHJ6A==;Ky8TKMR7qeU3SGeSkqxicQ=="
 ---
