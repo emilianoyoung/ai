@@ -8,7 +8,7 @@ ampUrl: https://www.albawaba.com/amp/editors-choice/israel-launches-worlds-first
 cdnAmpUrl: https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/israel-launches-worlds-first-employment-agency-run-robots-1328125
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,19 @@ related:
         width: 700
         height: 350
   - title: "Japanese-Israeli partnership launches 'employment agency for robots'"
+    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
+        width: 700
+        height: 457
+  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
     excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
     publishedDateTime: 2019-12-16T15:16:00Z
     sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096

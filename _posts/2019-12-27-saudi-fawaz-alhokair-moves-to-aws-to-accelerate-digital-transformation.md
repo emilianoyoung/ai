@@ -8,7 +8,7 @@ ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163165106/
 cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163165106/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6751C7F90D0B73CE2EAA5596517570D4
         width: 600
         height: 315
+  - title: "Alhokair moves tech infrastructure to Amazon Web Services"
+    excerpt: "The adoption of AWS will also enable the company to enhance warehouse management systems operations with the integration of artificial intelligence and machine learning solutions to reduce costs and bring greater efficiencies, he added. On the AWS collaboration, CIO Mohammed Alenazi, said: \"Cloud adoption is a significant step in our digital ..."
+    publishedDateTime: 2019-12-30T07:19:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Alhokair_moves_tech_infrastructure_to_Amazon_Web_Services-SNG_163381837/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163381837/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163381837/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
 
 secured: "5uPnCmYZI6Wz3wAOpG7DvlR7I416iVdoxSf0oLQmVEbh2cYQXphX4VUVb0KzSoDGbvWrAd6aDKC+fk9M1AmxsHj3jNygTo6I86Wdv9bdgHVyM4MMYweFT1g3jHsCfOjHM1Kw0m0zwtUwm4/nWwHxPSPhf8gkj7zn4WXBBQiMCAe235Cu5tOnXBUt7QhVE32HH4SJwlbN3+VmThTZIT7yfXQ7Xd3G07yi/WubM+1dvj2WlUD9vD/4WQfIk9WzrOI/p9xxUHZFcdKRD9gssi/Q9w==;3B6babMuWmXtHcSclbp/Aw=="
 ---

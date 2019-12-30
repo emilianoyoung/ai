@@ -74,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -114,6 +101,6 @@ related:
         width: 700
         height: 393
 
-secured: "QO/hkBN2nQkyuH6235+VvBKnxHN6d7Fh5aPhaQ14f0FvFjU7A4FRW4i7g/BtxqqQDJs2lYGNQ7g42TooGO/bWvGTEzOX28JNczMMInPYmICAiaeJl86nmtceg5JfH7GYmCOJPq7pUotrFI/LD1s1brJBxXm3si3OBC68rHuyjozxj1/hJlbwzJvikK6DWCt9ECekhOx1ms372xhhDTkutgcmrwTSqwKUYmRrUWBuI1mhaWlzvKPlNLHZX+tvblbFidcz2AQ5wO4j/JoePJaLgA==;/VWn71N0XAwY2yHAbCS+kA=="
+secured: "Yetww5OyNiezbbNnbbuqbKdTQ6EYiulhLAGhS3//tlu2Xuto4zNOAY5xGGXX+EZZLB+p/rfFUpstHSXpSYw10kxuMpDupq7zvPmgRO4TQrEMP+P1KVNE/3U9ZNfFK33KfssfFNVuz4bnaVqkXvafnzz6z1yaGkd2T2rtflkvro5BKOzGPPiig71iWmiTICuEfeFIOZLJPxom5wLL7wf1esa0B1DRu3yBE4gQa37opYubvlh9GT/tRj+I+s+c/KgmcC/JQlmmMn1KXaYp+Sx+1Q==;BcNdzcu9j9QF5Ryy1k4Hlw=="
 ---
 

@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
+  - title: "How Robotics and AI Can Make Recycling Facilities Safer"
+    excerpt: "Two growing technologies, robotics and artificial intelligence (AI), have been entering the industry at a more rapid pace. And one of the companies ensuring that recycling facilities across the nation are installing and operating these technologies in a ..."
+    publishedDateTime: 2019-12-11T15:18:00Z
+    sourceUrl: https://www.waste360.com/fleets-technology/how-robotics-and-ai-can-make-recycling-facilities-safer
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.EF1E6017C4BBE9DEB249195CC21C9849
+        width: 700
+        height: 400
   - title: "The AI community needs to take responsibility for its technology and its actions"
     excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
     publishedDateTime: 2019-12-13T10:57:00Z

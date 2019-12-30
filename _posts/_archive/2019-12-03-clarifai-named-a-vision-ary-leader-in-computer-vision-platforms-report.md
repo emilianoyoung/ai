@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-03T15:19:00Z
 sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 366
     title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 
-secured: "E3KN/ZVs55qVvsE5Z+WfvZHdTrxY4ZkQs3n0yGyHDQU3wJVEVY1+bSLzRWwTYeFhD8GsRJRwR8OrAcNg/nfp+yg5v2WaVXWyzz5Kc3x3hCLgmDWSc8vATaCD8COpgaDb8sT1t8zOEr2Z673jnoF/61J1FQKxt1GloRzXqv+3om+Iz2uo8CthcPOiVCAe6ucSO+L6u7fHMeyqf5/ab+vdDtj1vKH56h/2VUwdCbOvojKHel+eP/IbiX/7D6t81nTV8GRkOZP8scrsXuCi+/Dr5g==;DZEAtnngyFw4duTZMFz1uA=="
+related:
+  - title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
+    excerpt: "The company is focused on driving business solutions for commercial and public sector clients using machine learning to create a full Artificial Intelligence platform with industry-leading computer vision capabilities. Clarifai was described as a Vision ..."
+    publishedDateTime: 2019-12-08T05:18:00Z
+    sourceUrl: https://www.newkerala.com/news/read/260994/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report.html
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 54
+    images:
+      - url: https://www.newkerala.com/news/pics/r/esha_gupta_iansff.jpg
+        width: 500
+        height: 272
+
+secured: "aKCaxPm9g6xFta/BxxCR9XrgUHqOoRu6jc8KE1Ws+VmCCEfyG5hFyu6OUBOZjUfHl8jTc+kWbu/MH6RAUWIqkgg9yE+PDvMq7GZ+ffGw5J3mpcICSeUFRpspXf+bgONvrARkdgp4z2QBtCWdZvOLc1Kdwm1WK8Bdv+667j6iS2Feq9yR7pQ5EgLheKOt6KIob9Y5/LbVAKrwB0eWQtlG3MaR6UKL8gNsvd8GtU1NwZ6HhW9vhmY5N0ZdmkGhuHuj5Aqb53h1NFxs10TSAiNhgA==;Jlq9EXqKjbzk41d5Klm2ig=="
 ---
 

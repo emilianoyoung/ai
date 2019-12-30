@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Breakthrough in 'distributed deep learning'"
-excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for ..."
+excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for product search and similar extreme classification problems. Online shoppers typically string ..."
 publishedDateTime: 2019-12-09T21:41:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
 type: article
@@ -103,6 +103,6 @@ related:
       domain: itproportal.com
     quality: 39
 
-secured: "rt8fS2HHjdhSkbXbyEAwlm6kYH9rv96Nlxrv0XebRZdbuBS7fwYhXA/VQqhYHhcHeyfWziVDJKsuc+/5J8a8mpy6Fk48S6sVAj7m98vMcPI9JIspXYnUphq5Efpcv5XcL62StH0dGumEHwEbE4yz9ATIa+dgCIkNMflqbtjiSZGuNJr60QJwq9rDO36Jy1A2LJqsctro1KhpiEhAMxrI3Aq1G1oFiKhhivXDu5BEH5xXUzrKkSnK/LH3eKUXg8WEqSfAKCXInTq9Va6dsyhH4A==;AJ4ZIHIufgwtguUXgeo3IQ=="
+secured: "Pnu+F5l1lANKFHuYVIe5xg/kMmSDJTvLNzQy8Evu4oj4HdqAGbJNNoWFGJW+qXXYT7HdSU79dtMJzqHixMCEcKCmfnkglZEC9KdQ944Nnc1Iu6BMNWgDU7KE1dNTqfBabhAHJujYxQQr9JT/PaSRWx1NS4uoJZzd9VvikoXRQZul4WYX1msavKLDLUqUCfE/lrY0/aW+SHFeCULyCx15tKNXFZJJxcTHKhrWRIhaz29MHyCgHXy3UvZbCTs4VFd1q4QIkq/GdIfcTwp5ImhOsw==;yaSdqOh3UoYZZ014ZOJ/4w=="
 ---
 

@@ -20,6 +20,21 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
+    excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit."
+    publishedDateTime: 2019-12-06T03:12:00Z
+    sourceUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts
+    ampUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
+    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 59
+    images:
+      - url: https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2019/12/RTX7BWKL.jpg
+        width: 5760
+        height: 3840
   - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be ..."
     publishedDateTime: 2019-12-11T09:55:00Z

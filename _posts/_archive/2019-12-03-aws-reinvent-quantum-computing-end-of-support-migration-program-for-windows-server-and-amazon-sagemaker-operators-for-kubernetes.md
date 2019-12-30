@@ -91,19 +91,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AI is moving too fast, and that’s a good thing"
     excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
     publishedDateTime: 2019-12-03T12:00:00Z
@@ -118,6 +105,6 @@ related:
         width: 700
         height: 393
 
-secured: "sB0inGA+Z1YCHjKAqq+82xQimJ7w030gWE1M2dwid1EIbcuPYhbCbeSvlYZ5C8ibjx+skIF3ef0cu9430ODPlueCBdj7hBZOWhQSpvPhcadHfanrF1ND4ptsTJgY1zec0pxehIUQMqyyqSNGYHMu9Dtz9wawuVwPh5IMyw8fJnFhtOkv1LouB0bZtTCiCG4f3Rj3vpak27ofeO2gGYXMyhTEe24yd7+R7ukobeHzXacYOLTj/UOBGDtLSpNlyDDxduG4UWbIbxWibnDk85QoEg==;yMqR8vwq2lqzTbJvk0p58A=="
+secured: "VAbhcik3Hov5pyLESImZ8wJipetJtBZK9r/EkfubDbzhUl3feRuGhry6jlysRAco25cZYLLht3f2vsbk2urhZYXPj0PS3WKNpcBA8J9UrdTCUJq65N7bzFmtvb/bJkX8jxwPJzidXoi6cmkajRVj+VHYfuTAsglQXtITqbP7nUOsQHsB0jqUdkoCb+UYAl/D7BYzJ/T7rMGyxa9EPsk/Chg1BeKqKsGHk9sMl9t9BJzG30aJoJX0Gby+GHxak53hzpw1YtmU3VPXWeWzgUSxOg==;d1fSJp7rscz5rM7aGFF9Bg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -78,19 +78,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -118,6 +105,6 @@ related:
         width: 700
         height: 393
 
-secured: "KtBAgEPEfu+51HtEi95Z0ObMrrQzA2HAVbkz+wWzyys0+pzLgOF0chm+uuwl7H3kbgJMFgEyZrKi4f/pFTNXXcyDOkFPrisd14HH/fC9xicUZScd4Wmc+2VK0IqgXNqF/0OVKp2bIb37+41pIKnRqE3iB4bYAU7GvlERvhJGJknPujMLW66Y5OehpepoWG4yC8CqNHJh0rOJMP8QM9Y+w+qwVvtJ30Mwuqv/0WIoq3wosvNSg5c+oWJyamue2LRfAY+AJCOuh4XjjK3lNFI+GQ==;63/xtpT5avgnunrwOc52rA=="
+secured: "a3E6jzpSG9mT0iXCGMNj3LqXFOzW/fEiJHq7U7yNBsEGZ956tU3zTzn6T8cvy7A7ABGydMiEt/Ev9uc5zrRPHnbCqnNSMaVIzEomA7HhLkWGzQdEJHL18DNQ2ffbTWdlmCtIQgCkdTMnQFCUXGMjCsSTt/EABqMrNhzN8vpDd/Ir5v0FRv4G0HRqCUxzrtiWU08BYcRQw39hPado/i0bcwlwO0/GyVj4MUf8FvtFRe5YQJo07g80IhFtiDb2neR2tsSj7TiPqdyX0agQx57E3A==;gn+9Nj0NE6bizM1TeLj8fg=="
 ---
 

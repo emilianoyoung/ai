@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
         width: 700
         height: 457
+  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
+    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
+        width: 700
+        height: 457
 
 secured: "UPWkpO2TVakvSa0+PcZZFy4wDYfr3gnEyZinlalKEfMy3zAYfq1e4B2nk1lOs3mqvdEWfTW0PkS8sfhMleEtRSh3pqumKi/+sgkmEC+Tt9xgT/p4D/GGeZL0mnQYN76PLtSAx8n5/taRX+hAEKR3p7ni4m6NaV8tZ0C5eE5amVOztYFtwftq3R+nAVxbum2N4s7vCb3We5ibs8UJPGBWOQdvbhweSCElox/oFSbkofiZOkIljsPeeeiI8facGHWRUCnR0DhYo4S0f/9sjeW4TQ==;JhPmqgz+UyUaF45gUfo+eg=="
 ---

@@ -22,6 +22,17 @@ images:
     height: 315
     title: "AI finding role as matchmaker, raising success rate of 'konkatsu'"
 
+related:
+  - title: "AI finding role as matchmaker"
+    excerpt: "Artificial intelligence and other cutting-edge technologies are starting to play a matchmaking role as they find their ways into people's lives in Japan. AI devices are being employed to give people a picture of their potential mates along with everything about them -- their hobbies, whether or not they smoke, or if they have walked down the ..."
+    publishedDateTime: 2019-12-30T07:10:00Z
+    sourceUrl: https://japantoday.com/category/tech/feature-ai-finding-role-as-matchmaker-raising-success-rate-of-konkatsu
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 17
+
 secured: "8+M5EuT0qzzWy3NxJ2EtD46ihN3+kKl5j9CpwnIa+xItowiHJRx9YKZ4b4cxR9ogexELm8MGjGaQMgf5wXK2KO10r+jTgsnd+tfO+oDbgLHrhYVnAzvYn8npKuaoPdso+zR+h95qPS/ziPZuBB/yh/KSdLWYnYaCBW47/hQ9rHJY9qOurNl45/wl6FLN0Usw7PHklfzuGm/xggR4eIIgyanLbyoTpnWsm06IWEf95hjg0NyLDb2s3ksquL5Qc9Ku0+oAeHPGDpljecUFeizfkA==;p8LJeWYQwT6YCuTCvcUFhw=="
 ---
 

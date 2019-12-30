@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T09:55:00Z
 sourceUrl: https://technology.inquirer.net/93201/spacex-delivers-mighty-mice-worms-robot-to-space-station
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
 
 related:
+  - title: "Emotion-sensing Robot Heads to Space Station to Help Astronauts"
+    excerpt: "WASHINGTON - An intelligent robot equipped with emotion-sensing voice detectors was headed to the International Space Station after launching from Florida on Thursday, becoming the latest artificial intelligence-powered astronaut workmate in orbit."
+    publishedDateTime: 2019-12-06T03:12:00Z
+    sourceUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts
+    ampUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
+    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 59
+    images:
+      - url: https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2019/12/RTX7BWKL.jpg
+        width: 5760
+        height: 3840
   - title: "SpaceX Dragon docks with space station, delivering 'mighty mice' and a space robot"
     excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
     publishedDateTime: 2019-12-10T10:02:00Z
