@@ -2,27 +2,27 @@
 category: news
 title: "As robots take over warehousing, workers pushed to adapt"
 excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-30T05:24:00Z
-sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+publishedDateTime: 2019-12-30T08:04:00Z
+sourceUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html
+ampUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
+cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
-    width: 700
-    height: 393
+  - url: https://www.bing.com/th?id=ON.B020247EEEB8E54C2738AEDAEF3C67CC
+    width: 150
+    height: 100
     title: "As robots take over warehousing, workers pushed to adapt"
 
 related:
@@ -68,6 +68,6 @@ related:
       domain: spokesman.com
     quality: 39
 
-secured: "eV5+w3a5jzF8ZlrndHG70lFlaWnZqOr2zFHZ50DoISSQVWVrWv3d63Uv7B0fedkmDePcN/3CtAZ8QA6HFWXy2/TcKyKjz2XysWSoXnjlPCuuWpHgy9TPvx1X1jAB0ccfYD4X12eiN4x3mLo7tkiVtgnJ4CqjQhF2fLtJV0HSuwlAYxgJ3WKf29f2JVDIerwWGsPloSWmtEcZA/AFNQ33dCaCWYtpUKVLV/iDNCbPDJ6NKyL8TA6wT0878Ovw7dAw/Ne1nXcB16YMkEFQsC/ZEQ==;Rq3X2xt3EW00xADEhUnS0A=="
+secured: "nqUpjjROQRTN80uSNMnzNb2xeXrTg8dQGlowmnzrw81vhXdc4eDwyShVBrzfaGltcfEnkYHgfqH7YJObI9Kckuiwy28ahMWqG26dLrHbzjO2DMvds+VWJ/LDBEHQgHa0VeVvTojmTn7XkbOukkeN8VMaLJYTH+0D2greT/fea1dZxJ25yKEo1CUXr53T+494JJl+yESvzj/Sw3dn4PqGn9N646WAsGmTvxv1+5WvoiTJrCRqbYAi8gHqfCAv1oa3akz4pEOwDz6SIQmkRdooRg==;pT+XvKrFVg4+srxkKHVxMQ=="
 ---
 

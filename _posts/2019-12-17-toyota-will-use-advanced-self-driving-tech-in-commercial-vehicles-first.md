@@ -275,19 +275,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
         width: 620
         height: 251
-  - title: "Plus.ai Completes First Cross-Country Commercial Freight Run by a Self-Driving Truck in Record Three Days"
-    excerpt: "CUPERTINO, Calif.--(BUSINESS WIRE)--Plus.ai (www.plus.ai), a leading provider of self-driving trucking technology, today announced that it has completed the first coast-to-coast commercial freight run with an autonomous truck on behalf of Land O’Lakes, Inc. Spanning 2,800 miles, Plus.ai’s L4 autonomous truck completed the hub-to-hub trip ..."
-    publishedDateTime: 2019-12-10T13:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005309/en/
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
-        width: 1200
-        height: 627
   - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
     excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
     publishedDateTime: 2019-12-10T18:56:00Z

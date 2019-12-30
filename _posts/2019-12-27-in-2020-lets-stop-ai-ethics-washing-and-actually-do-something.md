@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
         width: 700
         height: 490
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
   - title: "Play this bingo game with your kids to teach them about AI"
     excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
     publishedDateTime: 2019-12-27T12:11:00Z

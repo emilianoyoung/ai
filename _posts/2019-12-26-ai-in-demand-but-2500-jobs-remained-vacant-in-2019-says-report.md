@@ -143,6 +143,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
         width: 700
         height: 393
+  - title: "Use of facial recognition in New Delhi rally sparks privacy fears"
+    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
+    publishedDateTime: 2019-12-30T13:50:00Z
+    sourceUrl: https://www.dawn.com/news/1525267
+    ampUrl: https://www.dawn.com/news/amp/1525267
+    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1525267
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
+        width: 700
+        height: 420
   - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
     excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
     publishedDateTime: 2019-12-27T18:45:00Z

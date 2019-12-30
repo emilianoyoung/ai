@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E99831D08856D6182B7A37B0A6A79EBD
         width: 700
         height: 466
-  - title: "VA Launches AI Institute Aimed at Helping Veterans"
-    excerpt: "The Department of Veterans Affairs has launched an artificial-intelligence institute to research and develop AI systems that improve the health and well-being of veterans."
-    publishedDateTime: 2019-12-10T12:19:00Z
-    sourceUrl: https://www.wsj.com/articles/va-launches-ai-institute-aimed-at-helping-veterans-11575973804
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.EF0024293FB033BB184F890CD82B013F
-        width: 700
-        height: 405
   - title: "Partners HealthCare launching $100 million digital health initiative"
     excerpt: "The initiative also includes a renewed focus on artificial intelligence and data analytics. Erskine said his team is budgeting $100 million for the first 18 months of the project and will seek more funding as needed. Partners, the largest health care provider in Massachusetts, is the parent of a dozen hospitals including Massachusetts General ..."
     publishedDateTime: 2019-12-12T17:46:00Z

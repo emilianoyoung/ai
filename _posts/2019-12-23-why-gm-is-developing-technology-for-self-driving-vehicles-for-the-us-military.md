@@ -110,6 +110,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
+  - title: "Beijing adds area for self-driving vehicle tests with passengers"
+    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
+    publishedDateTime: 2019-12-30T13:44:16Z
+    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
+    type: article
+    provider:
+      name: N.C.N. Limited on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
+        width: 600
+        height: 315
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
     publishedDateTime: 2019-12-19T00:19:00Z

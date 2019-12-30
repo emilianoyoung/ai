@@ -1478,17 +1478,6 @@ related:
       - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
         width: 870
         height: 580
-  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T12:53:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
   - title: "Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:57:00Z

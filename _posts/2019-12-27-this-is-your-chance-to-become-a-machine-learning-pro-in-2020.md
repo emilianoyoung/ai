@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-p
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "This is your chance to become a machine learning pro in 2020"
 
 related:
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
   - title: "In 2020, let’s stop AI ethics-washing and actually do something"
     excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
     publishedDateTime: 2019-12-27T10:07:00Z

@@ -1489,17 +1489,6 @@ related:
       - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
         width: 870
         height: 580
-  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T12:53:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
   - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
     excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
     publishedDateTime: 2019-12-20T21:17:00Z

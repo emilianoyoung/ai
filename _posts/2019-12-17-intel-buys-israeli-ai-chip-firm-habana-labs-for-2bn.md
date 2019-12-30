@@ -456,6 +456,17 @@ related:
       - url: https://www.bing.com/th?id=ON.739097A0A6F7F29656C58B1FE4F38D34
         width: 700
         height: 389
+  - title: "Waymo acquires AI startup Latent Logic"
+    excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
+    publishedDateTime: 2019-12-16T13:23:00Z
+    sourceUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    type: article
+    provider:
+      name: Leftlane
+      domain: leftlanenews.com
+    quality: 54
   - title: "Intel is doing so well at AI acceleration, it's dropped $2bn on another neural-net chip upstart (third time's a charm)"
     excerpt: "Devs face a choice: Go all in with a single cloud giant's toolset – or bring together best tools from a bunch of vendors Intel has snapped up AI accelerator chip designer Habana Labs for a hefty $2bn to bolster its efforts in bringing Chipzilla-flavored machine-learning tech to cloud platforms and big biz. The microprocessor giant is hell ..."
     publishedDateTime: 2019-12-17T07:43:00Z

@@ -288,19 +288,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
         width: 700
         height: 525
-  - title: "Plus.ai Completes First Cross-Country Commercial Freight Run by a Self-Driving Truck in Record Three Days"
-    excerpt: "CUPERTINO, Calif.--(BUSINESS WIRE)--Plus.ai (www.plus.ai), a leading provider of self-driving trucking technology, today announced that it has completed the first coast-to-coast commercial freight run with an autonomous truck on behalf of Land O’Lakes, Inc. Spanning 2,800 miles, Plus.ai’s L4 autonomous truck completed the hub-to-hub trip ..."
-    publishedDateTime: 2019-12-10T13:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191210005309/en/
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 22
-    images:
-      - url: https://mms.businesswire.com/media/20191210005309/en/761688/23/Plus.ai_logo.jpg
-        width: 1200
-        height: 627
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
     publishedDateTime: 2019-12-14T03:33:00Z

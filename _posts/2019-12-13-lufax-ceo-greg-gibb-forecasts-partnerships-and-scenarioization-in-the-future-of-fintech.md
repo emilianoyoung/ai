@@ -108,19 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
         width: 700
         height: 466
-  - title: "What will be the growth rate of the Global Deep Learning Market by 2024"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare, Agriculture) and Region - Forecast till 2023 The global deep learning market is expected to expand at ..."
-    publishedDateTime: 2019-12-10T12:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/what-will-be-the-growth-rate-of-the-global-deep-learning-market-by-2024-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
     excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
     publishedDateTime: 2019-12-12T18:37:00Z
@@ -450,19 +437,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-55536-6/MediaObjects/41598_2019_55536_Fig1_HTML.png
         width: 685
         height: 283
-  - title: "This Week in Washington IP: Copyright Office Oversight, Medicare Drug Price Negotiation Bill and the Impacts of AI on Consumers and Labor Markets"
-    excerpt: "co-hosting an event on spreading the location of tech innovation hubs with the Information Technology and Innovation Foundation and presenting other programs on the impacts of fintech on brokered deposits and AI tech issues related to consumers and labor ..."
-    publishedDateTime: 2019-12-10T12:34:00Z
-    sourceUrl: https://www.ipwatchdog.com/2019/12/10/week-washington-ip-copyright-office-oversight-medicare-drug-price-negotiation-bill-impacts-ai-consumers-labor-markets/id=116878/
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.06202E15B7EDEA865832A9F56A7BE046
-        width: 335
-        height: 223
 
 secured: "xgDt372BMJKLd40IU3HtlTlJuTl/m2XEKjE0f/S0KRAqT4h206u2KBOXRZ8RB/crNXIVS+Kz8jXpZT9eBx45yyPq84YaXfqfdIsvgRLPKTVq6eMMj8Aq3QKeVUYhi9WBLYTM/+951h/G+E4M/SjzsoIt3+6EkgiBqcjXIAEdifEbQd/qB2Juw8Wv0QQP8/9HOupslHHRLwxV0dLphu28eEhTkUpc0oSOpiEVuzgZVn6UPsnoICC7LaftMoWkuo0EvuiFHSHVMPRHoEhhrt9uUA==;pMYrfBP8J5jnesgruLR7PA=="
 ---

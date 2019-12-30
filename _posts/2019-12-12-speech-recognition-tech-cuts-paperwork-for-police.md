@@ -192,19 +192,6 @@ related:
       name: Democrat and Chronicle
       domain: democratandchronicle.com
     quality: 54
-  - title: "Voice Recognition Market : Key Facts and Forecast Predictions Presented Until 2025"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. The major factors driving the growth are rising need for Voice Recognition worldwide, aim to enhance security in ..."
-    publishedDateTime: 2019-12-10T12:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

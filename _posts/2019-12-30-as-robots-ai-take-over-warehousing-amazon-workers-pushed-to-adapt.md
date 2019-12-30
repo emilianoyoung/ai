@@ -43,19 +43,19 @@ related:
         height: 393
   - title: "As robots take over warehousing, workers pushed to adapt"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-    publishedDateTime: 2019-12-30T05:24:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+    publishedDateTime: 2019-12-30T08:04:00Z
+    sourceUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html
+    ampUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
     type: article
     provider:
-      name: ABC
-      domain: go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.B020247EEEB8E54C2738AEDAEF3C67CC
+        width: 150
+        height: 100
   - title: "Proliferation of robots tests warehouse workers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T06:32:00Z

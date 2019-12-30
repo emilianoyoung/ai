@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T06:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
 type: article
 quality: 71
-heat: 221
+heat: 211
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Construction Market 2023 Research, market growth, demand, value, share"
-    excerpt: "Artificial intelligence is used to sort and respond a plethora of information ... On the basis of technology, the market is segregated into neural networks, machine learning & deep learning, and natural learning programming (NLP). Additionally, on the basis of deployment, the market is bifurcated into on-cloud and on-premise."
-    publishedDateTime: 2019-12-10T12:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-2023-research-market-growth-demand-value-share-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

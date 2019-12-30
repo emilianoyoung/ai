@@ -18,19 +18,28 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- AI in Social Media Market Research Report, by Technology (Deep Learning ... Key players Some prominent players in the AI Social Media market are Google (US), Facebook (US), AWS (US), IBM (US), Adobe Systems (US), Baidu (China), Salesforce (US), Twitter (US) and Snap (US). Other emerging players in the AI ..."
-    publishedDateTime: 2019-12-10T12:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-2023-competition-status-and-forecast-market-by-players-regions-2019-12-10
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in ..."
+    publishedDateTime: 2019-12-05T11:36:00Z
+    sourceUrl: https://www.prnewswire.co.uk/news-releases/global-artificial-intelligence-ai-in-agriculture-market-to-reach-2-015-7-million-by-2024-830965977.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=facebook
+        width: 1447
+        height: 757
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The \"Artificial Intelligence (AI) Market in Agriculture - Growth, Trends, and Forecast (2019 - 2024)\" report has been added to ResearchAndMarkets.com's offering. Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    publishedDateTime: 2019-12-02T13:15:00Z
+    sourceUrl: https://www.yahoo.com/news/global-artificial-intelligence-ai-agriculture-131500404.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 13
 
 secured: "XCNkNz+if7vl1oYBnGoXnljymg0J2BpZ1u0Z/DXY2MJLMAsvEBXmDrLN4LHw9pyALtahmNQYOblgbuK45cqa0DOne479oABR3apR68w7p7A0RKEPrfFju1VYOERgMNlLO8wTAtvuZuiKEcO75AFWdSHql8ieIYVl3A0e2ZdjQknBKswVCY6w3+Soc0h/kPpPWrX6vOg02mets3DhW3tEgI9bW38IgDq4SGFnJh3rzk+2+NuP8itP+5iXSA6XnViglp8Hvv+WnO3wPctKbt9twA==;erSrt02IRKewAIUX0+vmgw=="
 ---
