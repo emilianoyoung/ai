@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon targets devs and scientists with new machine learning IDE"
-excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
+excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming ..."
 publishedDateTime: 2019-12-04T14:52:00Z
 sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
 ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
@@ -87,6 +87,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "l59x+L0OX68OCmckBWEXmxWLGrrrUu0qly2YQQ5PdhmHnSH+3pKUn/Dw5QIcfyA7Gy3k9kX6cdAOVd+kFZrjtSfYUmJfXKzNU377wNkyXvMmbCq2y/zsqyh75jOGr4HQwXlzpq8I17yJ+ic6D/GSfZ4IWy3CQyZFMCpXz0mmFr4a9Yekm9RUs6R/xrgzgYOmu2Reo4WHDuhHbwb7j9QfhIrMUaj0GY1p8bELYB1sjLCS1hxUlFRRk3VXtY9wlleyWy5j07/bzwNZMHzoXxzCZw==;RHDDKhhEJQCsB0utxjQ4pw=="
+secured: "+37XreXlm4hUGwHCugpsiwpORUxpJXhDqXbH7E7r4sVEznpziWvfm4pZ7SbOUof//tELq2EZkbuo5C/G5Wl1O4j3jeSNqTqqeB14yX0BjB0aMIHMnEH5T5g6uxIPZ9iSDRZ9/GCRrzSZcxNE+4tAzRGj0zzG8Ah7Den94VGVI86/8a1Lm8mVM9S7unAL/hCh1fpp84o6uGzN+GEGTEneyxlpPenrSrJq7n65t2JKwhw+b6/PcogKZABmVYwlreHZUZzT+XndqldyHHQ+o3T5Wg==;YvBE/rlnbtGcigkPMxXnbg=="
 ---
 

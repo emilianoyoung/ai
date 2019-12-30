@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 84
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Microsoft AI
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -52,7 +51,7 @@ related:
       domain: techcrunch.com
     quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -104,6 +103,6 @@ related:
         width: 720
         height: 335
 
-secured: "WxPkxll5alvbpzchVmwfRJ7AVokOq4zoc3MEN08EOoEQcG/i7CSRBe+Firyo6sO+B7Qn/Ed5jq8ZfjZMZccbrpylpAy8gqIrUp+QjmTjwedA9Dis/I7Qff0Z9EwaqI0+FY3nSXpVKmvSnaiaI4pjU1tYN57trkwenr/5of+S81E7lLADd+l8RaRi2m0IkvxT9VS+0Vlp8+PWqRHda0naEYTxV/ZH8Kg8ALC/Nvwh3w2Ir49vOJ6yavKUkEhCd3OIbQ6LvJk8kXi92EVCw2pbhg==;gI70Mcm71cvmRU7f8tEyow=="
+secured: "6dwkotp9ldJf96RpQJ0daM1PZEtRqq3r7TidB0eRdxq3u0iapgIHUdm9N//4weev+YuKA8hRTS/QhBThdhcBTi9V3+3YukluD/QbNWc3Sm6KwSK+XFbiccWxD5S8lGbVOt89tPioxh7Ph0Vf+dIUKu9CuC8ii0/dknue2mSBhblqH7A+2gaHj1hFsU/G2orSh3teHNTM2eD5Fke0qv0umnaX4WBjk0zFY07pp1i+iLKkMdsHeLSOOslsfRWFtpLPciR7NU7LQmEdxWLoeQDLZw==;kyaRNB7qT8MEuHPKwLK1iw=="
 ---
 

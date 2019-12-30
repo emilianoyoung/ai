@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfake
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
 type: article
 quality: 100
-heat: 220
+heat: 250
 published: true
 
 provider:
@@ -119,6 +119,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
         width: 700
         height: 367
+  - title: "Privacy fears as India police use facial recognition at rally"
+    excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
+    publishedDateTime: 2019-12-30T12:29:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
+        width: 700
+        height: 393
   - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
     excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
     publishedDateTime: 2019-12-26T11:29:00Z
@@ -162,6 +177,28 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-25T08:47:00Z
+    sourceUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.html
+    ampUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
+    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 39
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:36:00Z
+    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+    ampUrl: https://amp.usatoday.com/amp/2755613001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
   - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
     excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
     publishedDateTime: 2019-12-24T06:30:00Z

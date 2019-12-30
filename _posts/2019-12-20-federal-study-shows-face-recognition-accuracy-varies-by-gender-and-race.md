@@ -1001,19 +1001,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Homeland Security announces easing of facial recognition rule"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s ..."
-    publishedDateTime: 2019-12-10T11:11:00Z
-    sourceUrl: https://www.rollcall.com/news/homeland-security-announces-easing-facial-recognition-rule
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CF0CCB078E34C7EEE9E046764DA75775
-        width: 700
-        height: 365
   - title: "Police use of automated facial recognition technology lawful"
     excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
     publishedDateTime: 2019-12-10T23:01:00Z
@@ -1653,6 +1640,15 @@ related:
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-21T00:30:00Z
     sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the ..."
+    publishedDateTime: 2019-12-23T00:21:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
     type: article
     provider:
       name: YAHOO!

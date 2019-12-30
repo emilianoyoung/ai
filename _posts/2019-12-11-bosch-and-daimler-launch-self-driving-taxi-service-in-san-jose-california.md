@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
+  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
+    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
+    publishedDateTime: 2019-12-11T20:40:00Z
+    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
+        width: 700
+        height: 350
   - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
     excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
     publishedDateTime: 2019-12-11T14:02:13Z

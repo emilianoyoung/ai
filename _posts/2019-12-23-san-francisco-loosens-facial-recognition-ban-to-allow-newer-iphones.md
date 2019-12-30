@@ -1,19 +1,17 @@
 ---
 category: news
-title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
-excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-publishedDateTime: 2019-12-10T12:53:00Z
-sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the ..."
+publishedDateTime: 2019-12-23T00:21:00Z
+sourceUrl: https://www.yahoo.com/now/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
 type: article
-quality: 27
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -1003,19 +1001,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Homeland Security announces easing of facial recognition rule"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s ..."
-    publishedDateTime: 2019-12-10T11:11:00Z
-    sourceUrl: https://www.rollcall.com/news/homeland-security-announces-easing-facial-recognition-rule
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CF0CCB078E34C7EEE9E046764DA75775
-        width: 700
-        height: 365
   - title: "Police use of automated facial recognition technology lawful"
     excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
     publishedDateTime: 2019-12-10T23:01:00Z
@@ -1496,6 +1481,17 @@ related:
       - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
         width: 870
         height: 580
+  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
+    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
+    publishedDateTime: 2019-12-10T12:53:00Z
+    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
+    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
   - title: "Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:57:00Z
@@ -1686,6 +1682,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "Ul33DZhznpubHS5EWX80LHoG4VxTBSl0+UsV745aSUau/ylYQ0C0ACwyBqeWyu8Ah1Grx2WgJ6LwAIIq4w7b4LpGR9cbMLfjQkWLpFXXiflDooF0NN7CKPupffVmAXBXRHKLKz6mBUW6c/8hca54V8KFKTqUWi092dXftvhhpoD0lQWpuqOXH9ngv8n8GYFpq4CCLlzKsGbauiEsumLkCXkpKtV6gVtia2zl6Paj8UrTFFWO1B/IkKV71dlVlrCUEM48AWF8yHBxwRZcwYwNvQ==;5tURu7ld2AvhrXBUNbi7Qg=="
+secured: "VrJt2BuL423VPNqZrZN8ULaDXD81gfxf+ouXEe26nz9+VlOyIbY2at/NGw8U1uYcV/bJbaLHG7S2qcy40l6Iw0dNzebJNR5X1rHuwnP1Aecv85iRxYXq9S2fUlqfJUx7P02IFl+PJ41bFpHDmsjmVB5aVIEvOkO8PIQEO8jsNNZPKqKFV3s0fsQLt9qYmPVEc+TCxQg64GdJbtuTaEcKRyFVp4RZV6wKbC5LzXgDgadJ5uEstVAb3V/tuf2WZc1JvP1yYJntD0ce53AyCNamqw==;WLL+KE3fFMvdtU2ygvv3CA=="
 ---
 

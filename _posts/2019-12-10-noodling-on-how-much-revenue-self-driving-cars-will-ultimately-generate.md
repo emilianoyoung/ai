@@ -31,8 +31,8 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "Overall, driverless cars to-date are akin to a novice teenage driver that is timid ... As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans, presumably you will need a similar ..."
-    publishedDateTime: 2019-12-08T15:57:00Z
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
+    publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
     cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -42,9 +42,9 @@ related:
       domain: forbes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
-        width: 600
-        height: 315
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
   - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
     excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
     publishedDateTime: 2019-12-12T16:00:00Z
@@ -129,19 +129,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
-        width: 700
-        height: 350
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z

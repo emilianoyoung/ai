@@ -8,8 +8,8 @@ ampUrl: https://www.itproportal.com/amp/features/cio-outlook-2020-building-an-ex
 cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/cio-outlook-2020-building-an-explainable-ai-strategy-for-your-company/
 type: article
 quality: 57
-heat: 67
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro Portal
@@ -25,19 +25,21 @@ images:
     title: "CIO outlook 2020: Building an explainable AI strategy for your company"
 
 related:
-  - title: "Does the Pentagon have a coherent strategy for AI?"
-    excerpt: "The stakes, as outlined by both CNAS and RAND, are straightforward: if the United States fails to take a lead in AI, and through that lead establish norms and ethics that maintain a global order of security hinged around the durability of American military supremacy, then rivals will instead reap the benefits. Kelsey Atherton blogs about ..."
-    publishedDateTime: 2019-12-20T00:04:00Z
-    sourceUrl: https://www.defensenews.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
+  - title: "Explainable AI: The Rising Role Of Knowledge Scientists"
+    excerpt: "But as the technology becomes a part of our daily lives, many people are still skeptical. Their main concern is that many AI solutions work like black boxes and seem to magically generate insights without explanation. At the same time, knowledge graphs have been recognized by many industries as an efficient approach to data governance ..."
+    publishedDateTime: 2019-12-30T12:05:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/30/explainable-ai-the-rising-role-of-knowledge-scientists/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/30/explainable-ai-the-rising-role-of-knowledge-scientists/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/30/explainable-ai-the-rising-role-of-knowledge-scientists/amp/
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.4545314F6ED23BDBA1F166B45CBA7882
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.737FD08202C36F9B37B5D77BF5B86E9B
+        width: 600
+        height: 315
 
 secured: "5+1fz1kqk1xI7RBTu3Yr6GFPvVai8eana+mpZBuhI17F+Sl2d+MpttU/2BzNzz/4o5EjZJzw8CeQF0Y3VwJG50GnllZpz96g9FSE9QVbpNVkF6mIUIH55rj6EIUtT1C2PeT43zkuHNcR3rUODuCGCGu4DZFkUO8wJi+nDNXx7SZlBaFl1VzOB3XhVXoWDOE0jqD7chDis5bAYx9dLSZ2WdOmm+IwPrdgVsHyvaIfpbR49XcyRp7pIGg1TzVk5Bgq7flmJIMOKoNmc0+UlPQ5Jw==;m93S6vc6zAMviqQxXjHsLA=="
 ---

@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Artificial Intelligence in Social Media Market Share, Size, 2023 Competition, Status and Forecast, Market by Players, Regions"
 
+related:
+  - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
+    excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report “Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
+    publishedDateTime: 2019-12-11T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-ai-supply-chain-115931747.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 9
+
 secured: "jgPsMWIj94kDEV3+HLWsKAxL38LLuT2x6bH/2+1vjFuKY7FspzqzSjRHD+xATOqTASvqUjKpVCUjQHWreZYu/+faZYP96xtAivTEqf6OotdMqgHMIoxMMi8UFYdp0jbb71zhosRipD1muaqzTpAYwNR6+BB0o/U6lx8bo6zJWXkJrnQM0eUVwqdRsAPBe+asvRGf7SpFZtmMdXvy/jm26IJu+OAk6YsmOY1m80aGbAlfv3hhhKZOTT5vLCHICclFWK+iY01KIp2qse2muGjXlw==;h6B3nyytFoThKPqBamFg5w=="
 ---
 

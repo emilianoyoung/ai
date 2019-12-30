@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T08:51:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-agriculture-market-growth-hampering-due-to-high-cost-of-systems-and-services-2019-12-13
 type: article
 quality: 60
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
-    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
-    publishedDateTime: 2019-12-10T11:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 12
   - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
     excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
     publishedDateTime: 2019-12-13T12:24:00Z

@@ -32,12 +32,25 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 41
+    quality: 39
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
+  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
+    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
+    publishedDateTime: 2019-12-02T10:58:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
+    type: article
+    provider:
+      name: FierceHealthcare
+      domain: fiercehealthcare.com
+    quality: 30
+    images:
+      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
+        width: 4432
+        height: 2955
 
-secured: "OP+Y98idSDSG0/Btoevds+iCRwCJJFkjsa5CAs6yoBpnwyM4ukH6oLjOtV344Nu29UFu8TUMSmnl+xDaFcIhDRrONjt3kLMNrVW34rOJNiKtTrjbeYLLiYzMJ7NBNiCNK57WdvwBBTbT2b+Wk94e7r8KkSb0yDJjC+4qv2uf6NeZUgO7JAOoDl0ZR6fwP4cBYwPIGpRGyNEQnm1/1YWjNbfjeioKx/p2FXNluvOe+t7Ki4gqA9Fg3ktCs4six+9H1UeIPHJdDnsIA2BNc1BnQQ==;iBDfCt1/OajSVAlzkznI1g=="
+secured: "tIhm0c6NIhE7WcGoGP4/bh3dpd20MCp6ruRY13bUh9W3cLyMBLJa0R9j12Up2srrqErcqABPnkogmtvjcvI6cVsfjlCJ6uM7mtV90eUI/X8PQTBmifjLNLOzAWK98kX+Fw9rihTmjV5xrWP+ZzfBe6XyPepFmbq2GtS2eRguhNXfnXsRaIdBiKtCMMyPVk7XeC44t+wryV8o4MMiEvelRYVzRG5/hwuQ/ebsZrFqInF84YTSNfjZVUPmuL1msYIhxd3EoT+0JB7QsM44Qofliw==;7uSHLvoIH16ChRh2ROOnow=="
 ---
 

@@ -78,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
         width: 700
         height: 418
+  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
+    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
+    publishedDateTime: 2019-12-11T20:40:00Z
+    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
+        width: 700
+        height: 350
   - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
     excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
     publishedDateTime: 2019-12-11T19:00:00Z

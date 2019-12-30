@@ -67,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.508BBB583EBD50C6ADF7CA157100ECF2
         width: 700
         height: 350
-  - title: "Fintech OS to expand to US and Asia on £10.7 million fund raise"
-    excerpt: "Fintech OS, a provider of open source, pre-built apps for digital banking operations ... of-the-box - from social and contextual to cloud and enterprise systems - and more than 20 automated financial processes for AI-enabled areas like KYC, Customer 360, pricing or risk analytics. Banks and insurance companies can also access a marketplace ..."
-    publishedDateTime: 2019-12-10T11:55:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34936/fintech-os-to-expand-to-us-and-asia-on-107-million-fund-raise
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/data_04.jpg
-        width: 480
-        height: 270
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
     publishedDateTime: 2019-12-16T18:09:00Z
