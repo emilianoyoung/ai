@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-a
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2019/12/12/putting-the-art-in-artificial-intelligence-a-conversation-with-sougwen-chung/amp/
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 800
     title: "Putting The Art In Artificial Intelligence: A Conversation With Sougwen Chung"
-
-related:
-  - title: "Bots fired: examining social bot evidence in online mass shooting conversations"
-    excerpt: "Through the application of deeper natural language processing techniques, a deliberate content analysis methodology could seek to determine the extent to which specific social bots amplify a particular narrative. Further, the introduction of community detection analysis could identify the existence of particular bots aligning with verifiable ..."
-    publishedDateTime: 2019-12-10T14:20:00Z
-    sourceUrl: https://www.nature.com/articles/s41599-019-0359-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 20
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1057%2Fs41599-019-0359-x/MediaObjects/41599_2019_359_Fig1_HTML.png
-        width: 685
-        height: 362
 
 secured: "NYj+JZu9jMFPD5UJwGB/GDRx+IPLlta3Jk39p2xlvf0pQzNMO5gZ4O2deTS+h9VvS8MZkdmx5GbeoRHE6q3BaEuBvif6IURVt6ehRRAFwwBroVBsH1RErTz8SHPhE17p+qlxKaIoRZvk004vaOECL7lSNyX/hnqhXEu4NuszTbOjB4mTY4ucmiUxUGw8bDdv2oKcM8wcZpQ/b9PjgR96m8VmHTIYLAcy2wOA0Vy5wht/nofxJX0AMVSTwniN2GS9JwzF1Cx2wrbrZAYzTyc2lQ==;XON60+ynWtGqVVh/OjTzvQ=="
 ---

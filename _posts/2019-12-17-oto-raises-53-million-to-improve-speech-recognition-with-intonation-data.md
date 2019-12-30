@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B887204DB63C0A73A2A7AE9376B28153
         width: 700
         height: 525
-  - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
-    excerpt: "We are on the cusp of a robotics Golden Age, which I believe will increase our standard of living to the degree that mass production, electricity and transistors did for our ancestors. The term “smart manufacturing” refers to business processes that feature machines in decision making roles. Artificial intelligence (AI) provides the ..."
-    publishedDateTime: 2019-12-10T14:11:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
-        width: 600
-        height: 315
   - title: "On eve of British election, robotics and automation remains on sidelines"
     excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
     publishedDateTime: 2019-12-11T16:48:00Z

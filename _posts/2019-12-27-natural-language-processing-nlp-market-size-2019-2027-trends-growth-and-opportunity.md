@@ -403,17 +403,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-    publishedDateTime: 2019-12-30T12:20:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
-    ampUrl: https://markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
   - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
     excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
     publishedDateTime: 2019-12-26T09:56:00Z
@@ -480,6 +469,17 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
+    quality: 0
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "NhwZ8ELCgHWpGe0OeNjT63JuOjl3y65aTEFA3esmlEMLd+NgJGvAvBC6qrAkjh9/2vJZFj9fnAWxh7/aMzOgG/cvHIu6kpAVHaglGSyFwdoRKeeAgZu+8zysmRntaFeHMfF5wG7e8E65AJKyfghp1DcxfRY9x3iTyeTri1CuF0lLrpslD/NpH3AY2RSu7SawZfK+8WokGw30irbZJnAXachlk621f28xnP+A+RtLADODE+K+2Uq0ehQuWjvG1VgH0h/cGlOQFA1u4k9kZqdd9g==;4JvtbMnKREgCc0DJs774Tg=="

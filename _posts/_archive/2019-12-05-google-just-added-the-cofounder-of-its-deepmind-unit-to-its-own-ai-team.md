@@ -73,21 +73,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
         width: 578
         height: 289
-  - title: "Harnessing the power of machine learning for earlier autism diagnosis"
-    excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
-    publishedDateTime: 2019-12-10T14:30:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.html
-    ampUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
-        width: 1020
-        height: 600
   - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
     excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
     publishedDateTime: 2019-12-10T21:24:00Z
@@ -102,6 +87,6 @@ related:
         width: 700
         height: 450
 
-secured: "ziv4sfKzh5b+0W8+J2DSFCHZAjOy+qrhV8v09QbEyhbofe5ocLH0t0RmrpLYZb5wS87oKXB6O9lxZnw1LaIIdATX7TpQjouMO8/saxA8/An0Std6uBQ98Oqcc8CxK2N+Oqd2VZugykJmmuox6apqLOVxiVzGvxTi0fFxlAJSspiE/8zVCbCsvccHkA7zyW+gm/U++tMqP3A0i9DI69l6iKfd151lW4PwGRhVOKep3epT6k1t4wM60F/jTzi7GjqvHELvWRqRZV1YTzyAbRoq+A==;vpcggsZwp0Mx8Y8rXNgVJg=="
+secured: "ZSI5JAExxPQaUuAPw9NP7l7/oVKEsv3yadM8pR2Z81eNWiNbfc/21MZP6wSXNGWpo/Y5G16VUaWWLCNHPe1GpoDmM85EKpApz0VwKaLFyTwsD2LRUY/QVPFQ+n5DVlbk1x2+YJbR8oAoOFHRQEk1wy0Zmbkjprr+VCBHthIRDVLcyVUqt9kGQ16kGhJTmsqgs59cTN6tmDNbGrnUqLrlU19Xn1jI43C7or/znFz1nyTrWPCKZLJQPn+DClhcbNzIOpd0pcl0PeqOCIfiYlcgbg==;Wz1bkI2cEsD5tJF195FkDw=="
 ---
 

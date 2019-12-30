@@ -123,6 +123,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
+  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
+    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
+    publishedDateTime: 2019-12-30T15:48:00Z
+    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
+        width: 700
+        height: 466
   - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
     excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
     publishedDateTime: 2019-12-28T00:56:00Z

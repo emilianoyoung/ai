@@ -29,21 +29,6 @@ images:
     title: "Voximplant raises $10 million to automate call campaigns with AI"
 
 related:
-  - title: "Iterable raises $60 million to optimize omnichannel campaigns with AI"
-    excerpt: "There’s also Kustomer, a software-as-a-service (SaaS) provider that automates repetitive processes by applying analytics atop data from multiple sources; RedPoint, which offers products that analyze customer data with AI; and Punchh, a startup leveraging machine learning and omnichannel integrations to create customer journeys. But despite ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.A4046261FC6E71237042435BCF6388B2
-        width: 700
-        height: 350
   - title: "Augury raises $8 million more to predict mechanical breakdowns with AI"
     excerpt: "Its wireless Halo sensors — which attach to commercial refrigerators, industrial-scale heaters, and practically everything in between — record readings like vibration, temperature, and magnetism and upload it to the cloud, where AI algorithms ingest it to make predictions about the machines’ health. Augury counts Johnson Controls ..."
     publishedDateTime: 2019-12-12T14:10:00Z
@@ -104,6 +89,19 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
         width: 1100
         height: 550
+  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
+    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
+    publishedDateTime: 2019-12-12T20:25:00Z
+    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
+        width: 700
+        height: 457
 
 secured: "+1SLkuVWVpF9CbJQtPksgOeSQrr/UbKT3DIfZEFp5ulobnOH4x8EQbMJ4yzGNsrilU3NQyCtUhbKSi5pP2oV1JekNHvgI5mXo9BYieqU70EJ38j/GvdPn0DIHcaMcPNRJ3O7+rMRp3y3B49A8Fkd4KfJNjRpj2Rfkdfl93A8po+SuqG4tjwIPUWIlPJZTogQS4pVTXoplRtPnGa8MsLgrAnGy5617fqPj1IcS9uALKZHFCYeMA343qPfwBzb7lgRFztEE70sx37JrRTZa3+pdg==;TFqGUFf3r/KOFdf1LErA6w=="
 ---

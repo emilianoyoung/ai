@@ -24,167 +24,51 @@ images:
     title: "Toyota will use advanced self-driving tech in commercial vehicles first"
 
 related:
-  - title: "Self-driving semi makes first cross-country trip, thanks to Plus.ai tech"
-    excerpt: "Shoppers in Quakertown, Pennsylvania, may like to know that the next stick of butter they buy may have come off a self-driving semi truck. Plus.ai announced on Tuesday that the startup completed a cross-country trip from Tulare, California, to Pennsylvania to deliver a truckload of Land O'Lakes butter. According to the announcement, the trip ..."
-    publishedDateTime: 2019-12-10T14:24:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-semi-plus-ai-cross-country/
-    ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
+  - title: "Honda self-driving technology coming next year, report says"
+    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
+    publishedDateTime: 2019-12-13T21:06:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 88
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.21CA96CA192544391CE95B6279DED84E
+      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
         width: 700
         height: 367
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
-  - title: "Self-driving truck completes cross-country butter haul"
-    excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
-    publishedDateTime: 2019-12-10T15:44:00Z
-    sourceUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html
-    ampUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.6C150788C23785B68783697705F4198B
-        width: 700
-        height: 489
-  - title: "Self-driving truck completes first cross-country trip from CA to PA"
-    excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
-    publishedDateTime: 2019-12-10T19:51:00Z
-    sourceUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa
-    ampUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    cdnAmpUrl: https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B6155EB377E0C115BCC6F8F2F86D6FD9
-        width: 700
-        height: 393
-  - title: "Self-driving truck completes first cross-country freight delivery"
-    excerpt: "Well, at least that's what it delivered. Silicon Valley startup Plus.ai announced this week that a self-driving semi-truck packed with a payload of 40,000 pounds of Land O'Lakes butter successfully made an over 2,800 mile trip from cross-country trip from Tulare, California to Quakertown, Pennsylvania. The trip took place over the course of ..."
-    publishedDateTime: 2019-12-11T18:44:00Z
-    sourceUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102
-    ampUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
-        width: 700
-        height: 367
-  - title: "Self-Driving Truck Goes From California to Pennsylvania"
-    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
-    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
-        width: 700
-        height: 393
-  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
-    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
-    publishedDateTime: 2019-12-11T22:30:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
-    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
-        width: 700
-        height: 350
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T20:24:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
-        width: 700
-        height: 489
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-12T03:20:00Z
-    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
-        width: 700
-        height: 489
-  - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
-    excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
-    publishedDateTime: 2019-12-10T16:42:00Z
-    sourceUrl: https://www.manufacturing.net/automotive/video/21105520/daimler-bosch-begin-us-tests-of-selfdriving-cars
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
-        width: 700
-        height: 392
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
-        width: 700
-        height: 489
+      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
+        width: 636
+        height: 382
   - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
     excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
     publishedDateTime: 2019-12-10T18:53:00Z
@@ -215,73 +99,58 @@ related:
       - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
         width: 700
         height: 393
-  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
-    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
-    publishedDateTime: 2019-12-10T17:13:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 34
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
-        width: 636
-        height: 382
-  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T16:11:00Z
-    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
-    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 32
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
         height: 466
-  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
-    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
-    publishedDateTime: 2019-12-11T10:03:00Z
-    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
-    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
-        width: 620
-        height: 251
-  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
-    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
-    publishedDateTime: 2019-12-10T18:56:00Z
-    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
-        width: 970
-        height: 450
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
-    publishedDateTime: 2019-12-14T03:33:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/other/road-warrior-self-driving-truck-hauls-20-tons-of-butter-on-cross-country-trek-no-regulations-required/ar-AAK6psa
-    type: article
-    provider:
-      name: Allentown Morning Call on MSN.com
+      name: Raleigh News & Observer on MSN.com
       domain: msn.com
-    quality: 0
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "vGc12pIekWL/kfoE1YqKoPtnCkMzbAB/t9I5xzpVoY6nS6T4UJqHPI9QkN4ELQvWWM9I0ZKupWMuUEFHrmxDA5/al68CSOJx47IaA0I3LphGIgcNlknYGg6/FFv5E5B/i9ZUbc3jX5d8WiqnXceqq2Wa535Og4ltnZ/pWZacrN04znn8ZGC159gKyIk1UagZ60V8JrdrNdQlu+7OCubytFyntUeqeS1zdjWG7DLaGfFiuqVt+vOmBo+dC8NOxw4HsFOEcDbQaZpkrn8N31CqrQ==;WNXu8Yxo58y9GHBuCv8Osg=="
 ---

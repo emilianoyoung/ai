@@ -65,6 +65,36 @@ related:
       - url: https://www.bing.com/th?id=ON.B020247EEEB8E54C2738AEDAEF3C67CC
         width: 150
         height: 100
+  - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-30T15:16:00Z
+    sourceUrl: https://www.courant.com/business/hc-biz-amazon-robots-north-haven-20191230-p5odqfkmgra3fpi5vhgddrznmu-story.html
+    ampUrl: https://www.courant.com/business/hc-biz-amazon-robots-north-haven-20191230-p5odqfkmgra3fpi5vhgddrznmu-story.html?outputType=amp
+    cdnAmpUrl: https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/business/hc-biz-amazon-robots-north-haven-20191230-p5odqfkmgra3fpi5vhgddrznmu-story.html?outputType=amp
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.5496E211BEAB6DB35E9626796FEF6B02
+        width: 700
+        height: 406
+  - title: "How Amazon's fleet of warehouse robots are causing injury and stress to human staff"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+    publishedDateTime: 2019-12-30T15:43:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7837379/How-Amazons-fleet-warehouse-robots-causing-injury-stress-human-staff.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7837379/amp/How-Amazons-fleet-warehouse-robots-causing-injury-stress-human-staff.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7837379/amp/How-Amazons-fleet-warehouse-robots-causing-injury-stress-human-staff.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.6C74F3BB6700452257816387AD3DD375
+        width: 636
+        height: 382
 
 secured: "AWRS0y4bvxeyuKGfRKH5OBziKrHxDcxAKbwiZKsojLnHwKk21OvrKXkk+Cbq7+7EIgMZYB5vlBzZNWL1O3hAp+/iIQfeExUGxcBKzImSZuAwhiZPsCqDsVbF2Ss59g/pAhR9fRwBbI544kny+ypNDGtZiVQAdJhF2BQbL3NbJiyYACReanI8vPIgqaJ9Y4KMoUvPq8L2WhJ6FEe7PhQWbAvq58SbFDTVtGEKetCLggpEEX757FbCzLdRu+oADfFeaJu8ZuoxCFZUROUTpY6F0g==;3Dklh2CXXWcNd/oznPnU5Q=="
 ---

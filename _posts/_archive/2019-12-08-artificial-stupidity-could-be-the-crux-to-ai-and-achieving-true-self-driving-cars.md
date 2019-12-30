@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -103,6 +103,19 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
+  - title: "Synthesizing an artificial synapse for artificial intelligence"
+    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
+    publishedDateTime: 2019-12-06T16:18:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
+        width: 500
+        height: 700
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
@@ -129,6 +142,21 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
+  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
+    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
+    publishedDateTime: 2019-12-11T10:03:00Z
+    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
+    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
+        width: 620
+        height: 251
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z
@@ -143,6 +171,6 @@ related:
         width: 700
         height: 445
 
-secured: "KSuv6ZiU9x3qBtVbW6yVEBE7j7oQOd114zbID0UGPr/Wb5XmNpd/bpYQDZoeX+1YC3xmH07NE0tky34SahlrzfbLqy7nZ1wAGsmVUCTZjwiPIulH5rlPWhlFq9ncry/F9wRIExjS8cuV3v6lxoWpKeaF3dbPEEuyh9fu2gVr7TDJPj06fKqZQ30UHrdYYSEn1hx0DX/qiL+ZiB7tsP0khNQMgHB77veKhWih6Q2aivjPN02IKaEdhnn2n9kuN1owFqn+6cU6W4GZG17ztDQm+Q==;6QlY3w49gh1ldCdUrzN48w=="
+secured: "06YS72uqVOtTsR8MGDXqzZ9NjztKZ8QYsROvx8d7QYxf/en7AL+ua2rm+uJ/GraCWofQKaBMRMSu9Lg5mCA32XRb5CmmgVQdpg7RfZ03c2nI6ll/ADes/gxrSnceZLe7KBhykzoBxcN5ky+rmdYasxMAksyLR/bXHhM1gPIhlXGyJ6rlY4U23N2bpOwP0d8mgpKgE+J7esBJl73ZCXbVgJ3s63yDVE89JI9ryaTUgD+0UON6zzvMtHUGFeiuyAMfluRwm1uwD7xjeVIK1kt7ig==;KwJ71103fnxjebg9eWw1FA=="
 ---
 

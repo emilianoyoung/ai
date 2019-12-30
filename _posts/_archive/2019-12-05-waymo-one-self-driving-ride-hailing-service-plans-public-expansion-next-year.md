@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-se
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -45,20 +45,7 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/13/4fa0ceac-172d-11ea-9462-4dd25a5b0420_image_hires_160840.JPG?itok=p8fR8kh6&amp;v=1576224532
         width: 1200
         height: 630
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
-        width: 700
-        height: 410
 
-secured: "HdMS5rAre/Cmb0EfdshDRx/4WsamaVvrAIQHFFnhIPTHIqekB4NyyFx59U3XdPCyVgkVrUWVnXVLsE87ukrHZC+e2k/BcWGkrpXnFs7wPGiCbUy69yr1o1IGxhUFPJMBQxXI4XvG7DHvlzydXXZS4SEtb6EI80vQrhreopwh1UF/02uvVahnzSCxi6MlamIqHJHd8u5yAXQAVxxLX0QqPpLrdFKVyo3Gub7EN+uxSeLjGdUGaeG+Qukpz0/lgAK4JzuxvKz+3tBk9DmqdZ/Lyw==;jrjSnnTX8ZWnE24Qez/Rgg=="
+secured: "LgKkgfUozcstf2ifvqaDN68pRdoLiW4tkrgzPsnV8eqdnzuPiPQM5mo5xyFZ5RNmjMj1L4S/Djp9lzTWOA6DASwzUpidGAWA9ztUQHOryvJuEB+LCEEMb8A/zLaZxJoRZ8OdxFEbTaWg0YadiQY5YIcdVWxAOdt6UxhW+mPIyMiSGH/9D9dxuHVc2XLywdSpWZYnh0mzh7BYOO+rOpvdWIa1CQPpBpnHeB+0+ObI0UM/9Eh++drULsWL4/5BU13nMQ7iPKaQkHBQx6D8VMyw5A==;Hq4Oi2zM3EChIQEqtkHONA=="
 ---
 

@@ -26,262 +26,146 @@ images:
     title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
 
 related:
-  - title: "Self-driving semi makes first cross-country trip, thanks to Plus.ai tech"
-    excerpt: "Shoppers in Quakertown, Pennsylvania, may like to know that the next stick of butter they buy may have come off a self-driving semi truck. Plus.ai announced on Tuesday that the startup completed a cross-country trip from Tulare, California, to Pennsylvania to deliver a truckload of Land O'Lakes butter. According to the announcement, the trip ..."
-    publishedDateTime: 2019-12-10T14:24:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-semi-plus-ai-cross-country/
-    ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
+    publishedDateTime: 2019-12-08T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.21CA96CA192544391CE95B6279DED84E
-        width: 700
-        height: 367
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
+  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
+    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
+    publishedDateTime: 2019-12-10T17:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
-  - title: "Self-driving truck completes cross-country butter haul"
-    excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
-    publishedDateTime: 2019-12-10T15:44:00Z
-    sourceUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html
-    ampUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
+        width: 1199
+        height: 625
+  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
+    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
+    publishedDateTime: 2019-12-12T16:00:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.6C150788C23785B68783697705F4198B
-        width: 700
-        height: 489
-  - title: "Self-driving truck completes first cross-country trip from CA to PA"
-    excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
-    publishedDateTime: 2019-12-10T19:51:00Z
-    sourceUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa
-    ampUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    cdnAmpUrl: https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
+      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
+        width: 600
+        height: 315
+  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
+    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
+    publishedDateTime: 2019-12-11T13:42:00Z
+    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
     type: article
     provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.B6155EB377E0C115BCC6F8F2F86D6FD9
-        width: 700
-        height: 393
-  - title: "Self-driving truck completes first cross-country freight delivery"
-    excerpt: "Well, at least that's what it delivered. Silicon Valley startup Plus.ai announced this week that a self-driving semi-truck packed with a payload of 40,000 pounds of Land O'Lakes butter successfully made an over 2,800 mile trip from cross-country trip from Tulare, California to Quakertown, Pennsylvania. The trip took place over the course of ..."
-    publishedDateTime: 2019-12-11T18:44:00Z
-    sourceUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102
-    ampUrl: https://www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-truck-completes-first-cross-country-freight-delivery-19440102/amp
-    type: article
-    provider:
-      name: Mic
-      domain: mic.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
-        width: 700
-        height: 367
-  - title: "Self-Driving Truck Goes From California to Pennsylvania"
-    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
-    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
-        width: 700
-        height: 393
-  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
-    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
-    publishedDateTime: 2019-12-11T22:30:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
-    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
+      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
         width: 700
         height: 350
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T20:24:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
+    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
+    publishedDateTime: 2019-12-11T14:44:00Z
+    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 41
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
-        width: 700
-        height: 489
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-12T03:20:00Z
-    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
+      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
+        width: 200
+        height: 124
+  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
+    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
+    publishedDateTime: 2019-12-13T20:42:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
+    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 41
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
-        width: 700
-        height: 489
-  - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
-    excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
-    publishedDateTime: 2019-12-10T16:42:00Z
-    sourceUrl: https://www.manufacturing.net/automotive/video/21105520/daimler-bosch-begin-us-tests-of-selfdriving-cars
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
-        width: 700
-        height: 392
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
-        width: 700
-        height: 489
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-10T18:53:00Z
-    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
-    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 35
-    images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
-        width: 1000
-        height: 562
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-11T00:01:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
+      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
-    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
-    publishedDateTime: 2019-12-10T17:13:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
+  - title: "Synthesizing an artificial synapse for artificial intelligence"
+    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
+    publishedDateTime: 2019-12-06T16:18:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 34
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
-        width: 636
-        height: 382
-  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T16:11:00Z
-    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
-    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
+      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
+        width: 500
+        height: 700
+  - title: "Using artificial intelligence to improve chronic care"
+    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
+    publishedDateTime: 2019-12-12T15:49:00Z
+    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 32
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
+      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
         width: 700
-        height: 466
-  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
-    publishedDateTime: 2019-12-17T10:27:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+        height: 447
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 35
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
+  - title: "Editorial: Be aware of limits to self-driving cars"
+    excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
+    publishedDateTime: 2019-12-11T05:00:00Z
+    sourceUrl: https://www.ctpost.com/opinion/article/Editorial-Be-aware-of-limits-to-self-driving-cars-14896305.php
+    type: article
+    provider:
+      name: Connecticut Post
+      domain: ctpost.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
+      - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
-        height: 525
-  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
-    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
-    publishedDateTime: 2019-12-10T18:56:00Z
-    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
-        width: 970
-        height: 450
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
-    publishedDateTime: 2019-12-14T03:33:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/other/road-warrior-self-driving-truck-hauls-20-tons-of-butter-on-cross-country-trek-no-regulations-required/ar-AAK6psa
-    type: article
-    provider:
-      name: Allentown Morning Call on MSN.com
-      domain: msn.com
-    quality: 0
+        height: 445
 
 secured: "+j8SogHo4QxmzQeh6nDe1AVW43GiP4KGirMGunV4wyxDWuntMGx8DLjgCcocx3KG/LweGReyWMBGX59m7ruDLyN4Us1sEgTYsnjGIzUUeddHXmUahOz8oAhqQ/wIbS+G9kjmHDHmxMGyHvPj6YUmBG8g9XxTOT1hy3OHtJgK2325FU4YjuK3cnO8d/xZzQMTvY59corwL9xGd5nKmCu8mHSVYmDgrzB+9oDqJq5cbBNzV+eu9Rf9NvtqAVB40JIfMswRULlnFlOmHysYTwQs+w==;WKXjrjnWkCKGHtvfCFrEcQ=="
 ---

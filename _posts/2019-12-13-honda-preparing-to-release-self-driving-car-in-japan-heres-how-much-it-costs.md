@@ -99,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
         width: 200
         height: 124
+  - title: "Synthesizing an artificial synapse for artificial intelligence"
+    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
+    publishedDateTime: 2019-12-06T16:18:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
+        width: 500
+        height: 700
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
@@ -125,6 +138,21 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
+  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
+    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
+    publishedDateTime: 2019-12-11T10:03:00Z
+    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
+    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
+        width: 620
+        height: 251
   - title: "Editorial: Be aware of limits to self-driving cars"
     excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
     publishedDateTime: 2019-12-11T05:00:00Z

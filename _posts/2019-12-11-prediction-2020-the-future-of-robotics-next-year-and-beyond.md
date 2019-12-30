@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
-  - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
-    excerpt: "We are on the cusp of a robotics Golden Age, which I believe will increase our standard of living to the degree that mass production, electricity and transistors did for our ancestors. The term “smart manufacturing” refers to business processes that feature machines in decision making roles. Artificial intelligence (AI) provides the ..."
-    publishedDateTime: 2019-12-10T14:11:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
-        width: 600
-        height: 315
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
     excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
     publishedDateTime: 2019-12-17T15:00:00Z

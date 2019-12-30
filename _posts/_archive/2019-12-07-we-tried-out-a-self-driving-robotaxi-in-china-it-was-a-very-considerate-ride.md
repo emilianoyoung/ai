@@ -41,20 +41,7 @@ related:
       - url: https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg
         width: 1200
         height: 630
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
-        width: 700
-        height: 410
 
-secured: "qS2S+PHYGGAltpRXJkt4P6MknK3EwJUu75JzNAQ8Wh0v9LuVMII8f5QLycxmGWI/LFXVXZJ314jr223rlFSGvGDPQx9XJcRQXxQIwlwYFgNjWA8PoaEMDJ11EJsk+j3EbT4+uR6xUtwywGa2ab/4MZxZw+micJbB2xPph85vGdqkt84aVEm9GtBDjc/ibTt0e6fv/92Ppeu/9RvH156eFzA+KC55/X/lxroDIVeiJjjW5WtsfXvkwrTQvEJvSsPWjLqe8KbV4hvEsnBkrnjhxQ==;a+owpThqVyUTpbquDt1QOg=="
+secured: "/PjXk1zwUNAq0qU2EiyzUHxWTR1Ivxln53scrRv6/r3mnDDOuh6LZT3AZjFaHkwTBx6qO39YU4kmQiCf3lpRboYM7iRD0QQQiHLvxsY43ni7pdRhiJRUbyWfvxQl5DvwWi/nvD2U40sm4zahhS0erxo8Oou860mFAOzt65lKyIHAgDrtiFBvfw4Whkm3+myvGcST/eMz+wzsZbGv8St44opPG5RhrK2wgVygeR/BulJ9miq2Z9u/Tx59VS/vwimREsGRvQ9SBcEK8m08TBvBoQ==;uzvIO28/smH7s6j6OQ/g2w=="
 ---
 

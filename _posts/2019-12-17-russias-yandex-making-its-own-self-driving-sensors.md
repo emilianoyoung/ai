@@ -69,6 +69,49 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
+  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
+    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
+    publishedDateTime: 2019-12-10T18:53:00Z
+    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
+    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 35
+    images:
+      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
+        width: 1000
+        height: 562
+  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
+    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
+    publishedDateTime: 2019-12-11T00:01:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.ABBF7504C3E56441F28DFD7B563B958A
+        width: 700
+        height: 393
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
+        width: 700
+        height: 525
   - title: "BYU offers 'crash course' in self-driving car technology"
     excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
     publishedDateTime: 2019-12-19T16:47:00Z

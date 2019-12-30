@@ -1,7 +1,7 @@
 ---
 category: news
 title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
-excerpt: "learn about breakthroughs in baby monitoring technology with GenkiCam (stop by to see if the camera can read your emotions); have your picture taken by MARS (mobile arm robot system); and explore ITRI’s nine innovative technology introductions in artificial intelligence (AI) & robotics and digital health, including two CES 2020 Innovation ..."
+excerpt: "meet the PECOLA companion robot; experience the clinically tested non-contact method for sleep apnea—the WiFi Sleep Apnea Detection System; view iStimUweaR garments and pads; learn about breakthroughs in baby monitoring technology with GenkiCam (stop by ..."
 publishedDateTime: 2019-12-03T14:00:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191203005703/en/ITRI-Exhibits-Artificial-Intelligence-AI-Robotics-Digital
 type: article
@@ -23,6 +23,6 @@ images:
     height: 365
     title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
 
-secured: "gYQMkxEacWlyGNFuzV3qmsnCP7M+GVXaDSRKuv+4aAYnm0jhaUa9ElW9CLQrSP6ULtwLA4FNBCIFd11K/jtkNiry9HmyBagoF4BTly/WzQBGv/z6pbbJmgx5Jnh/LXE90t+2ljq65we0Z30edwnHZQb2RyaMCXadPvoWW8igR2kUg02kN+kx053Cj1Cb1vCSZK+ILYlHoiKk1aaf0Wioknc4EvOc4Uxrli8VdX1WkI2ksRHQ5LJk4E3+Tzcugtdp9QASqdDgXRGteZlwskq/6A==;+qas4Ultx8eYHEP7pS/SKg=="
+secured: "avhE2h6yd5hx1xQi0L/NByrgc4/90qr53BrbnmPmXPm2J9la5cK+4r4FUpM7BGLbc55v/uzHhj0klLuFHPH3eP6tCQBdG4T0tACvcxNKE1EjbqZ5/DvXf0RzKQPtfHW5m6OmOa386Y/GEzDqdaU8Z+Xd8IWj5EA+47SpuMmzYNx91tZ7LN9gvf46bVkpRHZiUOYUwrTK06j6tkbatNN8kZWf8RjwW8vWvctdvwxfJtV/wspsEDO79NXN3LmsQVzvuEn0O7zfuDjuR57xaLyqRQ==;4vAWN4+p8k+Vp2BdGAVNLA=="
 ---
 

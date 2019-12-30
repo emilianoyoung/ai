@@ -69,21 +69,6 @@ related:
       - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Harnessing the power of machine learning for earlier autism diagnosis"
-    excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
-    publishedDateTime: 2019-12-10T14:30:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.html
-    ampUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
-        width: 1020
-        height: 600
   - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
     excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
     publishedDateTime: 2019-12-10T21:24:00Z

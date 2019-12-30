@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-univer
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-universal-sorting-machine
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Watch this machine made out of Lego sort other Lego using AI"
 
 related:
-  - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
-    excerpt: "The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video ..."
-    publishedDateTime: 2019-12-09T16:31:00Z
-    sourceUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/
-    ampUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    cdnAmpUrl: https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
-    type: article
-    provider:
-      name: Nerdist
-      domain: nerdist.com
-    quality: 59
-    images:
-      - url: https://nerdist.com/wp-content/uploads/2019/12/LEGO-Sorter-Feature-Image-12062019.jpg
-        width: 1200
-        height: 676
   - title: "Machine learning for next-best offers"
     excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
     publishedDateTime: 2019-12-11T12:34:00Z

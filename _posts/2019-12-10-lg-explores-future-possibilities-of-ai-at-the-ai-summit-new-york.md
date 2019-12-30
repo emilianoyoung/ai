@@ -81,21 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
         width: 578
         height: 289
-  - title: "Harnessing the power of machine learning for earlier autism diagnosis"
-    excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
-    publishedDateTime: 2019-12-10T14:30:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.html
-    ampUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
-        width: 1020
-        height: 600
 
 secured: "eYNPSgQuWrjc42TkZoCdLwO58q9oh92fMuA+km1XFDIBnBUj6ka/I/PMleF0p1Bn0SieLb0+vSrgTRP1NMEEPDqlCX01xcP1AUloc2gcHwDQGSuHTdfJdAaS9VbAI9oF48mcs51XMd/LLxGJrYYxZqACQS1zrxR3w2IHkL/qIcT+LggEfi81jn4dd/H0Q6XmCJvV1CHjXZPaqnwX0B0gVVAyQXgQEptjNfOseDLXsw/8nXHmR4UlQHMxtJnLlzv4aSZd9AXzCxvoYzoVIahIJQ==;BERy8gSbKNlsG98aP1LBhQ=="
 ---

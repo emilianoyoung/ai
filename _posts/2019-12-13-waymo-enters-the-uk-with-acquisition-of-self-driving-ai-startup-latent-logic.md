@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -168,19 +168,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "Collaboration is key in the race for UK self-driving success"
-    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
-    publishedDateTime: 2019-12-10T14:55:00Z
-    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 24
-    images:
-      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
-        width: 360
-        height: 290
   - title: "Ford adding to Austin self-driving car operation"
     excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
     publishedDateTime: 2019-12-11T22:48:00Z

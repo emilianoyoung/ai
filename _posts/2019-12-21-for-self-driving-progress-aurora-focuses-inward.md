@@ -54,6 +54,19 @@ related:
       - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
         width: 1200
         height: 630
+  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
+    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
+    publishedDateTime: 2019-12-17T07:29:00Z
+    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
+        width: 450
+        height: 274
 
 secured: "lb2EiSUd+p9xzBCrJKay7+6+Z+iK4ldZ6JwnZEbL83hids1DjP7rzMpZ3VUacfLcR7A/Fvab6oiBLPyewoCKq8CrvvH74OBAeUxqz3VEb4zJYLQx3NLVezb8EMW0NoW7jqO9UWEhAnnmFgTSxnoSmAmlvrJh7Qpuphk0ywebt+4EgUu0264xWgSKyRBGAI+2DvuCy2m7KoaEAbuGmznVdeTngYfrKL5AJS6hlvzvs6XHWvSDZpPQWJ0ajwaLRf2JNmV94Pc+Ai26EwY2hPslFw==;HgPMxNc1l1921TBJQT2T4Q=="
 ---

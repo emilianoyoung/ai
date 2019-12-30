@@ -2,27 +2,27 @@
 category: news
 title: "Baidu tops Microsoft and Google in teaching AI to understand human language, thanks to differences between Chinese and English"
 excerpt: "Chinese search giant Baidu has beaten Microsoft and Google in an ongoing natural language processing competition, thanks to the linguistic differences between Chinese and English. Baidu’s model, called ERNIE (Enhanced Representation through kNowledge IntEgration), recorded the highest score of 90.1 – just ahead of Microsoft and Google ..."
-publishedDateTime: 2019-12-30T10:01:00Z
-sourceUrl: https://sg.news.yahoo.com/baidu-tops-microsoft-google-teaching-054500155.html
-ampUrl: https://sg.news.yahoo.com/amphtml/baidu-tops-microsoft-google-teaching-054500155.html
-cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/baidu-tops-microsoft-google-teaching-054500155.html
+publishedDateTime: 2019-12-30T10:09:00Z
+sourceUrl: https://www.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
+ampUrl: https://amp.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.D687484EF1FA2B5045D05F279D603A3A
+  - url: https://www.bing.com/th?id=ON.4A7F769D372553949EC1520FE8229280
     width: 700
-    height: 393
+    height: 367
     title: "Baidu tops Microsoft and Google in teaching AI to understand human language, thanks to differences between Chinese and English"
 
 related:
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 350
 
-secured: "dZPViLPKQzaCpLALSR05wvKlmOgn3LdPxRiSr1sFzXv4j4oql3SlNU36zxyD80ep3saFkKPjTQJEeo+c2yG2p193LFo/+5nAKcB/VVOuV/4m+WQj8QOAT8hPz7VNWQxE7NEKmeUCVcqPJhzfqgUxXrgnO5oY7fvOwmUFLvc9oKpwtNHMKC06BL7HQY1nZyupVgBbpOPjk2sFVr3I6wv8G1pXcDFacDjtV0cbStRBxVzLt895gi7ykL4CsNrc8zzyJpt89D9kNv10LNarLs9Zzw==;kvyVoxegyN7IRn/rGrYYOw=="
+secured: "WgpPu/dytukp7xuIxOiDpVXHx9Jfv3/SCLZJ3vc459Lz9WwnW6uZIIjGDF6OX5dLlVLwUbyfXHEkczmn+3fGvoFAGiZz6jBh64jSL0gjNEZzZR/iOcF+c2oUyXeSj+7tsjHVd2+y6fmhA0HZ2vpSw1y5L9QWFeh0mBXfMKGn+kii6QhA5aPfHpQMuFpk9IFHMFKlkNBafkNz5P/GbhtQXy1gBgoMTaqhuK3xm9qvPzcDbl9KqBWRzBV70Fhtfs2KK62tyPRsAEv+Y7NYdZMQgQ==;W8x+M9BJa7oWY5YM1SQoYw=="
 ---
 

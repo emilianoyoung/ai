@@ -8,7 +8,7 @@ ampUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-
 cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
         width: 980
         height: 551
+  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
+    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
+    publishedDateTime: 2019-12-10T18:56:00Z
+    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 14
+    images:
+      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
+        width: 970
+        height: 450
 
 secured: "5qeLoPam8kkvAFgQF3ffCUukxX7CwueEk8gjklmioonKNqMirdQB3LFB9D3dIuWLDK7/2EJc/jHXnu6z4zS8CmkVVNTnPBENkLk8tOha3Ric+l7kAmqo0pBcNA1g9KCF2grIhroYBgkRVPRDMRRnT9qmYQZj+su8XhAG00YzrKGfvwaZ6Of2l36QaB2QWEZhzgZ22P7mgZ2Rab/4b9SiUndnq56Vppg29t17McY85StfCgv7SG+nwwZQQAAMAZmWz2SmyOKUyft5kktlaAAyoA==;XrDEIZ5y8KRQ2XdQBMq/Wg=="
 ---
