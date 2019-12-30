@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Samsung To Launch ‘Artificial Human’ Called Neon"
-excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
-publishedDateTime: 2019-12-30T05:54:00Z
-sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/
-ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
-cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
+title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
+excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
+publishedDateTime: 2019-12-30T22:30:00Z
+sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
+ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: Android
+  domain: androidheadlines.com
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
-    width: 457
-    height: 299
-    title: "Samsung To Launch ‘Artificial Human’ Called Neon"
+  - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
+    width: 700
+    height: 393
+    title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
 
 related:
   - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
@@ -55,21 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
         width: 700
         height: 366
-  - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
-    excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
-    publishedDateTime: 2019-12-30T22:30:00Z
-    sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
-    ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+  - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
+    excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
+    publishedDateTime: 2019-12-30T05:54:00Z
+    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/
+    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
+        width: 457
+        height: 299
   - title: "Samsung To Unveil An Artificial Human (AH) Called Neon At CES"
     excerpt: "Samsung will be at CES 2020, and it will be unveiling something vastly different than what it has shown off before called Neon. Neon is said to be an artificial intelligence platform that was developed by Samsung Technology and Advanced Research Lab in the U.S. and is expected to be introduced as a new AI platform of Samsung. Neon has an ..."
     publishedDateTime: 2019-12-30T21:34:00Z
@@ -86,6 +87,6 @@ related:
         width: 700
         height: 643
 
-secured: "lfxMe203WLY8DMNesGie+/JHtPUbRTyaDlnCMBuV9qGsGSn1l4+YQczlBoGTbiZs+IZLA9EuJ+IqZMYvX0HuHqIbrC+ieJfkcvqoks/blfJ83m8Hb85PpLou8yxGksePpusiUrkAreIt0mV7hVbM7D9VJSOBSHhD1o0nPl/wKWjNg1fsj35tvkclF1tpsklazS9J1T1YVujnYN+i2ghDpSdOU1vhzvQ02hCYmRgXnkmNoiPmcwwE9ffpRPCAUtyE+aSIPNLxOumW28pJ4B5MIA==;aA6582yG6+SdfYIj8Rj6vw=="
+secured: "4RjjC1rWgU2IeIjCMFTr/tEg+AupmAZ8jeAnc7oT12nJu9jnEV7YqZt9eIeexcY/wE8Rt0ZLtr0HQcPWo8Usa2ki8kdbsNW32mEYMv4oxjAZzFVvwTtwprIxZ0SKl7MPFAszd+aqJmClVh5qLJEh0ds2CfMJsx0wRkiHhkaGR99i62UrL1eyOBFtgkdPIOawvF6/Y+pwbcxfJ0JBK/ulaGyce9aMJ/kQmkIEpusDTE6PbJlnXplEbZrBHQPd4opJ86m6ekV/+rkx500JnKl9/A==;h/Ymjns2C7Xb8zPTquxmwA=="
 ---
 

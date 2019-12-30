@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
-excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-30T11:40:00Z
-sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
-ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
-cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+title: "Warehouse workers adapt to robot co-workers"
+excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is ..."
+publishedDateTime: 2019-12-30T17:27:00Z
+sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Finance & Commerce
+  domain: finance-commerce.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
-    width: 700
-    height: 393
-    title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+  - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
+    width: 620
+    height: 330
+    title: "Warehouse workers adapt to robot co-workers"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -41,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6021D9F8C0F9AD91A8386578D7F96884
         width: 600
         height: 337
+  - title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-30T11:40:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
+    ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+        width: 700
+        height: 393
   - title: "As robots take over warehousing, Amazon workers pushed to adapt"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T21:36:00Z
@@ -140,19 +153,6 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 39
-  - title: "Warehouse workers adapt to robot co-workers"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is ..."
-    publishedDateTime: 2019-12-30T17:27:00Z
-    sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
-        width: 620
-        height: 330
   - title: "Warehouse workers adapt to robot coworkers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T17:27:00Z
@@ -167,6 +167,6 @@ related:
         width: 620
         height: 330
 
-secured: "Yym87mPi8eDzTPPnfeaSM76B/RlKbluVsbtCAc/B6Q7f14w1e2DabJ64+wOfnc4MD2O1ZYCTErmoUnIJ3WfnX2Byp5OF0Ah6klrtmIYXRCMypF5sYamNVrTAx+b50f1iNZpzRf6v9VnzOKMYy3XJJCXub2NYcPbPclab/uR0O2bZRiGUbyPGsv+NBmb4zk8gznebgv4xr8PAb/mGslNmcrVJ9Cxo3HFYku2V51JCROiPGH83FKKLOvkDEUzZhHqHHuOSn2C5K+959lvDbOmcpQ==;oyTaOdcrneocLyVFDg/E1g=="
+secured: "TI9JITwzEHrCKtH3K2IlYg7NuHzfQk8qR7fZd//vNZE2ZjPUUHwI0BSuoGg7dXL2X1c5K0G+0D99KWLqijCVmx+sMxv9No2QC2JUNIMZmZmNwZH43wUcMqP5CUpW/fx5glj1VmvpQQp6h6/6jVHOlJvImAmDks/DMi4YUNcE/FX2nbMRSvX7OdaKQ6GLZ0sY/wA18YYkE6zz8DgDZS8BPR/KyaS7GxYMM2622Lx2nIW+TWURjFT6kswlAXKnh+VkVQtHRG7weWG38PgNzAOKvA==;bRXs37h0JH2/gd6OIeyAlg=="
 ---
 

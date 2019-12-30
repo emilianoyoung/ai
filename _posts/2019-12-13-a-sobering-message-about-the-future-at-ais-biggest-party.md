@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
         width: 700
         height: 350
-  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
-    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
-    publishedDateTime: 2019-12-10T21:24:00Z
-    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
 
 secured: "soja8wSisX79WygyGU5tOUqc+JigHxoKc/lmRwVOkL7HZmlpYOJWbcO9TJLGsmj5ORhhxt3yP+2tEjKPD0RR5ZQJGmr3EjuLF7U0VInLrJqu0iWYCEBG7oPYtNogcKnVXQdCD6zweFvh+9jnio9BHs2A305Sj1+Ymvu6v0eyvuc5ju3UFYfjtIJ/eHucNlh7AkiNvgWCrile05RUmoEns9uHCLmmkNdFi/XnM/ZPjhlbEVhsf9AgNT+xNCxdbZ+QMlZkreSQikTVbYo7+QaZaw==;RG1SYGTy3D1efm3cEVeU/w=="
 ---

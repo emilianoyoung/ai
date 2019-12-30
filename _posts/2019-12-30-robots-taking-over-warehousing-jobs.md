@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
-excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-30T11:40:00Z
-sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
-ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
-cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+title: "Robots taking over warehousing jobs"
+excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+publishedDateTime: 2019-12-30T22:46:00Z
+sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
+ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: The Gazette
+  domain: thegazette.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+  - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
     width: 700
-    height: 393
-    title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+    height: 466
+    title: "Robots taking over warehousing jobs"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6021D9F8C0F9AD91A8386578D7F96884
         width: 600
         height: 337
+  - title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-30T11:40:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
+    ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+        width: 700
+        height: 393
   - title: "As robots take over warehousing, Amazon workers pushed to adapt"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T21:36:00Z
@@ -71,21 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
         width: 700
         height: 393
-  - title: "Robots taking over warehousing jobs"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-    publishedDateTime: 2019-12-30T22:46:00Z
-    sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
-    ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
-    cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
-        width: 700
-        height: 466
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z
@@ -167,6 +167,6 @@ related:
         width: 620
         height: 330
 
-secured: "Yym87mPi8eDzTPPnfeaSM76B/RlKbluVsbtCAc/B6Q7f14w1e2DabJ64+wOfnc4MD2O1ZYCTErmoUnIJ3WfnX2Byp5OF0Ah6klrtmIYXRCMypF5sYamNVrTAx+b50f1iNZpzRf6v9VnzOKMYy3XJJCXub2NYcPbPclab/uR0O2bZRiGUbyPGsv+NBmb4zk8gznebgv4xr8PAb/mGslNmcrVJ9Cxo3HFYku2V51JCROiPGH83FKKLOvkDEUzZhHqHHuOSn2C5K+959lvDbOmcpQ==;oyTaOdcrneocLyVFDg/E1g=="
+secured: "f+lDHTEklEf8diOsitdE29J0G1xtGHQjvSHxmdKnLLFWv2pu3OohzlCVyBoe0JHGTejg799rOUg6tY/cCYMGYTUmq0f0hKuiHOj/QHfguD04Bd3rGwM/R44NKoyEHxw+nwnrPLASOLW283pYXc0IKx4HD0poW2AgLp/cvz+bOrtD4kKHr4lTpUsHASX5OgcKDlh9meGRpJJOCRNQ1tu4jZu7C5H/gOyZk9vjhl+wCvx7w20ykc0Ix0ehih0lPteSl3lj0RVNx92+w7/1Eec0SQ==;eQhVIYD9V7+Rymw0s0RQiQ=="
 ---
 

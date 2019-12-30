@@ -84,6 +84,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
         width: 700
         height: 393
+  - title: "Robots taking over warehousing jobs"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T22:46:00Z
+    sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
+    ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+    cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
+        width: 700
+        height: 466
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z
@@ -125,6 +140,19 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 39
+  - title: "Warehouse workers adapt to robot co-workers"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is ..."
+    publishedDateTime: 2019-12-30T17:27:00Z
+    sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
+        width: 620
+        height: 330
   - title: "Warehouse workers adapt to robot coworkers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T17:27:00Z

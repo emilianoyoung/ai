@@ -24,9 +24,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df00fc625ab5d0007ce1af2%2F0x0.jpg%3FcropX1%3D2%26cropX2%3D897%26cropY1%3D64%26cropY2%3D567
-    width: 896
-    height: 504
+  - url: https://www.bing.com/th?id=ON.E0499B449EC56143D4A6B4376F9FF978
+    width: 600
+    height: 315
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
 related:
@@ -46,6 +46,6 @@ related:
         width: 700
         height: 350
 
-secured: "rAwHe46FR3vL8WHCwDBvPlDRfJd3fBihSETcoPE2wf1534zaqnrj0SZ8H90XSSekZDlC0HCAAC1T+hufWIuoXV3CHzsx35p4IvGXSI0LPpznpfLc8eMoj+BEYY9/RVX+MP7Oj0AvSNKzJHycKCnkD8YO6Xs8YWuYea8z+2utV41UVg4VIFAoOhcVKH41/0BB/Rbtuoyrv0u4ttTwkkvyGLpwW+FW+bV70ke7klMitLyQ5JxO2EurV4UrsswlRj5oQIEoL1Bj2SEpWKaQDRhLSg==;fW2YvERYP7jA8EHDFt/c1A=="
+secured: "agvw5XD3+RBtcTCM+6L0f+RebsD/I6NLAr/OhQUOLsJRnYE+vdXo1/9gLs5crepoPmNHq+Dqve7eQwQvnhaTC/mGphe54VAKe5J9yr0d4Kh31Y9pd+F0YFuuQ5EYemBWOIRltF4ppPfLRp8XKIvrLV/Az1CarEBYHG/l+GcgVDQ/k4FsFYyMFAyc3xrTQ/HYifeXlVosJUElrUhp5HlbAMUwV6dL/zCTUD6OkDjjpec5odF31U6I7bn9np2jdbeKv5i898dsmojx/F5o6V7PIw==;/Y8R5G1R9fEVCq/nq7hL4A=="
 ---
 

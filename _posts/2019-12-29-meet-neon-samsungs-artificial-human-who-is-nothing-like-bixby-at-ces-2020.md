@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
         width: 700
         height: 357
+  - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
+    excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
+    publishedDateTime: 2019-12-30T22:30:00Z
+    sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
+    ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
+        width: 700
+        height: 393
   - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
     excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
     publishedDateTime: 2019-12-30T05:54:00Z

@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
         width: 700
         height: 412
-  - title: "Nuro Self-Driving Robots Will Deliver Walmart Groceries In Houston"
-    excerpt: "Nuro, based in Mountain View, California, was founded by engineers who once worked at Google’s self-driving vehicle project in 2016. Nuro has so far raised over a billion dollars from investors like the SoftBank Vision Fund and Greylock for its ambitious plans to get as many deliveries as possible out of human hands and into robots."
-    publishedDateTime: 2019-12-10T21:29:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/10/nuro-self-driving-robots-will-deliver-walmart-groceries-in-houston/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.FA37E56B78F27D1EB916CAB5FB937C91
-        width: 600
-        height: 315
   - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
     excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
     publishedDateTime: 2019-12-11T14:10:00Z
