@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.27399CF43DFAB660A39D82FCF3A6AA5D
         width: 700
         height: 379
-  - title: "Study uses machine learning and health data to identify suicide risk factors"
-    excerpt: "First-of-its-kind study used machine learning and health data from the entire Danish population to create sex-specific suicide risk profiles, illuminating the complex mix of factors that may predict suicide. A new study led by Boston University School of Public Health (BUSPH) researchers finds that physical illness and injury raises the risk of ..."
-    publishedDateTime: 2019-12-10T00:02:00Z
-    sourceUrl: https://www.news-medical.net/news/20191209/Study-uses-machine-learning-and-health-data-to-identify-suicide-risk-factors.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191209/Study-uses-machine-learning-and-health-data-to-identify-suicide-risk-factors.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191209/Study-uses-machine-learning-and-health-data-to-identify-suicide-risk-factors.aspx
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 56
-    images:
-      - url: https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg
-        width: 620
-        height: 480
 
 secured: "ynSA+bqpK4So/ahdI7pEMpsOnBTcFdxd5HKhdlQ41vZ+AcPO7OkMfa29zHURsHXFSUXy0sU2oL4Vr/JoKl4fVJhLW0iseozMzwpYDouZUBfPAyFPt0cferahEw2ouUGNFDJDRMMKXxjF5H9PpIRtTeZRxbPElmIBT9JeCIXqIxOafu+d7zp3hjGdv40Lb7iJs2VarEO73rZhLvV9PDkf6VGQqVtsVfYHG1zgU1j63Bks//SCyyIPZz9v2O1MXd5vGn1P4E6mVzQaQt/oFgCpnA==;wuiy4bp2fUmrxb5mW7jpnQ=="
 ---

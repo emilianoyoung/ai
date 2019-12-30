@@ -18,6 +18,21 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Chinese Finance Group Calls For AI Regulation In Ecosystem"
+    excerpt: "When it comes to securities, banking and other finance products which are employing technology such as a facial recognition or big data analytics, technologies to regulate that intelligent finance have lagged behind AI development, according to a report by the China Finance 40 Forum, a platform for finance policy research and academic exchange."
+    publishedDateTime: 2019-12-23T12:33:00Z
+    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/
+    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/chinese-finance-group-calls-for-ai-regulation-in-ecosystem/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.97331B7269776F2B2C73CE8D888D034D
+        width: 457
+        height: 305
   - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
     excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading ..."
     publishedDateTime: 2019-12-23T11:00:00Z
@@ -29,88 +44,28 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "How Large is the Fintech Market?"
-    excerpt: "This is mainly due to the advent of new regulations pertaining to Fintech sector. Technology segment insightsMajor technologies involved in the fintech sector are artificial intelligence (AI), blockchain, cryptography, biometrics and identity management, cyber-security, and robotic process automation (RPA). Significant growth will be witnessed ..."
-    publishedDateTime: 2019-12-26T06:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/how-large-is-the-fintech-market-2019-12-26
+  - title: "EC expert group issues call to action on fintech regulation"
+    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
+    publishedDateTime: 2019-12-18T00:38:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "France’s Alternative Finance and Fintech Leaders Take Stock of a Successful 2019"
-    excerpt: "According to 2019 metrics, France is: The 2nd largest market in terms of venture capital raised by FinTech startups, with €700 million raised in 2019 (+ 84% from 2018). The top European network of incubators. The leader in number of AI labs and volume of investment dedicated to AI. Four French Fintech startups are listed in KPMG’s ..."
-    publishedDateTime: 2019-12-23T12:21:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155570-frances-alternative-finance-and-fintech-leaders-take-stock-of-a-successful-2019/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155570-frances-alternative-finance-and-fintech-leaders-take-stock-of-a-successful-2019/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155570-frances-alternative-finance-and-fintech-leaders-take-stock-of-a-successful-2019/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.02EA898E5FC9FFAB677E817E922A3A32
-        width: 600
-        height: 450
-  - title: "Certified FinTech Analyst Institute Released FinTech Knowledge & Curriculum System"
-    excerpt: "including computer programming (python), data processing and AI application in the financial area. Level I exam: contains Python Programming, Database Technology and Application, Statistics in Python Application, FinTech in Economics, Analysis and Programming in Financial Statements. Level II exam: consists of Quantitative System Design ..."
-    publishedDateTime: 2019-12-22T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/certified-fintech-analyst-institute-released-115600280.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/certified-fintech-analyst-institute-released-115600280.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/certified-fintech-analyst-institute-released-115600280.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.CE9B27E970D287EC1C16C632BBE372C0
-        width: 410
-        height: 273
-  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
-    excerpt: "PLANO, Texas--(BUSINESS WIRE)--InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech program. InterGen Data was one of the 34 startups selected–from more ..."
-    publishedDateTime: 2019-12-23T19:06:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191223005502/en/InterGen-Data-Selected-2020-MassChallenge-FinTech-Program
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Finextra
+      domain: finextra.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.4878103E8DAE3EE7582E436DF88723BF
-        width: 700
-        height: 365
-  - title: "Tencent's Insurance Platform, WeSure, Featured in Fintech Power 50 for 2020"
-    excerpt: "For example, WeSure's AI technology has assisted insurance providers in 34% of suspected identity fraud cases, resulting in a 30% increase in payment speed for premium holders. Backed by the well-developed product experiences and strong fintech capabilities, WeSure has handled 280,000 claims worth RMB680 million since November 2017. WeSure ..."
-    publishedDateTime: 2019-12-18T18:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/tencents-insurance-platform-wesure-featured-150000028.html
+      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
+        width: 480
+        height: 270
+  - title: "China should step up regulation of artificial intelligence in finance, think tank says"
+    excerpt: "China should introduce a regulatory framework for artificial intelligence in the finance industry, and enhance technology used by regulators to strengthen industry-wide supervision, policy advisers at a leading think tank said on Sunday."
+    publishedDateTime: 2019-12-22T07:00:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/markets/china-should-step-up-regulation-of-artificial-intelligence-in-finance-think-tank-says/ar-BBYeHL6
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/e_QxvPsGApEgVseDnUEKrQ--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/f8054b0295bd46f72f0985f81de55adc
-        width: 600
-        height: 400
-  - title: "Certified FinTech Analyst Institute Released FinTech Knowledge & Curriculum System"
-    excerpt: "including computer programming (python), data processing and AI application in the financial area. Level I exam: contains Python Programming, Database Technology and Application, Statistics in Python Application, FinTech in Economics, Analysis and Programming in Financial Statements. Level II exam: consists of Quantitative System Design ..."
-    publishedDateTime: 2019-12-21T11:08:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48478870-certified-fintech-analyst-institute-released-fintech-knowledge-curriculum-system-200.htm
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.69092C606E8E4F14616F7C575EDCD00F
-        width: 410
-        height: 273
+      name: Reuters on MSN.com
+      domain: msn.com
+    quality: 9
 
 secured: "iJpRV7QWn8YLI0mLj74/gWJJLJSFV5nT65IT49GWSBwI4Fz5Xdi5vwL79pC9FZ4XSYUYW4yTNxm99blTpiY2h9AYmJit6MtUr1MExVBkOkWQqiZLCkoNhXB82XIS//iblsA+2G4i8kg1vqIuWvPDKtrtp+zbLlVduHcgPJwwFBsoWZEJsBakMR/qFoFemWJGSlIO8nAJMp/RSeCj6A60lZw7mk4zWCRN4lJnaGDDW4Pl9RMIndltlR2SDrgW12n5jD1ud650uLWCV/XDDY07LA==;/QPjw9iY37FVLuE/YDLATA=="
 ---

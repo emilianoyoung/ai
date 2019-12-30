@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
         width: 700
         height: 393
+  - title: "Housing bill flies in the face of environmental democracy"
+    excerpt: "The declaration by the Dáil in May last year that Ireland is facing a “climate and biodiversity emergency” would suggest that there is Government recognition of the scale and seriousness of the climate crisis. This year marks the beginning of a decade in which global emissions must reduce by 55 per cent, if the 1.5 degree limit in the ..."
+    publishedDateTime: 2019-12-30T00:48:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/housing-bill-flies-in-the-face-of-environmental-democracy-1.4126759
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
+        width: 700
+        height: 367
 
 secured: "NmxREY35NylF8kD8EiLhUPoMoqeWfXeky0dM5OEF9w+rR1fxR7SgZtt8ubBaD3hBmItP3jtidG+d0Gr3Z7Oho1mpfMBe3zmKNWmKLpwkQ8wDKdEUpp1Qajbd8iiWr+KEpBtxHXiBxbr6s4HLAipuj2oqKLO1riLbAm+6fDqVLlwI8O2usZA03KaYHnrBnCILdCZ6y1BK3Zid14McVHIviKStNNNhkn/JvLT3ochpb559tdHHyetcG6cJmbWt8UcXMASoNjbGBgIbER68wf9pGg==;21BCJcu22gkNWiEgkaIf5g=="
 ---

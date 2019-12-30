@@ -724,21 +724,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6A75FDE089AA8382504834D343B7B315
         width: 700
         height: 525
-  - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
-    excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
-    publishedDateTime: 2019-12-09T23:16:00Z
-    sourceUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/
-    ampUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D3C3077441691692070F991362C62B79
-        width: 700
-        height: 366
   - title: "Sea-Tac airport officials opt out of facial recognition"
     excerpt: "SEATTLE (AP) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission ..."
     publishedDateTime: 2019-12-11T13:08:00Z
@@ -1521,19 +1506,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "Communities come face-to-face with the growing power of facial recognition technology"
-    excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
-    publishedDateTime: 2019-12-09T23:13:00Z
-    sourceUrl: https://www.pbs.org/wgbh/nova/article/growing-power-facial-recognition-technology/
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
-        width: 700
-        height: 393
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z

@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
-  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
-    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
-    publishedDateTime: 2019-12-09T23:21:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
     excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
     publishedDateTime: 2019-12-13T10:05:00Z

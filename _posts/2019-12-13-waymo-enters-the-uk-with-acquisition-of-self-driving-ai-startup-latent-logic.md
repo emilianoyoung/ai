@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 271
+heat: 261
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
-  - title: "Uber Nears Deal for Self-Driving Car Simulation Startup-The Information"
-    excerpt: "(https://bit.ly/2PAkqzE) Uber's simulation software has suffered from various deficiencies and still has trouble predicting how its self-driving car prototypes will handle the real world, the report said, citing the source. An Uber spokeswoman declined to comment. Foresight did not immediately respond to Reuters request for comment."
-    publishedDateTime: 2019-12-09T23:21:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/09/business/09reuters-foresight-m-a-uber.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z

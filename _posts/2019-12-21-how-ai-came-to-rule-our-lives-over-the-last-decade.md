@@ -3,17 +3,17 @@ category: news
 title: "How AI came to rule our lives over the last decade"
 excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
 publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+sourceUrl: https://www.wmur.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+ampUrl: https://www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+cdnAmpUrl: https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WESH
-  domain: wesh.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI
@@ -55,6 +55,6 @@ related:
         width: 336
         height: 224
 
-secured: "doADhJYwYPt2dHq8lhDVkfQQarYyEjQiuTMUlJOn82vCzHodWi9ZyY2RSIxqkoNGUnH9BQrFbGZ+moTDN9YC0LrbUrLBE+ZJ9n4inpW823ArW/aPMzS/WCsslyoTJqYrtM9twvjNVNPUY6Y3PAd9ACJ6eCLQot5d5iqLUlgNnqDl492Ketfv1WGW6yCiKNqwpiiG2YlP8SOC1MVXwffFq/kXOMFmmxYSjZf0+mKO3Dh59uSu4evGI85RVL5akyejF67MnSyLCOEn4U/x4PSEfg==;Ms+VHc6e6Ob9IvPMxZXFag=="
+secured: "uZ3F7ZffVaXi4Ha//c2kkOKpCDykQu0W5FK2mBmwayvWcF2EyCo17PSk3bSdmOkdG/bDzilPQBbQJOFYrVFP8oIclrfNODTDKF6PhVUPvfsiAUsZG0Xu2mZwED5nsF12AcQThBLa+r2sbvmEnN8AjGy+VSxsRD+kO8NZ9jC6TmCrmelus5WomAQ74KvKP5q3p64DC96lYECYO6szEJdv/x+Dm302s/s8ZGDFCTdQKModjSwfAnJNIB33zJskdnHeZZljB8dT2S+wdZPjk0EAiA==;1hoYuJAXT7Uc+K0utRY2lg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-te
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -81,6 +81,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
         width: 700
         height: 393
+  - title: "Housing bill flies in the face of environmental democracy"
+    excerpt: "The declaration by the Dáil in May last year that Ireland is facing a “climate and biodiversity emergency” would suggest that there is Government recognition of the scale and seriousness of the climate crisis. This year marks the beginning of a decade in which global emissions must reduce by 55 per cent, if the 1.5 degree limit in the ..."
+    publishedDateTime: 2019-12-30T00:48:00Z
+    sourceUrl: https://www.irishtimes.com/opinion/housing-bill-flies-in-the-face-of-environmental-democracy-1.4126759
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
+        width: 700
+        height: 367
 
 secured: "AOiHiMYevCI9tyOv4kzvOTAw8Gq/E02Hem/YrBSN3ceK8NA4Ms8/wHCCMfM+OChclxwAtepHMV1vB8L2fbDpkLlBrsRfyZXsLQdI+NB8xj9H7dgjekTkjEu9CfuT1Xhda4gPf0kvv6+eAiUJk7Wgr4IumFsx/CyF/C1WJbAOOOGSmXppdKnXm5RYQ5LJTCPSTCS9HXNtq6ethTPKiC/OxX6zpdmRshw91IrjNaD0BC6prMFAJ6p6TavCjFPcuovG9ao3pytN6mDM0XwSii6Tdw==;dCxFp2wk6RT1+tHqaj7dkw=="
 ---

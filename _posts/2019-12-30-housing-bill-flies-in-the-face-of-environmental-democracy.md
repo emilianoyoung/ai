@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Ten amazing scientific and technological breakthroughs of the 2010s"
-excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
-publishedDateTime: 2019-12-29T12:11:00Z
-sourceUrl: https://www.bbc.co.uk/bitesize/articles/z4bx7nb
+title: "Housing bill flies in the face of environmental democracy"
+excerpt: "The declaration by the Dáil in May last year that Ireland is facing a “climate and biodiversity emergency” would suggest that there is Government recognition of the scale and seriousness of the climate crisis. This year marks the beginning of a decade in which global emissions must reduce by 55 per cent, if the 1.5 degree limit in the ..."
+publishedDateTime: 2019-12-30T00:48:00Z
+sourceUrl: https://www.irishtimes.com/opinion/housing-bill-flies-in-the-face-of-environmental-democracy-1.4126759
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: The Irish Times
+  domain: irishtimes.com
 
 topics:
   - AI
-  - AI in Autos
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
+  - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
     width: 700
-    height: 393
-    title: "Ten amazing scientific and technological breakthroughs of the 2010s"
+    height: 367
+    title: "Housing bill flies in the face of environmental democracy"
 
 related:
   - title: "From ray tracing to AI: best gaming technology advances in the last decade"
@@ -78,20 +78,20 @@ related:
       - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
         width: 700
         height: 393
-  - title: "Housing bill flies in the face of environmental democracy"
-    excerpt: "The declaration by the Dáil in May last year that Ireland is facing a “climate and biodiversity emergency” would suggest that there is Government recognition of the scale and seriousness of the climate crisis. This year marks the beginning of a decade in which global emissions must reduce by 55 per cent, if the 1.5 degree limit in the ..."
-    publishedDateTime: 2019-12-30T00:48:00Z
-    sourceUrl: https://www.irishtimes.com/opinion/housing-bill-flies-in-the-face-of-environmental-democracy-1.4126759
+  - title: "Ten amazing scientific and technological breakthroughs of the 2010s"
+    excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
+    publishedDateTime: 2019-12-29T12:11:00Z
+    sourceUrl: https://www.bbc.co.uk/bitesize/articles/z4bx7nb
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
+      - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
         width: 700
-        height: 367
+        height: 393
 
-secured: "PGzfijZboSeE8UBJZff+NGVTYny+RBdnf29F892ry8pPYwPqe1euD08zXz7u36c8HKa/rf1awoCf9x5WOhAJpU60HNW1oN1omPGfZIA5oChzN6Z6o8P0Uh4EawUtJj6yVvUDK0VuNgU3gNgOz9CsB/rLihMlBvfoa5ms+nm7YwHPC7hwRS1UHJcgpx7rDzFB16RBYj+7xCrXvAxS8jdR85LcFrEb9WL/wEHbuMdFq6kZ0yaXQw83ALLnmiBf7XldfnvbUlf3r/4V4YMwwj7E2A==;qapwdhLEm6JH9L65gLg1hg=="
+secured: "AV3BuU8tiCoXpAAXRcNyYFaoBD446WATCB7aijiTxj7HVTvwuxDcQ6jIpJPbr9EeJgDjLVqzgoggR47rikalX4UmfwF4gDpNUGwz5PNn+wD5W1eEuxu5qL/ZnQrg5SV5En1GTwvtwXjBYZS6mcq3dy6l84J0sif44t35chyDWvGXwYJVI9W4jpG2K0u+SrGkl1vbleV8WuloFiS6SWotKYE41kK5Bsomrw84cS31EwzoFiM1h7Yjpyq4ebjas8wurVM6+qPb3mcvCr9RbpY5sg==;/L9+hd8AwNj53Hb3JLm8uA=="
 ---
 

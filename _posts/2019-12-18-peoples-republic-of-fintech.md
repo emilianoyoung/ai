@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
         width: 700
         height: 525
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
   - title: "Tavant's Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
     excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center. Additionally, the organization received multiple industry awards for innovative product launches ..."
     publishedDateTime: 2019-12-18T12:52:00Z

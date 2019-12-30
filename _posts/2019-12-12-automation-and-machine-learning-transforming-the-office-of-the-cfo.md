@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 91
-heat: 441
+heat: 431
 published: true
 
 provider:
@@ -304,19 +304,6 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-09T23:39:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/09/9066563.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.139D907EBC676118B60019BDEFDFF229
-        width: 400
-        height: 271
   - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
     excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
     publishedDateTime: 2019-12-10T01:22:00Z
