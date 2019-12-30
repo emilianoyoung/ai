@@ -304,19 +304,6 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS – the world's first and only AI-equipped robotics table tennis tutor – will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-10T01:22:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/omron-returning-to-the-consumer-electronics-show-with-next-gen/article_8398498e-51e0-5f48-8c00-e5f2ef92b7dc.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.3AC4AD84AD56D433E02BAB8FEDF96093
-        width: 400
-        height: 271
   - title: "Automation and artificial intelligence could save banks more than $70 billion by 2025"
     excerpt: "Savings across the entire financial services industry could top $140 billion in the same time frame, according to Accenture."
     publishedDateTime: 2019-12-13T15:53:07Z

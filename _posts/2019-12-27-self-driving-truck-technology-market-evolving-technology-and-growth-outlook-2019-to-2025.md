@@ -44,6 +44,21 @@ related:
         width: 700
         height: 393
   - title: "How AI came to rule our lives over the last decade"
+    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+    publishedDateTime: 2019-12-30T02:57:00Z
+    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
+    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
+        width: 700
+        height: 445
+  - title: "How AI came to rule our lives over the last decade"
     excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
     publishedDateTime: 2019-12-23T11:35:00Z
     sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055

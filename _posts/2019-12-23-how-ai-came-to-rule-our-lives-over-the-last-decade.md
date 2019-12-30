@@ -52,6 +52,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+    publishedDateTime: 2019-12-30T02:57:00Z
+    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
+    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
+        width: 700
+        height: 445
   - title: "Is self-driving technology the future of trucking?"
     excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
     publishedDateTime: 2019-12-25T05:00:00Z

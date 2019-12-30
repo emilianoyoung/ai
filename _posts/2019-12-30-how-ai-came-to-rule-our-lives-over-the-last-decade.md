@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Ten amazing scientific and technological breakthroughs of the 2010s"
-excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
-publishedDateTime: 2019-12-29T12:11:00Z
-sourceUrl: https://www.bbc.co.uk/bitesize/articles/z4bx7nb
+title: "How AI came to rule our lives over the last decade"
+excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+publishedDateTime: 2019-12-30T02:57:00Z
+sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
+ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: KSTU
+  domain: fox13now.com
 
 topics:
   - AI
-  - AI in Autos
+  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
+  - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
     width: 700
-    height: 393
-    title: "Ten amazing scientific and technological breakthroughs of the 2010s"
+    height: 445
+    title: "How AI came to rule our lives over the last decade"
 
 related:
   - title: "From ray tracing to AI: best gaming technology advances in the last decade"
@@ -53,21 +55,6 @@ related:
         width: 1200
         height: 630
   - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
-    publishedDateTime: 2019-12-30T02:57:00Z
-    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
-    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
-    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
-        width: 700
-        height: 445
-  - title: "How AI came to rule our lives over the last decade"
     excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
     publishedDateTime: 2019-12-23T11:35:00Z
     sourceUrl: https://www.channel3000.com/news/technology/how-ai-came-to-rule-our-lives-over-the-last-decade/1153741055
@@ -93,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1F72B5E017F43A67B2F3C128762C1730
         width: 700
         height: 393
+  - title: "Ten amazing scientific and technological breakthroughs of the 2010s"
+    excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
+    publishedDateTime: 2019-12-29T12:11:00Z
+    sourceUrl: https://www.bbc.co.uk/bitesize/articles/z4bx7nb
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.3A8662A252F179F04A23CA816778A6A2
+        width: 700
+        height: 393
   - title: "Housing bill flies in the face of environmental democracy"
     excerpt: "The declaration by the Dáil in May last year that Ireland is facing a “climate and biodiversity emergency” would suggest that there is Government recognition of the scale and seriousness of the climate crisis. This year marks the beginning of a decade in which global emissions must reduce by 55 per cent, if the 1.5 degree limit in the ..."
     publishedDateTime: 2019-12-30T00:48:00Z
@@ -107,6 +107,6 @@ related:
         width: 700
         height: 367
 
-secured: "PGzfijZboSeE8UBJZff+NGVTYny+RBdnf29F892ry8pPYwPqe1euD08zXz7u36c8HKa/rf1awoCf9x5WOhAJpU60HNW1oN1omPGfZIA5oChzN6Z6o8P0Uh4EawUtJj6yVvUDK0VuNgU3gNgOz9CsB/rLihMlBvfoa5ms+nm7YwHPC7hwRS1UHJcgpx7rDzFB16RBYj+7xCrXvAxS8jdR85LcFrEb9WL/wEHbuMdFq6kZ0yaXQw83ALLnmiBf7XldfnvbUlf3r/4V4YMwwj7E2A==;qapwdhLEm6JH9L65gLg1hg=="
+secured: "qPPPgxMUmFEhn4aQNXu40DD7SmfH//hQxQ6PQbjurijB1eUwKVhLqJ1YT5pwtFfdKWdeL7pRwmdPjZ3vV/mqe91hMDtdD7IAELtbXjHjyS8gG7HkJ6kpYZWsEtdUczQ8Zdu72RaOlTAYdDVuRoyImrTy1MSqLWJvedpTxAo4gcMWHnt+gsNhG6CHBVvm5Y8YgKWPrJ1Eie+I51+nMqncjpUKKzViVVFmysM/+4vUs4pbhd/zdPJt7UR4P0cEzOBFa3af8hQmjR9OyHweX5dfcw==;YG8oO2h33aPMorQs4P8kJA=="
 ---
 
