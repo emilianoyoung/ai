@@ -108,6 +108,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
         width: 470
         height: 246
+  - title: "Warehouse workers adapt to robot coworkers"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T17:27:00Z
+    sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
+        width: 620
+        height: 330
 
 secured: "AWRS0y4bvxeyuKGfRKH5OBziKrHxDcxAKbwiZKsojLnHwKk21OvrKXkk+Cbq7+7EIgMZYB5vlBzZNWL1O3hAp+/iIQfeExUGxcBKzImSZuAwhiZPsCqDsVbF2Ss59g/pAhR9fRwBbI544kny+ypNDGtZiVQAdJhF2BQbL3NbJiyYACReanI8vPIgqaJ9Y4KMoUvPq8L2WhJ6FEe7PhQWbAvq58SbFDTVtGEKetCLggpEEX757FbCzLdRu+oADfFeaJu8ZuoxCFZUROUTpY6F0g==;3Dklh2CXXWcNd/oznPnU5Q=="
 ---

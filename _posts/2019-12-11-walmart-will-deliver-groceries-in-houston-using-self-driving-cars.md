@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA37E56B78F27D1EB916CAB5FB937C91
         width: 600
         height: 315
-  - title: "Walmart Tests Self-Driving Cars for Grocery Delivery in Houston"
-    excerpt: "Justin Sullivan/Getty Walmart announced a partnership with the robotics company Nuro on Tuesday to test a system for delivering groceries with self-driving vehicles beginning in January 2020. The retail giant has been in the grocery delivery business since 2011, when it first began to pilot a program in California that allowed customers to ..."
-    publishedDateTime: 2019-12-10T18:00:00Z
-    sourceUrl: https://www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527
-    ampUrl: https://www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/walmart-houston-autonomous-vehicle-delivery-test-1476527?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.DECA53778FE9EFD9C54C0C94D5A61C2A
-        width: 700
-        height: 478
   - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
     excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
     publishedDateTime: 2019-12-11T14:10:00Z

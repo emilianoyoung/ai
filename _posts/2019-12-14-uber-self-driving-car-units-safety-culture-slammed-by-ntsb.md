@@ -140,21 +140,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
         width: 700
         height: 489
-  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
-    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
-    publishedDateTime: 2019-12-10T17:13:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 34
-    images:
-      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
-        width: 636
-        height: 382
 
 secured: "F9LkLjX2ff7YnbGgA8NiaXGCo1y5OLlNeMlgU4+qPLwSv02/5V0xtMipSfdIwno0eNZVRpFHQJpGv50iF8r2gog4t2GUJwck2uNbQABCUjQFpS6oo0xW1r5lqd1b4i/70BOgFdrNgCt47w4TrjSs258xptrwcdwW6Cawo5CX+22ZK1GlcA5L8M6vy4+z/1dAQ/U6BYvX6Md0AkvpBZRDnzB33EgPu4GKcSEHHakS1Le93r4FILlFjkYJAmEyYCdLtq1FUglhJQz3RlNTARSl7A==;WLVvFrdC8YBCINCNCAyp/g=="
 ---

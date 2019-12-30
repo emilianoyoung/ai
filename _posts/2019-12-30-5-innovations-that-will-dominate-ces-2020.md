@@ -24,51 +24,56 @@ images:
     title: "5 Innovations That Will Dominate CES 2020"
 
 related:
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
+  - title: "5 open source innovation predictions for the 2020s"
+    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
+    publishedDateTime: 2019-12-30T17:24:00Z
+    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
+      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
-        height: 357
-  - title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
-    excerpt: "Samsung is set to unveil a new artificial intelligence product named Neon at CES 2020, and apparently, it will be nothing like the company’s A.I.-powered digital assistant Bixby. Not much is known about Neon so far, aside from what has been posted so far on the product’s social media pages. The pinned tweet for Neon’s official Twitter ..."
-    publishedDateTime: 2019-12-29T15:30:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
+        height: 525
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
+    publishedDateTime: 2019-12-27T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
-        width: 700
-        height: 366
-  - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
-    excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
-    publishedDateTime: 2019-12-30T05:54:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/
-    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "UK data science and AI predictions for 2020"
+    excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
+    publishedDateTime: 2019-12-30T08:06:00Z
+    sourceUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
     images:
-      - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
-        width: 457
-        height: 299
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
 
 secured: "elIv7acNjXpMQZ48APc89yNGAhxeciAITeEL7AfL/5rs51YK5shdGeVoFP2kwItOQ4X/9cayBi+XSA4cEKNx+1DlNNBMH4hKMaomWTPuXBh2ieZFWv1vo41C18o0x60oS3cuk2qapnbeoVybSM7Hqvrd0sXBc6OIVL7+ATL0NZxESpmehU3bz1WCoKCmFYIw8xLII/uufXbc7bV2wD7jDT5KMr7rr+kEmEqDxJZpu5HBaGQmDWnRillNC5dGvMfaXbJQHfU4KL8U1cvwLCz2cw==;a2VOD9ZW+fJHIWJVLZLC6w=="
 ---

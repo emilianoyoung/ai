@@ -26,6 +26,21 @@ images:
     title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
 
 related:
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+    publishedDateTime: 2019-12-05T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
+        width: 1400
+        height: 933
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
     publishedDateTime: 2019-12-05T18:55:00Z
@@ -54,6 +69,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
+    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
+    publishedDateTime: 2019-12-11T00:12:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
+        width: 578
+        height: 289
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -118,6 +148,6 @@ related:
         width: 632
         height: 422
 
-secured: "bL2gjYhAwXwa5h5dvFTQtJwNr8iYwLkw6jwWREi6PyE6KI7TPmIoaWp4AGbPnjsZFVyuylfxcgGWlFwJ69xldkWnGNDjf2h/iX6L5bf163YbY8Zu4H1xgSljIXeWy5xBgdjvEP7+UFVqTyK3mAs7jBlNbTtXfW7BuFuMRF+PMb1qtCh8dSofxh+pDwJaP3ipbw8q3BHAocw5G1Dr1VRNZiL5w9FDaphWbVsLU7cW6DS4anB0NzXmUve0Op4ly58IpaueGlf171LL0NVy6K3x+g==;msldO0s4C2tzrO+sUbzIFg=="
+secured: "rRuOhMfZ7/yYZDaLeEHNE1zc1/ZG3uPL9j3Ht76Pf3Vpj/sIOH3q4XWI2sbMQLNqda67u/7bLgNAQRlmOepBx66UZ9t4YO0oq7Pl6JRleuJis5fUNjd0iscEpuIMWJ8w9HA7wbVZlYNH/jqocvH56R87cms5CENvRjU9mM3CKci1idTEaPheFYilLLYMar1fVj+4t3XlzCVIcuM1uULBghMg5mvPWj9YvoAV5llQpebAH5L/gaQZkQcGavN+5OKctuZZFdXpIdLLnfmMOlUK6w==;IWd1vc1QIg+TGn39xdCpoQ=="
 ---
 

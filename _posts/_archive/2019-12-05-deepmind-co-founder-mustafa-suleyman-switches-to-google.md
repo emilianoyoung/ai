@@ -8,8 +8,8 @@ ampUrl: https://www.bbc.com/news/amp/technology-50679791
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
 type: article
 quality: 89
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -30,6 +30,21 @@ images:
     title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 
 related:
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+    publishedDateTime: 2019-12-05T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
+        width: 1400
+        height: 933
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -43,6 +58,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
+    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
+    publishedDateTime: 2019-12-11T00:12:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
+        width: 578
+        height: 289
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
     publishedDateTime: 2019-12-06T11:15:00Z
@@ -122,6 +152,6 @@ related:
         width: 632
         height: 422
 
-secured: "73ytwgt0COKcT9glV2xqOC2bamUsEv9buMwAYn09iq6Sn2l1UWE8RY9qVWoLOdfHKM868Y8z/F5aYPmMBU0obAXqPQ/19CGbpklAKwF8Mm4RSJyLfNO2BzX78IXcdsfFvugES9yhGBmn2wCLLmxrursryFQcUzajWf0to/9AtnwyryN1v/LhzI+ICoxr2fBYTwWTq9WJBTbv4Dp1MgtqrcW5qLbADNqpa2riyipzm2DP612KF8TrgtMoJoZxgfSKNLPqgTio5+V4us3qI4fn7w==;gHboY2H1J1be3DqlNQ6HEw=="
+secured: "m+fYw/5YItJpYZ2OSFtLpj2QgHEPDh5dgZuVKN2O5CcrBnCgXQcCjsX4s3w/XiTrI/5MQuqO3d5qvSJTRYFapuCfNJyddTd+UJbmTqPb1VRs112cyo/bXjZeEgO2/BTWgE8y8gpCs+ZnOIWUGteNZ1XL6/sCmfhSF2jXFRqByKOb4/0fVVndmvqk0opK9QRvCOZPwhIRgt5cJlXVQeQgUeY+QeGkx+CHi64qBr9+1W/xJ95UqXvCJ4Pig+A2WU87fcRImA5DHV8KNVhjwqIjUg==;snZZN6p8bVs84hz25yItlw=="
 ---
 

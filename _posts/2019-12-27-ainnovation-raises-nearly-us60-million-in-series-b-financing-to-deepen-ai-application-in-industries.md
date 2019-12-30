@@ -8,8 +8,8 @@ ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-u
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
 type: article
 quality: 52
-heat: 62
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,21 +23,58 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence and Financial Analytics Provider Aylien Secures $5.5 Million via Series A Round"
-    excerpt: "Aylien, an established provider of artificial intelligence (AI)-enhanced risk intelligence and financial analytics tools, revealed on December 23 that it secured €5 million (appr. $5.5 million) in funding via a Series A round. Aylien’s investment round was led by Finch Capital. Existing investors that also took part in the round include ..."
-    publishedDateTime: 2019-12-26T04:53:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155651-artificial-intelligence-and-financial-analytics-provider-aylien-secures-5-5-million-via-series-a-round/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155651-artificial-intelligence-and-financial-analytics-provider-aylien-secures-5-5-million-via-series-a-round/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155651-artificial-intelligence-and-financial-analytics-provider-aylien-secures-5-5-million-via-series-a-round/amp/
+  - title: "5 open source innovation predictions for the 2020s"
+    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
+    publishedDateTime: 2019-12-30T17:24:00Z
+    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.4A7343E9B0213CFB0FB8D663FA57DD46
+      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
         height: 525
+  - title: "UK data science and AI predictions for 2020"
+    excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
+    publishedDateTime: 2019-12-30T08:06:00Z
+    sourceUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
+  - title: "5 Innovations That Will Dominate CES 2020"
+    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
+    publishedDateTime: 2019-12-30T16:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
+    type: article
+    provider:
+      name: Entrepreneur on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
+        width: 700
+        height: 466
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
 
 secured: "Gb056CIlaBzu2+xbVEG3zQ472FtFcurpx1gr6D8VdaTQoUXX+TuFh2vEAlTd0ZyHj7N4RRq+zyFpmv/V3KYnXdUZrN5M6JiqN9V0SGwk7C7E1Z6QnoBSQg5upLtSsupC/rKb84+QD3lmVEb6xJucPxfz6s3FpWsCqbEI9fqrCMG66h+JuVj1Kln2NcdPRIEPGv0eIhIdluWIaeOacfgFsdJDkvW6ZOrfqA4VD42a8vNu7tZ593yjb+WA/VjOBFO2wL4aoI3PWNgndHcC2JiFaw==;x7sdzaF5qQCAIrw1qMqVwg=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to
 cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mic
@@ -27,19 +27,64 @@ images:
     title: "Artificial intelligence development is starting to slow down, Facebook head of AI says"
 
 related:
-  - title: "Google is developing AI to do more with 'much less data'"
-    excerpt: "Though Facebook's vice president of artificial intelligence predicted researchers attempting to scale AI solutions will soon \"hit the wall,\" the head of Google's AI research group recently countered with many ways to get through, over and around that wall. In an interview with Wired, Google's Jeff Dean, PhD, said that much of AI's potential ..."
-    publishedDateTime: 2019-12-16T22:05:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/google-is-developing-ai-to-do-more-with-much-less-data.html
+  - title: "Augmented Intelligence: Empowering Humans, Not Replacing Them"
+    excerpt: "It is nearly impossible to talk about technology today without some mention of artificial intelligence (AI ... From smartphone applications to healthcare diagnoses and self-driving vehicles, technology continues to automate more aspects of our everyday work and life. Perhaps this is why many have an irrational fear of AI, worrying that ..."
+    publishedDateTime: 2019-12-16T13:35:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
+        width: 600
+        height: 315
+  - title: "How artificial intelligence is making health care more human"
+    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
+    publishedDateTime: 2019-12-12T22:52:00Z
+    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
+    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
+        width: 700
+        height: 393
+  - title: "Artificial Intelligence Trends to look at in the year 2020"
+    excerpt: "Through futuristic technologies like ‘Decision Moments’, which includes an upgrade of the conventional data-engineering toolkit, or Einstein, an integrated set of AI technologies that includes advanced machine learning, deep learning, predictive analytics, natural language processing and smart data discovery all within Salesforce ..."
+    publishedDateTime: 2019-12-17T05:38:00Z
+    sourceUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/
+    ampUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
+        width: 700
+        height: 329
+  - title: "Putting the 'art' in Artificial Intelligence"
+    excerpt: "Artificial Intelligence never ceases to surprise us. Recently, AI was used to determine if Shakespeare took outside help to complete some of his work. It turns out that large portions of his play Henry VIII were written by John Fletcher. At least this is what researcher Petr Plechác's AI neural network would have us believe. The literary world ..."
+    publishedDateTime: 2019-12-19T09:24:00Z
+    sourceUrl: https://www.khaleejtimes.com/editorials-columns/Putting-the-art-in-Artificial-intelligence
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
     quality: 39
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
-        width: 400
-        height: 300
+      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
+        width: 725
+        height: 725
 
 secured: "v3kWaAhmyFrWULmQUCiH7/zQ162CQ+PCzOL+aT92wWwEpM146F9dix9+kfqwVB1CdKhvHGTZFKIpKxeDkxW2HoMKqRyeCUgIgLE9TG8425m4IMYF1UfUqz9OP5RllqFkwax1gIvuSAL/HcrFJfF8oC/GSh7QBVQMYGmXpExHfRlwBoMEa6USGDGaEEkLxMpAmvdwsHmgzfYIdYYZEOInanUx8GOURX8dXQ46HK+wkYkFLYBN96w22YvmezaP/Rsq6DfDmhc6HV0iS5qSUDsjKw==;T+7+RpPj1kUNTp6N6GGmrw=="
 ---

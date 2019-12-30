@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/30/explainable-ai
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/30/explainable-ai-the-rising-role-of-knowledge-scientists/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Explainable AI: The Rising Role Of Knowledge Scientists"
 
 related:
+  - title: "The Future of the Brain: Implants, Ethics, and AI"
+    excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. David Bueno, a geneticist at the University of Barcelona, said we might tailor people’s ..."
+    publishedDateTime: 2019-12-30T18:00:00Z
+    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
+    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E28599E0D96C029F67A88919F0DAAB66
+        width: 639
+        height: 479
   - title: "CIO outlook 2020: Building an explainable AI strategy for your company"
     excerpt: "Explainable AI ensures there’s a human present in the loop of the AI process, where the machine provides transparent and reliable explanations, and the human can correct the machine in cases where its decisions are wrong. The sooner such an AI strategy is explored, the sooner an organisation can start reaping AI’s incredible rewards."
     publishedDateTime: 2019-12-25T09:30:00Z

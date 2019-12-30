@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/12/11-often-ove
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/12/11-often-overlooked-ways-to-leverage-machine-learning-for-advertising/amp/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 600
     height: 315
     title: "11 Often-Overlooked Ways To Leverage Machine Learning For Advertising"
-
-related:
-  - title: "Sandline Discovery Leverages NexLP's Cognitive AI to Deliver Leading Behavioral and Linguistic Intelligence"
-    excerpt: "WASHINGTON, Dec. 10, 2019 /PRNewswire/ -- Sandline Discovery, a premier litigation support and eDiscovery service provider, has selected NexLP's cognitive AI platform to assist in delivering new innovative analysis services to its growing global client base. Leveraging powerful data analytics and machine-learning driven tools are at the heart ..."
-    publishedDateTime: 2019-12-10T17:41:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/sandline-discovery-leverages-nexlps-cognitive-ai-to-deliver-leading-behavioral-and-linguistic-intelligence-300972537.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
 
 secured: "J//ulE5NWROUN99MMdBrSpRXqeNRQdKKq+7YWRNEbVr0kJRNnntIGM4dWR2rdfPkIMwh+SSfNJ8Zumt8Tnmr/gtMFX8EreNNcWI/W1+aSAk15AbBV/HBptqNjD91gpz29melReU7ug58n/FkSu71MI78Nr9Bswk/HF2p+e5Ay6w5O4FsiVXtyKijKlEUeOXYi8MBR3i1rgJ+M/w7+ykJYZTYTpJH3Qtd/5RuImr2B242H3NrlFin1bbYvuVtDL/YyipQphvoslFIzz9jeX1F8w==;8wyz16wxEL4bPohy0KYeYw=="
 ---

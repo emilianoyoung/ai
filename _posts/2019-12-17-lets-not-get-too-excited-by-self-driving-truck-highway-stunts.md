@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -131,21 +131,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
         width: 700
         height: 489
-  - title: "Self-driving truck completes FIRST EVER cross-country trip from California to Pennsylvania"
-    excerpt: "A self-driving truck has completed the first cross-country commercial freight run. Plus.ai, announced its truck traveled 2,800 miles autonomously from California to Pennsylvania hauling a fully-loaded refrigerated trailer of perishable cargo. The vehicle is fitted with advanced autonomous driving system that utilizes multimodal sensor fusion ..."
-    publishedDateTime: 2019-12-10T17:13:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7777243/amp/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 34
-    images:
-      - url: https://i.dailymail.co.uk/1s/2019/12/10/17/22063942-0-image-a-35_1575997830576.jpg
-        width: 636
-        height: 382
   - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
     excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
     publishedDateTime: 2019-12-14T02:05:00Z

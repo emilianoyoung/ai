@@ -27,7 +27,7 @@ images:
 
 related:
   - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
+    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
     publishedDateTime: 2019-12-02T19:54:00Z
     sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
     type: article
@@ -49,6 +49,6 @@ related:
         width: 1200
         height: 630
 
-secured: "EbXqyq7iaCsquQGhZgey3DGf48+x1IaHpq8CJ+9m6S38zBEofff7le18Fmu4Eh0bT+5232kcXATRe8+fzwD/zEKEwbUG2i9RQBgaLhCXkKtTEcFOEUUY5bSZPxSYjrj6J62EBYmqB6dRvGE/ju/rZ3V8cdCB+YElaDfciz8PxWcT6PxynVjvcOqTCNjIpMjxMK6LUTkJT6jGqN2st4JrLaxOoI78kEwrZK0wFua5mQyfQC1ORlXb3iU2Q7P+e/5KWZo0952T2ydbzQaJatz9IA==;hvYedWtVxO/XfAwO97RcYg=="
+secured: "8cuksvr9B3xxjSFVRjb7oILSi15L5lb590TmeKMlcOtKEkDNHz2hxqWdzSmi2LNek7tSsNiFO1dB//hLJTAATGgMnrhcw4cC8w++dnfffejqKUbc5iwIApcIXwzFA0srDEipHo0PkjQH3GrE42sxXQ7n3zrx3nDetdH1W0RyNwQYwODvNIou1PxjTOT9c6Pkr7Kp3i+09YX18BXIZI8EURg0UQKpo7wJaOwBM5sBy4BR0kFHgAT+BVqnU4GRIsmtKShZHTMm0yoFqc3nBu9lEw==;fh4EyABNTQ/+h1IEMoyrrg=="
 ---
 

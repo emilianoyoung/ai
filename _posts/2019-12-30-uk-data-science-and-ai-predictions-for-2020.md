@@ -20,19 +20,58 @@ topics:
   - AI Ethics
 
 related:
-  - title: "5 trends that will impact AI, analytics and data governance in 2020"
-    excerpt: "From the algorithms that drive credit limits to the use of facial recognition software, AI-driven technologies are under scrutiny from consumers and governments alike. As a result, many organizations are expected to add Digital Ethics Officers in the coming year. These officers will be responsible for implementing ethical frameworks to make ..."
-    publishedDateTime: 2019-12-24T18:00:00Z
-    sourceUrl: https://www.healthdatamanagement.com/opinion/5-trends-that-will-impact-ai-analytics-and-data-governance-in-2020
+  - title: "5 open source innovation predictions for the 2020s"
+    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
+    publishedDateTime: 2019-12-30T17:24:00Z
+    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
     type: article
     provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.8D656BD9E1815D67532F7B9303D12D58
+      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
-        height: 367
+        height: 525
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
+    publishedDateTime: 2019-12-27T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "5 Innovations That Will Dominate CES 2020"
+    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
+    publishedDateTime: 2019-12-30T16:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
+    type: article
+    provider:
+      name: Entrepreneur on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
+        width: 700
+        height: 466
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
 
 secured: "SvY7YGov/2UowqkTzSUQgjMulCoJ8extmVDVUn45455hA+2qT6aGWFFCCVgfpGBB3+MMeD1MJukVCUwmT608B+L7GP3JydIDRewwKNd17W0P/0rImE83wYq5Rp9xqnbaZBIMp6CfcGyR2oRtNmkJJOe7pjWMc+uyzyJFrXxeqNpT/SWksVZgEdiiZnmEiQoPi5ALFVNBH5VK0p4TMTRSBfEPl/oDfMGlKjgqnQVHq4Gmx6aI7K4272AleFQNfLPCbcCK3AwQBOB0zMKyd6Fltg==;TxzD63dPdbXWeL29S3nvjA=="
 ---

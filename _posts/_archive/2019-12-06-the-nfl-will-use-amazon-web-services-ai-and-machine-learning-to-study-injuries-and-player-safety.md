@@ -24,19 +24,21 @@ images:
     title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
 
 related:
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
-    publishedDateTime: 2019-12-06T15:41:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
     publishedDateTime: 2019-12-06T15:42:00Z
@@ -48,7 +50,18 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T20:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 17
 
-secured: "g3COOpGy5ExFSOUIk+MJ6oOtkzyRCatTxi+6bYiLr8BPc3rOVJ2Sl9Z6GD5IEKh62pMAtpRH7PxofvAuPzhroNRH2RrcN60fB8Ca2+R/bIu41D7z/2sktXSntsQfjDPeOt+cbeGyFkEKj9URCa/7cl9nDnZG/LUqFR8wgL8ZBqWcSrAuUw3PBKyrp5O1D2doZtF2R/p4n1x25d4G6HKtdHSFu97rcHxcwtfyda/9TbzHi3kqqkvhdLXkCEA6OnsZJsLuakfMpb0HaRQVftlSpA==;cKoc6rLbH0PmaXjk14RRxg=="
+secured: "4NtBbQvfjI6RqTox+6S5wwjjPJJsQka8OfZh7jTEimEbjsxg6g2CvikEA0LxIeAP0gfzH/EZllCV3/ARZ3U+PUSlYu8THtIIJ7R23og64lruD6c11iSIXEWluuSTe0hb1bUidZMt/HTd36Gi2mbHvYRvASnN3dQcoWvQmHUQKtdpv2TLWHXfJq4nrbQMaCBnJrZy3Lm0d7OMXeP2nqlC821RA5P0kQxQA2B0sLZRt87v0ICNU60Wa1eawoFdQpERWB1+iF4yozp9P+R9xSy28w==;v9m6yeMxxsDWoP/4BFCNXA=="
 ---
 

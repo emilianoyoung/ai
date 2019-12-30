@@ -407,6 +407,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T12:20:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+    ampUrl: https://markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
     publishedDateTime: 2019-12-20T16:02:00Z
@@ -486,17 +497,6 @@ related:
     provider:
       name: Australian Techworld
       domain: techworld.com.au
-    quality: 0
-  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-    publishedDateTime: 2019-12-30T13:32:00Z
-    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
     quality: 0
 
 secured: "YaKvLXW5bIm7WPXPBeL4Sdi3PqiQlmS3rtjjB+jnPlLRC5+1SVo+Wjgh7BzAMzEtj6A82DVKWkjfDirGk3QA/5MW7IJtPhbqMFYBzQkNKrlOQCHdnyhCxVJRWUkl87cQaIeHcCnGOtLgSjH0WKGUVQoNvyNJraDZu4sE9VwTjYNi/zXQPDtZIcf85cICmIN/1HKR2EnE09j68rod7/TBIBDD2pHWA8CBiRl3L3O2lOFEi4Is0pn4ygykoAutAp3mTwfB/h63RcwW/ZfE0gHNPg==;MzY4di1RJree2TcJ87NR5Q=="

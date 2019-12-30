@@ -110,6 +110,19 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 39
+  - title: "Warehouse workers adapt to robot coworkers"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T17:27:00Z
+    sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
+        width: 620
+        height: 330
 
 secured: "Yym87mPi8eDzTPPnfeaSM76B/RlKbluVsbtCAc/B6Q7f14w1e2DabJ64+wOfnc4MD2O1ZYCTErmoUnIJ3WfnX2Byp5OF0Ah6klrtmIYXRCMypF5sYamNVrTAx+b50f1iNZpzRf6v9VnzOKMYy3XJJCXub2NYcPbPclab/uR0O2bZRiGUbyPGsv+NBmb4zk8gznebgv4xr8PAb/mGslNmcrVJ9Cxo3HFYku2V51JCROiPGH83FKKLOvkDEUzZhHqHHuOSn2C5K+959lvDbOmcpQ==;oyTaOdcrneocLyVFDg/E1g=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 54
+published: false
 
 provider:
   name: Nasdaq
@@ -23,32 +23,6 @@ images:
     height: 512
     title: "Amazon Partners National Football League For Player Health, Safety"
 
-related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 41
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
-
-secured: "DQNyusW7HIoR0lpmHwMx0JvOz37Nfmy2xajRfT1XzUuJc/H6pD6NafVlEubYGouuFwgm3aveZXSXffHitUo0/QE6Qrs1XhF5Wo4p3fuqa6h79rBqxIFiWUsiln+2w4VfCCYpHpFCPA0E6+KNTgVa1TwTTqdGVN4Bp56ifXOrhzPn2POhoEbibTkziPhHMP5MxsNKxwGUcVvj5id2YAEtWOzxOW+Gb5oemgOz/nUWiFG7FnwBfm/VfuDEb+RDJcLy9xoTpmwhoVp0cFVxxil9fA==;P6O8s70TuTzHdxWcLgBwkQ=="
+secured: "fFlY/73X9FTyxGOMEP8q95NswuMhMRQVFmrrlzC9Z6vfMKxQ/u26vfYGmX/Y24VjnkVM6o030EwauTHUwGiRk05xw8tIeN/fYiZJAAhtuRUt78H1A6zooy1R4EepjPHv4nD1e89A2mpSSDb9mVsNcwbS4FLkCpbuHJgvalpHbPZrkueMVczwW8QpkBjJYmF7ycC+9CXtLjmfP8Y12ez5geDz5MLogt+DV1UA/GKjLSHXk1+op+faCojdE+qwfyNxPu2ncKuOSBHY0iQNFLdosg==;YyHZpvdO+04fup6qRgJWwA=="
 ---
 

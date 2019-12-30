@@ -8,7 +8,7 @@ ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -59,19 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
         width: 457
         height: 299
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
-    publishedDateTime: 2019-12-30T16:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
-    type: article
-    provider:
-      name: Entrepreneur on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
-        width: 700
-        height: 466
 
 secured: "xlKT10zcxJUmacBcJaJafpNEOVGg609ATxC7VSLhmBOzrsJOoacvZ45aJekNAvbufm7ozmsd+sFJ6iq9inqh+xfbosanGi8wT3rNu+ZByVntoPnUKJaSdrQ4pKUpkza7VOnCkjiAIOD8t/F1vGCcweyZnC1zbUmfhpfW1REkSsR8fjqjdihVyZsL00po8IZFOvxmjLRk5NF+BYEyxC3gEVQS6U+eTPLWb/V1hpvkvip2wsURl4LyHXMEBz5zFzakPbnFDeOZcnx+qENFZlDvpA==;7kRuCLGDSlj+yDp2urdG/g=="
 ---

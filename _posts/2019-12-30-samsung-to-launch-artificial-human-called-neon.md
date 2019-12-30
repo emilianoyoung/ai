@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
         width: 700
         height: 366
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
-    publishedDateTime: 2019-12-30T16:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
-    type: article
-    provider:
-      name: Entrepreneur on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
-        width: 700
-        height: 466
 
 secured: "lfxMe203WLY8DMNesGie+/JHtPUbRTyaDlnCMBuV9qGsGSn1l4+YQczlBoGTbiZs+IZLA9EuJ+IqZMYvX0HuHqIbrC+ieJfkcvqoks/blfJ83m8Hb85PpLou8yxGksePpusiUrkAreIt0mV7hVbM7D9VJSOBSHhD1o0nPl/wKWjNg1fsj35tvkclF1tpsklazS9J1T1YVujnYN+i2ghDpSdOU1vhzvQ02hCYmRgXnkmNoiPmcwwE9ffpRPCAUtyE+aSIPNLxOumW28pJ4B5MIA==;aA6582yG6+SdfYIj8Rj6vw=="
 ---

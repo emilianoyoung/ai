@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.737FD08202C36F9B37B5D77BF5B86E9B
         width: 600
         height: 315
+  - title: "The Future of the Brain: Implants, Ethics, and AI"
+    excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. David Bueno, a geneticist at the University of Barcelona, said we might tailor people’s ..."
+    publishedDateTime: 2019-12-30T18:00:00Z
+    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
+    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E28599E0D96C029F67A88919F0DAAB66
+        width: 639
+        height: 479
 
 secured: "5+1fz1kqk1xI7RBTu3Yr6GFPvVai8eana+mpZBuhI17F+Sl2d+MpttU/2BzNzz/4o5EjZJzw8CeQF0Y3VwJG50GnllZpz96g9FSE9QVbpNVkF6mIUIH55rj6EIUtT1C2PeT43zkuHNcR3rUODuCGCGu4DZFkUO8wJi+nDNXx7SZlBaFl1VzOB3XhVXoWDOE0jqD7chDis5bAYx9dLSZ2WdOmm+IwPrdgVsHyvaIfpbR49XcyRp7pIGg1TzVk5Bgq7flmJIMOKoNmc0+UlPQ5Jw==;m93S6vc6zAMviqQxXjHsLA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -110,6 +110,19 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 39
+  - title: "Warehouse workers adapt to robot coworkers"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T17:27:00Z
+    sourceUrl: https://finance-commerce.com/2019/12/warehouse-workers-adapt-to-robot-coworkers/
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
+        width: 620
+        height: 330
 
 secured: "jmYcDcCza5sRsMMRagF27cZEAPTBLn4OLhG2HPoVmB3GJVDO7otCvmpOKYSIQQaqpLF5WWjePO3yim6QOkgLRwK7TkfcI1coTFZMBckn0Pyd3WW48yp/8lUiovtLREUbueovsiWSxIHp9Svp/13NY9eiuMPA5cMpife+XD/iBUFN/JycPQFDeHVq37fMmJRLKWlvPphsRi7m0XeW2J9w5q7mAFIdywmstlJ0td38BsxqCUmulpHr35NBgrE9+YFoKz/KhMr8rN/ZTrsuu4Ly5g==;0ggBp4mGGOutw/BQPpiFAA=="
 ---
