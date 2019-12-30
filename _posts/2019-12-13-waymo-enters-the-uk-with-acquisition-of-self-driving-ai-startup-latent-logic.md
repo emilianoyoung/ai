@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 261
+heat: 251
 published: true
 
 provider:
@@ -181,19 +181,6 @@ related:
       - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
         width: 360
         height: 290
-  - title: "What the Future of Self-Driving Cars Actually Looks Like"
-    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
-    publishedDateTime: 2019-12-10T07:34:00Z
-    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
-        width: 700
-        height: 324
   - title: "Ford adding to Austin self-driving car operation"
     excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
     publishedDateTime: 2019-12-11T22:48:00Z

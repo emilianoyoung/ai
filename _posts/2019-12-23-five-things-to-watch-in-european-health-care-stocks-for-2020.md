@@ -25,20 +25,29 @@ images:
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
-    excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound annual growth ... That team developed AI-powered encryption tools, image enhancement tools, robotics projects, parts of Google Translate, and the TensorFlow AI platform. Two years ago, Google launched a dedicated AI unit, Google AI, to develop custom chips for ..."
-    publishedDateTime: 2019-12-26T12:45:00Z
-    sourceUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26
-    ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
+    excerpt: "The global artificial intelligence (AI) market is projected to grow at a compound annual growth rate of 57% between 2017 and 2025 into a $36 billion market, according to Grand View Research. It can be tough to narrow down promising plays in this fertile market, since many tech companies often cite AI as a major tailwind. However, I think ..."
+    publishedDateTime: 2019-12-26T16:45:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/26/3-top-artificial-intelligence-stocks-watch-in-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/26/3-top-artificial-intelligence-stocks-watch-in-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/3-top-artificial-intelligence-stocks-watch-in-2020.aspx
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 89
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.57BF2A561086F8B2CF73EE4D01843F9D
+      - url: https://www.bing.com/th?id=ON.4C226F17B912D3CA87CE7E37ED30BE3F
         width: 700
         height: 466
+  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
+    publishedDateTime: 2019-12-23T12:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
 
 secured: "XzxTuXQkbElCzLuclT9NPRUJGG9M+zPNQ9WiZ6vVWUMbKpniRfCFU40T8Sz58ptON2RJtcOlRHNPgaKUNcq1+Sp+izZYFslqKjOyGeEtFdb+etCzB4Ypj4sSnnJXOVagFLqzAGfgKcCNmR5wowB7b+kvLHp1xqGCMw8mu2xTfn2eK/IfBx4MzDljO4uP/GwxdhCbmEwYvhmgtWWHl/dnUzSpNgxEX5GEEzBhtc2CEasBhaYJ7R2aCKg94SD52JnXrcPYE3K20lhzNl7rrYPetA==;XMnEW3pSTKrYZCJYnJ5blw=="
 ---

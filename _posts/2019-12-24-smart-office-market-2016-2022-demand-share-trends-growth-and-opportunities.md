@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
+    excerpt: "Dec 30, 2019 (Global QYResearch via COMTEX) -- The fresh industrial research report Global Self-driving Cars and Trucks Market Research Report 2019 published and promoted by Ameco Research.com studies industry trends, market gains, Market development aspects, growth speed, and industry situation during the forecast period (2019-2026)."
+    publishedDateTime: 2019-12-30T06:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-overview-industry-trends-and-growing-opportunities-till-2026-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "pU3ZIHf96rZUcdN+8k7qp1L7c83bNhnYkjabwFoiwmfVWOqjxLhmoIVbdWkw+5RdH3nuZxOh0VVQ2qcaFpkrHConiDSod5u+AoVvPg5xBzdbuf/w2T2XPu4y7lBC/RzG4j6AfBm8c6zaPNK2Faju4bTDVwb/9tFTyOVA6xkKiCXBHZi5EtlFDB9/FDyBYZ7bMnTO1lJqJjtCmm+/OqZQSBvPzf0I/OLQTwcVGNEpmlsBK5BF0UtFh0T/gRav/PIWC7Qx6rUqaUia0rQGpnT8Og==;YowHqswpd4vexA/SgCGYww=="
 ---

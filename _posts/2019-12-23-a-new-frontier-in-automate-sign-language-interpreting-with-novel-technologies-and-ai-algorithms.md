@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F27421521D98E5F079B98AB4E4560E27
         width: 700
         height: 394
+  - title: "Improving Algorithms With High-Level Synthesis"
+    excerpt: "Sometimes the results of HLS are seen feeding back into the algorithm. Klein said he recently worked on a voice recognition system in which the original TensorFlow algorithm, as defined by the data scientists, called for a feature map of spectral data in a 99 x 40 array of floating-point numbers. “That worked great when the algorithm was ..."
+    publishedDateTime: 2019-12-30T08:06:00Z
+    sourceUrl: https://semiengineering.com/improving-algorithms-with-high-level-synthesis/
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 24
+    images:
+      - url: https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/09/iStock-513307992-blue-mascot.jpg?fit=1394%2C753&#038;ssl=1
+        width: 1394
+        height: 753
 
 secured: "v6SyNmjxPiVMKM9ZY2MWHEn6y2Ew4jmqEgnSSx/s90SPf2k2AFdEBmEHPEJSxAjvjeUDGlvCmUA26D8JsTyze/LEpmHU4wt9o7ee4z3GjlXe2w7UcOkof8wPMzCBwAQZNzmfdNaR/iBXbszPKkNMPiL6uPSEMyzBs7OrCSY/Qnm1JNLOURzbatZFyUEqQa8MzZKeAcfSRFl4Xnq1SQHaRFBR5t/UNLDRKKFL7OmGqxpNfzLafHyRhezU7NIgVrtMkrBEMF5A5CkJ+uOGX7fRwg==;zqbjMD6y9m5JrSnI2bZbcA=="
 ---

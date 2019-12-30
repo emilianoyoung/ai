@@ -5,8 +5,8 @@ excerpt: "In 2020, technologies will move toward the ... will begin to appear, a
 publishedDateTime: 2019-12-23T12:00:00Z
 sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
 type: article
-quality: 122
-heat: 302
+quality: 124
+heat: 304
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
@@ -266,6 +267,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "7Zgnd2Nt+69PJwANENeKXApUfFZfezxR9HLo4yaFOa4eVAERgaBEjkfsOhCH+CgszFH0wVlv8BSDoB1ZzHNTVDyCyVmv1OiWa/wDtp3rTvGLWHy0NTFUTksqX0vCnPee/xuLrXx6XKGWvqaMCBZlGupReWBLNB1zZPx+xQKy12DpU/Xe4QvGOutE9zEemG0ZnE3kyEmd0R/ltYSfKRTdZf2mJ28jbBgeITWg2fi9TIhV9T+LKerh6GjuqoE/oEl5zh5PLqPMGnXvK26Aow+XYw==;Jw9VT/3R2APyAeFDbFH1lQ=="
+secured: "tDMGVnDCJGVrADp5esWK0+clKcdKJUEFvfgN5Dz+V23BKaXgcAQyCVAy0/n6OQc5V7lBnyz96hlFT5IN83X1RHdryQK3ib7Pu5NGJYb9/fgIsVsHfyWgp1dJunFApaXgdyX2N4iQZrrnzZSQi3rRZs4+qglXhNT7L/oLz1LG6inrPJ9vftab/IdUkof1Clz0sXxgudD5VyIk5U+VxyWHH72IVERiIa23aZKuWKqs4Xc0Q3EA4d2ec0+CAFF1724Pc/CwpTDB+v3RBeSPZwWIkrz+NFOkOo1atWSxq4HcxDs=;W4CYA3wQPktCAFdRAngAvw=="
 ---
 

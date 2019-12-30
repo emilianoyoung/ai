@@ -150,6 +150,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "financial summary, business strategy and planning, SWOT analysis and current developments. The scope of the report includes a detailed study of global and regional markets for Machine Learning as a Service Market with the reasons given for variations in the growth of the industry in certain regions. The Machine Learning as a Service Market has ..."
+    publishedDateTime: 2019-12-30T07:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vivo eyes AI-driven 5G devices for India market in 2020"
     excerpt: "enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with capturing 17 per cent market share - its highest-ever -- in the third quarter (July-September period) this year."
     publishedDateTime: 2019-12-25T14:28:57Z

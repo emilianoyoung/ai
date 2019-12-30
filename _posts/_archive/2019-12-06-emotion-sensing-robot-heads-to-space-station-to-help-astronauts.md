@@ -51,6 +51,6 @@ related:
       domain: kmov.com
     quality: 33
 
-secured: "Fk0FIi7j2yMGSS7+SPQMpCTLHSehsENkdMyFfUUZmSOLvOOs1ig3mBKnuXoHYlRYFC6QGZwxJDgpRRlXZMBGyiw8pyCOyWYazw3M9S1D4ZlX7XPnRVpO0j5XFbFteltWvjr7FaqX705/aX4AGNUQ8GDx5ayw8usxCuJvM4CBdwOsZk8Og2GrgGxMB0Iv5th4wZR2Rxll0PAXhn35JpnehFEqbrzMZb7nwpKebGxjRG5XsDFV4g6jn/k22p1rpf2iuI2xBLlUvNjKmQeJV1yxXw==;HLhykDl2EezovqaJRhMNkQ=="
+secured: "C5uC5cwYqqU8llHPYzMXMjgxErBYSDaqhcSdBG0yuwA5av4Tcb6QUG9D2adDC8JEkMdmtz8BmYaHfjQOdaWUO+cTn3lsVsjbPKZM/EGpBALIHR7oKoDOres/ghBIYluCOSCRpTVqI9aSrTyrT9hQWebdC8TGyA/8jPG282TCq34L5qPIASXmTykFaGiWaJ8tZNcl2ELs8FeFm5sajJcj6L7hd/7kdsoS2mw+wg4XleD+ybjDlyM92PAuK7oRqTul+Nixc3GkvUqO+nycKeMMrg==;+t4nmML/QX0uyZ+iSg95hw=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "As robots take over warehousing, workers pushed to adapt"
-excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
 publishedDateTime: 2019-12-30T05:24:00Z
-sourceUrl: https://abcnews.go.com/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
-ampUrl: https://abcnews.go.com/amp/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
+sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
 type: article
 quality: 59
 heat: -1
@@ -20,7 +20,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.27D1B64AF698002342249322A9288C49
+  - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
     width: 700
     height: 393
     title: "As robots take over warehousing, workers pushed to adapt"
@@ -53,6 +53,6 @@ related:
       domain: spokesman.com
     quality: 39
 
-secured: "abK/NOEM+c8qKWJqlk6Bf8SuaYzi6dv3MKToxdvviYulZ0mg/QkCC7xjV7eEkDsy6eGj7KnOXW0XVFa9msX3lLxeawMAn+bAiJmNeWMhohlBNcOHeUTzyzu8+sO65Ly58wUsRX/9th8likrtM0oPsW/Xam4x+noX0e6ZylNcxjPUu+WTK9+/rHdU5BRnXwSizEvgj/yfYIOHnA5Zdu8efL/uHq3GrdprJ0uttTvazSO+16ztKJECJU0bJm3bxP2utGKVDrMzcw5NgZyjZ9Zc2g==;QFSiHKOacQWOtfrsj6iYUw=="
+secured: "7hGpTDyHANf8eEphxBAF3jhoOls+/eSsxMjUO7lud+tBdNyJyv8tCoK9xq6iQZBZIvwYP+25OZypKqGR30mDoscf948CSWkoh/Y7fFCEMIjJiq2npeBPlHxyqKBtBab8uJvwUFneh3zdCnTx+Tpnm26D1/6/HJSdJySQq7BMSyYWK7ZXUWAxzUOaM4TjhFy+YbMcNKSKPwo+1tq33TF7Q43WuKXL3iZysxaSrrZyIynaiXUM8D/LMTgdzsuZxSxzs6b9n5wFc3neMsYU3f+L9Q==;ilGk7e+t/KzIb1mUcUSt+Q=="
 ---
 

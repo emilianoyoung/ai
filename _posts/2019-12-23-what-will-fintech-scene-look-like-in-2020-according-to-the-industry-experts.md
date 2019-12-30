@@ -26,7 +26,7 @@ related:
     provider:
       name: Fast Company
       domain: fastcompany.com
-    quality: 122
+    quality: 124
     images:
       - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700

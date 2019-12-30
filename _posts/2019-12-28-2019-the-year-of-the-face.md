@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2A28CF672EF7C47EA35BBD8F97470294
         width: 600
         height: 338
+  - title: "Manufacturing: the next breakthrough in gene therapy"
+    excerpt: "While we certainly seek to standardize processes through enhanced analytics, automation, and even artificial intelligence, manufacturing each therapy will still require custom processes. And time is of the essence, because patients and their families are waiting for these therapies. Given that many of these diseases have limited or no treatment ..."
+    publishedDateTime: 2019-12-18T10:01:00Z
+    sourceUrl: https://www.statnews.com/2019/12/18/manufacturing-the-next-breakthrough-in-gene-therapy/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DAD49722D56BF247D98023D133EBCBA5
+        width: 700
+        height: 393
   - title: "Automotive Industry Puts the Pedal to the Metal with AI"
     excerpt: "The growing importance of AI to the industry is underscored by the substantial investments the industry is making in new technologies. To that end, the research firm Tractica forecasts that the market for automotive AI hardware, software and services will reach $26.5 billion by 2025, up from $1.2 billion in 2017.[1] While significant amounts of ..."
     publishedDateTime: 2019-12-23T16:28:00Z
