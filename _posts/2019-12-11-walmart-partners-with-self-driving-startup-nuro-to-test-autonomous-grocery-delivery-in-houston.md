@@ -111,21 +111,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
         width: 700
         height: 394
-  - title: "S-Class taxis with no driver: Mercedes-Benz and Bosch to launch self-driving ride-hailing service"
-    excerpt: "But that hasn't stopped Mercedes-Benz and Bosch to roll out their autonomous ride-hailing service. Self-driving or fully autonomous cars are quite the epitomai of automotive engineering in today's world. Well, there are also sci-fi movie cars that can hover and have no wheels but let's take baby steps. Speaking of baby steps, Mercedes-Benz and ..."
-    publishedDateTime: 2019-12-10T10:57:00Z
-    sourceUrl: https://www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/
-    ampUrl: https://www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/mercedes-benz-daimler-bosch-self-driving-s-class-autonomous-ride-hailing-service-waymo-one-california/1789809/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.500A6F2C2C6541BA4B17CCCE4833B4AD
-        width: 660
-        height: 440
   - title: "Walmart testing self-driving vehicles for grocery deliveries"
     excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
     publishedDateTime: 2019-12-11T15:56:00Z

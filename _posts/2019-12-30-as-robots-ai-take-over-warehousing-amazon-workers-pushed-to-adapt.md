@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
 
 related:
+  - title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-30T11:40:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
+    ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+        width: 700
+        height: 393
   - title: "As robots take over warehousing, workers pushed to adapt"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T05:24:00Z

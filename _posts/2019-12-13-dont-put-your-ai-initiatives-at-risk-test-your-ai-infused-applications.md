@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: ZDNet
@@ -29,34 +29,19 @@ images:
     title: "Don't put your AI initiatives at risk: Test your AI-infused applications!"
 
 related:
-  - title: "China’s AI initiatives to pay off with broad industrial applications, iFlytek founder says"
-    excerpt: "China’s efforts in artificial intelligence (AI) development are starting to pay off, with wider industrial applications set to be deployed, amid the protracted tech and trade war with the United States. Liu Qingfeng, the founder and chairman of iFlytek, highlighted that progress on Monday at a conference in Beijing, where he said AI advances ..."
-    publishedDateTime: 2019-12-10T10:37:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
+  - title: "The AI Eye: Increased AI-Related Patent Applications and IP Portfolios"
+    excerpt: "As Artificial Intelligence (AI) becomes increasingly visible in the popular imagination through applications such as virtual assistants, computer vision, natural language processing and self-driving cars, companies are unsurprisingly ... Chinese multinational tech and internet firm Baidu (NasdaqGS:BIDU) recently revealed that it has filed ..."
+    publishedDateTime: 2019-12-16T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-increased-ai-related-patent-applications-and-ip-portfolios-2019-12-16
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 147
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.E7B2E9DE8653009D1EA66E27ECFD6265
-        width: 700
-        height: 367
-  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
-    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
-    publishedDateTime: 2019-12-05T19:56:00Z
-    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 80
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
-        width: 760
-        height: 428
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "I+rsbl47cqDz89dv1IAsLbBheAbzt0SgM/6tz/yCgmqe6wrnqdLQIsq5M2bGFKmiLdy+0ZmfiTbKKxsM36VoiCfLICte3ammGZqXUTLn9umddeYNlyEyv8ebneqAWifEoIDBbbtQZrHif8w0NqpzwTjKHPFlwEU3h3yFyvPD22rvZYvoKLSCG4xoabPXITz4agv45z3ihq7L2DGADVLFYO0LHAf8Jpp0j+WDqGXNuVgjaYgfXbkz+VkbkNAypnvxc42RsfPB6+f0qIhKupL5AQ==;+pUTZC4o5ZlkS10ZXIozNA=="
 ---

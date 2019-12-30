@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "A Sobering Message About the Future at AI's Biggest Party"
 
 related:
-  - title: "LinkedIn's Azure move is less about scale and more about the speed of innovation"
-    excerpt: "Those are things that we want to start leveraging on our way to Azure.\" LinkedIn uses very large graph databases; there's a lot of Kafka (which was developed at LinkedIn and was handling over a trillion events a day there by 2015), and the Samza stream-processing systems built on top of Kafka such as offline compute and machine learning."
-    publishedDateTime: 2019-12-10T11:02:00Z
-    sourceUrl: https://www.techrepublic.com/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
-        width: 700
-        height: 525
   - title: "A sobering message about the future at AI’s biggest party"
     excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
     publishedDateTime: 2019-12-14T14:00:00Z

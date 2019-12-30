@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
-excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
-publishedDateTime: 2019-12-23T10:49:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
+title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+publishedDateTime: 2019-12-30T10:15:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
 type: article
-quality: 68
+quality: 65
 heat: -1
 published: false
 
@@ -19,13 +19,12 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
+    title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -67,10 +66,10 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
-    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
-    publishedDateTime: 2019-12-27T06:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
+  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
+    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
+    publishedDateTime: 2019-12-23T10:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
@@ -80,15 +79,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
-    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
-    publishedDateTime: 2019-12-30T10:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
+    publishedDateTime: 2019-12-27T06:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -471,6 +470,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "waJPUlvwRSZz9Y1TDMA1sKOAK9b2fLmQX0M/Jo3SwHm8I/oIECq36UNf2CV+DDVTAsM0dyiS9URd+JoknpSOaaR8vn9o2AghfQiXM7vAxJCcLsKkR2SgPctlLtJS8QDlv51lOQGNG/PHkEeKre1oRHTrhl+fu7cfZ66tXbKcD5hg8YG02sZwhwTgRsKCv3pcVqSMxxoLfglkO3ih42g518o/vMS99WXwctW4MEe1re8gkwJTMYN3DxNXJuVPrzSsc15lLtxPgN98dwLDXDNqjA==;TEY+IIKsQVyp2VzF9FiDbg=="
+secured: "itvVS5dHbFo/GfvRtqz3wR6ddLYFs6Qwv9OZh2gU2AIdUo2Iic4iMBnqr8QWFWFNkoC3okcJ/F+8R1SgZanOVHS0CZcdtOOQetNps8vHjyhRaDRSvqeTr8Q5D45cLVJ8K1c+O68HjyoR/zjouSiQ3PVgERhvPOvCiyXyGzF0ta1vGiO8qaRiQ3l11dYdRpFNI+zIFOR751YUOP3y66+Ngjn3YCBRp0JBYM7VdWmnOqAX8tFQPzOVOJifEc6vo6Yq7YN2P5kP21FUCWjKRaQgng==;z4Fke1RnfoiBZIZgrSSbQw=="
 ---
 

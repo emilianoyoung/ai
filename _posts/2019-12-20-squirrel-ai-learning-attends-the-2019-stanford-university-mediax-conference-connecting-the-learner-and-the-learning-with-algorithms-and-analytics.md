@@ -80,19 +80,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
-  - title: "Eliminating biasing signals in lung cancer images for prognosis predictions with deep learning"
-    excerpt: "Deep learning has shown remarkable results for image analysis and is expected to aid individual treatment decisions in health care. Treatment recommendations are predictions with an inherently causal interpretation. To use deep learning for these applications in the setting of observational data, deep learning methods must be made compatible ..."
-    publishedDateTime: 2019-12-10T10:25:00Z
-    sourceUrl: https://www.nature.com/articles/s41746-019-0194-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
-        width: 685
-        height: 244
 
 secured: "LZIS9+o7ZjgGPSfBZvhNQ6c4FID6NBgrTMiZkr/s4bttICsmDr62bHrMBMBOzZiidlQmTYxv72PLbFA7OaWnkhhGIQCE2LC13KJo3KvzLY/qR6CcouA7fF8EKu9ci3th8zOg46rbN+WcOFGWwePKi9BA/gjhKQk0b1hv70mnYCLkKy5HkiINP7WKaXiucZ+kpl6io/QAGmJwD4clo+jpwy8DAfXvO3Qo0/fViCY86e87Rek+eU/sr2m0NtDKTtnhxtszijepgRUqBYFO0QkAUA==;6djSG3gLMR/2UxOBMUx97g=="
 ---

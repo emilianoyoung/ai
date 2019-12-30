@@ -46,19 +46,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
-  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
-    publishedDateTime: 2019-12-16T09:06:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
-        width: 700
-        height: 365
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
     publishedDateTime: 2019-12-18T12:30:00Z

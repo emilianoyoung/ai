@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -216,15 +216,6 @@ related:
       name: Harvard Business School
       domain: hbs.edu
     quality: 19
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "4p5a69qBJ0GjUzD9JZ0E5TztAxtOCW/wacjQEHN+z1zskJL5bIogNAKbou+aJB9213aDSF89qk2C193eeGnY5udv9Igc/3L/aaa0ughrLZ5infyyHfc84AlHBMi3nJY5QiYMKuIfNgWC5iaHxHqkF8IN085zzEXY2y8m2Ahnu1yormG2a0iXrdlALxOSQsxCxpxix3xX8fW1pgRsInOqhBV7ilU6MFu3SeNLP+9Uiywgw0234t604rqrnAkSmh9CahLpLxHP46mb+7lSketrfg==;axqvt3QEoHfMgEn9WfLvZw=="
 ---

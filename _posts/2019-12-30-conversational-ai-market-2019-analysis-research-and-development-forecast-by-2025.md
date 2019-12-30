@@ -93,6 +93,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
     excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
     publishedDateTime: 2019-12-27T05:37:00Z

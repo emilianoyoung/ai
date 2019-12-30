@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
-excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
-publishedDateTime: 2019-12-28T05:34:00Z
-sourceUrl: https://www.sify.com/news/researchers-use-deep-learning-to-predict-disease-related-mutations-of-metal-binding-sites-in-protein-news-health-tm2kViieichei.html
+title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+publishedDateTime: 2019-12-30T11:48:00Z
+sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
 type: article
-quality: 4
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Nature
+  domain: nature.com
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+    width: 685
+    height: 386
+    title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
 
 related:
   - title: "Using deep learning to predict disease-associated mutations"
@@ -48,20 +54,16 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
-    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
-    publishedDateTime: 2019-12-30T11:48:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+  - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    publishedDateTime: 2019-12-28T05:34:00Z
+    sourceUrl: https://www.sify.com/news/researchers-use-deep-learning-to-predict-disease-related-mutations-of-metal-binding-sites-in-protein-news-health-tm2kViieichei.html
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
-        width: 685
-        height: 386
+      name: Sify.com
+      domain: sify.com
+    quality: 4
 
-secured: "V0ArBM+h/UAHH49Mai2TlI8/EoyylWK9p/LsPPV+MaCvO306JZI69PUv4LXeLLxL3Faqre3iYJCewWeE7AtRaThihCAfo2Pldf86Q+kQSn1UiOrSC9RTdXh8qF1zwJG+TcmhM3VH2MmUNRirhxXMKZEdP1EH6g+IR9bMRjp8rNQIhL9OnYaIStbTTPo7qkw0LaQorJPdcb2NR0dwMVzQeZw9SoCHwkPzrmbq2AacGFSrO06WfzL8hDMOahD1FHU9ACnYw9pQndrOgwDzcFMz7Q==;EPKaZo8PvuBBIrUqsXqakA=="
+secured: "eFccUVR3fI+fcj1tnNcj3OWqObFP2fw1qd0x06yMwObvyaSklvDCupiNLZzZQzlK6qJGXRJC0i1twW6LWFfOE3atvOXNGKqWTO1NQ5p4ei00Du5QKf50m6M3mpj6GNoSJEmF2JMsQtDhxVTQ7SRFqkC4jjiOdP7mdTIx3/WQn1ZDMWGNdDCvpLLHmJ6lgeqAeWFWyxyO0HPpl1qlVonU+zYwSbxpuI4AESBRAMN1WoyuB5t2XWjVEVUsTMeHvEO2XEQBfA2hsK0mpp8MLKjtrA==;1PBlzj0l+ZUaYnHp10zIIA=="
 ---
 

@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6021D9F8C0F9AD91A8386578D7F96884
         width: 600
         height: 337
+  - title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-30T11:40:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
+    ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+        width: 700
+        height: 393
   - title: "As robots take over warehousing, workers pushed to adapt"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T05:24:00Z

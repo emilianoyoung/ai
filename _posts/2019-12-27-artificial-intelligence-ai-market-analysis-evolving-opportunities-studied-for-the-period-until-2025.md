@@ -80,6 +80,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
     excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
     publishedDateTime: 2019-12-30T02:12:00Z

@@ -212,15 +212,6 @@ related:
       name: Harvard Business School
       domain: hbs.edu
     quality: 19
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "t1Ecgcgav1Vp8lLdybWSq8bTwgoyj8NGgJnXToKNQGS6ej78KNal2IS1PAlMYg4/rksbjWL4gfUSvAK4mtX/ZybQX/l+N8VNkuBWDoalEsTjgUoud658wGCaMEk4dhMxqE5WVL8YDLCauN37OxGLz8MXGba1i5XyE7C5alYmthp28T/pW1hkDQsJRXt76WLbAZysOPg4BDdllzNqP0oLRdEa/PBT/UzEVGM3trM6IEcNeQakxMA5oKvPt3Eive5FFIAizz3Ie6iAf/F1nX0fxA==;oJjE3pqBywt12LQ6zDDwCA=="
 ---

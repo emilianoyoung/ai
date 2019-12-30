@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integra
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -71,19 +71,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
-  - title: "Eliminating biasing signals in lung cancer images for prognosis predictions with deep learning"
-    excerpt: "Deep learning has shown remarkable results for image analysis and is expected to aid individual treatment decisions in health care. Treatment recommendations are predictions with an inherently causal interpretation. To use deep learning for these applications in the setting of observational data, deep learning methods must be made compatible ..."
-    publishedDateTime: 2019-12-10T10:25:00Z
-    sourceUrl: https://www.nature.com/articles/s41746-019-0194-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.86A51A01BC1B10D1A47468931DF9E438
-        width: 685
-        height: 244
   - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
     excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
     publishedDateTime: 2019-12-20T05:38:00Z

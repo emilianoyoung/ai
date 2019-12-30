@@ -52,21 +52,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
-    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
-    publishedDateTime: 2019-12-10T10:54:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
-    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
-        width: 700
-        height: 233
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z

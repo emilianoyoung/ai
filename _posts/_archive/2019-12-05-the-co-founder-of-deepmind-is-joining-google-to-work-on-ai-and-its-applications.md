@@ -28,37 +28,22 @@ images:
     title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
 
 related:
-  - title: "China’s AI initiatives to pay off with broad industrial applications, iFlytek founder says"
-    excerpt: "China’s efforts in artificial intelligence (AI) development are starting to pay off, with wider industrial applications set to be deployed, amid the protracted tech and trade war with the United States. Liu Qingfeng, the founder and chairman of iFlytek, highlighted that progress on Monday at a conference in Beijing, where he said AI advances ..."
-    publishedDateTime: 2019-12-10T10:37:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 147
-    images:
-      - url: https://www.bing.com/th?id=ON.E7B2E9DE8653009D1EA66E27ECFD6265
-        width: 700
-        height: 367
-  - title: "Don't put your AI initiatives at risk: Test your AI-infused applications!"
-    excerpt: "I could continue with more examples of how AI can become harmful. Enterprises are infusing their enterprise applications with AI technology and building new AI-based digital experiences to transform business and accelerate their digital transformation programs. But there is a chance that all these positives about AI could end, especially if we ..."
-    publishedDateTime: 2019-12-13T19:18:00Z
-    sourceUrl: https://www.zdnet.com/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
-    ampUrl: https://www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
+  - title: "Google DeepMind gamifies memory with its latest AI work"
+    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
+    publishedDateTime: 2019-12-02T22:10:00Z
+    sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.EF496B372EE2043CF8F4651689EF8A88
+      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
         width: 700
         height: 525
 
-secured: "9AT9B4tg+3+bFXWKyLAzOd7wQPMuEO47msr1VyzWzVlK3gVH8zWuPQmV9nhFLAgv3BCQrd3SZ4ty3p7wcJOlL5z9AbzTryT4GDoDSouyfFpRvwDlNH9YG4qX4tIzHxvVVDgWACnRxOvLRNCs7z1bklyEMdkhsHxPcmQZchFsPecRXH5zIRG/p+lpcKAKQMKIfvGU7EP4AKtGgH82bNldYbt3+w7wKh53ZtvO7bcmDjMu2NzpnTWOIoVNjmdYNuYYFCY/wbQA9KlIPtCAldaL8Q==;Bh3sHbmjfCCjsJX/TQEg9w=="
+secured: "JUAMUnYtLpzCEmJOnN4svhLBvzGFEOIpe0u5nvbSAtJwhUtc8OnRL0oOpB5Y3Ip6uzV49HX/9Xc3OlYUWOwI+Gxr6SXfrkuR2LdrymKMRyhD0G+6Q9I82jybN/I2yU/NWjPwbzGyEpsSSBayttTFVbGkZSubqBt6hC/VXMWzk/yI1/TWrMrJNDUm6DbX9RTZ8lnhTzD9lT8o1bM3FeLFDpFqk52N5FH3dj0TuEF2DWbwvhKSkiQLacJfBhJU5vADV8Hg6RmPMypL//8Sv1cQKw==;oTNPPFTMu+5xC/rQdftTxw=="
 ---
 

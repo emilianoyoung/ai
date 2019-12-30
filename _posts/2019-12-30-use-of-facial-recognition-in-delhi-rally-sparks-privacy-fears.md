@@ -1,51 +1,50 @@
 ---
 category: news
-title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
-excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
-publishedDateTime: 2019-12-27T21:45:00Z
-sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
-ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+title: "Use of facial recognition in Delhi rally sparks privacy fears"
+excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
+publishedDateTime: 2019-12-30T11:45:00Z
+sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
 type: article
-quality: 100
-heat: 220
-published: true
+quality: 89
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
   - Computer Vision
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
-    width: 700
-    height: 350
-    title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
+  - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+    width: 1200
+    height: 630
+    title: "Use of facial recognition in Delhi rally sparks privacy fears"
 
 related:
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
-    publishedDateTime: 2019-12-30T11:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
+  - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
+    excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
+    publishedDateTime: 2019-12-27T21:45:00Z
+    sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
+    ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
+        width: 700
+        height: 350
   - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
     excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
     publishedDateTime: 2019-12-23T05:32:00Z
@@ -194,6 +193,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "I8cFd5f2bjvTHGVZt+gd9IeDrcvW22Bz7syWIPLptiHuklbGveMtCq4QMrcDqaiAFzyYgwtevsFmtzhsooj2OSYeZMXIOe53L9aWlGuk65Fl7H0uf2sOOakpHVbV5/ObS938/o3ah5MGMScelnG5LIqI7orwhYmjajLBnEbcqXmhfWsGVmANpRqeGAuwfN/LAXwUxNzXeHxlhD2KodEltgePkC52gm2WO5jewzqxbiTGwUAZrnS83Z0KiSX9i9JbUD+6jKW1mjRpYSX4/iyX1A==;sYpQKJkO5kItjZJBhNjEyA=="
+secured: "cKEPnnUM6ktq30ps1fUO7ZCT27F0S5qkUxxORKOovmZZdbOZF+0UT7Vanhwp1zrpvpgxa9foXpnAFd76B47Zj3vGAP7K+ONy7Sl3juFQvBJvggRin0/xarep50+mXa5ES1A/FLl9klEy8nuMTKvE7u+W+kSan7Py+uuL5//LZuzn1tIprOH21e54/ZpMy+JGDTaKrXnZh6Tkxh8bRWmivMjo1zex0dB39ovVroOB+mB/5Ib2HlzApBvSUjS11U6cV49k3GuLlgmnVrqFPOB1xQ==;2IoOierCH0fLFCx7Zv4iDA=="
 ---
 

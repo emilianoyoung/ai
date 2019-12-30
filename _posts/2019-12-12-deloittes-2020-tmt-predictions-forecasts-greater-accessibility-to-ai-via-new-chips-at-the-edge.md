@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4F2928F581D9E07C8B06B440FC9F4832
         width: 400
         height: 163
-  - title: "Deloitte TMT Predictions 2020: Edge AI Chips, Private 5G, Robots Become Ever More Interconnected; Previously Hyped Innovations Become a Reality"
-    excerpt: "\"In 2020, we will start to see a canopy effect where industry players will work more closely together as individual technologies like edge artificial intelligence (AI) chips, robots and private 5G become better connected, and promising innovations like low-earth orbit satellites finally come to life,\" said Paul Sallomi, vice chairman ..."
-    publishedDateTime: 2019-12-10T10:43:00Z
-    sourceUrl: https://www.bendbulletin.com/content_exchange/news/state/deloitte-tmt-predictions-edge-ai-chips-private-g-robots-become/article_aad7cf90-cf70-58db-ae69-12c8b533a53c.html
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.8C6FEAA1808329FDFE26FDD2C2D6B14E
-        width: 491
-        height: 200
 
 secured: "WbIkZH5Vme9y7YdWHlu5N/zFTKc4TX3MvlSdR/bcZbWa/y7dgJaQE5WxWBJOn6s0MFk5YBPeIdWYdtl0deViCOmeFHFfHNUv5DlTV6RPzXAiSlx7CKHZKXDyA+9BT808U1QXErmLozVClY08IKgvlwGIfR9dRulDl1SlpGByLpANFuH7h76NqVs4+EwCMlxm+QjwHoc6+PtI6kGDxzW4ASP0a31n09uUTxgvZoJ5LuIJ/ttmcckEDecNTV9/4LRt/MRaJoNj583d1nZir19spw==;p0jORFYdIKCCqZHXbEqffQ=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "As robots take over warehousing, workers pushed to adapt"
+title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
 excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-30T05:24:00Z
-sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+publishedDateTime: 2019-12-30T11:40:00Z
+sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
+ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: go.com
+  name: Fox Business
+  domain: foxbusiness.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
+  - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
     width: 700
     height: 393
-    title: "As robots take over warehousing, workers pushed to adapt"
+    title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -41,19 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6021D9F8C0F9AD91A8386578D7F96884
         width: 600
         height: 337
-  - title: "Amazon employees struggle with 'nerve-racking' robot co-workers"
+  - title: "As robots take over warehousing, workers pushed to adapt"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-    publishedDateTime: 2019-12-30T11:40:00Z
-    sourceUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers
-    ampUrl: https://www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/amazon-employees-struggle-with-nerve-racking-robot-co-workers.amp
+    publishedDateTime: 2019-12-30T05:24:00Z
+    sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+    ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: ABC
+      domain: go.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
+      - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
         width: 700
         height: 393
   - title: "Proliferation of robots tests warehouse workers"
@@ -68,6 +68,6 @@ related:
       domain: spokesman.com
     quality: 39
 
-secured: "eV5+w3a5jzF8ZlrndHG70lFlaWnZqOr2zFHZ50DoISSQVWVrWv3d63Uv7B0fedkmDePcN/3CtAZ8QA6HFWXy2/TcKyKjz2XysWSoXnjlPCuuWpHgy9TPvx1X1jAB0ccfYD4X12eiN4x3mLo7tkiVtgnJ4CqjQhF2fLtJV0HSuwlAYxgJ3WKf29f2JVDIerwWGsPloSWmtEcZA/AFNQ33dCaCWYtpUKVLV/iDNCbPDJ6NKyL8TA6wT0878Ovw7dAw/Ne1nXcB16YMkEFQsC/ZEQ==;Rq3X2xt3EW00xADEhUnS0A=="
+secured: "Yym87mPi8eDzTPPnfeaSM76B/RlKbluVsbtCAc/B6Q7f14w1e2DabJ64+wOfnc4MD2O1ZYCTErmoUnIJ3WfnX2Byp5OF0Ah6klrtmIYXRCMypF5sYamNVrTAx+b50f1iNZpzRf6v9VnzOKMYy3XJJCXub2NYcPbPclab/uR0O2bZRiGUbyPGsv+NBmb4zk8gznebgv4xr8PAb/mGslNmcrVJ9Cxo3HFYku2V51JCROiPGH83FKKLOvkDEUzZhHqHHuOSn2C5K+959lvDbOmcpQ==;oyTaOdcrneocLyVFDg/E1g=="
 ---
 

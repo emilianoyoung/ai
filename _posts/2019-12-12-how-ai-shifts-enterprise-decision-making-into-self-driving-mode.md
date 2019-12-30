@@ -210,15 +210,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "CIX97hJhz3yz/STK8sRGWMnFZAL5WkjhreZmFliQA+efHzu2I+XL+bi3YX9fZWHib154AVSn1KXFXUxLIbBAEQ8RmB2a6HOOGvsHfC34BrPw2IYxsPSNgVkhJQ9AWM4JGRpcioGAEHszntylKTxje1NWjFZLz543KfisWFVafbvcg5s4/dalx87lUzHZOuULNSAfzEKs9JrQK32kXcHRRcDYTBcE2FpA3TEnlSN3kbMSTGwCnNap50rbDazbculGuK3KXySs83TNtcrJLZFLLg==;/xmsupH2JOE+eAX90EcnfA=="
 ---

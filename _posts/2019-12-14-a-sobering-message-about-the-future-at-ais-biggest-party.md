@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
         width: 700
         height: 366
-  - title: "LinkedIn's Azure move is less about scale and more about the speed of innovation"
-    excerpt: "Those are things that we want to start leveraging on our way to Azure.\" LinkedIn uses very large graph databases; there's a lot of Kafka (which was developed at LinkedIn and was handling over a trillion events a day there by 2015), and the Samza stream-processing systems built on top of Kafka such as offline compute and machine learning."
-    publishedDateTime: 2019-12-10T11:02:00Z
-    sourceUrl: https://www.techrepublic.com/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/linkedins-azure-move-is-less-about-scale-and-more-about-the-speed-of-innovation/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.BE5836D1B55B6F2E42218548FC17C84B
-        width: 700
-        height: 525
 
 secured: "6GC0RMEOMHRZTTJGfks9cLQtanu6uqEpoFRwZHLDVFkHUmJtEOzrUcpuep9EiA82dofPwYNHFH7LvjCj8vQYhkgUzik4zdwDKdgCunQdaHqg36OEgOYhd6wU0YyS0ktJ2A6C4KfFv0BI9clZwwwXO6BFZKEJR/BTiMoLAdooJwXPjd/Zf8tdyP4b7pKGbHFQbJ3Parug6gT5JSHOBmn6q1mOG/5fo2D8pYNujKpJfo3e+XlZ2pGTtMO5kGr2dDIhdu602C73+pd70aUNsRB2sA==;ulaOvTvwbA7TEB2Jvf51cw=="
 ---

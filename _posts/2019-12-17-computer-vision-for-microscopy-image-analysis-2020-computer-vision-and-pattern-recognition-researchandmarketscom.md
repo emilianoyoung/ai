@@ -18,45 +18,56 @@ topics:
   - Computer Vision
 
 related:
-  - title: "How to train computers faster for ‘extreme’ datasets"
-    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search for ..."
-    publishedDateTime: 2019-12-12T19:03:00Z
-    sourceUrl: https://www.futurity.org/machine-learning-mach-extreme-classification-problems-2231872/
+  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
+    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
+    publishedDateTime: 2019-12-10T13:25:00Z
+    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
     type: article
     provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 48
     images:
-      - url: https://www.bing.com/th?id=ON.FF3FC5F9B9CB6E058D10CF700D800115
+      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
         width: 700
-        height: 400
-  - title: "How to train computers faster for 'extreme' datasets"
-    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search ..."
-    publishedDateTime: 2019-12-17T19:49:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/17/machine-learning-extreme-classificaton.aspx
+        height: 446
+  - title: "Chorus.ai Offers Permissions for Revenue Team Sharing and Collaboration"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Chorus.ai, the leading Conversation Intelligence Platform for high-growth sales teams, today announced Roles & Permissions, enterprise-grade control and access to specific features and data based on roles and teams. IT administrators and sales operations today are tasked with managing a company’s most important ..."
+    publishedDateTime: 2019-12-10T20:29:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191210005992/en/Chorus.ai-Offers-Permissions-Revenue-Team-Sharing-Collaboration
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
     images:
-      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/December/SANSnetworkthreats.png
-        width: 620
-        height: 300
-  - title: "IEEE Computer Society's Top 12 Technology Trends for 2020"
-    excerpt: "We predict that recent breakthroughs in large-scale simulations, deep reinforcement learning, and computer vision, collectively will bring forth a basic level of cognitive abilities to robots that will lead to significant improvements in robotic applications over the next few years.AI/ML applied to cybersecurity. Cybersecurity is one of the key ..."
-    publishedDateTime: 2019-12-10T11:33:00Z
-    sourceUrl: https://www.djournal.com/news/nation-world/ieee-computer-society-s-top-technology-trends-for/article_773fda51-1088-502d-ad0c-6810a0008dca.html
+      - url: https://www.bing.com/th?id=ON.71B22367319362EB17E6D598CC870D13
+        width: 700
+        height: 365
+  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
+    publishedDateTime: 2019-12-16T09:06:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 24
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
+        width: 700
+        height: 365
+  - title: "Wipro Recognized as a Leader in Artificial Intelligence Consultancies by Independent Research Firm"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, has been recognized as a \"Leader\" by global research and advisory firm Forrester Research Inc. in its report, The Forrester Wave™: AI Consultancies, Q3 2019. The firm evaluated participating companies ..."
+    publishedDateTime: 2019-12-12T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/wipro-recognized-leader-artificial-intelligence-121900733.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 3
 
 secured: "DBjQZEK+Y9ncrTibBB1VWcDL942JpDYYSxEmuIAntZli8+byjYsB0wxlytwBlAYD0dpxPqxoRy2kh/4T6mJf3mso7qeXPwQPtluy9GCHBlaIgW51zkBmf4qsDgiDXq8aI7tYtRvdE8xy/pcvhKrNebzMVOMZHkc35YhZ6BweeXYOiC98j3XLUW3/yniMdU5kO7iyaigY6sdtByoxwQxae3wqC5UkPa26YzPVMhnBtolIKjb7nr7IcppSxvqTy5pCF7kDNWq3N6xSOKChpZFUfA==;ERmK+NJAlPrye+2Y1qPGmw=="
 ---

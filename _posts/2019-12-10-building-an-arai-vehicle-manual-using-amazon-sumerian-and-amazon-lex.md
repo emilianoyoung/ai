@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T17:29:19Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/building-an-ar-ai-vehicle-manual-using-amazon-sumerian-and-amazon-lex/
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -43,21 +43,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
-    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
-    publishedDateTime: 2019-12-10T10:54:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
-    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
-        width: 700
-        height: 233
   - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
     excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
     publishedDateTime: 2019-12-10T15:26:00Z

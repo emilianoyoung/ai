@@ -43,21 +43,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
         width: 387
         height: 337
-  - title: "Building enterprise-grade AI: Sberbank and AI Telekom"
-    excerpt: "Sberbank built a machine learning and artificial intelligence (AI) pipeline and architecture to help industrialise earlier efforts at machine learning and data science – resulting in 50% of its models getting into production in one day, rather than the seven months it took previously. Meanwhile, Austrian telecoms company A1 Telekom has ..."
-    publishedDateTime: 2019-12-10T10:54:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom
-    ampUrl: https://www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Building-enterprise-grade-AI-Sberbank-and-AI-Telekom?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.56AACA2787FB562227D5D32B5C6B0970
-        width: 700
-        height: 233
   - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
     excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
     publishedDateTime: 2019-12-10T15:26:00Z
@@ -96,6 +81,6 @@ related:
         width: 700
         height: 450
 
-secured: "gKOf91kq4vp95Gn6NzBYXwlSK4mTD71wB6GnAGWV3351pAKDvB4N7+aKtOcFRUXXkVpZdQ9LKKl0Dhman0ruB5K3KKgFAk+ecd3p702AN6UwxutvHCJEg+jKznzXTBXsItuGcAjlKeIm/cM8Ukv2w2SfoqxPTFT9gV1IqFfA1+GkUQfRRpC/70Oumpl3t6DYuY1vLQ4UQHTFsSp/QGG/1S5IvsEmv6bzIUMWkt3UUwbig6oWW9ObsRhkuh+OdzqDxHpdcWA/xZT5QR0eUivfyQ==;q5YBA4fVxPsGtFleV2gjpQ=="
+secured: "t8LJa3LwKueEdWZlpYIMkQLjjDHoh9/Rr9eC8MQA6Yyr1H4SLj+YO6hGH432rJMneNaOX+2Y7ZMF03b+VDBuafDBU8dGaWpRWqW55XGdZ5kYxePyv89JEUps3wXTrq6N7oW9uPaUpfET6+t0mNJUsBlpUbG5+GGuZ44/hjHjVhI0hjIdVrkjsXDDjFVIkW8r23ZY1DGENiUqKCk55flVEMYMZIsTBQb8qLO2Mi2L19Go8Hlxnb9v1unYHaEz9MkvSDCPb45rFD72igF0SHDjgw==;0czIv7g55LDVaWYXj+nVLw=="
 ---
 

@@ -24,61 +24,50 @@ images:
     title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
 
 related:
-  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
-    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
-    publishedDateTime: 2019-12-16T12:56:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
+  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
+    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
+    publishedDateTime: 2019-12-10T13:25:00Z
+    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+        width: 700
+        height: 446
+  - title: "Chorus.ai Offers Permissions for Revenue Team Sharing and Collaboration"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Chorus.ai, the leading Conversation Intelligence Platform for high-growth sales teams, today announced Roles & Permissions, enterprise-grade control and access to specific features and data based on roles and teams. IT administrators and sales operations today are tasked with managing a company’s most important ..."
+    publishedDateTime: 2019-12-10T20:29:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191210005992/en/Chorus.ai-Offers-Permissions-Revenue-Team-Sharing-Collaboration
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 39
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
+      - url: https://www.bing.com/th?id=ON.71B22367319362EB17E6D598CC870D13
         width: 700
         height: 365
-  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
-    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
-    publishedDateTime: 2019-12-17T00:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/2019-huawei-ai-analytics-software-135600856.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
+  - title: "Wipro Recognized as a Leader in Artificial Intelligence Consultancies by Independent Research Firm"
+    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, has been recognized as a \"Leader\" by global research and advisory firm Forrester Research Inc. in its report, The Forrester Wave™: AI Consultancies, Q3 2019. The firm evaluated participating companies ..."
+    publishedDateTime: 2019-12-12T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/wipro-recognized-leader-artificial-intelligence-121900733.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 39
-  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-    publishedDateTime: 2019-12-18T14:26:00Z
-    sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+    quality: 3
+  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
+    publishedDateTime: 2019-12-17T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
-  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
-    publishedDateTime: 2019-12-18T12:30:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191218005410/en/Latest-Innovations-Wound-Care-Ophthalmic-Devices-Artificial
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://mms.businesswire.com/media/20191218005410/en/371054/23/ResearchAndMarkets_800px.jpg
-        width: 1200
-        height: 627
-  - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been added ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered. Medical devices and imaging ..."
-    publishedDateTime: 2019-12-19T00:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/latest-innovations-wound-care-ophthalmic-133000404.html
-    type: article
-    provider:
-      name: YAHOO!
+      name: YAHOO!News
       domain: yahoo.com
     quality: 0
 
