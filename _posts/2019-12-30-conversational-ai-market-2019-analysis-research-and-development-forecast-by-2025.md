@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-publishedDateTime: 2019-12-21T09:38:00Z
-sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
+excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
+publishedDateTime: 2019-12-30T02:12:00Z
+sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
 type: article
-quality: 36
+quality: 64
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -89,19 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
-    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
-    publishedDateTime: 2019-12-30T02:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -325,6 +312,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
+    publishedDateTime: 2019-12-21T09:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
     excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
     publishedDateTime: 2019-12-20T05:53:00Z
@@ -415,6 +415,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "z+2mUjlvAFtj0CXg5k2nM3oftMuv/SAmRWjvledoFSSA3ZVfBzHKkbRaTaQzpLx9DHzRTmV9gsOJHchz4/tTX2i2qLphefk4YudJJl/HbQ4VZkRs90zfcTWhjML8SnJUzBtRWfUVb2r7aeM03z/z/HmW/BcxNXaKFM9Lb83+PczVA6FjD+k/LY73f9yIjMjLpoB4imzfNWcLMm23Sq0KttdvmUU/uRRBap4onvYR9pbsnnsIP7VRGBsCiwYbpDLv56DvKErjlOy7z/u3DVJzNg==;RNuZ+6nP0azZSDVjEVwSLg=="
+secured: "5VRVHf0dN+ODm9+w0rs3t9TBLNjM4uc6UNGhUKJvzhkwIfTn691b7uUrwFEnkARDAW0sJ7diOkSz7WeQ5dLGXafJ9pPbBpxTk8DoX1uKwbCkE3kJSERUJYPMBFe8Wcd0qmZ62N+exIA3nVzSweMg52hhnc1XZ4hWKDM0jqe9/jw/wVGuzg/PF1UnijuoCxkkBWgPq8MY7QO69h9NkEKGjIOpKv4e3mO0cFAwvs9FFVTBmQuGU+/7Bi+1cX2Ex7Qx7bOQJntJfQP1c/ada9TrcQ==;UwYlHFiUCkQV3wOZFSzWhA=="
 ---
 

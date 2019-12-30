@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI is moving too fast, and that’s a good thing"
-excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
 publishedDateTime: 2019-12-03T12:00:00Z
 sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
 type: article
@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -74,6 +63,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -114,6 +114,6 @@ related:
         width: 648
         height: 420
 
-secured: "iQWnFm+8hSsUVjWEC+B0ZYlbAiO+mnCg+/+1sX5Khj2MT06TvXw+3gAfBZSZdn4xJsctxkYK8z8jxGYC+3IASZDk9nEJ+jAbsyFkIjSTRpu2Y1cIrzDR6XkAWU2/o7S8pTzga4/FfIzqnWvX8icMr0FUuPJ8ZJsYrzkwN3nY99v37MM1eFE/pnAiERwM3FLsli2eW17qDUI85nVGxILMC4xO2mBkv5f4bLpIkFFUyp9BB6/PjrX6+uKXZACGu5T0EZ/bmez+twiYObK98q3xSQ==;If2fbYjOu2eK5c2oNSqtmQ=="
+secured: "4qWq4kY6gCHplfdPkRgL0Aa7JJ/jEEU02JfT1xQsprxu6768kr/ropMdmDoT9gSeE09Iv3ipliv0nXL4uo/QD6ru+XReuedgM/1T2LI+qR0gR2H+Jf3kVZsm0ac5T+hhq0c3UsIq8cgFq6E0loAzhokjtvH1rWZGdCdHF5qQuNKffyuh9ESOAXPaGPSNiZZhYjXK0t3+vQ/7VEQND6hlytI4RMvHDA+lpW7jotr7kx39rr+K8B0vtQ5LlvVESfRrPtgdFZNhkkRGITBN0E2QTw==;RGBzEO2VJIHVEU5Jq/KWWA=="
 ---
 

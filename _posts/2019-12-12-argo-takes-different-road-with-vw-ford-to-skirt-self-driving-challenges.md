@@ -24,19 +24,6 @@ images:
     title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
 
 related:
-  - title: "Argo Takes Different Road to Skirt Self-Driving Challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-11T12:31:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/16/business/16reuters-autos-self-driving-argo-focus.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
     publishedDateTime: 2019-12-16T18:07:00Z
@@ -51,6 +38,21 @@ related:
         width: 640
         height: 427
   - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Waymo Chief Executive John Krafcik said. PITTSBURGH: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of ..."
+    publishedDateTime: 2019-12-11T17:19:00Z
+    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
+    type: article
+    provider:
+      name: ET Auto.com
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: https://etimg.etb2bimg.com/thumb/msid-72474883,imgsize-77190,width-800,height-434,overlay-etauto/argo-takes-different-road-to-skirt-self-driving-challenges.jpg
+        width: 800
+        height: 434
+  - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
     sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
@@ -63,15 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "1lK2jQPlF1VDdztYAM4YGQKGRKnjcCF0jCxhKo4kWj6BVyWnhk5vChwnvocSUP5GMIiLGYjBrR2JPosp5gHUXtk43VwD692+0BoLbc4kbW+Ya6xfhKnuonn36zYgmiRg/QHM0RA50OwSfQ0eGz1urNYYJ2M0ziwVIYJhusKZfJVIpWtY38qpq3SSi3AMZgp8DHff1PIRwzCAv4UgkZEFw+fyZHnjApITs+BvTvxNLw/PGLHx40Y/aYuz5j+NN2Q58O6EVNj9oBi1DVaa1ljsLA==;JDpwcUJG1YnGSIJm75fsQw=="
 ---

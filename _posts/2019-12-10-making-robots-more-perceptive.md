@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T05:22:00Z
 sourceUrl: https://eurekalert.org/pub_releases/2019-12/lu-mrm120919.php
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,20 +24,18 @@ images:
     title: "Making robots more perceptive"
 
 related:
-  - title: "Work Is A Fundamental Part Of Being Human, Robots Won’t Stop Us Doing It"
-    excerpt: "A recent study conducted by Brookings Institute researchers found artificial intelligence could “affect work in virtually every occupational ... Predictions about the rise of the robots either take a pessimistic stance, focusing on disruptions to economic organisations, or view “undoing work” as an opportunity to move to a fairer social ..."
-    publishedDateTime: 2019-12-10T02:15:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/
-    ampUrl: https://www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/amp
-    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/work-is-a-fundamental-part-of-being-human-robots-wont-stop-us-doing-it/amp
+  - title: "System integrators and autonomous mobile robots working together"
+    excerpt: "are transforming traditional robot tasks through increased flexibility and diversified applications. AMRs are known for their unique ability to navigate in an uncontrolled environment with a higher level of understanding via sensors, blueprints, artificial intelligence (AI), 3-D or 2-D vision and more. Their perception allows these robots to re ..."
+    publishedDateTime: 2019-12-16T14:04:00Z
+    sourceUrl: https://www.controleng.com/articles/system-integrators-and-autonomous-mobile-robots-working-together/
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 58
+      name: Control Engineering
+      domain: controleng.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.00C3798879007011F16CA37D53B89823
-        width: 700
+      - url: https://www.bing.com/th?id=ON.0FF3EF8706C8FC740B9767CF7ECFF2BB
+        width: 645
         height: 350
 
 secured: "MsZsEayzSAS7asRv/VbNSL+SW3bNRhdKG0oDDeyBujcHd5sO6az9zPcELjSnSKtIyQxQzGUZWMqLq/4QhcU50fuTYScdjwKWlbEEiGg5XMEn0rXZJTvfQX4EnRrpZ0hy21jhgwslL/T5qn/m77L7Wd7LgIYTccIUhJW12PCAJWW6zkZTKxIbjZ7evSHIzD1geJrwb1iSIEMnGVk20iE0FCJbPh8rnNPC2g8vLNX4POlmA4hFkYDiemlwQ47xQ//eGJm8BV71OLmHSMmjOO+jng==;KRgavNTWnp0zz0UNAMOmtw=="

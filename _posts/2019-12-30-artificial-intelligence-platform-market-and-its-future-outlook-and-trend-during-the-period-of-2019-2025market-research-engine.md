@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-publishedDateTime: 2019-12-21T09:38:00Z
-sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
+publishedDateTime: 2019-12-30T02:53:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
 type: article
-quality: 36
+quality: 40
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -312,15 +312,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
+    publishedDateTime: 2019-12-21T09:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -415,6 +415,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "z+2mUjlvAFtj0CXg5k2nM3oftMuv/SAmRWjvledoFSSA3ZVfBzHKkbRaTaQzpLx9DHzRTmV9gsOJHchz4/tTX2i2qLphefk4YudJJl/HbQ4VZkRs90zfcTWhjML8SnJUzBtRWfUVb2r7aeM03z/z/HmW/BcxNXaKFM9Lb83+PczVA6FjD+k/LY73f9yIjMjLpoB4imzfNWcLMm23Sq0KttdvmUU/uRRBap4onvYR9pbsnnsIP7VRGBsCiwYbpDLv56DvKErjlOy7z/u3DVJzNg==;RNuZ+6nP0azZSDVjEVwSLg=="
+secured: "pQO1cLND7K4ErbVSsDDwB82+3Mw5GeLNjoecOHJsoYjhuX0DS5YdHzhVDVjhxilszRvXbVr7ybtFqHxvnmJcMdHyLwQP1W9h7cDQwk7e3H80zL1dPPjHu6zfOjqSyJUbthkknWtMIeu/yoBouVE1TOZWFLArYJ6X9/PS7eFuV9P7FshqCuzEUWRTc46u7IdK8tQwEJgPCnGWj4t4FUIA38kUbKoHdgmg0Qs7xGRuLpoKRimJGbTuNMuZCrZFk3cdiBq0hu1EykASZq3FeHBwJg==;l5Bb77oyZrG9p9G07ekFQw=="
 ---
 

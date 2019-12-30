@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
-excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
-publishedDateTime: 2019-12-21T09:38:00Z
-sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
+excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
+publishedDateTime: 2019-12-30T02:53:00Z
+sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
 type: article
-quality: 36
+quality: 54
 heat: -1
 published: false
 
@@ -19,13 +19,12 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
 
 related:
   - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
@@ -208,19 +207,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
-    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
     excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
     publishedDateTime: 2019-12-18T21:43:00Z
@@ -325,6 +311,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
+    publishedDateTime: 2019-12-21T09:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
     excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
     publishedDateTime: 2019-12-20T05:53:00Z
@@ -415,6 +414,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "z+2mUjlvAFtj0CXg5k2nM3oftMuv/SAmRWjvledoFSSA3ZVfBzHKkbRaTaQzpLx9DHzRTmV9gsOJHchz4/tTX2i2qLphefk4YudJJl/HbQ4VZkRs90zfcTWhjML8SnJUzBtRWfUVb2r7aeM03z/z/HmW/BcxNXaKFM9Lb83+PczVA6FjD+k/LY73f9yIjMjLpoB4imzfNWcLMm23Sq0KttdvmUU/uRRBap4onvYR9pbsnnsIP7VRGBsCiwYbpDLv56DvKErjlOy7z/u3DVJzNg==;RNuZ+6nP0azZSDVjEVwSLg=="
+secured: "ehIJe+2zVZGGeXyrUML1oesYfQtfI4D4m8/fsA4IQjdlnQ8h7UsMu7O+GWLhIMkU/Cwg7d3q4qDTYkCODHIEqGYHgA4KNd+uCiBzcw27I44sbqceJfEecHhjhMtzu7xrb1xUN1JAr81livg8e18eS3XcNkhrXY+oSmW3KEAZwzikMRXMLKNVuKbG6JGWSE+xNQxC35Oz1a3y/abdWa+JDvT1vR1G2c+UY7PxRtgqz2ye+Ii8pHv+cwhOYq7MJZhi3ulEUtpJBCE3l2wIOfH/JA==;hitXGifBw5kLj2kP62xMUg=="
 ---
 
