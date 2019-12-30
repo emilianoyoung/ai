@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
         width: 457
         height: 299
+  - title: "Samsung To Unveil An Artificial Human (AH) Called Neon At CES"
+    excerpt: "Samsung will be at CES 2020, and it will be unveiling something vastly different than what it has shown off before called Neon. Neon is said to be an artificial intelligence platform that was developed by Samsung Technology and Advanced Research Lab in the U.S. and is expected to be introduced as a new AI platform of Samsung. Neon has an ..."
+    publishedDateTime: 2019-12-30T21:34:00Z
+    sourceUrl: https://hothardware.com/news/samsung-neon-ai-platform
+    ampUrl: https://amp.hothardware.com/news/samsung-neon-ai-platform
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-ai-platform
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
+        width: 700
+        height: 643
 
 secured: "h+dbIdgUpSvMxJ+hKVFhpLPQWZy/0WYayoQOgU0sKFC4dUDZynhgvC9qzgMkIJ1dUaI6a637i6sshBwaaWFD8x1ZN3bIXsvMf4QTxqszXy34t2oVH+a50yxM25oXnaZEoJ5CtYe+jpWKHjkakXshE1GuyIRkjBc2ff0hBlC2icCgVAWI7xBJQf6sYg5lYAIhDVOW4jZareprPK8YaXGodjWJM8iusz/Lx9hmPX5kRew+I2RZ/VRpLDo0cimb5WYIzvdNzsKlGb7/j8irF9WGxQ==;W/rWRakmAGto4rsFZXsVSg=="
 ---

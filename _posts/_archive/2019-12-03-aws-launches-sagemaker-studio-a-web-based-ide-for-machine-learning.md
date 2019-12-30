@@ -51,7 +51,7 @@ related:
       domain: infoworld.com
     quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -89,6 +89,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -103,6 +116,6 @@ related:
         width: 720
         height: 335
 
-secured: "hiQPg+hSwfExvvQQqe62FGK6v1ZjosPZo7B/2NlPwXB7xZrr3+jqIz6TbAomZfuwQwFse7VTOi6RL9LRx5lZEWUQz89C4WGPo6BGS/scHGkqdCVOHw2LAiRql0WzBCm0YtNJ+28k7zXl9K4Zi0Sge/ZsY0DCm3cw+B/Cx8gh+IiDFjgNTuTdBb4+ZeO1JwEO7bmUyr6B8zPRVqB62ArCZeLYX57fnFXZnVYJ3juIBtRAUg8ea+T0CP+ZcpjFXQlXK4UMHD+SjoXRcmJ5+6iKuA==;slK6v3uHrpMHUEgP9VvwsQ=="
+secured: "nUUMYQ4iHz8VCdP3qoigiCNy3k78UXxOqD4OQ6DPqCTuZBRRvONfj3aZ02QqW0OzPcL57SvKYI3dGdMxy/mVR+HyuIZZywOjg/aA2qsLyW+q7JYWLgih5WogdNEyCt+BdX+m0UZCHR9J/bQGswEQ3obvxT7gIuUz9w16F/bK8c6qvQaoiXh60WBsbdy3acsmUpbLuAu0tAvuiblM8ew9iPE5bZj+NMg4UC7+JAC7UGh4orhrEpf3bGNQQSibNro1koII2J2FKL7MadmhiZRaZQ==;MQLw64HruZioTkoVaca6Rg=="
 ---
 

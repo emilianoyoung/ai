@@ -66,19 +66,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
         width: 700
         height: 350
-  - title: "Taking Your AI Projects from Pilot to Production"
-    excerpt: "Prior to Landing AI, Greg served as a research scientist at Baidu’s Silicon Valley AI Lab. He holds a Ph.D. from the Georgia Institute of Technology, where he led the development of the GPU-Ocelot dynamic compiler, which targeted CPUs and GPUs from the same program representation."
-    publishedDateTime: 2019-12-10T20:54:00Z
-    sourceUrl: https://www.industryweek.com/technology-and-iiot/taking-your-ai-projects-pilot-production
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1189A094A449509B39C8DDCD18CF9887
-        width: 700
-        height: 363
 
 secured: "Mp5LODRfri0mj6Oe0qYmW+OVRLpzwyO1Q8ELvYMp+xORXCmvtWpdsgZCgYRdnTetIWSSpN+A0xqcJGlUObUVoR/EKvi3V22aFRPpykTt4WUVIlq1cuZLNYZCD3gGykS+ZtWmRprMDDudq4FipZ+6Ur8p6V32I8OxUEng2nqb7LXxd0YxENMWOAsXTD5J/cTf+ynlkhxozkRH9KkKw4ORTnXKKphCGSlGY3Bui3g5IG0r1I7ZY01zHX0e7AV47h6iNhkFlnUAJk+KZOOxQRUSnQ==;E5gE5W09eAqyTmFvedttHQ=="
 ---

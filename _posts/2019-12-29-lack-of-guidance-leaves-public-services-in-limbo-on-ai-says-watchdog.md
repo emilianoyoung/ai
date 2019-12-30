@@ -2,16 +2,18 @@
 category: news
 title: "Lack of guidance leaves public services in limbo on AI, says watchdog"
 excerpt: "CCTV commissioner says he gets many queries about facial recognition and other tools"
-publishedDateTime: 2019-12-29T19:49:28Z
-sourceUrl: https://www.msn.com/en-us/news/world/lack-of-guidance-leaves-public-services-in-limbo-on-ai-says-watchdog/ar-BBYrdTi
+publishedDateTime: 2019-12-29T17:53:00Z
+sourceUrl: https://www.theguardian.com/technology/2019/dec/29/lack-of-guidance-leaves-public-services-in-limbo-on-ai-says-watchdog
+ampUrl: https://amp.theguardian.com/technology/2019/dec/29/lack-of-guidance-leaves-public-services-in-limbo-on-ai-says-watchdog
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/29/lack-of-guidance-leaves-public-services-in-limbo-on-ai-says-watchdog
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
@@ -22,6 +24,6 @@ images:
     height: 367
     title: "Lack of guidance leaves public services in limbo on AI, says watchdog"
 
-secured: "n0j/Hxbigi6LZf2GYF95sb8H13ajwLhj4IlABk3ePn7Tw0A0wMwwyZ7M7ZkVrP/T5MfgUmOpTN0BHqV2xzR3NAvummV7OsOUrUBbeEpacY3gW5+9hjNdQpRAQXSFvEvVnFXhKf/AFX0ZQ7vPrTqhyKtfwhGYNxBgcFKetSYZmRXZ46zPO1sKzFMykWM57IuHfBiBDhec8erTcCoaqTdU3g1/QHvdMceNZsqEPJFVvwngRKvk5QSXbRrKL036ZoejkOt9gmhjXYOd95W8pZhdRA==;okRIRQSAQf5Ep9n6hZ4yPQ=="
+secured: "8Q736pfJhBg/5k8iHRpq79yj0MF1oLsDLn2oZWlFPUrdKNc/Se8RsAmO3dHjuuFrLdz348p7xKb0EtV1xq3JTph977GqvvRI89dqpxM8g5pCnmjm2EIv+tpI93qiO4zy7zAGya6aVKGGHCdIGNrFxGig67qA0C7iIegxhEdKDsl8rikj869I7QaQkhgHNuyV4Q4lwZ5TGK4m3Qg6lxCDOFCsGrVvN+cEENpfN4Qcm8M/IQNQk8TNNbN1CAG3ET4h4+0hy44jhZLSeQYYWR7Zsg==;vhyToeezhO37cPXf+rfZNw=="
 ---
 

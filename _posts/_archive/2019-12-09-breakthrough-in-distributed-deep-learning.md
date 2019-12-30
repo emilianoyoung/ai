@@ -103,6 +103,6 @@ related:
       domain: itproportal.com
     quality: 39
 
-secured: "ZnyTShbrdsuz27WpeDJ1PvVFTLKpN2VycctaI+CDGQoby/ZbNQHwFTbHnZpKEoINwaL3wM03lTj6tiz/4uHBYRjkkkjKshM5pqT3GiZ4Z1UXWgwTWOKBkcBNN373PpP3kePz9SQOKxw44VM8jXYxM/TzQZox0tQjhPnXF3l9Y5ggE++3WLYdJXNQ/Dv1jP+DGFTLAlQhBfeanKrVfYs2UYunQ2zDmx2JRyEQd1MXnbjJvxt8MwAgwnVimp6jkViypp9loGUaNmUqwnLtvaO5ng==;qB2KkYxOnojYttdJnLOWHg=="
+secured: "uft+9bJdpcBME715aWnoppJzXJtiIkB+emU80KI07qCXBLDFqKDkITLgMlzYKVG2yWwNZcfFTFgK5ZjV+KGuzLSSlTsJekuRP7kNw1ClKO8UNuaUv30uSuf4oe83M7ofJObQXkhqFr9buuq0loZkD/Bz/StNIzaWPgAgkbuEUdAT5zCCPNaZ6tKRM/x5egE5G8WXjngt9Hj4gW02Mxs/efrMwhdr29C6+aZ+CDHVdyf/IvkN87ECjmolKR5AjvhcXZA/5UdhIQolYqssOeStrQ==;2qRuQ7piWLpsWxSDOujL5w=="
 ---
 

@@ -60,17 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.56EBF477EAE8AFFC21C3D973A47A1A4C
         width: 700
         height: 350
-  - title: "Trio of NZ business women leading AI in NZ"
-    excerpt: "They have outlined issues stressing New Zealand urgently needs to focus more on achieving an AI-enabled future, particularly in relation to investment, research, skills and talent, ethics and regulation and trusted data. “New Zealand needs to actively consider benefits from creating a world leading AI strategy, supporting innovation and ..."
-    publishedDateTime: 2019-12-10T20:19:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    ampUrl: https://m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
   - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
     excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
     publishedDateTime: 2019-12-20T05:38:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulxmccarthy/2019/12/17/conversational-ai---a-new-wave-of-voice-enabled-computing/amp/
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -90,19 +90,6 @@ related:
       - url: https://searchengineland.com/figz/wp-content/seloads/2019/12/smx-east-impact-wall-staff-1920.jpg
         width: 1920
         height: 1080
-  - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
-    excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
-    publishedDateTime: 2019-12-10T20:08:00Z
-    sourceUrl: https://www.adweek.com/inside-the-brand/innovators/nestles-orchid-bertelsen-on-testing-conversational-ai-and-failing-forward/
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.DC4AED630C8C2561B7AD8110BE2BEEBE
-        width: 700
-        height: 366
 
 secured: "fPBP67n2k3uWuM6VB1UyT/NkFbtXb8utzLFmyt8D8p4eUhuJC0yQV6PNEs3RI1Vh9nav/FiV6Z/zAFdy5hOPYUQ6f7Je7FfB+UyQ2J/nUge8v23ENMPLXlE93ZmIZk8I1YYMOrN+VJS6G7ZKnOqKk/Hwyue/qjljKUNBltM9Bv7kEwgsthvhlavrCe3CDZjHzeYmlq9HBJfc+48TKGk00vxsahIJyI0eFkaFvcCdoLdkT6YkZh0EFOzLa+drJVJuT9WrPv8DB8fhRNw/gm93Uw==;7GXc72YwPeU3iDBkzkJiFQ=="
 ---

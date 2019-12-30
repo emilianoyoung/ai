@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "5 open source innovation predictions for the 2020s"
 
 related:
+  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
+    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
+    publishedDateTime: 2019-12-30T21:04:00Z
+    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
+        width: 700
+        height: 381
   - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
     excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
     publishedDateTime: 2019-12-27T12:05:00Z

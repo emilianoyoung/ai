@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -53,7 +53,7 @@ related:
       domain: techcrunch.com
     quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -91,6 +91,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -105,6 +118,6 @@ related:
         width: 720
         height: 335
 
-secured: "8DH6CLkYF+GiW/mY5ehRZ0wjgolg90MfCPtnfqOPty9VF3Mi/l7pA6MbuQWp4t1QvBnVKWTrvTFV8+PPM9C9LxD8MHWQ8hUwD2B4dgndbOf6aVCfJQZkxk9gX9VNGQxOa3P6nmq6xO54IIi2zGG8PIKhs2fb1W5hJ3XjC8+GEzleBHXuJUrL5/hOFTuM1H54B33C14QSx0QL9C0DQFrL8dI9ZvMzQiWNZebjojm6JetkZyXCXMSor+lKWeKtCpkJFPWfTePdtB8jumb2BtKFAA==;1rMOayFpsEb8DOpWnx7oEA=="
+secured: "vDIWEc1dVscA04fMBbzPYVQMp1v8G2lyaT/RpxbZSSxz776u5jS7+3CMm2gxdHQxWnGTTtB8arqqwiNe+1oEqZXOMy9Bn58Z2mfRpzU3n79emSvwi9w5w3uBerHwzAxhstuCV/4iwG9Z3ZylHN854k0FnZrhBXkBCaPfdiXutLEEiUaiusU1wXcIgMxYgdRiqreaKXOcPqtRtkoLsqBB/9RtNNRVf3dxQkteTuqKTriU6nT37yRFXzy9IFI/Y3/8N73SkAlcFNLL4C897ZlVSA==;OW0Fk7+2vZOLlTKFAkPoOg=="
 ---
 

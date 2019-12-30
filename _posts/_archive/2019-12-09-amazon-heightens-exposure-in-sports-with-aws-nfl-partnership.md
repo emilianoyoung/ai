@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
 
-secured: "7o7unpmqE9dOn3FH43Lns7TVGYlnxvtVB3m/tV/C7gpj3u1CC449NORy5k1MiDaopm9xHlUTsxhdJkv1XOuZf3kx95HHSF8YUpz2tLBRQsty22teC8KsDwkSCPRk6dUMEjhwgoHsO9xPgMhBYrslhdFfFt1MPiATga4FG6XwWgGnB0s7UA+H5rH6zp5y7vXypKVcVYVW3CiHls23H0Qhox/rswMIhwO2iyPeHsEZDGv9SigqqAOexKtXtQq0HeQIMmeTPjvWjl/yPnFVl4vEQQ==;5yDhEJdQWLAF8VArjG0WOg=="
+secured: "BeMfgFh1dOXZnj/NvGfdT5AJfVWLvAdYA54gOKHLjkd8K/3FCMWiLOWTGIqI37in3WeNYhqY79HGM5z7Zfl336tl8t/w/Ef2kgzertoQKy4BIEKGZAAie9gPA7ylXpdBW7dCyVqYgqXnRGHjZK7g2M6SM5AA+2Afm4rti2QbH95V8oKOUhcY8oaCiDi19sPuL5zC03AWZcffEd5K1qjeG76aNzozDifPp6r5qS5qzNtkR/etIc4qbAXPjlYBJJSEkRiqScCgeflGhC5QnGRWXg==;6ebBdrqPcfCQY81WoND6kQ=="
 ---
 

@@ -90,19 +90,6 @@ related:
       - url: https://searchengineland.com/figz/wp-content/seloads/2019/12/smx-east-impact-wall-staff-1920.jpg
         width: 1920
         height: 1080
-  - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
-    excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
-    publishedDateTime: 2019-12-10T20:08:00Z
-    sourceUrl: https://www.adweek.com/inside-the-brand/innovators/nestles-orchid-bertelsen-on-testing-conversational-ai-and-failing-forward/
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.DC4AED630C8C2561B7AD8110BE2BEEBE
-        width: 700
-        height: 366
 
 secured: "+qE2Y99r4ax16s3gIvyMdP0U/B396J12XCbg3tFyoaGooooR7MKnxpckpa+HXspRUYVoyX0Wiwb2Hjp1ZHJaozN/HySNPi63HnHQJETsT3DQxSjX50n3V00GfUJVqNHebioJl+gYWHfQE/ofOyNu7+QXXEdYYrJaAImb7UAhvugumIdqOKIUwN3AXmHA3zvAKZMWVgV3gupG2ZLX2ZClh3bpD8RfyUuqFCuF0J3rJbLdoWL+qyxc7LrwVIp5FyA48eWQuB8m3I592aKZd2FOow==;bmcXYGgbWNyO3f25rFCQlA=="
 ---

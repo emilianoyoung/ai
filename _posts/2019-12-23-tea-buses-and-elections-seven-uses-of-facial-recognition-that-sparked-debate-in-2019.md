@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
         width: 700
         height: 350
+  - title: "The best facial recognition cameras of 2020"
+    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit-or-miss, based on a variety of factors, from ..."
+    publishedDateTime: 2019-12-30T21:43:00Z
+    sourceUrl: https://www.cnet.com/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    ampUrl: https://www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.2CAE30B96CA2C942E26B5836F25B6537
+        width: 700
+        height: 393
   - title: "Use of facial recognition in Delhi rally sparks privacy fears"
     excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
     publishedDateTime: 2019-12-30T11:45:00Z
@@ -217,6 +232,45 @@ related:
       name: Winston-Salem Journal
       domain: journalnow.com
     quality: 39
+  - title: "Use of facial recognition in rally sparks privacy fears"
+    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
+    publishedDateTime: 2019-12-30T21:16:00Z
+    sourceUrl: https://www.gulf-times.com/story/652120/Use-of-facial-recognition-in-rally-sparks-privacy-
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0794A7B7E77D3CD47CAECBC43D9FC8F7
+        width: 620
+        height: 355
+  - title: "Indian police are using facial recognition to identify protesters in Delhi"
+    excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
+    publishedDateTime: 2019-12-30T21:20:00Z
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
+        width: 700
+        height: 393
+  - title: "Indian police are using facial recognition to identify protestors in Delhi"
+    excerpt: "Police in Delhi have now used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about India’s new citizenship law that has sparked protests across the country, the Indian Express reports. Protests have erupted around India after the country’s parliament passed the Citizenship ..."
+    publishedDateTime: 2019-12-30T21:20:00Z
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
+        width: 700
+        height: 393
   - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
     excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
     publishedDateTime: 2019-12-30T12:54:56Z

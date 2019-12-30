@@ -38,7 +38,7 @@ related:
         width: 1575
         height: 847
   - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States ..."
+    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
     publishedDateTime: 2019-12-10T15:51:00Z
     sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
     type: article
@@ -50,19 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Leveraging AI & Cognitive Services to Simplify Communication"
-    excerpt: "All I am trying to avoid can be described this Photo by Kyle Glenn on Unsplash This problem provided me with the unique opportunity to leverage Microsoft Virtual Assitant, with a goal to not only to solve the immediate problem but also to build and ..."
-    publishedDateTime: 2019-12-10T20:39:00Z
-    sourceUrl: https://medium.com/@jainsameer01/leveraging-ai-cognitive-services-to-simply-communication-dddd116b5997
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/584/0*4XWE_4lJeGWPw5Bh
-        width: 584
-        height: 389
   - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
     excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
     publishedDateTime: 2019-12-17T13:38:00Z

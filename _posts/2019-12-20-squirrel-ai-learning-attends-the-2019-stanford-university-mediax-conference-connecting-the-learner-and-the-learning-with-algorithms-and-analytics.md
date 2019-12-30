@@ -69,17 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.56EBF477EAE8AFFC21C3D973A47A1A4C
         width: 700
         height: 350
-  - title: "Trio of NZ business women leading AI in NZ"
-    excerpt: "They have outlined issues stressing New Zealand urgently needs to focus more on achieving an AI-enabled future, particularly in relation to investment, research, skills and talent, ethics and regulation and trusted data. “New Zealand needs to actively consider benefits from creating a world leading AI strategy, supporting innovation and ..."
-    publishedDateTime: 2019-12-10T20:19:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    ampUrl: https://m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU1912/S00191/trio-of-nz-business-women-leading-ai-in-nz.htm
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
 
 secured: "LZIS9+o7ZjgGPSfBZvhNQ6c4FID6NBgrTMiZkr/s4bttICsmDr62bHrMBMBOzZiidlQmTYxv72PLbFA7OaWnkhhGIQCE2LC13KJo3KvzLY/qR6CcouA7fF8EKu9ci3th8zOg46rbN+WcOFGWwePKi9BA/gjhKQk0b1hv70mnYCLkKy5HkiINP7WKaXiucZ+kpl6io/QAGmJwD4clo+jpwy8DAfXvO3Qo0/fViCY86e87Rek+eU/sr2m0NtDKTtnhxtszijepgRUqBYFO0QkAUA==;6djSG3gLMR/2UxOBMUx97g=="
 ---

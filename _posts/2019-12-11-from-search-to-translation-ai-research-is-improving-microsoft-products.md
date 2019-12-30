@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T16:59:54Z
 sourceUrl: https://blogs.microsoft.com/ai/mona-lisa-translation-research-products/
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
         width: 700
         height: 350
-  - title: "Taking Your AI Projects from Pilot to Production"
-    excerpt: "Prior to Landing AI, Greg served as a research scientist at Baidu’s Silicon Valley AI Lab. He holds a Ph.D. from the Georgia Institute of Technology, where he led the development of the GPU-Ocelot dynamic compiler, which targeted CPUs and GPUs from the same program representation."
-    publishedDateTime: 2019-12-10T20:54:00Z
-    sourceUrl: https://www.industryweek.com/technology-and-iiot/taking-your-ai-projects-pilot-production
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1189A094A449509B39C8DDCD18CF9887
-        width: 700
-        height: 363
   - title: "AI research and big tech"
     excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
     publishedDateTime: 2019-12-16T15:03:00Z

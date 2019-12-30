@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.05D3017A3DA1075C377982E2D38B34E4
         width: 700
         height: 393
+  - title: "As robots take over warehousing, Amazon workers pushed to adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T21:36:00Z
+    sourceUrl: https://fox40.com/2019/12/30/as-robots-take-over-warehousing-amazon-workers-pushed-to-adapt/
+    ampUrl: https://fox40.com/2019/12/30/as-robots-take-over-warehousing-amazon-workers-pushed-to-adapt/amp/
+    cdnAmpUrl: https://fox40-com.cdn.ampproject.org/c/s/fox40.com/2019/12/30/as-robots-take-over-warehousing-amazon-workers-pushed-to-adapt/amp/
+    type: article
+    provider:
+      name: FOX40
+      domain: fox40.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.4842AFC2A1D86A3EA0C18F864C370CA9
+        width: 700
+        height: 466
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z
