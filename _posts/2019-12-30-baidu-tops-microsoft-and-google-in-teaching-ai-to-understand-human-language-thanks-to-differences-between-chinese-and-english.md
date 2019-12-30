@@ -26,21 +26,36 @@ images:
     title: "Baidu tops Microsoft and Google in teaching AI to understand human language, thanks to differences between Chinese and English"
 
 related:
-  - title: "Microsoft’s Andrew Shuman on the Cortana app’s death, natural language, and Alexa"
-    excerpt: "“You just scan through the subjects. And then you scan through who sent it. And we had to do a lot of natural language processing work so that we can read them intelligently and summarize the state of affairs.” Unlike screen readers, which simply read out every single piece of text on the screen, Outlook’s voice mode and the Play My ..."
-    publishedDateTime: 2019-12-23T16:08:00Z
-    sourceUrl: https://venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/
-    ampUrl: https://venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/microsofts-andrew-shuman-on-the-cortana-apps-death-natural-language-and-alexa/amp/
+  - title: "Baidu beats Microsoft and Google in natural language processing competition"
+    excerpt: "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ..."
+    publishedDateTime: 2019-12-30T17:30:00Z
+    sourceUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/
+    ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.1CE15A677547934620C5E69AD11C31E3
+      - url: https://www.bing.com/th?id=ON.2DEBD0654158B1BE9586D492C8BA39D8
         width: 700
-        height: 350
+        height: 359
+  - title: "Baidu has a new trick for teaching AI the meaning of language"
+    excerpt: "Earlier this month, a Chinese tech giant quietly dethroned Microsoft and Google in an ongoing competition in AI. The company was Baidu, China’s closest equivalent to Google, and the competition was the General Language Understanding Evaluation, otherwise known as GLUE. GLUE is a widely accepted benchmark for how well an AI system understands ..."
+    publishedDateTime: 2019-12-26T19:29:00Z
+    sourceUrl: https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/
+    ampUrl: https://www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614996/ai-baidu-ernie-google-bert-natural-language-glue/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.25FE52ACE565ACFE6F3824835A100B58
+        width: 700
+        height: 393
 
 secured: "WgpPu/dytukp7xuIxOiDpVXHx9Jfv3/SCLZJ3vc459Lz9WwnW6uZIIjGDF6OX5dLlVLwUbyfXHEkczmn+3fGvoFAGiZz6jBh64jSL0gjNEZzZR/iOcF+c2oUyXeSj+7tsjHVd2+y6fmhA0HZ2vpSw1y5L9QWFeh0mBXfMKGn+kii6QhA5aPfHpQMuFpk9IFHMFKlkNBafkNz5P/GbhtQXy1gBgoMTaqhuK3xm9qvPzcDbl9KqBWRzBV70Fhtfs2KK62tyPRsAEv+Y7NYdZMQgQ==;W8x+M9BJa7oWY5YM1SQoYw=="
 ---

@@ -43,34 +43,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "The great AI debate: What candidates are (finally) saying about artificial intelligence"
-    excerpt: "The views expressed by contributors are their own and not the view of The Hill Artificial intelligence (AI) will shape the destiny of humanity, but first humanity has the opportunity to shape AI. At times, anxiety about the former causes us to overlook the latter. We forget that artificial intelligence is going to serve the goals with which we ..."
-    publishedDateTime: 2019-12-10T17:00:00Z
-    sourceUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial
-    ampUrl: https://thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/473794-the-great-ai-debate-what-candidates-are-finally-saying-about-artificial?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 64
-    images:
-      - url: https://thehill.com/sites/default/files/bookercory_delaneyjohn_warrenelizabeth_sandersbernie_buttigiegpete_121019getty.jpg
-        width: 980
-        height: 551
-  - title: "This object-recognition dataset stumped world’s best computer vision models"
-    excerpt: "In an effort to close this performance gap, a team of MIT and IBM researchers set out to create a very different kind of object-recognition dataset. It’s called ObjectNet, a play on ImageNet, the crowdsourced database of photos responsible for launching much of the modern boom in artificial intelligence. Unlike ImageNet, which features photos ..."
-    publishedDateTime: 2019-12-10T16:41:00Z
-    sourceUrl: https://www.miragenews.com/this-object-recognition-dataset-stumped-world-s-best-computer-vision-models/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/objectnet%20collage%201800.png?itok=dMr5X_p8
-        width: 639
-        height: 426
 
 secured: "qGZT928wzRCKm730DeYRD3pOu28MVHdrssfW0yk9x+2dPLcdnR2iLQD91MJttfUZ0lvFIpKrHNGfH4H9Vj/OrGUNaLY9VBORpIH6b3Tb0taxQUPti2VMSxBbgH64DnbwIG4LFe7CqJvVZdvvdWFEmzY5LqwsNzO4K0uCfSvJl8F+GYI7viULhhllQhW4H2AAVeDTYxO7SZsnyOicVOCBV9KkZMEl0mrMck4ayubRCCzUGHuqx4wD+JPDTLxQwa4ikZbNXxupAP9X+NSOPZHEEQ==;YFJ+KOKNk3HG5VeT6/v/lQ=="
 ---

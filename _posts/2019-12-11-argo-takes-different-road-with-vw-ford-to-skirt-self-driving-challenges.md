@@ -54,6 +54,19 @@ related:
       - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
         width: 457
         height: 274
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
+    publishedDateTime: 2019-12-11T11:14:00Z
+    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
+        width: 991
+        height: 557
 
 secured: "VjaG0+1B+m8KhXIb8vjQ2prbJhDdmBsamcL+h0cbE9gqEyqOVhsygopAPP/mckH6IkLoIUrlfdKULDixwNeDN9eAh2sIxAp6M2bZI6pS1A2aRcOFWhkgfHOiNLfcZy7lWiGaADa6IjZB0xQuJOrM14B+qDcXjenEf9Ut2lXlbBo6WE67X7i4/mD4STWEGk7orVCbcyy7wQ8yE18C3j16/hFnSow0Q5llwOJg4xnN2eHdLW65ZOrKRILcJJ7qCUzUQpAWLOt1vzgv3LAW3Byvpw==;VZrYPYaCqxzs2eCTmx3G2A=="
 ---

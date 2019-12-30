@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
-    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
-    publishedDateTime: 2019-12-10T17:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
-        width: 1199
-        height: 625
   - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
     excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
     publishedDateTime: 2019-12-12T16:00:00Z
@@ -171,6 +156,6 @@ related:
         width: 700
         height: 445
 
-secured: "0qk0a+ZvyIg4mMDuxeAcwTVwD1n3fXFMaJz1tFVpcT0vtT3zhQ2Eo5kijBNHNnulCrXZJDEqKMTSorOYSPxIvjKolDDOfr+0MSqSXtkBHUF9of8jmXQZqgOMMUMEvHSmgW4edf09dysVFw5Lujn/5dSuHmyDi83WpqnRsM27tNVYrmadd9JbMaqroB6j0pHZ41KXDYIjKbhWNETJKLpH00QnBavue3BJeyr0NCucExZ2CHSgGf12SEOfEv6JYg8o3LqTwW0f9OA+7F6rYbzr6Q==;/Xgdb4TAjLlQZ3OxZKZm5Q=="
+secured: "/yuuRCYCWZC8jTk+VUetZkZjN8Wq1VSIamL90wWxhs5MoUotldE43IUO5SXktFbLZjMRbG4ygfg59/xDEpp4obKMNHV3WVXp2WeGdGLBlN8BAXkJTnu2dalm/pjuFQ+jAIJ2wFLBfTNAe1f9BJyqXFQnEdsEuFvzNY+JzppOznYO+C8GhD2w+vSIA2ZULuxdNkXy4xJaf68mDNbGqkX2YOmSPxpUQ8QMeN4yCzZPpCrIq8lw74RrUN2riwBty8pB7Pd6dxVqhrI+AW/On9uweg==;ZJnu5g93j2ck1gmSS1Pi4Q=="
 ---
 

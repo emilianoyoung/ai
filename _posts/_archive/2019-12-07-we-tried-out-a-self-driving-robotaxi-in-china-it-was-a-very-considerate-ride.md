@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-dr
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-related:
-  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
-    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020."
-    publishedDateTime: 2019-12-05T20:05:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg
-        width: 1200
-        height: 630
-
-secured: "Z5AYS5GRQ2rtU+qcGr7GYdtM+44p8N7S041kg4avwWXGfHYc7N8faGpxYnbpEDqm8awHahOj0onfE6jcsiyCNmvrarXF3lsj+JkK2aAS6UNxa4kn7+WlASQ9Ii1RoIWAn3JeYvpuaDVKqRu6q9kl45iRWgwgIjd+xrHsTlyIW2pLoiVGf7QPK++1rBXkIEHlXEzknWRSVC5joSwnvChM9f2p0BFDegb3YE8blQxwoA1rkkQGUWIvasksVE4uUbzsi22SDJUj3Xo20MPno0L+Aw==;L6+11YR1wAIUslNFachLmA=="
+secured: "M5h9ekA/ORXG30ygvQZMY3zj9dAVHG1ObtO4ltkDZhwrCG8TSxPP1RmA523Gpre3BFbxHotbUtje0Ot61UUmWXNHqM4eOCB9nQJR1gASX2FasUxaewRCZzwKYImwY3Jh2aQHb8mSJgbOdv92gMc0VVBW2xGGtcTJPwixVRU1Fi+IZZZ4fJr9ZSnahvytjC7DKc6LkyDLwEiaKVybLm0uacyVD7E3jYmlSfZGK4BNLmw1jEAdnqVSqLYMS0gC9Il0bWsfhQbVJ2Sq9zSmGvgGzQ==;sbyzn6IBLbLb4i0rVYtZag=="
 ---
 

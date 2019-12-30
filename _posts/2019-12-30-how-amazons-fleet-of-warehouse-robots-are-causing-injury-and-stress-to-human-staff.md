@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5496E211BEAB6DB35E9626796FEF6B02
         width: 700
         height: 406
+  - title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T15:45:00Z
+    sourceUrl: https://www.ttnews.com/articles/robots-introduced-warehousing-workers-have-adapt
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
+        width: 470
+        height: 246
   - title: "Proliferation of robots tests warehouse workers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T06:32:00Z

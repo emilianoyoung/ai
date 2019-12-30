@@ -52,6 +52,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 57
+    images:
+      - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
+        width: 648
+        height: 391
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -102,18 +117,7 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
-  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
-    publishedDateTime: 2019-12-06T11:15:00Z
-    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
-    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
-    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
-    type: article
-    provider:
-      name: The Register
-      domain: theregister.co.uk
-    quality: 37
 
-secured: "l/+VV3lmsK2FfE7qzAXVJnZNxVYgjrJxHq+O5x9cicuy5qLV+5bzctxeb6Is+wyLz3haijw3ixvGaZ0CGyoxby2Xfl9XZZtSpnZfeSoIU2UjebvTJDzXO5cLlEXBR5iK6LkSj/4QmaNlkXOQoW7hs95uKKOVwEjkhW2oFuL0keTNtNclutqjg44nH+0HHxbHjSVJfH90vY5xeBv4exIVvoYSDyWgXgeYv0zChOfdxCr2WTceCaE2Ud3LbJb8NB5Ffac7pQocBzQgNORTcgvWfA==;hYpcDeagSOK0pzMMDgJmVg=="
+secured: "R1jkprsutIUslTDoZ7eL/B1aLVu1WN7sEep3u6ROwcsW2+DryKwhWBkSCBkSzQkAhUjRlQQoZgfly4D1YVV9WKoOzaz1UNAY76D2qZ+yaFihtdsgPULqwaLH4KZOcErS3OOBPQakE8lds9cC8gOk8H6uutQoWBmeoXROg1mka7Ys6bJHr07p4YMyM8s9mPvDeCjVzgQOkLHnIv80dpvqB4KY8Ta2847aZ6T9Z+N8e50OcbK1CuWAY1gMwEKQYf2PqpvC61/nNKgqPV0pauvgCQ==;IbgyvCS5w4P4rsiZYjUz2Q=="
 ---
 

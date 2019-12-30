@@ -7,7 +7,7 @@ sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_g
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - Google AI
+
+images:
+  - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
+    width: 648
+    height: 391
+    title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
 
 related:
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
@@ -112,6 +118,6 @@ related:
         width: 632
         height: 422
 
-secured: "/lhutUmw231xJBr5aUBJ6sCGvKu7XYDUTCBkbAE3E6hvJLQYDFCXu4pbQwkRSGslUVhtF9eTbPls5+Eb/51z9cGsobZ/CfodF/H0Dv83i076VA16vP0Zme1/X+82GvOIRmV2UolpEH3R4jdyLv2XPKIGA5cXEEHhK2xgFR5Mxq+ZFrniVukOlkVcSHUzgAwbTiC3NA/sELAiOynh1nd4HkRGdJ4mwG3IxowQP/WTo/ayOv8ZiZREZuDvL93ZEYFjJc52pxiYJFseqVjPH20f0Q==;HEvjojsZE00ovGUIhZCt7Q=="
+secured: "bL2gjYhAwXwa5h5dvFTQtJwNr8iYwLkw6jwWREi6PyE6KI7TPmIoaWp4AGbPnjsZFVyuylfxcgGWlFwJ69xldkWnGNDjf2h/iX6L5bf163YbY8Zu4H1xgSljIXeWy5xBgdjvEP7+UFVqTyK3mAs7jBlNbTtXfW7BuFuMRF+PMb1qtCh8dSofxh+pDwJaP3ipbw8q3BHAocw5G1Dr1VRNZiL5w9FDaphWbVsLU7cW6DS4anB0NzXmUve0Op4ly58IpaueGlf171LL0NVy6K3x+g==;msldO0s4C2tzrO+sUbzIFg=="
 ---
 

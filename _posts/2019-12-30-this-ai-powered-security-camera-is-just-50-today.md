@@ -28,6 +28,6 @@ images:
     height: 367
     title: "This AI-powered security camera is just $50 today"
 
-secured: "Kb9zwysgYIVs/SdV/HlqrcysdgGxeCBm8zDANkGAFSDa86JJarwYAzjlLwxIf7HwKhz20URUGLRw2sipX9Fi1A2cQKNVRldDjObpJ42t1e/NCAakKMP/h7PW0f4YelsHOZyJfRb5cT9Czb06BM3d9JDRx2LR5Eq8tHy7tI/UIBAnZ+osqYKQ/9Nv4pydSBUsxBYY8ME/XBc2rcEM8gcw7Bz/VtMc7jeq2INfFRa3HE6Ou/oloFnq0wU4qw0t/E1bijaEXUVT+ai1Uqi8VJBaHw==;z9V2zWXaJvD0iWEB/w0GzA=="
+secured: "jrw/hbw7T6kdq2BUM9crcMDxGzwtiydIxx8a5Ap0VJ91GAE6BONljlFqqw2zK1LYHsQXdYlirhUeUCH81Qy/xjfwJVX9mJlUeVQUWLO62jumDBAQc7HAI+lDHA01glbQYtdU7Wh60eq4vXNRuGr08oaWUVknSFIGoitdRsTFyhabQIHk4ZFS4JPR1ZthvKzkfSIh4zdp4VVmkFZx0p7J7XaT0Qr8JMZO/o7AfKccSd8FzIDnLR0jJy3PU3Dpc/eSN7IvHGM+SVMnW/W4Jz9eMA==;KCLJ1pGmQtVho3lrOSomlw=="
 ---
 

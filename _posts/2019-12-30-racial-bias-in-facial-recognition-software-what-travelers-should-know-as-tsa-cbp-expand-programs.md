@@ -2,22 +2,26 @@
 category: news
 title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-publishedDateTime: 2019-12-30T12:36:00Z
-sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
-ampUrl: https://amp.usatoday.com/amp/2755613001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+publishedDateTime: 2019-12-30T12:54:56Z
+sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: USA Today on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+    width: 568
+    height: 320
+    title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -237,6 +241,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "E8bbi635XRdkpN5SuqizJ2O36Z6pooGFloZjSbfq7JUFbMsKgB941FEu6gmJgeMM5S8qnECqMsjgPHra4ixSgvx5TgsiHsjei12RboyrrcDxVDNJy1IIPY2HR/cYkP3GHF73K551/R94LIq8R8fnYLoDGY47kIA/WbZHZPnzoLWXBP+SNlg+Nt8+eDnKk/w43pCaLAf9/PvBF+bRU5Z7Qe1U1MfuAyVf2Uq9J8Nbcy/gZ//w2i7ZGITjo12SlV50oLU66XU/GojQkdfrIFnYtA==;nySVSXrw0T0XxFe60QsfKg=="
+secured: "CXSLqfr+kfzpHwqlC6wiuicQhxdi6HDwgGq1TPoaszRQeWB8YEYscw3nej2l/HAPhsaLV6GDxDC4vGeiaf56AYT5OIlWG4Yj6eWkf/gFI+fLfSuZOqXzHnKnFNWoCZBhhP8kcYovhqOdm3EX7Jpfg84T6Gn0dXcet4yykd75qLmEHcp+9C/n53lcEg+9l3gLIyfguOw/VWuQ/Ps6r4HvF07EIgwom5d8jLNvREPY5+j/1L5hwIQ2Q0KkJsO0kV4GZMc6eLrJ4hgyOPBolEkG/g==;cyc4G/uXYILie3TGN10N1A=="
 ---
 

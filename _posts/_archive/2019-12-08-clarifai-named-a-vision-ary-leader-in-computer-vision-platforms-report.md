@@ -18,7 +18,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.newkerala.com/news/pics/r/esha_gupta_iansff.jpg
+  - url: https://www.newkerala.com/news/pics/r/destination_wedding_iansf.jpg
     width: 500
     height: 272
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
@@ -38,6 +38,6 @@ related:
         width: 700
         height: 366
 
-secured: "AgphKDlz4vwD8zztIrhvKAfXM5bEudhachdpdvGTJ6MOsmceZqTQI4gEU2NmGHdvQ+ytdG+W3DapWbIdGfzvPq802Vubi/Eh77wpnCOlM7mrNXzdZtYNUO4lG2KcQnb+inlvpO2WmGnw0aFAsWKw6IEDk3qoGtGATYwuJeFC1ANYgjkUOdmwXgRuTnkZlY1i6YDil7jo4L7d7rn7JQUB8xZajg7tmYFZhAqEGuCjBLgbJ4GZon1Hmr3Czm6e+J/cNjGBJb2TBVer3693jcr3Zw==;G7ql6/+fJq3W/BWjTDAAaw=="
+secured: "vIAMIeASjFJ7Usp74gdWhxMi5JR0+k3lD6DnT20eKGcvGwH9WZ7E8/dhuUwU4ejgghXKZbVui8bQ3mrYjILF6/iPK4Up3ExdaWUgSg+gig5vY0vpji5pe7JO3xwvpgAvjr3T7v+tGle/8QFW+JrbLw1GEaQ/jeaeUA/ceitxiiz3gvMcPccT7f64kpTgNq4yYfLVdhl2ikT3dJXkFGgMJGaZpM9KTMgZU+1FMOgj2QNPwfjd8nEfiN/0HgLrhJ1VIbr1RdOHHCDCr7zXopFxRA==;kW3NyNPJ5XHcUM280vYKvw=="
 ---
 

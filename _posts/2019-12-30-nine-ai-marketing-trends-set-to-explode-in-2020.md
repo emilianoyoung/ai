@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
         width: 700
         height: 490
-  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
-    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-    publishedDateTime: 2019-12-29T15:08:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
-        width: 600
-        height: 315
   - title: "In 2020, let’s stop AI ethics-washing and actually do something"
     excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
     publishedDateTime: 2019-12-27T10:07:00Z

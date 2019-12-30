@@ -44,6 +44,21 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 54
+  - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
+    excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
+    publishedDateTime: 2019-12-30T16:04:00Z
+    sourceUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/
+    ampUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    cdnAmpUrl: https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
+        width: 700
+        height: 365
   - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
     excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
     publishedDateTime: 2019-12-19T16:34:00Z

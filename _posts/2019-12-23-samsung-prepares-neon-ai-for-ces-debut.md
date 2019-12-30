@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -112,6 +112,19 @@ related:
       - url: https://www.bing.com/th?id=ON.374F61F40B85003F4DB6B809EA1AC8AC
         width: 600
         height: 315
+  - title: "Samsung wants to Kick Start 2020 at CES by introducing their Next-Gen Artificial Human-Like Assistant Platform Dubbed 'Neon'"
+    excerpt: "Perhaps more importantly, Samsung will be introducing a new artificial intelligence platform next week that they're calling 'Neon ... Humans' designed to a combination of devices and software that is designed for companionship, robots and digital pets. Samsung has their Neon website ready to host the live event with a countdown to the keynote ..."
+    publishedDateTime: 2019-12-30T17:23:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/samsung-wants-to-kick-start-2020-at-ces-by-introducing-their-next-gen-artificial-human-like-assistant-platform-dubbed-neon.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.8B743AFB5B5589D1A5672C18C18FE83A
+        width: 700
+        height: 390
 
 secured: "2BvksgThjHWDAhlGyPHt7kDcVYKF3aNFtJpOxmJnkgvJWeP084d0WzUqHXrzJpeOPUo9yyYmtH2pN9mWhvUh2WFBAb0DkC6E53pdVkGMlylspPofw/oxoKV6Ubg6fDYkFfzwm1EDl3NhhaTLwltrP6XGKzBxNWuq5nQtf5OuB2ttuoDWE6GkenU7oFXXQ6doa5e5qvnCkE4VrGPE/u/fl9liZ+C39gwdpVXoCZMCvqOBcGXLPvjJ6AUD0VTvIza4alS12LZaL3qG/fZz1AhTWA==;f+cGmcIPrW9EtpLiFY2l0g=="
 ---

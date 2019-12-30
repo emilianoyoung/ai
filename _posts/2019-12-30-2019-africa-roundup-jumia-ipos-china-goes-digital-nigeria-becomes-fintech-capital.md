@@ -1,28 +1,34 @@
 ---
 category: news
 title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
-excerpt: "Africinvest teamed up with Cathay Innovation to announce the Cathay Africinvest Innovation Fund, a $100+ million capital pool aimed at Series A to C-stage startup investments in fintech, logistics, AI, agtech and edutech. Accion Venture Lab launched a $24 million fintech fund open to African startups. Like any tech ecosystem, not every startup ..."
-publishedDateTime: 2019-12-30T12:20:00Z
-sourceUrl: https://www.yahoo.com/lifestyle/2019-africa-roundup-jumia-ipos-095309615.html
+excerpt: "Africinvest teamed up with Cathay Innovation to announce the Cathay Africinvest Innovation Fund, a $100+ million capital pool aimed at Series A to C-stage startup investments in fintech, logistics, AI, agtech and edutech. Accion Venture Lab launched a $24 million fintech fund open to African startups. Like any tech ecosystem, not every ..."
+publishedDateTime: 2019-12-30T09:56:00Z
+sourceUrl: https://techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/
+ampUrl: https://techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/2019-africa-roundup-jumia-ipos-china-goes-digital-nigeria-becomes-fintech-capital/amp/
 type: article
-quality: 17
-heat: 17
-published: false
+quality: 67
+heat: 67
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.AD3B6F160ADD860C2FCA14F8DB2957AA
+  - url: https://www.bing.com/th?id=ON.97BA6C5A6059DBBD406B95E15D6649A6
     width: 700
     height: 371
     title: "2019 Africa Roundup: Jumia IPOs, China goes digital, Nigeria becomes fintech capital"
 
-secured: "NPsa+0f/7Xsyu4fzs+PTgLfCJbbraCa+bkd5BZNcqDtEDIbFXAnusi89pFr8s0D95q0sY3MXJFK5JkyjOdiADGRBd3aPCRwKKjm13VCRgqb5I2LE14+IO95SD8V4ZSt9fL1sqt2gVgMERIuJinm2Na4bGqAmxdE2aZ4Q5EjaPdUuyHQM8m0uG/OG3lGaGv0VyU2v8H/Bz9IWU5rJtGHiWIk3hev9AHVfDYKn41OUd9AT8Yj5Z92IyvaI1CCmc1qtqjpiwlD2tx5K3PnrAPVkyA==;Rz7nwYb6gbuia0u2IpHBbA=="
+secured: "2XlA723G0TaWZChgiDTKiyprGB2m3TkZiMOOzxBRz1fE4QPkzmvmRD84fJ4XZXUfuf0A8tEiivrsIZqPZcLaEGA64e7MDk/lGFhfcOAU82nmyjtX9rdsVNNwbrP/yUSH7kRUbdE1UcAouNs7nkEnQsI1A9RqDA15BgrLuIM3oBxAUGA0CMbMhqImzu5fWEwQO4TuIj+5khaHIrwYupDD9Ox5/t8l8K51iULCZVtft061AF2iq5K+9YiWvNlu3zteOJjj44EXO2V6XohvIt1utA==;UCl8B8bVAby9niose+tE0w=="
 ---
 

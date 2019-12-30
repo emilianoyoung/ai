@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
-  - title: "Daimler, Bosch Begin US Tests of Self-Driving Cars"
-    excerpt: "Daimler, the maker of Mercedes-Benz cars, and Bosch, an auto supplier and technology provider, first announced a joint effort to work on self-driving systems in 2017. On Monday, the companies unveiled the autonomous Mercedes-Benz S-Class sedans that will shuttle passengers from West San Jose to the city’s downtown, along the busy Stevens ..."
-    publishedDateTime: 2019-12-10T16:42:00Z
-    sourceUrl: https://www.manufacturing.net/automotive/video/21105520/daimler-bosch-begin-us-tests-of-selfdriving-cars
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
-        width: 700
-        height: 392
   - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
     excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
     publishedDateTime: 2019-12-11T14:02:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways-from-aws-reinvent-2019/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       name: Medium
       domain: medium.com
     quality: 79
+  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
+    excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
+    publishedDateTime: 2019-12-10T15:29:00Z
+    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
+    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    type: article
+    provider:
+      name: Web CMS
+      domain: cmswire.com
+    quality: 39
   - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
     excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
     publishedDateTime: 2019-12-12T13:56:00Z

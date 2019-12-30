@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0BB9960FF6AC6E9BE9ADCC19D06AFB6C
         width: 700
         height: 350
-  - title: "Google is using machine learning to make alarm tones based on the time and weather"
-    excerpt: "Google has an update that might make you hate your alarm a little bit less: a new feature lets it automatically change up what your alarm plays based on the time of day and the weather, theoretically playing something slightly more appropriate than the same awful song you hear day in and out. At least, it’ll be nice as long as you’re okay ..."
-    publishedDateTime: 2019-12-10T17:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.1C173E4D624811FB46CC526DA9790F5D
-        width: 700
-        height: 366
   - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
     excerpt: "WSU Professor Diane Cook is one of the university’s researchers working to create a test for measuring AI as part of a project funded by DARPA. (WSU Photo) Researchers at Washington State University in Pullman are developing an IQ test to challenge AI systems to see what they really know. “We have AI systems out there that are getting ..."
     publishedDateTime: 2019-12-18T07:21:00Z

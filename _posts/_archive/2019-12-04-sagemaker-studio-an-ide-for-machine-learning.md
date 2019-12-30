@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -74,6 +63,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -114,6 +114,6 @@ related:
         width: 700
         height: 393
 
-secured: "713Rfh10lbqK7c28nTUhpYJuqn2UWZHIwex46e3HDw8QEUILILPdVdjN48865DaLQOYZcsMMHWt3GjuN6/IO3MLEGJFSjTTqIpvkN4dGLr706X3KiiMcyIvqa69MnbRocL2ohOYbtLtKTxJgJb6Ffwbp/09Pm4nCa3OpP4FzJ7al66FOCiXmmxMZE0V+FkxD+DTqIwuSVpbdoVBqu8bq8yMBsT3P9wAXRAVEUqegxLLLhqMzsIA9DPQ8vJgHX28HZUh5pFPJFoQuYipEAJdjlA==;5c+CrTmSgl70UZC6TjVBhA=="
+secured: "IWmYmzrkYD44v7UD8YpfH5eNEUNDfH/+KZBCD2TfZ7Sl1ucVo0j2L9IozGGeVaHYL3TPGSio2e3xg2MF2p/15DJ8fLfgWlMTx5IP9c7oFMcwtPMytMV3uLjW/92aLKFkpl7irhmtLxUhvmrR7g/9C/TXW0ii7Yy4JLUfAMg9/8BGzTtVyZAJmhvtGBmC6g54mxDhea7DPQAbI1vMpKjJTdM3WArsjN7bzxteA9+0GJAD7/LCJv2ECAaZhqOATmwIIbqvtXE6d2I73CYgQDUU8g==;7/0hjJm5QIPwZXteCSPqRw=="
 ---
 

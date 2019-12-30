@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-p
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "This is your chance to become a machine learning pro in 2020"
 
 related:
-  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
-    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-    publishedDateTime: 2019-12-29T15:08:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
-        width: 600
-        height: 315
   - title: "Nine AI Marketing Trends Set To Explode In 2020"
     excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
     publishedDateTime: 2019-12-30T13:14:00Z

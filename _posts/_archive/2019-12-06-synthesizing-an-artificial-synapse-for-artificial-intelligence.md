@@ -39,21 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
-    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
-    publishedDateTime: 2019-12-10T17:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
-        width: 1199
-        height: 625
   - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
     excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
     publishedDateTime: 2019-12-12T16:00:00Z
@@ -167,6 +152,6 @@ related:
         width: 700
         height: 445
 
-secured: "CUcPymng1YHVbqG7p2qFdOLeNDNs0eWInty5UL8U+cbTjzwzqfpuAriG35fikfui+8b6/mpFevUto804KQPR7N3NnidL/on5BFIfhF4lF3Mm7EFFULDgpUI7bFvKt/dZGel+Ur4WlY7WEiM+B0nli23xSSX9zHXH8vElNCERRZGwPbjIc3+PyXxAD9IisL/97UcNU3iIn2nSVItXzeZL9xG1jK+0g6TdUObAWDocFEhLJKbf4zFXxi5zccdKJ3RFMmC3cQk+HOgoDjHhmpHsPw==;k+qY5F71CLIQooJ7d+R+ew=="
+secured: "cyv5kNNKpy8Kx7pvbuPxWPfyT8UY3eTCsNn/Coge/yIj7BLGXT9k1XyZV4d7qv/YuZIJOe49Fs67nDybX8bg6ZvbBOCBy+8uxuP/4fe+fI3hIHZ/Sxgm75TCyJ2ZpTkTr5JA70SSo0PVZcko5Gv1Mk/BbAo2R0/DENfRp11Gi9Vug3qtUG06yTBe62NFuUFCqSXVVoYgymLD9fVjWPvSTankkUqyEp8DU/HMX/2S9hVJjdi+POOQvJnOz08VZEVsop76rMyg6dEH97iWGBQ3tg==;2oOUA1HrO9lCDHVUFqgt1A=="
 ---
 
