@@ -97,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Synthesizing an artificial synapse for artificial intelligence"
-    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
-    publishedDateTime: 2019-12-06T16:18:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
-        width: 500
-        height: 700
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z

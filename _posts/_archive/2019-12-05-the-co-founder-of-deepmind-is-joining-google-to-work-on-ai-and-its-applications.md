@@ -43,7 +43,20 @@ related:
       - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
         width: 700
         height: 525
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
-secured: "+AvJQAsZPn+PoQLbPAeZl/98+iyL0w+a5TVuIJ8hxnhxG9viCDL6JfhiTRmmC8z5Zr2OEsXOeJ/09mn36E0zEWqkIBvl59/3HxEti4/XXW5sh6//JOcPndQg5B47Pwx1v8qArlrT2vaHAEJcNcHDRn9DLk+ARPvZ4CPur7bOxVymNpGA66B0bqE8uQNW+yeWNiF76ekdn1Aj4qRs/SKVZJXK9jbjzoMqWHaKlt/qKWTpFPc07sPkDznaj3nAEuYa+o5cg6o8GBC+9W2wKRgvpQ==;Yej/vwiWLDmeYuWKe8Jp7g=="
+secured: "00rM/+2+IBjv/ms3Dk1tLvGE6L6vb5/7kCWx59bfelr8Ac1upMrmNsRy/nZzVVpn9vfMS6RWc2gGsFnkAFoOGJMsy0CksFtDViJLWFKOqMBe54PKbPbThSjUlD2Rq93LHkPrtZVdeJEMQJ5ozYL5N456gy2N9MYDkoH7429+qJTONee2V//hNpZ9Ee46Bu3fRANlWfEuRFyLeh4GP4Hp2NA5G0kXfZgWY2xS9nx5jT2UQ2Z8IC0LiLiYJ2LcGA6PBGh/5HD97MawruDi/warwQ==;QVZOGXMSTDdx5xffxDwugA=="
 ---
 

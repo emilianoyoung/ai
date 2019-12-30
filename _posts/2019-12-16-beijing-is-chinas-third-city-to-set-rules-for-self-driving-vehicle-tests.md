@@ -71,21 +71,6 @@ related:
         height: 382
   - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
     excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-10T18:53:00Z
-    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
-    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 35
-    images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
-        width: 1000
-        height: 562
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
     publishedDateTime: 2019-12-11T00:01:00Z
     sourceUrl: https://www.yahoo.com/lifestyle/class-cabs-mercedes-benz-testing-183001891.html
     ampUrl: https://www.yahoo.com/amphtml/lifestyle/class-cabs-mercedes-benz-testing-183001891.html

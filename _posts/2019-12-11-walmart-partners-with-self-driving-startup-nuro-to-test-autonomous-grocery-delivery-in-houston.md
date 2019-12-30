@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T00:09:00Z
 sourceUrl: https://www.yahoo.com/entertainment/walmart-partners-self-driving-startup-151221887.html
 type: article
 quality: 110
-heat: 260
+heat: 250
 published: true
 
 provider:
@@ -128,21 +128,6 @@ related:
       - url: https://www.bing.com/th?id=ON.112FFA02A105E6FA7F04CBAB8BCF3369
         width: 700
         height: 455
-  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
-    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
-    publishedDateTime: 2019-12-10T19:00:00Z
-    sourceUrl: https://jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516
-    ampUrl: https://jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516/amp
-    cdnAmpUrl: https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-on-autopilot-crashes-into-cop-car-because-driver-1840324516/amp
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.69AF0F2E2F2AA07E798FDCA6591ED864
-        width: 700
-        height: 393
   - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
     excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
     publishedDateTime: 2019-12-11T01:33:00Z

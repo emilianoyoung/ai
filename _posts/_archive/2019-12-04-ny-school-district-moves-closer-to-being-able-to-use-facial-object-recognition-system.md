@@ -37,20 +37,7 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
-  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
-    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
-    publishedDateTime: 2019-12-02T10:58:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
-    type: article
-    provider:
-      name: FierceHealthcare
-      domain: fiercehealthcare.com
-    quality: 30
-    images:
-      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
-        width: 4432
-        height: 2955
 
-secured: "phJu/ULdQJVD+Joe1l90WSLe2cRliZkANJkVg52xqQJ2QBET1ybQys8YndGOrKcWaQWd0J0jyZFhL4ME+cGFxfxFeMuvaAOguRoccE6tZfL4rRytZgHFOKX7kP4VVWnG6+j82MXB9Bhtwfowhn6IODsHem2OTwQHCYt4kYQC+XujRHQTJdYZ4McmIgqF4kvmVXI8aEvE5iLcSN39fgm+QuWOZ2KEGw5UWN+7AAlyUEeQXDokNfXzbK3UZ3mXE2jhM6CLVPw94kUxvJa8nkzh5g==;t6Q0UMMEgDYrTYsyKQSQyw=="
+secured: "+Axr4E/kowIU1dvY5jj+woZrvSawO2Qgir1gxngx3pGZo5TgF3/dm/EHZ//fq1GXrX778ELJSimuCuvnX0t8UROXCkjzm06efhBklrTptbnGCoJVi48nnNDh0oRVSy0zWQYFMVZyKmcZxeoeUHqXAakGWYS0/4qgRxd8pVNZbATe1Qtguz4zNlWcJVNrMzzr7iL4ME2X3UeBXIA76TQNTQGTSEN1we38lARgdP78AwqvnNRZOeRfIFm2gyBLrNzELxqmXJbYKvGCEWSNC0Cyww==;axd/u1tp8vwm8E0d6SsJRg=="
 ---
 

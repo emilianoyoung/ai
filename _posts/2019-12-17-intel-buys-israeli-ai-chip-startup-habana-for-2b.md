@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Intel buys Israeli AI chip startup Habana for $2B"
-excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
-publishedDateTime: 2019-12-17T03:36:00Z
-sourceUrl: https://www.sfgate.com/business/article/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-ampUrl: https://www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
+excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
+publishedDateTime: 2019-12-17T20:44:00Z
+sourceUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/
+ampUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: NBC Bay Area
+  domain: nbcbayarea.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.E322D761B2025606E2EB1596D2AF511E
+  - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
     width: 700
-    height: 466
-    title: "Intel buys Israeli AI chip startup Habana for $2B"
+    height: 393
+    title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -723,6 +723,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "Wu17+XzwyNOFYKwLPUmAdUXO2EqSOlQwGTlWhQY8Z7a7hWDH7ab6jDOXw6zlzCY5gdQtTVjAjIFCmJzrrWRsJSjtIBS2i77lc9HGpY4CowRn6AoNU9pbLVxEYsFThR0R7lMHEQ5/o4TrkL/XxftlHjYY2wKsxkzTxiVl+cBsgfbiEbAMUv4TRE7vaJrUygwI8eXW7aVnJkeFTiXsL4vW05NLYS6xBJL1A3QK8z5znOn6CiLLoLxR1f46ahvQeWw00NscHfYnfuzEpwPJPd1lNw==;q5Wu9ZDOVxzhjGelzbJgqg=="
+secured: "08TRGZ+ypnpnMOyt+bBk7FZZJ5lV3JFgSwcwz9tZg6ZHVDqC82JFd74VXIz9mCZ96W3i3DG+SwYmPW6EswLTCugOECdsS9yllYEB2Ai+c8pPKqbSfVqAA7uC7cYHMbUhd7WYR+1n6Ni7DC2PZw5nJdIGNwpEpu3OCLV43P7iRPEGBkEC0qtst7XGkZ9kS4Hh+CPbh9P5wTNRKY6YxDSyJJR4yida4OSR/diuQdws6reXf1eT6IgDVpEOfgOmPaXzHLy7iE3PUN9VvtaSOKGQjA==;+SZU0faQXE7rY2fyHE6Rcg=="
 ---
 

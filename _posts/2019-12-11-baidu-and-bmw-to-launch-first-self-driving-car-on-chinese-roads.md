@@ -35,19 +35,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Apple Has 'Deep Concerns' About Ex-Employees Fleeing to China With Self-Driving Car Secrets"
-    excerpt: "Apple hasn't confirmed what its plans are for a self-driving car, but that hasn't prevented the company from trying to stop ex-employees from walking off with its trade secrets. In a filing with the U.S. District Court for the Northern District of California on Monday, Apple said that it has \"deep concerns\" that two of its former employees ..."
-    publishedDateTime: 2019-12-10T18:56:00Z
-    sourceUrl: https://www.inc.com/don-reisinger/apple-has-deep-concerns-about-ex-employees-fleeing-to-china-with-self-driving-car-secrets.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
-    images:
-      - url: https://www.incimages.com/uploaded_files/image/970x450/getty_1155276332_408705.jpg
-        width: 970
-        height: 450
 
 secured: "qQFxn/hz3ZNo6ECMpkJmnypdwC99DImYxFpBN3rDpjOZgd2L9LiJtd7LWQrZku698rmr1LzfCPuCBmhUjyWNY5K4di8ccoSD8fXtsjA4aMavzCYn4mXa73lXadeTfBHrpYvOtOLqz/eVtkjTmprvnVtN0rq2bEOHzR11gutf6TAXR4rrKgBjO7Qsx8lOLWxX8EGijCaCoKxnx2TnO5RpKlC4/Vvpu8rBhuBQFYQMGNuC+1YEAEHT6/TOUH7vuzPhw3Ws9cSIGFGyFL9Faj/kvQ==;hheHaUlPVyhMefPNOd6ndg=="
 ---

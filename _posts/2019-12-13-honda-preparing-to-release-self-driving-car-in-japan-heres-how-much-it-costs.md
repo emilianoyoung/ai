@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
         width: 200
         height: 124
-  - title: "Synthesizing an artificial synapse for artificial intelligence"
-    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
-    publishedDateTime: 2019-12-06T16:18:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
-        width: 500
-        height: 700
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z

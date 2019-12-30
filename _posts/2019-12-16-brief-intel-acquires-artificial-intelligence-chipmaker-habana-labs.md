@@ -167,21 +167,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5B25E998AAC089B03351CB2B8BF374F2
         width: 700
         height: 466
-  - title: "Intel buys Israeli AI chip startup Habana for $2B"
-    excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
-    publishedDateTime: 2019-12-17T03:36:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-    ampUrl: https://www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+  - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
+    excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/
+    ampUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: NBC Bay Area
+      domain: nbcbayarea.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.E322D761B2025606E2EB1596D2AF511E
+      - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
         width: 700
-        height: 466
+        height: 393
   - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
     excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
     publishedDateTime: 2019-12-17T08:15:00Z

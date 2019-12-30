@@ -44,14 +44,18 @@ related:
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
     publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 54
+    quality: 74
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
     excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
     publishedDateTime: 2019-12-11T14:02:00Z

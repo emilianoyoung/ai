@@ -2,22 +2,18 @@
 category: news
 title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
 excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-publishedDateTime: 2019-12-30T12:20:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
-ampUrl: https://markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+publishedDateTime: 2019-12-30T13:32:00Z
+sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
 type: article
-quality: 29
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -501,6 +497,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "GWwAfKfKcPctFlfddkrhijySEPe7s6XL621JqSh3uu4LNJaF6cL57qgJvUYp5IoHCrwVho0SAPvL+mQt2/L190+dG6rA3Uy9VmCK10tatKMDfsVbcU5noniRS8d28cl1lZmrFF9H8wJBxKU4enT+CK5+aQOCNCh14DISMQ5TLZj+RNoKgFOWDGK4BNsYuOjqypQktP0VqbgOLCUiWCrcUl2PpamJT6HZEhBcp1jymvMmy+mdLfK9zyw15ZEW954+M2C4ajA3Mgzxl/baxkwXQQ==;3Fdk4Y/EFi8Wk1z1uA3lOg=="
+secured: "fZuyWeohyAqtkoz8V/KnO30CuaOUkss1Gz3KLZrpqaD4u8Xf7P7utxRNbGl4n+qMluJOzBzWsVzb7rchqtYfaw7QE6CrolQv2TbcZlRV7QIBlfu9tWsY6w9rDWIws0Sn/5VSP+xoseWsLbv/EXx5In+peaPp5f+G6OveHCPW5TG72+TlU9wlPa/kT5lNZwPm/3S25RE5+Yn27keePQdn3pxOLT3bLXRXm1mh91MGRcfsIwydG9qaoBMo1ulO81KlSPKGTsyvrlvHlDEmoewKvQ==;qwCuAekYg7jZ+X8V7iivkw=="
 ---
 

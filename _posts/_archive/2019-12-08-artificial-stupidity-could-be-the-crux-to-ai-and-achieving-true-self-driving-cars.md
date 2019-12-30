@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -88,19 +88,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Synthesizing an artificial synapse for artificial intelligence"
-    excerpt: "For that reason, researchers are turning to neuromorphic computer and artificial neural networks that work more like the human brain. However, with current technology, it is both challenging and expensive to replicate the spatio-temporal processes native to the brain, like short-term and long-term memory, in artificial spiking neural networks ..."
-    publishedDateTime: 2019-12-06T16:18:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/uop-saa120619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.45E18911EE324F192CBBDE40FCC65F1F
-        width: 500
-        height: 700
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z
@@ -156,6 +143,6 @@ related:
         width: 700
         height: 445
 
-secured: "Sw080YNmeQHmioen9Rzl7CR81v2ycJ+VF1PR84wClyHUBdKYCatChDsCwJOyqaJOIUn1tMyWYYStYC2jDNKA2hfu681rVRjrWwgy8jhOZq23FCk9DLUt+ljItRbhCKv9BxUgE/IQcOdFggqekVSoMA+IWREhymlncbp1oWUZbOUFmCX4CAi81it3PIPGFLvIMdFNYQ5hwx2c377y2fB1brjMQ9uJ4Q/2pWXVkTUAMtaBuO1pUt+Cm9dGYtdFf7BNHI8d/nihaAWBcWlIo6qUFA==;DHIxS5i1Ofck/abjB2eQGQ=="
+secured: "3qKt8QLyzD9m4QA8wZf/aNXmE8hWT0YzJzuEsrVUBtZ5YljY8ODk4R54sIsz0QXiq/tJzGpql5phq8RtWrnVnaRYwh7bgj0eeXeEFxYW5l7rfBprZRRc8vkEm/fhP4p3cphvN5dMixDkxpr5dpmz2WF4M8BdUy0DooVOlVoggFmIM1cTXPogQoaGb7KXVk6cIxEqlj4m6Kylq5rnbrJ78TAoSPciJzspQqsv+Twez93fR2D1d69Q3aa2oBSBPOWBImibFh/A4CnXpF9qg48D1w==;M9is2t6ogXBYNXaQ4zpd4w=="
 ---
 

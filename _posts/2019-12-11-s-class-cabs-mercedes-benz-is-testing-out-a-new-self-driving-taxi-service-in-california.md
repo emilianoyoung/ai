@@ -71,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
         width: 636
         height: 382
-  - title: "S-Class Cabs? Mercedes-Benz Is Testing Out a New Self-Driving Taxi Service in California"
-    excerpt: "And now, one of the automaker’s first forays into self-driving cars will get a real-world trial run in California. On Monday, Mercedes-Benz and Tier 1 auto supplier Bosch announced plans to test out a self-driving taxi service in San Jose, California, according to a joint press release. As part of the pilot program, the two companies will ..."
-    publishedDateTime: 2019-12-10T18:53:00Z
-    sourceUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/
-    ampUrl: https://robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/mercedes-benz-bousch-self-driving-taxi-service-2886129/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 35
-    images:
-      - url: https://robbreportedit.files.wordpress.com/2019/12/mbbtaxi.jpg?w=1000
-        width: 1000
-        height: 562
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
     publishedDateTime: 2019-12-17T16:11:00Z

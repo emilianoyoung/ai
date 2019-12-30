@@ -29,8 +29,8 @@ images:
 
 related:
   - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
-    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently released a data set — ObjectNet — designed to illustrate the performance gap between ..."
-    publishedDateTime: 2019-12-10T18:41:00Z
+    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently ..."
+    publishedDateTime: 2019-12-10T18:44:00Z
     sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
     ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
     cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
