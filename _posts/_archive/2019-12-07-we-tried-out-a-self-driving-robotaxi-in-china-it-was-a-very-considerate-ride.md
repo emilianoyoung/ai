@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-dr
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-secured: "14L0B4GNeCkioAUl4wLqelVsC7p4NeYlNVuXY70evG9lFymQykI1g+fyTgPjLnRYfjYL3lAGd8pvoty/qwpY2Zk61wk2NoXnQbR+pol3i1PDTwfOq8Y1xZiYnQTm8cYINBydC1LoYmzHPrULX63WRnllTbqIkC0WecajVeJiw7dqnWR0T7ga4bSAmV5Vh09KfH7zrNQiNyc2mC6qEAWxBIqHatxE0/JtiAlAtPjXnBG4uwyq8DflpRYocgLyysDYMg1Q27RuxF4zfLBN6sb1qA==;4nDe7Yir75002NzNjMeOHQ=="
+related:
+  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
+    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020."
+    publishedDateTime: 2019-12-05T20:05:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 101
+    images:
+      - url: https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg
+        width: 1200
+        height: 630
+  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
+    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
+    publishedDateTime: 2019-12-10T15:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
+        width: 700
+        height: 410
+
+secured: "qS2S+PHYGGAltpRXJkt4P6MknK3EwJUu75JzNAQ8Wh0v9LuVMII8f5QLycxmGWI/LFXVXZJ314jr223rlFSGvGDPQx9XJcRQXxQIwlwYFgNjWA8PoaEMDJ11EJsk+j3EbT4+uR6xUtwywGa2ab/4MZxZw+micJbB2xPph85vGdqkt84aVEm9GtBDjc/ibTt0e6fv/92Ppeu/9RvH156eFzA+KC55/X/lxroDIVeiJjjW5WtsfXvkwrTQvEJvSsPWjLqe8KbV4hvEsnBkrnjhxQ==;a+owpThqVyUTpbquDt1QOg=="
 ---
 

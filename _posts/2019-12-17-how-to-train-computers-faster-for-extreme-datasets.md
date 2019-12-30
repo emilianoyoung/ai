@@ -37,6 +37,15 @@ related:
       - url: https://www.bing.com/th?id=ON.FF3FC5F9B9CB6E058D10CF700D800115
         width: 700
         height: 400
+  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
+    publishedDateTime: 2019-12-17T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
 
 secured: "k4YmchZvklt8bXVAgHvUDf9ra5JQV66kKEHl8egiW+dFCDr4QMUAEUqNiS+PpoTigaox/kC5fPia6rKeKNNho7vqK4NM+OXzbJk/YeowOQESju+ZqiZYQqKrBDYP5Xax6eSqWORw6GegAoxZ+E/3VnqTpE8p5sc7686KpegHLk3dnkpYT3QMdZUSIl9TY66FHvzgu0W+f7GuOn/sRzCraT/Kh+3HvDpRtxj9KD8afAH6yJGJRdZrsaHftTbFFLJggYRVzuJh0gxxKr8bTT9BhA==;pkdPuX1CD6Mjv28f6RRK0g=="
 ---

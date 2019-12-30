@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T06:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-advancement-and-business-outlook-2019-2019-12-11
 type: article
 quality: 71
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -200,19 +200,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
         width: 600
         height: 300
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
-    publishedDateTime: 2019-12-10T13:35:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-tm--847717966.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 23
-    images:
-      - url: https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook
-        width: 666
-        height: 350
 
 secured: "O6TMzeCcWdfR374VbVAivdF0+BnHezJvuH5ZGO+IhA3lv+2mQPMGi46PDD0HkheEKfiKw3tg4p5z3cwdWE0c7Joi3eUsQBGHzCXGONEFpyfONDBEAhnPeG7u00BFKgING/RLtOK5JMuovWqJjIUHGGYeHPXaQyMRMPWf3fyxXaRKuPQc67cOY05WphgJ0hISf0XxAv7ycRdPTwrn3Io7EVIKGEXbCXicG5+HjjWKTnAjoWzTzD7gerYb+Sx6aRnjQFxZ5UF4V6sQK5q+OvOdJQ==;9+dK2ysTu04GTQmZ9xR+rg=="
 ---

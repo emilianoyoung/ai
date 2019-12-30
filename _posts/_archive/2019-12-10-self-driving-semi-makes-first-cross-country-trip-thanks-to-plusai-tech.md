@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-cou
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-semi-plus-ai-cross-country/
 type: article
 quality: 88
-heat: 278
+heat: 268
 published: true
 
 provider:
@@ -161,21 +161,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2235999539B3D1D03EA29D90FEDDC0DC
         width: 700
         height: 392
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-10T14:03:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/10/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 38
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/PLUS-AI-TRUCK.jpg?w=1024&amp;h=716
-        width: 1024
-        height: 716
   - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
     excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
     publishedDateTime: 2019-12-11T11:57:00Z

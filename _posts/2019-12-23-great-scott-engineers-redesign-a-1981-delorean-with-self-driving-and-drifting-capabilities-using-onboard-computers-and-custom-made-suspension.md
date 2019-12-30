@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
         width: 700
         height: 356
-  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
-    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
-    publishedDateTime: 2019-12-26T03:36:00Z
-    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
-    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
-    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
-        width: 700
-        height: 396
   - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
     excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
     publishedDateTime: 2019-12-23T22:33:00Z
@@ -138,15 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
         width: 700
         height: 393
-  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
-    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
-    publishedDateTime: 2019-12-28T00:56:00Z
-    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 0
 
 secured: "tYt5PsMqguVtBouh0peGoatnBR+V0WxyK8Wx1M27Le/duCQ4fHH2MP7OxFKuDtgIyJNj65A19aNl5AccQw9zvtvLZbSjlM59hW+yF7ewZTWiif2v1wUvzgpgKMnjori5xlixLoUXFdjpGXJ8w7S9dMsF82jtO/BRUr/bVd189nYJgplczFOP/DoOj/YaO+N8ILRG8IlGxUfyrLa7h8CRh0nXHGUgDcPzOWQrHtQrwSRwURPXVJdnNq5UZWoRuYTWUt8yLekoF6+1WFFY8HTnYg==;SsVYnP/6xDtoNPsTJ8SO5Q=="
 ---

@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E99831D08856D6182B7A37B0A6A79EBD
         width: 700
         height: 466
-  - title: "Observe.ai raises $26 million for AI that monitors and coaches call center agents"
-    excerpt: "Countless tech platforms are setting out to help call centers automate conversations with their customers. But U.S-Indian startup and Y Combinator alum Observe.ai is bucking that trend by using AI to help improve human call center workers, rather than replace them — and it today announced it has raised $26 million in a series A round of ..."
-    publishedDateTime: 2019-12-10T13:24:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/
-    ampUrl: https://venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 186
-    images:
-      - url: https://www.bing.com/th?id=ON.0360C56D176B3E053DBEC94C1B7A8628
-        width: 578
-        height: 308
   - title: "Partners HealthCare launching $100 million digital health initiative"
     excerpt: "The initiative also includes a renewed focus on artificial intelligence and data analytics. Erskine said his team is budgeting $100 million for the first 18 months of the project and will seek more funding as needed. Partners, the largest health care provider in Massachusetts, is the parent of a dozen hospitals including Massachusetts General ..."
     publishedDateTime: 2019-12-12T17:46:00Z

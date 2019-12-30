@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T00:39:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/
 type: article
 quality: 84
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: thenextweb.com
@@ -28,32 +28,17 @@ images:
     title: "DeepMind’s Mustafa Suleyman joins Google AI"
 
 related:
-  - title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
-    excerpt: "London — The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the US to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after ..."
-    publishedDateTime: 2019-12-05T18:27:00Z
-    sourceUrl: https://www.businesslive.co.za/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: https://lh3.googleusercontent.com/HNPXeS7r7xJv5psi4i4N7MmVEnJRr393ioWFF6bfMjj-_Tyf2ueJofNZooyL4n6X21E5Pc81m4YWfugKyzvMCilST1i2ez0=s1000
-        width: 1000
-        height: 667
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:47:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+    publishedDateTime: 2019-12-05T18:55:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
@@ -121,7 +106,18 @@ related:
       - url: https://ctovision.com/wp-content/uploads/space.jpg
         width: 632
         height: 422
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 37
 
-secured: "IdqLpih9EQxniLicLXrNLKpSrRSg+yxeZvcaQAIKYorIX4axoLUcBQ8ar+bkjyn/IypqQUl0bISzf7GlQ8gT6pYbiO8OZwhWR4vOxPPeORoZ3I+bVQ/OqNUu08R9lK8bYTWCVKHthaX5TFX4QFktLBfXZ4oAAlJ93m2BES1cGMdKgo8G0TvqTsCEPqBrmuAXBleXQSxp4zJZ6LcG6EHYep/0d0KpAKsKCLLils+8ktJ2qYmbokQ/I2nCQo/CqxeevVmi5F6yOxjzmGHHtLDujQ==;OCo1/izC49VNaB1631ik+Q=="
+secured: "KUGhosHZH+4r+0tPdWBeaRfEgjmXyDOOArRgune33F9hyZIJOR6qhYqgd9w51O590JklzRFZp+EVhYYGYtN5gf/rakYVLgynRtRVNTiacbUhyWkGj2mRczfGARHOfVEm31gdupSRlvUfax67OB2gfdK4sl/ZMIlZomKj+hGOTU356QWVXmOc8lspr4ECeFCpa5ajrCNfIDTEG0zQfoFPqLpjfaA21KAgYZjBV1jBdds00NVc71jbrCcXjrEZ2ae+M3qWMWGzpYXUJXWooj2O5A==;JcomGi4+EJE9NvVmIJBqvw=="
 ---
 

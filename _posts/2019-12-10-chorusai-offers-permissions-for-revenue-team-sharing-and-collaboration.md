@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T20:29:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191210005992/en/Chorus.ai-Offers-Permissions-Revenue-Team-Sharing-Collaboration
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,52 +23,19 @@ images:
     title: "Chorus.ai Offers Permissions for Revenue Team Sharing and Collaboration"
 
 related:
-  - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
-    excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
-    publishedDateTime: 2019-12-10T13:25:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/chorusai-annocuned-winner-of-aragon-research-innovation-award-2019/
+  - title: "Broadcom Unveils Automation.ai, the Industry’s First AI-driven Platform that Accelerates Digital Business Decision-Making and Execution"
+    excerpt: "LAS VEGAS, Dec. 10, 2019 (GLOBE NEWSWIRE) -- Broadcom Inc. (NASDAQ: AVGO) today announced the availability of Automation.ai, the industry’s first AI-driven software intelligence platform purpose built to accelerate decision-making across multiple business and technology domains that support digital transformation initiatives. As enterprises ..."
+    publishedDateTime: 2019-12-10T16:52:00Z
+    sourceUrl: https://apnews.com/Globe Newswire/4aaa9a30ed7cab945724a7e940b78598
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 48
+      name: Associated Press News
+      domain: apnews.com
+    quality: 5
     images:
-      - url: https://www.bing.com/th?id=ON.1D1E213790720D692DF28CB8B021C57D
+      - url: https://apnews.com/images/PaidContent3.png
         width: 700
-        height: 446
-  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
-    publishedDateTime: 2019-12-16T09:06:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
-        width: 700
-        height: 365
-  - title: "Wipro Recognized as a Leader in Artificial Intelligence Consultancies by Independent Research Firm"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, has been recognized as a \"Leader\" by global research and advisory firm Forrester Research Inc. in its report, The Forrester Wave™: AI Consultancies, Q3 2019. The firm evaluated participating companies ..."
-    publishedDateTime: 2019-12-12T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/wipro-recognized-leader-artificial-intelligence-121900733.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 3
-  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
-    publishedDateTime: 2019-12-17T00:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 0
+        height: 450
 
 secured: "HmsJ7U1jSssY36Lq3EnSQ7PUD0V5/NLahTwQXj5NgJp5w0Kghq3gbcjlxKEwoDtDAHgaGr2KrKWGTzJzrNA7GAVJDezKE/OudooxYUay7pelJELpsh9JXWEf8jq8joHNHATckkIWeP3cAe99ekGFsqQSB0nJaKzbhgUDMBe4gtZqkOBnkZ6c84mprEoTGJNRNWaHhufkplEHrFKBYvKFhUuGgpLMAgGLDWXLgToXcOImCquRNBF7vOXjiXVA5JfrmeBTkj/NxlfuuIyK+4hUSg==;AImO5osCe1XgaDwB3j0/kg=="
 ---

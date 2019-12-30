@@ -25,21 +25,19 @@ images:
     title: "A set of 13 diverse machine-learning tasks that require memory to solve."
 
 related:
-  - title: "Five new machine learning tools from AWS"
-    excerpt: "The company unveiled these new products, among others, at its re:Invent conference in Las Vegas last week, partly in response to the fact that there is a paucity of machine learning tools for developers. According to Matt Wood, VP of AI at AWS, the real value of deep learning will only be unlocked once it’s delivered to a wider community of ..."
-    publishedDateTime: 2019-12-10T13:41:00Z
-    sourceUrl: https://www.itweb.co.za/content/lwrKxq3J1j4Mmg1o
-    ampUrl: https://amp.itweb.co.za/content/lwrKxq3J1j4Mmg1o
-    cdnAmpUrl: https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/lwrKxq3J1j4Mmg1o
+  - title: "Why machine learning is important to society"
+    excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
+    publishedDateTime: 2019-12-20T07:50:00Z
+    sourceUrl: https://www.dailypioneer.com/2019/technology/why-machine-learning-is-important-to-society.html
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.6D907C20E82D8FF2914E7E73D1BB77C0
-        width: 700
-        height: 393
+      - url: https://www.dailypioneer.com/uploads/2019/story/images/big/why-machine-learning-is-important-to-society-2019-12-20.jpg
+        width: 1000
+        height: 800
 
 secured: "n4NnvEQWTYVSe1e5nGdjXOQR2GRFlxV4M6DUxpYrIA+6zT7Whz7FI3Jq9z4MgMl3P1HhSgQWYTQAbN35f3Yd+RVkH5pgCFDLdeetBOvOT49rZwyRrSo6lqq674VA6JEGaFkMx44AfPOjqdb7jMOVlRihLKcGKyrMPz20yj/B5m14Rc/4VvpiKfRxZpkQlqO8oRLdqvklBb1lkxoEY/978Q7P/NUabXsK/Hcxvq3g2jlQeC8UqRiSM1wRVOM5UHmE/K0myMEHiaLw5iXz8gLz8A==;Yp3inBU2tvE1gDESTHwdgA=="
 ---

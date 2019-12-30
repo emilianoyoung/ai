@@ -2,18 +2,22 @@
 category: news
 title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
 excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-publishedDateTime: 2019-12-30T13:32:00Z
-sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
-ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+publishedDateTime: 2019-12-30T12:20:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+ampUrl: https://markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
+cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/europe-artificial-intelligence-in-fashion-market-to-2027-regional-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028788011
 type: article
-quality: 0
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -416,19 +420,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
-    excerpt: "HYDERABAD, India, Dec. 30, 2019 /PRNewswire/ -- The facial recognition market was valued at USD 4.51 billion in 2018 and is expected to reach a value of USD 9.06 billion by 2024, at a CAGR of 12.5%, for the forecast period (2019-2024). Facial recognition has been gaining prominence in recent times, owing to the benefits it offers over ..."
-    publishedDateTime: 2019-12-30T10:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/facial-recognition-market-expected-grow-103900498.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.C47928A64FC7961932E6A2922A737C64
-        width: 400
-        height: 222
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
     publishedDateTime: 2019-12-20T16:02:00Z
@@ -488,6 +479,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "gElBTIeKkMLeFpsZ/zlIy9BipLNhwJz1gRnsfizmp0MDat1ahNv46qdIi9m/bXjkBNYwzuX3dfK8M6eeEoaeqPFxe1P/pKsIF2lPE+W4WmSFMHPQTDXcuV+wtDfg7MIhf5QuEbGRF5ONlzYui9RVBeSt2Mu7Lk7cz3ielsebao1ck4eYyz3DPgxmbK9nxlE4RzbjKIjX3T9am0qJXsCp5sI0e+hhnKZbx15hjJgVtLGYUTtLwDwat9Twr1pRT7tEWLGNAtLfM+cQKY1xc5AH0Q==;MJ0q6MmViLX4k+6p8Yco9w=="
+secured: "8b70lfXLO9rwkhUgUmCLJDWsa/elH5Z/j4j7m+Q6daiYxYLQ7MsJ80eDDr8LSjw+xu8h85ovqGywK0HaIelmLkl23X1kXoUa0Q1Mt+mitgNjrd4VV89hXLAkV19rfvwHoMnKrPiZd9n3DhmBsOUdCNjiSTt4PPg6TXns5nOe5BBtXGA9S8SHaZR5M+STt2phpd4rp8TH+jtuJF7mXDTNxG4GjCJPlBhY1pM1fH4H5RyQBIDPbXSfUA70H7JcmZxw5IgKXWTagjRL+ji4ZWwn5Q==;gz9ZWwAxg3zp8VIHChmYVg=="
 ---
 

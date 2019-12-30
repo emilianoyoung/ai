@@ -78,19 +78,6 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 24
-  - title: "Uber will build a self-driving test track in the Pittsburgh area"
-    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
-    publishedDateTime: 2019-12-27T12:53:00Z
-    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
-        width: 700
-        height: 393
 
 secured: "+VVzpLpZRiWz0b+bpfaaB+8yqooKzk0IrmE75QWUSIU/DzgPWKv4FXk0UUoAeHqbE+DVCl0n/5g0LB6RYkPE4SI9pB8/Iy+r07W1SzOcnYoqA4II4kjYBS5zMXD/fVP6AK964oWs46cq8zvwl4dVlGlUoiFd+CpOT+CyzKmIS1bon6gXiknB528kbQPIYay5NusoqjhVO2jkpwxgmq2QKRQ59ienncI10UUwKhrsmz5yIETy6gEJREI/MDb7rkhUgZCm4hC6IvwpgyP5QioaZQ==;Wxp3OU+CVe5ZeeOjIRGarg=="
 ---

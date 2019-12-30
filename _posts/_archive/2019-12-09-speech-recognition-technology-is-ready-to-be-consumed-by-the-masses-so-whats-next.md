@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for real-world applications. This is supported by the ability to deploy the technology in ..."
-publishedDateTime: 2019-12-09T09:00:00Z
+excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
+publishedDateTime: 2019-12-09T11:15:00Z
 sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
 type: article
 quality: 32
@@ -18,9 +18,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.ED6D30ABF88633928B8108A959057966
-    width: 320
-    height: 180
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+    width: 1960
+    height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
 
 related:
@@ -54,6 +54,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included, but other features are considered vital and don't have alternatives."
+    publishedDateTime: 2019-12-22T20:34:00Z
+    sourceUrl: https://www.engadget.com/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
+    ampUrl: https://www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/22/san-francisco-amends-facial-recognition-ban-to-allow-iphones/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 172
+    images:
+      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
+        width: 700
+        height: 367
   - title: "75,000 people call on Congress to ban on facial recognition tech"
     excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
     publishedDateTime: 2019-12-16T16:30:00Z
@@ -456,36 +471,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
         width: 700
         height: 393
-  - title: "How China cornered the facial recognition surveillance market"
-    excerpt: "What do Uganda’s police force, a Mongolian prison and Zimbabwean airports have in common? All three are in the process of testing facial recognition systems and all three have used Chinese technology to do it. At least 52 governments are doing the same thing, according to research by the Carnegie Endowment for International Peace. Chinese ..."
-    publishedDateTime: 2019-12-09T14:19:00Z
-    sourceUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance
-    ampUrl: https://www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2019-12-09/china-facial-recognition-surveillance?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C03A31EFB775684DED2D08D37CB03171
-        width: 700
-        height: 367
-  - title: "Nearly 80% of people in China worry about facial recognition data leaks"
-    excerpt: ". A survey of 6,152 people between October and November asked about attitudes toward facial recognition cameras. The results were published last week by Nandu Personal Information Protection Research Center, which is affiliated with the Southern Metropolis Daily newspaper. The biggest concern is data leaks. Among the respondents, 79% said they ..."
-    publishedDateTime: 2019-12-10T00:19:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    ampUrl: https://amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3041300/nearly-80-people-china-worry-about-facial-recognition-data-leaks
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.29B5C1BD39147A4581183EA5DE03558A
-        width: 700
-        height: 367
   - title: "Brookline becomes 2nd Massachusetts community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. “By passing a ban on government use of face surveillance technology, the people of Brookline are standing up in defense of fundamental rights and civil liberties ..."
     publishedDateTime: 2019-12-12T20:08:00Z
@@ -709,51 +694,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Watchdog warning over mooted facial recognition cameras at Children's Hospital"
-    excerpt: "Ireland's data protection watchdog has warned the new National Children's Hospital that if it is considering utilising facial recognition technology in its security systems it would most likely have to conduct an impact assessment first. It follows concerns raised by the Irish Council for Civil Liberties on foot of reports by US surveillance ..."
-    publishedDateTime: 2019-12-09T16:30:00Z
-    sourceUrl: https://www.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    ampUrl: https://amp.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    cdnAmpUrl: https://amp-irishexaminer-com.cdn.ampproject.org/c/s/amp.irishexaminer.com/breakingnews/ireland/watchdog-warning-over-mooted-facial-recognition-cameras-at-childrens-hospital-969373.html
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.762BC36345583577511D6912D6FA6484
-        width: 600
-        height: 325
-  - title: "Homeland Security wants to use facial recognition on traveling US citizens, too"
-    excerpt: "(CNN) -- The Department of Homeland Security wants to be able to use facial-recognition technology to identify all people entering and leaving the United States — including US citizens. In a recent filing, the DHS proposed changing existing regulations \"to provide that all travelers, including US citizens, may be required to be photographed ..."
-    publishedDateTime: 2019-12-10T13:25:00Z
-    sourceUrl: https://www.kmov.com/homeland-security-wants-to-use-facial-recognition-on-traveling-us/article_df91e3db-9cd7-53cc-889b-87d375fd136e.html
-    ampUrl: https://www.kmov.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us/article_df91e3db-9cd7-53cc-889b-87d375fd136e.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/homeland-security-wants-to-use-facial-recognition-on-traveling-us/article_df91e3db-9cd7-53cc-889b-87d375fd136e.amp.html
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.6A75FDE089AA8382504834D343B7B315
-        width: 700
-        height: 525
-  - title: "Facebook’s privacy push stumbles over EU rollout of facial recognition technology"
-    excerpt: "Facebook’s move to roll out previously banned facial recognition technology in Europe — just when new privacy rules are coming into force — is causing an uproar. LONDON — Mark Zuckerberg promised to extend Europe's revamped privacy rules across all of Facebook's global empire. That pledge is already running into trouble. Amid an ..."
-    publishedDateTime: 2019-12-09T23:16:00Z
-    sourceUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/
-    ampUrl: https://www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    cdnAmpUrl: https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-facial-recognition-privacy-data-protection-cambridge-analytica-mark-zuckerberg/amp/
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D3C3077441691692070F991362C62B79
-        width: 700
-        height: 366
   - title: "Homeland Security easing facial recognition rule for airports"
     excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
     publishedDateTime: 2019-12-10T23:22:00Z
@@ -951,21 +891,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
-  - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
-    excerpt: "Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias. \"This study makes it clear: the government needs to stop using facial recognition surveillance right now,\" Evan Greer, the deputy director ..."
-    publishedDateTime: 2019-12-20T20:50:00Z
-    sourceUrl: https://abcnews.go.com/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
-    ampUrl: https://abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/federal-study-finds-racial-bias-facial-recognition-tech/story?id=67853261
-    type: article
-    provider:
-      name: ABC
-      domain: go.com
-    quality: 47
-    images:
-      - url: https://s.abcnews.com/images/Business/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
-        width: 992
-        height: 558
   - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
     excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
     publishedDateTime: 2019-12-10T19:57:00Z
@@ -1067,32 +992,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Homeland Security announces easing of facial recognition rule"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s ..."
-    publishedDateTime: 2019-12-10T11:11:00Z
-    sourceUrl: https://www.rollcall.com/news/homeland-security-announces-easing-facial-recognition-rule
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CF0CCB078E34C7EEE9E046764DA75775
-        width: 700
-        height: 365
-  - title: "Osaka Metro unveils ticket gate with facial recognition tech"
-    excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
-    publishedDateTime: 2019-12-10T04:07:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/10/business/corporate-business/osaka-metro-facial-recognition/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
-        width: 700
-        height: 569
   - title: "Police use of automated facial recognition technology lawful"
     excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
     publishedDateTime: 2019-12-10T23:01:00Z
@@ -1410,19 +1309,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
-  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
-    excerpt: "It illustrates the problems with blanket bans on facial recognition tech. San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the technology is included ..."
-    publishedDateTime: 2019-12-22T21:34:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/san-francisco-loosens-facial-recognition-ban-to-allow-newer-iphones/ar-BBYfMnE
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
-        width: 700
-        height: 367
   - title: "Facial recognition technology latest woe at national children’s hospital"
     excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
     publishedDateTime: 2019-12-12T06:46:00Z
@@ -1538,19 +1424,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Department of Homeland Security Proposals Fade, But Facial Recognition is Forever"
-    excerpt: "There’s never a dull moment in facial recognition. On Thursday, the Washington Post reported that the Department of Homeland Security (DHS) withdrew a proposal it made earlier this week that would have expanded airport face scans of passengers arriving in or leaving the U.S. to include American citizens. So why the quick turnaround?"
-    publishedDateTime: 2019-12-09T14:49:00Z
-    sourceUrl: https://www.law.com/legaltechnews/2019/12/09/department-of-homeland-security-proposals-fade-but-facial-recognition-is-forever/
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.727CA7EA950A9EA98882B952807946D4
-        width: 620
-        height: 372
   - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
     excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
     publishedDateTime: 2019-12-18T00:04:00Z
@@ -1575,19 +1448,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "Communities come face-to-face with the growing power of facial recognition technology"
-    excerpt: "As law enforcement agencies deploy AI-powered facial recognition systems, some communities are pushing back, insisting on having a say in how they’re used. ByJackie Snow Monday, December 9, 2019 NOVA NextNOVA Next With an effort called Community Control Over Police Surveillance (CCOPS), the ACLU is attempting to give citizens more control ..."
-    publishedDateTime: 2019-12-09T23:13:00Z
-    sourceUrl: https://www.pbs.org/wgbh/nova/article/growing-power-facial-recognition-technology/
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.7947F2488B16ACD9DD185E4ADCC44197
-        width: 700
-        height: 393
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z
@@ -1612,17 +1472,6 @@ related:
       - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
         width: 870
         height: 580
-  - title: "After leading the ban on facial recognition software, S.F. supervisor now seeks more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T12:53:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 27
   - title: "Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:57:00Z
@@ -1638,6 +1487,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B5369AAF0EE6149BA061DAA70EC1548
         width: 700
         height: 466
+  - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
+    excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
+    publishedDateTime: 2019-12-20T21:17:00Z
+    sourceUrl: https://www.yahoo.com/gma/federal-study-finds-racial-bias-facial-recognition-tech-193100912.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 27
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/..BQHLzlXgm7779xFZResQ--~B/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
+        width: 992
+        height: 558
   - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
     excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
     publishedDateTime: 2019-12-17T19:04:00Z
@@ -1772,6 +1634,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 19
+  - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
+    excerpt: "San Francisco is learning first-hand about the risks of blanket bans on facial recognition. City supervisors have voted to amend a ban on facial recognition in local government to allow the use of FaceID-equipped iPhones and other devices where the ..."
+    publishedDateTime: 2019-12-23T00:21:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-22-san-francisco-amends-facial-recognition-ban-to-allow-iphones.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
   - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
     excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
     publishedDateTime: 2019-12-11T15:36:00Z
@@ -1800,6 +1671,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "hSJ4n5cGewmDpGw9BN9ns/vRFrSlmxRGtGuCOHQNx9K+agRNHoq7t4/1StT/7RoBPNmAgfGYw2DsUdqj5SERvw7TRnwj0Pu9ZfzddqvQ3gplmi8mLK26lnILiy13Lb/RVDr5uI0UUT1DiF38YgMkcGGX011gOncXPJ5dhIILBUIH3q+qiS0cSZw+vLLKP0r0NQ/muEL0y5YByP3hrS7FLZCcowOUe0tzdUJN4FFohIvHrya8oXwkyidaujusCdBC1rHT8TcWPb7LrjG7Liav8Q==;IqkfjR8dZlC3biXWQphYbQ=="
+secured: "iAfo7s7WICxr1brg2xg+1YeasnatYvY/mli/b+Xir2f9yxKTIkcszR2vjZJKC7622u/k3GpnMIUClehYJ/z8m+FAxuWYUM1vWByFmsEnpdS0oZq8Kz3zFgzwgqjz7Ren9QB56fGv1gaSyEvxYnYlhQf96xmzqLrfLSb0YeWPJ9wdmJ48Y+a17IFJihPDtB2F6zPdCCeATIKvB2lJpmN3ZIM6YFlA2J6KotZ5XcoJRq/agFprCrrbTlq2CtkuKjfPjPgoYyGUkPPAnJLt91U91A==;Yvrt9WfA0+W2nO3TfdGBdw=="
 ---
 

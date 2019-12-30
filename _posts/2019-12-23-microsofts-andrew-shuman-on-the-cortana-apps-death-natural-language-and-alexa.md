@@ -32,19 +32,19 @@ images:
 related:
   - title: "Baidu tops Microsoft and Google in teaching AI to understand human language, thanks to differences between Chinese and English"
     excerpt: "Chinese search giant Baidu has beaten Microsoft and Google in an ongoing natural language processing competition, thanks to the linguistic differences between Chinese and English. Baidu’s model, called ERNIE (Enhanced Representation through kNowledge IntEgration), recorded the highest score of 90.1 – just ahead of Microsoft and Google ..."
-    publishedDateTime: 2019-12-30T10:09:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3043895/baidu-tops-microsoft-and-google-teaching-ai-understand-human-language
+    publishedDateTime: 2019-12-30T10:01:00Z
+    sourceUrl: https://sg.news.yahoo.com/baidu-tops-microsoft-google-teaching-054500155.html
+    ampUrl: https://sg.news.yahoo.com/amphtml/baidu-tops-microsoft-google-teaching-054500155.html
+    cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/baidu-tops-microsoft-google-teaching-054500155.html
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 31
     images:
-      - url: https://www.bing.com/th?id=ON.4A7F769D372553949EC1520FE8229280
+      - url: https://www.bing.com/th?id=ON.D687484EF1FA2B5045D05F279D603A3A
         width: 700
-        height: 367
+        height: 393
 
 secured: "1qPMrskU0nhRJXlf7dVV8Ror3p/Wp5Z02hpsHO9Qs06vGCgZNay8Rm8L19bP82Y8pYEzE9pJv/tg1EaZTrvxAWee/HbwBiwHdLQIZxvXUJ549EXwmIhRIL5YhYebh1yejkqopmPorwqlaWc8H2nqPAZz1bYHRlO9WyEniO8/IUriPbcj7J3XhvPXvH9V11Y7cbcum7lYy9JArw+pg4ldMNBqeSn08jnytez9nZ9+nhRLySfLKpKuwxpLECr7+ICgta6y5E20t3h2FvirGFLtJw==;yyVFpYQujot/8RZq1BY8Wg=="
 ---

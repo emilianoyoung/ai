@@ -40,19 +40,6 @@ related:
       - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
         width: 1200
         height: 630
-  - title: "Finland Seeks to Teach 1% of Europeans Basics on Artificial Intelligence"
-    excerpt: "TALLINN — Finland, which holds the rotating EU presidency until the end of the year, said on Tuesday it aims to teach 1% of all Europeans basic skills in artificial intelligence through a free online course it will now translate into all official EU languages. The European Union is pushing for wide deployment of artificial intelligence across ..."
-    publishedDateTime: 2019-12-10T13:18:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/10/world/europe/10reuters-finland-education-ai.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 66
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
     excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
     publishedDateTime: 2019-12-17T17:52:00Z

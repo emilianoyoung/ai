@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7C62FD56D03D561B1133523480E48A1F
         width: 640
         height: 335
+  - title: "LEGO Sorting Machine Uses Neural Networks to Sort Any Piece"
+    excerpt: "The most astounding part of the universal LEGO sorter is its use of artificial intelligence, specifically machine learning, and even more specifically, convolutional neural networks. West describes in more detail how the neural networks work in the video ..."
+    publishedDateTime: 2019-12-09T16:31:00Z
+    sourceUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/
+    ampUrl: https://nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
+    cdnAmpUrl: https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/lego-sorting-machine-neutral-networks/?amp
+    type: article
+    provider:
+      name: Nerdist
+      domain: nerdist.com
+    quality: 59
+    images:
+      - url: https://nerdist.com/wp-content/uploads/2019/12/LEGO-Sorter-Feature-Image-12062019.jpg
+        width: 1200
+        height: 676
 
 secured: "barUnIXJuU9dU5OB/A7JIJp2mBF9PNGXY4JQozq0hHbh++ORxxhh6tzndKVGUqiVUEhivX/OSKBlTpw5rtcw3R1HULHP610A/itGssjBE1uWOYIxOun7ymILcqX/+4EJ71BBhzwJ623qTF0aubCjlcGlUxo5IEc4fG5RQUvMAWEZ++E1Z9mv8JPs4fCdWsgBKZPU0tU7pBGB9Yj9fItbr0kKNgz36KEHBMlLhbFVTVQhR+/BeuvZMzwtPT3Vc5PYpNQ53ncoTUiO8gRArLV8QA==;8c1qj4TgYC0wx8fN+QFNiQ=="
 ---
