@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1A022BB3B8A8874ED753D7D2D6C91012
         width: 600
         height: 315
-  - title: "Amazon’s machine learning transcription service aims to ease docs’ tasks"
-    excerpt: "Amazon Web Services is rolling out an electronic health record-supported machine learning transcription service that uses speech recognition applications to ease physician documentation. The product is Amazon Transcribe Medical, which automatically translates audio streams into medical speech, enabling affordable, secure and accurate note ..."
-    publishedDateTime: 2019-12-10T04:22:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/amazons-machine-learning-transcription-service-aims-to-ease-docs-tasks
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.167ADFF8C569B35E3F753C017AED444F
-        width: 700
-        height: 367
 
 secured: "T5d13DPTeHKulUPMR5Dc9lDUDrV9jPlkSel3O4Yl1318IFBBNIy4ceYvZSn+/HWJR2YYpQOTdICVZpaBEUdi1NMMfbYCjMoCXvRo8mqWJRClsDlXLMLV6YsD5OTqHtNPIWmDdMhTSUa0sedvAxUTiolYQIR3/pCl6GswiScXE4HdNZocvv5x1dvCL/+n7yNMVYed0t/7pEpGbTpTK+SMNVEVbGelYkarbWhvNH5wUcxzqQ0oV7qrMNUPBW/NLKEAeuJtkSftL5WKhn1ypVn+ag==;sNV9hNGpapDJPW8V0V86Uw=="
 ---

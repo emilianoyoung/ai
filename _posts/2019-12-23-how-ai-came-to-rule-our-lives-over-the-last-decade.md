@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
         width: 700
         height: 445
+  - title: "Self-driving cars? This is the automotive fail of the decade"
+    excerpt: "Our trust in digital technology companies has become so complete, that when a host of these promised self-driving cars, we believed them ... Or if a child might break free from a parent’s hand on the pavement. Artificial intelligence can’t intuit that. Autonomous driving systems can only operate in a perfect system, and how many times ..."
+    publishedDateTime: 2019-12-30T05:32:00Z
+    sourceUrl: https://www.wheels24.co.za/News/Gear_and_Tech/self-driving-cars-this-is-the-automotive-fail-of-the-decade-20191230
+    type: article
+    provider:
+      name: Wheels24
+      domain: wheels24.co.za
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CDE2EF61A570D3F7C1F30D4774056AC7
+        width: 626
+        height: 440
   - title: "Is self-driving technology the future of trucking?"
     excerpt: "With the shortage of truckers over the last 15 years, investors have recently put their money towards self-driving technology to continue to profit from the trucking industry and cut costs."
     publishedDateTime: 2019-12-25T05:00:00Z

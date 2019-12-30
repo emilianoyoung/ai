@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T12:00:00Z
 sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
 type: article
 quality: 122
-heat: 292
+heat: 302
 published: true
 
 provider:
@@ -23,6 +23,21 @@ images:
     title: "Here are the top tech trends of 2020, according to top experts"
 
 related:
+  - title: "The Top 5 Fintech Trends Everyone Should Be Watching In 2020"
+    excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
+    publishedDateTime: 2019-12-30T05:27:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
+        width: 600
+        height: 315
   - title: "8 biggest AI trends of 2020, according to experts"
     excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
     publishedDateTime: 2019-12-17T14:18:00Z

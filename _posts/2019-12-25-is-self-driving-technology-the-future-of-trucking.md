@@ -80,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
         width: 700
         height: 393
+  - title: "Self-driving cars? This is the automotive fail of the decade"
+    excerpt: "Our trust in digital technology companies has become so complete, that when a host of these promised self-driving cars, we believed them ... Or if a child might break free from a parent’s hand on the pavement. Artificial intelligence can’t intuit that. Autonomous driving systems can only operate in a perfect system, and how many times ..."
+    publishedDateTime: 2019-12-30T05:32:00Z
+    sourceUrl: https://www.wheels24.co.za/News/Gear_and_Tech/self-driving-cars-this-is-the-automotive-fail-of-the-decade-20191230
+    type: article
+    provider:
+      name: Wheels24
+      domain: wheels24.co.za
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CDE2EF61A570D3F7C1F30D4774056AC7
+        width: 626
+        height: 440
   - title: "Ten amazing scientific and technological breakthroughs of the 2010s"
     excerpt: "Other companies such as Tesla, BMW, and Volkswagen all have driverless cars at various states of readiness ... playing music and controlling smart home devices (as well as telling the odd joke), advances in artificial intelligence mean that they will become ever more proactive and able to predict what we want before we ask."
     publishedDateTime: 2019-12-29T12:11:00Z

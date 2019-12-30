@@ -1035,19 +1035,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF0CCB078E34C7EEE9E046764DA75775
         width: 700
         height: 365
-  - title: "Osaka Metro unveils ticket gate with facial recognition tech"
-    excerpt: "OSAKA – Osaka Metro Co. showed a next-generation automated ticket gate with a facial recognition system to the media Monday. Aiming to introduce such gates at all of its train stations in fiscal 2024, ahead of the 2025 World Expo in the city of Osaka, the subway operator will start testing the gates Tuesday with some 1,200 employees."
-    publishedDateTime: 2019-12-10T04:07:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/10/business/corporate-business/osaka-metro-facial-recognition/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F784011281420AFFCB09B6CC59752B41
-        width: 700
-        height: 569
   - title: "What facial recognition steals from us"
     excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
     publishedDateTime: 2019-12-11T00:26:00Z

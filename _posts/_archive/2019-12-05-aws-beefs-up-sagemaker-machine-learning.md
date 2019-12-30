@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -103,7 +104,7 @@ related:
         width: 648
         height: 420
   - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
     publishedDateTime: 2019-12-03T12:00:00Z
     sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
@@ -116,6 +117,6 @@ related:
         width: 700
         height: 393
 
-secured: "oUy4zKCAGDH7FN2cuenfkqUlEHZADkLUMhPlPfyEfzwOH+xBBRID5TsD9VS7tfFb0TUnpJhpFCvV7bfxO1TC/+s62NEkayIea8FocD8u+rBGOU2Q1abXF33t4erNGpi8RbONGjdrnxGWO/9UCBQI6Eb32titZzychPmEowli/+UqisegHmouzJFfj0hceAHc7Q/NXlIYRj7lG6F97M0f2uIdeDmzFf9cA9BXXvWQIultiIDhLPSWa5khvScAvOXIdfYVet3pdU7IC+LIxBL/qQ==;4Ccrzzrv9zVf846Z7xmKvg=="
+secured: "lfo90tIg3uG39oSAemExNtf0dGg4txjjwomwDTkAtmX/LCAmjICfwUGcieudCNNbhDxs+mTRGf9f6knqoX688Th1HL4q//e2jkWZgxKQzKcH33+xXZzeFABJrLVNuaVt7kK5z1ZLjz0Mw1wOKyJOHyITNqLq/h591A24zESR0GECiQ1SEM+btdpjiT0Ay1BOdZUSWIMS/5r2ffLEx9intt1HckeB75CpVAlwG6dejTH5AaDo9p/qr+lXink7FsItiEXqopQTFuOPjtEcA0FT3w==;0/qz5QcnuSUYgXrKPwXnqQ=="
 ---
 

@@ -43,6 +43,17 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -67,17 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
     publishedDateTime: 2019-12-03T21:16:00Z
@@ -105,7 +105,7 @@ related:
         width: 932
         height: 377
   - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
     publishedDateTime: 2019-12-03T12:00:00Z
     sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
@@ -118,6 +118,6 @@ related:
         width: 700
         height: 393
 
-secured: "9hRNSSKxRajok5D4xx+XCylJEeTuzmC2+XU8HiC+OTRqLaIWw8ruNxFUersFV5KxXF2fOij4ryAcr/ey0kMFgK5UPWvnSgK2M6fK/un7lwbtV8GscQR3RqRxNQwvJL3ttzfS7549X5G4WruKpTw4rSnVdPfe3E0GKs9b4YT4iKTyttZmv5uL9A9zeFXSt2XOxe9gFER4VR0VhrmeQJnXTDAWF6SSii04kEqDUBy4TGx3pmqnlCjFrBws4Yx6K6RGBzj0guf7CZRQV9hOxWdJvQ==;s0v4ixpdXj2ckjP1eMpe/Q=="
+secured: "PdinyfUN/KkenfoaUH83LnCsMHyWpDNhheOtN/mR5nuAHJdO2GtJVxeKDJ/RU+q+XGJbbTrDiiEQLer1f9dod4RIUZo+8g4FGd9cJr7A/UD/6UK4uDMBIHyD+uZ/UTeSPOSxER129FemipMz9hFHS9x6b1tTxUGCZc+BCDTVPg5HKn63U9rsaYVN8v8Wao6YttL3WYFR34KQI0AKk3g6Eod/Att5e9c/cX5aLq++jRPKGVYPYXO3lt5kDHnqnJg1H0sjVu8wySZwdD15j593JA==;SXrlUuIa9n7l+TPoBsCu6Q=="
 ---
 

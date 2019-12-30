@@ -43,17 +43,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
@@ -64,6 +53,17 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
+    quality: 86
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
@@ -105,7 +105,7 @@ related:
         width: 648
         height: 420
   - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
     publishedDateTime: 2019-12-03T12:00:00Z
     sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
@@ -118,6 +118,6 @@ related:
         width: 700
         height: 393
 
-secured: "MdWMTCMKsVy94NiEAWwQRapF9sQdUc8S7Siooaeb11+H6YyElRIpiIkreoGDYrlGJ4ff59Mv9ddL3zgnX4EJXPLvv36n8l5tCRhS15Szr2W3SYz59peexYIEmOK3P9nt9jjZfyNKqopDh6Q0FYONyB1nSJAr3WGWecZFidQDtB/SWhILDiueTRgovhcj+cpiPgtlC6/sxDpasEMKcF/f3EvdMPBbJyf65Wfz0gwY8Rj7ASAx3dzBFEQhSCb3UJgi+ia8SZ5b7esIuuYV3AaU+w==;BEaTBG9rWvNMn3k07Wx6Rw=="
+secured: "7yRMxc09SxiAfiLUlccvLROdfMbDh1SYt9hzchsPxv+bAyNuyq9FnmK5VPLvwQFc4LcelFJ6tlmMGRaBPSBkHDc5LBzLPyHFPAryWwBimGz+kR7GXmW2nIKvXUeX/RQml/TqFvUtkfONuskDxzZ9CQaqV2CVi3VZYlU/NKVIHDXlWIHT5arEJbqY2QUgwn3nf10/7R166CxrdBKbLyo6B49wWfsaFp7EB9AjF9VmzplU3EMZ0ASi00eJlBDvZLcS4wQxskzx9jFel7FhRUIfNg==;+ZxARzjN1o9w8fsEwA5mog=="
 ---
 

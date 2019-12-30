@@ -8,7 +8,7 @@ ampUrl: https://www.nbcdfw.com/news/national-international/robot-artificial-inte
 cdnAmpUrl: https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/robot-artificial-intelligence-moves-into-care/2267757/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     width: 700
     height: 393
     title: "Paging Dr. Robot: Artificial Intelligence Moves Into Care"
+
+related:
+  - title: "Paging Dr. Robot: Artificial intelligence moves into care"
+    excerpt: "Artificial intelligence is spreading into health care ... “After the first or second question, you kind of forget that it’s a robot,” said Cheyenne Quilter, a West Point cadet helping to test the program. Ellie does not diagnose or treat."
+    publishedDateTime: 2019-12-07T00:04:00Z
+    sourceUrl: https://businessmirror.com.ph/2019/12/07/paging-dr-robot-artificial-intelligence-moves-into-care/
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 54
+    images:
+      - url: https://businessmirror.com.ph/wp-content/uploads/2019/12/digitallife03-120719.jpg
+        width: 720
+        height: 482
 
 secured: "OZ5pNJ52TCbFW4hSw2NIqUKi68709uH+fKn/bwPrUz4jD9G1NcBKUnpzvxxYaA+gYYXt8v7sLyQOhySPjdPw8fKUoIzqZllhPuyzn1DxxLAVIPArhpxqzuDrxL6vSKg7G9GZLW6GP+QhJ2QUFRoJzi3Zt67dwiLuFukw7z3yqYhG0GxonRFr2KbsicPptmxhoVRtG0er/2VQauMabbNkFOfVWKbcGoQZ32ZxcD9OCmrQZ54f5+S54BXVKyy5Jts3kaWxxYeLJ1MTAYNRrE0ATQ==;ZBKuoRruwus0wbFDFDq2cg=="
 ---

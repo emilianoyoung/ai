@@ -8,7 +8,7 @@ ampUrl: https://www.azfamily.com/news/us_world_news/robot-arrives-on-the-space-s
 cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_cc8cd0bf-5727-5b3b-8496-e9c73a985cbd.amp.html
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Robot arrives on the space station to keep astronauts company"
 
 related:
-  - title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas ..."
-    publishedDateTime: 2019-12-10T04:49:00Z
-    sourceUrl: https://www.fox23.com/news/world/spacex-delivers/XXVLKLM6OAYF7PWCGS5OTWVD6E/
-    type: article
-    provider:
-      name: Fox 23
-      domain: fox23.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.614F32D21588A1A8490C6FF63DE13EE9
-        width: 700
-        height: 349
   - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be ..."
     publishedDateTime: 2019-12-11T09:55:00Z

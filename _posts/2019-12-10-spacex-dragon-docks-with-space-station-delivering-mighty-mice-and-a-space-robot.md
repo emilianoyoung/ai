@@ -35,19 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.957D0AEA98B9221FD6533941D2FDBE01
         width: 700
         height: 394
-  - title: "SpaceX delivers 'mighty mice,' worms, robot to space station"
-    excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts' emotions. Named Cimon, it's an improved version of what flew up last year to be tested as an astronaut's helper. NASA has tucked some Christmas ..."
-    publishedDateTime: 2019-12-10T04:49:00Z
-    sourceUrl: https://www.fox23.com/news/world/spacex-delivers/XXVLKLM6OAYF7PWCGS5OTWVD6E/
-    type: article
-    provider:
-      name: Fox 23
-      domain: fox23.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.614F32D21588A1A8490C6FF63DE13EE9
-        width: 700
-        height: 349
   - title: "SpaceX delivers ‘mighty mice,’ worms, robot to space station"
     excerpt: "The capsule also has a large, round robot head with artificial intelligence and the ability to sense astronauts’ emotions. Named Cimon, it’s an improved version of what flew up last year to be ..."
     publishedDateTime: 2019-12-11T09:55:00Z

@@ -8,8 +8,8 @@ ampUrl: https://www.bbc.com/news/amp/technology-50726399
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50726399
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: BBC
@@ -29,21 +29,6 @@ images:
     title: "Man beats AI drone in first race of its kind"
 
 related:
-  - title: "Top drone racer takes on robot drone in first human-vs-machine clash"
-    excerpt: "Up to now, DRL has only organized human-piloted races, but with autonomous technology making big advances, it wanted to launch the first Artificial Intelligence Robotic Racing (AIRR) contest to pit humans against machines. Wearing a pair of first-person-view goggles, Kocher flew his quadcopter through the obstacle course at high speed in just 6 ..."
-    publishedDateTime: 2019-12-10T04:40:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/
-    ampUrl: https://www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/top-drone-racer-takes-on-robot-drone-in-first-human-vs-machine-clash/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.0A6CEA6DF9DC2BA2F201668BC61A3DC8
-        width: 700
-        height: 366
   - title: "Humans best AI in first-ever Drone Racing League showdown"
     excerpt: "The Drone Racing League recently held its first Human VS AI match, pitting a drone helmed by AI developed by Delft University of Technology’s MavLab against one flown by human pilot Gabriel Kocher. Despite early race hype, MavLab’s machine took a big “L” as Kocher flew away with the victory, running the course in half the time it took ..."
     publishedDateTime: 2019-12-10T21:41:00Z
@@ -57,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.92B7F10CB6F05455B0CED954B8AF44EA
         width: 700
         height: 350
+  - title: "Robots in finance could wipe out some of its highest-paying jobs"
+    excerpt: "Robots have replaced thousands of routine jobs on Wall Street. Now, they’re coming for higher-ups. That’s the contention of Marcos Lopez de Prado, a Cornell University professor and the former head of machine learning at AQR Capital Management LLC, who testified in Washington on Friday about the impact of artificial intelligence on capital ..."
+    publishedDateTime: 2019-12-13T14:39:00Z
+    sourceUrl: https://www.dig-in.com/articles/robots-in-finance-could-wipe-out-some-of-its-highest-paying-jobs
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.904BBAB967243974BE0DF32668A8F65B
+        width: 700
+        height: 367
   - title: "Team MAVLab’s Robot Drone Wins DRL’s AI Racing Series and $1 Million Prize"
     excerpt: "Team MAVLab won the Drone Racing League’s inaugural Artificial Intelligence Robotic Racing circuit on Friday ... Kocher finished the course five seconds faster than MAVLab’s robot-operated challenger, showing that, for now, humans still hold an edge over machines. “We are incredibly excited for Team MAVLab, who designed the winning ..."
     publishedDateTime: 2019-12-10T08:08:00Z

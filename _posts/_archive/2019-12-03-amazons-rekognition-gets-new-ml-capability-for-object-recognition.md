@@ -5,8 +5,8 @@ excerpt: "as opposed to the hundreds or thousands that are usually required for 
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
-quality: 41
-heat: 41
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-  - AWS AI
 
 images:
   - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
@@ -39,6 +38,6 @@ related:
         width: 960
         height: 640
 
-secured: "2sn2Kv0ayjylTEI+zTeLYWblgdXBKbxut48fJExZBmbAHwsabYiEZUR+qPlNP/ltyiN03gicn6XlohJMJD0nlMUuBwCfaABH5zkG6JV8HRlaSoYnRqu1LdYc715mZQeDzDOX9zL3yf8KzMlxGr5dh4XwYeC0jRqwYqHlOKtonIrk2/6W0KJrLm/9AD/R5Yn6px7ZaxAi8THk5mGAF0cyqmwg60IA+FSZF1MsirJrHAVC6Qp87T3OnkTm+J5J6ztXVLtLQStPqNTyvyV8Az5AIA==;wm2mXLQpI+w7ZgAMLdR5lA=="
+secured: "GGJfSO8ab1EIxPae2pvGfxz5reiqoJ2OC5xnBq2LXSjC2odYGYEuDKYXSTzoha28Eo0ZjTkB9MINJdvMpMN+M26Q9/PcpNA+6jLfVyyB8n16+0iTb2zs7IH5P2ZFjJHTRDbwapWmnx22sa8cObf6NDHW2hY7pjt9TgtmIkKYoGLP+8YmQgCQtwGDpGllM/kX1iUzk1aLQnqJdVaRuo4R7KO6hFJ4znDGLf6NcChK+IfCPtKwswPweWJcJNGAMHOvwtiUma4GJYsa1xJNQjifxA==;oKOfTA9MhlgbebjIYoo5Yw=="
 ---
 
