@@ -52,19 +52,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
-    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
-    publishedDateTime: 2019-12-10T15:26:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 40
-    images:
-      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
-        width: 800
-        height: 534
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z

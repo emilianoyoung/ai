@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
         height: 350
-  - title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
-    excerpt: "the company has also announced a partnership with US-based tech giant Microsoft to bring AI-powered coaching and conversational insights to clients of both the companies through Microsoft’s Azure marketplace. Swapnil Jain, CEO and cofounder of Observe.AI said that today’s customer service agents have a unique ability to emotionally connect ..."
-    publishedDateTime: 2019-12-10T15:38:00Z
-    sourceUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/
-    ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.745B2FB17D491C35EA9D06A77539B52E
-        width: 490
-        height: 360
   - title: "Cerence Upgrades Flagship Voice Assistant Platform"
     excerpt: "Cerence Drive provides car manufacturers with speech and voice recognition tech that can serve as a foundation for cloud-based and embedded conversational assistants. The latest iteration of the platform makes improvements to the company’s natural language understanding (NLU) engine, which is built on one central technology stack and is ..."
     publishedDateTime: 2019-12-11T18:55:00Z

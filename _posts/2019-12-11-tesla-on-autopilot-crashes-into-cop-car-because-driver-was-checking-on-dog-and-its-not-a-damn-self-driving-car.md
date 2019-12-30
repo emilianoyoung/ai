@@ -28,19 +28,6 @@ images:
 related:
   - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
     excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-10T15:12:00Z
-    sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 110
-    images:
-      - url: https://www.bing.com/th?id=ON.62EE305FA562210566F4FECDE994AC50
-        width: 700
-        height: 412
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
     publishedDateTime: 2019-12-11T00:09:00Z
     sourceUrl: https://www.yahoo.com/entertainment/walmart-partners-self-driving-startup-151221887.html
     type: article

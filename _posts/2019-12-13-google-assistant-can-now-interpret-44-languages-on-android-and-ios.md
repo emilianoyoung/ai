@@ -30,62 +30,34 @@ images:
     title: "Google Assistant can now interpret 44 languages on Android and iOS"
 
 related:
-  - title: "Google Assistant can create alarms based on weather and time of day"
-    excerpt: "An update on its way to Lenovo Smart Clock will add a Google Assistant option that can switch up the alarm ringtone based on factors such as the time of day and the weather. In fact, Google's AI can create and curate the piano ringtones for you. Machine learning tech from the Magenta project powers the feature, which is called Impromptu."
-    publishedDateTime: 2019-12-10T16:03:00Z
-    sourceUrl: https://www.engadget.com/2019/12/10/lenovo-smart-clock-google-ai-smart-alarm-ringtones/
-    ampUrl: https://www.engadget.com/amp/2019/12/10/lenovo-smart-clock-google-ai-smart-alarm-ringtones/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/10/lenovo-smart-clock-google-ai-smart-alarm-ringtones/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 152
-  - title: "Google is using machine learning to make alarm tones based on the time and weather"
-    excerpt: "Google has an update that might make you hate your alarm a little bit less: a new feature lets it automatically change up what your alarm plays based on the time of day and the weather, theoretically playing something slightly more appropriate than the same awful song you hear day in and out. At least, it’ll be nice as long as you’re okay ..."
-    publishedDateTime: 2019-12-10T17:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
+  - title: "Infinite text adventure AI Dungeon is now available on iOS and Android"
+    excerpt: "Earlier this month we told you about AI Dungeon, an AI-powered text adventure with near infinite possibilities. You can type what you want into the game, and the AI will generate a response on the fly, creating a freewheeling experience that encourages cooperation and imagination. Now, AI Dungeon is available on iOS and Android as well ..."
+    publishedDateTime: 2019-12-17T17:20:00Z
+    sourceUrl: https://www.theverge.com/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
     type: article
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 83
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.1C173E4D624811FB46CC526DA9790F5D
+      - url: https://www.bing.com/th?id=ON.1EE177E365F919A71DA63C4E36A797E2
         width: 700
         height: 366
-  - title: "Elder Care: Voice assistant technology and older adults"
-    excerpt: "An interesting historical note is that IBM introduced the first digital speech recognition tool in 1961, which understood 16 words and nine digits. By 1972, Carnegie Mellon had developed a program that recognized about 1000 words. The technology continued to improve and began to be widely used with the release of Apple’s Siri in 2011 ..."
-    publishedDateTime: 2019-12-13T11:00:00Z
-    sourceUrl: https://cumberlink.com/news/local/neighbors/elder_care/elder-care-voice-assistant-technology-and-older-adults/article_828dce70-972b-53cf-b03b-dfa936235e3b.html
-    ampUrl: https://cumberlink.com/news/local/neighbors/elder_care/elder-care-voice-assistant-technology-and-older-adults/article_828dce70-972b-53cf-b03b-dfa936235e3b.amp.html
-    cdnAmpUrl: https://cumberlink-com.cdn.ampproject.org/c/s/cumberlink.com/news/local/neighbors/elder_care/elder-care-voice-assistant-technology-and-older-adults/article_828dce70-972b-53cf-b03b-dfa936235e3b.amp.html
+  - title: "Finland’s Defense Minister Antti Kaikkonen on AI and new fighter jets"
+    excerpt: "How important is AI for the Finnish Ministry of Defence? First of all, it’s something that is still more or less rising on our agenda, an issue for the whole of Europe, the whole world as well. We have to put focus on these issues, and perhaps discuss the ethics of AI, for example, some kind of regulation in this area. These are not simple ..."
+    publishedDateTime: 2019-12-17T11:15:00Z
+    sourceUrl: https://www.defensenews.com/smr/nato-2020-defined/2019/12/17/finlands-defense-minister-antti-kaikkonen-on-ai-and-new-fighter-jets/
     type: article
     provider:
-      name: The Sentinel
-      domain: cumberlink.com
-    quality: 44
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.A39A5FD5FB7140807EB8D43DF2C9E24F
-        width: 540
-        height: 304
-  - title: "How do I activate Google Voice assistant?"
-    excerpt: "Here is how you can activate the Google Assistant Voice Recognition feature. Steps to activate Google Voice Assistant on your phone Note: If the voice search is available in your language and country, you can make use of some commands in your own language. Some commands are not available in all languages."
-    publishedDateTime: 2019-12-15T22:30:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/articleshow/72697529.cms
-    ampUrl: https://www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/how-do-i-activate-google-voice-assistant/amp_articleshow/72697529.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B8E3ADCF41C4DCD94649674B96615389
-        width: 267
-        height: 188
+      - url: https://www.bing.com/th?id=ON.2F164CA37469D84FCC87FDEF20E10BCF
+        width: 700
+        height: 367
 
 secured: "Zq+v2k5UPfhM67lW0FEzy1DRL1EFilk7pdYJAqsFbZseFeuculp5jRVLFD/DHrCwSHLbtz4YPyzM0wdnI56aSlxfvptdczYJvJx8Gx9P4yZnvXDz8vc/mwRGhd5zKaZ7wcAL6oUEA7nnZOYXwDCKTUsuax9Dyjce7IASiE+B9IeGtm9rMgsVDjki73XghdoNb9O2WrUZlTJ+H9GdoKCc/K1uB+fS5+dpRJpYpqhBrI6VzSWluhMSyUPynTm/jNfmouzmPV7YABR7zabyrFmsHw==;rTi6ORehMzZwN8+MulAVZg=="
 ---

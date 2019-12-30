@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.872EF4DBECAB80647B8C23ED73EED33F
         width: 700
         height: 466
-  - title: "Will Amazon's New Chip Cause Headaches for Intel?"
-    excerpt: "The move wasn't surprising since it acquired ARM-based chipmaker Annapurna Labs in 2016 to develop its own first-party CPUs and artificial intelligence (AI) chips. This was clearly bad news for Intel (NASDAQ:INTC), the world's largest maker of data center CPUs, but the first-generation Graviton couldn't match the performance of Intel's ..."
-    publishedDateTime: 2019-12-10T15:09:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BCA48C47DEEE781682555EE8B921AD2F
-        width: 700
-        height: 393
   - title: "Intel spends $2bn on Habana Labs in AI data centre push"
     excerpt: "Habana Labs builds AI accelerators, which are a type of processor designed specifically for AI applications, such as machine learning or computer vision — they're what a GPU is for graphics, but for AI. Habana will remain independent from Intel with the current management team remaining in place, and continue to be based out of Israel."
     publishedDateTime: 2019-12-17T13:16:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/30/ai-powered-security-camera/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/30/ai-powered-security-camera/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 367
     title: "This AI-powered security camera is just $50 today"
 
-secured: "lsvjKbk3/oRkUfU/KX33uR9QmVAwUFL1khwtJiVXor/xWmS3fJ7A50bCQZmQbHA5lQvvcq5JXNCs6J+X6T6F+o+LH9kuIvCFuiFIOsR+HluXL5N36OE1hebk0eWuxeDtzfMa6iL2BOfZ6p6+hi9AYyJ7nS+tdCWhS7IuCsa7xLSU0BqmnTVZ3faPeqk1D3/qXKz7n1HgaFf8abrcFqnS3rqkumfZkZtsNZiEVDN0Fo+3B1VTE6catOix14XFSg3DnxVAt6Gg0kBXjacOZLqRjA==;dJh3fEHMb5Nq3m6+DhnH2Q=="
+secured: "Kb9zwysgYIVs/SdV/HlqrcysdgGxeCBm8zDANkGAFSDa86JJarwYAzjlLwxIf7HwKhz20URUGLRw2sipX9Fi1A2cQKNVRldDjObpJ42t1e/NCAakKMP/h7PW0f4YelsHOZyJfRb5cT9Czb06BM3d9JDRx2LR5Eq8tHy7tI/UIBAnZ+osqYKQ/9Nv4pydSBUsxBYY8ME/XBc2rcEM8gcw7Bz/VtMc7jeq2INfFRa3HE6Ou/oloFnq0wU4qw0t/E1bijaEXUVT+ai1Uqi8VJBaHw==;z9V2zWXaJvD0iWEB/w0GzA=="
 ---
 

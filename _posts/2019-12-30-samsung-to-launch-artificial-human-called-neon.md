@@ -25,6 +25,21 @@ images:
     title: "Samsung To Launch ‘Artificial Human’ Called Neon"
 
 related:
+  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
+    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
+    publishedDateTime: 2019-12-30T16:35:00Z
+    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
+    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
+        width: 700
+        height: 357
   - title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
     excerpt: "Samsung is set to unveil a new artificial intelligence product named Neon at CES 2020, and apparently, it will be nothing like the company’s A.I.-powered digital assistant Bixby. Not much is known about Neon so far, aside from what has been posted so far on the product’s social media pages. The pinned tweet for Neon’s official Twitter ..."
     publishedDateTime: 2019-12-29T15:30:00Z
@@ -40,6 +55,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
         width: 700
         height: 366
+  - title: "5 Innovations That Will Dominate CES 2020"
+    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
+    publishedDateTime: 2019-12-30T16:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
+    type: article
+    provider:
+      name: Entrepreneur on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
+        width: 700
+        height: 466
 
 secured: "lfxMe203WLY8DMNesGie+/JHtPUbRTyaDlnCMBuV9qGsGSn1l4+YQczlBoGTbiZs+IZLA9EuJ+IqZMYvX0HuHqIbrC+ieJfkcvqoks/blfJ83m8Hb85PpLou8yxGksePpusiUrkAreIt0mV7hVbM7D9VJSOBSHhD1o0nPl/wKWjNg1fsj35tvkclF1tpsklazS9J1T1YVujnYN+i2ghDpSdOU1vhzvQ02hCYmRgXnkmNoiPmcwwE9ffpRPCAUtyE+aSIPNLxOumW28pJ4B5MIA==;aA6582yG6+SdfYIj8Rj6vw=="
 ---

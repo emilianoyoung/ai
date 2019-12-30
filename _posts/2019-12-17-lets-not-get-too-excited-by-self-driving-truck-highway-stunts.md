@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
 
 related:
-  - title: "Self-driving truck completes cross-country butter haul"
-    excerpt: "Breaker, breaker, the big rig freight industry is a little closer to saying 10-4 to driver-less trucks after an autonomous truck completed a cross-country run to deliver a shipment of butter. According to autonomous trucking company Plus.ai, one of the trucks in its fleet recently completed a coast-to-coast run for Land O’Lakes butter ..."
-    publishedDateTime: 2019-12-10T15:44:00Z
-    sourceUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html
-    ampUrl: https://www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    cdnAmpUrl: https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-plusai-self-driving-truck-cross-country-trip-butter-20191211-4hha3wce3fdvxl6ydh47yod264-story.html?outputType=amp
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.6C150788C23785B68783697705F4198B
-        width: 700
-        height: 489
   - title: "Self-driving truck completes first cross-country trip from CA to PA"
     excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
     publishedDateTime: 2019-12-10T19:51:00Z

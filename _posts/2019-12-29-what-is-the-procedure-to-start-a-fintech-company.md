@@ -26,94 +26,49 @@ images:
     title: "What is the Procedure to Start a FinTech Company?"
 
 related:
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+  - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
+    excerpt: "Laura Baldwin: I think they're not sure where to start. And you know, we just did a survey not too long ago. We surveyed our whole audience around artificial intelligence (AI) in the enterprise and what they needed to know about it. And the reality is 73% of the respondents in that study were either trying to figure it out or believed that it ..."
+    publishedDateTime: 2019-12-24T14:27:00Z
+    sourceUrl: https://www.techrepublic.com/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+    ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 75
     images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
+      - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
-        height: 466
-  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
-    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-    publishedDateTime: 2019-12-29T15:08:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+        height: 525
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
+    publishedDateTime: 2019-12-21T16:11:00Z
+    sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
-        width: 600
-        height: 315
-  - title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
-    excerpt: "Globally, the Fintech revolution offers solutions to all manner of issues, and as we see in so many sectors, algorithms and AI can locate data and highlight trends. In doing so, such technologies operate automatically – and therefore can carry out functions much quicker than by human effort – and at a reduced financial cost as technology ..."
-    publishedDateTime: 2019-12-30T00:00:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
-        width: 700
-        height: 589
-  - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-25T05:42:00Z
-    sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
-    ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
+      name: WBALTV11
+      domain: wbaltv.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
-        width: 600
-        height: 338
-  - title: "Fintech startups to make a bigger move in 2020, experts suggest"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-24T06:59:00Z
-    sourceUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/
-    ampUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
+      - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
         width: 700
         height: 393
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
+  - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
+    excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
+    publishedDateTime: 2019-12-26T07:29:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
+      name: Digi Times
+      domain: digitimes.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
+      - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
+        width: 336
+        height: 224
 
 secured: "FVVitmFOjRNs7WaI3FkrQl9UDX6XO8WLY52BHsgra5CzNtUZn0uJsyG8FoL8e3i6F6VNTckpLbk7i9o5R7F3CwJrA6/nOMN409xZfIbdgpk+cr3fBuohQkn8MDkJ59uQsyPk662vfB1f2CeZI2Djkh01IMeiztSY0tl5Xa47quzjGexhgN22WbFHygBEWqQkLp5/c/tZWpt10HBvyFjasqKUoRwN+wkGWh2pTUT5A6K4H7uU33UPJMAYhJNZ0QBGWJmsPlAQ6KbYBW87cXPbWw==;6LKgg1GQztH6TTar7VbI9w=="
 ---

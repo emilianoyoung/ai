@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
         height: 350
-  - title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
-    excerpt: "the company has also announced a partnership with US-based tech giant Microsoft to bring AI-powered coaching and conversational insights to clients of both the companies through Microsoft’s Azure marketplace. Swapnil Jain, CEO and cofounder of Observe.AI said that today’s customer service agents have a unique ability to emotionally connect ..."
-    publishedDateTime: 2019-12-10T15:38:00Z
-    sourceUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/
-    ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
-    cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.745B2FB17D491C35EA9D06A77539B52E
-        width: 490
-        height: 360
   - title: "Interflora launches voice commerce Alexa skill"
     excerpt: "It feels like a natural step for us to be there when it’s convenient for people.” Customers who know what they want to send can state their preferences on colours or types of flowers and opt to send their own custom message using voice recognition. If using a screen device such as the Echo Show, the products will be available to browse on ..."
     publishedDateTime: 2019-12-11T14:19:00Z

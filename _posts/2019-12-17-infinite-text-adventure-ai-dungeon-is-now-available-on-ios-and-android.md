@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-tex
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21026257/ai-dungeon-text-adventure-game-ios-android-app-available
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Infinite text adventure AI Dungeon is now available on iOS and Android"
 
 related:
+  - title: "Google Assistant can now interpret 44 languages on Android and iOS"
+    excerpt: "The new translation feature was also made available in India in September alongside a dedicated phone line for people without internet access. Google is also working on an even more impressive feature dubbed \"Transalatotron,\" which is the company's way of saying it uses machine learning and advanced speech synthesis to enable a speech-to-speech ..."
+    publishedDateTime: 2019-12-13T11:21:00Z
+    sourceUrl: https://www.techspot.com/news/83160-google-assistant-can-now-interpret-44-languages-android.html
+    ampUrl: https://www.techspot.com/amp/news/83160-google-assistant-can-now-interpret-44-languages-android.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83160-google-assistant-can-now-interpret-44-languages-android.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.8B92A4C84AC5D1B3507BA3640F020165
+        width: 700
+        height: 490
   - title: "Finland’s Defense Minister Antti Kaikkonen on AI and new fighter jets"
     excerpt: "How important is AI for the Finnish Ministry of Defence? First of all, it’s something that is still more or less rising on our agenda, an issue for the whole of Europe, the whole world as well. We have to put focus on these issues, and perhaps discuss the ethics of AI, for example, some kind of regulation in this area. These are not simple ..."
     publishedDateTime: 2019-12-17T11:15:00Z

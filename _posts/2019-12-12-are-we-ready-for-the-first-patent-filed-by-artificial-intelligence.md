@@ -129,19 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
         width: 700
         height: 367
-  - title: "Perficient to Discuss Real-World AI Applications for the Financial Services Industry at AI Summit New York"
-    excerpt: "Perficient, Inc. PRFT, -0.38% (“Perficient”), the leading digital transformation consulting firm serving Global 2000® and other large enterprise customers throughout North America, today announced it will speak at AI Summit New York, the world-leading AI event for business leaders, held Dec. 11-12 at the Javits Center in New York City."
-    publishedDateTime: 2019-12-10T15:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/perficient-to-discuss-real-world-ai-applications-for-the-financial-services-industry-at-ai-summit-new-york-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z

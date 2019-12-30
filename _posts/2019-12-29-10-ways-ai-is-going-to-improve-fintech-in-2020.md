@@ -30,94 +30,77 @@ images:
     title: "10 Ways AI Is Going To Improve Fintech In 2020"
 
 related:
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+  - title: "This is your chance to become a machine learning pro in 2020"
+    excerpt: "Machine learning is transforming the way businesses operate. Understanding trends and patterns in complex data is becoming critical for success and with this comprehensive bundle you can get introduced to machine learning and the tools used to leverage it, like Python, Apache Spark, and TensorFlow. Make your way through the entire collection ..."
+    publishedDateTime: 2019-12-27T18:21:00Z
+    sourceUrl: https://www.techspot.com/news/83342-chance-become-machine-learning-pro-2020.html
+    ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: TechSpot
+      domain: techspot.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
+      - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
         width: 700
-        height: 466
-  - title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
-    excerpt: "Globally, the Fintech revolution offers solutions to all manner of issues, and as we see in so many sectors, algorithms and AI can locate data and highlight trends. In doing so, such technologies operate automatically – and therefore can carry out functions much quicker than by human effort – and at a reduced financial cost as technology ..."
-    publishedDateTime: 2019-12-30T00:00:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
+        height: 490
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
-        width: 700
-        height: 589
-  - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-25T05:42:00Z
-    sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
-    ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
+  - title: "In 2020, let’s stop AI ethics-washing and actually do something"
+    excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
+    publishedDateTime: 2019-12-27T10:07:00Z
+    sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
+    ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
-        width: 600
-        height: 338
-  - title: "Fintech startups to make a bigger move in 2020, experts suggest"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-24T06:59:00Z
-    sourceUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/
-    ampUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
+      - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
+  - title: "Play this bingo game with your kids to teach them about AI"
+    excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
+    publishedDateTime: 2019-12-27T12:11:00Z
+    sourceUrl: https://www.technologyreview.com/s/614938/ai-mit-bingo-game-to-teach-about-kids-ai/
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
+      - url: https://www.bing.com/th?id=ON.0405E49CDA58145E51707C9AD7541E82
+        width: 700
+        height: 393
+  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
+    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
+    publishedDateTime: 2019-12-24T16:25:00Z
+    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
+    type: article
+    provider:
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
+        width: 700
+        height: 288
 
 secured: "LHNxNJ6+UIeRemlbC6w3e59a6ML9CQThJGoHPZZYLdXaXFBGTbnQtHYLMI7+TctWT//vZS8GizD74O8D8nfo0+auAhyUxRIZrBGA/G36KglzQMxKj39cO6r7HWpXujEFah6je+1OorZHIrKTVEUoB9BFD7VqM7oXjYYfucrxD67qSV/lKtmIxLoR6pqMKhy0NdbqI6JJwzl45ZBSclHnwJq8G7RhR969U/TtnjG1HVW3CxohxddZX6dMT6jfTGwuITbXG0qqlGEqChCWtQOxVA==;J52Ice3FpeUJuBB8e0VHaw=="
 ---

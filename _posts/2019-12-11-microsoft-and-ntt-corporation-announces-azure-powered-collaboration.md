@@ -37,21 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Microsoft and NTT announce multi-year alliance to build digital enterprise solutions on Azure"
-    excerpt: "while Microsoft will bring its trusted Azure cloud platform and AI expertise. NTT has also announced that it has selected Microsoft Azure as its preferred cloud platform. “NTT is committed to helping enterprises realize their digital transformation initiatives to help create a smarter world. We believe that the combination of the Microsoft ..."
-    publishedDateTime: 2019-12-10T15:47:00Z
-    sourceUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/
-    ampUrl: https://mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
-    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-and-ntt-announce-multi-year-alliance-to-build-digital-enterprise-solutions-on-azure/amp/
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 63
-    images:
-      - url: https://mspoweruser-com.cdn.ampproject.org/i/s/mspoweruser.com/wp-content/uploads/2018/10/Swift-Azure.jpg
-        width: 932
-        height: 537
 
 secured: "n/3OSPRzRZTTZxSer4LkOUQNUOSrYOngwiC0x9qFLEglfwFtdgOTVga+jH1DS1hBU6HOwGfO2aYveqq3I+u1wzHJF6V4sgtxS/P1HYTlu1IgsAHnvOFvLhwQFYDWUZj5pPN02etHU96hbNwPdAmyahX6+xL06sziuYZ9DHvCUbsp0PxpD3DOkK1A9xEBZu4fIcyQLpTkZMV6PL0UGAGjNWKp1FYUJID7dHtl9QvwUBCH95tBV0ctfZ+PREIsPdDkkwlVICY5+1ntlNZJ4W5U9Q==;pulObJCLMj43vW6RCE6o5Q=="
 ---

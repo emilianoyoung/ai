@@ -43,19 +43,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/11/27/sumerian-lex-2.gif
         width: 387
         height: 337
-  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
-    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
-    publishedDateTime: 2019-12-10T15:26:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 40
-    images:
-      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
-        width: 800
-        height: 534
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -81,6 +68,6 @@ related:
         width: 700
         height: 450
 
-secured: "2bul8LrK5Ybh8T83idqLI8tyKtMiAQCAX4JJOolpHEdsOYOlK2mFYQ9KqhEHnIFchm4aUbyFZmxdmX37dlOGRCrZwUNHvoey00f7pp5Y5R3Huzzf3eiuSxc4zuyMh8qrXcjCAPNe3aXEjFCY6qhaRHy2kvLPrAyyvSY1k+29XbE8tNdPxRtN11xJDSr4HOg4YH0T8ONEJzk9WAaTDop7iEVIT5ag6L4A6MR8+243xkB1ih9g1CMNXKR+z2tAz5RQtlfSxVuMkZ14ALypJaWLRg==;+nNaM+j3IJfTddGKzX1LUg=="
+secured: "HMxU7ydB6bs04U8uO0fj5oQpiob9XUv4toBY2MLBbTKrXxKsoVINrh7Va0EdibINi/izi6DVwgILOASyNrEe8a0mKPfmsORWnSCXhOECxzi57KnsRDjprtSicZZQuBTwzHCFrsioXdFA01VN22GsvvQleavVWIqMFjL/zeQm61AlgMgdRy/5+EE3c+e/PEeceKfCykzRBP3KLlGWHhRipkVGN2OKk3mZ4Y1C0LFNatosrGHpdcfKvGeCe+gyIaoWzyHv3C0RL7Jwi2H9kVvEpQ==;VVPVed27pCG3I7rxpQjxlQ=="
 ---
 

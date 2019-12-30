@@ -1,38 +1,29 @@
 ---
 category: news
-title: "Your next Walmart grocery delivery could come by self-driving vehicle"
-excerpt: "Walmart is testing out grocery deliveries shipped to consumers' homes by self-driving car. The nation's largest retailer announced Tuesday a pilot program in Houston with autonomous vehicle maker Nuro to deliver groceries in vehicles that don't require a human driver. The test is part of Walmart's continued expansion in the grocery delivery ..."
-publishedDateTime: 2019-12-10T16:49:00Z
-sourceUrl: https://www.usatoday.com/story/money/2019/12/10/walmart-testing-grocery-deliveries-nuro-self-driving-vehicles/4384011002/
-ampUrl: https://amp.usatoday.com/amp/4384011002
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4384011002
+title: "Walmart tests grocery delivery with Nuro self-driving vehicles"
+excerpt: "In another experiment with artificial intelligence (AI) technology ... Both vehicles are powered by Nuro’s self-driving software and hardware. Related: Walmart tests self-driving van for ‘middle-mile’ logistics “Nuro’s vision of using robotics to improve lives runs parallel with Walmart’s mission of helping customers live better."
+publishedDateTime: 2019-12-10T16:54:00Z
+sourceUrl: https://www.supermarketnews.com/online-retail/walmart-tests-grocery-delivery-nuro-self-driving-vehicles
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Supermarket News
+  domain: supermarketnews.com
 
 topics:
   - AI
   - AI in Autos
 
+images:
+  - url: https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart%20Nuro%20driverless%20vehicle%20-%20Copy.jpg
+    width: 786
+    height: 400
+    title: "Walmart tests grocery delivery with Nuro self-driving vehicles"
+
 related:
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-10T15:12:00Z
-    sourceUrl: https://news.yahoo.com/walmart-partners-self-driving-startup-151221887.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 110
-    images:
-      - url: https://www.bing.com/th?id=ON.62EE305FA562210566F4FECDE994AC50
-        width: 700
-        height: 412
   - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
     excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
     publishedDateTime: 2019-12-11T00:09:00Z
@@ -209,19 +200,17 @@ related:
       - url: https://www.bing.com/th?id=ON.EA24B65D418B5E3B753629E0CAD79FC3
         width: 700
         height: 466
-  - title: "Walmart tests grocery delivery with Nuro self-driving vehicles"
-    excerpt: "In another experiment with artificial intelligence (AI) technology ... Both vehicles are powered by Nuro’s self-driving software and hardware. Related: Walmart tests self-driving van for ‘middle-mile’ logistics “Nuro’s vision of using robotics to improve lives runs parallel with Walmart’s mission of helping customers live better."
-    publishedDateTime: 2019-12-10T16:54:00Z
-    sourceUrl: https://www.supermarketnews.com/online-retail/walmart-tests-grocery-delivery-nuro-self-driving-vehicles
+  - title: "Your next Walmart grocery delivery could come by self-driving vehicle"
+    excerpt: "Walmart is testing out grocery deliveries shipped to consumers' homes by self-driving car. The nation's largest retailer announced Tuesday a pilot program in Houston with autonomous vehicle maker Nuro to deliver groceries in vehicles that don't require a human driver. The test is part of Walmart's continued expansion in the grocery delivery ..."
+    publishedDateTime: 2019-12-10T16:49:00Z
+    sourceUrl: https://www.usatoday.com/story/money/2019/12/10/walmart-testing-grocery-deliveries-nuro-self-driving-vehicles/4384011002/
+    ampUrl: https://amp.usatoday.com/amp/4384011002
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4384011002
     type: article
     provider:
-      name: Supermarket News
-      domain: supermarketnews.com
+      name: USA Today
+      domain: usatoday.com
     quality: 24
-    images:
-      - url: https://www.supermarketnews.com/sites/supermarketnews.com/files/Walmart%20Nuro%20driverless%20vehicle%20-%20Copy.jpg
-        width: 786
-        height: 400
   - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
     excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
     publishedDateTime: 2019-12-11T15:48:00Z
@@ -288,6 +277,6 @@ related:
         width: 700
         height: 466
 
-secured: "bUXs8UnUVoWh31PaDWpqItLqiy68zGQQU8dt8KPlnyoWPVoE9p1DBsEQKDoEelpNgqnmCEtz+y2LbcggzKVlkYm2t3CTyQF6/Uyz7zJm1+1Lq21SKJpzzzsMlLYMBsGrTC9lK5yGtQ4t3wi06HqaJoiovneBxywfjr7BYLssqvSCc2MdtsZl3QEnR7InnyAJEbs8wtAukYaEvy7//y3hZeLrStv+z1jL+1dqa7RtOYsaCCSajV825OFgLyNyde6cihJUK8K5WSjlCHUpiBBbgA==;IiB4IzI5ljnoja/NuC7XZA=="
+secured: "6EdUqLdHvJu5WxXXeZY38knr/iyr13wsb8flHPDBCRjfwfHGsyRHkwot/2Rz9qonpT4fy+xRqL69Js7NwBivXoeY5WIJO1PcK1b8j+BrbsYnus22Ix4O+aAhN7AhLLxt43PTnF1V8danCFDS5g+BQovM03tCj02XsI6wdH+++VgJAe4CcHWLVQqrf0KzBRaF3L7kK9xn6IHTMTCSDuizq85Eu8g0kcCGw++HG3zmn90qHbg1lG0NHGmZ8yYD5S+uT9CWBTnzu+Q8GsPIVUX1aw==;N97dqkmAXXqtY2IXzNQJvQ=="
 ---
 

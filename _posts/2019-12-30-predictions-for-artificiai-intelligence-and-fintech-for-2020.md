@@ -27,94 +27,34 @@ images:
     title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
 
 related:
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+  - title: "AI in 2020: How use cases will drive artificial intelligence deployments"
+    excerpt: "Learn why predictions about artificial intelligence trends include facial recognition ... In warehouses, self-navigating robots use AI to move pallets without a need for human intervention, and on the road, transportation companies track and trace trucks ..."
+    publishedDateTime: 2019-12-30T14:49:00Z
+    sourceUrl: https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
+    ampUrl: https://www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 107
     images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
+      - url: https://www.bing.com/th?id=ON.EC6374614A9157CE07C21ADFBB899607
         width: 700
-        height: 466
-  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
-    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-    publishedDateTime: 2019-12-29T15:08:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+        height: 525
+  - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
+    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
+    publishedDateTime: 2019-12-30T09:39:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5---exclusive-report-by-mordor-intelligence-300979730.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
-        width: 600
-        height: 315
-  - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-25T05:42:00Z
-    sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
-    ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
-        width: 600
-        height: 338
-  - title: "Fintech startups to make a bigger move in 2020, experts suggest"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-24T06:59:00Z
-    sourceUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/
-    ampUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
+      - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
         width: 700
-        height: 393
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
+        height: 366
 
 secured: "Jx7ow1U7+OzwQ1ak2+JYSfcDQlQICTwX08VK0nD2wRsxkodtFKMthLr3t8/6xZz2GHbG4StYiDylYKur98NWo91iTncpwp8hd1+Vhxm6ma3KSGS/Sly6Fuc0T/MHX1RAwXt500hHrIUYD/WEW5pfRopS/OJw8t9xtXs+ti3rjFM4681W7WJQEpntQDCL502WWvk7waKkzkDn41eQv3S+9qCxih1an2R6LfHCMwmHREKdZ1I8wr9YFkzgdvm7Bnef95gP4eTQBxLHw8mW/9BwwA==;IXQCJ9PuO710D8GMjpiPeQ=="
 ---

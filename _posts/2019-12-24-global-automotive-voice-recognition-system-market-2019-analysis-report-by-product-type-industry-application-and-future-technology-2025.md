@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
         width: 700
         height: 350
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
-    publishedDateTime: 2019-12-30T11:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
     excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
     publishedDateTime: 2019-12-23T05:32:00Z
@@ -215,6 +200,19 @@ related:
       name: Winston-Salem Journal
       domain: journalnow.com
     quality: 39
+  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
+    excerpt: "It was the first time the technology - which is increasingly deployed in airports, offices and cafes in India - was used to screen the crowd at a political rally, according to technology analysts Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and ..."
+    publishedDateTime: 2019-12-30T16:40:00Z
+    sourceUrl: https://www.dhakatribune.com/world/south-asia/2019/12/30/use-of-facial-recognition-in-delhi-rally-sparks-privacy-fears
+    type: article
+    provider:
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D9E60ECDAEA1C2B79EDEA58DA6C7ABF9
+        width: 443
+        height: 249
   - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
     excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
     publishedDateTime: 2019-12-30T12:36:00Z

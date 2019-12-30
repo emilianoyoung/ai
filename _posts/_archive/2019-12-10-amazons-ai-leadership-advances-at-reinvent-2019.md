@@ -1,24 +1,56 @@
 ---
 category: news
 title: "Amazon's AI Leadership Advances at re:Invent 2019"
-excerpt: "AWS also continued its expansion into business and vertical applications in what we call the fields of applied AI. These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects ..."
-publishedDateTime: 2019-12-10T15:50:00Z
+excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
+publishedDateTime: 2019-12-10T15:29:00Z
 sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
 ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: CMS Wire
+  name: Web CMS
   domain: cmswire.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "UVqgpMG7Bh/nScBKaBETYByZ1nEqXA3vlNNjBmIfw5vYLZri9vNmEGQPTmEpTkffayyIrt6UMZGCW/VWn/90cZ1ajGQA6pnoZsTb6OiO7PsKHk2yI6EHA/DNtlkL1m5da4iQsBgHnuSEZUA11wN29XKslOiCJ3+HRgOWt850lCB5bOQRPG2O6lheCMOdjjME/ia/Qyl8txYCjPLoH6TTEj1c/Trs++Rx3ZOfSRoTsrQoF4nA8lL9RsXqNo2ikWQ8rPManYcsbqBxhoOIj7mq2w==;7ynlmqhzSRLgAhWyS6CFKg=="
+related:
+  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object recognition. Amazon Rekognition will help users train their machine learning models more ..."
+    publishedDateTime: 2019-12-17T09:49:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 93
+    images:
+      - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
+        width: 600
+        height: 315
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
+        width: 600
+        height: 315
+
+secured: "Erse47oNCPGFCzeyi+7HZMCTFgw4etihXHrykXEcgM2jzsbxlWi5RopBxlCX0DlZPz/DmCOzGymzy6YRfx0cOB0IZ1cwWzlHn4Bu4btFQAgLUygHaV2MlQFYzmsddVgwpWdpqZ1d2fEo7yaUNvwdvA87ysZ6J+w5SOTEKmB2N0YezsDgoJANyqGydVt1brvY3Sj3nnM2ynl1HAhEVgAXkCi4wb1967jV5bFary/0ST7QzzDxIPnFv/1AeA+FayEFY5PtB+kX9efTzmBlAlM8HA==;2x2EaLMq3eAtj+kzg5tX8Q=="
 ---
 

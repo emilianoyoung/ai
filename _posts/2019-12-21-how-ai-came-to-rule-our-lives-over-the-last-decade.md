@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
+  - title: "What is the Procedure to Start a FinTech Company?"
+    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
+    publishedDateTime: 2019-12-29T02:05:00Z
+    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
+    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
+        width: 670
+        height: 352
   - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
     excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
     publishedDateTime: 2019-12-26T07:29:00Z

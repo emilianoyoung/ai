@@ -57,6 +57,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CEE9C0B02AD33AD0F55369FAA3E57975
         width: 700
         height: 350
+  - title: "Google is using machine learning to make alarm tones based on the time and weather"
+    excerpt: "Google has an update that might make you hate your alarm a little bit less: a new feature lets it automatically change up what your alarm plays based on the time of day and the weather, theoretically playing something slightly more appropriate than the same awful song you hear day in and out. At least, it’ll be nice as long as you’re okay ..."
+    publishedDateTime: 2019-12-10T17:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/10/21004794/google-assistant-piano-ai-alarm-clock-feature-impromptu-lenovo
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: https://www.bing.com/th?id=ON.1C173E4D624811FB46CC526DA9790F5D
+        width: 700
+        height: 366
 
 secured: "N39cTotVc0IQ58j8NWh7hzKdGBl4VUXHkvFdZoMrNm/4hdWPz6wsokq7+i+xEwSFzFz2iD+j+IsdeGtPwHVKwwo0QD55za7GvJhXumX63YukfElX6+8oySXKT+ocH3sFlSX4dRHFjPiEDsUBHh0lmxqbelm1UhuQRG10a0O/xv1Q1d6uSeSv7DHaBpEcGfw9g0dbKoI8wNJTyB5X4w/xteLDgLuDVUhHDt9rnsoOac0/HjMHN8bky7IxfrFbobtsN0dJoSF7GrQcASpxIF4YVQ==;BR+3F9ZL0f/EKq1KGMQddg=="
 ---

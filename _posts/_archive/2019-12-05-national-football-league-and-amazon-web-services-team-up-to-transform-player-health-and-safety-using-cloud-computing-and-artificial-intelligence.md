@@ -48,19 +48,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
-    excerpt: "“Imaginestics’ mission is to build artificial intelligence-powered solutions for managing digital assets, which aligns perfectly with the needs of the Air Force,” said Jamie Tan, CEO and co-founder of Imaginestics. Jason Mann, additive manufacturing technical lead for the 76th CMXG Reverse Engineering and Critical Tooling (REACT) lab at ..."
-    publishedDateTime: 2019-12-10T15:26:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/air-force-boosts-funding-for-digital-technology-using-artificial-intelligence-for-3d-manufacturing.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 40
-    images:
-      - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
-        width: 800
-        height: 534
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-13T18:34:00Z
@@ -75,6 +62,6 @@ related:
         width: 700
         height: 450
 
-secured: "JnHD6E7a7+nJ0G2KONd4MFgNFusFPAzQtdHvcPJLCFnjCbJMhSmhJHT0vZFQxX1vj138Er8ut8Y06U60qoYIx5DnswWqZNIY+kpe02BhIar2n23CzUpmpOj6kg3on3Hj7PIFuXlQ3P781afmbJik2VKSrA3qwS4603tsKHjq3Chn6yzdXk3I6SxrmG8qV6YTvMNyMS+g4jD8NceiUsEvpIRBNYhvYnjbS9FJxicvHzswHSWmNgJVS8c/0tOtwUSpuvwefxL9BHzOOum0eXuR/g==;o6IIgDAbCn6Wj1O3jYfVtw=="
+secured: "mFkSEJ7Li3ynzlE+TE2nWUjD7qzcuBW2Y/NhxLdYWzlZRRhSwdBuVAgF9u9NMCQ5ShJIfWmSSwCvfRPE0XQnpBtuo6ISk2jCAg1Kotn73VecLK04mWqVF1kmzPU8gBWzQgwrxFGurEAjFw4BS4pT40GGJEwbUChrOEs6UOu0rVJ+6lB9z7ud/C2HV25we+tPDT2XutZ9fDSfw09V5B8PtZl/xEn1zmXfpGQHjDd3MCehfn2KhtB7C3z3FO1zDXeVQY34Akv4l7qjoJ3beitYXg==;j43qZ48WjFeOIxnYGu5guQ=="
 ---
 
