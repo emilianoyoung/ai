@@ -1,35 +1,38 @@
 ---
 category: news
-title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
-excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
-publishedDateTime: 2019-12-28T14:13:00Z
-sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/
-ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+title: "Uber buys parcel for self-driving test track"
+excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
+publishedDateTime: 2019-12-30T08:20:00Z
+sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 4
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Seattle Daily Journal of Commerce
+  domain: djc.com
 
 topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
-    width: 600
-    height: 315
-    title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
-
 related:
+  - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
+    excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
+    publishedDateTime: 2019-12-28T14:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
+        width: 600
+        height: 315
   - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
     excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
     publishedDateTime: 2019-12-22T16:21:00Z
@@ -97,16 +100,7 @@ related:
       - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
         width: 700
         height: 350
-  - title: "Uber buys parcel for self-driving test track"
-    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
-    publishedDateTime: 2019-12-30T08:20:00Z
-    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
-    type: article
-    provider:
-      name: Seattle Daily Journal of Commerce
-      domain: djc.com
-    quality: 4
 
-secured: "obHLXukQRUUoCPr690Y0TP7bLqtFZYPdrFE6snIA2QXDf6m0NgDsVsyFsx4N8OLAhtM+U2QiwkYRK7XEpui5fLXkZ6MHFXpPGd3CnvFiXsLlp4QCcBVtMu2jr6XpMtT4fmfd8uInt1vKuR/PHAPl/okTGfFCtOrpIEKinLc+PygXAZA1pdaKVcLyjhJxympu1chB85ttNyFOGbJt8tlmwKwz94wP38ccTUt3/5fm3ntwGUCXkKobirddw20iu+ruXIURYMjk01pf2bhtyY1ySg==;qJWjUsAroHM68FgLZDvqDg=="
+secured: "FSdRU4BnQHCvlY0rxNo8U5c0j5Liu1VAS3ox7eCYbOgMlO9fHWRcERbkkRohjbcnOc6SkRrGaoASlS5b0ZYu9HcDFDuh0+4y+X1tP8x4XGzIaPKCdGijy1+RDBNr2BxzCRXOpvj5HQejeeieZBdVK0OalEMVT+uJBQ8+RbV4nOFl6UFG9hkKWkSbw9wpdMAvJysuLu52oavtL64QKc+6pZlPa9MaW4bCK/vpLgBAYMQzLrWwwynwDCtPFEnyTIFNvHSet5Wwp0csIQAq2j6zLQ==;mLKXbxNKiqQ1BERCseh4pg=="
 ---
 

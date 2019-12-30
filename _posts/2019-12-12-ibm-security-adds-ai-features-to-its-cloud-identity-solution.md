@@ -25,19 +25,6 @@ images:
 
 related:
   - title: "IBM AI Innovations Sharpen Risk Detection in Identity Management"
-    excerpt: "CAMBRIDGE, Mass., Dec. 10, 2019 /PRNewswire/ -- IBM (NYSE: IBM) Security today announced it is extending its artificial intelligence (AI) technology originally developed to protect users in the financial services industry, to clients in all industries via the company's identity-as-a-service (IDaaS) offering. IBM Cloud Identity now ..."
-    publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-ai-innovations-sharpen-risk-detection-in-identity-management-300971958.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.630770D6AFB4E5A28A438E3CC9C05A1B
-        width: 700
-        height: 366
-  - title: "IBM AI Innovations Sharpen Risk Detection in Identity Management"
     excerpt: "CAMBRIDGE, Mass., Dec. 10, 2019 /PRNewswire/ -- IBM (NYSE: IBM) Security today announced it is extending its artificial intelligence (AI) technology originally developed to protect users in the financial services industry, to clients in all industries via the company's identity-as-a-service (IDaaS) offering. IBM Cloud Identity now features AI ..."
     publishedDateTime: 2019-12-11T09:22:00Z
     sourceUrl: https://finance.yahoo.com/news/ibm-ai-innovations-sharpen-risk-110000855.html?soc_src=community&soc_trk=tw

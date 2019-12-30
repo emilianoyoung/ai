@@ -76,17 +76,6 @@ related:
       - url: https://news.uns.purdue.edu/images/2019/imaginestics-additiveLO.jpg
         width: 800
         height: 534
-  - title: "Paladion Announces Automated Azure Onboarding for Managed Detection and Response Services"
-    excerpt: "Azure's capabilities reduce manual operations while making it easier to scale over ... This speed is achieved by using Artificial Intelligence and Machine Learning to assess large volumes of data quickly. Enterprise companies from a variety of industries trust Paladion's MDR to protect their sensitive information. The benefits of this next ..."
-    publishedDateTime: 2019-12-10T10:00:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/p14960691/paladion-announces-automated-azure-onboarding-for-managed-detection-and-response-services
-    ampUrl: https://amp.benzinga.com/amp/content/14960691
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14960691
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 30
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-13T18:34:00Z
@@ -101,6 +90,6 @@ related:
         width: 700
         height: 450
 
-secured: "Q0sdeOlQneDxCxpQJttzBlcKgb+fd53rOy82pU+A9I33QmUr0P2yCf/sdq5+4HOZYKh5PCHer6lKTDUynET6/CMmhmFzTPvca4aUN4owGejp2kAB6O7r8rrqUPM+PTPoe/zMsZ/MoJcs9XP4YWWsXn8E9zpZeB001MrdS0g4w1omtjfU9VU8H2V/VehhZYTec3CsmQwhBxQiFvDNdMyuAmDKaP6IqgXBayvtKo59AbHCH2m+Oe+dLpuvtponGZBl6Yg3XVKPeFbC/3B08GNcew==;3A5700FPyEEsvroopMx6Bg=="
+secured: "V+TqWgggd0fBfjC6DjC3UpF3W+M6bPKuAzsfu9xvJMKc8yFRYu6CfyRkZ3imQ4XnZ9mE5+uQDmAVFQDsJ0LbVrrjyKNJ1npQpTQwn28/kGwkQxH1XfbrsHphbXyJemd5FF3dhG0QyNGa67DEkhlSxfbS5nMO4mkWrSLRm/ZZIP/W96xdzdrIyOOOJ0A7kIut7MDUXbgeT9vL2usHhXTIGnJmWHn07E4adOXahMO6s5vhBYC10e4fp0Z9Qt9f6uhOo1nTNxp2Qwf3SAvi+w+b7A==;Dwuihq8n37fy0ogulJIY3A=="
 ---
 

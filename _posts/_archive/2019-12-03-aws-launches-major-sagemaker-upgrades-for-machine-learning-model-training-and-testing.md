@@ -53,7 +53,7 @@ related:
       domain: techcrunch.com
     quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -91,20 +91,20 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
+      name: I Programmer
+      domain: i-programmer.info
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
 
-secured: "dmxPya0lrJJ69eH6v/jfLlEK+i5vxg3Omf8+DB/mO7qK0wFficSz2Lfdgm+vobKN41PfwaVl0n6I3kN1qNGDQNCMj3afWS9UIZC1ASwFMsvbbjUaAhV/YnoXxNtNqU0OLzcXAPsBSpJ5T0kX9OFHcyI03uQixrK2j9O/2B/+KBHRa+DG+uszXrkcPs8RiDhTsP7YaT1hmyLIZAHDPtWUjmciM6dILCYBhcdeOIT9/8LEBB7c8Wq7mFCK7RlfS1z9yJXY4puCdLusyFW3NxhkBw==;qmLkQF+eMKww3sXd2OfMHA=="
+secured: "1sUIppaBvKWDYcj9GUxNJojsMZUAmcXNFYW4xZ0FmNHmtX+C5RYQtzccPNzDk9g37c0ScAW0SeHG62nYeNTshRLHKVeY+ZOQcZtUiJjwU9iolwrlces9A6ralrrRi0CX8u/YLXioCuQtvJnQWJsz5mnt5TIf63HDJs45UFCZju71wIoCdDbYcdlnvjXJSv9FZaiXUDaxk6KCtVYhDyrZQlzlKW0Af1OQWUPEIIDIWCT/qSM7iupI047FdOJ++y0Z4zbtcoPSLdJawwOTtXFLkw==;1yp6rGQ25GEFXP8xxUhHyA=="
 ---
 

@@ -19,21 +19,21 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Research focuses on suicide prevention by Artificial Intelligence"
-    excerpt: "Can artificial intelligence help prevent suicides? Phebe Vayanos ... more than half of people experiencing homelessness have had thoughts of suicide or have attempted suicide, the National Health Care for the Homeless Council reported. ‘New A.I. algorithm helps identify group people in a social network which provies a chance that youth ..."
-    publishedDateTime: 2019-12-13T13:23:00Z
-    sourceUrl: https://www.medindia.net/news/can-artificial-intelligence-help-prevent-suicides-192020-1.htm
-    ampUrl: https://www.medindia.net/amp/news/can-artificial-intelligence-help-prevent-suicides-192020-1.htm
-    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-help-prevent-suicides-192020-1.htm
+  - title: "Using artificial intelligence to help mitigate suicide risk"
+    excerpt: "the National Health Care for the Homeless Council reported. Phebe Vayanos, assistant professor of Industrial and Systems Engineering and Computer Science at the USC Viterbi School of Engineering has been enlisting the help of a powerful ally -artificial intelligence- to help mitigate the risk of suicide. In this research, we wanted to find ways ..."
+    publishedDateTime: 2019-12-12T19:19:00Z
+    sourceUrl: https://www.news-medical.net/news/20191212/Using-artificial-intelligence-to-help-mitigate-suicide-risk.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20191212/Using-artificial-intelligence-to-help-mitigate-suicide-risk.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191212/Using-artificial-intelligence-to-help-mitigate-suicide-risk.aspx
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: News Medical
+      domain: news-medical.net
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.A87A005D4E3CFB729844B224813141D0
-        width: 300
-        height: 250
+      - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
+        width: 620
+        height: 480
   - title: "Using Artificial Intelligence to Strengthen Suicide Prevention"
     excerpt: "December 12, 2019 - A team from the University of Southern California (USC) has designed an artificial intelligence algorithm capable of identifying ... methods into design and deployment of prevention programs.” With this AI tool, healthcare professionals could help mitigate suicide risk for homeless and other high-risk individuals."
     publishedDateTime: 2019-12-12T18:41:00Z

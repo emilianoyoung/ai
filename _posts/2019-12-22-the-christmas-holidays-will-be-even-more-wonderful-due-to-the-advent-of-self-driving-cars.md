@@ -97,6 +97,15 @@ related:
       - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
         width: 700
         height: 350
+  - title: "Uber buys parcel for self-driving test track"
+    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
+    publishedDateTime: 2019-12-30T08:20:00Z
+    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
 
 secured: "uzqKtL8zZIpHkGJ+HHERhZU0Uke00VoJkgntekav/5en3nkfPkvcPtXXzRaLdj+kbocvGx+EXU3ygV6CEruvKsWKsb3e9mRUqqE5GLQGNTfkvMT5yYoBJ05rwzzHgG70BCY9VqYDTy8cak3sFukf6FU3lvbj2UHcrzb+Qkbs57cx1OSF8UiWY5+dj6lk8vYLnlbeYAROkcMWV0D5k9bNH7w2+rZaqizLooza4rMuCHTsLYWtqnPQJeCJXk3T7NidGqh+RGM4Pnt4vmFSpXYbFA==;c38yKlFQTknm8133lz3KGw=="
 ---

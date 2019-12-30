@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-publishedDateTime: 2019-12-23T05:32:00Z
-sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+title: "Fight against facial recognition hits wall across the West"
+excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
+publishedDateTime: 2019-12-30T10:09:00Z
+sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
+ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
 type: article
-quality: 81
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Politico
+  domain: politico.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+  - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
     width: 700
     height: 466
-    title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    title: "Fight against facial recognition hits wall across the West"
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -45,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
         width: 700
         height: 350
+  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
+    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
+    publishedDateTime: 2019-12-23T05:32:00Z
+    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+        width: 700
+        height: 466
   - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
     excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
     publishedDateTime: 2019-12-26T11:34:00Z
@@ -60,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
         width: 670
         height: 440
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
-    publishedDateTime: 2019-12-30T10:09:00Z
-    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
-    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
-        width: 700
-        height: 466
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-27T18:59:00Z
@@ -178,6 +174,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "7j2wsHtJH4uNGVI/uQxB7gUO5E13yy2dPIpjFCPgl0epCuOLbv6n01fw7nd2CXPp0Hstb/Dl+cZs9uLefNVPxtEwZCc05kneT5c3QhUHMo/DpcYzykUx/QjPMj6GXjTH877Ps5nX9cIYPRefOoYEbyk+G63L+gzl0bamRjNvhMdwo/Rnq/t7ORtdSbKeDNHV2d8IEknJ4yj2Ad830gi89Fxp75C4UJwQ9s/NVWOxKV3hHv7VM40dK3RkPygLSFM6nKozwXJOpSgTvurkh6J4og==;UZiy45cn/404p7NL4iQe2Q=="
+secured: "lnJQasWOEty6CFov+bVmOzhmlgufY3z3bjHNUyJXDJ6dFij62NaURu/G0h4amzW0vHJKknT4UZotYxBZtgmhOj8zYIRqA4H7uuUyZAbBxILEKYg15MQVHAZnXpKRTc87xKu55eheWqLnZZsHW3aI7Pq+DZHfP0zVm7+qDJRT4pBiW5bJAS0PLdWSF5XcRVERe8EusEJdrqGmWnnHlSoqu63zPLVvsewSnyesjbiiXqaMos/m1eGe8zIU3h5xmZ+6H64DohH/0v5btzlPRS56Ww==;4h1M6GLfBwE+Ely33pXEkg=="
 ---
 

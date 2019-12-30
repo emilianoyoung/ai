@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-publishedDateTime: 2019-12-29T11:40:00Z
-sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
+excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
+publishedDateTime: 2019-12-30T09:39:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5---exclusive-report-by-mordor-intelligence-300979730.html
 type: article
-quality: 52
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Wire
-  domain: thewire.in
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+  - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
     width: 700
-    height: 350
-    title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    height: 366
+    title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
 
 related:
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
@@ -41,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+        width: 700
+        height: 350
   - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
     excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
     publishedDateTime: 2019-12-23T16:32:00Z
@@ -80,20 +93,7 @@ related:
       - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
         width: 700
         height: 466
-  - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
-    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
-    publishedDateTime: 2019-12-30T09:39:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5---exclusive-report-by-mordor-intelligence-300979730.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
-        width: 700
-        height: 366
 
-secured: "jevN3FQLRew0pDNt2DR98b5OJDH8VTgLIhlnRs1MxrFUo7zHsqZfBY4epxW/qAkt4BTuQjrjKYZdmWkWMbcrw5U4TFmKrOB0lbSnAoASrVQYT7lr6YfKH3FkfM8z6dTji9HDIq00qEtg1pB1JV0iVvxMJM1FdbB9sm51aZ2DSfuNgWXwrfaHhw00x/9r/ECCLNOGEFiNq+4Xq0kKXy+wsxAwtUrn2c8H23s5VVQ8fWqdTCW+gaiMeTQJiPP1IoUBZOMFuLeeCUN+/5RzCRqJTw==;JWWFFQp3QdD2LZoijIKuSw=="
+secured: "Pm+JZGnPlE7/62CZWyymoxz1QJCCY3xLEO85LEa6ER4LH+/HCZ0C2jEiqnf8SIjCT59iWaWC3NMbvYTodYaX7EWkOTmJYK1AhygF1Ogn69m7sit/7xDULo6183m8JIowg7i3z3lfIhQOThEldj1Wd6r699uYGJfMLlO90S6KRjf/cyUkkRVbDKPlwiUg3giv77ow+OgnFWVxybXXEXsuqTwuox41NKxUJFaO5RBEsH0d1jxGYo9MudX2YrRBMHoHgt4ygIqFIaJkBxaCAnHv5Q==;eeuS4GXVnV2XOLAASaKcqw=="
 ---
 

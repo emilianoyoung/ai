@@ -8,7 +8,7 @@ ampUrl: https://www.voanews.com/silicon-valley-technology/emotion-sensing-robot-
 cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/emotion-sensing-robot-heads-space-station-help-astronauts?amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -39,18 +39,7 @@ related:
       - url: https://www.bing.com/th?id=ON.DC1B10D94D76FFE2EF00997D6C82CC8D
         width: 465
         height: 700
-  - title: "SpaceX Dragon docks with space station, delivering 'mighty mice' and a space robot"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-10T10:02:00Z
-    sourceUrl: https://www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.html
-    ampUrl: https://www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.amp.html
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 33
 
-secured: "pLFDCYcmSbMWHWS4c1MDTO5h+xsgFKM8PtXTXkWgdAZKrz/sUjIl3oet/g5nyKhzWWRUrMpTBLqfkWcTP4YaLlWZCGvKuSR1RiNSmb914B55WxY43hn/lbO7lpglHVouk/X8IQcNC/gDVBLtm3TwQyqHO+5WPu3Gx4GMKkr8hEQKDROzeVTxELrcX8sbgfsB0Z6VSsYhHfwe9DJ3IKLsWA0FjXudlwTVI5hRDX5jZmy6TJqKVfot+9hpHykk0ZZbC8ruTX9kxOiR7kZK6j4UCA==;fWQL3nREwkFJzthoyi+jiA=="
+secured: "l5zm2bWqx4lcdIQhjphgWt+jBJgG1CaN7P2dXFTYYdxEIEPKKYi8xs5zDxhDeQO2pvTswsRuPOTsb/RU7Wk/nEm6p7GyECSXNj1AZLoYB2oZvBhjUGISjTGaT32kat5GZaPCV2ICjSXdq+tHAHi/SKrvzjHnPByazvATmec2WZtMZ9VMXepl8+PzxpbzzNdgkmd8+9O4El/bLavxCYibznJ5cvb4CDKHtQuBYWGDjk6IRwHVl40nXaLCKN1olMMzQCskGO/GzUdyG7pTZHwz4A==;BBw/oBUB6P/xhEiwMhPbFg=="
 ---
 

@@ -39,17 +39,6 @@ related:
       - url: https://media.voltron.voanews.com/Drupal/01live-166/reuters-pictures/2019/12/RTX7BWKL.jpg
         width: 5760
         height: 3840
-  - title: "SpaceX Dragon docks with space station, delivering 'mighty mice' and a space robot"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-10T10:02:00Z
-    sourceUrl: https://www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.html
-    ampUrl: https://www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/spacex-dragon-docks-with-space-station-delivering-mighty-mice-and/article_107267bb-c228-58a0-bf95-916d2a4dea93.amp.html
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 33
 
 secured: "txvM+7Mf2PWtVOL1bSM+eW6cjLkpz49q7K+UwIPRrXt3bsYeiPnfx44pnqt4Ew7D0Kp6Idf1pYrfxHFCpNGxQFM2LPFwLTnZJixZ8sVvbkRFy+/MotvQCovxRRjwO261ALHO9OoWiVPeEp30MjfkuCH8BtP8ab6WkRii2w5269PTPjw5S+65rNqQILw/8SjCjKEWwmzm1Q13JMq+CfGXyr8Eu/6qMYuEsFArfUOjDDsSMS2qFb8HN2/nuAfWGhkrqC9+6ZYTfHo8dQ6PR70EFw==;/JNib4QAyMqphapB8c++jw=="
 ---
