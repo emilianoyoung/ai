@@ -1,28 +1,28 @@
 ---
 category: news
 title: "As robots take over warehousing, workers pushed to adapt"
-excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-30T08:04:00Z
-sourceUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html
-ampUrl: https://www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
-cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/as-robots-take-over-warehousing-workers-pushed-to-adapt/2019/12/30/089482a8-2adb-11ea-bffe-020c88b3f120_story.html?outputType=amp
+excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+publishedDateTime: 2019-12-30T20:17:00Z
+sourceUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/
+ampUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: NBC New York
+  domain: nbcnewyork.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.B020247EEEB8E54C2738AEDAEF3C67CC
-    width: 150
-    height: 100
+  - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
+    width: 700
+    height: 393
     title: "As robots take over warehousing, workers pushed to adapt"
 
 related:
@@ -124,6 +124,6 @@ related:
         width: 620
         height: 330
 
-secured: "nqUpjjROQRTN80uSNMnzNb2xeXrTg8dQGlowmnzrw81vhXdc4eDwyShVBrzfaGltcfEnkYHgfqH7YJObI9Kckuiwy28ahMWqG26dLrHbzjO2DMvds+VWJ/LDBEHQgHa0VeVvTojmTn7XkbOukkeN8VMaLJYTH+0D2greT/fea1dZxJ25yKEo1CUXr53T+494JJl+yESvzj/Sw3dn4PqGn9N646WAsGmTvxv1+5WvoiTJrCRqbYAi8gHqfCAv1oa3akz4pEOwDz6SIQmkRdooRg==;pT+XvKrFVg4+srxkKHVxMQ=="
+secured: "vwmhJAl6SAn13IsJZ0SUiZSug41jy6GzmQWr5eSA6zEQ0OCS74OzcQ8NHIJZ4Z+7pJs79mRtHoAqrvsqNixH1PlzcZNl4RrsJGzlu9Kvh2V+c/JwIUQsRtBczK01DKbWHouUieVaczyuXzfSwALC8WfOcj+pb3ZqApKwjWf73WRBQmRX7Q/zjAdPZROIG3JenXTQ8TXZQ0TtYqmSWQG4yVC1eXG18lCvlAST4DoaFQaLyHJuC8biC886tUYOe2dMDnrjJOFcpfE97rh43WV1tQ==;SkVRKxTao5fNSU6v/sKvXg=="
 ---
 

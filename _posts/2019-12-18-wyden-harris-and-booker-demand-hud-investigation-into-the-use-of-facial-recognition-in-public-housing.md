@@ -1,27 +1,22 @@
 ---
 category: news
 title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-publishedDateTime: 2019-12-18T15:28:00Z
-sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+excerpt: "Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ... What enforceable rules does HUD have in place to ensure that biometric data collected by facial recognition technologies in federally-assisted properties are kept secure and subject to effective cybersecurity ..."
+publishedDateTime: 2019-12-18T15:26:00Z
+sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
 type: article
-quality: 53
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: BuzzFeed News
-  domain: buzzfeednews.com
-  images:
-    - url: /assets/images/organizations/buzzfeednews.com-50x50.jpg
-      width: 50
-      height: 50
+  name: BuzzFeed
+  domain: buzzfeed.com
 
 topics:
   - AI
-  - Computer Vision
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -97,6 +92,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
+  - title: "Federal study finds race, gender bias in facial recognition technology"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
+    publishedDateTime: 2019-12-19T23:43:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+    ampUrl: https://amp.usatoday.com/amp/2704291001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
   - title: "Campaigners block use of facial recognition and ICE access to data"
     excerpt: "Activists have claimed victory in a long-running battle with US law enforcement to stop one of the most sophisticated and far-reaching facial recognition programmes. A facial recognition system used by more than 30 agencies across San Diego, California will be suspended on 1 January 2020, according to a new agenda published by the San Diego ..."
     publishedDateTime: 2019-12-12T12:13:00Z
@@ -880,21 +886,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
-  - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T19:57:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
-        width: 700
-        height: 394
   - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
     excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
     publishedDateTime: 2019-12-20T19:25:00Z
@@ -1185,17 +1176,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face ..."
-    publishedDateTime: 2019-12-19T23:50:00Z
-    sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.jsonline.com/amp/2704291001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
     publishedDateTime: 2019-12-19T21:53:00Z
@@ -1660,6 +1640,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "2bhM+ul8xR0rOsBLvt7vPw8wBueeQTKIceoTjEnZ2W7Wtl6bgekI+RfJzi4W8ypo2qNx9ZldzOWG+AJu1/9fwFOSpa1iE0js5Waw9dY3z0n8moh0B8TzoHiR0/e1hx1GO9vNEn+DeTq/oF/NnqGDSX2hrWVAFSjLYykGzk28CPGnAikOHX/OVg4pwmasW9IAS9nA4L8djH6QRtQFVgimjTQJmY/NIgVdpphGVpOVKqMQZAn5DfH50J2uzHT6Cc1hZKhsnzkFXm0lLaPsBiKjzg==;yV+5WjNWIQi6bkuDxdQnKQ=="
+secured: "5G3iKMu0EFHwSyCEUf+TO4j1F/o/2P1ofKtH6M0YTRenBje8EeRqMGf9uNJbvRbf8TVHpuz0HDVjGQZZ949ihr5seNeUxso1NMj3zYqlIKU1uv9KuBaSHy6gstskBXZVkDY4eMM1wlkzaQkpmq4yOx9dEFKKPiLQesmm5bOOxv9PtwozWGTCGKrWJJZAYvSbkWKmfY8xYDNVZ8+UqRdZ5IzlpFlXNwbfN5CywGcCO4+efn69iC5FZwiaSLkeDELm/ZHNc6f1Pvbh57MZAS9Xiw==;YBP37ax0QPyaU4ke+TNWaQ=="
 ---
 

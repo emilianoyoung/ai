@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
         width: 700
         height: 350
+  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
+    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
+    publishedDateTime: 2019-12-30T11:45:00Z
+    sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
   - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
     excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
     publishedDateTime: 2019-12-23T05:32:00Z
@@ -112,6 +127,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
         width: 700
         height: 367
+  - title: "Police using facial recognition system to identify protesters"
+    excerpt: "With the help of Automated Facial Recognition System (AFRS), the Delhi police are comparing the details of people involved in violence during the protests against the citizenship law in the national capital with a data bank of more than two lakh ‘antisocial elements’, said the police on Monday. A senior police officer said that they are ..."
+    publishedDateTime: 2019-12-30T20:06:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece
+    ampUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.410C04674B26F08F08E99A9ADDC5B0E2
+        width: 615
+        height: 384
   - title: "Privacy fears as India police use facial recognition at rally"
     excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
     publishedDateTime: 2019-12-30T12:29:00Z
@@ -196,19 +226,6 @@ related:
       name: Winston-Salem Journal
       domain: journalnow.com
     quality: 39
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "It was the first time the technology - which is increasingly deployed in airports, offices and cafes in India - was used to screen the crowd at a political rally, according to technology analysts Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and ..."
-    publishedDateTime: 2019-12-30T16:40:00Z
-    sourceUrl: https://www.dhakatribune.com/world/south-asia/2019/12/30/use-of-facial-recognition-in-delhi-rally-sparks-privacy-fears
-    type: article
-    provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D9E60ECDAEA1C2B79EDEA58DA6C7ABF9
-        width: 443
-        height: 249
   - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
     excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
     publishedDateTime: 2019-12-24T06:30:00Z

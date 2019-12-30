@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 91
-heat: 391
+heat: 401
 published: true
 
 provider:
@@ -134,6 +134,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
         width: 700
         height: 350
+  - title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
+    excerpt: "I heard Microsoft offers Azure Machine Learning studio [1] which is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure, I would like to give it a try and see how to apply the skills I ..."
+    publishedDateTime: 2019-12-16T03:43:00Z
+    sourceUrl: https://medium.com/@jimmyhk99/the-good-the-bad-and-the-ugly-about-nlp-with-azure-machine-learning-studio-3990e9eb49b
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 59
+    images:
+      - url: https://miro.medium.com/max/1200/0*sVmc48WRJTTkyNOJ
+        width: 1200
+        height: 401
   - title: "NHS is leading the way in AI adoption"
     excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
     publishedDateTime: 2019-12-17T12:30:00Z
@@ -343,15 +356,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
         width: 685
         height: 416
-  - title: "Deep learning helps tease out gene interactions"
-    excerpt: "PITTSBURGH--Carnegie Mellon University computer scientists have taken a deep learning method that has revolutionized face recognition and other image-based applications in recent years and redirected its power to explore the relationship between genes. The trick, they say, is to transform massive amounts of gene expression data into something ..."
-    publishedDateTime: 2019-12-10T19:52:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/cmu-dl121019.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
   - title: "Spot the robot ‘dog’ could one day scan jobsites, do layouts and maintain machines if Trimble, Hilti, Boston Dynamics collaboration succeeds"
     excerpt: "“Down the road we expect to see robots involved in actual construction and workflow, things like scheduled maintenance and repair; even supporting the assembly process, says Almagor. “You take the platform, add the required tool and AI (artificial intelligence) capabilities and you get an almost unlimited tool. We are already talking about ..."
     publishedDateTime: 2019-12-16T19:41:00Z
@@ -413,6 +417,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 11
+  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
+    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
+    publishedDateTime: 2019-12-11T12:28:00Z
+    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 10
   - title: "Performance of deep learning-based algorithm for detection of ileocolic intussusception on abdominal radiographs of young children"
     excerpt: "The purpose of this study was to develop and test the performance of a deep learning-based algorithm to detect ileocolic intussusception using abdominal radiographs of young children. For the training set, children (≤5 years old) who underwent abdominal radiograph and ultrasonography (US) for suspicion of intussusception from March 2005 to ..."
     publishedDateTime: 2019-12-19T10:39:00Z

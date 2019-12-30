@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
 
 related:
-  - title: "Self-driving truck completes first cross-country trip from CA to PA"
-    excerpt: "CUPERTINO, Calif. (KTVU) - A self-driving truck completed the first ever cross-country run by an autonomous commercial freight truck. Cupertino based startup Plus.ai announced Tuesday its truck drove 2,8000 from Tulare, California to Quakertown, Pennsalvation in just three days. The commercial truck hauled a fully-loaded refrigerated ..."
-    publishedDateTime: 2019-12-10T19:51:00Z
-    sourceUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa
-    ampUrl: https://www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    cdnAmpUrl: https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/self-driving-truck-completes-first-cross-country-trip-from-ca-to-pa.amp
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B6155EB377E0C115BCC6F8F2F86D6FD9
-        width: 700
-        height: 393
   - title: "Self-driving tractors: Next big thing in agriculture"
     excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
     publishedDateTime: 2019-12-23T06:01:00Z

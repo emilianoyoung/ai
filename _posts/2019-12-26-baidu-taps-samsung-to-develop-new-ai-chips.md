@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-deve
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     width: 700
     height: 393
     title: "Baidu Taps Samsung to Develop New AI Chips"
+
+related:
+  - title: "New edge AI accelerators coming from Samsung-Baidu partnership and Innodisk"
+    excerpt: "Baidu and Samsung Electronics are planning to begin mass producing a cloud-to-edge AI accelerator chip in early 2020 ... The chip also accelerates the ERNIE pre-training module for NLP to three times faster than the conventional GPU/FPGA-accelerating model. I-Cube technology connects a logic chip and high bandwidth memory with an interposer ..."
+    publishedDateTime: 2019-12-30T20:29:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/new-edge-ai-accelerators-coming-from-samsung-baidu-partnership-and-innodisk
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
+        width: 660
+        height: 300
 
 secured: "9vmxTYG9CrREMTmgEs5+n84CeHT/IK/Vs2UuBWacoWauYxnG2G/SCWabdIhAY2bhkWpfigqntcd2JB7hTB1DfGHuEVhEK7EfHylPLYqSJ/b6isx6ZKY2oc4EBGKjf5qUXY+XU32TCbR2BhLanMIbqrpTCD2e6DO+SGQ7L00JmJ+lH7nAxO+vG6QczjS+GutQ1ddaMm71jHMF5QbvReETUMUxwCFjah33uwN0SjeJACjkFpHxxUit5s3Uc/0CvipjfkJTmo3jbFaCl/RAAb1Iyg==;cuNjm4LKFJWI9mNCHDbAAw=="
 ---

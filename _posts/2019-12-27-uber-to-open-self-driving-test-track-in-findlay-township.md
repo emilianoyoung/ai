@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.212EE0031B356BE09DFAB578436E35CE
         width: 400
         height: 400
+  - title: "Vendors to collaborate to bring AI to orthopedic planning"
+    excerpt: "Zebra-Med is expanding its tools to provide assistance to specialists in areas like orthopedics, trauma and spine care, aiming to enable the use of AI solutions, to promote more precise planning, reduce waste and enable the use of personalized solutions. Zebra-Med’s technology is planned to be introduced as part of DePuy Synthes’ VELYS ..."
+    publishedDateTime: 2019-12-30T20:35:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/vendors-to-collaborate-to-bring-ai-to-orthopedic-planning
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.218C213FE9480F5EBAA443D86144A8B3
+        width: 700
+        height: 367
 
 secured: "5dETFZfQvIaJE5DBUyBwMacCEWO8LgWvp2cQhUO0XCEhmhIVOaLFGXS2AZTMPLE0uuRhGl+L6JCSSy148HlqiM7phuDYrLquvaYoxY7aLfM1+XeOyDAEKDKiUIvfn5TiGVYpMsbKQK5u1yrJY8x0EP195M9tnV5kPOxkKmtDnA9K0o8GiSmDh2uxU9iCjE3U3yfMdePoqtw2krXgm4DghKH4JlBWXtV7gVuEzFbbu9Wnj9SwpzPvkCy8SWNAqr/IT4pGVwoJYigdndRvb2sURA==;TUWWZoT+pWuah3yQpF8P6A=="
 ---

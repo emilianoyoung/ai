@@ -25,21 +25,6 @@ images:
     height: 218
     title: "Facial recognition, winter cleanup among topics Springfield City Council will address in 2020"
 
-related:
-  - title: "Northampton City Council to address face surveillance systems"
-    excerpt: "A proposed ordinance before the City Council aims to prohibit it. “Prohibition on the Use of Face Recognition Systems by Municipal Agencies, Officers, and Employees” will be discussed for the first time by councilors on Thursday at their last ..."
-    publishedDateTime: 2019-12-18T21:45:00Z
-    sourceUrl: https://www.gazettenet.com/City-Council-to-take-on-facial-recognition-software-and-override-measure-31405894
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 24
-    images:
-      - url: http://www.gazettenet.com/getattachment/ad92d5f4-8932-47a3-a6fb-384b374aef33/03bebc5f71a747e0893badfb492fce3a.jpg
-        width: 499
-        height: 325
-
 secured: "oNrairJmpRlmuGSolpDxqPMPyotS1Li/MXfej45TQToTEWmZMSiWOkU2EATsQJwZD6Kf1FqXRFDKxPwODEB0M1b0TmsBeZMgXIFN6py+c5tIZiZml/L5Y2Muq/EFrFwHKFj+QHaYSsAOh9jSNTRV2F5yuJMLXXpbowWYd4znJ0PsEfdqhsWnQJu3G4KwwXLZGqYbG/FHxdiYT7zCunD0l4LVs+AhjLPpmAFQL70L/cd3sFWxpBv5OUqyrrmh7bhPc5Bsas4+vhIXOw7g+koKRQ==;/hXjWUKpOCM3ataRJtTKnA=="
 ---
 

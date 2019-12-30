@@ -25,6 +25,19 @@ images:
     title: "Dallas firm bringing AI smarts to wound exams closer to key launch after $92M contract"
 
 related:
+  - title: "Vendors to collaborate to bring AI to orthopedic planning"
+    excerpt: "Zebra-Med is expanding its tools to provide assistance to specialists in areas like orthopedics, trauma and spine care, aiming to enable the use of AI solutions, to promote more precise planning, reduce waste and enable the use of personalized solutions. Zebra-Med’s technology is planned to be introduced as part of DePuy Synthes’ VELYS ..."
+    publishedDateTime: 2019-12-30T20:35:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/vendors-to-collaborate-to-bring-ai-to-orthopedic-planning
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.218C213FE9480F5EBAA443D86144A8B3
+        width: 700
+        height: 367
   - title: "Uber to open self-driving test track in Findlay Township"
     excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
     publishedDateTime: 2019-12-27T00:30:00Z

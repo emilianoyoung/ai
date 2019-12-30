@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-show
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 567
     title: "Facebook's new card-playing bot shows AI can work with others"
 
-related:
-  - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
-    excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
-    publishedDateTime: 2019-12-06T17:09:00Z
-    sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
-        width: 490
-        height: 369
-
-secured: "9kzSFiRPqcJZdmRNrpCNib6USLPVecSaBPSbBJzUxftAFK9yDZCPr/VPXyfLsoqd5NTWNyPP5nAXSS9gWbO3IQVDW1ZOouirQTRQjtez8JNOt8F3PMPYeLKJOKzQm1LhLBkxiCpW2d+9YFg6HDnC4RsOpaX2hP0VSnzo51fcRaPZAgZr2ApmCUbba5c+KKaq3ShSj2h9NEw3J3WjEIJHiRAU7F3w1wWt8FkgzJo7cG2zuQxkUejs2jYQNHbNsfzvOEZqF1TeQ73h4bP1rMyyfQ==;yy9JtQo1KX02KEj+cq2MwQ=="
+secured: "5cH34jGLSoegggNf4C0w3kr2ax0vEPmANVqWaqfPu0UupBCVS4jw9pXSKU+mbCqvGwv7nNNBi0kbYYcuCPcHVKAsKrDc/H0JAc4hoGXxUJJfffk2Ujbi/wbkdZsJIjioh5KWVy2R+vnjr7p1CdGL6Cpzwk2f53/LZUOa2ALZ42c02a9mZ0TKoJ5xYeagVN3OnMdRLh7ctcoWarw4ENxXYazdzTUvMnnNoeoOkXDApv9Ht2vH+PUCSoYjHDZBnpxQ3kWtcP/6HXocrSy6jfXKXg==;8zlstv8wjl4FOiNKb+uW/g=="
 ---
 
