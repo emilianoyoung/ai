@@ -42,6 +42,21 @@ related:
       - url: https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2019/12/mona-lisa-2_1200x630-1024x538.jpg
         width: 1024
         height: 538
+  - title: "Google taps AI to improve news results in Search"
+    excerpt: "Google says it’s implementing AI and machine learning techniques to improve story suggestions in Google Search. In a blog post this morning, the tech giant announced that users in the U.S. in English (with more languages and locations to come in the next few months) who search for a news topic will now see an article carousel at the top of ..."
+    publishedDateTime: 2019-12-11T18:18:00Z
+    sourceUrl: https://venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/
+    ampUrl: https://venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
+        width: 700
+        height: 350
   - title: "Taking Your AI Projects from Pilot to Production"
     excerpt: "Prior to Landing AI, Greg served as a research scientist at Baidu’s Silicon Valley AI Lab. He holds a Ph.D. from the Georgia Institute of Technology, where he led the development of the GPU-Ocelot dynamic compiler, which targeted CPUs and GPUs from the same program representation."
     publishedDateTime: 2019-12-10T20:54:00Z

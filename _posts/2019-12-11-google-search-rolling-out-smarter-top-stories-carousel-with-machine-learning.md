@@ -8,7 +8,7 @@ ampUrl: https://9to5google.com/2019/12/11/google-smarter-top-stories/amp/
 cdnAmpUrl: https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2019/12/11/google-smarter-top-stories/amp/
 type: article
 quality: 55
-heat: 75
+heat: 65
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.971A830435206D064BCA3431B6D7DF6B
         width: 700
         height: 520
-  - title: "BERT is rolling out to Google search in over 70 languages"
-    excerpt: "BERT, the natural language processing algorithm that launched on English language queries in October, is now coming to over 70 languages globally, Google announced on Monday. Previously, BERT was only applied to featured snippets in languages other than English. An example of a featured snippet for the query “Parking on a hill with no curb ..."
-    publishedDateTime: 2019-12-09T22:52:00Z
-    sourceUrl: https://searchengineland.com/bert-is-rolling-out-to-google-search-in-over-70-languages-326146
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.356203A3B98D8082DA23D0DC1454A593
-        width: 700
-        height: 393
 
 secured: "71Me9rccCS3SldesyL6aLTz0m3MyzoOrDfA/aQoLRJ1i7tnnDQxe6K/z91tyvjTMNNeGMORkj1ebl+z5zqPBlob0DP5tn80GMtDgKHbo89WLoztMdq4q9FN+0ADKezhCktGnkVkR4oOoqG6nUDOP6u7wQc/CbI40ngnHirZKp/a7m6kJJRoFxGuQrbp3Fvg9/cAfTG5x7PLUpi6g8+hmqMOLNrmwpaKBqcuxSzsHJpQgVR+BV1NEWXE6F8VsmZwXRRc7BbqER87Rb85PkGUk1w==;GHYikXbB/rtMhRcSkcu4gw=="
 ---
