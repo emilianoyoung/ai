@@ -256,6 +256,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Robots Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "Company profile includes assign such as company summary, financial summary, business strategy and planning, SWOT analysis and current developments. The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here: https ..."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
     excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
     publishedDateTime: 2019-12-27T03:02:00Z
@@ -343,6 +356,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2019 Size, Statistics, Growth, Revenue, Analysis & Trends Industry Forecast Report -2025|Market Research Engine"
+    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition. Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-size-statistics-growth-revenue-analysis-trends-industry-forecast-report--2025market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

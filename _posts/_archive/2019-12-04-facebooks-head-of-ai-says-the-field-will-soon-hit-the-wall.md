@@ -29,6 +29,6 @@ images:
     height: 1080
     title: "Facebook's Head of AI Says the Field Will Soon ‘Hit the Wall’"
 
-secured: "NfVTcL5lsZuc26C8VUf6wVeH+Aaw2lKSzbB6bUEhMFxHRYntuPsfXC1eSCsLvcWUwLPzR+822mI+YloWTYjTzIgXxKjOvNfuQnKrbvKdOZUkTgEWtQ5l7WQinNJOcB18GPj07Ve1Ff55l+EFgIDVMO5Zd2fIivxGZUOKN5ufBmi0r1LvTMqVZ6i+D46jlAp8f15nxFYnwUvUDD7o9YaGcgdZAhP8Nka1CD6gqcpjHFzpltrirhb1JxHQfm9vENioQTofbCBTA91IlNRdwLF0nQ==;wboJGx68vBqhS5OSATNwmw=="
+secured: "WkBq9NH0tcLpny55qbkjgcg9wF8bNzzowh26wpIWd3SMRTx8aDMzc86ZbZ9y4P3xim6aR8mUUVTOKo4lXTF+xEbJQEMegfYTCO6Rwi6+GcCXAiACO6qrKI8qYH9qJ45q4kScPB7iEc2sXumv00qrdZZovwN8OlHyO4mM4mV172+wXh7oUQ3shDAb8AB4jJSmTElUkIGZ/C1nmRQnCcUd9J0fUApH6OTMxUU3W22J6y7j/BSIhiWQRoE2RH0SsOtkLcMKsU6KCQzHbE0djGW6sA==;7TBk58jSgLYGsSv7PuUkbg=="
 ---
 

@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75EA282AA5CC8C6C58C943CEDDB5BB78
         width: 600
         height: 315
+  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
+    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
+    publishedDateTime: 2019-12-12T16:00:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
+        width: 600
+        height: 315
   - title: "For self-driving progress, Aurora focuses inward"
     excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
     publishedDateTime: 2019-12-21T04:00:00Z

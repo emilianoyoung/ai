@@ -59,6 +59,19 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 49
+  - title: "Eureka Forbes delivers pure drops of water with Cloud and AI"
+    excerpt: "“As a 100% SaaS solution, Microsoft Dynamics 365’s USP is its seamless integration with Azure cloud services, Office 365 and LinkedIn. This helps Eureka Forbes accelerate their digital transformation journey. AI, Rich Analytics and ML fuels the CRM ..."
+    publishedDateTime: 2019-12-10T05:33:00Z
+    sourceUrl: https://news.microsoft.com/en-in/features/eureka-forbes-microsoft-azure-cloud-ai/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2019/10/GettyImages-1094797514-768x513.jpg
+        width: 768
+        height: 513
   - title: "Microsoft and CCN-CERT take a giant step in securing cloud environments aimed at Spanish Public Government agencies"
     excerpt: "Microsoft Cognitive Services, Microsoft Exchange Online, Microsoft SharePoint Online, Microsoft Kubernetes and Microsoft Azure SQL. The ease and immediacy with which Microsoft’s cloud services can be made available in the configuration officially considered by the Cryptologic Center as HIGH Level, according to the criteria established in the ..."
     publishedDateTime: 2019-12-12T11:03:00Z

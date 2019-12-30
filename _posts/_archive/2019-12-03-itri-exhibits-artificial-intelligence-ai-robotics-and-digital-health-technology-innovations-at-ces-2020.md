@@ -23,6 +23,6 @@ images:
     height: 365
     title: "ITRI Exhibits Artificial Intelligence (AI) & Robotics and Digital Health Technology Innovations at CES 2020"
 
-secured: "nSBhai/UMJHhLn5ncielMdi1jUt7EmWzwHE1vCRb9NLGnrioNMynX4SnT3P+r+sI/lHZFQ+Td+U0z8KRQJV4K7UYxPJj7NFJeP1E732ru2ixr7/oJXrYAXyZjqukL5cm2YXhkf5knmbEuNdzlqXAP7rAqUhrgzSSZcF9tS55DSAE6TvcsqG/bY9QaLfF7o0HscNt4/K+EdwDztqmnH23CqDwb9Eajz2v8sfd7RLwO1FF3sOC5xbmrkdQrOPt1qyEKgXSuYyCgDdmee1JsR54ow==;mSJ3wFDLkEf56LudvoVvWQ=="
+secured: "wA8+taj0IA81dJUjIO+3x1wMROzbuXchiNoNxR1rFkcR4HK78LGnyf4HkeJpOC4oTbsdyEqZrFf1iMQbEZS7rRMCfEV1xIXIg35aPJjCBybeRqrEpwmatyI3zqyaEFLc6FBX6HeNc7hh0Pn0t7AGJKbmTqn8CT4+voddAKyrha/yv/lEFNd5deliFYWSFleRcPXWXYAeMDdSMd9Tz012cdCCupQxmMzOX9gOUMkOO+AOH7yduFlQyQihSNiNFndN1gha5kwznO5ebXbGt8bK5A==;LNCi8q0DaRBXeYSR2abX0w=="
 ---
 

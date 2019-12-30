@@ -32,12 +32,12 @@ related:
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 39
+    quality: 41
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "xpL1rD0YhyE1N4WO3zBMcQNDiS8UOs/fmo66tQrhVGlY1SBlseR9fUwnynhGLaU5+fxwriZnqEZysNpSjB66/VFpEgtRT9j18sYrtW8AIFJm7UUMgy62oV2kN4uh6K3rvV4xMfO20/nsvKrxJysgc/eHn+2J8uxqSXeNFl2vaZP8RBt/2UlUR3QRc6ShpRD58wBYlg4JlujizMYgiPP9iLJVjwPyOr+j1Ihk0pD4bstJQH9RSyje1pR9j6v6LvYYEiauDMltUcEVXv8eBqRMWQ==;7ujxqClBUcI18N79QSmNqw=="
+secured: "h3v2MPrWvUqhaOpZlHWrx+NcykvE7KjIMmNRECkrJFS+IJOu80WkGxIbSKNW9KN3z2C3/AQrO8oFFNmLGxfDqPIn/aZ6tYCOM5Xnn8lhnH59XCawmas9mTDRvLtHbhHmsviOGmZ3pYRxOFJqt8svZUlEpNa3PSR7hnJC6Sid5gRYBOTJY21IYKP2ddlpCz3qvTfdjSL2FkD2o+QXa5rlT820Ph3VbOrxGrUzAZFWEX3vRW9mA6iNCmWCInrb7YQ1Hq+kiUSk3PMqLjxMdXFv2A==;VXq/3mQMlrY9pMmK0oGcJQ=="
 ---
 

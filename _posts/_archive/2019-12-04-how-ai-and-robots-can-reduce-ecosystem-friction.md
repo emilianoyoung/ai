@@ -25,6 +25,6 @@ images:
     height: 305
     title: "How AI And Robots Can Reduce Ecosystem Friction"
 
-secured: "GBjO0KPzQ5TTnRBppIQX8dnRZ1uk1SzLoodECLpAiu/DVDasZWo9org3Mm60dTPSrmigDtaaDDmkT2KJ9LfYOku3Wrw2lViMgQqf68i3kfSoynqsFjgXb0Uo7wnCMMhDvx0W35TDhknRVTfx5FV2RPhpNIIXZDOZzi/6c0pFoWYrJpKKp5x2VVVa/jhaiVCUD34vcMelWsyg9EPjgB9el74PcWbKOCbaa7rZZqscmGWeSUu+xKUwy7U7+RqT3nfJAgJ+D/DNwSPOwYQCGLCWSA==;X/32smkIZskPqY0BqydmtA=="
+secured: "Km9DBIbtgDemWbKfyCLPhGcIbXFG9SKcoCAa6vrj0WF4JZPUENtp+ivywgMzbGcuifX8LF0EtbLdKl2ViaNXbV8X7pGB7+o31yzsUCtw8LQmhT5ZjjtW4E2fTxvsNh9dUPSd/DfAdVExGtCGCYFSBBBpvfXCW9k3qlvb0WuZqV+pNYoflUSNFa9uldAnWu+ylVSJ9dteQSTbgF6tQOgs7C5OaEw7o7prAkSA2+bkbcdh+p8ZNHwwNrqQ/UP9OMSMwjVfF0+li/uLevYTjkkwXQ==;2m7ZhGcQCmee8ikD4uCBHA=="
 ---
 

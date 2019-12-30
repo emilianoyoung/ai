@@ -41,6 +41,17 @@ related:
       - url: https://www.bing.com/th?id=ON.6021D9F8C0F9AD91A8386578D7F96884
         width: 600
         height: 337
+  - title: "Proliferation of robots tests warehouse workers"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T06:32:00Z
+    sourceUrl: https://www.spokesman.com/stories/2019/dec/29/proliferation-of-robots-tests-warehouse-workers/
+    ampUrl: http://www.spokesman.com/stories/2019/dec/29/proliferation-of-robots-tests-warehouse-workers/?amp-content=amp
+    cdnAmpUrl: https://www-spokesman-com.cdn.ampproject.org/c/www.spokesman.com/stories/2019/dec/29/proliferation-of-robots-tests-warehouse-workers/?amp-content=amp
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
 
 secured: "abK/NOEM+c8qKWJqlk6Bf8SuaYzi6dv3MKToxdvviYulZ0mg/QkCC7xjV7eEkDsy6eGj7KnOXW0XVFa9msX3lLxeawMAn+bAiJmNeWMhohlBNcOHeUTzyzu8+sO65Ly58wUsRX/9th8likrtM0oPsW/Xam4x+noX0e6ZylNcxjPUu+WTK9+/rHdU5BRnXwSizEvgj/yfYIOHnA5Zdu8efL/uHq3GrdprJ0uttTvazSO+16ztKJECJU0bJm3bxP2utGKVDrMzcw5NgZyjZ9Zc2g==;QFSiHKOacQWOtfrsj6iYUw=="
 ---
