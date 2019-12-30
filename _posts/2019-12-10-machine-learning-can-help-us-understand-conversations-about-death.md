@@ -38,21 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C94174D65DB0D88425CE052AF951FC7E
         width: 320
         height: 240
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve ..."
-    publishedDateTime: 2019-12-10T03:15:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
-        width: 700
-        height: 379
   - title: "Aragon Research Innovation Award Recognizes Chorus.ai for its Conversational AI Platform"
     excerpt: "“We are honored to be recognized by Aragon Research as an Innovator and leader in Conversation Intelligence, said Roy Raanani, CEO of Chorus.ai. \"Businesses need complete, unbiased and real-time information about their customer interactions to improve rep performance, improve processes and make strategic decisions about market and competitive ..."
     publishedDateTime: 2019-12-10T13:25:00Z

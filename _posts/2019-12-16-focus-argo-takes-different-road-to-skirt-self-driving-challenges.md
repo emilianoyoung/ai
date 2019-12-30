@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T18:07:00Z
 sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
 type: article
 quality: 54
-heat: 84
+heat: 64
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
 
 related:
   - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "Waymo Chief Executive John Krafcik said. PITTSBURGH: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of ..."
-    publishedDateTime: 2019-12-11T17:19:00Z
-    sourceUrl: https://auto.economictimes.indiatimes.com/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
-    ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
-    cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/argo-takes-different-road-to-skirt-self-driving-challenges/72474883
-    type: article
-    provider:
-      name: ET Auto.com
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72474883,imgsize-77190,width-800,height-434,overlay-etauto/argo-takes-different-road-to-skirt-self-driving-challenges.jpg
-        width: 800
-        height: 434
-  - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
     sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
@@ -52,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
-        width: 700
-        height: 419
 
 secured: "X3c/fOnY+nHc3VWCw0CGzjwvAqWphgmkgGyu2L5V56fgAimloUybxvByhV9hE253m1DUHACQitqrTWBhyqny711DAtMpqGSypdwMyrcsVNRm9ehUHsUpxqk2PhRjpnYfpqDg57BmCVauCt4ljPTnGncmsi0Lhf4tTw4zz+U6YIbN+Ea5zaGJgQkB2kg0JbT9QFAmZq8AiPvSpBuhjw/N6my7jaKWpwGobPq8IO1Tgs/rSeKXYqDyC88+atAZ8dQBCJPLhyrkluvaX9dm7kfDZg==;QyWXgxoGdmlFmuqpYof6xQ=="
 ---

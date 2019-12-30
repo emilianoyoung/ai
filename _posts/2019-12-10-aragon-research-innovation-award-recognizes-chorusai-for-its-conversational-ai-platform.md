@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C94174D65DB0D88425CE052AF951FC7E
         width: 320
         height: 240
-  - title: "Machine learning can create meaningful conversations on death"
-    excerpt: "Researchers at University of Vermont have used machine learning and natural language processing (NLP) to better understand conversations about death, which could eventually help doctors improve ..."
-    publishedDateTime: 2019-12-10T03:15:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/machine-learning-can-create-meaningful-conversations-on-death/72450217
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F04550670C13A60D27DEA8FDD619F43C
-        width: 700
-        height: 379
   - title: "Machine learning can help us understand conversations about death"
     excerpt: "Researchers have used machine learning and natural language processing to better understand what end-of-life conversations look like. Borrowing techniques used to study fiction, where machine learning algorithms analyze manuscripts to identify story types, the researchers identified several common elements in these conversations. That knowledge ..."
     publishedDateTime: 2019-12-10T14:41:00Z

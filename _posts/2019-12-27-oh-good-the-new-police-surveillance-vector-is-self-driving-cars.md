@@ -80,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
+  - title: "Chinese self-driving, refrigerated truck travels across US"
+    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
+    publishedDateTime: 2019-12-30T04:39:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+        width: 700
+        height: 350
 
 secured: "j+d9ntcxIXqHnCE3NkdyKgXTaRSBn9P8hxtqWDvnte5PrpkyapDSPKAEp2GF+BOHP6dOmMve/1jSwe9XXeuDUlX2iqR5cc3KePnV5mADtFFZg3gSt7tOAHFRHf88yQOHsc7dd18B6jiqUBc+rRpLSu+YHFIo4e/Cy5fh6AQxhNPFNl3t0ItYqMzYwOv2LDits4hyRAWFjvc4kjc78JpGRKLq1qYu5WWEdloN4wqZq2dwkYYqH5EVS1Fn7Jqbsd44r2oqrnf5bekmZAKK9UQ5SQ==;eYY+dc2/rU1rrPF/gFR/3w=="
 ---

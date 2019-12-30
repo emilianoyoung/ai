@@ -36,6 +36,6 @@ related:
       domain: techcrunch.com
     quality: 101
 
-secured: "aSDYr6BVrsk7fnO4dLdb3OW11e8CoYJOfG/uGleb6JU+t8DMrcP2PczU67+mfA0hj3KLnN4v87lNw5Zk4/hhRUUL5ncuvSUiugp5gsmhNNYl6/JFIFQoiDDS62+cMIs/mbZ2BaAYFQP+UFtCLwWC9Xq7pTa5MoW228X/EYdDfO4m3iI7efXekhy5v5PyXMXTtCbPsbvOmu5+wCYfs706B6Aa03FSULTzM71snf4FkjzCe1gGJRCDM84fkn38jE/7T3y0A+qsxhHhNj/UpIV8cA==;RVi0RbQJ73UsXQ/2M7zItg=="
+secured: "APCT/ae2i0KfZIXuqVnrUa9z5cTDienfNHyRxMqboicgYxmavrg792kgWs9xAnNC+aRL5BFcC2XVRQAX/2PrKEkztDMZ/JcRkDvEnt/kTSU3FNUDQS36loTVwZww4nTE98RhsPAKSmYlxJGi8OpGZiavhvD4ek8NPVFQkBkZY9nNfjaF7te12i/Y3DbptAiQCvZVPJQZepHD3HHH4Zq2IEQ/3Bp2AXN/nw4wkwhK4pf/J7Wdni7uMJls6Jbl7ZJp2HSMXnwz6E9TQLA1+14ToQ==;ZobKYiNUi1ahFBVkCp0liA=="
 ---
 

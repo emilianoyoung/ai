@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-se
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
+  - title: "Chinese self-driving, refrigerated truck travels across US"
+    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
+    publishedDateTime: 2019-12-30T04:39:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+        width: 700
+        height: 350
 
 secured: "obHLXukQRUUoCPr690Y0TP7bLqtFZYPdrFE6snIA2QXDf6m0NgDsVsyFsx4N8OLAhtM+U2QiwkYRK7XEpui5fLXkZ6MHFXpPGd3CnvFiXsLlp4QCcBVtMu2jr6XpMtT4fmfd8uInt1vKuR/PHAPl/okTGfFCtOrpIEKinLc+PygXAZA1pdaKVcLyjhJxympu1chB85ttNyFOGbJt8tlmwKwz94wP38ccTUt3/5fm3ntwGUCXkKobirddw20iu+ruXIURYMjk01pf2bhtyY1ySg==;qJWjUsAroHM68FgLZDvqDg=="
 ---

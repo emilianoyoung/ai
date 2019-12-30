@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Microsoft proposes AI that improves when you smile"
 
-secured: "/G1mmtuAgvCIy3fUt2H279IUXH2txINsu3YZguBB0ZBrgU6WeiD3G3RDLgZgTmqkPKA4TfiYPLpKlkYyPi00vDTOZ2pZVkuPuSMEQ8b/uzz3KNrPowgamvrfsj6UIjIZ691durAq3T+xf/dnwqIEyMDJ7fJzEOC4xeKUaWRxDp27tmiwTvwd2x5Rqn+MA25uYFt00J5DsASzW1jv0B8BdR6wpENyAZwrLIg60J19FRcKCqapr+QAwNPkIwP480WNyTkJIuyV1x3wy5uwzbkCbg==;7c45ep6ArRC6V5Aq4+PBrQ=="
+secured: "lnAnXkWul9IV9RnjqV7/f8Z7cYnWxbf6oqItQ0qP8uWe82M0Px49gHXk4w+6TBEN9ryXlQOyXVzK2KAKNYmCCSFdABRXgHdW4w93V0ilPa0NPdlfWGJtTPqDqgNCrhWx6hQBM1tz8fOq2xNV/fBLOXdIfFvY0JmT8UabL2/ictI1WjP9vfIUpWRXSVoy8I2JO5Pw3xSNZYlJAw+nB04u8GkPLdc8Q8RK0lmYG2u6+3s80fToFGPewLCKrXMf6tbdnmoi47J1i/HwDAdTvPPo/g==;7yBQQkZthd1Q1TSUTKJI1A=="
 ---
 

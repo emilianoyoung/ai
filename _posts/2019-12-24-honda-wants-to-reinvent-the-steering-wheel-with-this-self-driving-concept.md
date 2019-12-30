@@ -2,25 +2,25 @@
 category: news
 title: "Honda wants to reinvent the steering wheel with this self-driving concept"
 excerpt: "Honda wants to reinvent the steering wheel. The automobile manufacturer announced on Monday that it plans to show a futuristic convertible at the Consumer Electronics Show in Las Vegas in a few weeks. Ahead of the concept's official unveiling, Honda shared images and a few details about the round-edged ride to get people excited. One of ..."
-publishedDateTime: 2019-12-24T05:04:00Z
-sourceUrl: https://www.usatoday.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
-ampUrl: https://amp.usatoday.com/amp/2735603001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2735603001
+publishedDateTime: 2019-12-24T05:14:00Z
+sourceUrl: https://www.jsonline.com/story/money/cars/2019/12/24/honda-envisions-crazy-steering-wheel-also-controls-throttle/2735603001/
+ampUrl: https://amp.jsonline.com/amp/2735603001
+cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2735603001
 type: article
 quality: 43
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Milwaukee Journal Sentinel
+  domain: jsonline.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.F23670FFDD276C9E6243F0884672CFCC
+  - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
     width: 700
     height: 394
     title: "Honda wants to reinvent the steering wheel with this self-driving concept"
@@ -458,6 +458,6 @@ related:
       domain: japantoday.com
     quality: 0
 
-secured: "Ad/bCOGZ4+YA8mQi16jhWKL151I85zKMkRjFFmLvP4DnYpZsXwhp77x/h7Fc/G5uSI+KdKZJDF3xDI/tOpV9CsEAuI4NWinG0ctr/kLjr/oxhRDPzayQUj7VekziQ6T3CRJyb9A2JznWKlpeH+qb61uaOmvPGLIHGWKNuNAwKq4qFedexFx/ObqZ3xfaMqL4drM3biqsTxF4YyXVpnFZSbHWtnbd9PDBipqhuKXphWEgeWHndcHu8FJZXH+YwpsDuuCVem7dvkdwNgxxZj8M9g==;o0y1R0tfHCWE2tAjouQ+Bw=="
+secured: "pOQA0+JBTT0SW6xO+7BV3xlZyun7vkWx3tSCDYb+SdiGcQ4/t0tJvYX0TO24Q0awktK04g/orPAD7FwZSVyCq+8GkDad4JZztD213W6tffy1zA98IMf6mTvUaFBaGjbz4+rx1qP2aIRVHXxs6sNA3O4kZzPVg6pknWO1ye9ajlTqyIUDhurnv6nyGdC9I7N+YHDC0i3TqIhsCXHhmfdsG1uxqYp1h4KJSPKaSfUJo9YxmgWHrGWzYQ7cSeptV/yj9uTdy5ElsWgCgE7jvqyP5w==;EQyOt7+b49wEmOaK0986ng=="
 ---
 
