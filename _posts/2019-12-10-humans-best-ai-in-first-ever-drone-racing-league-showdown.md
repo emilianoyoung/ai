@@ -55,15 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.904BBAB967243974BE0DF32668A8F65B
         width: 700
         height: 367
-  - title: "Team MAVLab’s Robot Drone Wins DRL’s AI Racing Series and $1 Million Prize"
-    excerpt: "Team MAVLab won the Drone Racing League’s inaugural Artificial Intelligence Robotic Racing circuit on Friday ... Kocher finished the course five seconds faster than MAVLab’s robot-operated challenger, showing that, for now, humans still hold an edge over machines. “We are incredibly excited for Team MAVLab, who designed the winning ..."
-    publishedDateTime: 2019-12-10T08:08:00Z
-    sourceUrl: https://www.sporttechie.com/team-mavlab-robot-drone-wins-drl-ai-racing-series
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 32
 
 secured: "9KOcz/fJqV414JHV+Z4FV0gvhqjvpCkJUqUtO4c0FaBQkB3+Mm6mOI+GQe7AWoXjPN0r9qHUAHdWf9Z7CoFUrnj90B4H2riJ0gOD9n4E5O9mPDGbuUz7H1O53iSCZmIBxYWsBM+Iu6DIt2F5pGDX8Gg/6sIvXEkBxfYisNjs4MwQuWa4pckNf9X+CXQa3y9wZEWjFM5vvW37mdo1Mad6kg2UyoPzeLyEAFjyOt1Mtd42x2tJxJbhDGBmQNuiiGx9XcPRpBzCox3ikmypT9p77w==;a8EmJL+LpPxIg6BrKHXLBA=="
 ---

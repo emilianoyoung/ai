@@ -37,7 +37,20 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 41
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
-secured: "laKjkchlIVBFVkI57EnO7HEoHpST6GgzGPqI/UmB7UYTMCrcvi0izSKfDimC9f6FvDANiI2z6xn0VsM6n1ZJ58AQL8Nh5ti423jaWHOf80G2kE1NIqyGuNr1ZfyIajITWXTtjZiAYU9QmELsSMvaBrB74CTTkZUuo8lbfxbBxkrUZfC75gd6/QUKt9Ao7l7XIvaGx2QwvPaSpGjaUQdr7ITkPs5Uwrtsl8mwCxr24ml1MX7jPBHBqwoOpaNyGABUG4SdwmqkzAsFGj7Cti0zzA==;zjYH3ONENkZo/AtEC+Yy4A=="
+secured: "NxNU9MYcy6Cnhc1j7pzSub/Xo6xf6CcbunSm9x7Wl5rvy3duSXIOTes6+2AAGFx2KH2m85JrlSXzenYcDYv0Edw6i6QFU8XXuTrL3zJICY3wynVzPQl7xbClKG8u2Cz4OH5R/gtiNtNdN3i2Zd58mkhLSEwjI+scDMu+pQVGWvdq/s11ubpLCXeuxAQxJWy4ERMCpxozuTz9jGTBNJoF/1ZBBJpWNm88zFwl2HPlCjnYE+HRQKR8d+Z70oJRBL/NniFBDZHt89luPI3z09mrwg==;CBG59HV3A1aYcEgl9yLzrA=="
 ---
 

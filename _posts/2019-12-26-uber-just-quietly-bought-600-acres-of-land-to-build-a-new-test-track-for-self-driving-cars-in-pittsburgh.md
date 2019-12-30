@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
         width: 700
         height: 393
+  - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
+    publishedDateTime: 2019-12-30T09:42:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
+        width: 600
+        height: 315
 
 secured: "Z5L9DbljeXTfVUU1fxO1uxuti/5c1Jcx+c1RlajtyAuG7aFtv8gDdO+i29CTrxlBw4fLolViALGOpusLsEsHhnH3ESHr3x8HBEC+0uPmyuKYus+CPF60dktfLFkZtTz2Zobqt72GjVTFEVnGk8uXO0FP4F4Tz97bpp8JH8aUqy7CGf5LMQK+zAwmh8it1uAAYgZBRKt7pL/vq99PmLeHx0GuKNI5EkZfFrhrxr6e34I8jLW7Z0YMs4zc2MO7BGaCW0fFxxSnmc2+aTLyc8WYWw==;xXteDtvAr/dL83TGEnpXGQ=="
 ---

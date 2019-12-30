@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T14:00:00Z
 sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CD259D4068B2D6781860AAC33722A53C
         width: 700
         height: 437
+  - title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
+    excerpt: "Waymo has acquired Latent Logic, a business set up by Oxford academics which builds highly-realistic simulations of roads and cars that can be used to train artificial intelligence software for driverless vehicles. Its technology, known as “imitation ..."
+    publishedDateTime: 2019-12-12T14:05:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 49
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/technology/2019/05/07/TELEMMGLPICT000195539538-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=1200
+        width: 1280
+        height: 799
 
 secured: "GZyL7YPjuaxZCpXoOKCIY745mApz45+uLbqU9LwNKPpO5TPbFWnMdJ0P2Dsze4zpYkPfCa32j4wb3ZqPjgnSmNczZF++Xn51tM1SodfUqro/8EbDeAKo7ISo4E1ijw81EKXifmaovf6AG6ZMKJ+QX4Eodn2XosteA0NgvyASOIti66dUChZ4lqav+MlXqXc/Hc6PdaZe9Rw36TkUOvc1j46Mjqoh0h15Qnc1WwcJ93ipdNX82oTrjs4PhzOiL9bpgUx00/nR1Tpl6YYVm9nFAw==;iQ+1PNOSOX3QhtJyU0zwNg=="
 ---

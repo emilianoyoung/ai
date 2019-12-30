@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-it
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
-quality: 84
-heat: 84
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - AI
   - Google AI
 
-secured: "plaOLMSFtfkYPHPK3zAXz6dK7WsK08IyXtr1ex8s5Vl++u6Ry1wAQvtniDn3p2ePhyfcNdjefgUA6wvZlZb1+q3wFKzQre6/SaNxrhj0sp4Onwhq8saqGT3oJG5Td2MX3sQ6oGaA7tL6SbQmQVOTYuNMGVdGKvqu1n+dJvFPQE6Ob4AV2YpwI6R2Dg9fs6F3leLJteSixaM2/xOspPHwCzW5dxvrympfXHtrj9OAtwYviQfkIKcMIFF5lgI+93zAAesAlMTcRI3Sd1srR98VwA==;o0lTxp4SQx3WDZnxWUkBsw=="
+images:
+  - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
+    width: 700
+    height: 525
+    title: "Google DeepMind gamifies memory with its latest AI work"
+
+secured: "PbFXMlEgq3Zw1E6e2xXIUSSrV+MaEmMoWbQ+sJd26fboXUuirSVBkUWWHAZXSP0ywL+5q3BlKVBvyaNl5WzHS4s51HMJvaH4P1UA+SVLCE1kuDNXWW5qmlsnD9S14REPDU/0twpTGVIgLEDP1G5F/MGqFe7mVEo2JjABEYiY2xjUkzpxNleVba/OUHMnYYA8s6sdKX6w9d9kxx+HIF7dlxdwtRIYIEJ2TuM7AZ/HJE5ABmnZwocW6SkVWTEYnnuXS9hsnBurP9G6LjyHi6jTEw==;Ew0z1PFMzkD5X+TBz6eXAw=="
 ---
 

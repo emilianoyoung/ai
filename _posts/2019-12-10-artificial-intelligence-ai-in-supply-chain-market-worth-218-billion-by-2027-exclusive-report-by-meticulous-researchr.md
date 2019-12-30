@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-10T10:59:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-market-worth-218-billion-by-2027--exclusive-report-by-meticulous-researchr-2019-12-10
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research(R)"
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market to Reach $2,015.7 Million by 2024"
+    excerpt: "FREMONT, California, Dec. 5, 2019 /PRNewswire/ -- According to a new market intelligence report by BIS Research titled 'Global Artificial Intelligence (AI) in Agriculture Market − Analysis and Forecast, 2019-2024', the artificial intelligence in ..."
+    publishedDateTime: 2019-12-05T11:36:00Z
+    sourceUrl: https://www.prnewswire.co.uk/news-releases/global-artificial-intelligence-ai-in-agriculture-market-to-reach-2-015-7-million-by-2024-830965977.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 44
+    images:
+      - url: http://mma.prnewswire.com/media/495163/BIS_Research_Logo.jpg?p=facebook
+        width: 1447
+        height: 757
   - title: "Artificial Intelligence (AI) in Supply Chain Market Worth $21.8 billion by 2027- Exclusive Report by Meticulous Research®"
     excerpt: "London, Dec. 10, 2019 (GLOBE NEWSWIRE) -- According to a new market research report \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions), Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), & End User - Global Forecast to 2027 ..."
     publishedDateTime: 2019-12-10T10:59:00Z

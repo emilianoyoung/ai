@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.com/news/amp/technology-50726399
 cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50726399
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.904BBAB967243974BE0DF32668A8F65B
         width: 700
         height: 367
-  - title: "Team MAVLab’s Robot Drone Wins DRL’s AI Racing Series and $1 Million Prize"
-    excerpt: "Team MAVLab won the Drone Racing League’s inaugural Artificial Intelligence Robotic Racing circuit on Friday ... Kocher finished the course five seconds faster than MAVLab’s robot-operated challenger, showing that, for now, humans still hold an edge over machines. “We are incredibly excited for Team MAVLab, who designed the winning ..."
-    publishedDateTime: 2019-12-10T08:08:00Z
-    sourceUrl: https://www.sporttechie.com/team-mavlab-robot-drone-wins-drl-ai-racing-series
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 32
 
 secured: "tMOlIGHrNBQYRyXR/psl6PLFt1MCWF8bl6KlDoSNGAEPv3GgjW0FaJamUkr+8Xqd9yHHSK5NgJRR5LfwXPVn2x03R5cNeQEUYp+e/nNvqf14FCGtV84S/cDlsM7XKKRURRH7Tpi4mHoAqK4eQjlBbAxwncM/B9wGi6mJW6x0TIG+ZE+0y7EQjBlTqvc3o+a8SEowRb9l5MEQwZ80pIWeZPem40QQhQ1LMJkXitlR5xijGp75bUHby3GyBcP0Wxb6N6JV3ME//9V72DsLuT06Ig==;eqQQCul+hnyM2J7Q4UpokA=="
 ---

@@ -83,18 +83,16 @@ related:
       domain: benzinga.com
     quality: 30
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T20:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Yahoo Finance
+      domain: yahoo.com
     quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
     publishedDateTime: 2019-12-13T18:34:00Z
@@ -109,6 +107,6 @@ related:
         width: 700
         height: 450
 
-secured: "fFxhVl9nSXCtMFSmsrFyRGNGXDpBu//IU8coNAtsflcz5gIoWETFkSQ+YD8xwL9d8kH8zRXGk0vzoJ1LsxmFC24KHPqC5gNjB3W/9Fuu6LI0qVgFICpTYYlI2PFlSP9GkCaQKLLskCBR7922I0xcBf08FTJti6gqXpXeK4KWBeFPSw2x/eOqVVx1S+yrqZO4m9qlHgoyg4P33NXwM3nIK0ebN2RorYQbv//qfKi+xOkEe80yEVC990RAItTnxJsZRWVxjD9ZFqH/Mx8hfNe4Xg==;aC2NVB1DFwDx4ivF4HdI7g=="
+secured: "twFWX5B9zGm1ujsExRD/o98qeJXUNVdyb9K7lPemUS4LPqGNWPDmrB+LDIO3cDPCpBp/M4hmXu0/C2IUqxc7jgh58Z0+dyl7HG/d5orNd+XrP/yPWwvJeVt2CCZ/tG+KE6dx552LO/ZpWXW4RpUabsRYUpFMJfyu7Uaw4Z+Ro9eLb1Jgvy582jyp86ZL3gDO83cyEjFQm7j1xkWJlmHNn1ZXI8bGZx3CawwikK/5ECQR4egSd+d9gi1mj0cs0PXVVgv5AngwJd3bnvDzvQXkiA==;sk7cdZvTCPzmtdH6IqvCZg=="
 ---
 

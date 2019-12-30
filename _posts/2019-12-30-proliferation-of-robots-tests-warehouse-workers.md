@@ -36,18 +36,18 @@ related:
         width: 600
         height: 337
   - title: "As robots take over warehousing, workers pushed to adapt"
-    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
     publishedDateTime: 2019-12-30T05:24:00Z
-    sourceUrl: https://abcnews.go.com/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-    ampUrl: https://abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
-    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/robots-warehousing-workers-pushed-adapt-67978264
+    sourceUrl: https://abcnews.go.com/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
+    ampUrl: https://abcnews.go.com/amp/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/robots-warehousing-workers-pushed-adapt-67977344
     type: article
     provider:
       name: ABC
       domain: go.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C9ECC5480A6680F295C6777676805F1F
+      - url: https://www.bing.com/th?id=ON.27D1B64AF698002342249322A9288C49
         width: 700
         height: 393
 

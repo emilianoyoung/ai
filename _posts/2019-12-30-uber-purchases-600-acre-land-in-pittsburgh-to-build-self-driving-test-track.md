@@ -1,23 +1,27 @@
 ---
 category: news
-title: "Uber buys parcel near Pittsburgh for self-driving test track"
-excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
-publishedDateTime: 2019-12-27T15:39:00Z
-sourceUrl: https://www.kansas.com/news/business/article238754273.html
-ampUrl: https://amp.kansas.com/news/business/article238754273.html
-cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
+excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
+publishedDateTime: 2019-12-30T09:42:00Z
+sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
 type: article
-quality: 24
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: News18 on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
+    width: 600
+    height: 315
+    title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
 
 related:
   - title: "Uber buys $9.5M parcel near Pittsburgh for self-driving test track"
@@ -63,6 +67,17 @@ related:
       - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
         width: 700
         height: 350
+  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
+    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
+    publishedDateTime: 2019-12-27T15:39:00Z
+    sourceUrl: https://www.kansas.com/news/business/article238754273.html
+    ampUrl: https://amp.kansas.com/news/business/article238754273.html
+    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
   - title: "Uber will build a self-driving test track in the Pittsburgh area"
     excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
     publishedDateTime: 2019-12-27T12:53:00Z
@@ -76,20 +91,7 @@ related:
       - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
         width: 700
         height: 393
-  - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
-    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
-    publishedDateTime: 2019-12-30T09:42:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
-    type: article
-    provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
-        width: 600
-        height: 315
 
-secured: "3Jt0V5iMAbkda6duRpaSckffUoUTlVK5KqK+T8/QskKufaCDqcFePUP97IC8DMsaQ1Zhibh3SVFiclCwfkYZ0rSAaAhmyjZHPV9eomyfZ0UTgYG5RXSM0rA5wzJcQhC2QB/zU+Ab/JfPb2OvmQQrQjEZ5veLIB/F8zU3ZeZCjHb+/n541xMIO1T0V+cbJqi+5Q3XyLzHM8t5fuXe5g0JlI3EY3tab3hvLyRVmy1NLw9WGfHqwQYnuR39EcpWafzjGL8as2DJp1/ENIDNlC96BA==;MZKB8FnU363kKNIT7sLefw=="
+secured: "+VVzpLpZRiWz0b+bpfaaB+8yqooKzk0IrmE75QWUSIU/DzgPWKv4FXk0UUoAeHqbE+DVCl0n/5g0LB6RYkPE4SI9pB8/Iy+r07W1SzOcnYoqA4II4kjYBS5zMXD/fVP6AK964oWs46cq8zvwl4dVlGlUoiFd+CpOT+CyzKmIS1bon6gXiknB528kbQPIYay5NusoqjhVO2jkpwxgmq2QKRQ59ienncI10UUwKhrsmz5yIETy6gEJREI/MDb7rkhUgZCm4hC6IvwpgyP5QioaZQ==;Wxp3OU+CVe5ZeeOjIRGarg=="
 ---
 

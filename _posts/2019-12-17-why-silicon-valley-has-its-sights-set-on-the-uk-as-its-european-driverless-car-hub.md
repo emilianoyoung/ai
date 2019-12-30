@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.539669ECD49CD5F0AC27E89764B1B7D3
         width: 700
         height: 436
+  - title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
+    excerpt: "Waymo has acquired Latent Logic, a business set up by Oxford academics which builds highly-realistic simulations of roads and cars that can be used to train artificial intelligence software for driverless vehicles. Its technology, known as “imitation ..."
+    publishedDateTime: 2019-12-12T14:05:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 49
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/technology/2019/05/07/TELEMMGLPICT000195539538-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=1200
+        width: 1280
+        height: 799
 
 secured: "tcnVyvZe3BfpfEyhWrQd8h/xXtEM0KbiIXOQUWWztvcB0Xee2xO1AcBAYtkGHQ/IttE77vuILsHdC6cBguVBeDK8TyCTMszXhF8dT6A2hacI7m1WvHV4O5BHJMW9orinMJOiRADm+rg7ZhHuTtNGt4oq/BSPaRit17NCQDudLQHNwTKWS6ALm0zf9N9XK8LYCzQGHB/gy+/XwVytoQO34oxqDj7Dt6OxZ6gblTNJbDom7u0pA9IfUNJHIHQodhMBsgkEoZVZpnDZkhp8J5e7BQ==;nX16hWP0zoBlGhFZ1Uu7qA=="
 ---

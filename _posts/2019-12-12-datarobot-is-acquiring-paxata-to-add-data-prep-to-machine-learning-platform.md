@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/12/datarobot-to-acquire-data-prep-startup
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/12/datarobot-to-acquire-data-prep-startup-paxata/amp/
 type: article
 quality: 187
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -60,19 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BD27E58EF371FED0DA94822F19B959AF
         width: 700
         height: 525
-  - title: "The Chinese startup using AI to keep sensitive data confidential"
-    excerpt: "Data security startup DataCloak is using artificial intelligence (AI) and “zero-trust” computing to give companies greater control over their sensitive information to combat internal and external threats. The backstory: Founded in early 2018 by a former senior director and engineers from search giant Baidu, DataCloak provides solutions to ..."
-    publishedDateTime: 2019-12-10T08:56:00Z
-    sourceUrl: https://technode.com/2019/12/10/datacloak-ai-startup-security/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8CE9695F46215651644803580D80B253
-        width: 700
-        height: 466
   - title: "Why DataRobot Acquired Paxata"
     excerpt: "As companies are looking to imbibe intelligence, many AutoML providers such as H20.ai, Azure AutoML, among others, are striving to take the lead in the landscape. Thus, DataRobot is quickly acquiring various companies to deliver a solution that will streamline the complete AI workflows. In 2017, DataRobot acquired Nutonian, an AI-powered ..."
     publishedDateTime: 2019-12-18T08:45:00Z

@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
 type: article
 quality: 147
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EF496B372EE2043CF8F4651689EF8A88
         width: 700
         height: 525
-  - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
-    excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
-    publishedDateTime: 2019-12-10T08:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-size-share-industry-trends-opportunities-business-revenue-forecast-and-growth-prospective-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "MEHgD6blj62/YXrXVdX7VhJYO//FYFbpdiN/vvrwS9j+iie/QnmesareO4g8GUauHxxW9k924fueH4N6ciUuJtJHquOXvS/ysj8/hNuUsXYuvZqtOvTmUwulS7DnjnoEccEFgt45Suh0B/HoecmEG3DR1JCQIdiU2eiGkMYzpJzidyiNc45u2Mk5P9l33xtK65S4A3N7U0o7m4Cxb1k2NoMmiHDdYHh+D7radHxSjaUHclbD5bRIuLO7+lcOFe7/Nf1w8rntTUYMEC9VRt/qgg==;tMlEgINW2FkUaLqd69k9jg=="
 ---

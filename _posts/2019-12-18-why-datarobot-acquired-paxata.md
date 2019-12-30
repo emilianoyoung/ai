@@ -70,19 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BD27E58EF371FED0DA94822F19B959AF
         width: 700
         height: 525
-  - title: "The Chinese startup using AI to keep sensitive data confidential"
-    excerpt: "Data security startup DataCloak is using artificial intelligence (AI) and “zero-trust” computing to give companies greater control over their sensitive information to combat internal and external threats. The backstory: Founded in early 2018 by a former senior director and engineers from search giant Baidu, DataCloak provides solutions to ..."
-    publishedDateTime: 2019-12-10T08:56:00Z
-    sourceUrl: https://technode.com/2019/12/10/datacloak-ai-startup-security/
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8CE9695F46215651644803580D80B253
-        width: 700
-        height: 466
   - title: "Why DataRobot Is Buying Paxata"
     excerpt: "DataRobot, a company that is known for creating automated machine learning models known as AutoML, announced it is buying Paxata. These are the details about the deal. DataRobot — a company that is best known for creating automated machine learning ..."
     publishedDateTime: 2019-12-16T20:49:00Z

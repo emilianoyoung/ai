@@ -1,27 +1,23 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-publishedDateTime: 2019-12-05T20:58:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+publishedDateTime: 2019-12-05T20:42:00Z
+sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-    width: 1200
-    height: 627
-    title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
 
 related:
   - title: "Building an AR/AI vehicle manual using Amazon Sumerian and Amazon Lex"
@@ -105,6 +101,6 @@ related:
         width: 700
         height: 450
 
-secured: "cv0NldYlhCNkep6t6bEeZnB3QyIssGCnIsv6WWuxUAIx6nwEsSLzZTGlhqaV0BwqjcLZEIGAnMuH20ATHsV0ULEkjiy0VE4JR7nyHOTN5B9vTFih6wozFeyZ3+n8/77T7RfiwefRhOUPuiMJjkiBwezbqGNn24QG468+XaEtrZh+QooXDOkYThWRASqdqMGGagt/cjgXC3v56CIfIEeLLQNaz+KYlWH2+CvnTFULXMC13OETMh0Mc6JczySYEM1xKvDcFGK3IT00BPbvUNMFQw==;fXFIhFFRghh+EdoLwe+tbA=="
+secured: "Q0sdeOlQneDxCxpQJttzBlcKgb+fd53rOy82pU+A9I33QmUr0P2yCf/sdq5+4HOZYKh5PCHer6lKTDUynET6/CMmhmFzTPvca4aUN4owGejp2kAB6O7r8rrqUPM+PTPoe/zMsZ/MoJcs9XP4YWWsXn8E9zpZeB001MrdS0g4w1omtjfU9VU8H2V/VehhZYTec3CsmQwhBxQiFvDNdMyuAmDKaP6IqgXBayvtKo59AbHCH2m+Oe+dLpuvtponGZBl6Yg3XVKPeFbC/3B08GNcew==;3A5700FPyEEsvroopMx6Bg=="
 ---
 

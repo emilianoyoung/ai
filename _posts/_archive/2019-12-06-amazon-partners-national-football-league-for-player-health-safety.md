@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -35,7 +35,20 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
+  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
+    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
+    publishedDateTime: 2019-12-06T13:45:00Z
+    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 41
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
 
-secured: "3MW9yLmpOnntpGGcjQF255+C933aVOsR5dSjBfnuVIZsgeF/fNrSG48W2czfY7SRXtkuAe90DJqNRS8QdXIp7036Ycjtv74rHWJNOMya6xZ3Hkbm+VudzdK8EvFtD8VqI2mpGEaIXo55Z8e+dZioIQhb7HDCr+RNqJl/Y/BJW19GXfyygVP9FEe2rjLlrl+AQoqBLtgS+FInG8XiNxV7QrRd6O9ZQv16uxtGGmW8RFloXkkWL1j+78ATn6Ayqb+VNVoUnliVk8tnH94ui149Gg==;xi4mOGIB3CElCO8NTPNfdA=="
+secured: "GhfJ3OXDmDf8qxV9dGE9JhBo608poXl2zqgEtpzXlIbPrPifPqBNf6YRgk+SXf25+DvKaf2Wj6URq+JYeljs8ggQ+AZzgeTcYv25qb+qdaXEputdpQoF//hTr3xk+Z2VkMVK48CPFgyEtzR9Mqbamd+ZDS9x6Kict9pS4QG+edATG8DHysDqDaw/LIuxfg4i6Fy6Hvdg+MCJzeA9aNFQT5EvexP+vrOZc6vI1RxW19VLH8Sl8wFtwYhwKQlN5rNCwGYP3OGTTYvnZJqbQPCrDg==;sWlQblod69FtfyItqGA+4A=="
 ---
 

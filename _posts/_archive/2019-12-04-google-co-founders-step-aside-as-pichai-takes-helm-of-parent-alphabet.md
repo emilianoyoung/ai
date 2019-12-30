@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
-excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to make web searching ... which owns more than a dozen companies including self-driving car business Waymo and health care software company Verily, was created ..."
-publishedDateTime: 2019-12-04T02:56:00Z
-sourceUrl: https://tech.economictimes.indiatimes.com/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
-ampUrl: https://tech.economictimes.indiatimes.com/amp/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
-cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
+excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
+publishedDateTime: 2019-12-04T03:03:00Z
+sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
-  name: tech.economictimes.indiatimes.com
+  name: ETCIO.com
   domain: indiatimes.com
 
 topics:
@@ -20,26 +20,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://etimg.etb2bimg.com/thumb/msid-72358327,imgsize-232067,width-800,height-434,overlay-ettech/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
+  - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
     width: 800
     height: 434
     title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
-related:
-  - title: "Chennai man Sundar Pichai appointed CEO to Alphabet Inc"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
-    publishedDateTime: 2019-12-04T11:28:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/041219/chennai-man-sundar-pichai-appointed-ceo-to-alphabet-inc.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 39
-    images:
-      - url: https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-voqfdltfg3i410aaa7tbavr7c5-20170501163249.Medi.jpeg
-        width: 800
-        height: 448
-
-secured: "Z3/QrVryyJEKn/NUfwt6dBD0AtVRmRm7fNB9d8NDSsibDPgym1zDPboONT+S0JUHcx5hc4ZSBjM6ETsKRk4CnMnNiKB8MoxGHHX3wCMrDG8GQzZ0I5HfHTOEXxZ2G3e0HKkg99xr5Euuq+zMgcZ3psgz4wE8M8S96GZ3PzeOnLAurgVnIB1WBlF/MV0GsZGehR00h3iT4NGaO9uv9Xb5ydifmWtbXP8Ju07C0G0eoXWCIYQsoMe0LFLO1t4u+QhE3N0aB3ICuOtMy+S+li3Q0Q==;66WP6lgqs5FgW3zFXsgzgw=="
+secured: "8QepHotWVgSemDuDvNSiupAnI66rw3qBICbuf/6eaKm+TE9A7s0vyYb56Q2tFP8X6XU0oDXiWESgC6w4JewRzI4VjKayHCsnlZEBqjrsU/E1ejYWuP5l+G51jIiNzF+tLOqtJe+XR/VuEzVXyI/anj0nrR7qzy6hmOmcgzTteBfH/7uukMHYkAzx+xX/eSNUs+geGwc7/g91ZCX5J+cgm6w46PhbQW4JOhb5eCEcli7S9vtXh4spYuQkF96ogeCuimx7PDw4RguvpVpSpcx5Uw==;5q8Xs5QFe3hI/fAtRdFr6w=="
 ---
 
