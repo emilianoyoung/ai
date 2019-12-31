@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T17:28:00Z
 sourceUrl: https://winbuzzer.com/2019/12/12/microsofts-fastspeech-vastly-improves-text-to-speech-technology-xcxwbn/
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 700
     height: 526
     title: "Microsoft’s FastSpeech Vastly Improves Text-to-Speech Technology"
-
-related:
-  - title: "Microsoft’s FastSpeech AI speeds up realistic voices generation"
-    excerpt: "State-of-the-art text-to-speech models can produce snippets that sound nearly human-like on first listen. In point of fact, they underpin the neural voices available through Google Assistant, as well as the newscaster voice that recently came to Alexa and Amazon’s Polly service. But because most of the models share the same synthesis ..."
-    publishedDateTime: 2019-12-11T19:35:00Z
-    sourceUrl: https://venturebeat.com/2019/12/11/microsofts-fastspeech-ai-speeds-up-realistic-voices-generation/
-    ampUrl: https://venturebeat.com/2019/12/11/microsofts-fastspeech-ai-speeds-up-realistic-voices-generation/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/microsofts-fastspeech-ai-speeds-up-realistic-voices-generation/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.777CFFB7B4B5DB2CA0DCE98D377ADDF0
-        width: 700
-        height: 350
 
 secured: "3gn0xHizI/SLKqd+RLrsdt14ihi1uzN9e5rYIqvoiQObf8rauOEy8Wr2HlZD1D+6uvXqBK03nvHuXQU6QXuS88qHIQXc+TAV1fmIGX/4M/UXa2s9K67sY4UUZD4S4/O2HHIyy63fjyw9cVd8YwwRXgu4B+H3Xz+revHIOaZu75xJTRMsClKce0oZwFky3Rbwxw7aTGB/rit00cijj+oQqygsnypMNgnP/n7QptCp871h4XIpf8CIjhyUeLFEVphpbu5t2Bwat+bA9LFtG2a56g==;AusdgHs9kMoA5MJZvAPhYQ=="
 ---

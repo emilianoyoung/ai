@@ -28,6 +28,6 @@ images:
     height: 710
     title: "Chinese state media’s latest innovation is an AI female news anchor"
 
-secured: "HM+3T41H5rrCo6KunkpvIX7I9SrykJbVNtI8BeqprOKa8qn5ov9Kr1lUANIAdX9uimf6uBR1CmS0mAN7tCo2VuMqp8lE8LdJg3dONO1kzaaXUYj4CjnWVhOkcBb41VG4wMFvHNg0MzFmjYATeuFq/IneCyz+ifwjI09xuQzz1mju0uroOF/mA5Wlxo2gNqYxjevjDh7QOd3Z5OeC66Bj9FWGG2c/G8XmlvWsIQ1TKamBiwcBsbJzYk3ipQthtyd+e6Kf0gOjLiSYj3TWWqYkbg==;abYXctlN31AlqbO2g9yGUA=="
+secured: "sd2DpnfTedBCY2XAcRw6gydKsLZggr2yqMDAZBYwzXGJ6+8LJStJXQbcceyQW3Hij9mr0baFrO0oKzCYTnrZy69CtFai2HF4yi10n2tL3bWykfu2c7LN2x+MAnnE796pPHtwfMaxc5jmLdWYqU3+nqwDgof6rn3E6TZJ2Mpzk9ZiDZB29yTSidtQFNRyZhlv5Gxj0xnfJ+D6PmTg/fC/QyjTgQRF6bj0ZSiZ9J7aSibaYo2LgekwSZWmsaFZ5noNfftXXW5O77LasqZ/xSHqoA==;IbKZ37y4dfhr3N7K+0SR0g=="
 ---
 

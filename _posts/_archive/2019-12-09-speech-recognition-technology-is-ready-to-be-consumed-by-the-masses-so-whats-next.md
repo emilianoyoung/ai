@@ -314,21 +314,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
         width: 457
         height: 305
-  - title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
-    excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
-    publishedDateTime: 2019-12-11T19:51:00Z
-    sourceUrl: https://patch.com/washington/across-wa/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    ampUrl: https://patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.3D96A573111126F1F82745CDFA8FBBE8
-        width: 700
-        height: 525
   - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
     excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
     publishedDateTime: 2019-12-14T13:00:00Z
@@ -1543,6 +1528,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "pnlbLj4K582W+Pm1HaSFBR09XWNdFzQQoqM+XUNh9jKFs1joEVFjaOkxjn3wF8wDV1FEAHIauGrTVbvhJkXELVvLuOOBGyJbh/KaluFcrxW1t62b+R80GIrwkT7JeVXvchwYq6HvkisIOINgtbALeQgTaya1z9jdOZpM57DbHWp4/sGBZRQh0r+phQUbNjZODP63MG1hmyx/jhPZMgUkBFLck+TiqVKqWAiAhuzig2ISxP6z/p+sKs577Gzk4aN4r1TrdZR5SdwlqbCqcDOwzw==;NtWgyLkFUx2JcFlBVZSwDg=="
+secured: "KdAu4DUOb+8bRPfbGVkpyOdz2Wrnylji5rJMeq++yI77eaMOvFU9Z+wZgSWUnPnBOHuUQTe4ENeGcIF9RjD5EsT+RuI8lQPdtsfy8r00OS3TYlA7Ey+IqqmtHxLOWKR048YS68x95skpRFZXygyQG92rvc8uVFg3IkSxErAz1H8wp8kn4Pfbrc2pEWphowtr2FalK7wbQEQgT14OXTBOIFNmRE2Ys8ZRwK6oS5dWcniqwcxg2MpwQywTguNU8y41zg2bbEJdIqsMIS64FPNQ9Q==;88J3wSEqGUV3DNcAJXEATg=="
 ---
 

@@ -1,58 +1,58 @@
 ---
 category: news
-title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
-excerpt: "00 IST Nvidia Corp on Wednesday said it has won a series of deals in which some of China's biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its chips ..."
-publishedDateTime: 2019-12-18T16:30:00Z
-sourceUrl: https://telecom.economictimes.indiatimes.com/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
-ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
-cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72874734
+title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
+excerpt: "(Reuters) - Nvidia Corp on Wednesday said it has won a series of deals in which some of China's biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its ..."
+publishedDateTime: 2019-12-18T04:09:00Z
+sourceUrl: https://www.nytimes.com/reuters/2019/12/17/business/17reuters-nvidia-china.html
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://etimg.etb2bimg.com/thumb/msid-72874734,imgsize-24228,width-800,height-434,overlay-ettelecom/nvidia-touts-chip-deals-with-china-s-alibaba-baidu-and-didi.jpg
-    width: 800
-    height: 434
-    title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Nvidia Touts Chip Deals With China's Alibaba, Baidu and Didi"
 
 related:
-  - title: "NVIDIA CEO unveils new slate of AI partnerships at Chinese conference"
-    excerpt: "During his keynote address during the GPU Technology Conference in Suzhou ... Alibaba's director of heterogeneous computing, Lingjie Xu, said: \"We deploy state-of-the-art AI technology at massive scale using the NVIDIA accelerated computing platform. The platform's intuitive search capabilities and reliable recommendations allow us to support ..."
-    publishedDateTime: 2019-12-18T18:39:00Z
-    sourceUrl: https://www.techrepublic.com/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
+  - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
+    excerpt: "Nvidia shares are set to open at a fresh all-time high Wednesday after unveiling three key chip deals with some of China's biggest tech giants. “Developing safe autonomous vehicles requires end-to-end AI, in the cloud and in the car,” said Nvidia's Rishi Dhall. “Nvidia AI will enable DiDi to develop safer, more efficient transportation ..."
+    publishedDateTime: 2019-12-18T11:51:00Z
+    sourceUrl: https://www.thestreet.com/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
+    ampUrl: https://www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
+    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-  - title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
-    excerpt: "11 IST Nvidia Corp on Wednesday said it has won a series of deals in which some of China's biggest technology companies are using its chips to make product recommendations and to develop self-driving vehicles. Nvidia told reporters that e-commerce giant Alibaba Group Holding Ltd and search engine provider Baidu Inc have started using its chips ..."
-    publishedDateTime: 2019-12-19T06:41:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72879688
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72879688
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72879688
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 46
+  - title: "Nvidia secures chip deal with Didi Chuxing"
+    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
+    publishedDateTime: 2019-12-18T16:58:00Z
+    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72879688,imgsize-24228,width-800,height-434,overlay-etcio/nvidia-touts-chip-deals-with-china-s-alibaba-baidu-and-didi.jpg
+      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
         width: 800
-        height: 434
+        height: 600
 
-secured: "SyXD1IcHotlNg7o2XRBQ+pmoeO3NLaPeg0tTHxQmogV+oyZNT3zOu3diVFH16tOP4XiuVQZUQNQ+Nx9Z8HHoCL+1XMdjMcvFmIEKarVB5pnk1KA+Tm7RY3PBJlW821T1Y3PGXC0tx+XFugfuFCD0FKrOoMuUFHTPMd+tJeUqgYJJYiNNWtiKbPs+JbijvQbm+2p90YXbIMv7A9XFZjUGlx/IuV27A8MSVBft0lNYoNQqHe4cP0Ja7aeVDFL2b3ijO+Q7kJQ1JmEmBxzPteEz+Q==;HVasMxan3wxj2ScgMirKWQ=="
+secured: "RrM9oT49r1Jcr33+86BrZIaS1t5sLIjLioRmcifg+kMxnA2usXqAgtmaDIW9bmiuQcMucBzkZxtkbqvBTSSfhuUxKlJqU4rhZLzih26AC/4J74pqGv9c4GPXgr904tPwMNJ/G53WqpHTRwjsPhj+9vJUD+pSjC+YBlqbqaPVSxHpc3nicEOa8KqFbbeSt441AU9TZObdN23GkO5QtnXR0GNhW4Ohz8i0FnDZN3+S+B89K8/uWW92aLtUCFxYh0rGyEGH4TaEN0V6dRI9jaDvpQ==;vckhGiC+zlXMNvvFLnv9qA=="
 ---
 

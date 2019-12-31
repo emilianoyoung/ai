@@ -316,21 +316,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
         width: 457
         height: 305
-  - title: "Sea-Tac Airport Officials Hit Pause On Facial Recognition Plans"
-    excerpt: "The commission’s vote halts plans by Delta Air Lines to roll out facial-recognition cameras at its Sea-Tac this year. (Shutterstock) SEATTLE (AP) — At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the ..."
-    publishedDateTime: 2019-12-11T19:51:00Z
-    sourceUrl: https://patch.com/washington/across-wa/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    ampUrl: https://patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/washington/across-wa/amp/28460227/sea-tac-airport-officials-hit-pause-facial-recognition-plans
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.3D96A573111126F1F82745CDFA8FBBE8
-        width: 700
-        height: 525
   - title: "Backlash against facial recognition in Beijing"
     excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
     publishedDateTime: 2019-12-17T00:54:00Z

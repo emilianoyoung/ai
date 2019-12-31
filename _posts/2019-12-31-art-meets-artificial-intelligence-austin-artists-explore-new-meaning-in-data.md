@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Art meets artificial intelligence: Austin artists explore new meaning in data"
-excerpt: "Walking into Julia Morton's art gallery on Austin's is, in a word, trippy. The cozy space is full of otherworldly art filled with shapes, scratches and swirls. Some the works are still images, while others are videos."
-publishedDateTime: 2019-12-31T16:30:00Z
-sourceUrl: https://www.msn.com/en-us/news/us/art-meets-artificial-intelligence-austin-artists-explore-new-meaning-in-data/ar-BBYuYXH
+excerpt: "They literally won’t move,\" Morton said. \"It’s like they have to look, and from what I’ve been told, get their bearings.\" Morton’s work is part of a budding art form — one that uses artificial intelligence to generate images and visuals. Dubbed generative art, the works are created through non-human systems, such as computers."
+publishedDateTime: 2019-12-31T15:24:00Z
+sourceUrl: https://www.statesman.com/business/20191231/art-meets-artificial-intelligence-austin-artists-explore-new-meaning-in-data
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Austin American-Statesmen on MSN.com
-  domain: msn.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.3C709F6360F9BBCE97B1B8C6B1C1AAC0
+  - url: https://www.bing.com/th?id=ON.7E63A7479B27EE70117CB06834C58AAD
     width: 700
-    height: 367
+    height: 525
     title: "Art meets artificial intelligence: Austin artists explore new meaning in data"
 
-secured: "2dDdOOwdmf2kzUk55TiMk1a6StVBz3c12ERpi+hYj5j1YxSUC0cJImqPgbgE9vF6UpIBvWeKlwMHZCD3qOdSDxuRfy7VjV6YctJguFHoW0xSpHpl1Ff2E2sGbIDjwu534P5YY6PqRv2aJfOnX2NDmNFAzhRhlpkbjt3zMXAug+goGXkWP99CGcbxl0g0i06kftea/75/69hus8VVsUYVW+jPhpsBfY2ii4PDG9xiST6Lgep32QMU/U+sSf9p5Y28wuhCS85mS0rgAOuhDTHsBQ==;AtJjfjrjbJWVPi7d20yJ7Q=="
+secured: "lM9HhkBRoQP2EDsxUFDx7D2xuMGQTDg7eRSK8vFjmoT69vyuirYRpbKI/A8JfnWRe4tQGFbYVQzRuHYcFRJmhPkMg2i+T99jxl/NdRcUHHaePGaf8ajMCH4S2xmBF35COEvprCzajoofdrt01sD6U9NpPNQwOrOXKZKUP+a1qVmvg5RXboV0/QcGj7p11HmdZH5ag1NVS8yB1W4WIMBrSmC85Y0xuplcq3OkAGUbq6P++tVMBgJms3C1uA3zbpxxuKmttdOSJkwkIJvdcLqWzg==;xzwAlNA1UuY9CqPrdSPdCg=="
 ---
 

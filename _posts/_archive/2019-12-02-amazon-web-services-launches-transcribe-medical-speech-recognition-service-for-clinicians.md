@@ -23,6 +23,6 @@ images:
     height: 2955
     title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
 
-secured: "LIKlj7dlKzi94ABgcMXYEruked2Sq9O8akJpHx2Q2j7QGQqhjzdIXnr15klZ1INCS10FPqW8ubO/UC6WEsK7FqOUBg9DiS8Rjr87iodTi4uRxco6Tc422ogomRnZkd+TrbPI1bD6DEJoPlykAdMrnQaAtedesUB8hfhakt/m15tT04iEvdnr3PkmwAmY3YVW3dqSrfwyyqJf0+jGIQTa19XABpXa8Tu1R8BMAyCQ3PgkWWU6fyPt6ISlaValYSmcG1XlXesCh1ynqKDovlnpcQ==;h3Kjx0w45H3JFOszi4ZC6Q=="
+secured: "v/5H0ocfal3lza+nDF7evnkty5m8mnhoB3YwqTPeoWw9WS8AFaWgB1CUoVelyu8I3L/Y62JbWnIdxGNsNolQ4i6TpI0d2ymhUb+CeOTB7sfetQZeMvARnoTMQIJaNQ24xhvY+iM0dSMhiNGzKFkoQnQ6hekj7hT/ZE/c9ixhEzLbQ0n4IW9cCs2sr0lSCYsi+IBKGeEOLSGXkMsEFa1clkGr2eZ3obeTh3fZzsqFAHULcu9NYTf0QL6nDTN3xELwJD/+AeRvOBDSlM6ksuBWiQ==;/htSjb5Xm0Cm6sm5ATgrVw=="
 ---
 
