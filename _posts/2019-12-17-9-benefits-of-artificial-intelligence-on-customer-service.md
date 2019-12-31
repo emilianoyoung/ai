@@ -23,34 +23,19 @@ images:
     title: "9 Benefits of Artificial Intelligence on Customer Service"
 
 related:
-  - title: "Observe.AI Raises $26M; Leverages Artificial Intelligence To Optimize Voice Customer Service"
-    excerpt: "Observe.AI also announced a long-term strategic partnership with Microsoft. With this partnership, Microsoft customers can leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI ..."
-    publishedDateTime: 2019-12-11T11:52:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
+  - title: "Artificial intelligence for the benefit of all"
+    excerpt: "AI will have an impact on a wide range of sectors, and individuals can benefit from it through assisted living, decision-making, health care, mobility and much more. If artificial intelligence is used to treat the huge amount of mobility data that is collected every day, for example, it can help make travel safer, support traffic management and ..."
+    publishedDateTime: 2019-12-20T07:54:00Z
+    sourceUrl: https://gouvernement.lu/en/actualites/toutes_actualites/interviews/2019/12-decembre/20-bettel-happen.html
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 63
+      name: gouvernement.lu
+      domain: gouvernement.lu
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.FB81E033B7F6B87FDB6017BEF2CF4B89
+      - url: https://www.bing.com/th?id=ON.A50D7908A6FECAF7AC3D80C5981AF00D
         width: 700
-        height: 672
-  - title: "Voice Customer Service Observe.AI Closes $26 Million In Funding"
-    excerpt: "Through this relationship, Microsoft customers will be able to leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we’re thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer ..."
-    publishedDateTime: 2019-12-11T23:24:00Z
-    sourceUrl: https://pulse2.com/observe-ai-26-million-funding/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FA0F794A55B2EEC03F9AAB5711C9D47C
-        width: 700
-        height: 680
+        height: 365
 
 secured: "fFETATs1lWEcDqsRP+dMb7JKw8kyg/D+CLs/jL0NEnuIv2RqeY8KgFK3FvmBIEHC9ofoiGYOGWZwXTO0v6wvuhffG+gx0PJEywp1ebVDyyt3yxbuC4DR5ltOODMyDyHBFAsN4SZRpynPwTz1lxbz3GW8VoNgidibLaLDyGsIflAgVU39zWA7JjNEYspz4IfpLYaXNjQaJHc38/dRjuyJjkXr0t1aU/1Qp0gd1kUXQuPq0aETlovew27zYYZJFNyLht6krJY/nVcdK3SRXU542A==;GR6hb1ocA4BlWQ0uxiTciQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-wha
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
       - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
         width: 336
         height: 224
+  - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
+    excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
+    publishedDateTime: 2019-12-31T06:59:00Z
+    sourceUrl: https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
+    ampUrl: https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 24
 
 secured: "SGHGawduzmAxYG2Z+Rro70Hw/wV7DPPBoHsG+XgUqcxSdwlWIaFeU0uQVeDdxovODB/3XkUFsABdwaFBSR+muFuFXkJIB/XvCZO8fAQDIt1HDGzoQMwKxl/WT1huaqPOGDoDKsQBKEvoe75+KNfVOTt6oa/PRr+7u8r+tXLzc3esExIQJLkrhmIWp48M0InSHAeE5MOlpvhX3KS1nOZE4rPjowt84aNLFIVzPhZ2DZnveumKbKZpWHo7tiJahwToQXi92+FmfjBQb6ltdz7AHw==;BDN5XvAkpxXJ57aKOWAUJA=="
 ---

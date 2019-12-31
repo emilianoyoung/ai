@@ -63,15 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.508BBB583EBD50C6ADF7CA157100ECF2
         width: 700
         height: 350
-  - title: "Notal Vision secures $25 million in recent funding round for ForeseeHome® and pipeline technologies"
-    excerpt: "“We have a proven model that includes low-cost medical devices, an effective artificial intelligence (AI)-driven decision support solution ... help address the high unmet monitoring need for physicians and their patients alongside anti-VEGF therapy. “Notal Vision is uniquely positioned to continue to lead the ophthalmic home diagnostic ..."
-    publishedDateTime: 2019-12-11T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/notal-vision-secures-25-million-in-recent-funding-round-for-foreseehome-and-pipeline-technologies-1028754723
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "T6hRTLTwP+/x4CJBZRqWK6KpStm2rbbsLxreSLK3GZJU7fb+s7iFy73gs3Pep2key1R1Ac8EJ8+1LU+SOUZD7S6+GOpmT01dCc5gkUrSjSkn4jGXL9hRxRLGyX8HtGKoQOMTYjDiqRA0zzzSrVlhkgAGtOmpcr5l/jI84Cvs4b6Xjymn11Yd7YP4+CFt8oekBeZC7Vp8MXW/NHdN29ThNagQ2xFSAoslvDSGvhHoG5NLLeQ8sMBLp4uKWmLOSD/zVfy/ONyiG6FMK3dkUhQpMA==;fvSVPpFwEZ6BEQk1kjQMYg=="
 ---

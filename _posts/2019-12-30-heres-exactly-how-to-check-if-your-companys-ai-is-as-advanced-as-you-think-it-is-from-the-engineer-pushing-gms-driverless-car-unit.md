@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
-excerpt: "When Hussein Mehanna was at Facebook, the social media giant went from testing less than 100 AI models to over 3 million each month."
-publishedDateTime: 2019-12-30T13:07:00Z
-sourceUrl: https://www.businessinsider.com/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12
+excerpt: "Artificial intelligence has the potential to completely change how companies like Walmart and McDonald's operate, but one challenge can be figuring out how well early-stage projects are advancing. Hussein Mehanna, the head of artificial intelligence and machine learning at Cruise, says a key metric is how many models an organization is testing ..."
+publishedDateTime: 2019-12-30T12:06:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/why-its-more-challenging-to-scale-ai-projects-at-cruise-2019-12-1028787955
 type: article
-quality: 35
-heat: 35
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -19,13 +19,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.6C2C52E05DE2165D2D2417CF68A9B858
-    width: 488
-    height: 244
+  - url: https://www.bing.com/th?id=ON.5840D5BCF372AA29BE3FEB04C4CB00F6
+    width: 700
+    height: 525
     title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
 
-secured: "EAZdm12lgcahxnRUit54ca8jq0MgvFlXyhWvUEtT+8zNhi48ZYAmbmxqYG5GAbDN1PTqid0abCZpU1W2XLgVSJ6xpjFjlEH8npUQ3DcQ0lAUnJ2AuI2MTC51A+dHQdiu7/gBm6jLKyOym5fLCGsQw2PsQGMvamVAEuKl2uoDqI9iIFKpH7x8dCo2MFLFhvsmlWlUGgf81n7JTf1VdgRpgWQhcDK9Vc1xbf3+neQ85BgWvEj97E/7pi5f14SY6NAD+J67ymXrLyuS1A9b8z52NA==;oP0U9jjjU9SK0zmfyXvMHA=="
+secured: "M/HfAbimW8MyW5aXtW827N8c0pbBFeVrEcArCIorUAy9/lGsPDaQDXXrO0sBY+TuR7V/sY8AnuqY+ayGelCPHyNbJ9ufCdbYb5wwtUBfwJ9nm/Iqw1H8j9agG6bJktd+icEI5BC5lsGwcPZ/+vUUv6PSDQ9mbsKeuF5kNFs9+R+3RNaZvfPFM4gANQmTUfBCISBu4HCyo5/WuAzdEktu8+cw6qtn6w+DXnRiSCqJdqd273K/SQo71HbzRwaaI+y0AkaxjDnDOt4phUymiS4ucw==;8vIcU/Yr3UXQPIvZullZGQ=="
 ---
 

@@ -24,34 +24,19 @@ images:
     title: "Voice Customer Service Observe.AI Closes $26 Million In Funding"
 
 related:
-  - title: "Observe.AI Raises $26M; Leverages Artificial Intelligence To Optimize Voice Customer Service"
-    excerpt: "Observe.AI also announced a long-term strategic partnership with Microsoft. With this partnership, Microsoft customers can leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we're thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI ..."
-    publishedDateTime: 2019-12-11T11:52:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/observeai-raises-26m-leverages-artificial-intelligence-to-optimize-voice-customer-service/
+  - title: "Observe.AI’s tech to monitor and coach call centre agents raises $26m"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now 7 of the coolest science jobs in the world With the funding, the start-up plans to open a third office in Dallas and double its workforce. Observe.AI also wants to invest in company culture by sending employees on regular “field trips”. Observe.AI ..."
+    publishedDateTime: 2019-12-11T12:54:00Z
+    sourceUrl: https://www.siliconrepublic.com/start-ups/observeai-funding-call-centre-agents-automation
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 63
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.FB81E033B7F6B87FDB6017BEF2CF4B89
+      - url: https://www.bing.com/th?id=ON.A4086B7BF2B71D0400EFCE238F3EE08E
         width: 700
-        height: 672
-  - title: "9 Benefits of Artificial Intelligence on Customer Service"
-    excerpt: "Artificial intelligence is all around us at this point, and the benefits of the technology are only just starting to become obvious. Many companies have successfully integrated AI into their own work in various ways, and one of the fields that have benefitted from this the most is customer service. There are many ways to provide a better ..."
-    publishedDateTime: 2019-12-17T13:12:00Z
-    sourceUrl: https://www.business.com/articles/artificial-intelligence-customer-service/
-    type: article
-    provider:
-      name: Business.com
-      domain: business.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.587A16044C5443E9C1AE34EB80C780F2
-        width: 700
-        height: 467
+        height: 509
 
 secured: "omsPW6lxaVuvL44ubgXucFUlsPu/O1STqqYqLHYA/cLD4EHZ0hAZB02equY1fW5ao2kmYqeCIp6/p4QGfXgKu1FmBrT2WfC8637v4128CchpnwRZEqILDE8Te4KGrK+NB4U7K2GGt3yCAVlJTvqODic6I9kICHrTv4NE4nPNIqlzVL5fla5YrTlLfKyAxkqOWq2j+aXAEuaEZ2kF2dbTUAG8zz78IvNYgjF89hyECbOEG1M3KJAriIFIQkg/PO94FvVd/g5lRoRg0YECtazjHg==;uys7stO2VZz04yTJvdifMg=="
 ---

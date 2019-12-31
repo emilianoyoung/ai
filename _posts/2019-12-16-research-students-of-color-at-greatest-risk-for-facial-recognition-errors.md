@@ -353,21 +353,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
-  - title: "Sea-Tac airport officials opt out of using facial recognition technology"
-    excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238265333.html
-    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.088E8F8E3210CC4987FBB31579FD05D2
-        width: 700
-        height: 393
   - title: "LAX embraces facial recognition tech, but Sea-Tac airport hits the brakes"
     excerpt: "As many U.S. airports, including LAX, rush to embrace the use of facial-recognition technology by airlines and U.S. Customs and Border Protection, Seattle-Tacoma International Airport is applying the brakes. On Tuesday, the Port of Seattle Commission (which manages Sea-Tac) unanimously approved a temporary ban on some uses of biometric ..."
     publishedDateTime: 2019-12-12T15:53:00Z

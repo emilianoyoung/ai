@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
         height: 366
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Walmart testing self-driving vehicles for grocery deliveries"
     excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
     publishedDateTime: 2019-12-11T15:56:00Z

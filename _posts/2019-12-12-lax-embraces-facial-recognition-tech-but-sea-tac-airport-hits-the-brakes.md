@@ -361,21 +361,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
-  - title: "Sea-Tac airport officials opt out of using facial recognition technology"
-    excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238265333.html
-    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.088E8F8E3210CC4987FBB31579FD05D2
-        width: 700
-        height: 393
   - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
     excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
     publishedDateTime: 2019-12-20T18:00:00Z

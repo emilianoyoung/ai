@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
         width: 700
         height: 366
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Ford Expands Self-Driving Business Footprint In Austin"
     excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
     publishedDateTime: 2019-12-11T20:05:00Z

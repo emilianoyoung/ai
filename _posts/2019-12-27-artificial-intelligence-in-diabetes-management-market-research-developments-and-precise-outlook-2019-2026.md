@@ -53,6 +53,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
     excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
     publishedDateTime: 2019-12-31T10:00:00Z

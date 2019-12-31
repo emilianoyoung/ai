@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI for Everyone: Super-Smart Systems That Reward Data Creators"
-excerpt: "Ben Goertzel is founder and CEO of SingularityNET, a blockchain-based AI marketplace project. As AI rapidly pervades every sector of the economy, there are few questions more urgent than who owns, controls and guides the data used to train AI systems, and the models and conclusions AI learns from this data. Right now the answer tends to ..."
-publishedDateTime: 2019-12-30T10:21:00Z
-sourceUrl: https://www.coindesk.com/ai-for-everyone-super-smart-systems-that-reward-data-creators
-ampUrl: https://www.coindesk.com/ai-for-everyone-super-smart-systems-that-reward-data-creators?amp=1
-cdnAmpUrl: https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/ai-for-everyone-super-smart-systems-that-reward-data-creators?amp=1
+excerpt: "As AI rapidly pervades every sector of the economy, there are few questions more urgent than who owns, controls and guides the data used to train AI systems, and the models and conclusions AI learns from this data. Right now the answer tends to be large corporations. Data about our thoughts, preferences, fears and desires, as revealed in our ..."
+publishedDateTime: 2019-12-30T11:59:00Z
+sourceUrl: https://finance.yahoo.com/news/ai-everyone-super-smart-systems-101741719.html
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: CoinDesk
-  domain: coindesk.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.22CE385C3B135B757C627C0344BD0603
+  - url: https://www.bing.com/th?id=ON.DF9E5E39D663A36E7FBC7A68E533C9A9
     width: 700
     height: 414
     title: "AI for Everyone: Super-Smart Systems That Reward Data Creators"
 
-secured: "CefdVThHRiN0md5A/iZCAa4QpG+6WdKA8rzXAT1L+IxJgaDKLTi/ghYkGncuwB21tIta83mNLXOz4scC0jaJqxVFMcph4xaHF0BRcZCQclq7NcnOInN60HIsvSoKTFnlIRY2nYs2o5K9COr9644FIZIBmtGr8vx1PPYhIUoYVID+IzPmMGn9QBmIvCDJ7OuA0u4wWYz3VZSCGD3ZkptBc++eIoj0OqK3hNoQqGx+vQZzgwu89XBGUWq2l58t3g5xQSIlhXPsIcRy4iEovu7pvQ==;rvKL4i81SyfkQiNv+UwZuw=="
+secured: "BX0OKAgt0auKuy4U6EI19TTwPPy1z6QgPI5B1eNeCTK9ug0w8EwHA2w5xayBf0jAW1U/2dcMgh49OtduR/dMm0hKUkxiqqgkGT7vwBj2pDlQ6GKdlM6S/C18Lbum5LRmWRK7uIutERN4JULBMq68jrY5oiM9lnH+9+Hu93mRzbbJkM3atP/ZX/1pWDxLeQAu/dqqQiO0fdLyLEs+DDzVDOOU1lMudi3bsmdj6blXLTSEjRrU1SpR5YT7jh8AeNSGBXYxlHnzrfD8d2diKGYNTQ==;QHzU+pjWRZaxR08p0q3zpQ=="
 ---
 

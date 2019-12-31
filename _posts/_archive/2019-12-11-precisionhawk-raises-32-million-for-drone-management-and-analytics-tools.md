@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/11/precisionhawk-raises-32-million-for-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/precisionhawk-raises-32-million-for-drone-management-and-analytics-tools/amp/
 type: article
 quality: 186
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.508BBB583EBD50C6ADF7CA157100ECF2
         width: 700
         height: 350
-  - title: "Notal Vision secures $25 million in recent funding round for ForeseeHome® and pipeline technologies"
-    excerpt: "“We have a proven model that includes low-cost medical devices, an effective artificial intelligence (AI)-driven decision support solution ... help address the high unmet monitoring need for physicians and their patients alongside anti-VEGF therapy. “Notal Vision is uniquely positioned to continue to lead the ophthalmic home diagnostic ..."
-    publishedDateTime: 2019-12-11T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/notal-vision-secures-25-million-in-recent-funding-round-for-foreseehome-and-pipeline-technologies-1028754723
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
     publishedDateTime: 2019-12-16T18:09:00Z

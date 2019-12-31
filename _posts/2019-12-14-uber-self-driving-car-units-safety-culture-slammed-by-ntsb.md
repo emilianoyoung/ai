@@ -110,21 +110,6 @@ related:
       name: AZFamily
       domain: azfamily.com
     quality: 39
-  - title: "A self-driving truck delivered butter from California to Pennsylvania in three days"
-    excerpt: "There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said, but this is the first cross-country trip and ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.B6BD3D94DFB22CC94A5FC52B37C3D609
-        width: 700
-        height: 489
 
 secured: "F9LkLjX2ff7YnbGgA8NiaXGCo1y5OLlNeMlgU4+qPLwSv02/5V0xtMipSfdIwno0eNZVRpFHQJpGv50iF8r2gog4t2GUJwck2uNbQABCUjQFpS6oo0xW1r5lqd1b4i/70BOgFdrNgCt47w4TrjSs258xptrwcdwW6Cawo5CX+22ZK1GlcA5L8M6vy4+z/1dAQ/U6BYvX6Md0AkvpBZRDnzB33EgPu4GKcSEHHakS1Le93r4FILlFjkYJAmEyYCdLtq1FUglhJQz3RlNTARSl7A==;WLVvFrdC8YBCINCNCAyp/g=="
 ---

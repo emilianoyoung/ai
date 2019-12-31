@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
-  - title: "Prediction 2020: The future of robotics next year and beyond"
-    excerpt: "Industrial robots are no longer the exclusive domain of heavy industry or huge factories ... In the midterm, Harlow cautions that the regulatory environment could slow down the pace of progress. \"In the 2020s,\" he says, \"the artificial intelligence and machine learning technology landscape will move from the 'Wild West' where almost anything ..."
-    publishedDateTime: 2019-12-11T12:00:00Z
-    sourceUrl: https://www.zdnet.com/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    ampUrl: https://www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.B887204DB63C0A73A2A7AE9376B28153
-        width: 700
-        height: 525
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
     excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
     publishedDateTime: 2019-12-17T15:00:00Z
