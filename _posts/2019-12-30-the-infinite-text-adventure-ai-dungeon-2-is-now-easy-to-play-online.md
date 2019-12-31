@@ -2,16 +2,22 @@
 category: news
 title: "The infinite text adventure AI Dungeon 2 is now easy to play online"
 excerpt: "AI Dungeon 2 may not have appeared on The Verge’s game of the year list, but it’s one of the coolest video game experiments of 2019, and it’s now playable in its easiest form yet. AI Dungeon 2 is an adventure game run by a text generation program, capable of responding to basically any command with a coherent response. Its earlier ..."
-publishedDateTime: 2019-12-30T18:43:08Z
-sourceUrl: https://www.msn.com/en-us/news/technology/the-infinite-text-adventure-ai-dungeon-2-is-now-easy-to-play-online/ar-BBYtnRV
+publishedDateTime: 2019-12-30T18:43:00Z
+sourceUrl: https://www.theverge.com/2019/12/30/21042942/ai-dungeon-nick-walton-openai-gpt2-text-adventure-game-web-version-launch
+ampUrl: https://www.theverge.com/platform/amp/2019/12/30/21042942/ai-dungeon-nick-walton-openai-gpt2-text-adventure-game-web-version-launch
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/30/21042942/ai-dungeon-nick-walton-openai-gpt2-text-adventure-game-web-version-launch
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -22,6 +28,6 @@ images:
     height: 366
     title: "The infinite text adventure AI Dungeon 2 is now easy to play online"
 
-secured: "hJLhhSkL/yfrewr5O070lbzWET8Vq2blbVdnDtao07bJWPj8ayPwN8FIitwa4q4aSgmbYi6c+Ss+qtHQtFeMuANhqd1j4JFJLkq+DUUrVHWnXL6X7E8xOpksFnsVvEc+R+PjtqgjdtTdkRaN/S4gJM1NQOQJzr1Afk2YFFIIQjY89chOrwOQ1xNe+JHuvGCL1FiTudAIl+HDTYyJs4KU9RgEslRuql2QCm5/YNyMxBq0r4k7fd8jwjZnbe6XoIEf6gE4PbgMYRsgsuACwCghYw==;Gph41GEoS+uTRGDfmIf15g=="
+secured: "TgU0GhOA/mRHjdjVbnFwi5jcc4i4nBXJnMYXlul2keKNzTEEU3qlECLrCSQB2HuENgZLwDyQ2CYwAvq75MILnGFBeb80PlSYpe/ooksPwGQ5lGxAy1n8QYvWEz2+4XryhEbgHnScy5jkmNzWEAwcjb2OwmZ2FFl63cDrjK3nI6yyWXRMNHYgkKfHvOy+O4nXEkyQDHLmxhNgsz8NlpJtBTVbX4deK6bjyIasYIWHtGyo0bfh7EUn9Sl2cUOQHB8AYi4O700df39WHUFO7Sfk7w==;BIQs/1GqxSzCWlUg77CN4g=="
 ---
 

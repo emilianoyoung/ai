@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
         width: 700
         height: 366
+  - title: "Artificial intelligence in classroom: Is it reducing human interaction in learning?"
+    excerpt: "I feel more confident and want to learn more,” says Prasad who studies at Mount Zion school, Gangtok. Earlier this year, the school introduced adaptive assessment software, Next Assessment, that uses artificial intelligence for setting and assessing objective question papers. Machine-set question papers On an average a teacher takes an hour ..."
+    publishedDateTime: 2019-12-11T05:56:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/articleshow/72468345.cms
+    ampUrl: https://m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.28D4642B968C938715BC73BF767306D2
+        width: 700
+        height: 379
 
 secured: "dMXh1K6ypqjKbUZIHT6lkootM1C4NxFKdXPXQge8+6CWG7GCGAsAu89cm7HQXgpSUK7DfJfNwsVhfI1PSSpEYtx52dcfHga85TrQBieGrMU4NFV7kcfp7iS21t3ODt5xmwE4A4qmXeGYkGwDbn0+hFczrw64KVztAWvb4Fyz/2vvQ4WaSbqM4FWOgh3lX7q0SJhF1rfrbxFb776uUOSrufjc+C0dnNa/7z0qvHj3t3IWpN/v2zwS5SfsblLYr1gwWmKxSQoQMPRL3ySNRwrhVQ==;gUY/A4G4i40csqjcN603Zw=="
 ---

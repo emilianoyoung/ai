@@ -26,62 +26,49 @@ images:
     title: "Partners HealthCare is launching a $100 million digital health initiative"
 
 related:
-  - title: "ELLIS launches $220 million initiative to keep AI talent in Europe"
-    excerpt: "The European Laboratory for Learning and Intelligent Systems (ELLIS) today announced the selection of 17 cities in 10 European countries and Israel where it’s establishing project that it hope grows into AI research institutes keen on societal impact. Each selected site — in places like Amsterdam, Copenhagen, Helsinki, Tel Aviv, and Zurich ..."
-    publishedDateTime: 2019-12-10T23:33:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/
-    ampUrl: https://venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/amp/
+  - title: "These AI-Powered Digital Health Devices Debut At CES 2020"
+    excerpt: "In a 2018 Accenture Digital Health report, 75 percent of respondents said technology played an essential role in managing their health. And, when when it came artificial intelligence (AI) powered digital health and wearable devices, 72 percent said they are willing to share their wearable data with their health insurance plan. The report also ..."
+    publishedDateTime: 2019-12-19T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/19/these-ai-powered-digital-health-devices-debut-at-ces-2020/
+    ampUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/19/these-ai-powered-digital-health-devices-debut-at-ces-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2019/12/19/these-ai-powered-digital-health-devices-debut-at-ces-2020/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.E99831D08856D6182B7A37B0A6A79EBD
-        width: 700
-        height: 466
-  - title: "Partners HealthCare launching $100 million digital health initiative"
-    excerpt: "The initiative also includes a renewed focus on artificial intelligence and data analytics. Erskine said his team is budgeting $100 million for the first 18 months of the project and will seek more funding as needed. Partners, the largest health care provider in Massachusetts, is the parent of a dozen hospitals including Massachusetts General ..."
-    publishedDateTime: 2019-12-12T17:46:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
-    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
-        width: 506
+      - url: https://www.bing.com/th?id=ON.47E52A5B35A4632D66CF600F5BC302EB
+        width: 600
         height: 315
-  - title: "Artificial intelligence in classroom: Is it reducing human interaction in learning?"
-    excerpt: "I feel more confident and want to learn more,” says Prasad who studies at Mount Zion school, Gangtok. Earlier this year, the school introduced adaptive assessment software, Next Assessment, that uses artificial intelligence for setting and assessing objective question papers. Machine-set question papers On an average a teacher takes an hour ..."
-    publishedDateTime: 2019-12-11T05:56:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/articleshow/72468345.cms
-    ampUrl: https://m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
-    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
+  - title: "This AI-Powered Digital Health Device Debuts At CES 2020"
+    excerpt: "In a 2018 Accenture Digital Health report, 75 percent of respondents said technology played an essential role in managing their health. And, when when it came artificial intelligence (AI) powered digital health and wearable devices, 72 percent said they are willing to share their wearable data with their health insurance plan. The report also ..."
+    publishedDateTime: 2019-12-19T19:49:00Z
+    sourceUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/19/this-ai-powered-digital-health-device-debuts-at-ces-2020/
+    ampUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/19/this-ai-powered-digital-health-device-debuts-at-ces-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2019/12/19/this-ai-powered-digital-health-device-debuts-at-ces-2020/amp/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.28D4642B968C938715BC73BF767306D2
-        width: 700
-        height: 379
-  - title: "Artificial intelligence innovator Gloat collects $25 million in capital"
-    excerpt: "Career development company Gloat is tapping its new round of funding to expand its New York and Tel Aviv offices. The startup, which uses artificial intelligence (AI) to help companies evaluate their workforces, raised $25 million in Series B capital. The round was led by Eight Roads Ventures, the proprietary investment firm backed by Fidelity ..."
-    publishedDateTime: 2019-12-17T19:29:00Z
-    sourceUrl: https://www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.html
-    ampUrl: https://www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.amp.html
+      - url: https://www.bing.com/th?id=ON.47E52A5B35A4632D66CF600F5BC302EB
+        width: 600
+        height: 315
+  - title: "Mayo Clinic Names Health IT Vet to Head Its Digital Health-Care Businesses"
+    excerpt: "The Mayo Clinic has named health-care technology veteran John Halamka as the head of its digital health-care businesses. One of his focus areas will be looking at how neural networks, machine learning and artificial intelligence can improve health care."
+    publishedDateTime: 2019-12-23T12:24:00Z
+    sourceUrl: https://www.wsj.com/articles/mayo-clinic-names-health-it-vet-to-head-its-digital-health-care-businesses-11577097000
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
+        width: 700
+        height: 350
 
 secured: "k3JrL115rfiT46wdsLdVomGUVIOygETRJBYHRD//W0SeBrZJUaugCNyoarjwjfyaZxa/8LbhshLz3p9n1K0rY1602Lj5qtPSFofXsf0MHGWHvzVvopVZX9ENxfWnRgNn1eDvVOXHnRxC6VBG1pLLEARQtEqa2tCVVDJSqk10+p67BLFTyIrw+MgxbEIY1viyJVOCNwavcfsICFYOFEo1K8YnqIjfaZAvhwIqtk/sP6aXM5UjVby/9MCOzIriki0LLgBwpF+dWBF3B/4wPy2fkA==;0qE9Lg2N4aXhuLoIP10nEQ=="
 ---

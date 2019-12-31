@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -84,6 +84,21 @@ related:
     quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
+        width: 700
+        height: 466
+  - title: "Workers adapt as robots take over the warehouses"
+    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+    publishedDateTime: 2019-12-31T00:23:00Z
+    sourceUrl: https://www.timesunion.com/news/article/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
+    ampUrl: https://www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
+    cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0A180902D952262DF8F4176AC0E5E56E
         width: 700
         height: 466
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"

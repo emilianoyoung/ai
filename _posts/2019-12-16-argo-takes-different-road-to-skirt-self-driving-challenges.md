@@ -1,40 +1,42 @@
 ---
 category: news
-title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
-publishedDateTime: 2019-12-16T18:07:00Z
-sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+title: "Argo takes different road to skirt self-driving challenges"
+excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+publishedDateTime: 2019-12-16T18:15:00Z
+sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
-images:
-  - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
-    width: 640
-    height: 427
-    title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-
 related:
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
-    publishedDateTime: 2019-12-16T18:15:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
     publishedDateTime: 2019-12-12T10:05:00Z
@@ -71,6 +73,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "X3c/fOnY+nHc3VWCw0CGzjwvAqWphgmkgGyu2L5V56fgAimloUybxvByhV9hE253m1DUHACQitqrTWBhyqny711DAtMpqGSypdwMyrcsVNRm9ehUHsUpxqk2PhRjpnYfpqDg57BmCVauCt4ljPTnGncmsi0Lhf4tTw4zz+U6YIbN+Ea5zaGJgQkB2kg0JbT9QFAmZq8AiPvSpBuhjw/N6my7jaKWpwGobPq8IO1Tgs/rSeKXYqDyC88+atAZ8dQBCJPLhyrkluvaX9dm7kfDZg==;QyWXgxoGdmlFmuqpYof6xQ=="
+secured: "dALp9nh9thAA3j/LLeHWOT38G9MtZsBtIitzg52ka5aVoOOiZKDQaVw7QIh3sNRtZDAkfUU9R6bOeuz+dpq/gJAIz2KNx6pGfZTidUr7L+els/4yNzIh1CX5tM+bIlnb+sghShhlpPd1nQdOH4+F/6kjlrytV/cEhU232FzCquAmGiCzQcBkfTPWSz19ROFX8pZwkt0Sw5OHAGeADVVjEq82cQOGUQ52YqOlG2i9b8NQCDkUMqlzvnwnhVJJKZI8texl5wTlm+901N4kkO95Eg==;tRtVeD6JzdB7s/zKvfrz7Q=="
 ---
 

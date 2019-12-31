@@ -1,27 +1,29 @@
 ---
 category: news
-title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
-excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-publishedDateTime: 2019-12-30T15:45:00Z
-sourceUrl: https://www.ttnews.com/articles/robots-introduced-warehousing-workers-have-adapt
+title: "Workers adapt as robots take over the warehouses"
+excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+publishedDateTime: 2019-12-31T00:23:00Z
+sourceUrl: https://www.timesunion.com/news/article/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
+ampUrl: https://www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
+cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Transport Topics
-  domain: ttnews.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
-    width: 470
-    height: 246
-    title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
+  - url: https://www.bing.com/th?id=ON.0A180902D952262DF8F4176AC0E5E56E
+    width: 700
+    height: 466
+    title: "Workers adapt as robots take over the warehouses"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -99,21 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
         width: 700
         height: 466
-  - title: "Workers adapt as robots take over the warehouses"
-    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
-    publishedDateTime: 2019-12-31T00:23:00Z
-    sourceUrl: https://www.timesunion.com/news/article/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
-    ampUrl: https://www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
-    cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Workers-adapt-as-robots-take-over-the-warehouses-14940353.php
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.0A180902D952262DF8F4176AC0E5E56E
-        width: 700
-        height: 466
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z
@@ -144,6 +131,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6C74F3BB6700452257816387AD3DD375
         width: 636
         height: 382
+  - title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T15:45:00Z
+    sourceUrl: https://www.ttnews.com/articles/robots-introduced-warehousing-workers-have-adapt
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
+        width: 470
+        height: 246
   - title: "Proliferation of robots tests warehouse workers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T06:32:00Z
@@ -182,6 +182,6 @@ related:
         width: 620
         height: 330
 
-secured: "cGJ1+EGYmNTO8Vmu169AIYbraNwJfZTOF9VQ2rPDQ4pu3zmQ/aFv787Yk0AF4VfGDVXCoLDtzojaakLSEMsSJvH1b5QCeFStYz3sl6RQS71hT0xiU3b5So8v1NnRbQ4dznDCZu9kALq9cCRRKUduJL1QyX4mtIrLQ8u0F2P8ojNVzKgXmS6rS+BZJN37GsgM/KychOkg7mC4d9lrFABXVpKLqeQL6anlYQkEmMJ2iJAuRch2LjrsT4yco/KhrMnUDnZzOb1OGRjNRtsAUqPjZw==;+rp+fvmRGDik0AMT6/P4bw=="
+secured: "4cYcDB/5+f/oU4y3U3/LbrTrzE3EcSZ46lsbycbhBh9jmEBUBJMdyc09OA9Qxkh6SN6eXFChpmWIceKLwltJ8qNmzX7ZMLUB0iZDzsSdSoqkPszZsKC9t4AmA0w/5jqfofiDNHCk6Zk4fCDxD+KalEO6GYiZanwmw4fTd/a97zJNlq1sSwL1iMcEczMmH8+ksmz5IQo/Xg/p/u9xnOOUqXqJvwM9nT1VbWdOY7pxqveieiEK3swi6euJGxgIO2YvnsZ68SYD111tBmq7R5dX2g==;Umhz3RsV9ZPYKDOPIYOszA=="
 ---
 

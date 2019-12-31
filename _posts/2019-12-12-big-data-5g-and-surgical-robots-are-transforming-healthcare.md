@@ -53,6 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
         width: 300
         height: 200
+  - title: "Partners HealthCare launching $100 million digital health initiative"
+    excerpt: "The initiative also includes a renewed focus on artificial intelligence and data analytics. Erskine said his team is budgeting $100 million for the first 18 months of the project and will seek more funding as needed. Partners, the largest health care provider in Massachusetts, is the parent of a dozen hospitals including Massachusetts General ..."
+    publishedDateTime: 2019-12-12T17:46:00Z
+    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
+    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
+    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
+        width: 506
+        height: 315
   - title: "How Verizon 5G is Powering the Future of Robotics"
     excerpt: "Robots can become lighter, cheaper, and have more intelligence ... the wave of a wand in order to remotely control robotic systems and teach them to perform repetitive tasks with the help of 5G and artificial intelligence. One of our Lab residents, Medivis, recently received FDA approval for its augmented reality surgical planning toolkit."
     publishedDateTime: 2019-12-19T12:39:00Z

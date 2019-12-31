@@ -76,15 +76,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
         width: 700
         height: 393
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "TJAaAdu1I/lLfKOxE9VquLvrTE9lBa1jfZCeY5ayzVS6dqGHETio/ntdJXyXxul5YTEISpVGOBbi7bR1UtBEoZ3Y/ZMssqTUVmD9XR9foiJH6msJzv6iLMvQmESK0wQcn63svZgu7S3mNXjXD+tS6amRUldGcbSmaV4YGKbDjpJEN2jg9sz2lpCirBVi/2stN7RsTwI+jj2ucHgiTRIa+hBPTZy9P6VQNZ8XOLubsyH6EOnddV88UBwc8To4XDiki76NCJhESVzbuLlrW60v7w==;OrcGtGraQH54ksK4CxVYEQ=="
 ---

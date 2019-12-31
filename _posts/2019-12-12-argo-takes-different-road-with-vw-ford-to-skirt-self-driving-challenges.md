@@ -24,6 +24,17 @@ images:
     title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
 
 related:
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+    publishedDateTime: 2019-12-16T18:15:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
   - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
     publishedDateTime: 2019-12-16T18:07:00Z
@@ -50,6 +61,15 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "1lK2jQPlF1VDdztYAM4YGQKGRKnjcCF0jCxhKo4kWj6BVyWnhk5vChwnvocSUP5GMIiLGYjBrR2JPosp5gHUXtk43VwD692+0BoLbc4kbW+Ya6xfhKnuonn36zYgmiRg/QHM0RA50OwSfQ0eGz1urNYYJ2M0ziwVIYJhusKZfJVIpWtY38qpq3SSi3AMZgp8DHff1PIRwzCAv4UgkZEFw+fyZHnjApITs+BvTvxNLw/PGLHx40Y/aYuz5j+NN2Q58O6EVNj9oBi1DVaa1ljsLA==;JDpwcUJG1YnGSIJm75fsQw=="
 ---

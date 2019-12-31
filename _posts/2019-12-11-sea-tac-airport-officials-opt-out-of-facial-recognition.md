@@ -716,19 +716,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Homeland Security easing facial recognition rule for airports"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
-    publishedDateTime: 2019-12-10T23:22:00Z
-    sourceUrl: https://www.sfexaminer.com/national-news/homeland-security-easing-facial-recognition-rule-for-airports/
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.86E927D067167D90496B78CBF77308AD
-        width: 700
-        height: 466
   - title: "Seattle Airport Wrestles with Government over Facial Recognition"
     excerpt: "The Port of Seattle Commission has banned the use of biometric technology, but they only control part of Sea-Tac. The part that is controlled by Custom and Border Protection will still implement facial recognition in July 2020. (TNS) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at ..."
     publishedDateTime: 2019-12-11T23:26:00Z

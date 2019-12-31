@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
-excerpt: "Delta is the first airline to launch a biometric terminal in the U.S. with facial recognition technology. (Delta Photo) The Port of Seattle established new rules governing the use of biometric screening Tuesday amid an ongoing global debate over facial recognition technology. The vote comes as civil rights groups pressure government agencies ..."
-publishedDateTime: 2019-12-11T00:42:00Z
-sourceUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/
-ampUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
-cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
+title: "What facial recognition steals from us"
+excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
+publishedDateTime: 2019-12-11T00:26:00Z
+sourceUrl: https://www.komando.com/video/komando-picks/what-facial-recognition-steals-from-us/696022/
 type: article
-quality: 90
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: GeekWire
-  domain: geekwire.com
-  images:
-    - url: /assets/images/organizations/geekwire.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Kim Komando
+  domain: komando.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
-    width: 700
-    height: 430
-    title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
+  - url: https://i.ytimg.com/vi/ioqQZE4A4fg/hqdefault.jpg
+    width: 480
+    height: 360
+    title: "What facial recognition steals from us"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -185,6 +179,21 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
+  - title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
+    excerpt: "Delta is the first airline to launch a biometric terminal in the U.S. with facial recognition technology. (Delta Photo) The Port of Seattle established new rules governing the use of biometric screening Tuesday amid an ongoing global debate over facial recognition technology. The vote comes as civil rights groups pressure government agencies ..."
+    publishedDateTime: 2019-12-11T00:42:00Z
+    sourceUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/
+    ampUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 90
+    images:
+      - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
+        width: 700
+        height: 430
   - title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
     excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
     publishedDateTime: 2019-12-19T07:00:00Z
@@ -707,19 +716,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Homeland Security easing facial recognition rule for airports"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
-    publishedDateTime: 2019-12-10T23:22:00Z
-    sourceUrl: https://www.sfexaminer.com/national-news/homeland-security-easing-facial-recognition-rule-for-airports/
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.86E927D067167D90496B78CBF77308AD
-        width: 700
-        height: 466
   - title: "Sea-Tac airport officials opt out of facial recognition"
     excerpt: "SEATTLE (AP) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission ..."
     publishedDateTime: 2019-12-11T13:08:00Z
@@ -978,19 +974,6 @@ related:
     images:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
-        height: 360
-  - title: "What facial recognition steals from us"
-    excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
-    publishedDateTime: 2019-12-11T00:26:00Z
-    sourceUrl: https://www.komando.com/video/komando-picks/what-facial-recognition-steals-from-us/696022/
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
-    images:
-      - url: https://i.ytimg.com/vi/ioqQZE4A4fg/hqdefault.jpg
-        width: 480
         height: 360
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
@@ -1634,6 +1617,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "Ul3G0N/VwWaENArpGWF/uNjqLuvjipd3V3jPz8RYRZaAKnRlOST5NEtObx/YtXSqg2EIpIZ6x6LRKr6X5EBo7bAJBHtyCbGcc5Np7dAe899PjuivY7bnGXgIbQ6hWcSJvCN7+bmGRUdff+LlxNkW5j7Oe+GE3+BU9G9vXjE0CUaOF4PrsH0Ag4gNn58nMg+sfhqMELSnoJeiddIoCt1ljHGEQVU1/ql3sdvhUWrVR4hYxwhsYcAOp1I5IV4rxEupPA6YQDtTbvXjEmFB2ToqoA==;kug/NVW61Ax0sU4iPsC2bw=="
+secured: "1tDUPp4RgJXuoCwPB5jIBfZtYddvNvhHDVDFW1cECcCttniiRLMFIY5Lo5cgklc+MuOZwUcLWu6QwS8XOnPqtN0gTAtm5krCo9tuLZ3hT/RIz54mfOU+DL04cKc+ReH3DzClY8t3BswH9fxzDA2oObv7LKUJopcA3qS9APqCvIvaS4Gc108pwqVreaX7ChU6bjYXsNB5zkHMdIrfCmPi8158ZS9SREUTx7ljZghK75WEuGoxTdb6yIX+IocC9PZNTBrXtC8MPaEHXgkPiiGmDQ==;LhxBTYF46UKO/H91GCS0MA=="
 ---
 

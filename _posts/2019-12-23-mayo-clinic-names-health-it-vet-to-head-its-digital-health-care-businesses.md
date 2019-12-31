@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47E52A5B35A4632D66CF600F5BC302EB
         width: 600
         height: 315
+  - title: "Partners HealthCare is launching a $100 million digital health initiative"
+    excerpt: "“The consumer does have a lot more choice than they used to,” Singh said. In addition, health care providers are working on algorithms to identify high-risk patients and manage their health. Partners, since 2017, has been developing artificial intelligence programs with GE Healthcare. Partners’ competitors across the country are also ..."
+    publishedDateTime: 2019-12-13T00:35:00Z
+    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
+    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
+    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
+        width: 506
+        height: 315
 
 secured: "1Bbmj0o7JsUHBZv6js+IaoGQId4FzIX/bKssXMmn3/gknjGQw+yIIVO+bStU3ci6jM2/+xnJufnQkhbl13aJGBi5EKXauJQceoOO5sT+OrLJlG3Z0bbAtJHJLfg0vmArCwaPha5wVIs8TUaY1qkRZjh6JzBurJLD04nU+7GEObN+spmU3kPaIzbhzaUdp94Zk+Bchx+d4vUb4S0f+UHYh56RXRVL05y2m4gwjFPBRMcQHs+ZSogkBE+WaQ0up9ZqMERrquLSN5+7NiMHtcth8w==;LJoCc9qgVNy13dUMiqcqgA=="
 ---
