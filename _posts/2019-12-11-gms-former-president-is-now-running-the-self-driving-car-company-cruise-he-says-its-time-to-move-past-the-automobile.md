@@ -58,36 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
         width: 656
         height: 492
-  - title: "Walmart testing self-driving vehicles for grocery deliveries"
-    excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
-    publishedDateTime: 2019-12-11T15:56:00Z
-    sourceUrl: https://6abc.com/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    ampUrl: https://6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    cdnAmpUrl: https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.009584158FE78676CDE37472B1FFBE2C
-        width: 700
-        height: 393
-  - title: "Walmart will deliver groceries in Houston using self-driving cars"
-    excerpt: "The company announced a new test yesterday in the Houston, Texas area using technology from Nuro, an autonomous vehicle company. Nuro will use electric, self-driving vehicles to deliver groceries from a select group of Walmart stores in Houston, according to CNBC. A pilot group of customers who opted in to the test will be the first to get ..."
-    publishedDateTime: 2019-12-11T15:20:00Z
-    sourceUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html
-    ampUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
-        width: 700
-        height: 393
   - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
     excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
     publishedDateTime: 2019-12-11T19:00:00Z

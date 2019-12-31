@@ -1,7 +1,7 @@
 ---
 category: news
 title: "World-renowned Computer Vision Researcher Joins Leading Retail Technology Innovator"
-excerpt: "With an expertise in computer vision, machine learning, and perception-based human computer interfaces, Darrell presently leads UC Berkeley's top-ranked Artificial Intelligence Laboratory, which has produced a great deal of fundamental work including ..."
+excerpt: "Darrell has stepped up from a more traditional advisory role to become deeply involved in Grabango's day-to-day product development. With an expertise in computer vision, machine learning, and perception-based human computer interfaces, Darrell presently leads UC Berkeley's top-ranked Artificial Intelligence Laboratory, which has produced a ..."
 publishedDateTime: 2019-12-10T20:30:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191210005983/en/World-renowned-Computer-Vision-Researcher-Joins-Leading-Retail
 type: article
@@ -34,6 +34,6 @@ related:
         width: 700
         height: 367
 
-secured: "N2LyLe8fD025/8PnZviVPR3ZfPo6Gfwdf3xsNGbPVlgCSxdOuJKE2CAqVnRyuovlJEa4Qg2GLMMmFfflix5OQiopiD3ov8Y2yQ1BA4s2b/Sg9oMLpr2jm2VjXUylEfv8wVdC1McTn7LKDhZZDgmPtmoNiU+KY2K8RsJUvEiUZInG68tLX5Mznt9zSCPnfCGTnT8RrXmzHEAEOZLMUCVJGBFSWzqph+71R9+vcR3kcyF0CveYLEMtP4JoEs7dUrlI34kaEILdois2kpXJuV3qFA==;gZvTNjH5bnCJb2WQBMvTmw=="
+secured: "O1FhSgtIFDq3g4VsWhUF88npQKVDPJGnrVN/udlqtG2BhovBXUEQ6kfwm5W3rCv9S5LTAAxFPDEh2/ybXCmxSNfK8Bi6X0a6t5oUUz6iiM5E15YbaslN3Qe2fW/Z6KGg66MEJC9O+pbPWF1jQWspZwF4FX7ouIid4bRQb820XdYdQzpgFYvlctD91t7dge0Y0JMFiNeRNy53Bzg5+FgWE+AXLV4vBf9TmHh7IrF79shK0RowksU/5UwK7GTrV45ANQNuJ0k265+XjaAVHePYfQ==;73xacCZeoPz0I1Z9Xl/w9A=="
 ---
 

@@ -28,8 +28,8 @@ images:
 related:
   - title: "Finally, machine learning interprets gene regulation clearly"
     excerpt: "In this age of \"big data,\" artificial intelligence (AI) has become a valuable ally for scientists. Machine learning algorithms, for instance, are helping biologists make sense of the dizzying number of molecular signals that control how genes function. But as new algorithms are developed to analyze even more data, they also become more complex ..."
-    publishedDateTime: 2019-12-26T15:01:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/cshl-fml122619.php
+    publishedDateTime: 2019-12-26T14:57:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/cshl-fml122619.php
     type: article
     provider:
       name: EurekAlert!

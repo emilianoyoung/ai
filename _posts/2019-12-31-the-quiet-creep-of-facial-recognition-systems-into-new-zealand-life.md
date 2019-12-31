@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
-excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
-publishedDateTime: 2019-12-24T06:30:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
+title: "The quiet creep of facial recognition systems into New Zealand life"
+excerpt: "Facial recognition systems have quietly crept into casinos, airports and some of New Zealand's biggest retailers. Inquiries by Stuff reveal the controversial technology is in use everywhere from SkyCity casinos to shops such as The Warehouse. A security sector insider said he was getting three or four times as many inquiries about the ..."
+publishedDateTime: 2019-12-31T16:03:00Z
+sourceUrl: https://www.stuff.co.nz/technology/118202977/the-quiet-creep-of-facial-recognition-systems-into-new-zealand-life
 type: article
-quality: 21
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+  - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
+    width: 700
+    height: 394
+    title: "The quiet creep of facial recognition systems into New Zealand life"
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -297,19 +293,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3682FE7917FDE24FDB7A86A69D8E4F91
         width: 600
         height: 315
-  - title: "The quiet creep of facial recognition systems into New Zealand life"
-    excerpt: "Facial recognition systems have quietly crept into casinos, airports and some of New Zealand's biggest retailers. Inquiries by Stuff reveal the controversial technology is in use everywhere from SkyCity casinos to shops such as The Warehouse. A security sector insider said he was getting three or four times as many inquiries about the ..."
-    publishedDateTime: 2019-12-31T16:03:00Z
-    sourceUrl: https://www.stuff.co.nz/technology/118202977/the-quiet-creep-of-facial-recognition-systems-into-new-zealand-life
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
-        width: 700
-        height: 394
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -336,6 +319,19 @@ related:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
         width: 700
         height: 393
+  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
+    publishedDateTime: 2019-12-24T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -355,6 +351,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "A4a7xaK2bBGB06qXt2gdJhEtJQYXK/FEusT+xFBICIxU+wBxFPhuIxqJ3DZt4mLxXiAV4c0SIUW2fJhb3dP4jqTSkCBhtcB5koZwWLpun6hzeBodhSvkAUrWz7Ec6MSdyHANmicFPa5voQ9UZRQeOunSz79kU6fa/HRME683NSl1sQL7cr33VqTLdERsiXtLbpavjLnC65tvHuKtaDEyd7RmMuBKc4j4traHsFbrSlczw07P5fLC5hLkySIdOu0XjskbK1Sd0r4O03Hb5iB4NA==;ExJC+Od3Lyibf1uCJ6PCxg=="
+secured: "itklBr1OWSSBvobNQaled01lav1VDi5dzZgR+q5VxtA8mNh8lMgwWAdetrGEMSG2QkFW3niT/CkhEY8rB4sBIoOxaGkmZDFhy9p8d4Wg+QPnAjqupG/fv61UGLemSctJuh4anmuoD7ouLSvhI2czFpTiuyWjdhI7PhfbF+ezffoE89ZW6LslYPPdpwL3uPDwVCr9KnL1Uw1cStgGYKyJpiquiT3r45P/G5P6vX/YFD99zrjBvCcC7FOIlYDl9hWueO2HBtobZ4laJZUHw9NSCw==;App45r/0DZ0jPG4Kbv0Wzw=="
 ---
 

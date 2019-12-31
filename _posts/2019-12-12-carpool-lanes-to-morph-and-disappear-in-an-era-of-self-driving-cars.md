@@ -86,19 +86,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
-    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
-    publishedDateTime: 2019-12-11T15:48:00Z
-    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
-        width: 640
-        height: 480
 
 secured: "dpJT/HVTzlAZD8YD8OOgJMLySbKzHHdyqnuRBaUWt3fAeriEfUgiThp2W4Fe3184VK1OiwaeHnItATCLQQSS97vUtUYF7xERrvYTJZghK4qPCVwF9X9SA2/XPGQlaTi6dLQVG38j+y5bxIZpzsEozjD+qxbiszXkEMI/841VieSR6Tv3ArDG/F4oLU0BknKpyx6+ZRf1Me/tqcj1xSphgGgqbjIKCslECWD489oL+A3JwdLkzkgEx1HjeE/w6m7kt5yIL0yUMuzmJEPBRERVjg==;YNF3a1S5pDvrYsaAaqWFsA=="
 ---

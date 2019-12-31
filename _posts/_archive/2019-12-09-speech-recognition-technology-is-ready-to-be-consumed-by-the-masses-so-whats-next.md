@@ -97,6 +97,28 @@ related:
       - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
         width: 300
         height: 250
+  - title: "Federal study finds race, gender bias in facial recognition technology"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
+    publishedDateTime: 2019-12-19T23:43:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
+    ampUrl: https://amp.usatoday.com/amp/2704291001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ... What enforceable rules does HUD have in place to ensure that biometric data collected by facial recognition technologies in federally-assisted properties are kept secure and subject to effective cybersecurity ..."
+    publishedDateTime: 2019-12-18T15:26:00Z
+    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
+    type: article
+    provider:
+      name: BuzzFeed
+      domain: buzzfeed.com
+    quality: 106
   - title: "Campaigners block use of facial recognition and ICE access to data"
     excerpt: "Activists have claimed victory in a long-running battle with US law enforcement to stop one of the most sophisticated and far-reaching facial recognition programmes. A facial recognition system used by more than 30 agencies across San Diego, California will be suspended on 1 January 2020, according to a new agenda published by the San Diego ..."
     publishedDateTime: 2019-12-12T12:13:00Z
@@ -157,21 +179,6 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
-  - title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
-    excerpt: "Delta is the first airline to launch a biometric terminal in the U.S. with facial recognition technology. (Delta Photo) The Port of Seattle established new rules governing the use of biometric screening Tuesday amid an ongoing global debate over facial recognition technology. The vote comes as civil rights groups pressure government agencies ..."
-    publishedDateTime: 2019-12-11T00:42:00Z
-    sourceUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/
-    ampUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 90
-    images:
-      - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
-        width: 700
-        height: 430
   - title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
     excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
     publishedDateTime: 2019-12-19T07:00:00Z
@@ -352,21 +359,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
-  - title: "Sea-Tac airport officials opt out of using facial recognition technology"
-    excerpt: "At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission unanimously approved a ..."
-    publishedDateTime: 2019-12-11T11:57:00Z
-    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238265333.html
-    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238265333.html
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.088E8F8E3210CC4987FBB31579FD05D2
-        width: 700
-        height: 393
   - title: "LAX embraces facial recognition tech, but Sea-Tac airport hits the brakes"
     excerpt: "As many U.S. airports, including LAX, rush to embrace the use of facial-recognition technology by airlines and U.S. Customs and Border Protection, Seattle-Tacoma International Airport is applying the brakes. On Tuesday, the Port of Seattle Commission (which manages Sea-Tac) unanimously approved a temporary ban on some uses of biometric ..."
     publishedDateTime: 2019-12-12T15:53:00Z
@@ -694,32 +686,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Homeland Security easing facial recognition rule for airports"
-    excerpt: "Homeland Security officials continue to step back from their published plan to require use of facial recognition technology on American citizens at U.S. airports when they arrive from or depart to international destinations. The Trump administration’s proposed mandatory use of the technology was included in the so-called unified agenda ..."
-    publishedDateTime: 2019-12-10T23:22:00Z
-    sourceUrl: https://www.sfexaminer.com/national-news/homeland-security-easing-facial-recognition-rule-for-airports/
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.86E927D067167D90496B78CBF77308AD
-        width: 700
-        height: 466
-  - title: "Sea-Tac airport officials opt out of facial recognition"
-    excerpt: "SEATTLE (AP) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission ..."
-    publishedDateTime: 2019-12-11T13:08:00Z
-    sourceUrl: https://www.chron.com/news/article/Sea-Tac-airport-officials-opt-out-of-facial-14898212.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.146A10B2DE80725E33B9460F9E7B3DD3
-        width: 700
-        height: 432
   - title: "Seattle Airport Wrestles with Government over Facial Recognition"
     excerpt: "The Port of Seattle Commission has banned the use of biometric technology, but they only control part of Sea-Tac. The part that is controlled by Custom and Border Protection will still implement facial recognition in July 2020. (TNS) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at ..."
     publishedDateTime: 2019-12-11T23:26:00Z
@@ -837,17 +803,6 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 53
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally-assisted housing. Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ..."
-    publishedDateTime: 2019-12-18T15:28:00Z
-    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 53
   - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
     excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
     publishedDateTime: 2019-12-23T04:01:00Z
@@ -891,21 +846,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
         width: 700
         height: 464
-  - title: "After leading the ban on facial recognition software, S.F. supervisor paves way for more exemptions"
-    excerpt: "San Francisco set a new standard this year when it threw up a wall against the acquisition, retention and use of facial recognition software by any of its departments. That surveillance ordinance came with built-in exceptions — for example, the city was off the hook if the district attorney formally requested it for prosecutorial functions or ..."
-    publishedDateTime: 2019-12-10T19:57:00Z
-    sourceUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.html
-    ampUrl: https://www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2019/12/10/after-leading-the-ban-on-facial-recognition.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.C7D758E7A90D73DB14C014AEAD3E582F
-        width: 700
-        height: 394
   - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
     excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
     publishedDateTime: 2019-12-20T19:25:00Z
@@ -991,32 +931,6 @@ related:
     images:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
-        height: 360
-  - title: "Police use of automated facial recognition technology lawful"
-    excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
-    publishedDateTime: 2019-12-10T23:01:00Z
-    sourceUrl: https://www.thetimes.co.uk/article/police-use-of-automated-facial-recognition-technology-lawful-h5wc9cndm
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2396353B89F822C2281C5574D23B668A
-        width: 685
-        height: 385
-  - title: "What facial recognition steals from us"
-    excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
-    publishedDateTime: 2019-12-11T00:26:00Z
-    sourceUrl: https://www.komando.com/video/komando-picks/what-facial-recognition-steals-from-us/696022/
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
-    images:
-      - url: https://i.ytimg.com/vi/ioqQZE4A4fg/hqdefault.jpg
-        width: 480
         height: 360
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
@@ -1196,17 +1110,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
         width: 700
         height: 393
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face ..."
-    publishedDateTime: 2019-12-19T23:50:00Z
-    sourceUrl: https://www.jsonline.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.jsonline.com/amp/2704291001
-    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2704291001
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
     publishedDateTime: 2019-12-19T21:53:00Z
@@ -1598,15 +1501,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
         width: 700
         height: 466
-  - title: "In the EU, facial recognition in schools gets an F in data protection"
-    excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
-    publishedDateTime: 2019-12-11T12:07:00Z
-    sourceUrl: https://www.accessnow.org/in-the-eu-facial-recognition-in-schools-gets-an-f-in-data-protection/
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 19
   - title: "Rostelecom to add facial recognition to video-surveillance service"
     excerpt: "The companies will cooperate on introducing facial recognition technology in the video-surveillance service from Rostelecom. The option could used on outdoor video-cameras installed by the national operator in public locations. The algorithm FindFace from NtechLab has already been implemented on Rostelecom's video cameras in Tyumen."
     publishedDateTime: 2019-12-18T12:55:00Z
@@ -1643,15 +1537,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 19
-  - title: "Sea-Tac is first airport to resist federal push for facial recognition and other biometric technologies"
-    excerpt: "SEATTLE At least for now, controversial facial-recognition technology won't be installed at boarding gates at Seattle-Tacoma International Airport, making the airport the first in the country to resist the rollout of a federal biometric identification program."
-    publishedDateTime: 2019-12-11T15:36:00Z
-    sourceUrl: https://www.mcall.com/business/sns-tns-bc-cpt-facialrecognition-seatac-20191211-story.html
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 18
   - title: "Research: Students of color at greatest risk for facial recognition errors"
     excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
     publishedDateTime: 2019-12-16T15:15:00Z
@@ -1671,6 +1556,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "4detEFJZ5xMaq4XxBr1CV23EYkOVGCTJ6Czn69Z+WZ+2f+zK8fLU2VWiTzgPgjqQqQqBobQstlvAkPU5pvqy+FrJ2fybx+V5vWwI8RTXPUUtbNESRwxZxC37uuoeiA7XglcjKErv2d30KMT7/rCPmWXsqDsk/ml2ktvbsBLmnHx3dAJc8qRei36zbP4pvzrLnf0YLWzR+75IvvGIYz7kJq2fPqxs2dWxpjC+9Bh51p5WRW/uSHxurgfaxMbSEn9Peo+RM1ax9WVS3+bzVclfTg==;e0ucE7PdX1SREUHXsA56YA=="
+secured: "vbGewRvJ/2Hpyew+y7hrwi/Yh37iRKZdccV8lyOHCYLf2GZGDwvVjutom4h5OUZpTYI628ICtD8uzaM4jT3yWSWRpLX7PQfvXMxatOQ257QgHYsc0rYbViZobRlVQ9LsrbVh7zhjUx4n/1vqjykBFtI1pScKde2aPL320TTr0RWwreTSsLi/kE/uRibV3GxsgPcphyYeSfn2ocUz9FI0jtAIspDV9KMVQWUNWP9+ccQLmRRxxIX6IVowiWL2iChbWI+RdggAb7hcEIAUZ8xodQ==;hk5qsX9G2Rad4I6psSWpAw=="
 ---
 

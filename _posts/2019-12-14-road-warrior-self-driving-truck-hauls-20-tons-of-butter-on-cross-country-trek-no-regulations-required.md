@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
         width: 700
         height: 367
-  - title: "Self-Driving Truck Goes From California to Pennsylvania"
-    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
-    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
-        width: 700
-        height: 393
   - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-11T16:11:00Z

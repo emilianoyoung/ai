@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
         width: 700
         height: 367
-  - title: "Self-Driving Truck Goes From California to Pennsylvania"
-    excerpt: "Dec.11 -- Shawn Kerrigan, Plus-AI co-founder and COO, talks about the evolution of driverless trucks and the technology. One of his self-driving trucks went from California to Pennsylvania with no problems. He appears on \"Bloomberg Technology.\""
-    publishedDateTime: 2019-12-11T15:10:00Z
-    sourceUrl: https://finance.yahoo.com/video/self-driving-truck-goes-california-151009303.html
-    ampUrl: https://finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/video/self-driving-truck-goes-california-151009303.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.686C082B1A97F94AE068DA62ED006E89
-        width: 700
-        height: 393
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "News hounds may have noticed a story this week about an autonomous truck completing a cross-country delivery of 40,000 pounds of butter. The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown."
     publishedDateTime: 2019-12-14T03:33:00Z

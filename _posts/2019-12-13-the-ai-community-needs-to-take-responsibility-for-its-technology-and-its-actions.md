@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AB0E0B5131FE10392AFA1BA20FD33CD4
         width: 700
         height: 393
-  - title: "How Robotics and AI Can Make Recycling Facilities Safer"
-    excerpt: "Two growing technologies, robotics and artificial intelligence (AI), have been entering the industry at a more rapid pace. And one of the companies ensuring that recycling facilities across the nation are installing and operating these technologies in a ..."
-    publishedDateTime: 2019-12-11T15:18:00Z
-    sourceUrl: https://www.waste360.com/fleets-technology/how-robotics-and-ai-can-make-recycling-facilities-safer
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.EF1E6017C4BBE9DEB249195CC21C9849
-        width: 700
-        height: 400
   - title: "The World Is Changing Too Fast"
     excerpt: "“2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imagin"
     publishedDateTime: 2019-12-18T08:53:00Z

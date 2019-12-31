@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 174
+heat: 175
 published: true
 
 provider:
@@ -163,6 +163,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "5DAdcDZKQgaRYjMeJQxR0v3x1CTv7lzaOP/CbkKQK/akoI+gb/Cxv71UNMqgnhy9IiZYnEIkNtO7Hu9jenxPQhSdw8s/2im4i840X7l3XRnDYcNR04mFvB1d+jtr8X1s3ib+OB9GXK4paTbpQZvv9rVIqkUB2FatjGFeDO+vRDZ0WkQA6L0MijvIzyVxeq3fv+lyJXTVIV3wePTAIastdiMckETRFWUsQTfdGLsjeanBRHZ5ZNKu1JfigYGx5mMLfo0G7CTgRNLhgc8aH45frQ==;GKAuXIkR5m0he0sEgT4o/w=="
+secured: "Uta1Ey578aeJsMX+WCHbH4GaPUiowywmPa7AZu9jY1yo7fTb06EqbD27iR0kX4daKJ+kJq9qRI/ChUfySzaNRTKcuwwE4mTqSO/+aN7khh2OYxg6MR+OKRG5lhbwhmh4L319p/nFlS6DmKwfCMrpMCPFrt8kDdZJuykGP5NVRUTExvCfbXuZcDAilVmpSUKZTska90pF7ZPKrVj14iDqgOJSxd8TlSbDW6rNNFkiy+dJHhEcDH6dddx4vQEkfLJ8Hvf5QsNALHdgeXVtin2q6g==;psDHEhKaHeHUgM9KYM6HtQ=="
 ---
 

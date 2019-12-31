@@ -37,21 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.84424280818CFC6C57669F736294D13C
         width: 700
         height: 509
-  - title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
-    excerpt: "The Caisse de dépôt et placement du Québec and the Public Sector Pension Investment Board (PSP) are among a group of at least 14 investors pumping $229 million into an international fintech fund run by Portag3 Ventures ... a Series A investment round for Toronto-based Integrate.ai, a cloud-based machine-learning platform that allows ..."
-    publishedDateTime: 2019-12-11T15:21:00Z
-    sourceUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed
-    ampUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
-        width: 700
-        height: 525
   - title: "People’s Republic of Fintech"
     excerpt: "She continues to explain that the newly released plan emphases on the importance of using emerging technologies such as AI, big data, cloud computing, virtual identification to empower the ﬁnancial services. Fintech is encouraged to be used in achieving ﬁnancial efﬁciency, risk control and effective regulation. “The Plan indicates the n ..."
     publishedDateTime: 2019-12-18T10:22:00Z

@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Fight against facial recognition hits wall across the West"
-excerpt: "The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a bipartisan U.S. alliance ..."
-publishedDateTime: 2019-12-30T10:03:00Z
-sourceUrl: https://news.yahoo.com/fight-against-facial-recognition-hits-100324645.html
+excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
+publishedDateTime: 2019-12-30T10:09:00Z
+sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
+ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Politico
+  domain: politico.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.43FB0DC7F558CB2BD71087B508328FE1
+  - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
     width: 700
     height: 466
     title: "Fight against facial recognition hits wall across the West"
@@ -278,6 +280,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3682FE7917FDE24FDB7A86A69D8E4F91
         width: 600
         height: 315
+  - title: "The quiet creep of facial recognition systems into New Zealand life"
+    excerpt: "Facial recognition systems have quietly crept into casinos, airports and some of New Zealand's biggest retailers. Inquiries by Stuff reveal the controversial technology is in use everywhere from SkyCity casinos to shops such as The Warehouse. A security sector insider said he was getting three or four times as many inquiries about the ..."
+    publishedDateTime: 2019-12-31T16:03:00Z
+    sourceUrl: https://www.stuff.co.nz/technology/118202977/the-quiet-creep-of-facial-recognition-systems-into-new-zealand-life
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
+        width: 700
+        height: 394
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -336,6 +351,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "2sYQZQabNZkxUGWuDFeMwaiD4af8cANkbBsGrMNZpN7nrYxsGFWGiR8QAnrUs3IQyocELWheQrYXbAsaJzzvUUpBm9FOonQ53s7Uv8VA4DPfGPT8flGOcdoZSDmuSztbLZk8umM4cYJJ9PwFXiHT2WshCMufWkrpgJtYBb5QxOpC5FrokF5paDApEAOODfVtBy3p2ihkq6LZf2qjGcWDVlPpW0EiBlKBelzZ++bRGR8gm7fQ3lCEk/G2DjkABc12WkQta9OPs2skmmrg+xXtYA==;uPKiCexgd78T+Dg5iZKvqw=="
+secured: "oLJl7j5Ry80FFOGckW1K9u384JCcISBFnjlacccp5HtB5CfvbfQ0NUzmKX2JqyzJTUoRd08HJwc8mWhrcBXpiMPQ7u7726gipmH2MeL9pp25y5KpvGCXQOU+5aOyoV232xFmAUweaQPbe2GgrWRRrcGSLAIygaQZ8/VeMMRfzoqeeSRYMvZ80OxXNBq/WQfoXJNZDiq4JG6kXQf+RIWxxQW852fxfwUYCqZQQ4Du8nSJuKhBYIOLRN0IcPU4zHO3DYv/f+fEsWmkJnPxkWGYLQ==;jvAEwUnzCJNWJJDvl0YIGw=="
 ---
 

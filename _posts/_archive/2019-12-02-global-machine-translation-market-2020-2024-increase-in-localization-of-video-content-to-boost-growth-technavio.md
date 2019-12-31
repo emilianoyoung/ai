@@ -26,19 +26,6 @@ images:
     title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
-    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
-    publishedDateTime: 2019-12-02T13:19:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
-        width: 800
-        height: 419
   - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
     excerpt: "Machine translation engines are a good tool, but they are unable to break down language barriers. In the development of machine translation, the next step is to improve the translation of audiovisual material. Many of us are familiar with Google Translate ..."
     publishedDateTime: 2019-12-02T08:52:00Z
@@ -53,6 +40,6 @@ related:
         width: 1200
         height: 630
 
-secured: "B25rJpDCrfabxMsOi/CZootstCz2Tq1f8QsmWwNGXkrDeMSfYqalKpxUoEEXenDxn17yea8lXypAc8KQpqcSOd0PX8Ecd+I6vykViEf18e7+QZnHnXDkBIE2viNF5Cq+LXtx9edZDtwa9FwLp5WNlYAL8QVe8VAhvRm3UYT6lEFCctJSxlx0WAtaJCL3brpSJjaQ31aAVGKzAjV+SK/vlqTBJbTyRbIFkgJZ9VJLHm8dOyXiXCVSLfljbFJUUFSwfQ9RflGnh8zBxJgnn9BxkA==;67sLqTHWn7wi5JCB+rtOSg=="
+secured: "P9KUvL3nLH1KSsvI9hiZLQbWuj+YEf5uiOMW3RYKHh/Uh1gQ+3MYaRJOQfejkeYohDggPalyoJLep/mZbzgD7UA41GF5lBgR+8JJoil0pE8AbXIVEC/W3km3SsUt+doitU62h/80tcHV4/4UVm348UUj49BeGdH90VXEUzOzKmWCIop8mrK0zDYPWSeAEbGjnuezwqHH6aHuWvNrCb2mtpqfyXlKGqNUsNfJdPChy+WeN+4YLiaZ51RkiLgIyVk/v/CZMvKEnXUIaU4y78z11w==;vRllXgqtg5s6dyC3jKtgSg=="
 ---
 
