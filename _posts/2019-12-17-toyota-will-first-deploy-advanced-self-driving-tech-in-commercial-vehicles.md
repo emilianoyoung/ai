@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
         width: 700
         height: 466
+  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
+    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
+    publishedDateTime: 2019-12-11T01:33:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/
+    ampUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4EF6CDA22ACE58335CF9816F17F8BC03
+        width: 700
+        height: 366
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
     publishedDateTime: 2019-12-11T11:14:00Z

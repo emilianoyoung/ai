@@ -76,6 +76,19 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 39
+  - title: "20 AI Predictions for 2020"
+    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
+    publishedDateTime: 2019-12-31T01:31:00Z
+    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
+        width: 300
+        height: 231
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
     publishedDateTime: 2019-12-30T16:00:00Z

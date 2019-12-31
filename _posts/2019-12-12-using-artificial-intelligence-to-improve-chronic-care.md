@@ -138,6 +138,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
+  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
+    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
+    publishedDateTime: 2019-12-11T15:48:00Z
+    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
+        width: 640
+        height: 480
 
 secured: "wC89hSGKt2rIEk482/2RY3WNwcMTbsEFutp7uxCmCPVc2kZDp6H88IdK97Sdngfxv36PhObSzv/iqVDbtCOcq/ySM2z+G7bzBer9Q48u2FrwxK0u2l3U1WqxuCr7LVkNu6NgG01fvOCmIW+Kj0Kl3Ofu/8JRDyHSZUwgvfjyc207YkjHBLbHCp51jo98GMRNuKJ3OqiRL9Nhdn3H1EJw1JEH0jBcvHccaY3gw7NzDpufX++U+8i1UVzs8e34X+3RInJ09SBXBL8KorJrRyyiBA==;zWdu2iqmQ4Y9Lg7kunbAIQ=="
 ---

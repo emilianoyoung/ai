@@ -39,21 +39,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:55:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50679791
-    ampUrl: https://www.bbc.com/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
-        width: 1024
-        height: 576
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -67,21 +52,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
-    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
-    publishedDateTime: 2019-12-11T00:12:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:47:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
-        width: 578
-        height: 289
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
     publishedDateTime: 2019-12-06T11:15:00Z
@@ -135,6 +120,6 @@ related:
         width: 580
         height: 358
 
-secured: "EraiCJEkoBpGYie+RPTubCdNvMx+xaOhJPOqzOfXcCX9Uz/+kJZw39+DsLWMgf8n1poG78AnTyLOIld7J0A6GS7PW6Hdgw49YTEt1l63qsz8ATbpKn78XNLthGY3qxCmTWtYser1kV2cAbX5+8bESIVQhcMJdQ/nUAy0DtJotOtxeZVtWXu26sOobi34e7DJb54U3DGJr0SU2moDeE/v2ug9yl107LgyoTtAEWDrgXh2tPRj4BwzVWD7qusBeLS9xJDH9C/hyltDgVXgU11OMA==;rD9aNJ3QYNN6uHZLFEanpA=="
+secured: "io1L1gThgCWb0C8dHLLA4aSMO/deP9lnE60y8pjOqHrp+LtlaxSI7x3iq6kcJPuDqZRdqPMELp/vv39y9oPysfCBOdyTTdbTFWKcDqR04HVDGODPxBjWNlFqhODbW5WJmOZZTKYX9/uCOQc8Tqt9ok4P8ZiZF2i9QHYaPyZTxLC3D+YcHye/dLAzkVezRKIaeToYkktziHGIniZ//l13gdXimmrPKkrlHCUNNIwLz52izVUmT+B17txaRvqw3Y2mvGlJz7CzHOiShIhoUSiepA==;DmkNBJkLFBBTqSM3CRTzTA=="
 ---
 

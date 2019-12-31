@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -142,7 +142,20 @@ related:
       - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
         width: 700
         height: 445
+  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
+    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
+    publishedDateTime: 2019-12-11T15:48:00Z
+    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
+        width: 640
+        height: 480
 
-secured: "u77O03H3BJX8kzqM6NoQFz848XAU2+d4AwbdCuNxAd+hV1Y7IwidNt0VyLrvZH4PoRYEauz7xQ90JAW5UHEyZG7+/ubzI2L9EB6b39bDgqPsffXLazhIA6sKgf0/2JtBGrdg4Lf7WxnpzlGYpbzrLuBtbyjDe4D+DB9i6sK/xHuCgHVJWpia6yPqhWCMmB0NUvS3MBpFD7KnTU1iPu57qvbqRBWdcMJ67NJ7Fy8uIhUrYwxV07LXjSpgV4amnP5GgpU0XCwrtOkVLSUxEpqvdQ==;lgbG9R4LFhSLgym2wEACKg=="
+secured: "89I4tXAUxJuWQPyH8TvwoNNZNOIXzndA3dRVk8HfEUutaFP+7njnVEBHeP9toazwDKETq+4AbN3UsCHYzFri4Klj06UTVC4Tfv7jDOGh/fTCUIyiG/WIuOWg7WU61MUZyQqpAsLOEKn/MHcMV8GwNNNiYKCZpPU07RoDhWsh9dbHJjHWsAoNc3CnL7DKEVaUlDIJwvwPqIIjo2M50t1HpopX1XnnsBSiyNwKfqyPl0kmeUfxfqx+r8JpvD/AOVWbOqZib68pgw597Sfa/CunWw==;oFtTc8GbO6fy9n7pXZgf+A=="
 ---
 

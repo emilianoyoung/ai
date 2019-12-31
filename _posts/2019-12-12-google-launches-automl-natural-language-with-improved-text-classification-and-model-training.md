@@ -47,19 +47,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9FEDFDF65EEAF37E845DEE3DBDD3ED4D
         width: 600
         height: 315
-  - title: "AI and the Next Generation of Omnichannel Engagement"
-    excerpt: "To accomplish this, the next generation of omnichannel technology and consumer communication strategies lie within artificial intelligence (AI). Automation Through Self-Service While AI has already begun to impact customer service, there is much more still to come. For example, Salesforce’s new State of Service report predicts that AI will ..."
-    publishedDateTime: 2019-12-11T00:49:00Z
-    sourceUrl: https://customerthink.com/ai-and-the-next-generation-of-omnichannel-engagement/
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: https://customerthink.com/wp-content/uploads/pixabay_internet-1593384_1280-online-shopping-1.jpg
-        width: 1280
-        height: 643
 
 secured: "LzwXR4gTrYILsO7vCB4KNumKRWKe5Ps4GFiDQ+40F02lIz/Tl14o6tge4pxo27F9yrvm4VQt/zt373NjjSufpZtxPewfk0WyTnrWP7kqjKXDKAk0Hlu3GBarlwdXCDu/F4C+YrFL2mnzpfArMfy4+SCT+407sh/6iC+HbdS1+lABa/T0BGOXqccPYylgSHD7E0R+0NSTfnjecL1+n2WrNZ5/bys6iumPZ/fsp7uUT2bhB7436LGMAWN2RcYiA82SFphQqrLpKGGqdPTVPa/sWQ==;w5OFy3ktpIhqtz6Un3v+Zw=="
 ---

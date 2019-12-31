@@ -76,6 +76,19 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 39
+  - title: "20 AI Predictions for 2020"
+    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
+    publishedDateTime: 2019-12-31T01:31:00Z
+    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
+        width: 300
+        height: 231
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z

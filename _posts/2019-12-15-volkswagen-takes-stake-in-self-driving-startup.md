@@ -24,19 +24,21 @@ images:
     title: "Volkswagen Takes Stake In Self-Driving Startup"
 
 related:
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-11T00:09:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/walmart-partners-self-driving-startup-151221887.html
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-13T10:45:00Z
+    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
+    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 110
+      name: Engadget
+      domain: engadget.com
+    quality: 101
     images:
-      - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
+      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
-        height: 412
+        height: 367
   - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
     excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
     publishedDateTime: 2019-12-11T14:10:00Z
@@ -52,161 +54,179 @@ related:
       - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
         width: 700
         height: 350
-  - title: "Walmart teams with Nuro’s robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company’s employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-12T03:24:00Z
-    sourceUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/
-    ampUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
+  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
+    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
+    publishedDateTime: 2019-12-13T11:54:00Z
+    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.75BA2FADB57F25FA0E972394C2101F38
+      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
-        height: 449
-  - title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
-    excerpt: "Porsche Automobil Holding SE, the parent of Volkswagen, on Wednesday said it has acquired a minority stake in Aeva Inc., a Mountain View self-driving tech startup founded by a pair of former Apple Inc. engineers. The financial details weren't disclosed but the auto giant reportedly plans to use Aeva's lidar sensors on Volkswagen ID Buzz buses ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
+        height: 350
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 56
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
-        height: 394
-  - title: "Walmart testing self-driving vehicles for grocery deliveries"
-    excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
-    publishedDateTime: 2019-12-11T15:56:00Z
-    sourceUrl: https://6abc.com/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    ampUrl: https://6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    cdnAmpUrl: https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
+        height: 388
+  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
+    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
+    publishedDateTime: 2019-12-13T10:05:00Z
+    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
+    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
+      name: London Free Press
+      domain: lfpress.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
+        width: 700
+        height: 525
+  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
+    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
+    publishedDateTime: 2019-12-12T14:03:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
+    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.009584158FE78676CDE37472B1FFBE2C
+      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
         width: 700
-        height: 393
-  - title: "Walmart will deliver groceries in Houston using self-driving cars"
-    excerpt: "The company announced a new test yesterday in the Houston, Texas area using technology from Nuro, an autonomous vehicle company. Nuro will use electric, self-driving vehicles to deliver groceries from a select group of Walmart stores in Houston, according to CNBC. A pilot group of customers who opted in to the test will be the first to get ..."
-    publishedDateTime: 2019-12-11T15:20:00Z
-    sourceUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html
-    ampUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
+        height: 350
+  - title: "Google's self-driving car project buys British AI firm Latent Logic"
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    publishedDateTime: 2019-12-12T17:21:00Z
+    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
-        width: 700
-        height: 393
-  - title: "Self-driving food delivery service launches in Ann Arbor"
-    excerpt: "ANN ARBOR, MI -- Robotic food delivery is now available in Ann Arbor. Refraction AI has long been working on the Rev-1, a self-driving robot that delivers food from restaurants to customers, and the Ann Arbor-based company is launching the service to the public Thursday. Upon ordering, a code and delivery notifications will be sent and once the ..."
-    publishedDateTime: 2019-12-12T15:05:00Z
-    sourceUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html
-    ampUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
-    cdnAmpUrl: https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
+      name: The Guardian
+      domain: theguardian.com
+    quality: 39
+  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
+    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
+    publishedDateTime: 2019-12-13T17:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.112FFA02A105E6FA7F04CBAB8BCF3369
-        width: 700
-        height: 455
-  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
-    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
-    publishedDateTime: 2019-12-11T01:33:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/
-    ampUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.4EF6CDA22ACE58335CF9816F17F8BC03
-        width: 700
-        height: 366
-  - title: "Walmart teams with Nuro's robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company's employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-11T18:45:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Walmart-teams-with-Nuro-s-robot-cars-to-deliver-14899147.php
+      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
+        width: 635
+        height: 400
+  - title: "Hungarian self-driving developer wins AI competition"
+    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
+    publishedDateTime: 2019-12-18T07:00:00Z
+    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Budapest Business Journal
+      domain: bbj.hu
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.EA24B65D418B5E3B753629E0CAD79FC3
-        width: 700
-        height: 466
-  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
-    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
-    publishedDateTime: 2019-12-11T15:48:00Z
-    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
+      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+        width: 1200
+        height: 800
+  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-12T20:20:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
+      name: Barron's
+      domain: barrons.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
-        width: 640
-        height: 480
-  - title: "Walmart testing self-driving car in Houston to deliver groceries"
-    excerpt: "The future of grocery shopping is already in Houston! Driverless delivery is being tested in H-Town right now! Why? Lauren Talarico connects the dots."
-    publishedDateTime: 2019-12-12T11:23:00Z
-    sourceUrl: https://www.khou.com/video/news/local/htownrush/walmart-testing-self-driving-car-in-houston-to-deliver-groceries/285-8a7add68-464f-4ab4-99dc-91a2925606dd
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
+        width: 700
+        height: 350
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
+    publishedDateTime: 2019-12-13T19:04:00Z
+    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
+    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 24
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.155F4D16A613CB98347A009F76161713
-        width: 700
-        height: 393
-  - title: "Walmart Will Test Self-Driving Grocery Deliveries"
-    excerpt: "Grocery deliveries have always been around, but some companies have been trying to take it to the next level. Walmart has recently announced that it will start testing self-driving vehicles to help deliver groceries through a partnership with a company called Nuro. Walmart says, “Our unparalleled size and scale have allowed us to steer ..."
-    publishedDateTime: 2019-12-12T07:19:00Z
-    sourceUrl: https://www.geeky-gadgets.com/walmart-will-test-self-driving-grocery-deliveries-12-12-2019
+      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
+        width: 415
+        height: 290
+  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
+    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
+    publishedDateTime: 2019-12-13T17:32:00Z
+    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
+    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
+      name: Barron's
+      domain: barrons.com
+    quality: 27
     images:
-      - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
+      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
-        height: 457
-  - title: "Self-driving bus goes for a test ride in Osaka"
-    excerpt: "OSAKA – Osaka City Bus Corp. took media representatives for a test ride on a self-driving bus Monday. The affiliate of subway operator Osaka Metro Co. aims to start autonomous bus services in fiscal 2020, which starts April 1, in the city’s waterfront area. A French-made Navya Arma autonomous bus was used in the test. When manual driving is ..."
-    publishedDateTime: 2019-12-16T12:13:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/16/business/self-driving-bus-goes-test-ride-osaka/
+        height: 350
+  - title: "Ford adding to Austin self-driving car operation"
+    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
+    publishedDateTime: 2019-12-11T22:48:00Z
+    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
     type: article
     provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
+      name: Austin American-Statesman
+      domain: statesman.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
+      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
         width: 700
-        height: 466
+        height: 465
+  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+    publishedDateTime: 2019-12-13T12:21:00Z
+    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+        width: 700
+        height: 413
+  - title: "How AI shifts enterprise decision-making into self-driving mode"
+    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
+    publishedDateTime: 2019-12-12T18:47:00Z
+    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
+    type: article
+    provider:
+      name: Harvard Business School
+      domain: hbs.edu
+    quality: 19
 
 secured: "OysKnH6LgAqTlp7L5O+lYPIFn4VbkHRyIPsA4Ji/7JLJNFqWwHoBaolNWaw1J8rgwU6KtFSnzejvjEBBjge3A2vcagSSSS0dGvYP8ZSitz25eJW6ze9hhL+/L1UC48oJ6urP8y6dSfT4tmOqyobMyTCNFEChVa1X27NvwVnC7i+ceV5AmTFgR9m4i6xo26NS1iMuhgvG5tbgFlQl4vYpGLaf6bOPrH6t/4CE19B4Ivo99nwnHZJvB1tER/modppiMK3fakw3REMktSbrPyP8Aw==;BEVJZwMX89NsWGt04HiHZw=="
 ---

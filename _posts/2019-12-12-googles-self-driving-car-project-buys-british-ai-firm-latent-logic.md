@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
         height: 367
+  - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
+    excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
+    publishedDateTime: 2019-12-11T14:10:00Z
+    sourceUrl: https://www.wsj.com/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
+    ampUrl: https://www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
+    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
+        width: 700
+        height: 350
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z
@@ -175,6 +190,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
         width: 700
         height: 465
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
   - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
     excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
     publishedDateTime: 2019-12-13T12:21:00Z

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The Future of the Brain: Implants, Ethics, and AI"
-excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. David Bueno, a geneticist at the University of Barcelona, said we might tailor people’s ..."
+excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. Walter Greenleaf, a neuroscientist at Stanford, asked if gene editing would diminish neurodiversity."
 publishedDateTime: 2019-12-30T18:00:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
-ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
+ampUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
 type: article
 quality: 74
 heat: -1
@@ -57,6 +57,6 @@ related:
         width: 700
         height: 393
 
-secured: "2VLGDxNMkb6sKXoHMrcDih8MSxs4rKQJUrynLE/zZDd3dJ3Whll3aToh3iL89nv/FX0Uf9vUo19bQ6mZGUD95XjZHEZOs6OCoYpyzWsBlNDD4v8fvRYHZHVG92YWs2XRaxxG/nCw2fbfz69Q0DrMaNKL8nwBLziYARLTUWEicdpClu3507UXTRWYO4R8BoAZoIhzD8jHo8l0FnF9WqRVDloVgcPykuoYEbObhciMmEfxvuNh1b2em6hbAInt/AsRneXv9IaCXmbHGw3LzUTI7A==;CesRDH6xELpfYNKW6862fw=="
+secured: "iquHOexyvT4h22OOIhtM5hJmyMDlBBVJwmhUBcvmA+NSFY03GY89up17Z3DjGpW3L56DyPd5/SweWZUX9AtRVT6TPfojkBbvmBWjUfVxZIj0F/Ril4tHF9/l/99P1Ghj6mUq/ZyFFxBIz/aozNVKxdc4tn0LPKa1f5egcSiZfE6Mck1TrRDyWeealX3UDvXwYKSIZsheLKFBxMQWgm4ECDGhVGgjAxtp61seqeqUYotI3LQqOs1frTfrKvKtIRN1cNI+RimlLu9kyKq1FYfWGw==;hCfxDuy6rG6BKo6AR7vW6A=="
 ---
 

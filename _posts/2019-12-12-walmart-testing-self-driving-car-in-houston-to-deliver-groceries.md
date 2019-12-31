@@ -24,189 +24,159 @@ images:
     title: "Walmart testing self-driving car in Houston to deliver groceries"
 
 related:
-  - title: "Walmart partners with self-driving startup Nuro to test autonomous grocery delivery in Houston"
-    excerpt: "Walmart this morning announced a new pilot program that will test autonomous grocery delivery in the Houston market starting ... from SoftBank Vision Fund. Nuro is known for its pursuit of autonomous delivery. But it also licensed its self-driving vehicle technology to Ike, the autonomous trucking startup. Ike now has a copy of Nuro’s stack ..."
-    publishedDateTime: 2019-12-11T00:09:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/walmart-partners-self-driving-startup-151221887.html
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T22:58:00Z
+    sourceUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/
+    ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
+        width: 600
+        height: 400
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
+        width: 700
+        height: 466
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
+        width: 1200
+        height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-15T00:05:00Z
+    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 110
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8A7EF7DD04E78DAC0C3F4DABEBD5348B
-        width: 700
-        height: 412
-  - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
-    excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
-    publishedDateTime: 2019-12-11T14:10:00Z
-    sourceUrl: https://www.wsj.com/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    ampUrl: https://www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
-        width: 700
-        height: 350
-  - title: "Walmart teams with Nuro’s robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company’s employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-12T03:24:00Z
-    sourceUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/
-    ampUrl: https://www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/walmart-teams-with-nuros-robot-cars-to-deliver-groceries-in-houston/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.75BA2FADB57F25FA0E972394C2101F38
-        width: 700
-        height: 449
-  - title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
-    excerpt: "Porsche Automobil Holding SE, the parent of Volkswagen, on Wednesday said it has acquired a minority stake in Aeva Inc., a Mountain View self-driving tech startup founded by a pair of former Apple Inc. engineers. The financial details weren't disclosed but the auto giant reportedly plans to use Aeva's lidar sensors on Volkswagen ID Buzz buses ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
-        width: 700
-        height: 394
-  - title: "Walmart testing self-driving vehicles for grocery deliveries"
-    excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
-    publishedDateTime: 2019-12-11T15:56:00Z
-    sourceUrl: https://6abc.com/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    ampUrl: https://6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    cdnAmpUrl: https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.009584158FE78676CDE37472B1FFBE2C
-        width: 700
-        height: 393
-  - title: "Walmart will deliver groceries in Houston using self-driving cars"
-    excerpt: "The company announced a new test yesterday in the Houston, Texas area using technology from Nuro, an autonomous vehicle company. Nuro will use electric, self-driving vehicles to deliver groceries from a select group of Walmart stores in Houston, according to CNBC. A pilot group of customers who opted in to the test will be the first to get ..."
-    publishedDateTime: 2019-12-11T15:20:00Z
-    sourceUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html
-    ampUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
-        width: 700
-        height: 393
-  - title: "Self-driving food delivery service launches in Ann Arbor"
-    excerpt: "ANN ARBOR, MI -- Robotic food delivery is now available in Ann Arbor. Refraction AI has long been working on the Rev-1, a self-driving robot that delivers food from restaurants to customers, and the Ann Arbor-based company is launching the service to the public Thursday. Upon ordering, a code and delivery notifications will be sent and once the ..."
-    publishedDateTime: 2019-12-12T15:05:00Z
-    sourceUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html
-    ampUrl: https://www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
-    cdnAmpUrl: https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2019/12/self-driving-food-delivery-service-launches-in-ann-arbor.html?outputType=amp
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.112FFA02A105E6FA7F04CBAB8BCF3369
-        width: 700
-        height: 455
-  - title: "Tesla On Autopilot Crashes Into Cop Car Because Driver Was Checking On Dog And It's Not A Damn Self-Driving Car"
-    excerpt: "Just in case you needed a little reminder as to whether or not you lived in a fictional 2019 where we have fully autonomous, self-driving vehicles or the actual 2019 where we have, at best, partially self-driving vehicles that require constant driver attention, this should be a good reminder: Over the weekend, a Tesla Model 3 with Autopilot ..."
-    publishedDateTime: 2019-12-11T01:33:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/
-    ampUrl: https://www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2019/12/tesla-on-autopilot-crashes-into-cop-car-because-driver-was-checking-on-dog-and-its-not-a-damn-self-driving-car/amp
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4EF6CDA22ACE58335CF9816F17F8BC03
-        width: 700
-        height: 366
-  - title: "Walmart teams with Nuro's robot cars to deliver groceries in Houston"
-    excerpt: "Though the current delivery system relies on the company's employees, Walmart has invested heavily in robotics in recent years, introducing thousands of automated shelf-scanners, box-unloaders, artificial-intelligence cameras and other machines. By filling roles traditionally left for human workers, critics say the changes have come at the ..."
-    publishedDateTime: 2019-12-11T18:45:00Z
-    sourceUrl: https://www.sfgate.com/news/article/Walmart-teams-with-Nuro-s-robot-cars-to-deliver-14899147.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EA24B65D418B5E3B753629E0CAD79FC3
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
         width: 700
         height: 466
-  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
-    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
-    publishedDateTime: 2019-12-11T15:48:00Z
-    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
+      name: Engadget on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
-        width: 640
-        height: 480
-  - title: "Walmart Will Test Self-Driving Grocery Deliveries"
-    excerpt: "Grocery deliveries have always been around, but some companies have been trying to take it to the next level. Walmart has recently announced that it will start testing self-driving vehicles to help deliver groceries through a partnership with a company called Nuro. Walmart says, “Our unparalleled size and scale have allowed us to steer ..."
-    publishedDateTime: 2019-12-12T07:19:00Z
-    sourceUrl: https://www.geeky-gadgets.com/walmart-will-test-self-driving-grocery-deliveries-12-12-2019
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.DF1A69D494C4D49D8A3ADADD409BEB63
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
         width: 700
-        height: 457
-  - title: "Volkswagen Takes Stake In Self-Driving Startup"
-    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
-    publishedDateTime: 2019-12-15T18:34:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+        height: 367
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-16T00:03:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
     type: article
     provider:
-      name: MediaPost
-      domain: mediapost.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 24
     images:
-      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
-        width: 600
-        height: 375
-  - title: "Self-driving bus goes for a test ride in Osaka"
-    excerpt: "OSAKA – Osaka City Bus Corp. took media representatives for a test ride on a self-driving bus Monday. The affiliate of subway operator Osaka Metro Co. aims to start autonomous bus services in fiscal 2020, which starts April 1, in the city’s waterfront area. A French-made Navya Arma autonomous bus was used in the test. When manual driving is ..."
-    publishedDateTime: 2019-12-16T12:13:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/16/business/self-driving-bus-goes-test-ride-osaka/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8B3953AC5574BA956B27E2F0709E0B0D
+      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
         width: 700
         height: 466
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+        width: 700
+        height: 466
+  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
+    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
+    publishedDateTime: 2019-12-15T05:11:00Z
+    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 12
+    images:
+      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
+        width: 668
+        height: 355
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "W0t8ZwTlbHZxgX+hZD6WZBzPnzG/sdK1d9mrHq1VPyK7FPnJ/MZH5Cu1dTgRshpXcpKgKk2CySI1+4KAyaVErEDlj76fTO78u1Z0a882sLdTvhfMvtmZXL3IbWeZgALszggGfB8TizR1SlCqhnWOiic7w6DwWKFl6fshqLgn0sxHwNvExp2+uP1WavAdn+ck5cPopEF/g9ePxrPXdUy+mboPUrL8lclqtFU9qRsfpFryoOTLl0FWDyBrIM4UsO1GPZ/FDnTLSGULX3aC7EZoxQ==;40bai7ecOB2Rg6t4MXIiZQ=="
 ---

@@ -185,21 +185,6 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
-  - title: "Seattle port officials approve face recognition guardrails as feds waffle on the controversial tech"
-    excerpt: "Delta is the first airline to launch a biometric terminal in the U.S. with facial recognition technology. (Delta Photo) The Port of Seattle established new rules governing the use of biometric screening Tuesday amid an ongoing global debate over facial recognition technology. The vote comes as civil rights groups pressure government agencies ..."
-    publishedDateTime: 2019-12-11T00:42:00Z
-    sourceUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/
-    ampUrl: https://www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/seattle-port-officials-approve-face-recognition-guardrails-feds-waffle-controversial-tech/amp/
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 90
-    images:
-      - url: https://www.bing.com/th?id=ON.7237B68D90816B2D52899C8878A3CCAF
-        width: 700
-        height: 430
   - title: "U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
     publishedDateTime: 2019-12-19T23:39:00Z
@@ -965,19 +950,6 @@ related:
     images:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
-        height: 360
-  - title: "What facial recognition steals from us"
-    excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
-    publishedDateTime: 2019-12-11T00:26:00Z
-    sourceUrl: https://www.komando.com/video/komando-picks/what-facial-recognition-steals-from-us/696022/
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 39
-    images:
-      - url: https://i.ytimg.com/vi/ioqQZE4A4fg/hqdefault.jpg
-        width: 480
         height: 360
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."

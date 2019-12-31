@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Google DeepMind gamifies memory with its latest AI work"
-    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
+    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
     publishedDateTime: 2019-12-02T22:10:00Z
     sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
     ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
@@ -43,7 +43,20 @@ related:
       - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
         width: 700
         height: 525
+  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
+    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
+    publishedDateTime: 2019-12-05T19:56:00Z
+    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
+        width: 760
+        height: 428
 
-secured: "ftz0uym7t1ZuwO+19Q5M2Cbkgy4r3214d8B/2xuyPbid1j1bceBVgmYAhZkypnaPGJ7XUtICxjPJhx821/PICb99ciH7h+eyb/kJKesAUG2zEnKJLYsRebIo8hbM6Amx+ZVBS5J93EPHxtIa+PYNRKmCyIsAb7KJhF/k4Bo/hb2xzPcYZnrrWZ4NrzeZebyfOVP6mmXNhIa+e8qNQ7l7J7TSheKU5xWgBFgZR4CgpTbfYvSiqvFX+yWq9wWSFGxg8IMKlbvn/1zRi1kU4qE9gg==;9Ci8vS/I9hBbksGR9L+zkg=="
+secured: "fQMoKUBKtU2kruZUwjUn+1sW0j66qOwhFx5f8CF8Ky6CNdHeMNRwN8Q4brYUwkowbiQgtNKydggpfYknios7lUUPRJ3H7wZEslTi2L/MOFmMQWg8KNgz+belD9XhyUa4ubA13urL77o+b9ujO0fQaleGMWqOKurbISwuZd9zVWlI2wxVrDlMwXahxlj1/lz0ZclgdQ46WIiqzmF8tEPm6lMRAk68Nfh01juVaU6sSOteIzhG5dcy3HgBPtbdYqrxbg9O/vpzgdHy3KJuOkJmlA==;/I7f3q72a/SPX6L8EG8ZVw=="
 ---
 

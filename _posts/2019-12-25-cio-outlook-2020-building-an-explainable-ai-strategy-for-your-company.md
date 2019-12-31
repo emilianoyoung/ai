@@ -41,11 +41,11 @@ related:
         width: 600
         height: 315
   - title: "The Future of the Brain: Implants, Ethics, and AI"
-    excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. David Bueno, a geneticist at the University of Barcelona, said we might tailor people’s ..."
+    excerpt: "More broadly, he spoke of “concept cells” and noted that humans are flexible and efficient thinkers—unlike many AI agents—because we can abstract from experience without being beholden to the details. Third, many people discussed ethics. Walter Greenleaf, a neuroscientist at Stanford, asked if gene editing would diminish neurodiversity."
     publishedDateTime: 2019-12-30T18:00:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
-    ampUrl: https://www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    sourceUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai
+    ampUrl: https://www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psyched/201912/the-future-the-brain-implants-ethics-and-ai?amp
     type: article
     provider:
       name: Psychology Today

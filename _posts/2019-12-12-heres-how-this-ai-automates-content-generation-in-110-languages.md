@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/12/heres-how-this-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2019/12/12/heres-how-this-ai-automates-content-generation-in-110-languages/amp/
 type: article
 quality: 187
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CEC83524B5A873D3968AE98F6FA40A63
         width: 700
         height: 350
-  - title: "AI and the Next Generation of Omnichannel Engagement"
-    excerpt: "To accomplish this, the next generation of omnichannel technology and consumer communication strategies lie within artificial intelligence (AI). Automation Through Self-Service While AI has already begun to impact customer service, there is much more still to come. For example, Salesforce’s new State of Service report predicts that AI will ..."
-    publishedDateTime: 2019-12-11T00:49:00Z
-    sourceUrl: https://customerthink.com/ai-and-the-next-generation-of-omnichannel-engagement/
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 37
-    images:
-      - url: https://customerthink.com/wp-content/uploads/pixabay_internet-1593384_1280-online-shopping-1.jpg
-        width: 1280
-        height: 643
 
 secured: "PEo/7nKeAA3bqX/UdGw0GXx7fHVOeWsXF6N7bE5SPZkwyfmJ/ecKXv1+A01n6AFNxSHABfl0Y6QNzoGs97Y7752BJu5xeNKQwBcVcfzHSuz7DROnVoZOGVt9tQ722NdOGdXg+H4l1Too4P6X6JsyLLAc4kC9F2dHryGc99IOlGoZFfHVRDEk1+fL1qUb2sxYVqLQCQ95OUsdPw9LZhi1U3KHSlmbRUQE4Vf3R9DGljM+nhwk5kiHjdpqOzr/oeFBYPm+sOa2H7S0/WaMnoQKbQ4ZKba9atgVEH4nkMK6CNU=;elPvHYJe27QvZyf8G9BkPA=="
 ---

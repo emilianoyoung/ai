@@ -2,22 +2,18 @@
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-publishedDateTime: 2019-12-05T18:55:00Z
-sourceUrl: https://www.bbc.com/news/technology-50679791
-ampUrl: https://www.bbc.com/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
+publishedDateTime: 2019-12-05T18:47:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -58,21 +54,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
-    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
-    publishedDateTime: 2019-12-11T00:12:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
-        width: 578
-        height: 289
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
     publishedDateTime: 2019-12-06T11:15:00Z
@@ -139,6 +120,6 @@ related:
         width: 580
         height: 358
 
-secured: "SPdi7cncA3eydhiWw2KSd4UrQz+4JVbbI2skMVGikeeNb6auemI8iOQh01e/Jl4oNMPr8koHUJahw44XLEg6+Rf2Lo+3eAhcGgh4qZ+p0jp31s+J7nzJIac0tz+4KiJQchhT/3BXJcwAwCC59FOvpoDrW0Ba74FRMhanT/Ru/N8FsUiOOR/AZHs54w21SJJFi0iCDly6bvIMqoE15IJBjpGpmV6LF8SxlWVcKoWdWwZ2dhb9KH4kjYu3GHjoXL6Gm9N8g07GWWRCE2Jk6cePVA==;kovZLk11T2uNWBVmpqDkSQ=="
+secured: "eDpmrzWI7D1lQB8K+DG97Jsh3JkSfoxT6RKtmUT2JPJM8nnYeh5ETR7lMJdOjIrQLjGUtnKqQ3QVl3pD03k/tb7TU17OHRle6uAs3oc+8WpFBZEOym2r3J6ZKP3UEYXT0FJ2JF3sOpfedXe0Nklk3a1cF3VGPLt9z5RwFiJ7NfXt6cCHtRhxkOFtFe9VRiJO4cWog3anhXYPu+8Fql850L04Cy6v+RbGQz5MBM6IAtyWvP9iGyEWWAaoc/XVr6qZNkfnWM5p9bLyA3bNj+1V8g==;22ic65AMfSicMivgFAGXbQ=="
 ---
 

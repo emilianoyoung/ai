@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google DeepMind gamifies memory with its latest AI work"
-excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
+excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term ..."
 publishedDateTime: 2019-12-02T22:10:00Z
 sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,7 +43,20 @@ related:
       - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
+    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
+    publishedDateTime: 2019-12-05T19:56:00Z
+    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
+        width: 760
+        height: 428
 
-secured: "56dkNwy2e1/6njDn7O2OnTgQbyStG95mDYJTcM8/J/KFalSEga9hW1xVSTscWNcY7hjJHtLte1qKHQqzZ09+jIvAVB5bIesc+4h/rCi6BAsyGNpuUQzLwOhIg8XeyKs6Mf+Lz7zCEZRjG87lWptI7s4zHDwS/LXGKa66dTanRpmdv6cYjH9tgNOzKppJRGHqkrBZbH1SvEkv+wIc/Q9iNlPdy7qtrl6SJ4jWyH2efD1gSVECc6gb36/uPT1meCjpgbyhRItPXkjtvOvAXZR3uA==;QV4eWH8i1/pnM1MY+kV1dA=="
+secured: "5FbdEE9xZ33HXChsHO4+hzDMRy/yWWaLBug3HwCjoh+LCBrjCQgEuxdL45eZpoK3HhC8JC+1EuuZ8zO5fJzaP6+9q52O5R5lhh5S7bjsp9fYsjBKzH81YF9AD0EjW1WVtWpIOZijNLPyuZUO+HrjesXUqHrHu83Z0X8blKOXfeYV41H32cagX6OrSWiEOX6+jqkYahd4/HOOZLaQMJJ+PHzSy0ZhkOaANzZxtKRsvVFUzCVKKj1/vTbnc9mmVBa1PcYnzFhXelvloUWyLTVJjA==;VPJfQp//QzzTVOyUfq7iiQ=="
 ---
 
