@@ -24,34 +24,54 @@ images:
     title: "Keywords Studios Buys Machine Translation Provider KantanMT for Up to EUR 7 Million"
 
 related:
-  - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
-    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
-    publishedDateTime: 2019-12-17T18:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/1-800-contacts-buys-home-120028488.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/1-800-contacts-buys-home-120028488.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-800-contacts-buys-home-120028488.html
+  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
+    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
+    publishedDateTime: 2019-12-16T06:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: https://www.bing.com/th?id=ON.23ED5985353306C3291313D39D2120A2
-        width: 700
-        height: 466
-  - title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
-    excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
-    publishedDateTime: 2019-12-18T00:13:00Z
-    sourceUrl: https://www.yahoo.com/now/1-800-contacts-buys-home-120028488.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
+    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
+    publishedDateTime: 2019-12-20T05:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.23ED5985353306C3291313D39D2120A2
-        width: 700
-        height: 466
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Language Translation Software & Services Market Study 2020 with Professional Survey & Competitive Scenario Till 2029"
+    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
+    publishedDateTime: 2019-12-11T07:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-study-2020-with-professional-survey-competitive-scenario-till-2029-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service (MLaaS) Market"
+    excerpt: "Based on End Use Industry segment, the Machine Learning as a Service (MLaaS) Market is sub segmented into Education, Banking And Financial Services, Insurance, Automotive And Transportation, Healthcare. The report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry ..."
+    publishedDateTime: 2019-12-18T13:36:00Z
+    sourceUrl: https://www.openpr.com/news/1880777/machine-learning-as-a-service-mlaas-market-to-reach-valuation
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "aFp4AUJmgrfy0qqbkP1qwNhpoc2N/Naq4d/jAThrcd79O0gtmBApnvgP2y4VORXb1TfAgUEaunome34d/Sn/XmGNgBSUmwBre+RLQXDd/jetXVaqEYy67exo9PzKMy1+P99v+u3n4H5EuIjNmc7OcPmo6BnA0/doNnESCk7pjxGZl+qheXDbkDHG3C+q25l4gnys4fWiuHHV07r08fdZLcz0AlbkdbziUK1IrXcUCSIGDLIdr5Xus3yUGtMLROegLXSELRsKVLUa5BT7tLTsVA==;SF63+Bs426AghvnMtRVLkA=="
 ---

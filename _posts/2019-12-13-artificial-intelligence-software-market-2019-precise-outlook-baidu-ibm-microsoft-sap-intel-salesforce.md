@@ -27,15 +27,15 @@ images:
     title: "Artificial Intelligence Software Market 2019 Precise Outlook - Baidu, IBM, Microsoft, SAP, Intel, Salesforce"
 
 related:
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+  - title: "Artificial Intelligence Advisory Service Market 2019 Business Scenario - IBM, SAP, Google, Amazon, Salesforce, Intel, Baidu"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Advisory Service Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Advisory Service Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes ..."
+    publishedDateTime: 2019-12-14T08:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-advisory-service-market-2019-business-scenario---ibm-sap-google-amazon-salesforce-intel-baidu-2019-12-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 56
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

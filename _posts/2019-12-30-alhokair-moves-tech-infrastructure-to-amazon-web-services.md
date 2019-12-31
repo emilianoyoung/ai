@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.476FF9BB54666233864CE5E47C659483
         width: 700
         height: 466
+  - title: "How To Achieve Technology-Driven Transformation In Healthcare Sector?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-26T18:53:00Z
+    sourceUrl: https://www.medindia.net/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    ampUrl: https://www.medindia.net/amp/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C18738B56DA70981E925AD4C206CA0CD
+        width: 300
+        height: 250
   - title: "Fawaz Alhokair moves to AWS to accelerate digital transformation"
     excerpt: "Members of the Fawaz Abdulaziz Alhokair & Co. and Amazon Web Services (AWS) during the cloud technologies empowerment talks. RIYADH — Fawaz Abdulaziz Alhokair & Co., one of the largest franchise retailers in the Kingdom of Saudi Arabia,"
     publishedDateTime: 2019-12-26T00:00:00Z

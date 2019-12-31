@@ -71,19 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4842AFC2A1D86A3EA0C18F864C370CA9
         width: 700
         height: 466
-  - title: "As robots take over warehousing, workers pushed to adapt"
+  - title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
     excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
-    publishedDateTime: 2019-12-30T20:17:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/
-    ampUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    publishedDateTime: 2019-12-30T20:14:00Z
+    sourceUrl: https://www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/
+    ampUrl: https://www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
+      - url: https://www.bing.com/th?id=ON.A76416F237B7CA449CEDB774783F20D1
         width: 700
         height: 393
   - title: "Workers adapt as robots take over the warehouses"

@@ -90,7 +90,7 @@ related:
         width: 648
         height: 420
   - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
     publishedDateTime: 2019-12-03T12:00:00Z
     sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
@@ -116,6 +116,6 @@ related:
         width: 720
         height: 335
 
-secured: "H9Y3IWD9i2tdW5yFQ6JERa6Dz3SxAvIyFc6vQpzKFkzKeq8iV+OS184NMMz6OnzpXp7AFAvY1nWSxTc8BH5XHHy3a9RQz0g3jUWoqpN2ZSw91+ZRgSKOUhKJ2rpW1CdwLKzQ86isvU4c7qZ7MqbwBxPihIuI+3WbMTmwPH5l/t1p89Umh3ss2G8vN62LqCH3qU11OZsUZ6Bxwl2d5KgyVA2LzoM2fW4Lm862mAaqpbzWHrDZphCpi31Q6krxBJvlgUAxYyAR1l7o1Y6SHRG05Q==;3aoFcVjzkGLMTjTz9coCDg=="
+secured: "MlNfpBeM051yeN/1zH5Y+BchUvq+tdazcB5uiFPX8oXX872o+qyJ/+WULUYsy2TpSwGPFlfes7Taoj2UakabtnQppHW+7j/H/wieYDlivxyNAFDM0sk6Umh+9qO8kEs6lFvM/MTUy2TwGCRqO/XTloU+dSY73U/PnsOlxQUHHkfmZnF2c7aiWwgk5Yz6wNFq1GLEw0zXfhtbEWpxBFmE3b2oP1pA0YY8K78RfSDcQuBU20UR1HjLl5c92sZs9/zMUdzxKyX71zTy0nSPTrMLow==;PQFGXDMTFahdbAz+WBY8UQ=="
 ---
 

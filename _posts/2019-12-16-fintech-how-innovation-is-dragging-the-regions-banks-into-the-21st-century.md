@@ -190,19 +190,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "Valocity Global from New Zealand bags the prestigious Fintech Startup of the Year trophy at India FinTech Awards (IFTA) 2019"
-    excerpt: "Two fintech reports were launched by The Digital Fifth on Middle East and Indian markets. Sougata Basu, Founder, CashRich said that, “We were glad to be a part of IFTA 2019. The event was really engaging with discussions on payment, lending, wealth management, Open Banking, AI and Blockchain. It was a great experience to connect with fintech ..."
-    publishedDateTime: 2019-12-11T06:08:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/valocity-global-zealand-bags-prestigious-055511754.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.26FC98EE09699B82C327D353913E4508
-        width: 279
-        height: 160
 
 secured: "GYA+BJBDIRJvdZhs3LpVD8Yy0xbMbtqZhSJxVlxyHq62Kopv1c2VcfPghnimXBdLCc1HtPQQUFDB4RdBZXZNNKsTr3BDXbJzHBQAsUyFfNPaYOp9JeEfQyIQgYZpVqKa4Q8MD8zkuCzutIIBKxZS0ugDzwfk/DEi5bFTCEisNSgFUE9fa/98fy5zfrRZv4z/0eQp0fuatIJP2FrzFn5M6Swr30i5JEDzLMMNrijj+4AIpb5KllFrhNP1scheR1Uc+zKf4/BMJe3ifEXLUo87+g==;wwyTa9PCT4K3XNwWvn1YqA=="
 ---

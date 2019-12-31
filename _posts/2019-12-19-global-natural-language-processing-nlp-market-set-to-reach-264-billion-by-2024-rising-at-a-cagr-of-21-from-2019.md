@@ -18,41 +18,15 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
+  - title: "Artificial Intelligence Systems Spending Market to Record CAGR of 46.1% Rise in Growth by 2027"
+    excerpt: "Segmentation and Forecast The global artificial intelligence systems spending market is segmented on the basis of industry type (BFSI, Discrete & Process Manufacturing, Healthcare, Retail, Wholesale, Professional & Consumer Service, Transportation, Media & Entertainment, Telecommunications & Utilities, Government, Education, Others ..."
+    publishedDateTime: 2019-12-24T09:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-to-record-cagr-of-461-rise-in-growth-by-2027-2019-12-24
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
-    publishedDateTime: 2019-12-16T13:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -66,33 +40,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 4
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
-    publishedDateTime: 2019-12-19T00:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+  - title: "Smart Homes Market Expected to Grow at a CAGR of 25% - Exclusive Report by Mordor Intelligence"
+    excerpt: "April 2019 - Honeywell announced a first-of-its-kind technology integration with Intel that will enable new artificial intelligence (AI) capabilities in its MAXPRO connected security platform. The new security platform, which will support MAXPRO Network Video Recorders (NVR) and Video Management Systems (VMS), will incorporate Intel Vision ..."
+    publishedDateTime: 2019-12-24T07:56:00Z
+    sourceUrl: https://finance.yahoo.com/news/smart-homes-market-expected-grow-074600826.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 4
-  - title: "21.0% Growth Rate for Natural Language Processing Market by 2024 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "According to Market Study Report, Natural Language Processing Market 2019 provides a comprehensive analysis of the Natural Language Processing Market segments, including their dynamics, size, growth, regulatory req`uirements, competitive landscape, and emerging opportunities of global industry. This report also provides market landscape and ..."
-    publishedDateTime: 2019-12-20T11:02:00Z
-    sourceUrl: https://www.openpr.com/news/1882222/21-0-growth-rate-for-natural-language-processing-market-by-2024
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+    quality: 10
+    images:
+      - url: https://www.bing.com/th?id=ON.49F2D0701A9EB0D10D0FC0C36E97CF82
+        width: 400
+        height: 219
 
 secured: "fvITzsGeSSStuGPmQ9USj36NHOi4FJDmfssXFzp3f0xDPXV0X54Us02quLJHn+krWttaYmG/R+6OZ4+emh8jNNTldcDeUgWnuHjQ54vCKXZxzZFEJQ1eS8eYSKtdbwEmHi2HCTJFuP7CrzvFsuni0np+JTEmY8WGLEQ1h0yK6FK+X85ACPxxeGkG2pztqQaaAz2uwVHLUN3kcCFrpQUm2Y/WsfUk8Ka6ivld2srqyaY7PFwqvIqvZihSLsElyIYvSvIiv7T7ArfuY7ELIAmJag==;Ecm0IhPfdF8ox4CR7UroZQ=="
 ---

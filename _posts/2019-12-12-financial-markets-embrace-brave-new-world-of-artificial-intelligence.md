@@ -8,7 +8,7 @@ ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/technology/4352
 cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/technology/435288-financial-markets-embrace-brave-new-world-of-ai
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     width: 700
     height: 466
     title: "Financial markets embrace brave new world of artificial intelligence"
-
-related:
-  - title: "Financial markets embrace brave new world of Artificial intelligence"
-    excerpt: "LONDON: Artificial Intelligence has spread rapidly across markets in recent years as traders constantly strive to gain the upper hand, while regulators have given a guarded welcome to the cutting-edge technology. High-frequency trading propelled by algorithms has reigned over the past decade, as banks and funds take advantage of small price ..."
-    publishedDateTime: 2019-12-11T06:55:00Z
-    sourceUrl: https://tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-new-world-artificial-intelligence/
-    ampUrl: https://tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-new-world-artificial-intelligence/
-    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-new-world-artificial-intelligence/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.7350E2F38719EEB06587D512F7FEF57B
-        width: 640
-        height: 421
 
 secured: "AvLDJXNrqCI1O4J00W9MdQgXDCjnlA6wdqs4UASld9JyTABiQi/FX8qTDdSC+T9TtKXLzG+ThjVl/Aaex7tpIpg29hpJVu1RlO9xjwHxzRoYinqfRclt+d+Uvc9UA3g68hbYylxBM9pC7lEVCRwDYHf1qnA72bdJgpvO71ZdfmShXfZ4o2gt1j1ZlDE5M0guzciagMoAMSe9P5goiXpuTC7ek+l1//xYX+QhO4zdS+57UnHxjrk8WxNtCwaRNZLRbFMNU06/NI+00yIroOqQrA==;enLnIhcfveA7zSaVI06dEw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investiga
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
 type: article
 quality: 88
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -194,19 +194,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "Valocity Global from New Zealand bags the prestigious Fintech Startup of the Year trophy at India FinTech Awards (IFTA) 2019"
-    excerpt: "Two fintech reports were launched by The Digital Fifth on Middle East and Indian markets. Sougata Basu, Founder, CashRich said that, “We were glad to be a part of IFTA 2019. The event was really engaging with discussions on payment, lending, wealth management, Open Banking, AI and Blockchain. It was a great experience to connect with fintech ..."
-    publishedDateTime: 2019-12-11T06:08:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/valocity-global-zealand-bags-prestigious-055511754.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.26FC98EE09699B82C327D353913E4508
-        width: 279
-        height: 160
 
 secured: "Z1c/Wj0SEsI8NotzU0sAaY3dSqCGxOoHgD1yLxRT1ptqz3c4kyRkyhVkwXdjXzKHpQp6hjXYrUqXcF+lqC1Ky8ZIdTyIa/WVX5j8z4YHyTj/t3ulJCpoI9bLjAzAdYEmrR9D3/6LV/xOWryt0DqslAfE+nQpQ/NGl+d81+QUA9YG/yJc5oiAi13j7V85jglVWaTv94fXyUSL76u6FuJY+E9qXfQ0p6TYwllA3Q+nLT4XzCQNHJ4ytMLtJTQKXqDZLT1MDcdrg3nFcBGgslsQhA==;lyMSVE86GbIZhhIZ525oow=="
 ---

@@ -89,30 +89,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "jRS7OJlzbCCt99FzBrni2SU/wXw+aIKi0YDvLFxkxjzz7hQLI7EQpHm7yOI2PTi5RjxAySGUtPF+jSWFLiyVV+8sHMDRc4GpImAkgKzjZPYTi9Jh55x3kfNrFFrCDNOpqIhI9ZtVqrj06H/bJYRYvRXR3p5e6tKdt6ZOJBKDPd+OBhqqFJj8XmJVtYdSGR7KmoIgUnNJXle/vyJspCDQTTAbv7/hZlBhB7qxlhxPh9C6CSidioa+9Gg+IIDnUXd8hWV3wyGf4MeSSNkIDBdXOg==;dyArJOlannxLJBtO8x3T4g=="
 ---

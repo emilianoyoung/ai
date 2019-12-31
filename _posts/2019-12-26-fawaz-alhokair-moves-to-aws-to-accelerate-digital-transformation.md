@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.476FF9BB54666233864CE5E47C659483
         width: 700
         height: 466
+  - title: "How To Achieve Technology-Driven Transformation In Healthcare Sector?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-26T18:53:00Z
+    sourceUrl: https://www.medindia.net/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    ampUrl: https://www.medindia.net/amp/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/how-to-achieve-technology-driven-transformation-in-healthcare-sector-192281-1.htm
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C18738B56DA70981E925AD4C206CA0CD
+        width: 300
+        height: 250
   - title: "Alhokair moves tech infrastructure to Amazon Web Services"
     excerpt: "The adoption of AWS will also enable the company to enhance warehouse management systems operations with the integration of artificial intelligence and machine learning solutions to reduce costs and bring greater efficiencies, he added. On the AWS collaboration, CIO Mohammed Alenazi, said: \"Cloud adoption is a significant step in our digital ..."
     publishedDateTime: 2019-12-30T07:19:00Z
