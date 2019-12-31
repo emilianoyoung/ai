@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62E99D0914BC1F34BB27045DECDEBB95
         width: 700
         height: 379
+  - title: "New Delhi: Automation, Artificial intelligence continue to offer rich promises to Indian cautiously optimistic"
+    excerpt: "The industry is focussing on new-age technologies like robotics, artificial intelligence (AI) and machine leaning to not just help customers stay ahead in the game but also remain competitive themselves. The advent of new technology paradigms like robotics, AI, blockchain and IoT is changing how companies and individuals consume technology and ..."
+    publishedDateTime: 2019-12-31T19:07:00Z
+    sourceUrl: https://www.thehansindia.com/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    ampUrl: https://www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.28463CC873CCE513F02C5E5E6AA8DBD5
+        width: 700
+        height: 420
 
 secured: "3bhdLYs//NXVGnJ24iUPE0gv3+GIngT8qY9J/jNL5tp3WmM2nDLKx/yHbWrqfQyrwLRIRwShzzPBxqhp5caOfEHW5GNWrcmw63HZKpW8H7/UF+oZZTbFX8GLlNw/MYmqKy4SKYfZz61GcDsy+pbiTxlPZs3r35yRs0SuBDs2Elqh6PPMd1M2e7swyIalEeTKCoLUhst173oMgXSOcNdxFTmsemfJ4vFgXXH0nr4pVrVArGM52UnYtNaF3OE+bvOiDg26aCxsxZj2cLHXaCP6XA==;JbBuF7nEWQoM+qxWBw0wpQ=="
 ---

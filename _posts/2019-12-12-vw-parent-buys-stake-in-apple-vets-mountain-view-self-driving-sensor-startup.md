@@ -8,7 +8,7 @@ ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
 type: article
 quality: 56
-heat: 66
+heat: 76
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
 
 related:
+  - title: "Ford Expands Self-Driving Business Footprint In Austin"
+    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
+    publishedDateTime: 2019-12-11T20:05:00Z
+    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
+    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
+        width: 656
+        height: 492
   - title: "Ford makes Austin epicenter of its self-driving vehicle business"
     excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
     publishedDateTime: 2019-12-12T20:02:00Z

@@ -54,15 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0E85B743ACE325A0148BE0562FA62BE5
         width: 700
         height: 393
-  - title: "Great expectations and challenges of artificial intelligence in the screening of diabetic retinopathy"
-    excerpt: "Despite these promising study results achieved in the development and assessment of automated systems in DR severity diagnosis especially at the moderate or severe level, challenges remain to adopt automated systems as the ‘gate-keeper’ in extensive screening with wide coverage. For example, challenges remain to improve the capabilities of ..."
-    publishedDateTime: 2019-12-11T18:35:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0629-2
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 2
 
 secured: "qhY/Q5ErfPUEZ3mWwvIp3z1Tso9HaPWwbV33CdQimEHolu9qVDJb/UtLs1xdrDcYBXnmbeHtG00XmrUz7OG7QA7N2bW+M+9Mcg1KJ3Qcm3jA3jVe3q6uoSPWZoRSHeoEBuQbVlsSvCeKApVlTgaSsyX1pPiGUCFgeVwWEQZNvXlygfAq3gG3BokRk47wcRkDpUaqb102oiWczdZyQ7IwhMj3xdkuZw9QRlaC/ba+XHrfcn8VoaC/LY6YlKO+xNkWq7f4LxU+fILMyNrRO3nhcQ==;gGrulFmsvXaG9DS66FDuhw=="
 ---

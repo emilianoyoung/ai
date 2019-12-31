@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artifi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 type: article
 quality: 93
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
         width: 600
         height: 314
-  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
-    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
-    publishedDateTime: 2019-12-11T18:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
 
 secured: "6sZghzjn4RlviIAzVr/T/zP9DiAxnnLudt/8Dj7993BTvf1zp8MKySMQVJkQ2fq+vx6rNRPVCrJqiZKZNwqLGz6TntTjKPVig+j0Qczvh4xR2vDulDDNrEvdUs/lv9sMj4z/wIIsINCIHeXamuNvTCwA6oiuVonMUzZ5o24b3Pz6WNsClLGowOd89w9DnRyY0ahj//Pm709nO0bLlCcK4Iev9UxP92kOq3RtEN5bEfD75/lmYcP4hlHYYihx9HS6T3hlE+TXuHzJtIKPvWemrw==;cfvtJSx4DiI33jPrjWArMQ=="
 ---

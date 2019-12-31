@@ -86,15 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
         width: 600
         height: 314
-  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
-    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
-    publishedDateTime: 2019-12-11T18:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
 
 secured: "uMSbuX5gnYM6AOCebEZH2PR/8I1lqB3uUtKXBfO/1I5gO1T7A2D77o+3WS7L9l8EXuCB3P7K27E3CTyB+4Cc/Yi5pWh5z25EvkFtcIHHaCuItXZFAz0suqo7tBwxdJRtWe+cx0LfrOxHZh2OFq9qUGkT0UPpnf0/NIR3ZLq9jfWdSIYSFf8trn9HFBqUIB4XN4geNihrnLbFx5xkn9tmjYWVYdBVPMrb19B5l8qprZnQnrcSBIC2dZHPdwTvbnuTsJGDb12QnmOI8cx98popsQ==;k+73c0AGyVAjj6nYfg17Lw=="
 ---

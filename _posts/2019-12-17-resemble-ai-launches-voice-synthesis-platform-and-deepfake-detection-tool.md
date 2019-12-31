@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Resemble AI launches voice synthesis platform and deepfake detection tool"
 
 related:
-  - title: "Cerence Upgrades Flagship Voice Assistant Platform"
-    excerpt: "Cerence Drive provides car manufacturers with speech and voice recognition tech that can serve as a foundation for cloud-based and embedded conversational assistants. The latest iteration of the platform makes improvements to the company’s natural language understanding (NLU) engine, which is built on one central technology stack and is ..."
-    publishedDateTime: 2019-12-11T18:55:00Z
-    sourceUrl: https://mobileidworld.com/cerence-upgrades-flagship-cerence-drive-voice-assistant-platform-121107/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
-        width: 700
-        height: 490
   - title: "Facebook, AWS, Microsoft and others launch coding challenge for deepfake detection"
     excerpt: "Facebook, AWS and Microsoft joined forces to launch the Deepfake Detection Challenge (DFDC) that should encourage developers to research this issue. Winners can receive up to $500,000 ... on Neural Information Processing Systems), Dec 8-14, 2019. Deepfakes are AI-generated videos that can falsely depict people saying or doing things that ..."
     publishedDateTime: 2019-12-20T20:37:00Z

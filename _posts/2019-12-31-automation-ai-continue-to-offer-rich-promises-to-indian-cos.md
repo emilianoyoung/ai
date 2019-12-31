@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -25,6 +25,21 @@ images:
     title: "Automation, AI continue to offer rich promises to Indian cos"
 
 related:
+  - title: "New Delhi: Automation, Artificial intelligence continue to offer rich promises to Indian cautiously optimistic"
+    excerpt: "The industry is focussing on new-age technologies like robotics, artificial intelligence (AI) and machine leaning to not just help customers stay ahead in the game but also remain competitive themselves. The advent of new technology paradigms like robotics, AI, blockchain and IoT is changing how companies and individuals consume technology and ..."
+    publishedDateTime: 2019-12-31T19:07:00Z
+    sourceUrl: https://www.thehansindia.com/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    ampUrl: https://www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.28463CC873CCE513F02C5E5E6AA8DBD5
+        width: 700
+        height: 420
   - title: "Automation, Artificial Intelligence continue to offer rich promises to Indian companies"
     excerpt: "In a departure from the past, industry body Nasscom discontinued providing its annual growth forecast for the industry -- an important tool to gauge the sentiment of the sector."
     publishedDateTime: 2019-12-31T07:42:00Z

@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.am
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -35,7 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical ..."
+    publishedDateTime: 2019-12-06T03:55:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
+        width: 1200
+        height: 630
 
-secured: "TXZLvh9D14anYu14NsjxJ6SG6qUYYRRGDh1i37m9a2VJlcyA1uYg8cqG3yykC4dKLNfY5UpE5vY5aseDEFtOsLCjy/SyEIW7dqr6fbQ4IHs646ZfSJdRu7dfCT10/g4zF73Shq0gil3KBJyClqSrXPKCUIx/0zTeiQNNVyDi1id/TYWa3KljxgmC4CjnZYkh3NZeziSZoNEtsz89G2RZZs0qOSFcoRNf+N9Slt98IHMUg/RllBHy2iqmNd6x2G/iVfUGIaujdat2logRzP2RWA==;kseNfUxgq1hIL/XEguY5Mg=="
+secured: "gWpFD4AjHEKPtPiIsDQq6+GGszm6Het3k6G6BTc789ehO7ua2QZk8K7mV3UNFgCJbjAWgIO3eGgj7BJSXmajlJnNoTVGDERRJFy+vI9UJ54iNbeTx2SRdwRaENCqy5vzKNduJbyQYBfqDtrc/kd8uZma4BzjbL6emN3rnvBDnkPb81hGzAtKEDN1OMKmSFj6rnpvdF2wlBo4hMg1AqYSUoez8CuXcTboZC4/IFRbKoYp51ESkyUl+KXzKN68zX5Rdlvr1FLUJi67xKGNIerfWQ==;ZAl7Rj6Hdx0HOKPqy2JF8A=="
 ---
 

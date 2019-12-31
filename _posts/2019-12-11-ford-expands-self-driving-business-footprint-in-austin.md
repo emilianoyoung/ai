@@ -26,47 +26,36 @@ images:
     title: "Ford Expands Self-Driving Business Footprint In Austin"
 
 related:
-  - title: "Cruise, GM-backed self-driving company, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car company backed by General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads the autonomous vehicle ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+  - title: "VW parent buys stake in Apple vets’ Mountain View self-driving sensor startup"
+    excerpt: "Porsche Automobil Holding SE, the parent of Volkswagen, on Wednesday said it has acquired a minority stake in Aeva Inc., a Mountain View self-driving tech startup founded by a pair of former Apple Inc. engineers. The financial details weren't disclosed but the auto giant reportedly plans to use Aeva's lidar sensors on Volkswagen ID Buzz buses ..."
+    publishedDateTime: 2019-12-12T12:13:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/12/vw-parent-buys-stake-in-apple-vets-mountain-view.amp.html
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+      - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
         width: 700
-        height: 366
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
+        height: 394
+  - title: "Ford makes Austin epicenter of its self-driving vehicle business"
+    excerpt: "Ford Motor Co. plans to launch its self-driving vehicle service in Austin in 2021. But it has a big 2020 planned ahead of that. The auto giant has made its first real estate deals in Austin en route to making Austin “the epicenter of Ford’s local self-driving business,” the company announced Dec. 11. Ford’s (NYSE: F) new command center ..."
+    publishedDateTime: 2019-12-12T20:02:00Z
+    sourceUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.html
+    ampUrl: https://www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2019/12/12/ford-makes-austin-epicenter-of-its-self-driving.amp.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
+      - url: https://www.bing.com/th?id=ON.121868A57420E77248D2225D527FBDE1
         width: 700
-        height: 350
-  - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/cruise-gm-e2-80-99s-self-driving-division-teases-life-e2-80-98beyond-the-car-e2-80-99/ar-AAK1K4t
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
-        width: 700
-        height: 366
+        height: 393
 
 secured: "J4AXpABmRglmRkxrZEAtKnRnweDQ45iHNSffRVFT+suyySu6clXELqaUoT2Iwh5Ke8K2qKnwIpfOvVMO6WQAyCpDQjpKiSjJ/QHBLGoVZg6zO3gmod2q6gB9othLbc9h3rxaF6M3WlMM56v2i60TKr32aYbgXYgoPJMXk8XfmGSq0jpzMPwVKQHdQICL163NTPNQ4YCE4OEV3I9xpvjelzl3h04ERyQaVBkc5HC5SrfJG+CB6r/+vk0EACBk531MN0AIIRkOnB/uq097D+09Ow==;ZQsirqMKazu920MTUQMKhg=="
 ---

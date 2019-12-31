@@ -37,7 +37,20 @@ related:
       - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
         width: 1920
         height: 960
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical ..."
+    publishedDateTime: 2019-12-06T03:55:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
+        width: 1200
+        height: 630
 
-secured: "KpRXyA2i4HC18S50JKOkdgUtUJqLX+IseNRSmoFnTTf9j0Uil22AhfQWvouqKNPjW0aAoMbVeWOkYGaBhhJvWSeUuHD8HSNA1KoHLX+pUv9HkBJQwu7DC9d0R0tPAVsMIyfBQ8WjO44t+Lt1uhpM2ApixIV9xO69qnHKQXbTOVZ9OeiAr82LkkyhfXjyhraM9UkRts2FM7YEr/rGdJeRLtbD+llIbcE7JPxPlAcQKRWx1o2aRUuuBs/Wls/qgOaUEXBKYYLR0IgcWGk7EecdyA==;lhElm2ddfa8y9SG4+5rkpA=="
+secured: "WA6PWRYt1kSH3ISjkZ1Bk1sj8EZjgKIokuQpRjXf2scQNHnJiyT04e8GK8BYfk5NNuVGx7ZLoW2rCfPN8aLFW5zCccfWf6cH2PCGxAJXp4dYJsO51V5jJkyu7ogn84e5kgeZSXfz6Tu89MpZ6nSR8ej6kz6Xstvs+VUUyvyC9XqJw6e9HGGFNnuKHFq1giOjxdXCbLC3nyGxEL3+F5OvTfA3C5IJKRYheg3tLkXrPrr6T0qihJZAHmiDROeC6OaO773HQpDxYZxH/kjhcw8DlA==;TNisafWGKDIBlRrRyM0QDQ=="
 ---
 

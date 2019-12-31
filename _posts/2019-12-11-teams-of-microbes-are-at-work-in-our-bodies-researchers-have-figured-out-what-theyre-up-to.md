@@ -72,15 +72,6 @@ related:
       name: Fars News Agency
       domain: farsnews.com
     quality: 4
-  - title: "Teams of microbes are at work in our bodies. Here's how to figure out what they're doing"
-    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
-    publishedDateTime: 2019-12-11T19:04:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/du-tom121119.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "gxOnMC4pIp7V2mGsRu8k1Zb6rHNKzao/0TYeIlWh7jWlQWbrhGATUuXV6s5Q/lupBtbZn3oyRxE0Ls9MGTwj69Jxf2pi+qh6cI1oOGdvsbhOx999c6xwq6gib4Y82kcX5JBGeGg2fcuq3gZgHbnN/5pLrwiRakbI32V4DnuWdDPdsKnIheMjQHIUCp5fAcp67x+6Zx/HzKneeRF3oWeplhSbJaEGyDvDbwSIrNexgzGT1/2hk8ew3QzrJc+zrkEmo6nSsHbsNmWUHcNEedzlVw==;WBMobDiqqACIwGPJJhSn/Q=="
 ---

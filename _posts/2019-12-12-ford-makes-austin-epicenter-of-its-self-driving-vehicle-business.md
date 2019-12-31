@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.ABFE40BEAAA9F72DE01653EB542ECB0D
         width: 700
         height: 394
+  - title: "Ford Expands Self-Driving Business Footprint In Austin"
+    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
+    publishedDateTime: 2019-12-11T20:05:00Z
+    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
+    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
+        width: 656
+        height: 492
 
 secured: "qitenABx3ey44bXRSzqVh21JsOcTpdTw6ik9JSDZueRDsw1Zm9qQTUbhmfzrJgbvLopZKKv/yWOl29oqh0MOuaimhReo4IFDeBHZngUtEGCHNshnHQh9OjxDYqbbhWW+UZOJ8e7aG6c6D5NAgFcRS1VidQnrfyoUWVYOTIIzWa4404tV831Yljip5EbxsocRXpHDH+QfpZRaeaIK9GghvKJesdB3BjNokTV547IfCwh15SOpvHFsOfl078G1Hns5ZnWYt6eZpGLVnEKsO8Q9vQ==;T1cVvk2JHY3w2q7yhGdxNQ=="
 ---
