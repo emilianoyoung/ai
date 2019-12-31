@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-ins
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
 type: article
 quality: 87
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "AI Is Central To The Longevity Financial Industry"
 
 related:
-  - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
-    excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
-    publishedDateTime: 2019-12-11T17:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/is-artificial-intelligence-and-machine-learning-really-a-strong-market-to-invest-in-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Accountability is the key to ethical artificial intelligence, experts say"
     excerpt: "Artificial intelligence (AI) needs to be more accountable but ethical considerations ... and we shouldn’t care about the internal workings of AI neural networks either,” he said. Instead, O’Neill says we should be focusing on outcomes. John Buyers, chair of the AI and Ethics panel and a partner at law firm Osborne Clark, points to the ..."
     publishedDateTime: 2019-12-16T16:22:00Z

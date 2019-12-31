@@ -65,19 +65,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
-    excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
-    publishedDateTime: 2019-12-11T17:14:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/11/9068263.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
-        width: 480
-        height: 270
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-13T08:58:00Z

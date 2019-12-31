@@ -181,6 +181,15 @@ related:
       - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
         width: 600
         height: 315
+  - title: "Baidu testing self-driving cars in Beijing"
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+    publishedDateTime: 2019-12-31T18:39:00Z
+    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
     excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
     publishedDateTime: 2019-12-31T14:29:00Z

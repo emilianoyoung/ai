@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/11/microsofts-fastspeech-ai-speeds-up-re
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/microsofts-fastspeech-ai-speeds-up-realistic-voices-generation/amp/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -29,19 +29,6 @@ images:
     title: "Microsoft’s FastSpeech AI speeds up realistic voices generation"
 
 related:
-  - title: "Amazon Polly Neural Text-to-Speech voices now available in Sydney Region"
-    excerpt: "Amazon Polly turns text into lifelike speech for voice-enabled applications. AWS is excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in the Asia Pacific (Sydney) Region. These voices deliver groundbreaking improvements in speech quality through a new machine learning"
-    publishedDateTime: 2019-12-11T18:00:13Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/amazon-polly-neural-text-to-speech-voices-now-available-in-sydney-region/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg
-        width: 1024
-        height: 512
   - title: "Microsoft’s FastSpeech Vastly Improves Text-to-Speech Technology"
     excerpt: "Microsoft is working on developing its text-to-speech models and is aiming to overcome numerous challenges related to the technology. In a collaboration between Microsoft Research and Zhejiang University, the company has developed FastSpeech. The software leverages machine learning tech to improve text-to-speech performance. Under current ..."
     publishedDateTime: 2019-12-12T17:28:00Z

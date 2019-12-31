@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.188181DD0DA8498376B080C68AD52E4C
         width: 457
         height: 319
+  - title: "Afternoon Coffee: Ghosn jumps bail, flees Japan; initial U.S.-China trade deal to be signed Jan. 15; self-driving truck hauls butter across U.S."
+    excerpt: "Carlos Ghosn, the ex-Nissan leader charged with fiscal impropriety and was out of custody on bail in Japan, fled the country and issued a statement that he’s now in Lebanon, where he is a citizen, according to The Associated Press. Other media reports ..."
+    publishedDateTime: 2019-12-31T17:00:00Z
+    sourceUrl: https://spendmatters.com/2019/12/31/afternoon-coffee-ghosn-jumps-bail-flees-japan-initial-u-s-china-trade-deal-to-be-signed-jan-15-self-driving-truck-hauls-butter-across-u-s/
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.B9B8F2B1643672B8ABC24CEC54D72151
+        width: 300
+        height: 200
 
 secured: "hNMptOgiQX0bZcn7soepm1EincpyzcHsiYr/mu9upgYcAjqTrTGxCyBpRA1RfR1v/4bg5MXESh/z28CYA1fawZ3TwnbiKsN4C98AkD8wdhjW/T85YABDBvgtaGy/toSHozXoF4xRgDR5QiFGUMiDVKljK8iIBHbJmcj/OPrGCZl5nu/nGZAx2z/+eQXNtKXE9qFTbMaHpcGNEqK+KQhsVHRRFZ4J56oih4B9je95GSto4DcoafVd83ExhXui9uwD3p6f0Jkxkvh5zsVz12icnw==;mgwKHJ+f7AuIT94yATQysw=="
 ---

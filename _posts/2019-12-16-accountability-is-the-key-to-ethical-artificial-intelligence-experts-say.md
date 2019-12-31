@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
         width: 600
         height: 315
-  - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
-    excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
-    publishedDateTime: 2019-12-11T17:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/is-artificial-intelligence-and-machine-learning-really-a-strong-market-to-invest-in-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z

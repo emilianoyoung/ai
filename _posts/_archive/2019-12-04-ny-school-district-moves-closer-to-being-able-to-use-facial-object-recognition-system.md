@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
@@ -37,7 +37,20 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
+  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
+    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
+    publishedDateTime: 2019-12-02T10:58:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
+    type: article
+    provider:
+      name: FierceHealthcare
+      domain: fiercehealthcare.com
+    quality: 30
+    images:
+      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
+        width: 4432
+        height: 2955
 
-secured: "V16rp21zrHCizhqArfqOil72uNEzOIylMtKKqCZ41S+lgBs5RPRwEJAMi8xWZY1SLNaullKev8MB7xQEfbGUJqFVD+Vk2j2AZol3LXxlWYnXP9yExsDnyXm7/B1BiaYkQ6nJ715EPNi/WO3LItFhdwigfbWe0VP3zhStvg6JdV6y2lX2tBw/LW8zSSKVaClGpP26KVzrXs7I4gsEFJSgX+cn/SPOSEcFl1dwTSQeP0sMEiS8L1r4LAJcRPi837F9VbkDSOLx6fB6GRY2UGzbtw==;jzhIiU+xEelClelh9sJZkA=="
+secured: "hbYqlHLqaqUXMX6h1nhRA3ECn2r4zJ8x6PUPxbA+/bqdjrSKq5p4XS+tJ8rBinINpvWQkoAG/zw67BnsuleajmwhazTdcZ8JseOUwjSIOgWCKFhph5Kdq1E2USmj0uEbltfY7XbzpoC7Xah8TAU3wVdivUtMt8TkXsjblL+3ZxPMEOwmO03zI6bCI+Ew9vrsDnUusysIoAmDwCa2cAs/Gm4AbdEAbhp2/GhRfWWbDkierKJInyGopR0Q9cjvZLP+gCm1SFlSJMfGAwJPWhGfBQ==;YztQhCirNwb3u756eQan/w=="
 ---
 

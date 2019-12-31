@@ -24,19 +24,6 @@ images:
     title: "Microsoft’s FastSpeech Vastly Improves Text-to-Speech Technology"
 
 related:
-  - title: "Amazon Polly Neural Text-to-Speech voices now available in Sydney Region"
-    excerpt: "Amazon Polly turns text into lifelike speech for voice-enabled applications. AWS is excited to announce the general availability of all Neural Text-to-Speech (NTTS) voices in the Asia Pacific (Sydney) Region. These voices deliver groundbreaking improvements in speech quality through a new machine learning"
-    publishedDateTime: 2019-12-11T18:00:13Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/amazon-polly-neural-text-to-speech-voices-now-available-in-sydney-region/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg
-        width: 1024
-        height: 512
   - title: "Microsoft’s FastSpeech AI speeds up realistic voices generation"
     excerpt: "State-of-the-art text-to-speech models can produce snippets that sound nearly human-like on first listen. In point of fact, they underpin the neural voices available through Google Assistant, as well as the newscaster voice that recently came to Alexa and Amazon’s Polly service. But because most of the models share the same synthesis ..."
     publishedDateTime: 2019-12-11T19:35:00Z

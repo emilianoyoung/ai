@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/16/buy-a-demo-table-at-tc-sessions-roboti
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/16/buy-a-demo-table-at-tc-sessions-roboticsai-2020-while-you-can/amp/
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Buy a demo table at TC Sessions: Robotics+AI 2020 while you can"
 
 related:
-  - title: "Apply to the pitch-off at TC Sessions: Robotics & AI 2020"
-    excerpt: "Mark your calendars and dust off your public-speaking skills. This year, there’s an exciting new opportunity at TC Sessions: Robotics & AI, which returns to UC Berkeley on March 3, 2020. We’ve added a pitch-off specifically for early-stage startups focused on AI or robotics. You heard right. In addition to a full day packed with speakers ..."
-    publishedDateTime: 2019-12-11T17:12:00Z
-    sourceUrl: https://techcrunch.com/2019/12/11/apply-to-the-pitch-off-at-tc-sessions-robotics-ai-2020/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.39E7806FCA8B9B6403ACC886E23A5416
-        width: 700
-        height: 381
   - title: "Apply to the pitch-off at TC Sessions: Robotics+AI 2020"
     excerpt: "Mark your calendars and dust off your public-speaking skills. This year, there’s an exciting new opportunity at TC Sessions: Robotics + AI, which returns to UC Berkeley on March 3, 2020. We’ve added a pitch-off specifically for early-stage startups focused on AI or robotics. You heard right. In addition to a full day packed with speakers ..."
     publishedDateTime: 2019-12-13T00:07:00Z

@@ -132,19 +132,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast ..."
-    publishedDateTime: 2019-12-11T08:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Data Science and Machine Learning Service Market Insights and Outlook During 2019-2025"
     excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Data Science and Machine Learning Service Market Report have newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Data Science and ..."
     publishedDateTime: 2019-12-12T19:24:00Z
@@ -422,6 +409,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "g7bQODrMV2CofXzMyEI2GQ1FUL0Vf8swx+y7FLg4VPg2Ve98AujynN4uo8y8P/eyy0ek8+1WBquvoAxrnQGyYT9osyv0B6W5/i/hAdkh34DiFPwO9ZB/61YMyJmuf3BDBCAFX/Zz1UG2WFZggHdgnq0eDIkLLFwT8mJgo3K6YiOE3nqnnW44ArJhML3USV15rxYH9tfdEeloXNTdPstBzPwq1cD6XlUexU94gT6ejz+BN23SaTdS1aj3AaTDEjciAFWPNAXRADgTQKFP+OzlyA==;NQVnWw88JDp6ZU2goeBd1Q=="
+secured: "ucc3hucHKIFXjqdn33Ji5wddFvJnim3ClNDpKQQAAjYi3BRRcys4P+f6QodG51ahaccwiaOpPs10NTx6Js/a6FTZ6GdtStVk7z8Qk4fpS0wdaK4Gb8xqNa10X9KWcZU0x3H7f+/TGtdoKHdMmKUAfvEygYp4BeC5LZ9qmJ2dBXilVsBCRyql+lweisYSZkSemp/ih+ytYQKHcFAmENdgOvo2OYjfqUBtvY42ZR28SXfXIAdO3k0p+Bzpdm6IWelOpyPx0GlKPGB4Sp4vno8FEw==;+IbeK5XVM1g1MH4oEIdvyw=="
 ---
 
