@@ -5,7 +5,7 @@ excerpt: "With an expertise in computer vision, machine learning, and perception
 publishedDateTime: 2019-12-10T20:30:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191210005983/en/World-renowned-Computer-Vision-Researcher-Joins-Leading-Retail
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: http://www.businesswire.com/images/bwlogo_square.png
+    width: 560
+    height: 560
+    title: "World-renowned Computer Vision Researcher Joins Leading Retail Technology Innovator"
 
 related:
   - title: "Computer Vision Researcher Joins Grabango"
@@ -34,6 +40,6 @@ related:
         width: 700
         height: 367
 
-secured: "0FuC7+O0S35l6Ap4uS5KDoAeJ8nN2GR/W/IptJao61xhEitgjUomTEsptuyWN/Lnibl+IzSC1JEYtJC+GeTcofoKtrsITgNpi+88b8jCAg0li4ZkqjcBESHXLjvlEMqwZC7BaSnogKtIhb0eYqQDWKSpGAXid6kkhLE+q/hT/pb6tPFyL0VUtmrcnNHWOpka7aOfL6LXRsEFGkG2kgr6eJ5XzGcj6x6mV/nNonM3xBjcrKNm1YXnEETFAmfgEAaLj4XleGprEpRckwWa8J2qmg==;hUMXKDO5kSbJQu/rOk3uCA=="
+secured: "fA8UEwTs+wbamUi2Y9rBipJh6HriptXgPdqdS9l6BG5e2bZkZwh9hCt0aJzJ7Fqs8NW3zo5qPKYQZSnFK7/3Je+mjsfbye1Qdk8uqfHogOrPu/Hf4njr/vNitYG9wXBMuto+Hhn7p0MdJgnRiTwpY7u2SRm4l98WY2D567yBBYa3ssxuuzdawQi23AsVFpSsY86erJOYxXoEgrmc9R7FFwwsYr6MY9lBin23UKNT1WWlpGZQJghQ/pyxzlkEj+dJdsHk3hqkhyRfq8+nexMCZA==;nhhuQDykcgLwl+zZ9ZBc7w=="
 ---
 

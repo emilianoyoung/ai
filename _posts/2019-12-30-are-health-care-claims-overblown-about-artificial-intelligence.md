@@ -1,44 +1,32 @@
 ---
 category: news
-title: "Singapore investors plow into health care startups"
-excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-publishedDateTime: 2019-12-24T03:35:00Z
-sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+title: "Are health care claims overblown about artificial intelligence?"
+excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
+publishedDateTime: 2019-12-30T16:29:00Z
+sourceUrl: https://www.pbs.org/newshour/health/are-health-care-claims-overblown-about-artificial-intelligence
+ampUrl: https://www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
+cdnAmpUrl: https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 76
+heat: 106
+published: true
 
 provider:
-  name: NIKKEI
-  domain: nikkei.com
+  name: PBS
+  domain: pbs.org
 
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+  - url: https://www.bing.com/th?id=ON.B23E65F75E23EE2E5215B250614867AA
     width: 700
-    height: 350
-    title: "Singapore investors plow into health care startups"
+    height: 393
+    title: "Are health care claims overblown about artificial intelligence?"
 
 related:
-  - title: "Are health care claims overblown about artificial intelligence?"
-    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
-    publishedDateTime: 2019-12-30T16:29:00Z
-    sourceUrl: https://www.pbs.org/newshour/health/are-health-care-claims-overblown-about-artificial-intelligence
-    ampUrl: https://www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
-    cdnAmpUrl: https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.B23E65F75E23EE2E5215B250614867AA
-        width: 700
-        height: 393
   - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
     excerpt: "Health products powered by artificial intelligence, or AI, are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will make radiologists obsolete. “There’s nothing that I’ve seen in my 30-plus years ..."
     publishedDateTime: 2019-12-30T15:07:00Z
@@ -69,7 +57,20 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
+  - title: "Singapore investors plow into health care startups"
+    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
+    publishedDateTime: 2019-12-24T03:35:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+        width: 700
+        height: 350
 
-secured: "h3R90tNhaOZc6YjG2hocM6gU13Ci22GLguesbsAd9DSQ0bSXDscuEGK/QYep7id805cIomh/gValWlo4ADivAbtSruoQzgybMC6VkC+mEldcPP2CPP/jphU8T3qkJDXDWhtI0BcFd7w8x82RG3uLy8vnLAwg2XBSEaUZ3v8i87P8NTjiOwipjb3nK+krFRqkzVoBC5dzEp/jnfQ7C9Qh2UyVCksxNKZfRj/Z7T/xmlPlAQf0KreRa6oTHM7pMjOjZS6MS+UjgMP8PTQMhxh/0A==;dH/96VUnqe6+X6CFMgMqAA=="
+secured: "TenlchKwqEBLs9oKg2OoPTYBW34cWHjplFGM97NIa0Vff5XcxCBwb4/jCvjNRMHeKP+GTWBFcVUEiy8jeTr7wOkLuHtoa5sOlNiCDIvojiPQZdKv6vAX8Kp9zn+aQSGNeIedxxUYjijuQbZfqZz3+7fkK8P3hQLNiCx3RQPtAgvs4rNNDbW7335H+xEeklU2tO6WrjTSS78JKfOB0YD3HA2MZ+L9UaFozzmJxjkyn9UeRYYdc/GOxWEFloOY7hCMQEY6/fUpWkoVp930Z5sOiA==;At4CiRa6eMbjDPj3yZ4HSA=="
 ---
 

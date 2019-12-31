@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Uber will build a self-driving test track in the Pittsburgh area"
-excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
-publishedDateTime: 2019-12-27T12:53:00Z
-sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
+title: "Baidu can now test its self-driving cars with passengers in Beijing"
+excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
+publishedDateTime: 2019-12-31T09:47:00Z
+sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WPXI
-  domain: wpxi.com
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
+  - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
     width: 700
-    height: 393
-    title: "Uber will build a self-driving test track in the Pittsburgh area"
+    height: 367
+    title: "Baidu can now test its self-driving cars with passengers in Beijing"
 
 related:
   - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
@@ -54,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
         width: 600
         height: 315
-  - title: "Baidu can now test its self-driving cars with passengers in Beijing"
-    excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
-    publishedDateTime: 2019-12-31T09:47:00Z
-    sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
-    ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
-        width: 700
-        height: 367
   - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
     excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
     publishedDateTime: 2019-12-26T03:36:00Z
@@ -110,6 +97,19 @@ related:
     quality: 24
     images:
       - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
+        width: 700
+        height: 393
+  - title: "Uber will build a self-driving test track in the Pittsburgh area"
+    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
+    publishedDateTime: 2019-12-27T12:53:00Z
+    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
         width: 700
         height: 393
   - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
@@ -161,6 +161,6 @@ related:
       domain: infosurhoy.com
     quality: 0
 
-secured: "MkHASmhi1n35vB7+NJOGrs0jkz+eqUUWJ804G3LZxCa7HwG6hdmQRAGqMt9bc8lIL06Hc4E9ZA0apQXtPA/4Sq4a+EE7VCfGDfB3OvaNzpO7xVqF8T96Jsnzvy9j7ewxy1PMl1Ic5BB5nCZL2QnAuzZHd0oYeVTOqbPwXsmxDGPjHSStT/XmpDz/8ewgGoe1tSO/M/vHrFfkM7/efwOzf63zlEY+4b65EGHfPovHF/hBKuSmhynMhPxPLPaeGInY40amRbiOBqc/0dvMC0b9qg==;w6tuUiXce0iXNIlYlrFXuA=="
+secured: "E4JMSliGbaY+xvAWHkjPBDm7fCLzUIEWTmSvRx4QmmzMDoA5in0DriSaWJ8a4y1786q6rmwoVJ6dS8G3/40K0r9n8eukgLh6KXKekd+sK/E/scTkrOmODRM/lnVstKbytX7Tye7VUpTO5E1x3tK5nwbIQX3XarK0Ulwc8fbVJKoIxELv6mx6FhrZ7TwPJPHRN1GZmkyFDerYokIr44wfdLw+tEjwE6CzZq1qOTe2OlmxnNmg/iUXt9naiJa90GLeqQV5iNwesOFlxEu4ocoGMw==;sCYV7ah5GAaGDU18g+3nfQ=="
 ---
 

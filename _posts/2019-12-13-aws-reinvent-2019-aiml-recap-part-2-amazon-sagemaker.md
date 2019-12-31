@@ -37,6 +37,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E4C7C016DA9D302E6B28E134676E28D0
         width: 600
         height: 315
+  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
+    excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
+    publishedDateTime: 2019-12-10T15:29:00Z
+    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
+    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    type: article
+    provider:
+      name: Web CMS
+      domain: cmswire.com
+    quality: 39
   - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
     excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
     publishedDateTime: 2019-12-12T13:56:00Z

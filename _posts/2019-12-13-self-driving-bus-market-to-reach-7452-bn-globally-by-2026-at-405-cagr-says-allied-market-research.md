@@ -61,15 +61,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Security Policy Management Market is Expected to Attain Size of $2,647.1 Million By 2024: P&S Intelligence"
-    excerpt: "enquiry-url=security-policy-management-market China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. In July 2017, China released the Next Generation Artificial Intelligence ..."
-    publishedDateTime: 2019-12-11T08:30:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/11/1959038/0/en/Security-Policy-Management-Market-is-Expected-to-Attain-Size-of-2-647-1-Million-By-2024-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
     excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
     publishedDateTime: 2019-12-19T14:18:00Z

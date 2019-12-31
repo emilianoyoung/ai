@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
 type: article
 quality: 76
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
         width: 600
         height: 315
+  - title: "Baidu can now test its self-driving cars with passengers in Beijing"
+    excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
+    publishedDateTime: 2019-12-31T09:47:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
+        width: 700
+        height: 367
   - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
     excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
     publishedDateTime: 2019-12-26T03:36:00Z

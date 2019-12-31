@@ -2,25 +2,25 @@
 category: news
 title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
 excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
-publishedDateTime: 2019-12-30T20:17:00Z
-sourceUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/
-ampUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+publishedDateTime: 2019-12-30T20:14:00Z
+sourceUrl: https://www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/
+ampUrl: https://www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2236512/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
+  - url: https://www.bing.com/th?id=ON.A76416F237B7CA449CEDB774783F20D1
     width: 700
     height: 393
     title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
@@ -182,6 +182,6 @@ related:
         width: 620
         height: 330
 
-secured: "WswWlKqiEO9PwL0avLOhezhVHlPHoRJFlWJ3d9YzeH3hKl3hQ0Ziv+5Jd3fbSeoHwAovw/s/+mTu+CbsAnx0KsrGDc0pHAf93twJnWfWOz+zWzTmNgHUH0CnUUPzHKHKQA3GuEBAuILR64ADD85bfackrWZ4FmhfvK+dNSBXGw7WCQuCmwdRFlnGijYnqvAIOSzoO9+zdi5O0cuXaKDN38f3CCLW4venYY/HUhFFepTmUWVVT4tdBcYnVXmq6YZnq5yYsRV+8aAcymmUCAjeVA==;Slh9h2YKxLC3n5HVriI3ww=="
+secured: "1DkeYKXbQYbaJOyhxUC4pBNQ3Fi9IeOi//rpmgR7RVm50ZZP387dA98mwlwQVCpsSrypx06W7YOhpBeIdtXABGzPxgPYJ2DZELc4a428C9cYKwqILPi593/BYaOPi2M6BoCYFYQempMVV1sf0G7eiz133A+k1bKnLUMrsMRG4/y1XBNj4sYEKg/j5h0GvDhTWe9YS3jGX8MhJHa/UKgcG2lPU3EOs7A+WyUC3Qz47fW80iGOST5x5pf7AKzLaM312n87d98TRNNMZHs4SmqZhg==;1ew8qwoJxFZe88mkPgRhcw=="
 ---
 

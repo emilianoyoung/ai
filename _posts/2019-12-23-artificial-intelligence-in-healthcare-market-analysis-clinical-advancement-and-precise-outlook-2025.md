@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.86C95C1D9BE7039838DAFB2F7DF99FEF
         width: 660
         height: 440
-  - title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
-    excerpt: "After all, a lot has happened in the last 10 years – and advancements in health care are no exception. In looking back at the health achievements ... I don't know. That's been a major trend.\" Artificial intelligence made big strides throughout the decade, though its potential benefits remain vast. AI systems allowed health organizations ..."
-    publishedDateTime: 2019-12-24T19:24:00Z
-    sourceUrl: https://www.phillyvoice.com/decade-health-story/
-    ampUrl: https://www.phillyvoice.com/decade-health-story/amp/
-    cdnAmpUrl: https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/decade-health-story/amp/
-    type: article
-    provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
-        width: 700
-        height: 463
   - title: "‘Healthcare needs urgent attention’"
     excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
     publishedDateTime: 2019-12-28T18:57:00Z
@@ -86,19 +71,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Singapore investors plow into health care startups"
-    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-    publishedDateTime: 2019-12-24T03:35:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-        width: 700
-        height: 350
 
 secured: "waJPUlvwRSZz9Y1TDMA1sKOAK9b2fLmQX0M/Jo3SwHm8I/oIECq36UNf2CV+DDVTAsM0dyiS9URd+JoknpSOaaR8vn9o2AghfQiXM7vAxJCcLsKkR2SgPctlLtJS8QDlv51lOQGNG/PHkEeKre1oRHTrhl+fu7cfZ66tXbKcD5hg8YG02sZwhwTgRsKCv3pcVqSMxxoLfglkO3ih42g518o/vMS99WXwctW4MEe1re8gkwJTMYN3DxNXJuVPrzSsc15lLtxPgN98dwLDXDNqjA==;TEY+IIKsQVyp2VzF9FiDbg=="
 ---

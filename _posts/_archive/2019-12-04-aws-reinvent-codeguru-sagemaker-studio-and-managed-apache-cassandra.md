@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
+excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
 publishedDateTime: 2019-12-04T20:48:00Z
 sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
 type: article
@@ -92,7 +92,7 @@ related:
         width: 648
         height: 420
   - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung ..."
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
     publishedDateTime: 2019-12-03T12:00:00Z
     sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
     type: article
@@ -118,6 +118,6 @@ related:
         width: 720
         height: 335
 
-secured: "wtG/9GZv+tsiF3yatVnINp6DMaMZNU1HDRQ7afSZ3HBFJ6mxxw4pKMGJGse1MU2zoe8q64IPpYmgkaBNkTqukWj/6ZXFKaMRcGA+K/GpnFOSotntG6zDcKUhE17tNRr/XEaZJGjK3b8SswR932b9APHaxsWTqsZPR1TkHNcbDpr7oYvmHZGvv218YcU8JqDoDYvVDPVEkQivNW+w8xwR3M/YCmwqtrXRX5IogmAyl3p+sh4mSs0U8I0TaxsgYndUBUWR35iLJSrIz+wI77MXWA==;0gAwSmAnuyrfpD7KuJNocw=="
+secured: "byVHPFUM9CqqJaK3Bu0dyjvBMdjJmgYnT55v7zuWLk1ZRw2iN5RxGLF9YORVWBkGt9+5ySN0EmRJOMLAypRt2fZ2aTUZJkrDIcMQmeWZ3xV8vSEuTO98WiI/Th2xy4jBfNuqYf+q8cskgKpRaU74HpNf2x/wMUUCCxJN0VbGqlDROM2eLFIZOIgMNe0/utv82FoPvk/4+h32CXxEZcEbehw0+niH2lhjuVD8N5M1/C9IelL/TjczoxxV1vd7eTr04yCT5EgQ3Aouca6eweyTxg==;LsjDFkT8Z0Fil/kMHvE3+A=="
 ---
 

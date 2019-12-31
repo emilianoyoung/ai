@@ -26,62 +26,36 @@ images:
     title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
 
 related:
-  - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
-    excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
-    publishedDateTime: 2019-12-28T09:08:00Z
-    sourceUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/
-    ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
+  - title: "Are health care claims overblown about artificial intelligence?"
+    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ..."
+    publishedDateTime: 2019-12-30T16:29:00Z
+    sourceUrl: https://www.pbs.org/newshour/health/are-health-care-claims-overblown-about-artificial-intelligence
+    ampUrl: https://www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
+    cdnAmpUrl: https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/health/are-health-care-claims-overblown-about-artificial-intelligence
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
+      name: PBS
+      domain: pbs.org
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.86C95C1D9BE7039838DAFB2F7DF99FEF
-        width: 660
-        height: 440
-  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
-    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
-    publishedDateTime: 2019-12-23T10:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
+      - url: https://www.bing.com/th?id=ON.B23E65F75E23EE2E5215B250614867AA
+        width: 700
+        height: 393
+  - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
+    excerpt: "Health products powered by artificial intelligence, or AI, are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will make radiologists obsolete. “There’s nothing that I’ve seen in my 30-plus years ..."
+    publishedDateTime: 2019-12-30T15:07:00Z
+    sourceUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/
+    ampUrl: https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
+    cdnAmpUrl: https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 73
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "‘Healthcare needs urgent attention’"
-    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
-    publishedDateTime: 2019-12-28T18:57:00Z
-    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
-    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
-        width: 615
-        height: 384
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
-    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
-    publishedDateTime: 2019-12-26T06:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.E523C4063C4248D3FF03D27E239B250A
+        width: 700
+        height: 466
   - title: "Singapore investors plow into health care startups"
     excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
     publishedDateTime: 2019-12-24T03:35:00Z
