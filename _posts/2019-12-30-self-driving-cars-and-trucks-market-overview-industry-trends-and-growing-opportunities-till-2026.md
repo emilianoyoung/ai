@@ -28,32 +28,37 @@ images:
     title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
 
 related:
-  - title: "AI For Drug Discovery Market 2019-2027 / Size, Growth, Trends And Future Opportunities"
-    excerpt: "Dec 26, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
-    publishedDateTime: 2019-12-26T12:23:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-size-growth-trends-and-future-opportunities-2019-12-26
+  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
+    publishedDateTime: 2019-12-23T08:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
-    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
-    publishedDateTime: 2019-12-24T09:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
+  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
+    publishedDateTime: 2019-12-18T15:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
+    publishedDateTime: 2019-12-19T00:15:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-164500275.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "oq15JDZNCBrsyD1WqakH6aLXoomHzEBAnKpZ4/yEPZ2TPOVtkhMr/1ZGBuYa4faOPX6e9KNQ/gk/4qjKf7i6Ee39LnxKILIjSkHpLZwKNwR5hVt8Ck7fOIGyUbgvwO9enfdYXpyrYHtG1WzlfvG1KEqXO7+DpgosBiSr2XnRm6GUdGQx4DHkY6ldz7Z2yWaMoKaV9z47oiezSvvTULxNInPcnCkgx/YF2dYbjMymXbQBzU4e7XVCcI0UODJlGH6iNyliacPJLZ7B+hRBfqfM0A==;o9Rf4tXRRsRlOqUy1DFGrw=="
 ---

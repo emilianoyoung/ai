@@ -5,7 +5,7 @@ excerpt: "The report provides key statistics on the market status, size, share, 
 publishedDateTime: 2019-12-10T15:51:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
 type: article
-quality: 84
+quality: 64
 heat: -1
 published: false
 
@@ -20,12 +20,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
 
 related:
   - title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
@@ -77,6 +71,6 @@ related:
       domain: yahoo.com
     quality: 34
 
-secured: "BgQJmBTIuHgHELvvnkTX+0zbToDvJJ+GyDEvo3CiaQyqe3YH5zDsGFfttgIU8j6Qc81GKV7vWBEvWTSTzYLQ4P3lhyAqdcWMJQPot3llwa+x1BSa4+hS8ma6gOVwcza9KJDs2iOZdQVdO++VPp0MJKdjPf3hOHRJP2AvmzkQlZcV27MBtnpC2aav/+Z4JzGQPsfgsLFgSXR7mTv03mXrmxK8REbaY64MtCuWLdTKt+Ep2MiH5ZiuWVv7Y/3bO+D9R25KQznX038tCrtPwWDhPQ==;CwZ9nD81RNHoqEpZBcT9pQ=="
+secured: "UHmcpNvoN7CyWH3Cz504zYFMsD74GLnOtIsSW4Glnr/HPG2nWoAaR6A0NlMyC2H2VEpvAa/3rEzrpRB4U9CZPBgiOimqD0goHt9SeyAWeVcaO3eRcojaYEVW0+b4hwNjl/AHEq9CjMeCX6TmRH3BTP5lz1+ihvcSkL9oFFZpM68RvwvGBwCVzPcsWl2HnE8Q34HloXMC+yhupKLIVVCzAa9pr2Z8u57zQBlT0fUSZySPmXTdeSNczwWqZ5KaIRRxB+HN8Bq73KD9pp3EIgY6Wg==;uQs84HwV4Y7Kg5q81jDPnw=="
 ---
 

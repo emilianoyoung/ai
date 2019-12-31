@@ -5,7 +5,7 @@ excerpt: "Facebook AI, the social media giant’s artificial intelligence resear
 publishedDateTime: 2019-12-06T17:09:00Z
 sourceUrl: https://siliconangle.com/2019/12/06/facebook-ai-reaches-milestone-cooperative-ai-hanabi-playing-bot/
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Facebook AI
-
-images:
-  - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
-    width: 490
-    height: 369
-    title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
 
 related:
   - title: "Facebook's new card-playing bot shows AI can work with others"
@@ -34,12 +28,8 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
-        width: 756
-        height: 567
+    quality: 69
 
-secured: "R3/9CMYcaLByAw8LAFAOt5GK35NKdRA7/aZp397DOyjSRrdgwVMc9Sk83xxYweFUKn8BdKWacaRBKell7sMOYACtN0FGWFNdoWhU2q21g2Fxj834ZVxJsS7iHm9ZvE6YIsmtOP1lhApcvL9Nd85Uw+qshmjE7fVFMvRWKMeYwKk0l2Bgjjm5ZwsX9ggJ1VkwLNn7WctqrA9RrV9oOg9qpKkL1avm42N608VOFBcif385OAQ+VgmoIrKcRiu/7jF0IOZnXlnQHZxjsl+IUPkETA==;D5YXHOfY2xkoKA9RfBPZyQ=="
+secured: "FCn24glI+R7QYHAaBn4nvqvW9f0WBue7pgPapdXlUa5htUQa7xRRNC4CfQ9oT0uxe9hQGpKW38wjiGSOl37pE/pR45hnfDKZDVla2eiQHurdSCy1jrlAf+QoglORExrvayHlzyo8HJwo9NqrgVXRkpM3zEHbsIySEpYhaG7Pa9SzPgkCbCP0/sltuTCE/nCrV98k7u6nR4p0ZNOcFrcc9X9O08sYvw+Y97zQLtby0aQEjHZffb+ne35vizWoc8vUqjjaN/ODRSsuObWsQiS4pw==;LL2nGZxfIr3eDQE7Yvhe/w=="
 ---
 

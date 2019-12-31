@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-27T19:11:00Z
 sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 64
+published: true
 
 provider:
   name: The Pioneer
@@ -24,21 +24,6 @@ images:
     title: "Harness AI power to transform healthcare"
 
 related:
-  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-    publishedDateTime: 2019-12-31T03:23:00Z
-    sourceUrl: https://finance.yahoo.com/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 72
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "How AI is Transforming Healthcare Industry"
     excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
     publishedDateTime: 2019-12-29T12:06:00Z
@@ -52,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
         width: 700
         height: 494
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
 
 secured: "+W8CP5b5IhO5eCsOneXpKNORMq/Bgtk+e69nG2QalsF5SajO9ZVRlWRvYnOebeQ7jMqBM+I4C0D3QSSPtFYZvoM1KKmPW6CIB/ko65EIs3OvU2K88UWaiNU4E4UJNHdVDE37CujihYYyuOfH7PRnNtKK9Oww8GE+0ZgGGZq19KVFLNYY0vGpS7ROfS22uq2EhP49gsUkRmscXlNXwAODZAZGgSyJ1Wvx35CR211EYDJp9CeDFJwaOYxHQMgk6xCYX+7+XOhL9QQPj8CJ4TnDTg==;dvky/m4e6/ew/C7d44t3hA=="
 ---

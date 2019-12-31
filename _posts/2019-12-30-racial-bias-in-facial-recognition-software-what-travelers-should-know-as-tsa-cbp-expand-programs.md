@@ -2,16 +2,18 @@
 category: news
 title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-publishedDateTime: 2019-12-30T12:54:56Z
-sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
+publishedDateTime: 2019-12-30T12:36:00Z
+sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+ampUrl: https://amp.usatoday.com/amp/2755613001
+cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: USA Today on MSN.com
-  domain: msn.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
@@ -99,21 +101,17 @@ related:
       - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
         width: 670
         height: 440
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
-    publishedDateTime: 2019-12-30T10:09:00Z
-    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
-    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
+    excerpt: "MUMBAI, Dec 30 (Thomson Reuters Foundation) - Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi ..."
+    publishedDateTime: 2019-12-31T01:02:00Z
+    sourceUrl: https://in.reuters.com/article/india-protests-facialrecognition-idINL8N29301S
+    ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N29301S
+    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N29301S
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
-        width: 700
-        height: 466
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-27T18:59:00Z
@@ -217,6 +215,19 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "Fight against facial recognition hits wall across the West"
+    excerpt: "The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a bipartisan U.S. alliance ..."
+    publishedDateTime: 2019-12-30T10:03:00Z
+    sourceUrl: https://news.yahoo.com/fight-against-facial-recognition-hits-100324645.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43FB0DC7F558CB2BD71087B508328FE1
+        width: 700
+        height: 466
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z
@@ -254,10 +265,23 @@ related:
       - url: https://www.bing.com/th?id=ON.0794A7B7E77D3CD47CAECBC43D9FC8F7
         width: 620
         height: 355
+  - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
+    excerpt: "The chances for those seeking a world of solitude are rapidly run out. A good case can be made that this has already happened. Aldous Huxley’s Savage, made famous in Brave New World, is out of options,"
+    publishedDateTime: 2019-12-31T00:00:00Z
+    sourceUrl: https://www.msn.com/en-za/news/other/indian-adventures-policing-facial-recognition-and-targeting-privacy/ar-BBYtH5s
+    type: article
+    provider:
+      name: News Chronicle on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3682FE7917FDE24FDB7A86A69D8E4F91
+        width: 600
+        height: 315
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
     type: article
     provider:
       name: Fast Company
@@ -312,6 +336,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "CXSLqfr+kfzpHwqlC6wiuicQhxdi6HDwgGq1TPoaszRQeWB8YEYscw3nej2l/HAPhsaLV6GDxDC4vGeiaf56AYT5OIlWG4Yj6eWkf/gFI+fLfSuZOqXzHnKnFNWoCZBhhP8kcYovhqOdm3EX7Jpfg84T6Gn0dXcet4yykd75qLmEHcp+9C/n53lcEg+9l3gLIyfguOw/VWuQ/Ps6r4HvF07EIgwom5d8jLNvREPY5+j/1L5hwIQ2Q0KkJsO0kV4GZMc6eLrJ4hgyOPBolEkG/g==;cyc4G/uXYILie3TGN10N1A=="
+secured: "g385NKD5HJ3iiQm23dtU/KuSpbx/98jvCi0N6ZwuSvZtcfoYTtjCU+7eZZnPzF69gfDlBak5tfK17+qe4O9yInXWjdlYsD75C8H5pq09JJPUPEXEKNGvdZwilOpX4f9Wb22jhLKJDH4lHM9lx7rBUdNV6Ejruvs9RVNg28WaJmDXtVhT5wKTFtqBc6CkWXzrcgJQixf/sP6Qbx5RmDKyorqUcSjMGqsypMZEn6/f1QSfPLAJZFtCjCyLCGgRmu9GmmYJfVy/mIDV3wL1Ea1cdQ==;3RpcvvhZygsIO737ow84aQ=="
 ---
 

@@ -103,19 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Artificial Intelligence (AI): The Answer To Our Environmental Prayers?"
-    excerpt: "Due to the variability in the observations the volunteers make, AI filters observations through collected historical data to improve accuracy. And now with over 500 million bird observations recorded through this global database, Microsoft’s Azure Cloud Computing Program is helping to allow calculations that used to take upwards of two to ..."
-    publishedDateTime: 2019-12-11T04:00:00Z
-    sourceUrl: https://goodmenproject.com/environment-2/artificial-intelligence-ai-the-answer-to-our-environmental-prayers/
-    type: article
-    provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BD284E498A061075A5BA2FD8764B5120
-        width: 600
-        height: 350
   - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
     excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
     publishedDateTime: 2019-12-12T22:42:00Z

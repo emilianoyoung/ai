@@ -48,17 +48,6 @@ related:
       name: Medium
       domain: medium.com
     quality: 79
-  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
-    excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
-    publishedDateTime: 2019-12-10T15:29:00Z
-    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
-    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    type: article
-    provider:
-      name: Web CMS
-      domain: cmswire.com
-    quality: 39
 
 secured: "0TcUSv4VCmxOJXQHn1fEmlIuLkDEW/7YB7j2nGNf0qF7x4LQ2mIMgUvrSxAxQh25r+H4WyAMryj7x4J0G9Brmel7DoaomnqA8ajftczkYfOKk3+2uK7Curm0gL4AZ1eQmVRN4FA8jWgV/9r3b4BmxX+QsUy78A8Fs2a2SLUB8g8wn9Hcov9nOdbQ53mpJpDer8UjIePWCZAaUq0O2casPgsDWic+FISlx9odePixwnTr/IvIEdjKXfVLkvtxzGqfc3MUjYbpyMLsst4c937+BQ==;RxhMr14/5kbeMGrljGMLkg=="
 ---

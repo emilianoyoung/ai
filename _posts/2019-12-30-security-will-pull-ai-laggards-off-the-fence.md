@@ -38,15 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2E54E0A11AB61EEFEE89C1D3A040D2FC
         width: 700
         height: 350
-  - title: "2020 Will be a Banner Year for AI Custom Chipsets and Heterogenous Computing; Quantum Computing Remains on the Far Horizon"
-    excerpt: "“Vendors of these chips will move away from offering proprietary software stacks and will start ... the technology complexity for their developers and help them focus on building efficient algorithms for the new AI and ML applications.” “Despite claims from Google in achieving quantum supremacy, the tech industry is still far away from ..."
-    publishedDateTime: 2019-12-23T22:32:00Z
-    sourceUrl: https://www.abiresearch.com/press/2020-will-be-banner-year-ai-custom-chipsets-and-heterogenous-computing-quantum-computing-remains-far-horizon/
-    type: article
-    provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 8
 
 secured: "IGz+j+1csGhgEVqJVVTyh3C6FEiuc7fr5rzs3MHhlOlNYCG9xLDekkteS2wyoUSt45a3wHjuS1kcOr+VMLhJL1moMUX0xyyGoHUF76BN4WYdUjIPMAqzU4FtdQwRRQc6YSK30EQvY0VkZJXgnOmCeZuTwEeNUyw/1hWtEvqNd/NN6D7FP6egPmCClMufjlfQtRpLG9rGIsi9GbPgrUBAsdTmXAV+lISteequPenNre6ImGR7MGgPCVgpttBvgjNsIz2wMuwA8h3HT72BDQWuZw==;ZbEXCPxbHG7owNmTFkWZYg=="
 ---

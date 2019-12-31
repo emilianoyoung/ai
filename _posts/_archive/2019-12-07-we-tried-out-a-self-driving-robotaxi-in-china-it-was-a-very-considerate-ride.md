@@ -7,7 +7,7 @@ sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self
 ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/13/4fa0ceac-172d-11ea-9462-4dd25a5b0420_image_hires_160840.JPG?itok=p8fR8kh6&amp;v=1576224532
-    width: 1200
-    height: 630
-    title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
 related:
   - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
@@ -42,6 +36,6 @@ related:
         width: 1200
         height: 630
 
-secured: "4fV0M4RGTwVaj34WYAKGNXh0quEBhNUJhoNUTmuz+7GxEQrLXxhAPUWs+l1tbkkwlJSvY31BYEO8MwlJOtc+ckeMyPxZuJ+CQsNDF1CMU2j84vYW6uCPVGef8CqytYS0DVJJkZhb8SKsZ5jhfNqSPjfWaSwmGOzg2JtEAneSN4f2oS5zc0PiMACqzCg5k7au9D34E1FVnWp1u6PO7viKIxhn6+j5+ZOB1JjmNYTodRberxfg7Heo3cqTn/Siq1BGqPGdaHK/gqy6GrVLr0ZMbw==;/lRfyyy1dJGXjOq5irjY4w=="
+secured: "ewu+p4eG3OuNjdgsrRr1EcOwIguUI0JRgXRRzL+ccWN1SmN9zt10hBv3UWm4GbxPoj6sB4FtT5Au3azE6CZ3WC+VaLpOv6LpkaT4MzuwqNdDuIJEE4B6ZGqR2grEIeeXJqgC66NRv0Z51gyUx1UnLd69SpjzPZzgONZSH1u3AeKtuIFWtIa/ZN6ULNrROrNEqUgL5Djx+qgkSm8qHW9kCnYF4CZcYMPaeULE9z5BHazp5YgkjaPPf4ilqKNynt5jPznFYiyQmCRgnyBB+65JGg==;7E1WJDf9oUj01C8iMBwE1Q=="
 ---
 

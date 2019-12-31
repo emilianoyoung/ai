@@ -7,7 +7,7 @@ sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_g
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ provider:
 topics:
   - AI
   - Google AI
-
-images:
-  - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
-    width: 648
-    height: 391
-    title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
 
 related:
   - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
@@ -64,24 +58,7 @@ related:
     provider:
       name: thenextweb.com
       domain: thenextweb.com
-    quality: 84
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
-        width: 796
-        height: 417
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
+    quality: 64
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -106,6 +83,15 @@ related:
       name: Financial Times
       domain: ft.com
     quality: 39
+  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
+    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
+    publishedDateTime: 2019-12-06T01:29:00Z
+    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
     publishedDateTime: 2019-12-06T10:24:00Z
@@ -114,12 +100,8 @@ related:
     provider:
       name: The Inquirer
       domain: theinquirer.net
-    quality: 39
-    images:
-      - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
-        width: 580
-        height: 358
+    quality: 19
 
-secured: "47HK/YM7TKUNhgwfr1FtSQOwQfTTUgsRhWheOYQovCu8mTKItZBsTXQHyJViiHthmS/0awNB7in5MMNV+ubBswBqVLoJnAwdPD76R4mts5wfekwVmyNAHOD2MXVB9+TBRSe2r5q0AAS8Ve4oEUJUsYa7hhILYMZxiqeQD309JjBL9ahh4ROBYR7E80PzVcsSzcnW5fj7lJ12pSyRuTiX8TkmWg0CDyh1kf7dgsDWjsaupbV/zoSx72t5LS9/h2KmwfqB+9uHHPKa7QoRkaSvmQ==;8dBFAgEgSkaHOzbgUxbocw=="
+secured: "kitEFpkAFP59PdbkQY3MOCedaBnXHUUpox7BV1ON+OOhRimhuqlKrsmduSmAD02sHHmvrVgbl0uoOprfQAv/XlUCFmh02oi/xJH8nkqY/KTI9/fBbzltBTiBgWEsKXyBBZB2wggpx/+Oka9jEAmbbyu7mJRI7rjuDSIdb2g6nFmgvp7vpIT+uTeaXNI6VB6117oYwC+iZoa9s7iSNUGT809k8sDc3w/8Wf2FsASeQnyBf1mZjGDFcZn1OCdke9o0HPSPltrfKLOhNWG/BCoMSA==;D6AbN3RDmUUWgzqVR+1G5w=="
 ---
 

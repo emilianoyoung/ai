@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
         width: 700
         height: 329
+  - title: "Using artificial intelligence to improve chronic care"
+    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
+    publishedDateTime: 2019-12-12T15:49:00Z
+    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
+        width: 700
+        height: 447
   - title: "Putting the 'art' in Artificial Intelligence"
     excerpt: "Artificial Intelligence never ceases to surprise us. Recently, AI was used to determine if Shakespeare took outside help to complete some of his work. It turns out that large portions of his play Henry VIII were written by John Fletcher. At least this is what researcher Petr Plechác's AI neural network would have us believe. The literary world ..."
     publishedDateTime: 2019-12-19T09:24:00Z

@@ -18,52 +18,52 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
+  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
+    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
+    publishedDateTime: 2019-12-12T11:12:00Z
+    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: Medium
+      domain: medium.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
-        width: 700
-        height: 445
-  - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
-    excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
-    publishedDateTime: 2019-12-11T20:44:00Z
-    sourceUrl: https://www.king5.com/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    ampUrl: https://www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    cdnAmpUrl: https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
+      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
+        width: 568
+        height: 567
+  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
+    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently ..."
+    publishedDateTime: 2019-12-10T18:44:00Z
+    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
+    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
     type: article
     provider:
-      name: KING5
-      domain: king5.com
-    quality: 44
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
+    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
+    publishedDateTime: 2019-12-13T06:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
-        width: 700
-        height: 393
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-19T09:31:00Z
-    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Schneider Electric Wins 'AI/ Machine Learning Innovation' and 'Edge Project of the Year' at the 2019 SDC Awards"
+    excerpt: "EcoStruxure IT™, the Industry's next-generation Data Centre Infrastructure Management (DCIM) solution wins 'AI/Machine Learning (ML) Innovation of the Year' - 'Edge project of the year' award secured for EcoStruxure IT deployment in collaboration with the Wellcome Sanger Institute and Elite Channel Partner EfficiencyIT LONDON, Dec. 12 ..."
+    publishedDateTime: 2019-12-12T16:36:00Z
+    sourceUrl: https://finance.yahoo.com/news/schneider-electric-wins-ai-machine-162100686.html
     type: article
     provider:
-      name: YAHOO!News
+      name: YAHOO!
       domain: yahoo.com
-    quality: 4
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-18T18:26:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 2
+    quality: 14
 
 secured: "IA/dC5TBOrKvZxMVkhfSSOqa6rTVALgDFU9WkNoyHAqPeTuNcmmkE+qXUq7PmEtVLlCYR3wsL2W3YJkUF0qbACika2/nsEpGxqwPo43BbMt6KHz9qIlGZ+d2OqLYPgrk+F8Pl+g9I+7KCp/vWG2StFBn8E3ntjkwm+SympdX1E6PuMDNzU7zlMtfa63153JhjL0rWSiM9bwSC99v/UTiuYlh4k9rVIQ/3BK16qFg3h4tuIdy4JwNCa9CbWwZd2NPcyxznm30w+UH5wHdKQ9F7g==;LHA1OZOSAGlgdV8WFAK3cg=="
 ---

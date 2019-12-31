@@ -109,19 +109,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Artificial Intelligence (AI): The Answer To Our Environmental Prayers?"
-    excerpt: "Due to the variability in the observations the volunteers make, AI filters observations through collected historical data to improve accuracy. And now with over 500 million bird observations recorded through this global database, Microsoft’s Azure Cloud Computing Program is helping to allow calculations that used to take upwards of two to ..."
-    publishedDateTime: 2019-12-11T04:00:00Z
-    sourceUrl: https://goodmenproject.com/environment-2/artificial-intelligence-ai-the-answer-to-our-environmental-prayers/
-    type: article
-    provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BD284E498A061075A5BA2FD8764B5120
-        width: 600
-        height: 350
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z

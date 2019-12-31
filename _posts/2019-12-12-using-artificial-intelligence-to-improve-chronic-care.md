@@ -24,133 +24,79 @@ images:
     title: "Using artificial intelligence to improve chronic care"
 
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+  - title: "Augmented Intelligence: Empowering Humans, Not Replacing Them"
+    excerpt: "It is nearly impossible to talk about technology today without some mention of artificial intelligence (AI ... From smartphone applications to healthcare diagnoses and self-driving vehicles, technology continues to automate more aspects of our everyday work and life. Perhaps this is why many have an irrational fear of AI, worrying that ..."
+    publishedDateTime: 2019-12-16T13:35:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 76
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
+      - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
         width: 600
         height: 315
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+  - title: "Artificial intelligence development is starting to slow down, Facebook head of AI says"
+    excerpt: "In an interview with Wired, Facebook's head of AI, Jerome Pesenti ... Limitations to the development of processing power is already starting to slow the progress of AI and machine learning, especially since research shows that the one thing that leads to predictably better performance from AI systems is access to more computing power."
+    publishedDateTime: 2019-12-16T21:45:00Z
+    sourceUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331
+    ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
+    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Mic
+      domain: mic.com
+    quality: 68
     images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+      - url: https://www.bing.com/th?id=ON.C7F25CCA3C9834CA2A53752ED198614E
         width: 700
-        height: 350
-  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
-    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
-    publishedDateTime: 2019-12-11T14:44:00Z
-    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
+        height: 367
+  - title: "How artificial intelligence is making health care more human"
+    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
+    publishedDateTime: 2019-12-12T22:52:00Z
+    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
+    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 43
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
-        width: 200
-        height: 124
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
+      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
         width: 700
         height: 393
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
+  - title: "Artificial Intelligence Trends to look at in the year 2020"
+    excerpt: "Through futuristic technologies like ‘Decision Moments’, which includes an upgrade of the conventional data-engineering toolkit, or Einstein, an integrated set of AI technologies that includes advanced machine learning, deep learning, predictive analytics, natural language processing and smart data discovery all within Salesforce ..."
+    publishedDateTime: 2019-12-17T05:38:00Z
+    sourceUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/
+    ampUrl: https://www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
+    cdnAmpUrl: https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/artificial-intelligence-trends-look-year-2020/amp/
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
+        width: 700
+        height: 329
+  - title: "Putting the 'art' in Artificial Intelligence"
+    excerpt: "Artificial Intelligence never ceases to surprise us. Recently, AI was used to determine if Shakespeare took outside help to complete some of his work. It turns out that large portions of his play Henry VIII were written by John Fletcher. At least this is what researcher Petr Plechác's AI neural network would have us believe. The literary world ..."
+    publishedDateTime: 2019-12-19T09:24:00Z
+    sourceUrl: https://www.khaleejtimes.com/editorials-columns/Putting-the-art-in-Artificial-intelligence
     type: article
     provider:
       name: Khaleej Times
       domain: khaleejtimes.com
-    quality: 35
+    quality: 39
     images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 799
-  - title: "Hashtag Trending – $52,000 Mac Pro, self-driving commercial truck, Beijing replaces foreign tech"
-    excerpt: "Twitter goes nuts over the new Mac Pro’s price tag, A self-driving truck delivered butter from California to Pennsylvania in three days, and the Chinese government wants to get rid of all of its foreign computers and software. The cheese grater is back in the news this week. Apple’s most expensive Mac Pro costs about the same as a new Corvette."
-    publishedDateTime: 2019-12-11T10:03:00Z
-    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027
-    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-52000-mac-pro-self-driving-commercial-truck-beijing-replaces-foreign-tech/425027?amp=1
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
-        width: 620
-        height: 251
-  - title: "Editorial: Be aware of limits to self-driving cars"
-    excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
-    publishedDateTime: 2019-12-11T05:00:00Z
-    sourceUrl: https://www.ctpost.com/opinion/article/Editorial-Be-aware-of-limits-to-self-driving-cars-14896305.php
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
-        width: 700
-        height: 445
-  - title: "Talking Tech: Self-driving cars could deliver Walmart orders"
-    excerpt: "Self-driving vehicles could one day deliver your Walmart order. On Tuesday the nation's largest retailer announced a pilot program in partnership with autonomous vehicle company Nuro. They plan to test it out in the Houston area first."
-    publishedDateTime: 2019-12-11T15:48:00Z
-    sourceUrl: https://www.wral.com/talking-tech-self-driving-cars-could-deliver-walmart-orders/18826697/
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D2059A2A2E1C0B10A1B97C8F93B40EBB
-        width: 640
-        height: 480
+      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
+        width: 725
+        height: 725
 
 secured: "wC89hSGKt2rIEk482/2RY3WNwcMTbsEFutp7uxCmCPVc2kZDp6H88IdK97Sdngfxv36PhObSzv/iqVDbtCOcq/ySM2z+G7bzBer9Q48u2FrwxK0u2l3U1WqxuCr7LVkNu6NgG01fvOCmIW+Kj0Kl3Ofu/8JRDyHSZUwgvfjyc207YkjHBLbHCp51jo98GMRNuKJ3OqiRL9Nhdn3H1EJw1JEH0jBcvHccaY3gw7NzDpufX++U+8i1UVzs8e34X+3RInJ09SBXBL8KorJrRyyiBA==;zWdu2iqmQ4Y9Lg7kunbAIQ=="
 ---

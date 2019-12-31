@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learnin
 ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
-quality: 99
-heat: 129
+quality: 79
+heat: 99
 published: true
 
 provider:
@@ -23,26 +23,7 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
-    width: 1679
-    height: 1005
-    title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
-
 related:
-  - title: "Deep Learning breakthrough made by Rice University scientists"
-    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
-    publishedDateTime: 2019-12-13T18:42:00Z
-    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
-        width: 700
-        height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
@@ -72,6 +53,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "zn+yx0USFCbuH0Ceu99EDXWyUqKE6hI+wjVt9TuaP+40H8hRMiryWjaXAw5KD293xgGXh/Gr5JJKRdIA3Z0w3v7+0pPIGd+9haC8xv4K5U3JiyvaYLtaUW3OMhR0ruXAlRYN5OTG7+N+KvZfF3S5gnM/4PINa4Jaqwc9mfq5tI79aD4GddgkzyhTMS3lyi1pln5cuFxIlnypZvUbxAMDbC1TdAoEI8ST4RpoVUoK4GiTedgeIFpKtbE+d+mN+uz8vMrCpqDD63PpSftnJqwWHA==;ypKAi2uE4BPfcPGjGDJjUA=="
+secured: "FcLKjphMCtAJgLZVY1JbnxXU1oqsFaht/Ror2qxDHTYPgUZ7wZoJOxlfkQmVqfHixbJKQREFxEFNnmtc3Ml/emls+bbDBukXyGBtJlNL6570DZFriRhAV+M+IhSQkwfEpwpGYYApQoGxe26HLYMBZklAOau9L72+fesTEGm+SYPk/tGDimdL8CPvuWpFyVjz0qSivd99TVst79Wz4F5I1/D3wyPdJmcJA9H+vn6yz64eoDquGHIBtwSKmxkH85wwIiuymh+5JuOHFCcw5gnt8A==;0z1uwLmuFhXcep8wQw8bBA=="
 ---
 

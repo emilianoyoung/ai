@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C6F238B479BDF6285CE501864B8C5603
         width: 600
         height: 315
+  - title: "Deep Learning breakthrough made by Rice University scientists"
+    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
+    publishedDateTime: 2019-12-13T18:42:00Z
+    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
+        width: 700
+        height: 350
   - title: "Become an AI-enabled business manager with Great Learning’s PGP in Artificial Intelligence for Leaders"
     excerpt: "Over the last few years, Artificial Intelligence (AI) has been emerging as the most transformative and significant technology, with recent advancements in the field proving to be a game-changer for several industries. In the coming years, proliferation of AI is only going to increase, with businesses tailoring their core processes and ..."
     publishedDateTime: 2019-12-11T12:48:00Z

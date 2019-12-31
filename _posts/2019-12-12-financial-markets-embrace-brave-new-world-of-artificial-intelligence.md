@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7350E2F38719EEB06587D512F7FEF57B
         width: 640
         height: 421
-  - title: "Financial Markets Embrace Brave New World Of AI"
-    excerpt: "A computer identifies trends and market correlations, runs models, forecasts outcomes, and arrives at the decision to buy or sell by itself. AI can assist investment funds and portfolio managers to manage risk -- and pick which stocks are best for which clients. Banks deploy AI to help detect fraudulent activity, stop computer attacks and lower ..."
-    publishedDateTime: 2019-12-11T03:49:00Z
-    sourceUrl: https://www.ibtimes.com/financial-markets-embrace-brave-new-world-ai-2883261
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.10E80718BADF6231E76F23627BB6EFAE
-        width: 700
-        height: 429
 
 secured: "AvLDJXNrqCI1O4J00W9MdQgXDCjnlA6wdqs4UASld9JyTABiQi/FX8qTDdSC+T9TtKXLzG+ThjVl/Aaex7tpIpg29hpJVu1RlO9xjwHxzRoYinqfRclt+d+Uvc9UA3g68hbYylxBM9pC7lEVCRwDYHf1qnA72bdJgpvO71ZdfmShXfZ4o2gt1j1ZlDE5M0guzciagMoAMSe9P5goiXpuTC7ek+l1//xYX+QhO4zdS+57UnHxjrk8WxNtCwaRNZLRbFMNU06/NI+00yIroOqQrA==;enLnIhcfveA7zSaVI06dEw=="
 ---

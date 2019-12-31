@@ -55,6 +55,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
         width: 700
         height: 466
+  - title: "Deep Learning breakthrough made by Rice University scientists"
+    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
+    publishedDateTime: 2019-12-13T18:42:00Z
+    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
+        width: 700
+        height: 350
   - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
     excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
     publishedDateTime: 2019-12-20T05:38:00Z

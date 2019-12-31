@@ -44,6 +44,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "xdHRd2xmDSWnmV3JmhVCSSt2AsIWqiTaAdv/VKvpkv9ml0d3VGSp9gP0s1vw8w0/vR89hCUX7IPcfBLWy4cHA9POrrGStglNVYwOuw9cLwe4B8HYhU6F7CPoLk6VG0ls02MbojO1PGRYqDf5jO4nR7deOHSudF8kVXtQ+425iiWZP8EqEbBiC6H/uAy0wC2fTVAS9cArvEymzHlzK4U6HLpNJ2By6y0O0DuI+gzcDgKdWC6j38GVISgn3qQE//gI7og58V81NFmbn0nRq/QHNQ==;IbLhVCtmBtt/fvESBNFGRA=="
 ---

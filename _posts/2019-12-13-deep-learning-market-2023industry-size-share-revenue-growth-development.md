@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T11:46:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
 type: article
 quality: 67
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -28,28 +28,15 @@ images:
     title: "Deep Learning Market 2023|Industry Size, Share, Revenue Growth, Development"
 
 related:
-  - title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
-    publishedDateTime: 2019-12-17T13:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
+  - title: "Enterprise Artificial Intelligence Market 2019 Registering a Strong Growth by 2025"
+    excerpt: "Dec 13, 2019 (Xherald via COMTEX) -- Global \"Enterprise Artificial Intelligence Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the ..."
+    publishedDateTime: 2019-12-13T19:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2019-registering-a-strong-growth-by-2025-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+    quality: 61
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -97,15 +84,6 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 0
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "SB6zutY8zyXted5pbYAT2+ihpUKnb9D5VI7Mc5os5DVkQtHA5pNP+jIRt45/ClOOmxUYO6NDm2wa2RyDiAGigKqgrDYqQpjUhGlueYHmP7UJbpHlEw4a/56E6+3RRTSTG28f//cPjqfgdmiKJN9n+kdsnaUhA94Y/idlGycG98gaxzopNWl/9QJdtPga4usKF2CYQU5zhU5Hy6f2jzlbYKkcoOGCyTWT/6hxS2+T/aJV3CSzVaKD1YgYrIC2j0U4seLqWsNo9PM1xnm2MkTILQ==;idHoB427DuzNslW1KfRelw=="

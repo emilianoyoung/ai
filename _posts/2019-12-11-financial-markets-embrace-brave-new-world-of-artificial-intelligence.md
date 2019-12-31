@@ -8,7 +8,7 @@ ampUrl: https://tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-n
 cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2115452/8-financial-markets-embrace-brave-new-world-artificial-intelligence/
 type: article
 quality: 57
-heat: 77
+heat: 67
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.28029F2A682B372DFCCAF8F2CEC5BD81
         width: 700
         height: 466
-  - title: "Financial Markets Embrace Brave New World Of AI"
-    excerpt: "A computer identifies trends and market correlations, runs models, forecasts outcomes, and arrives at the decision to buy or sell by itself. AI can assist investment funds and portfolio managers to manage risk -- and pick which stocks are best for which clients. Banks deploy AI to help detect fraudulent activity, stop computer attacks and lower ..."
-    publishedDateTime: 2019-12-11T03:49:00Z
-    sourceUrl: https://www.ibtimes.com/financial-markets-embrace-brave-new-world-ai-2883261
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.10E80718BADF6231E76F23627BB6EFAE
-        width: 700
-        height: 429
 
 secured: "D2ipBtap1of0Cus3hJQMEtix8xSxnEeJKdkBdgWYJb/TkwNU64siv6aQ0kTKUvOfG1f7G/E0uVHTfvp1mchY+FbqFAdnH4UtznxyWIYGDLoIO/xELk7KnCV5p/VgG6j1K+aiNgOCc80Ov+syik3LWy12X4USTcoUQnV0m8wR5nVQKjq0gjdqnKlppMDS6OpTdEW+h3G1rrqmggVCGZXpRazTsIBJ1CRlYCTmbRZ8sskWBHaoV6kvdfFHgcXdvXDJAPuq6Vqj/8YEa2GdmC7OEA==;QZ3O9deExZ8ldLD/BH/xog=="
 ---

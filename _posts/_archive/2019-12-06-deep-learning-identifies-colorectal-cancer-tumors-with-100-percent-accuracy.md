@@ -5,7 +5,7 @@ excerpt: "Researchers at Washington University in St. Louis are using an emergin
 publishedDateTime: 2019-12-06T03:55:00Z
 sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
@@ -16,12 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
-    width: 1200
-    height: 630
-    title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
 
 related:
   - title: "Deep learning identifies molecular patterns of cancer"
@@ -49,6 +43,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "f4NRnc3LjxJGD1IfX4AnaIoSslwy0dbe1RZD0XhU9bJPVM+9erEZcxiHHyS36BMLCvH8Ogc4gawM+gA/1HPvBjSpDALWq9aquAZNhkXKjBrqZ7qsS9g4gNTFjs0UebExAVelxOng5IPhmfrCpTH/5WPAj2/GQ59d7XTsGJyJU0fQXRQe8mEr3uUrdnfwCBuNOE6VnRZmqBw0gx0uFGpFfV4LykvRTujpf4d2hYgzc/acpxInGevtpA09bmu60e6+2jz8pLxMFCt/jlXvCjjQTg==;XMv2mM8iYw1IDVi8tz8b9g=="
+secured: "vglU4CXBnCD5U5o0smPVHjHFYHVHuWD2dbiThzXw8deuVsJZ5aX8T2b5IOd5cQucPXMPIA9K+0Oxx0+z+i2Jmz4xtNQa4/0vSUf+Bh2u6XO14F6/LLsr6E0vRRIHDNMO5ssyKh2UMYeGKBjbJBVEor2WqO/8SedFoFhYsG+YzwE5DlmWuWDUgxa5ZNfC52KRD4IHeRc2+6vXs0s/L0Iea97klb92jITuW2M9RCq6KQhqBPOqa1GTYV1iRufEpLhrfxIcZOd7nKvBDOswLM3V7w==;qpZvS2WyB+V6HWoOUMNY1A=="
 ---
 

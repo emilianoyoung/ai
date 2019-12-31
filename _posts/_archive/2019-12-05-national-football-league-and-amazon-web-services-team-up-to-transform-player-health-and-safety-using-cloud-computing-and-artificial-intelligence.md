@@ -54,12 +54,8 @@ related:
     provider:
       name: SportTechie
       domain: sporttechie.com
-    quality: 41
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
+    quality: 21
 
-secured: "/3tWwDRaP2jxZQEnOegVv4U45PpvTlF1y8U3A24r0lngmqr7eVwt8sJ4svTONmER+507Ya+f1WWhWpV8/r/6P2K3iDL5Q8NHlnLhWxGZzAM0B4xt+571w79rGuU2P5KL51xUI06sqUPJPFEzBe/y6nPyZvehFM+BAOHx0rifNN/1jtoI9EeO5iXMQJL6qh8MO3HmKoAv5EbmkXVrVSzpMnBd0XCzWUlv69QYmS2SyU85pSrUes1Sw1f9MWBVCEwYY/k8BbfCY2FaSpgf/UZM5Q==;4vh4Wr1uH9Z8WXlwcOpDUQ=="
+secured: "cqmMdaldcIyNGfsuovcJAqO05Lqryzs9eHtJjVbpe4+xbH5XoPocuB310WziqhC9/n//4Y5z6Gtyfns6qAvyvPJygyhSVqo1XP1c2tD1Ziqu4Be37X74qwRMHcgrt92ahGOhFsTSJzUPSVqAO2yr7I62iY9AlH/3BWamDPQXnF2wEe1tPYSn+EEn/Q+24a4bkW5B3Ev2dZbCnJE3Ct1JGkutXt2VNzJIsMAFDRDTsYj79GuzrJabhlVECXjn5KvsnP6C3GQOeRYOjMwAZR45vQ==;XrAMGucD5Iqg5y/1+Xgwtg=="
 ---
 

@@ -7,8 +7,8 @@ sourceUrl: https://www.cnet.com/news/facebooks-new-card-playing-bot-shows-ai-can
 ampUrl: https://www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-new-card-playing-bot-shows-ai-can-work-with-others/
 type: article
-quality: 89
-heat: 99
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://cnet3.cbsistatic.com/img/Qz_XAqj9znNjCENYSzNHhyD4vZs=/756x567/2019/12/05/d44c0dda-53df-4abd-8e07-01ed8182a730/gettyimages-1037777652.jpg
-    width: 756
-    height: 567
-    title: "Facebook's new card-playing bot shows AI can work with others"
-
 related:
   - title: "With Hanabi-playing bot, Facebook AI reaches a milestone in cooperative AI"
     excerpt: "Facebook AI, the social media giant’s artificial intelligence research division, announced today that it has met a milestone in the creation of a bot that can play Hanabi, a cooperative card game involving imperfect information, with near-perfect results."
@@ -38,12 +32,8 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/hanabi-box-and-cards.jpg
-        width: 490
-        height: 369
+    quality: 17
 
-secured: "GTh2TFgT9trJqmIr6Mg8CbSd/BsegNrIrO6abfnnjoj9EEN8FFyysaocqtSF0jkmcw2IY6vQUgQ+TCyx3HHstueYMV86xxAXDFHfp5dlsnPPpWGWoKBmS2Eo4/6+y0yPhlt30mPW15KxKX8b0qqLaOhHNl9+Ee1t/lQEHKL+s2KqRi03UGWqbSZysBzrvnjWJ3hA0YqYglLczV0PcfczE/ypoh8pnqVo7xp/TYrW8Y2tSOp2KBqERKCFUEwuF34k6JB0SYs9pKklk/PCHT5oXg==;p9GGBh7aR3r/1m3ehCIrtw=="
+secured: "zGKfjQvIIXxvIFelys7X0I8T3hb9K+2tfF7kBUR87XjIRIt7TpyIrXqfRR/OaVtjPhIovR9ZsYmtMlMaCbLDOj/Gk5j2Ml1EVrU3CmCzk86HhGYSe0VUs8d4SF6E7stMULs/to8N9HcBvl4xcf+DEtVtxQFLuC2Auu9mJSrgvqAUQTv+tFqgrzYVImaVi1jk/oF8fQJeNVXUi6ApD5M0Xw5LnpDPxdCMTJbIr0zpodAiqJHxveeop8Q7g/7rt2OMp0295VjzY456IY+jtZbs8w==;PXKaLFAWySiGEJ1zeS+9Tw=="
 ---
 
