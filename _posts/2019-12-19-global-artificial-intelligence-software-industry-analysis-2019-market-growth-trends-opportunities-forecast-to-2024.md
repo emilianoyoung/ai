@@ -300,19 +300,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Security Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
-    excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection ..."
-    publishedDateTime: 2019-12-11T10:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
     excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
     publishedDateTime: 2019-12-18T16:41:00Z

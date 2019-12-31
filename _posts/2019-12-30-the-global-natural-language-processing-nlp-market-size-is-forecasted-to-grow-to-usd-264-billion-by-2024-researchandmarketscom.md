@@ -63,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
+    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
+    publishedDateTime: 2019-12-31T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
     excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
     publishedDateTime: 2019-12-26T12:12:00Z

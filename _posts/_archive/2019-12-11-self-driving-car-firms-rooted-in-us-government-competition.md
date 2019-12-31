@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
         width: 991
         height: 557
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
-        width: 700
-        height: 525
 
 secured: "y2Wr1ebVfZ1UwD7pOMyRHaeGjUm12tjb1fEa0P8HfjtJpC0izCi/8v0iP/nUE3ps+BimVxsU8JzVeSZLJcGtGDzsGdohCYyCsnoV++JhS2YnkGGW5tOzYmjAERfOU00Ii8WXPNzNPo7HqqRgTR8jo/wP37P2ur+/IP3Hy+LLBAv4RLMRaTKdafR8o0l61yKSc5S99UkBPJmwi0405kVesEf6EbdiRjfEjL9OrqK0nP1UnqXExJ9z+EMA5/pDCpbR1VJc2Sw5yNATbHxxsjNVYQ==;HqsYTcUWvwG15y8eV27lNg=="
 ---

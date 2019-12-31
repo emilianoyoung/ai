@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,7 +43,20 @@ related:
       - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
+    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
+    publishedDateTime: 2019-12-05T19:56:00Z
+    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
+        width: 760
+        height: 428
 
-secured: "Vi8KytLVnMl0IJ9S7yVfT4ZqLc2o+IdAN5OGZQIFS8/qWoNDQ/UGqE+5UyomFsF0G9/bfaXwHh60IkoGGmjZ7fzmDgnZUe5Z4ZSMUfmOaWI5J/P8hUilKk25BQY81o1//umH+D7chdABzxgodCBqrfaQqiEJPXLuIWqdgthFDVAkuYfgZzqLOZvnrNX+CDVPhZUKglKo15H5RoElYQXwpmzlEdfbwTBS7oSAFuNa7aE/lD4kjoAQnvritGrKHWa087W1WDH8FRvZzA92tLVFPQ==;mllw5k2eJJTiXYaOkWQErQ=="
+secured: "F0H03l9st/ViU4lxSX74wCYyPwpshOpvZl/cCFk5O+OPHBLRyYFX5TxqHqZyp84wDNaXlJqDgNPdsQVXO3yL5BO5ax/GRrRArPngKzBFp4RdMMHuytEMD8vqR4ymJxHmuTbFf8luNs7M6Z+sxNNzwq9VwSuhvTjU0vBohh5ndRC7/9wf97s4PN/lK46nyMLNuYVn2iKQ36YBg+LI//tT1X8Nn1xaHiKj4UeUIpYXvvR8DF+FQAalZxqLT2zXDfjGmxmBtv0Rmh5+drjb6XGyCg==;2+dcIYLuZ8XUPVZnpNPp8A=="
 ---
 

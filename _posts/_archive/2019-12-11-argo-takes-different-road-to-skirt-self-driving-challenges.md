@@ -54,19 +54,6 @@ related:
       - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
         width: 457
         height: 274
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
-        width: 700
-        height: 525
 
 secured: "+0iUx7/IyDEo8q++4t0QZF9272RNqE03BueHav84axmWaf37XjbOXbV9cfWiRL4ceiWVntakmbTCShyHplzf5QNUX1MZVruK/O6GS37E78OfEred6G7zQspIKTgKSY7rgAZ+sepDKHU/s3JC0pgTSvBxhz6z783uE3KTSO5nVNODJwEXue5vf1IhIw3UUKrnr7i08SkeN5DuIjGXOLXg1qWP/UY0dcu2ApBKfcUWyJN/fCIAohvax5UFb8Jyk8pgB5/rcYYPK2/E9UYF9O3adQ==;fV12ePfUAuA9txI9fRGXSw=="
 ---

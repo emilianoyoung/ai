@@ -91,19 +91,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -118,6 +105,6 @@ related:
         width: 720
         height: 335
 
-secured: "gfglODy3wzVByccsHPpy+nxpcidCjrB5L1j+AGWCGpjrLkavu2F56BoJWmSmci/L9FmIkga6SJ0nEQVIpMzFks00DF9uvDmI2Hrkth+nkjEQwr1WhjaDoGkE1HHOBRVj6M9WE3gFzA+Q7xtjyk+KUtnLmUhGX87snOFoQHjA1qT5+TqGweYLaDhLwgLHjK7cnHVjs+69VB1J1/qBx2JqiILsbcat4LLF6wQ5m4fpefOUAxrP3g6DYJHt8NSdk+NWu22gojYUXIe8GkLZ3IQCgg==;m2yjI5v4B70NxX0S1a3aVg=="
+secured: "n9HJ5iFt1xHjj9hDTN7imivSM8Yv+xrmgc7CUPyOiUyRoMy3bxmHgUqkfSR8bXsQMD+OOXG2VOVuDxv2ddEuf5dMPnIRs8VjYqZ3C/KoC7AJzqwSrzvtEPB7w1Gpvpo8EcN7CabxhB9sYsktPyhmmniVJg/EgkAi3Ow4I6ELARo7Cm9e8xNpvlcrL/GxaqaMeUyylEijCyGXkPVf0XDRsdnJPrgFhuKI77J8etft6UDEPIfZnHW8RAvsFMaTrevyUnXId8YvkmlfbcE9TYUgfg==;/KbX++IguSJ7WZrnKh39Sg=="
 ---
 

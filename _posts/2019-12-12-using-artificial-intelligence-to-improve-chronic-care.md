@@ -39,21 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
-        width: 2400
-        height: 1600
   - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
     excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
     publishedDateTime: 2019-12-12T16:00:00Z

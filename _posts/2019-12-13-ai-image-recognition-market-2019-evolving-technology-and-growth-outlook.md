@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -63,19 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural language processing (NLP) Market Technology Growth and Development Strategies 2019"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- Global Natural Language Processing (NLP) Market Size, Status And Forecast 2019-2025 studies the latest industry trends, market development aspects, market gains, and industry scenario during the forecast period. The report provides the details related to fundamental overview, development ..."
-    publishedDateTime: 2019-12-11T10:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-technology-growth-and-development-strategies-2019-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -76,6 +76,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "5 top tech predictions for 2020 and beyond"
+    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
+    publishedDateTime: 2019-12-31T11:04:00Z
+    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
+    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
+        width: 640
+        height: 427
   - title: "20 AI Predictions for 2020"
     excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
     publishedDateTime: 2019-12-31T01:31:00Z

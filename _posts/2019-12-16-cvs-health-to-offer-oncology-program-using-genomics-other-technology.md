@@ -37,15 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
         width: 540
         height: 405
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-11T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/traqiq-inc-acquires-mann-india-technologies-pvt-ltd-to-for-fintech-expertise-1028754486
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
     excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
     publishedDateTime: 2019-12-18T13:00:00Z

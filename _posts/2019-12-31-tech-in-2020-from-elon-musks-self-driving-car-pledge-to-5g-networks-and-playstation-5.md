@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
-excerpt: "While the technology industry has exploded over the past decade, 2020 is likely to be the year that it is held to delivering the promises it has made. The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020,"
-publishedDateTime: 2019-12-31T08:00:33Z
-sourceUrl: https://www.msn.com/en-gb/money/technology/tech-in-2020-from-elon-musks-self-driving-car-pledge-to-5g-networks-and-playstation-5/ar-BBYuo25
+excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
+publishedDateTime: 2019-12-31T08:09:00Z
+sourceUrl: https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-1352167
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: The i on MSN.com
-  domain: msn.com
+  name: i
+  domain: inews.co.uk
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.27A245F21DCA3DAEE88AB63B4F374E53
+  - url: https://www.bing.com/th?id=ON.D53B1FDA7388E179F26C13E4763E704E
     width: 700
-    height: 367
+    height: 490
     title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
 
-secured: "BAEa0MHf79I7VHTfIjdEKL24CiyZ+1omW2GifwwbAZKXCfsMBf404CgwJ0SnRp+wDPAFkygXr0z0jWiTNIqzpbXl1t+mLugDmCoTRbOwoSUGNn9fJLRttyVriCMFxDSYRnZ48XkXln/Qi59Fv/Ch+WrtB4oj0+79rnaki8JVIYy7903abcxAC7IRh0U4H+mW/ta9PaqUE0i4+NbAYFvORc5Q4l0IG9xJsQAOXmTMP2XVqF3RjVKf+GmwE7k9TpUk19SZ4cYHnW0tTOKIO4UV5A==;UFJNfz/Lpa7e7Krj67mjNA=="
+secured: "3m3kNRzCL5xBTW/Wc3s4Nu3n5RcYVEFzCuI382DUoezHw8HGe7/q4LnTW+7n2x9lks+8bC9iRUEtOIZQqcAi8/0O9Opip6fu8GAfCTVS9IZILUgEJ7LNIqk/lH2DEbCziHLqwOKHb/d3OcUQ8oMMswruYhDjZ5oYh04iLyclQkiMi7QjxXegjNs0nG1gkGJqZfQilFp+3r43VhW1Xd1AzOuf0TZ3lyWEMMpiTbySzLOFXTDeabTRYHxRqNWTAQFgZQxETkofX0NMfnqTTBwBZw==;2JSJEzjlfAXXIOUqvB0Xqg=="
 ---
 

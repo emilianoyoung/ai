@@ -26,6 +26,6 @@ images:
     height: 244
     title: "Here's exactly how to check if your company's AI is as advanced as you think it is, from the engineer pushing GM's driverless-car unit"
 
-secured: "envv+Aeev22orYW3lIWO0bdFfLtyaJ7yoHbXdG3MnmvxnY1ZE+AnF/MG0lznPDXEbpRP9MgBLRfgoC58QszCwpek9fD/rUeWamMlPeuTy1Kin2dkVdwsVaujp+Wo2xb04egUxvlQy/4gRM2T70YzquiI7Dm8sV5yqYwYdQ43lpyrB0cxNJWSKjSl0JPzb9TDnKukJ+kUz4Y9uwJDjj9ngu+GfT5Dx7pWVQcBlHZ7WYMscBXQgiN/byt3B4/keDR+W369IS4jM9Cv+Ds5kZnXJQ==;Y6udYxJ/MK8QFRl0WYizbA=="
+secured: "EAZdm12lgcahxnRUit54ca8jq0MgvFlXyhWvUEtT+8zNhi48ZYAmbmxqYG5GAbDN1PTqid0abCZpU1W2XLgVSJ6xpjFjlEH8npUQ3DcQ0lAUnJ2AuI2MTC51A+dHQdiu7/gBm6jLKyOym5fLCGsQw2PsQGMvamVAEuKl2uoDqI9iIFKpH7x8dCo2MFLFhvsmlWlUGgf81n7JTf1VdgRpgWQhcDK9Vc1xbf3+neQ85BgWvEj97E/7pi5f14SY6NAD+J67ymXrLyuS1A9b8z52NA==;oP0U9jjjU9SK0zmfyXvMHA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/hbsworkingknowledge/2019/12/11/the-connecti
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2019/12/11/the-connection-between-machine-learning-and-ceo-leadership-style/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Deep Learning Market Research Projection by Trends, Sales, Demographic Data, Predicted Revenue, Outlook Analysis and Forecast To 2025"
-    excerpt: "Dec 11, 2019 (Innovative Reports via COMTEX) -- Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks. Deep neural networks are a set of ..."
-    publishedDateTime: 2019-12-11T10:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-research-projection-by-trends-sales-demographic-data-predicted-revenue-outlook-analysis-and-forecast-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "eyZ+Lk9PmX6lnU5nt2jmlTaWoT1St+RXHbur2V1maQGYc9uf86/qOgA3gJe6IR/pYAxRfG9MN4gVIpfnP6ali+HsPefEIc4MuDym7KT7fj/Fi2LuBmMxRJiuDoGWDuQLxKxA3COIkqtqjIToUFjQDyQGg0a1Lv0/uDc/ErY4CU8cIZnAQrigZCpjae1Jth15lhaO43alzpp/AITPxxk+OT9UCvNy+ib+MW6pgs2Hty2dRGWB7HiGv5hlqXnp+FAF6vCIMzHX1+mnEGkg9Ebc0Q==;PMjng9CkRV9vvVfDOMtZtQ=="
 ---

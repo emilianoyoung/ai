@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Teaching Self-Driving Cars to Watch for Unpredictable Humans"
-    excerpt: "If you happen to live in one of the cities where companies are testing self-driving cars, you’ve probably noticed that your new robot overlords can be occasional nervous drivers. In Arizona, where SUVs operated by Waymo are sometimes ferrying passengers ..."
-    publishedDateTime: 2019-12-04T12:00:00Z
-    sourceUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/
-    ampUrl: https://www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/teaching-self-driving-cars-watch-unpredictable-humans/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5dcef1d74d2116000890cbef/master/pass/Transpo-skidmarks-1174331136.jpg
-        width: 2400
-        height: 1600
   - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
     excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
     publishedDateTime: 2019-12-12T16:00:00Z
@@ -143,6 +128,6 @@ related:
         width: 640
         height: 480
 
-secured: "T7c2W0jkOc543JnzH3Boqn2DQYZfbalmsH9kdNVnSJ0LIOv8NPS8Wnvfl4uwgxsquU08q6zp1SunwyknQ98ibhSHurQyurfMXJBsUsMtaSzFKwLmYtp7Z5hN2UTe/HNeBzAcvp06CDqUcbqAWekauWYVgFc95ePoPHx+YDo3q3eYTOShDTnEeEVPWZOJSFUgLtv54eghwrc9A2PrzAB3Ni4aNOgcMRdUnbRRZACfH9AnjKORP7SdEEmPpuUbjKkFXbDHKuqWA9kVyxeKSwDS1g==;samnc448o5k5weHBYZfaXQ=="
+secured: "RnbgkZq4uOWP/92JpaoxDJ/up+oty/93bRwbeD70mVLfSiaqklkXAIIb6vTlyi6XlUWV+kzYn/d3YxkZBYab4xlBRAh2uKurio6A6Yl7F8oK0qJq/oeGdgjPIVMehnAfWv+CrMQAo3BWCtGANVy62gAOwiPUdjKJ7/jtMtF71ZeHqqtbZeaPpqAChzDH2aiuJyad3FEPbCPPZOSJU1IkN+xiLHD1kVqHHCzzYHefJ0PlzW6Cox3SU/KfzoEQfWcgWwXVlOGP3Gks0P8BhjRL9Q==;MaQ6rr2a5dQu3lUYI8a/ew=="
 ---
 

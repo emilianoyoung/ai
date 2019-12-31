@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24114B6E7662B450FA370BBA6E304DF7
         width: 600
         height: 315
-  - title: "Deep Learning Market Research Projection by Trends, Sales, Demographic Data, Predicted Revenue, Outlook Analysis and Forecast To 2025"
-    excerpt: "Dec 11, 2019 (Innovative Reports via COMTEX) -- Deep learning is a subfield of machine learning that consist of a series of computer instructions or algorithms that is inspired by the function and structure of the brain. Deep learning is widely known as artificial neural networks or deep neural networks. Deep neural networks are a set of ..."
-    publishedDateTime: 2019-12-11T10:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-research-projection-by-trends-sales-demographic-data-predicted-revenue-outlook-analysis-and-forecast-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "VYilvg5gkaaAa94mCTqfUCSZ3i2PU242ngRzbAkovpGKrwmFpQrICfhoycPj9jBehn+wHMS7v91pWAO3Jd3IEQV1G2KopSPgzJ1mZgmQAse8zskJ4fkaAqJ/tjIA6vS/LaJwwPZ7AdE0mKwiVJIQ4ai8eb7IAXdzg6LVCX56uVm2Z48+lqvC2s2uLS2JpEvr0qa9NMgelApRSF5Uc+NxAhn0AB1WlWvmQZDRhoJe9kOmWf+PuEbyjHkUNZwoEbqBTRBWgTe81Rl3DaR3k5ArOQ==;fcEVkAoUHTk8PD++0xO+mQ=="
 ---

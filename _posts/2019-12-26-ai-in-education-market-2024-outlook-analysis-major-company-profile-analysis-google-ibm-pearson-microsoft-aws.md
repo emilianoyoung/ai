@@ -66,6 +66,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
+    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
+    publishedDateTime: 2019-12-31T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
     publishedDateTime: 2019-12-23T07:49:00Z

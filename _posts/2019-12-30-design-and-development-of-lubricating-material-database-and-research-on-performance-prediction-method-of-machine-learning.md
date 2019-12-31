@@ -80,6 +80,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "5 top tech predictions for 2020 and beyond"
+    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
+    publishedDateTime: 2019-12-31T11:04:00Z
+    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
+    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
+        width: 640
+        height: 427
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z

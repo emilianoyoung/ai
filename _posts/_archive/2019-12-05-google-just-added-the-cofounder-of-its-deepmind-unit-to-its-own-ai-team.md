@@ -43,7 +43,20 @@ related:
       - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
         width: 700
         height: 525
+  - title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
+    excerpt: "Now, it seems that there's more activity on the horizon. The co-founder of DeepMind, Mustafa Suleyman, announced in a tweet today that he will be leaving DeepMind and moving to Google. While both companies, DeepMind and Google, are owned by Alphabet ..."
+    publishedDateTime: 2019-12-05T19:56:00Z
+    sourceUrl: https://www.neowin.net/news/the-co-founder-of-deepmind-is-joining-google-to-work-on-ai-and-its-applications
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 80
+    images:
+      - url: https://cdn.neow.in/news/images/uploaded/2018/09/1537445850_google_story.jpg
+        width: 760
+        height: 428
 
-secured: "77/MgXaTnse6TITwVhBSKGfQlaU1J5tEaO8MVY9TRTvEZchKVm1ujiGqNx3AH0mFrA5Z4APdHoJVu/VYd6oGPIrqN+lJZFHM2w4GOWQ/Ks4QVghgYB9rHYSJUrOaSH1KLHX1lnJ9lTn+U2AMwL7HFR6jfNkGwiggWdAm6rxeDTTwg0WSp8hbDNnMygqrEwP5bs2iBYhjArSWFzsXXixEm6N3aNw0qhZkdeiiUBmblLDKrdSAXOonQWa9bie4pieiAEFPtEpiMobviqRUgEfCCQ==;BkJPP3KvsnQ7Vw76Z08mDw=="
+secured: "AGJhcJelDgh5UVim9yO/GEYAu8QyLuU/OTBtNTMaGMZW0ENNfK4w8hKarcPt/dOTthvYDK+pYF85KW9S8jrxr7+tZ7XZnM2/RkI+45SXA1hVe7GBgFuRQvLZXLpZM0KaqCCwXQIsVWerpeGiuDGzLrTAPxE7/9z8gZUR2d/ww8z+QGK30hx6jTmSAxKWY5SPLWmRzp/o1p5eawfRpUw2MQOtjk+CUgIiQUlkCzBYRxZhp9BaS3Ac0J+8xn9UL8RlcXV8HT3rnKfqWX8cWPF2Gg==;HehCfJKg3VTWmTv1tpZNbQ=="
 ---
 

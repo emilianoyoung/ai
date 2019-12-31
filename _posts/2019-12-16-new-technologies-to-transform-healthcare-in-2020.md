@@ -24,15 +24,6 @@ images:
     title: "New technologies to transform healthcare in 2020"
 
 related:
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-11T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/traqiq-inc-acquires-mann-india-technologies-pvt-ltd-to-for-fintech-expertise-1028754486
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "CVS Health to offer oncology program using genomics, other technology"
     excerpt: "CVS has tapped Tempus, a precision medicine technology company that uses artificial intelligence, to help with the program ... will automatically receive prior authorization approval, speeding therapy for patients, CVS said. Alan Lotvin, MD Ryan Fukushima, chief operating officer of Tempus, says the collaboration has real potential to ..."
     publishedDateTime: 2019-12-16T19:50:00Z
