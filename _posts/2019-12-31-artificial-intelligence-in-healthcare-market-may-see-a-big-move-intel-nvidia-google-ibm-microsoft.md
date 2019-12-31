@@ -1,29 +1,31 @@
 ---
 category: news
-title: "‘Healthcare needs urgent attention’"
-excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
-publishedDateTime: 2019-12-28T18:57:00Z
-sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
-ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+publishedDateTime: 2019-12-31T09:02:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
 type: article
-quality: 59
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
-    width: 615
-    height: 384
-    title: "‘Healthcare needs urgent attention’"
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
 
 related:
   - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
@@ -54,19 +56,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
-    publishedDateTime: 2019-12-31T09:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
+  - title: "‘Healthcare needs urgent attention’"
+    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
+    publishedDateTime: 2019-12-28T18:57:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
+    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
+        width: 615
+        height: 384
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
     excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
     publishedDateTime: 2019-12-26T06:40:00Z
@@ -81,6 +85,6 @@ related:
         width: 1200
         height: 630
 
-secured: "SLocLri2Lm4BUFSoz/BMG/+qRpm6/OL7qbgm5nNAOGZE+GPCeKMPvuaBOYr/WgAMGE3kNYE8YPloMPUk7SRuKyAXO8b3bn7bTag7/ugpVsEADpv7lsMwqW6jElnAtGxHhPy5m6oRqgJmcaMazdJvm0SwQaVwpYZHNVYVlcvEzZs/SACnqGVfWhWx39Y5UsStqAnAHMWfs1RUB+oFD/QW+lpj1OTuOw55SUulc0q9nF1YXmFTIcAHlE96Q79twal+yFSUW+PWq05FVFBAbEspYQ==;rVjHbEIJsHoE4yCN5SYuGA=="
+secured: "nE5zFYTbDCfCoibXv7waDY9t5yTsf5l0SKc+JKbyCu+HhiYK2Mf2lPP6w+Uan6GECLwHiMZ/PZqk+fPr0ShRqzAVcOoVgSqDaYSya/RT6xoWYXFUkXYJDKHRLCSrHJwiYaUqXsV84NtlDCkzKXo0uqZ8/f+Hh6XVQ9YwK1s5Ry+rodpQQd79De+X3GiWe+HvUZ0sJ6ilBcxduX7thpt6FuP+PiwVpT9GIG30eKxzsc7ghn3q7ZazHQY0qT9GJMVgyudtuRcIvyG3XfpH6Ify0w==;B3X+yAAOMqEjXytLKl2BbA=="
 ---
 

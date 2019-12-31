@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-publishedDateTime: 2019-12-30T13:32:00Z
-sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
-ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+title: "Healthcare in 2020: the era of digitization"
+excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+publishedDateTime: 2019-12-31T10:38:00Z
+sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
 type: article
-quality: 0
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+    width: 700
+    height: 379
+    title: "Healthcare in 2020: the era of digitization"
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -49,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
         width: 700
         height: 381
-  - title: "Healthcare in 2020: the era of digitization"
-    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
-    publishedDateTime: 2019-12-31T10:38:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
-        width: 700
-        height: 379
   - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
     excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
     publishedDateTime: 2019-12-27T12:05:00Z
@@ -125,7 +117,18 @@ related:
       - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
         width: 685
         height: 386
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "okyAOKfexh2rMyvrctEuY3sAqDaxHc9I6vBmRB9Nave+AqOJVJpQYcX+uE1+6GGsjCvCshiTC1j0Q6qd/yVG4Nr/ECJYi+wIXhWyfdEIA73+C08mOEe6tCb6t/Tc8qlG8Cozzud1KDB3B6wR+L4NotqhFi5nRP/pM4Nrp7YPQxvaQcMWV7vxEFB/3SSespfBhRRxqwyKDRcCsiN6w8yCtiMN8mT8m89BM0ohu+kWiawnGq41o1JJaVcBodSdK8ZLQOKsg7cl5G8Vldj/LnXzNg==;w85+wrscUdDytR96OGNHCg=="
+secured: "5UBANXWu+R+UoAz9z6QLJiChzIpTgmWyCtppiSv5mrsh9wIsnSbVDi+abA+Vvvx/veZJyR8O2ACIvUioK5vBorZpK1AP6sVELkBOmhoRS/1jXjMA7DTbYBoDbo4L9pho8iEWYslB5vxnQhDm2fgPIkpj50TfyHsUP4BwAhRDwRHGDnBCRfyyhEW9D/5oSmVNQliRXuwgD/7DHc5eiht1exB3Kij6H0hX9Q17R0iPRBfOgQ8aWqiWzEVNCqlUBl21mo1zKbqf/2FvqZ/1xgpILQ==;O/2E9h0Q8aK4hyuyu6srFA=="
 ---
 

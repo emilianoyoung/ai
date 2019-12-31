@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
         height: 525
+  - title: "Healthcare in 2020: the era of digitization"
+    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+    publishedDateTime: 2019-12-31T10:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+        width: 700
+        height: 379
   - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
     excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
     publishedDateTime: 2019-12-27T12:05:00Z

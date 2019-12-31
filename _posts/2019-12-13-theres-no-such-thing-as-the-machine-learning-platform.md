@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
         width: 600
         height: 315
-  - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
-    excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/
-    ampUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D8A6EFB066E15B0443897DAD43F0DF8C
-        width: 700
-        height: 366
   - title: "What Machine Learning Means For The Future Of SEO"
     excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
     publishedDateTime: 2019-12-16T11:05:00Z

@@ -1,21 +1,29 @@
 ---
 category: news
-title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+title: "Cloud4C recognized as Microsoft Azure expert managed service provider"
 excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-publishedDateTime: 2019-12-18T00:59:00Z
-sourceUrl: https://finance.yahoo.com/news/cloud4c-recognized-microsoft-azure-expert-120000367.html
+publishedDateTime: 2019-12-18T05:55:00Z
+sourceUrl: https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
+ampUrl: https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
+cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
 type: article
-quality: 34
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://etimg.etb2bimg.com/thumb/msid-72864503,imgsize-62446,width-800,height-434,overlay-etcio/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider.jpg
+    width: 800
+    height: 434
+    title: "Cloud4C recognized as Microsoft Azure expert managed service provider"
 
 related:
   - title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
@@ -71,6 +79,6 @@ related:
         width: 1200
         height: 630
 
-secured: "5+xCmIXQ9Nvgdwbi+edIoZtPrkiDxZFju9IBMRWELuc4jCV7gbKtkuGTeUmUKNCj42V7rctS3u+2zRjW5IDwUTCyY37q1t2lONTVsI+vTVWLe1p4WhaeaXG+V+rwe4k/Gzn1R6HY4GjRafMI9B6aCx41sxsdcRW8DgC34GOCBAqjw6ckkBQR1ERvTBO+yA7THF/v6MtCc4Xqim2/drlnYsgoI9X437RuOla50UaFSt4YTuhogD6VJL7hU/dzw8xYAuKIYVKn5dFZUcpnfSVP5Q==;aeW7dzKIao0kOLJlIEOXsA=="
+secured: "P17KFQ9YOz6NrbnrQkUqS+4mzVE5REpZn1wthOooA8xzSB+m7X/cTwzQcpS+80psgtpLQr46dElsrn9yYIcFIMZXKyddKtVpyvLxtCEyr/goFFcmVmJTa5XhXtVjfaVRM7eYQ+qDxzFg2Qr9EX5FfS7K9mfOrKwAlRXJKx2bYQtg490EddRg9TJXAfztNSnpAP2lF0VINLR/8u18d/HOz5JHFwxlk7o/rUcKfBM7mQlCI6axe0+ndASO68r8uADCR6GGgP88lfG0BkAGAFPkoA==;oxik7kbPdIFk/VNTe7ctig=="
 ---
 

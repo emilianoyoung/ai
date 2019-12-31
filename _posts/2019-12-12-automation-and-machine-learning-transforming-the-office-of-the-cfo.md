@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 91
-heat: 401
+heat: 391
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
 related:
-  - title: "Meet CIMON-2: The floating A.I. brain that lives on the ISS"
-    excerpt: "“We use our IBM Watson intelligence to do similar things to what Siri ... The main antagonist in 2001: A Space Odyssey, HAL is the calm, conversational artificial intelligence whose job it is to assist the crew and maintain the ship’s functions; only to turn on its crew and begin trying to kill them off. Anyone who builds a smart assistant ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/
-    ampUrl: https://www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/new-improved-cimon-2-robot-iss/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.D8A6EFB066E15B0443897DAD43F0DF8C
-        width: 700
-        height: 366
   - title: "There’s No Such Thing as the Machine Learning Platform"
     excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
     publishedDateTime: 2019-12-13T01:57:00Z

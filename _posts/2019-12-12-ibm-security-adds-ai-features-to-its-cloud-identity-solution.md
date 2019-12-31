@@ -23,21 +23,6 @@ images:
     height: 200
     title: "IBM Security adds AI features to its Cloud Identity solution"
 
-related:
-  - title: "IBM AI Innovations Sharpen Risk Detection in Identity Management"
-    excerpt: "CAMBRIDGE, Mass., Dec. 10, 2019 /PRNewswire/ -- IBM (NYSE: IBM) Security today announced it is extending its artificial intelligence (AI) technology originally developed to protect users in the financial services industry, to clients in all industries via the company's identity-as-a-service (IDaaS) offering. IBM Cloud Identity now features AI ..."
-    publishedDateTime: 2019-12-11T09:22:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-ai-innovations-sharpen-risk-110000855.html?soc_src=community&soc_trk=tw
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
-        width: 400
-        height: 209
-
 secured: "K42/aAfXktdRWrbLl1ybT5uQ1sAijNb25CHG31RfyTMZ8AqfQE5Vch94Fo8A42JHC/XKFv3q7DOrN0NvyLMVKSkxNUxSRrDIhi/qRKSGkPJJtUlOtBJe0nNJN0CKVW/TgGlnb+yPsDC1A3cTaE6mkAHUsysfx5JdUPP+eqvPaX4g9z3oz8XUFsnOSEZT6x8vEot++oKJ8dLobGbbhyQVhLMhQWv5gl+IDhdDjkbmdwFYbwSXWxlnuRGyFOaGuv1yn/oc9cNUr+B4fAMgoHenOQ==;EtI65DDjyVNCEl54ZCLhaw=="
 ---
 

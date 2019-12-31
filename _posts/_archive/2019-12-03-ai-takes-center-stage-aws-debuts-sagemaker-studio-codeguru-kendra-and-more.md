@@ -62,7 +62,7 @@ related:
       domain: techcrunch.com
     quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long ..."
+    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
@@ -114,6 +114,6 @@ related:
         width: 720
         height: 335
 
-secured: "2CGyDNH24TgxTAqKMBC12HeJIDXoZNw88uNFzJL7kyRiZW7WLWF1HFJTst3tqHxI7MywCtLyR1tZT1i7L+bA2MZxlLxAyTWvs/+Q4bb6JwYUjGib0ZDgLl93FeWeg8bAH8jyWFwY3tirK1PucUspQN1QgZM9KyhnCh1cQm4ouEWuQRgG3WQDzeFD/kKvCkUyuI3MOG0XCYfGcO8HbTIAPTfUJW5zSx3pmQbo0ZTqCuFikjW1JZbO77Hmn/ihvdy4D2PQINVNt53IHlLbu4HiDA==;Yj8RNmZOtiM1bKH/ghilew=="
+secured: "lIwqCkQfg1XgtVMYFaGeIvPykEId/QX18p6tgTyKgwVNaGq6V5yiYJctEfVVRSsZs4/Df69ob5J1MvTQcgoaWG53gUIXd4Hcbkv6dyqQiQeLhuYvJj1QCPnD91IOPNSW9tfyOr/L+LYTxeZsDqaFNBjd1sPkaU3QXMUViukDovEZIgrbKL69ECSffxVBn5ybP36bPsS2HZWikUPHhn9e2PAIHwpfeooi1OjcHI+6k7uOrxGrplBL0RjrI69Ck96ThOB579A/tLIg1DP6H9xp9w==;Tn5pNWzAB+VklpPcLwDALg=="
 ---
 

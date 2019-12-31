@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D6F2D313CB84B62F5DEC8440CAC783
         width: 700
         height: 466
-  - title: "EU to discuss Palestine recognition in upcoming meeting"
-    excerpt: "A Palestinian waves the national flag as he covers his face from tear gas fired by Israeli forces during clashes following ... And this is not the case – really, it is not the case,\" Borrell said. \"Recognition is not an EU competence. It is a responsibility of individual Member States. But we continue, as European Union, supporting a two ..."
-    publishedDateTime: 2019-12-11T09:44:00Z
-    sourceUrl: https://www.presstv.com/Detail/2019/12/11/613384/EU-Palestine-recognition-Israel
-    type: article
-    provider:
-      name: Press TV
-      domain: presstv.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.DB22615360F8F1A0E03D5712088FCA56
-        width: 650
-        height: 365
 
 secured: "M060gBwZZqMETVhqWAUleDH51jYPrVhKdQYoelcErzFZppS1D5yMfksBfJDFSiNCU/q4obNLOuB6PXLMxc1bGzQ9yg/7nThrkMcx0ggCqgaANP+qI7Cxz2cbYLECKv6ux/PVyl1amLJIc4vqMTvWfOnpdxOZWsqV466iuuxumPIIjfjX0Nuply0Tv5cqpGIJKXLnvu6jYArTpBhOyfrvRq+UdbtpxuSzj9Y+oNRngV9TrlVw1K1Ublxt+RCmlHec3kTGej9Yyo66dvNes0Ce0w==;MONorxt01g4zvr2jjiADiw=="
 ---

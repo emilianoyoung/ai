@@ -8,7 +8,7 @@ ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligenc
 cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,19 @@ related:
     excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
     publishedDateTime: 2019-12-23T10:49:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+    publishedDateTime: 2019-12-31T09:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
     type: article
     provider:
       name: MarketWatch

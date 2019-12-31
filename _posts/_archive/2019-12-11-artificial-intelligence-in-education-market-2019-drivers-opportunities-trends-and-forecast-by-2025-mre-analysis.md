@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
-excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
+excerpt: "2 Platforms, Services, 1 Professional Services, and 2 Managed Services. The report also bifurcates the global Artificial Intelligence in Education the global Deployment Mode market is segmented in Cloud and On-premises. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning, Google Inc., Third Space ..."
 publishedDateTime: 2019-12-11T09:49:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
 type: article
@@ -128,19 +128,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2019 Global Analysis and Forecast Report by 2025"
-    excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-global-analysis-and-forecast-report-by-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -435,6 +422,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "71DxEPv9A2ORKIvwbSWyOSrMnyranUg21wxSNAvqc5Bkklgk579aUTEIeOiYm646bYyaItLEDW/oWZq8JJiu70cXsUnoTu2qO2I6md7bWMVP8oSKh04MaBbd5JLUeLeyM+PMvjeGRqRE98K5YgVJb2zCGqWd8X9BjI4OdoKQvODQxSJTNwGfTD5pgMJayRzKW9xZ7heutCsvLVey3IRMERaHFcTuNo4JV17sZrNVgswgXfax3tyhPfQKG1b+dLqBEg6p9K4DWEnad5DoCm7f7Q==;yPVjBL9wZrczTWpiP5mgXQ=="
+secured: "C5ZORML6+3d6EDbSNftgK7jb04piRm6V74OZidYCtzo1tyr7QRYC1KHPuOA5m6UHVW9xcEzensgQudkhaX9DfY/jWls8TraOe76Bh4ir2qJe+DDZ4woV07bQv/Jvn31pvsDXj5oblnZqQ/nYJ7pnNPyCpVzChBCppB3pUB3Jh6+Cj+5fWi4MsUW37y2infigYZx6yFH9QnY7IqjiYVkM0jzatQCjMJF671ZiH0hcrPbQz67/3NK5CHgknNqLghifBSfUhMaQ0RVt2V7lc8uKSw==;UeJ3uOhh7Xg7n6kS4GXFKw=="
 ---
 

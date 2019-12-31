@@ -1,15 +1,15 @@
 ---
 category: news
-title: "2020 will hopefully be the year AI kills company dashboards"
+title: "2020 will be the year AI kills company dashboards"
 excerpt: "Today we take these steps in the service of dashboards, but the same effort can move us beyond them. Well-structured and well-defined metrics are the perfect training place for AI to learn what’s important so it can provide smart alerts. It’s the foundation that will make business information “push” instead of “pull.” It’s the ..."
-publishedDateTime: 2019-12-30T16:07:00Z
+publishedDateTime: 2019-12-31T10:52:00Z
 sourceUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/
 ampUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
 cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -26,12 +26,12 @@ images:
   - url: https://www.bing.com/th?id=ON.2E54E0A11AB61EEFEE89C1D3A040D2FC
     width: 700
     height: 350
-    title: "2020 will hopefully be the year AI kills company dashboards"
+    title: "2020 will be the year AI kills company dashboards"
 
 related:
-  - title: "2020 will be the year AI kills company dashboards"
+  - title: "2020 will hopefully be the year AI kills company dashboards"
     excerpt: "Today we take these steps in the service of dashboards, but the same effort can move us beyond them. Well-structured and well-defined metrics are the perfect training place for AI to learn what’s important so it can provide smart alerts. It’s the foundation that will make business information “push” instead of “pull.” It’s the ..."
-    publishedDateTime: 2019-12-31T10:52:00Z
+    publishedDateTime: 2019-12-30T16:07:00Z
     sourceUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/
     ampUrl: https://thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
     cdnAmpUrl: https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2019/12/30/2020-will-hopefully-be-the-year-ai-kills-company-dashboards/amp/
@@ -58,6 +58,6 @@ related:
         width: 700
         height: 367
 
-secured: "GQWCKTYnodxT1jEIrFx70FC0ryBF4J7HikqgKIL6ul5+/DB9QbFcskBNjvE6iuHhYRj6yL5flXy8+vlQTNI+uZjjYNvA3bNMtShyyBe/XjQ+d/DIvhzaYle6bhYF2yb1s5Mdmo8YA9vOWmDYA5eM0vfCl5GszOZKc2PWz2HI8u05W6hEGdwZR8d9kBBoJQwMQNEBctKBwKlJqv3NEci2bcesX2V9SEdt0emftQG0x3c11/8Fx3TGpwZxwOngWrRVcmYer1sWoL7Ch9m76bKNnQ==;tV6Zy6z5mT7020pqONMt6A=="
+secured: "kb7ePjMeokctcPt6xWqIhzzXrxAcy8xn5oABi/fdsHSD36TBrZNIhfAx/YFk6xZJi2A6jXYhUYtkm4h6quljEPeh2wv2Qew4BPG9OxBuanYr7lsn+RU6OArL8CrYG33/EWCHzuWu9ExtCchhLSgOAbA3ijOsjXu7vRd81Nceou3Wh0lN56M5wGoggAH0/I3jcRmAjGwBLrgMKQfNk0oKBHvnoO2VKE8PCxLcVVuTcqIBvMWGoW4ofDGbulH0MuR0hwRhTeHOCqyFd1oZ+Ar16g==;CIC0hhbllryGOQJKrrA9ng=="
 ---
 

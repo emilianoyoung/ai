@@ -56,6 +56,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+    publishedDateTime: 2019-12-31T09:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "‘Healthcare needs urgent attention’"
     excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
     publishedDateTime: 2019-12-28T18:57:00Z

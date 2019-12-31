@@ -132,19 +132,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market 2019 Global Analysis and Forecast Report by 2025"
-    excerpt: "Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others. The Artificial Intelligence Market on geographic segmentation covers various regions such as North America, Europe, Asia Pacific, Latin America, Middle East and Africa. Each geographic market is further segmented to ..."
-    publishedDateTime: 2019-12-11T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-global-analysis-and-forecast-report-by-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
     publishedDateTime: 2019-12-12T05:19:00Z
@@ -289,7 +276,7 @@ related:
         width: 1200
         height: 630
   - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
-    excerpt: "Dec 11, 2019 (Heraldkeepers) -- New York, December 11, 2019: The global Artificial Intelligence in Education market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Artificial Intelligence in Education market for each region is further segmented for major countries ..."
+    excerpt: "2 Platforms, Services, 1 Professional Services, and 2 Managed Services. The report also bifurcates the global Artificial Intelligence in Education the global Deployment Mode market is segmented in Cloud and On-premises. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning, Google Inc., Third Space ..."
     publishedDateTime: 2019-12-11T09:49:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
     type: article

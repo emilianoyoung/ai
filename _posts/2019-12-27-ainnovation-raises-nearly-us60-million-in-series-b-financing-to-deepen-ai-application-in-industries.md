@@ -53,6 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
         width: 700
         height: 381
+  - title: "Healthcare in 2020: the era of digitization"
+    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+    publishedDateTime: 2019-12-31T10:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+        width: 700
+        height: 379
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z
