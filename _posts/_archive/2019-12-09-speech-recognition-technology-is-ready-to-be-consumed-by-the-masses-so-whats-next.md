@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -149,21 +149,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "Privacy advocates raise alarms about growing use of facial recognition by U.S. government"
-    excerpt: "Let’s face it – facial recognition isn’t going anywhere. Whether we realize it or not, most of use some type of facial technology software every day. It’s being widely used in shopping, home security, and law enforcement, and millions of us use it constantly to open our smart phones. But privacy advocates and civil libertarians ..."
-    publishedDateTime: 2019-12-11T20:39:00Z
-    sourceUrl: https://www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government
-    ampUrl: https://www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 95
-    images:
-      - url: https://www.bing.com/th?id=ON.B43BADE9152D3604EE289C1716A302D5
-        width: 700
-        height: 393
   - title: "Is Valley Fair mall’s security robot using facial recognition?"
     excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
     publishedDateTime: 2019-12-20T18:55:00Z
@@ -1528,6 +1513,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "KdAu4DUOb+8bRPfbGVkpyOdz2Wrnylji5rJMeq++yI77eaMOvFU9Z+wZgSWUnPnBOHuUQTe4ENeGcIF9RjD5EsT+RuI8lQPdtsfy8r00OS3TYlA7Ey+IqqmtHxLOWKR048YS68x95skpRFZXygyQG92rvc8uVFg3IkSxErAz1H8wp8kn4Pfbrc2pEWphowtr2FalK7wbQEQgT14OXTBOIFNmRE2Ys8ZRwK6oS5dWcniqwcxg2MpwQywTguNU8y41zg2bbEJdIqsMIS64FPNQ9Q==;88J3wSEqGUV3DNcAJXEATg=="
+secured: "5FmHVQuDRSpCz5eM7wWX7lNhLYe+xHJ0/KnzPGP24UlAJpfwlHK+FPW36PMbSsM9g/sQWXuF4WWS4O83duQ/6UoBIHJJEGdVHFZHo2lu0z+miybmynDwPPQRd36RmG5p3Ybrrj+20864gQsYYuPXZy2jt+50BIhYI5MfWT52cap4RIzNEjPsJFcVr+hgfEzLhVQsbVVUTjKCnL8omfHzh25mPRPzxBZJTAwiLVgMA43PZRj/4Q/S6WYlgEHcyqAHP1XOyG6bnGPNSUfJp9g4Zw==;wZUC3RMhC/zvPQ5PDSfETQ=="
 ---
 

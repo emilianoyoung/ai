@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 189
-heat: 1319
+heat: 1309
 published: true
 
 provider:
@@ -140,21 +140,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "Privacy advocates raise alarms about growing use of facial recognition by U.S. government"
-    excerpt: "Let’s face it – facial recognition isn’t going anywhere. Whether we realize it or not, most of use some type of facial technology software every day. It’s being widely used in shopping, home security, and law enforcement, and millions of us use it constantly to open our smart phones. But privacy advocates and civil libertarians ..."
-    publishedDateTime: 2019-12-11T20:39:00Z
-    sourceUrl: https://www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government
-    ampUrl: https://www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government.amp
-    cdnAmpUrl: https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/privacy-advocates-raise-alarms-about-growing-use-of-facial-recognition-by-u-s-government.amp
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 95
-    images:
-      - url: https://www.bing.com/th?id=ON.B43BADE9152D3604EE289C1716A302D5
-        width: 700
-        height: 393
   - title: "Is Valley Fair mall’s security robot using facial recognition?"
     excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
     publishedDateTime: 2019-12-20T18:55:00Z
@@ -1324,7 +1309,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,32 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 24
+    quality: 41
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
+  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
+    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
+    publishedDateTime: 2019-12-02T10:58:00Z
+    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
+    type: article
+    provider:
+      name: FierceHealthcare
+      domain: fiercehealthcare.com
+    quality: 30
+    images:
+      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
+        width: 4432
+        height: 2955
 
-secured: "4PHG/NerdwCd99pp/xpaJ8WbDv6Tun3kHaoo1XCmmUGc9HPFWWOKUv5okN2MyadnrW6V6sDfpmNH8qrgySjUrNlDxJIQ18WDBw2gjlZ8hhdR+ZXMCnf0I5xMwTQny1z/eUkzcZbvXN/BIq8COI277krVB7iJVV/S5NFZK5+hb3fFZTeL1/B0DVUokzIkHFQVcGZl037nTDT1r9r1YCC6fXfX4+QUrHVIi3nRdo59CqA2qlVoW9lK8v1vY3aE+Lr9cVHj6QSme8oCtxyZSHPC/w==;Qegqep01U0mT/skWyYJPCw=="
+secured: "Qw14zMCoW99lY4v+8eenW0OcVM4Zi+HF8TSks2SZj/Q0UxOOWrobf1Rfu/DnDuY/ZUcRvunZfCKxCNWOY8EAY0eJ+n/KLyVP1W1Wzwayh6mOaetrHFqiHlY+Qk5twa+WDW8eUscWRYhqIVcXVAFGj34Q1Mx1jeKZeo+o0OWFv9NbG4swwPCKhHxXoEGvWlZY2F7LaBjTNTB5J22LZqpdEBij2JPnl1ACBkO98SQvcUQyCqdDgzfNgj51tUzHqbS25HNym6Dmr8k4gLV1/94RMA==;1ApBoxbDKyQwP2N3ZFKDMQ=="
 ---
 

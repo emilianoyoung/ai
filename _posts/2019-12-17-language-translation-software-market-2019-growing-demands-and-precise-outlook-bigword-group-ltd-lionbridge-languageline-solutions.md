@@ -173,21 +173,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
-    excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
-    publishedDateTime: 2019-12-11T20:44:00Z
-    sourceUrl: https://www.king5.com/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    ampUrl: https://www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    cdnAmpUrl: https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
-        width: 700
-        height: 393
   - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
     excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
     publishedDateTime: 2019-12-12T22:39:00Z

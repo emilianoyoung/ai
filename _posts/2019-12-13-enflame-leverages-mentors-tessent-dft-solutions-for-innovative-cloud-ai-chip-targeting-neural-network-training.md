@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T20:55:00Z
 sourceUrl: https://www.eejournal.com/industry_news/enflame-leverages-mentors-tessent-dft-solutions-for-innovative-cloud-ai-chip-targeting-neural-network-training/
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     title: "Enflame leverages Mentor’s Tessent DFT solutions for innovative cloud AI chip targeting neural network training"
 
 related:
-  - title: "Enflame Technology Selects Rambus HBM2 Memory Subsystem Solution For Next-Generation AI Training Chip"
-    excerpt: "Rambus’ proven HBM2 memory subsystem IP delivers the ultra-high bandwidth performance our AI chips need,” said Arthur Zhang, COO of Enflame Technology. \"Using Rambus interface IP cores ..."
-    publishedDateTime: 2019-12-11T21:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/enflame-technology-selects-rambus-hbm2-memory-subsystem-solution-for-next-generation-ai-training-chip-1028756786
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Enflame leverages Mentor's Tessent DFT solutions for innovative cloud AI chip targeting neural network training"
     excerpt: "December 16, 2019 -- Mentor, a Siemens business, today announced that leading artificial intelligence (AI) solution provider Enflame Technology recently used Mentor’s Tessent™ software product family to successfully meet silicon test requirements and achieve rapid test bring-up for its new Deep Thinking Unit (DTU) chip. Introduced earlie ..."
     publishedDateTime: 2019-12-16T07:32:00Z

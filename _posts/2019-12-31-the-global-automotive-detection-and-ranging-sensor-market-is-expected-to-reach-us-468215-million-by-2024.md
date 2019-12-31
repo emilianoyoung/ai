@@ -1,0 +1,39 @@
+---
+category: news
+title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
+excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
+publishedDateTime: 2019-12-31T21:50:00Z
+sourceUrl: https://finance.yahoo.com/news/global-automotive-detection-ranging-sensor-214500040.html
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: YAHOO!
+  domain: yahoo.com
+
+topics:
+  - AI
+  - Computer Vision
+
+related:
+  - title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
+    excerpt: "Driverless or autonomous cars have been heralded and feared for many years now. They perhaps represent the convergence of every technology that we know today. They run on artificial intelligence, and machine-learning algorithms power its autonomy. Image recognition and Light Detection and Ranging (Lidar) systems on these cars recognize ..."
+    publishedDateTime: 2019-12-26T16:24:00Z
+    sourceUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s-11577375858037.html
+    ampUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.8C7B2EC981B362FF43BEEBB498324AA1
+        width: 600
+        height: 337
+
+secured: "KG8rPMqE8FD96SCTRNdApaq63ny5QrlwYxBfScZs41sxLZtMmkn3+yutXObfieoHBiM0QDAjTDejDm5LRqcx+wLiW+rsFd/L7IRjyx54Uzy25clS3QYwnchCHrwiK6DKK9LooHCfAkSEn5YN4kIBLLYARDUOGXw2kTel4SSZJF3AEid/6CAeimLDVEkMcwwhHZ0FMSktewkSCmBSLueQ75xG8zFWXUnRkH9N/dEFrXAhcTj0k2jpsc9t591BoOLThVRGH3M+0arRF3yXUuTJjg==;qZ02BOoYAv7AbfUiDlDEsQ=="
+---
+

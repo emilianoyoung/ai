@@ -25,19 +25,19 @@ images:
     title: "A set of 13 diverse machine-learning tasks that require memory to solve."
 
 related:
-  - title: "Why machine learning is important to society"
-    excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
-    publishedDateTime: 2019-12-20T07:50:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/why-machine-learning-is-important-to-society.html
+  - title: "Using machine learning to help at work"
+    excerpt: "Citrix told CNN Business it will soon launch an Intelligent Digital Workspace that uses machine learning to aggregate information from dozens of outside apps into a single place. The product is getting rolled out as an update to the existing Citrix Workspace. \"There are just too many applications. We're constantly getting notifications that are ..."
+    publishedDateTime: 2019-12-12T06:22:00Z
+    sourceUrl: https://www.channel3000.com/news/using-machine-learning-to-help-at-work/1150670115
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: Channel 3000
+      domain: channel3000.com
     quality: 39
     images:
-      - url: https://www.dailypioneer.com/uploads/2019/story/images/big/why-machine-learning-is-important-to-society-2019-12-20.jpg
-        width: 1000
-        height: 800
+      - url: https://www.bing.com/th?id=ON.AFFC167FC18C87BA8358C2EBC315A75A
+        width: 160
+        height: 90
 
 secured: "n4NnvEQWTYVSe1e5nGdjXOQR2GRFlxV4M6DUxpYrIA+6zT7Whz7FI3Jq9z4MgMl3P1HhSgQWYTQAbN35f3Yd+RVkH5pgCFDLdeetBOvOT49rZwyRrSo6lqq674VA6JEGaFkMx44AfPOjqdb7jMOVlRihLKcGKyrMPz20yj/B5m14Rc/4VvpiKfRxZpkQlqO8oRLdqvklBb1lkxoEY/978Q7P/NUabXsK/Hcxvq3g2jlQeC8UqRiSM1wRVOM5UHmE/K0myMEHiaLw5iXz8gLz8A==;Yp3inBU2tvE1gDESTHwdgA=="
 ---

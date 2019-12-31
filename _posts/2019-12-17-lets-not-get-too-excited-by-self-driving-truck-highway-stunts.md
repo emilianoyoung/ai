@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
         width: 700
         height: 350
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T20:24:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
-        width: 700
-        height: 489
   - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-12T03:20:00Z

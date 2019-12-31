@@ -33,15 +33,6 @@ related:
         width: 500
         height: 362
   - title: "Enflame Technology Selects Rambus HBM2 Memory Subsystem Solution For Next-Generation AI Training Chip"
-    excerpt: "Rambus’ proven HBM2 memory subsystem IP delivers the ultra-high bandwidth performance our AI chips need,” said Arthur Zhang, COO of Enflame Technology. \"Using Rambus interface IP cores ..."
-    publishedDateTime: 2019-12-11T21:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/enflame-technology-selects-rambus-hbm2-memory-subsystem-solution-for-next-generation-ai-training-chip-1028756786
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Enflame Technology Selects Rambus HBM2 Memory Subsystem Solution For Next-Generation AI Training Chip"
     excerpt: "Rambus’ proven HBM2 memory subsystem IP delivers the ultra-high bandwidth performance our AI chips need,\" said Arthur Zhang, COO of Enflame Technology. \"Using Rambus interface IP cores, we are revolutionizing what’s possible in AI technology.\" Optimized for low-latency and high-bandwidth memory applications, the Rambus HBM2 interface ..."
     publishedDateTime: 2019-12-12T00:05:00Z
     sourceUrl: https://finance.yahoo.com/news/enflame-technology-selects-rambus-hbm2-220000711.html

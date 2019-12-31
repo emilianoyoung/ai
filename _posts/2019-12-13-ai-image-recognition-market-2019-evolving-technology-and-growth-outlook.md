@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 289
+heat: 279
 published: true
 
 provider:
@@ -160,21 +160,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Port of Seattle votes to limit facial-recognition technology at Sea-Tac"
-    excerpt: "SEATAC, Wash. — Facial-recognition technology won't be widely implemented at Seattle-Tacoma International Airport for the time being. Port of Seattle commissioners approved a moratorium on some biometric technology until guiding principals can be established. The decision to hit pause comes at a time when the technology is being pushed at the ..."
-    publishedDateTime: 2019-12-11T20:44:00Z
-    sourceUrl: https://www.king5.com/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    ampUrl: https://www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    cdnAmpUrl: https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/tech/port-of-seattle-votes-to-limit-facial-recognition-technology-at-sea-tac/281-381a63e2-602e-4a18-9342-75fa5a577bd0
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3995B6A4590511C6B00B01A0009991B3
-        width: 700
-        height: 393
   - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
     excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
     publishedDateTime: 2019-12-17T19:00:00Z

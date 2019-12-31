@@ -67,21 +67,6 @@ related:
         height: 350
   - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T20:24:00Z
-    sourceUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.04F640FD419BB32CEAD43C548121E41C
-        width: 700
-        height: 489
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-12T03:20:00Z
     sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
     ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/

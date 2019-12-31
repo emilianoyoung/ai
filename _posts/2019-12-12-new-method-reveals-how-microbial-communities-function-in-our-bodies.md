@@ -26,21 +26,6 @@ images:
     title: "New method reveals how microbial communities function in our bodies"
 
 related:
-  - title: "Teams of microbes are at work in our bodies. Researchers have figured out what they're up to."
-    excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
-    publishedDateTime: 2019-12-11T21:02:00Z
-    sourceUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.html
-    ampUrl: https://phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-teams-microbes-bodies-figured-theyre.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.8890970215F6956E7B62E06C0C683F18
-        width: 700
-        height: 494
   - title: "Teams of microbes are at work in our bodies. Here's how to figure out what they're doing"
     excerpt: "But understanding just how they do it remains a question. Researchers from Drexel University are hoping to help answer that question through a clever combination of high-throughput genetic sequencing and natural language processing computer algorithms. Their research, which was recently published in the journal PLOS ONE, reports a new method of ..."
     publishedDateTime: 2019-12-12T03:47:00Z
