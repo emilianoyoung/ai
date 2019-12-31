@@ -188,15 +188,6 @@ related:
       - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
         width: 700
         height: 350
-  - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
-    excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
-    publishedDateTime: 2019-12-11T04:50:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/lufax-ceo-greg-gibb-forecasts-partnerships-and-scenarioization-in-the-future-of-fintech-1028753507
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "Valocity Global from New Zealand bags the prestigious Fintech Startup of the Year trophy at India FinTech Awards (IFTA) 2019"
     excerpt: "Two fintech reports were launched by The Digital Fifth on Middle East and Indian markets. Sougata Basu, Founder, CashRich said that, “We were glad to be a part of IFTA 2019. The event was really engaging with discussions on payment, lending, wealth management, Open Banking, AI and Blockchain. It was a great experience to connect with fintech ..."
     publishedDateTime: 2019-12-11T06:08:00Z

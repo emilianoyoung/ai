@@ -25,21 +25,21 @@ images:
 
 related:
   - title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
-    excerpt: "Page, Brin and Pichai have all shared an emphasis on developing artificial intelligence software to make web searching ... dozen companies including self-driving car technology business Waymo and health care software company Verily, emerged in 2015 as ..."
-    publishedDateTime: 2019-12-04T03:03:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358468
+    excerpt: "Page, Brin and Pichai have shared an emphasis on developing artificial intelligence software to make web searching ... which owns more than a dozen companies including self-driving car business Waymo and health care software company Verily, was created ..."
+    publishedDateTime: 2019-12-04T02:56:00Z
+    sourceUrl: https://tech.economictimes.indiatimes.com/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
+    ampUrl: https://tech.economictimes.indiatimes.com/amp/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
+    cdnAmpUrl: https://tech-economictimes-indiatimes-com.cdn.ampproject.org/c/s/tech.economictimes.indiatimes.com/amp/news/technology/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet/72358327
     type: article
     provider:
-      name: ETCIO.com
+      name: tech.economictimes.indiatimes.com
       domain: indiatimes.com
     quality: 59
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72358468,imgsize-232067,width-800,height-434,overlay-etcio/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
+      - url: https://etimg.etb2bimg.com/thumb/msid-72358327,imgsize-232067,width-800,height-434,overlay-ettech/google-co-founders-step-aside-as-pichai-takes-helm-of-parent-alphabet.jpg
         width: 800
         height: 434
 
-secured: "dkgvaeCjUANczJ4mpLAyUnuDV4Dj596J5dBZBg5pht1BlpY8WbPbtDIDiRJqy6zoE9vKIk8jBrclELDBB+lKdKCETP01r0t++5VJUgKeUCTfUr2dGAdSM7DB99GFn7oPiDbj5x2o2eS/Ogtl18tLQErnFqgJrlfeQlJu2c4WxxBHcPRjdHe30x0CFbZf+qkxrAy0IzuwW/lS+qFGi2H59lmuwmLxk7oFjxgeEXOIdCmDmlUqUWj5zARh+RnHskTmXRTvzUrG8Jt/LdlXXwGwhQ==;UZgpyEzEl1/8rUzsb2/4GA=="
+secured: "Mq/u/DghCbHcTkunmbaGwD+X0OTsG2H5j0Y168Rhj3jTMU07/jGKdItvr4eRySjGokmuhscHiN8LpknoN34NT7gA2Tt7uRr8nxvqBr1zb03vcWwgBexod2bKy2P2V/PR9Lwxa3lJxSoBuD34v6D69lT+WIsp2wnEQyD2sCwd5uvEZORDYNN663vSQ3mjwG9WIzZyYufvCqTz6x2GDhrYwIpQmDSPwpBQSGMhEHI2N7I5Ekb8i73LQvgfQAQ9ntqwIkWio54YXm10G+WbBGYPKQ==;lUlzmoIYiBn52BLkG+e8Cg=="
 ---
 

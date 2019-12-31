@@ -40,8 +40,12 @@ related:
     provider:
       name: scmp.com
       domain: scmp.com
-    quality: 19
+    quality: 39
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/13/4fa0ceac-172d-11ea-9462-4dd25a5b0420_image_hires_160840.JPG?itok=p8fR8kh6&amp;v=1576224532
+        width: 1200
+        height: 630
 
-secured: "9wBDjI7JzQvxWi9m1cKAQERUiQU94SxxWYcg+ZHdFsVM06aDsrdvZNvfVXrb7kkdRCrnwFvHyafc/kHw/cI6VwsiBAJSoxUSepdVWxBbTDjeEeqGSrUWCH0X834RnmUQ1YibjiO78vHo8TTXoF3JhjF2Wirp4gYhJ6gR0Jxz/au/GiULTwZ2hPdzGtwuKAWOnof+FQYsa9AeNzPgDxDOEjQQC0nRWub6FfgBHAdc1SZR7RIpxc+hZPRYc6mBiEQwGDG82UBeLpgq7oMvT1H6gg==;UoFhK6Mz5ebFRPZsoezCLQ=="
+secured: "iiDrJu4lslNeNTEsWC/vGTcYV4/VO+38I+Cs6zo+O8pbSPQi4fg5/hz6kRC0RZinf2HknEOtf0ghBPSG0xWUycWBT1CSryohDcNBTpDZstfYCXkCijk1DMwSlRyaqDxgZbaENFsd6w6rEUz9p17fsm1M53ItDZVS7O4pS2MVbwSyDmi1g3lLY6J9ThU3lB1AHDQPpRGc01AmV7hgieIJzeCwKz00rTBk+hvrmbLhropdx+q9PikaESlilhGlC7anrH0Dh9oyGvOFupjsHJFrww==;lf1CR9vQvQJSwccTBz1a7w=="
 ---
 

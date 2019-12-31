@@ -1,30 +1,21 @@
 ---
 category: news
-title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
-excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
-publishedDateTime: 2019-12-26T18:41:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-may-see-new-emerging-trends-2019-12-26
+title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
+excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
+publishedDateTime: 2019-12-31T06:09:00Z
+sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
 type: article
-quality: 67
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-
-images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
+  - Natural Language Processing
 
 related:
   - title: "Deep Learning Market May Set New Growth Story | Clarifai, Entilic, Google, HyperVerge, IBM"
@@ -36,6 +27,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
+    excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
+    publishedDateTime: 2019-12-26T18:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-may-see-new-emerging-trends-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -53,15 +57,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
-    excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
-    publishedDateTime: 2019-12-31T06:09:00Z
-    sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 11
   - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
     excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
     publishedDateTime: 2019-12-26T11:07:00Z
@@ -72,6 +67,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "dBEKVlzAFFsiWlxxMaQdXlZupWPQJt5z/EjgtlFj1CYdnGvDv2rOvYQl+N5gjMN1n5Wu8SmJthLaZi8LiDlgxFLAjph6oGmpi+nH3PRFkElEE9rV2aa4JykHK8ldCwQQig7YeVJExKO8z3LykEHDOCgTFIzzjw3YupGGpPXuN9N7qCIiIALjANwHrPKsVMC4tDFPJ4yq6tIl39r+gWgn2v1t2kr5jL0zQogtfB+vHRCHWapyAhMlMJDZTXO080Uz6zxBjJHFID85jSaRyhO7/w==;dJhgsrA0mlNWQ6SXsilsDg=="
+secured: "lWmhHUi4WHdSTrtKeXmwnRdsRswODr7qwmZdmYDkmAMlu4sCGrJqJ/fynEAhXRTCtxoO/2s92UvSWtG43QPH+L2127bW+T01gxM0yO8XV+C4FT12Hz+odgXT/Xa+rzKTrluifCKQo3NLHH84jD+uS4fOGfE0GzdxaRmTWSaivE5Zf0oxZgwYk5uRsXGA5M6lWzGrMiSN2I9QFEtNlL+PZ6fTomaS6tF8NEhvbpTY4vkX9HL8S3AbcXx1bXp8/1P+XGTqC/LhBn7Sw8iawtenrQ==;S1bOun6u/EbFYZ6GissMoA=="
 ---
 

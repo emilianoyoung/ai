@@ -5,7 +5,7 @@ excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Ama
 publishedDateTime: 2019-12-06T13:45:00Z
 sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - AWS AI
+
+images:
+  - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+    width: 1200
+    height: 675
+    title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
 
 related:
   - title: "Amazon and the NFL plan virtual games to understand real injuries"
@@ -56,6 +62,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "6qRvqLXGcAXk8HstFjlq3zRLRO8s/FSTYG1zCXlJmC34n/dT8qVHcrtszNtv1kGuO1K6jamJ9/0TDRpOmZZeyFQcWJzWGEbd20ss32Ty5/5gSUf7FIx7hCxj+zo1BCrjLSrm+iLb4jEwOyalBDeijjZDxaBRRZY6uCrACBuBmz2OZtHDwVutRMVCIfsntB7X2AixkVIOzPDmcnsy5y0E9gGzHV2DrDBKBrc5QsXRKIQzSotx/PWq4W6LBKIl7VgxVregyh1GuVm46ZlQodHDqQ==;yp7NGyuDniHfpiUPElKdKA=="
+secured: "SszKLluoHXRo2lAzr6fODRRZNNndDpowRBywyKyb7QxaplXEnLdYtyq00Y7RBqGVnTX+Kpnd1guHzdAqx9yI67S/xZdCp7ej7TSHEMLqYI+n7nr2auwM2YHzJZOQ2mHggDlyS2w3HLt2aIpYwg5ELKFSXq+lQPHF4PlnHhHtKrtRMkNNcvzAOZ0sFQmXyLPto3NB1aBCIVHhjJtyKQqIbILz3js7uBD6v3++1NNJkO+eTCB/b2xw1Pczn+Dz8khhVw3q14eNpuifjcZUXpHi1Q==;fXN+5drLdijZxd4/Zh+kaA=="
 ---
 

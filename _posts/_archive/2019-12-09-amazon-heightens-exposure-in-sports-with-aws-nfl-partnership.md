@@ -5,8 +5,8 @@ excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Dig
 publishedDateTime: 2019-12-09T00:00:00Z
 sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "rYyYCTHh4GW0OInIovVnoDgcxaZSVK1Kl/3ZGjYhzr2ozgzb1CEmnD+JP94cszklu+6mTdbrTjzGx47udqdnByYMhf8j+aa3iOUqo1lpxIUxY58c7OhZYbRo6eRJYrbJJkl4K68JSsn2URp/TaUZZt+XBx/bgQtx+ToIK3/QqOxZVbBJFCYLQK8D6HlyNFip7vrIwCI/1ieapNx5lvcDyuCE+Ynq1EVDYmBzivci6xoDL0mNTOyDZk4Jox4Mo+IPIhxiCZaSG0KJ6DDB0/4iWQ==;4DkhuwzGInjwAxvLGsGtxQ=="
+images:
+  - url: https://s.yimg.com/uu/api/res/1.2/4xaJAXwDPoTFHkUa2kM2fw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/b223e404b917d8148a772e0f60a32f30
+    width: 635
+    height: 400
+    title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
+
+secured: "/NOC+pAKPQAg50hJ6uEGJ1iotn4RMzTKT4ZH4qNeC4S7qAenSaLPzZiJGy3P/GZxjKqgeUXO8CLDG6LR/K7s8eZsh9t0LZZBFOGNyCW901HlSdRYLkfw8T2zO+cy2AtSksxqvYScoRi8NXyOqWX9aaF9tyaUeOb99lMObi5rydfmTXzdJvYNsK6ABR+6kQZfI5VBiJNjI7kGdU1Bs9xXxNP61CDr+FCPKbJwQf8d4spaj+2qj32pcmERVJjKAcXDG55q0NjORS65oqjsB59ycQ==;x2YrzDEaKPhjZJn76wi0jA=="
 ---
 

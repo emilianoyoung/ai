@@ -5,9 +5,9 @@ excerpt: "The company is focused on driving business solutions for commercial an
 publishedDateTime: 2019-12-08T05:18:00Z
 sourceUrl: https://www.newkerala.com/news/read/260994/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report.html
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 64
+published: true
 
 provider:
   name: New Kerala
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://www.newkerala.com/news/pics/r/destination_wedding_iansf.jpg
+    width: 500
+    height: 272
+    title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
 related:
   - title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
@@ -32,6 +38,6 @@ related:
         width: 700
         height: 366
 
-secured: "UsM/4aRPIgO2pb2h8dMsOp5sOMJ1ggm3AVBrXuuH69nw1gtseS40dLwgSbuhu4wePpvvMye3DvOKqL5L4mfkfcUK3S1StCU/gmGfOEYIcFP+O5wF6KibDkSEtcmzK6MgZBVnvjKA/sE8c60x/5xToqXPhxXly4ypkrde+LRKZ3k8uECnBnBFNmzSQi+bcEM0pdrs9ghjsiMEEF+ZsxjhziyLWp+2PSPbK140uGxF/wQXWM4p/rdycBIP50n9TgXUwwTB0aR9nj7A5Y0xVrpyXQ==;BrNL+wqlWLqPHCeoemolPA=="
+secured: "uDYPbnLt9IUXeQW4DOIJ0DNHMhT+BbJ/e8Alw9fUg2GX2PvaxcuphHbbbZ2MZqPUXzlilghM+OwHf4I1p08tLNld0k5iVA6Hu6D2mEgbkziHaE/yQnUAOa9VnPyS6uJV15TFA9ITKdnAmlROSTgCsucMmKpBn01r4X3Fwy6WxgxpulucWAUqnm6L84SYIlcZdINU72qn2ZfYikdxwtE5fR8DMHwmkSu12CLhZlC4DbA66gxXO9vFv0CvcDuYYm3/fyTls09kMBA5//PXmaJq7g==;zSa3vojcds2vrfyWrtgYXw=="
 ---
 

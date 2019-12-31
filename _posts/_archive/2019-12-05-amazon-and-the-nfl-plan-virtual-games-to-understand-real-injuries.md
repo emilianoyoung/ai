@@ -49,7 +49,11 @@ related:
     provider:
       name: SportTechie
       domain: sporttechie.com
-    quality: 21
+    quality: 41
+    images:
+      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
+        width: 1200
+        height: 675
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -62,6 +66,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "KNArpi5cYBWvwVVv7bz1MIvuQqvRr9QaakYjku0U1lTcUvR/R8KLnq534awnvgpdHX9Jz5gP8h0j6AITJ8PvGdX+ZQTcXvIZtUzt3G8unhzkb4FuTyYaJLTHGHq7hlnycmdO41ZorrO1ZmrRzkbxV0dSbyXGuFB9WTNipZqWqEuYSYXkISBrvvE6aRVtr217m0f482ebR5eLP3vm283U+OAZw/WK/FAIQgcIu4hllAsizWRB4a6VXi9fYRsHKGNz0JJqgEaKCzDGgES7J9/0rw==;5897DSA/NKgRQEAWhT+gcA=="
+secured: "hlfadcae4z5aP4Uj6NEwpuxOTQx2sTnUAgV8d6NPnp0ee7f8EUl49OFoOKPDVn/DPGqHIBB0EC69k/inQFzOtE8XpPd8ldT+WJfwzAdK48igDnOS8yTVoEuf6vRa7A7VaZCQt/NAbphmiNkW5ezAzExHmK6QZkmN72WdPg/8D2/NMEKN5vKXdDsRVzXi1hM7CNbpe8R2SdqyHDB5vFggdpjHhY73iHkexvvFAigssSEZEVBmhBfNZtZoNO9t7MZTlfZgl7eUMp1WezhHLNDICw==;m/FbMXAk++kvszmrn8HZmg=="
 ---
 

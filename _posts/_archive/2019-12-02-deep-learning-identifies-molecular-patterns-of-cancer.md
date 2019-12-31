@@ -45,8 +45,12 @@ related:
     provider:
       name: Health Data Management
       domain: healthdatamanagement.com
-    quality: 17
+    quality: 37
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
+        width: 1200
+        height: 630
 
-secured: "KLEV0lfNymQ3S7QhRD6Khv4ywHyYg5+9z5qdAIMzCjV9sCCJfnduIaqzCp9p1symoaOCMUBNdIS0wP+kG7zZJN+uxVyBI9FV2X7H5WPOcxc5JkkNWGbagYPpy/cC4vJQ91wCqJ6skQDzYVc2bz1YRvcsU1gq+rT0kNxZjMwmAGYaGWh3jjeiubA7grhLpVOtbvmLmFmZCsf2aRW1facQLOQAw40X49ZYsOHgcIABIHFER1S/eg2Csr2JE+4tvlwfRKQwz+ry8C4RZFBXGyfywg==;YQEOBPrx6OTBVMFodbtuSg=="
+secured: "Vjg/SQZ5Scqzj7Abze3NKtjwkqTFrbOs/0kht7QRMmd/0JvJpk8Q0Hng37Izm7iFbXicGnqVFm6gt11dpOaHhiw15VE6XEVVOeyESgsJC2nzeGewi2+g0bRlSRjrlvs+mm9jIYe0Mm/9v2GjtYNOrczeyaYmJ5k1OldkCfhebyVnpSOSGeFT7j90LtE28udjtsvi0t+XTssO2P7BRoOAvgGfm5FaDD2xJ3fnvXc0S3PXoAi4SWxCADVtOvLNfV424E4H7kdhzsaIEu9TVc/2lw==;gp16G/OoD74TJJ0VMBeA7A=="
 ---
 

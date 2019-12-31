@@ -36,7 +36,24 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 79
+    quality: 99
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
+        width: 1679
+        height: 1005
+  - title: "Deep Learning breakthrough made by Rice University scientists"
+    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
+    publishedDateTime: 2019-12-13T18:42:00Z
+    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
+        width: 700
+        height: 350
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -51,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "EX1N/g+QoAiBNmKnuVlY30kWWUNRgxYP3DRSeogVUdWMjoUSo9fAM84VJj1WbmgjPJijvFAWzJBb3CgPJ7PT2e1gvSiKQzLGFjtAMyDR27H9LeFqI/FJQUEb0g++In0VPq70PNlcAaC5xzPrnUKDi59hn8RlZfn4AGkDOEu789zc+marVAjxuajSt3Cezu70NEBrcuOfi6OFw/I44snKjZpZB6WqyZYSSQ4w+239U6nKdfOqf05U778N1HWocea1Tiwl2DL8CSAYJcO/NTPG2w==;StSCA6jLEIISxHYLQ8g9Ug=="
+secured: "vNaaib5oSRgsvStreRgsUdkGs9UrlcfB3FWWOPeu0eBqCAx6qLmolsrtdzdmTZfwMERnRlmiOzwVC+4JFeCaQzgK+640zVxLuMznHpp67M8NZkaliI8ufeqB8eafocPl1Y4exEZZ+wqrAfq4JcTjU3sWC+rqMk0V5/VlJF4zJ07wH23SmHs/V4Suq5bu5qPsUaGa5giMnDUyfYWrsKEDL9XXPMSDFtHJ7GvZxoiagSTu1iatQzq5/6hsJd/6c2nFHc6Kuwl7nLWepTq2wfLYdA==;Vsrvi07v9/OGfP31XTE3nw=="
 ---
 

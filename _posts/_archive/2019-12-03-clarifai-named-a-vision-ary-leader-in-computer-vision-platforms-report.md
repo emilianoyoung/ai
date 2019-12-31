@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-03T15:19:00Z
 sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
 type: article
 quality: 53
-heat: 63
-published: true
+heat: -1
+published: false
 
 provider:
   name: PR Newswire
@@ -32,8 +32,12 @@ related:
     provider:
       name: New Kerala
       domain: newkerala.com
-    quality: 34
+    quality: 54
+    images:
+      - url: https://www.newkerala.com/news/pics/r/destination_wedding_iansf.jpg
+        width: 500
+        height: 272
 
-secured: "NBLh2hGM7dwNFqWAKRrJWjVv80O/dU+KZU4PE4IQRVYldfCRNbjFfzhDjegcyYubyzF/MkE3qL1OHy84iTE/wDTCk+DHkDji6MifHQ6hBbuospRvuvRNc9cVRDcyNOy3bZgDZZJ6+hQ1xj6pXpa6IP/cQNxUJTeWOfY0qeRX5f62La+zX/53wg0GWycDJXdx7RE5qoYW+geKaQwzepi/TC+ACKP3xxz+Rznpcdy1nIA8xe5zZW9f+6r0bb8KtiB+RgTOCyP7KYY5URWev60dMQ==;uS/4QhlzZZIfHypYeWa3ww=="
+secured: "Z/zo629TlMoj7dV7QkmJ0fXfRwJoRyr3qZ1YZOzROJQQ/2uzdv7WAzJJOZZc6Jvnrjw2Rezj3/u4DRPxtuysHc8gIKUZCAehi7J32jd1zdKyWWPGLr3HPOxzBDpiYOTVdqwlX2pZxV5Ac2qkbnBg0GwNti7yPVowllp8Ogomp0QT3G4jMbnPfiYzYbbOmimgJ0Ll1t0Z2pNiS2eJBelysIVQxg6Gg2ZMeUQ7keICm//Rgq/a0kyeY1nHiBLuGomxZumW1O0dG9LLRorIGci+Pw==;ojPeZy+ZiTOcbfYaHpBR5g=="
 ---
 

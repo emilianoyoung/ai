@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T16:36:00Z
 sourceUrl: https://finance.yahoo.com/news/schneider-electric-wins-ai-machine-162100686.html
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,54 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
-    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
-    publishedDateTime: 2019-12-12T11:12:00Z
-    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
-        width: 568
-        height: 567
-  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
-    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently ..."
-    publishedDateTime: 2019-12-10T18:44:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
-    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Far-Field Speech and Voice Recognition Market"
-    excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
-    publishedDateTime: 2019-12-12T06:44:00Z
-    sourceUrl: https://www.openpr.com/news/1878439/far-field-speech-and-voice-recognition-market-worth-4950-36
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
 secured: "QdiS/nwTdh0VnmMm1wf8xqHqtNknj80OWzmGIKDbt2MRhhTwrGl/52oKI5/v8Hvdm1kc5ZzjctxJ/YWTU8WL+42gBukmT6HCQGO3dqQ1c+JoFwazG6D27RHfaHpeTgzRnU1MvU1TqNXD5lOIHX9zSe5d4OnpOnY9SK9E+5LFb8f0tbhlv1d5mhGNSCz5h61WRXBA+KWk79eYlFm7EPk9B55GCKCCOGEj1l3+levKc3Wxg8tnXIT6A3kKwBK9feuUkJ+JRREjYQDYgNcBVmEqZg==;1dgXZVs1l52pXBKg/4ahuw=="
 ---

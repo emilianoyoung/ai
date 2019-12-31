@@ -34,7 +34,24 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 79
+    quality: 99
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
+        width: 1679
+        height: 1005
+  - title: "Deep Learning breakthrough made by Rice University scientists"
+    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
+    publishedDateTime: 2019-12-13T18:42:00Z
+    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
+        width: 700
+        height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
@@ -51,6 +68,6 @@ related:
         width: 700
         height: 466
 
-secured: "siHz5yD1d50+JzSRuslNTVZRbR70K6M8fgwVdWot4NR+tpIoaxLny1MdBbODqjDI1XyJfPzKSsVC2vLb/uaGzYqmydpYU8AVh6HICmiO34/JiwHe50kxDg0u/2C1xBM/SPgjQdI0bg+qON/DoQ7Ziv+BSlcLvKSiIYR4eG/TqqBs4iEn/5+kgl7rH+JbDRKM44N8ndaklxvE/4AUlAFOXBuYUfAEDFBiLOPHQQBUVf62qTx64IdiW207vKNpzd6+P8uZXKrGeZVgoxdk7jSgPA==;Oc1fHmyfmusqN7kkMS5UMw=="
+secured: "edtPoioI0HZ3toquoHU4US/KQ+nZUGvjqc9ZU+/MJAGZj6OTDQTtwQS3jkaMhosC3exGlIJrPGMWo8pEtK5dlVD6Z5YSgEDjvQky5M86NVWkw2TBc2EvyQWZlfvbN3XWv6QCJwQEu+2IGJByq0/YSmaP4bDvAGrX2JkCKPfe8fWkGjAas+Xjx8eB8zNZh5LlODy7z+ryBahBDYtY+u4zuGxGV/5iC8G+MchAZWoesdzsx5X+s2hGCLaSMZPxysw3UEbxnkSLKeKyJx3kV9+oeQ==;INt/2vIifnmho9yALyFbHw=="
 ---
 

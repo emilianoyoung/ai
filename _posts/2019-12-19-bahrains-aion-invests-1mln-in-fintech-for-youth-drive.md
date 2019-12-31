@@ -177,15 +177,6 @@ related:
       - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
         width: 700
         height: 350
-  - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
-    excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
-    publishedDateTime: 2019-12-11T04:50:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/lufax-ceo-greg-gibb-forecasts-partnerships-and-scenarioization-in-the-future-of-fintech-1028753507
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
   - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
     excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
     publishedDateTime: 2019-12-17T17:56:00Z

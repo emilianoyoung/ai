@@ -47,6 +47,6 @@ related:
       domain: gizbot.com
     quality: 24
 
-secured: "HvT7m4sO9HI8n3sdtXxuxYou0CdY0LyhNytfoAY2RrN6IBRAZREUO/Mjd5puO6IOZIw409i+Gq0exzVDLuokZPWdp+d2okqPWf2X4Zg30lnnUa0Rk+r5/yePqhPVkpLnLHspKEobLVLcfNIBX9d0GBT5rTVRZLR05MT58NC7BJlCwcqSb5Lx92Li5rR21AWC0v0DCA+2LleDnlPmeKklOag9ReSaysggnIrPk88Ac1awCfIJEtle6rpd1qV2gS6zwL85Yk8ZNIcbRJfI2+jAVQ==;fZSZBMpdNa+OGfOZ7k7a0g=="
+secured: "2xHgQIhv3cn8+HEqxnNH4iWWh1JapiQnrVsdl5qzBJmowIAnFAUUQvmYOz37aTDwxQfSX+TRZ327QHad1uk2D4cIn3ppTCqasQDsgyjld+X9dH0mkJm+5DQPMxz1HIYh3ZeLUvuAT8GcUhQpBqZd6VreTMIs50UQkrzEzcGbgF5qqS+3jNxiKEYxQzoy+44+ubvCaD/C1LY3wSfsyv5MJykaAgoybHkLIqSUd12lBFh5U3oNIyN1h84w4EqVLolAtyrbjAyHwmlj3LAhAC3hTw==;dE2R2pTjKpIFTUWDWyTcFA=="
 ---
 

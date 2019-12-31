@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
@@ -116,6 +117,6 @@ related:
         width: 720
         height: 335
 
-secured: "T6wskOpfHwPtmPEeA/tvJIa5zYka84igO5sJfzvEgLO3UwZDYtjs30xasXOVJNaJsLebNLCDdnKRcUSyRkLvMvAEYiZjCphbR7UE/8OWzJcX3ydkUbIV3mFqg34HiFM6xLe5ubG2fbdspDKwDXl906FQkf6dcqAdgRR21ZDcQqonJ9ttsyN5e/llOhVftiQUkGDuBo0Dr52pgfnmNyEOtqZliVzkMic7sqcIIOmQILRl7HffksCF5te5gayYXMUUPSuEEwFqyZ18v6y5ZnjDbQ==;3RSnSEq5aKgr4oWF/sWNZw=="
+secured: "slJu41ZO85GxOpFB2mEQb+n9ZeqW6IbWaFK5ZmbT2jYa87FNC7n0EiGyNAE8cI5D1pV5Vkcnvf8iAjizRhp/BNIi91FGuSqZI8AJYCSMSoSbde1DW4kRYilkCgB8I7e+F1AzicphsvZK/wMdoFXP/9v1veVpDIV3FZtBgqt0Cccjff8t4vK/xYksPrZp1iCnlM4S0nUe7DGJaH99O13evnxJYAy5qDQYgI9Iknib8Sg/8xLA/lKb29QHnagITigeHZ0HxIfshJ+hFHAAKhiNRA==;nT2Imh2Y/+L7z4Q+BG2Lew=="
 ---
 
