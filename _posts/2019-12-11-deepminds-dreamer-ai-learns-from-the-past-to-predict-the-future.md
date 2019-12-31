@@ -134,19 +134,6 @@ related:
       - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
         width: 580
         height: 358
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-10T22:19:00Z
-    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: https://ctovision.com/wp-content/uploads/space.jpg
-        width: 632
-        height: 422
 
 secured: "RyvOkfGGNCwqmgA3atNx0hcVSk8BzIMLOJoANA6S3gzX+DD3DTDHi+w9EQILiJXQHzjlSETrLBc5Nk5QU+sHFeXmQ42Aj+/3ll6C9oB03VsDmvAfXtSsxsKLunXcZ/3+nr4Q56o32foz4KSpw9PEo2jyqZ+NoDWVl5EBvousFyBUcpy4Yh7qw3GWNes0QZP2b8zw75/Nr0rpv0oZWbs9qYx2oSUA1jf6gsMfuzWM14RRFn7pttoca22SQ0yZ5+ZiiSzaiIa5JrWlHoCGSza8nw==;Bj+7GmSvFrywvTZOIc4htA=="
 ---

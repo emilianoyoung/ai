@@ -990,19 +990,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Police use of automated facial recognition technology lawful"
-    excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
-    publishedDateTime: 2019-12-10T23:01:00Z
-    sourceUrl: https://www.thetimes.co.uk/article/police-use-of-automated-facial-recognition-technology-lawful-h5wc9cndm
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2396353B89F822C2281C5574D23B668A
-        width: 685
-        height: 385
   - title: "What facial recognition steals from us"
     excerpt: "Facial recognition has come a long way, and there are some real perils if the trend continues. Get even more digital know-how and entertainment with the ad-free Komando Community! Watch or listen to The Kim Komando Show on your schedule, read Kim's eBooks for free, and get answers in the tech forums."
     publishedDateTime: 2019-12-11T00:26:00Z

@@ -134,20 +134,7 @@ related:
       name: Financial Times
       domain: ft.com
     quality: 39
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-10T22:19:00Z
-    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: https://ctovision.com/wp-content/uploads/space.jpg
-        width: 632
-        height: 422
 
-secured: "p6mzKDiic+zAN8EWMI93llYMu3CHoPrpcfvSxs1xnE4rdw67OGnUWn6zu9KTrWf8bK+bpuMJpV5bugfo3rud543VFQWQr4sr1dgdqwGXUVR5uNoJ+SpIJCPjpG0YwoDvC3Jeke2oOiZUY+T00Frw110nAhC5AhzdGS8oLUplGG0pGjogm7uVAa0W+uUtHKRjdG2W80F2jwcIKU6eXliO6t9UtljYzVB1S67tB+54dWwHzu4b0HK8YE5DrV88Ri/vmbhQX01lEC8VQslllLNHNg==;J/IFxIDgJ/g3mNOes2QmHw=="
+secured: "zXrZcCCpKnwK1oL/R+LKglc8W2L8BvL2Hcx4pMBRTucpHaHmPTfBi9IPk/OAANR959KFgYYhXq7WT9bZgA6/v5wcqbrJA5Qy1JYZjCr77mfHbYwGWWo+4QjWub6TTXdIfA+C3G6xbJ05ayvW9/+P6AkYUAs+RtMPGhllnrzc0sW0NMQh4As7CdXRSsK6Z+zH0YA+BmzOhFMbei99HB5P9b3r3WV3Xv++Isp6mtemBtfVI2qfPjYqYGEMa+b/BaohsU/sJ0pYrk2/G3dQlsQraQ==;K8VVnDJy9D/cU8aznEZ4Fw=="
 ---
 

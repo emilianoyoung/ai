@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-fou
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
 quality: 99
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -138,20 +138,7 @@ related:
       - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
         width: 580
         height: 358
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-10T22:19:00Z
-    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: https://ctovision.com/wp-content/uploads/space.jpg
-        width: 632
-        height: 422
 
-secured: "X4ngiZxXzJBHiNOCpOS4li24RWIWm/VWGsF5YbhxEFtuXkSwnviWyqUdXw1i+nmeABBYy+NhQ1Jk7W7LIujMBWcbKVZ7r4REKiBhNBkPHJ/Gj7WmUWnXGTpdZrW9BskA1EAU4J9QQyffapCVkstCoJL1mjplIfozwpCdrZ2uUkxJESnEQQe2ZaMveNaiIJun/dAS8IOIZFKZPHHdR/OHQtAiNu4MDr/H+no2Od967bzPxjK7l7BLW1B+ultnGzhx+lBu2sSH4MjAoqno//uXHA==;Y82tG+k+4pcMCQqckK3tkQ=="
+secured: "o1Vj5Kt4vrSxBml+9aNso5sNrfCLYZ3WSw/W0ayI4/8Jr2oRNVcxNanEPyjP99S/mMFTAtpZCcfWfdEko5RZfx7/MiVxw6IN1ONdFIQt6s+N1y4f6093Yk8u9ixyxl33DJb+Z/q3A35zeNS9R0Sd3fD70RTJQKpLKeUHcTkLuy5FkgX7tpaDUud2d1KYjDe5zTKPYXVx5d42Qp3fD4YMPECdmuFHcE6mfyynjsIHQ8lYCASI/pxKded6ploNdN6wsS5KTVze/kSOMV1Q/ir73g==;SGPzaFmVjzb54c29hMoJdQ=="
 ---
 

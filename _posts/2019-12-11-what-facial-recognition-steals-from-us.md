@@ -988,19 +988,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
         width: 640
         height: 360
-  - title: "Police use of automated facial recognition technology lawful"
-    excerpt: "The use of automated facial recognition technology by the police force to search for people in crowded places was lawful. The Divisional Court of the Queen’s Bench Division so held in dismissing a claim for judicial review by the claimant, Edward Bridges, against the chief constable of South Wales Police."
-    publishedDateTime: 2019-12-10T23:01:00Z
-    sourceUrl: https://www.thetimes.co.uk/article/police-use-of-automated-facial-recognition-technology-lawful-h5wc9cndm
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2396353B89F822C2281C5574D23B668A
-        width: 685
-        height: 385
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
     publishedDateTime: 2019-12-12T21:08:50Z
