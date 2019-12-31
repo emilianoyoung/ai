@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -74,6 +63,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -101,6 +101,6 @@ related:
         width: 720
         height: 335
 
-secured: "DYfN1uhjSDnNvzHJZfIMa+N4cBKACoyYo2I03wAvJs4PMZtZ987ojkVOXkRjsau5SPMVoktPnDSZFA1+LZms2X+0xxfJjx2OtDel2A+wnkhP7f9X0sQ30iVYc1vAJ5PgKTiUXOtyucZHWiqMHvYHrv3YCv9am4bWT3OlWo8fxwRR7PmUy2iOSMDDzON1DYof7uCLZuf7a7f7D3hnYQkgbOF9Y6C1hgfZA2SJyiY3UWu1jKBkXi8nr+7Wt97s/QNSo0j6sAD0+iaxOZrq7TH+Dw==;obf1eLxMp+gBkKsG4pOELw=="
+secured: "14Fb6T1Rh3IWNjyqy3LGRENvIIt0KkBZmlhra4wQrf+YwPA41V0h/RGX42z5DtQxqcOSvJdmVXDTH6ioPC+6lBmLQLint/AuyCzn9PZpNcg27/iQdB3jiwDbDYsjWRJ8MMcLUZ01l/BgYii1dR6x4LAezbATwumSNArgPeipus5v0GoikdE6Zmd51/t+ppiBQTmV6clI0zEdzhPmROXfRtKjfmu10gv5x3OlJTISivXwyMzwejTQbZgS0HXPL7s7U5VUdSBHf5K2FDs1JZe2YQ==;lYVtLb2zLZrK7/+2/TOd7Q=="
 ---
 

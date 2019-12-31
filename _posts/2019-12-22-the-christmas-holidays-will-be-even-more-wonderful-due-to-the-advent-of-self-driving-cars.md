@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holiday
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
+    images:
+      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
+        width: 700
+        height: 472
 
 secured: "uzqKtL8zZIpHkGJ+HHERhZU0Uke00VoJkgntekav/5en3nkfPkvcPtXXzRaLdj+kbocvGx+EXU3ygV6CEruvKsWKsb3e9mRUqqE5GLQGNTfkvMT5yYoBJ05rwzzHgG70BCY9VqYDTy8cak3sFukf6FU3lvbj2UHcrzb+Qkbs57cx1OSF8UiWY5+dj6lk8vYLnlbeYAROkcMWV0D5k9bNH7w2+rZaqizLooza4rMuCHTsLYWtqnPQJeCJXk3T7NidGqh+RGM4Pnt4vmFSpXYbFA==;c38yKlFQTknm8133lz3KGw=="
 ---

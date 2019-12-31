@@ -1,29 +1,27 @@
 ---
 category: news
-title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
-publishedDateTime: 2019-12-18T22:50:00Z
-sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+publishedDateTime: 2019-12-27T00:03:00Z
+sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
 type: article
-quality: 33
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
-    width: 1024
-    height: 547
-    title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+  - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
+    width: 700
+    height: 472
+    title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
 
 related:
   - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
@@ -41,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
         width: 600
         height: 315
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
   - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
     excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
     publishedDateTime: 2019-12-26T23:10:00Z
@@ -56,20 +69,7 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
-  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
-    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
-    publishedDateTime: 2019-12-27T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 8
-    images:
-      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
-        width: 700
-        height: 472
 
-secured: "A4OVuN450Mq0EpKvEj+zQFeLfyPDP/6Cdhx2SvY6rkwtaMWCiYauRlnGcpzM5KFbB91FRMWo5YIBF3LcNh1sdj33NSlnRFPVXPfUqaMZYO4mnl8YyyGPWD3yudlXSUqNvGeTjq36fHKSq22o+k3dXa28WpTUsLBU4lU4p4WVHF+YkFTD0p7eC2sseQxiQKVmrD5Hjd015REaRhtA1B/4A3ncPWtPamxFZ16uLyMhTADKQD6JMCYB2J57M5WhO8DvuILLVYGw/UCcuVm6AKqv6A==;UAqsXsMEx31poRB41LlU9Q=="
+secured: "CtEwJ1Qz0QEVMK8CcPNKo+SjTSs7SPC7l4wR4my4jwa6UfLV1VR3wTVEbEeyl+f5hIHUMP6/vVdOcwU2hif7ycO9bDgreFZAUDx85eZm0uQ1bfufBwXQdmW5SX3nWJuf+VTuwhcVH3DO48hnrNyDPNliPGahBm4PXxwde8xuxp525nRsLHHKHwJVa+Rbxm4NHZAPc82G55mMtVxaxZq2+04FFGskGZezJoGgrmB6T8YG0LAEngp8jxl0/xmY7Z3F1f1U/50tsUXG6sjnNH6pTA==;j25nnIIVqUfMUndPAMO55A=="
 ---
 

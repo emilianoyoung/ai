@@ -66,6 +66,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "G72cH7+evZiqmd2G4cs9K7VvbuAE4VZt5YXfh7pGIEEdBXY5o9lr7y42ayLGsyB5ok15wLdU1WFDmOUF2hiup8QmdvduzOI2nLPMo9GbBaY/Sfgguwi/hPkKQ6oakJB8SEhhgmuz4r5HrQa0BVxoFxdwJTCtOopj1ARse8tSBnt4KYTQ+yUXQUSxGYtGaFCOrstj67zb/KydXOKIVWn2Q0JboahrLV5fYkQoN1RNcWG0ZdS70Vw0kXYalfp7RmEDOuLwBCk2V03gOaTv53ViNQ==;l1cN++kNuY0mtAKC4uMzpQ=="
+secured: "yGlHWYRqG8wgG78Tb0ocGTPI/ft/RBLL2qXpBpr8kwvU4cC/UaIImTMCqvOjOUHpkA9P9TP7YmqFCVDHdxIhLwsOJkv4XUwelxP5sbNsUizsiBi5rQDg06ttAJfZjH3IaUHbRXqebnP5q9pvs5dJP1GN3aTL5IokidRDVoIMcuopINLM1K0KayZ/goe9tuYyUqdojQrwF0Idpm86pQjobTs6aHFFtljiiP/4u3dxrcrAvOlQaNMljOjp1NIlDJ8q+FsU7iyceq7RKNJ6Ldjtbg==;23jVvCN010+V1LjahO+/aw=="
 ---
 

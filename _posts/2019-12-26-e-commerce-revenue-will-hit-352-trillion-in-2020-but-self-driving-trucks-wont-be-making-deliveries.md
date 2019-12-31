@@ -56,6 +56,19 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
         width: 1024
         height: 547
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
+    images:
+      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
+        width: 700
+        height: 472
 
 secured: "o82zQWAMdXYcV2MLVirMFk5SCrNYATdQ2mvikVyuAMsJnIhSVewiCeDCGFAC8KuebmR5qRBsnm1vdStUup7+ZjUMuueGpmEqLemxP0o3JiSVuuMQHcJkuNapnAAC1Whxp/P/z0Ozi0WEbREJ5/lp6K569sURDPzB1DoKaMZdWLfxwD4H98+5fR6/83lRN9CZ6RfeGORGoOzLCAtiy/Qie/msnauvG+x5yBtI8GhopFQPkK4WcQrV6FjZA4AhTY9IB62uL7HOTivMnygnpbcu9g==;FC0jBNqYPh77uPL4OPUazQ=="
 ---
