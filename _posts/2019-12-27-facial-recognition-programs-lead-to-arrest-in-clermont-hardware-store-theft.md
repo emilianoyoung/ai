@@ -101,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
         width: 670
         height: 440
+  - title: "Fight against facial recognition hits wall across the West"
+    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
+    publishedDateTime: 2019-12-30T10:09:00Z
+    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
+    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
+        width: 700
+        height: 466
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-27T18:59:00Z
@@ -189,19 +204,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A1185139DC73ED308A5B7967CF47B90
         width: 600
         height: 338
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a bipartisan U.S. alliance ..."
-    publishedDateTime: 2019-12-30T10:03:00Z
-    sourceUrl: https://news.yahoo.com/fight-against-facial-recognition-hits-100324645.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.43FB0DC7F558CB2BD71087B508328FE1
-        width: 700
-        height: 466
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z

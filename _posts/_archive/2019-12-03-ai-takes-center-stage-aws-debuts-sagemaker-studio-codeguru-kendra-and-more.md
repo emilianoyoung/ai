@@ -87,6 +87,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -101,6 +114,6 @@ related:
         width: 720
         height: 335
 
-secured: "14Fb6T1Rh3IWNjyqy3LGRENvIIt0KkBZmlhra4wQrf+YwPA41V0h/RGX42z5DtQxqcOSvJdmVXDTH6ioPC+6lBmLQLint/AuyCzn9PZpNcg27/iQdB3jiwDbDYsjWRJ8MMcLUZ01l/BgYii1dR6x4LAezbATwumSNArgPeipus5v0GoikdE6Zmd51/t+ppiBQTmV6clI0zEdzhPmROXfRtKjfmu10gv5x3OlJTISivXwyMzwejTQbZgS0HXPL7s7U5VUdSBHf5K2FDs1JZe2YQ==;lYVtLb2zLZrK7/+2/TOd7Q=="
+secured: "IYYILjyJkiTQBpemEYnNd8ZTGN/is4AWvPey46+xkEcaPxNlDYfr/Og3lTZ46/hL60zttO1KMIhFedRHifLcqTe7aPc8+2NiIeh++FPaaMnqKrh1xdsmQsQNDgnhmv2KhSeSP0QHFtxcEznLxQB3NYOC59cwNYj8Yw7vSRbHMP+QCni54BP52T16mhtau5eFvpEK//dusb7H+dW/nmfwR+sQCzTs8SyszjEVQSgy1stXGzFwOysUVt/YzobcmX8ZEg5uDV7WpWTEJKYEOY3DaQ==;ISiweEFyccdLbSrH3QL4qQ=="
 ---
 

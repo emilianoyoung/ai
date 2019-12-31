@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Fight against facial recognition hits wall across the West"
-excerpt: "The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a bipartisan U.S. alliance ..."
-publishedDateTime: 2019-12-30T10:03:00Z
-sourceUrl: https://news.yahoo.com/fight-against-facial-recognition-hits-100324645.html
+excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
+publishedDateTime: 2019-12-30T10:09:00Z
+sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
+ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Politico
+  domain: politico.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.43FB0DC7F558CB2BD71087B508328FE1
+  - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
     width: 700
     height: 466
     title: "Fight against facial recognition hits wall across the West"
@@ -310,6 +312,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "3Xn2pT844RVhZPXLtPNSIJTlNAInkpX6GCCoUPW1Q1kyzVLvvTh97riZj5gJx/BGlY/J0el535ll6xfECiA7VBPSRs263zyo3DCAGCmOQ4EGSShsSJmgoPipnPbMa8fqWaOaGJlS1MnusyaQkBrzmm+ANR6wFOOUnnebpZyS2HbBNTIoYxKIQ0hTMH0+DSwMjiMyXgXnuDf/tGhfR0Vqe6I9WGFlNPYzsmu3NAlHTiaZY+sFRLDX3E5gb2MEb8cG9XUgDo33ayvLMiDbAk6sDA==;gQRxQ/3/LQmMBz1Bl0P3AQ=="
+secured: "Cp9VdguFo9HKvlZknq5vqOkoIyJIdy2N0W5oAFRFMpCU9g0G4tthMnHZBEDd3xNki5FMd3+DhbagsoIOUC7ULAVud3JQV+T/iYjZJObIeDjtL750gxAFiqaUbuDGe4L0LaIXZanH1nZb/q4vLfBg+S4igthWmpLkDHST8qLLWNOKJggH2m9bCBwOEGnm5paU3EhqAp4n/vLs/ngr7tN7pKSAFLqkFWN2t1ktcslxCWCnSv36ZZ/wdEuqe0RkFLKyz4NjxH8NPwYGYQ0D5o5orA==;8WbbQdfe1Vq4pZlAeriZwQ=="
 ---
 

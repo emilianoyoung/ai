@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -91,6 +91,19 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "AI is moving too fast, and that’s a good thing"
+    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
+    publishedDateTime: 2019-12-03T12:00:00Z
+    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
+        width: 700
+        height: 393
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -105,6 +118,6 @@ related:
         width: 720
         height: 335
 
-secured: "znkxd55/5l6U5xcPrZ7l1TlcN13RMUstjAlYVQPG/3KNm5QbqKzdGeP0dhnHHr2dCn5zzEgorgUDoW5jUGaM7srokSNeg/g62FirhaIswFVCqRaSE2zsgk1rwSt9uOcM3jsJ6igld1xtBKZiPfs680vPVnUWrAV+oUrn2tlt9VoQgpQh7KTmu+bQya/UckIycGc/iRZ+xyPX28iJFJT51BfbewC0La8xgCepLTVznvt7zC3gmZkkljf5EKEBlrHq1+ao0PGPOig4emK4SWc+zw==;CWYRGD1Pw7ueAHIljBv9hg=="
+secured: "FYHCQHLNptwuzf9KCiBrC/RlHcLZ1ZAWPDkkPPjcliGZuRZ8I1WYmkVf3zyEOnD643tk02lISej+g2cZ0KPF6wCxSAueYG3KT+HCgbk/Z12Lq/8ygk6a2FBFWVwRHF/udtsjpc2ApUSmCxFgtlI4UjPaamH5nByRDXWxNAv67CcAElOOBOufpwsVjLU+QRUF2H3m06O8rToQKco7NFc6Qt+v8d8ktTfhRig062yoY0uJB/C8nRChFcdlOmGvg+cxB6wRbc1ETUStefJ79p2Sbg==;t6AgD0agAz0bZNxiXc/XWg=="
 ---
 
