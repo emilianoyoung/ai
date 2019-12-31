@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Cloudera tackles machine learning \"ops,\" governance"
-excerpt: "At the AI Summit in New York City today, Cloudera is announcing an initiative around operations of the machine learning (ML) workflow, also known as \"MLOps.\" In a nutshell, the company is extending the Apache Atlas platform to accommodate the governance of machine learning assets, in addition to the more conventional data governance and data ..."
+excerpt: "Also read: Alteryx expands product set, makes data science acquisition The major cloud providers are no strangers to MLOps either. For example, Azure Machine Learning has experiment management built in (and announced in April that it was joining the MLflow project) and Amazon Web Services announced several ML capabilities last week at its re ..."
 publishedDateTime: 2019-12-11T14:00:00Z
 sourceUrl: https://www.zdnet.com/article/cloudera-tackles-machine-learning-ops-governance/
 ampUrl: https://www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
 type: article
-quality: 91
-heat: 111
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - Microsoft AI
 
 images:
@@ -44,16 +43,7 @@ related:
       - url: https://www.bing.com/th?id=ON.DE9897C8617AD02B0C17C2AB1095F016
         width: 300
         height: 300
-  - title: "Industry Call to Define Universal Open Standards for Machine Learning Operations and Governance"
-    excerpt: "PALO ALTO, Calif., Dec. 11, 2019 /PRNewswire/ -- Cloudera (NYSE: CLDR), the enterprise data cloud company, today asks for industry participation in defining universal open standards for machine learning operations (MLOps) and machine learning model governance. By contributing to these standards, the community can help companies make the most ..."
-    publishedDateTime: 2019-12-11T14:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-industry-call-define-universal-open-standards-machine-learning-/2019/12/11/9068012.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
 
-secured: "qDQPFTp3ePcxnJmkkD9z3cE2i00sgFnFzZDZGO+wgbeuquHEkooRb8XpwHJy1e3dU8bqlGPQhVCRq7x32fieBQgNV11JjNPatZEqbe7gGvvWwpKGZG6NY0Fb4GNfggTPTcQmSEQ7nyY+NRDjztxHwyZwlHmNPsd0v5FCOdHT9835QxNBtL3p7fm7IxvG/G+JNc5FFX9p9wazvsNy3ou8+NP64ATKgyXtyt2Jsfl5f2q8qysLVaO7YBtpl516srLhJ/sgnX+CLZF+2gDPo3ozRg==;f3bAtABGROYOLwblcKtxeg=="
+secured: "L36Oj5F3JqmfSjuBlzPn4SH0UT8UhCKfx5NggtmKr+yqzDy4MEzvNTonnbDhol7P6pCEY8hNoE2Px8vjpw5uREonAyaff+mJGk/gDPV00pcM8ZgsfGU20MUYKyyQMFBjqBlM8/32kt9AYgdWPh+vOZAhqZP8mRu9m1q+3K8vzSx6AYMWJYe8EOroiWZws0WI+bKUcgNd36Gbvzl1/Dy5XqA0BrPTzPZmSnk00Yto+4SM6eVmww/qhJp2L/1c8CVam3rDjZA1sixnfg4nMc8cBQ==;Zsz/ZdAmE5YIW2VyojucaA=="
 ---
 

@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
+  - title: "5 Machine Learning Stocks to Add to Your Portfolio in 2020"
+    excerpt: "Machine learning (ML) is hailed as one of the most impactful technologies in the AI spectrum. Comprising algorithms, ML applications are capable of enabling devices to learn, improve and make decisions automatically, without any explicit programming or human involvement. The application of ML has grown rapidly over the past years, bringing out ..."
+    publishedDateTime: 2019-12-31T14:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/5-machine-learning-stocks-add-135101962.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/5-machine-learning-stocks-add-135101962.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/5-machine-learning-stocks-add-135101962.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.B2CCFA773500FE8935CEC00522C14FF0
+        width: 635
+        height: 400
   - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
     excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
     publishedDateTime: 2019-12-24T16:25:00Z

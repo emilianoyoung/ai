@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
         width: 600
         height: 315
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
-        width: 700
-        height: 350
   - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
     excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
     publishedDateTime: 2019-12-11T14:44:00Z
@@ -128,6 +113,6 @@ related:
         width: 640
         height: 480
 
-secured: "2XXu3G8Yy9k8bwhUzg308hmREnkIxmqXIvlIEF6wyeq9DgvmoM3AQb9eX7ac24vqbwPCLfNBEwrJakspK4QyB2lcco5RlkanWCOnBqOyV+b/x3QXjH9FGuT9hrSV69PoomQaXjeM1qrJyciZq9Ez51TioRxS4Uanjd/jk+mr6h4/JvCn4LnC3a85o58tihoffG99KbwJKb0yIibqchjDnMsbTU25+IfUtYpHbh0XkLzWMZQUcws9g9a+oldtNrWBwjQRg7C7n/MExd5+jy6o0w==;Bd/yv7a7QdAxuGbG7/MvBw=="
+secured: "VasO2wJc/hH9S3wpUNNwFy30leFOch+YxoFRetLmhcv8Gqw2AaiCeZ0up7denAxhjc/UiL1mPx+0H0X3LhpHHzoc+8WsLYQE3FocK4+OK2n+QXmccvU4ok30sHpgvIAIoZ8Z4pZWxk4I6FoVFnldxBIvrl9XgalcE2nxqu0nEdxGxKc6VSeQr9+/zkKM7PKcbKDA1RkocXplNKbeEuIRwOm74H4uOQT8ccQr0IpEs8zn+OrVuDFSoxUUcTBxgjnUOlQnDjduJOKgTTcbaqcIqg==;PNAOIW1W3ddc5Wgkr8Gt8g=="
 ---
 

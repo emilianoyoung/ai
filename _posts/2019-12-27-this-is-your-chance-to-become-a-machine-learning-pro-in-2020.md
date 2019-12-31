@@ -8,7 +8,7 @@ ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-p
 cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
+  - title: "5 Machine Learning Stocks to Add to Your Portfolio in 2020"
+    excerpt: "Machine learning (ML) is hailed as one of the most impactful technologies in the AI spectrum. Comprising algorithms, ML applications are capable of enabling devices to learn, improve and make decisions automatically, without any explicit programming or human involvement. The application of ML has grown rapidly over the past years, bringing out ..."
+    publishedDateTime: 2019-12-31T14:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/5-machine-learning-stocks-add-135101962.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/5-machine-learning-stocks-add-135101962.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/5-machine-learning-stocks-add-135101962.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.B2CCFA773500FE8935CEC00522C14FF0
+        width: 635
+        height: 400
   - title: "Play this bingo game with your kids to teach them about AI"
     excerpt: "This game challenges you and your kid(s) to notice. Designed by Blakeley H. Payne, a researcher at MIT, AI bingo builds on pedagogical research that shows how exposing kids to the way technology works helps develop their interest in STEM and improve their job prospects later on in life. It is also part of a broader curriculum designed for and ..."
     publishedDateTime: 2019-12-27T12:11:00Z

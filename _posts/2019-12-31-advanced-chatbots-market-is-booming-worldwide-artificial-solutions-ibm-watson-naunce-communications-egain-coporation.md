@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-31T08:59:00Z
 sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
 
 related:
+  - title: "AI Stock News: GBT (OTCPINK: GTCH) Files Continuation For Its Communication Microchip Patent"
+    excerpt: "AI, for both mobile and fixed solutions ... security and network's capabilities. The chip communicates via satellite and/or its private network in order to connect with other same chips that are on the network. The chip is operating in real time, enabling GBT's advanced security and auto error-correction communication protocol."
+    publishedDateTime: 2019-12-31T14:20:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12311CommunicationMicrochipPatent.asp
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
+        width: 649
+        height: 328
   - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
     excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
     publishedDateTime: 2019-12-27T04:02:00Z

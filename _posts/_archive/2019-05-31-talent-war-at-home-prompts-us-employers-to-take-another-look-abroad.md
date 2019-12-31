@@ -28,6 +28,6 @@ images:
     height: 640
     title: "‘Talent War’ at Home Prompts U.S. Employers to Take Another Look Abroad"
 
-secured: "E+tdZCuAerkqfRqXDXV0GtAzvvkw7Ev8asq2FrseiBwnlvPad31/iYHYqhtdIn2ASozzi0FX1nGvS8xZOfpag3UanMb1IGhsm85ppCZUdHfCrhqDmIMm+5wtjquOWizYq8HeVuxpEP5ehNQt+0rng2qKMKjAw/pQDNtXzHqBW5c2qeRE+vlViRvSrPkTu8ncmf/AbRi4R2/BZTf3wPgnraJObs7RQA7EoXyXg+MfwzBq81f2c9LT9lDGUSHGblrHlUl0Ui/f4n0xtqVd7Gtdpg==;bYSOAaPykPix4qOxDTuW+g=="
+secured: "SrYzXvaIEDIYwCfNsbDfun2yxFptoSAK/0e7GfCSwv48SnFr/MW5GJH20PPRc99NF5XIfD3+pouYPo0Wdn/1flnJkOzWJitIQ4zvTCtG4/VPSKvZx6vlhhyc+gfuXlTToCZEvHZ0kCiZ69PRPsDb95KYCp73K3xKY9qJj4IRuPBhyNoztAcaMm6l6b03BbJuILoY+JYrbNaikTrBNQcT16aZlpCiVRyhfnIP/gxJeOD+Cj7P2NXPrfy1sbpxRgYwm02k1CtFUg+cTlP6xvAx8g==;Dh/9I+6VYwjpycfHTCqJbw=="
 ---
 

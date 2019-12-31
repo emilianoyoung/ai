@@ -78,6 +78,15 @@ related:
       - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
         width: 1154
         height: 636
+  - title: "Breakthrough in 'distributed deep learning'"
+    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for ..."
+    publishedDateTime: 2019-12-09T21:40:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Many companies are still to embrace deep learning"
     excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
     publishedDateTime: 2019-12-19T14:00:00Z

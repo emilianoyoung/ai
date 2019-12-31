@@ -24,6 +24,6 @@ images:
     height: 338
     title: "Opinion | The dangers posed by AI-driven ‘deepfakes’"
 
-secured: "ZaLgXULQ0qwyJNnHunYk+Kj3rMjzg8TcTrHnpXy31OGOFg6uOJdu8MT7coPU1X6E+RK2lUOvAkmniDZ2mDKHkFRK48nn0pGQJ/YJjJWzzySZH9HwjuNMPRfzEqrnhZ6PbyTGbcY+atjliLvqzePSi+uZ0+EmteaQJYCLBA6lucTkQx87/w0CiYnoY8D3lt63hYd6+vVaWayv+QRfBij6PiKJThQBPWloDZqxP1hlBAtTtmQkP6O2aYATknGU+6IMaX0AM87aeNb2Swhv5Lj2RQ==;mbxRqQjxPS1Pu37Hr8yo8w=="
+secured: "/9Rhgs96Mybgh6Af1csNvSZnwYxbmAst7ObMDAgMd+oxWimxlXZ0eigF26E7X6h36eVbBc1QpF5t5HEHuxb4/FBFxVlWjWIsl77ErewlC8OAc5FXNnvKYQpUnLvvDXY3QhvsQtoDjN7oAKtPft4KRW+MbyfVsqnokPziocAlzliQyFk4NDWwblZQzRPOQChp5oO6NHPLetMFHRh5AoNt1KYjdnz6bmTl1tMBZSAO/aCosAJSdwLxU25Q5n9NzH2LgNBYS0hdjpQdMY95Qfn/Yg==;RvnZcEx2x0YoXiFWX8QJrw=="
 ---
 

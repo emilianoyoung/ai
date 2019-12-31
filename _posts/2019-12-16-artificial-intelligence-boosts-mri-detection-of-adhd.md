@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T15:28:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191211145609.htm
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "RSNA: Artificial Intelligence Boosts MRI Detection of ADHD"
-    excerpt: "Dec. 11, 2019 /PRNewswire-PRWeb/ -- Deep learning, a type of artificial intelligence, can boost the power of MRI in predicting ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook, Ill."
-    publishedDateTime: 2019-12-11T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/rsna-artificial-intelligence-boosts-mri-detection-of-adhd-1028755575
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Artificial Intelligence Boosts MRI Detection of ADHD (image)"
     excerpt: "Schematic diagram of the proposed multichannel deep neural network model analyzing multiscale functional brain connectome for a classification task. rsfMRI = resting-state functional MRI. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
     publishedDateTime: 2019-12-11T15:04:00Z

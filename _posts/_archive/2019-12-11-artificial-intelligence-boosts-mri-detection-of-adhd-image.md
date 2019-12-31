@@ -24,15 +24,6 @@ images:
     title: "Artificial Intelligence Boosts MRI Detection of ADHD (image)"
 
 related:
-  - title: "RSNA: Artificial Intelligence Boosts MRI Detection of ADHD"
-    excerpt: "Dec. 11, 2019 /PRNewswire-PRWeb/ -- Deep learning, a type of artificial intelligence, can boost the power of MRI in predicting ... medical physicists and related scientists promoting excellence in patient care and health care delivery through education, research and technologic innovation. The Society is based in Oak Brook, Ill."
-    publishedDateTime: 2019-12-11T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/rsna-artificial-intelligence-boosts-mri-detection-of-adhd-1028755575
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Artificial intelligence boosts MRI detection of ADHD"
     excerpt: "Deep learning, a type of artificial intelligence, can boost the power of MRI in predicting attention deficit hyperactivity disorder (ADHD), according to a new study. Researchers said the approach could also have applications for other neurological conditions. Deep learning, a type of artificial intelligence, can boost the power of MRI in ..."
     publishedDateTime: 2019-12-16T15:28:00Z

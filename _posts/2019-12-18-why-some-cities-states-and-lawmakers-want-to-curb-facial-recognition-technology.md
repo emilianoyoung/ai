@@ -682,19 +682,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Sea-Tac airport officials opt out of facial recognition"
-    excerpt: "SEATTLE (AP) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at Seattle-Tacoma International Airport. The decision makes the airport the first in the country to resist the rollout of a federal biometric identification program. The Seattle Times reports the Port of Seattle Commission ..."
-    publishedDateTime: 2019-12-11T13:08:00Z
-    sourceUrl: https://www.chron.com/news/article/Sea-Tac-airport-officials-opt-out-of-facial-14898212.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.146A10B2DE80725E33B9460F9E7B3DD3
-        width: 700
-        height: 432
   - title: "Seattle Airport Wrestles with Government over Facial Recognition"
     excerpt: "The Port of Seattle Commission has banned the use of biometric technology, but they only control part of Sea-Tac. The part that is controlled by Custom and Border Protection will still implement facial recognition in July 2020. (TNS) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at ..."
     publishedDateTime: 2019-12-11T23:26:00Z

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
-excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
-publishedDateTime: 2019-12-30T20:17:00Z
-sourceUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/
-ampUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+title: "As robots take over warehousing, workers pushed to adapt"
+excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+publishedDateTime: 2019-12-30T21:30:00Z
+sourceUrl: https://www.pressherald.com/2019/12/30/as-robots-take-over-warehousing-workers-pushed-to-adapt/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: Portland Press Herald
+  domain: pressherald.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
+  - url: https://www.bing.com/th?id=ON.B4BCC405BEE9E427784E8980D2AD3AF3
     width: 700
-    height: 393
-    title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
+    height: 446
+    title: "As robots take over warehousing, workers pushed to adapt"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -181,6 +179,19 @@ related:
       - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
         width: 620
         height: 330
+  - title: "Robots take health toll on human workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-31T13:47:00Z
+    sourceUrl: https://www.gazettenet.com/Robots-take-health-toll-on-human-workers-31645896
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.635898560A852C18D1025F1924101F48
+        width: 700
+        height: 446
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z
@@ -191,6 +202,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "PF6/gWJUq9XG2b9iQpLbx0plCBc0Yo8V8PaCbGgDlbDe0+4bdR+TgSDEKTw4s/7A2C/JrY9f79fMHPnB3gBt703Yacz9WlcslvBnxjvGON7DEK4w+PGiZ1CjIr47GJoG+CIyJbaEKnmihgNtItkKcL+jspUM93qBkq1Szrh5m50ARihWnjLqRy7+hoTonO8mOiifL/kpyHGOktHN/njrTEd/2NdbNCZhWjWkFmcEAw7fiOAQv7S9Ghye8ojlDX1BazMqCmajjyz6MNIM1nE0ew==;aptiR0htO3pJV4XT2JIwXw=="
+secured: "QZH0I9Q/wOLD8rP7VgVNzilNRaDwjBHbzkx4ciUgbXCPrVNUEJ9Gd5aRYlY1h5bZRqWixGhual+c5cVkkJAsdSn3vwf0cadQoVKVC2IkST6bHjqpfPpntDOFsjOZoOuXiz09K6TMAmDLXDPkUiNAdylLbgKnPKdZGo+6uBDtP1f1qTB5eNW78pPKHCwj3vCdqs7IMU0pTBxgfETEk6faYtjTKSmm4FlNPPdQLrsG22qdyZpZPp79WkSkzhjvu5Fs5QAwc0NgQhLIib6YXpZOSQ==;r2kjJztn21G6e4ljyCh8xw=="
 ---
 

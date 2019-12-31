@@ -26,21 +26,6 @@ images:
 related:
   - title: "GreyOrange Announces \"Next Era\" Fulfillment Operating Robotics"
     excerpt: "On Wednesday, global software and mobile robotics provider GreyOrange launched the latest advancement of its fulfillment operating system. GreyOrange leverages artificial intelligence and machine learning to optimize fulfillment operations. According to a statement released by the company, GreyOrange FOS is the only system that combines ..."
-    publishedDateTime: 2019-12-11T13:20:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/14971277/greyorange-announces-next-era-fulfillment-operating-robotics
-    ampUrl: https://amp.benzinga.com/amp/content/14971277
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14971277
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.006E8C0C66F878436EA60D11B65FAA6E
-        width: 400
-        height: 300
-  - title: "GreyOrange Announces \"Next Era\" Fulfillment Operating Robotics"
-    excerpt: "On Wednesday, global software and mobile robotics provider GreyOrange launched the latest advancement of its fulfillment operating system. GreyOrange leverages artificial intelligence and machine learning to optimize fulfillment operations. According to a statement released by the company, GreyOrange FOS is the only system that combines ..."
     publishedDateTime: 2019-12-12T00:13:00Z
     sourceUrl: https://finance.yahoo.com/news/greyorange-announces-next-era-fulfillment-142047223.html
     type: article
@@ -52,15 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.715E037880B6FA91D56B5F28E8FE01E2
         width: 600
         height: 400
-  - title: "GreyOrange Launches Next Era Fulfillment Operating System Driven by GreyMatter™ Software Integrated with Ranger™ Series Mobile Robots"
-    excerpt: "GreyOrange, a global software and mobile robotics provider that leverages artificial intelligence and machine learning to optimize fulfillment operations, today announced the latest release of its Fulfillment Operating System, which integrates GreyMatter software with the company's series of mobile robots. Wireless Charging to Bring ‘True ..."
-    publishedDateTime: 2019-12-11T13:09:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/greyorange-launches-next-era-fulfillment-operating-system-driven-by-greymatter-software-integrated-with-ranger-series-mobile-robots/14543/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
 
 secured: "RTGMhcIQLP8p5dfqCqeed4V8aTZV24w96dLVH/DFDk4U9ipKQd7Azm7huYp4Vj2MzU/GmNpHYh69eSw/rcJtBqVlnnHYFdU6iY8KrdcNifk8C3sLr9SME0y7UZXV9UoJ01w/LUpJHKOAM7G/Lq42vLTnBMwerU2gVgZNSWlrrBi8eoUZo3SKrJr8URogV/0FUxwnueKeE8dOJannAOmkClXDnXE6F3IO5Djw/WtdEgFC8GB98s3hcUIXplgvwjW95rK+iZ3aFvqfWEw1nlrG1g==;QOObPXqb1O0Gi0kVps3ddQ=="
 ---

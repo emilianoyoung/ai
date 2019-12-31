@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
         width: 700
         height: 393
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
-        width: 700
-        height: 418
   - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
     excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
     publishedDateTime: 2019-12-11T20:40:00Z
@@ -110,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
         width: 700
         height: 350
-  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
-    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
-    publishedDateTime: 2019-12-11T14:02:13Z
-    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
-        width: 700
-        height: 367
 
 secured: "sQH6LLfl4kPez1PlUhc3MfLUmjWeYCmPSeZhrrQ6twMkjJjFSeZAfh3ocUmod6WOxNlS6jt6veoakLwt3wlaV6M3QWD+6JtfiqySnkGtUoD6KT8cX0l0xl0dWbAB7vI5TzdP4KJpkVJtVHkHThyODtqqr3EdpXNKwukqG7QTcaZAf5TEgVqpJ2P823c5PK4B3Imr4x8f2p71TMKZZhhvZn4BcsvDA+3z0r8jH8YUCtXGuHXpqfedyr57ceP2c0eZIrNUB7exxiKjwSHHNklRIg==;d8gnotifjBUNNr3mSs7IYw=="
 ---
