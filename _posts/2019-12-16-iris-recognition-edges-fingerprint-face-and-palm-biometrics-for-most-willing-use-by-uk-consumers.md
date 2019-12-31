@@ -38,6 +38,19 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
+  - title: "People are open to biometric retina recognition"
+    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
+    publishedDateTime: 2019-12-16T16:19:00Z
+    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
+        width: 700
+        height: 369
 
 secured: "fmhdDmLbvOCXr8nY47mrzc0+4HqgO9lut6KyBK6pHNa1NbUsN1Lz7tc/hLq2i5unWK8v8TvhwtAER6bKqa8MvjAk9uIgVyXBMwqO5H+dJ9Y1Ii/gL9Y+ZQT+hnmTKXIuGNZVE+nNwHewNMFc427DaxpLfcmORs1hZm6MycasGQ+LhodpnOjCocFVYOi6M/CmxFYi9ehRGDFzNIc+zcEzIMt9O9l1KilQDD3WTunWsRVUpPckQ3h86AY/X7kRqBHjhA0+9YI2Pwg2nXWs0rt7Ow==;GykKGZm3xqnhfV9QlfCIDQ=="
 ---

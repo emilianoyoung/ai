@@ -919,19 +919,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
-    excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
-    publishedDateTime: 2019-12-11T16:41:00Z
-    sourceUrl: https://news.yahoo.com/privacy-advocates-raise-alarms-growing-164138773.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
-        width: 640
-        height: 360
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
     publishedDateTime: 2019-12-12T21:08:50Z
@@ -1556,6 +1543,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "vbGewRvJ/2Hpyew+y7hrwi/Yh37iRKZdccV8lyOHCYLf2GZGDwvVjutom4h5OUZpTYI628ICtD8uzaM4jT3yWSWRpLX7PQfvXMxatOQ257QgHYsc0rYbViZobRlVQ9LsrbVh7zhjUx4n/1vqjykBFtI1pScKde2aPL320TTr0RWwreTSsLi/kE/uRibV3GxsgPcphyYeSfn2ocUz9FI0jtAIspDV9KMVQWUNWP9+ccQLmRRxxIX6IVowiWL2iChbWI+RdggAb7hcEIAUZ8xodQ==;hk5qsX9G2Rad4I6psSWpAw=="
+secured: "6XJ7x8gfULa92PzQreFrtUFOJ1J1lxsNM/w7PvDhXPLQD7HTJ2b7JJDAqsG4W/nx/jbMi8AlZmVZ85ILcTrhLJPHk3K3QaQ3WS6ll/hvECQJxrOdhymccSp0/2vcjMsB49sjS9o6IAE1Zf6yZLefD4adjUyb6aKdkVD0C/QG34dFUO0kHSrrD7mAwA9L5G4JFqMniScMgCWCp25OUKwVhvFftc+r56lCEMOs3l3kobHV9YFInTh+fDbt1mZRZGRay3wBQCilBBXBUIgsSiDvhw==;wH6nLVYJUatLUn+YAeDKGw=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -110,21 +110,6 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
-  - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
-    excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
-    publishedDateTime: 2019-12-31T10:34:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
-        width: 700
-        height: 393
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
     publishedDateTime: 2019-12-30T17:05:00Z
@@ -163,6 +148,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Uta1Ey578aeJsMX+WCHbH4GaPUiowywmPa7AZu9jY1yo7fTb06EqbD27iR0kX4daKJ+kJq9qRI/ChUfySzaNRTKcuwwE4mTqSO/+aN7khh2OYxg6MR+OKRG5lhbwhmh4L319p/nFlS6DmKwfCMrpMCPFrt8kDdZJuykGP5NVRUTExvCfbXuZcDAilVmpSUKZTska90pF7ZPKrVj14iDqgOJSxd8TlSbDW6rNNFkiy+dJHhEcDH6dddx4vQEkfLJ8Hvf5QsNALHdgeXVtin2q6g==;psDHEhKaHeHUgM9KYM6HtQ=="
+secured: "q/1ZZrvfZd/zN4IymC/L3ljbezwhkj3dpL5tU//aALmJk5w310iDNLf8v/BOxbwzRpOmJ5RwytyDb9FqkLVLoPa6SEkEnPfQlW/taAjMqfVdk1BzlkAAkJZVhfd/4RpNsTv0d88NqQ3T6UHVVOSrbuYmQn6GEqVsqpyI/X8vD9raffITmGisZtoGb9um2gWNi8KqJKPF3kysU93ybHlCUUuPzcZgsTOp1OlVoUYM8uk23RqnHAIRGMUAn/W7TR+xeUEa2X+Ybe8ouIJd4iNTTQ==;Me4Oztv4UXNdeLSC1f+Q1A=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Resemble AI launches voice synthesis platform and deepfake detection tool"
 
 related:
-  - title: "Facebook, Microsoft, and others launch Deepfake Detection Challenge"
-    excerpt: "The data set — which contains 100,000-plus videos in total — was tested through a targeted technical working session in October at the International Conference on Computer Vision, said Facebook AI Research Manager Christian Ferrer. It doesn’t include any user data and it features only participants who’ve entered into usage agreements so ..."
-    publishedDateTime: 2019-12-11T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/
-    ampUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
-        width: 700
-        height: 350
   - title: "Cerence Upgrades Flagship Voice Assistant Platform"
     excerpt: "Cerence Drive provides car manufacturers with speech and voice recognition tech that can serve as a foundation for cloud-based and embedded conversational assistants. The latest iteration of the platform makes improvements to the company’s natural language understanding (NLU) engine, which is built on one central technology stack and is ..."
     publishedDateTime: 2019-12-11T18:55:00Z

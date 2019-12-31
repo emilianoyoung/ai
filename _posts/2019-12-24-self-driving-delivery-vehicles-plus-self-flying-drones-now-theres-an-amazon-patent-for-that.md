@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-f
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
 type: article
 quality: 63
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -71,19 +71,6 @@ related:
       - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
         width: 1024
         height: 547
-  - title: "Beijing adds area for self-driving vehicle tests with passengers"
-    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
-    publishedDateTime: 2019-12-30T13:44:16Z
-    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
-    type: article
-    provider:
-      name: N.C.N. Limited on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
-        width: 600
-        height: 315
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
     excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
     publishedDateTime: 2019-12-23T06:00:00Z
@@ -105,15 +92,6 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 4
-  - title: "Uber buys parcel for self-driving test track"
-    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
-    publishedDateTime: 2019-12-30T08:20:00Z
-    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
-    type: article
-    provider:
-      name: Seattle Daily Journal of Commerce
-      domain: djc.com
     quality: 4
 
 secured: "QmDpg3rXW1RoifnDRGwUbsldvi2MW/Zw1vUVghI7Qajp5bcbTl5jHHYEz3BjO16dlXSAGjDizki+yyXsfYe8RohTNSD3UV5CS/CSTyLx5A1HT9ZLRtSWzQk2GVJPMY6dpIgSnE7AXWzXDHOwOa8N+UjLkGb4udGN7kxFzm47eHcBqFfSIX9R/lvBMHV0ErNgtGciPQM3wDO01WRUu1Wb2hXvmjdpT3xPqwyEssiyZwzefgm2wdYxsaQK36UrEgzgtFJLhkBt89AoGCRIYiYTHA==;FywrEdJsxbPREPINoOwzAw=="

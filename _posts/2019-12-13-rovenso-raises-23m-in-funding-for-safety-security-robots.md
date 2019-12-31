@@ -54,19 +54,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "On eve of British election, robotics and automation remains on sidelines"
-    excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
-    publishedDateTime: 2019-12-11T16:48:00Z
-    sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 98
-    images:
-      - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
-        width: 700
-        height: 543
   - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
     excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
     publishedDateTime: 2019-12-22T13:06:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-te
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
 type: article
 quality: 85
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -122,19 +122,6 @@ related:
       - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
         width: 700
         height: 367
-  - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
-    excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
-    publishedDateTime: 2019-12-31T14:29:00Z
-    sourceUrl: https://www.fox7austin.com/news/from-streaming-to-self-driving-cars-how-technology-has-changed-our-lives-over-the-past-10-years
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
-        width: 700
-        height: 393
 
 secured: "AOiHiMYevCI9tyOv4kzvOTAw8Gq/E02Hem/YrBSN3ceK8NA4Ms8/wHCCMfM+OChclxwAtepHMV1vB8L2fbDpkLlBrsRfyZXsLQdI+NB8xj9H7dgjekTkjEu9CfuT1Xhda4gPf0kvv6+eAiUJk7Wgr4IumFsx/CyF/C1WJbAOOOGSmXppdKnXm5RYQ5LJTCPSTCS9HXNtq6ethTPKiC/OxX6zpdmRshw91IrjNaD0BC6prMFAJ6p6TavCjFPcuovG9ao3pytN6mDM0XwSii6Tdw==;dCxFp2wk6RT1+tHqaj7dkw=="
 ---

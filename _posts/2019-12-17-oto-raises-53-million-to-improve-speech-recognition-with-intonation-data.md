@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
-  - title: "On eve of British election, robotics and automation remains on sidelines"
-    excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
-    publishedDateTime: 2019-12-11T16:48:00Z
-    sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 98
-    images:
-      - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
-        width: 700
-        height: 543
   - title: "Rovenso raises $2.3M in funding for safety, security robots"
     excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
     publishedDateTime: 2019-12-13T19:50:00Z

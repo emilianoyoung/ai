@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.212EE0031B356BE09DFAB578436E35CE
         width: 400
         height: 400
-  - title: "Uber to open self-driving test track in Findlay Township"
-    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
-    publishedDateTime: 2019-12-27T00:30:00Z
-    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
-    type: article
-    provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
-        width: 640
-        height: 457
 
 secured: "fUBzcYZXVAcWs+TPtI1aSpZguTH0KHlYoswnfEMy/vAFRw/rg4mV06YCJ2rWa0a6qyRdNQmpoeasK8MvJ46YELMHWe5eIegezyCPEpV6hUkhZRndtUv8PGAfjNINSzR0kOolb/V+2HoABRtDUmbKxO0nDeH+sSasdVg+8pnfoTqPzA9oHfqllyGkJgFTX0j3QEr5UVcrx3nL6zCRAw5E5hwG3ii4vzlaV0RDLeU6TDr3JrLB9bAuuixSGw3nyJNjT/VlsjaFJgDfn9QIXvXiRA==;zzk0KU8lYZuz6x1l6G9IVw=="
 ---

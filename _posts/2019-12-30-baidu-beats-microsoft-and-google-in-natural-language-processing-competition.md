@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-lang
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.25FE52ACE565ACFE6F3824835A100B58
         width: 700
         height: 393
+  - title: "Baidu Topples Microsoft to Lead GLUE Natural Language Processing Benchmark"
+    excerpt: "Chinese tech giant Baidu has toppled both Microsoft and Google in terms of natural language processing. Specifically, the company’s model now sits atop the leaderboard of the General Language Understanding Evaluation (GLUE) benchmark. GLUE is a training, evaluation, and analyzing benchmark platform for natural language understanding services."
+    publishedDateTime: 2019-12-31T17:40:00Z
+    sourceUrl: https://winbuzzer.com/2019/12/31/baidu-topples-microsoft-to-lead-glue-natural-language-processing-benchmark-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.BD7E08CD49F73B8CD0688412F25EF8DF
+        width: 700
+        height: 291
   - title: "Baidu tops Microsoft and Google in teaching AI to understand human language, thanks to differences between Chinese and English"
     excerpt: "Chinese search giant Baidu has beaten Microsoft and Google in an ongoing natural language processing competition, thanks to the linguistic differences between Chinese and English. Baidu’s model, called ERNIE (Enhanced Representation through kNowledge IntEgration), recorded the highest score of 90.1 – just ahead of Microsoft and Google ..."
     publishedDateTime: 2019-12-30T10:09:00Z

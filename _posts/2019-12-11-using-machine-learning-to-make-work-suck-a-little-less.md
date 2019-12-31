@@ -23,6 +23,21 @@ images:
     height: 315
     title: "Using machine learning to make work 'suck a little less'"
 
+related:
+  - title: "Using machine learning to help at work"
+    excerpt: "Citrix told CNN Business it will soon launch an Intelligent Digital Workspace that uses machine learning to aggregate information from dozens of outside apps into a single place. The product is getting rolled out as an update to the existing Citrix Workspace. \"There are just too many applications. We're constantly getting notifications that are ..."
+    publishedDateTime: 2019-12-12T06:22:00Z
+    sourceUrl: https://www.channel3000.com/news/using-machine-learning-to-help-at-work/1150670115
+    type: article
+    provider:
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.AFFC167FC18C87BA8358C2EBC315A75A
+        width: 160
+        height: 90
+
 secured: "9KpBlZ3QJUgHhAPvIeWTDkgjsrev2jOxySZjqNtYMBwPiHU5Q4KGNf5VU+iwZjhAgt62v1vTlGcjEvSMj2m6/Hnv/TgKJ9IR+0sctJLBs35e2s9V3YR3AEcQ4jrnRZvd+ObKLzU6cd0WwfEe7bCO0CZbeYbdw8gwmXAbSO9UlcAb+i3lTyuYpRkCMUs3k4eCNf+pxWjnPTN5AFAgePl6E+5SR7XZu7PUwdD09+Bq67YKhMpJv0pxOQhWNdgylQHi5LIM+0RFpK5fGLyUsUw1fA==;FXalLfLw7zfIkXXZ4I086A=="
 ---
 

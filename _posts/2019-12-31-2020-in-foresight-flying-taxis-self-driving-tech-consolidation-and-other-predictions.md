@@ -26,138 +26,179 @@ images:
     title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
 
 related:
-  - title: "5 open source innovation predictions for the 2020s"
-    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
-    publishedDateTime: 2019-12-30T17:24:00Z
-    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
-    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+  - title: "Baidu secures licenses to test self-driving cars in Beijing"
+    excerpt: "It also revealed that its self-driving cars have traveled more than three million kilometers (or about 1.8 million miles) during tests in 23 Chinese cities to date, up from 2 million kilometers (roughly 1.2 million miles) across 13 cities as of July. Baidu vice president Zhang Dongchen reiterated the company’s commitment to road safety in a ..."
+    publishedDateTime: 2019-12-31T16:53:00Z
+    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
+    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.712EF02870D2016A8B6580B3FC26B162
+        width: 700
+        height: 350
+  - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
+    excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
+    publishedDateTime: 2019-12-28T14:13:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
-        width: 700
-        height: 525
-  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-    publishedDateTime: 2019-12-30T21:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+      - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
+        width: 600
+        height: 315
+  - title: "Baidu can now test its self-driving cars with passengers in Beijing"
+    excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
+    publishedDateTime: 2019-12-31T09:47:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
-        width: 700
-        height: 381
-  - title: "Healthcare in 2020: the era of digitization"
-    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
-    publishedDateTime: 2019-12-31T10:38:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: South China Morning Post
+      domain: scmp.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+      - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
         width: 700
-        height: 379
-  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
-    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
-    publishedDateTime: 2019-12-27T12:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+        height: 367
+  - title: "Baidu Gets First Set of Licenses to Test Driverless Cars in Beijing"
+    excerpt: "(Yicai Global) Dec. 30 -- Baidu, the Chinese internet giant that is investing heavily in autonomous driving, has obtained the first batch of permits to test self-driving vehicles in Beijing with a driver present. Forty licenses have been issued to the Beijing-based firm, the city's Municipal Commission of Transport said on its website today."
+    publishedDateTime: 2019-12-30T10:50:00Z
+    sourceUrl: https://yicaiglobal.com/news/baidu-gets-first-set-of-licenses-to-test-driverless-cars-in-beijing
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.AFBC2550D1B7141A83FF212E1A046EC5
+        width: 700
+        height: 466
+  - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
+    publishedDateTime: 2019-12-28T11:12:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI.html
+    ampUrl: https://m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
+        width: 700
+        height: 393
+  - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
+    excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
+    publishedDateTime: 2019-12-26T20:43:00Z
+    sourceUrl: https://www.businessinsider.com/uber-new-self-driving-car-test-site-pittsburgh-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
-  - title: "5 top tech predictions for 2020 and beyond"
-    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
-    publishedDateTime: 2019-12-31T11:04:00Z
-    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
-    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
-    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 44
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
-        width: 640
-        height: 427
-  - title: "UK data science and AI predictions for 2020"
-    excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
-    publishedDateTime: 2019-12-30T08:06:00Z
-    sourceUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
+      - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
+        width: 700
+        height: 350
+  - title: "Tourists in Tokyo have chance to try self-driving taxis"
+    excerpt: "TOKYO >> A consortium of companies is offering foreign visitors to Tokyo a taste of autonomous transportation. A project using airport shuttle buses and self-driving taxis will seamlessly transport tourists from two airports to the Marunouchi shopping district near Tokyo Station. The Mobility as a Service experiment, to run Jan. 20 to Feb. 1 ..."
+    publishedDateTime: 2019-12-26T10:12:00Z
+    sourceUrl: https://www.staradvertiser.com/2019/12/26/news/tourists-in-tokyo-have-chance-to-try-self-driving-taxis/
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-  - title: "20 AI Predictions for 2020"
-    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
-    publishedDateTime: 2019-12-31T01:31:00Z
-    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
-        width: 300
-        height: 231
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
-    publishedDateTime: 2019-12-30T17:05:00Z
-    sourceUrl: https://www.stamfordadvocate.com/business/article/5-Innovations-That-Will-Dominate-CES-2020-14939244.php
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
+      - url: https://www.bing.com/th?id=ON.ECF20F8D49854E5DEAE31BBC27A33C4F
         width: 700
         height: 466
-  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
-    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
-    publishedDateTime: 2019-12-30T11:48:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+  - title: "Uber to open self-driving test track in Findlay Township"
+    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
+    publishedDateTime: 2019-12-27T00:30:00Z
+    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 14
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
-        width: 685
-        height: 386
-  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-    publishedDateTime: 2019-12-30T13:32:00Z
-    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
+        width: 640
+        height: 457
+  - title: "Uber will build a self-driving test track in the Pittsburgh area"
+    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
+    publishedDateTime: 2019-12-27T12:53:00Z
+    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: WPXI
+      domain: wpxi.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
+        width: 700
+        height: 393
+  - title: "Beijing adds area for self-driving vehicle tests with passengers"
+    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
+    publishedDateTime: 2019-12-30T13:44:16Z
+    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
+    type: article
+    provider:
+      name: N.C.N. Limited on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
+        width: 600
+        height: 315
+  - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
+    publishedDateTime: 2019-12-30T09:42:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
+        width: 600
+        height: 315
+  - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
+    excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
+    publishedDateTime: 2019-12-31T14:29:00Z
+    sourceUrl: https://www.fox7austin.com/news/from-streaming-to-self-driving-cars-how-technology-has-changed-our-lives-over-the-past-10-years
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
+        width: 700
+        height: 393
+  - title: "Uber buys parcel for self-driving test track"
+    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
+    publishedDateTime: 2019-12-30T08:20:00Z
+    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
 
 secured: "wuKrkbEIrbPZ8ZN8oVjQAOAAIha1miJG2NblFCTpf/3cWLmy4K0mgnS7Savth9jMhpCwyJWoqW9o6kaEeNp9mRk0tCpwni0QBSxYB9vYQx7my+bjkEoHJ+dIdQAhjAlTEGoTsZ0bLFZi2IQifRiisol4ldzYAsaUVSvAanMJhG51iwpesG8CywOZ6zpEHoOUxZE2hLKeehi61qKM6GOD7ESwIJ/97PWE8TCyVykdSvzGDHF1stoiZ9CfTEPsyFGYBZ9uBrUxJXSi6OZJ3P0uSQ==;okbrQgGW7u6zKNFaj2wUfg=="
 ---

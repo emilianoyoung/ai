@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-result
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/amp/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -29,47 +29,49 @@ images:
     title: "Google taps AI to improve news results in Search"
 
 related:
-  - title: "From search to translation, AI research is improving Microsoft products"
-    excerpt: "The post From search to translation, AI research is improving Microsoft products appeared first on The AI Blog. "
-    publishedDateTime: 2019-12-11T16:59:54Z
-    sourceUrl: https://blogs.microsoft.com/ai/mona-lisa-translation-research-products/
+  - title: "Google Search is now better at showing news articles thanks to machine learning"
+    excerpt: "According to a recent blog post from the company, Google Search will now make use of machine learning to better organize top news stories. Once the change is implemented, Google Search will now showcase a carousel of relevant articles at the top of your search results highlighting all the top stories related to the search keyword. In case there ..."
+    publishedDateTime: 2019-12-13T08:22:00Z
+    sourceUrl: https://www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/
+    ampUrl: https://www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/amp/
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 55
     images:
-      - url: https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2019/12/mona-lisa-2_1200x630-1024x538.jpg
-        width: 1024
-        height: 538
-  - title: "AI Index 2019 assesses global AI research, investment, and impact"
-    excerpt: "Leaders in the AI community came together to release the 2019 AI Index report today, an annual attempt to examine the biggest trends shaping the AI industry, breakthrough research, and AI’s impact to society. It also examine trends like AI hiring practices, private investment, AI research contributions by nation, researchers leaving academia ..."
-    publishedDateTime: 2019-12-11T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/11/ai-index-2019-assesses-global-ai-research-investment-and-impact/
-    ampUrl: https://venturebeat.com/2019/12/11/ai-index-2019-assesses-global-ai-research-investment-and-impact/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/ai-index-2019-assesses-global-ai-research-investment-and-impact/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.6B180AD41B2D04AD2D9DFA801D293585
+      - url: https://www.bing.com/th?id=ON.971A830435206D064BCA3431B6D7DF6B
         width: 700
-        height: 349
-  - title: "AI research and big tech"
-    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
-    publishedDateTime: 2019-12-16T15:03:00Z
-    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
+        height: 520
+  - title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
+    excerpt: "This is in order to train its voice-recognition AI to understand unique speech patterns. Currently, Google’s aim is to get at least 500 voice recording donations from people with DS. Voice computing is considered the future of technology, however, it can be slightly inconvenient for people with mental and physical disabilities. In order to ..."
+    publishedDateTime: 2019-12-12T12:22:00Z
+    sourceUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/
+    ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
+    cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
+        width: 700
+        height: 393
+  - title: "RBC invests in research into AI and machine learning in financial services"
+    excerpt: "and machine learning in financial services. RBC Research plans to open a new lab in Edmonton as part of an initiative to work with the University of Alberta’s (UofA) Alberta Machine Intelligence Institute (Amii) on research into AI and machine learning."
+    publishedDateTime: 2019-12-05T00:00:00Z
+    sourceUrl: https://www.investmentexecutive.com/news/industry-news/rbc-invests-in-research-into-ai-and-machine-learning-in-financial-services/
+    type: article
+    provider:
+      name: Investment Executive
+      domain: investmentexecutive.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
-        width: 700
-        height: 700
+      - url: https://www.investmentexecutive.com/wp-content/uploads/sites/3/2017/12/AI_concept.htmlcharsetutf-8
+        width: 799
+        height: 599
 
 secured: "Uks79MrJ8pk62JhXxo61COlJ1YAb79K60rxvfLn8rDEp3w5obrzOPZiGv7WQ2CgjyA17TYfN9FROy2OJA4xyg1B8YU0c7b40KDj00EM8Tt84echikJqnwVEXbaCMyp8aNPEbnyA8WVth/yY9XL9BAa0PWMLxtHScnhvLFuKlE+b6GrMAAgCnoxzuTbbDtiUaI6VJGdmBHcaHVpWVsoam9csm27XLwnRwoLjUgHwyajNIc6QU+eGPxPYPjbxorh74pspcoLCb2aFefGpfluR4Ow==;C8DetR5MFB87hnvCvcINSA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrom
 cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,49 @@ images:
     title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
 
 related:
-  - title: "People are open to biometric retina recognition"
-    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
-    publishedDateTime: 2019-12-16T16:19:00Z
-    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+  - title: "Google taps AI to improve news results in Search"
+    excerpt: "Google says it’s implementing AI and machine learning techniques to improve story suggestions in Google Search. In a blog post this morning, the tech giant announced that users in the U.S. in English (with more languages and locations to come in the next few months) who search for a news topic will now see an article carousel at the top of ..."
+    publishedDateTime: 2019-12-11T18:18:00Z
+    sourceUrl: https://venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/
+    ampUrl: https://venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/google-taps-ai-to-improve-news-results-in-search/amp/
     type: article
     provider:
-      name: Mortgage Finance Gazette
-      domain: mortgagefinancegazette.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
+      - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
         width: 700
-        height: 369
+        height: 350
+  - title: "Google Search is now better at showing news articles thanks to machine learning"
+    excerpt: "According to a recent blog post from the company, Google Search will now make use of machine learning to better organize top news stories. Once the change is implemented, Google Search will now showcase a carousel of relevant articles at the top of your search results highlighting all the top stories related to the search keyword. In case there ..."
+    publishedDateTime: 2019-12-13T08:22:00Z
+    sourceUrl: https://www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/
+    ampUrl: https://www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/amp/
+    cdnAmpUrl: https://www-xda--developers-com.cdn.ampproject.org/c/s/www.xda-developers.com/google-search-better-showing-news-articles-thanks-machine-learning/amp/
+    type: article
+    provider:
+      name: XDA Developers
+      domain: xda-developers.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.971A830435206D064BCA3431B6D7DF6B
+        width: 700
+        height: 520
+  - title: "RBC invests in research into AI and machine learning in financial services"
+    excerpt: "and machine learning in financial services. RBC Research plans to open a new lab in Edmonton as part of an initiative to work with the University of Alberta’s (UofA) Alberta Machine Intelligence Institute (Amii) on research into AI and machine learning."
+    publishedDateTime: 2019-12-05T00:00:00Z
+    sourceUrl: https://www.investmentexecutive.com/news/industry-news/rbc-invests-in-research-into-ai-and-machine-learning-in-financial-services/
+    type: article
+    provider:
+      name: Investment Executive
+      domain: investmentexecutive.com
+    quality: 37
+    images:
+      - url: https://www.investmentexecutive.com/wp-content/uploads/sites/3/2017/12/AI_concept.htmlcharsetutf-8
+        width: 799
+        height: 599
 
 secured: "P3WI+sTBTdUxoTVb9UfkuQxAPpE5953u0Se1XzATRJysnUiiFoi25/dgka0zRMoTIXy/cd0ax782PJ8pQ23S2rBH2kYNtnOvbdK5p+O5V6dNRqGny1AUC37EurRYaSZYHRN6aK15bdENzJYtZYRHcHXndwXHmwrY9hNhnRTXsUzrX5qrCpPUUWDqrMBXf9VyIptc3XVqABwYbAnuOBLkdUbCj7hENe1VtKQDzeJAi/DhX32r2G/dEe0H8+154sEbb8gII6Y4kSTswayhWkfCrQ==;7amk11HTbhTLJhfgcgUKnw=="
 ---

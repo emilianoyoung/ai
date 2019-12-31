@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F9428F0E1AF1FB001D464CF9A52459C0
         width: 700
         height: 367
-  - title: "Self-driving truck delivers 40,000 pounds of butter to Quakertown from California in three days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero \"disengagements,\" or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-11T16:11:00Z
-    sourceUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html
-    ampUrl: https://www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/pennsylvania/mc-nws-pa-self-driving-truck-quakertown-20191211-g7tq6n3elfgz5ktqjmt76hy6ya-story.html?outputType=amp
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.807E3E182881B27E2E2AD71DFC005A62
-        width: 700
-        height: 466
 
 secured: "BYbqlakefXSSy3plbdVEMTcIS58ln/J0diZ3ABSe0yeumLV86IHQz8gOnsMi2eib+7IQUA+8I3ADIRPNBZk63BZGLzZ/yDCJlOhbw+EnVX3gjoj/IHYBweQcI6QP02tofh+TtCZfvdjQbWnpbsXeZ4kjdm+yYZpwebb2OjdsVamuEKSgY2FOEheSmnxF63wieSd/FA3XBAPwOCrfmxbxK4jB3VjS9NFc3a/xBD5vIAGb70emqB/x1cw+Mqaoz0vk0a+AvnIj3qFHo2Hbcn+jVg==;LZf8J8phQ2710lp+miOkMg=="
 ---

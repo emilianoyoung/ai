@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E523C4063C4248D3FF03D27E239B250A
         width: 700
         height: 466
+  - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
+    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. \"It's only a matter of time before something like this leads to a serious health problem,\" said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 billion ..."
+    publishedDateTime: 2019-12-31T17:13:00Z
+    sourceUrl: https://www.healthleadersmedia.com/innovation/reality-check-artificial-intelligence-are-health-care-claims-overblown
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 51
+    images:
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
+        width: 1903
+        height: 836
   - title: "Artificial intelligence and health care: The revolution has not yet come"
     excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
     publishedDateTime: 2019-12-31T15:14:00Z

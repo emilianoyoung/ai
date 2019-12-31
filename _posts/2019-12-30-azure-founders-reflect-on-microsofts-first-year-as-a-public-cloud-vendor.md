@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/azure-founders-reflect-on-micro
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-founders-reflect-on-microsofts-first-year-as-a-public-cloud-vendor/
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -43,6 +43,21 @@ related:
     quality: 102
     images:
       - url: https://www.bing.com/th?id=ON.818E6395FDF83FC9EDBE00F827C111B4
+        width: 700
+        height: 525
+  - title: "The 2010s: Microsoft, the cloud company"
+    excerpt: "Azure wasn't Microsoft's first cloud service ... It doesn't take a crystal ball to say we'll likely hear lots more about \"partnerships\" (customer wins); AI's increasing role in Microsoft cloud services; and how Microsoft is making its cloud services more reliable and multi-cloud capable."
+    publishedDateTime: 2019-12-30T14:47:00Z
+    sourceUrl: https://www.zdnet.com/article/the-2010s-microsoft-the-cloud-company/
+    ampUrl: https://www.zdnet.com/google-amp/article/the-2010s-microsoft-the-cloud-company/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-2010s-microsoft-the-cloud-company/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.A2E939F8CF89898FE4F7EA00C10235C6
         width: 700
         height: 525
 

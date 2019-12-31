@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EB3C3B1774FDCC76E6F0ABC58F35821B
         width: 700
         height: 350
-  - title: "Facebook, Microsoft, and others launch Deepfake Detection Challenge"
-    excerpt: "The data set — which contains 100,000-plus videos in total — was tested through a targeted technical working session in October at the International Conference on Computer Vision, said Facebook AI Research Manager Christian Ferrer. It doesn’t include any user data and it features only participants who’ve entered into usage agreements so ..."
-    publishedDateTime: 2019-12-11T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/
-    ampUrl: https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
-        width: 700
-        height: 350
   - title: "Facebook, AWS, Microsoft and others launch coding challenge for deepfake detection"
     excerpt: "Facebook, AWS and Microsoft joined forces to launch the Deepfake Detection Challenge (DFDC) that should encourage developers to research this issue. Winners can receive up to $500,000 ... on Neural Information Processing Systems), Dec 8-14, 2019. Deepfakes are AI-generated videos that can falsely depict people saying or doing things that ..."
     publishedDateTime: 2019-12-20T20:37:00Z

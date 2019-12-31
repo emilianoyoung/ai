@@ -910,19 +910,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
-    excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
-    publishedDateTime: 2019-12-11T16:41:00Z
-    sourceUrl: https://news.yahoo.com/privacy-advocates-raise-alarms-growing-164138773.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
-        width: 640
-        height: 360
   - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
     excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
     publishedDateTime: 2019-12-12T21:08:50Z

@@ -80,19 +80,6 @@ related:
       - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
         width: 1024
         height: 547
-  - title: "Beijing adds area for self-driving vehicle tests with passengers"
-    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
-    publishedDateTime: 2019-12-30T13:44:16Z
-    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
-    type: article
-    provider:
-      name: N.C.N. Limited on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
-        width: 600
-        height: 315
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
     publishedDateTime: 2019-12-19T00:19:00Z
@@ -101,15 +88,6 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 4
-  - title: "Uber buys parcel for self-driving test track"
-    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
-    publishedDateTime: 2019-12-30T08:20:00Z
-    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
-    type: article
-    provider:
-      name: Seattle Daily Journal of Commerce
-      domain: djc.com
     quality: 4
 
 secured: "eu7lbfqIBDMp0WFRntW0PSfczVCA+wXs2AF9ZW2Xh1mg6+vTKz9gQsyh8vaTufeQwVgfelb3TPEH7EoZqdvdeHtQLWk50Nuph7XkTa1+Kfc7IyFdIGzWc88GkcRKJHWvPPAgyEbIG9IAoNab6+QUlHPJZjrrZuTnfbeEVHoJ4Eb9K4wjujnaL6C8vesXiRPX2sUHcLhJ/jr5AzlhxLaj/+vXmv8GVrU4KLwtM/hrDm6qK3loEiIWt/h6sEXn90srHNvScEAZqouINma1+8IN4w==;9Cd7plFSYsJpEqLsWLSetw=="

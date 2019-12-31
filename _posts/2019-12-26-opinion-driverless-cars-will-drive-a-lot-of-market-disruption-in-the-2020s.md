@@ -8,8 +8,8 @@ ampUrl: https://www.livemint.com/opinion/columns/opinion-driverless-cars-will-dr
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/opinion-driverless-cars-will-drive-a-lot-of-market-disruption-in-the-2020s/amp-11577375858037.html
 type: article
 quality: 56
-heat: 66
-published: true
+heat: 56
+published: false
 
 provider:
   name: Mint
@@ -24,21 +24,6 @@ images:
     width: 600
     height: 337
     title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
-
-related:
-  - title: "Baidu Gets First Set of Licenses to Test Driverless Cars in Beijing"
-    excerpt: "(Yicai Global) Dec. 30 -- Baidu, the Chinese internet giant that is investing heavily in autonomous driving, has obtained the first batch of permits to test self-driving vehicles in Beijing with a driver present. Forty licenses have been issued to the Beijing-based firm, the city's Municipal Commission of Transport said on its website today."
-    publishedDateTime: 2019-12-30T10:50:00Z
-    sourceUrl: https://yicaiglobal.com/news/baidu-gets-first-set-of-licenses-to-test-driverless-cars-in-beijing
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.AFBC2550D1B7141A83FF212E1A046EC5
-        width: 700
-        height: 466
 
 secured: "dTXkPJgOhi00lSf5lsR/q7pxH1CKlQT7/vdW6NnbzDGcIBq3QupBgDUQ+DExo6cLwO2qY37n9+KIDhAra6qvRQZDnlxPnUA6uwFUOWJm6//lpIUcBBgqdM6+vFGFKVr0rRClUN+zf1oi1gXlD1cB7haIEtZqjO2R1V6ov+G8Bsj3hcmeZbKqCuDMzW9aX2EhSTO4Kq3JQTtdnUCV/H+h3o/zWe35llqYUP7rFtIIfqhQ8STlU9bzN+KU8D826rJs/qQaummIbz88P1XXWCn4Ng==;3ioJNS+vt1a8ecBXbp7b7g=="
 ---

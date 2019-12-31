@@ -24,36 +24,19 @@ images:
     title: "Using machine learning to help at work"
 
 related:
-  - title: "DIY AI: One mom’s quest to use machine learning to help others detect a rare fetal condition"
-    excerpt: "She asked a question that not a lot of people would ask: could artificial intelligence help? The answer was yes. What happened next was a case study in the potential of machine learning and other forms of artificial intelligence to transform health care and other industries, particularly as Microsoft, Amazon, Google and others work to make the ..."
-    publishedDateTime: 2019-12-11T16:52:00Z
-    sourceUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/
-    ampUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
+  - title: "Using machine learning to make work 'suck a little less'"
+    excerpt: "Technology is a blessing and a curse for the modern office worker. Lightning-fast computers make the impossible possible. But constant distraction and friction slows work down. Workers are bombarded with a steady stream of emails, instant messages and requirements to log onto different systems to do such basic tasks as requesting vacation and filing expense reports."
+    publishedDateTime: 2019-12-11T21:00:17Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/using-machine-learning-to-make-work-suck-a-little-less/ar-AAK1Tvr
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 93
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B2CB4F014C046EA9C0B4866EBC250C09
-        width: 700
-        height: 700
-  - title: "Cigna to use AI to track whether patients are taking their medication"
-    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
-    publishedDateTime: 2019-12-13T21:52:00Z
-    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.F9672B05FA89DF2A7874DCA7FFAD109A
+        width: 600
+        height: 315
 
 secured: "Rt0Y3m0Hs8Q3oRAw+nXbvQaMWrq1meZYheY85wf7syNNI5kcBn2WII4WnY7Pz8NwJOQhCRGjEbNUHJj4PAqlgBseQF3OjcD0ifMN+kagITM8cxX5nD2r7UBgZsyH1dDjIuXf8yH9VLX5pUte9IBLTw7rebaidaCRLyIG9FbmwgBMY4LDBs+5pbP6O3iy0sV/bURQABBuE9FjlqBggcguELL5mRP/V/vtY7kGVBdr/M+Jz7vwn+dtuVTThKyy6mQCZH7X20nkTkQJY8GUpPuiUg==;OMQb+gTfIQWS9ufW9VXGjQ=="
 ---

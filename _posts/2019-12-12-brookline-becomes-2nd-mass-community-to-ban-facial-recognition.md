@@ -919,19 +919,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Privacy advocates raise alarms about growing use of facial recognition technology by US government"
-    excerpt: "While the Trump administration scrapped a proposed rule to use facial recognition to identify all people entering and leaving the United States, in other areas the federal government is embracing an expanded use of the technology despite privacy concerns."
-    publishedDateTime: 2019-12-11T16:41:00Z
-    sourceUrl: https://news.yahoo.com/privacy-advocates-raise-alarms-growing-164138773.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.DB607B6133EFE9F45E18CD9FB17D4A8C
-        width: 640
-        height: 360
   - title: "A setback for facial recognition talks?"
     excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
     publishedDateTime: 2019-12-13T15:00:00Z

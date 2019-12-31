@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.25FE52ACE565ACFE6F3824835A100B58
         width: 700
         height: 393
+  - title: "Baidu Topples Microsoft to Lead GLUE Natural Language Processing Benchmark"
+    excerpt: "Chinese tech giant Baidu has toppled both Microsoft and Google in terms of natural language processing. Specifically, the company’s model now sits atop the leaderboard of the General Language Understanding Evaluation (GLUE) benchmark. GLUE is a training, evaluation, and analyzing benchmark platform for natural language understanding services."
+    publishedDateTime: 2019-12-31T17:40:00Z
+    sourceUrl: https://winbuzzer.com/2019/12/31/baidu-topples-microsoft-to-lead-glue-natural-language-processing-benchmark-xcxwbn/
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.BD7E08CD49F73B8CD0688412F25EF8DF
+        width: 700
+        height: 291
 
 secured: "WgpPu/dytukp7xuIxOiDpVXHx9Jfv3/SCLZJ3vc459Lz9WwnW6uZIIjGDF6OX5dLlVLwUbyfXHEkczmn+3fGvoFAGiZz6jBh64jSL0gjNEZzZR/iOcF+c2oUyXeSj+7tsjHVd2+y6fmhA0HZ2vpSw1y5L9QWFeh0mBXfMKGn+kii6QhA5aPfHpQMuFpk9IFHMFKlkNBafkNz5P/GbhtQXy1gBgoMTaqhuK3xm9qvPzcDbl9KqBWRzBV70Fhtfs2KK62tyPRsAEv+Y7NYdZMQgQ==;W8x+M9BJa7oWY5YM1SQoYw=="
 ---

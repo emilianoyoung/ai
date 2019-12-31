@@ -119,19 +119,6 @@ related:
       - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
         width: 700
         height: 367
-  - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
-    excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
-    publishedDateTime: 2019-12-31T14:29:00Z
-    sourceUrl: https://www.fox7austin.com/news/from-streaming-to-self-driving-cars-how-technology-has-changed-our-lives-over-the-past-10-years
-    type: article
-    provider:
-      name: FOX 7 Austin KTBC
-      domain: fox7austin.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
-        width: 700
-        height: 393
 
 secured: "e4GkqnhJT2cTninuCtD8Y/6wFmRouGx6RQ+EZt2mNgH2bUJERixmVn8k5bm8FfWhx3KdeX4KaVUhRI0rqvaH4LDDj5Dn7AexePLiPzEgFUOmmukf6qJWl60n5Ygl24Du5Qp54BSlfirHORMGD+KnTSlUQWvnHnUthn5Z7uJ4KjgIau5bvHwzV/VMXDgTjT1Nla1sp3T09uW+V4WcIbf/OMQideZx6cjl/DAYb0s18CI9uWpUnl7LcI5FkvywEmNyo/V4IdQcGAEZ/1GxxJ8Fsw==;jcN1V0YXTJ4J7O6LUm3Mgw=="
 ---
