@@ -23,21 +23,6 @@ images:
     height: 512
     title: "Intel's Deep Learning Reference Stack 5.0 Released With Natural Language Processing Optimizations"
 
-related:
-  - title: "Conrad Electronic Germany Crafts Customer-Centric Pricing with Revionics Machine Learning-Based Price Optimization"
-    excerpt: "Conrad's Chief Digital and Disruption Officer, Ales Drabek, brings a laser-sharp focus on comprehensive innovation leveraging democratized data and a modern technology stack, including big data management, process automation, machine learning and voice control. \"From our early A/B testing through initial rollout in Germany for our online ..."
-    publishedDateTime: 2019-12-11T08:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/conrad-electronic-germany-crafts-customer-centric-pricing-with-revionics-machine-learning-based-price-optimization-300972241.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.56537E5DF86C988E330A3DBEB5073EDC
-        width: 700
-        height: 366
-
 secured: "SybpZC48+54U4HzuQARwQVNBOx9q69M8LluRhc/3nAgX5Te+4m4ZLv4xavfui0cCb4ajMnRYN/7uRrc4cXHXZt5nsnIErlew2QzzcqCpBf0oJXjwMxiPDQ3YEBRwgaS7SHntMyuvKeUxVxcqnmvdX1UR6I0ScnkHIBhX6JtpyFzZaHm2k5i8Dx1J3Fu3K9tnG0yQ3wdC1eql5CXYZ2FAMw5tVKyC0NWqGMY3J3sgqxmZ/mpPyDBG84f9eUmBJR5XJjkcRTLpBRcFg1w+14wpdQ==;KI1bEd3RdVDn5wUzPRxYaA=="
 ---
 
