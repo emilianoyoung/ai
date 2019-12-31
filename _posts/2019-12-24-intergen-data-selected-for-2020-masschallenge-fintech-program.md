@@ -1,33 +1,21 @@
 ---
 category: news
-title: "10 Ways AI Is Going To Improve Fintech In 2020"
-excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-publishedDateTime: 2019-12-29T15:08:00Z
-sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
+excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
+publishedDateTime: 2019-12-24T00:03:00Z
+sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
 type: article
-quality: 89
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Finance
-
-images:
-  - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
-    width: 600
-    height: 315
-    title: "10 Ways AI Is Going To Improve Fintech In 2020"
 
 related:
   - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
@@ -45,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
         width: 700
         height: 466
+  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
+    publishedDateTime: 2019-12-29T15:08:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
+        width: 600
+        height: 315
   - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-25T05:42:00Z
@@ -103,16 +106,7 @@ related:
       - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
         width: 300
         height: 300
-  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
-    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
-    publishedDateTime: 2019-12-24T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
-secured: "LHNxNJ6+UIeRemlbC6w3e59a6ML9CQThJGoHPZZYLdXaXFBGTbnQtHYLMI7+TctWT//vZS8GizD74O8D8nfo0+auAhyUxRIZrBGA/G36KglzQMxKj39cO6r7HWpXujEFah6je+1OorZHIrKTVEUoB9BFD7VqM7oXjYYfucrxD67qSV/lKtmIxLoR6pqMKhy0NdbqI6JJwzl45ZBSclHnwJq8G7RhR969U/TtnjG1HVW3CxohxddZX6dMT6jfTGwuITbXG0qqlGEqChCWtQOxVA==;J52Ice3FpeUJuBB8e0VHaw=="
+secured: "NVpcKSgskmR+m1nYd/K6P8PCeeq/Feu1LHIMgZwJnxqq9IyuTTlQLq3N/zpdElz1s+qdJ8l4IPls7Cvie/44qUxtHBbLPmTjFEfhBeQSoT7v0iGVAfc6oDwuLz+kYjyxgX65aJxukJUoX4aisQd01jH35H+TXNLMZ44zfzdMLkZ2UI62CQeyQxMuXyTRGI+Xui0ZRcNl0k3lTOrMfHLtvcbBswqnRi/g2IlMjM7UKSi3h5B0bRsucgcpajjK6DXxc/rCh1Sbj1de7FGXgnWQtg==;Bk6SEdjE+Vv0CrRWTpeMKQ=="
 ---
 

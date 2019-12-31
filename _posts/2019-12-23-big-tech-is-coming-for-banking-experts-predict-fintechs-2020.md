@@ -8,7 +8,7 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-comin
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
       - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
         width: 300
         height: 300
+  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
+    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
+    publishedDateTime: 2019-12-24T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "JP7T6LShN6Xxipiq2pSycn2+/PoQbxix15/ipPsPAh5aqwnn80py6mlKFd5tEc1sZ8gnPhkziS0PnBTJV4GsegmiytLmMC9e9Mu53jSdTsZflL0N/mYlnm4HSAJ+T2T00IH9Rt7OReOBP0ekjS92dFblKyLBPxEiBENMonJdYbR72E3HXB8UbI/VOjpWmDwGTh6fGJvxQlk38B/aJ4ERSOddF7/Wv/ioh/jKuBH7ZYKizwc6u8OWE4u+16vRGQbUoPh4Q0dDw/OiGoXnylBTVg==;b1PPZ5F4OsmK7I+9+x5w5Q=="
 ---

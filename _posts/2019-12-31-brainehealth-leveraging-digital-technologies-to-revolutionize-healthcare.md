@@ -2,28 +2,22 @@
 category: news
 title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
 excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-publishedDateTime: 2019-12-31T03:23:00Z
-sourceUrl: https://finance.yahoo.com/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
-ampUrl: https://finance.yahoo.com/amphtml/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/brainehealth-leveraging-digital-technologies-revolutionize-031600549.html
+publishedDateTime: 2019-12-31T02:10:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15054874/brainehealth-leveraging-digital-technologies-to-revolutionize-healthcare
+ampUrl: https://amp.benzinga.com/amp/content/15054874
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15054874
 type: article
-quality: 72
-heat: 102
-published: true
+quality: 52
+heat: -1
+published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-    width: 1200
-    height: 1200
-    title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
 
 related:
   - title: "Harness AI power to transform healthcare"
@@ -52,20 +46,7 @@ related:
       - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
         width: 700
         height: 494
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
 
-secured: "lqNuK9dMKc8Q1hLvoRlfvdiv4R2619MDmatmZ85UfxDxQtRyJtkR3guB1AnyEtv5c3yNXNdH6/8qkAi72+0zqimt8kFEbIsY03frkgCP1SqpOs1LfYOWBgKVkBG0L3+Ak23B97F7syM9d319CQANbSKqWm+jiPSpp3c1vN3RHB5egFOpFnhkpP52Odc6FRlPow5hRp+7b/SzNlFn/zg7GXQ+vImqYNE11YUs3SjT/ZTK5ztaaM1iqrRW6pMfkcAN2sJhjLGB90i3iqODcFJ0ig==;yO8oVT9/eWHxiaNa7tn4Zg=="
+secured: "vIMpbB5RsvuOKV5ouodu8PBRkA5jJ5d9/VMv22QHP5GGs8mFGEcwvqvX5QVA3j+Ytn4d7tyYqkhrhFAAu91BYhx8bavu7UrCyhlHj6a4dEcwhClNjLnh3I7FkaG30PAc+PpYFW2rKZnsAVFjqVX7Iv3uZ6Cko5us20fKLhR/rxEnAr8LE1Sep/tphudwT79qsF0LD3BP1MNt+HcXgsPOIgmw+I5Roe92XNfqp1Z7HvCYTNKi+bl2+R4uXeXSA63L8lYD9pq8V0ezIWbGpILScg==;xjaCZ0s+QmeQ7Qv9/qmEuw=="
 ---
 

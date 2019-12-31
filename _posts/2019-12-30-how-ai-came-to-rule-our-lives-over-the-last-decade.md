@@ -7,7 +7,7 @@ sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-th
 ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
 cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689

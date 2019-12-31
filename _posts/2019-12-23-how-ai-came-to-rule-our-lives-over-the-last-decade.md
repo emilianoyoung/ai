@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FC682CF853436E113D7CC9288596031F
         width: 700
         height: 393
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+    publishedDateTime: 2019-12-30T02:57:00Z
+    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
+    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
+        width: 700
+        height: 445
   - title: "Self Driving Truck Technology Market Evolving Technology and Growth Outlook 2019 to 2025"
     excerpt: "The Self-Driving Truck Technology Market report provides a valuable source of insightful data for business strategists and competitive analysis of Self-Driving Truck Technology Market. It provides the Self-Driving Truck Technology industry overview with growth analysis and futuristic cost, revenue and many other aspects. The research analysts ..."
     publishedDateTime: 2019-12-27T06:42:00Z
@@ -52,21 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
-    publishedDateTime: 2019-12-30T02:57:00Z
-    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
-    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
-    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
-    type: article
-    provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
-        width: 700
-        height: 445
   - title: "Self-driving cars? This is the automotive fail of the decade"
     excerpt: "Our trust in digital technology companies has become so complete, that when a host of these promised self-driving cars, we believed them ... Or if a child might break free from a parent’s hand on the pavement. Artificial intelligence can’t intuit that. Autonomous driving systems can only operate in a perfect system, and how many times ..."
     publishedDateTime: 2019-12-30T05:32:00Z

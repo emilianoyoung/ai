@@ -29,6 +29,6 @@ images:
     height: 525
     title: "Google DeepMind gamifies memory with its latest AI work"
 
-secured: "92vrhR8NGekuVJGQG0c+2W0NABRhneic95Yjh29OhLwIIKfYwzXtZBVamEEOzrDLccaX/nBTDjVGfGAd8WNjBhZEj46NK8BJBU0/u0apHLTUuItQVz2xGnznndoc7zltOgMleaVcvFcuy+iSC3E3b2on2X+ApQTegPqI37IH/j50mKHBNQk6yCxsep2gnsRtY4+F/29dACyhnWsR907LmFWa8eRNhyr1zG0Y48k8qnVUd839iwEhU1nFgsyZFYiFnfvEUaC7vBkzi22Uk0L8ww==;kHQeDbIcKEkZW6SYiA13wg=="
+secured: "MDcz/SNMlUuy4znMzigKJzV/0sKqC6lOw35nS97sqWyb1K2L8IOYEzgY4oaasVqwAe8sjmrAisDqBNlrTqG4FFraSWfrYacMov42GMHpbeTND0YeLM3YvKcGqkf6JKHioR5O7RKTO4aMCvtKDAqvg5246kmZJ3/9+Kly32nO5fALd956VyCXz18tmgKvBCc05T9maC4i0B5FEPA2G4J0M048PX2jH4yGlE9B1gU2kkwN7HrnRDr3RhhLqemad+5s1DLowxpeOI+axUz7lq820Q==;galFohP22ahAnrqszmOhKQ=="
 ---
 

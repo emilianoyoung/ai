@@ -23,21 +23,6 @@ images:
     height: 630
     title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
 
-related:
-  - title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report The expansion of businesses ..."
-    publishedDateTime: 2019-12-02T12:05:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191202005413/en/
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191202005413/en/759759/23/Global_Machine_Translation_Market_2020-2024.jpg
-        width: 1200
-        height: 627
-
-secured: "caQXB+iqmzKcDecegvHwBWk0qSdJ3Mk8P6q2jT9xfvgyTkqkrCthd1eMjF2Sl95kERH6OxIL2oIbpSGTCxFqVmQceQigHKo5F5wmF4aJPZVKJFst9QYi0sRuojKiOj9rveT1dhpaCSDEVG8lXv9+m+h+V1jkOP0AqUMt78G6c9nt47u1YfXUma7YrjTXoYtxZcS6o5MAmNavTbVz2ErChyOfjrChRjIhdnwyPOVfcygbi/7he+A8Yp0AIOajKY50TGnOp7CGlDUawaNvfzt20w==;Z7iZk4obRc0NwaCX53edWg=="
+secured: "WokgOIO1/ApM0+VsMcriBZq+Ekf3nuvLO2+PKRrM5s7LFn743V5HHtLktDdjeFQLlh08ZAivoXUyMgBK0rpyiOqEZxDDlY2IvggydGAKlbwe/2KDX3w6w9iI9r7dh4tu9hITFdAePNCTNE4o2FmwqCouMTvRvlDsLfK0NOcI0RyHNS6JMpGA+mpuYhD9qtGcEY1pxuLqgsqn6Ves60LoUPLsBV3+37rMIidiWzVveX3WYj5qULDYnKoZtmPZafx1G0Ed9FYkz2axohRWwRsUdg==;Kl/CEjOoUdt89nyUd0tNYg=="
 ---
 

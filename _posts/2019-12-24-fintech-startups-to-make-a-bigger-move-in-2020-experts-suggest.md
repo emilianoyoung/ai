@@ -99,6 +99,15 @@ related:
       - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
         width: 300
         height: 300
+  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
+    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
+    publishedDateTime: 2019-12-24T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "MCtBMANGyxASVZjy89cDJqQ5fucthtHhDbpsG96CrraTlCDh92yKge/CqqnQaE1wFqIWbqRo9vfwEkdBfIqzJIX8ZPWcFneXuyj/gyDUEtDxxiwZQ5aPm8kwowGapkHR2IBDinexunmiWxqsfXEvtzd3CJxMCV4/YPD2r4LWUORl+7VNg4UomYtgtCUA37eTQaasHau745T/nczjqYQKx4A1qPe4EBofznKerRi6f+knx0X2Wvhgdl6B2ePSeNEPjItFK0KtQifHsV1TvxhRyA==;MfZ3DM6uwH4KQ+XFHAvUaw=="
 ---

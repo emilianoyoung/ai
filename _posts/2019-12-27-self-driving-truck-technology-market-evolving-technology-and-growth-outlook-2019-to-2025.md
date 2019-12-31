@@ -53,7 +53,7 @@ related:
     provider:
       name: KSTU
       domain: fox13now.com
-    quality: 59
+    quality: 61
     images:
       - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
         width: 700
