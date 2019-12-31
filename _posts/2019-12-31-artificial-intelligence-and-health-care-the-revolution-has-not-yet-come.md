@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Singapore investors plow into health care startups"
-excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-publishedDateTime: 2019-12-24T03:35:00Z
-sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+title: "Artificial intelligence and health care: The revolution has not yet come"
+excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
+publishedDateTime: 2019-12-31T15:14:00Z
+sourceUrl: https://www.benefitspro.com/2019/12/31/artificial-intelligence-and-health-care-the-revolution-has-not-yet-come/
 type: article
-quality: 24
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: NIKKEI
-  domain: nikkei.com
+  name: Benefits Pro
+  domain: benefitspro.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-    width: 700
-    height: 350
-    title: "Singapore investors plow into health care startups"
+  - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
+    width: 600
+    height: 400
+    title: "Artificial intelligence and health care: The revolution has not yet come"
 
 related:
   - title: "Are health care claims overblown about artificial intelligence?"
@@ -69,20 +69,20 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
-  - title: "Artificial intelligence and health care: The revolution has not yet come"
-    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
-    publishedDateTime: 2019-12-31T15:14:00Z
-    sourceUrl: https://www.benefitspro.com/2019/12/31/artificial-intelligence-and-health-care-the-revolution-has-not-yet-come/
+  - title: "Singapore investors plow into health care startups"
+    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
+    publishedDateTime: 2019-12-24T03:35:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
     type: article
     provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 38
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
-        width: 600
-        height: 400
+      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
+        width: 700
+        height: 350
 
-secured: "h3R90tNhaOZc6YjG2hocM6gU13Ci22GLguesbsAd9DSQ0bSXDscuEGK/QYep7id805cIomh/gValWlo4ADivAbtSruoQzgybMC6VkC+mEldcPP2CPP/jphU8T3qkJDXDWhtI0BcFd7w8x82RG3uLy8vnLAwg2XBSEaUZ3v8i87P8NTjiOwipjb3nK+krFRqkzVoBC5dzEp/jnfQ7C9Qh2UyVCksxNKZfRj/Z7T/xmlPlAQf0KreRa6oTHM7pMjOjZS6MS+UjgMP8PTQMhxh/0A==;dH/96VUnqe6+X6CFMgMqAA=="
+secured: "Ga9jijQWVY8ESkeQS2KS3wLQcPUNH+A8FY3J0ZikarcYXHVFSVnFHdKhGhBA8S4JtgqH73cszGVtLLlzp3/un9ZWHoVnoi29MedCdXCOzdTuiRQxtYgjARIyLgxpiv5QkZsu0jj+t9WZjaHo8nfjEzdczE2Z7VEAQ1eqgTvJSA1KsW+O/5IymNldZEZp19DfpHfPvXF0WN/o/ksIZUYvHncihPeHHQRroNzXqJA9B7UpIB+0tfF2ga1yeRaigFQLZiQuDw0AKP67jLEK8iT78Q==;CeTF/OmBacQI5USkzBwOBA=="
 ---
 

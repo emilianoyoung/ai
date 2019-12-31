@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T11:46:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-2023industry-size-share-revenue-growth-development-2019-12-13
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Data Science And Machine Learning Service Market Survey Report by Recent Developments and Professional Outlook till 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The Data Science And Machine Learning Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Data Science And Machine Learning Service Market report is a ..."
-    publishedDateTime: 2019-12-11T14:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-survey-report-by-recent-developments-and-professional-outlook-till-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

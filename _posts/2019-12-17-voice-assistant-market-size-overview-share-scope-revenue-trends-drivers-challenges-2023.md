@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Data Science And Machine Learning Service Market Survey Report by Recent Developments and Professional Outlook till 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- The Data Science And Machine Learning Service Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Data Science And Machine Learning Service Market report is a ..."
-    publishedDateTime: 2019-12-11T14:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-survey-report-by-recent-developments-and-professional-outlook-till-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
     excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
     publishedDateTime: 2019-12-14T00:06:00Z

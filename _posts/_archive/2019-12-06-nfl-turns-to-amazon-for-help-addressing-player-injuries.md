@@ -39,19 +39,6 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 41
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -64,6 +51,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "FISaaKvRPQgrd06IvN5MURLkxWbMBay/ZxWdze2qyh9mDJxXRC+4piK/Q8Wykkw7BCuHGWjdyxHXQ28Qmrpb16mykj1vQ5WQRo6MUJ2wgawlx6a/VJa+l5GUxHxTVgyjlgyX/tmEEEdTUyHYsujznqAYLNLVIMBMZxgOsdgUABE6CGWAtaee6vdKupOKgOvsQeAj7qLBZ3Nde6U2aFE1FvlzJfZc1kRSjNW8PhrKGnI0JmMQX2pykU4GpC4CBbJXZ2lqHNw4KG7fSapkZH+MOw==;RSqU9fPyJdrnp9I+D5XOnA=="
+secured: "OrzSXCRJbwJchZgU+eGJ3Wie2iaS+DvZ/wE1yRUnf9SFnQCCwezwMEDzRDuUfcPDdZXV+BdzTfFnB4s9D4fAesdEd3Z0ukaLSFWgy96nS8AloNG0nFNRcKX5JPVEPhEwgddbtijT+Oxtu1kDB7kCJn3kCra8HkIiuAfGYw6GmjAhtQaSkiO/poR+LesX7ZvxrHNiueVDVokChBLI7VJW0GLBlalIIj8uZpJM3/ZJK3lOLxqOsYOsNN9tVo+VxJwaf4nyxxqOxVM9p8kp2iCv2g==;O0hanV+xYpvKCtbXycut/w=="
 ---
 

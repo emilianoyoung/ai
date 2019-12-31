@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
         height: 367
-  - title: "Volkswagen Parent Acquires Stake in Self-Driving Startup"
-    excerpt: "As part of the equity deal, Porsche SE, which houses auto makers such as Volkswagen AG, Porsche AG and Audi AG, will partner with Aeva in hopes of putting its lidar sensors on Volkswagen ID Buzz buses to create autonomous taxis, according to Aeva co-founder and Chief Executive Soroush Salehian."
-    publishedDateTime: 2019-12-11T14:10:00Z
-    sourceUrl: https://www.wsj.com/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    ampUrl: https://www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volkswagen-parent-acquires-stake-in-self-driving-startup-11576072805
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.B3BE74B2C00C1DD1E429665429643BE9
-        width: 700
-        height: 350
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z

@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
         width: 600
         height: 315
-  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
-    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
-    publishedDateTime: 2019-12-11T14:44:00Z
-    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
-        width: 200
-        height: 124
   - title: "Using artificial intelligence to improve chronic care"
     excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
     publishedDateTime: 2019-12-12T15:49:00Z

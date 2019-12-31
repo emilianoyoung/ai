@@ -17,17 +17,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Industry Call to Define Universal Open Standards for Machine Learning Operations and Governance"
-    excerpt: "PALO ALTO, Calif., Dec. 11, 2019 /PRNewswire/ -- Cloudera (NYSE: CLDR), the enterprise data cloud company, today asks for industry participation in defining universal open standards for machine learning operations (MLOps) and machine learning model governance. By contributing to these standards, the community can help companies make the most ..."
-    publishedDateTime: 2019-12-11T14:10:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-industry-call-define-universal-open-standards-machine-learning-/2019/12/11/9068012.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-
 secured: "/lnBaAHqTerWm2f8kt0n/ZReypnZw11xwqkVnsjPRQoB08mrnjdMSalZm/dq/ZKkFwT/Jwg9tM3pYwQ3tZAvrI2xo8+yVQn3kmB20Xi/xEl8du16uR3q9LobfHttKBPDrFy8pEMGFWgyZw00wBEXTgfTm2riBTiQ8wXM9/OqMbwwPGI4LlnrolrkSTrvenmgx1YzNAlrntLo71NfKbLsjN+2P11qEQKuUaQarHsqXTgQLbKhBU9qXSIIsLFWTu1Gc/DkE5PRWm4fin54xsrX4w==;IqJmW44ww/1gLNDkgvBYyg=="
 ---
 

@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
         width: 600
         height: 315
-  - title: "The Dummies’ Guide to Artificial Intelligence for Marketing"
-    excerpt: "Self-driving cars … Siri personal assistant … chess master IBM Watson. These are just a few of the things that come to mind when we think about artificial intelligence (AI). AI is the buzzword that seems to be on everyone’s lips. There’s virtually no business or industry, or consumer for that matter, that isn’t confronting the impact ..."
-    publishedDateTime: 2019-12-11T14:44:00Z
-    sourceUrl: https://www.business2community.com/marketing/the-dummies-guide-to-artificial-intelligence-for-marketing-02265922
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.CEFDEFE116A1CA43DE0296610CD7F1AC
-        width: 200
-        height: 124
   - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
     excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
     publishedDateTime: 2019-12-13T20:42:00Z

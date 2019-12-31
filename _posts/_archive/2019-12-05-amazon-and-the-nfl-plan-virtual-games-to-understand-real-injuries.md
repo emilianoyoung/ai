@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulati
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
-  - title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
-    publishedDateTime: 2019-12-06T13:45:00Z
-    sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 41
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -66,6 +53,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "L2WSN/3vI4G3zvY1Fb+rU9P76QIoZZCEqhS/rcDgeTnNrKqL41Pj8AN7Sz2yQUf/Qbp93TqvJ8pR1/UBf3HJhyfDyWu366Vu7xFIT3/p6MwMBU3y7WqopmuihnJm9pR4SGvvIW4Q8Zof8sVOTaqnsJ3FiKzKySMsWERX0fJYU9X1Urw6vkO1SXz4zRUppVWZRbMxL+WUQllm/s8huXaLtMqdCdayW/mLv3tSf85gtC79Ww+pYydcwAdl4PKdPADM5xVXmQV0quPog2yyR2PGIA==;7vlN6NMUsqWd1BKnqYT/9w=="
+secured: "43iJaLi+vn22sWk8I22dB0ulCIn9EcKOjvIi0nb6GpoX1VHcLW73lRvCjKDjW0C+XNzFnjw7YQb8Rjj4DnGF1eyOBDJ0k1g+vy1PrHzBwQRXgStrv+mxdmP32b36uGQT9sJnrUzcz6caP+BWPSXkxYC/KY710tiUio8sIq0VhF0sGpF72qMBixxQ8M7trkhAioWyJxAeH1xdOJTEmTOGKuEH2ZDgewzRGb1yYWDisHiJK6n8rQPLaZMJXkrUB7FMphAp/dZiOjndZGjwDToUyQ==;yJR3lQTNMIorLyA3MbBgZw=="
 ---
 

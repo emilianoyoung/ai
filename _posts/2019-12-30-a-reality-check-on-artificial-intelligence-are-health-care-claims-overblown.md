@@ -57,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
+  - title: "Artificial intelligence and health care: The revolution has not yet come"
+    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
+    publishedDateTime: 2019-12-31T15:14:00Z
+    sourceUrl: https://www.benefitspro.com/2019/12/31/artificial-intelligence-and-health-care-the-revolution-has-not-yet-come/
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
+        width: 600
+        height: 400
   - title: "Singapore investors plow into health care startups"
     excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
     publishedDateTime: 2019-12-24T03:35:00Z

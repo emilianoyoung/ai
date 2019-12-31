@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47AC99BDA8136FD7ECBF4698CCCB9FCF
         width: 700
         height: 350
-  - title: "Interflora launches voice commerce Alexa skill"
-    excerpt: "It feels like a natural step for us to be there when it’s convenient for people.” Customers who know what they want to send can state their preferences on colours or types of flowers and opt to send their own custom message using voice recognition. If using a screen device such as the Echo Show, the products will be available to browse on ..."
-    publishedDateTime: 2019-12-11T14:19:00Z
-    sourceUrl: https://www.theretailbulletin.com/newsletter/interflora-launches-voice-commerce-alexa-skill-11-12-2019/
-    ampUrl: https://www.theretailbulletin.com/newsletter/interflora-launches-voice-commerce-alexa-skill-11-12-2019/amp/
-    cdnAmpUrl: https://www-theretailbulletin-com.cdn.ampproject.org/c/s/www.theretailbulletin.com/newsletter/interflora-launches-voice-commerce-alexa-skill-11-12-2019/amp/
-    type: article
-    provider:
-      name: Retail Bulletin
-      domain: theretailbulletin.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.7409DD3CD36BEDA0EB762DF612D3DAF3
-        width: 700
-        height: 466
   - title: "Facebook, AWS, Microsoft and others launch coding challenge for deepfake detection"
     excerpt: "Facebook, AWS and Microsoft joined forces to launch the Deepfake Detection Challenge (DFDC) that should encourage developers to research this issue. Winners can receive up to $500,000 ... on Neural Information Processing Systems), Dec 8-14, 2019. Deepfakes are AI-generated videos that can falsely depict people saying or doing things that ..."
     publishedDateTime: 2019-12-20T20:37:00Z
