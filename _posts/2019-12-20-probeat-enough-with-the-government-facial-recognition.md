@@ -1505,15 +1505,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
         width: 700
         height: 466
-  - title: "In the EU, facial recognition in schools gets an F in data protection"
-    excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
-    publishedDateTime: 2019-12-11T12:07:00Z
-    sourceUrl: https://www.accessnow.org/in-the-eu-facial-recognition-in-schools-gets-an-f-in-data-protection/
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 19
   - title: "Rostelecom to add facial recognition to video-surveillance service"
     excerpt: "The companies will cooperate on introducing facial recognition technology in the video-surveillance service from Rostelecom. The option could used on outdoor video-cameras installed by the national operator in public locations. The algorithm FindFace from NtechLab has already been implemented on Rostelecom's video cameras in Tyumen."
     publishedDateTime: 2019-12-18T12:55:00Z

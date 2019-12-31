@@ -1508,15 +1508,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
         width: 700
         height: 466
-  - title: "In the EU, facial recognition in schools gets an F in data protection"
-    excerpt: "The eruption of scandals and debate about facial recognition has become almost everyday news around the world and Europe is no exception. Pilot projects and the testing of systems are widespread, and in the case of France and Sweden, these trials are happening in schools. Cédric O, France’s Secretary of State for digital, stated that facial ..."
-    publishedDateTime: 2019-12-11T12:07:00Z
-    sourceUrl: https://www.accessnow.org/in-the-eu-facial-recognition-in-schools-gets-an-f-in-data-protection/
-    type: article
-    provider:
-      name: Access Now
-      domain: accessnow.org
-    quality: 19
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z

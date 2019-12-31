@@ -410,15 +410,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 11
-  - title: "OMRON Returning to the Consumer Electronics Show with Next-Gen FORPHEUS and Expanded Exhibit of Robotics and Automation"
-    excerpt: "OMRON invites CES 2020 attendees to visit booth (#26002) to interact with its latest robotics, automation and artificial intelligence (AI) technologies. CES robot celebrity, FORPHEUS - the world's first and only AI-equipped robotics table tennis tutor - will return to the OMRON booth for the third consecutive year with new and expanded ..."
-    publishedDateTime: 2019-12-11T12:28:00Z
-    sourceUrl: https://www.roboticstomorrow.com/news/2019/12/11/omron-returning-to-the-consumer-electronics-show-with-next-gen-forpheus-and-expanded-exhibit-of-robotics-and-automation/14542/
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 10
   - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
     excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
     publishedDateTime: 2019-12-13T04:58:00Z

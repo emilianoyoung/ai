@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -181,6 +181,15 @@ related:
       - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
         width: 620
         height: 330
+  - title: "Robots Take Over Warehousing"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-31T11:57:00Z
+    sourceUrl: https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2019/12/31/robots-take-warehousing
+    type: article
+    provider:
+      name: dtnpf.com
+      domain: dtnpf.com
+    quality: 19
 
 secured: "jmYcDcCza5sRsMMRagF27cZEAPTBLn4OLhG2HPoVmB3GJVDO7otCvmpOKYSIQQaqpLF5WWjePO3yim6QOkgLRwK7TkfcI1coTFZMBckn0Pyd3WW48yp/8lUiovtLREUbueovsiWSxIHp9Svp/13NY9eiuMPA5cMpife+XD/iBUFN/JycPQFDeHVq37fMmJRLKWlvPphsRi7m0XeW2J9w5q7mAFIdywmstlJ0td38BsxqCUmulpHr35NBgrE9+YFoKz/KhMr8rN/ZTrsuu4Ly5g==;0ggBp4mGGOutw/BQPpiFAA=="
 ---

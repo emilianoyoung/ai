@@ -132,6 +132,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2019-12-31T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
     excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
     publishedDateTime: 2019-12-24T11:27:00Z

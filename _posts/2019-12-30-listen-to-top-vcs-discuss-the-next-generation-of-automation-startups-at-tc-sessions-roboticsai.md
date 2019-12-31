@@ -109,17 +109,32 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
-    publishedDateTime: 2019-12-30T16:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
+  - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
+    excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
+    publishedDateTime: 2019-12-31T10:34:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
     type: article
     provider:
-      name: Entrepreneur on MSN.com
-      domain: msn.com
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
+        width: 700
+        height: 393
+  - title: "5 Innovations That Will Dominate CES 2020"
+    excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
+    publishedDateTime: 2019-12-30T17:05:00Z
+    sourceUrl: https://www.stamfordadvocate.com/business/article/5-Innovations-That-Will-Dominate-CES-2020-14939244.php
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
+      - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
         width: 700
         height: 466
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"

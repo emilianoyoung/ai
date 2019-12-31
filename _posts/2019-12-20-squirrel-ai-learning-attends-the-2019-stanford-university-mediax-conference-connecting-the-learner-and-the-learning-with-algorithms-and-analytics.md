@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
         width: 700
         height: 466
-  - title: "Become an AI-enabled business manager with Great Learning’s PGP in Artificial Intelligence for Leaders"
-    excerpt: "Over the last few years, Artificial Intelligence (AI) has been emerging as the most transformative and significant technology, with recent advancements in the field proving to be a game-changer for several industries. In the coming years, proliferation of AI is only going to increase, with businesses tailoring their core processes and ..."
-    publishedDateTime: 2019-12-11T12:48:00Z
-    sourceUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp
-    ampUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.56EBF477EAE8AFFC21C3D973A47A1A4C
-        width: 700
-        height: 350
 
 secured: "LZIS9+o7ZjgGPSfBZvhNQ6c4FID6NBgrTMiZkr/s4bttICsmDr62bHrMBMBOzZiidlQmTYxv72PLbFA7OaWnkhhGIQCE2LC13KJo3KvzLY/qR6CcouA7fF8EKu9ci3th8zOg46rbN+WcOFGWwePKi9BA/gjhKQk0b1hv70mnYCLkKy5HkiINP7WKaXiucZ+kpl6io/QAGmJwD4clo+jpwy8DAfXvO3Qo0/fViCY86e87Rek+eU/sr2m0NtDKTtnhxtszijepgRUqBYFO0QkAUA==;6djSG3gLMR/2UxOBMUx97g=="
 ---

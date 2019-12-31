@@ -3,9 +3,9 @@ category: news
 title: "What Is the COPE Strategy to Manage Trauma Triggers?"
 excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
 publishedDateTime: 2019-12-31T06:59:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
-ampUrl: https://www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
+ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
 type: article
 quality: 24
 heat: -1
@@ -64,6 +64,6 @@ related:
         width: 336
         height: 224
 
-secured: "xghzvUBEX2Zw2OOAkhsmtx0oxdaj70aLke9QOSlULcHw/2rPwTaxWPQP37hBwrn0QKxqRqRdkXI54X2imlcMdP8+mofKS9jMNVSvTAWlzykJ04TfyUFiYE/jPDTM6KtYB/gNyx0wYhfZdXMucLoNshdOdh+JSbsHWjbQN/Wip7EVl0LoYcnKpqWGQSwpQ3kPPQDLXKOCuotI+13XyoG+BFbOnhOZByezgcX2jm4E4E9r2jtZRWYuFzz76EtAUPUcgO+tcnpHoUvO48sKvs8lZw==;J4f0HkuKWKEoLEOUsOo1yQ=="
+secured: "w3dqJ3DqDUw6bjxGcw78ZhU2j5URV7aDToeB3bTM7+w7I+gJ7daTIs6v1kD0Hs6s8X0ZW4NFEEf4/O4z/+Oz5ZXfmFiKhY9zdDRyE6YKQa/7VbL9EMj/7YLc2TLMSjD/rfoVvH/BdhWQHSCkWZqqH5QTry5I1IDCe3e4F1RrHls3G7tw230qaRKrjuA+lGwJFNTMVw8qJDARvChbWnNg+aYOfb6L4dVZlqiVmuUOsDX/dlK2PhC1vTu9IiKA9HgSEDa9IxVR4rkjCGK/XTnBRA==;jwI0iDMAL13XcONWyKjMmA=="
 ---
 

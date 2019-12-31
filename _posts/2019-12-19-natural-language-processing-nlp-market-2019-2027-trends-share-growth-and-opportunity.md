@@ -93,6 +93,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Emotion recognition, AI for suicide prevention | Read"
+    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
+    publishedDateTime: 2019-12-13T09:33:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
+        width: 615
+        height: 384
   - title: "Face recognition tech is everywhere at China’s new mega airport"
     excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
     publishedDateTime: 2019-12-13T07:32:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-30T02:12:00Z
 sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
 type: article
 quality: 64
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -119,6 +119,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2019-12-31T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
   - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
     excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
     publishedDateTime: 2019-12-27T09:36:00Z

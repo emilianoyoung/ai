@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Baidu can now test its self-driving cars with passengers in Beijing"
-excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
-publishedDateTime: 2019-12-31T09:47:00Z
-sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
-ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,"
+publishedDateTime: 2019-12-31T12:12:06Z
+sourceUrl: https://www.msn.com/en-sg/news/other/baidu-can-now-test-its-self-driving-cars-with-passengers-in-beijing/ar-BBYuITL
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
+  name: Abacus on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
-    width: 700
-    height: 367
+  - url: https://www.bing.com/th?id=ON.119653C6EAD7FB5280C9A4D03170110B
+    width: 600
+    height: 315
     title: "Baidu can now test its self-driving cars with passengers in Beijing"
 
 related:
@@ -161,6 +159,6 @@ related:
       domain: infosurhoy.com
     quality: 0
 
-secured: "E4JMSliGbaY+xvAWHkjPBDm7fCLzUIEWTmSvRx4QmmzMDoA5in0DriSaWJ8a4y1786q6rmwoVJ6dS8G3/40K0r9n8eukgLh6KXKekd+sK/E/scTkrOmODRM/lnVstKbytX7Tye7VUpTO5E1x3tK5nwbIQX3XarK0Ulwc8fbVJKoIxELv6mx6FhrZ7TwPJPHRN1GZmkyFDerYokIr44wfdLw+tEjwE6CzZq1qOTe2OlmxnNmg/iUXt9naiJa90GLeqQV5iNwesOFlxEu4ocoGMw==;sCYV7ah5GAaGDU18g+3nfQ=="
+secured: "M8FRBrswlolg99G15gso286c8p5djTrChXpFnyA5i4Ex0OFqABXPin5Jav5OsJfkxyq42vp3MKHdZnVSEOIjcf+8MUwQcjel6M86C9/fcAQIz06E48y5U9aQRSVOvV7T1fHFSj1MjQdQorXrAhJfa6yvS8/HPrrVQjjfsYeJlMmYG61Nxw4wKkMDNp3+zkk6tZuKlHrVu5Ghqnird4pexE/X8+AAqez6oMOtiMz9VowIUUY43T1iCgjfffrd6o7RWdKNNXVP6ChcnUDe74nVIg==;QMooyLIAsWpsWAKWg+4Rsg=="
 ---
 

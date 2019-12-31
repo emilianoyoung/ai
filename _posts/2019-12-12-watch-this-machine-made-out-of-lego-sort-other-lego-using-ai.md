@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-univer
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011792/lego-ai-universal-sorting-machine
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 640
     height: 335
     title: "Watch this machine made out of Lego sort other Lego using AI"
-
-related:
-  - title: "Machine learning for next-best offers"
-    excerpt: "Others go with the flow, look for the best deals whenever they find some time to shop, not even looking at the brands or what they chose in the past. So why not train a machine learning model to predict the next purchase a given customer will make and estimate when this transaction will take place? There are two approaches to the challenge of ..."
-    publishedDateTime: 2019-12-11T12:34:00Z
-    sourceUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110
-    ampUrl: https://searchengineland.com/machine-learning-for-next-best-offers-326110/amp
-    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/machine-learning-for-next-best-offers-326110/amp
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.2F2F58CF9FD824C8AADB268976688168
-        width: 700
-        height: 466
 
 secured: "zJ2oVxKf5QoF5DJQ11JKp7bj8uiia/uaH0enWLQU4D4vlCPb/aiA1WpqvJkkIqu8aCUDk82uWnh4qLBaLvZeyoC5MM11zizJKeMTH3QKG94SMSGAli252gCVOyx59EJRJG0OJYYaohRfvENpVDK1Zi3mYcJDcTSiqDi6y3bQqvuG4QOx37vQ0O6My78NuiP/WODgwSrAkop4k5Keammulr3rbFf7/cHQhaoBAfvv2v+vqi8+5gPAq3l2t57fETosvnj+hNcAIg3iaznaeWaBpw==;hIVipEWFOzCE1CECbFcTKA=="
 ---

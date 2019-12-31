@@ -26,6 +26,21 @@ images:
     title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
 
 related:
+  - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
+    excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
+    publishedDateTime: 2019-12-05T19:00:00Z
+    sourceUrl: https://www.theverge.com/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
+        width: 1400
+        height: 933
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -54,6 +69,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    type: article
+    provider:
+      name: The Register
+      domain: theregister.co.uk
+    quality: 57
+    images:
+      - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
+        width: 648
+        height: 391
   - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
     excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
     publishedDateTime: 2019-12-06T01:29:00Z
@@ -104,20 +134,7 @@ related:
       - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
         width: 580
         height: 358
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, the co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr. Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-10T22:19:00Z
-    sourceUrl: https://ctovision.com/deepmind-co-founder-mustafa-suleyman-switches-to-google/
-    type: article
-    provider:
-      name: ctovision.com
-      domain: ctovision.com
-    quality: 39
-    images:
-      - url: https://ctovision.com/wp-content/uploads/space.jpg
-        width: 632
-        height: 422
 
-secured: "PcPc6eFntHV6ayI4GgSiBhW1uUvTPyMDbqD5qU9zFzhrxlSua4ALKXdD2LUxPva9SRLite+LniL59y9qVgSuUdGjtsrxszsMsp5+vwZvSvOIUVYVcMZv8WXeAjEFWp3x+j/xvNUvZISOacNDmIZusOg0rFroXda/PEr3KC39Jv6IT6/+SUlYlaKyiinWF7iL0ChbjIhgENbyMRumqILUlILEZ9cDAg9UOf29VAkFkUPpofMm/aVHufNe3AopkK88dByjszTnG54a7vtoH/1sVA==;7x8cVEzWn72GYPWhhQ8L6A=="
+secured: "RZnkO+AcCKvA8KAuUP46v5VgKJrXHlhE9opRLK0jTGF9NTIGZQxXvN0H5xPEfkuTgyHvUd3eGrMmQyKC6L6TDEdLoIczyYFlXIk6hhSRs9ia87ko8Klos5uv0gFl3RXUBPO7vAM720wVVN0pNzDYhJt7bugiPCseDFMYQ60stQluLFq3Uv5fMcoG1RKQIDe1bwGET/TM682+RpduXkhHZwsXbSfD5zIslf5rs0ptdXI7/geT7Iu+ISoIqHH7kYhx8d8HLxKKLYT+N+M1mGT2pw==;HUmCJNRZVQYccEYp+1G69g=="
 ---
 

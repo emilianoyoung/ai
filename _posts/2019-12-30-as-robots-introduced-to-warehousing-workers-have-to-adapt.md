@@ -181,6 +181,15 @@ related:
       - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
         width: 620
         height: 330
+  - title: "Robots Take Over Warehousing"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-31T11:57:00Z
+    sourceUrl: https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2019/12/31/robots-take-warehousing
+    type: article
+    provider:
+      name: dtnpf.com
+      domain: dtnpf.com
+    quality: 19
 
 secured: "cGJ1+EGYmNTO8Vmu169AIYbraNwJfZTOF9VQ2rPDQ4pu3zmQ/aFv787Yk0AF4VfGDVXCoLDtzojaakLSEMsSJvH1b5QCeFStYz3sl6RQS71hT0xiU3b5So8v1NnRbQ4dznDCZu9kALq9cCRRKUduJL1QyX4mtIrLQ8u0F2P8ojNVzKgXmS6rS+BZJN37GsgM/KychOkg7mC4d9lrFABXVpKLqeQL6anlYQkEmMJ2iJAuRch2LjrsT4yco/KhrMnUDnZzOb1OGRjNRtsAUqPjZw==;+rp+fvmRGDik0AMT6/P4bw=="
 ---

@@ -23,17 +23,6 @@ images:
     height: 218
     title: "VA launches National Artificial Intelligence Institute"
 
-related:
-  - title: "XTM International awarded TISAX certificate"
-    excerpt: "XTM v12.0 also includes an integration with a new machine translation engine and additional CMS connectors. XTM Workbench in the spotlight XTM Editor, has been replaced by XTM Workbench, which has been completely redeveloped. Using cutting-edge design and technology, XTM Workbench is a more"
-    publishedDateTime: 2019-12-11T12:33:00Z
-    sourceUrl: https://www.openpr.com/news/1877727/xtm-international-awarded-tisax-certificate
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
-
 secured: "uxpArOiI4Wcylqi40xQb/3yLEzYQBZAt3V8QAaehQpNEHVPdwBZjEf92bk4TtU5+3O6QK7c0nKRSfPKHhh2087htytOyA6KmaySbwXVqc/kk7M3K4hLFipPy19HKOdHb/Ge5x49dAfLanEfOMHAoQT64+lHXRd38st4nOHKqu66H53zJcQJRVDYWUHr9p5TeEjhEjqsE+4Hm9yhq+4Kw8ZOZ6MSG0D/4kbSRmPtp5cv8DP7474pLjAL5RHe2MiOjCHPZoFNl8iS1zMDujRfy1Q==;Y8Lx9Wfnpsq82xn0lIDDng=="
 ---
 

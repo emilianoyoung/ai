@@ -91,6 +91,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Emotion recognition, AI for suicide prevention | Read"
+    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
+    publishedDateTime: 2019-12-13T09:33:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
+        width: 615
+        height: 384
   - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
     excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
     publishedDateTime: 2019-12-19T10:00:00Z

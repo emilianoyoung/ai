@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 700
     height: 365
     title: "eBay relaunches Motors app with AI and automation at its core"
+
+related:
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "AoSoAGp0RHs+mafIg7GkZtKbiSArKzjhwl5kfoY14jlR57CKCzuh/vySH2IeG7wzAIGWLccHrqKHtzUok0NZe0Q2R2P/3hF82nuQ4fK4N32X9Zboi5iPd2V19VZwpbz6YjgviqqaCiOr6e+T0rNrddYhyEoigfnVv2Mpn5jZnQrjkWB+FdKbQvqzOgI0GAxiGNO1PResb2EkCXn/of0tqFHCJG2kUkFAb8O9Ig63OCGpS2aJURLDGoaMf2232qyEU8N+XyDpNiy6tYLNZz8NAQ==;JvrWt1IEnW10zxbsD3E3jA=="
 ---

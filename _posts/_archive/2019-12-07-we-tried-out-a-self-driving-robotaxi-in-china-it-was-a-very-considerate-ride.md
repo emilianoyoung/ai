@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-dr
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-related:
-  - title: "Waymo One self-driving ride-hailing service plans public expansion next year"
-    excerpt: "Alphabet's Waymo self-driving car service is celebrating an important birthday today. Waymo One, its somewhat public autonomous ride-hailing service, turned 1 year old on Thursday. Even more important is where Alphabet plans to take Waymo in 2020."
-    publishedDateTime: 2019-12-05T20:05:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    ampUrl: https://www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-rideshare-service-features-expansion/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 101
-    images:
-      - url: https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg
-        width: 1200
-        height: 630
-
-secured: "ANyjWKlxqfVfOnjlWvdcsMLA7OUz+3ewOHq9oY2KCriYrjyf48eoBUXyqsbpTV2+d77QZ2jKWezH5tm1ReKtaUia9VvHvigEwiBGGfiLHaY3YnaMlNp8iBqPsPErGqxG1mD7IZ21U3UGRBTQZVi8yyvmzfR2eN4QOfiY6vKuFa1i0mf44xdYkXx/04p/CAIGmjFYccF/qmKyONJ5RRj5Vha+SMBnUdh+Slu1ZxyIaIptEADd3NeYGlw9f73VvdNoE7P6rUfO8r8aIQNSWHfgnQ==;snipq5Fqmo+mzk1XEYuwsQ=="
+secured: "YXR5mA48HxsKX7tpP1L9wbA9Exx9+zrfQ2b/by+bzzneXUXmZM0ThtdJVIGvsJHzOhMJ+hf5eebV1pLsXa/hOxRC2EygY9pog3K0hdclFSoUzfA6H1U6h8HTR6xGKBxRPW/Grv8wWPkjCmVzB3g1yTH5M5TDIgERiZBnpWXaKlODRK/8t4JV72JlMX9Ef9lcKFvXEYn6GDstSO03GSJqE4pvhQKYm5MJPxjamqfH7RNQTVhdEyeBB/tMcJwgMOxrbRX3CULHKse98hoeFbbElA==;PpPybj5KcwLO6tioZQYzRg=="
 ---
 

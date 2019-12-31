@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/13/business-leaders-integra
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/13/business-leaders-integrating-ai-and-machine-learning-starts-with-your-data-scientists/amp/
 type: article
 quality: 96
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
         width: 700
         height: 466
-  - title: "Become an AI-enabled business manager with Great Learning’s PGP in Artificial Intelligence for Leaders"
-    excerpt: "Over the last few years, Artificial Intelligence (AI) has been emerging as the most transformative and significant technology, with recent advancements in the field proving to be a game-changer for several industries. In the coming years, proliferation of AI is only going to increase, with businesses tailoring their core processes and ..."
-    publishedDateTime: 2019-12-11T12:48:00Z
-    sourceUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp
-    ampUrl: https://yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/ai-business-manager-great-learning-pgp/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.56EBF477EAE8AFFC21C3D973A47A1A4C
-        width: 700
-        height: 350
   - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
     excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
     publishedDateTime: 2019-12-20T05:38:00Z
