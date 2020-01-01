@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report The expansion of businesses ..."
-publishedDateTime: 2019-12-02T12:05:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191202005413/en/
+excerpt: "The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full ..."
+publishedDateTime: 2019-12-02T11:35:00Z
+sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-2020-113000351.html
+ampUrl: https://finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://mms.businesswire.com/media/20191202005413/en/759759/23/Global_Machine_Translation_Market_2020-2024.jpg
-    width: 1200
-    height: 627
+  - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
+    width: 480
+    height: 270
     title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
 
 related:
@@ -38,6 +40,6 @@ related:
         width: 1200
         height: 630
 
-secured: "h3AEcgf8iPl1lUKzqOjcKlO5Oabn3y2sFb9xQhg6xKaKnBhOg7I+4FgBmzj6RpZqStsHnSGFejG0A9z56leWylztI9afr/Ev6P7T/swvQfEIeftLbz+dw50kzjuMVsP3N6UUmz2yCGf1xOs+nYJym86KDLg95A3UKEApOg1dEukem3MVXoEVpJ5HxzPGHDPNWFCbB6huRoq6q2C4XflOSihhXezziVsAiVLngdQejB4xQ2UMySVU1vVjvCOCvWyM3DTceuXcvN8YNX2A98X4eg==;Gu34Fbfomem95WsLvKv5zA=="
+secured: "2lwplxnxHtUwZqWh30eDJC52lliG/y/3NWJaPtuJdfiJL/7OMzCCmwlEa0obRqHh5kigW3B0aYS8KMkKLJpsKbEHS1H8p/YuLM5bD51GlxG/zakdhAquzT6UXngwzn4pQ+nADRqLc/svulTjR3eJenZC/Ndi6LUyEIe7kC/c65WCjQ78vsxYFclyOCc48aXpSsXXAHvmkuz3/X8fj3ng+lr6UwmR/lFUmkMX5oxcn9/Dyh9arVgzSwOUnADhTXo8qX0ymxWrH3KLZkPOomTuuQ==;FNyNqFcZsxupuwbSdhexTA=="
 ---
 

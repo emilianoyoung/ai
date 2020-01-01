@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cloud Machine Learning Market Research and Technology Advancements 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Global Cloud Machine Learning Market Report 2019-2025\" helps the clients to take business decisions and to understand strategies of major players in the industry. The report also calls for market- driven results deriving feasibility studies for client needs. MarketInsightsReports ensures ..."
-    publishedDateTime: 2019-12-12T02:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-machine-learning-market-research-and-technology-advancements-2019-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
     excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
     publishedDateTime: 2019-12-18T18:48:00Z
@@ -276,6 +263,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "/ySH+jBcxDZ95iTUssS1xpJoDgh0REeaQRWJnmNSc8nMWai2N3Jd8Qaz/wNVYejAVVxTMqHoRwKH+/FhhN3Pwc6dpCBgwT4C/071BHNdDU+vM80t70tEc1XE5tScjdrJcagLReqXata3KWp9flWNiyCCYti4PNSYsHTTap4jRGHen/W6f7kpldZkFHdohEe/ycKT3bZZqxv326LNzE0CWZthod7hLNyulRZRAllU0m5lkcdktpsyv3a5hdwY1IK8qiKeNeweV7r47UbpSrHn0A==;Rwf8sVkw6RvbOGtTIsg+6g=="
+secured: "tX6gUZv8A7bqPSQMCPn9EUNO7fFSXQlc4A6H4bAiDAUuNcYlJKxCEQZmmL3ozkbup9aCkp0el2pOPR/ZzxZOrE9WDss25FCUgQ+OV5wlJfJ7mz0fF0SqbXfjw3lYVy8YI9xDdFcXSTS6nqJkaythtKeN6Qhvtu3dqG/o8TZjDJXV149tPwaaQgX6zTEIuTs6C7owtrR7O8SiBB9+YIaPzIofqRqogMHrJwg0Vta9Z6AtVYC3TSE+V7mFHueQUopjv73seE0cDP9SvobbWbByBw==;nVrN4Jb2RS5BLJ96pdpziA=="
 ---
 

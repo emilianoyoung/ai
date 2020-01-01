@@ -73,6 +73,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
         width: 700
         height: 466
+  - title: "Breakthrough in 'distributed deep learning'"
+    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for ..."
+    publishedDateTime: 2019-12-09T21:40:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "‘Deep Learning’ picking up fast in India: Experts"
     excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
     publishedDateTime: 2019-12-18T21:05:00Z

@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -641,21 +641,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Lockport Schools moves toward full implementation of facial recognition software"
-    excerpt: "LOCKPORT, N.Y. — It's a topic we've heard about for months, the use of facial recognition technology in Lockport City Schools. Now the district is one step closer to full implementation. \"Over many years the board of education has taken school security ..."
-    publishedDateTime: 2019-12-12T03:04:00Z
-    sourceUrl: https://www.wgrz.com/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    ampUrl: https://www.wgrz.com/amp/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    cdnAmpUrl: https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.6B17D04CF17D84DD96279CA9F9E775B2
-        width: 700
-        height: 393
   - title: "Airport Facial Recognition System Fooled"
     excerpt: "Facial recognition technology used to secure airports and process payments has been fooled by photographs and 3D masks. According to Fortune, multiple facial recognition systems in several countries were tricked in a series of tests carried out by San Diego artificial intelligence company Kneron. Researchers at Kneron were able to access a self ..."
     publishedDateTime: 2019-12-13T18:08:00Z
@@ -1487,6 +1472,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "R8b2aljUXjq8U+E8sf7oXZp9h5WMTzW3YdKm1i8gAU7KSrt71ReTIUNIJu8MiJ46jJubGpyXHOyWH+7wASHXzpVNpk85uz+udnjSdDh3sIIs6muADoW6ii9Wnvq2XhLLLDpVDEG8Li1HOAS3R5hWOQmifedHTQMXWQO6N5C0yo5Vy5l+Ep6t1zJX+1wzBLqGJ93NPiq6jGJnwsv3FXogVAa4CDopbA5jUMp9aabKA6Uiwwx+3Sdzs90i9XyKsX2IFooHVU6io0MaAFC4o3/QeQ==;1239B0gosBl9qA8tYkBLOg=="
+secured: "I+/Xf8yzBV+CfJj7lNJHOA6r7UHmLHMQGTlt/Gxtc5AtHulBq7gl4RTsGhy754BrbNSYnC1w2lhujXLrYQUTKD9Ah8f4vCZDHDoQ055zQ0iaYRZHMCPCBu+4XFBLUuUuDmMZkjobRnKOLs4Ak7UyD+r6x6NUHifb6EDyKk8vTNk5mp21D/90/OuEx1tLDBsWCzzmYKZp4XObFx21YSA/adzgDcoATguwI8i3BLv+smyOeoVdvV0Kqvf7CGVD1j2m5BAaa1pEp/NMWetyoSGQlQ==;cJVppfBpTRE2WD1nTh833g=="
 ---
 

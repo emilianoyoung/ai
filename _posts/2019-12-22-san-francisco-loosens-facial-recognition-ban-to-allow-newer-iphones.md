@@ -631,21 +631,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Lockport Schools moves toward full implementation of facial recognition software"
-    excerpt: "LOCKPORT, N.Y. — It's a topic we've heard about for months, the use of facial recognition technology in Lockport City Schools. Now the district is one step closer to full implementation. \"Over many years the board of education has taken school security ..."
-    publishedDateTime: 2019-12-12T03:04:00Z
-    sourceUrl: https://www.wgrz.com/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    ampUrl: https://www.wgrz.com/amp/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    cdnAmpUrl: https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/lockport-schools-moves-toward-full-implementation-of-facial-recognition-software/71-09e85336-c29b-410d-84a7-593db33bdb80
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.6B17D04CF17D84DD96279CA9F9E775B2
-        width: 700
-        height: 393
   - title: "Airport Facial Recognition System Fooled"
     excerpt: "Facial recognition technology used to secure airports and process payments has been fooled by photographs and 3D masks. According to Fortune, multiple facial recognition systems in several countries were tricked in a series of tests carried out by San Diego artificial intelligence company Kneron. Researchers at Kneron were able to access a self ..."
     publishedDateTime: 2019-12-13T18:08:00Z
@@ -1282,7 +1267,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
