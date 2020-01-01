@@ -8,8 +8,8 @@ ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-
 cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
 type: article
 quality: 58
-heat: 68
-published: true
+heat: 58
+published: false
 
 provider:
   name: inc42.com
@@ -25,21 +25,6 @@ images:
     height: 366
     title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
 
-related:
-  - title: "Voice Customer Service Observe.AI Closes $26 Million In Funding"
-    excerpt: "Through this relationship, Microsoft customers will be able to leverage Observe.AI’s platform through its Azure marketplace. “At Microsoft, we’re thrilled to see one of our Microsoft for Start-Up members excel as one of the fastest-growing startups in the Bay Area. Observe.AI continues to define how AI can transform the customer ..."
-    publishedDateTime: 2019-12-11T23:24:00Z
-    sourceUrl: https://pulse2.com/observe-ai-26-million-funding/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FA0F794A55B2EEC03F9AAB5711C9D47C
-        width: 700
-        height: 680
-
-secured: "gLrFFlLz4i5AfrrGlc5igIfjGiotCEAsc66NzKfKJnsffZFyDe6TQQ5TPTKDWun4EE71jzXeWLL6baPaEGCummxN2HWhZPdJCxFuMUqy9Tnnz8JoqR548whSez2Ff53Lg3WcpsZiZ4QIlkmq+L5+uNvH5zyEXAqK0RBL8wF5oFCOO0Z5IBn3SgN8yKwNVxBLkjHKNzQCgmuDrqgC+o6yef4ZUmNkWqIYseUNAHdHApBI7gnRe94wvvTNr1r+OJ/Wnv45PR7omMIMOEK65b3C6w==;O3bBOPKcQutXMSuOwgACrA=="
+secured: "RrC+r+6EYiSyZSJX0yrSb9GZjumVmyA4bm1Yi52uOwEs4FV2sYz/bQ0OFFc2NBPdSYpxEdwWK+TFczqsLLinDSTGYvsQ6U6ozIzFcrEkp/UYj0QvlKXsUd4b9nokZBfUltgbGjjAlqg7N44p2OFkIKls1OSoBXw74C6RWeZWnBLV8nyylGQYxZIqaxt1ENhhAo1HGx2DHFxZBITCe9M/Ar0xMLLJbON4/Tgg+vSTys2cCj/1IELA+PmPpJZMWnUIJqgP0EnSInMJE3X0QYKNrg==;SykN2Z3hkJBwMTHQjoJtvA=="
 ---
 

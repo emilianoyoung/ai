@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investiga
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
 type: article
 quality: 88
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -194,19 +194,6 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
-  - title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
-    excerpt: "fintech has gradually been integrated into our daily lives over the last decade, transforming the traditional world of banking as we know it. 2020 marks the inflexion point where the calls for supervision and governance are necessary, starting with regulated digital banks.\" Using its proprietary risk management technology and advanced AI ..."
-    publishedDateTime: 2019-12-12T07:49:00Z
-    sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-073600991.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.C7FDD2BED166CC598D2B4510ADC767EA
-        width: 400
-        height: 400
 
 secured: "Z1c/Wj0SEsI8NotzU0sAaY3dSqCGxOoHgD1yLxRT1ptqz3c4kyRkyhVkwXdjXzKHpQp6hjXYrUqXcF+lqC1Ky8ZIdTyIa/WVX5j8z4YHyTj/t3ulJCpoI9bLjAzAdYEmrR9D3/6LV/xOWryt0DqslAfE+nQpQ/NGl+d81+QUA9YG/yJc5oiAi13j7V85jglVWaTv94fXyUSL76u6FuJY+E9qXfQ0p6TYwllA3Q+nLT4XzCQNHJ4ytMLtJTQKXqDZLT1MDcdrg3nFcBGgslsQhA==;lyMSVE86GbIZhhIZ525oow=="
 ---

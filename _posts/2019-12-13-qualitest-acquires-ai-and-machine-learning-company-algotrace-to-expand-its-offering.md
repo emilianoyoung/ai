@@ -35,19 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AF17A890672B5DAE9C9E7BF57527B3D6
         width: 700
         height: 421
-  - title: "Qualitest Acquires AI and Machine Learning Company AlgoTrace to Expand Its Offering"
-    excerpt: "LONDON, Dec. 12, 2019 /PRNewswire/ -- Qualitest, the world's largest software testing and quality assurance company, has acquired AI and machine learning company AlgoTrace for an undisclosed amount. This acquisition marks the first step of Qualitest's growth strategy following an investment from Bridgepoint earlier this year. The acquisition ..."
-    publishedDateTime: 2019-12-12T08:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/qualitest-acquires-ai-and-machine-learning-company-algotrace-to-expand-its-offering-300973670.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
 
 secured: "86khwBpx1e5UK4/ReVI8n3PSsHnCSTJMhXhSMeOfW5EhHovuYdrYTXORcibqCOiM8yHrnTu6W2/h+zdG6D2Oaau0Cw8N41jwIkrtZ5D8Po9ugmkKcchZ9oMtWCakHIy8ZrIpbRNJYa2d/OlSh1JLCwrpCArt09+XTWV4qqAP2LVViH1v39dzIpEmvnqC9wyCUGEThd01cz17xgktKnV4eCQO1r0vfML0oYWycxZAPaSFB177mlLu9iNFUKN6OJWaDVsraEt+of36cMCC408gBg==;EAp1rSyq/dZ5enm6Zvz9+Q=="
 ---

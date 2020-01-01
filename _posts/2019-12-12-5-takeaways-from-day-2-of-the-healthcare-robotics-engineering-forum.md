@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "5 takeaways from Day 2 of the Healthcare Robotics Engineering Forum"
 
 related:
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
-        width: 700
-        height: 402
   - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
     excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
     publishedDateTime: 2019-12-12T18:42:00Z

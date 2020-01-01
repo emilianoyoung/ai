@@ -8,7 +8,7 @@ ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/qualitest-acquir
 cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/qualitest-acquires-algotrace-an-ai-and-machine-learning-company/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Qualitest Acquires AlgoTrace, an AI and Machine Learning Company"
 
 related:
-  - title: "Qualitest Acquires AI and Machine Learning Company AlgoTrace to Expand Its Offering"
-    excerpt: "LONDON, Dec. 12, 2019 /PRNewswire/ -- Qualitest, the world's largest software testing and quality assurance company, has acquired AI and machine learning company AlgoTrace for an undisclosed amount. This acquisition marks the first step of Qualitest's growth strategy following an investment from Bridgepoint earlier this year. The acquisition ..."
-    publishedDateTime: 2019-12-12T08:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/qualitest-acquires-ai-and-machine-learning-company-algotrace-to-expand-its-offering-300973670.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 48
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
   - title: "Qualitest Acquires AI and Machine Learning Company AlgoTrace to Expand Its Offering"
     excerpt: "LONDON, Dec. 12, 2019 /PRNewswire/ -- Qualitest, the world's largest software testing and quality assurance company, has acquired AI and machine learning company AlgoTrace for an undisclosed amount. This acquisition marks the first step of Qualitest's growth strategy following an investment from Bridgepoint earlier this year. The acquisition ..."
     publishedDateTime: 2019-12-13T00:03:00Z

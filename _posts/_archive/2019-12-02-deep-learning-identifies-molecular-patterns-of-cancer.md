@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T19:47:00Z
 sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -22,22 +22,20 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
-    publishedDateTime: 2019-12-03T12:41:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
+  - title: "Deep learning identifies colorectal cancer tumors with 100 percent accuracy"
+    excerpt: "Researchers at Washington University in St. Louis are using an emerging medical imaging technique with deep learning to diagnose colorectal cancer in real time. In a pilot study, investigators developed a deep learning-based pattern recognition optical ..."
+    publishedDateTime: 2019-12-06T03:55:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/deep-learning-identifies-colorectal-cancer-tumors-with-100-percent-accuracy
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
     images:
-      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
-        width: 1920
-        height: 960
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ab57856/2147483647/strip/true/crop/853x448+0+16/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F02%2Fd7%2F7a00f2c8455f9ddeff8afc3b744b%2Fpr-oct-imaging-crop.jpg
+        width: 1200
+        height: 630
 
-secured: "AYKu/0O/v22+yHDtLCT/1eyqnXA/xCq8UTONnblh/yLUDmOG+3xFhAPE5kKpspbmSOLtpDGF8P2d9O6UOsHeDxBsAz1nzTOzv95FLXmSEriPjhA/1lOMvMiOscaBaIQefkNj7P4w/1/3bxxFnNJ8qf/BVj5XNZ9oCfLLeOyw8bhgKirjoo03DIt5mZoyUAL4ZZ1SLZX/hC16Rsbe1lS+796Yw/E6QMACxeQqr9NRALSaDAPHvMuIkWk2Jh2OAhfrOMEU6zEy987gl/Y8i+ezcw==;ZnaNfEDIVMLEF0wgrELUGw=="
+secured: "xYD+JiRhWh1S4/8crmYcZEJjc+Q29BEEoRrr9sLvgrUjmZq5MTo1HmHCyhd5wTVzlGT2ZLaY7u6p4azJGWHCxMmc9FnBWNV/EGlPaXio478c/9pDDlYPqY59dGOWPVaEpC10yLracTyYlJMSOwqZMF7KVCIUAtDB+3Hb9t6D8evwMRaMGHjCaS4ui8niE37o21e3kpxFLChcyKHIA3Q99vOttpu+W1ivpBYm7Q2ZhSKDg/aXZkUBsFdacgEEo2uBKzHvy1YET840gGk/SGKfKw==;HQelsPX6InLslVqBsfNNyQ=="
 ---
 
