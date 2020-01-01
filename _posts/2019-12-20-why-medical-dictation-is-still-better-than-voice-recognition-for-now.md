@@ -82,6 +82,17 @@ related:
       - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
         width: 700
         height: 632
+  - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
+    excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
+    publishedDateTime: 2019-12-17T17:56:00Z
+    sourceUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393
+    ampUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
 
 secured: "s2TV0KRFNS1GmVYaB16s+GnHMqCEGH4CeItddgqc/VJKmHgyuQMX72DPZ54OAvS5gppABfx009OFPe7l/cabrAf++rn8c3JJnt1sPxrUficZVB5WulJ5X3TVJtoPe0Se64BPyJocQCo3W0BpbRHhUCixSSfB76wUY+bXdCDZSPOIjrb05I64RotiU3CdTXLmX60dGztnGV8KkW28B8Uupikr/m9iy9eNb6yKyASAu9keQ40cHE9nL9Pq+g+amRjSJxKOxD8+/LvxLXlAGzyt8A==;Jpv6P6T/x7Sgv4oWd/z6oA=="
 ---

@@ -161,8 +161,8 @@ related:
       domain: democratandchronicle.com
     quality: 54
   - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
-    publishedDateTime: 2019-12-12T20:42:00Z
+    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
+    publishedDateTime: 2019-12-12T20:40:00Z
     sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
     type: article
     provider:
@@ -170,9 +170,9 @@ related:
       domain: gcn.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.305227D4573636606460050702387B14
-        width: 700
-        height: 338
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+        width: 760
+        height: 368
   - title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
     excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
     publishedDateTime: 2019-12-18T20:40:00Z

@@ -20,174 +20,82 @@ topics:
   - AI in Finance
 
 related:
-  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
-    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
-    publishedDateTime: 2019-12-17T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
-    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
+    excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
+    publishedDateTime: 2019-12-19T03:05:00Z
+    sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
+    ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
-        width: 600
-        height: 315
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 54
+  - title: "Top News In Payments: Indian FinTech ZestMoney Raises $15M; Fed’s Brainard Warns Of Crypto Risks"
+    excerpt: "Indian FinTech ZestMoney Raises $15M Led by Goldman Sachs Bangalore-based FinTech ZestMoney ... Dec. 18, after it first debuted in Chicago two months ago. AI has finally proven to business leaders that it’s here to stay, and is soon to have a major impact on everyday life. In a new PYMNTS interview, Sudhir Jha, Mastercard’s senior vice ..."
+    publishedDateTime: 2019-12-19T21:01:00Z
+    sourceUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/
+    ampUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "Hardware revolution pushes AI into the mainstream"
-    excerpt: "These days, however, another force may be having an even bigger impact in pushing AI forward. Advances in specialised chips and other hardware have boosted the capabilities of the most advanced AI systems, while also taking the technology into the mainstream. Whether this is producing tangible business benefits is another matter. The ..."
-    publishedDateTime: 2019-12-13T04:00:00Z
-    sourceUrl: https://www.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    ampUrl: https://amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/15886efa-1cff-11ea-97df-cc63de1d73f4
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.0328DFC95E890D65EA9FCBCE3D956C1F
-        width: 700
-        height: 393
-  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
-    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
-    publishedDateTime: 2019-12-14T16:18:00Z
-    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
-    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
-        width: 700
-        height: 466
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
-  - title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
-    excerpt: "Artificial intelligence and machine learning help Internet search ... Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.statnews.com/2019/12/17/ai-machine-learning-drug-launch-playbook/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
+      name: pymnts.com
+      domain: pymnts.com
     quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.6A5248FC7645CBA00A8AE9E357981A2F
-        width: 700
-        height: 393
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+      - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
+        width: 457
+        height: 261
+  - title: "Investments in Fintech Hit Record High in Q3"
+    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
+    publishedDateTime: 2019-12-13T17:01:00Z
+    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
-    images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
-        width: 700
-        height: 367
-  - title: "The Bot Decade: How AI Took Over Our Lives in the 2010s"
-    excerpt: "At the end of the decade, Google showed the class how not to regulate when they built, and then scrapped, an external AI ethics panel a week later, feigning shock at all the negative reception. Even attempted regulation is a good sign. It means we’re ..."
-    publishedDateTime: 2019-12-14T16:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/the-bot-decade-how-ai-took-over-our-lives-in-the-2010s/ar-BBXZ22B
-    type: article
-    provider:
-      name: Popular Mechanics on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7068482D1B6492E8C424E2D5AD735F93
-        width: 700
-        height: 350
-  - title: "F|T: The FinTech Times – Bank on a comeback"
-    excerpt: "Toronto-based FinTech Borrowell has launched Borrowell Boost ... Montréal-based FlexPay, which is using AI to help e-commerce and subscription companies reduce credit card declines, has received a $6 million late seed round. The round, which comes a year after the company raised £1.3 million in seed investment, is led by Redalpine (an ..."
-    publishedDateTime: 2019-12-19T11:22:00Z
-    sourceUrl: https://betakit.com/ft-the-fintech-times-bank-on-a-comeback/
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
-    images:
-      - url: https://cdn.betakit.com/wp-content/uploads/2019/12/GettyImages-547501564-1024x682.jpg
-        width: 1024
-        height: 682
-  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
-    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
-    publishedDateTime: 2019-12-14T18:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
-    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
-        width: 700
-        height: 350
-  - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
-    excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
-    publishedDateTime: 2019-12-17T17:56:00Z
-    sourceUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393
-    ampUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
+      name: Ai-cio.com
+      domain: ai-cio.com
     quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
+        width: 700
+        height: 309
+  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
+    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
+    publishedDateTime: 2019-12-18T18:08:00Z
+    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
+    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
+    excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://au.news.yahoo.com/goldman-sachs-leads-15m-investment-024659367.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
+        width: 700
+        height: 466
+  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
+    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
+    publishedDateTime: 2019-12-19T04:24:00Z
+    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 20
+    images:
+      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
+        width: 766
+        height: 400
 
 secured: "zpKBNeCKSAvChX51xETgBkmrtixeWFT8yLmYkmvobnnH560KexfAUCKhxAttXbC8YtBq7Yc5R5j+wRYpsnhjoYr989Tarf+Xp87Dtli5Dwp+WiP67A7LvAplNSyRAzMdt8pqCB394eAyp29Cl/nC9PdZaHW9Z5ov86wsyaqtYeA0aGiFpFlSBtT2lLLKpmqiYoi2kGR4Lf1Gs7w2cHW8HkOjbww551MUzXKvUM5YeytLsxZnBoehO/QmF/EpY9vYyprkudu9tWVH9Pa+tizcfQ==;IWSiZp3oTmUVeonGUC/U7Q=="
 ---

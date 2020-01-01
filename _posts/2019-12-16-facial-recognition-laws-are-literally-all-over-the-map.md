@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/facial-recognition-laws-are-literally-all-ov
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facial-recognition-laws-are-literally-all-over-the-map/amp
 type: article
 quality: 189
-heat: 1219
+heat: 1209
 published: true
 
 provider:
@@ -388,21 +388,6 @@ related:
     quality: 61
     images:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
-        width: 700
-        height: 393
-  - title: "Brookline becomes 2nd Massachusetts community to ban facial recognition"
-    excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. “By passing a ban on government use of face surveillance technology, the people of Brookline are standing up in defense of fundamental rights and civil liberties ..."
-    publishedDateTime: 2019-12-12T20:08:00Z
-    sourceUrl: https://www.boston.com/news/local-news/2019/12/12/brookline-facial-recognition
-    ampUrl: https://www.boston.com/news/local-news/2019/12/12/brookline-facial-recognition/amp
-    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/local-news/2019/12/12/brookline-facial-recognition/amp
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E3A83239BF62E72B62CB72019C737EE0
         width: 700
         height: 393
   - title: "Serie A developing facial recognition tech to combat racism"

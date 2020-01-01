@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-langua
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "Google launches AutoML Natural Language with improved text classification and model training"
 
 related:
-  - title: "eBay relaunches Motors app with AI and automation at its core"
-    excerpt: "The new incarnation sports a number of notable automated features to help people sell their vehicles, including an image-categorization tool that groups photos by type, which was built using Google’s AutoML Vision Edge tool for Firebase. The app has also been rebuilt from the ground up using Flutter, Google’s open source platform for ..."
-    publishedDateTime: 2019-12-12T21:01:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/
-    ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.E6BEBBC4E5C9BFE25629231A9D4C01D4
-        width: 700
-        height: 365
   - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
     excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
     publishedDateTime: 2019-12-19T12:20:00Z
@@ -60,6 +45,6 @@ related:
         width: 5157
         height: 2700
 
-secured: "N96XjCGVju9On2fQ5eT9G4vChNPi7hTDuu+flasEZfCVH5x6bqk4mRLx98USkLxnbraxkZu8y9rA1Cu/HVP9WPeybR09u7hqLhAgqnx+Vobt35JiaZWTrYsuRqDFtI4UK0Qvojeu4NKBwy9YMU/zUKflHoxneIyq67cRYYxFFzwCX5NWPMreD/T5HGIa0zu2yyUXhE+bXZ4+I8DzAUM15MXn3WMNS4U8HuhNxk1C4O2IJfmgfPy12H4Vx7FSdPPfdrvXaVsUe4S1RHSe/w1/zQ==;ZFrjMXSkSbMm3bcmEjZebA=="
+secured: "jKPWbdKRx5hOAPCS7POyHti1Xaz4dmcoAtr3WQQunIjFMuO2iaCyEVp6OMiIMgsI9pvczRp8Lqk/cvx9pPz1Rnnj3lDjiQVz12gdpEBXS+FhQ9MCebZvoPCHb477oiDm1D6vQ5ZnVyKtqgan/gBL4PG1/XwLei2bN4y/d1OZPwXVdBZGGXqNRxIQwMrSmWZWw869Pq/K6ebiYKeviUA2aVtzlzjBVm9kQN+ZHEvqtGE74sj6UOA4uRcUMaxSXUMeV6OOkCo7+7Ept3M00rUSlw==;wSRytd9zUpXjAL33QIVCbg=="
 ---
 

@@ -45,6 +45,6 @@ related:
       domain: digitimes.com
     quality: 34
 
-secured: "zrGimjC9FzgMvebptoiW3FTYD3AyrHcgYSf1vpGoTq33loVq9jyxZaL0xflsiVF7xdRB1gAsIAkFew8wF71Ty0yGOnJP+oBUO/fn/YppPOd6Odg172PYBOco43HpE22qsYGXbH6UjwGb/isazyqa1xPJq74sXStHwuFPVLxeFVxNcWW4TTRCMHu/rLuKYeFwy+yw0tWv+kbJGgV6RZ3ECmrTNqn7JFjES9fEvJkUeU1KBzRXFBH/30DoSZDl6CeZ/9KLAaK1aDURahpOuxbjTw==;yMXrVWULOTIJ+nXov/Om+Q=="
+secured: "ANPtbqQYdcOBigg/4YPcoAF3SwHZN293wgT09bOWRuy9i4yvbFjdMIqVBltREqQ9nS2DdK4tyuDhltE0nRjIQj69Xdd91Zwf1gkgoMWm7uU4XXcjFAb3hFi++HKcZZl80wc2xyqRCDBEGz/PicE4Z0QJdcb+ntE6O3dI03JHTm3LAKskMyKFJB86yMWTw9KohKYJvaNwE5DwMT4R49rPjJFEwU9QaFkc0Ekw1RK/pzXPy5cdiF3ZVvMwGsN0wurzZPAjCI0f6xeGmKsL/4AoFQ==;MtjevqeqxoOyXejLguWnyA=="
 ---
 

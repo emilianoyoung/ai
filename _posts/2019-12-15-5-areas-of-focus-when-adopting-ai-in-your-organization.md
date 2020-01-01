@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/15/5-areas-of-focus-when-adopting-ai-in-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/5-areas-of-focus-when-adopting-ai-in-your-organization/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "5 areas of focus when adopting AI in your organization"
 
 related:
+  - title: "NHS is leading the way in AI adoption"
+    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
+    publishedDateTime: 2019-12-17T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
+    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+        width: 700
+        height: 466
   - title: "NAM: Healthcare must proceed with caution in adopting AI"
     excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
     publishedDateTime: 2019-12-19T05:40:00Z

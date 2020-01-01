@@ -50,15 +50,6 @@ related:
       - url: https://www.legalbusinessonline.com/sites/default/files//styles/inline_images_style/public/02-Mar-2019-600x400-4.png?itok=LAAMi29C
         width: 600
         height: 400
-  - title: "Tavant's Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
-    excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center. Additionally, the organization received multiple industry awards for innovative product launches ..."
-    publishedDateTime: 2019-12-18T12:52:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-tavants-fintech-business-reports-year-momentous-growth-fueled-/2019/12/18/9071636.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "meprHCGYzmq80yoZKOsKgWCS2oiPxiSPfxhuB/w6SmGwKifRPr+QZr8/zYfT/BNKVk5FUfdgih11mOMC7v0OrqUf21JSa2lmxoYMw5Zxo7MKJGzGkKO3i7Eikgc2hXxOC6P9DarhlHr8fQQ9W94ZMOBEa+kXzoxqcLJZB3ly4xYdNmEseDok/TnrfCVpMLnzUzukXN6inRFpwwaVOoft0yXePSVyUQzLca/n4BbFprnQ93+wLktYdQxEzRYc/VYmXkL7d+Ge0mLoZsr7RlNNLg==;b+dOpmiYF9e/8nSrbf2xdQ=="
 ---

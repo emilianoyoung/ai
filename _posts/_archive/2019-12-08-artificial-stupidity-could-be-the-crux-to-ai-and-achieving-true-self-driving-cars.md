@@ -136,21 +136,6 @@ related:
       - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
         width: 1200
         height: 800
-  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-12T20:20:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
     publishedDateTime: 2019-12-13T19:04:00Z
@@ -208,6 +193,6 @@ related:
         width: 700
         height: 413
 
-secured: "3LMoWxb8FgGydRjVFLYWjU3uveN4f7J1tHWUHhphTO0li16hkLTiFoLXX4DqJ4mS/E5UjnfE1jXiLad0r69O4Ej04gEm2Hf530V7tkbPyU8wh67znYCJF9FzRxN8A9m+LC3cHyQGbhcxs/DWvs49wQmnRfedJfI8n8dB9YuuXd9QVlN0PKrlrdBf7hpdMNurENdPULqzuqUJV87NlQZRBahT3y5jg8YNk8YfYR1s8z96Dw7C6L0EK+PJJsuMEE9lWsawTBqkzlWuryxSDm63tw==;bP3sKRV1vlDvVrhc7yodyQ=="
+secured: "vNK/o2JbRgw/hHJT7LZwYSKM9E2PVgcsO5nXdlqQO3W7tLnxyN5SvlWMc8i7zJelKWzLBbb+sW4ULy2Wrogh7UJlozUSvLw/gidDBg5zEHNvwKw/BHbfSO2F8uBct3Po7Fr3XKj16nlhMM+SdPNl2Y0anyF8Vl/HOjCtnY7lX6wEG+oY0NeG/O1oMIlyHJI2QBtszoUZrkLTAZpAj2UWJI8SnRgpbau7mwEG41cImoWoeyjGF3Ag3iv1G33R53n8UvF6LLse+H4qIyoJZ8Q4+A==;WHexEdMCqTtb6dUmfOUcbg=="
 ---
 

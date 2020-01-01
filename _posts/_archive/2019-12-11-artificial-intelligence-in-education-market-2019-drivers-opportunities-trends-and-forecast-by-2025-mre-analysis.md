@@ -197,19 +197,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
-    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
-    publishedDateTime: 2019-12-12T20:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
     excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
     publishedDateTime: 2019-12-19T08:49:00Z
@@ -331,6 +318,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "1Uo+y8/DZpCMuFeKO2teZ8TpIhExvZ3Rd+wUfZ4k+gSvoEwaUQrNOGZccT4wDGhdKAi+XKZ9YhTrjIugS3d/zf4hmDTNZLJqHhQ3uSj/wwh8GN6vtteVvcJX5wNiq31oQ4eqrqD8/4fY4AOQjJPyn4eurYB7QdjuuRrXLgz1EednGM4KB17rwjKVT6tsa5ejkcIkUkKXPITz+kqBK00vPJCsn2PxJjFGz5Y9dfD7+G0sERnTKjmnFvppLmn2xG0p2X7PA1+2ObHrOiYmIBmqmg==;zB+1Pq1Dyrrorx+5Q+z8hw=="
+secured: "7AEP+m7dHf4jHXnWJg0TaK8ZT7PoRH+NlqtGswbe6EGPwWJQ73zslKFKwDhic3I98/PTqBzmaahKZfKnXvrZz2KeCk+fiEo0CmD1SzKFdojsuMzvSjv4ZIUGvQEJRCErBhlyTsWBUq0CPD2tDHeG/LgKFgfBCK3IOAyGFdsYUv4j5b03JQRHS00UPJ9K+m+bgm4chqI5LWJmznP8r6bo9Xck7G/Q3Op6Gj3NshGLbHtplKR8Y57Eqd6IxzahAfbU2aAKvVplWZgI/M/w6tfvIA==;2h7dp1HxeDfs95M/aEazQg=="
 ---
 

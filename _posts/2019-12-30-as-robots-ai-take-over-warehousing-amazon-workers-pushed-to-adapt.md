@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -192,6 +192,19 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.635898560A852C18D1025F1924101F48
+        width: 700
+        height: 446
+  - title: "As robots take over warehousing, workers pushed to adapt"
+    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
+    publishedDateTime: 2020-01-01T21:44:00Z
+    sourceUrl: https://japantoday.com/category/tech/as-robots-take-over-warehousing-workers-pushed-to-adapt
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3F1AB18854B26A0D635C18CAB09619E1
         width: 700
         height: 446
   - title: "Robots Take Over Warehousing"
