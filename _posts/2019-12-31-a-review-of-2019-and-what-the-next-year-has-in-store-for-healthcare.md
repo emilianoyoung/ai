@@ -8,8 +8,8 @@ ampUrl: https://health.economictimes.indiatimes.com/amp/news/industry/a-review-o
 cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/a-review-of-2019-and-what-the-next-year-has-in-store-for-healthcare/73044986
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -26,34 +26,21 @@ images:
     title: "A review of 2019 and what the next year has in store for healthcare"
 
 related:
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+  - title: "For chip companies, stocks soared as sales slumped in 2019 — what does that mean for 2020?"
+    excerpt: "“Sure, we see strong secular growth in content centered around AI and autos, but would also call attention to markets like consumer and PCs that are declining and smartphones ex-growth longer term despite a reprieve expected with 5G the next two years,” Morgan Stanley analyst Joseph Moore said. The most prominent chip stock of the year was ..."
+    publishedDateTime: 2019-12-31T22:01:00Z
+    sourceUrl: https://www.marketwatch.com/story/for-chip-companies-stocks-soared-as-sales-slumped-in-2019-what-does-that-mean-for-2020-2019-12-31
+    ampUrl: https://www.marketwatch.com/amp/story/guid/47D77608-21B4-11EA-98E8-DBB410BEF79C
+    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/47D77608-21B4-11EA-98E8-DBB410BEF79C
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
     images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+      - url: https://www.bing.com/th?id=ON.F608ECDEA03963CCC1771958CA3F6D77
         width: 700
         height: 393
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
 
 secured: "q704K2htk0EadQvw3kwFJ+BO8xTJVeg5xwoo+8a3hoI3NZLeRePR95SouJ+CoK9yQXqGfl/tu15hjyXiORu04sK/ICc1s6vf3P2agAvfE9cSyc10CzSRPk85mESc/NkbHlbuhcnKqIrHl6XloGuy8k3utSzhe3d/jeFffaUM3Pnu+ambzVcdbpMFAZ37yKEOr5RCD3zYFuHsf3GEdB581HnZDcmNn4APKXcj5vSOKytox1dLs5gLI54RHSthOxCwhZ3aff0tvzwRyMDSqT6Ebw==;tcrb5Z04CHo/iRf7ypuGbQ=="
 ---

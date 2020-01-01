@@ -99,6 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
         width: 670
         height: 440
+  - title: "Fight against facial recognition hits wall across the West"
+    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
+    publishedDateTime: 2019-12-30T10:09:00Z
+    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
+    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
+        width: 700
+        height: 466
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-27T18:59:00Z
@@ -202,19 +217,6 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a bipartisan U.S. alliance ..."
-    publishedDateTime: 2019-12-30T10:03:00Z
-    sourceUrl: https://news.yahoo.com/fight-against-facial-recognition-hits-100324645.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.43FB0DC7F558CB2BD71087B508328FE1
-        width: 700
-        height: 466
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z
@@ -228,21 +230,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:36:00Z
-    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
-    ampUrl: https://amp.usatoday.com/amp/2755613001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-25T08:47:00Z
@@ -319,6 +306,19 @@ related:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
         width: 700
         height: 393
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:54:56Z
+    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+        width: 568
+        height: 320
   - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
     excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
     publishedDateTime: 2019-12-24T06:30:00Z

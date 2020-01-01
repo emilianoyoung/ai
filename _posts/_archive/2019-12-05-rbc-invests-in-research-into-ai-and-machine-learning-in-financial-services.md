@@ -23,6 +23,6 @@ images:
     height: 599
     title: "RBC invests in research into AI and machine learning in financial services"
 
-secured: "UfKeclUbLJhKAxACFWGIFxWnq9L+BbvoAe4JS+aMhOH0r12aLkSPGO6mdlAlfjL8a/7nsA+5r7jbKbqvsL9An4lQvPdR2juKiThBQp7mkl+mRjcVo0PY+t8G0rId00iA6e04H90AAhJCwfnwsIQunG9OmSnrc+OQKU0cTLAwMQkfQYm3GMraKfuDqgkuZskh8GW+WATs4qEI8TULYx8Vi4OMyXEP93xz6pT25o6xTIkyVbJQN2WIdjY93Q+6Ie+df7wIAohy2Eld0MiLLHTHTQ==;krmZajq9HMOGosymp9KU3Q=="
+secured: "V+BdFYtsGGcQ4zMm3w03y/XiPo2WVUXbDzRzMS3JcG19y+/gwSGBVPv1bFn2LWXAHRAKSy1A7pnNzLetRht8GaqvqV+K+oFE4sRV/ZZ6nl7jkupcGdZckPlkcYxb4syzhg0atda8cNhXSdt8QCC72sPZdokf+V4/jP/RNED5o7HiQ3yJi6H+ADsF4Z5yaQP3Cz84+AN406S2xBxYg+ueDmtyWbdiSXwf6wlDPCTDiZCXnTwWEL04iygouEHH3mPjA+9torJnUHi8hblWCZP9XA==;8NkMxOnWIt0R56jVDDRpEA=="
 ---
 

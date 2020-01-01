@@ -168,19 +168,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "Ford adding to Austin self-driving car operation"
-    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
-    publishedDateTime: 2019-12-11T22:48:00Z
-    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
-        width: 700
-        height: 465
   - title: "Volkswagen Takes Stake In Self-Driving Startup"
     excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
     publishedDateTime: 2019-12-15T18:34:00Z

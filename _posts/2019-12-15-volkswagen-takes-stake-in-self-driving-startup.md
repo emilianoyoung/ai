@@ -177,19 +177,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "Ford adding to Austin self-driving car operation"
-    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
-    publishedDateTime: 2019-12-11T22:48:00Z
-    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
-        width: 700
-        height: 465
   - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
     excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
     publishedDateTime: 2019-12-13T12:21:00Z

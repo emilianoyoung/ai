@@ -381,19 +381,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
         width: 600
         height: 301
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
-        width: 700
-        height: 467
   - title: "Self-driving vehicles will render transport landscape obsolete"
     excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
     publishedDateTime: 2019-12-19T06:40:00Z

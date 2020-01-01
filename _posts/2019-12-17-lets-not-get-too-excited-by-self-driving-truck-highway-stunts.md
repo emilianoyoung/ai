@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
-    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
-    publishedDateTime: 2019-12-11T22:30:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
-    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
-        width: 700
-        height: 350
   - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
     excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
     publishedDateTime: 2019-12-12T03:20:00Z

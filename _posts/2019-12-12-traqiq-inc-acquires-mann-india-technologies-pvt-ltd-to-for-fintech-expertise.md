@@ -44,6 +44,17 @@ related:
       - url: https://www.bing.com/th?id=ON.D1906BAD336691001B09D46D2A0A434B
         width: 700
         height: 367
+  - title: "Why this Dallas company launched an index focused on health care technology"
+    excerpt: "Precision medicine includes companies that provide custom therapy solutions based on a person’s genetic content, environment and other key factors. ROBO's best performing subsector includes companies that are dealing with logistics automation, which use artificial intelligence to make goods faster and cheaper and has helped the boom of the e ..."
+    publishedDateTime: 2019-12-17T13:12:00Z
+    sourceUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.html
+    ampUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
   - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
     excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
     publishedDateTime: 2019-12-18T13:00:00Z

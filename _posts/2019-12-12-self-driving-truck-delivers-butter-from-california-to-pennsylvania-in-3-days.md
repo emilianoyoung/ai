@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "A Self-Driving Freight Truck Just Drove Across the Country to Deliver Butter"
-    excerpt: "If you happen to live in Quakertown, Pennsylvania, some 50 miles outside of Philadelphia, your next stick of creamy butter just may have been delivered via self-driving freight truck. It's believed to be the first time an autonomous freight vehicle has made a cross-country trip, let alone a commercial delivery. Plus.ai, the company behind the ..."
-    publishedDateTime: 2019-12-11T22:30:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/infrastructure/a30196644/self-driving-truck-cross-country/
-    ampUrl: https://www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/infrastructure/amp30196644/self-driving-truck-cross-country/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.6CE67A118189DEF99CB62CAF51EFFEA1
-        width: 700
-        height: 350
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
     excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
     publishedDateTime: 2019-12-13T18:58:00Z

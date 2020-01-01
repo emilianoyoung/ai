@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/30/ai-powered-security-camera/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/30/ai-powered-security-camera/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
