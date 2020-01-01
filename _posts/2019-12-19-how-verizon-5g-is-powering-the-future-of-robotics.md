@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2CF993488DD1E8A9225C51DE4D9AA43A
         width: 700
         height: 479
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
 
 secured: "VPYgoUFrxurcFq8uwHVKtXke4M8RjSvMxPJ9dZ+nF+akJhdWSikxsdXa6Q56FOJ+4OX8GXr7xU+pTeuoa3LD3scTgpZN1WBDzVtwz7nwY+3tA4MD9QbBmml5fNrneoL3YXzNrN2hOrZjTOPzK25nxNYL3CsN6u+3zm6A6hhnKkWzEZ7BQ1b4ehsqyFS+8J4Pf+HH7/kdKKeVISO+qme086sKQjFoWCAOjGP97cKNXO70+kaOIuG8LaWruDvcs7iz0lBMMj2lqlFLZlI1I7BfDg==;ci0j/xodgkCgDQ0xH/1H1g=="
 ---

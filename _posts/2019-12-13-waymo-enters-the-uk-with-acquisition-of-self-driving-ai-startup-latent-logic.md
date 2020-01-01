@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
 type: article
 quality: 101
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -220,15 +220,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
 
 secured: "4p5a69qBJ0GjUzD9JZ0E5TztAxtOCW/wacjQEHN+z1zskJL5bIogNAKbou+aJB9213aDSF89qk2C193eeGnY5udv9Igc/3L/aaa0ughrLZ5infyyHfc84AlHBMi3nJY5QiYMKuIfNgWC5iaHxHqkF8IN085zzEXY2y8m2Ahnu1yormG2a0iXrdlALxOSQsxCxpxix3xX8fW1pgRsInOqhBV7ilU6MFu3SeNLP+9Uiywgw0234t604rqrnAkSmh9CahLpLxHP46mb+7lSketrfg==;axqvt3QEoHfMgEn9WfLvZw=="
 ---

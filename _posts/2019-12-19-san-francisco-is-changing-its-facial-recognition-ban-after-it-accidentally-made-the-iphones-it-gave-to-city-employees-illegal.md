@@ -407,21 +407,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3A83239BF62E72B62CB72019C737EE0
         width: 700
         height: 393
-  - title: "Homeland Security rolls back its expansion of facial recognition"
-    excerpt: "Facial recognition has become a rather touchy subject. Earlier this year, a $35 billion class action lawsuit was filed against Facebook over claims that it harvested consumer biometric data without consent. In San Francisco, the subject is so ripe that the city is considering banning all facial recognition technology within city limits."
-    publishedDateTime: 2019-12-12T18:38:00Z
-    sourceUrl: https://www.consumeraffairs.com/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    ampUrl: https://www.consumeraffairs.com/amp/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    cdnAmpUrl: https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
-        width: 700
-        height: 466
   - title: "Serie A developing facial recognition tech to combat racism"
     excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
     publishedDateTime: 2019-12-16T15:43:00Z
@@ -1195,7 +1180,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

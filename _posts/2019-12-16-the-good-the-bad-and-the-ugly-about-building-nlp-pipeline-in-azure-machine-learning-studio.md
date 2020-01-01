@@ -103,19 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
         width: 700
         height: 466
-  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
-    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
-    publishedDateTime: 2019-12-12T18:37:00Z
-    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
-        width: 700
-        height: 466
   - title: "NHS is leading the way in AI adoption"
     excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
     publishedDateTime: 2019-12-17T12:30:00Z

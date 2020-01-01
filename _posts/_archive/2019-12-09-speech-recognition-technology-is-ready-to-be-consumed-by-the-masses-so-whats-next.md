@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -403,21 +403,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3A83239BF62E72B62CB72019C737EE0
         width: 700
         height: 393
-  - title: "Homeland Security rolls back its expansion of facial recognition"
-    excerpt: "Facial recognition has become a rather touchy subject. Earlier this year, a $35 billion class action lawsuit was filed against Facebook over claims that it harvested consumer biometric data without consent. In San Francisco, the subject is so ripe that the city is considering banning all facial recognition technology within city limits."
-    publishedDateTime: 2019-12-12T18:38:00Z
-    sourceUrl: https://www.consumeraffairs.com/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    ampUrl: https://www.consumeraffairs.com/amp/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    cdnAmpUrl: https://www-consumeraffairs-com.cdn.ampproject.org/c/s/www.consumeraffairs.com/amp/news/homeland-security-rolls-back-its-expansion-of-facial-recognition-121219.html
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.996DAE0C1E247CE6804A9FC58B051936
-        width: 700
-        height: 466
   - title: "Serie A developing facial recognition tech to combat racism"
     excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
     publishedDateTime: 2019-12-16T15:43:00Z
@@ -1399,6 +1384,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "o0VXvsHJYtWowsXhymcqncswjnL5XlW05Ja6LDF3OHtEeW3VSp0VHN19OSuAYW+G3IEQeyuU15Tf+1SUIOtHQDvhp6mqJyikPrETHx0xBaUzPj0Ix+XJhER/yEY1OgCalY2A/RqOetAcInjsCA4KHqNxzL5fTTfZovUfpTk8ryGTpAO/dvb8wTEB8w5z4gR0LyKjmVKNUK86IZjPTBFfroKxIQUxaBrd27iQBOM6a3kR4hQu9tduEuQY+vpTDtQMbIQT8vtszK8vJ1pUhnuqAA==;NqRjABuQ6GFQ7bvnTJxR5Q=="
+secured: "NauctM7zlX8MOIPDgTkBILG0NaqODJXFRZNZNMcyVnCNnLRGZgzLNj5X2i8qFL/HfCvgrBR3rib5bwzz+KDudDFs6MYNwI2hjMoJUH5CiVWPxSCzhfAOXBBwdS0Q7sQhATOifWpJasuexEHpF42iF0JqzE9oduKEqW2MYY6kbmThbU182MvNTdMYh3UXTKGfpMFXfutHPzNUJxXINAVPVCRQs/skFiLTGuhkrFDSMz9CyLf1KCp/KpXFbQ1Yw6y8Cn1BsJqsAf3JgMGS8P4Y6Q==;VUR+tVSJuw2Sc+s9AQ66/w=="
 ---
 

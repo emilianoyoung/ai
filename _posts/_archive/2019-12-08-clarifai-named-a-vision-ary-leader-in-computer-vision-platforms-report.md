@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-08T05:18:00Z
 sourceUrl: https://www.newkerala.com/news/read/260994/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report.html
 type: article
 quality: 54
-heat: 64
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Kerala
@@ -26,18 +26,14 @@ images:
 related:
   - title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
     excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-    publishedDateTime: 2019-12-03T15:19:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
+    publishedDateTime: 2019-12-03T10:13:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-1028734163
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 53
-    images:
-      - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-        width: 700
-        height: 366
+      name: Markets Insider
+      domain: businessinsider.com
+    quality: 63
 
-secured: "fEbokOVyK0YtuS3YgA5K4HICf4SgyA9cvU3aS8jK/3Fy6Vq6/l2CvNF3s4EwlmnL9jO3tAXOQVeqvMv/YKjdv4jyKdh3D/ei/mdmhZydTR05MZx3/BeA5AXEd3dW72LeuN8TpCNOH9bA1iF1bVczz4mOPLNXrh0Xp0aXSs2dda1UVA4ZMb417ZJQ9hDIJ6hkmJ1Mu0jsz4fVehUC9AEArhCU7toQ+wSdGBjCP5f+K/ee0soNabqVmO9K9FHQv8eXx/mKpWJI6H88P5DIr321WA==;h6/JnzirZHQUjwXSzE/zxg=="
+secured: "1nG7iBBZ3XZmZKHXSf5uFTIy+hdncJpIWEKBU0+LhgzLmp1kOOCrPkYol357LOpWjst7xegcdaEMTAqD1Mc52kRg1j5GMRI/zFg3UQbFp713YLTokLSsH8hZ3EzEmFbw+ZzrdX2X7qUaa7I3KcxzIim+hEUxMv5vy31LoDyTKWpIBsHbkkmnG1HUc/oSd2cYe6pM6WjYA3pIpFPgdjiHuCBZWTht8KelCPWjq5cXBUkIjmvK/jmVwKwuXDCZXEmefmX/rN/jNikU7vwcs+r09A==;H0M6FKhj7SWnO596yN5Bsg=="
 ---
 

@@ -24,36 +24,6 @@ images:
     title: "Why DataRobot Is Buying Paxata"
 
 related:
-  - title: "DataRobot is acquiring Paxata to add data prep to machine learning platform"
-    excerpt: "DataRobot a company best known for creating automated machine learning models known as AutoML, announced today that it intends to acquire Paxata, a data prep platform startup. The companies did not reveal the purchase price. Paxata raised a total of $90 million before today’s acquisition, according to the company. Up until now DataRobot has ..."
-    publishedDateTime: 2019-12-12T19:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/12/datarobot-to-acquire-data-prep-startup-paxata/
-    ampUrl: https://techcrunch.com/2019/12/12/datarobot-to-acquire-data-prep-startup-paxata/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/12/datarobot-to-acquire-data-prep-startup-paxata/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: https://www.bing.com/th?id=ON.31F2020E5BD59A6BE0BF7A005AD1641B
-        width: 618
-        height: 399
-  - title: "With Acquisition Of Latent Logic, Waymo Adds Imitation Learning To Self-Driving Training"
-    excerpt: "Now it will be able to add real-world traffic to its data set. The self-driving taxi company announced the acquisition of Latent Logic, a start-up spun out of Oxford University that developed an “imitation learning” system to train autonomous vehicles. Latent Logic was founded in 2017 in part by Shimon Whiteson, a professor and head of the ..."
-    publishedDateTime: 2019-12-12T20:19:00Z
-    sourceUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/
-    ampUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 95
-    images:
-      - url: https://www.bing.com/th?id=ON.F1C4B577CCA0CE747606E980E1C9C0EE
-        width: 600
-        height: 315
   - title: "AI unicorn DataRobot acquires data prep veteran Paxata"
     excerpt: "DataRobot, a leading player in automated machine learning (ML) and artificial intelligence (AI), has acquired Paxata, one of the early self-service data preparation pure play vendors. DataRobot says the acquisition of Paxata will help it \"bolster its end-to-end AI capabilities;\" in fact, it headlined its press release on the subject with that ..."
     publishedDateTime: 2019-12-12T22:57:00Z

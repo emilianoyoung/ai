@@ -99,19 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
         width: 700
         height: 466
-  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
-    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
-    publishedDateTime: 2019-12-12T18:37:00Z
-    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
-        width: 700
-        height: 466
   - title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
     excerpt: "I heard Microsoft offers Azure Machine Learning studio [1] which is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure, I would like to give it a try and see how to apply the skills I ..."
     publishedDateTime: 2019-12-16T03:43:00Z
@@ -403,6 +390,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "fJs/Vgp7G+cOs0T4kYP3uZYI7YLv8HLPsADk+8AeGQjKEZI4y1vRObDDRgXufAAq9/0NnkpT/hk2eYHRTS9W13OxE7wRF2+ffxbPpqMeDsQ5i3+cUgfWH1w3d5UREzWKlZA27XThlrXcqCKw1+7kg8iroN7fY8jEXyvnuTMI1UMgktESD1ZNOQJqRlcRH+dzfAC4HFzVyMzq7U14b4jZbta/64rEJeV9bX8pWnZ027VCCSYGDOUsPPpGT1eYOurM+Ii0HANI8Mjon7XhXCfxGg==;oPEFz2QgcQtrdqMTMycY/w=="
+secured: "P6gnYEOmDWURMMDbEuH1J2rQ/EnjGW4xefbux0TxEvUft1QwjAvaD+wUGh+rUI4h/+8g5nBXHs6KZaWR1dG4IIBZzJc76fYbQjtuTbQYTRAwHEblipeRprxzWqjq11B35ePcxUBTelxX92Wk0FCpZA/mlRtM8fo+VlisCl6Jvide4OoBEJxVWTb7CEf5cEMSVEcQDD5idQ8pDaac484nB9AhcRCs0MAfEqFTaX9xMjF47ogc7wWc5Z1X5mT0Fhy0uVDf8G26HOfXAKqvc3u5Eg==;dBYuFd//xauEiBPHgreXiw=="
 ---
 

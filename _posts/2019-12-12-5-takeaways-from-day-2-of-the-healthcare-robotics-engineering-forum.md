@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "5 takeaways from Day 2 of the Healthcare Robotics Engineering Forum"
 
 related:
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
   - title: "How Verizon 5G is Powering the Future of Robotics"
     excerpt: "Robots can become lighter, cheaper, and have more intelligence ... the wave of a wand in order to remotely control robotic systems and teach them to perform repetitive tasks with the help of 5G and artificial intelligence. One of our Lab residents, Medivis, recently received FDA approval for its augmented reality surgical planning toolkit."
     publishedDateTime: 2019-12-19T12:39:00Z

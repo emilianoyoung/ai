@@ -45,7 +45,22 @@ related:
       - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
         width: 700
         height: 350
+  - title: "With Acquisition Of Latent Logic, Waymo Adds Imitation Learning To Self-Driving Training"
+    excerpt: "Now it will be able to add real-world traffic to its data set. The self-driving taxi company announced the acquisition of Latent Logic, a start-up spun out of Oxford University that developed an “imitation learning” system to train autonomous vehicles. Latent Logic was founded in 2017 in part by Shimon Whiteson, a professor and head of the ..."
+    publishedDateTime: 2019-12-12T20:19:00Z
+    sourceUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/
+    ampUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: https://www.bing.com/th?id=ON.F1C4B577CCA0CE747606E980E1C9C0EE
+        width: 600
+        height: 315
 
-secured: "EhTcXpCpG2evoRZYdbJAKCu1uUNHXAdaGItaTvAxkxGArTwQo5WYlM+/jI9KyWVc+Gg/f+LGBuJiRJc3YCMWymYITKPuRx7cxQv+mkldrsjVQFEZnZveW0WsjNjnyh5J+JhKp5MRsm6Nks9lYEFoLcvljyWBAUZzJe21QiKO3L7Ltw+/xa/l+PorcJL6qbedeKxr7MvEeLoM+m1tpVzc/eFFmaaF5cTXy+eiOpg9z7zpwQ6pe47hu/0w9P5DWk+MtkZZUfIsbEbPE8v6XfAxfQ==;A/P87drzfbRn7hDkDBIX7A=="
+secured: "kwTac+PDB5UWdPbSYxY24oiRLCUWZnL+M6aL/bhZfo9ltF5Ujf6FMq6glu2qy/tzY0WmsCqlIWCRiqc783+v2Pd2RzBmRSO/dqn3TsUwv6zLGmCy+hxcyG7A6IOlOFe0O5q7NPNWxmxZQ4bkDd8/6q8OZNJfKMY8eqvYwfuD5mFaTZ9OyqW/hK5Qe2kwqig3ApBDtbcOUQmeadIUIM5fBAeN55tSVvUe5q2tmjd7Aw4+vsTTDy0nfolfNqx4BoS+S49IlqgEp/dn8nf2AzWgPw==;xm3tXZ9zUaP3Fe5XjXrApw=="
 ---
 

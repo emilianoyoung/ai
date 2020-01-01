@@ -216,15 +216,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
 
 secured: "7p+py3ekHpzLhO+pFVV71NNuxO8slytnOyYXuPF8R4Bfn1ipVP/AyHVqSzVXBcPu7LdWD/zSZnG4lldX+UE50SgKDKlQSDUCc1djCxGNtboySuzaAbXVo0Uq9xJ4GdLUSAAXOoUlA82nUb+ILipmLE4SxNU0zZRn4NvYgXdrTwsthGL5yk7fSndbWJhJKNCCaiMi8oGyis3io43sZF2UquOFBZuH14MXE2Ey8fqtxF8IrDo23iXSWCIwZw7NbQySPO1eEX3fti7TczeS6DW3JQ==;sKssjS25wraPOR2tEyT2RQ=="
 ---

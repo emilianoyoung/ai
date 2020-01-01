@@ -216,15 +216,6 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
         width: 600
         height: 375
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
 
 secured: "B8+H8svD9VGJu4eMJjpB26gDZDDuJJMkjrtEBHxft95fC5biNc041ysxepqxBzpxOihxkFrfog1zsBHzsiwJxpXAo4lr1wEMC+jacnE3QnzqgBOE10VBjZcDGI0Uo7JJwKhOegjDn8HYmn4SN+NZT1seNc5y1jZsW8bV1NJBq8zE1O1o0kRgjIM35nUsD04djtHbX7Xz5upjQVJC3u7RyjAX+Q9NOS8ZMwBWV9nlEBGqa1KqaK7ZiSccswXASWg9u+BY4MfN/27vPJadgfPAGA==;pQTIKGOS6uMRcSPsHYTw6Q=="
 ---

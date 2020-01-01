@@ -1,7 +1,7 @@
 ---
 category: news
 title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
+excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
 publishedDateTime: 2019-12-06T11:15:00Z
 sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
@@ -56,6 +56,19 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -120,6 +133,6 @@ related:
         width: 580
         height: 358
 
-secured: "fcldYu5KuFPfjujC5nL0LdEM9YOTLlsHsdHaZfqe6KFyMXcTjRqnU1fgdTipgGlwpGk+YEsf75hBZ5oIT/Z9ORujhsFXWf+bI3ToMbWggUgxdY2aIWC/Xe9vruKfDJEGgOLoKob8l2p19UPNB3sDFRnLior9kBUSQkRaiHe3KNIO48EzVHIB5nmGntq2v1DH0XxiYCLDHVYJK24OTUmhSzR/VvDF0p8TZE9slm/3LRtXkiUWt6oGjHrO38ZTfHdBc9s2IAl3FH7r2J1+gxBPUQ==;JS0U1ZdlNESXwRWQPhpuOA=="
+secured: "2cXgNLl9lhwIl+pCeP9MWwOcqJDb5lRU1VifhPzEE/dCMrl0+DiBy/7M+UUWcc7GpOB47xnfIpl9o7xn5UGoKiygnHxONUCDZrnId8Q6QW/hHo7Czdz0JDDGstYc5FX/EpkL3naitQkbo20AUuCOwKN7sgYLY/pSWhfwAtoUjRKsiKH+dCvkOYPC2EQA1s/penPr81NhPDQMw1+ILzEYIs9SIEptv+K83u4QrbTNIGspVR6T359/9OF6RLXZfPF9Uz/eimvkz05KaUee778UtA==;LH8AFiknEYq2NmS/ZbCg3w=="
 ---
 

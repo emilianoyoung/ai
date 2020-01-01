@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191212/Using-artificial-intellig
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191212/Using-artificial-intelligence-to-help-mitigate-suicide-risk.aspx
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: News Medical
@@ -24,21 +24,6 @@ images:
     width: 620
     height: 480
     title: "Using artificial intelligence to help mitigate suicide risk"
-
-related:
-  - title: "Using Artificial Intelligence to Strengthen Suicide Prevention"
-    excerpt: "December 12, 2019 - A team from the University of Southern California (USC) has designed an artificial intelligence algorithm capable of identifying ... methods into design and deployment of prevention programs.” With this AI tool, healthcare professionals could help mitigate suicide risk for homeless and other high-risk individuals."
-    publishedDateTime: 2019-12-12T18:41:00Z
-    sourceUrl: https://healthitanalytics.com/news/using-artificial-intelligence-to-strengthen-suicide-prevention
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.73D733A0B80740961413D6C920396F5C
-        width: 590
-        height: 356
 
 secured: "ynSA+bqpK4So/ahdI7pEMpsOnBTcFdxd5HKhdlQ41vZ+AcPO7OkMfa29zHURsHXFSUXy0sU2oL4Vr/JoKl4fVJhLW0iseozMzwpYDouZUBfPAyFPt0cferahEw2ouUGNFDJDRMMKXxjF5H9PpIRtTeZRxbPElmIBT9JeCIXqIxOafu+d7zp3hjGdv40Lb7iJs2VarEO73rZhLvV9PDkf6VGQqVtsVfYHG1zgU1j63Bks//SCyyIPZz9v2O1MXd5vGn1P4E6mVzQaQt/oFgCpnA==;wuiy4bp2fUmrxb5mW7jpnQ=="
 ---

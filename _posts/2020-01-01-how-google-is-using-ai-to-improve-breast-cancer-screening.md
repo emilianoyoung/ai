@@ -1,27 +1,27 @@
 ---
 category: news
-title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
-excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
-publishedDateTime: 2020-01-01T18:11:00Z
-sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+title: "How Google Is Using AI To Improve Breast Cancer Screening"
+excerpt: "A study about the technology was put together by Alphabet’s DeepMind AI unit — which combined with Google Health several months ago. This technology could be used to help reduce errors, which is important because one in eight women is affected by breast cancer globally. The team also included researchers from Cancer Research UK Imperial ..."
+publishedDateTime: 2020-01-01T19:25:00Z
+sourceUrl: https://pulse2.com/google-ai-improve-breast-cancer-screening/
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Pulse 2.0
+  domain: pulse2.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
-    width: 700
-    height: 366
-    title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+  - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
+    width: 647
+    height: 700
+    title: "How Google Is Using AI To Improve Breast Cancer Screening"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E6AC70E574BF2718C33609F37498B683
         width: 700
         height: 393
+  - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+    excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
+    publishedDateTime: 2020-01-01T18:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
+        width: 700
+        height: 366
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
     publishedDateTime: 2020-01-01T18:00:10Z
@@ -123,19 +136,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D036F61EC9C6E774AACCC67B0E508F49
         width: 700
         height: 367
-  - title: "How Google Is Using AI To Improve Breast Cancer Screening"
-    excerpt: "A study about the technology was put together by Alphabet’s DeepMind AI unit — which combined with Google Health several months ago. This technology could be used to help reduce errors, which is important because one in eight women is affected by breast cancer globally. The team also included researchers from Cancer Research UK Imperial ..."
-    publishedDateTime: 2020-01-01T19:25:00Z
-    sourceUrl: https://pulse2.com/google-ai-improve-breast-cancer-screening/
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
-        width: 647
-        height: 700
   - title: "AI shows promise for breast cancer screening"
     excerpt: "Despite some limitations, McKinney and colleagues’ study is impressive. Its strengths include the large scale of the data sets used for training and subsequently validating the AI algorithm. Mammograms for 25,856 women in the United Kingdom and 3,097 women in the United States were used to train the AI system. The system was then used to ..."
     publishedDateTime: 2020-01-01T18:16:00Z
@@ -178,6 +178,6 @@ related:
         width: 700
         height: 466
 
-secured: "tWieIKPPFf20hCypt5tbXGLYi0jPjOq7jpNbNXtblrysm1cHOP5GUxwl8rDiI6jJMrO2Ap6DQ+UkgtslA+aCGjMAcFwHD1SnjswRxPEn8O6ngQjkWbUm0lBXBHpTFpJ3nHaP+isPjoj8QmqwUanhHb3nlVG30Ti5P3QRpTs+1+7gm4fxZhLs1lWh8xgiUk/8WGJlK+d3X+dfhE1sb5V2YXnulVBfN6GIX0XLo3ALA4NuHBLCUU2S6e14drTwWtDvJ4OAui6/bQy8hwxxp9EV1w==;F6IanXUkGTAens3VxYDwhw=="
+secured: "JfeIJzP6cIIvE1AEkihquG6uRWN+GGF/XoyPdkGQnqeuupOMb8SHoqr35kCtef9nVrnrSY2d9A/mE3UWGzzivD3IuZfXV29H3dGNdLBDtaVwkLBgwMraMHEoayqwFAo30kq0vhM3+8W61ldoZ0Z6Fis1nb4lYJbI9XsbO0bY+Qg/cc0ts/W8y1+hf2WC50lCNhagq87f6Y+TmbCF81iN2FCI601yXQvZC+zoKKYD+Crsw23jx+JKQ8nPALkyUQ+quZ4h5tXpQhvmdQeJrebQng==;unlvZOvaF/IKr85rR79mFw=="
 ---
 

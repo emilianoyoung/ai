@@ -1,29 +1,24 @@
 ---
 category: news
 title: "Google's AI can detect breast cancer more accurately than experts"
-excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
-publishedDateTime: 2020-01-01T17:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
-ampUrl: https://www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women,"
+publishedDateTime: 2020-01-01T18:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
+  - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
+  - url: https://www.bing.com/th?id=ON.D036F61EC9C6E774AACCC67B0E508F49
     width: 700
     height: 367
     title: "Google's AI can detect breast cancer more accurately than experts"
@@ -128,6 +123,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
         width: 700
         height: 367
+  - title: "How Google Is Using AI To Improve Breast Cancer Screening"
+    excerpt: "A study about the technology was put together by Alphabet’s DeepMind AI unit — which combined with Google Health several months ago. This technology could be used to help reduce errors, which is important because one in eight women is affected by breast cancer globally. The team also included researchers from Cancer Research UK Imperial ..."
+    publishedDateTime: 2020-01-01T19:25:00Z
+    sourceUrl: https://pulse2.com/google-ai-improve-breast-cancer-screening/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
+        width: 647
+        height: 700
   - title: "AI shows promise for breast cancer screening"
     excerpt: "Despite some limitations, McKinney and colleagues’ study is impressive. Its strengths include the large scale of the data sets used for training and subsequently validating the AI algorithm. Mammograms for 25,856 women in the United Kingdom and 3,097 women in the United States were used to train the AI system. The system was then used to ..."
     publishedDateTime: 2020-01-01T18:16:00Z
@@ -154,7 +162,22 @@ related:
       - url: https://www.bing.com/th?id=ON.3134CF0DC0CD73FDE615E137EF31CE0A
         width: 685
         height: 416
+  - title: "Breast cancer breakthrough as new artificial intelligence ‘spots tumours doctors miss and could save thousands of lives’"
+    excerpt: "A BREAKTHROUGH has been made in the battle against breast cancer as a new artificial intelligence system spots tumours that doctors miss ... is called off AI tools could support clinical decision-making in the future and relieve pressure on healthcare systems by reducing workload. Breast cancer affects over 55,000 UK women each year - killing ..."
+    publishedDateTime: 2020-01-01T18:26:00Z
+    sourceUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/
+    ampUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
+    cdnAmpUrl: https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
+        width: 700
+        height: 466
 
-secured: "x/O+n3379Xb6BfdhsTCv9a152F4h5Uj9568RdkGEh37nzfiLJ+Jz5T6VCDGKwndY5E1SrczJ+6MtVi8JLE8UabdHj49dPS++AqRDinRpWqX7QxKP00+96FOhXZlxM2QAer2JS4DkR+OAp31FMvWqVPvPif2g6VRzVX6CHWRuhfRAWAhl0fNDB46wiWBPSaDTKqK/bCQBmkwkG+5H5vx+iL7bhGHPfjYoBZIIvopR3/1ngik8kybFqtGDe4kpSBbRTkVf3nqZeEbvEISFbW/01Q==;ZxfrNm0bGDxDv4RKDo8zeg=="
+secured: "G1B8WhoWB/cfUQ0NpftUgniUaNsyNZEciIzGNQYjCr+//Ytj28HkAv3x6IBsAKX+5G5pTcJ2W/1Hu8fDHSejJlSptVhS/l+dBT0kD7DM+TsN9am/OOQFjpiaeMMt3imxvMe9Sk4vVidUVYuIy68UTNV9qaUkFwIL2lQXoso8fHlLeBNl2BYKXzk9m3Y6IVxCBERa8XvUSvDKZcIyFckpfr+zOvCrU6NLZUCVw/GdNIGaLYu3n82FU2MOMILHUubJ85N1flKeQjmqJH7DyjR41Q==;bzxzZI7jVhwHuldNyz1r0Q=="
 ---
 

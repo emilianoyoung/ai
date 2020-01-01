@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 91
-heat: 371
+heat: 361
 published: true
 
 provider:
@@ -89,19 +89,6 @@ related:
     quality: 72
     images:
       - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
-        width: 700
-        height: 466
-  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
-    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
-    publishedDateTime: 2019-12-12T18:37:00Z
-    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
         height: 466
   - title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"

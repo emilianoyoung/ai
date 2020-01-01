@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
 
 related:
+  - title: "With Acquisition Of Latent Logic, Waymo Adds Imitation Learning To Self-Driving Training"
+    excerpt: "Now it will be able to add real-world traffic to its data set. The self-driving taxi company announced the acquisition of Latent Logic, a start-up spun out of Oxford University that developed an “imitation learning” system to train autonomous vehicles. Latent Logic was founded in 2017 in part by Shimon Whiteson, a professor and head of the ..."
+    publishedDateTime: 2019-12-12T20:19:00Z
+    sourceUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/
+    ampUrl: https://www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lianeyvkoff/2019/12/12/with-acquisition-of-latent-logic-waymo-adds-imitation-learning-to-self-driving-training/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: https://www.bing.com/th?id=ON.F1C4B577CCA0CE747606E980E1C9C0EE
+        width: 600
+        height: 315
   - title: "Reinforcement Learning, Deep Learning’s Partner"
     excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to overestimate deep learning’s capabilities and pretend it’s the magic bullet that will ..."
     publishedDateTime: 2019-12-10T21:43:00Z

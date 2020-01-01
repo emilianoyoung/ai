@@ -54,6 +54,19 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -68,7 +81,7 @@ related:
         width: 796
         height: 417
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-    excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
     publishedDateTime: 2019-12-06T11:15:00Z
     sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
     ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
@@ -120,6 +133,6 @@ related:
       domain: ft.com
     quality: 39
 
-secured: "fGRmLdvzLzRfhAmzWVXmWOh3S5BuuxitVq9evKOnPrsuFn58oYTjsHBnZXQ6maRKodN0kvnrWB/ZGuPfQa1yTB7weeDkZ9gllLwdMw2EFWxWe/K4LqCbxDVvJWBqmFAyNlTXgu4/RBnhIun3bGJvwS+2tHYDTibSUaYevpgveHdmy+qYQGdIekkfyI0ZQxef8PBflJ79ldtM6wCPm6gF3bnvX0q9xAoZZu72HZ/Nk7H+6ypQZKZJKmhjXYipvmT91i/IbN648gCBP6hCmQcclw==;+FhoZgSfX91NQYlfQ1RcBg=="
+secured: "f4xmlmGrJNkrRpcT3Sq5s1mbKXRWgrj+3EM+2fwlNk+4AKK0GGoEWXIvDld2T7EBelkq8vOpOJbJZPbDeSDTytpJzQC6aipgYsKCuBn2lrUDAP98fAMzA4D5vPkDNRp4bHuPAJPDjOAUoO6Hw4eHA1fFS11bJpDvVkDYfd5iYfC7ixtXPWYTcRkBBsXD1XJ6249YrMcjEHiOirSDbFwp/crUQIi/Me4sPQALl1bQEtxmkyVNsmUg0f6PWfO56NyI09XNRrW0qg4dg+zrSNvzaA==;et8olPUtIqk1Zm9hSTsyYA=="
 ---
 

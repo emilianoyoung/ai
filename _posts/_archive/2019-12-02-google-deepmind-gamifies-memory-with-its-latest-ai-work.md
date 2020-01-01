@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-it
 ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
-quality: 104
-heat: 114
+quality: 84
+heat: 84
 published: true
 
 provider:
@@ -23,27 +23,6 @@ topics:
   - AI
   - Google AI
 
-images:
-  - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
-    width: 700
-    height: 525
-    title: "Google DeepMind gamifies memory with its latest AI work"
-
-related:
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
-
-secured: "UcbgeXiqwXff7LQiiS4YkzLwtAHoq7K2dK+Qugn2389bywFF/zLuY7dv0FFsBCDoSaZDeoEhRBiJfEjKaFv7xAkg8nRzNF/lkxW5BwMQ8QFmR/bWQqDapPHoL4chU443xxiIzNWCQY9uPM+jlXpFoeOTWdTLBYfVA1ugl4nl7Kw/om0mQAkRAw4DovhQAizB8Xkr9c3O1j5s+OIWOyhDGUviFou7SC6mgBvaPJx+O0K3Z3tlo3a8lDcPZqB9jnu/uteLb7s8dXTvK5FkvYEp4w==;fmjwSebZ4yo+Kc021gyAHg=="
+secured: "cghnzwg0RZszvG6WGOHagBsZS1N8Mmhab/1DzVBw5Jtsa6T0T7bANZLitrXBfYtP2xspiMJcP8xeERd8Qo7fCI5xZFWb3/0bkKRRS5pDAODL8SrN/NMTZuICjoAmQ8QP0GHQcgqdn4rd4icIkj6BEhv0mENfoL0p/URagtzI13wzim/nVTq4Eoy4lRER7KcX2vp5ra6JD6dtA+xZAif2NIQuyWb+9pkGIMVli0k5giRMBZNqPAVRAR3veSQEerYlkorbfCePi6FZBroSAetx/A==;6D0GShRfpF+hXImpEGNSiw=="
 ---
 

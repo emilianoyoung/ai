@@ -29,6 +29,6 @@ images:
     height: 840
     title: "Zenia is using computer vision to build an AI-driven fitness trainer"
 
-secured: "6xl8yKX8WFB9wM/mBQQ4aAqNPMms32Qto0NPBQmL9SjqK7j5/dkjFNvHxZCo7Zts3IDkELdqnEIodAuI29cl8OFSphUZp4Xrk9q5d4snYkHETQ1tjVyT6xeHxpaPgJJ3eyJ1vTz/3H3WlzJu7R2kJX3xPzvhEWL4FW3mf99bpq5TtwexvWl7UsgQmMOjksyMSFUURb003iDQsDX5wm+JahwykApBj0IKTG5wLowqv3hZRHMkuF8PGHcUYE7ypl2Tm1rqFNpQ0GHpNk5iRrhtfg==;LgK1RAdPaf9KlYK1Vm2YbA=="
+secured: "MAZogXH3SLRnsBuvmOtnihERf0JkCVUlPsPf2BdEaKjMOtnrs7bBpmX74Htcp1et4Fs42HXAN0R0A9SZxm2Aq+W8p1pT/xZ8I70+vGcoWCQBUNTxoMkd6cuLW77/DgRIjZ+spu0glmqJKz4DyVzjLWY3pfmahngTEQlQCL2wRY9VAVT7S21R6c9zIXG8Jz8vjjiV6BLi018NM0RWstMDpENNk+/Eoa2qEVwoLsUQiJy9b0FsdePr9qo7E2GgTxe2oPlPA0Ejdrz9D3ZK1mVeLQ==;Lt8WYNp0pWdnxxcP6Pq+GQ=="
 ---
 

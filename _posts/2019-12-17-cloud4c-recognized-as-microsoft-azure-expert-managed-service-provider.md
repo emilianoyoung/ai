@@ -37,19 +37,6 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
         width: 1575
         height: 847
-  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
-    publishedDateTime: 2019-12-10T15:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud4C recognized as Microsoft Azure expert managed service provider"
     excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
     publishedDateTime: 2019-12-18T05:55:00Z

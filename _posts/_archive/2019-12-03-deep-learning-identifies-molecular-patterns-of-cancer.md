@@ -25,6 +25,6 @@ images:
     height: 960
     title: "Deep learning identifies molecular patterns of cancer"
 
-secured: "fy+FQsze65BmW9NnkTcHh8XvjzoDxT/QYuiZdUaiI+VZWTeifhgEdt71Y6ugapgpR+n9cYNj2inggVNo14jwa6+EaMDCwHysEYpLuTqefTdFw9cTeE9L4evU1mr9lFfurspwXaReOHx9W2aPa28wwdOuzV289KvNaS9SRWc35rnDF5CBzmpYEJnTqXkGEuQPvVZ+gj/HepRiLiecl45zzXAT2IJ9Epo+BzW/9UvStkJaSquJWK99Rrv0B7rzLpALbsudbk2Fv57EVaPG+283CQ==;ln6lu401joWmeaSl6QaltA=="
+secured: "IKU3RPXtjgGDB3sxIREJzWH10u4b6pM3lltKyXK5y/5gMopW43yu2FyAtS86kfWLNXw6y23k3sNxfHTsCbMAzKSBhvSuYEkNU3l36+3UhYCpYTsKn+Q5h8lBWlelOfEOQbVilAq1naW1EOtW6JbnlInx0K/uvQYYsIF9X2eXdG953p7hrMFpR/HqX1D7zj6c0p0ocEcyAd7N/14lot/naU9YPiSEA/F6kjs8SbuXst+OUlAgHtfmO+xJDjWaN6jde88fIdoz+bFFDJ2Db18AuA==;Z5dmzLgN/lFu1REC0nwPuA=="
 ---
 

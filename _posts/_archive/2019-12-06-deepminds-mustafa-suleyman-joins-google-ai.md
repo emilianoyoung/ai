@@ -58,8 +58,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-    excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
+    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
     publishedDateTime: 2019-12-06T11:15:00Z
     sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
     ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
@@ -124,6 +137,6 @@ related:
         width: 580
         height: 358
 
-secured: "MdsHjVjsEOqUb3oUbG51YgI81IxKMm0/n8ACrNqijqZI4UpOZnmLbgo655IP19UH4E+KGb2fECh/0S/1W+mJab9B1EQxuJF4tisbcKuWEg7LCOrU6waRJpIFEHWW89mnKtgYWb8GdmO9/r2ZwjE0U3sBeSCf1qqfSlRR8/N57FTUTBWZfEmsrEVLOVW9xjVPHnKi/Cv9UUNiQQbV/0Ok6x0R/dKR+6wyFYEYOEwfQOfCixtAw7EuQxqyUt9dAACp/r5R3TCmY3nqJ7NAfOpDqA==;9DN5/lWU6W9ak+5Px/w9ug=="
+secured: "61i3dMjwNuacYIfWM/z87J7OvMgUi5eUsi55XYiUMx3lOyMOOPCfhx0uhVY762pj3Vtpf90ztNiYEhlASBckQbKeOUzwKF1Vh3A58hwxnSFn+xwL7MYUFu/mxA4BT1Sik+9HEH6dBPLpT1mGciG1TlHphvClhliqGtxsvTBa6EYQ5nqay/o17MlgtWduqDKlVo9jpPtJXQDFH9Ni4TteuNjY9yz8kZ+dnX1U+u4WqzSVI1m11PIBX1s4SQrhTtsqIbsq90pD+VSv+3RYRTtSZA==;y2qJkJSDnfQ/I5zEuQnnYg=="
 ---
 

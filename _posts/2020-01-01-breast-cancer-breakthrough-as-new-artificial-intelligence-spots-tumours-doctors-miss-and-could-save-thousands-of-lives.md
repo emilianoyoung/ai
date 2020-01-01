@@ -1,27 +1,29 @@
 ---
 category: news
-title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
-excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
-publishedDateTime: 2020-01-01T18:11:00Z
-sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+title: "Breast cancer breakthrough as new artificial intelligence ‘spots tumours doctors miss and could save thousands of lives’"
+excerpt: "A BREAKTHROUGH has been made in the battle against breast cancer as a new artificial intelligence system spots tumours that doctors miss ... is called off AI tools could support clinical decision-making in the future and relieve pressure on healthcare systems by reducing workload. Breast cancer affects over 55,000 UK women each year - killing ..."
+publishedDateTime: 2020-01-01T18:26:00Z
+sourceUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/
+ampUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
+cdnAmpUrl: https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI
-  - Google AI
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
+  - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
     width: 700
-    height: 366
-    title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+    height: 466
+    title: "Breast cancer breakthrough as new artificial intelligence ‘spots tumours doctors miss and could save thousands of lives’"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -97,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E6AC70E574BF2718C33609F37498B683
         width: 700
         height: 393
+  - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+    excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
+    publishedDateTime: 2020-01-01T18:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
+        width: 700
+        height: 366
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
     publishedDateTime: 2020-01-01T18:00:10Z
@@ -162,22 +177,7 @@ related:
       - url: https://www.bing.com/th?id=ON.3134CF0DC0CD73FDE615E137EF31CE0A
         width: 685
         height: 416
-  - title: "Breast cancer breakthrough as new artificial intelligence ‘spots tumours doctors miss and could save thousands of lives’"
-    excerpt: "A BREAKTHROUGH has been made in the battle against breast cancer as a new artificial intelligence system spots tumours that doctors miss ... is called off AI tools could support clinical decision-making in the future and relieve pressure on healthcare systems by reducing workload. Breast cancer affects over 55,000 UK women each year - killing ..."
-    publishedDateTime: 2020-01-01T18:26:00Z
-    sourceUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/
-    ampUrl: https://www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
-    cdnAmpUrl: https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/10653273/breast-cancer-breakthrough-new-artificial-intelligence-spots-tumours-doctors-miss/amp/
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
-        width: 700
-        height: 466
 
-secured: "tWieIKPPFf20hCypt5tbXGLYi0jPjOq7jpNbNXtblrysm1cHOP5GUxwl8rDiI6jJMrO2Ap6DQ+UkgtslA+aCGjMAcFwHD1SnjswRxPEn8O6ngQjkWbUm0lBXBHpTFpJ3nHaP+isPjoj8QmqwUanhHb3nlVG30Ti5P3QRpTs+1+7gm4fxZhLs1lWh8xgiUk/8WGJlK+d3X+dfhE1sb5V2YXnulVBfN6GIX0XLo3ALA4NuHBLCUU2S6e14drTwWtDvJ4OAui6/bQy8hwxxp9EV1w==;F6IanXUkGTAens3VxYDwhw=="
+secured: "BoDCLu68DQlXKfgVIkzMCUadukm2/B7nfxoOHxS2aagqSbNBcE+8b/BdDPhGba4XL6BtJ7qjbbVxf1Vf2yqex63NzSHQEHaO6HjgBio0xmLDTteETRJ4dzLQynnGmkG/GDsS4wVfs1+f4YkZP/yNbxIAh8USF1JI/ixKigAuIjrfDrdZpQ73Lj1txrdo4Ht1zpjS0AAcEeHtmUk1mPKrSnsv4cjyfOw2RoC/untzGLl5Jk0AZ2TMGjVmuxXuwJCxURvUBclAQTgAkdzCgvFaKw==;CF5IyNYrxhOsSP9QIqSYrA=="
 ---
 

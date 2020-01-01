@@ -2,26 +2,24 @@
 category: news
 title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-publishedDateTime: 2019-12-03T15:19:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
+publishedDateTime: 2019-12-03T10:13:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-1028734163
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-    width: 700
-    height: 366
-    title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 
 related:
   - title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
@@ -38,6 +36,6 @@ related:
         width: 500
         height: 272
 
-secured: "SGseicCJnsjBX7MWL9tdT6l9MGW6LgbEEfCW6V8Ml2e/5g5fsC5tEEH1wgW4mNrZhqekWQPdwzrkp3IOcvp3fjRrL6X2LJUW3Zz0fD7/IyW93PqRei45j6rA3YAJtzGXIr2rDS2oIpKN2iDchaPJVGPV+wCUjUvcJjS75nZc8N55LQmIx2nhZzViCyqB1himEIWlSzFmZY5cHXfwZVocsKV4RynKYEj5bhAi93+077FFe6p9jgbDAGekj5TWnkYkam6BqaykZcjtwsBguEQWlA==;pZEFl9l+ijizF3O16ENMvg=="
+secured: "aNYox8R5cNhXSqHWMJ4OV96cFhw86fKrfD4UjmXjXBbsGtxJJ4CDlvakp8g4edpu5MAlKDOAVFY2yb1oazYrgec9NvOJzIcpvb4RiwScnkRMu7+8VcmkHq7HZz+5EkJAXJaVMaCC6TwipRGX2IcpzQRoGfmZ7os54Bo4NaCtbx7mjwsm3E5yOZ1GcstEwb0OgfSSMcLmMc9JHM7sxpU0g3rYHZsAbmcgd/QjYy1FgHJUhUK7Knw7SkFZEKrdqszHxCCUhVv38QPamDcEeJ8kJQ==;yFQyy8FnFjknpR/bMpPp2A=="
 ---
 
