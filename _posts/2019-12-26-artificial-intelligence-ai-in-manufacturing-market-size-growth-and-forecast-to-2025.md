@@ -84,6 +84,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+    publishedDateTime: 2020-01-01T14:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "YaKvLXW5bIm7WPXPBeL4Sdi3PqiQlmS3rtjjB+jnPlLRC5+1SVo+Wjgh7BzAMzEtj6A82DVKWkjfDirGk3QA/5MW7IJtPhbqMFYBzQkNKrlOQCHdnyhCxVJRWUkl87cQaIeHcCnGOtLgSjH0WKGUVQoNvyNJraDZu4sE9VwTjYNi/zXQPDtZIcf85cICmIN/1HKR2EnE09j68rod7/TBIBDD2pHWA8CBiRl3L3O2lOFEi4Is0pn4ygykoAutAp3mTwfB/h63RcwW/ZfE0gHNPg==;MzY4di1RJree2TcJ87NR5Q=="
 ---

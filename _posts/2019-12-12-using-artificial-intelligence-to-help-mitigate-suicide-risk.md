@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191212/Using-artificial-intellig
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191212/Using-artificial-intelligence-to-help-mitigate-suicide-risk.aspx
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.73D733A0B80740961413D6C920396F5C
         width: 590
         height: 356
-  - title: "Can artificial intelligence help prevent suicides?"
-    excerpt: "the National Health Care for the Homeless Council reported. Phebe Vayanos, assistant professor of Industrial and Systems Engineering and Computer Science at the USC Viterbi School of Engineering has been enlisting the help of a powerful ally -artificial intelligence- to help mitigate the risk of suicide. \"In this research, we wanted to find ..."
-    publishedDateTime: 2019-12-12T14:34:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uosc-cai121119.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
 
 secured: "ynSA+bqpK4So/ahdI7pEMpsOnBTcFdxd5HKhdlQ41vZ+AcPO7OkMfa29zHURsHXFSUXy0sU2oL4Vr/JoKl4fVJhLW0iseozMzwpYDouZUBfPAyFPt0cferahEw2ouUGNFDJDRMMKXxjF5H9PpIRtTeZRxbPElmIBT9JeCIXqIxOafu+d7zp3hjGdv40Lb7iJs2VarEO73rZhLvV9PDkf6VGQqVtsVfYHG1zgU1j63Bks//SCyyIPZz9v2O1MXd5vGn1P4E6mVzQaQt/oFgCpnA==;wuiy4bp2fUmrxb5mW7jpnQ=="
 ---

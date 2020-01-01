@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Amazon Partners National Football League For Player Health, Safety"
 
-secured: "S/ix87e5eO4LMzCWmxQ8icYA0RDV8jyPX62n3U3AvYZe8GjynSOkFIWM2rXUcG5h2vzll91+vyUiK7jJCRJ1oeJJVI4z5fPUWSXrZxV0PviJwBtOygSYnHsK89cBMw7lRUGgnxfeSPFU9iPF6bNOL1/RCtg6X1Pzx7xwUA+UCircTcUH5fQruWvLOMELG99/TxkdGEkerOpHEzTwz+qAPc/u/SeOLQb+AB9Q02oOYse1ZpuGyLwOGBob6JRcQ4nRbFMbyc+RrBAd2qK5IQp2+g==;LpuD0raZ2Frc+BvGGf8eWw=="
+secured: "MPLWPic8jqz56TZpR9F3N4WLJZ1L4vey1ta3Emy1nEx9W8sOXwg0V+tU/NRH1BBoPkXl1634dZBvhZtJPMDtll/7mKBQvsRKGmPSS5arbrNVfF+qFlbP/clm0Ni/TcSrd8gLwAog0Imb4gY4ZJOyyW4uI/ht/sIYngYkd2rphWsHvAnLrH6PGdN45LMZfT3mbxuiG4lqpy1QC+Ei6QqRLUTA1TZ73V+Kz3FZiYojCn+NghPu5h8C5fxjLTt3mxJeB4qxNWIGrkyjDlyHBtzrbQ==;deOPtJ3awakddNyJUbFoSg=="
 ---
 

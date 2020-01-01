@@ -39,15 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "Can artificial intelligence help prevent suicides?"
-    excerpt: "the National Health Care for the Homeless Council reported. Phebe Vayanos, assistant professor of Industrial and Systems Engineering and Computer Science at the USC Viterbi School of Engineering has been enlisting the help of a powerful ally -artificial intelligence- to help mitigate the risk of suicide. \"In this research, we wanted to find ..."
-    publishedDateTime: 2019-12-12T14:34:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/uosc-cai121119.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 21
 
 secured: "NtJodOM1bvMM5SaAnIdhdYba23Z8YFr24TCK1Y+Mg6VxIgBGghA2fsj5gonvRMQ0mPkJRZlHFEYjkmA9U5fY8ZmrmZx/Nl5FQy4uCrGA309aitZJa5eHhOTzoekOva8eAZA/QJFHyX34mp8vxzjSzl2uqrOC/+iUzhKGjAHG743o4QQeZdooJjdoLs2lmI7GET6K4080M3Rbt2SWfs5ZW6Srj5xGaKwJA5XkWzcAots9HhKjTJQDYvVLF8LXRlqA45pPsp8z3rVtIj6mXYIxCw==;98IoAajJpVVxLlw0trBwIA=="
 ---

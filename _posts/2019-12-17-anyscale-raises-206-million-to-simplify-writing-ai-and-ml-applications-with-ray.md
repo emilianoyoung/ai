@@ -30,21 +30,6 @@ images:
     title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
 
 related:
-  - title: "Augury raises $8 million more to predict mechanical breakdowns with AI"
-    excerpt: "Its wireless Halo sensors — which attach to commercial refrigerators, industrial-scale heaters, and practically everything in between — record readings like vibration, temperature, and magnetism and upload it to the cloud, where AI algorithms ingest it to make predictions about the machines’ health. Augury counts Johnson Controls ..."
-    publishedDateTime: 2019-12-12T14:10:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
-        width: 700
-        height: 350
   - title: "Voximplant raises $10 million to automate call campaigns with AI"
     excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
     publishedDateTime: 2019-12-17T13:00:00Z
@@ -75,19 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
         width: 700
         height: 367
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
+  - title: "Voximplant Raises $10M; Expands Its Cloud-Based Voice & Video Communications Platform"
+    excerpt: "Customers use the Voximplant CPaaS to build leading edge applications for cloud call centers, IVRs with voice recognition, unified communications, programmable call back and voice notifications, as well as many others. Voximplant currently supports more than 600 million calls per year with 20,000 paying customers to date across market ..."
+    publishedDateTime: 2019-12-24T08:57:00Z
+    sourceUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    ampUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
+      - url: https://www.bing.com/th?id=ON.CAF72CA2CC3E56CC12D7A0D31C0F0247
         width: 700
-        height: 457
+        height: 466
 
 secured: "NuIMMtbEE+ECfK3T1/cRw/18vUGkjZqP87lCyAUpRV9pB8qfLS+RQA2tU85oREExkV+jbHZTwo4BpPvPFk1A+Tfw+Qi/iLplPymrSsm8Juy85kWMPTrZcA+8Mva7IvjO2EgBDN0GJ8wiw6a6ZhuAaGigggGNnBvB6Z0SLSNj8JrvsUgF5RhQdG/vUlLUCTGX4UREZFgQIc4qGiZ4b6ms7SvlZblPN4UbpJaKI9U06i3QM48xelJD9laLa8nYqDt47fA/EUOChB1e0he3Sh33eg==;qQqpBbUfeW8YFwlfQ6V3VA=="
 ---

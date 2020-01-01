@@ -80,6 +80,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+    publishedDateTime: 2020-01-01T14:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
     excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
     publishedDateTime: 2019-12-26T09:56:00Z

@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-autom
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -29,21 +29,6 @@ images:
     title: "Voximplant raises $10 million to automate call campaigns with AI"
 
 related:
-  - title: "Augury raises $8 million more to predict mechanical breakdowns with AI"
-    excerpt: "Its wireless Halo sensors — which attach to commercial refrigerators, industrial-scale heaters, and practically everything in between — record readings like vibration, temperature, and magnetism and upload it to the cloud, where AI algorithms ingest it to make predictions about the machines’ health. Augury counts Johnson Controls ..."
-    publishedDateTime: 2019-12-12T14:10:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
-        width: 700
-        height: 350
   - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
     excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
     publishedDateTime: 2019-12-16T14:00:00Z
@@ -74,19 +59,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
         width: 1100
         height: 550
-  - title: "Hillel's Tech Corner: MDI Health brings precision to medical prescriptions"
-    excerpt: "As the healthcare sector continues to evolve, thanks to technologies like artificial intelligence (AI) and machine learning ... and about 275,689 deaths per year were caused due to poor optimization of drug-therapy combinations. The FDA defines drug-related problems as the fourth leading cause of death in the US. All this begs the question ..."
-    publishedDateTime: 2019-12-12T20:25:00Z
-    sourceUrl: https://www.jpost.com/Opinion/Hillels-Tech-Corner-MDI-Health-brings-precision-to-medical-prescriptions-610782
+  - title: "Voximplant Raises $10M; Expands Its Cloud-Based Voice & Video Communications Platform"
+    excerpt: "Customers use the Voximplant CPaaS to build leading edge applications for cloud call centers, IVRs with voice recognition, unified communications, programmable call back and voice notifications, as well as many others. Voximplant currently supports more than 600 million calls per year with 20,000 paying customers to date across market ..."
+    publishedDateTime: 2019-12-24T08:57:00Z
+    sourceUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    ampUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 22
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.70C00597EE7B25D34FFC463817B66262
+      - url: https://www.bing.com/th?id=ON.CAF72CA2CC3E56CC12D7A0D31C0F0247
         width: 700
-        height: 457
+        height: 466
 
 secured: "+1SLkuVWVpF9CbJQtPksgOeSQrr/UbKT3DIfZEFp5ulobnOH4x8EQbMJ4yzGNsrilU3NQyCtUhbKSi5pP2oV1JekNHvgI5mXo9BYieqU70EJ38j/GvdPn0DIHcaMcPNRJ3O7+rMRp3y3B49A8Fkd4KfJNjRpj2Rfkdfl93A8po+SuqG4tjwIPUWIlPJZTogQS4pVTXoplRtPnGa8MsLgrAnGy5617fqPj1IcS9uALKZHFCYeMA343qPfwBzb7lgRFztEE70sx37JrRTZa3+pdg==;TFqGUFf3r/KOFdf1LErA6w=="
 ---

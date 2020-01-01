@@ -24,19 +24,21 @@ images:
     title: "How AI is Transforming Healthcare Industry"
 
 related:
-  - title: "Harness AI power to transform healthcare"
-    excerpt: "To address the twin problems of diagnosing cancer early and to treat it at a fraction of the cost, the field of Artificial Intelligence must be explored In 1910 ... With 11.5 lakh new cancer patients being registered every year in the country, the healthcare system is reeling under overburdened workforce and inadequate infrastructure."
-    publishedDateTime: 2019-12-27T19:11:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
+  - title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
+    excerpt: "And thanks to artificial intelligence and pervasive technology ... As data science makes it easier to identify people at risk of disease, healthcare AI is surging. Deep learning techniques are helping doctors spot the early signs of Alzheimer’s, eye disease and major cancers. And they’re accelerating the detection of advanced kidney ..."
+    publishedDateTime: 2020-01-01T15:28:00Z
+    sourceUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/
+    ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
+    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 59
     images:
-      - url: https://www.dailypioneer.com/images/logo.jpg
-        width: 325
-        height: 325
+      - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
+        width: 700
+        height: 393
   - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
     excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
     publishedDateTime: 2019-12-31T02:10:00Z
@@ -61,6 +63,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
+    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
+    publishedDateTime: 2019-12-30T21:02:00Z
+    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
+        width: 1903
+        height: 836
 
 secured: "QN0IJgDlYEFh9EGK/7le2lL1sSaS9FpaAeoetknCnVCykKCUHhnQpovsaRZ3bhGWzw9/+le3U//eAMy46b1uKyzJ23ydl5HNQonq53UFdkTb3ppN+IilU4ggMS2mLoS/XjPsTs/w6jyZDx18dPNHs0T/bkQoYVko7wQba8NmNxaZ1EYgDvEOkLzzMozXgdJPaoqamsxbJ14K2KFcWJbGy/h0OaCKsJQrztzCGy+RnVOn1KdgJ76YqA9KMxIufQIlVUh9mdbc5GkCnRtLEvmQ6Q==;yHKXusTp5lekR47UROtCcw=="
 ---

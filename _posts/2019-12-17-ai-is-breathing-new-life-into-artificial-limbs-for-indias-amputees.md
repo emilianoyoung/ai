@@ -57,19 +57,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
-    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
-    publishedDateTime: 2019-12-12T14:06:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
-        width: 600
-        height: 314
 
 secured: "LmZgRqPEIcmozCXFHSIgK2uxoGhu37a9x6e7Clx9UvViJAiOuv4D3GTawtZ+aThuuroDoNVypoHPVYKMXhsaDlpZvq3UnG7G4fTSwF7I91Be/DLzvKu1FZr4wTmocJ1Pmt5z1xVIrutVJnTo8D1WA+GLDe90EboDsVUsNdXuIzOG2nM7zWrVAlBEDJc85Ta4nx7wo1eVyRlWaxYGnqQdJE5EsarA4/DfJv2giF4djQ5XAW9TxFMQC9RqrC01mO8idaUC8nzdcoPgVPuV/am/Pg==;GjiNIjlh+KTy2xjEjbSz1w=="
 ---

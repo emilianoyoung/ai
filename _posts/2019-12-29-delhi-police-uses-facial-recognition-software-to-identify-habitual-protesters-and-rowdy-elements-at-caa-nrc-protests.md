@@ -26,6 +26,36 @@ images:
     title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
 
 related:
+  - title: "Police Use Face-Recognition Software as India Protests Intensify"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
+    publishedDateTime: 2019-12-28T05:22:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
+        width: 700
+        height: 466
+  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
+    publishedDateTime: 2019-12-28T07:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
+    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
+        width: 700
+        height: 437
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z
@@ -41,32 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
         width: 700
         height: 393
-  - title: "Researchers: Printed masks can fool facial recognition systems"
-    excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
-    publishedDateTime: 2019-12-24T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/researchers-printed-masks-can-fool-facial-recognition-systems/
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
     type: article
     provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
+      name: The Wire
+      domain: thewire.in
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-        width: 300
-        height: 170
-  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
-    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
-    publishedDateTime: 2019-12-28T03:56:00Z
-    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
-        height: 366
+        height: 350
   - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
     publishedDateTime: 2019-12-28T11:42:00Z

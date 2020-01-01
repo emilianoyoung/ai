@@ -93,19 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
         width: 640
         height: 427
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-    publishedDateTime: 2019-12-11T11:14:00Z
-    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-        width: 991
-        height: 557
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z

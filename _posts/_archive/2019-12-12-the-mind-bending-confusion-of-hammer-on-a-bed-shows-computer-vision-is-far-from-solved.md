@@ -1,8 +1,8 @@
 ---
 category: news
 title: "The mind-bending confusion of ‘hammer on a bed’ shows computer vision is far from solved"
-excerpt: "Indeed, when the creators of ObjectNet tested a number of popular machine vision systems on their pictures, they found their accuracy fell between 40 to 45 percent. The green line shows performance of algorithms on a standard dataset. The red line shows performance on ObjectNet. Image by Barbu, Mayo, et al. This fragility in computer vision ..."
-publishedDateTime: 2019-12-12T14:20:00Z
+excerpt: "The red line shows performance on ObjectNet. Image by Barbu, Mayo, et al. This fragility in computer vision systems is well-known, though, and AI engineers have been working on this problem for years. They’ve even released similar datasets before ..."
+publishedDateTime: 2019-12-12T14:24:00Z
 sourceUrl: https://www.theverge.com/2019/12/12/21012410/machine-vision-ai-adversarial-images-dataset-objectnet-mit-algorithms
 ampUrl: https://www.theverge.com/platform/amp/2019/12/12/21012410/machine-vision-ai-adversarial-images-dataset-objectnet-mit-algorithms
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/12/21012410/machine-vision-ai-adversarial-images-dataset-objectnet-mit-algorithms
@@ -24,11 +24,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.A26D8930349D41E50C5A9FFEEC59E21F
+  - url: https://cdn.vox-cdn.com/thumbor/CgOHWVmE_YBCx2efE2FvlmHAQFw=/0x0:639x426/1400x933/filters:focal(269x162:371x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65883344/objectnet_collage_1800.0.png
     width: 639
-    height: 335
+    height: 426
     title: "The mind-bending confusion of ‘hammer on a bed’ shows computer vision is far from solved"
 
-secured: "SSSsCObrtaH7jgkRswSkfdtB9xgP2MYJcK33RbRFi+zSHcrRpaxtzzGlfaaqrhgrycYWG/mMzfBViU0EgprX4ZsXnNzgpfid8KEqs02A8+RzRcueIsa2M0WOm6X1+hcHTBf51+45ZTgaxAL1eKWqC6ynsnZYCdthWeMPPswJrrCXTBbuplx38kIIKqMVP74ACIjNRgl3kQPIE8KrUrfu7qYEA2IytMxy7SDdnG4amnZBBOLDTT0T9Vb4JQRJ0YadrUqDghvbzqzULaGuPswwzA==;H4ZWDTeuzYsAkEqKkHI9Fw=="
+secured: "0rGCvYpA2v8CYH2CRUHdLEaia1KRstFDJOwBpE9GO0mbeTJeoe93U4B2x2WgS8G5KG5SFA1s/PZxFSbyayO7JLdhij6L3nl8XQIhFmJ1kgX286TfcS1r+X86jL0UXpU/ZnXBM266m2684s8pZYs2OxLcAYJ8forj9l1CAitBcnPfv9P92XAjQcaouQ9wO5go944YGHdaEhAT2pxJsN18n91MbOFcjJ0bjaqGBVbKE1Si8qwnw2hQlBNJaqw4rJnn0CqrZOcaoy3r2ncMfdJb1A==;BZoZdOoySmeVx+YjHes3yw=="
 ---
 

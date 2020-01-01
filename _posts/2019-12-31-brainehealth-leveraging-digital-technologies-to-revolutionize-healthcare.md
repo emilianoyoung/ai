@@ -20,19 +20,21 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Harness AI power to transform healthcare"
-    excerpt: "To address the twin problems of diagnosing cancer early and to treat it at a fraction of the cost, the field of Artificial Intelligence must be explored In 1910 ... With 11.5 lakh new cancer patients being registered every year in the country, the healthcare system is reeling under overburdened workforce and inadequate infrastructure."
-    publishedDateTime: 2019-12-27T19:11:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
+  - title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
+    excerpt: "And thanks to artificial intelligence and pervasive technology ... As data science makes it easier to identify people at risk of disease, healthcare AI is surging. Deep learning techniques are helping doctors spot the early signs of Alzheimer’s, eye disease and major cancers. And they’re accelerating the detection of advanced kidney ..."
+    publishedDateTime: 2020-01-01T15:28:00Z
+    sourceUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/
+    ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
+    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 59
     images:
-      - url: https://www.dailypioneer.com/images/logo.jpg
-        width: 325
-        height: 325
+      - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
+        width: 700
+        height: 393
   - title: "How AI is Transforming Healthcare Industry"
     excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
     publishedDateTime: 2019-12-29T12:06:00Z
@@ -59,6 +61,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
+    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
+    publishedDateTime: 2019-12-30T21:02:00Z
+    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
+        width: 1903
+        height: 836
 
 secured: "vIMpbB5RsvuOKV5ouodu8PBRkA5jJ5d9/VMv22QHP5GGs8mFGEcwvqvX5QVA3j+Ytn4d7tyYqkhrhFAAu91BYhx8bavu7UrCyhlHj6a4dEcwhClNjLnh3I7FkaG30PAc+PpYFW2rKZnsAVFjqVX7Iv3uZ6Cko5us20fKLhR/rxEnAr8LE1Sep/tphudwT79qsF0LD3BP1MNt+HcXgsPOIgmw+I5Roe92XNfqp1Z7HvCYTNKi+bl2+R4uXeXSA63L8lYD9pq8V0ezIWbGpILScg==;xjaCZ0s+QmeQ7Qv9/qmEuw=="
 ---

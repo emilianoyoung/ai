@@ -2,18 +2,16 @@
 category: news
 title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-publishedDateTime: 2019-12-30T12:36:00Z
-sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
-ampUrl: https://amp.usatoday.com/amp/2755613001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+publishedDateTime: 2019-12-30T12:54:56Z
+sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: USA Today on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -377,6 +375,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Le3Ury909SE5nN04yNBab/DPevJm0JZyDxZidwlNEhmV4lTPy0WgXTL0n37rqV3ZykFATX3llWqEO2volx8VrkshaKtepL8zGS673WPdaKhRJLMTcf+pLdKoNRUs4f2icizlgwyLXBUQly9zuPkNEShwsdFpnK5pltky4BQgMOhdHkwfIWxnKnH2EtLtZpf63YIDQ8TgxzHis/4MTkTb+h3U4OTCxxaD5y692AHT9jvtSUMUC1XbI1+xw8Doy2qs1bpmEAC253aVZZZDN4bA7w==;t6EZTA1B6U4XMolDOKjOWw=="
+secured: "HVBY2Pv1OXmum+BclUipPGzljZt6+DqccU3LtLniAKriGBtEm65D7EYPLfDr+Mugeygz/3rkAk4Wb8GkD9Nbu83Ez5cCQgeRIvM7fOheSXmLIa8qZB31ANhneHd40KrhtLXiwI0/YKrR3PnfsD475pI9WYu+IV9T/sBPrdJEkWuZRm0ygxuN/yKarEhkya8Efh5JJuW5Cc4N3VnKDVhavAhEGNkhYztX0u8NAuyBcs37nY4M96mtnWN7uSpSnDXryKGTMYhp3V53VFMzbQNJgQ==;/3x/3sUyoo5E0TganwHv9Q=="
 ---
 

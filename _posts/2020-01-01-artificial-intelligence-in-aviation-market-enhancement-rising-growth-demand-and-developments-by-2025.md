@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
-excerpt: "Dec 27, 2019 (Xherald via COMTEX) -- According to Verified Market Research, The Global AI in education market was valued at USD 521.04 Million in 2018 and is projected to reach USD 10.38 Billion by 2026, growing at a CAGR of 45.12% from 2019 to 2026. The report presents an in-depth assessment of the Ai In Education Market including enabling ..."
-publishedDateTime: 2019-12-27T08:12:00Z
-sourceUrl: https://www.marketwatch.com/press-release/rising-demand-for-ai-in-education-market-to-grow-with-tremendous-cagr-by-2025-2019-12-27
+title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+publishedDateTime: 2020-01-01T14:07:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
 type: article
-quality: 64
+quality: 51
 heat: -1
 published: false
 
@@ -24,7 +24,7 @@ images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
+    title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
@@ -49,6 +49,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 80
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
+    excerpt: "Dec 27, 2019 (Xherald via COMTEX) -- According to Verified Market Research, The Global AI in education market was valued at USD 521.04 Million in 2018 and is projected to reach USD 10.38 Billion by 2026, growing at a CAGR of 45.12% from 2019 to 2026. The report presents an in-depth assessment of the Ai In Education Market including enabling ..."
+    publishedDateTime: 2019-12-27T08:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/rising-demand-for-ai-in-education-market-to-grow-with-tremendous-cagr-by-2025-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -79,19 +92,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
-    publishedDateTime: 2020-01-01T14:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
     excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
     publishedDateTime: 2019-12-26T09:56:00Z
@@ -102,6 +102,6 @@ related:
       domain: openpr.com
     quality: 28
 
-secured: "asn9nxTwPtHUl3mI1ga84FJOju/w472/fyvtajV55e6VWYR/yEuXtAAHxO+iehz+5UJkkNTvm2y6md+rvSdv6on8KDNObWJePy/ZLhOY7T2MyIMo046xoM4M3bEewv5k29nMYfE4aw86B47b9AKC/FaNh2zs34vRTQQ980hRQIKyvBi2FT3f3KvaiTrbfgOAVjvzpNs2A36Xrtx6nzA+R3xhFI0FCOFyTg46TSxeck8fhkOQ1vlptcsM0oz9FJATJ0fO7uTNb7M6eT3OmXrjhQ==;HZqmQm8tfSIQASvScsf0wA=="
+secured: "pWz1Dd3sdPyI7R1DMV7iaQtnMwqlmcIHCp6Q7RAlCDfaAvoV2grNI2SrST3YBq7evbmBuhhMcwZhdE+qOCd8cYvlgZlAFb/+FoFWAkFggiiU20FukxaNXV447m0GOXm0vSJWyN2WQaGh/6wsFYFWA9MLmu40fRFuT8RTuYA0n1a4QuD6hf67j3NqNw4cIjOrubHdmT0ZEzuIAtEHThufWKsrpr+BQ6aFtUb8PjCUD5dGtVUQzWXABK/wARIf7/1eBDuJtBlj/zocJKX+BMDoFQ==;i4Dze4VMFzuXpulEH9IlUg=="
 ---
 
