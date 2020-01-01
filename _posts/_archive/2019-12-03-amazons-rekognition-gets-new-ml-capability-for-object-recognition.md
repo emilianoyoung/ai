@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
+excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
@@ -15,8 +15,8 @@ provider:
 
 topics:
   - AI
-  - Computer Vision
   - AWS AI
+  - Computer Vision
 
 images:
   - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
@@ -25,19 +25,6 @@ images:
     title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
 related:
-  - title: "Amazon Web Services launches Transcribe Medical speech recognition service for clinicians"
-    excerpt: "Tech giant Amazon is reaching deeper into healthcare with a new speech recognition service for clinical documentation. At its Re:Invent conference in Las Vegas Monday, Amazon Web Services announced the launch of Amazon Transcribe Medical to convert ..."
-    publishedDateTime: 2019-12-02T10:58:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/amazon-web-services-launches-transcribe-medical-speech-recognition-service-for-clinicians
-    type: article
-    provider:
-      name: FierceHealthcare
-      domain: fiercehealthcare.com
-    quality: 30
-    images:
-      - url: https://qtxasset.com/fiercehealthcare/1575292891/shutterstock_1083512990.jpg/shutterstock_1083512990.jpg?z3zuh99e9y1fwksPgMgicHN2E7EI02Y0
-        width: 4432
-        height: 2955
   - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
     excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
     publishedDateTime: 2019-12-04T22:24:00Z
@@ -52,6 +39,6 @@ related:
         width: 960
         height: 640
 
-secured: "NHdWIh5yxtNwmaqz0jkSgqwB4opX12uOfcjGma9oTg5gpXTzQZtkA13KPBBrPJ3ctt9Bp4W003N0LAFqRJ1yTN04gsxQrCj6n3OFrg6UZAuW5jeQDFc9hWbICZXF6fbAfNwjGhh4SovTOIWPQZa34us7FqZ3qFPSemFhEzvdTmYBNyJ1a9HvppM3sQU5R7YjDLOUA/7/o2cFIoSkDKCEKd8C5uWyEDI6pkD2ognBPbxDhTe9OuGLan9C/hkiwjGvPfX+Hm3VMvBkSSjf31HlCQ==;xkeaGJ7W7XMdUgV5Ly9C6A=="
+secured: "j9X06q4ygpWDvIFdrnJdeiPU4pAHGUForrNq4rxBOMXoZ2N+ZDLhCqAnbCB1qQ968nQWovXkPFdojcQry3+cCNT8zubDQm2xG1VrfmpkZKzxNk8VocVI32L5kMPLrHqgcX6V9T/QXp+ZURUpnzx1hDB4wflLXjhpydkZWv5vL5wW7i8I1qnO/MXa4TOMtXdghNYMheljcahT+9XqzRifAO71ZBDbuUp14edq35OmhLkM+x+apvfQexiakt5SsbLElMB9xqkGg2UvQaHb3DU/3Q==;7Odb9m7brdse645z8RoOeQ=="
 ---
 

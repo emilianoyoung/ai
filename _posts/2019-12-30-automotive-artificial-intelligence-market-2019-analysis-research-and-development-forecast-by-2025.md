@@ -164,6 +164,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "ehIJe+2zVZGGeXyrUML1oesYfQtfI4D4m8/fsA4IQjdlnQ8h7UsMu7O+GWLhIMkU/Cwg7d3q4qDTYkCODHIEqGYHgA4KNd+uCiBzcw27I44sbqceJfEecHhjhMtzu7xrb1xUN1JAr81livg8e18eS3XcNkhrXY+oSmW3KEAZwzikMRXMLKNVuKbG6JGWSE+xNQxC35Oz1a3y/abdWa+JDvT1vR1G2c+UY7PxRtgqz2ye+Ii8pHv+cwhOYq7MJZhi3ulEUtpJBCE3l2wIOfH/JA==;hitXGifBw5kLj2kP62xMUg=="
 ---

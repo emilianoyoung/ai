@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Cloudera tackles machine learning \"ops,\" governance"
-excerpt: "Also read: Alteryx expands product set, makes data science acquisition The major cloud providers are no strangers to MLOps either. For example, Azure Machine Learning has experiment management built in (and announced in April that it was joining the MLflow project) and Amazon Web Services announced several ML capabilities last week at its re ..."
+excerpt: "For example, Azure Machine Learning has experiment management built in (and announced in April that it was joining the MLflow project) and Amazon Web Services announced several ML capabilities last week at its re:Invent conference, including the SageMaker ..."
 publishedDateTime: 2019-12-11T14:00:00Z
 sourceUrl: https://www.zdnet.com/article/cloudera-tackles-machine-learning-ops-governance/
 ampUrl: https://www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
@@ -44,6 +44,6 @@ related:
         width: 300
         height: 300
 
-secured: "gHeTp4vZuMRyPAqXhL3uYxC5vjIVG7JK6DVnDFGyl3SFfHqaa5/MRYGNZmYOpJ2AyjkQSNyNNyKaLJESf851+5dtKKsFoBkDUPcoYN7c5Iv5gh8c3VbNu3121V5Uln7NIeYo56GqpShzaOG1hy8SvC7SLq0rAuLTJapX/Gfj//ArNpPP3TnXKnIoI0PgDzJZ/Q6oDNpqSvCb1qUmAN/CdMGTCBGOwc7ApDStWeKd8KpS8ykSgr+xjEn9jpzjhhsEG1v/gBCSo3qy8+sMGFo8yg==;XpSK6Z7Ccq5rgEMXNmkXnw=="
+secured: "j+eQi8f8EqCQCn94WsM9tMZKlfoGe9wAaFyJOTFzJuV77Fy++SJHqKEILWpslQ0E8qKRHOpho2iHqij+AJ6k0N6dexWcG83D2FGMlVgJnn7Rrj/taQz6K992l+bxaSXyrqJATdRrL02AE055fLqA5YS2HzwFigAACtQHqBVe8v29jhGtShtaSYBDiSxlwIbsj5f0EvA1VZjdL8zl0EKWSPuJVR7r/iKf5iIVnt0tUlrSsiwKsuvbqKumOP6iyGOXvNIVikReDsF7YqrpzTMs3Q==;eGEWRWo99sQXtds6O974XQ=="
 ---
 

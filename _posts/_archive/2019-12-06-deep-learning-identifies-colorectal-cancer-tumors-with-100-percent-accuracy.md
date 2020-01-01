@@ -25,21 +25,6 @@ images:
 
 related:
   - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in ..."
-    publishedDateTime: 2019-12-03T12:41:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.html
-    ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
-        width: 1920
-        height: 960
-  - title: "Deep learning identifies molecular patterns of cancer"
     excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve ..."
     publishedDateTime: 2019-12-02T19:47:00Z
     sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
@@ -49,6 +34,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "udAod8TvD7JK0KB4f2cioonh5n9nKkIdonQyxqTbP5ps2G417YHwcnqE+kF1XkwAGV3hVLvBKIDfyAEtyu6bkL65Gvo066L+K6BNwFT78c8IjnRCbJasqqfnGTG2xQcQtouQmBqo8+r+h82YUDhcySFUqEI5gnBMXxisx4aLHBc4A4t36L9StM0oLn1MLkM7eryKes++FaEP1ngQhPL3+CyhYxhvQfcOUA0X5YuEr1AeEuYWXx36OxWr8bw4x2wU3PmX7YoFdOAWK9z35pvX4Q==;Qi5FdDJnoGQfdhDypCT6wg=="
+secured: "nQ8SPj0+quFGY2N2Jk8qOkJpJsfp3Z7Ao2idqEEmOTuh9sz2XDMEI60uC1UjRShXultIK21DKs6DKNmkWfJJwJEfk/+q48U/1pXeS3drjemW/OxLrgijcemlQMMlSRl+tAFmPm+ohEzscnd2hit9gVTD0ZfLPemkJha+N4braBUEcr8Tq2b3lDqSGkOSgRxLG7d0cvHvart7Iv4qQxE6Yia27usUvdPQ1DuzG/ZFC9MorsAp4K3pbW9YrjaPD+5KkifBbLB1J44nRz5yRYY8LQ==;plTcVbgYRM466m2imu7/7Q=="
 ---
 

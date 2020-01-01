@@ -45,18 +45,16 @@ related:
       domain: yahoo.com
     quality: 27
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
-    publishedDateTime: 2019-12-16T09:06:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
+    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands ..."
+    publishedDateTime: 2019-12-16T10:09:00Z
+    sourceUrl: https://www.benzinga.com/node/14993434
+    ampUrl: https://amp.benzinga.com/amp/content/14993434
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993434
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: benzinga.com
+      domain: benzinga.com
     quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
-        width: 700
-        height: 365
   - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
     excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
     publishedDateTime: 2019-12-16T09:56:00Z

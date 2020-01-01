@@ -161,6 +161,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "CbnInba41PP19n1VdTlObtA1WEdlQNjZik+Vd6OpZvP2hINCgWyF49vNLCGyXsF8IHHEnxDNdRUFSVeX5/iWVX56X1gG/rz905kAp7uomIixWShQMoLL7MoLidZwQ3KA9V+lXHaP2g2S7RHXEETxEezNxhqUJ0cyt75qCur0jiblds0Oh78ccFAlJ94EAJRbyKoTEyZdIyt1WXl0DgFrdu7Lpiw61JsQ8of2MoTM7j4Z73h2/0cfSb8euVxMt4NFwkzMTgOFkHun3feedCc5uw==;dYYSjcESU3ZJJX2TErjyIw=="
 ---

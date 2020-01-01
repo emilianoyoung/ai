@@ -237,6 +237,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:36:00Z
+    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+    ampUrl: https://amp.usatoday.com/amp/2755613001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+        width: 568
+        height: 320
   - title: "Use of facial recognition in rally sparks privacy fears"
     excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
     publishedDateTime: 2019-12-30T21:16:00Z
@@ -276,6 +291,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
         width: 700
         height: 394
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
+    publishedDateTime: 2019-12-31T14:16:00Z
+    sourceUrl: https://www.yahoo.com/news/u-government-study-finds-racial-231410866.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
+        width: 700
+        height: 466
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -302,19 +330,6 @@ related:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
         width: 700
         height: 393
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:54:56Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
     excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
     publishedDateTime: 2019-12-24T06:30:00Z

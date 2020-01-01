@@ -2,22 +2,16 @@
 category: news
 title: "Police Use Face-Recognition Software as India Protests Intensify"
 excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-publishedDateTime: 2019-12-28T05:22:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+publishedDateTime: 2019-12-28T05:22:56Z
+sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
 type: article
-quality: 74
-heat: 134
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -45,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
-  - title: "Grill thief arrested after photo ran through facial recognition software, police say"
-    excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
-    publishedDateTime: 2019-12-27T21:15:00Z
-    sourceUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/
-    ampUrl: https://www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    cdnAmpUrl: https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2019/12/27/grill-thief-arrested-after-photo-ran-through-facial-recognition-software-police-say/?outputType=amp
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
-        width: 700
-        height: 393
   - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
     excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
     publishedDateTime: 2019-12-29T11:40:00Z
@@ -75,50 +54,33 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
-  - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
-    excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
-    publishedDateTime: 2019-12-29T00:05:00Z
-    sourceUrl: https://in.news.yahoo.com/delhi-police-uses-facial-recognition-062529810.html
-    ampUrl: https://in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
-    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/delhi-police-uses-facial-recognition-062529810.html
+  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
+    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
+    publishedDateTime: 2019-12-23T16:32:00Z
+    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
+        width: 400
+        height: 400
+  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
+    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
+    publishedDateTime: 2019-12-27T00:22:00Z
+    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 34
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
-        width: 280
-        height: 187
-  - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
-    publishedDateTime: 2019-12-28T11:42:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
-    ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
-        width: 700
-        height: 411
-  - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
-    excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
-    publishedDateTime: 2019-12-28T00:06:00Z
-    sourceUrl: https://in.news.yahoo.com/delhi-police-film-protests-run-234158355.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
-        width: 700
-        height: 389
+      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
+        width: 200
+        height: 150
 
-secured: "C8Sb47B92siNRZR02aXkNJ1mOjAV5sQ23Me2Y9oMJeJbQT0BgW4po6RHik3DUqsRhMIoTbIDDHBqoXPao5XM+JSJt5dlT7Nt6GBEjP8azF21U3NNqsbPzB7X1sVFd1G4UnPs85mYi6AxPk0tK2PufesZXnOHEh+P7w8I0PF96v0sWxVS7FZnxLe9vGsdNk1vCB+6HNdvZeInAMr2HQndOHkdEeGrpnvEkIuG2/+xRwUwjXrAc8uA9e67kespnDRfzjkejNagYr3iIKX3BPkwxw==;3ObeJFzu/diI0Nl09UbBMQ=="
+secured: "KSZBoEPVknzwuZLDdv5C08e1oWs3prAQHdh3VKYDSpfN1RYeERo1gzA4V2TifrwssgtwoMVsz/ynziHlsLjd+h/nfvhLHApjTfHmG/4mJoJnxKEA4g6zrdjUF7/U9s5YUqruhVwIwq5uEauOJTIeVqXMZYhQjr5KAv84zraGLbw9t/bTsD+MLpSgTNCYJLKb2iYRDvgZUEzkgTy8ksNA/5DwdoQ9FFR2BeUI4mwZn2AyyeMdlOTdK51JRyc3ZcPCNpdKEH5YtPa4muufply5uA==;DGyViXOCFLxGkU5o4raxqg=="
 ---
 

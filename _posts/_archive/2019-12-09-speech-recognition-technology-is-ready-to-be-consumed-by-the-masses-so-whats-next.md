@@ -284,21 +284,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "China Continues Facial Recognition Adoption With Airport Scanners"
-    excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
-    publishedDateTime: 2019-12-11T23:25:00Z
-    sourceUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/
-    ampUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
-        width: 457
-        height: 305
   - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
     excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
     publishedDateTime: 2019-12-14T13:00:00Z
@@ -656,17 +641,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Seattle Airport Wrestles with Government over Facial Recognition"
-    excerpt: "The Port of Seattle Commission has banned the use of biometric technology, but they only control part of Sea-Tac. The part that is controlled by Custom and Border Protection will still implement facial recognition in July 2020. (TNS) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at ..."
-    publishedDateTime: 2019-12-11T23:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html
-    ampUrl: https://www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 54
   - title: "Lockport Schools moves toward full implementation of facial recognition software"
     excerpt: "LOCKPORT, N.Y. — It's a topic we've heard about for months, the use of facial recognition technology in Lockport City Schools. Now the district is one step closer to full implementation. \"Over many years the board of education has taken school security ..."
     publishedDateTime: 2019-12-12T03:04:00Z
@@ -1513,6 +1487,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "95JK0OkMjLvSPsIKPVl5MHZFYbqY1Kc/8V6MQhwzZhcNAuL1PyR7DRc6n4BIOHaPfzHUQTbnvjkxj3eV01JVz3owcBxaP5HLIKdMaVqHD6o0/nNfbfZqPiUWVjrBp/3NymwBk+ifUN5Ql2RSndRSX7yBM6FEdTA8P0rkjtdl3xZ5FojHsXCdrU2ujwAhrvDWv+xRcHrbQS3oWNBiL3uJss6b1XEG1UBo8WqKpd8eJ44bnvA/0TmrEJLCQL4HwX5iYJlikK7o/mZwXudCT0E+DA==;eYnFS5Cvqh7CmexZe7Oqzw=="
+secured: "86D6uAHtKyfUVf5ehnL5tQ3hwj3hvJklhyCDvH8QbJE9FzyCqPIYKgjX1JfXEaInQO2IsjflPvn49oxZ/eJ7GP/CX8bBJMA60ooQJ6YJ+yCmRUT9KLjFn1O2SNwuiYDZ5fmR352ISjdFXqua1u5rTsEmlsfxijJHaSXF5hkRdh/MF6WwWf0KiI+vQRKWh2Q/pxZH+r7i20TJFVySKgMiZDjEN05guaWcqKwJQGGp+w0Aoy1AQM2Kuv8jLTsVa4oVwoAK3qtuvt6Be2fUMcQ/6g==;QtjEVnyO5Tx2yDenrc7mIQ=="
 ---
 

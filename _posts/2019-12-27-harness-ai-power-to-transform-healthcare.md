@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T19:11:00Z
 sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -48,6 +48,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
+    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
+    publishedDateTime: 2020-01-01T00:34:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 52
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "+W8CP5b5IhO5eCsOneXpKNORMq/Bgtk+e69nG2QalsF5SajO9ZVRlWRvYnOebeQ7jMqBM+I4C0D3QSSPtFYZvoM1KKmPW6CIB/ko65EIs3OvU2K88UWaiNU4E4UJNHdVDE37CujihYYyuOfH7PRnNtKK9Oww8GE+0ZgGGZq19KVFLNYY0vGpS7ROfS22uq2EhP49gsUkRmscXlNXwAODZAZGgSyJ1Wvx35CR211EYDJp9CeDFJwaOYxHQMgk6xCYX+7+XOhL9QQPj8CJ4TnDTg==;dvky/m4e6/ew/C7d44t3hA=="
 ---

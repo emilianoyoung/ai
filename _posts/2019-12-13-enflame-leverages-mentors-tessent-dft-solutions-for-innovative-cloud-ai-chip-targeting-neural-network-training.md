@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T20:55:00Z
 sourceUrl: https://www.eejournal.com/industry_news/enflame-leverages-mentors-tessent-dft-solutions-for-innovative-cloud-ai-chip-targeting-neural-network-training/
 type: article
 quality: 51
-heat: 71
+heat: 61
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 31
-  - title: "Enflame Technology Selects Rambus HBM2 Memory Subsystem Solution For Next-Generation AI Training Chip"
-    excerpt: "Rambus’ proven HBM2 memory subsystem IP delivers the ultra-high bandwidth performance our AI chips need,\" said Arthur Zhang, COO of Enflame Technology. \"Using Rambus interface IP cores, we are revolutionizing what’s possible in AI technology.\" Optimized for low-latency and high-bandwidth memory applications, the Rambus HBM2 interface ..."
-    publishedDateTime: 2019-12-12T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/enflame-technology-selects-rambus-hbm2-220000711.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "04Ok0VQFA/7G9ofG4jRQmrqVU2x8iUQkuP/xcQY80Cu3ogKM7+EIc9pvb0o5Rz/Pg3LFEkUF+bF6q98Cy5vvEiPJd4hGR27GM/HSzjYH4Y9aP5rSfxhIq0Tk6UW7Uw5SQOXatZLHvEeaLWRk2YNZNiWZElxhwblteHfn5bauhuvTktUerurZ7vRv6/sstcDy1sne1PwOquL15ZIC+UB4dbu7CQ7RjcRU9HcdOCklHfC4JU9PZ6FlKFwALlPvqG1Zuvt9pb9tlVKiuBgR5WjCig==;Dq2VvGdveI9C+mjeD5+rJw=="
 ---

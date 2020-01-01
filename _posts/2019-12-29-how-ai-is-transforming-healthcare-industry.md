@@ -48,6 +48,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
+    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
+    publishedDateTime: 2020-01-01T00:34:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 52
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "QN0IJgDlYEFh9EGK/7le2lL1sSaS9FpaAeoetknCnVCykKCUHhnQpovsaRZ3bhGWzw9/+le3U//eAMy46b1uKyzJ23ydl5HNQonq53UFdkTb3ppN+IilU4ggMS2mLoS/XjPsTs/w6jyZDx18dPNHs0T/bkQoYVko7wQba8NmNxaZ1EYgDvEOkLzzMozXgdJPaoqamsxbJ14K2KFcWJbGy/h0OaCKsJQrztzCGy+RnVOn1KdgJ76YqA9KMxIufQIlVUh9mdbc5GkCnRtLEvmQ6Q==;yHKXusTp5lekR47UROtCcw=="
 ---

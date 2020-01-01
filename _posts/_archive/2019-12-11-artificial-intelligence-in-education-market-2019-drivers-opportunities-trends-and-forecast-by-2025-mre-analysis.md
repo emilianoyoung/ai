@@ -409,6 +409,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "u2PKjih0wDglPA6yCVFm73u72Z9vqQtPQpRSmFPpEglViv4h+xvsORA3GZJsTnXmF0j+XHn5rWvpAbhfnqGlWcQJMQ3PhCDb9L3Nam8RN7Bf50X2CmQ4nmFS12gVjhFAIk1AsKpN4MW6J5hCte4nl0AlLVploxIhMy7hpUAkWVLXsukzk/SZ4Fy9EJr4fgHZbUSbwCndrwpl2qU7PENaAJIsnKSsQWDSkb4UXR4TcVhKYhZ2fpkNMP6QxqQCg8dmbY1jj5xt6hMo5KQHotnqVA==;7yUBBwEuAp27fGhw5uhy8A=="
+secured: "5+guPKrRrgo1Y7Z0E8wCy3WzhOJZaFKwO5zu4IXAjMl03Wb7senQiUZj8+tNkPRhryTDWWj1F16awxvxurd9IJvebM04UQbW84MuXFIT2H3ZhatQLH67Nsql91q5XZuzTvD1cO1nSaXTOVkJR5WYfhwHxuAwIElfCU3wCJ/iouvV9EJcEy+/IZgzo2Va/Js195xaAd1Er8VYOvTpvpx1vg37a8/QYa0R8EK4DvT/4oKCwRowpCphDe7EIUbIkwtnRVqIcfBQWvjWwlu6a13Y4w==;YI1Q10fVDYvCp/SstQp1hg=="
 ---
 

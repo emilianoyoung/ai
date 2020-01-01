@@ -2,16 +2,18 @@
 category: news
 title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-publishedDateTime: 2019-12-30T12:54:56Z
-sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
+publishedDateTime: 2019-12-30T12:36:00Z
+sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+ampUrl: https://amp.usatoday.com/amp/2755613001
+cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: USA Today on MSN.com
-  domain: msn.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AI
@@ -291,6 +293,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
         width: 700
         height: 394
+  - title: "U.S. government study finds racial bias in facial recognition tools"
+    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
+    publishedDateTime: 2019-12-31T14:16:00Z
+    sourceUrl: https://www.yahoo.com/news/u-government-study-finds-racial-231410866.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
+        width: 700
+        height: 466
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -349,6 +364,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "6Ov0OUsEh+xHLWlI+ViEnoWAaAEdVbE/SwRtQ3JZVygNm8buoLSZBeWaTapg3lhDXQE5QnOpXA09jHXMy6Dx35Y2Th8bqS0gbiG2hhoLwXGjxSUft50XXRO7/4shwyB5FhsxHAnihZbvE7DvlkzsSTdyOJFsFadH78I6Mmqkaq3raTJ91sH4MnVkz04S3ODPOurPOn/jQxCSLkQ63AjkwxFG3vKGgRjE3PpQFSk9pa1tEaudlxqhsP/PjAi9rIONn81hozV+TGAFPEqgiYOAfA==;EX8wHHmXsVtN9KXbAukv2A=="
+secured: "Le3Ury909SE5nN04yNBab/DPevJm0JZyDxZidwlNEhmV4lTPy0WgXTL0n37rqV3ZykFATX3llWqEO2volx8VrkshaKtepL8zGS673WPdaKhRJLMTcf+pLdKoNRUs4f2icizlgwyLXBUQly9zuPkNEShwsdFpnK5pltky4BQgMOhdHkwfIWxnKnH2EtLtZpf63YIDQ8TgxzHis/4MTkTb+h3U4OTCxxaD5y692AHT9jvtSUMUC1XbI1+xw8Doy2qs1bpmEAC253aVZZZDN4bA7w==;t6EZTA1B6U4XMolDOKjOWw=="
 ---
 

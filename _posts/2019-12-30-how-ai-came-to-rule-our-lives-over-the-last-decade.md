@@ -63,7 +63,7 @@ related:
     provider:
       name: Channel 3000
       domain: channel3000.com
-    quality: 39
+    quality: 41
     images:
       - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
         width: 700

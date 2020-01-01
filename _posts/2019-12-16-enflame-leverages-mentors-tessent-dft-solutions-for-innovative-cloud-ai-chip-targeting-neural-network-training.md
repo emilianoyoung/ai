@@ -32,15 +32,6 @@ related:
       - url: https://www.eejournal.com/wp-content/uploads/2019/10/CoolBeans.png
         width: 500
         height: 362
-  - title: "Enflame Technology Selects Rambus HBM2 Memory Subsystem Solution For Next-Generation AI Training Chip"
-    excerpt: "Rambus’ proven HBM2 memory subsystem IP delivers the ultra-high bandwidth performance our AI chips need,\" said Arthur Zhang, COO of Enflame Technology. \"Using Rambus interface IP cores, we are revolutionizing what’s possible in AI technology.\" Optimized for low-latency and high-bandwidth memory applications, the Rambus HBM2 interface ..."
-    publishedDateTime: 2019-12-12T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/enflame-technology-selects-rambus-hbm2-220000711.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
 
 secured: "8kdikEqzvcDHqncLApXuI+KTUQyKBs2cJp/TlxQ4jgp8e1lRm2yIjXgqVyr4SP3/SlWMtyMehZeIBXAU6wOI+ZzGU6UEvK++2BtsN7ICTklZB5/v/LO/lUbymRFcL5W/8UaJsm/VcpN+3ziDWA9mrC/PAyFDWZb/vSpVfyljVrB2VserHCIgR3PHW6V/tOCblLavbDLw4WVZl6A9bdbPXkOLbRpwdnbv1CVXwfFaucu+7b3U86JbQQoXc4fWaoApBbmk01pTKNS8S9cWFlGqsw==;W+4yytcwlpxkJ91yLxDG2A=="
 ---

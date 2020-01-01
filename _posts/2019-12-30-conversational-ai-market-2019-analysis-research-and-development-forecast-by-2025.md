@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-30T02:12:00Z
 sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
 type: article
 quality: 64
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "5VRVHf0dN+ODm9+w0rs3t9TBLNjM4uc6UNGhUKJvzhkwIfTn691b7uUrwFEnkARDAW0sJ7diOkSz7WeQ5dLGXafJ9pPbBpxTk8DoX1uKwbCkE3kJSERUJYPMBFe8Wcd0qmZ62N+exIA3nVzSweMg52hhnc1XZ4hWKDM0jqe9/jw/wVGuzg/PF1UnijuoCxkkBWgPq8MY7QO69h9NkEKGjIOpKv4e3mO0cFAwvs9FFVTBmQuGU+/7Bi+1cX2Ex7Qx7bOQJntJfQP1c/ada9TrcQ==;UwYlHFiUCkQV3wOZFSzWhA=="
 ---

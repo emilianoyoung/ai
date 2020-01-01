@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7187A8BE02E9C977B00B1160C62BE9BE
         width: 506
         height: 552
-  - title: "Are you ready for a robot boss? Many workers say that yes, they are"
-    excerpt: "Artificial intelligence is everywhere. In our Google searches, in our mobile banking apps, in our thermostats and refrigerators and endless requests for Alexa. At work, AI tells sales reps which accounts they should pursue and helps lawyers analyze piles of contracts."
-    publishedDateTime: 2019-12-11T23:51:03Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/are-you-ready-for-a-robot-boss-many-workers-say-that-yes-they-are/ar-AAK2llj
-    type: article
-    provider:
-      name: The Boston Globe on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8ABA5F3B020C201B6A092ECF4EC6D5FD
-        width: 700
-        height: 367
 
 secured: "rjboWDBkNTSjvlcPnpfMQa0FFPWD95XjBOHd6yez/YkqGfgdaCWQ76yW6f3A3UBvKwW+ZHj9Fo1I78Na49Ov670dnMHqhAGrcJe79jQDMdvXv79W+G9JOb4N6C/BfAPT0I53IcJnkU3Wz55GezZLXrhigqIHdvy0V+OzMh+kof5OvKJIvA/xuC6gqrNjYA6IT0iq1/qTdaIJOpBx4C86SM83Qk/0+mwOur7MBcdll5WnPMRhRPPZdDIF3R2lRtfcwO7dbrB9CkRQy7PWr/5OVw==;RukUrlTA5tmEfJiZoqTWqA=="
 ---

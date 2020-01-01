@@ -286,21 +286,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "China Continues Facial Recognition Adoption With Airport Scanners"
-    excerpt: "Beijing Daxing International Airport has been incorporating facial recognition software more and more, and it’s being used to do everything from identifying passengers to purchasing items from the duty free store, according to a report by Bloomberg. China has been upping the ante on places that use the technology, including train stations ..."
-    publishedDateTime: 2019-12-11T23:25:00Z
-    sourceUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/
-    ampUrl: https://www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2019/china-continues-facial-recognition-adoption-with-airport-scanners/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.BC3938E487CDDD31C5D37C04DBABA91A
-        width: 457
-        height: 305
   - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
     excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
     publishedDateTime: 2019-12-14T13:00:00Z
@@ -658,17 +643,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Seattle Airport Wrestles with Government over Facial Recognition"
-    excerpt: "The Port of Seattle Commission has banned the use of biometric technology, but they only control part of Sea-Tac. The part that is controlled by Custom and Border Protection will still implement facial recognition in July 2020. (TNS) — At least for now, controversial facial-recognition technology won’t be installed at boarding gates at ..."
-    publishedDateTime: 2019-12-11T23:26:00Z
-    sourceUrl: https://www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html
-    ampUrl: https://www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html?AMP
-    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Seattle-Airport-Wrestles-with-Government-over-Facial-Recognition.html?AMP
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 54
   - title: "Airport Facial Recognition System Fooled"
     excerpt: "Facial recognition technology used to secure airports and process payments has been fooled by photographs and 3D masks. According to Fortune, multiple facial recognition systems in several countries were tricked in a series of tests carried out by San Diego artificial intelligence company Kneron. Researchers at Kneron were able to access a self ..."
     publishedDateTime: 2019-12-13T18:08:00Z
