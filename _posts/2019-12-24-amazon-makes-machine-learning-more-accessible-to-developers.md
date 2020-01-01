@@ -45,6 +45,17 @@ related:
       - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
         width: 600
         height: 315
+  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
+    excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
+    publishedDateTime: 2019-12-10T15:29:00Z
+    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
+    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
+    type: article
+    provider:
+      name: Web CMS
+      domain: cmswire.com
+    quality: 39
 
 secured: "htRsuv8dxMXSyqeRNWfe0q6S3cCfGiPvVHNkBu4qyKx/O6g07q7dFveYnMbK71rIjx+8HiY+nHtyR/hoEfWYsRu1avLD9t7cntgscJ8fQsl8aQMEGBTGeCL2KbY4chTdQIFc1s2zCC0rrlV2AZqo46q0E0PXiSR9VvNpPsQiCF+qFg8UfGLCfMDMJnzFrM4XcnD1NKLpOTOVRtge8exXvYm5EXuBcnLgh82f1f2y+PVob3An1O2DTa9N6tRaU0K2Xp2yo1KAFRgC3Wib88aLqw==;P612onQPislzzLYSQmwqIg=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-l
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,7 +37,16 @@ related:
       - url: https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2019/12/gemini-2x1.jpg
         width: 1000
         height: 500
+  - title: "AWS announces new AI services and quantum computing initiatives"
+    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning..."
+    publishedDateTime: 2019-12-04T16:34:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
-secured: "7pn9Z4dBInrtzUHzzx26sS9GXdFxoaxUQ/EKspaI5pR2O+jkzo8BKETvzvIn959KooXtDToKr3EmfVdyC5UuUHWvDqnhy+inI2vmkCBjbHPmcySy0H0n2VsT6aGXkcpPsfwBVylgHTnyNGZp4bQWjiNR4kEFH3YI8ShQbwtPdTq3+wkxZ+zAQzEsDG52gE8CKlqHGvpAQW3jvwabFQxr5+knL6NoiAW3O3XvLCXWThHswFfkMRWzkqGb0nGagXC43d152F5UwPNtOBrJLJNJvQ==;fGi2Gqln5oKHn3X5S/tqEg=="
+secured: "BPMrpkbyQ7RNdnIe1BWa4BcTGJxe+0xupo0tTMa141uIlfuHf18sxxfmFTn7wWEpb/AhiOyA3D72K/IgMAL7H19nAIQzh8OJzNbz0q1zCMl09ZAy6oO1iT2LYVC9OdB/fms+KXTOT36dEul3HIy4WR3GQrv2GM6Q7BY37ctBOj7gSs11yzy+/gjyhOct/21ISg9D3OsqLlhTBZiFRKw8wB8jMoVPtF3r+X0zjNg0vxKz27Pa2OITPBbjoQE5eeoDprHizd9U9EUZ5Gbv9Q7t4g==;kDq7HjdkLnwKKq49GkRyrA=="
 ---
 

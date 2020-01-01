@@ -34,8 +34,12 @@ related:
     provider:
       name: digitaltrends.com
       domain: digitaltrends.com
-    quality: 54
+    quality: 74
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
 
-secured: "ZG+pt1YElK32Vb3lsgQ0NqiaBwwCgzcOt5QAJsWEJQ2B8wwh7u9NQ717Rh1UR56rcSAkdaroFkp94av5TMJwOsedzP7UEcHk5a1zNDpGUl5ff7XZXpDVQeWnFg3PfumMMi/t1lzwytZPW+CFdp7nR3OjxTvpdRDor3CCZHkR/wPR2ZQLQiuZ/j5Ra7tShDgiaHcQkfQ2ZHY0q6Rg18JEA7vx3e2fg5tD6gcT5+0TppeQmC/Uuzv9yOOWt4+jR4l55YkxljPl1ziXBCPePV+bZw==;EOCYLdjYkaazMKOoQNk1LQ=="
+secured: "bbICLuJJx3IdILNbnda6XinZwhflJtRKFnX1bWxX+sz6XEzulVGmhDui7MDGCrDiGqPv2RqF95OeTfOMTXVSHbCH3a8eXs9c3zYH95rKCbPDt0SuxXRsJAegUwvqqiyYR1IDs+0rM7DNv3beUhCoT3sKatMA4Tmwr9D/R6YozOgrPlL1gt1OFX1pweDZCSg+G3fMJDBgcDrGC7QnG+38kfc1a6ra9tV0r6Tm7doQc8ted9bh5nQV1TZ0SecCD7mbnVMwMhxTSwvYpxa9LripeA==;2GWuJxzrZBKw4WgTEdDS5Q=="
 ---
 

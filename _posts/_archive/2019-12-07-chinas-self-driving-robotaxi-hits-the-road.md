@@ -80,21 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
-        width: 700
-        height: 350
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
     publishedDateTime: 2019-12-12T17:21:00Z
@@ -213,6 +198,6 @@ related:
       domain: hbs.edu
     quality: 19
 
-secured: "yGLZ+gYmWx06iaI9W6feHHGNLk8rb1koTFc9f40v9USox7MrFtivxh4btRw7RddO4av+gjRf4ShFKXIAAPUWAfVsIZEvh8vQspP5//WuvLU67IVeDTtsaIX6fbzNOndpStzjP3Zr+fB4zWpK7TwVmBp6McBpU1jbE+d1qb5CEDMtyFc+xS7zyjwutBjTGnxH2fBGsh6K+axQupFnnd4Z/nTZOE/fpJZYaH77Eryk9PsOdYeMQlcpJwxTXMKIFTjmGUrDOHf4vAXGgudl4nNnqQ==;0Oz1dz8+Vh6NlVCp8+CMBA=="
+secured: "QokCpVh3ro2ymdsXw3w3rBut0uCtjmOJP4fLdWLthouNar8ky+kk/X47iXEN0W78pHsmGF8jQMgMy0ltJxKulrZwvcFgNqWVHBaTuE/mfMhHZPsaXBNrkSEa76zX9wirUiD0QY9tebbGlgWpu6wVz1lXyd8doe7WMIK6zmuErhIXGHXCTtNNGo/TSmWnGnlY3VmZzrKiEXqMTNjMU/7cT9/VqQL4+45QYKX3atn7Yi0q182TGKI1ybbv/mAaKdgCZTOJPJZX+NqZvD6ENgXr5Q==;9201/anAcy/GqdiV/5b7Lg=="
 ---
 

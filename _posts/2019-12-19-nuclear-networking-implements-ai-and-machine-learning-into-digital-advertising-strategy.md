@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
-excerpt: "DENVER, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Denver-based digital marketing agency Nuclear Networking has implemented AI and machine learning tools into its digital advertising strategy, allowing for 24/7 competitor monitoring and better budget spending. “At Nuclear Networking, our core digital advertising managers have a high level of business ..."
+excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be ..."
 publishedDateTime: 2019-12-19T15:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy-1028776454
+sourceUrl: https://www.financialbuzz.com/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy/
 type: article
-quality: 56
-heat: 86
-published: true
+quality: 11
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
@@ -50,6 +46,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "h8ZLQtGMa1HQ+MzmkT4zj3foTPTGSaAR29nFdND750ogcNa7uKu5Dl+I1qCD/VD/bpflhHaVBk4z27CrrWJGQxp496fKcaLOfi2X0GFNq38cjjOgMg9AeQJid7AAJCNCd1wCwdIDnERHCmjfP3sXgIOCGDr2DO7/pi8oN5hFKJU8tKAmeqKh3pIjVkKLXpbYmOi+9XREacrj44mLnIx/mHQe4bDV8deanlO7qk2+SdhUZ/hrXX5rwGpHvWM/xgaijlpkfB3luf8LXFH7ThDL4w==;Ffg9iUnlcG9Jh/v8CgwXeA=="
+secured: "KbcCl5aeawRRUuirrftpxSGq1nLxQ7pfgeFlSbiShVQ78riqphhVQrHYBJ/5stM4O5PIyTw9zklEHJbZbpbKqx98aOMaHxGiEEPZiwdU5fYaseeysNBFfL5NdEKPA+Jv0GL5h/8CoE5SWrrxQpafauNungR1r92kVIgySWLYdG1meRpL7OrW7Zeg+5bCrv2SWL3MKGUDd2hAv3HTAPrbqE/RpsGVXeakbhEbOfhhvJVdVqsSLOPxt26m+w2nNM5JABRUJoxyk06vZRclQ8P0JA==;9UO3Ogn3Fvh96RLb1AgLNg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 525
     title: "Google DeepMind gamifies memory with its latest AI work"
 
-related:
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
-
-secured: "svDb3DhkHuOpdiAVC78SJbaB8ci4A+o6MehqHG10VQoO83YsyxVl+y4vNLt9527Wcl8EEU+Kj7DJhfrjNZwgtPEU/Unb853eCG6/ad+VTVQuAVl8QQvvy0IslU8kmkFQcwAQ2f4IMGYrtRadl79ECULQ9Dtc4QDYwTv/OTI5OVvLw8D7nSHFnsFgiWjaPBEnCSSRq+Pvkx9iYe80m+gR9hNdncfXmcwbXMzUowCAs1kp5n0WEU02iCmX78Ps+3LWHvCWRrNq3abWVV/ZEm0nCA==;ReZkm0P22VnZ/tks0GnkBg=="
+secured: "SuuD7CxntCIeMQOhqAUEL6J296Pmb1mdEKaZiXTBaXU2rdZxh/S0AOfczXS+hA4GxD0SpGjLa4W2PZV9o1nHIZ1xNUFNlEQE078FhPKsKSz3KkDHfP+80/2JlhHMnBH7YFqGt4OgkZ3ry6sEab42iSgva4C+rEcZkBVhr5cmRc28h6SpWYYRCyWe1hQGEQH1kPl9bDtfT+mQ8qR52tOatALKb5Pshovj7t4wihF96pg8eQeghRjp/MV4+5RfscG1HR/YkxjBIfS/lb6sE7q5Ug==;dXv4qu6kyNHtpaES+/DWuw=="
 ---
 

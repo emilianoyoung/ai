@@ -232,6 +232,19 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
+    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
+    publishedDateTime: 2020-01-01T12:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
     excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
     publishedDateTime: 2019-12-30T12:36:00Z

@@ -25,6 +25,6 @@ images:
     height: 480
     title: "Artificial Intelligence (AI) in Cancer Care"
 
-secured: "/pJU17dbWx4jYeXcUykdKrB4NNcNFfpBrpKuPmIfPjhX3z4mshRJTA1T3wRZqck+E0S9LwepVs4KbM46aTwx+PhLMvkdL6twmZULrNFjxAHX8LhTR4SnpDUWweYfey7IynYID+cKWts5Jot0xNVsXEjiPEA9E7VohZJ9HNEpq/UxQxF6Ai/Cyk/U8MMGR1gS1wkrB1MBRmbisHlEw3Ad6VSskbd/R9hz++vCAjP0U6PjQ1nNm0oVXHcY7LdhDkCuNc0dMgvgY7eGid5ksfLwlg==;lNsO/6SexOrAJwhB2jG9jA=="
+secured: "Yi3yqHGjsWRl0mIMP4fM+EI5FiUb8T5FFi5U3RauzXSYtWtJ6MI4G1ssVske8TmXdWbkYYFTmNuJkVduzq/Fx2PhJ7xz8mhBDPQ01ZueDPzvilOjlBjSInDds1TinhWqgy0642qzQvtjUxUif0obi7whFIQCOsmppgvgtK8g0gfllYHz5Et8cIfsbQb2Rp7g0OOBDAMJ4x/6noY1bKoa3mHoADac3CSaSlh5Gbwc8CLT0uouDoysjOuQqMt25bkFf8XRPiitejGgtxXavRPoAA==;gu2CgJvJHffumIHgDqccNA=="
 ---
 

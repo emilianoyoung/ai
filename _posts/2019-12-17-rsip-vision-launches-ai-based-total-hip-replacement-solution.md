@@ -37,15 +37,6 @@ related:
       - url: https://wrm5sysfkg-flywheel.netdna-ssl.com/wp-content/uploads/2019/12/X-ray-image-showing-femur-fracture.jpg
         width: 424
         height: 283
-  - title: "OMNIQ AI-based Machine Vision LPR Solution Now Deployed at 30 U.S. Airports"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-12T13:59:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/12/1959876/0/en/OMNIQ-AI-based-Machine-Vision-LPR-Solution-Now-Deployed-at-30-U-S-Airports.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 17
 
 secured: "LKntQnkqUUZfzz2iBq4QbCDhZ/Uroxgl1jEM7pb7PaG7pUAjmD3lth26H3aAnpObyRQGk1dZVZ2h5WLZRSv8feWdrQdOahEL4lOV8jSdj1/aM0jNUuTrZTOeV+FsrneQfkoP3B6spOljctQtob9Vf8UUd3Jtmpt8NmtggFDcwgMxz3M4h4GjJiQXWYLOXYucD9TZug5chRIFh8Nw+6BXE6EEmEI5vyLRUynvSsQYcg92K3xfhbhXLyHEuaReGVUv5AnppQPnGMzRKJGNXEsUdQ==;q3Cvqlo+pVzy0/sJ622guA=="
 ---

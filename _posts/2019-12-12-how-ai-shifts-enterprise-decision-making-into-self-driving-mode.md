@@ -74,21 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
-        width: 700
-        height: 350
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
     publishedDateTime: 2019-12-12T17:21:00Z

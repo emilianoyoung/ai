@@ -8,8 +8,8 @@ ampUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sig
 cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 63
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -26,19 +26,6 @@ images:
     title: "Why Silicon Valley has its sights set on the UK as its European driverless car hub"
 
 related:
-  - title: "Google's Waymo chooses Oxford for its first European driverless car hub"
-    excerpt: "Latent Logic builds highly-realistic simulations of roads and cars that can be used train artificial intelligence software for driverless cars. Its technology, known as “imitation learning”, using raw data of real, human driving from CCTV cameras to analyse behaviours."
-    publishedDateTime: 2019-12-12T14:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.539669ECD49CD5F0AC27E89764B1B7D3
-        width: 700
-        height: 436
   - title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
     excerpt: "Waymo has acquired Latent Logic, a business set up by Oxford academics which builds highly-realistic simulations of roads and cars that can be used to train artificial intelligence software for driverless vehicles. Its technology, known as “imitation ..."
     publishedDateTime: 2019-12-12T14:05:00Z

@@ -133,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "XlvdMzBL436QTJH034RvZcPE6BSo5PsjL73nmL+JFYP6NtOiYk1fAKQS9q9x8LTg79gq606QdACcXP2bOznpWtMfgStYWXnG9z6QeSOcmED/dv1Z9MDQUW1LWCq5dGsiZZz4V+y+XuYZxISDhUvOzp/vhIfW+SuA/iPHbOeCeelBzlHiQxj0IKWuKoLsrtLn3LKPfQ7Ve7CpMaSUa61VrHdQrb1ZEczJGArzAaRATB4PAu0oA/w8HtQ8YCY0UTWJOnyMVicFGFdDXg10yuepnw==;Fz4A+vHOhrP4Dr3TXkvbGw=="
+secured: "TdTetrYR910AtflrikT26pUguLkjrjQglUibl/LRm08y+o4KZvG/QzXM+lrUq0dw8Rg+XptpjKvX0mlAvasMgoZAb5tIDpQsO3AckCYKaPjRhBM3YOJX10sRGbYbD+ZFPiMHJ5UlqlNiyHmTMtTX+8HNuKU4rSweJUlyuEdpzZcWAaN6eef37ZdZ1z9WlVjgojkXAmL81C65g+Z+SSA3ZbZUt+yjekMt3idYjSH+vRSaX+LidbF+RwNRuKuHRZCfd+Fk+xsbC9VfZLHtb/xltg==;omRpTF9b/VfrJrPCV1W0Sg=="
 ---
 

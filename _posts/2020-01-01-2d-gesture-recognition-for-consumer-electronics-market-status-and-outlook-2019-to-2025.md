@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Privacy fears as India police use facial recognition at rally"
-excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
-publishedDateTime: 2019-12-30T12:29:00Z
-sourceUrl: https://www.aljazeera.com/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
+excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
+publishedDateTime: 2020-01-01T12:40:00Z
+sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
 type: article
-quality: 59
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Al Jazeera English
-  domain: aljazeera.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Natural Language Processing
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
-    width: 700
-    height: 393
-    title: "Privacy fears as India police use facial recognition at rally"
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -170,6 +173,21 @@ related:
       - url: https://www.bing.com/th?id=ON.410C04674B26F08F08E99A9ADDC5B0E2
         width: 615
         height: 384
+  - title: "Privacy fears as India police use facial recognition at rally"
+    excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
+    publishedDateTime: 2019-12-30T12:29:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
+        width: 700
+        height: 393
   - title: "Use of facial recognition in New Delhi rally sparks privacy fears"
     excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
     publishedDateTime: 2019-12-30T13:50:00Z
@@ -215,19 +233,6 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
-  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
-    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
-    publishedDateTime: 2020-01-01T12:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z
@@ -377,6 +382,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "jq5h8JHttp4HysA5qn+slGyOfWCnjBQiz1i2e5tdVuFHqWxiw5MswpVK8o4d+sRN25KQziNNw2uiaIwjE4Yaaxjco/b+1txT2iea+vXLM8T6cixUkHCq1vzqqbghaBgf3OzygkOcVj6qKoO+JG1TrE2cZz16vuUmZmFiwSdyXWUVD8oPLLCjIsnsqxGTstHOvUqrWqxb8qd15r+s+Yo8rNWK6/wJwRedbyJwPcQTlEfrVxosSAG5/0MMo8IlwB/YXCsdlaPYf3KVvoSn+1X0ow==;eGkimFiEofM5orC/KGdY6g=="
+secured: "m6/hJhVAmx32wQ/5GH5NpaYP5LmqaumvZGQ//BN2ePXewYWNeJBNIUr+ZAacnDn+VQYg9BMDZmVirc2Gve/ft767CW1jWRaGSnxrE610WheL2pYA7UM3nFQsMJO7CLNi31Y4AqYo7Cz2nFTADmmhG4WlLCS6XA1BXCSBXy4p08yHIC4mifDk0yWFViYkqC4uku/uQleCv1+MFThodAF7pSaIqWj0+43cgEFUkND/O1QVAY+nMYpunqpHd1GqGjmIree3vUIphH/QFD5HvKmilQ==;wOIzY94yGCkv48ClfSF/Vg=="
 ---
 

@@ -35,7 +35,16 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 69
+  - title: "AWS announces new AI services and quantum computing initiatives"
+    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning..."
+    publishedDateTime: 2019-12-04T16:34:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
-secured: "4Ytn4vPbOiQTJwAh9cl5bRhwUUc0x88iUv6yGzdNvYWPYSO6QyE/wo7+5xIOGqco76lomwZzj1X2DMK8wh1/yuEA619MUpVnvbCnEDPVjSOL3BiYS22+TdJTg0Y7tNJ2nU271N/ZkgUHE+TsNTylAdmdTo6Ivc/nhwsuxA1NPe1BKGH65v1quNC+mOKYDjsw3CJM++zEfMJFDbycx6wFZH8/CTj3T0bah/Hv4jzyQBdWjWvCTPEFHBZvQUG/HKheFccXKYoaBS6JxvA4siVQbw==;hdXxE+oOT3DSs2u/rGkXzg=="
+secured: "nCfM0fJMCFxtfnkMNzQwQ0kOwadIIQNJrEBl8W82K08QTzKAwKR/C7azos1SkssVvR+gwtfCVkDL559PwnGYWbdJiMav4KPJNGN330KrPYFq3q+XYUDAFOWBomunDg/YsdS/VHSyNqlFrEGqamHceZQbj41r9cGUlduogvYSP5d4lUxBW9klYQMd2+pXDJjOIqCT1V44NCY1agEuZz952pmfJ0ktrI9fsvggSX3Xnwyzup6Dqvk6AMq3Z0OWwTFSGxC8RXYVBLSlVdIAKZloJg==;zXZ2FYOXZpq2WFqeFA2+bg=="
 ---
 

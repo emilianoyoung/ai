@@ -76,21 +76,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
-        width: 700
-        height: 350
   - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
     excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
     publishedDateTime: 2019-12-13T17:02:00Z

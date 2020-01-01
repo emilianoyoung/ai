@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/12/three-key-takeaways-from-aws-reinvent-2019/amp/
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -39,30 +39,6 @@ related:
       name: Medium
       domain: medium.com
     quality: 79
-  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
-    excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
-    publishedDateTime: 2019-12-10T15:29:00Z
-    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
-    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    type: article
-    provider:
-      name: Web CMS
-      domain: cmswire.com
-    quality: 39
-  - title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
-    excerpt: "The AWS re:Invent conference showcases a wide range of third ... and disaster recovery as well as take advantage of customers' increasing need for artificial intelligence, machine learning, and analytics to better manage their cloud-based workloads."
-    publishedDateTime: 2019-12-12T13:56:00Z
-    sourceUrl: https://www.crn.com/slide-shows/storage/aws-re-invent-10-new-ways-to-connect-storage-to-aws
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CF6983B62D497439969C8459CB4DBA0D
-        width: 610
-        height: 457
 
 secured: "hki55y6SqLaNmSDFiJV7dyB4xElOqIImE1UrqLu1MkSIsqnGFY3sWYbhjqkijJTbR/G/jj9u50PL+Sa1XB5pRGrbZORObstI8dM4b879bLA7FTJ7riCQApeLp9swK+dY3uwsX6E/s1phPvLnZb1og2dw1wdJ9JVdEbyPc0z7zvvyWkr9/RZR1gEr48pneMjwn6h1byYkQe/UvADe5vGtbmW1SMWUSLtGv+U9DK5NXsqnduHrQWgL7Pqt0wKgwyzM+UZ3fNoDxwmy0nmvulwgPA==;x2ee1WF9BE0/tJ61oBtgwg=="
 ---
