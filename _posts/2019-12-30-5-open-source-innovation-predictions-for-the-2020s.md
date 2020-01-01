@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 165
+heat: 175
 published: true
 
 provider:
@@ -123,6 +123,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
         width: 700
         height: 466
+  - title: "The predictions for 2020 we got horribly wrong"
+    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+    publishedDateTime: 2020-01-01T11:20:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+        width: 600
+        height: 315
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z
@@ -148,6 +161,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "C3Q6EyKLHRK2moMLmawheuQBo+EJBrMFgOVxNXBh8sUaGlYbuOZHe8qdXjltJ0xKtT92h2vj2JyYhA07XRi/bCJgi7Kza5dm8wqhHYak+Nt1C1Oj8vjKyHTmtvu6BbYarOshXSb5AYvtyK53W+NV/9K4r5I34SzUoXgi9yyaMsuEALFKMCfhGo3QhpU0tctMfoaHuSS9VuECqLwSem4oZmpriw98ge1Mu5qq1SxE/S0Jx2zvkbkNR8VIYBAhXoZC4dPdamtausU+0xckZbcmQA==;+ei90PLg6trcSUEjtMhNBA=="
+secured: "mOUM49EtCrVjgzE4ra+tkWV4TIpq64kHYY1ILJ5wq0xJkuueB2nFKrBG0pi7/siXKNsmrp0FmcRK95wnbsLKpXw1rHf5r2o5/ZxbAW1obOzh4gBolhBNnUVqt6/oWiyXTTbQyjspPWO7lnOHXRC4N5acoqkEtUkV0BVFElLXaoZjpRRdKaVZ7NON4r01QxmjPjNJKS/f5GX0IzlhEgmEFgovNCM/27woyJM2r1wl4FhO9QB+75PcpTeU7B0iSqHTS9HHCwLvCFJnykugNEi/Jg==;KBSLa2LE7yheWWuuuS9E4w=="
 ---
 

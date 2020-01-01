@@ -1,27 +1,27 @@
 ---
 category: news
-title: "20 AI Predictions for 2020"
-excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
-publishedDateTime: 2019-12-31T01:31:00Z
-sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
+title: "The predictions for 2020 we got horribly wrong"
+excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+publishedDateTime: 2020-01-01T11:20:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: CNN on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-  - Microsoft AI
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
-    width: 300
-    height: 231
-    title: "20 AI Predictions for 2020"
+  - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+    width: 600
+    height: 315
+    title: "The predictions for 2020 we got horribly wrong"
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -106,6 +106,19 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 39
+  - title: "20 AI Predictions for 2020"
+    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
+    publishedDateTime: 2019-12-31T01:31:00Z
+    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
+        width: 300
+        height: 231
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
     publishedDateTime: 2019-12-30T17:05:00Z
@@ -119,19 +132,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
         width: 700
         height: 466
-  - title: "The predictions for 2020 we got horribly wrong"
-    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
-    publishedDateTime: 2020-01-01T11:20:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
-        width: 600
-        height: 315
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z
@@ -157,6 +157,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "9eg4Kxgg9bL2l8QRkcs/KVah/+AXnmG8mhmqHPre1ClF6mTy8YLL34YmF0jLktHAGi+HkIRnbJKimgb8LNuOuEUu7aoLwGMaVJj6Vu6TX38RaWOmNnikMNo0LCnkFhrTRv0UpIFHETVl991BqDUO+UfjmuFNXXbHOeeIgoeu5Tf87/63TYxrdNfqmVtAdFHzIkNWU2zxpWrCA8vCuFzyoKI4UILN92J5FdjM6JAEevsil3CBuovSktaGkaSI/Ejdc51Ll8dDMnKgY2zEyvGBvw==;rMxZgzLhkBzcbCH4YXx+tg=="
+secured: "CUSsK1JI0zl3bAIOcSW8wWj+S5HPhCidKlAWdC3h/sSVO1A8sULpe/dJ2aMW3ajMiJXTmx0aRCrIvGTA3ldiEJN8nSevQynHZJW/azoN+jLQHgrI5N2owZ6gso5Ra4UzL9ud/FAjgLVhkZOLJQ6n4SsvfTuujQZO3bQ8+6jnLsqYAUy7CHNCzEHOyZV4/ufgK/8r3hU14Dxx+likoIfDAaYKDfX43PAXG0bPjMxslAfxRNxnIQ5iSUMbSgjO8XPtZoOlhJILu71y7GJYlxdB5Q==;S69Nz597y6A6aqYohz2LVA=="
 ---
 

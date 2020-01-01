@@ -52,6 +52,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
+    excerpt: "London — The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the US to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after ..."
+    publishedDateTime: 2019-12-05T18:27:00Z
+    sourceUrl: https://www.businesslive.co.za/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
+    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
+    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 59
+    images:
+      - url: https://lh3.googleusercontent.com/HNPXeS7r7xJv5psi4i4N7MmVEnJRr393ioWFF6bfMjj-_Tyf2ueJofNZooyL4n6X21E5Pc81m4YWfugKyzvMCilST1i2ez0=s1000
+        width: 1000
+        height: 667
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
     publishedDateTime: 2019-12-05T18:47:00Z
@@ -120,6 +135,6 @@ related:
       domain: ft.com
     quality: 39
 
-secured: "V/8Mk2sEFKBIACMtAirfbc0Qo9qjDJ3vgUwcx59CUvEV9+xVFa/pcKEahqp+o2gewM7p2Wz9D84nKlGv4vPs2/cIJbNLaB0VqrCOKp+KK6FOMHOvdS7WTew3a+qFvrNlD3S44DwuL8Wxw0OMlUhYonw2Muuv3nEH5G4Pvw//I8Uqo/B+NYIHdPvKoGDlEidrzRPnGOASB4bV0XNg6G5oYUiTgIFAyJTOOayf9y+j3sCe6Bx6kfyk5B3vgsKcY4GZ97lUQEfTpzmocDqW/L9UHA==;+ZPub0pzVW1zKytV+u4Xgg=="
+secured: "KCNGfF1wk8UFFuW/BYHCb6UY3R4zPUkVK04LjASSDn9xo9sAgUYXzQ0LtO2hyQIms3nSKM6TeCFs81/4TKW18Ob5WuXK4U8LRN9yeU1AqWlz1RzGG+XvEKKvenFqbUvpQUEsNIqkAe5g+8fwoV5UtNyYNJgSp09pXcHDOzBn+zxjnGeThjeRmr9C8MyZ0nwlql2pSTJz4rztQDsTfhZ3RbDILeOvwzXg7i5as/xFVz0nkp7kVh4YdPjKFeGQaR2XabiiRzyYq1E+hQ8nV0pwjg==;6FgfWxDBcxhR7B+Pjr4f1A=="
 ---
 

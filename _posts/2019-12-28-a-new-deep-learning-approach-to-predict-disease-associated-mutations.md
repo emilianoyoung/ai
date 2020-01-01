@@ -50,6 +50,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 4
+  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
+    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
+    publishedDateTime: 2020-01-01T11:23:00Z
+    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 0
 
 secured: "xFSJkxC7iBUC5nQEeeFiWikP6aGD7+B1eoC2RGAmrrnzoPSPNzdbH0TjqM0WQ4TWnwctKnNZZpopegMhgSWakyIEo/HPKz2NmfuRFK+6tHKkYOICt3SaY+HbtuzuzwJcn9prSZTADp0YFrrUusHZylAlfL6iE1UwSFutlRh+lfmQRfOF06CEp4l/k6aTwSH/qMCDpxGmbzXt45rKPnzC+Jq6QPzoRphIhE0h0+pLkdZH48pCAkbEhdQfFutyCzxSzEnOw7iWzWoulD8nO1bQcw==;aMid8y96Wt8kggTDDNUYfg=="
 ---

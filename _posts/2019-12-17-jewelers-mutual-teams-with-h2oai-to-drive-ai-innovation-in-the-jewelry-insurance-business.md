@@ -53,19 +53,6 @@ related:
       - url: https://apnews.com/images/PaidContent3.png
         width: 700
         height: 450
-  - title: "Top Risk Concerns for Business Leaders in 2020 Include Talent, Culture, Technology and Innovation, Finds Protiviti-NC State Survey"
-    excerpt: "\"As the future of work evolves, businesses need to upskill and reskill existing employees ‑ particularly as digital innovations, such as artificial intelligence, natural language processing and robotics become a mainstay in organizations ‑ to ensure they remain competitive with 'born digital' companies and are future-proofed for the next ..."
-    publishedDateTime: 2019-12-12T11:03:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/top-risk-concerns-for-business-leaders-in-2020-include-talent-culture-technology-and-innovation-finds-protiviti-nc-state-survey-300973766.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.CF8ADAAD07907BF2E74489810069B472
-        width: 598
-        height: 315
 
 secured: "3HgScNV2U8NoEclCmOp/0t61x8jnALe/wVWOEMfrhrst45UFYVc3118oRTSUMO0SFK3kzOUwzM0uep7ba2q1jcqIcsHM8h6I3fM5zRKOAFVqMXUCdQ98HxaC3Nd5rBgFGnRZmhVn4raYpANLU3iL8Mb7L9/G9g8DhzltpzchgjKHkJv+S7t1Vv8VOwmMgUWrVL0bCEKTkVyqc/buapqcDhw1hwDZ4flPIBYVcSVqLXJZWCfXm206zZFfpCpmkQCbiUcfHL1VcHFtoySlBJvxOw==;6huEes9RtBXSq4LeNvLJbA=="
 ---

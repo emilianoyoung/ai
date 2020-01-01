@@ -59,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
         width: 700
         height: 350
-  - title: "LeanTaaS raises $40 million to optimize health clinic operations with AI"
-    excerpt: "It’s not without competitors — University of Washington spinout Perimatics offers an AI system that uses data on patients and surgeons to predict the length of surgeries, as do Tagnos and Qventus — but LeanTaaS has market momentum on its side. “LeanTaaS’ iQueue represents a rare nexus of product leadership, robust ROI, and fast time ..."
-    publishedDateTime: 2019-12-12T11:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.53A91E1D5097A32744DCD5D59DD800E3
-        width: 700
-        height: 350
   - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
     excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
     publishedDateTime: 2019-12-17T14:00:00Z

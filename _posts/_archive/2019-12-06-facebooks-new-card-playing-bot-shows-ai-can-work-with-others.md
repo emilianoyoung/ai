@@ -29,6 +29,6 @@ images:
     height: 567
     title: "Facebook's new card-playing bot shows AI can work with others"
 
-secured: "sfT2AauEUUKT3xHCMaS5acPFKvTrSDgUinv1jQitgIWVSVScRVbPG7dKJJOS8+uGnd9Tt7BH9gJ0VSAcaH+7OXFyE+JmgLyd179CmkN+dZaKXOIUlaXxaMusjrEDni06XTWxD6bs6a21c4Ie6P8nuTkPtUb2J7thQi03FSW1m6/5n4AS4wZxZKkvWCPScQJtqa2hKRJo337Mscdism9zmySRVafgyZvoZ/110FeSJvkxxjnndg+FNINlvQdgQIhE3pqJZUEFiGwjNIppMxa72g==;pcr50HE2gvNGpE42jqLIHw=="
+secured: "GcAmuvW1yg0D4xSXQW5AHn9zF5xlPTZngNy99Fr01NuWyI2ooolYKJvenri0uO4Ge3FOn9GElv09vz4Guv/RPpAFwvGQk42IItSGd9h7RIAokpKCrqgHPpGCsBdnlkQp8oCLXjA+iU4KRw4Nx1UK1yI0OQczAIkgld4Cf1puul8zcyWyBqlPUwtoOjK5+bSydzX/T83CXZ47Ja8eZRq0dCx5DEbUjhmpInl2BXQ67jo1tNUgEaZBWqYyIYxhpzYZ2gkslTZ5aBE5Sw268Mn6kQ==;6l5SJk6FtzTJL2LJzv38tQ=="
 ---
 

@@ -132,6 +132,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
         width: 700
         height: 466
+  - title: "The predictions for 2020 we got horribly wrong"
+    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+    publishedDateTime: 2020-01-01T11:20:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+        width: 600
+        height: 315
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

@@ -119,6 +119,19 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
+  - title: "The predictions for 2020 we got horribly wrong"
+    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+    publishedDateTime: 2020-01-01T11:20:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+        width: 600
+        height: 315
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z

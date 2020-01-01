@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
-excerpt: "2 Platforms, Services, 1 Professional Services, and 2 Managed Services. The report also bifurcates the global Artificial Intelligence in Education the global Deployment Mode market is segmented in Cloud and On-premises. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning, Google Inc., Third Space ..."
+excerpt: "The report also bifurcates the global Artificial Intelligence in Education the global Deployment Mode market is segmented in Cloud and On-premises. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning ..."
 publishedDateTime: 2019-12-11T09:49:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
 type: article
@@ -357,6 +357,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "NHR0J7mE//xrDAEfGYBY67iJ5/KGGH7I8uk2Ob7zoMUNwnAD3Ksd3KAApiyccbQ91UHxOYRAGJUHvBk9RTHFy0BqmiyQ3t2V+vYv9YjjUlfe2O6HVOFG1O6vRt2Lg3KFstIVRP+J1y0EVGCScV579xKwbdTQOsfBIkwFnIwZqwx+8xB4b2UrV+ky1/vJClkSFQgxeUc27THyn8xh7pH2TbeoBfWFFAmS8Y7wAKF0KFUsxrmjB3S/mPSPbG9RNUMQDdFJNNw+aswGqIETqMV2Cg==;gU1iyvTYix13cvKZElZWsQ=="
+secured: "sXz/hydMY3f9lJ48c8GBv3lKpoKamVnQ3OxvnxDwPgtaOaIiA/AqsXdTS9iosMacXIcKHwzf05/sWAuRoE3OdyEaLDO5Vuix9WRPUvhRqOPZ5qzxmdly+GEfgS5SwGUEjI66C9TlePOWAUy9UIo75m4Ya3LWSkuGeOXqvLOzp2/EwcwwbcbHOUMBJG8fpd//y72HOi3/VK+EdyOGwc+fMVEJoM1FN1tvtXeWP5rfVSMLmjUPiY9nKk/oA8cppUdGOGbuGoIMMaAbeVR51HUHjg==;aQ7KEVsxgikMF+USZZuANQ=="
 ---
 
