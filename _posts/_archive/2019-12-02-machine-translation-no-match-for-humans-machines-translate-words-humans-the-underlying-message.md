@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
 
-secured: "FSn28BDbSuOrdH/gfyXkqG65TvBXxvIbtHaXPOuLesMTodoe3URYuNC7uOcTjfa+zsR8MuWnG/BZPRbn2+W6dAGdhz+7fjGG7txlpZjxhtb05YzWF/bLPZ5JaGDOA6BRZSOv7lEGChrxODgQGcP6rNYDwu/ipaiCCN4rcrVDmfeIXi7xA5O1exEWs1MVa+doPzi3x9psnErSaChg4mtHuIB1QOrdKACBZ7zi4csztjWsBMD2VS2i4vqH6dJxiJyybJR6Bs+oRCUmrHkfOL4vxw==;Ve0MZbH5AUWV+trZHRStrg=="
+secured: "gsbbhMhOCpTZ3X4tyhSW7JTvq4qrr5bflbsVgRx5+Z8SXWA8uph2XPL6QOQUKZeWHQOIqff+bHeeAZeyVUH2uJqCg55ffL7AuelMPM59zpVmpcyYQANttaCfXvMi/zU166Yzv27yqM+/ahajeofY44Sc078/V3epJCGRz8mgLspYqm4xacda+FJdTxw6G3TBpaeQleRQ4ve4nGOAThIZ+cnUbk611Zgeg9sNA9wLsNR+PAmqgcvMFhN0Np78cwWp1Azxo/2zsG6/eMRD4UfhCQ==;kUzmPipHXGe/kQfA2RCp+Q=="
 ---
 

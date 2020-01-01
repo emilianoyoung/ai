@@ -2,22 +2,18 @@
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-publishedDateTime: 2019-12-05T18:55:00Z
-sourceUrl: https://www.bbc.com/news/technology-50679791
-ampUrl: https://www.bbc.com/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
+publishedDateTime: 2019-12-05T18:47:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,19 +41,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
-    publishedDateTime: 2019-12-05T17:53:00Z
-    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "DeepMind’s Mustafa Suleyman joins Google AI"
     excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
     publishedDateTime: 2019-12-06T00:39:00Z
@@ -86,19 +69,6 @@ related:
       - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
         width: 648
         height: 391
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
   - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
     excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
     publishedDateTime: 2019-12-05T17:34:00Z
@@ -137,6 +107,6 @@ related:
         width: 580
         height: 358
 
-secured: "Z0TI0Yf7W+b0bhsEO1Fu/+inesbkaYSYqTiju3EuennbHmLIsYmOr8HWxN6Zx4eWClIVygbQodb1S34MgssiOyhFBU1F5hL1ijdMvdDiZfuoZ7T0NrzbyrTVKF1DDxLi2g/7Pm9AHDbe/EBdbGRqgxYfqzCMMR4LrNBVHNDVdYNvVN2Q47Fxv1d/D6+Brz0hZs+KvLxAHxZZrMyF0ldvpwsZcb+9wCMe17kNojfFxgmJS2HZUwl6vgSNEW9tRfYodyxVuvVSjxPVxPi3Oo1rBw==;v41nXCARq47j3b+Anpzetg=="
+secured: "UgdUf13yzAyIF+exfFclbWr8noz1NkpEJRzNMSiGamd40AHAsmBgRApi7hpawc6lUPkysLBB4VWb5hpHXkQZAHDLA/bgRy1BJmDSsaCGLNGfEiua3V1/hl9pCAnNVh5RbpwGSNefJREHCEIVEmFlC00C/TEGbxJStrHgzsJyOXd2VF4Uz7sPTaAoJwALCPZAysGt7vnhQsJWMfNmi3rNz11juoVGLeGWLUcPf3bJ7Kb85K0izwRXIuH0Eaw2efT0S5hkfdzA5nMWi3SqTC66WA==;LZYx6NsdTnxXzay3kp9DaA=="
 ---
 

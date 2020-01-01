@@ -22,6 +22,6 @@ images:
     height: 600
     title: "How tai chi and a Linux laptop can create a tiny, powerful orchestra"
 
-secured: "/6CP0G8ZTq+QdGL2wTJk9sCtKu2TeFi+JdSbjv2LtXjryiYjFsL7eEQcaTA0MxkyapHaH1WzyjY/Z+Rj4DR+wu55C5re9cJDIS+cmfxwH240/2BZ74CKj6WmhzfU96FHUzuc122aIClDBNRdPUXkXHnQINmD+fkCHOXjmk5AMHyZI5eEoP7BRAIDmqXMRQu3X0Zb5foXGB7bkUyvy36N+f+U2P7au7z9uXlohIM9bbtt0GWL8pp1DdttpNIXNq2KDyX4QkyBV/P57AYWRLa08g==;6OCu3ba24B4ApTSwxrQSdA=="
+secured: "Oh6JKP5l3WXtyw8LFN6aVjEiiul0+SCmLTAil+jd0NptMllMDKpVi7pq+Ox5XeC5y4E3FxZu4+UvN8YWBXMI67c+I9dHBjtxNnZOK/lnNIGw/GKoR6r0vXVRnBlA5dLxMhD0e6QOkR/kd0x5hYCSeIzzK6XYuODXZtusAvMx7yoVylKldCJeD5DzI7WARBhOckrNr2JJ9tSbX9zIDhSRXRIU/WxLQC9GkhJcHnsbs2h5hnL8lGp3oL7y6HZ9Q+pHeM14aascayVj4+NnKpeSOQ==;UrqDeQH0tSZEn8PoMpkABQ=="
 ---
 

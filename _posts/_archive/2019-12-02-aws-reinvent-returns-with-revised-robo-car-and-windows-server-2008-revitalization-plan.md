@@ -7,8 +7,8 @@ sourceUrl: https://www.theregister.co.uk/2019/12/02/aws_reinvent_returns/
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/02/aws_reinvent_returns/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/02/aws_reinvent_returns/
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AWS AI
 
-secured: "r1unvbZIAjaqbbRlDUZ26L8pd11j0lc5OhiPYMiW6xsN4PdwSRZqle8xrUaehIz1I0/0jKwI9eNiydXTvoFwK2cLVDLWmGgwNQ6Yhtax+7m5FXtdXbuO5dHbHF6ah8PCyNKrdMzyv3+/vNlGfUE4wmyckTLEgtDwnNysd6ucC5l7dk4bLiJNxeQ9BvqpJAK+ImcJXubbPNwRD+ZRiFKHirsOp6YEuTY24HZHlEV7/Z/tl4gNFiVRKih6AULejPL+CPcEXSZJjrq5fiJV2ySwYg==;Pwqw+CNovhJSfP34rcrXSw=="
+images:
+  - url: https://regmedia.co.uk/2015/04/10/aws.jpg
+    width: 650
+    height: 433
+    title: "AWS re:Invent re:turns with re:vised robo-car and Windows Server 2008 re:vitalization plan"
+
+secured: "6s6eNgFspCXCSEZqjvExpEBrE42ljtMaZKqwpOprIx74UD5jAGdho+ysAmlnV95IhJNlj0k8bsR4ilISbH9Qo7HAhAbpH/efpvnWSs7FVv/htyclLgBD0DZMKx41vdJXPg8CduNsdGu6zW0yCj9az3NPW1qKMemXY98KSBbyxI4jAiXJzR0YXGIFyjTvjmy1gfQwLOsxPtV3tpc9duMz9yUkt1F13hJdW08QQ/ykhsELNOpzNWplLKsxMnZX0+gmDRtVYwulJvBmhy9u9b4naw==;7I3V4A4ZOl8oWvwi8XWUfA=="
 ---
 

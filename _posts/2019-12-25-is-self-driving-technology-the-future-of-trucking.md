@@ -67,6 +67,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
+    excerpt: "Technology continues to redefine the way we live. It is an enabler that fulfills our wants and needs, and enriches our lives with comfort, convenience, entertainment, good health and even prosperity. And going by the trends, it seems like we can’t get enough. Our growing demand for compute and connectivity on-the-go has led to tremendous ..."
+    publishedDateTime: 2020-01-01T20:33:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/
+    ampUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
+        width: 660
+        height: 440
   - title: "How AI came to rule our lives over the last decade"
     excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
     publishedDateTime: 2019-12-23T11:35:00Z

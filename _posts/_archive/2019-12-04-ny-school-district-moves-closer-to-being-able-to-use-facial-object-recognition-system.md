@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
+    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 24
+    quality: 39
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "jDfoUBao9EUzG+iBjzPKd8Z51yeOkP+x+B1gDK8tr7hUoO2Q7CMs25pu+S9PQXA/6o/fANw0kj8hyTm1WTofbxnfo2VwEFRcMKvusoT7c+SAI8m52/vtbZ7NU9uLqVYHJ89FHjEA7WdetRwa/AebPI7U9HemNrqq7CGaYZomnGnocA7N9UUZujkk7V+hwAeE4o+moxsW+ef9MRnemGdNGcQnD1OjtnvZjnQUZjSMgTdjCIwWR6GrWd9VHDxW+Emy8JJQv+ZV23JQ4L92n5xidA==;ZpSKQRE725OUjynNWWWOow=="
+secured: "pYDzj4K6QLxuwiBDZFpNdTw4k0E2COgIuVsGbUL1PyiGK2rgb1uxHcs/ZGBnGU6YSpXrhSTM6fEbAO4zhmLKrrAHId0FoW4j+K4SkAPxwtsL2gxuLkUt1aRzIbyZluKbdX5NZH5Mkc2DccUyLScTqftSJIDZxJ87oGlGQEBz5gs7v76RY2eN/2ybKpN706WhwbItHJbt1gj89uxmTPtaKfHJ8Vy59OXIImfL2XnUNa8I1XZ9ke16sYCTfyjGQ8jGVdfgHkVYPixlAwr/mkHR3Q==;H2z9Q0tsgL+sc2Hoknc4Aw=="
 ---
 

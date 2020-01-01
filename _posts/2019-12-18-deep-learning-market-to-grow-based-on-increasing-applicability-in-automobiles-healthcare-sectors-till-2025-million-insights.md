@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Deep Learning Market to Grow Based on Increasing Applicability in Automobiles & Healthcare Sectors Till 2025 | Million Insights"
-excerpt: "FELTON, California, Dec. 18, 2019 /PRNewswire/ -- The global Deep Learning Market is estimated to touch US$ 10.2 billion by the completion of the prediction period. The market was appreciated by US$ 272.0 million in the year 2016. Growing applicability in ..."
-publishedDateTime: 2019-12-18T10:26:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/deep-learning-market-to-grow-based-on-increasing-applicability-in-automobiles-healthcare-sectors-till-2025-million-insights-1028771497
+excerpt: "FELTON, California, Dec. 18, 2019 /PRNewswire/ -- The global Deep Learning Market is estimated to touch US$ 10.2 billion by the completion of the prediction period. The market was appreciated by US$ 272.0 million in the year 2016. Growing applicability in the self-governing automobiles and healthcare businesses is likely to add considerably to ..."
+publishedDateTime: 2019-12-18T20:47:00Z
+sourceUrl: https://finance.yahoo.com/news/deep-learning-market-grow-based-102000833.html
 type: article
-quality: 21
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -38,6 +34,6 @@ related:
         width: 2000
         height: 1333
 
-secured: "6oUdFlpjxXrrAmudUx7oZ1OyJCBcT0OY8qWuVkex6ErDp4TNdoW37P5/kInKaBTWFzL7FoRBTXkOebgVh+nHtfvkfbvAEDqxud4NZNkhqqzpGxsP/LOMdGaKnyA5gQS1ByVQHfWBQA16TiI3Y5XJ7Bk/A21BaAgLArFqG3xUQlP8oVO2eWbAD05D2bDsO6VRBpou6H1+6rjOJfL99g7mn9H7b7FMGr4Vu4fewE+upNp8rl7ovGo71UZ0PUMEFkYsgFI9fiUGLAehZDXtIpivgw==;PixsTor48jQNurw82h0eMw=="
+secured: "yg3btOqHkwTLuFq4CIyPdmOc+Ro/eZzRrz6RFWis70QYzNrMfTreUfQuBDRIPgNlYnG12Kf53ZGyjJiNOPqY22X+G3JBFujUh6LPz1+pL+gwRrip16+e46YSScV0JhxOztSoSb6gkU0oMMsRe3RAiusfj9E0smkoVbBnH0MeAdm660Mh/LrpC4Foorkgf6FvdBWCYh+DbOjt82AEGfvNNDIqiDxPOf9hRyjIt4V+DZAWEtvIIhsdtk0DacQq46vothqYizc4A+rcwklsK4L9NA==;0Kcf9YebkJT6zrlsCw5N3Q=="
 ---
 

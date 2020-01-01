@@ -93,19 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Data Science and Machine Learning Service Market Insights and Outlook During 2019-2025"
-    excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Data Science and Machine Learning Service Market Report have newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Data Science and ..."
-    publishedDateTime: 2019-12-12T19:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-insights-and-outlook-during-2019-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
     excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
     publishedDateTime: 2019-12-16T14:05:00Z

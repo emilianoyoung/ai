@@ -86,6 +86,17 @@ related:
       - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
         width: 700
         height: 350
+  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
+    publishedDateTime: 2019-12-18T17:07:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 153
   - title: "Push to rein in facial recognition stalls"
     excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
     publishedDateTime: 2019-12-16T15:00:00Z
@@ -663,17 +674,6 @@ related:
       - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
         width: 700
         height: 350
-  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
-    publishedDateTime: 2019-12-18T17:07:00Z
-    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 53
   - title: "Researchers bypass airport and payment facial recognition systems using masks"
     excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
     publishedDateTime: 2019-12-16T11:35:00Z
@@ -1176,7 +1176,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

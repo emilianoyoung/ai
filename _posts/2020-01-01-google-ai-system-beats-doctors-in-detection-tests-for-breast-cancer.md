@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8564E70EFD9D0BA0124C593949414644
         width: 700
         height: 525
+  - title: "Google's AI can detect breast cancer more accurately than experts"
+    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
+    publishedDateTime: 2020-01-01T17:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    ampUrl: https://www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
+        width: 700
+        height: 367
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -56,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B2C0B95C7E966C251DCEA170B5AD56F8
         width: 700
         height: 350
+  - title: "Google DeepMind AI Can Diagnose Breast Cancer With Human-Like Accuracy"
+    excerpt: "Some areas have a shortage of doctors who can make a diagnosis from medical scans, so Google's DeepMind AI has been trained to find breast cancer in screening scans as accurately or better than a radiologist. Google hopes that the research, which is still in the early stages, will lead to less misdiagnosed cases and help to alleviate shortages ..."
+    publishedDateTime: 2020-01-01T20:47:00Z
+    sourceUrl: https://hothardware.com/news/deepmind-ai-used-to-diagnose-breast-cancer
+    ampUrl: https://amp.hothardware.com/news/deepmind-ai-used-to-diagnose-breast-cancer
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepmind-ai-used-to-diagnose-breast-cancer
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.8FE3A7C13CE9FC7B93BCE7CC986AD440
+        width: 700
+        height: 466
   - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
     excerpt: "So improving how effectively mammograms can detect abnormal growths that could be cancerous is a priority in the field. AI could play a role in accomplishing that—computer-based machine learning might help doctors to read mammograms more accurately. In a study published Jan. 1 in Nature, researchers from Google Health, and from universities ..."
     publishedDateTime: 2020-01-01T18:09:00Z
@@ -97,6 +127,34 @@ related:
       - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
         width: 700
         height: 366
+  - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-01T20:56:00Z
+    sourceUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254
+    ampUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
+    cdnAmpUrl: https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.D3A2DCD6DE08CC3B8F57B44FF391B6A4
+        width: 620
+        height: 413
+  - title: "AI system can detect breast cancer better than clinical experts – study"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
+    publishedDateTime: 2020-01-01T20:36:00Z
+    sourceUrl: https://uk.news.yahoo.com/ai-system-detect-breast-cancer-202811120.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E22268A961A44ED24DFCD48C307AA915
+        width: 700
+        height: 393
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
     publishedDateTime: 2020-01-01T18:00:10Z
@@ -108,19 +166,6 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
-        width: 700
-        height: 367
-  - title: "Google's AI can detect breast cancer more accurately than experts"
-    excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women,"
-    publishedDateTime: 2020-01-01T18:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D036F61EC9C6E774AACCC67B0E508F49
         width: 700
         height: 367
   - title: "How Google Is Using AI To Improve Breast Cancer Screening"
@@ -177,6 +222,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
         width: 700
         height: 466
+  - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-01T20:34:00Z
+    sourceUrl: https://www.telegraph.co.uk/news/2020/01/01/artificial-intelligence-programme-detects-breast-cancer-better/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.11DDE710EA7D48FB01638CB05C23A7BB
+        width: 700
+        height: 437
 
 secured: "bvJml7GERpysMgW4T4ZT/FhtKz3jXd/z6TUeF1H3GT2ER6H6fojViO0ZSJGYDNFB0c8Ig6LNTobaXF4rI0impPyocDlluq70Ae/AE0d04slWKpb4M0tqKBXQhehyedPZyH+JYZr276vNZXz921MU4onvGpj1u4jpichqAA9GZj8RUF+Zb3CVL+WhdPU4X6xJuAu8sbc3efaBfGWCf4mNuZtPnkeWJla+5A8J+aFvnupnxg0Utgm1CnujvrNJHoIEHI9XTfwDlcfc4CtbhH9OpQ==;27I6tajCYXlrG5Uzum5Mvg=="
 ---

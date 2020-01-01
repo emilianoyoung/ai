@@ -68,6 +68,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
+    excerpt: "Technology continues to redefine the way we live. It is an enabler that fulfills our wants and needs, and enriches our lives with comfort, convenience, entertainment, good health and even prosperity. And going by the trends, it seems like we can’t get enough. Our growing demand for compute and connectivity on-the-go has led to tremendous ..."
+    publishedDateTime: 2020-01-01T20:33:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/
+    ampUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
+        width: 660
+        height: 440
   - title: "Self-driving cars? This is the automotive fail of the decade"
     excerpt: "Our trust in digital technology companies has become so complete, that when a host of these promised self-driving cars, we believed them ... Or if a child might break free from a parent’s hand on the pavement. Artificial intelligence can’t intuit that. Autonomous driving systems can only operate in a perfect system, and how many times ..."
     publishedDateTime: 2019-12-30T05:32:00Z

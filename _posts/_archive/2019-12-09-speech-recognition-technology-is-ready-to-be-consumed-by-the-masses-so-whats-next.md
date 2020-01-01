@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -84,6 +84,17 @@ related:
       - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
         width: 700
         height: 350
+  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
+    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
+    publishedDateTime: 2019-12-18T17:07:00Z
+    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
+    type: article
+    provider:
+      name: BuzzFeed News
+      domain: buzzfeednews.com
+    quality: 153
   - title: "Push to rein in facial recognition stalls"
     excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
     publishedDateTime: 2019-12-16T15:00:00Z
@@ -661,17 +672,6 @@ related:
       - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
         width: 700
         height: 350
-  - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Eight lawmakers sent a letter to the Department of Housing and Urban Development Secretary Ben Carson today demanding information about the deployment of facial recognition technology in federally assisted housing. Signed by Sens. Ron Wyden, Kamala Harris, and Cory Booker, among others, the letter expresses concern that facial recognition might ..."
-    publishedDateTime: 2019-12-18T17:07:00Z
-    sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
-    type: article
-    provider:
-      name: BuzzFeed News
-      domain: buzzfeednews.com
-    quality: 53
   - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
     excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
     publishedDateTime: 2019-12-23T04:01:00Z
@@ -1384,6 +1384,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "NauctM7zlX8MOIPDgTkBILG0NaqODJXFRZNZNMcyVnCNnLRGZgzLNj5X2i8qFL/HfCvgrBR3rib5bwzz+KDudDFs6MYNwI2hjMoJUH5CiVWPxSCzhfAOXBBwdS0Q7sQhATOifWpJasuexEHpF42iF0JqzE9oduKEqW2MYY6kbmThbU182MvNTdMYh3UXTKGfpMFXfutHPzNUJxXINAVPVCRQs/skFiLTGuhkrFDSMz9CyLf1KCp/KpXFbQ1Yw6y8Cn1BsJqsAf3JgMGS8P4Y6Q==;VUR+tVSJuw2Sc+s9AQ66/w=="
+secured: "C6iouFPahZ1Y04x6UkiWAJ8ac/LjFIkTVsF11J+J08m2TtPnJHqUPqzEyy1aE+zbqbW7EVEFgJiPiL4GTR2yzrbcZ+YnaJsGhzgrmnfR5O45iNisJXKaOyworn3oAh8wu2oq9bVlXsgHoZzXvQbwE05jadHZ61Iz42mFZGFKijk7mpRqzfKyt8XbBZwGtty7TtEF9TeTzNLwEzjwJFG/13MSbIvPcgK/ahog8oJsK2vRPerte2ycyDKSH7Ot+nwo7tB/Fo5tT+woMYzXb/PEkg==;utDP8ZHXOCrsfAGBmkZ0rw=="
 ---
 

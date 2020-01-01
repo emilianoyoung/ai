@@ -7,7 +7,7 @@ sourceUrl: https://www.buzzfeednews.com/article/carolinehaskins1/facial-recognit
 ampUrl: https://www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
 cdnAmpUrl: https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/facial-recognition-public-housing-ben-carson-investigate
 type: article
-quality: 53
+quality: 153
 heat: -1
 published: false
 
@@ -1178,7 +1178,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
@@ -1386,6 +1386,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "Mzkt5CvtEmrVPmPvH0GbEHFCflqw9b4VLqHsgP5q6qNd1kgZL7wgwb5s0tNtTJyXq58IBuy+5CEwWJc5GfN2OKlP6PRddcZeRksuOLY8luimgpfYCrKfvgEdoIZCUw5Vf/Qd9b2HUPGCt7z6n3rzU5nca7VHG7HT7msNAnYmjMgGjbDlj58Q98ci8q1WL6+w91qrvSpEh5Cac0BH2IJ37ZAHVkWCmDTNe917RiZMK/HVoe8wm5wpnqmiUmp+zqokf7IBNI9iNMf/N3C3D2cqEg==;eqkTRN+YJ4QgugS4FcNm1Q=="
+secured: "QpAGkaK74GX3+Gth428rXvoMdbpcWX/R+9bBQHDhFXrlOzo82+Rg8TKk2KowSkYRMuPrBBN0Ew4soIzdNg6lS2mJrTr/YF/lCcquA2LjEcjArlybIYovQkorWmrzEMK6yjccrY4XaCh/k6WtmkL63lmiMZzzw17zhGrNdkojvKttfwtXuEfhpewwdTdnWh9HOlWsKE0DDxwtFa9bUdeTjSf8jbt7arSKikPhg3azN+8KqmwfpMayWrrRiEj7tEQBvoQiLw68WggFlRPcoIJjCahzCNGe294bzK1Nl171Xjw=;QZKuyNLD3GZEW5D7Vj7uTQ=="
 ---
 
