@@ -23,6 +23,6 @@ images:
     height: 523
     title: "Cerner taps AWS to power new AI healthcare platform"
 
-secured: "3+wzszkGGhzm6v14nFodUKtyDnYYPyybwVtGkZCIKEKbR6R4VTT0wpuC7krgAof9wnFvV2fn3x3Wg64rXuYNUQLGcZnNTS3blhzelXtGZLuRG+W5OFQhmgcI3xGYYYeY6+Lur+DmQzx8yf9sZFeo/hXsf2xAESHv5/t32y4zSMB50dFNtB6oGMaMqLdjuKd9u5q+q5Iffax/KBozz3LnuLzu6qNA3w/Nf8gInV/qUvuxYH/DmG5YbgP/D1tKiS8TQqFuGxSwdZc8uY4H6AZ48A==;fJdlQTIf+pOaRtz4ISS9rw=="
+secured: "HlyPO2aRmLziRnQi1yiwuJ4iZut5Azh8msgWr2qXAEPYO+dqRWuFzGY/5EqBEMhXYKAWqc7KWIL+OhF9OPnlW9YAc5WRugtZxXfRpj+y227GwusbBOg167MMlDBRqPbD3CDWGO5orJ3PUog60+9+m9nDe/jpsYup0b9MyQ5jJlewFCWFTPpUbgJnDdBMYsPDsGQRHroFlISY20TXRacauw45tla1i42HlE6Cx8CClWR2q7Dx5HLl90hUOZkmbANAYN5DHcMUwMNVo6cfAlODFw==;/fFgLjezK0wsQt8vVPD90A=="
 ---
 

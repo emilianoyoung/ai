@@ -197,19 +197,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "Artificial Intelligence In Medical Imaging Market Technology Advancement and Analysis 2019 to 2025"
-    excerpt: "Dec 12, 2019 (Market Insight Reports via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence In Medical Imaging Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current ..."
-    publishedDateTime: 2019-12-12T04:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-analysis-2019-to-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
     publishedDateTime: 2019-12-13T07:10:00Z
@@ -409,6 +396,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "ZzIC407bdNlxR8rwbvtYZu4ZH3LX9tsDnn1Ywt14bBDcS2KgPg5nJhJ0UgX7uVjFIM4KHW1jCinPt2G4k3XBrT8w8htXYfbF6wBOXaVDGRQ5z5v74pAo0xn5jshZD9F0t8ueX7PD7x2LWu2/gMgw4M+cTKz/N38RFPUwUD+31S5h0ikmQzwOIOQD9c0znqPcTGjl5wCSJldfGLD1pPsGqOxI1eAC7G3vN7mw0V5DIELehrPqu1lldlxm6GzneFZ9bil0IwHb6o8l9CcC8kEzSg==;eABlyBgkyRPSHq6WL/b75Q=="
+secured: "K7cJ2ZDq8ThTvj0s7b9Rq9r9BecWGZLHJH5NJTpr1p1Ft511p5ArPFsbXpijMHrsY+S2kDiylS4s2G4IlIbuzofeh8ZGQm1arehtWItTRujDg+9mHNPU2SxT0n+BlvsZHK2Oh1QEWs5KXYpuiA/u6d+hBLLO95M12/P5k/xe2WMMahbNJ8RD3TlT7vVU5ag42SC/SjwBFtUcWGn8spoN+4dvzfP34qYHYbXNXFJrsItsoN9qsNRuC1IWnAlOE15EK9Ht2U8nkOKNJpWduQMQCg==;8tsF9Ldg6VA6Eb1yCd75gg=="
 ---
 

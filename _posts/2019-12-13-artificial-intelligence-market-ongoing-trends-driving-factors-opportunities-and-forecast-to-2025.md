@@ -196,19 +196,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "Artificial Intelligence In Medical Imaging Market Technology Advancement and Analysis 2019 to 2025"
-    excerpt: "Dec 12, 2019 (Market Insight Reports via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence In Medical Imaging Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current ..."
-    publishedDateTime: 2019-12-12T04:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-analysis-2019-to-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
     excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
     publishedDateTime: 2019-12-12T05:19:00Z

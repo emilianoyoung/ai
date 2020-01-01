@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
 type: article
 quality: 112
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -91,20 +91,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
 
-secured: "IZw0XYITDyhKudzcqp82qmSaVs+s/AjwG1bldxNC6VsN0md7HukF5LhlFNTfwegwIwk1YNUXri7aAxwELerLX4zlpTa3uzY8V6fXQ8iMWWFdhsoF1mifXnGGWK0y5qQK2nxavCoIuUAbj0Fv06bLqgDE1GgI83/KbVhTed6b4GCsZQVuuyAqTRWvrynv1N00gvHziWK5Vq4oQlliTzBPQcUmpOERxwiqsR1jkkFT0GSL4T+taichJYkEeB+Uj+gjJjafaib8hj9WPqW21nYLPA==;SmIfzISWQGXz+AXb3uCTeA=="
+secured: "ekKTiPYaf6MTO69zwR491FU4N7Xdi7dIVOWW8INU9Lk8o6sBpkO3TfvfOjOLgB6tqwdLALQ0noJtKgPia9yIMKf+GSuFoNZaRMB6Jw+vKWFOtfiQUq2lYR0GBc38xCXUlSJk3T8iKJXJws5RBXtue8OreRens8M5+VuLNLGKMhSF2w68BkiBjODeDzy2d4qstyXpcH5cU2aVJaSxHLZW0n4XIK9eiWsf2dBU3NzToCXHsg5QKaze3FoO5ODrn4jrgJ6ApaSIyWeEN6EFfRGQWQ==;CA916zmRqhe7vO7WTpOZVw=="
 ---
 

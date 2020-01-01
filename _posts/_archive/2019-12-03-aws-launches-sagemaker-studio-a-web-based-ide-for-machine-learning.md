@@ -89,20 +89,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
 
-secured: "IQw8dYgZ37xGi/zoTZ8q32h6g+BY8Xbccs1G/Dr0XGoT0m59Fyf961rcji5gSbqrkrDVl2gfJ0FhRvPMJzwa6jn8x0Fqb08aw9hvnHwvW/kocY1EEUcGDFGg2zkYuv2TmH7d/jVS9kq5B8T4pVeqxg9v7PjlksPZhsTKC12LZ87YhojR9QTytFa12jiOMVIxZxGcSEcnWRU1Z0jUBbIzznc3/MDHRlswo5q+hkWhV2wz6sSL8lQg00z6FpKBrJkBoNE/SxUFBLU1qJLoJFsSuw==;WKiwMJ3z0QIrXRkiXiIrsQ=="
+secured: "Ft7cGP7BOXSkV5X7iVLmfSNvozk2AiZikPdOdBlXq06zznTy15ccO19xE6e10Wy2gxM1YoIk48kzedhhAK8MvVBTfGZknGwqME0BDvEc4EThuOzmcsuMvcmPhTWZ3FfPMMiCjylkZXYGo2ukPDN8YNVCjdBKUerYrxu1qrqkEgXc72PZqfxSh93VPwKhkJHf+V/dboU8wy36IdIqN15ym7NfoNmgvhOOxb5pTSeBmmjBGTZhhBEWGuXwnPeTXECq/xXAP/hX06YoEp7Z4e7lfg==;+lycBm7cOS56pups8fBRDg=="
 ---
 

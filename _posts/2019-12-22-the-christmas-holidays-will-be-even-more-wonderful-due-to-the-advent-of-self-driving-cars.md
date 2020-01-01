@@ -63,7 +63,7 @@ related:
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
     publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/auto/news/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
       name: Bangkok Post

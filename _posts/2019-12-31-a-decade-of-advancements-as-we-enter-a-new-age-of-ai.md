@@ -7,8 +7,8 @@ sourceUrl: https://www.forbes.com/sites/danielpitchford/2020/12/31/a-decade-of-a
 ampUrl: https://www.forbes.com/sites/danielpitchford/2020/12/31/a-decade-of-advancements-as-we-enter-a-new-age-of-ai/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielpitchford/2020/12/31/a-decade-of-advancements-as-we-enter-a-new-age-of-ai/amp/
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - IBM AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.C17BEBB1C225E34352E69408CF42BD9C

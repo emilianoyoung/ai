@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F608ECDEA03963CCC1771958CA3F6D77
         width: 700
         height: 393
+  - title: "Hello, Robot: machines designed for comfort — and killing"
+    excerpt: "Rapid advances in computing power, material science and micro-engineering have in recent years allowed the construction of automata from violin-playing androids to long-range drones and super-precise neurosurgical robots that a few decades ago would still have been firmly in the realm of sci-fi. And the dawning age of artificial intelligence or ..."
+    publishedDateTime: 2020-01-01T05:00:00Z
+    sourceUrl: https://www.ft.com/content/723998ca-2bc0-11ea-bc77-65e4aa615551
+    ampUrl: https://amp.ft.com/content/723998ca-2bc0-11ea-bc77-65e4aa615551
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/723998ca-2bc0-11ea-bc77-65e4aa615551
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.606C06DC84A6FD6BC82015E6D293104F
+        width: 700
+        height: 393
   - title: "In 2019, China searched for AI, 5G, and blockchain"
     excerpt: "Baidu has released its annual ranking of the hottest search terms in technology for 2019. Artificial intelligence (AI) garnered more searches than any other tech phrase. “AI is going to open a new chapter of the society of the world that people try to understand ourselves better, rather than the outside world,” said Alibaba founder Jack Ma ..."
     publishedDateTime: 2020-01-01T02:06:00Z

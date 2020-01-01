@@ -186,19 +186,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "Artificial Intelligence In Medical Imaging Market Technology Advancement and Analysis 2019 to 2025"
-    excerpt: "Dec 12, 2019 (Market Insight Reports via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence In Medical Imaging Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current ..."
-    publishedDateTime: 2019-12-12T04:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-imaging-market-technology-advancement-and-analysis-2019-to-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
     publishedDateTime: 2019-12-13T07:10:00Z
