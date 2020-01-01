@@ -50,21 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
         width: 700
         height: 525
-  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
-    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
-    publishedDateTime: 2019-12-14T10:26:00Z
-    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
-    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
-        width: 700
-        height: 466
   - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
     excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
     publishedDateTime: 2019-12-20T00:38:00Z
@@ -98,6 +83,32 @@ related:
       name: IT Pro Portal
       domain: itproportal.com
     quality: 39
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
 
 secured: "lmL5nounlCbd9XAd1uQgyLsOQ1KRAjAoCzmYaalCkGDR3fgZKy+jquVNd+S/Y5oCE7suFgquveUH04BtkPqy9CZaO/Q0Ud9EZDtuzX211CaKlYAuycUc9FeGknbVU+Vvx3f5UI2KaYPg1angI5WekIXoMCFU5Qm1c1dXg0fw1RTIN8IjRK3f3u0Y+rlcoQpIoKM05Lvsd2dVTe/1W7Umbrw9himvu7fMphP9en0iJmx5kfsHGGJg9fca5mJL+9dlGnTuAHkmEiHKnWBzxxW0BA==;JLSM0Yj9weANJixk9q+kaQ=="
 ---

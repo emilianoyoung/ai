@@ -214,19 +214,6 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
         width: 400
         height: 400
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-12T15:57:55Z
-    sourceUrl: https://www.msn.com/en-sg/news/world/all-it-takes-to-fool-facial-recognition-at-airports-and-border-crossings-is-a-printed-mask-researchers-found/ar-AAK4kCz?li=BBr8Cnr
-    type: article
-    provider:
-      name: Business Insider Singapore on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
-        width: 700
-        height: 367
   - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
     excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
     publishedDateTime: 2019-12-16T14:46:00Z

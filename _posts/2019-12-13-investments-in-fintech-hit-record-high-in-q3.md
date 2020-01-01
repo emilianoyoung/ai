@@ -50,6 +50,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
         width: 457
         height: 261
+  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
+    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
+    publishedDateTime: 2019-12-19T06:39:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
     excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
     publishedDateTime: 2019-12-18T18:08:00Z

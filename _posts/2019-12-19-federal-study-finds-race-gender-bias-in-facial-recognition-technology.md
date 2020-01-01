@@ -283,21 +283,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
         width: 700
         height: 525
-  - title: "LAX embraces facial recognition tech, but Sea-Tac airport hits the brakes"
-    excerpt: "As many U.S. airports, including LAX, rush to embrace the use of facial-recognition technology by airlines and U.S. Customs and Border Protection, Seattle-Tacoma International Airport is applying the brakes. On Tuesday, the Port of Seattle Commission (which manages Sea-Tac) unanimously approved a temporary ban on some uses of biometric ..."
-    publishedDateTime: 2019-12-12T15:53:00Z
-    sourceUrl: https://www.latimes.com/travel/story/2019-12-12/lax-airports-facial-recognition-seattle-ban
-    ampUrl: https://www.latimes.com/travel/story/2019-12-12/lax-airports-facial-recognition-seattle-ban?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/travel/story/2019-12-12/lax-airports-facial-recognition-seattle-ban?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.68B167D2D8E4CDBA1B43C0E301CC3C34
-        width: 700
-        height: 367
   - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
     excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
     publishedDateTime: 2019-12-20T18:00:00Z
@@ -402,21 +387,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3A83239BF62E72B62CB72019C737EE0
         width: 700
         height: 393
-  - title: "Brookline Passes Ban On Municipal Use Of Facial Recognition Tech"
-    excerpt: "Brookline is now the second town in Massachusetts to ban the municipal use of facial recognition technology. Town Meeting members voted Wednesday night to restrict the town government from using the surveillance, which is currently not regulated by state or federal law. Somerville passed a similar ban earlier this year. The ACLU of ..."
-    publishedDateTime: 2019-12-12T15:51:00Z
-    sourceUrl: https://www.wbur.org/news/2019/12/12/brookline-facial-recognition-technology-ban
-    ampUrl: https://amp.wbur.org/news/2019/12/12/brookline-facial-recognition-technology-ban
-    cdnAmpUrl: https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2019/12/12/brookline-facial-recognition-technology-ban
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.A801412C01A69F0ADA21AF2D886FD905
-        width: 700
-        height: 434
   - title: "Homeland Security rolls back its expansion of facial recognition"
     excerpt: "Facial recognition has become a rather touchy subject. Earlier this year, a $35 billion class action lawsuit was filed against Facebook over claims that it harvested consumer biometric data without consent. In San Francisco, the subject is so ripe that the city is considering banning all facial recognition technology within city limits."
     publishedDateTime: 2019-12-12T18:38:00Z
@@ -1233,7 +1203,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

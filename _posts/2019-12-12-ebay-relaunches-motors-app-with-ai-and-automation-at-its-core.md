@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-an
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,15 +30,64 @@ images:
     title: "eBay relaunches Motors app with AI and automation at its core"
 
 related:
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
-    publishedDateTime: 2019-12-16T18:09:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+  - title: "Google launches AutoML Natural Language with improved text classification and model training"
+    excerpt: "Earlier this year, Google took the wraps off of AutoML Natural Language, an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for customers globally, with support for tasks like classification, sentiment analysis, and entity ..."
+    publishedDateTime: 2019-12-12T17:56:00Z
+    sourceUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/
+    ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 97
+    images:
+      - url: https://www.bing.com/th?id=ON.CEC83524B5A873D3968AE98F6FA40A63
+        width: 700
+        height: 350
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
+    publishedDateTime: 2019-12-12T20:54:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
+        width: 600
+        height: 315
+  - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
+    excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
+    publishedDateTime: 2019-12-12T17:20:00Z
+    sourceUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380
+    ampUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
+        width: 700
+        height: 393
+  - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
+    excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
+    publishedDateTime: 2019-12-19T12:20:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-300977512.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: https://mma.prnewswire.com/media/554411/4G_Clinical_Logo.jpg?p=facebook
+        width: 5157
+        height: 2700
 
 secured: "AoSoAGp0RHs+mafIg7GkZtKbiSArKzjhwl5kfoY14jlR57CKCzuh/vySH2IeG7wzAIGWLccHrqKHtzUok0NZe0Q2R2P/3hF82nuQ4fK4N32X9Zboi5iPd2V19VZwpbz6YjgviqqaCiOr6e+T0rNrddYhyEoigfnVv2Mpn5jZnQrjkWB+FdKbQvqzOgI0GAxiGNO1PResb2EkCXn/of0tqFHCJG2kUkFAb8O9Ig63OCGpS2aJURLDGoaMf2232qyEU8N+XyDpNiy6tYLNZz8NAQ==;JvrWt1IEnW10zxbsD3E3jA=="
 ---

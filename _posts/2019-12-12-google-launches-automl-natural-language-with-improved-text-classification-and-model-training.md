@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-langua
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
 quality: 97
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: VentureBeat
@@ -32,21 +32,64 @@ images:
     title: "Google launches AutoML Natural Language with improved text classification and model training"
 
 related:
-  - title: "Here’s How This AI Automates Content Generation In 110 Languages"
-    excerpt: "AX Semantics an artificial intelligence (AI)-powered, natural language generation (NLG) company said it could create AI-produced content in more than 110 languages. The Stuttgart-based company which launched in the US today, 12 December 2019 already works with hundreds of customers, including several Fortune 500 companies such as Deloitte for ..."
-    publishedDateTime: 2019-12-12T15:46:00Z
-    sourceUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/12/heres-how-this-ai-automates-content-generation-in-110-languages/
-    ampUrl: https://www.forbes.com/sites/jenniferhicks/2019/12/12/heres-how-this-ai-automates-content-generation-in-110-languages/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2019/12/12/heres-how-this-ai-automates-content-generation-in-110-languages/amp/
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
+    publishedDateTime: 2019-12-12T20:54:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 187
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.9FEDFDF65EEAF37E845DEE3DBDD3ED4D
+      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
         width: 600
         height: 315
+  - title: "eBay relaunches Motors app with AI and automation at its core"
+    excerpt: "The new incarnation sports a number of notable automated features to help people sell their vehicles, including an image-categorization tool that groups photos by type, which was built using Google’s AutoML Vision Edge tool for Firebase. The app has also been rebuilt from the ground up using Flutter, Google’s open source platform for ..."
+    publishedDateTime: 2019-12-12T21:01:00Z
+    sourceUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/
+    ampUrl: https://venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/ebay-relaunches-motors-app-with-ai-and-automation-at-its-core/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.E6BEBBC4E5C9BFE25629231A9D4C01D4
+        width: 700
+        height: 365
+  - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
+    excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
+    publishedDateTime: 2019-12-12T17:20:00Z
+    sourceUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380
+    ampUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
+        width: 700
+        height: 393
+  - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
+    excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
+    publishedDateTime: 2019-12-19T12:20:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-300977512.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: https://mma.prnewswire.com/media/554411/4G_Clinical_Logo.jpg?p=facebook
+        width: 5157
+        height: 2700
 
 secured: "LzwXR4gTrYILsO7vCB4KNumKRWKe5Ps4GFiDQ+40F02lIz/Tl14o6tge4pxo27F9yrvm4VQt/zt373NjjSufpZtxPewfk0WyTnrWP7kqjKXDKAk0Hlu3GBarlwdXCDu/F4C+YrFL2mnzpfArMfy4+SCT+407sh/6iC+HbdS1+lABa/T0BGOXqccPYylgSHD7E0R+0NSTfnjecL1+n2WrNZ5/bys6iumPZ/fsp7uUT2bhB7436LGMAWN2RcYiA82SFphQqrLpKGGqdPTVPa/sWQ==;w5OFy3ktpIhqtz6Un3v+Zw=="
 ---

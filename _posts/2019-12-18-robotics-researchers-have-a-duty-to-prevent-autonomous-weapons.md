@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T12:17:00Z
 sourceUrl: https://www.dhakatribune.com/feature/2019/12/18/robotics-researchers-have-a-duty-to-prevent-autonomous-weapons
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Robotics researchers have a duty to prevent autonomous weapons"
 
 related:
+  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
+    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
+    publishedDateTime: 2019-12-13T14:45:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
+        width: 700
+        height: 466
   - title: "System integrators and autonomous mobile robots working together"
     excerpt: "are transforming traditional robot tasks through increased flexibility and diversified applications. AMRs are known for their unique ability to navigate in an uncontrolled environment with a higher level of understanding via sensors, blueprints, artificial intelligence (AI), 3-D or 2-D vision and more. Their perception allows these robots to re ..."
     publishedDateTime: 2019-12-16T14:04:00Z

@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
         width: 700
         height: 393
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
-        width: 700
-        height: 494
   - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
     excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
     publishedDateTime: 2019-12-31T02:10:00Z

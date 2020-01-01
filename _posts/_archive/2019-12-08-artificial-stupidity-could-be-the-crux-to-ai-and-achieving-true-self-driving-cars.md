@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
-        width: 600
-        height: 315
   - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
     excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
     publishedDateTime: 2019-12-13T20:42:00Z
@@ -60,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Using artificial intelligence to improve chronic care"
-    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
-    publishedDateTime: 2019-12-12T15:49:00Z
-    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
-        width: 700
-        height: 447
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z
@@ -86,7 +58,20 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "OkxDic0PCYA/dCFEP8LOtaBCrow+2KhLR47sODXH4mocIr4k8Ajim3bCxLKQ0SV+Jh8ZKeVfLf4DOJQdWzrksLJObcwHA8PKKK5H7AUvaKdo8AGGNc1hgfofxhOCSxp4QJ31MhxU7YRmNjQNjpm2UEMX/Kn2qantIdCMsL2ztaMX4Fc0oz35MuC+hk2UhSYTQVh04x9TufhhwZ4F6SoV4LapUe2aSUvuQ51hSGqydS7mQSzaXAcgCd4xktoyBhiz7euM46eeUrmqbqiaraXoRQ==;pIJlJLZ/vL0z7rGA1MgU8w=="
+secured: "hh2FJ+qOpMJG8LtdxQ+hD5cnGFcM+DYNXqAmeXA2Q9pWCtossAyeDbk9hKrsdvKQmwPkcwuisI8PcRyFaeL2LH2i7GHmUW0dBORZWcqzWvKa/drs0bpUl/ge7U9so4RMM91kR8QuWq9qVPHbCWHUhKILAJ/H4f0OJ/SRCI25mRaL62KLmzQdoS/McBeyyZjBlEDjEy4I2YwExLx2U+0gviXUquLdcUgqaOO+VOX/HbQENMgDC7A8+gCMiR57xzWmXLn3Kf7nxX/s5u7hqz7Vtw==;hsnw7rHs97Oizv4QKNqvTg=="
 ---
 

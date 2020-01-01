@@ -41,34 +41,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
-        width: 600
-        height: 315
-  - title: "Using artificial intelligence to improve chronic care"
-    excerpt: "The brief story of the evolution of healthcare tells us that human intelligence is in need of augmentation yet again. And artificial intelligence (AI) could help by connecting the dots. Artificial intelligence is predicted to have a tectonic impact on many walks of life. Healthcare is no exception. And the best-in-class doctors value anything ..."
-    publishedDateTime: 2019-12-12T15:49:00Z
-    sourceUrl: https://www.fortuneindia.com/opinion/using-artificial-intelligence-to-improve-chronic-care/103881
-    type: article
-    provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2113F4EB9092FFEB3EA256220C8746D6
-        width: 700
-        height: 447
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z
@@ -82,6 +54,19 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
 secured: "SWZtH3SEmwS9QZLFZsaZtC/FG5tqXlftuYD0F3ZJj6b8/rlzaAx1dn7cYYzW8FekQmBDLsJBp4OzMXrtHMmr5GN7I7YDVDKHcR7CRUZyIswucEm55QZ3WKmrQLdqrBgkE6PmX4AQ5Gpi9qSflWYHnD4i66O7wp/fmPB5nQPbsLF39nkRf84DbWm8ExYj+gd8WTeixHTmzgsOuOjv3VExJ9ODQFCDCPPlKnrqr+hqKkwdk/WER3Ge3RTpvl8qcQCxAIDWxbgK2URS6kPsTev8ZA==;30dH35opGtWzRG8dfAdx5Q=="
 ---

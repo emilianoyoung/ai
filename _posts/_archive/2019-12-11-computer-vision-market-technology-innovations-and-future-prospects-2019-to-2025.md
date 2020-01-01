@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
+excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast ..."
 publishedDateTime: 2019-12-11T08:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
 type: article
@@ -28,90 +28,140 @@ images:
     title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
 
 related:
-  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
-    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
-    publishedDateTime: 2019-12-13T03:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
+  - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The study includes the use of artificial intelligence and robotics for various applications in aerospace and defense. Some of the important aspects covered in the study are use of AI and robotics in manufacturing of aircraft, operations and fleet management, and other applications by airlines; airport ..."
+    publishedDateTime: 2019-12-14T13:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 81
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
+  - title: "Artificial Intelligence Chips Market Insights by Size, Status and Forecast 2025"
+    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently released Global Artificial Intelligence Chips Market research with more than 100 market data tables and figures spread through Pages are easy to understand TOC in \"Global Artificial Intelligence Chips Market research\", so you can get a variety of ways to ..."
+    publishedDateTime: 2019-12-20T12:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 80
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Chipset Market Overview, Scope and Technology Advancement Outlook till 2025"
-    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Deep Learning Chipset Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2026 Deep Learning Chipset Market report contains a forecast of the next 5 years, starting 2019 and ending 2026 with a host of metrics like supply-demand ratio, Deep Learning Chipset market frequency ..."
-    publishedDateTime: 2019-12-17T10:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
+  - title: "Artificial Intelligence in Healthcare Market Technological Growth and Precise Outlook 2019 to 2025"
+    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The global \"Artificial Intelligence in Healthcare Market\" 2019 research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers ..."
+    publishedDateTime: 2019-12-20T09:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-technological-growth-and-precise-outlook-2019-to-2025-2019-12-20
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 70
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
+  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
+    publishedDateTime: 2019-12-13T04:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
+  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
+    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
+    publishedDateTime: 2019-12-20T07:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Chipset Market Technology Innovations and Future Prospects 2019 to 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence (AI) Chipset Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different ..."
+    publishedDateTime: 2019-12-13T07:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-13
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Data Science and Machine Learning Service Market Insights and Outlook During 2019-2025"
+    excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Data Science and Machine Learning Service Market Report have newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Data Science and ..."
+    publishedDateTime: 2019-12-12T19:24:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-insights-and-outlook-during-2019-2025-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
+    publishedDateTime: 2019-12-16T14:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
+    excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
+    publishedDateTime: 2019-12-14T05:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-analysis-by-recent-developments-and-business-outlook-2019-2019-12-14
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
+    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
+    publishedDateTime: 2019-12-18T08:52:00Z
+    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
-        width: 700
-        height: 445
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
+      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
+        width: 680
+        height: 350
+  - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
+    publishedDateTime: 2019-12-13T07:10:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-ongoing-trends-driving-factors-opportunities-and-forecast-to-2025-2019-12-13
     type: article
     provider:
       name: MarketWatch
@@ -121,126 +171,192 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+  - title: "Artificial Intelligence In Oil And Gas Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
+    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
+    publishedDateTime: 2019-12-13T17:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2019-disclosing-latest-trend-and-advancement-outlook-2025-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
-    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
-    publishedDateTime: 2019-12-17T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
+  - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
+    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
+    publishedDateTime: 2019-12-14T06:25:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-global-opportunity-analysis-and-future-assessment-2019-2025-2019-12-14
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 23
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
-    excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
-    publishedDateTime: 2019-12-12T22:39:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/the-tech-initiative-that-saved-inspira-health-1m-voice-recognition-says-cio-tom-pacek.html
+  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
+    publishedDateTime: 2019-12-18T06:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 15
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
-        width: 400
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
+    excerpt: "Dec 12, 2019 (Heraldkeepers) -- Artificial Intelligence is increasingly being adopted in the automotive sector, in order to reduce human errors and human intervention. Artificial intelligence autonomously enhances visual perception, decision making, and speech recognition. Increasing government policies for vehicle safety is the major factor ..."
+    publishedDateTime: 2019-12-12T20:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Education Market 2019 Drivers, Opportunities, Trends, and Forecast by 2025 – MRE Analysis"
+    excerpt: "2 Platforms, Services, 1 Professional Services, and 2 Managed Services. The report also bifurcates the global Artificial Intelligence in Education the global Deployment Mode market is segmented in Cloud and On-premises. Competitive Rivalry Pearson, IBM, AWS, Nuance Communications, Cognizant, Quantum Adaptive Learning, Google Inc., Third Space ..."
+    publishedDateTime: 2019-12-11T09:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2019-drivers-opportunities-trends-and-forecast-by-2025-mre-analysis-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
+    excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
+    publishedDateTime: 2019-12-19T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities-forecast-to-2024-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
+    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
+    publishedDateTime: 2019-12-18T16:41:00Z
+    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
+        width: 1024
+        height: 567
+  - title: "Gesture Recognition and Touchless Sensing Market key Insights Based On Product Type, End-use and Regional Demand Till 2025"
+    excerpt: "Gesture recognition and touchless sensing involves a combination of both language technology as well as computer science in order to interpret face or hand gestures. These gestures are then converted to commands and therefore an individual using gesture ..."
+    publishedDateTime: 2019-12-13T06:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-13?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
+    excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
+    publishedDateTime: 2019-12-13T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-construction-170000567.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 27
+  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
+    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
+    publishedDateTime: 2019-12-19T05:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
+    excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
+    publishedDateTime: 2019-12-18T15:11:00Z
+    sourceUrl: https://econsultancy.com/b2b-ecommerce-in-2020-from-voice-and-predictive-analytics-to-pwas/
+    type: article
+    provider:
+      name: Econsultancy
+      domain: econsultancy.com
+    quality: 24
+    images:
+      - url: https://econsultancy.imgix.net/content/uploads/2019/02/21141015/ecommerce.png
+        width: 1200
+        height: 598
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
+    excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
+    publishedDateTime: 2019-12-13T16:28:00Z
+    sourceUrl: https://www.openpr.com/news/1879224/educational-robot-market-growth-industry-analysis-report
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
         height: 300
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-19T09:31:00Z
-    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+  - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
+    excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
+    publishedDateTime: 2019-12-18T12:39:00Z
+    sourceUrl: https://www.openpr.com/news/1880732/artificial-intelligence-in-manufacturing-market-key-insights
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 4
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-18T18:26:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 2
-  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
-    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
-    publishedDateTime: 2019-12-19T00:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/idc-technology-employment-impact-guide-174000643.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/idc-technology-employment-impact-guide-174000643.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/idc-technology-employment-impact-guide-174000643.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 1
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
-    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
-    publishedDateTime: 2019-12-17T14:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
-    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
-    publishedDateTime: 2019-12-18T17:47:00Z
-    sourceUrl: https://www.ksl.com/article/46692717/new-idc-technology-employment-impact-guide-forecasts-steady-growth-in-technology-job-roles-through-2023-led-by-data-and-machine-learning-positions
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 0
-  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
-    publishedDateTime: 2019-12-19T20:28:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
-secured: "0ECrjhDFTTk93Z39e7TdKydzp+iWxL7pj12V7cHYGZ/4UH40zFqv2DCWggk7XjAJT44u1jy/zMstI9Q/jejrgx9Z0AvDmCq84lSJVrbsLAygjjS9y16CwDQCp8/C3mQ85SPHCK82C5g7FezBBIqiiiit2igXL3Rvo4mflfkSrVkZi2E5U+bdYaVse7RXqwy4L7CGOs5VYUzUnXHiWUnHS3S1VO4NJlOtxbcPJQRTj1ahSpZHCcHc7rQ3hRkRmWtSotKzu0F5l8gWa9jeQehTTg==;HR/nkm7HqxhYzSI0h0LQrg=="
+secured: "Ageny/iVBlVgnPjVTtfaC9jYhXqgxXCA7HWjh0xxbW2+yDeJ/v59ru3EbPFaUAjN5tcVwgMeiYPvkJaq6UskQ9YRGfuLwLDHJT3rW1gaqorxYRYsXUGCAHVV2EI8Hv9q9tonLAL8N0l1N4RSiae2pw7JDx1/k1Guk/cQtwWkEZ0XmK8xwaJfwmsPbAzrZrpsENyYqFqgcaAXPz7m7D+qtAml0p/eY42gf6ZjzCq0p8gRwhjdZ3W07Oscb9YzpC4S3JRuFmh26n7c+wFtHxZxVA==;PZGES3vWZ9PIj1TMb/N0Ig=="
 ---
 

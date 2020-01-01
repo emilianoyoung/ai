@@ -201,19 +201,6 @@ related:
       name: The News International
       domain: thenews.com.pk
     quality: 36
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-12T15:57:55Z
-    sourceUrl: https://www.msn.com/en-sg/news/world/all-it-takes-to-fool-facial-recognition-at-airports-and-border-crossings-is-a-printed-mask-researchers-found/ar-AAK4kCz?li=BBr8Cnr
-    type: article
-    provider:
-      name: Business Insider Singapore on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
-        width: 700
-        height: 367
   - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
     excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
     publishedDateTime: 2019-12-18T08:11:00Z

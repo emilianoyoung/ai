@@ -53,21 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C2E82E984FB47341B534005BEB08D39F
         width: 700
         height: 394
-  - title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
-    excerpt: "RDJ hosts a deep dive into the transformative tech. If you're going to throw megabucks at a show about AI, you'd better make sure you've got the right host for it -- and most would agree that YouTube's decision to get Robert Downey Jr, aka Iron Man, on board for their multimillion dollar The Age of AI endeavor was a pretty good shout."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    ampUrl: https://www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
-        width: 700
-        height: 367
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z

@@ -37,19 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
-    publishedDateTime: 2019-12-11T08:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
     excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
     publishedDateTime: 2019-12-18T18:48:00Z

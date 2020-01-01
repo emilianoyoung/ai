@@ -106,6 +106,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
+    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast ..."
+    publishedDateTime: 2019-12-11T08:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Data Science and Machine Learning Service Market Insights and Outlook During 2019-2025"
     excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Data Science and Machine Learning Service Market Report have newly added to its massive repository. Different industry-specific methods have been used for analyzing the market carefully. The informative data has been inspected through primary and secondary research techniques. The global Data Science and ..."
     publishedDateTime: 2019-12-12T19:24:00Z
