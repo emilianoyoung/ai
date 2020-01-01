@@ -114,21 +114,6 @@ related:
       - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
         height: 466
-  - title: "Wikipedia Founder Jimmy Wales is Taking on Facebook and the Dangers Lurking in the Rise of Artificial Intelligence"
-    excerpt: "In recent years, Facebook has been using artificial intelligence to make inferences about users, the better to keep them engaged with the site—or, as some critics assert, addicted to it. Critics also say the focus on engagement accounts for a proliferation of extremism on Facebook and other social media, which contributes to a polarized ..."
-    publishedDateTime: 2019-12-12T10:00:00Z
-    sourceUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html
-    ampUrl: https://www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    cdnAmpUrl: https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/2019/12/20/wikipedia-jimmy-wales-facebook-artificial-intelligence-1476534.html?amp=1
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.9291E7F20EC5591C81082EE69F4B40D1
-        width: 700
-        height: 350
   - title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
     excerpt: "I heard Microsoft offers Azure Machine Learning studio [1] which is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure, I would like to give it a try and see how to apply the skills I ..."
     publishedDateTime: 2019-12-16T03:43:00Z
@@ -362,19 +347,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
         width: 400
         height: 267
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
   - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
     excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
     publishedDateTime: 2019-12-16T07:08:00Z

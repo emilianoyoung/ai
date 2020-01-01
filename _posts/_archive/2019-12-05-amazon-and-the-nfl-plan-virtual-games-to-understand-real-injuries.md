@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulati
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,7 +41,18 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T20:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 17
 
-secured: "+05GBtzBDYBZU1F80r0fF7xD6L3YlxFqTWJtr0wZ1UVcaCt1Op7MmfrsQVkCh82uRYVAELXBlsAFNfAOzhyjSWWouN5HVZAPtacj3FlVgTWV+TiXbY1rZEovGxvBljqfaFyQU2ytk5Ns0MQ0YnvHExH02zK0KBHuY28oGi9TpGj+2knJNiRqv5cOrNWiQbnfz7OLCNuvTGejbltb0HJcQTOxN66SySyyewZNcSLVUMS6OkK0+04jyXM72O37PKLClD8z3tJSBW3l0LFgN3PO9g==;FBVleCJZXtd7/+K7xxxDsw=="
+secured: "Amd0WC9+xbNCRA/0WCjdJY1efBxLME5fIRauR61o9IjoVXpItzZn9uUTJLFQIA+DZh2BcP+/6NDqBSojOOl6MIAYiYW+A/5i8hI2OWee/tdnn5t+kSD8mdOsOL80/L2QqezThJoEKpPPZ0tisl+f7zIMTHL7SudwzTHLp6GroZKQUt8btT0dGnkWzKJ4lbgna+D3bFzetXCNvURa5UQRGBHSYdJX2zyrsZXZXv3oN+hU6BdPQN9rZ2TXMydunAhaDNyFE/BnGPakJrf4aFKfiA==;TL9QieEcUW2no0YeAY2B5A=="
 ---
 

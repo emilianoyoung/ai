@@ -120,6 +120,6 @@ related:
       domain: ft.com
     quality: 39
 
-secured: "X+/M4Z6Duo5JPnA2U/DNkrt+SsbhzeFs5P8+hAxV1FwGHvs8VokUr1iI7ultyBa6DiuU25QkfpBry9Cp90hyViPmqqqGyWybqOS6VWRI/ovIByjJ7GYqXGUq+Es/9YBMjAZ57HqT2OuOLXvC3hlypjkxdCiXkWBsfwP17EOb99h1EKSCVzhdfVMm57Q/pN/esEmuwFy9hcnilMj8fKtsPSWZU/LUBtdw1RZfDJLLC6bQfk1iKagXoOls4RjJPzwIeyq5c5DnF6dbf0cVfcGSww==;czhSzkPlE2oCMFOCSAkQHQ=="
+secured: "V/8Mk2sEFKBIACMtAirfbc0Qo9qjDJ3vgUwcx59CUvEV9+xVFa/pcKEahqp+o2gewM7p2Wz9D84nKlGv4vPs2/cIJbNLaB0VqrCOKp+KK6FOMHOvdS7WTew3a+qFvrNlD3S44DwuL8Wxw0OMlUhYonw2Muuv3nEH5G4Pvw//I8Uqo/B+NYIHdPvKoGDlEidrzRPnGOASB4bV0XNg6G5oYUiTgIFAyJTOOayf9y+j3sCe6Bx6kfyk5B3vgsKcY4GZ97lUQEfTpzmocDqW/L9UHA==;+ZPub0pzVW1zKytV+u4Xgg=="
 ---
 

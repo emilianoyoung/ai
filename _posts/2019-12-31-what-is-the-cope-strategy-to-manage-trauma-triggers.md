@@ -7,7 +7,7 @@ sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/20191
 ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 related:
   - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"

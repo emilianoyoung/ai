@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Healthcare Market Disclosing Latest Trends and Advancement 2019 to 2025"
-    excerpt: "Dec 12, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence In Healthcare Market Size, Status and Forecast to 2025:This report tracks the major market events including product launches, development trends, mergers & acquisitions and the innovative business strategies opted by key market players. Along with strategically analysing the ..."
-    publishedDateTime: 2019-12-12T09:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-disclosing-latest-trends-and-advancement-2019-to-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
     publishedDateTime: 2019-12-13T04:08:00Z

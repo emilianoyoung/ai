@@ -67,7 +67,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 24
+    quality: 26
 
 secured: "SGHGawduzmAxYG2Z+Rro70Hw/wV7DPPBoHsG+XgUqcxSdwlWIaFeU0uQVeDdxovODB/3XkUFsABdwaFBSR+muFuFXkJIB/XvCZO8fAQDIt1HDGzoQMwKxl/WT1huaqPOGDoDKsQBKEvoe75+KNfVOTt6oa/PRr+7u8r+tXLzc3esExIQJLkrhmIWp48M0InSHAeE5MOlpvhX3KS1nOZE4rPjowt84aNLFIVzPhZ2DZnveumKbKZpWHo7tiJahwToQXi92+FmfjBQb6ltdz7AHw==;BDN5XvAkpxXJ57aKOWAUJA=="
 ---
