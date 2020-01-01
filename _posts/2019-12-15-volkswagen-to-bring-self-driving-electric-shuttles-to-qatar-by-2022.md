@@ -84,19 +84,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
-  - title: "Walmart testing self-driving car in Houston to deliver groceries"
-    excerpt: "The future of grocery shopping is already in Houston! Driverless delivery is being tested in H-Town right now! Why? Lauren Talarico connects the dots."
-    publishedDateTime: 2019-12-12T11:23:00Z
-    sourceUrl: https://www.khou.com/video/news/local/htownrush/walmart-testing-self-driving-car-in-houston-to-deliver-groceries/285-8a7add68-464f-4ab4-99dc-91a2925606dd
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.155F4D16A613CB98347A009F76161713
-        width: 700
-        height: 393
   - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
     excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
     publishedDateTime: 2019-12-15T20:34:00Z

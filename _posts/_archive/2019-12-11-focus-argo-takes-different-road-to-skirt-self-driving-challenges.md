@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
         width: 640
         height: 427
   - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
+    publishedDateTime: 2019-12-11T11:14:00Z
+    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
+        width: 991
+        height: 557
+  - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
     publishedDateTime: 2019-12-18T07:49:00Z
     sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
@@ -120,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "pX0NbTeBxI1d4RSr0bilywDLboOUgRuFJ7TneG54En+stPzzGN39TAB1Sdfs695r+MPBmJpnZupKyqVtBTw8ud1K68CbpgLqnw9HljR+S4uxYBWeuycRBxYPbk1I7IfTHeLekpcoAKj9DhvXT1LKJZGUieBzjs5h3RY8JigQ7GnYPHYBbylQaYWX65K/90S7b/Jzfld6oDU0wKtMscHPUauwXGKtTTo4gHBfPjfm/mGb0z06OxqMyuzCKrjWpA47XDB93QTw2yncWaYXFDNY2w==;ULN4BBC+0vlWojEcmHu1rw=="
+secured: "XMhhEDzETigscm3ENwz6SStLCZaO9FNYhGhsVp+14Mimta7Ow76IdpgCecSIq2/5iGOtJnknccrPadQwlRWsj75YSQF6wu8BRtFngeG2JHB/4yQ4HqobzWxKvWcJzjRUgjoaVNc4/HdA2CVh/Pa4Zco8YtYcq55H3OHRN57OkjOfo0N7Bc6dc7qNenNGNfn4fU51AoV1ONclNRysOtO9g6vEQL+ZmWAjZ5vPYV22ytjcuHVEY2e8CixKgz3Q4NVN6Sxw/idlKUxBCkfMNG9miQ==;1skqFyXC+i1C3QJDA5srZg=="
 ---
 

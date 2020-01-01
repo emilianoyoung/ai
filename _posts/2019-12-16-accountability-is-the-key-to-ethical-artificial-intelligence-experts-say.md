@@ -144,15 +144,6 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
         width: 1200
         height: 630
-  - title: "Are we ready for the first patent filed by artificial intelligence?"
-    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
-    publishedDateTime: 2019-12-12T11:49:00Z
-    sourceUrl: https://www.aei.org/technology-and-innovation/are-we-ready-for-the-first-patent-filed-by-artificial-intelligence/
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 17
 
 secured: "zIgrgWUPRwDgjA4/iHocU3y1RDhkkhEzTNmVEWdnbDxymD6mm0QIrgApaAmF5KVMgy1BMDaQpfFdewNCGoi7MihwGeH+r0qLmr9Lgs4cUiSkzlObCbuDinCKJZWRXm/h95ekfPZ2FixlT6ASKPHlmtEZ0Te6xdtVfkdtFlBnzDh0q4sKKLp8Zpla+1rN0aL6xfzkjtwUTX2tEbY57Btp6nWMwr684QFyzisibb6v3mKRZIiYYkV+GJvIfqkEcyZbIhDKOveG5zx/fjiXocWGHg==;oKtOWDWtiidpd+jTGtfy+A=="
 ---

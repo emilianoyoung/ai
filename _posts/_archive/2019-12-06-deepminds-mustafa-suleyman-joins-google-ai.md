@@ -43,32 +43,17 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "Deepmind co-founder Mustafa Suleyman set for role at Google"
-    excerpt: "London — The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the US to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August after ..."
-    publishedDateTime: 2019-12-05T18:27:00Z
-    sourceUrl: https://www.businesslive.co.za/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    ampUrl: https://www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    cdnAmpUrl: https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2019-12-05-deepmind-co-founder-mustafa-suleyman-set-for-role-at-google/
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 59
-    images:
-      - url: https://lh3.googleusercontent.com/HNPXeS7r7xJv5psi4i4N7MmVEnJRr393ioWFF6bfMjj-_Tyf2ueJofNZooyL4n6X21E5Pc81m4YWfugKyzvMCilST1i2ez0=s1000
-        width: 1000
-        height: 667
   - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
     excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:47:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+    publishedDateTime: 2019-12-05T18:55:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      domain: bbc.com
+    quality: 89
     images:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
@@ -139,6 +124,6 @@ related:
         width: 580
         height: 358
 
-secured: "UxQWStb5xlwsROD+7cyWZizv6rv0fPqpKiO6jfa/pImp4S9CSSIiolL8QkkCx3EmToFmO3L5/uvlZ8HyZl/4dAQbdb1KapWNsz8OKre3AgcHXnYRNwww02SqNrppgfNnK19GMmOER6xx9AEUvn5bYFTR74osjfPVjdRtGQJZ86w9GfKs5RfCJaFHcpqhyRGpVzmTBo89qPS9MrRqIFjeEkOaLsHTOZxayBXbTjiu/50ybxN6fGxz6O8lQjRyIcMyNEjoKeLpiAo6c3XcDS9kfA==;iDJtK8MPUxf5QQtd3fhIXQ=="
+secured: "QDphuPZ/JbO8FPSUTSYzvoBy/Lg16+Mv6vAe2HbN376g3ryNNDRe+JZ9DkDqbJN2bopyveGGWzAwCw9CqZ5yUfb5uK6SKA53wOafX7K5caHp6h5ilZ8OlRP4GyLuIuci+5+Ye5CuPCAOsHQ7Y9d2mP+gV1JZJxtagtKGN4ArvERymFH0n5WcPeJmxquuhdQy7sVv41d6i5nw4ijWQKns3UM5bvZ6WIIcBnOoLTNorU9eTHrhhif3MxQDKcigTdsu9JmBIkzOsN9w2KmkIhbW5g==;PqKzREDU6/AesY5K9M2dcw=="
 ---
 

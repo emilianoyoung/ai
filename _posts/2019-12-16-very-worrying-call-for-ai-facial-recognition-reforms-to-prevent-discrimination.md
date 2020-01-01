@@ -78,21 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
         width: 700
         height: 393
-  - title: "San Diego to suspend facial recognition tech program used by police, ICE access blocked"
-    excerpt: "A facial recognition platform used by over 30 agencies in San Diego, Calif., will be suspended on January 1, 2020, following a long campaign by civil rights groups. Launched in 2012 and known as the Tactical Identification System (TACIDS), the program involves a database of facial recognition scans shared between local, state, and federal agencies."
-    publishedDateTime: 2019-12-12T11:36:00Z
-    sourceUrl: https://www.zdnet.com/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    ampUrl: https://www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.53EEDA62D15C01C0031C5B71146D72B8
-        width: 700
-        height: 525
   - title: "Some cities and states balk at face recognition tech, here’s why"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T22:20:00Z

@@ -143,15 +143,6 @@ related:
       name: Your Story
       domain: yourstory.com
     quality: 24
-  - title: "Are we ready for the first patent filed by artificial intelligence?"
-    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
-    publishedDateTime: 2019-12-12T11:49:00Z
-    sourceUrl: https://www.aei.org/technology-and-innovation/are-we-ready-for-the-first-patent-filed-by-artificial-intelligence/
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 17
 
 secured: "hRbe/S8xK9l9MBVXYx5qDwtJcPR42MQgiUfUwGUsd9lD4h1rke19rSJEjnlMWXduWMfOo7qYjcGmDtC21RQgq+DXebIXAbi+UChIpQdNfuknzrP/njmYEmEtfGQ8ehSJXejBNcXqkGQVr6NqSvGH8khnqNX5WFAxLDDiVEt+DwZYLdTdpCJpzyYcga5p6mdm7fDDy+DS4/8JvjZnb7U1Q0j3ktgc4L98EcV5iuu3gKZGocEvLN8h4gqk5I7MMLCVLVX9B1/vtV3bpYkSFFORmQ==;a6vM0Oydl1cQRibqtA1keQ=="
 ---

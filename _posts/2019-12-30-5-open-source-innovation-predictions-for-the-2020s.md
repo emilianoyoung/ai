@@ -112,15 +112,15 @@ related:
         height: 231
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
-    publishedDateTime: 2019-12-30T17:05:00Z
-    sourceUrl: https://www.stamfordadvocate.com/business/article/5-Innovations-That-Will-Dominate-CES-2020-14939244.php
+    publishedDateTime: 2019-12-30T16:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: Entrepreneur on MSN.com
+      domain: msn.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
+      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
         width: 700
         height: 466
   - title: "The predictions for 2020 we got horribly wrong"
@@ -161,6 +161,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "mOUM49EtCrVjgzE4ra+tkWV4TIpq64kHYY1ILJ5wq0xJkuueB2nFKrBG0pi7/siXKNsmrp0FmcRK95wnbsLKpXw1rHf5r2o5/ZxbAW1obOzh4gBolhBNnUVqt6/oWiyXTTbQyjspPWO7lnOHXRC4N5acoqkEtUkV0BVFElLXaoZjpRRdKaVZ7NON4r01QxmjPjNJKS/f5GX0IzlhEgmEFgovNCM/27woyJM2r1wl4FhO9QB+75PcpTeU7B0iSqHTS9HHCwLvCFJnykugNEi/Jg==;KBSLa2LE7yheWWuuuS9E4w=="
+secured: "1cwlKdzrGUlBQsko5nYnce6nC1TulVj4i4ZS2npbzI7+yyOaihOEnephwKdCrbsm+1JzKhxpgqyunbEHibfw0ebCGN1cthj+iz97xYhcgj09yYw5n6QnPfNaruULUui+VogjDYH+h0U6lZMhzwHQj9ibGbWWG/TuU0cEYYBFmHJLGubkNFc9ZL3fQlEV26CbJxV2IFs/4nSiIa2Q+uEGnbH5Re6CHTZVZxS3kxeePkxGRyBxuIntfLMEOfH8wgZ9BFCcbF9qBZvQPt76tk4juA==;Kh7XK2I2/b3S6dF0qJKpYA=="
 ---
 

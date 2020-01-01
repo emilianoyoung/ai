@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence in Accounting Market Major Technology Giants in Buzz Again | Google, Microsoft, AWS, Xero, Intuit"
-excerpt: "Prominent players profiled in the study: Microsoft (United States), AWS (United States), Xero (New Zealand ... introduced in the report which elaborates key factors of Global Artificial Intelligence in Accounting such as market opportunities, future ..."
+excerpt: "Prominent players profiled in the study: Microsoft (United States), AWS (United States), Xero (New Zealand), Intuit (United States ... The future trends also introduced in the report which elaborates key factors of Global Artificial Intelligence in Accounting such as market opportunities, future market risk, benefit, loss and profit, customer ..."
 publishedDateTime: 2019-12-11T12:06:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-major-technology-giants-in-buzz-again-google-microsoft-aws-xero-intuit-2019-12-11
 type: article
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "L9IZP0D5HZmS7GWuspE6ADYHnvUi/GE2GcKC5CPiMpIsmFce3Ch2Tk734s+iPLZjPK3XKXg0f0Pnh+Ps4XXuw1bNHzK+107bh98fVNx+5zdUKhMWv8AZEfu83FOv2DMcSvw3TvJdGmFVEGcf9VTvK7OHEihL086nospWvN/KwKgpmdakGlzTaSYZ1h99d6WpJ5uDi5ZYcWH4qGHL3VvMe3Bhq3zy9NBTC20ArGFSwMApFZbxtOg12alU7mYu03j/rKitvE2vHPdMO15wvWvG7w==;Vf/0Z8x18IGTvkjKDNB/Kw=="
+secured: "EDmEVW4t43tejvp0AI2mfzXbfRMUaWiuV7nGoglc2Ev0FILW9fanFW7sj2cJ65gsz2g8p/cFjnff76T9RCqAvD+Go/potr9LHU0JECUkfNipVfsH0bhjHp61/o3RFXlLLu4+GbEtxdJsKmvgc174CvNb2mNDP+ZhOagzMR9jP7tvqUxCpMJOoIZvibcWWbqJL9I0dFcCQ57FNhGqH4K6lj2icHWMVr59DyyGd6iABGG3sOD/3hI0GCcUP2jX8Rs6VObMKqXANOzwa5rVJnt1gA==;RaGDP4X/9h8ib6UjhHMtrQ=="
 ---
 

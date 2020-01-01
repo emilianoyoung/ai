@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-ins
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -146,15 +146,6 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
         width: 1200
         height: 630
-  - title: "Are we ready for the first patent filed by artificial intelligence?"
-    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
-    publishedDateTime: 2019-12-12T11:49:00Z
-    sourceUrl: https://www.aei.org/technology-and-innovation/are-we-ready-for-the-first-patent-filed-by-artificial-intelligence/
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 17
 
 secured: "5My8aOKC56JlZhiL1oTXjuip8D9pXLMsYtAn0yYMYwPB1wk8DVZqEE+xthZnZOBJIGSBBEW5PSFW9JuK+h+pcp/cpVm+zJTjx8VjAUAoweDcxJETO0MKxwLFig7RjFSxeLqRQ2n4UjZAB1l7PVmLgIwYP+JCGoMd5i9JxnnoEZ1tD5p/jb+OVW5PC/3U6Y5y6rZ4ypXQewr3XUTv5DZ14egjeTi0sh7QHSFU3VvU7knOoCR0RRO/YEwjCcIzIX1MxMzkeyqOgJZak1yOFJH0rw==;Lq2U9caZaa3rGRSJAS74vg=="
 ---

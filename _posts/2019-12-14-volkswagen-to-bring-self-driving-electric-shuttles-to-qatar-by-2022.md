@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-elect
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -75,19 +75,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
         width: 1987
         height: 996
-  - title: "Walmart testing self-driving car in Houston to deliver groceries"
-    excerpt: "The future of grocery shopping is already in Houston! Driverless delivery is being tested in H-Town right now! Why? Lauren Talarico connects the dots."
-    publishedDateTime: 2019-12-12T11:23:00Z
-    sourceUrl: https://www.khou.com/video/news/local/htownrush/walmart-testing-self-driving-car-in-houston-to-deliver-groceries/285-8a7add68-464f-4ab4-99dc-91a2925606dd
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.155F4D16A613CB98347A009F76161713
-        width: 700
-        height: 393
   - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
     excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
     publishedDateTime: 2019-12-15T00:05:00Z

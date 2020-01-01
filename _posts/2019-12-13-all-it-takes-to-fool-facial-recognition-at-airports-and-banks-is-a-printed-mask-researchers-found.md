@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T00:30:00Z
 sourceUrl: https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12
 type: article
 quality: 170
-heat: 370
+heat: 360
 published: true
 
 provider:
@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
         width: 700
         height: 393
-  - title: "San Diego to suspend facial recognition tech program used by police, ICE access blocked"
-    excerpt: "A facial recognition platform used by over 30 agencies in San Diego, Calif., will be suspended on January 1, 2020, following a long campaign by civil rights groups. Launched in 2012 and known as the Tactical Identification System (TACIDS), the program involves a database of facial recognition scans shared between local, state, and federal agencies."
-    publishedDateTime: 2019-12-12T11:36:00Z
-    sourceUrl: https://www.zdnet.com/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    ampUrl: https://www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.53EEDA62D15C01C0031C5B71146D72B8
-        width: 700
-        height: 525
   - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
     excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
     publishedDateTime: 2019-12-16T14:00:00Z
