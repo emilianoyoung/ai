@@ -25,6 +25,6 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-secured: "F99FIic1deW/mplaw8WYgL2R88bSQSQCYyRZHwi8jjgLZyd878WNxN7EK7aIt5VCO2k+Q26UosU0KCbXW0NlA/qVlciBS4Hia+dCL/OsmV40emuwhxOdMfbhgs9bWpVMbCooxI0agp70NXEf0O4DLOlDRCPtlts3WTkRzXYzSfcl0s27/OwtqZSue2cU2KdjABLx24Unn38sVyKgopgcIS2G1y/4Z1CC6ar5Znol703kIC8eZlMcQX5Q6zuUAyv2KLgaVN5dxkwGLDpVLwbFdg==;H1+H+sZzAekUxrWVT69D5g=="
+secured: "kLk8a0iR4/gWKQekwuzKjFOoUMrTK4JCuTvnkqaLg4e9vNHqPozYmBJEWLbfYO8dPYI1wpQlqD9ktvr+GWiAwCGJqGgEiSHsShuHMObb+N2Dx5BVVuHsISTfHWnBFqzwL7YOLj64tqbCkydYtBFTZh/cmkhgZWW6TplJywfuW+mOAD/rxuOMAR4yVr4MqhU9OeUExA+saIejyczDb5b4i59Vrdw75CsaPLBP7IVT45yggwGMXnMdSgmFUPt72JuHBnbkNXvqkx/eO2v05ySuXg==;IzeOvRpK9bH6achdO8ClIw=="
 ---
 

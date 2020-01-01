@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
-        width: 700
-        height: 467
 
 secured: "CtEwJ1Qz0QEVMK8CcPNKo+SjTSs7SPC7l4wR4my4jwa6UfLV1VR3wTVEbEeyl+f5hIHUMP6/vVdOcwU2hif7ycO9bDgreFZAUDx85eZm0uQ1bfufBwXQdmW5SX3nWJuf+VTuwhcVH3DO48hnrNyDPNliPGahBm4PXxwde8xuxp525nRsLHHKHwJVa+Rbxm4NHZAPc82G55mMtVxaxZq2+04FFGskGZezJoGgrmB6T8YG0LAEngp8jxl0/xmY7Z3F1f1U/50tsUXG6sjnNH6pTA==;j25nnIIVqUfMUndPAMO55A=="
 ---

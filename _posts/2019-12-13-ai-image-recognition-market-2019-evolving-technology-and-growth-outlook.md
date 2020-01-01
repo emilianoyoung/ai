@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -63,19 +63,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market : Investigation and Growth Forecasted until the End of 2025"
-    excerpt: "Artificial Intelligence Market Segmentation: By Industrial Vertical *Media & advertising *BFSI *IT & telecom *Retail *Healthcare *Automotive & transportation *Others By Technology *Machine learning *Natural language processing *Image processing *Speech recognition"
-    publishedDateTime: 2019-12-12T05:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-investigation-and-growth-forecasted-until-the-end-of-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

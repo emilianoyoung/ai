@@ -8,8 +8,8 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 164
+published: true
 
 provider:
   name: Reuters
@@ -30,119 +30,122 @@ images:
     title: "FOCUS-Argo takes different road to skirt self-driving challenges"
 
 related:
-  - title: "Cruise, GM-backed self-driving company, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car company backed by General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads the autonomous vehicle ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/11/21011297/cruise-gm-self-driving-division-tease-beyond-car
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: Electrek
+      domain: electrek.co
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 366
-  - title: "Ford Expands Self-Driving Business Footprint In Austin"
-    excerpt: "AUSTIN, TX — The Ford Motor Co. is expanding its self-driving business in Austin with plans to open a hub near the Austin airport, officials revealed on Wednesday. Ford officials said recent real investments that include a building lease will enable the company to build a terminal for its self-driving vehicle fleet. The news comes in the wake ..."
-    publishedDateTime: 2019-12-11T20:05:00Z
-    sourceUrl: https://patch.com/texas/downtownaustin/ford-expands-self-driving-business-footprint-austin
-    ampUrl: https://patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/texas/downtownaustin/amp/28460284/ford-expands-self-driving-business-footprint-austin
+        height: 349
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.B81B9390F22CBE18C2AF793E94E04E5E
-        width: 656
-        height: 492
-  - title: "Walmart testing self-driving vehicles for grocery deliveries"
-    excerpt: "Self-driving vehicles could one day be delivering your Walmart grocery order. The nation's largest retailer announced a pilot program Tuesday with autonomous vehicle company, Nuro. They're testing it out in the Houston area first. Florida police department pays off Walmart layaway accounts The partnership will have vehicles that don't require a ..."
-    publishedDateTime: 2019-12-11T15:56:00Z
-    sourceUrl: https://6abc.com/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    ampUrl: https://6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
-    cdnAmpUrl: https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/shopping/walmart-testing-self-driving-vehicles-for-grocery-deliveries/5746730/
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+    publishedDateTime: 2019-12-16T18:15:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 44
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.009584158FE78676CDE37472B1FFBE2C
-        width: 700
-        height: 393
-  - title: "Walmart will deliver groceries in Houston using self-driving cars"
-    excerpt: "The company announced a new test yesterday in the Houston, Texas area using technology from Nuro, an autonomous vehicle company. Nuro will use electric, self-driving vehicles to deliver groceries from a select group of Walmart stores in Houston, according to CNBC. A pilot group of customers who opted in to the test will be the first to get ..."
-    publishedDateTime: 2019-12-11T15:20:00Z
-    sourceUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html
-    ampUrl: https://www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
-    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/business/2019/12/walmart-will-deliver-groceries-in-houston-using-self-driving-cars.html?outputType=amp
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
+    publishedDateTime: 2019-12-12T10:05:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/12/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A4DF6043CF84BBB8B8E48F523B9D4A36
-        width: 700
-        height: 393
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
-        width: 700
-        height: 418
-  - title: "GM's former president is now running the self-driving-car company Cruise. He says it's time to move past the automobile."
-    excerpt: "Dan Ammann wrote that Cruise offers the best alternative: All-electric, driverless, and available whenever customers require mobility."
-    publishedDateTime: 2019-12-11T20:40:00Z
-    sourceUrl: https://www.businessinsider.com/will-cars-ever-go-away-gm-exec-takes-over-cruise-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.8A0F0900D51582E001096574BD3F3B58
-        width: 700
-        height: 350
-  - title: "Aeva shrinks size, cost of crucial self-driving sensor; deepens VW ties"
-    excerpt: "Aeva Inc said it has shrunk the main components of its \"lidar\" self-driving car sensor onto a single chip, a move it expects to dramatically lower the price of a sensor widely considered a bottleneck in the mass production of autonomous vehicles."
-    publishedDateTime: 2019-12-11T14:02:13Z
-    sourceUrl: https://www.msn.com/en-au/news/other/aeva-shrinks-size-cost-of-crucial-self-driving-sensor-deepens-vw-ties/ar-AAK14Xq?li=AAF3IbP
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
+      name: The Star
+      domain: thestar.com.my
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.D4EFCD297AD6603CA5E4500AD97BB0CB
+      - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
-        height: 367
-  - title: "Cruise, GM’s self-driving division, teases life ‘beyond the car’"
-    excerpt: "Cruise, the self-driving car division of General Motors, is teasing an “alternative” to pollution-spewing, congestion-causing motor vehicle traffic. In a Medium post published on Wednesday, Cruise president Dan Ammann said it was time to “move beyond the car.” Ammann, the former president of GM who now leads its autonomous vehicle unit ..."
-    publishedDateTime: 2019-12-11T19:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/cruise-gm-e2-80-99s-self-driving-division-teases-life-e2-80-98beyond-the-car-e2-80-99/ar-AAK1K4t
+        height: 466
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: The Verge on MSN.com
-      domain: msn.com
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.1BE82B599B08DB753C3958F6744B512E
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
-        height: 366
+        height: 467
+  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
+    publishedDateTime: 2019-12-12T08:12:00Z
+    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+        width: 700
+        height: 419
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
-secured: "Qj/p3scOM6MDBkrO82T4cxfudG70Vtd0QzJgEJOygsAcbEUhZ8j5K6ytGgo6CyssWPb9ssK1ILA7k2KOxM9WLvW6vXw0xTptq951PfGKadk6NCQlNjYWQQ4rKHH2hin44y44hqQSr3E+dA9HmCa9A4kwqfCYI+yDHKcZhFdsan+YG5skhp3mwengUOwf38jeDzSR9xqIim4J/+E8ezh7OeD45LWGt3VTSDFEAGNMImBp/TIQwy7Dxd4w0LZaNCwlr7xABauY+y/cTiTUyF21dQ==;pSV5NuI6dG/AoOXAYuLNwA=="
+secured: "HufNRK7ESv0kamqIBeSzxBRrZIjArmlui7y92bX4w/5exwDVlfiUXCV4+zSu8PRdX0e4jBM2Jrs5v6O53DeRSuHTnK/zX/hptBVrxNw9CxVz09pt+iK9BwBy2IechshXXXyst+/RgNCH9YSg0cCPqfKPftrcMRwLWL3jM3cwT0Inka99ztC8CTd1RWHgSzBTnA+LVMBNTlmEUXo/sZudFkeWEf0w5AtvYeCgjx/2rdniRG9nR/3vmlMNJIV+m6SnNrU2uzNppbcwSdYD31dFLA==;xdjbUGBb4aC1OSvlIVGBzQ=="
 ---
 

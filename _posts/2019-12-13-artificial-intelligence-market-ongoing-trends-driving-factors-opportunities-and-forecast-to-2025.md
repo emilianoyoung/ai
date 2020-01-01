@@ -144,19 +144,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in the Healthcare Market key Insights Based on Product Type, End-use and Regional Demand Till 2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the highest ..."
-    publishedDateTime: 2019-12-12T05:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
     excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
     publishedDateTime: 2019-12-16T14:05:00Z
@@ -196,19 +183,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "Artificial Intelligence in the Construction Market: Facts, Figures and Analytical Insights 2019 - 2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 to reach USD 3823.45 Million by the year 2025. North America region holds the highest ..."
-    publishedDateTime: 2019-12-12T05:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-facts-figures-and-analytical-insights-2019---2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Oil And Gas Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
     publishedDateTime: 2019-12-13T17:48:00Z
