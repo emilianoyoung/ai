@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z
@@ -87,7 +100,7 @@ related:
         width: 700
         height: 525
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
     sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
     ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
@@ -168,6 +181,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
   - title: "Volkswagen Takes Stake In Self-Driving Startup"
     excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
     publishedDateTime: 2019-12-15T18:34:00Z
@@ -204,6 +230,6 @@ related:
       domain: hbs.edu
     quality: 19
 
-secured: "d8ReaEIQrNag4pJKzy1KW7ckgGSS6Xw9/vGL87QwU9P+rtDRkcWYSIIiGpngtKrucxjbTp+TT80R0ZWLenoiSOXQu+Vc1/8H3Gc+6jrVwFlqWm1dWAvMonX8yA8VF8SZDVkPuYwGfp8OFZ1oZi4H9L7oBpzhu3oc5ctigR69nXykfSrI+vbW6mKpwW6bAX0QEa55QVI+fR8BKy+6gRJCQZJTCAEAlpAo4/8kAPB8s8G64KD3+K1dRCep31aTtljtnPnlitSaHjckrVo8SwMMKw==;uM/RQ72clPfCzh1/6GKMgg=="
+secured: "VoVAxfNTxageE4/uoOaeJxZc3mAm2I1QShLferTJRTzFBXhQMSoUkYztTq9yF9U+u0MvclaVVrOpWnb361ePeW+oH/fYJC0r909scou2E95RyTY9nbL+f5uyuMGhBvZmbY/IkAm/DherJcRKB9X66ocaVYdooXmDi1NjBx1Df7jkAan0adFtXCovLgGotIww0bmZ4wpd5mom195lrdoaqRCVx4C75Vk4InTBHb3brvweMhLYjoJ1K88UMdqoWAt1Ek79qjxJJf+GY44LTut2Ug==;E9eHdX2gxc/XbIS8l3IAjg=="
 ---
 

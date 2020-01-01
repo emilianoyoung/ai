@@ -50,6 +50,15 @@ related:
       - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
         width: 480
         height: 270
+  - title: "Tavant's Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
+    excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center. Additionally, the organization received multiple industry awards for innovative product launches ..."
+    publishedDateTime: 2019-12-18T12:52:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-tavants-fintech-business-reports-year-momentous-growth-fueled-/2019/12/18/9071636.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "0uwIdcjSBC2rYg8k4sPGOKM49wBco/E4wkzlNpFevszuc+JqW2QobkTdyUrbp2Hwqt2/xDBEYEVstP072wurv+Ri1c2K/Xj6QUYdIYgM+CGVSC8wbHuOQcCY0JBqkW03hzwdEQHpTzfUraavo8Q0Ndepyng/S3VtaFbooRyajE99i9ALLYRb8aLTXdOu++BjorJk7rIvL1uIX6RN9z630UWHa5pes4ehtbUHNlxtR19ymULEIY7m+344jrp3AvcyXA1fnUpBGSNYHJ5o21mirA==;7W2lC5BjlJL87jitt/5PIA=="
 ---

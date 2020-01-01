@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Finally, machine learning interprets gene regulation clearly"
-excerpt: "Machine learning algorithms, for instance, are helping biologists make sense of the dizzying number of molecular signals that control how genes function. But as new algorithms are developed to ..."
-publishedDateTime: 2019-12-26T15:01:00Z
-sourceUrl: https://eurekalert.org/pub_releases/2019-12/cshl-fml122619.php
+excerpt: "In this age of \"big data,\" artificial intelligence (AI) has become a valuable ally for scientists. Machine learning algorithms, for instance, are helping biologists make sense of the dizzying number of molecular signals that control how genes function. But as new algorithms are developed to analyze even more data, they also become more complex ..."
+publishedDateTime: 2019-12-26T14:57:00Z
+sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/cshl-fml122619.php
 type: article
 quality: 39
 heat: 39
@@ -40,6 +40,6 @@ related:
         width: 400
         height: 267
 
-secured: "1+SnrcEmn6YfT4Bdw+mq1tMb2jmtFcZqLbfHUDV4nf1dA2FKLjbGPx9pagqlz72SJ0GX9IZZjhtSkAN9YGoFMcyDJNOyvQPcYrFhqmQc0SblXOzcsiiK3d+a9Z2t/He0J/Fxe9pNBV5EkMMkcXJPqwazX8YIrksm6GLVwieMdOAxIeGzwptgPmyjp7WtL3hlWRMbCVRuykClf/6Q3jleTiaXl74kr5j+GmG3xRT0qqpav9PzmQxbFSamG1bLdJrLt3qSMAAPVXRGn+EthIqzMQ==;lxfZw0AktDJe/dPoBehNEA=="
+secured: "OB5PCWSvKSu1IoS9WmbkuLr+bNRz9931hn/YCjtNMnNmg3Cyllulsvcu8xsdWInzyygVWQuoAgUQmeO+y1liI8uAZGxnUTcU8Pj3xHXj/Aop10rQUuUhAT5Rjx5/nXWwGe+uzsPmivu2P/pihK7ZeBYzqjJ+6j7M+bVPl7eVMmNA1KjPleqD52NmqjMnhVhROz1afJ9MQ1N9+nTiJ0tktkOvxFAAkHje1JvnzbvgVueWuVzcxwhh2MdNfOws2h97r/cMJK3az18Urren5A0R5Q==;Nsd5WQcw0b7+PP6hCAw0Gg=="
 ---
 

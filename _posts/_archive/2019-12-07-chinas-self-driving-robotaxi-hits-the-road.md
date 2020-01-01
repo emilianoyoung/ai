@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
         height: 367
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    publishedDateTime: 2019-12-08T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z
@@ -52,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z
@@ -81,7 +109,7 @@ related:
         width: 700
         height: 525
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
     sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
     ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
@@ -198,6 +226,6 @@ related:
       domain: hbs.edu
     quality: 19
 
-secured: "OVwpANzKZkP6Zkqdg+8N1Z0xuIVAeaGM+nzxc+k8lo+tUR2CMUgl3ioJlTZjrJk+COaLE/iYuHgoL7/048VRmLoV7YO1kzseYKwhgrQcs3BZInsUhnSAa7vUE3s2kViznDAyIcg+gNYpZWVeOnH0s09gY17vU78GJpQbzEAb76odb36kB8J/CVaeXMDyGrL4U+pYsRysVh4wyXKzFR9K+vJWMwAEJ3Ldv0iN5Ae6mkQidk+Ti4QD0zSobP6WEcX5yJLFBeMoIse/fGE7GOwOTA==;1v2Aw66BLqcIkFTw3sg/hQ=="
+secured: "VvQZm9N8y1aPMEw8/99Nw0klT8JHF8jG3fJMUwiXJktgCzJluFneqmXzPl/wbGlVzpbrHobUAGwwRQ0+bN8Op+rx9tedgj4OiG8cufDmDAL1soE+W7/voSj0gzhXf9DATi91TPRG8ljbImw+ZdWiRFUmiMcfMRxjyXmyfPKpXzxTwfQkt9iW3gt25Pw2bvw5ISMJwEWjjcIDI9AmpOQJjd1Ad8xVMBUPRA6W1iKRsqYPvIay+IgIFk9Fi0SIbC4PDDlKDLu92qQYUktc1lF9dw==;E7Scl5bDyFHVT7mvoPj1Gg=="
 ---
 

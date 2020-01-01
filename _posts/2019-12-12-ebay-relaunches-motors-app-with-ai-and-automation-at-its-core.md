@@ -31,8 +31,8 @@ images:
 
 related:
   - title: "Google launches AutoML Natural Language with improved text classification and model training"
-    excerpt: "Earlier this year, Google took the wraps off of AutoML Natural Language, an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for customers globally, with support for tasks like classification, sentiment analysis, and entity ..."
-    publishedDateTime: 2019-12-12T17:56:00Z
+    excerpt: "Earlier this year, Google took the wraps off of AutoML Natural Language, an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for ..."
+    publishedDateTime: 2019-12-12T17:57:00Z
     sourceUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/
     ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
     cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
@@ -40,41 +40,11 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 97
+    quality: 95
     images:
-      - url: https://www.bing.com/th?id=ON.CEC83524B5A873D3968AE98F6FA40A63
-        width: 700
-        height: 350
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
-    publishedDateTime: 2019-12-12T20:54:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
-        width: 600
-        height: 315
-  - title: "Google brings ‘Interpreter Mode’ language translation to the Assistant on smartphones"
-    excerpt: "This is just a more elegant and enhanced presentation of Google’s underlying machine translation capabilities. ‘Help me speak [language].’ In order to invoke Interpreter Mode, users say something along the lines of “Hey Google, help me translate [foreign language].” It will then enable real-time translation. Google also says the ..."
-    publishedDateTime: 2019-12-12T17:20:00Z
-    sourceUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380
-    ampUrl: https://searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
-    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/google-brings-interpreter-mode-language-translation-to-the-assistant-on-smartphones-326380/amp
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.F846D0A1A61FF7F0B0571B444BF775E3
-        width: 700
-        height: 393
+      - url: https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&amp;strip=all
+        width: 1200
+        height: 600
   - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
     excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
     publishedDateTime: 2019-12-19T12:20:00Z

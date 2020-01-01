@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
 type: article
 quality: 89
-heat: 199
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,77 +30,107 @@ images:
     title: "What Machine Learning Means For The Future Of SEO"
 
 related:
-  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
-    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
-    publishedDateTime: 2019-12-17T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
-    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs to transform the finance ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to enter an entirely new world where human ingenuity meets intelligent ..."
+    publishedDateTime: 2019-12-12T20:54:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
+      - url: https://www.bing.com/th?id=ON.00439F985F7B0BEAB50C46926F24FD53
         width: 600
         height: 315
-  - title: "A Sobering Message About the Future at AI's Biggest Party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-13T09:00:00Z
-    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
-    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
+  - title: "There’s No Such Thing as the Machine Learning Platform"
+    excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
+    publishedDateTime: 2019-12-13T01:57:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.3B50A5E8AFB7BE02E141FF3630E27ADF
+        width: 600
+        height: 315
+  - title: "AI Will Transform The Field Of Law"
+    excerpt: "Indeed, this process is already underway. The law is in many ways particularly conducive to the application of AI and machine learning. Machine learning and law operate according to strikingly similar principles: they both look to historical examples in order to infer rules to apply to new situations. Among the social sciences, law may come the ..."
+    publishedDateTime: 2019-12-19T19:12:00Z
+    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/
+    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/19/ai-will-transform-the-field-of-law/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
-        width: 700
-        height: 366
-  - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
-    excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/
-    ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+      - url: https://www.bing.com/th?id=ON.6D5B221C77BAE4DB7C531C8F7B413222
+        width: 600
+        height: 315
+  - title: "The World Is On The Cusp Of Revolutionizing Many Sectors Through AI and Data Analytics: Yogesh Mudras"
+    excerpt: "Mudras hail artificial intelligence as not a futuristic vision but as a need of the hour. “AI is being integrated and deployed in various sectors. This includes finance, national security, health care, criminal justice, transportation, and smart cities, points out Mudras. He further adds, “AI is a major driver to provide security ..."
+    publishedDateTime: 2019-12-18T13:26:00Z
+    sourceUrl: https://www.entrepreneur.com/article/344018
+    ampUrl: https://www.entrepreneur.com/amphtml/344018
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344018
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
-        width: 700
-        height: 366
-  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
-    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
-    publishedDateTime: 2019-12-21T14:38:00Z
-    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
+      - url: https://www.bing.com/th?id=ON.236D2C1EA970704536BAC4033E9EDD1E
         width: 700
-        height: 350
-  - title: "A sobering message about the future at AI’s biggest party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-14T14:00:00Z
-    sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
+        height: 466
+  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
+    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
+    publishedDateTime: 2019-12-12T18:37:00Z
+    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: KUOW
+      domain: kuow.org
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
+      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
         width: 700
-        height: 350
+        height: 466
+  - title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
+    excerpt: "I heard Microsoft offers Azure Machine Learning studio [1] which is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure, I would like to give it a try and see how to apply the skills I ..."
+    publishedDateTime: 2019-12-16T03:43:00Z
+    sourceUrl: https://medium.com/@jimmyhk99/the-good-the-bad-and-the-ugly-about-nlp-with-azure-machine-learning-studio-3990e9eb49b
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 59
+    images:
+      - url: https://miro.medium.com/max/1200/0*sVmc48WRJTTkyNOJ
+        width: 1200
+        height: 401
+  - title: "NHS is leading the way in AI adoption"
+    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
+    publishedDateTime: 2019-12-17T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
+    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+        width: 700
+        height: 466
   - title: "Artificial intelligence and the future of insurance"
     excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
     publishedDateTime: 2019-12-18T05:23:00Z
@@ -116,60 +146,157 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
         width: 620
         height: 372
-  - title: "How VDO.AI is building the future of Internet advertising"
-    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
-    publishedDateTime: 2019-12-23T11:03:00Z
-    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
-    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
+    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
+    publishedDateTime: 2019-12-18T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 51
     images:
-      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
+  - title: "Robotics and automation event ‘automatica’ to occupy record 76,000 square meters"
+    excerpt: "The trend topics of digital transformation, man and machine interfaces as well as artificial intelligence will be discussed with experts in all their practical scenarios that can be employed in industry. The automatica forum provides valuable know-how transfer. The top topics of the lectures: Work 4.0, collaborative robotics in actual practice ..."
+    publishedDateTime: 2019-12-13T14:45:00Z
+    sourceUrl: https://roboticsandautomationnews.com/2019/12/13/robotics-and-automation-event-automatica-to-occupy-record-76000-square-meters/27438/
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.C2D981E13B60E94CDE625E825BC9B295
         width: 700
-        height: 393
-  - title: "Duet at TREC 2019 Deep Learning Track"
-    excerpt: "This report discusses three submissions based on the Duet architecture to the Deep Learning track at TREC 2019. For the document retrieval task, we adapt the Duet model to ingest a “multiple field” view of documents—we refer to the new architecture as Duet with Multiple Fields (DuetMF). A second submission combines the DuetMF model with ..."
-    publishedDateTime: 2019-12-16T18:33:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/publication/duet-at-trec-2019-deep-learning-track/
+        height: 466
+  - title: "O’Shea: Learning, truth and fear"
+    excerpt: "I agree, and I thank our wonderful community from the bottom of my heart for the support that has made deep learning — the search for truth and the overcoming of fear — possible here at New College. Preparing students for lives of great achievement and for careers means encouraging and equipping them to seek the truth. Donal O’Shea is ..."
+    publishedDateTime: 2019-12-13T01:26:00Z
+    sourceUrl: https://www.heraldtribune.com/opinion/20191212/orsquoshea-learning-truth-and-fear
+    ampUrl: https://www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
+    cdnAmpUrl: https://www-heraldtribune-com.cdn.ampproject.org/c/s/www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
+    type: article
+    provider:
+      name: Sarasota Herald-Tribune
+      domain: heraldtribune.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4E66BA9637C12C282E827969EC96866D
+        width: 466
+        height: 700
+  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
+    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
+    publishedDateTime: 2019-12-17T18:32:00Z
+    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
+    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
+    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
+    type: article
+    provider:
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 44
+    images:
+      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
+        width: 620
+        height: 349
+  - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
+    excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
+    publishedDateTime: 2019-12-18T14:57:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 44
+    images:
+      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
+        width: 1200
+        height: 630
+  - title: "How Machine Learning Is transforming Video Advertising"
+    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
+    publishedDateTime: 2019-12-16T14:08:00Z
+    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
+        width: 600
+        height: 314
+  - title: "From the Ground Up: Artificial Intelligence and Ag Machinery"
+    excerpt: "“We want to be able to use Artificial Intelligence to automate machinery itself so that potentially in the future we might have tractors that are fully autonomous, basically robots in the field that can not only navigate themselves, but can also detect obstacles and get around obstacles and that kind of thing.” Thomasson says that beyond ..."
+    publishedDateTime: 2019-12-19T15:15:00Z
+    sourceUrl: https://www.kbtx.com/content/news/From-the-Ground-Up-Artificial-Intelligence-and-Ag-Machinery-566340241.html
+    type: article
+    provider:
+      name: KBTX
+      domain: kbtx.com
+    quality: 39
+    images:
+      - url: https://media.graytvinc.com/images/ftgu+12-19-191.jpg
+        width: 840
+        height: 473
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "Automation and artificial intelligence could save banks more than $70 billion by 2025"
+    excerpt: "Savings across the entire financial services industry could top $140 billion in the same time frame, according to Accenture."
+    publishedDateTime: 2019-12-13T15:53:07Z
+    sourceUrl: https://www.msn.com/en-us/finance/markets/automation-and-artificial-intelligence-could-save-banks-more-than-2470-billion-by-2025/ar-AAK624I
+    type: article
+    provider:
+      name: Business Insider on MSN.com
+      domain: msn.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.71A3AD0A8997467A6025A384A065AC96
+        width: 700
+        height: 350
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 39
+    quality: 24
     images:
-      - url: https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png
-        width: 1200
-        height: 627
-  - title: "How Artificial Intelligence Is Reshaping the Future of Stock Picking"
-    excerpt: "Computers aren’t new to Wall Street, but for most of their lives, their function has been primarily quantitative. That, says Forbes‘ William Baldwin, is about to change thanks to the rise of artificial intelligence. Created by a trio of former MBA classmates at at UC Berkeley, EquBot is the answer to its creators’ dream of producing a ..."
-    publishedDateTime: 2019-12-17T18:23:00Z
-    sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
     type: article
     provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 39
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
-        width: 1200
-        height: 800
-  - title: "The future of banking is basically robots running everything"
-    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
-    publishedDateTime: 2019-12-23T06:04:00Z
-    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
-        width: 700
-        height: 366
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
   - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
     excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
     publishedDateTime: 2019-12-19T10:40:00Z
@@ -183,6 +310,102 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
         width: 685
         height: 416
+  - title: "Spot the robot ‘dog’ could one day scan jobsites, do layouts and maintain machines if Trimble, Hilti, Boston Dynamics collaboration succeeds"
+    excerpt: "“Down the road we expect to see robots involved in actual construction and workflow, things like scheduled maintenance and repair; even supporting the assembly process, says Almagor. “You take the platform, add the required tool and AI (artificial intelligence) capabilities and you get an almost unlimited tool. We are already talking about ..."
+    publishedDateTime: 2019-12-16T19:41:00Z
+    sourceUrl: https://www.equipmentworld.com/spot-the-robot-dog-could-one-day-scan-jobsites-do-layouts-and-maintain-machines-if-trimble-hilti-boston-dynamics-collaboration-succeeds/
+    type: article
+    provider:
+      name: Equipment World
+      domain: equipmentworld.com
+    quality: 19
+    images:
+      - url: https://www.bing.com/th?id=ON.FF34B3ECA4774A2F271BFFF8D5FE1086
+        width: 700
+        height: 466
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
+    publishedDateTime: 2019-12-17T08:07:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
+        width: 400
+        height: 267
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
+  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
+    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
+    publishedDateTime: 2019-12-16T07:08:00Z
+    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
+        width: 700
+        height: 466
+  - title: "DistilBERT (97% of BERT’s performance on GLUE) for Question answering on device thanks to TensorFlow Lite with Android demo app"
+    excerpt: "It provides 48 passages from the dataset for users to choose from. Example scripts used to convert models are available in the models_generation directory. Please note that they require the nightly version of TensorFlow and might thus be unstable."
+    publishedDateTime: 2019-12-13T01:30:00Z
+    sourceUrl: https://github.com/huggingface/tflite-android-transformers/
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.C8D5E970169D045AD4DFBE9B8C5A46FD
+        width: 175
+        height: 175
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
+  - title: "Performance of deep learning-based algorithm for detection of ileocolic intussusception on abdominal radiographs of young children"
+    excerpt: "The purpose of this study was to develop and test the performance of a deep learning-based algorithm to detect ileocolic intussusception using abdominal radiographs of young children. For the training set, children (≤5 years old) who underwent abdominal radiograph and ultrasonography (US) for suspicion of intussusception from March 2005 to ..."
+    publishedDateTime: 2019-12-19T10:39:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-55536-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 9
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-55536-6/MediaObjects/41598_2019_55536_Fig1_HTML.png
+        width: 685
+        height: 283
+  - title: "Lufax CEO Greg Gibb Forecasts Partnerships and Scenarioization in the Future of FinTech"
+    excerpt: "in terms of revenue and asset under management (AUM), FinTech still only accounts for 5-6% in China's financial market; it has a small base, but is large in the global context and still poised for a lot of growth from unmet needs.\" Gibb suggested that the key behind that growth will be AI, driven by chatbot capability, allowing financial ..."
+    publishedDateTime: 2019-12-13T04:58:00Z
+    sourceUrl: https://finance.yahoo.com/news/lufax-ceo-greg-gibb-forecasts-055000912.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "+4uXNI8Kz4oQbjuVow0KVbMzTIMoBna/kXCjAQwX5oC9ATb04hql75c58jM7KFWNEoXU5MLPfckZCqlPPFhnNeU2KQLT9QMgD/bWAgGuWx9la1bZBR+ttP/0CgidboDiiG0O5TUWP/m19+c6gi629VvpXJfVhLT/eJMBk7aSsLT02W8zwDlsnkRBgcC3qsOMT0aexmKXTo3LG5xhVmKQCI+GYAYxLJ7N67nHzV7eVjoHrqS4TrfOG3jJaPkKWlFlnXOe2hODAJ3d/0+BU23rRQ==;6kvcSdfBdFzrVDTtRfo/1w=="
 ---

@@ -25,19 +25,21 @@ images:
     title: "The AI community needs to take responsibility for its technology and its actions"
 
 related:
-  - title: "Are The Robots Coming For Us? Misconceptions About AI And Machine Learning"
-    excerpt: "Machine learning is everywhere, but is it actual intelligence? A computer scientist wrestles with the ethical questions demanded by the rise of AI. Guest Melanie Mitchell, professor of computer science at Portland State University. Author of “Artificial Intelligence: A Guide for Thinking Humans.” (@MelMitchell1) From The Reading List ..."
-    publishedDateTime: 2019-12-12T18:37:00Z
-    sourceUrl: https://kuow.org/stories/are-the-robots-coming-for-us-misconceptions-about-ai-and-machine-learning
+  - title: "Cigna to use AI to track whether patients are taking their medication"
+    excerpt: "U.S. health insurer Cigna will start using artificial intelligence to track patients' drug intake and assess whether they ... Michelle, convicted on child pornography charges for posting nude cartoon images, has been on hormone therapy for years, but she's still legally male. A recap of latest polls and data-driven studies from the CBS News ..."
+    publishedDateTime: 2019-12-13T21:52:00Z
+    sourceUrl: https://www.cbsnews.com/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 69
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.349AA23211CA36A4506381ED92401E27
+      - url: https://www.bing.com/th?id=ON.433D81FB57583E4C0E9CAB118ABCCD22
         width: 700
-        height: 466
+        height: 367
 
 secured: "kginZPN8VZnxFt2L6xYOA0kyNyqRWlz6x7eC0g1GTBLBl8mTn0SZWIru9Iyy3wAkpTPNI8F1DQOcysDtzB6CiZpVq2pEI+x1TgAlRFMnlB3OCCErOj76slqPlRWC5Rr265yJ4qGCXKCu2Ok83J+uP9SesbpGm3tpsvxaMPZos6yy9+X2p9EQFH4VzgHIlKabSpIJiWli9X7Xe7MveKeGWAmoFy4YqU1rEOovDzisSdr/MuUhjm5W6ULELI9O5g2ljIMaed+kVV6gT9RE/XbkBA==;9oLyqd+GsFaDHDLcVp1gjg=="
 ---

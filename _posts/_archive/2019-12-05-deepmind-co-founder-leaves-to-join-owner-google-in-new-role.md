@@ -68,7 +68,7 @@ related:
         width: 796
         height: 417
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
-    excerpt: "Just hold on while we pull off some legal jujitsu to let MI5 off the hook... Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he ..."
+    excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
     publishedDateTime: 2019-12-06T11:15:00Z
     sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
     ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
@@ -120,6 +120,6 @@ related:
         width: 580
         height: 358
 
-secured: "tYV4ixnx4LofNY4LppOncsGBBjgD/FDXAjjtkzo3Fqs89O978SJn/WvJFI2OBAdeY3Fxc3l0irzmu4W3paWNnKXBonckm/Dc2VyhkSHqIwLD1bPPsVwAtNbr58pdgAmRF5t0Zn65TREqAKuyN3RS5AtWJ4OTmK2ZCM9fLHv0hDPp0dOuvfqIkVSFqCo0Kh8RX53tDlac6w6g4s0NmE8Zc5HZZmTQIYi15nmTnUFddiimrJtcfFqz9KBxRGFJe1v2ZfeHNBf8cnNKthzzJUjarw==;L1TWOJtuUTr7P/qPFdxbFw=="
+secured: "X8Qv26jOwpaIsR0gKs+ltG7sQJYjPp5wOMPMXWXbM/MZYIAxtFvZ3EatTVrskQ1bM+C2sPG7+hSW25yKHc0VDIS7IHiGHMoDGfu4FlsINcbJHt6yNDF1SqLxtO+dSZJ3CIxxAOAaDt9t+j1tvWCQ7qhy8apiHDszmz6nfIQruWXznI7nCnHCCXw23o6tHrojygspFza7O+MieHTkOElViR3CDAlh/e+w367uz9yyEX52/AnotS3/Ki8Ij421+muqAjcNvKXdAZ9S9bK1lu+n3Q==;OCOY2fTls8inLkKcJe2mag=="
 ---
 

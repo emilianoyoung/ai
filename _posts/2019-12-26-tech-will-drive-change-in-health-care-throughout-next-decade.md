@@ -8,7 +8,7 @@ ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-chan
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     title: "Tech will drive change in health care throughout next decade"
 
 related:
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+  - title: "How to Ensure Your Health Care Innovation Doesn’t Flop"
+    excerpt: "These days, everyone working in health care is chasing innovation to thrive in this era of increased accountability ... Many organizations define innovation as novel technologies, processes, and business models. They may regard artificial intelligence, just-in-time supply chain, or bitcoin as innovations. These things, at least in their early ..."
+    publishedDateTime: 2019-12-28T16:43:00Z
+    sourceUrl: https://hbr.org/2019/12/how-to-ensure-your-health-care-innovation-doesnt-flop
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 24
     images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
+      - url: https://www.bing.com/th?id=ON.E496DB13EF5DF5BD8C34E8D32AD33647
+        width: 700
+        height: 393
 
 secured: "2uoukiDImjPloIf1UDjWyD5RhYxVsDPFjr8rEXCjmID6wSPrN+MMGagjhWh5SKymB8kudxz+dS61cIyhyi/yJpVO4hQsFN7HjkNzifdYGKaY9zYuJ0PNIAdX/dqo5tp98LeVPFy0F67F6zIE8nle26WpvCWFBS8lQ63DuOtLdhnI664cUxFzKV45ZMcqBqnJzo4FlrWnekkKsO7RF/M2IPAOBGIbeLQbcyAjZ4TTQ/iEy5P+1It+NjSX2N4ahxKi8CX0aSN4bnd5haj1fnZdVg==;Awd1Xim9dPy6duPBoCp7EQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T17:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-microsoft-and-kkbox-group-announce-global-strategic-partnership-and-hitachi-acquires-jr-automation-2019-12-27
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,23 @@ images:
     width: 1200
     height: 630
     title: "The AI Eye: Microsoft and KKBOX Group Announce Global Strategic Partnership and Hitachi Acquires JR Automation"
+
+related:
+  - title: "Oracle and Microsoft expand their partnership to Canada"
+    excerpt: "The partnership enabled customers to run enterprise workloads across Microsoft Azure and Oracle Cloud. Azure services like Analytics and AI can be now connected with Oracle cloud services like Autonomous Database. The global demand for running applications and databases in multi-cloud environments continues to accelerate. With the new ..."
+    publishedDateTime: 2019-12-24T16:41:00Z
+    sourceUrl: https://mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to-canada/
+    ampUrl: https://mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to-canada/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to-canada/amp/
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.8080AFA18518540F4CB26CA4D3A51B81
+        width: 700
+        height: 393
 
 secured: "rZziVbqV8LXXAW+jmuWVu5Hzfk7cKS+454iSiqrxGZen/CCkT0XRrqJUisAjqqprrV8aSBk5eZVaK1tGMj76cKt7aNifyCNND6ijys8WwmN0Bi16gUs05KquouM4/N8HqiycvpzKZjQYHhSo+GV7xeGyDYy/D52lJy1no0oQS6pgJexlwizDSKZKOggmdrhE1bjIaoBA55cwi0y7J3/2LmNc2xdgcvEeMcb4R8gd726+zGWFXxEmBZDDpKDdzuYvnDIl7nBTUnQX51TOiAmuBQ==;ORHlhPrwHkSnIwmoqnXkPw=="
 ---

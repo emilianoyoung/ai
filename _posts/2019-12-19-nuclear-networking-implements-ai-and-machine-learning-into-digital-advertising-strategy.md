@@ -18,45 +18,33 @@ topics:
   - AI in Finance
 
 related:
-  - title: "How Machine Learning Is transforming Video Advertising"
-    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
-    publishedDateTime: 2019-12-16T14:08:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
+  - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
+    excerpt: "DENVER, Dec. 19, 2019 (GLOBE NEWSWIRE) -- Denver-based digital marketing agency Nuclear Networking has implemented AI and machine learning tools into its digital advertising strategy, allowing for 24/7 competitor monitoring and better budget spending. “At Nuclear Networking, our core digital advertising managers have a high level of business ..."
+    publishedDateTime: 2019-12-20T00:28:00Z
+    sourceUrl: https://finance.yahoo.com/news/nuclear-networking-implements-ai-machine-160010919.html
     type: article
     provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
-        width: 600
-        height: 314
-  - title: "What is Machine Vision?"
-    excerpt: "Machine vision is the capability of a computer to perceive the environment. One or more video cameras are used with analog-to-digital conversion and digital signal processing. The image data is sent to a computer or robot controller. Human eyes are responsive to electromagnetic wavelengths from 390 to 770 nanometers, while video cameras can ..."
-    publishedDateTime: 2019-12-17T12:46:00Z
-    sourceUrl: https://www.roboticstomorrow.com/article/2019/12/what-is-machine-vision/14548/
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 26
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-19T13:30:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.C52FBE59E170DA72D7B8ACABE29ACAD8
-        width: 150
-        height: 150
-  - title: "Creating Assets that Appreciate, Not Depreciate, in Value Thru Continuous Learning – Part II"
-    excerpt: "Let me try again at explaining this game-changing concept of leveraging massive amounts of operational data with Artificial Intelligence (AI) and Deep Learning to create assets ... software engineers to improve both Autopilot and the simulator over time.” Waymo, a subsidiary of Google parent company Alphabet and likely Tesla’s biggest ..."
-    publishedDateTime: 2019-12-16T12:22:00Z
-    sourceUrl: https://www.linkedin.com/pulse/creating-assets-appreciate-depreciate-value-thru-part-bill-schmarzo
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.08588F1762B5B9FBCB1A822AC3517C0D
-        width: 700
-        height: 392
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "KbcCl5aeawRRUuirrftpxSGq1nLxQ7pfgeFlSbiShVQ78riqphhVQrHYBJ/5stM4O5PIyTw9zklEHJbZbpbKqx98aOMaHxGiEEPZiwdU5fYaseeysNBFfL5NdEKPA+Jv0GL5h/8CoE5SWrrxQpafauNungR1r92kVIgySWLYdG1meRpL7OrW7Zeg+5bCrv2SWL3MKGUDd2hAv3HTAPrbqE/RpsGVXeakbhEbOfhhvJVdVqsSLOPxt26m+w2nNM5JABRUJoxyk06vZRclQ8P0JA==;9UO3Ogn3Fvh96RLb1AgLNg=="
 ---

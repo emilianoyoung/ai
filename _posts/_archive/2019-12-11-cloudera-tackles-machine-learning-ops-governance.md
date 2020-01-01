@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/cloudera-tackles-machine-learni
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-tackles-machine-learning-ops-governance/
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 525
     title: "Cloudera tackles machine learning \"ops,\" governance"
 
-related:
-  - title: "Atos Launches Quantum Learning Machine User Group"
-    excerpt: "With its targeted and unprecedented compute acceleration capabilities, notably based on the exascale class supercomputer BullSequana, quantum computing should also promote advances in deep learning, algorithmics and artificial intelligence for areas as various as pharmaceuticals or new materials."
-    publishedDateTime: 2019-12-12T17:22:00Z
-    sourceUrl: https://insidehpc.com/2019/12/atos-launches-quantum-learning-machine-user-group/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.DE9897C8617AD02B0C17C2AB1095F016
-        width: 300
-        height: 300
-
-secured: "OYAVLd61slC2qVW9NvBhdB+Uan9uVI17hTeeG/llg8V5VpnMjem/sb5t8a0WOXqaU95SFGwFMh8wC/Y5Z2TbZBjw/1itqWR7wuas0sM8Du4m8vG4iHy/aWTmzJU1AC8vy2gHwmgqVaNA/5FaLtwzxh4tVqNxwJ9gPz085VdR2NVGu6+YhIgQjzojZtjvOiV84bjrCJWeTcXMiChxiMtm5a1PIkTQzr97AAEPP0JjVUNWo3QeDEv+6b6rUMwIhdIaDFESzhei1tBpfXITcdERhQ==;R3flLoZYU0lqhkXdKqh+Jw=="
+secured: "xMfO7r07XzKTvpB7h3mM/MbT0T41rcAX64eDDmeDS/+eFRcR9yAPMGeLSWHs/Yu67YJ9IV+I0Pvdper8IH7D5LvDXg/kZlJv19Vf4+IYbo7X1hnavXvDzlNTopKGKW8YEBgl7tA2pfo6/9wMXcgIhqJEyDmeJc895UTGIAEh/+PpqOUuUk/8xWlDZPX+hhKty7/86P3EyZiLgLiAOnhYC8xd2DaErP3zwGqCPnYr+MFFUZt3VyI90unMgECWHpdiQGXuCChGLo3FZTtBOsilSw==;srdbNw2zBongYT1bF0IDPQ=="
 ---
 

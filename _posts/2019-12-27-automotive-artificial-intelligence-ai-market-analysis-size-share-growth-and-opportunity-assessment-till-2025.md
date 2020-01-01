@@ -66,6 +66,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive new year offer:Upto 35% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market ..."
+    publishedDateTime: 2020-01-01T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Based Personalization Market Overview, Segmentation, Top Key Companies, Value Chain, Market Size and Trends"
     excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Based Personalization Market Report is highly intended to offer robust acumen considering Artificial Intelligence Based Personalization Market industry to aid a market contender with insightful analysis for Artificial Intelligence Based Personalization Market size, share ..."
     publishedDateTime: 2019-12-31T04:31:00Z

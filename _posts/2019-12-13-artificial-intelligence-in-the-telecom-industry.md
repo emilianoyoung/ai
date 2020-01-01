@@ -57,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F66B2689EC2788F048943268DD2A8E5
         width: 700
         height: 233
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Empowering Telecom Industry with Artificial Intelligence"
     excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
     publishedDateTime: 2019-12-13T23:51:00Z
@@ -83,21 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
         width: 700
         height: 233
-  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
-    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
-    publishedDateTime: 2019-12-14T16:18:00Z
-    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
-    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
-        width: 700
-        height: 466
   - title: "Are We Ready For The First Patent Filed By Artificial Intelligence?"
     excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
     publishedDateTime: 2019-12-13T08:49:00Z
@@ -113,21 +85,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
   - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
     excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
     publishedDateTime: 2019-12-12T22:42:00Z
@@ -143,21 +100,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
         width: 700
         height: 367
-  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
-    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
-    publishedDateTime: 2019-12-18T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 51
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z

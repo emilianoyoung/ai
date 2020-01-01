@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
 type: article
 quality: 187
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C2E82E984FB47341B534005BEB08D39F
         width: 700
         height: 394
-  - title: "VIDEO: Watch the Trailer for the New YouTube Series THE AGE OF A.I. Hosted by Robert Downey Jr."
-    excerpt: "Today, Youtube Originals is releasing the official trailer for \"The Age of A.I.\" - an all-new learning series hosted by Robert Downey Jr. This new eight episode series takes a deep dive into the fascinating world of the most transformational technology in the history of humankind. Robert Downey Jr. brings his irreverent enthusiasm and curiosity ..."
-    publishedDateTime: 2019-12-12T17:33:00Z
-    sourceUrl: https://www.broadwayworld.com/bwwtv/article/VIDEO-Watch-the-Trailer-for-the-New-YouTube-Series-THE-AGE-OF-AI-Hosted-by-Robert-Downey-Jr-20191212
-    type: article
-    provider:
-      name: BroadwayWorld
-      domain: broadwayworld.com
-    quality: 125
-    images:
-      - url: https://www.bing.com/th?id=ON.21E0D9E4D5F04BB2D5B6B20372B9531C
-        width: 700
-        height: 350
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z
