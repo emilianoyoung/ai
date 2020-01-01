@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "Self-driving truck delivers butter from California to Pennsylvania in 3 days"
-    excerpt: "The truck, which traveled on interstates 15 and 70 right before Thanksgiving, had to take scheduled breaks but drove mostly autonomously. There were zero “disengagements,” or times the self-driving system had to be suspended because of a problem, Kerrigan said. Plus.ai has been running freight every week for about a year, its COO said ..."
-    publishedDateTime: 2019-12-12T03:20:00Z
-    sourceUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/
-    ampUrl: https://www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    cdnAmpUrl: https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2019/12/11/a-self-driving-truck-delivered-butter-from-california-to-pennsylvania-in-three-days/amp/
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 41
-    images:
-      - url: https://www.bing.com/th?id=ON.C361ED10C1C25F1F3D113F9D856DC5A8
-        width: 700
-        height: 489
   - title: "Waymo self-driving vehicle struck by another car in Tempe"
     excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
     publishedDateTime: 2019-12-13T18:58:00Z

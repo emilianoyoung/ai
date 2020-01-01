@@ -27,7 +27,7 @@ related:
   - title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
     excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
     publishedDateTime: 2020-01-01T00:10:00Z
-    sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-104939754.html
+    sourceUrl: https://in.news.yahoo.com/huawei-thanks-indian-govt-5g-105307364.html
     type: article
     provider:
       name: YAHOO!

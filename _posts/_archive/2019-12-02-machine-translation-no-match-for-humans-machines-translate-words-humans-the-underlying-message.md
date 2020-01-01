@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T08:52:00Z
 sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -34,12 +34,8 @@ related:
     provider:
       name: Yahoo Finance
       domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
-        width: 480
-        height: 270
+    quality: 17
 
-secured: "OtTDNW5QG4EZ7V8FHQrl68f45NgotVsOLEoM8sJEfLmewYfQeeER2EImOmx9ezlZgsmh1SVXmAgWfpJ1WG5v41IHAKKFf8adRio3khthKc8cxebGtMRtvuVVeQ5PFWhS2YWzRIQk47SRwKGTLQfSV2A+ZiTHjhWVtsQCNa7qRxeTz/sXZFe47FXMAx3TblrxtZol8hLJbal0wGr9247DA4dFHHu03jbT2psSWB1DjNNI9s2bgklr6lGh41l3dgYO56aXHRhdWqOqqC6gm8f7dQ==;p4A6J7XXC24Lz1rD4dZSiw=="
+secured: "TL9q2szF6BgZpgmIA4VNPcX4M+dOdKjTmEF1NAADnlTRkiBthC6RkV5c/cYd3fZYpGVULjk9d9WoOJm3l/qsD/I2jye0gCIxRqOICduQU9NOPwYU/wS8ZTR76Z49J5N1eG1SzhH02xyQ7O1qxSgwTpxm9GUQaufDuMPEwwWSzXokT/upPFEYIJCFYWJmrD/RYGpgOtMblddCCEmcdD3SUeTA/zrMmnZYq5FL0VnHezFJV6tER1GJy7tsmINPv3ZK31kGw+vdNOpjwgFMh3Qp7g==;SkqkftIaFbJYR8AI9oVL/w=="
 ---
 
