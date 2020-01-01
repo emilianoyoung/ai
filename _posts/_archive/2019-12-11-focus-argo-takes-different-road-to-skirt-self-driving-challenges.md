@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -110,19 +110,6 @@ related:
       - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
         height: 467
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
-        width: 700
-        height: 419
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z
@@ -146,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "hdUQiTP1FfR5XsNzlmFu9ptHRj16GTZfq4KS8o18zjOjeTKtoWztD8vLCBn+iktpmsAEX7DLB/lE4qwFhLeTc2vyGz8oSapdPId0XKiv2mRDH+GAnniHEYiKylG/wQXysS9I7nl2tCtFzrs3QXmMiQcHcrFBfH2i6Q6Pni6DIkDfAyCZIIj/1a+vE1KZVBrSz8H23NAXtjNGATV8d5sdAfgRXZshYYhNKEc8Jv9HtBIKAzDmDT+rd/LJQBRw4eoWhTT5xT8sI74wOkhBBOy4Yw==;BPtkJrn2x8BHMPEpNBcn0Q=="
+secured: "LFvO2bClQBGgicRq4h1KEq/G5UX9unMX0vgJ/suScn3eAFbC0DEJZE449eCRVNygeqh/Uw3dcATU7tn1uXuB17+xr8/5nF4OULLtkdc92fbPqpF4jlG5tcuXAN9RYeddrg694QHcrB5J+8yb2dYXR1zZfuNnrVFMBnwRKEssnho1JvW1XZQ4rttrgYnOcIYH5PstAgxXffoi3zV2J0sfyWj3gHqJRjTj2l6wLs9N/AqyiYorewRqmklkrw3ID6J6TeiTy9dVMV7pI1Rr5+Ls6g==;EEjZl4z3u4xxvRx0WQ/CbQ=="
 ---
 

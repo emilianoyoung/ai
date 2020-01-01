@@ -91,33 +91,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
 
-secured: "OcxzDvQs85IRAzuk49pIcHmVlqTQmdq02pCCI/mUFulxVVTXrMuuuGWTdTv/msaY344GgZSG9WIOlGlfGuudLfC63fJEbv/1wS8/Y/b4rDDmB8h4yR2DfLkrCOpj7GlTErB/UmiYKjLl8aaf8EOSnVPpRVGznUSDm93SYOBcMKwr/1OZhACr1vTp/fsO8zv1VDx3NvUizedIqL2cLFWzGk0Fgx1oHZ52Nduha8tLiNMOZEszDyEQkrkyOfxd3J8fzHHmLBohD5xK22Z1OWM4zg==;sGSCYdru5cIX8QsQ4ptu7g=="
+secured: "f4V8CQk2bJPIk5LcLFlwe4UwtXR0bnPrK8QTfvs9IhdqL7pwCHWY5P9v3bOpKKEQkU1n4jP77kncw7kZEhFCGckzbb/tLm4wV3bUiFV+NH0YWqRMj0HSAQjwULrONEYkE8v6N/TExqmcoojFNbtk/o8h1V7OAGik+hx4F8WBUxNcQgP/PSzzPpkIc4IwrpZGOVawhLltqt1q4ckeBaurE1D3RngT82c6Zox+NO0lQLY1ID3gWZVvu6BEYkvG1RgXoaAVrVc2Qg8z960ZWrL4fw==;KlpX1metoRDsWfpuFfzCJw=="
 ---
 

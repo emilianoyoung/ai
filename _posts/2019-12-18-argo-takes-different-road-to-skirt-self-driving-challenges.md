@@ -106,19 +106,6 @@ related:
       - url: https://www.bing.com/th?id=ON.427C71F854A649CBC419016421964E69
         width: 700
         height: 466
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
-        width: 700
-        height: 419
   - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
     excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
     publishedDateTime: 2019-12-16T10:37:00Z

@@ -370,6 +370,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "MSS+a4RZ20KZmw3FlPRrY2dREON2G9yfwamaFO/pw/mKvT6le9pv0XRClTyAPsCbx1qoFthacjETMvEf3fWE2v6Cfkm7NZYV9MZekFsFEhKFoCUxSkfnACQwl5I1TFgVQCg8fpqzwBZsfNFt5/JrVgESnXy9n/LZRKHlKrUzWQE1p5ofd44DbUZ7eOD6vPQArnTo4xfKMg4lK7HSBJc72x5g8ugULViGiDwSFOxcbsDeT0iLf1aDObnxb2ePAB3qHdALU/GPbuEm38QI1Z8cfg==;ReWrnloG+nsLP8yeyMQLpA=="
+secured: "l5t07CR8pWW6z0EaGpwbzVs7pCTw3mDQ/MzGs7CjAHUfvRbG9IZ9+P//K2aqPip/9BkcAIunsd3YvyWoo7pIYLyXdp/I3/+SdyaBBLD2mmBkxlojG7l0JYt8FrtBhnwInV5SX5WSUlfeuwOcyMOQZxFoClCFdaI+KmfdRMZxcDOxr4XUgHIoZhRPFBAhNQpcTEkoS5Toap4EvZ8Y2FLoUaiPKSY12kmy2geBRQvsUNzrANhhQqhtPvpZw93w5CdiCQiNwuAkdLZiQfh9KPZXGQ==;1/G7rEKxbdAYLBDSdIjxCQ=="
 ---
 
