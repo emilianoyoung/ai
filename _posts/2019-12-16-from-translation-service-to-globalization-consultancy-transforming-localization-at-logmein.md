@@ -375,6 +375,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
         width: 400
         height: 267
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
   - title: "DistilBERT (97% of BERT’s performance on GLUE) for Question answering on device thanks to TensorFlow Lite with Android demo app"
     excerpt: "It provides 48 passages from the dataset for users to choose from. Example scripts used to convert models are available in the models_generation directory. Please note that they require the nightly version of TensorFlow and might thus be unstable."
     publishedDateTime: 2019-12-13T01:30:00Z

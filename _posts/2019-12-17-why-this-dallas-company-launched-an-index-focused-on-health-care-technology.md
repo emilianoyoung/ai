@@ -59,15 +59,6 @@ related:
       - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
         width: 2699
         height: 1414
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/traqiq-inc-acquires-mann-india-120010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "04u4o4uCAwW6QQ8TE4uhO7GoMkE1emH9mYBGgvEBg0qeYR27FUB0tsCeU3vaeoQ6TXFy1rPapOopAsNky3cO53GS5+OyxaXZywLRLRjOnSBzTo3hKu3QslfPS/VzBLQDIe4BcdTqfLNGdhxHI2CiElFPSQz3OlhmwNk+put+oViMXzkPNP1Ux7a/8oCZQcO62Jm5f0M6SXwV+dgPgx6ZnrIydYQBarzQsebVMk9jrXDm4ADtV9KP1IOI3ZvMJrDuKCKFZXS5jIDSSDAq+bNrHQ==;eRbz4CsdkWzOrzoI9Ylk3A=="
 ---

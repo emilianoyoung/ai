@@ -61,15 +61,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 22
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/traqiq-inc-acquires-mann-india-120010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "8qnC3dvakOkvH9szXWeUnEA4ps8o/ujEQqlwMpQmxgzur1frsAAMKixlfmR2ncIE8zNTGMPfBC+dbJToxynSfI45Hxb6Kx5W+1RvzgMG9QiT9740aQ+qEp41KacXD2U6E7zIm4/OYhpOeiAv6QOl0jUH63vNQ9KJ6turV7d+LIHQUYPbmU+gldcowvBj3o1+fp1FSrfd2MW1EDOUXnEqjpSug/mV5ZnnGZdxTE7JwMyR/cAVEVnXIQg1q0jxh1Eoek5IbsJ6B/RDLDg+ge2xyQ==;7Mi2M362EBr2AcZi6PWZgg=="
 ---
