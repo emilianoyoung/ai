@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/qualitest-acquires-ai-machine-lea
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/qualitest-acquires-ai-machine-learning-090000680.html
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "Qualitest Acquires AlgoTrace, an AI and Machine Learning Company"
-    excerpt: "Marketing Technology News: Talkdesk Names Chad Gaydos as Its First Chief Customer Officer AlgoTrace’s machine learning tools help brands answer business critical questions as they launch new software: what, where, when, and how to test and in what order to ensure consistently high quality. With multiple clients already using Qualitest’s ..."
-    publishedDateTime: 2019-12-12T12:28:00Z
-    sourceUrl: https://www.martechadvisor.com/news/machine-learning-ai/qualitest-acquires-algotrace-an-ai-and-machine-learning-company/
-    ampUrl: https://www.martechadvisor.com/news/machine-learning-ai/qualitest-acquires-algotrace-an-ai-and-machine-learning-company/
-    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/qualitest-acquires-algotrace-an-ai-and-machine-learning-company/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.AF17A890672B5DAE9C9E7BF57527B3D6
-        width: 700
-        height: 421
 
 secured: "86khwBpx1e5UK4/ReVI8n3PSsHnCSTJMhXhSMeOfW5EhHovuYdrYTXORcibqCOiM8yHrnTu6W2/h+zdG6D2Oaau0Cw8N41jwIkrtZ5D8Po9ugmkKcchZ9oMtWCakHIy8ZrIpbRNJYa2d/OlSh1JLCwrpCArt09+XTWV4qqAP2LVViH1v39dzIpEmvnqC9wyCUGEThd01cz17xgktKnV4eCQO1r0vfML0oYWycxZAPaSFB177mlLu9iNFUKN6OJWaDVsraEt+of36cMCC408gBg==;EAp1rSyq/dZ5enm6Zvz9+Q=="
 ---

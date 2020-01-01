@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-14T13:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
 type: article
 quality: 81
-heat: 341
+heat: 331
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 80
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
-    excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
-    publishedDateTime: 2019-12-12T12:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-by-application-technology-end-user-and-geography-2019-2026-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

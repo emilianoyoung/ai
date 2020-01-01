@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
-    excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
-    publishedDateTime: 2019-12-12T12:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-by-application-technology-end-user-and-geography-2019-2026-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
     publishedDateTime: 2019-12-13T04:08:00Z

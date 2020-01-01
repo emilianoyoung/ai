@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -119,21 +119,6 @@ related:
       name: BuzzFeed
       domain: buzzfeed.com
     quality: 106
-  - title: "Campaigners block use of facial recognition and ICE access to data"
-    excerpt: "Activists have claimed victory in a long-running battle with US law enforcement to stop one of the most sophisticated and far-reaching facial recognition programmes. A facial recognition system used by more than 30 agencies across San Diego, California will be suspended on 1 January 2020, according to a new agenda published by the San Diego ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data
-    ampUrl: https://www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data?amp
-    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data?amp
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
-        width: 700
-        height: 466
   - title: "Facial recognition fails on race, government study says"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-22T00:27:00Z
@@ -1459,6 +1444,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "PTpOaFBGVdIQKBEF04lSAkXMb0UymCr2HkewaXCeqG6uyuYfyqTGQ6Wj3UyBtdU0YifQ5locbeWelRN2I9g93cVSRgzHRHL6lupQiNvVYDonzhxK3gpePtclk1OZNGUjRzVqXs5YsuoaNAhVeg7+/ADpl72I04e1Bkn6cqwH3nZRCdLpAoHSIWP9HJUlaVYx38x/dgLSzZU0Krat7qQ4UW2AN3mMsf/fs7cKfXAp7ycr6RXgT37piThEiQJPA/NYYlfIRJ61wmJy9JXF1uAfQg==;ZVG/lALILxbNwdZSUK+TLg=="
+secured: "Fbbzj0eMgfya1fC2+aVHkcosJeflObTPLcyCpmjM6TWekd41UyfyCRP0M0FpkT9FFY7MCBSnWwv42shpvdVO7aD1Tbf4G3LDp4wRBL9sJBxmmdP1bBb/dS/BmCnGnC1u8DgJLoFx6jEb3Q2Hegn7Za7xTQ83J7LeqyCXFfblrsVFpyIIR9NwbYZNBhKG+slzIhpymueafe+bmf0aXnp15Xc+mBOYM4V9X4si812djARnZ1JPBwghJi7Q40BNnzLkPwxi2UMzoXG5YtSTybW19g==;q0CT5sW20ZQuAi9fP/QYGw=="
 ---
 

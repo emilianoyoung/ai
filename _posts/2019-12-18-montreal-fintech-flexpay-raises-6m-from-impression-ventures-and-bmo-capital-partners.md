@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0DEA9F3D6424673313A7443D7738200F
         width: 700
         height: 393
-  - title: "Chinese Fintech WeLab Secures $156 Million Through Series C Financing Round"
-    excerpt: "Chinese fintech WeLab announced on Thursday it secured $156 million through its Series C ... “Using its proprietary risk management technology and advanced AI capabilities, WeLab effectively analyzes unstructured mobile big data within seconds to provide innovative financial services and offer consumer financing solutions for individual ..."
-    publishedDateTime: 2019-12-12T12:42:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.C77F8F89FB4FE5FB206C48D8D2E62185
-        width: 700
-        height: 428
   - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
     excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
     publishedDateTime: 2019-12-19T07:18:00Z

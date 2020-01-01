@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simul
 ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
-quality: 74
-heat: 84
+quality: 54
+heat: 64
 published: true
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 628
-    title: "Amazon and the NFL plan virtual games to understand real injuries"
-
 related:
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
@@ -42,6 +36,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "w/7SFx8dWH5CDzS+NPg+YZJT7K5llUizZE3EKWnE7s/0eRrbAagNJYWTiGc+GyJjJiHbKtoO91HPJQetBBviv+U/5T/5ha5+0OT6vklNqXR4WwycnOZwztw5ihGflOcoE3vMZHu6cEEavXkFc/rK2sfj++ciZOlUSxqnDWGAOzTk1d88NXhx66ogaiP4oQ+QvKOn6hlW0vlI5AO5nWx7rVS9gRkdtgIfJj+ZFZ+O8uSWz63xES/7TFu3/qFHGkqCUtagYH2hipVtirntP6mZpw==;QR0E0tiaU0UGtuB12galUA=="
+secured: "dELryWzozHbCW41R/twW6N4agQiiIccEsHxwRVU2Hlg+/TU9GOzmA6m/XjtUk/09RdKWV+SxpiNvrENo+iy5aKsNxO78zvja98gVjuuUPSZsI5KgPmSsJFwo10/AuKayVSEsNEIy2jjMb00mSN8g8t7YhikDImwOCCIA8yGT5E3IO9JDFCgIhn5dmsDxeLPIztif/UWqPWsY5CSCWVJHQWheQqGrj/iI/td88HRE9XX4rS2PjkHF0TpH49f78jGaxvQVjEUCA7I2tVbNMgK4Rw==;W5iAOSkGHSP/BMis/oPQBA=="
 ---
 

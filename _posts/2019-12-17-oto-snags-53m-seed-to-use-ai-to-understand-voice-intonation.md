@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-under
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6EDDA49044EDF66542B77011561FF8CA
         width: 700
         height: 466
-  - title: "You don’t need to understand AI to trust it, says German politician"
-    excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://telecoms.com/501363/you-dont-need-to-understand-ai-to-trust-it/
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
-        width: 300
-        height: 199
 
 secured: "lG8bNiLCpkRsM83SIZNcnzNYjdULWmi0+feyy2hcLTQT+Ft+UVQInnQ3MbrRuKkcg22XEBflPFsNrsvMPWo7JeQGUO+r5zLEjftSX3u+HilyDF3Ns2QRN603kSJWprV4sPcU9tKJOajm2szRBO+FgsA3pwBYzSFlspUs0Hg9WSrwOsxb9y7vvr36SVc7Ya3IMsl5lek3fN0s+JjXcL1iSGvSJsUyvqvdMAM0Go7dEiY/HKKS9YlPOQHk4As8lrXwEFL4yGfX5UjfC7/QovkiDA==;s0+z1UsqVaLWl6iranTwNg=="
 ---

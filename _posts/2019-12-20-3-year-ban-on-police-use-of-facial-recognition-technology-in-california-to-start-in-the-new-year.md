@@ -115,21 +115,6 @@ related:
       name: BuzzFeed
       domain: buzzfeed.com
     quality: 106
-  - title: "Campaigners block use of facial recognition and ICE access to data"
-    excerpt: "Activists have claimed victory in a long-running battle with US law enforcement to stop one of the most sophisticated and far-reaching facial recognition programmes. A facial recognition system used by more than 30 agencies across San Diego, California will be suspended on 1 January 2020, according to a new agenda published by the San Diego ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data
-    ampUrl: https://www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data?amp
-    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/354315/campaigners-block-use-of-facial-recognition-and-ice-access-to-data?amp
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.47B29E7ED2BBD5300F1F0C11C90DCE2D
-        width: 700
-        height: 466
   - title: "Facial recognition fails on race, government study says"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-22T00:27:00Z
@@ -1260,7 +1245,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

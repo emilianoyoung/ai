@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Healthcare Market By Application, Technology, End User and Geography 2019 – 2026"
-    excerpt: "Dec 12, 2019 (Market Prediction via COMTEX) -- The report analyzes and forecasts the Artificial Intelligence (AI) in Healthcare market at global and regional levels. The market has been forecast based on volume (Tons) and value (US$ Mn) from 2019 to 2026. The study includes drivers and restraints of the global market. It covers the impact of ..."
-    publishedDateTime: 2019-12-12T12:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-by-application-technology-end-user-and-geography-2019-2026-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Healthcare Market Technological Growth and Precise Outlook 2019 to 2025"
     excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The global \"Artificial Intelligence in Healthcare Market\" 2019 research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers ..."
     publishedDateTime: 2019-12-20T09:00:00Z
@@ -357,6 +344,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "F2OD+dvuGtL3EgIv2Tp+vziiF8I3hhd2nktT94+prZeCMfWndvZhOuL03bO3uBtDizPg4PrF3TH+YTHubTOsrov7XTTB3yflcDnI+sq1Wtfh+osVEZXpot5raoH6kN6t79AopA5hjY/RtIUnCUa/naRN9l6EI9rRharQzKjWJM6MSDNdty060lZLISUuubbYLsiKdEEmH6VYZC9VnZEdPTwxGOad6xLli5svf2o6+3ZKwF0VInwWoODLCfVUZC63AJ7Vs4qseOqwj9sr0u4g+A==;cEzOMLma34gglNvtW/Cs3A=="
+secured: "RI0yo1LSZrLiyNsNRx/j34vL0IehOaRJXWbUC5B87Z9bw5G3wD4p9FXqcjeuAs/mPDwezCUaZXZByHyujkAengy1mq9wBhtqCMswRvpbxSEO/uGD+mggED8n/rtNd1JoN34bQsO5VIoxuMq7tzjEjyKA3h+vJPpgjeTdNiW6QOY8PkSQcIhBBHqAWadCpx8FEjmHuCan8hog7PaCjk6+THxC6RthPn2Bph1DnRVbFToMtK4q6J7dWHKnpMZq4v9HMQxbz0ebRnRJge2/3vLAoQ==;12z0g+qB8A2gv41Y5wYA8w=="
 ---
 

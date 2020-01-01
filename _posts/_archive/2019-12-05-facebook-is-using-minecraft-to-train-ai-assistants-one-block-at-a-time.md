@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants
 ampUrl: https://www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/?amp
 type: article
-quality: 89
-heat: 89
+quality: 69
+heat: 69
 published: true
 
 provider:
@@ -23,12 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://icdn2.digitaltrends.com/image/digitaltrends/minecraft-15-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 630
-    title: "Facebook is using Minecraft to train AI assistants, one block at a time"
-
-secured: "wXjqGJqH/RV4Yc2tNwT6sNQTvdQGIy0lUXLXImqlXVrfgP4AmaR/riEa4OceSSkHXoYVgOE83gqVK4eQyBsp+HePKYMVRaKnAwvsCKrfnzksiea1E5t0f5JulD1bpWYPQyIeMYB7mkCFTonaycGpSjpCiqwgNfz+icKqhbqN6pGfEk7JmfEFMnhTenH8SFzu5Ithv3icWpwkXQRgru6qNUM3+TxS7W8Jy07E5qbX2RiC2cFYL2wp9NjoGZ6+lo7L+2+G62QYHj5DCejwVpAHRw==;AU0irdyFVCFy5M59qksmBw=="
+secured: "mr4YeSlr+QL+zneOdr2AF5I5Pg52l0BlKSwodKqhTLjEXLX+r75F9U07gI+EYTfUTXznZIXk4bvKzz6xwh24wJzQ34D6fWSY9VXTVLZYWKbuoje9b2+BlVXf3JkvhfMUilaH8t6xaOXlAq5XSR6RWjfX+qHqbqXyPYOm8X1RpnmErehp0OADPTdAHkzQ3RoYm5h1HGPr/do65cSRf8OI6kuT7W1q0Qb0l4I4ANCwhMIIxE/gBJRCUpifgWonADu4vw5X6g3yh4+zLwlztbG78g==;SEjHRFc+olONH94R8jBygg=="
 ---
 

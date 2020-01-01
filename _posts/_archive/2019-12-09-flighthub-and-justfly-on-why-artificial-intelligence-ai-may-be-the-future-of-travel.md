@@ -23,6 +23,6 @@ images:
     height: 1146
     title: "FlightHub and JustFly on Why Artificial Intelligence (AI) May Be the Future of Travel"
 
-secured: "8VoGcNz1uFUtARsN6FJbyaT6OCgAVxJKggKwrAQJRfOGcWR25yplvuuIKCJ1yffPhCCEMB8u36sqJcO5rRuIpRgRTC5m5qtGahrnQTmt1viEWkkBuiwfyjevcyCeuR5u29miwmXIqdynWsGHtP/sseiblLAzZUk5zSOZNKciUK8J1juzb/eD69mlNCVdVu+wBvW006RJrwcQbO8zmTdI7W5/agdqBspxn0030zlHqyXgu93DWWORYBSrN61MEffnTEsVOwzHPELb53J+1vcQIg==;/DDfm030+4Y3du2HGFlETA=="
+secured: "04MeVUtZFjSiCcJTJ0fLbFRFIIgRJHxe2dYaiQTqdLE9njARDjc+xgF/39t2Fu27EgoatktkuQ4+ZTUks+IxdXmpZm0T8pa12GWHaX2ySFZ7u5tcTx6R9d2btQU13sC5mYs0T379F5D/MWSXO6zpUvdXht4ZeDEdQRbWcgo5bXGw/S2z8Cgqt84eYKqEdVeqGusUSLGK1X5lkxWsyDcZ6QIuPx0ve0Iv2+8I6JpJXxUPlf4ERsbzsyw+ys02HhYQPXfrev3MufIT3Y9+/VvRAg==;ondM6XwOno+VhCUA/2IpoQ=="
 ---
 

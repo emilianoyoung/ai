@@ -37,19 +37,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Inclinations & Development Status Highlighted During Forecast Period 2018-2025"
-    excerpt: "Dec 12, 2019 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2019-12-12T12:18:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-inclinations-development-status-highlighted-during-forecast-period-2018-2025-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
     excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
     publishedDateTime: 2019-12-14T12:50:00Z

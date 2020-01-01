@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
+    excerpt: "growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States ..."
     publishedDateTime: 2019-12-10T15:51:00Z
     sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
     type: article

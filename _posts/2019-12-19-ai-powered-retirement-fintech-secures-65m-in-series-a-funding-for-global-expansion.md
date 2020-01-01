@@ -67,21 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0DEA9F3D6424673313A7443D7738200F
         width: 700
         height: 393
-  - title: "Chinese Fintech WeLab Secures $156 Million Through Series C Financing Round"
-    excerpt: "Chinese fintech WeLab announced on Thursday it secured $156 million through its Series C ... “Using its proprietary risk management technology and advanced AI capabilities, WeLab effectively analyzes unstructured mobile big data within seconds to provide innovative financial services and offer consumer financing solutions for individual ..."
-    publishedDateTime: 2019-12-12T12:42:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155127-chinese-fintech-welab-secures-156-million-through-series-c-financing-round/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.C77F8F89FB4FE5FB206C48D8D2E62185
-        width: 700
-        height: 428
   - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
     excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
     publishedDateTime: 2019-12-18T18:53:00Z
