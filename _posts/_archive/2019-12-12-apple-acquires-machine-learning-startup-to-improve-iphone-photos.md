@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10865EBB3E2E468439F98E81743C0FD8
         width: 700
         height: 350
-  - title: "Apple acquires startup developing machine learning to improve iPhone photography"
-    excerpt: "Spectral Edge uses machine learning to “make smartphone pictures crisper, with more accurate colors.” This works primarily by taking an infrared image and blending it with a standard photo. “Spectral Edge combines patented Image Fusion tech with Deep Learning to reveal more of the color, detail and clarity in any image,” the company ..."
-    publishedDateTime: 2019-12-12T21:39:00Z
-    sourceUrl: https://9to5mac.com/2019/12/12/apple-acquires-image-processing-company/
-    ampUrl: https://9to5mac.com/2019/12/12/apple-acquires-image-processing-company/amp/
-    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/12/apple-acquires-image-processing-company/amp/
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.569F195FEB96224FB6578737967A0656
-        width: 700
-        height: 350
 
 secured: "8Up0x2CPnQ7cDQHcZPsJdWa5PjGGScHl7TUW3dEg7m+7cWJYHKDAGGqa62HmmBhAmwbfYgN2BC91vEqi5RtXDoNY3jNCHF4CgbYC6HmKKziJOyPkL0xHjYp/BIgAMVCFe0BVIWZzDukSXXmUUpPwWwsit2UvYHH5HQn/XbHMViYcuTqILf2yrUGaz+0qYPpVDfS4mnX24FrrwpiHLGSpKJid25h55CLrHQQQoO88qhyiPrmwKfnBHIKV4aBgpVHhUF6bxMYuf7i6vzFlTR9c1A==;5VQIBm4T5pTypaDiwj/vTw=="
 ---

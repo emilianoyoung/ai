@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
+  - title: "Facial recognition software biased against Asians and black people, major US government study finds"
+    excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
+    publishedDateTime: 2020-01-01T22:28:00Z
+    sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
+        width: 700
+        height: 367
   - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
     excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
     publishedDateTime: 2019-12-29T11:40:00Z

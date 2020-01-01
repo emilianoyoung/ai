@@ -742,19 +742,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
-    excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
-    publishedDateTime: 2019-12-12T21:08:50Z
-    sourceUrl: https://www.msn.com/en-us/news/us/brookline-becomes-2nd-mass-community-to-ban-facial-recognition/ar-AAK58JS
-    type: article
-    provider:
-      name: Boston.com on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FA8BD81A99331259CD802A876AD55D19
-        width: 600
-        height: 315
   - title: "A setback for facial recognition talks?"
     excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
     publishedDateTime: 2019-12-13T15:00:00Z
@@ -1148,19 +1135,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
-    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
-    publishedDateTime: 2019-12-09T11:15:00Z
-    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 32
-    images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
-        width: 1960
-        height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z

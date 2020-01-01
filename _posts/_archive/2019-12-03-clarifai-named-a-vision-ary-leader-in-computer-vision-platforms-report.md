@@ -2,26 +2,24 @@
 category: news
 title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-publishedDateTime: 2019-12-03T15:19:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
+publishedDateTime: 2019-12-03T10:13:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-1028734163
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-    width: 700
-    height: 366
-    title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 
 related:
   - title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
@@ -38,6 +36,6 @@ related:
         width: 500
         height: 272
 
-secured: "jQFCMYFRoD4ROnnvDlrXtLblYfMOO/cFStPvg9Yik0lGcbUNAObCVj/UWPWUbHpRFa0sPo3TRtOuiZVFB6//+tqqC6SEZIY/qjPv4s9A71UOBbFSE7qDqFIzLQUlu2IU8+EgeZYUfDMWVTE521rfzDJ3huGkhrnxhV70B+hMn5Kwr7+kEUEiACMszect3vJfpG/bmPOVY6wvuN5/vvgUdzmzAJrJKAQWDsdbo3f/KOsba8s7O/rOTEIeq11skU3FUSlD0wn/W951ouhU64GQqA==;9HhQPRJhq6RiZpSc7x42tg=="
+secured: "D88ayWuJvYAUeh2XFonVEE29treu9lhOW5NjV0Fh9uutEIYr4WuovuFHAzxA7qujBdvo69wKmVKry7qyqCoybS12C/H6L/4rAHWtS5fLqHjQSl5vGnZgWoY5HOjADRst+FSVXpu1VsLfjbDAgi2NllbLnTYFC1iMtUr8tgItoZjhhNm/Qf4+gJu/N3Noclg4hqL8suGFsa1/QOSsqM1czHUXGADOQ+k8q+W576CFy7nm6s3a7mgfKqTosQCv3vi8NsNWVCMhS3vWjS8xIA8+0A==;UYb37olfv2taUCp9Eo+1SQ=="
 ---
 

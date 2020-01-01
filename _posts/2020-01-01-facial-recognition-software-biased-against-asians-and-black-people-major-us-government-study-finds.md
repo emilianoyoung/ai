@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-publishedDateTime: 2019-12-29T11:40:00Z
-sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+title: "Facial recognition software biased against Asians and black people, major US government study finds"
+excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
+publishedDateTime: 2020-01-01T22:28:00Z
+sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
 type: article
-quality: 52
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: The Wire
-  domain: thewire.in
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+  - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
     width: 700
-    height: 350
-    title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    height: 367
+    title: "Facial recognition software biased against Asians and black people, major US government study finds"
 
 related:
   - title: "Police Use Face-Recognition Software as India Protests Intensify"
@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
         width: 700
         height: 437
-  - title: "Facial recognition software biased against Asians and black people, major US government study finds"
-    excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
-    publishedDateTime: 2020-01-01T22:28:00Z
-    sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
-        width: 700
-        height: 367
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z
@@ -86,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
         width: 700
         height: 393
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+        width: 700
+        height: 350
   - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
     excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
     publishedDateTime: 2019-12-29T00:05:00Z
@@ -130,6 +130,6 @@ related:
         width: 700
         height: 389
 
-secured: "jevN3FQLRew0pDNt2DR98b5OJDH8VTgLIhlnRs1MxrFUo7zHsqZfBY4epxW/qAkt4BTuQjrjKYZdmWkWMbcrw5U4TFmKrOB0lbSnAoASrVQYT7lr6YfKH3FkfM8z6dTji9HDIq00qEtg1pB1JV0iVvxMJM1FdbB9sm51aZ2DSfuNgWXwrfaHhw00x/9r/ECCLNOGEFiNq+4Xq0kKXy+wsxAwtUrn2c8H23s5VVQ8fWqdTCW+gaiMeTQJiPP1IoUBZOMFuLeeCUN+/5RzCRqJTw==;JWWFFQp3QdD2LZoijIKuSw=="
+secured: "bZ61VbCUWtQJiazzut3p7+KfiQwD+aMDxN5xzsFbVOoeDsLoMF3ya+GHnkeDVu6y8Um5ab5WiR79wlTNDlTEyFWLRPuozmJNP/uAs/xwsHGs6hUB0Em2vO2MfcEUO0IX0RpJuZ7RfA/Yb2EHo5m/Llh2cNiFpEq7zveLP9a2kM94Z49PqrU4gQidhUybz/uZrfzEvdWcHaBGdN76FnO58RwSUvaPg5loib3eTMOsC2bO3/X/Laty9cyjoShOESsn+U3SgbelVe3flBe6yFNiQA==;QolgRVA5k8tGi6QtOBCa6w=="
 ---
 

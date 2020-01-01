@@ -3,7 +3,7 @@ category: news
 title: "Work Is a Fundamental Part of Being Human. Robots Won’t Stop Us Doing It"
 excerpt: "Recent studies have raised alarms that advances in automation and artificial intelligence (AI) will leave all sectors ... Predictions about the rise of the robots either take a pessimistic stance, focusing on disruptions to economic organisations, or ..."
 publishedDateTime: 2019-12-30T17:27:00Z
-sourceUrl: https://www.govexec.com/workforce/2019/12/work-fundamental-part-being-human-robots-wont-stop-us-doing-it/161852/?oref=ge-topic-lander-top-story
+sourceUrl: https://www.govexec.com/workforce/2019/12/work-fundamental-part-being-human-robots-wont-stop-us-doing-it/161852/?oref=ge-featured-river-secondary
 type: article
 quality: 38
 heat: 38
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Work Is a Fundamental Part of Being Human. Robots Won’t Stop Us Doing It"
 
-secured: "oqM30qRz3kBivdDh6FNoRtrJnasgfIV5UVp7KiwtElAsC5OVpxVPEA7a2l4tgF5BroSYBAGWRoC/0cYKcq7xlvT6lruNZGo5IvZYQvWvxh/Eb/p3ATXm53dBRzkfRFRrjnsapF/LFNbpIIErASepNWW3XhQ8uXzCIJd9U6VYvlLWjEZ1GO50HnUE01ombuVRHoOYCcDZd9F6qFkqSo5z1aTJ7PUnayJfdoRXBuatWlKPOVDr30h8OUY85UgdToRrYf4l0rGztAv+g8l/e/X+oA==;Z+oGFrfowG3epbXKT/Kh7A=="
+secured: "t4sGiqSYf0e0+a9L8pv7SrbG7FVrNFJ5MHJd6X22MTQwZ2i3kUSbCYFSrKlfa6ZN6lm8YGv34oUxAvlCZtEi+wqcH6iAqmFscER8PK4Vs1XYekObHZOAMWXJif5vs/bwmh7fpirogVG+wUdGn4oljdzIVLj1me+JBNYTsEnSRhHF1RGQeDE79SL0oBTjKeRsPh8aZB+DZ4d2Sn11MrQzggwc+NUSO3vyRb+vqSZnyPZDYsu6nmmFvrQOf74NRI+tZ9YUshcSWGETMcqdE/CH0A==;EmY0e0luxcbP7Z7CeteLRw=="
 ---
 
