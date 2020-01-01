@@ -190,6 +190,19 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
+  - title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
+    excerpt: "fintech has gradually been integrated into our daily lives over the last decade, transforming the traditional world of banking as we know it. 2020 marks the inflexion point where the calls for supervision and governance are necessary, starting with regulated digital banks.\" Using its proprietary risk management technology and advanced AI ..."
+    publishedDateTime: 2019-12-12T07:49:00Z
+    sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-073600991.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.C7FDD2BED166CC598D2B4510ADC767EA
+        width: 400
+        height: 400
 
 secured: "8ShN76DV26fq/XToEzaj82b2Z+20anIOq95BsIaD3UZAGZdRfBk/PSNjECmDOGRO3zz11/wRluQacQqKAJiB5oFC+CXX2U1JUBEypfwj7W6n3XYIPNYRQOke1VSUqhtyY1YBGitMNnEl2FdAAp3FTxsNI+JHIIMoM5WXKvSX57UfZiSUE5Gd0FPy0+AKVRzbtYGtwkKUmrr2RwBJzGClWr7y4BLkgubSvspGTpZ962OSZAYwlLvNf+SiQxmb4U/tZAkqISxpuWfBD7RViXFIgg==;YKzG8a0/6/iRVU8caAsUMQ=="
 ---

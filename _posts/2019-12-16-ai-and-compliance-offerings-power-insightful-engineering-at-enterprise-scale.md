@@ -24,43 +24,32 @@ images:
     title: "AI and Compliance Offerings Power Insightful Engineering at Enterprise Scale"
 
 related:
-  - title: "State of enterprise machine learning in 2020: 7 key findings"
-    excerpt: "While machine learning developments are overwhelming the enterprise, many challenges will prevent teams from seeing the full value of these projects, Algorithmia found. An Algorithmia report released on Thursday revealed the challenges associated with ..."
-    publishedDateTime: 2019-12-12T07:00:00Z
-    sourceUrl: https://www.techrepublic.com/article/state-of-enterprise-machine-learning-in-2020-7-key-findings/
-    ampUrl: https://www.techrepublic.com/google-amp/article/state-of-enterprise-machine-learning-in-2020-7-key-findings/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/state-of-enterprise-machine-learning-in-2020-7-key-findings/
+  - title: "Luminance and Omnius are bringing AI to legacy industries"
+    excerpt: "The companies’ founders, Emily Foges and Sofie Quidenus-Wahlforss, spoke with great insight on this on stage at Disrupt Berlin. Luminance uses AI and natural language processing to help law firms process documents more quickly, not replacing the lawyer but providing additional intelligence and analysis of what may be hundreds or thousands of ..."
+    publishedDateTime: 2019-12-21T17:51:00Z
+    sourceUrl: https://techcrunch.com/2019/12/21/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.98091CBB19574183C8D930B015EE8432
-        width: 700
-        height: 525
-  - title: "WeLab raises US$156M in Series C strategic financing, completing the largest fintech fundraising in Greater China in 2019"
-    excerpt: "fintech has gradually been integrated into our daily lives over the last decade, transforming the traditional world of banking as we know it. 2020 marks the inflexion point where the calls for supervision and governance are necessary, starting with regulated digital banks.\" Using its proprietary risk management technology and advanced AI ..."
-    publishedDateTime: 2019-12-12T07:49:00Z
-    sourceUrl: https://finance.yahoo.com/news/welab-raises-us-156m-series-073600991.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.C7FDD2BED166CC598D2B4510ADC767EA
-        width: 400
+      - url: https://www.bing.com/th?id=ON.3E2B5984655C8E72A8B0BC1BF0A09232
+        width: 602
         height: 400
-  - title: "Algorithmia Machine Learning 2020 Report: Challenges and Trends for the Enterprise"
-    excerpt: "SEATTLE, Dec. 12, 2019 (GLOBE NEWSWIRE) -- Algorithmia, a leader in machine learning deployment, announces the availability of its 2020 State of Enterprise Machine Learning report. The report includes input from 750 people across industries in companies that are actively engaged in building machine learning life cycles. A key takeaway from the ..."
-    publishedDateTime: 2019-12-12T14:05:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/12/1959883/0/en/Algorithmia-Machine-Learning-2020-Report-Challenges-and-Trends-for-the-Enterprise.html
+  - title: "Why China's AI players are struggling to evolve beyond surveillance"
+    excerpt: "Cases like this show the progress China has made in protecting consumer data and privacy, according to Yi Zeng, head of AI ethics and safety at the Chinese Academy of Sciences. He added that a stipulation on \"the proper use of citizens' data\" was also written into China's national AI strategy. However, while the Chinese private sector is under ..."
+    publishedDateTime: 2019-12-18T06:07:00Z
+    sourceUrl: https://asia.nikkei.com/Spotlight/Cover-Story/Why-China-s-AI-players-are-struggling-to-evolve-beyond-surveillance
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 13
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F8%2F5%2F9%2F23999582-4-eng-GB%2F20191219-CHINA-AI-Main.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
+        width: 1024
+        height: 512
 
 secured: "N0v/tnKPuxYUwJ4Xpw0sMClZCG2FEgL/BPYfMyAdyk+tip4GL5Q7ZlIU4QSlTEP/dSMgs/IFcTVuyDYrbVAcMLpIghie0QrM1OKVCHZl+GUX5abecL6y1Im4hrwVfJ4FlRUe3vmpTWa2O+zlehy+P5eYpp2C+Aa4RpjsPrKyVfb+QoaVkg7rmV5n35i/0uyK8r//zZq9Sp11MKZ0qeviozj3G0v28wfmewc6jqYtLhaVMRbg7jCjbRQmB2JtAuohYKFkSTr12RVtft+Qp+b3nQ==;FFAMmbIIr5u4lkO4Ka7FnQ=="
 ---

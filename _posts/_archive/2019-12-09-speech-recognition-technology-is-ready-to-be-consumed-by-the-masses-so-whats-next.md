@@ -1128,19 +1128,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
-  - title: "Facial recognition technology latest woe at national children’s hospital"
-    excerpt: "Part of this much-talked about budget has included the purchase of equipment from Chinese video surveillance firm Hikvision, specifically cameras with facial recognition technology (FRT). Hikvision might not be a well-known brand among consumers but it cornered almost half of the global facial recognition technology market in 2018 according to ..."
-    publishedDateTime: 2019-12-12T06:46:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/facial-recognition-technology-latest-woe-at-national-children-s-hospital-1.4112451
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.0011F70D041993C645CEF87AF14A4EE2
-        width: 700
-        height: 367
   - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
     excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
     publishedDateTime: 2019-12-13T18:44:48Z
@@ -1472,6 +1459,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "4QhwWPi2Lh+EOjZ/0CKYoDMvUP8aD2GRflZ13sKdkZO/bmbG7lH2QX9O8LCP0vrkxh0MyUwuquaHMMmuMLihOLSMRUVtUocLtEYQ9hFmzOzxYRK1Ytr/JIruHYTEaCVxDuR723Wyt/OYLnx6srE/qnYTgEwzl7pXI4sqbD/BlDHYzdohXSsHxGw4f+w4EBXW9jOBlDsUxDyAIfgpPIdyXXpYXbrTemas0yvxxf+JcLoy2sldO32f/DFgPFqyzuaBBNt+Qq2hkLN6lqYotiFgaw==;1KYm9+XBy/D6U3ERI4l16g=="
+secured: "jlTZ+ajCfFwjhU8ddcKZT/8xt+2UmHH8jXtNA6dtDzM3cRszcu8HSlKxjdhKiWlOvgAUP4DfjQYqNbBggqDETTcoi7KFoI5KXYajwzTVVJHF3F9M1izjtBoTzs7LmDRM9cy9ri0NFc3kHmZUbkKyhiyqVwoze1OOjEAzL2Q4Ne3jMbjfCdMOLwvj/1paEfsk2yrJcis/VEPji9/2NM4+67CRMrXJnFqyGzK0K+FVotwzmQ6trBuBCEy2UdiirDH5LodgfAV0EuxeOz+E9egAyg==;tIoOIMcXAooB2AFSpwTxCQ=="
 ---
 

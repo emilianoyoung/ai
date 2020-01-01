@@ -169,15 +169,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
         width: 400
         height: 300
-  - title: "Far-Field Speech and Voice Recognition Market"
-    excerpt: "Global Far-Field Speech and Voice Recognition Marketis accounted for $830.36 million in 2017 and is expected to reach $4950.36 million by 2026 growing at a CAGR of 21.9% during the forecast period. The market is propelling due to the rising impact of front-end hardware components on the accurateness of speech and voice recognition ..."
-    publishedDateTime: 2019-12-12T06:44:00Z
-    sourceUrl: https://www.openpr.com/news/1878439/far-field-speech-and-voice-recognition-market-worth-4950-36
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
   - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
     excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
     publishedDateTime: 2019-12-19T09:31:00Z

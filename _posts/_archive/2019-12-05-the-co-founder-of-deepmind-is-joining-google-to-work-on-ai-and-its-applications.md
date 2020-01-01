@@ -44,21 +44,19 @@ related:
         width: 700
         height: 525
   - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
-    excerpt: "Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday, saying that he would join Google policy chief Kent Walker and Jeff Dean ..."
-    publishedDateTime: 2019-12-06T04:39:00Z
-    sourceUrl: https://www.businessinsider.com.au/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
-    ampUrl: https://www.businessinsider.com.au/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12/amp
-    cdnAmpUrl: https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12/amp
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
     type: article
     provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: https://static.businessinsider.com/image/5a5da7d3f421493e028b4f5f-.jpg
-        width: 1138
-        height: 853
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
-secured: "nFG25aX6TBPVD+giFqP9YhvIrif1MooB4ASPX+TTErSLVEvPHh8ne4bC3ig693O+4mShEr66wr2VwQmvmJAB72O43wPFTZRGziYgzl4zrmFkVrAxBquIq0AfuPjbqnfzmV04mjiSeSylEPuokMoeo3TNQCEJkrbAGUPdygKkoTvlxS4kO5B30OwqOHfGvEiWkXJ4+9jPjNiHdSIBBLLd2ahAo/tTWRmLK/yNal/B8xLi8vlzvZgW/993V9bKJL2RAGs/mei+7Aix7qDzwSjjDA==;yjwnoYDF4De4lxN2xcPudg=="
+secured: "MLGs1vwpfnofSyj72Sq5iNeC+BIuUJo6HARAvbhY4iu0Pfbhrmcv0d601H+u1DaFJPgA7QHHmAgfVibE5ke7s+hNcRh2IUoF4pqtPoZ4BV8Nzc4/sf7stn49N8zy1p2GQ4N5ERS+hGC6FmL2Rr+heT/kIR3ibl8bMDETkVCEDfpErsWpMUiDhDta8yVXfRLU6QDeosO1L+sguNWLEFIaCj08HipLRTa3pJVhGZ81biMXtEIopBVPmmriwKGoI8Ffm02Lpgnw9v+grcAUKPJKcQ==;DPNDDCwkORy3s6zhFrFuhA=="
 ---
 
