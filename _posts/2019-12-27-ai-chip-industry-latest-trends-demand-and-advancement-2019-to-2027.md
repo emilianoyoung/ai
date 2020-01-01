@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T04:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-chip-industry-latest-trends-demand-and-advancement-2019-to-2027-2019-12-26
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Data Science And Machine Learning Service Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Xherald via COMTEX) -- The Data Science And Machine Learning Service Market as of late Published Global Market look into study with in excess of 100 industry enlightening work area and Figures spread through Pages and straightforward itemized ..."
+    publishedDateTime: 2020-01-01T16:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

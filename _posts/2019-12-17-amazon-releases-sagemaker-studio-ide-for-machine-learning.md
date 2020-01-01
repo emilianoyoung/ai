@@ -38,19 +38,6 @@ related:
       - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/17/tensorflow-sagemaker-social.png
         width: 800
         height: 530
-  - title: "Auto-segmenting objects when performing semantic segmentation labeling with Amazon SageMaker Ground Truth"
-    excerpt: "Amazon SageMaker Ground Truth helps you build highly accurate training datasets for machine learning (ML) quickly. Ground Truth offers easy access to third-party and your own human labelers and provides them with built-in workflows and interfaces for common labeling tasks. Additionally, Ground Truth"
-    publishedDateTime: 2019-12-12T16:49:03Z
-    sourceUrl: https://aws.amazon.com/blogs/machine-learning/auto-segmenting-objects-when-performing-semantic-segmentation-labeling-with-amazon-sagemaker-ground-truth/
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-    images:
-      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/11/auto-segmenting-sgt-2.gif
-        width: 800
-        height: 417
 
 secured: "/xv6arQ42Ai59VKSnYvYA0GZvobvlw4efrHhFRFPCnft3Fim9Ibn9DrkBhgwJiQKjoSiE6PiNMnC7Q1cYIGPbTeT1A1F90F/LoXzvbDMLNv3x+wD4kesAqSEO7UG2Qy8OrToaDsGahDpIn1gEO4WbAgF9gqghdWUXgXSTvtWaiauChwRkwHLDllfUtIktEiDwh5XLuRlwmxpfJJuhL56GmvDroXKXSZ1ZT9+26vqcHlZZoWEyUFSCVVXExdv6O1U+qlmhRqQor6aLSp3+HOJHA==;5v9KysGTXwaCTclMLDfY3Q=="
 ---

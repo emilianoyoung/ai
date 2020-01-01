@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T22:08:00Z
 sourceUrl: https://www.therobotreport.com/healthcare-robotics-engineering-forum-takeaways-day-2/
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
       - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
         width: 680
         height: 340
-  - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
-    excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
-    publishedDateTime: 2019-12-12T16:18:00Z
-    sourceUrl: https://cyber.harvard.edu/story/2019-12/healthcare-general-counsels-explore-pressing-health-policy-and-legal-issues-harvard
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 6
 
 secured: "vTs71pCsErQ42Dk4NyvLapzJhg2Q0KFovvleFprZqVEqwfGmHVXdrtxyW2sHS95bm6/cfReVoJRPn+Nl0QVc2tRMXZevcI/oNr3pU45Jc/tuW7TqrQyCHUYEo/CwwI1V7mGVPZOA+RNPIyk3jie2wl2cU0V55Uq8DHrdXX7qxzOyS9/3F/L+GvFIUIZ1WmrS/wmqWpVf1qVvDh8SH2NsL4/kaZMUCmM/nB3wG6dt/JicZ/v28EiVRsBOhZZINIZklpSuAmq9/eUdOq7VTWixEQ==;3AXDVLtRbgPKLbHbQCsgxA=="
 ---

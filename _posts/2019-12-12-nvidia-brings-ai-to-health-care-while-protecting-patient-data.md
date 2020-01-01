@@ -70,15 +70,6 @@ related:
       - url: https://www.roboticstomorrow.com/images/articles/14572.jpg
         width: 680
         height: 340
-  - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
-    excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
-    publishedDateTime: 2019-12-12T16:18:00Z
-    sourceUrl: https://cyber.harvard.edu/story/2019-12/healthcare-general-counsels-explore-pressing-health-policy-and-legal-issues-harvard
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 6
 
 secured: "pXBdpnP4VyyM3XdyFQuoN4/NeGJuBnCJsBkQ82ue+c/FeeWgGJaC5XG611gVXU7SNepAEnj7MbqhqW8PQQquLYNNdMDJ/ba0R57BLGn6tziCkJOAZ/Qd8JeOjreru1G8c55BvujYMMbS+wNJtzqJ9lWqGjY9RIcr8zmE2OWt7ryqBvoAUdoG0bXXvnWAXRlRfaQ+RkgtgvHCrmuQaS/1l00RVT4rfQvsnhqStv8Vu60oW4/M2MZ9EGKqCvi0PlB5AV4Eyir7+b6yG2dfS7n+dw==;xHbTdWX6nicWZ7/BmP89dA=="
 ---

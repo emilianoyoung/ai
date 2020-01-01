@@ -699,21 +699,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
         width: 700
         height: 367
-  - title: "Brookline bans facial recognition technology, becomes second municipality in Mass. to do so"
-    excerpt: "Town Meeting voted 178-8 to ban the technology, according to WGBH. Somerville’s city council passed an ordinance in June banning the use of the facial recognition software, becoming the second known U.S. city to do so, after San Francisco. In a statement, Kade Crockford, director of the Technology for Liberty Program at the ACLU of ..."
-    publishedDateTime: 2019-12-12T16:39:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
-        width: 700
-        height: 464
   - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
     excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
     publishedDateTime: 2019-12-20T19:25:00Z
@@ -1203,7 +1188,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

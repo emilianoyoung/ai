@@ -35,18 +35,7 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72325012,imgsize-562483,width-800,height-434,overlay-ettelecom/aws-extends-alexa-voice-controls-to-low-powered-devices.jpg
         width: 800
         height: 434
-  - title: "AWS to roll out Alexa voice controls for low-powered devices"
-    excerpt: "AWS customers can also create their own machine learning image analysis thanks to a new feature added to Amazon Rekognition called Amazon Rekognition Custom Labels, available from December 3. AWS is also introducing more connectivity and control services ..."
-    publishedDateTime: 2019-12-02T12:30:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL.html
-    ampUrl: https://m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/aws-to-roll-out-alexa-voice-controls-for-low-powered-devices/story-DkglbvDh3WESMnXo5uGSuL_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
 
-secured: "Pex0Y1dC6i8cIh08nlLHJFY+6ArB/7SghM/jixeojl6L2QzsiZTBxOfG8Nm4zw0rEqT6CzspL08JVYfwzVJMnBJejmu3eYqpSHfJ4Jnn0KDyzBtk2eAUqAYVf/4SA1KH1TTpPVeb9Mp27ETwAkZ47MBb3rhkgMDSDuWRUxUlIx0QXat7Ws5sY/WgA/OzRoK3bqjWb0P0/wng7cqaRyBZG4OSb/rathO+B6qwn1HQK54a+6x+g15IdZZHccZkqYQpf3kerxkJgSvnCKgoiNQGLw==;muIYCrCnflxXmE4fBZhqrQ=="
+secured: "qSD3vvGr7sY48oKhcPCJQ833BtmcC0HLkpbDSMiQRF7xNPdH/0hp5yBJPMy1os1cyook5Lr8SGOJ0UGPlTGJa/3OXeMAyW7R6pKycRXq+Hs0xBvKCahxsP12LZxzzsDqB5MLu7WaZ84mkILT+jbC4L9iv6dWjBq9Ye8mJpTCrSGlRQb83/DVIMImoJBRXpjd9Eahzwwm3shD+4R2xzgmkmEw9yHAW2HSuBlhYdCOBYfSejYGNCET3qsFWL0UZ9v0aE0n8JkME4Ig251105Wh4w==;choeqDG0Sd7R9K5W4GlEcw=="
 ---
 

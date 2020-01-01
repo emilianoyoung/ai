@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T18:05:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,51 +23,6 @@ images:
     height: 799
     title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 
-related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports, and potentially other industries. The NFL and AWS will develop new tools and generate deeper ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
-
-secured: "1OJ/NFCjQlzIGweDpB6ge4Jfu/QHoxH+CI6DYqCTXow311+kuAPc8MYJQBIRe+eZ248QZOzSDKhm78zRoSRhKR3BD79RZYVguRcm6t0BA4/dfFuTM13uR89hj3TQyeIpd9BSFH0AsE/MyhOhlPpc6gsMHGxQirPUXdAtD+5BOF1E5XlTnxPl20EqcVre1a6dpgQrD+ruTGXFgP0RqELOBczoo3fn0qXgDWVzpB48N0ypurehH/w0rs+pU4BXmb4lpLto6N+5DLOQgWMkhp1ISg==;Pev6D67ODgYxIqFvds8r9g=="
+secured: "F7kIIQ8rgUdJpjUCw1UP6EzolESKhmM8KSCzYbDx70XZ2wtl74mQxwwr3zyUEIXE9c+rA/zXbteHVG9non58WlRsFafYPtOb9sy2O7hf5W9V/07jrZwp22RAHP7D0r50Ug/d28emPS6vu5IWJK5X4RilimTbfwKfJjzQa/k/ZSZbCRYAeSSUEb5OyhiKp3lYyeAXTfyj+KocBqywirh40oHF1OxWVIPC5oDHrx1n6uASRzHgaw8qF6e8YoJ7pCNtRYbDhoiyLsblHKEutTI5DQ==;RYHOlVNLByc01+S5V+9dmQ=="
 ---
 

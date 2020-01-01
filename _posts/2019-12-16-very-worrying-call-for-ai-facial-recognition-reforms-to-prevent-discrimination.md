@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
         width: 700
         height: 350
-  - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
-    excerpt: "Researchers fooled facial recognition across three continents, but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-12T16:54:15Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/all-it-takes-to-fool-facial-recognition-at-airports-and-banks-is-a-printed-mask-researchers-found/ar-AAK44gl
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 140
-    images:
-      - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
-        width: 700
-        height: 350
   - title: "Emotion recognition technology should be banned, says AI research institute"
     excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
     publishedDateTime: 2019-12-13T12:16:00Z

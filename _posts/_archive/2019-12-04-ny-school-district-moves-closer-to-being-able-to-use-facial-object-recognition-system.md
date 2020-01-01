@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
 
 related:
   - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
+    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
     publishedDateTime: 2019-12-03T00:00:00Z
     sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
     type: article
     provider:
       name: SecuriMetrics HIIDE
       domain: findbiometrics.com
-    quality: 41
+    quality: 24
     images:
       - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
         width: 1024
         height: 645
 
-secured: "JjYkJMpuvbL4JjV5XVdV32VN+lfH8n0pBp7ZRuY6Tz+B3RcUHJ3+p+Ld8rZY5gNR3nJ0LCiLolPX73aALGgkDiqvrj1Rq16LFDW3SnPWSTiaEQgE0p4Ih0pNodV7ufj2lM+9VwplwOnmREWLkmtLXlnv5dytyM/ZAzyJCP9XB4sJ99EAnkbMp5yjs36uFkLV287hIpubdyzTwIk6AxAoKwrsys0mDQYZTKb/dH/GAxX2lD6vRfP9QvWAtKyvrPwqb9VFQaV2Stg0a6lcis4Qtw==;gbKdaqYrSHKSQFFblQ5pSg=="
+secured: "UVgZN1fNkHlTfdGCxffaGLKMaf6pFOqvWMRV/R3NGPxjhuHmFiXlG56ao4t9LeYkt1TSTdg/5/Hno+qCf90eOzFu0z49dTsRNfMD2r6MpJVPY0rffRskU7BMXuTuBEzyex0+CQmgb3PaTv1S5f+Igp2EHmDEIgt52JQVerdt6RFjETcvVT5LRfXc4l+HCfobkBHiQDAm2BnnjrvesEwgsiemzNFki2M8TzczWfMIolx+GyarfMK9K63tvSutEOOmq+rUJmkBM1Edt4iU+U8vTw==;rvohbeqh3fJOuaa11qGFyg=="
 ---
 

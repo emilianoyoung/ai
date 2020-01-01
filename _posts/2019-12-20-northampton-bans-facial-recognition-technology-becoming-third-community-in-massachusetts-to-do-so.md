@@ -717,21 +717,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
         width: 700
         height: 367
-  - title: "Brookline bans facial recognition technology, becomes second municipality in Mass. to do so"
-    excerpt: "Town Meeting voted 178-8 to ban the technology, according to WGBH. Somerville’s city council passed an ordinance in June banning the use of the facial recognition software, becoming the second known U.S. city to do so, after San Francisco. In a statement, Kade Crockford, director of the Technology for Liberty Program at the ACLU of ..."
-    publishedDateTime: 2019-12-12T16:39:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/brookline-bans-facial-recognition-technology-second-municipality-in-mass-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.F170516F7AC29E3DED653227578EFB4A
-        width: 700
-        height: 464
   - title: "Federal study finds racial bias in many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
     publishedDateTime: 2019-12-19T19:06:00Z
@@ -1206,7 +1191,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
