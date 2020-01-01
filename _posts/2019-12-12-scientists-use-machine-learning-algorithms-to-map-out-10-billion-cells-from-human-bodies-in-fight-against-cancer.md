@@ -27,21 +27,19 @@ images:
     title: "Scientists use machine-learning algorithms to map out 10 billion cells from human bodies in fight against cancer"
 
 related:
-  - title: "Data Dies In Darkness: Getting AI Algorithms To Think Outside The Black Box"
-    excerpt: "AI and ML algorithms are only as good as the data they learn from. If they are trained to make decisions using a data set that doesn’t include enough examples or biased examples of certain groups of people, they will produce unintentionally biased results—or worse, decisions, as appears to be the case with the Apple Card. If a collection of ..."
-    publishedDateTime: 2019-12-12T01:29:00Z
-    sourceUrl: https://www.forbes.com/sites/kinetica/2019/12/11/data-dies-in-darkness-getting-ai-algorithms-to-think-outside-the-black-box/
-    ampUrl: https://www.forbes.com/sites/kinetica/2019/12/11/data-dies-in-darkness-getting-ai-algorithms-to-think-outside-the-black-box/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kinetica/2019/12/11/data-dies-in-darkness-getting-ai-algorithms-to-think-outside-the-black-box/amp/
+  - title: "Ways to minimize human mistakes in deep learning"
+    excerpt: "Tonya Hall sits down with Jeremy Howard, founding researcher at Fast.ai, to talk about ways to minimize the potential mistakes from human involvement within the deep learning algorithm."
+    publishedDateTime: 2019-12-13T14:13:00Z
+    sourceUrl: https://www.zdnet.com/video/ways-to-minimize-human-mistakes-in-deep-learning/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.EFC1A28361652038DB2F6C6C57304D83
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.72B38BB985EF8A7E62CEBB55A690234A
+        width: 700
+        height: 525
 
 secured: "i5kPW/A87ToOwr69LD85HVDpUGUt2Oyc3jWbFMTvcomyT9MdYKztjZxHwY7KOBPvsUPNVB2hobZLFQjWSGQBgbZDXyzaP5abuFB77qhLq7i3pXOQpXTH5m1Q7FSHUbfGSrshIE+MyFQwb1PeB4TuNQdKrNskvRlKLt0lZ40PUQdWvR3ckBjyhTfJBWdqDcp2GPTVi5CPvGm3JZFyhZX9+aKAvWo9iyVrBN155/fTZx++vtDmYwUg5CbPcYi9ORwDwZX5QGrfJWhYaoa9TLknbw==;V65Bb7ZHoRkhsL4e3mXzyg=="
 ---

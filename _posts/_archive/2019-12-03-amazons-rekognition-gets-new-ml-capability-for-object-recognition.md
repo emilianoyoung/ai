@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-excerpt: "as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability for object recognition through its Rekognition platform. Called “Amazon Rekognition Custom Labels”, the ..."
+excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
 publishedDateTime: 2019-12-03T00:00:00Z
 sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
   - Computer Vision
 
 images:
@@ -38,6 +39,6 @@ related:
         width: 960
         height: 640
 
-secured: "/jqZkgOtEmDMvWZAFhyX5bxklGua3NIY3GT2diBt7i65Mhp0bmNF1ZtnYO4VsH+RMh82mtVYOAao9EtpTkuSxsM0og2Qo7+5Z3x2kg7xKvbDCUMaPRUklg9fEcq7tJl8bwgKg99tYnZPfsZee/ZwpYn6wHPpUR52w1Cah0xznEHO1Znfv/nfr2nwAJd5izeFfKNifJPeTyQJktn1h9RgxeAzs4pXJ5jKJucRThG/NhHWKrBZOwKCRCO4wbBRvo+UJ260vYxeJg1foHjAiP5GUg==;UsodtwpJFdgammZ8bsyPyg=="
+secured: "b5Fpom5Scy4t3SSWjQmSdJmOKhHWpjrjfGIzcI4X6VU7VAUHTUxj76rjTTeMPchaViLD+AfWOPvndMEXb0gdYrQER2I3PjfAfTnzkEfD8b8YG7K+iNKRuStCnsU7qiZALf/CgsX4wvBP55FyTgnD8NAeoItEDwsmPG26LrhX1e0KnldN2DyYj8/PG9Do7Ie/pYg23Tf0WjEeK21WZOxX8p36odth/KZrHCY2ORs/At9DJX5sGh5QuUZ9IQoUja8RT+1C5k2a4gZDdbf4iHDhuQ==;M/UWVxsvLTE2lQRHzADhqw=="
 ---
 

@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F608ECDEA03963CCC1771958CA3F6D77
         width: 700
         height: 393
+  - title: "In 2019, China searched for AI, 5G, and blockchain"
+    excerpt: "Baidu has released its annual ranking of the hottest search terms in technology for 2019. Artificial intelligence (AI) garnered more searches than any other tech phrase. “AI is going to open a new chapter of the society of the world that people try to understand ourselves better, rather than the outside world,” said Alibaba founder Jack Ma ..."
+    publishedDateTime: 2020-01-01T02:06:00Z
+    sourceUrl: https://technode.com/2020/01/01/in-2019-china-searched-for-ai-5g-and-blockchain/
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.13378B47CE936D2463D72D91E304DE43
+        width: 700
+        height: 393
 
 secured: "q704K2htk0EadQvw3kwFJ+BO8xTJVeg5xwoo+8a3hoI3NZLeRePR95SouJ+CoK9yQXqGfl/tu15hjyXiORu04sK/ICc1s6vf3P2agAvfE9cSyc10CzSRPk85mESc/NkbHlbuhcnKqIrHl6XloGuy8k3utSzhe3d/jeFffaUM3Pnu+ambzVcdbpMFAZ37yKEOr5RCD3zYFuHsf3GEdB581HnZDcmNn4APKXcj5vSOKytox1dLs5gLI54RHSthOxCwhZ3aff0tvzwRyMDSqT6Ebw==;tcrb5Z04CHo/iRf7ypuGbQ=="
 ---
