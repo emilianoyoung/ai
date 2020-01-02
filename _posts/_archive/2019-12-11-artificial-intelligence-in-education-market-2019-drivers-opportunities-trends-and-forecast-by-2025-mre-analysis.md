@@ -106,19 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast ..."
-    publishedDateTime: 2019-12-11T08:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
     excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
     publishedDateTime: 2019-12-16T14:05:00Z
@@ -320,6 +307,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "VERwR5h/fwSB6OIRl9EefR669yAw/boNj+nYpxlPQQyTZqkwrvPQy7V8O0s/YAnhDXF7zGPU/yhqOlkSlMfF0Dr3/iOaBYCKkBkmTt8P45Reyn6s0tT4alZ+zlx+Kmce2n1dv9Bj/xJGGbqvqx/EixMS4hTEebpFU679lleOZt5hX8qrFMwe12dD/eizERRtRovCXB0TypGc8hS0vQt3mIF8yRZmWfV5At48BAn0letmNuQ3jAd0aq9csq90LKaUU2hAz8/OfHAK/QlzUMRPkg==;FmL1WnlaeHcaB4fd4b3lBQ=="
+secured: "tmdWN1sMxAEVi01kghrzucrHfZp1yOtjOYJqQP8GnC5WIAtgSnrzGDXoWM+RHBlvdN5vZcfLQBSNgxmne9KxfG4CNuVZka3GCWs0hhp+CwUZQ5MWo/QcsIqmMMLAquzCJBBWOZD6lka3Q4RLzsvYXpMg/moWdo4HOLeFr6hXb0RawK1zST1jHIT78rWXghT0qYcTqEnJ1h2mzi2DjPuC8v6Z0CsNSzJ4LPaisVS34Hphg8U3FSYYjUGYgjSaUZnvJ8NGdb5Hve4g5jFe4Y1LSw==;jPwQChCfJ+WQUnuXcIIr2A=="
 ---
 

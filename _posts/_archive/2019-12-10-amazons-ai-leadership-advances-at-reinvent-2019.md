@@ -30,6 +30,6 @@ related:
       domain: medium.com
     quality: 79
 
-secured: "Ke91Ugbokxl2o4W9f/1hHp/IYJEEwAeh+wV8P35wluI8b2K9IVQonRc2VXfdQaoLaDi3e7K7CoZOqs1WfFKdxkLLaNrNl/w17njenP329y36JqDMSvLyk1DEJ2xwqyGXiwpCuHtu9BYp+kY3a5BtOV88xGoLrqLA/ycOedDuSCZz8wQaoaqlny2G4fKHwn3Zxhr+eWvLLE1TIKrGl8XvegdVqIGRiKaLG1rwWF3tiXWImyz9xaibhD5dBkiH0ktD0z99dz7zThNLqiOpARMiaw==;ndEgAo56AlR5M5zvp2lrHA=="
+secured: "PQccEgnJ2s7rmli5qQzETOCjBEPnUrknjV+JOWitiA4XIDQDtDe1thDSfhKnYES4k8o3TB0FettHZVbfB8Vu5RpP1Ra9PsSEmDcmc2lufOWEWsWL0A6vPkD1y9CM9QFB4rIKKYhG+bP3d5+Bto2Nau/z+U38gMcOi3k4T04+QBrAdUPfaW+gmSn2oS6Bk/CbDCOFtll1dX8GwvIax54efzgWt8baLgMUu+iX1ASGRx/Rm39FQfUhb5XxHdwxF3KpcoqwMf3vfu0TyWd1GLb7CQ==;AA1QwGCpDSATrSWSPlsB2Q=="
 ---
 

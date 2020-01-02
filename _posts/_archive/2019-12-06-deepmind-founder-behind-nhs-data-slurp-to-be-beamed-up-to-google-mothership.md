@@ -41,6 +41,21 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:55:00Z
+    sourceUrl: https://www.bbc.com/news/technology-50679791
+    ampUrl: https://www.bbc.com/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
     excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
     publishedDateTime: 2019-12-05T17:53:00Z
@@ -67,21 +82,19 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:47:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
-        width: 1024
-        height: 576
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -107,6 +120,6 @@ related:
         width: 580
         height: 358
 
-secured: "fG2ZBeypCGwYNGoCZxXYMBy/UhlAVUnkJ0OLkGoeD9o3+x31O5mpcWHSeRW8FQyBU8uIyXSpJQcsCvHR9zO1jsYtcVeauOBLn6oemT2PGGQxW40WnaLePNJ6f3+ZwewhQ47S/uXtR66jrMEg/BP2U+yk9vyl0fSwueSHtdb/7gPeOfhbSltdXYrF8z2AVndrH4bF/GhjTqtRAqlpQksEdI6EHnIABD2uzmBZCOQHv8Mnqss5roSbB+7KMcxgXuZNIuve6M9IR9wis9pkaMd2hg==;U0K1ceDKiUU9cfuTBXc/EQ=="
+secured: "E2iZyqUJAT2rUItXlcfyx89Rp1g8bV9ipv34wS7lxyVrIcw610vXbgKvSYbZjQTGW5I+/r1iu3ycyadrT/j6a5GkQ2h6QVuVaRdH1DmgI13xxwzpV628Wu2CQfkOBAQtcJn1gHnpAlW2ASHDOM6+fyUWL97xW1mCMExKCXZHSvxyhKMPIxlB5detld+F7GWwNpWHgoYkSf444dDh9DygghOzG5WnePIk5IFBNwAIqX7GUHa+bTcohJF6mMAFUR9ZkqWaffbKhIUj5gQRF7KR2Q==;7lhENGPe970534C+YzUApw=="
 ---
 

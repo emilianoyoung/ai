@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
-excerpt: "So improving how effectively mammograms can detect abnormal growths that could be cancerous is a priority in the field. AI could play a role in accomplishing that—computer-based machine learning might help doctors to read mammograms more accurately. In a study published Jan. 1 in Nature, researchers from Google Health, and from universities ..."
-publishedDateTime: 2020-01-01T18:09:00Z
-sourceUrl: https://time.com/5754183/google-ai-mammograms-breast-cancer/
+excerpt: "Working with medical experts, engineers at Google Health have created an AI model that lowers false positive and false negative rates."
+publishedDateTime: 2020-01-01T18:00:16Z
+sourceUrl: https://www.msn.com/en-us/health/health-news/googles-ai-bested-doctors-in-detecting-breast-cancer-in-mammograms/ar-BBYwqtz
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Time
-  domain: time.com
-  images:
-    - url: /assets/images/organizations/time.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Time on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.313AB06863D41951767466534A6470B0
+  - url: https://www.bing.com/th?id=ON.13ED98FF01885BAF58277B7F81732C38
     width: 700
-    height: 366
+    height: 367
     title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
 
 related:
@@ -132,6 +128,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E6AC70E574BF2718C33609F37498B683
         width: 700
         height: 393
+  - title: "AI system is better than human doctors at predicting breast cancer"
+    excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
+    publishedDateTime: 2020-01-02T02:00:00Z
+    sourceUrl: https://www.newscientist.com/article/2228752-ai-system-is-better-than-human-doctors-at-predicting-breast-cancer/
+    ampUrl: https://www.newscientist.com/article/2228752-ai-system-is-better-than-human-doctors-at-predicting-breast-cancer/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2228752-ai-system-is-better-than-human-doctors-at-predicting-breast-cancer/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.F2808C625306DE5E3C13C8B9D4A20B53
+        width: 700
+        height: 466
   - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
     excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
     publishedDateTime: 2020-01-01T18:11:00Z
@@ -145,6 +156,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
         width: 700
         height: 366
+  - title: "Artificial Intelligence system better than doctors at spotting breast cancer, study says"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital. The team trained the system to identify breast cancers on more than 76,000 women in the UK and over 15,000 women in the US. They then compared the system's performance with the actual results ..."
+    publishedDateTime: 2020-01-02T02:52:00Z
+    sourceUrl: https://news.sky.com/story/artificial-intelligence-system-better-than-doctors-at-spotting-breast-cancer-study-says-11899497
+    ampUrl: https://news.sky.com/story/amp/artificial-intelligence-system-better-than-doctors-at-spotting-breast-cancer-study-says-11899497
+    cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-system-better-than-doctors-at-spotting-breast-cancer-study-says-11899497
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.A4F79ADA6CE7DAF6754E0443B9E2D10E
+        width: 700
+        height: 393
   - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:56:00Z
@@ -186,19 +212,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
-  - title: "AI system outperforms experts in spotting breast cancer"
-    excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-    publishedDateTime: 2020-01-01T23:10:00Z
-    sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
-        width: 700
-        height: 367
   - title: "Google's AI can detect breast cancer more accurately than experts"
     excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -238,6 +251,19 @@ related:
       - url: https://www.bing.com/th?id=ON.14BA4E501B16650CE2278CF1E7928AA3
         width: 700
         height: 393
+  - title: "AI system outperforms experts in spotting breast cancer"
+    excerpt: "An artificial intelligence program has been developed that is better at spotting breast cancer in mammograms than expert radiologists. The AI outperformed the specialists by detecting cancers that the radiologists missed in the images while ignoring features they falsely flagged as possible tumours."
+    publishedDateTime: 2020-01-01T23:10:00Z
+    sourceUrl: https://www.msn.com/en-au/news/other/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA?li=AAF3IbP
+    type: article
+    provider:
+      name: The Guardian on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D409150672A3F4C28F04F777A0263F75
+        width: 700
+        height: 367
   - title: "International evaluation of an AI system for breast cancer screening"
     excerpt: "Here we present an artificial intelligence (AI) system that is capable of surpassing human experts in breast cancer prediction. To assess its performance in the clinical setting, we curated a large representative dataset from the UK and a large enriched dataset from the USA. We show an absolute reduction of 5.7% and 1.2% (USA and UK ..."
     publishedDateTime: 2020-01-01T18:13:00Z
@@ -306,6 +332,6 @@ related:
         width: 700
         height: 437
 
-secured: "ollZDVVKhllab+p871TpR+VuCi9KsS4a3vYbE/QqckCXqB01YS+5OEa8nvldJ2v6IJdSRpCKYnglPsymi07/nDKiOJ/YYOQhwLdz/tivNswicZuHw2v1XjDMi3csylQs/hSYH82JNjoUe46y2kQVsrWBKRXKhjrJdFIVDkOwies/jEIcR1V+dOTprYQ12E6k7B2rZU0kgLCfXbd7+Sy9+nrKfzoTdKeKIPtyBqyBdpApg9u57E6q16bSvrJifl8+zL6137tTeXhS2dRII7eiEw==;GM20gMy0pUegZLxd4NHE4Q=="
+secured: "TTkZpX3vZuoQW7kgfpu2P83SdSmcBYXD3KwOENrPhD/x/95yBFD7o17XyIVyKZLnpAa0U+uNk+hM4Pr+DR9dI8ukUfLRvUF3daKY9gB6asv+vMYbaaPx5l0YyfnbgWMI8rfnkQxDWjEC+aIN+TimKeF3mGD7vMYeuXeJEJ/vQa+EBZx3Da5vl9lJcyaj396NzWhFUxJzMTu3r3qZVTKMLEJDSPzPSgsTwRVLfLC/M4nMiau4dm188Wsc1jtKh4v9Vj1XIZq/pPldOBW0iGwjkQ==;4vOLXQoC17dcfHj3W/lRUw=="
 ---
 

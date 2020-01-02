@@ -26,86 +26,106 @@ images:
     title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
 
 related:
-  - title: "There’s No Such Thing as the Machine Learning Platform"
-    excerpt: "The “Data Science Platform” and “Machine Learning Platform” are at the front lines of the battle for the mind share and wallets of data scientists, ML project managers, and others that manage AI projects and initiatives. But what exactly are these ..."
-    publishedDateTime: 2019-12-13T01:57:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/12/theres-no-such-thing-as-the-machine-learning-platform/amp/
+  - title: "'Learning' is still the operative word in machine learning initiatives"
+    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
+    publishedDateTime: 2019-12-14T15:17:00Z
+    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.3B50A5E8AFB7BE02E141FF3630E27ADF
-        width: 600
-        height: 315
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
-    publishedDateTime: 2019-12-12T20:53:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
+        width: 700
+        height: 525
+  - title: "‘We won’t have the sexiest AI, but everything it says is true,’ says Narrative Science"
+    excerpt: "The hyperbole surrounding artificial intelligence is so thick these days, that it can be hard to break through the hype when talking with a vendor of product -- one of the reasons reporting on AI is so bad, generally speaking. When one does take the time, however, to talk to a vendor, some conversations can be enlightening about the state of ..."
+    publishedDateTime: 2019-12-17T17:00:00Z
+    sourceUrl: https://www.zdnet.com/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    ampUrl: https://www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/we-wont-have-the-sexiest-ai-but-everything-it-says-is-true-says-narrative-science/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
-        width: 1199
-        height: 600
-  - title: "O’Shea: Learning, truth and fear"
-    excerpt: "I agree, and I thank our wonderful community from the bottom of my heart for the support that has made deep learning — the search for truth and the overcoming of fear — possible here at New College. Preparing students for lives of great achievement and for careers means encouraging and equipping them to seek the truth. Donal O’Shea is ..."
-    publishedDateTime: 2019-12-13T01:26:00Z
-    sourceUrl: https://www.heraldtribune.com/opinion/20191212/orsquoshea-learning-truth-and-fear
-    ampUrl: https://www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
-    cdnAmpUrl: https://www-heraldtribune-com.cdn.ampproject.org/c/s/www.heraldtribune.com/opinion/20191212/oshea-learning-truth-and-fear?template=ampart
+      - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
+        width: 700
+        height: 525
+  - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
+    excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
+    publishedDateTime: 2019-12-20T00:38:00Z
+    sourceUrl: https://medium.com/javarevisited/10-reasons-why-java-is-still-worth-learning-in-2020-86a65282f735
     type: article
     provider:
-      name: Sarasota Herald-Tribune
-      domain: heraldtribune.com
-    quality: 44
+      name: Medium
+      domain: medium.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.4E66BA9637C12C282E827969EC96866D
-        width: 466
-        height: 700
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+      - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
+        width: 1154
+        height: 636
+  - title: "Breakthrough in 'distributed deep learning'"
+    excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for ..."
+    publishedDateTime: 2019-12-09T21:40:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191209161341.htm
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
-    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
-    publishedDateTime: 2019-12-13T14:47:00Z
-    sourceUrl: https://github.com/deepmind/dm_memorytasks
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "‘Deep Learning’ picking up fast in India: Experts"
+    excerpt: "Deep learning, a subset of machine learning, functions by imitating the workings of the human brain to process large amounts of data. Hyderabad: As scientific disciplines go, the field of ‘Deep Learning’ is but an infant. However, it will soon have a disruptive effect on the field of drug design, experts say. They were speaking at a panel ..."
+    publishedDateTime: 2019-12-18T21:05:00Z
+    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/191219/deep-learning-picking-up-fast-in-india-experts.html
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 25
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 39
+  - title: "Many companies are still to embrace deep learning"
+    excerpt: "Despite perceiving it as a positive technology, many organisations aren't sure what deep learning is and how it works. Many AI decision-makers, in large organisations in the UK and Nordic countries, don't really know what deep learning is and how it works ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.itproportal.com/news/many-companies-are-still-to-embrace-deep-learning/
+    ampUrl: https://www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/many-companies-are-still-to-embrace-deep-learning/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
 
 secured: "DYRae6LyYPxizHpsamzCplXukuJoTPSyVpPugRwvMnwCWvLQxIic5ADzvUHy6I31mCfsYwHa6oJ3WsBvF0v1feMug9avE4tK3qJZODCuwtz+RE486ekcis0IWKLjfotRtzjRvhc0YquoLuqexFVl68heQRf0JdampjyBRL7EmAdVFYyuQItQ4YsU4BvNkd0F3p0/W6RNyMLsFgOaZpvs7vn9Pg3ue3Z5Kg4PB/93Sk34rq11UH6e+ve3psvhY7ruo5E2tuQud6caO6VsPcVPUw==;PiZ6M2QUI9eKmyKAKvDkHg=="
 ---

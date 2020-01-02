@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
         width: 700
         height: 525
+  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
+    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
+    publishedDateTime: 2019-12-14T10:26:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
+    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
+        width: 700
+        height: 466
   - title: "10 Reasons Why Java Is Still Worth Learning In 2020"
     excerpt: "Here again, Java is there because it is widely used in this promising field. Finally, if it is not necessarily the preferred solution in data science or in the world of machine learning, Java also has its followers in these domains. In short, Java makes it possible to do everything right. This is not always the most appropriate solution ..."
     publishedDateTime: 2019-12-20T00:38:00Z
@@ -114,6 +129,6 @@ related:
         width: 1440
         height: 960
 
-secured: "ZZvSEECtAJUtkSKQXpL3CIKB0rF7cX73vTu8lRH6276furG/UXGBuW3HHrHVWHQGpoUjtxFpv3AN4afslogaYBqRGakWN+oyDC88m2p4Pth6IVgO97KGReW0xx6JsMUCZucXMpcU9j7zi+76P97TSAGu75J8Qgx6CIttYV8BrCkIDEWSvGhRAz7azay9vSHA3wsSOAl6mzi/Xki2rtRFsvY7dqIVyZSvxJZCH619m52GXol9I2s05r2nmouGgtsa1wU9gEior5ZmGN6pjUIdVA==;VbU4ZliWUWHFMz5w1qQJhg=="
+secured: "YPRP5OoHt0Kkp0QMIEUWfeBkX0+0cQFl2I4/VLPFwB9pudUugTx9jk0wyeFi28IQslfswEC0kLmnXaYUnPDrP+sGtF92X71ZkzV37vcGJkVKrL/4YYRvnB9ci9K72Dw6SVHAspkrh4OAcFosjvHyLvkY4RaIVA5irOi8JtzIFJgb4BRMi0X4F2WfJLZqhHHhKSO7Dbi1vEmBPljLVDwaEnPJBhUvABxZYvpAoQ7Kg3rMCjEmqA7ZZ0GyQcO0ZpDKBLBkNoQyBni8ilWn30+/vw==;YzQHRoKIOO5Z2d1P1eTP5w=="
 ---
 

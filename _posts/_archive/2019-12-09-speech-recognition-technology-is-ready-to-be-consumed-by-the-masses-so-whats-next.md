@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -250,21 +250,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
         width: 700
         height: 350
-  - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
-    excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
-    publishedDateTime: 2019-12-12T22:46:00Z
-    sourceUrl: https://www.zdnet.com/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    ampUrl: https://www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
-        width: 700
-        height: 525
   - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
     excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
     publishedDateTime: 2019-12-20T14:27:00Z
@@ -758,19 +743,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Brookline becomes 2nd Mass. community to ban facial recognition"
-    excerpt: "Civil liberties advocates are applauding the town of Brookline for becoming the second municipality in Massachusetts to ban its government from using facial recognition technology. According to WGBH, the warrant article was approved by an overwhelming 179-to-8 margin during Brookline’s Town Meeting Wednesday night."
-    publishedDateTime: 2019-12-12T21:08:50Z
-    sourceUrl: https://www.msn.com/en-us/news/us/brookline-becomes-2nd-mass-community-to-ban-facial-recognition/ar-AAK58JS
-    type: article
-    provider:
-      name: Boston.com on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FA8BD81A99331259CD802A876AD55D19
-        width: 600
-        height: 315
   - title: "A setback for facial recognition talks?"
     excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
     publishedDateTime: 2019-12-13T15:00:00Z
@@ -1369,6 +1341,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "ax1Tm+ltpRJKveckHDOE5wkL2ln5moe06V30zS8sVFch/ue4GuyKZM1jRRle+FAw3fwY+vMUWXOTjJeKF9F9HP4LBNna63dB4Noz2lnOBfnevDby0ojtlvbjA/Ab+iJTpivUvYqPkVv1rK+BLA3IYt4xHFImY2/oPKoiX5QJHMA2MG4iV7+3Ej6s4JQA9TPoUQArTz9SeSpb9tXr18/A1teEB0bnxHTcxfSIgweTx43QAzGb64DBWvJJdy6QdJXW0TyCI5373amBCtMWQvAU/Q==;zSEBK0VFC9uKOPrBZzy6qQ=="
+secured: "REmBpSqfGyVy52ctbQAOatxZEGc4ufU0gU+bVKq+GBMg3VdwQMIBgG5RvLW52JcMzkF88jXCGN2P3BLs+sMrwGYvvCfEqJPGLx/VUawcgHocLEBZC8TIgtlbhwCtPOwLrc+gG3T0ofPPzpbCPIT44nYoV0nztiPf9kTqfW359is7nLRkLKnwFAccv3r6VropaH+gEZNfgmt/nJrNh88jlqdQ7wxHgSASzyv4iLxniwkexPb9Voj7VZ/0heF1HlsaQ2VZ2ZB3zoP3qfp2s3rXwQ==;tERM9ceMxgPjwJiNnKY2gg=="
 ---
 
