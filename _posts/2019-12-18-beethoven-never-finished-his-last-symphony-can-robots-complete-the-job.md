@@ -8,7 +8,7 @@ ampUrl: https://www.popularmechanics.com/science/amp30266727/beethoven-last-symp
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp30266727/beethoven-last-symphony-artificial-intelligence/
 type: article
 quality: 58
-heat: 78
+heat: 68
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Beethoven Never Finished His Last Symphony. Can Robots Complete the Job?"
 
 related:
-  - title: "Artificial intelligence will be used to complete Beethoven's unfinished Tenth Symphony"
-    excerpt: "Ludwig van Beethoven's unfinished Tenth Symphony will finally be completed using artificial intelligence to mark the 250th anniversary of his birth next year. A few notes scribbled in his notebook are all the German composer left of his symphony before his death in 1827. Now, a team of musicologists and programmers is racing to complete a ..."
-    publishedDateTime: 2019-12-13T12:05:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7789255/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7789255/amp/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7789255/amp/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.ABD516A106983841A520E6B81207F351
-        width: 636
-        height: 382
   - title: "Artificial intelligence to complete Beethoven's unfinished symphony"
     excerpt: "In the run-up to Ludwig van Beethoven's 250th birthday, a team of musicologists and programmers is using artificial intelligence to complete the composer's unfinished tenth symphony, Euronews reported. The piece was started by Beethoven alongside his famous ninth, which includes the well-known Ode To Joy. But by the time the German composer ..."
     publishedDateTime: 2019-12-18T06:49:00Z

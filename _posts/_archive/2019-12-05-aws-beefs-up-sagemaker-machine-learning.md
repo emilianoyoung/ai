@@ -92,7 +92,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "DzxRpBYkJ/TXZBMLppQ97lFKRrKe56HMYBqCh5v+mUUyYPh2KSP9VtHP5ndkyZ1VNQcOFBhR0iXsNCO7EofYsJlXJGJ4ZVJRfhJlymu+y6H8p50uniMpmRXobQNsyOLbghFhPiGziIipmByYh9bhkSVQUfyrJWYrI/tFEo6+1YXP4zVbfreZfzb0/7bAJWsFhbqT2lE2CyFVo0U6u35kDsjnIqf/lfJs2Xd4WXKI+FnaVQNseyPFiN2Avs60InUIXwHkGO9mSkrdwFCpE1dulQ==;kCwrhvrZmEI8YGUnqnKHVA=="
+secured: "gJFXk9LFSV82z3RSiGP84YrdMWU5MMlhST+qJ1vE+JHn0VkQCMIrHsNf2+QDb2eoVB5DIPxYydAbh2Pfj299hpY0T9MOvo9Fg+bmFa3W+746VxE7lUgL4z39Y7UQCx6zElHZ6XiVM6ayGptM0qcE+IIIDe7I++1h9xe++pxM9UCWk4ON6JORlkyXVmoJKzVoh7Z7in1B61esni3U2xhHcAMa1nA6UP5lS5RZzxY0vvOlFYGIOyMaqqE7gmspTkkbw9kCttcqqn6lfpZHvGRHBw==;reoQZIBgsWaCq7Rk+4GnLw=="
 ---
 

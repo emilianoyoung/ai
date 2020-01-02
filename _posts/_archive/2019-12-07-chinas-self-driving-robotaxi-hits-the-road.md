@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
     publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -39,34 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Honda self-driving technology coming next year, report says"
-    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
-    publishedDateTime: 2019-12-13T21:06:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
-        width: 700
-        height: 367
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-14T00:14:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
-        width: 700
-        height: 388
   - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
     excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
     publishedDateTime: 2019-12-13T20:42:00Z
@@ -96,6 +68,6 @@ related:
         width: 1200
         height: 799
 
-secured: "CV1PrvCwIcO5Mk71FksZSff1+3kN0ytsc8fFAEnV5GoGhaifnmb64toTOdrYppTnaNRUxoLinZg574ISBGVGGEde1ZBd8Yv8hTUb/+Z3mkJl4X6gMCTvEGpYvn0WtkgM2ayjEo06F5s5FCrNHNiw6JMmAys4BihnmncQZ8sLXIYi3zNT0I5ccFxWEY55GLA6RNTXEEIi8tGYIjBOugKvJvUdRQLGE7HbF5jXsoWzuB3Yj/nmmwXjwEZ1dKukD43Ku/Y/BNvVQZjVAH6wGXciXg==;56YvHJ0k1aCauy6BWefEeA=="
+secured: "3IXl1Kye9gO421oCI6DB51eWm62zQoGQ1MZP2Y8QJz8RQqqBdctJtofsL7fu/7z98Sew6L9Lg5ZarBA50Wcq4PB6Q7EpdkQDE1xpSTYtBX8qbx5I4tcIOfNCy7+XKYr/dNbuknzmeh86McunnKiw+P5xwZPOOYfOdPVqYm4rF6SERsG2xzgkDoav/8g9Vmb14EOvah8lHxjUeolYBgSHeGVfqhK4vQaVYrJ9EgCDU9PrcdSUedkVqQI3N3ujSo42LkjzsMwLkbmkH1EY9rC+Bw==;C66/xHV2060o2WVQxa4G0g=="
 ---
 

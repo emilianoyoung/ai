@@ -8,7 +8,7 @@ ampUrl: https://www.cbronline.com/news/imagination-technologies-apple/amp/
 cdnAmpUrl: https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/imagination-technologies-apple/amp/
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 700
     height: 458
     title: "In Unexpected Move, Apple Taps UK’s Imagination Afresh"
+
+related:
+  - title: "iPhone 12 and other Apple products could use Imagination's new GPU"
+    excerpt: "One partnership, between Apple and GPU maker Imagination Technologies, ended in 2017 under a dark cloud ... as well as products that relate to the AI and automotive sectors, which may help Apple expand its product range. The ending of Apple and Imagination’s prior agreement (as reported in the Financial Times) caused a lot of tension between ..."
+    publishedDateTime: 2020-01-02T12:39:00Z
+    sourceUrl: https://www.tomsguide.com/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    ampUrl: https://www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.61E82D1DD590446A2DB88DCF96AF4EE2
+        width: 700
+        height: 393
 
 secured: "4aofePqqGU/Rc6ggUU2qc1TvXxsJfu/uAtsVqdQX/ND2y9axCqCL/SItB5RZBsWSTv6nMP87L7GwL468ziiIb0h/+D86z2RNRZ1AcRbuFpoQ9CkYvGqRrKawjDdDVOGKn6CEiI+kMOnUihGz0IwKMwbwpv9xuxDU4iXWn5O4iReUM1ga5xjLoE67N/zvycpZ+qBF5UHZpGLqe7K/KnqIsotYCOQepwqgjH2ys74E8eaqCwCMGOWlM48NwvbIaQdZKBiw/DZbNC/uWS9VkhYj7A==;4LesTv8lBHIx+4NV8fDmvg=="
 ---

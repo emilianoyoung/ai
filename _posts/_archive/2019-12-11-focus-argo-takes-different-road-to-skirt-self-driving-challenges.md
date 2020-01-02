@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
         width: 640
         height: 427
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
     publishedDateTime: 2019-12-18T07:49:00Z
@@ -120,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "j4erIUkYgxQVM525eqp1nhfSaR1MLMxRx9boxad8iG/YmowiP3FodIPsWI6DNKZ9xWOmGPZ0y75FoGMofs8TxWbqUT5Tqj7wumzUmcx8zJx+b/qsj9ZxJQmunaaf7pfzxxZpBpY0rG8aI/NCyRO91gpCAeul8g3ybIe0iS3o3bMaSObb+WVD1Q/0KoVO2ue80Z/NKVYD80NvoBS7hdB/Uf4jvsFMMaFJJPUb+NSDyq+PFOnlpObYuQJYTUPfAsauCmtjUmQ8q6cgVKxqa4NxMQ==;vI6DYgVUDMcsUJ7SJuCN/A=="
+secured: "YfD+c4ZDPSKNS/CoHG2dA0d41zhvGlkORSVQGLmM9ZLmUQTYoDa5EXgwDfA/ZnN0U6GKaIHrOdEKQWU/aBa71rGu3Wq8kud/F0jcxy8YdUH/cV50h67I9ghx3MzE6KAc7ct+EoU06thcebz+EiwkoG6QBqoxcNjkCOPzvvW01ga/czXwvUXNm24nc89McOM6Xh8Fl9BQUYrdJxadx6DlwgAePt0sS6Wgowfy4Zmets3L6xhbO804bybOeP+bnzRDrGAEhXXoIGu9xUSSlxUQhA==;rs72F9sx9pSxxCzmntk5TQ=="
 ---
 

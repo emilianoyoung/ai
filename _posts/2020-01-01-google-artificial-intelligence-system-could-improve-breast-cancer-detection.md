@@ -425,6 +425,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
         width: 700
         height: 367
+  - title: "Artificial intelligence could improve cancer detection"
+    excerpt: "UAE doctors are cautiously optimistic over a new medical study that showed promising signs of faster and more reliable diagnoses for breast cancer via artificial intelligence ... population of subjects before we will know if this can be implemented into a healthcare system.” Under existing NHS screening programmes, where the study was ..."
+    publishedDateTime: 2020-01-02T12:21:00Z
+    sourceUrl: https://www.thenational.ae/uae/health/artificial-intelligence-could-improve-cancer-detection-1.959039
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.191EC85042F7B8B7F683D410F13B4714
+        width: 700
+        height: 393
   - title: "Google AI system beats doctors in detection tests for breast cancer"
     excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
     publishedDateTime: 2020-01-02T04:24:00Z
@@ -438,6 +451,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
         width: 700
         height: 393
+  - title: "Google Heath’s AI outperforms radiologists at breast cancer screening"
+    excerpt: "The research conducted by experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities and published in the scientific journal Nature, shows that the AI reduced both false positives, as well as false negatives. Around one in five breast cancers are not detected by conventional mammogram screening, and the chance of a false ..."
+    publishedDateTime: 2020-01-02T12:21:00Z
+    sourceUrl: https://pharmaphorum.com/news/google-heaths-ai-outperforms-radiologists-at-breast-cancer-screening/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BB4628F86C71103094B33F65CA463260
+        width: 700
+        height: 466
   - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
     excerpt: "Working with medical experts, engineers at Google Health have created an AI model that lowers false positive and false negative rates."
     publishedDateTime: 2020-01-01T18:00:16Z

@@ -38,21 +38,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beethovenrobot-1576687849.jpg?crop=1xw:1xh;center,top&amp;resize=1200:*
         width: 2000
         height: 1000
-  - title: "Artificial intelligence will be used to complete Beethoven's unfinished Tenth Symphony"
-    excerpt: "Ludwig van Beethoven's unfinished Tenth Symphony will finally be completed using artificial intelligence to mark the 250th anniversary of his birth next year. A few notes scribbled in his notebook are all the German composer left of his symphony before his death in 1827. Now, a team of musicologists and programmers is racing to complete a ..."
-    publishedDateTime: 2019-12-13T12:05:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7789255/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7789255/amp/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7789255/amp/Artificial-intelligence-used-complete-Beethovens-unfinished-Tenth-Symphony.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.ABD516A106983841A520E6B81207F351
-        width: 636
-        height: 382
 
 secured: "OXjYrU0iFXmsidpxp9MNM585xb9Tzsw30Wn7ycPX3Sr692OLmOX8R6y3kiRs55o5PVgmXc0CQWz7lUHY9v+06GuAOoCDzYVDsEPqy26t2Mi4ExVfu/GjpQFcni2F+S7Ns+3IsSY5SpcFDe6l6g37c5Jgg64Xf+YOj0nJFifRAYdJ30t+dBPFtth3DaTHOF3R7bbVE+gHTqSoXqVGbnh+P4Ad4hF0EWDpbTQyXhpr+7ybSlf+VqxjoZ6BkaJ5NKyeHf43sUc6a6RlB/FsplZ0jg==;0HW/oc2n7/Ruxuc+BHFj3Q=="
 ---

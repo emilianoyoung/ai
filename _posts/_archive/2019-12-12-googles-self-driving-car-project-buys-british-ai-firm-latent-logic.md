@@ -20,20 +20,46 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
-    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
-    publishedDateTime: 2019-12-13T11:54:00Z
-    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
+  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
+    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
+    publishedDateTime: 2019-12-14T00:14:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
-        height: 350
+        height: 388
+  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
+    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
+    publishedDateTime: 2019-12-13T17:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
+        width: 635
+        height: 400
 
-secured: "S8fZVF5Zr3OKyXZXwtpusKyOPqAcjYKN4pGwyMJi4ZPEAf8A5N4kze70v8duYS7tEPsNQBDw3ib/mMJ5wbQmXVIDF3DfB3SYb7G2oXwRafJlHOJGAATDZVUmWL5r8KXEkjKIaILUV4azU33iIGXI1okKHHWsoazhWq1jxDrpIZG/xuMkGfYo9pQ5S1F5MsSyF2EpunwFDRxC0kKB1zOqM74HTJZZok8CpgpbU2zR6YDcAyjAbXi5CYb/0oWHVjFc4WPYDFKdDCLcspxVY5HvxA==;PZlz2Sa1G8tsi2dJVAxU3g=="
+secured: "Wg3rgWsswtnRdXeK87evzl/5MkmHmcUGGl5F67gd0mniEhSNx1G5X5e2UzFoIycQ3MJMPbPXWJZDLBamIBX/ZgSYssSN0R8WiqA7z/zpqrLk6uq6mLHXl3L11GwZ0u0Og0ogDbYgx+40SWb24yUdOE+m5y/Mp7iTWQEKt32yLqkSns69SP+mNHJM+H0CDmnDLHu5NkKjqbPFFerX78FutwyUuThP+OQNDYDBU+FS10wzPICw4bY1t2ZPpfS5UEvlo+CRiF0TQQDsLlkQdFnAhA==;cgya9Py/DQsXUmpxa4AlkA=="
 ---
 

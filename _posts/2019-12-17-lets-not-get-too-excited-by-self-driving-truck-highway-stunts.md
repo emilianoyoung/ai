@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -84,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
         width: 700
         height: 364
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
-        width: 700
-        height: 466
 
 secured: "vImTNJ9XsYYd4xuw4ckh7jYWxiTKDstNPhu02Vb0RzZ/hCrmXdRhWhEHzom40TajsLkFAdLbvEJHSf6m04CVUdQ4lXXL2MBhT+wsr6bVN4CO5+Sn8s4oKtyUE0v11+L9KvOmPIKDzIVPyvOsqMCMGOrweU3wZ7UaZrhhV6GTRVqN9AqudsIcLT1GCB+AafE4IDBcrgA3YQjKEGY8BnFsAG9M4y8C8ZJX9xACdYnzoaD4DHfRyAua+nia7mPauBlNj2vtoUesI5hoXGLRQLsjTA==;kw4rPSJnjiMVLlc7byl0Dg=="
 ---

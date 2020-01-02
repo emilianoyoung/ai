@@ -29,6 +29,6 @@ images:
     height: 933
     title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 
-secured: "9aKOg1DPV5D4JtKajN4HXMuvb1TagwDAqoEypHJwHXl80xZ+At4U5atqMDwa1Mqj2p2bbU37WVOCPYCTpIZw9cPPTLUcEhcmvxBL+4ZaVvboiTCu27m7nJwn+BV3U7yUN3N8Kin5K4fgElRuYw2xPUmCqwff3GqcLv/pxIInp7e5Gur5dRla3N/ZOHRIJXlnangd9Hyc+9MIwSsjpcOme9tdqtemEUM2xozvW/S0TXPgbwv6bJbNTI3Zg6DTtfrFOFsHz6+UNKwkanT0WRZBcA==;lQnSIAlEw5QaBIodcjbVFA=="
+secured: "9GtNe7oHxgvgHRXDQjL59n8GDZwWb6GTt5ta748FPogi1ezw1y0uB6+5gYkDhO3q8mkyoG6KV/HXBKP3F2XV8YjeE9cnTQ4V0lmu0CfApPK4zdA1pVazFgqTyO1tGuSASBbM29bZAn40rXnHryCV4zf53wnGp8CRAI4YuNus1ObIb/onQaeQrY0H3Xlxrqb2tAszomrmEtP3llcvE1s94CfZs+32txbdv5ecj7gHszfa1losShriAc3ja7/p6YD0xJk8VNPaimd99qEtNN+d8g==;Nb1wH5iCHxVfKcHKaUrjUg=="
 ---
 

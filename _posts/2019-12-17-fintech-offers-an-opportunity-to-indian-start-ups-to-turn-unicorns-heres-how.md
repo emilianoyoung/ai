@@ -112,19 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
         width: 207
         height: 155
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 24
-    images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
 
 secured: "sBLw9QJLvA6SuycSJPnjjUrAYxYGo1Bm8vJZpH6rSx5kkvuCuF3iZ0b70i6sufeFP1Ou63JQJCl5RSCe1OvUsJIylIoVNdidiFQhiwa1RO5UOZGxQXRZ9ZNbCKX/rmadrK0L7MZM2+BVd7t4lT5TW3ms1436Edf8S2nEXCd8cRvgkQie7sHWMmr4Kgn3oDZ6mxxwaX/4AoHkgM+knp3iDDz/WFdHCzM5eYrZe3AiMCeZlTy1e7ERhDmgmxrw3hqk6yEeu7GfPOCroWFq9cIKZw==;lbGX8VC92FPM5+MjJ/mKjg=="
 ---

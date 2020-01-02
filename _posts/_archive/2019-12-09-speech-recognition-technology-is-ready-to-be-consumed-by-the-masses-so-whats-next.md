@@ -1341,6 +1341,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "sn5Wv25T77ZyOT5coaAroYQSYQ0JmiD6A5qLVRaA29pwdW9KZIf+EOuI+Gi06s4Dg7ya9acEoQT0EvjGNYrhjpwTD8wRVXCTvEsKhcKoFAAgq3Li0ibkXw3cm4amUJmOPZUP+Z8UzThdBLsxDUTZKeFRMrnNnyIGefWh0tFBccjGOktZW3TI1TbNNrB0dOLWmPjRRWygTywxyNdCN5QZ9wE2lOlU1pT0YSSNDd9jJChN+/nyuvQYQsPNYc2vUSSbKycvATDwv8z3Vd8VR5/B8A==;HOtQmIYWUsghpctVzfiLZw=="
+secured: "gn6LS+Wb6M8F0sf/JJ0ByyVHtn1x5ZzUplOV1OXYx3zc/RB6Efe1FsslGbByEhprEg02nuhhx51/lqKwhL+ktGY+mTqyj2I/k1zbfyvpbCa+IMD3z57lC8VbESUYv7oXFvlWZuEKaUlpK/XXaeq1yyTa8cq7l2MMfSDivdVa7xgq+y6/5B5J7d3RGgHY9xiK+d+0Jtf+D0N9Z/GVBb8F+Mxq9UGUkAUcpQAxkiDAlwxOXAs2w5eInNhbKqJKEaA+walV6ASci/C9uTurSgWfHw==;pfdjb0paic/j58xcE7byYg=="
 ---
 
