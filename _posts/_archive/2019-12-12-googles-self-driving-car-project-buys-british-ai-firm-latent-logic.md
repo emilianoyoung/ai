@@ -89,21 +89,6 @@ related:
       - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
         height: 388
-  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
-    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
-    publishedDateTime: 2019-12-13T10:05:00Z
-    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
-    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
-        width: 700
-        height: 525
   - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
     excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
     publishedDateTime: 2019-12-13T17:02:00Z
@@ -200,6 +185,6 @@ related:
         width: 700
         height: 413
 
-secured: "Mwo2xuGY4OJagwsoN/hDWXRHGQsrigEjVF3S278SxcsgxW5rVJdTNOilGmrwegpkjqiZtRVzaVjpaXGYc0iSYXyuMYPShsYWBGd47qPnRWPAAsBVxfRD+MPo7d4tzzxR0lshmEgYH4ZT+NLW9tXJDNZWTZiNWQV/1ruqSc5XHt/PIKBJ77a4VYUwk467VJnUPvkTBqq4+Az2mOEKzLkvgrzlDa42Xot7lwgO4qTzl6q0irwex9Zui14wTPOMCPiH9Z2o2VFqud1FYmRaDmAB/g==;2liPOKC7buJFlvgw+a0v1w=="
+secured: "HHHMrgJ/viybE1j+V6EVE93cUxHgzPC9S7pnOPaBx7lXSBuXzhU16oD3nV54GAmPg8FUhjp/kuo9lc050a218xtk7GFJLg73xyP81c9Nk+9HzTyiWVJJzoDjfWx9+VlRorfHC7cooPKgWDla+KlBmz9HknCrfYn5z0YDd60G+EPKi0lU5bozKkJe2O0wjxqFhrKN7cCkPJ5yLpGZTMJFPiHAm3b6ecdVVxJj1ednwu7o6IjWv1/+UBjW7RJXMU3EzLyyy+yW8FWY+bT3MVcYRg==;ShyryqJYx8Vvvhzm6bz/8A=="
 ---
 

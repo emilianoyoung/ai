@@ -61,21 +61,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "Emotion recognition, AI for suicide prevention | Read"
-    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
-    publishedDateTime: 2019-12-13T09:33:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
-        width: 615
-        height: 384
   - title: "AI research and big tech"
     excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
     publishedDateTime: 2019-12-16T15:03:00Z

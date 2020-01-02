@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/tesla-patents-data-pipeline-deep-learning-autonomous-driving/amp/
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Tesla patents data pipeline and deep learning system for autonomous driving"
 
 related:
+  - title: "Machine learning system makes more alerts for med errors"
+    excerpt: "(HealthDay)—A machine learning system can generate clinically valid alerts for medication errors that might be missed with existing clinical decision support (CDS) systems, according to a study published in the January issue of The Joint Commission Journal on Quality and Patient Safety. Ronen Rozenblum, Ph.D., M.P.H., from Harvard Medical ..."
+    publishedDateTime: 2020-01-02T10:06:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-machine-med-errors.html
+    ampUrl: https://medicalxpress.com/news/2020-01-machine-med-errors.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-med-errors.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D021AD084D702878E919E378473C6E96
+        width: 700
+        height: 525
   - title: "Create and run machine learning pipelines with Azure Machine Learning SDK"
     excerpt: "In this article, you learn how to create, publish, run, and track a machine learning pipeline by using the Azure Machine Learning SDK. Use ML pipelines to create a workflow that stitches together various ML phases, and then publish that pipeline into your Azure Machine Learning workspace to access later or share with others. ML pipelines are ..."
     publishedDateTime: 2019-12-28T22:43:00Z

@@ -82,6 +82,32 @@ related:
       - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
         height: 467
+  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-27T21:06:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
+        width: 700
+        height: 393
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
+        width: 700
+        height: 393
 
 secured: "CtEwJ1Qz0QEVMK8CcPNKo+SjTSs7SPC7l4wR4my4jwa6UfLV1VR3wTVEbEeyl+f5hIHUMP6/vVdOcwU2hif7ycO9bDgreFZAUDx85eZm0uQ1bfufBwXQdmW5SX3nWJuf+VTuwhcVH3DO48hnrNyDPNliPGahBm4PXxwde8xuxp525nRsLHHKHwJVa+Rbxm4NHZAPc82G55mMtVxaxZq2+04FFGskGZezJoGgrmB6T8YG0LAEngp8jxl0/xmY7Z3F1f1U/50tsUXG6sjnNH6pTA==;j25nnIIVqUfMUndPAMO55A=="
 ---

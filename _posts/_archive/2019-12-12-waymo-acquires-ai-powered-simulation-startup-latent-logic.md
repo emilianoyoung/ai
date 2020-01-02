@@ -80,21 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
         height: 388
-  - title: "Embracing the enemy: Canadian banks partnering with fintech firms after once seeing them as rivals"
-    excerpt: "which uses New York-based Kasisto’s conversational AI platform to integrate a chatbot into the bank’s mobile app. Examples of banks acting as “incubators” in collaboration with fintechs include CIBC’s introduction of Global Alliance Fintech Link, a portal aimed at driving client-focused innovation by facilitating collaboration between ..."
-    publishedDateTime: 2019-12-13T10:05:00Z
-    sourceUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034
-    ampUrl: https://lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/entrepreneur/fp-startups/embracing-the-enemy-canadian-banks-partnering-with-fintech-firms-after-once-seeing-them-as-rivals/wcm/9f6a28ea-72b3-4631-a96d-d57bd4b53034/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
-        width: 700
-        height: 525
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
     excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
@@ -202,6 +187,6 @@ related:
         width: 700
         height: 413
 
-secured: "z14qVrl1491pnwcx7NFyztZJSUqaPWtt19xKYf2ABKmzBq7T9X6fcaL8NDLL/OUx1w2CkUqKsfQHKjzdEWLcxCHEtR1nmqEhJlYPzS1r4GRbh2QXMHd6q3ghR8G8tTBfSy3W7U+GkSopcdTwb9ceBp6PUmSmSACR+9rrSxCHGYUQiK5niPLdBm28LgGOv0RmK2SuDTq08luaAtlR5yI+XhTBfHFt4K8n04upFHcNPPR3RZZKVUz6M5uDgUzGn2YRcRCL4Srv/DrkZlQeq3uIGQ==;E+D8HGfn9SzERT7f1xyHaw=="
+secured: "yVZA0QgZjdoPoxVQPPBjkkDQFbvb9Ktl7uYX1mZYwsy+xmxjWXLi/lSLQiVleVEQkTwSDJYDLcOybldbgT3FqnrStOMoRyrH00BnW6OBhP4VWX6tnESWjJTzzlbDO57HghAIiAEo+JJTrZcRu0tZkgEdnf4Pp/bE7Y1G76YSPPhY1s8noRR17QTp2ED27O/o7NT3VvEbK8rRK6L6cLvukKPyANNC+lI90nUcUMEgKqpOQIBIUcps4ACT2ncB6eoq8i0GPYd2uwwGOcWb/4TNWQ==;ZehixRqX9fxOMeWTcDzE3w=="
 ---
 

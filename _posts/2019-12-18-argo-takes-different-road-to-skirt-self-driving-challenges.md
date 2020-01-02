@@ -69,6 +69,32 @@ related:
       - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
         height: 466
+  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-27T21:06:00Z
+    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
+        width: 700
+        height: 393
+  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
+    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
+    publishedDateTime: 2019-12-28T15:26:00Z
+    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+    type: article
+    provider:
+      name: Gizmodo UK
+      domain: gizmodo.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
+        width: 700
+        height: 393
   - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
     excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
     publishedDateTime: 2019-12-27T00:03:00Z

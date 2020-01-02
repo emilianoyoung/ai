@@ -43,6 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6892A3712120A80A17131ECE3249BB69
         width: 700
         height: 350
+  - title: "Machine learning system makes more alerts for med errors"
+    excerpt: "(HealthDay)—A machine learning system can generate clinically valid alerts for medication errors that might be missed with existing clinical decision support (CDS) systems, according to a study published in the January issue of The Joint Commission Journal on Quality and Patient Safety. Ronen Rozenblum, Ph.D., M.P.H., from Harvard Medical ..."
+    publishedDateTime: 2020-01-02T10:06:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-machine-med-errors.html
+    ampUrl: https://medicalxpress.com/news/2020-01-machine-med-errors.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-med-errors.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D021AD084D702878E919E378473C6E96
+        width: 700
+        height: 525
   - title: "Journal study evaluates success of automated machine learning system to prevent medication prescribing errors"
     excerpt: "A new study published in the January 2020 issue of The Joint Commission Journal on Quality and Patient Safety used retrospective data to evaluate the ability of a machine learning system – a platform that applies and automates advanced machine learning algorithms – to identify and prevent medication prescribing errors not previously ..."
     publishedDateTime: 2019-12-27T16:00:00Z

@@ -24,51 +24,64 @@ images:
     title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
 
 related:
-  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2019-12-30T14:49:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
+    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
+    publishedDateTime: 2019-12-22T16:21:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 65
     images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
+      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
         width: 600
         height: 315
-  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
-    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
-    publishedDateTime: 2019-12-26T03:36:00Z
-    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
-    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
-    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
     type: article
     provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 44
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-26T23:10:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
+    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
-        height: 396
-  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-28T10:49:00Z
-    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
-    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
-    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+        height: 466
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: Montreal News
-      domain: montrealgazette.com
-    quality: 42
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
     images:
-      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
-        width: 1000
-        height: 750
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+        width: 700
+        height: 467
   - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
     excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
     publishedDateTime: 2019-12-28T15:26:00Z
@@ -82,41 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
-  - title: "Chinese self-driving, refrigerated truck travels across US"
-    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
-    publishedDateTime: 2019-12-30T04:39:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
     images:
-      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
         width: 700
-        height: 350
-  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
-    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
-    publishedDateTime: 2019-12-30T15:48:00Z
-    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
-        width: 700
-        height: 466
-  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
-    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
-    publishedDateTime: 2019-12-28T00:56:00Z
-    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 0
+        height: 472
 
 secured: "j+d9ntcxIXqHnCE3NkdyKgXTaRSBn9P8hxtqWDvnte5PrpkyapDSPKAEp2GF+BOHP6dOmMve/1jSwe9XXeuDUlX2iqR5cc3KePnV5mADtFFZg3gSt7tOAHFRHf88yQOHsc7dd18B6jiqUBc+rRpLSu+YHFIo4e/Cy5fh6AQxhNPFNl3t0ItYqMzYwOv2LDits4hyRAWFjvc4kjc78JpGRKLq1qYu5WWEdloN4wqZq2dwkYYqH5EVS1Fn7Jqbsd44r2oqrnf5bekmZAKK9UQ5SQ==;eYY+dc2/rU1rrPF/gFR/3w=="
 ---

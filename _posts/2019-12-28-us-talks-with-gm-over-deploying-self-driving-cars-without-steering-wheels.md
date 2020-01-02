@@ -26,97 +26,84 @@ images:
     title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
-  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2019-12-30T14:49:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+  - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
+    excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
+    publishedDateTime: 2019-12-24T20:12:00Z
+    sourceUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/
+    ampUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: GeekWire
+      domain: geekwire.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
-  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
-    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
-    publishedDateTime: 2019-12-26T03:36:00Z
-    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
-    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
-    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
+      - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
         width: 700
-        height: 396
-  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-27T21:06:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+        height: 381
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
+    publishedDateTime: 2019-12-18T18:35:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+  - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
+    excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
+    publishedDateTime: 2019-12-30T16:04:00Z
+    sourceUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/
+    ampUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    cdnAmpUrl: https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
+      - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
         width: 700
-        height: 393
-  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-28T15:26:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
+        height: 365
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
+    publishedDateTime: 2019-12-19T16:34:00Z
+    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
     type: article
     provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
+      name: Santa Cruz Sentinel
+      domain: santacruzsentinel.com
+    quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
-        width: 700
-        height: 393
-  - title: "Chinese self-driving, refrigerated truck travels across US"
-    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
-    publishedDateTime: 2019-12-30T04:39:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
+      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
+    publishedDateTime: 2019-12-23T06:00:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: USA TODAY on MSN.com
+      domain: msn.com
+    quality: 21
     images:
-      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
-        height: 350
-  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
-    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
-    publishedDateTime: 2019-12-30T15:48:00Z
-    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
+        height: 367
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
     type: article
     provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
-        width: 700
-        height: 466
-  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
-    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
-    publishedDateTime: 2019-12-28T00:56:00Z
-    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 0
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "b/MQ5+4bNx3I0AEG1udnAFypl/0544QKjReDcVZ1LwpNyFQN+unkuEVj+oGSAQcuXHlp/FbQb97K8Fr4+HjhudfjXuyuvrDPQqEuiutdxd/Cd/LehF8BLDRUzGI2typN4eTgvMUkRGXCZu/kW5DyEgb/TLyReSazdMwy5j8tkB0m2ERH8DXHHVkEGp9qBDGnqoMv78sjE78eHeeJqNcyNzLk3C9SYEDbakWaWZMc/gScOkrlrz/D7hVaOsXKKs1KH4ey/17GW8zIblw16+6hhQ==;kHYFpce5lcQig8hYcPp7Rw=="
 ---

@@ -35,6 +35,19 @@ related:
       - url: https://www.bing.com/th?id=ON.38E57FADAEB75F915BC7F9E0AC5E350D
         width: 700
         height: 393
+  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
+    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
+    publishedDateTime: 2019-12-30T15:48:00Z
+    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
+        width: 700
+        height: 466
 
 secured: "3Jt0V5iMAbkda6duRpaSckffUoUTlVK5KqK+T8/QskKufaCDqcFePUP97IC8DMsaQ1Zhibh3SVFiclCwfkYZ0rSAaAhmyjZHPV9eomyfZ0UTgYG5RXSM0rA5wzJcQhC2QB/zU+Ab/JfPb2OvmQQrQjEZ5veLIB/F8zU3ZeZCjHb+/n541xMIO1T0V+cbJqi+5Q3XyLzHM8t5fuXe5g0JlI3EY3tab3hvLyRVmy1NLw9WGfHqwQYnuR39EcpWafzjGL8as2DJp1/ENIDNlC96BA==;MZKB8FnU363kKNIT7sLefw=="
 ---

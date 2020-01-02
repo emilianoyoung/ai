@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.188181DD0DA8498376B080C68AD52E4C
         width: 457
         height: 319
+  - title: "Chinese self-driving, refrigerated truck travels across US"
+    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
+    publishedDateTime: 2019-12-30T04:39:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+        width: 700
+        height: 350
   - title: "Afternoon Coffee: Ghosn jumps bail, flees Japan; initial U.S.-China trade deal to be signed Jan. 15; self-driving truck hauls butter across U.S."
     excerpt: "Carlos Ghosn, the ex-Nissan leader charged with fiscal impropriety and was out of custody on bail in Japan, fled the country and issued a statement that he’s now in Lebanon, where he is a citizen, according to The Associated Press. Other media reports ..."
     publishedDateTime: 2019-12-31T17:00:00Z

@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
         width: 700
         height: 335
-  - title: "Alabama Robotics Technology Park to launch new robotics program"
-    excerpt: "The smart factory manufacturing experience is focused on transformative technical areas, including automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics and 3D printing. “Launching RTP 2.0 is exciting for Alabama companies as they gain access to some of the most revolutionary ..."
-    publishedDateTime: 2019-12-31T19:39:00Z
-    sourceUrl: https://www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.html
-    ampUrl: https://www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.5F8A99765DEC5DBB0E1576A6F3E41D84
-        width: 220
-        height: 220
   - title: "A Look-back at Tech 2019"
     excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
     publishedDateTime: 2019-12-26T02:56:00Z

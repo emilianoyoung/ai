@@ -35,6 +35,19 @@ related:
       - url: https://www.bing.com/th?id=ON.10B4F10AFCE58DA0E1A85C93049B88ED
         width: 700
         height: 432
+  - title: "Making robots too human is bad for humans, bad for robots"
+    excerpt: "An accurately humanoid robot makes as much sense as a Ferrari with a top speed of five miles per ... It’s only a matter of time before the sand fills the spaces in the pyramid and her role is eliminated. From \"Human Compatible: Artificial Intelligence and the Problem of Control\" by Stuart Russell, published by Viking, an imprint of Penguin ..."
+    publishedDateTime: 2019-12-13T18:24:00Z
+    sourceUrl: https://www.linkedin.com/pulse/making-robots-too-human-bad-humans-stuart-russell
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.4B3BA79FBE68BC1D97B044F8CA86BFE7
+        width: 700
+        height: 467
 
 secured: "UW/49iJeY+SGBGwbfh0UqUH03HZNR4TAQE0BV10bXq80XXQqRuRZn+/6ezKdF0pGDuUO4G3wsnzYq20f08R4nN8BzPq2mMpynNAk893xJ1Z+YE2lporB9GlDkNRUVg8F3IkOI2A3ThMlB+/xBqVbQvnGBUjg5ARUs7TJd8Cg31cFDth8OcBTCaNaRHivBZ6rL4DPO7Uullja3cl1HLcHmtGCsjulKEJqSfu46Ik0T7ysGiNj0NvMu5fkFjf8g/CH0StoSABgtKKLiAVP5olGkQ==;TXt+5sAjWKn6NbDGrq006g=="
 ---

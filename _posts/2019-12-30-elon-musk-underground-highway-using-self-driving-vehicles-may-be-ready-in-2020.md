@@ -52,6 +52,21 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 54
+  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
+    publishedDateTime: 2019-12-28T10:49:00Z
+    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
+    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 42
+    images:
+      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
+        width: 1000
+        height: 750
   - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
     excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
     publishedDateTime: 2019-12-19T16:34:00Z

@@ -26,47 +26,21 @@ images:
     title: "Alabama Robotics Technology Park to launch new robotics program"
 
 related:
-  - title: "AI and robotics execs look back at tech trends of 2019"
-    excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? The Robot Report spoke with the following leaders ..."
-    publishedDateTime: 2019-12-30T20:30:00Z
-    sourceUrl: https://www.therobotreport.com/ai-robotics-execs-look-back-tech-trends-2019/
+  - title: "Ambarella shows off new robotics platform and AWS AI programming deal"
+    excerpt: "Chip designer Ambarella has announced a new robotics platform based on its CVflow architecture for artificial intelligence processing, and it has also signed a deal ... Above: Attendees at Amazon’s annual cloud computing conference walk past the AWS logo in Las Vegas, November 30, 2017. Meanwhile, Ambarella and Amazon Web Services said ..."
+    publishedDateTime: 2020-01-02T10:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/
+    ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 138
     images:
-      - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
+      - url: https://www.bing.com/th?id=ON.3A803E1448A89C3A2C774D05EA2C7473
         width: 700
-        height: 335
-  - title: "Robot Software Market Opportunity in 2019 By Top Key Players such as urhat Robotics, H2O.ai, IBM, Liquid Robotics"
-    excerpt: "The report also presents forecasts for Industrial Cross Platform and Mobile Advertising investments from 2019 till 2025. Robot Software is an Artificial Intelligence (AI) system used to perform the autonomous task. It is basically a set of the coded system which executes the given commands. Any type of system which incorporates AI is might be ..."
-    publishedDateTime: 2019-12-27T08:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/robot-software-market-opportunity-in-2019-by-top-key-players-such-as-urhat-robotics-h2oai-ibm-liquid-robotics-2019-12-27?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "A Look-back at Tech 2019"
-    excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
-    publishedDateTime: 2019-12-26T02:56:00Z
-    sourceUrl: https://www.thehindubusinessline.com/specials/technophile/a-look-back-at-tech-2019/article30396927.ece
-    ampUrl: https://www.thehindubusinessline.com/specials/technophile/a-look-back-at-tech-2019/article30396927.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/specials/technophile/a-look-back-at-tech-2019/article30396927.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: https://www.thehindubusinessline.com/todays-paper/tp-news/rjbz9r/article29782763.ece/ALTERNATES/LANDSCAPE_615/bl2423bmtktOGJB6KAEDL3jpgjpg
-        width: 615
-        height: 384
+        height: 376
 
 secured: "VKEl35t5Ygufx9N3UwgLk5XTun8AAjQNY3Yid2kObkMFYp1s+lieObFCncGjlpjH7YKg0xtEK3v9tjtwOKsUz1/IVzXTIl2MLaTAILKO5ridj0lIYD7zNKnDyDXh2tUiPlLnoOwZaMfF6xqIA/JSCZNsHAomWWBTTSXTQTnQq8DUPC+BRC60OAGPHlJcXA9kK1n38I3b2/6SKI8p2nnc+9BuzSn3qG9I1fsfoKdyZeJPUBzSJQhRrzzRRxSob1Cuga6XWUvVcHtkQkAmf1PBoA==;5ed/xCy4Bw6rFS6VZo7HIg=="
 ---
