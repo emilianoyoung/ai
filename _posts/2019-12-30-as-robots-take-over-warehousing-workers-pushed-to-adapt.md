@@ -1,29 +1,27 @@
 ---
 category: news
-title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
-excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
-publishedDateTime: 2019-12-30T20:17:00Z
-sourceUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/
-ampUrl: https://www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/as-robots-take-over-warehousing-workers-pushed-to-adapt/2252678/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+title: "As robots take over warehousing, workers pushed to adapt"
+excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+publishedDateTime: 2019-12-30T21:30:00Z
+sourceUrl: https://www.pressherald.com/2019/12/30/as-robots-take-over-warehousing-workers-pushed-to-adapt/
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: Portland Press Herald
+  domain: pressherald.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
+  - url: https://www.bing.com/th?id=ON.B4BCC405BEE9E427784E8980D2AD3AF3
     width: 700
-    height: 393
-    title: "As Robots Take Over Warehousing, Workers Pushed to Adapt"
+    height: 446
+    title: "As robots take over warehousing, workers pushed to adapt"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -232,6 +230,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "r4am0oR+DS2KT9Hb8cKpdhL0hQ1RNztLR0mrHfVLZlZaLxFTjRewt7i/S2sIAT/uQSFVixGip0Ln1KrvWf6coF79BO0HS+pRUkp6TgmzVPG/3wAeY4JIehpBRCfhJrAO7qfjTi0PsAKE4TtcT6kecyhij10/P/dIALXAOKZjypzuDraVILHLMeHDUlkv6SxlyusU3YZdPM3gUNyq05vgx8duA3H3x/+e4CAb51VMfJMc60HWQcbU0IYn1ra99Q59yRqQK9JxM/Y4tMtoqZHuSg==;s/Tox9DaAyPyNdoL6VULGg=="
+secured: "C0MrYu292ZpmxwriMBcBPGC2UsAyFpulk9mv3sd6sR6I90PEcYtOi/e9myzwP8azk8AAL72kx+V25KbWucibubHRW4vHXQal85rDqkRIV7dWYxPiwJdLi/dCBUwixA1ctFFUd1kN9tOY2kAZv+bhtfxnCWhFfiG7lAKraNPHm11OLLP+dSTTtDdqA7VEj1hZP6GjY/8R04ko5D0G2+lZAIXg++Vlzvd0Jkyin5UhUl82+TP/328cPXL3yQemeSg5E4J2ojURWypGvkqilDnaTQ==;vqJn0TL/8zfwfEAFZa2CYg=="
 ---
 

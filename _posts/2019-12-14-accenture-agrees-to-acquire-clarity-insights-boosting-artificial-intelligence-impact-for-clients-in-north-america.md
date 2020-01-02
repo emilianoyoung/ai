@@ -25,17 +25,6 @@ images:
     height: 1200
     title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
 
-related:
-  - title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
-    excerpt: "Accenture (News - Alert) (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence ... and global lead for Applied Intelligence at Accenture. \"Their focus on insight-driven transformation for healthcare bolsters Accenture's ..."
-    publishedDateTime: 2019-12-13T20:06:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-accenture-agrees-acquire-clarity-insights-boosting-artificial-intelligence-/2019/12/13/9069581.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "PD4NDgF9i3p3FDWqQVZhbsJfnzABjaKmqIqJUxWdO7ELh1LIEM7IEG/hvVqeA9mGkJ+Em7eyNCl96E5uIeq7NEl1PDXRhmHdC3dhKCzWVtHzF2MxUprNoDw8A+/Ge4jS4h6icCl74Uc6fX5Jpvl1nELtLpQ6Glwja7WzC5gnbIZYKcXWxNpBcde5CkNFgZkwcoS9bOA6qVP4u4JW8KKHOGIld6IROj3D96eyXZ2effGUd2I7Wgt019YXmcXOww6xBATpCG2GdIi73QzesEfSWg==;3qj/QSU7yaL1sLxjjv7cqQ=="
 ---
 

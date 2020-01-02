@@ -242,16 +242,16 @@ related:
         width: 600
         height: 315
   - title: "Bosch to offer lower-cost sensors for self-driving cars"
-    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately held Bosch said the internally developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
-    publishedDateTime: 2020-01-02T15:23:00Z
-    sourceUrl: https://europe.autonews.com/automakers/bosch-offer-lower-cost-sensors-self-driving-cars
+    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+    publishedDateTime: 2020-01-02T15:03:00Z
+    sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.AF3F93ACC38BE79CF6038D80599602DC
+      - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
         width: 700
         height: 525
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"

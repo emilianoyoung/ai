@@ -118,21 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
         width: 670
         height: 440
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
-        width: 700
-        height: 466
   - title: "Fight against facial recognition hits wall across the West"
     excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
     publishedDateTime: 2019-12-30T10:09:00Z
@@ -604,7 +589,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
     type: article
     provider:
       name: Fast Company
@@ -748,6 +733,19 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
+  - title: "Police Use Face-Recognition Software as India Protests Intensify"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
+    publishedDateTime: 2019-12-28T05:22:56Z
+    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
+    type: article
+    provider:
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
+        width: 700
+        height: 466
   - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
     excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
     publishedDateTime: 2019-12-30T09:39:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/google-releases-new-coral-edge-ai-har
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/google-releases-new-coral-edge-ai-hardware-ahead-of-ces-2020/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.837FDA7059C97B64E794F4050AE9589F
         width: 300
         height: 250
+  - title: "Google adds new Coral chip modules for AI at the edge"
+    excerpt: "It also packs a single Edge TPU but in a much bigger module that comes with a central processing unit, graphics chip, memory and a preinstalled Linux distribution. The fact that it’s a self-contained solution reduces development times for hardware makers, providing the ability to bring AI devices to market faster. The new versions of the ..."
+    publishedDateTime: 2020-01-02T21:13:00Z
+    sourceUrl: https://siliconangle.com/2020/01/02/google-adds-new-coral-chip-modules-ai-edge/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.EF1AB740136AABCA8CEF7D33FEEA91C8
+        width: 700
+        height: 393
 
 secured: "ZEc8dQrWxBPOOpmV+r09R5qr94QL2nHghXRHi+wUtytLogtKNJfOfi4stNeQ54VMf0eHn9kCU7LJ1nclT6yZih2V3KsarPdgd359RAKnHt6r7IKFIQIL/fj4TqG0o0NCedmxEhNZFRdHObYmrfIB4nnYPH318MRzJXR+1N703XcNozRXQ/3MmOtWl4CxMURxcYutE1IZ2UQ6UvvV4w0lVs3CQpzjMUkb0qZ5xwhUjjP5i/nYJORLbWrSq5oWKPrjC5zApAkoDm0JX1WXRISSZw==;hK/LXwqGdj7qr4zde1cTwQ=="
 ---

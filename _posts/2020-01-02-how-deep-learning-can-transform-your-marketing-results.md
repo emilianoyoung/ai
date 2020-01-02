@@ -8,7 +8,7 @@ ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learni
 cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
         width: 700
         height: 467
-  - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
-    excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
-    publishedDateTime: 2020-01-02T15:20:00Z
-    sourceUrl: https://www.theglobeandmail.com/canada/article-canadian-schools-prepping-students-for-jobs-of-the-future-as/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.0F78F08BA63EFE2A6BBE3524ECC71755
-        width: 700
-        height: 466
 
 secured: "V1FzFcPcxnPmUak7QiLNLgelQpMAr7cVDvy93NklC7CjJmfUxIshbN8GGgSDLmexqZR0k5Q/FHmr3Uw0PIjFgb1TrDIg/l4opyehh9I8EuEHzP+zchPnV86lf5uWO9e0mGH94+yb3CooePtkiRPwUnNo16jn+BAROawRSY1Na22AE3f2WKTSFmj2BuCwFWLQRXqUj88xFCONkT4QoE94S5OSKnw7+2kbgFsiQzZF5GOf50FIb5cqmspSKH2XSG3GyTX0A8Mv/esKT0ahu4IL+Q==;Vqn5c5c7snewGkI5tDn+FA=="
 ---

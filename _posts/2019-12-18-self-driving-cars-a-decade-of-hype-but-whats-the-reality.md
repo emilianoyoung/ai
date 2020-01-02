@@ -41,21 +41,6 @@ related:
       - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
         width: 2000
         height: 1000
-  - title: "HMC News: Honda Self-Driving Car to Debut Next Summer"
-    excerpt: "Hona will be releasing its self-driving car, the Legend, in Japan. The vehicle features Level-3 autonomous driving capabilities. This means that the driver will be able to take their eyes off the road and do other tasks while the car drives. It’s important to note that the Honda Legend won’t be able to completely handle driving. That’s ..."
-    publishedDateTime: 2019-12-13T20:19:00Z
-    sourceUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/
-    ampUrl: https://investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/honda-self-driving-car-debuting-next-summer/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.BFC1DD63EFE76F01BDDA866826B49635
-        width: 700
-        height: 393
   - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
     excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
     publishedDateTime: 2019-12-22T13:06:00Z

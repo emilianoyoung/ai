@@ -8,8 +8,8 @@ ampUrl: https://www.bostonglobe.com/2019/12/14/opinion/moon-landing/?outputType=
 cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2019/12/14/opinion/moon-landing/?outputType=amp
 type: article
 quality: 107
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: The Boston Globe
@@ -19,21 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "This Nixon Deepfake Is an Alternate Reality Where Apollo 11 Fails"
-    excerpt: "Deepfake technology makes it the impossible, possible—well, at least visually possible. In this case, we're talking about Richard Nixon and a speech of his that never actually occurred—a speech where he announces the death of all three Apollo 11 astronauts on the surface of the moon. All the speech is very real, this never actually happened."
-    publishedDateTime: 2019-12-13T20:18:00Z
-    sourceUrl: https://www.popularmechanics.com/technology/security/a29952036/apollo-mission-deepfake/
-    ampUrl: https://www.popularmechanics.com/technology/security/amp29952036/apollo-mission-deepfake/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp29952036/apollo-mission-deepfake/
+  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
+    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
+    publishedDateTime: 2019-12-14T16:18:00Z
+    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
+    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
     type: article
     provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 157
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.EA59FA435F484B48965D677185B0D448
-        width: 480
-        height: 241
+      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
+        width: 700
+        height: 466
+  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
+    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
+    publishedDateTime: 2019-12-14T18:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
+    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
+        width: 700
+        height: 350
 
 secured: "4e68lNuUkQqxsvgteAYi9aWbDRPsZ6WUlFvGLwuNzn4ouPlPWYGQuLL+dnhU3GPnIZIdnyL1Jj2gf2hQJuxM6hA2CzJh1Sma/o5aXfTS8z1B+vx6+ulP/UVWk8WecD/3OZAcvcpaPUdNsYNNnMotvQQcTeQ5dLMw2QywQdR800ltj9NkoVg+9s+GpC7BwZDGW9izPijhIo36T2xBeAgNxuzNLJNsw7xWEV7yk37ILfZYHPZlXO060xLfbiN95oGlHqF4C81TX2tSiPK9WudXFw==;vezdtnWWeKhuJA3DBsOnkA=="
 ---

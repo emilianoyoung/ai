@@ -39,21 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
   - title: "China’s self-driving RoboTaxi hits the road"
     excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
     publishedDateTime: 2019-12-07T22:20:00Z
@@ -68,6 +53,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "ltuiW0hBjTe2gz/eVQfo+5Rri4bC+vHGbduXsTyPe/0htK1QS2wKi7OL/JX+QBMT1gh1Urq8aPgMWJMyZfaC/91k+4S9vHnDhod4IfwweoHWB+UVzeLD4h7f32ZIneCmHAH/UtzuQNqrU3nfmpegaIF+SwJ9V39JZM/87o7D9d/U3y+LI0BWnps+M/QhOD90Enm7C1VR3Ri0Lbbq+fAVvZcfzhyj/I/DkFaJ+7yYoeKbtBk0FYpnx+xIOx8aeqyydsz+jSbgBxhiWG4MMbfdUw==;eZkUlqMRor/aUnaXQly80Q=="
+secured: "4P/41PdblDBqeI05am94QHIqpWrfzBYMT2BZCrBHCvMGPAQOhpu+MwZD299IByP3FvocUkNMlMED66nIe3B0vdfbPXGbpWcraeoCRsLEckVOwGcZjveCyqJS1gvFUFABcwA/m+AhefxlGlGeOy4a6qttBzjna9C0fxghJ8zu6gBT1vONLXVfivzci3MfAJ2GWWOmtgEHjxDA+7GmxEcpPfXIVGn9NqGlV67iFcXnuyKc70Ls0AvHobj+L1zjxBD8eNqS4glbU/VAXVqgkMmWug==;xxxrDd30UaUj0+mmPmBHBg=="
 ---
 

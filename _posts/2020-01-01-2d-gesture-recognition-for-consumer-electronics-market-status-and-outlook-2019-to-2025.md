@@ -29,19 +29,6 @@ images:
     title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
 
 related:
-  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
-    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing Advertising, Image Search, Segmentation on the ..."
-    publishedDateTime: 2020-01-02T12:05:00Z
-    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
   - title: "Voice Recognition Technology Overview: The Past, Present, and Future"
     excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
     publishedDateTime: 2019-12-27T06:16:00Z

@@ -82,21 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
         width: 700
         height: 233
-  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
-    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
-    publishedDateTime: 2019-12-14T16:18:00Z
-    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
-    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
-        width: 700
-        height: 466
   - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
     excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
     publishedDateTime: 2019-12-18T00:05:00Z

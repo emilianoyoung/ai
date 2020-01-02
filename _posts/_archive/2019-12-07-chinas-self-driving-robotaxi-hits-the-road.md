@@ -39,21 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z
@@ -68,6 +53,6 @@ related:
         width: 1200
         height: 799
 
-secured: "7+dN4Z7sp66XXG3wEY9V0J7yc9vVA7/KARL+5rHhteSTnvKl2gbQq5M5L49VbJSZVA5FK1Th0wnk9UVpNOUNtVD7tdr9bU41Np3evfzNcRR+HXjk2+8XrPng1Xip0uhXuQeXiiAD/LLKkuNRHk0mfbOKVRkEEgqhJ5Dawh7Rk67hVDN9Gf/NGKxaaY3pf32I7TgRBZkA61PKaLter3mT6KvKwF4mEh4Kh6pV48WctlJXLijJnCkzVavg96QzGoGswlEEiN1BaQIISb1PbEQpXA==;b5DaADXBrb/Otl1uUTRP8Q=="
+secured: "PMwUM8CykryBXBP5g/7GN5tbpxep/qJpWfIQH1+XJncL2ztjTEINsg6U//whb3obFTa8PpLcS8pBuZkCeri032czGmtI6VBu1SifhSsw1J5pNjRb1IIJQlVSk5vGbNtcvm7n44KWJgcqFSXvsOA0jr/sEMmTAcK5fg1f7/tfB4nYzHQRJ2WoEOEeNz2jLNUhEY3rpAD4dS63AP2YOUT+8H/KwlfcanloyWt/0R+cCAzjEdHuwX3xatA7JWynqDnyF1kaay5XkRYJg3M+jUgj8g==;X0aok7JM3tI6gy7xJyiXAw=="
 ---
 

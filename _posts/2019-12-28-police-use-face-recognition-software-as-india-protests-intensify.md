@@ -2,22 +2,16 @@
 category: news
 title: "Police Use Face-Recognition Software as India Protests Intensify"
 excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-publishedDateTime: 2019-12-28T05:22:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+publishedDateTime: 2019-12-28T05:22:56Z
+sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -604,7 +598,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
     type: article
     provider:
       name: Fast Company
@@ -784,6 +778,6 @@ related:
         width: 336
         height: 254
 
-secured: "voUIVKDThRtvDeWVYiyMsNxNOST46GOnYrb3VYSOzIoEjXq+CU3uSaVELOHl8FlS9wNBE/f0WeGHx1Q8asTZoOOjgbrgFUDRcgdkP170tjvFrLQVGfJyLKbYi+1YNra11j+TI1SOxk0quMZxgTeHbwDh5OBcaQpvRUObNcUjizlZRlTjmlE7YoButATkZKNP4881i1mbchWReJUmpI0jf3JznPNQM3RS26idUr4SRSQgtcj0p+w+f48gP9tBtPM9sLQWfIWtNNxpEVl5qrcspw==;bvl+HXlYnzb7owcenj9Ldw=="
+secured: "l9NH81J6UnF+ap3u77HImIUBq9CcHlUGQ9W3LnfcCwnC3yttOej5w9W9SdhJgRLRn8SRv+0VyQdUUxiCVkzghlK5J/kl2r2JpkqHTcDNSCqONrpbt+3m5+qfAJ6IK1rlUr05wJL4H1k5J3CWH6XN5W5VFPx0fhgACdAIDpNI1h0RbKJ3wanNysL1qPrDkuTgVgY2x6YCPMbjiygAwmWkBf/7eQ22jIhnHulM/t7ePZgHSXBkPhuGPWpNlHQWNNvhi8bM3mSOtL+Tiy7ICNqgSg==;USxCSDSERuQdTkPYEdRycw=="
 ---
 

@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
         width: 700
         height: 466
-  - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
-    excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
-    publishedDateTime: 2020-01-02T15:20:00Z
-    sourceUrl: https://www.theglobeandmail.com/canada/article-canadian-schools-prepping-students-for-jobs-of-the-future-as/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.0F78F08BA63EFE2A6BBE3524ECC71755
-        width: 700
-        height: 466
 
 secured: "2Oo4VgRtsL7CRPr54pK64aQ4Upf+sXBWsuDPQkU7LE6iyJfC7JKSQKhMEtB+FOXtu1BZW0snBVKtODAjPDQkDyk3uuMf2OFiTN7JRs0DkJ3cEgviofD10zNHb2a7wPkr9XElXJd1dS2Erx+xvepNnbx2uk5I3LEGmDo5A/eufllVs+jOv/4eMyLuSYIwT8IVMkoJFLAaKBabSqKTmJy3vAyLFDdx5r2IEoOfP1nPcacIaX5y8f3xDHrgyfSGz7i0cJWvcuTA20XBtLxLO1Egkg==;Y15rFf5Y+JMYErcgThxQAg=="
 ---

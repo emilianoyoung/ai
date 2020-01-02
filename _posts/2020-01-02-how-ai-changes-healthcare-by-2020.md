@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2E91E9F5A190791BF9E5F327103B4D5F
         width: 700
         height: 466
+  - title: "Google adds new Coral chip modules for AI at the edge"
+    excerpt: "It also packs a single Edge TPU but in a much bigger module that comes with a central processing unit, graphics chip, memory and a preinstalled Linux distribution. The fact that it’s a self-contained solution reduces development times for hardware makers, providing the ability to bring AI devices to market faster. The new versions of the ..."
+    publishedDateTime: 2020-01-02T21:13:00Z
+    sourceUrl: https://siliconangle.com/2020/01/02/google-adds-new-coral-chip-modules-ai-edge/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.EF1AB740136AABCA8CEF7D33FEEA91C8
+        width: 700
+        height: 393
 
 secured: "JfXvKXS4iJVxmWpkski4MXCNqeGMOq4sXysJ3zsVJl35Esp4TH7hvSO2v3toOnkWsdLu4VAvqO2McoTU2zXxRFFUycAGl97nn3tLSXniVJVcNFSk2oJ4y7YU/wISHYGXiKy/EFnHrmhB95//gLLetGzUHIt00AG061pJu65It1BkqVpxzSpqeTJ9ZFE5PrZjBCKbVxFjSYEegsTWvPUEFaYEfguUtuDeXOHW1mkkyPJUHhGm5a6qi6NXvFliVzqTcf4pwsVB/qG/EEIlXaUFnA==;XSAkmyX5ImqMXrxhYZqPIQ=="
 ---

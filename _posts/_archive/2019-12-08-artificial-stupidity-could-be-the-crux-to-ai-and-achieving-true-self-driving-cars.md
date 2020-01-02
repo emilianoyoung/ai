@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
-        width: 700
-        height: 393
   - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
     excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
     publishedDateTime: 2019-12-06T18:05:00Z
@@ -72,6 +57,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "I3SmcJs3DKxyRGVP1rqKNZuUYMsechykdsqgrusZ98VL2TMk0sHKFsII5xkWgh8TgpB+ND3Xhqwp9U+11SXaZUzo7vN5YLxhGmLz02iM9EHgHUO5feozrk6hM251Ew/nGwqVZjQNOuhrcND88+ByW5tT7y5mrmLif7xHA6QoYdDyNUxleSqUThrex4OL1i8JrFxLqyR08FJtw1iswl3PFGVt7/gi879Ok+GkRLIozp4wo6WGnI3G4RqCrh4sc8m2ZoIqFQXSx5T7azANKFpHWw==;QleIJ++4hDLlLzAWMfxRmQ=="
+secured: "GOaimunv2m+Ix2O/2FejLZpOVCAyZIlPZB7p1VX2x4sSYx1dF5aV0vAYTLj8/oEGn9ltbSeMfFbrhLYkP7CW7qAgT2pDONX4eGyK6XKpQcPyHD4V5zVccyLRtiO2LYcemjjJ6kvGDIVXi7bf/fiJSk33imdOFLEGNXE8V51+hW+0Vf7jdrSG2tfEZmufSkIWk9F33S8TJTt0qtsf99qzqO85U1/+Kkpr2Y3bbruw16rNI0HdP4QEswun7wNH0pqHpfH3iZD8QAYOirKWgzg3+g==;dHAiO0uW145XLfNPxWB2zw=="
 ---
 

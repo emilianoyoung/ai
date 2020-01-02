@@ -25,30 +25,21 @@ images:
     title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
 
 related:
-  - title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
-    excerpt: "BEIJING (Reuters) - Chinese smartphone maker Xiaomi Corp will invest more than 50 billion yuan ($7.18 billion) in artificial intelligence and fifth generation internet technologies over the next ... of AI and internet technologies. The announced investment increases Xiaomi's pledge made last year to invest 10 billion yuan over five years ..."
-    publishedDateTime: 2020-01-02T06:47:00Z
-    sourceUrl: https://kfgo.com/news/articles/2020/jan/02/xiaomi-to-invest-7-billion-in-5g-ai-and-iot-over-next-five-years/970837/?refer-section=technology
+  - title: "Neurodiversity in Artificial Intelligence"
+    excerpt: "Artificial Intelligence is Helping to Create Jobs for Neurodiverse Talent In the age of ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this type of neurodiverse talent’s tendency to thrive in work that is structured and repetitive, companies are creating ..."
+    publishedDateTime: 2019-12-27T14:03:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
     type: article
     provider:
-      name: KFGO
-      domain: kfgo.com
-    quality: 137
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.6C1716F312007CD0B104F987DCF6CB03
-        width: 700
-        height: 470
-  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
-    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
-    publishedDateTime: 2019-12-27T12:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      - url: https://www.bing.com/th?id=ON.E3F33619D3C15FE72779AB7B4153E644
+        width: 600
+        height: 315
 
 secured: "3LOAG8BmIp1cn3DhgztKoUzUwurYPueQAp6wuQssqxlhPMgVZjEsWEaRBIvtI49qTczgG2nrv9OHqvBJlJ7QPr0UnBI6AuXulN/rd0KI8CxJ+R720qeBb000u32jYbyuAkR5aJ3oRYLYA6VxkVSv6nB1l2VHu6ixRQpgoEkV19m7uv2Q+seXDiChNpOD5Jqdr+B4ylYoDUQaAG6xKSTAuBjwERjwa5GruMK4OyYzBpDy7TEkuWeNXsnUZj8/o2A7QPKGBihLfIarn+hbRAB91A==;1jmIM+NESjjqKBsVCIZ+PQ=="
 ---

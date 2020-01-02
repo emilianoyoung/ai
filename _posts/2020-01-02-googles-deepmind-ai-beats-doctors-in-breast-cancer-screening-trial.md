@@ -78,9 +78,9 @@ related:
   - title: "Google's AI system beats doctors in cancer test"
     excerpt: "The study, which was conducted in collaboration with colleagues at DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, was recently published in the scientific journal Nature. By using tens of thousands of mammograms from women in the UK and the US, the program was trained to detect cancer and ..."
     publishedDateTime: 2020-01-02T20:36:00Z
-    sourceUrl: https://www.techradar.com/au/news/googles-ai-system-beats-doctors-in-cancer-test
-    ampUrl: https://www.techradar.com/au/amp/news/googles-ai-system-beats-doctors-in-cancer-test
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+    sourceUrl: https://www.techradar.com/uk/news/googles-ai-system-beats-doctors-in-cancer-test
+    ampUrl: https://www.techradar.com/uk/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/googles-ai-system-beats-doctors-in-cancer-test
     type: article
     provider:
       name: TechRadar

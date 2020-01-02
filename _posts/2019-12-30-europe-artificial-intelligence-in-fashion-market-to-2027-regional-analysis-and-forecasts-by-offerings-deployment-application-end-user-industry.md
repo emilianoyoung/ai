@@ -64,6 +64,17 @@ related:
       - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
         width: 700
         height: 379
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
+    publishedDateTime: 2019-12-27T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "5 top tech predictions for 2020 and beyond"
     excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
     publishedDateTime: 2019-12-31T11:04:00Z
