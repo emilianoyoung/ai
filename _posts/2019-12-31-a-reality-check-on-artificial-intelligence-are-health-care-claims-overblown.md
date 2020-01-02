@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E523C4063C4248D3FF03D27E239B250A
         width: 700
         height: 466
+  - title: "A reality check on artificial intelligence: Are health care claims overblown?"
+    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+    publishedDateTime: 2020-01-02T11:41:00Z
+    sourceUrl: https://www.salon.com/2020/01/02/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown_partner/
+    ampUrl: https://www.salon.com/2020/01/02/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown_partner/amp
+    cdnAmpUrl: https://www-salon-com.cdn.ampproject.org/c/s/www.salon.com/2020/01/02/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown_partner/amp
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.9DB70C2A99CC3E587B64BC82F6111671
+        width: 700
+        height: 472
   - title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
     excerpt: "After all, a lot has happened in the last 10 years – and advancements in health care are no exception. In looking back at the health achievements ... I don't know. That's been a major trend.\" Artificial intelligence made big strides throughout the decade, though its potential benefits remain vast. AI systems allowed health organizations ..."
     publishedDateTime: 2019-12-24T19:24:00Z

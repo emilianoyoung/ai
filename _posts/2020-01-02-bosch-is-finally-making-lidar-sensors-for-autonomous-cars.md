@@ -2,22 +2,16 @@
 category: news
 title: "Bosch is finally making LiDAR sensors for autonomous cars"
 excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-publishedDateTime: 2020-01-02T07:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+publishedDateTime: 2020-01-02T08:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/bosch-is-finally-making-lidar-sensors-for-autonomous-cars/ar-BBYxzme
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -31,21 +25,19 @@ images:
 
 related:
   - title: "Mainstream cars could be self-driving sooner than predicted: German tech giant Bosch to launch lower-cost sensors for driverless vehicles"
-    excerpt: "German automotive supplier Robert Bosch confirmed that it has developed a sensor that lets cars 'see' a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer ..."
-    publishedDateTime: 2020-01-02T10:57:00Z
-    sourceUrl: https://www.thisismoney.co.uk/money/cars/article-7844511/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
-    ampUrl: https://www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
-    cdnAmpUrl: https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
+    excerpt: "Bosch will launch a new lidar sensor at the CES in Las Vegas next week, which will cover both long and close ranges on motorways and in the city and work with its camera and radar technology."
+    publishedDateTime: 2020-01-02T08:00:54Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/mainstream-cars-could-be-self-driving-sooner-than-predicted-german-tech-giant-bosch-to-launch-lower-cost-sensors-for-driverless-vehicles/ar-BBYxyzq
     type: article
     provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 41
+      name: This Is Money on MSN.com
+      domain: msn.com
+    quality: 21
     images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/02/10/22905180-0-image-a-4_1577961467634.jpg
-        width: 636
-        height: 382
+      - url: https://www.bing.com/th?id=ON.2BB8AA92122B7259B412CDA6CC04F2ED
+        width: 600
+        height: 315
 
-secured: "rfwBay4oWk1fW1hLTvVUS+dgYuzkenWir3z5BWX01MHj1yJl2etH+5NH7JReh+RwhCJXpT+JhTU1D8lRE/pvoE1vOp8K/LSZMfzR8qkHNRbTQ/WXOwoXf/EBivKxP0d6eziTW7KaaUTaFzpXO9VTIWv2FHB3I/hRmRIxq0SecsmAt9mgTVTTgGT3wC+jjCWVETPlYMPaxankpdSBqSqFOZRy3h9EYIOfKPfcOVSL5GJPlywN1bziId7q/OMSVl3qQ1wcoH/FdG/fJypw+WURfw==;aiF8NFycPsug3IOwGt1QcA=="
+secured: "vwfHXcbiPkAn55Wvqb6qIurpAxcZE5McJaFuruiHURfQevvvp/ESaBUrE8XnkODSlu56CzktUP4oxmnBhRbvDYSIUKhiFS+KHh/ltUuCyUtCpX3xLpb50LkkZTWKzr3s1BaryxYDJ4QKsOeUnHG6BGP8d2EgCitiFrsvozWl8v0qY1iYqV1rSa3iMqJotFdcB40xpjBOpRuKF2vk4iNe05fbIaGDsP90INoTYbuypyFHXGw6JR/dHgozF3uiHIcNJOl7rEnO6b5iuOoSbWrDUQ==;taOb/dPrkCB/scLfLUCUXw=="
 ---
 

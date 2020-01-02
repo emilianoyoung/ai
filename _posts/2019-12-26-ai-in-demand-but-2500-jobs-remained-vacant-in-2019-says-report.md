@@ -329,6 +329,19 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
+  - title: "Facial recognition to grow 12.5% annually through 2024"
+    excerpt: "The facial recognition market is expected to grow at a combined annual growth rate of 12.5% for the forecast period 2019 to 2024, according to Mordor Intelligence. The market was valued at $4.51 billion in 2018 and is expected to reach a value of $9.06 billion by 2024, according to a company press release. Facial recognition has been gaining ..."
+    publishedDateTime: 2020-01-02T10:00:00Z
+    sourceUrl: https://www.retailcustomerexperience.com/news/facial-recognition-to-grow-125-annually-through-2024/
+    type: article
+    provider:
+      name: Retailcustomerexperience.com
+      domain: retailcustomerexperience.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.5979CE3C08B1ABCD2B2F5EF711BF233F
+        width: 300
+        height: 170
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z

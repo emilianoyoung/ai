@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
 
 related:
+  - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
+    excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on Thursday, announcing ..."
+    publishedDateTime: 2020-01-02T10:31:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15059657/xiaomi-plans-to-invest-over-7b-in-5g-artificial-internet-of-things
+    ampUrl: https://amp.benzinga.com/amp/content/15059657
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15059657
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.CE5F927DB9428C194C233C7F7C1C59D1
+        width: 400
+        height: 300
   - title: "Five Things to Watch in European Health-Care Stocks for 2020"
     excerpt: "Health care has long been a key point of contention in U.S. elections and 2020’s ... R&D “remains paramount” with innovation -- driven by expansion in artificial intelligence, connectivity, and robotics -- becoming increasingly relevant, she said. Clive sees Royal Philips NV and Siemens Healthineers AG as leaders in artificial ..."
     publishedDateTime: 2019-12-23T07:30:00Z

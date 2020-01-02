@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-p
 ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 138
-heat: 148
+quality: 140
+heat: 150
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI in Robotics
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.3A803E1448A89C3A2C774D05EA2C7473

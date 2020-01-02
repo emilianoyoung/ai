@@ -24,168 +24,174 @@ images:
     title: "Volkswagen Takes Stake In Self-Driving Startup"
 
 related:
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-13T10:45:00Z
-    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
-    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-14T22:58:00Z
+    sourceUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/
+    ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
-        width: 700
-        height: 367
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
-  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
-    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
-    publishedDateTime: 2019-12-13T11:54:00Z
-    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
-        width: 700
-        height: 350
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
-    publishedDateTime: 2019-12-12T17:48:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
-        width: 718
+      - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
+        width: 600
         height: 400
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-14T00:14:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
+  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
+    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
+    publishedDateTime: 2019-12-14T13:48:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 51
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
+      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
         width: 700
-        height: 388
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
-    publishedDateTime: 2019-12-12T17:21:00Z
-    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
-    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+        height: 466
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
-  - title: "Hungarian self-driving developer wins AI competition"
-    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
-    publishedDateTime: 2019-12-18T07:00:00Z
-    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
-    type: article
-    provider:
-      name: Budapest Business Journal
-      domain: bbj.hu
-    quality: 39
-    images:
-      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
         width: 1200
-        height: 800
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
-    publishedDateTime: 2019-12-13T19:04:00Z
-    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
-    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+        height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 28
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
-        width: 415
-        height: 290
-  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-13T17:32:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 350
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+        height: 349
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Yahoo Finance
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
+    images:
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
+    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
+    publishedDateTime: 2019-12-15T00:05:00Z
+    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
+    type: article
+    provider:
+      name: YAHOO!
       domain: yahoo.com
     quality: 24
     images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
+        width: 700
+        height: 466
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-15T20:34:00Z
+    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
     type: article
     provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
         width: 700
-        height: 413
+        height: 367
+  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
+    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
+    publishedDateTime: 2019-12-16T00:03:00Z
+    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
+        width: 700
+        height: 466
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+        width: 700
+        height: 466
+  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
+    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
+    publishedDateTime: 2019-12-15T05:11:00Z
+    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 12
+    images:
+      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
+        width: 668
+        height: 355
+  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
+    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
+    publishedDateTime: 2019-12-14T14:02:00Z
+    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
+        width: 400
+        height: 229
 
 secured: "OysKnH6LgAqTlp7L5O+lYPIFn4VbkHRyIPsA4Ji/7JLJNFqWwHoBaolNWaw1J8rgwU6KtFSnzejvjEBBjge3A2vcagSSSS0dGvYP8ZSitz25eJW6ze9hhL+/L1UC48oJ6urP8y6dSfT4tmOqyobMyTCNFEChVa1X27NvwVnC7i+ceV5AmTFgR9m4i6xo26NS1iMuhgvG5tbgFlQl4vYpGLaf6bOPrH6t/4CE19B4Ivo99nwnHZJvB1tER/modppiMK3fakw3REMktSbrPyP8Aw==;BEVJZwMX89NsWGt04HiHZw=="
 ---

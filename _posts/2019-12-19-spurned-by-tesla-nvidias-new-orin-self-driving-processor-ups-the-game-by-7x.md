@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-pe
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
         width: 700
         height: 364
+  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
+    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
+    publishedDateTime: 2019-12-13T12:21:00Z
+    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+        width: 700
+        height: 413
 
 secured: "3STqLhabaAtqXL5OpLa6Q9RSQl7rURnFYayqhuSiHATeeelahLAJR4Ks6OX5PYARZTYYM5DIlTXp98yuXgGO487MYxgGbj6Cyq4HJnWonLQPlrLrpwviMEUN/WWFiR9JJnRbaX1yR4yToCkKWdsbHAx9YNN5fB70XcBhbTH5o4NEzrcUmH3kdFhyX3FQgfnH3l2hAGk3Fq4fnU8Pl93f72dmlphkFft/UlLa5yCiiCEBDS5cCEcMkW5lmIh2ruysmoVuKsqA/+97AuHWNWNhyw==;udKA1BM21o1w041dxcAWAQ=="
 ---

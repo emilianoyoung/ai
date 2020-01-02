@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -56,6 +56,21 @@ related:
       name: AZFamily
       domain: azfamily.com
     quality: 39
+  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
+    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
+    publishedDateTime: 2019-12-13T19:04:00Z
+    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
+    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
+        width: 415
+        height: 290
   - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
     excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
     publishedDateTime: 2019-12-14T02:05:00Z
@@ -69,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
         width: 700
         height: 364
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
 
 secured: "vImTNJ9XsYYd4xuw4ckh7jYWxiTKDstNPhu02Vb0RzZ/hCrmXdRhWhEHzom40TajsLkFAdLbvEJHSf6m04CVUdQ4lXXL2MBhT+wsr6bVN4CO5+Sn8s4oKtyUE0v11+L9KvOmPIKDzIVPyvOsqMCMGOrweU3wZ7UaZrhhV6GTRVqN9AqudsIcLT1GCB+AafE4IDBcrgA3YQjKEGY8BnFsAG9M4y8C8ZJX9xACdYnzoaD4DHfRyAua+nia7mPauBlNj2vtoUesI5hoXGLRQLsjTA==;kw4rPSJnjiMVLlc7byl0Dg=="
 ---

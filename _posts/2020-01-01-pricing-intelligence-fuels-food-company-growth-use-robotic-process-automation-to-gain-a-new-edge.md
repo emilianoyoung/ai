@@ -24,6 +24,17 @@ images:
     height: 531
     title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
 
+related:
+  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
+    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
+    publishedDateTime: 2020-01-02T07:03:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
+
 secured: "4CyN/u8ANLQQi8iNDWafHISd3foU8v87JxMK4zzC/9LgTCne25VRq8wgwZeZfWTl70ElpVwxkioc5pFqz23+4pilR98x0ak4/6IqiXzTDv1CIrEb/usjtnZFkWGOZ+znzTiJeWzVKH7g3VWYvQwY/ZCYD41RNTYUUVSOWbCIDvkmKID6dg+ZyywDh4adVv5VR06XknHBrcc/xN1GQlfP1fbr79inZJHv3l+zEvW+nYcAShG5g5AXUe2okJLbsPhuozglvo46w8fm6YbYqr/nMA==;I3l/XZ2uTho/x7NsUfNnlw=="
 ---
 

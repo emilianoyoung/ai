@@ -26,166 +26,209 @@ images:
     title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
 
 related:
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-13T10:45:00Z
-    sourceUrl: https://www.engadget.com/2019/12/13/waymo-uk-latent-logic/
-    ampUrl: https://www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/13/waymo-uk-latent-logic/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 101
-    images:
-      - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
-        width: 700
-        height: 367
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+  - title: "What Machine Learning Means For The Future Of SEO"
+    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
+    publishedDateTime: 2019-12-16T11:05:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 89
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
+        width: 600
+        height: 315
+  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
+    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
+    publishedDateTime: 2019-12-17T12:16:00Z
+    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
+    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
+        width: 600
+        height: 315
+  - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
+    excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
+    publishedDateTime: 2019-12-19T18:49:00Z
+    sourceUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/
+    ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
+        width: 700
+        height: 366
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
+    publishedDateTime: 2019-12-12T20:53:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
         width: 1199
-        height: 763
-  - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
-    excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
-    publishedDateTime: 2019-12-13T11:54:00Z
-    sourceUrl: https://www.businessinsider.com/googles-waymo-acquires-latent-logic-expands-into-europe-2019-12
+        height: 600
+  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
+    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
+    publishedDateTime: 2019-12-21T14:38:00Z
+    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 57
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
+      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
         width: 700
         height: 350
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
-    publishedDateTime: 2019-12-12T17:48:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+  - title: "A sobering message about the future at AI’s biggest party"
+    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
+    publishedDateTime: 2019-12-14T14:00:00Z
+    sourceUrl: https://arstechnica.com/information-technology/2019/12/a-sobering-message-about-the-future-at-ais-biggest-party/?comments=1
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
-        width: 718
-        height: 400
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-14T00:14:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
+      - url: https://www.bing.com/th?id=ON.E6C24EF77EBE6ED174C1F0C8A0D6F082
         width: 700
-        height: 388
-  - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
-    publishedDateTime: 2019-12-12T17:21:00Z
-    sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
-    ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
+        height: 350
+  - title: "Artificial intelligence and the future of insurance"
+    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
+    publishedDateTime: 2019-12-18T05:23:00Z
+    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
+    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 39
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
+      name: PropertyCasualty360
+      domain: propertycasualty360.com
+    quality: 59
+    images:
+      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
+        width: 620
+        height: 372
+  - title: "How VDO.AI is building the future of Internet advertising"
+    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
+    publishedDateTime: 2019-12-23T11:03:00Z
+    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
+    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+        width: 700
+        height: 393
+  - title: "Duet at TREC 2019 Deep Learning Track"
+    excerpt: "This report discusses three submissions based on the Duet architecture to the Deep Learning track at TREC 2019. For the document retrieval task, we adapt the Duet model to ingest a “multiple field” view of documents—we refer to the new architecture as Duet with Multiple Fields (DuetMF). A second submission combines the DuetMF model with ..."
+    publishedDateTime: 2019-12-16T18:33:00Z
+    sourceUrl: https://www.microsoft.com/en-us/research/publication/duet-at-trec-2019-deep-learning-track/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
-  - title: "Hungarian self-driving developer wins AI competition"
-    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
-    publishedDateTime: 2019-12-18T07:00:00Z
-    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
+      - url: https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png
+        width: 1200
+        height: 627
+  - title: "How Artificial Intelligence Is Reshaping the Future of Stock Picking"
+    excerpt: "Computers aren’t new to Wall Street, but for most of their lives, their function has been primarily quantitative. That, says Forbes‘ William Baldwin, is about to change thanks to the rise of artificial intelligence. Created by a trio of former MBA classmates at at UC Berkeley, EquBot is the answer to its creators’ dream of producing a ..."
+    publishedDateTime: 2019-12-17T18:23:00Z
+    sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
     type: article
     provider:
-      name: Budapest Business Journal
-      domain: bbj.hu
+      name: InsideHook
+      domain: insidehook.com
     quality: 39
     images:
-      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+      - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
         width: 1200
         height: 800
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
-    publishedDateTime: 2019-12-13T19:04:00Z
-    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
-    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
+  - title: "The future of banking is basically robots running everything"
+    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
+    publishedDateTime: 2019-12-23T06:04:00Z
+    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 28
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
-        width: 415
-        height: 290
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
-  - title: "Volkswagen Takes Stake In Self-Driving Startup"
-    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
-    publishedDateTime: 2019-12-15T18:34:00Z
-    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 24
-    images:
-      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
-        width: 600
-        height: 375
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
+      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
         width: 700
-        height: 413
+        height: 366
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
+    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
+    publishedDateTime: 2019-12-13T14:47:00Z
+    sourceUrl: https://github.com/deepmind/dm_memorytasks
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
+        width: 400
+        height: 400
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "pDOojkjnPwDKJjjRruc5ERj4zNsGNFX3Og9ZWsnVoj6ElevQZKmrNsLeNszsYOXCqST/mBYh9fg+OcXftBz73EGxdEvpji0jic9uxyGp370LK85OVWo0XTIu82O/Sm6RV6veJDht1QEuuMmEqzBYzW7gG//2Amd3jsPS/YZFo9ZnuD9ds3zuc/qKlVXoSlXcO/RE4vbJ4AgqQU+kNS+MLP7NWc6pQLUwPMzFdWVUvq5PTBa5UMSiPN/Crw7lKpsN1upV106BxbGyiQ3Pwi1uug==;sWE9ljWEUshEguiy/mtrWw=="
 ---

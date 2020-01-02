@@ -24,133 +24,107 @@ images:
     title: "BYU offers 'crash course' in self-driving car technology"
 
 related:
-  - title: "Honda self-driving technology coming next year, report says"
-    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
-    publishedDateTime: 2019-12-13T21:06:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T18:42:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
-        width: 700
-        height: 367
-  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
-    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
-    publishedDateTime: 2019-12-17T17:32:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
-    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
-  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
-    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
-    publishedDateTime: 2019-12-16T16:40:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
-        width: 636
-        height: 382
-  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
-    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
-    publishedDateTime: 2019-12-17T17:09:00Z
-    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
-    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
-        width: 457
-        height: 274
-  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
-    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
-    publishedDateTime: 2019-12-13T20:42:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
-    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
         height: 393
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
-    publishedDateTime: 2019-12-17T16:11:00Z
-    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
+  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
+    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-18T02:13:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
     images:
-      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
-        width: 800
-        height: 600
-  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
-    publishedDateTime: 2019-12-17T10:27:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
+      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
         width: 700
-        height: 525
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+        height: 393
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "HELSINKI (AP) — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the ..."
+    publishedDateTime: 2019-12-18T03:42:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Finland-offers-crash-course-in-artificial-14912225.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+      - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
         width: 700
         height: 466
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+  - title: "Finland offers crash course in artificial intelligence to European Union"
+    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the ..."
+    publishedDateTime: 2019-12-22T19:03:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/
+    ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
     type: article
     provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+      - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
         width: 700
-        height: 393
+        height: 465
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
+  - title: "Finland is offering a free crash course in AI to everyone in the EU"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
+    publishedDateTime: 2019-12-18T11:38:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
+        width: 207
+        height: 155
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
 
 secured: "b3AZYrgGiXVKRMp/yawFxiqmZ9TZo+b07HavKVt39fORbIV+nK029OEEStVMi93UkjoYG+vNgPFeiH7o9jgUFA29STf988yAgfGYrxPf+IfyEKDwgC2T4n0xUdbP6SBW245Xvc4zrCCJveO5KQlvvD57vQUTOk5hUgxjTxl1LmUhbZYy79kBt/l8DNnoJGdjQh9Re6NtToS7DITcNEF8puRDRJTclJFwPQ4MHlxHMWLel5b4Cj1w+wl9SDo1c1Ls+wuRNE3QPrznjOUeSa1KjQ==;93WEcQ01hUv/lOmiYFGBMg=="
 ---

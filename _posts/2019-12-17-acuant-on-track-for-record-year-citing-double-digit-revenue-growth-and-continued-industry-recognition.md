@@ -18,19 +18,19 @@ topics:
   - Computer Vision
 
 related:
-  - title: "62% of Brits would trial retina recognition identification - Equifax"
-    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
+  - title: "Speech recognition tech cuts paperwork for police"
+    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
+    publishedDateTime: 2019-12-12T20:40:00Z
+    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: GCN
+      domain: gcn.com
+    quality: 39
     images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+        width: 760
+        height: 368
 
 secured: "KId0WnmmngoPGaW29tV08HpR2v03WPbH9wRpUtQl5lEbqdu9E3evGV+3Hy38X+zBTbIjDANRwAuP9MN5IENS2Dp2ySGdEjI0pkkX7p3UR3wE+47tisPg8IUWdG+3UJVhxF4JqUziKeoC3I1Kl/eDGlUxoa7TpfJQ6sVu+zsUtgaUr0yJTW7/Z0eAvisHiyQ2tJhWkCHDQ9tdJ8wkKhdMLxBhlwTHW8imlzEXVyiBMi9aIlvy/+h1agXVMWxU8fOJExo22taOdQ4s5zNp7cmEIw==;aufg5YetsFM8bTCoadvfrg=="
 ---

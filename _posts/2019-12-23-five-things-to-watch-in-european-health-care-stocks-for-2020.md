@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.57BF2A561086F8B2CF73EE4D01843F9D
         width: 700
         height: 466
+  - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
+    excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on Thursday, announcing ..."
+    publishedDateTime: 2020-01-02T10:31:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15059657/xiaomi-plans-to-invest-over-7b-in-5g-artificial-internet-of-things
+    ampUrl: https://amp.benzinga.com/amp/content/15059657
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15059657
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.CE5F927DB9428C194C233C7F7C1C59D1
+        width: 400
+        height: 300
 
 secured: "XzxTuXQkbElCzLuclT9NPRUJGG9M+zPNQ9WiZ6vVWUMbKpniRfCFU40T8Sz58ptON2RJtcOlRHNPgaKUNcq1+Sp+izZYFslqKjOyGeEtFdb+etCzB4Ypj4sSnnJXOVagFLqzAGfgKcCNmR5wowB7b+kvLHp1xqGCMw8mu2xTfn2eK/IfBx4MzDljO4uP/GwxdhCbmEwYvhmgtWWHl/dnUzSpNgxEX5GEEzBhtc2CEasBhaYJ7R2aCKg94SD52JnXrcPYE3K20lhzNl7rrYPetA==;XMnEW3pSTKrYZCJYnJ5blw=="
 ---

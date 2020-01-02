@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-fou
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/5/20997225/deepmind-co-founder-mustafa-suleyman-google-ai
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 933
     title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
 
-related:
-  - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
-    excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
-    publishedDateTime: 2019-12-06T10:24:00Z
-    sourceUrl: https://www.theinquirer.net/inquirer/news/3084509/deepmind-co-founder-mustafa-suleyman-moves-google
-    type: article
-    provider:
-      name: The Inquirer
-      domain: theinquirer.net
-    quality: 39
-    images:
-      - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
-        width: 580
-        height: 358
-
-secured: "mJkebRb1xabn5Ct7oQPL8oc4rAh8V5tYqaRsv/qahOETIZZx3SrSQ0PYpIql77ksS3GIzO+gGWMtjwx8pDF2Dwg6zCGr8Et0e3cIOnChqQzf8xG3joPk22yPc3hykd9CqC1djaLeH7segOrUWFL3FNCZFeNz7pWVnlamZ7r+ElUxTyyeFfR/AZVkzlQxGDXNzy19O4mFYt58pKvvYjq4GNKHIJRcwk5XD2Jak6/ao1pka7lYR+xAFRwZHc69usrlzhnECX17FH1BKvNHqaXtOw==;p+cZH3xtEeQMGCSvEQuncg=="
+secured: "9aKOg1DPV5D4JtKajN4HXMuvb1TagwDAqoEypHJwHXl80xZ+At4U5atqMDwa1Mqj2p2bbU37WVOCPYCTpIZw9cPPTLUcEhcmvxBL+4ZaVvboiTCu27m7nJwn+BV3U7yUN3N8Kin5K4fgElRuYw2xPUmCqwff3GqcLv/pxIInp7e5Gur5dRla3N/ZOHRIJXlnangd9Hyc+9MIwSsjpcOme9tdqtemEUM2xozvW/S0TXPgbwv6bJbNTI3Zg6DTtfrFOFsHz6+UNKwkanT0WRZBcA==;lQnSIAlEw5QaBIodcjbVFA=="
 ---
 
