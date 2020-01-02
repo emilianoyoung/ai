@@ -138,21 +138,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
         width: 700
         height: 367
-  - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
-    excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
-    publishedDateTime: 2019-12-12T22:42:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
-        width: 700
-        height: 367
   - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
     excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
     publishedDateTime: 2019-12-18T00:05:00Z

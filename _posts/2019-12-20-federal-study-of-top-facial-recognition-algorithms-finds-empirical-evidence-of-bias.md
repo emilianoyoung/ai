@@ -256,21 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
         width: 700
         height: 350
-  - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
-    excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
-    publishedDateTime: 2019-12-12T22:46:00Z
-    sourceUrl: https://www.zdnet.com/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    ampUrl: https://www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
-        width: 700
-        height: 525
   - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
     excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
     publishedDateTime: 2019-12-14T13:00:00Z

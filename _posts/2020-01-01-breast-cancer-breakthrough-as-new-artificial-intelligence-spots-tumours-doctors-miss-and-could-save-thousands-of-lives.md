@@ -233,6 +233,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3134CF0DC0CD73FDE615E137EF31CE0A
         width: 685
         height: 416
+  - title: "Google artificial intelligence system could improve breast cancer detection"
+    excerpt: "CHICAGO: A Google artificial intelligence system proved as good as expert radiologists at detecting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported. The study, published in the journal Nature on Wednesday, is the latest to show that ..."
+    publishedDateTime: 2020-01-01T23:11:00Z
+    sourceUrl: https://www.thestar.com.my/business/business-news/2020/01/02/google-artificial-intelligence-system-could-improve-breast-cancer-detection
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.85F1FCAF1BF27656746DFBE8C7AF4EF3
+        width: 620
+        height: 408
   - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:34:00Z

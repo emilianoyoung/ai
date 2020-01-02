@@ -317,6 +317,17 @@ related:
       - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
         width: 700
         height: 466
+  - title: "Indian Adventures: Policing, Facial Recognition & Privacy"
+    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
+    publishedDateTime: 2020-01-01T23:51:00Z
+    sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
   - title: "Indian police are using facial recognition to identify protestors in Delhi"
     excerpt: "Police in Delhi have now used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about India’s new citizenship law that has sparked protests across the country, the Indian Express reports. Protests have erupted around India after the country’s parliament passed the Citizenship ..."
     publishedDateTime: 2019-12-30T21:20:00Z

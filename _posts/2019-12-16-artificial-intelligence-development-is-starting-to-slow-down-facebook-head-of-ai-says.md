@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.59422FADB267C081BC6E716D991A896E
         width: 600
         height: 315
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
-        width: 700
-        height: 393
   - title: "Artificial Intelligence Trends to look at in the year 2020"
     excerpt: "Through futuristic technologies like ‘Decision Moments’, which includes an upgrade of the conventional data-engineering toolkit, or Einstein, an integrated set of AI technologies that includes advanced machine learning, deep learning, predictive analytics, natural language processing and smart data discovery all within Salesforce ..."
     publishedDateTime: 2019-12-17T05:38:00Z

@@ -147,19 +147,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
-    excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
-    publishedDateTime: 2019-12-12T22:39:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/the-tech-initiative-that-saved-inspira-health-1m-voice-recognition-says-cio-tom-pacek.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 15
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
-        width: 400
-        height: 300
   - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
     excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
     publishedDateTime: 2019-12-19T09:31:00Z
@@ -241,6 +228,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "JJf2JYORcXaNDqW8GbxIDIafKXhGHzULMWy8EYInOfaWvZ7FhEeFrHv2S3NzZypgHjnLh/fWe944a9+3553NiUqJBhVXkyKV0e711/i+FOG2EmhzdkvFpzOkBYUWPQFu3abSpqBYPjmMFBg+UEg+gEvFyL3HwKuDJOV7lSr1XGjFadiBiGeuc9VL26T4UM/uMVA7PHbndRWNxjhTqCGu7vQnWhwBJQaI6Ldbj8YtABycPLOqBbKr1vGBDvfZym//dinuEDKnscltxSNKSv1wIA==;DP3+tkX1Xf7cM5PSRYNwRA=="
+secured: "4KSvwbI9ioNZTKtUU8It6QdzSkBL+mpbCYeBZi5PEyTXSacwhGxDHam50EgRFPcNj9JokvB+NQBczh4wvVbDe9zJwtxzDNo2TSVcr5x1EBZlXpPpsb36B+rtG7rR3qzdnEuZYn6xWjHVw2Rqtd0bAW97iYQ3cA1hQcm8jF7it0DgttXMgbbQq66zq88+M5y79PjWBhNwEqEDccBp3ffQ6+el4KhN8mivYzo7Mo+0hFMxFqhuqxJh7sWtLXfnRZXekxIb8SCd2+Najxil/n3Arg==;/R/xKljsQJE0uH4FjLtBGQ=="
 ---
 

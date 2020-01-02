@@ -1,27 +1,26 @@
 ---
 category: news
-title: "AI system outperforms experts in spotting breast cancer"
-excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-publishedDateTime: 2020-01-01T18:27:16Z
-sourceUrl: https://www.msn.com/en-us/news/technology/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwspg
+title: "Google artificial intelligence system could improve breast cancer detection"
+excerpt: "CHICAGO: A Google artificial intelligence system proved as good as expert radiologists at detecting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported. The study, published in the journal Nature on Wednesday, is the latest to show that ..."
+publishedDateTime: 2020-01-01T23:11:00Z
+sourceUrl: https://www.thestar.com.my/business/business-news/2020/01/02/google-artificial-intelligence-system-could-improve-breast-cancer-detection
 type: article
-quality: 39
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
-    width: 700
-    height: 367
-    title: "AI system outperforms experts in spotting breast cancer"
+  - url: https://www.bing.com/th?id=ON.85F1FCAF1BF27656746DFBE8C7AF4EF3
+    width: 620
+    height: 408
+    title: "Google artificial intelligence system could improve breast cancer detection"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -153,6 +152,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
+  - title: "AI system outperforms experts in spotting breast cancer"
+    excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
+    publishedDateTime: 2020-01-01T18:27:16Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwspg
+    type: article
+    provider:
+      name: The Guardian on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
+        width: 700
+        height: 367
   - title: "Google's AI can detect breast cancer more accurately than experts"
     excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -218,19 +230,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3134CF0DC0CD73FDE615E137EF31CE0A
         width: 685
         height: 416
-  - title: "Google artificial intelligence system could improve breast cancer detection"
-    excerpt: "CHICAGO: A Google artificial intelligence system proved as good as expert radiologists at detecting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported. The study, published in the journal Nature on Wednesday, is the latest to show that ..."
-    publishedDateTime: 2020-01-01T23:11:00Z
-    sourceUrl: https://www.thestar.com.my/business/business-news/2020/01/02/google-artificial-intelligence-system-could-improve-breast-cancer-detection
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.85F1FCAF1BF27656746DFBE8C7AF4EF3
-        width: 620
-        height: 408
   - title: "Breast cancer breakthrough as new artificial intelligence ‘spots tumours doctors miss and could save thousands of lives’"
     excerpt: "A BREAKTHROUGH has been made in the battle against breast cancer as a new artificial intelligence system spots tumours that doctors miss ... is called off AI tools could support clinical decision-making in the future and relieve pressure on healthcare systems by reducing workload. Breast cancer affects over 55,000 UK women each year - killing ..."
     publishedDateTime: 2020-01-01T18:26:00Z
@@ -260,6 +259,6 @@ related:
         width: 700
         height: 437
 
-secured: "ytlY1+eBwAMoPY9YVubuyUEFmB71BmXc0VGv+ghNaxsJIfzFC0TZSy6ovv7Nkzcwpva+7e4NAmgBeQRR237z2APpbKnCI2olw8jHXfw3u/vgIG4RBKu4fAaotr+8lcv91Br2fYE4c/tYbNdzgAQHP6soShZFp4C/uksae3CcWChbUqtbF1Wzx7YRsKmowaOSSCoWrR5wR/7SYgGvg74zvL/Vdx70ghjBWBEKrd/feKL2K4y0ZJ+9fengLEgg/bhYkbH+ZeRlOikSwe6d/hpqJA==;kCVPx3F883DA2AZUCVUTVA=="
+secured: "2jOTqzbMwhqDROKDv9pmi3uLhn6zB/3D4eaCKmOPT7rEGFpVdsszoyElLfw3K4bewHNX9wiKnPWM4zxhNUZ6wijM7UHRKDcJogtcEzRFL9Hrkyp7cdgyf96WBK2hvNMOLS6D18SyOAjqJGrNWOCNXeixtyvE6dVq666oVU2+6gfX3AgujSVxMNUUZUVVrCsikRmylNv/TyNTN5SnK4MF3dpqKFON5onk/Cb+M9KgDTap0WhsKmWj3L+3Ubk7iqqtATjucR5TRUcWuu9xdDWGHw==;bRTmDJQ2oqPuswTMOyggYg=="
 ---
 

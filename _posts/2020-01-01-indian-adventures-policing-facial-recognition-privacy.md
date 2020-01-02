@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-publishedDateTime: 2019-12-25T00:06:00Z
-sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+title: "Indian Adventures: Policing, Facial Recognition & Privacy"
+excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
+publishedDateTime: 2020-01-01T23:51:00Z
+sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
 type: article
-quality: 0
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Scoop
+  domain: scoop.co.nz
 
 topics:
   - AI
-  - Natural Language Processing
+  - Computer Vision
 
 related:
   - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
@@ -311,17 +313,6 @@ related:
       - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
         width: 700
         height: 466
-  - title: "Indian Adventures: Policing, Facial Recognition & Privacy"
-    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
-    publishedDateTime: 2020-01-01T23:51:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -383,7 +374,16 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "N33djKOeXN0xZe6cL8x67SCx64I/8bsjQAEljRd4UNxkgJLBUf4h5BoUmn8MmFYqEAALwdlkDYqrLcFV6cQQv+o1S92fPs05hH5q49U+9q2GJ3GH6j6efkD5DTnYpmZyQKDJ+zEA3JMjVztpZHpUQ0j7htmZoP+owndHAmPY2+bCWJF+vcFiycuEuNsQcystod4y8DE6gskcqPT23BdcB8xNR8dQ8c6UfoGfk6QIre1+jEiZkW2rTlfOZG0Q3KdEbFGtEfXrXI15mVSSBwQc4Q==;sU9zUsbR19o0v3UIkSrkIg=="
+secured: "5pQfywUCQ8rl5ZJYHINDEORHQqs12H6TTjjGGSZDepg9HCwbOG6G4+JiEgek9Op3RD94Zl19o5mQN8k66RDrgbO0Pbp5tftzCwokcO/yv1dRVG+8ZcVPnzRe0Tsen/XICamNbmU/5sLKG6h65NNZZ8mR+lFyjeHQ/1RMc2GTPYKe7VKp4VfQh31lm/l0QmTwm+i27zbVtdU39qTAjzGxBeqKUNQCr3LcoK4l3MvmSEM/8ZIC5RU6i2KwKB0IVF6naXxJpYfH80qDGXm6mm6UxQ==;/F46fg/qfCRrLAkzPBWiHg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T03:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
 type: article
 quality: 69
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -147,19 +147,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
-    excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
-    publishedDateTime: 2019-12-12T22:39:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/the-tech-initiative-that-saved-inspira-health-1m-voice-recognition-says-cio-tom-pacek.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 15
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
-        width: 400
-        height: 300
   - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
     excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
     publishedDateTime: 2019-12-19T09:31:00Z

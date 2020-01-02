@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T10:23:00Z
 sourceUrl: https://www.businessinsider.com/apple-acquires-spectral-edge-to-improve-iphone-camera-2019-12
 type: article
 quality: 64
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -25,23 +25,6 @@ images:
     width: 700
     height: 350
     title: "Apple quietly acquired AI startup Spectral Edge to beef up the iPhone camera"
-
-related:
-  - title: "Apple acquires machine learning startup to improve iPhone photos"
-    excerpt: "According to a report on Thursday, Apple recently acquired Spectral Edge, a UK-based startup focused on improving smartphone photography through machine learning technology. Citing government documents made public today, Bloomberg reports Apple recently took control of the company and assigned lawyer Peter Denwood as a director. All other board ..."
-    publishedDateTime: 2019-12-12T22:28:00Z
-    sourceUrl: https://appleinsider.com/articles/19/12/12/apple-acquires-machine-learning-startup-to-improve-iphone-photos
-    ampUrl: https://appleinsider.com/articles/19/12/12/apple-acquires-machine-learning-startup-to-improve-iphone-photos/amp/
-    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/19/12/12/apple-acquires-machine-learning-startup-to-improve-iphone-photos/amp/
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.796D8C2C43EBDF3B67DF051474351488
-        width: 660
-        height: 372
 
 secured: "zOZnpxMiPADzc/wL8T842C/dbpT4jtDPtp6VQfiXXKNinqZC0z4n5QOPRAq3Pj3tiK2EQSxBmv1tfwOmVVK3wCwxLumH6nxt45zh31YcQJ/lhlJoD5emxJxYlcpFipl7D0C4ML/aCjdfkSfXmuhJxQZcOTDEEXA4/UH3nN9K3uvWZsqdwlfN6VBVJZ9vPd2LCJ5+KoAC7vhVMqth+gk4qFx9Gck1GE+1h7RW1VCmxJf8daJ8MwMxq8QMBeHWaoZTwVRZpeAHnGc2Pu/tAhF6bg==;bIJ0V2NDoH5J3dXbLgK6HA=="
 ---

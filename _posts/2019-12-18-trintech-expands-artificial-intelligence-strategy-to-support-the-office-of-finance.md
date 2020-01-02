@@ -139,21 +139,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
         width: 700
         height: 367
-  - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
-    excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
-    publishedDateTime: 2019-12-12T22:42:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2019-12-12/qualcomm-backs-artificial-intelligence-start-up-to-push-5g-into-industrial-markets?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
-        width: 700
-        height: 367
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z
