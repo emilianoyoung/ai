@@ -7,8 +7,8 @@ sourceUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer
 ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "gNWqsOmjmWS3VuNTWQTJ781eJ+usYZQmkFoyzZFlfjcVH9MKzDQbT5ddwQR7RmPi41JLLas15h9VxtIiQicwyNvzScV41gZlkO74+lRodas4bAoNT5Q1PJKeHqFY5k7aQJULU9Yt40m0G0KWBUn+peLVVNd0A1J9dVW5y1fG8SxvFMRd87s+FElpRImffH5OVtHgTVp6oiQLxCtNjgnSgVtCXHbNUWQhQWLkDsQBcW8Ln8/4JyFbry3pfP3dQla7XlLtCWKFKoSODMrY7G16bQ==;8ITu5w6Rw5oN/S/NxBVUTA=="
+images:
+  - url: https://scx2.b-cdn.net/gfx/news/hires/2019/24-deeplearning.jpg
+    width: 1920
+    height: 960
+    title: "Deep learning identifies molecular patterns of cancer"
+
+secured: "A/39g07J4Q6cnePpIzplr9X6TMh0RC9NajRsKkmTfTMXJqaPQBZRG3ao521SIMRQpBYgjgAI9YXMwWEEuXAN6B01LkrBeCfdpWvyS5+czAO1wJGRjWVW3kwQLsPxsn7kP7RJR1KULb7ZUG63oRPenN2NO8KWPNwHfFM02sc2n8DEh5/CBjClc417yMnnqQlwV4Z0MygHY1hmbLBXz6XUGZALa1w8685mlyHMEJIw/a3KQFhk+DWqCpSxfo4EjfU3X7ZILpKpLU731EDWEN0JJA==;2z9/C9Rx2+KRwt4LhHwQyw=="
 ---
 

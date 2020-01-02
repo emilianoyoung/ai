@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
-    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
-    publishedDateTime: 2019-12-26T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "bS57ipr0JwHORLRqa+u/bbhVMO1/VmX7FT0z0bdSIivSb4AUzyepgLSiVy1av2/MiFTD0cqqL9v1fjObKfODX4cIAfLznS9xB89f4Hjufmfci0EeZijjjPCLpr7zWRHDubdUSbZm3oWpORtyQ8vwrOJjx9CWE63imLgkIVazAXcP1ZzDMtcWmTH3L3M14pacWC2qGKepg7XzRqX2EMEiLNDWGKWo53jHLj2JEEwqkzJjTD9m/++x9zdwQaQqIdwiOw02tSTP4p3dZ5qf0CZKiQ==;gDD73ai+44q31FvvuMfQkw=="
 ---

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-publishedDateTime: 2019-12-05T20:58:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+publishedDateTime: 2019-12-05T20:42:00Z
+sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-    width: 1200
-    height: 627
-    title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
 
 related:
   - title: "Amazon and the NFL plan virtual games to understand real injuries"
@@ -51,6 +47,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "xMrj0vEk+fLHI6Spa02thSL7AQSrC4lMTRH4C+hAAaCk2zPqN6Fzet0lgn2Oh120Kcza2JBkOWknEUkxjhkqkILHOC6J1u9r11diQwr00lqa5dK43653aUZ02GfMUrizJe+5E4TBhPzc5uY2G7f3IDidQYlRNV3LOft0DpRre1PZHSOBRVRUDoXa4l491p9H86ZXGtrN0q8uJ11rQleFqPsgsfR5h0UP6xNRTZN3KYgnfvRCSQfObz+ZpdDyqNFUSZhTO4Lt9GlUl+DAv2WaiQ==;DIw9ORct7k73DYqArP/Fog=="
+secured: "CB8jW/UgfhmKkg/vlIGFjF1fIDg1vI3t3aIXts+UVYWEcZusims+SOD+Ghd4W/GgcDLxtKILQRx5ywqRgrPUgPn4xo5iGfbFl61pspNTQr9TzkdXhJppYcZkqCCJtTUgH8kog4RHFMcnrF+km+5wiN0js2kHjzBdJPSFPLaTGhMDzQsl6owi1nQ9fpSZ20XAzgq0O8Z4tZZwSEuHdkgnHa25Au6QP5iLPKwGLa3rqIiTxYb2kA+6up6FZPEUgALMUkA8eBI119VNylTWyURtGw==;2DcaeKXadonkbF/Xh25gpQ=="
 ---
 

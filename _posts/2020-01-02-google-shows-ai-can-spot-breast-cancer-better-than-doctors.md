@@ -2,16 +2,22 @@
 category: news
 title: "Google Shows AI Can Spot Breast Cancer Better Than Doctors"
 excerpt: "Artificial intelligence can spot breast cancer more accurately than doctors, according to a study by Google Health. The technology’s reading of mammograms reduced both false positives, where healthy patients are mistakenly diagnosed with the disease, and false negatives, where the cancer is missed, the Alphabet Inc. unit said in a blog post ..."
-publishedDateTime: 2020-01-02T09:31:02Z
-sourceUrl: https://www.msn.com/en-us/health/medical/google-shows-ai-can-spot-breast-cancer-better-than-doctors/ar-BBYxF8E
+publishedDateTime: 2020-01-02T09:31:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -38,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.34ACDF1E4AA3B8C222AB654AA9DA1114
         width: 700
         height: 393
+  - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
+    excerpt: "Anonymous scans of 29,000 women were used in the trial. The biggest improvements over human scanning was found in the U.S. portion of the study. Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer than ..."
+    publishedDateTime: 2020-01-02T13:21:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.9D8D2E32BC91B975DE72CC25B9A33915
+        width: 700
+        height: 466
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
     excerpt: "In the paper, researchers detail the successful results of an AI model able to identify breast cancer in mammograms missed by radiologists when tested against scans of over 25,000 women from the UK and over 3,000 women from the US. The AI, which was trained on anonymized mammograms, was also able to reduce the number of false diagnoses of ..."
     publishedDateTime: 2020-01-01T18:11:00Z
@@ -68,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
         width: 700
         height: 367
+  - title: "AI 'outperforms' doctors diagnosing breast cancer"
+    excerpt: "The algorithm outperformed six radiologists in reading mammograms. AI was still as good as two doctors working together. Unlike humans, AI is tireless. Experts say it could improve detection. The current system in the NHS uses two radiologists to analyse each woman's X-rays. In rare cases where they disagree, a third doctor assesses the images."
+    publishedDateTime: 2020-01-02T00:07:00Z
+    sourceUrl: https://www.bbc.com/news/health-50857759
+    ampUrl: https://www.bbc.com/news/amp/health-50857759
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-50857759
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.83841D8E2243EC088FDF6C0EF787B37F
+        width: 700
+        height: 393
   - title: "Google develops AI to improve breast cancer screenings"
     excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
     publishedDateTime: 2020-01-02T00:58:00Z
@@ -259,21 +295,6 @@ related:
       - url: https://www.bing.com/th?id=ON.601B5B504E4A8BABA7131190840534E1
         width: 700
         height: 394
-  - title: "AI system outperforms experts in spotting breast cancer"
-    excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-    publishedDateTime: 2020-01-01T18:00:00Z
-    sourceUrl: https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
-    ampUrl: https://amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
-    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
-        width: 700
-        height: 367
   - title: "AI system is better than human doctors at predicting breast cancer"
     excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
     publishedDateTime: 2020-01-02T02:00:00Z
@@ -399,6 +420,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
         width: 647
         height: 700
+  - title: "AI could spot breast cancer more accurately than radiologists"
+    excerpt: "An AI system, developed by Google Health and Alphabet Inc’s DeepMind AI subsidiary, has now been shown to identify cancer in breast screening mammograms with fewer false positives and fewer false negatives than radiologists. Mozziyar Etemadi of Northwestern Medicine in Chicago, who is a co-author of the study, said their findings “represent ..."
+    publishedDateTime: 2020-01-02T13:38:00Z
+    sourceUrl: https://eandt.theiet.org/content/articles/2020/01/ai-could-spot-breast-cancer-more-accurately-than-radiologists/
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.68494A7CD24E4599A80203A5A603DBDF
+        width: 700
+        height: 262
   - title: "AI system can detect breast cancer better than doctors, study finds"
     excerpt: "Currently, one in seven women in the UK develop breast cancer in their lifetimes. The programme was developed by Google Health in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. New treatment aims to make chemotherapy more effective and reduce side effects UK lags ..."
     publishedDateTime: 2020-01-02T07:59:00Z
@@ -464,6 +498,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BB4628F86C71103094B33F65CA463260
         width: 700
         height: 466
+  - title: "AI system outperforms experts in spotting breast cancer"
+    excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
+    publishedDateTime: 2020-01-01T23:10:00Z
+    sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
+    type: article
+    provider:
+      name: The Guardian on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
+        width: 700
+        height: 367
   - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
     excerpt: "Working with medical experts, engineers at Google Health have created an AI model that lowers false positive and false negative rates."
     publishedDateTime: 2020-01-01T18:00:16Z
@@ -501,19 +548,6 @@ related:
     quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.D8BFE0202F578B7EFC2B52F491BF306F
-        width: 600
-        height: 315
-  - title: "AI 'outperforms' doctors diagnosing breast cancer"
-    excerpt: "Hospitals trial intelligent machines to improve cancer detection and results so far are promising."
-    publishedDateTime: 2020-01-02T00:28:00Z
-    sourceUrl: https://www.msn.com/en-xl/news/other/ai-outperforms-doctors-diagnosing-breast-cancer/ar-BBYwN0U
-    type: article
-    provider:
-      name: BBC News on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8E7F68233DFFD3C7F028721C89DD494C
         width: 600
         height: 315
   - title: "Google artificial intelligence system could improve breast cancer detection"
@@ -557,6 +591,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
         width: 685
         height: 385
+  - title: "Artificial intelligence 'better' than doctors at accurately diagnosing breast cancer"
+    excerpt: "Artificial intelligence has become more accurate than doctors in diagnosing breast ... According to the researchers, the work demonstrates how the AI could potentially be applied in clinical settings around the world, alleviating the pressure on healthcare systems by supporting the workload. Dominic King, UK Lead at Google Health, said ..."
+    publishedDateTime: 2020-01-02T12:04:00Z
+    sourceUrl: https://www.standard.co.uk/news/world/artificial-intelligence-breast-cancer-google-health-imperial-college-london-a4324786.html
+    type: article
+    provider:
+      name: Evening Standard
+      domain: standard.co.uk
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.1D4928BB6F40982060FB473D2B9EBE5C
+        width: 700
+        height: 466
   - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:34:00Z
@@ -584,6 +631,6 @@ related:
         width: 500
         height: 500
 
-secured: "GpkZtdNL4gMEY1BiDAfolNw3QsNlGKaXS6PXVgh0YWCEBBCDmAWOg59SWGAiGoCUBgaYDk7t7n7QLA6PVW0JebCn/IV+r52bkqQJTLTYuHS6SE7aoJBCrJprfmN0M3vUa8kUEg6to7xSPgWTAb19BGra6dvJbaqnmbXqExFXYypUDBdWd6tunCHWMVCWrs4Qof7CFYEGUOCjAhbWe/Lv43obfYhll4b9qqjC7wyVRyRa3Fnqr0HM5wtxQ+1ANJqYGRI+EqOq9b414Xyt8aoV8A==;dE9CQAqVjA/4vUsve4E/Vg=="
+secured: "JufBD3i2wPmVz2fS2hLxvAHKTGEoJNF+vnNKe0uCQAQe6quhOFOf2kTAW18YqrJ5RoM4TFVduQO9IgSl6lpbqjZ5tqC4/xna45sYHjcBrAi5kghJdD0Ka9csZh9oOjGwyDBdp6Of+dkIBaddQUmJDtVxB41kHqegEJjWQCl874LCLrZbj8WVaKLa2CQW4LQBRcSDSsjhSs7l+TrB/Hgc5XnYwMsT5bL4nT9EMxGHCVtCo1miLk3ov7ZpkBtxRdz5ExEgraj+VLFgeDManSyiNA==;VeurrfXJ/dd6RBOSrC/lXw=="
 ---
 

@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.61E82D1DD590446A2DB88DCF96AF4EE2
         width: 700
         height: 393
+  - title: "Apple Inks Licensing Agreement With Imagination Technologies"
+    excerpt: "Apple AAPL recently signed a multi-year licensing deal with chip designer Imagination Technologies Group Plc, its former GPU supplier. The latest deal replaces Imagination ... use the latter’s extensive intellectual property rights related to graphics and AI, which could be the keys to Apple’s initiatives to bring 5G to its flagship ..."
+    publishedDateTime: 2020-01-02T13:46:00Z
+    sourceUrl: https://finance.yahoo.com/news/apple-inks-licensing-agreement-imagination-130901284.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/apple-inks-licensing-agreement-imagination-130901284.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/apple-inks-licensing-agreement-imagination-130901284.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A07B7883A055A42EBF0DF056538DA464
+        width: 635
+        height: 400
 
 secured: "4aofePqqGU/Rc6ggUU2qc1TvXxsJfu/uAtsVqdQX/ND2y9axCqCL/SItB5RZBsWSTv6nMP87L7GwL468ziiIb0h/+D86z2RNRZ1AcRbuFpoQ9CkYvGqRrKawjDdDVOGKn6CEiI+kMOnUihGz0IwKMwbwpv9xuxDU4iXWn5O4iReUM1ga5xjLoE67N/zvycpZ+qBF5UHZpGLqe7K/KnqIsotYCOQepwqgjH2ys74E8eaqCwCMGOWlM48NwvbIaQdZKBiw/DZbNC/uWS9VkhYj7A==;4LesTv8lBHIx+4NV8fDmvg=="
 ---

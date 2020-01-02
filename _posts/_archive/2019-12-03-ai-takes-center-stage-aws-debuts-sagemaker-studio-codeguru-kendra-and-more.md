@@ -23,6 +23,6 @@ images:
     height: 523
     title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
 
-secured: "MYXyVNcLcH6C6qyMD5XY4VM6msbgldNZeJPQOLspuCQPDqYLUXcNSZO8MqsTJZ5A7xJvobXNlwGT9Hrj/5PGv0mRxqJo2U666ED7s+9Beo4TG0GgefDd/GEBJXlweOoFyacd2GdS7GV9uOQM5xn7f8/BMhJmWBib6btwZYs101/icD4W0+oOFpizqVJIlMMROZtDxfMbLWP8Ikvf2Qcbym0Vwfpq2vXu6xzqlOkae1p2flNTq856GGAfdImgLEq9HXyKuvXBqzYi9y5J2tR19w==;6TPZDy5jwWunp05H8HvExA=="
+secured: "Jo1aK/aJjO2mOxWs5a1hKueDG+GqSEpfxDQGgF3UF17mM2+ZibrbOjSNLVrT+e44PI4Tf3Ouuqkjgjnb07YP7QLcaKAe4JeyiYP1VkWiqEdVQj0cmuYXVQJ57E4fiFOF5WWzWTgNgbgU0c3jacHuszv7/OxVzOQujgYNaaLDCtT64hGo1uZ1PNnsltqaPY+h6SW5tSWlfXmAsUv0VimF0rCda0SyCJcennM+fIt1Wqi8W1+00ovUgJiawhOknZvwqjbH6CtsQiU4bM7k96q4mQ==;yqycC6Te43TEWPCvET4ifA=="
 ---
 

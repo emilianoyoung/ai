@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3220DD48849E2DD7403F5FFE630CF54B
         width: 700
         height: 423
+  - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
+    excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
+    publishedDateTime: 2020-01-02T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/
+    ampUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.D13A615E8E9333CE6C73625F6F01EA00
+        width: 700
+        height: 350
   - title: "Baidu can now test its self-driving cars with passengers in Beijing"
     excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
     publishedDateTime: 2019-12-31T09:47:00Z

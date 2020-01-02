@@ -38,21 +38,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc59fd4e29170007838c30%2F0x0.jpg
         width: 1200
         height: 675
-  - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
-    excerpt: "As the growth of data acquisition accelerates, migration of compute closer to the edge allows more efficient use of data at reduced latency and infrastructure cost. Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see ..."
-    publishedDateTime: 2019-12-13T12:49:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: https://www.bing.com/th?id=ON.4BE8C4D98D5ABA9A43542ADC99B6480D
-        width: 600
-        height: 315
   - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
     excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
     publishedDateTime: 2019-12-24T01:19:00Z

@@ -2,22 +2,16 @@
 category: news
 title: "Bosch is finally making LiDAR sensors for autonomous cars"
 excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-publishedDateTime: 2020-01-02T07:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+publishedDateTime: 2020-01-02T08:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/bosch-is-finally-making-lidar-sensors-for-autonomous-cars/ar-BBYxzme
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -46,6 +40,6 @@ related:
         width: 636
         height: 382
 
-secured: "z1PPcNoZwI1lN9WytOZz7837iEaRgiL+sLUeu6JGcxRXjW04owymGXckS+A5cTJHtURwDRLoGjFbViGRqoskLy1F7P6daBhZlY59+17RDUd8jShzLZMFrl0qYWZf5Kk+o+sOinqAWwXv3iRvKpipe6ErfYetY5/VzuJ0NXldQ1vX9vXyhB/e7ThwDQn7Gx+dtLj/yVhl5wvPvBI+pHYCI+RYIGnxe5khtxSyhVTiowamKkHJ2Odh8bAIjQ1UhMjwV3uo16nw7kjSIpbEZrhDEg==;nPn8S5aRkeTIENSPmytmpA=="
+secured: "DuD6W5WhNeSXxW4t1af4oBmoLlywfWQwOO0rosuJNROmeToYPdaULJTGAQlFO+ep3OOLO5+eRubeIgycBVjTjpBVlQyLAMyPe9TKHqBZd4aSl+6bsXDez1dzyjufAWBwejzHCXTalc8atidU4Y3i/Nj2sYYbZsN5xo+pFuiNj1T1TsRBTMxhM7RyGTC3DVRnkzmj+pRyMuaqOkuyKBv56xKb9PpHPujd6vGSgbXpUhokq3+2lG4pSkryDDgU+SKXiPqPSUNlVicfQOIR0nzQmA==;aUzBAoHw7GvP3XFpHm0kwg=="
 ---
 

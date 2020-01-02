@@ -8,7 +8,7 @@ ampUrl: https://www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bo
 cdnAmpUrl: https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,15 +28,13 @@ images:
 related:
   - title: "Bosch is finally making LiDAR sensors for autonomous cars"
     excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-    publishedDateTime: 2020-01-02T07:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-    ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+    publishedDateTime: 2020-01-02T08:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/bosch-is-finally-making-lidar-sensors-for-autonomous-cars/ar-BBYxzme
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 24
     images:
       - url: https://www.bing.com/th?id=ON.A70535DB790916403AD7C22D17E063CA
         width: 700

@@ -69,19 +69,6 @@ related:
       - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
         width: 620
         height: 348
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
-        width: 700
-        height: 413
 
 secured: "h9wgBVBkSIYn381MLnhvBGRCPdbCR/e0VXdJEfSW2YKW7K80zILXZR4qQsOWVr8fhxfKbRhNifWKwAOx4rZpzMhlcEJ3zHtoXLDrvfDPCoVyZcd8U0ZLdfvqFk6sH+WLGdJ02WnhHqmGlpO4kB+2Fz9ios2B7b6Vjg0A3mzmz2QV/WLhoXMOtWVdku/CSs7/I0PX2apnF8hAq0IIi5Gxd1TUTXJA4rxWHmwiAlR/3LexrVkpE/v8lqkJBZHrFkSZtOH5K/9YzP3BISEirLjDEQ==;1SVvepjNDw5n+7bLil6PLA=="
 ---

@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.970CBABFFC89A672594B4944739CF1B6
         width: 700
         height: 367
+  - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
+    excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
+    publishedDateTime: 2020-01-02T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/
+    ampUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.D13A615E8E9333CE6C73625F6F01EA00
+        width: 700
+        height: 350
   - title: "Baidu Gets First Set of Licenses to Test Driverless Cars in Beijing"
     excerpt: "(Yicai Global) Dec. 30 -- Baidu, the Chinese internet giant that is investing heavily in autonomous driving, has obtained the first batch of permits to test self-driving vehicles in Beijing with a driver present. Forty licenses have been issued to the Beijing-based firm, the city's Municipal Commission of Transport said on its website today."
     publishedDateTime: 2019-12-30T10:50:00Z

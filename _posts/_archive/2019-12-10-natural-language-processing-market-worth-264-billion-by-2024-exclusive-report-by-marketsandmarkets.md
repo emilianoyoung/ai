@@ -70,19 +70,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
-    excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
-    publishedDateTime: 2019-12-13T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-technology-growth-advancements-and-business-outlook-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
     excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
     publishedDateTime: 2019-12-17T15:53:00Z
@@ -92,19 +79,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 16
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
   - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
     excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
     publishedDateTime: 2019-12-14T00:10:00Z
@@ -117,6 +91,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "OQtUDwQPslNsJP3uUZ1qUQvYny5nXkPnM5DiEsEOgaJkW262ZddGTyIzUeEvgPUDtt5RAmXa8SlI0EVl4rGKC/tn89kU3XQeJgzbzkfKUsBPY2MUnw+7Tabk50FEJqaIflMCQdK2f9BKnLfsolPBrSgjisOKtBw9MHj4IZhmynktDBPdhP7+WG6TYsDfAR4+AauBCV2g5A3M2+t9Y0kk5owFtHqtwU0y8+8Z7qe2Fgv2CNiphi13gXu850G0OcsowX6O1MsvnHhKPMlV6qfhOg==;xggqg0+ik40XhBGLfwGIrQ=="
+secured: "TfvCTgSyJJEIMy0XvlIzAXvIzFB4DPXDTv/IPkOIhuyImWi5EgyFaquMmqv/rwKPxBWUlFd4t8VYJwAT1IDAMOEVCqo5vgxBX5vqDUcXX9P0UJiGodMd6Q/A1/j+G8Go5cLjxM53Kk6q//Gut3zccY1pXEjDucr9xoAQfaFm0VSTshJgl2nmMuJOgPG8FNlZfDS6AwQY2nqaekMtABeNRGU+i+rn1iYofalwvNazXTM8EEqRlTlvQrj8DZDyycAnm9eUS6wtL2Es5M8wccdQkw==;CWrSAd/qFGfrtBy5G0XUXg=="
 ---
 

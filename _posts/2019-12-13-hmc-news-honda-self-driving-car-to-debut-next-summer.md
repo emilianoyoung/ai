@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
         width: 700
         height: 364
-  - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
-    excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
-    publishedDateTime: 2019-12-13T12:21:00Z
-    sourceUrl: https://www.washingtonian.com/2019/12/13/self-driving-cars-have-arrived-we-gave-them-a-try/
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
-        width: 700
-        height: 413
 
 secured: "qg8sQnzII4Yu2uz7aEj+rIXKCu9XyOkMybmT6Zx9bi79Uh0IdD6sorzwvs6bsK52KJ6PXUGffINAWxgEDIpIspCat1bA5Bp0YsBEg8arF1rQW0x5/aOsJtUt4X8z0vVVXzBWLvVwtoovu7jzOKZc/aMn8B3UL6ikUHCPB7wOm7vGns8kg80ywUlq6Mni84E3d4aL+K417EBkitZLMP7uX7CohMHT0AUD8A8quQsWKZUxseujOnwPIu/Ny9q7qEqshLNqGXNrAeUGCcnmUwOZrQ==;a1zW7kjdcRXMc7QaQzOQOw=="
 ---

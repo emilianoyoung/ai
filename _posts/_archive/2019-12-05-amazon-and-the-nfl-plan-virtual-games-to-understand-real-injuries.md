@@ -42,19 +42,17 @@ related:
       domain: techrepublic.com
     quality: 54
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
-    publishedDateTime: 2019-12-05T20:58:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T20:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Yahoo Finance
+      domain: yahoo.com
     quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "jh3poa75Dph9HC+4LIRjrOuKhq60nCnfW666X/oCVfjmIzhg8K5/JnVKOCi5QRmVb0NS1gLKTW/Z/v8gAcxzVilH8QGtOspPTFFp1eRs2LBJIoYUGx6AY1eVWAHtbo7x1HTQf0rn6W+4JNBLjan4irDmv9zPNT6KsJeBVfKLH0eA+FB2S9a3FpZHeFtbirXKXT2C9Fim/Rxvo/Uh72kaOYGyb6yVOk+mMS26qBz/VJHOweJLebsCFa7ndgJNhFk1Y5lqrKmx37JeeC79i76bGQ==;uk5GAGaR2UDtCxRZL0fnag=="
+secured: "tzT+6gnM32Iv+5G/NWvai/hNbJDaY6GNU2PAN9eHgP4ieCMFPnM5liCHZacxmaQxsURZDmYbIkKHpPldEndwonMyOEedRFf3Oq7l4n7EzaABOw0sxA47/M7AV1WRjyqWFayPw+R6JMRV45ajtD21oTCZxzebTXBKYfQtBMlw7E6k7FeuYPkA0p2HK57JGeHOLUG3GXvWHR2eUW6M5UZimcPrZrsSczyJvjcO/2DaYwszpIBdX6/j0uXRUGCNx6/ALr6mzWguFD+vnetWSfgyqg==;BvEt9gBUomUkIEvSl2gNPQ=="
 ---
 

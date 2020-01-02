@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T08:08:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
 type: article
 quality: 65
-heat: 145
+heat: 125
 published: true
 
 provider:
@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
-    excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
-    publishedDateTime: 2019-12-13T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-technology-growth-advancements-and-business-outlook-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
     excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
     publishedDateTime: 2019-12-17T15:53:00Z
@@ -100,19 +87,6 @@ related:
     quality: 3
   - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
     excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
     publishedDateTime: 2019-12-14T00:10:00Z
     sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
     ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
@@ -123,6 +97,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "kDlilkE606e7/TjL5KXgUMm2rQR4cOOJfm81rheltCYCJBGaWLmu/zG+yslsqMc5h4QjNG/3BjMP8QuHien+GZ91c9RnpczlCrxDQb66Tk+Ihoj+EuXrxC/Bz80KWhlwmG/JNbl/9SGplmTTlUEE3Eq1P6L52UeyAzbaSuWf8Wq6PdBeZn3Nx+iwOQWxR1KE6t5W5KA44fy9iAc7/+y2IbJw2mXKhvyKsWnGHJgd5Cm85ue5LJdi9R5YMJJrucJbblVW9cSMDC8UfzbyZvUHSA==;1PWsPzf779jQH7GSu7BgQQ=="
+secured: "n3PPihsb0Zs/NNVt0XBsHFkpjuRN3Ohs2sdeJ2RkpyLQsf1xoXCUvoS2MMSmPS8JcGy24Es8ToWAbFCA87363LHxYEg6vYdbd/aksu3S7ef2tIEm+cI9p+WAyVgbW6BsuZMCXsubAzdPRBvzR5GAp3SVgEjcbGsHXKYzd3nUputcuQuE+vUxyBawK0cbxLnHvJRvIIPcq7R8cRKipumB3orOvtNk9nCyXLfegceaWPXaRFV6rmX5LMey0iQ1C/GmkhrpFB6Ktbvgi5uWQEp7fw==;HsiPzPe89l1sT3j8c5p2oA=="
 ---
 
