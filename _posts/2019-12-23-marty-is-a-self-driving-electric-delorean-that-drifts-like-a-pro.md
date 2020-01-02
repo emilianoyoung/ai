@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/marty-delorean.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/marty-delorean.amp
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -138,15 +138,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
         width: 599
         height: 289
-  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
-    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
-    publishedDateTime: 2019-12-28T00:56:00Z
-    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 0
 
 secured: "vw292BQgTULdzuyoqdwpQTgdPR/UcefIV7jR4vm1/hVvDs3jIkZRZ3PeGWcWqqUX2fkgHM2dUmfz7g6T49gTKGGbPNKSKoM2YdwA1r6msgUJFbxz6bTHCzMbmXovQnUetJKCX3+ACcxkauguo93YhsYvq4Shu3SZhmk71PNC8Eg94T1KKAan0W4ysurc6dQVW2Y7SXqNSW5lTk0UQfe94i78QdQKw5eHpRJ8vn9oU7cGECOcDN/Hm1zX5DUTSxBCGaqfjCjUEB3/7HV4JxTc/Q==;QQUAUmEsRREK1Vywm248hw=="
 ---

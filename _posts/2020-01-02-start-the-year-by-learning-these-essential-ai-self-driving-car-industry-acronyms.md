@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/02/start-the-year-by-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/02/start-the-year-by-learning-these-essential-ai-self-driving-car-industry-acronyms/amp/
 type: article
 quality: 84
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,36 +30,124 @@ images:
     title: "Start The Year By Learning These Essential AI Self-Driving Car Industry Acronyms"
 
 related:
-  - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2020-01-02T12:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+  - title: "Top minds in machine learning predict where AI is going in 2020"
+    excerpt: "In demystifying this perception of neural networks, Kidd looks to the work of people like Aude Oliva, executive director of the MIT-IBM Watson AI Lab. “We were talking about this, and I said something about the system being a black box, and she chastised me reasonably [saying] that of course they’re not a black box. Of course you can ..."
+    publishedDateTime: 2020-01-02T14:16:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
+    ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 108
+    images:
+      - url: https://www.bing.com/th?id=ON.276373166D6B8475A03219B55606BD53
+        width: 700
+        height: 366
+  - title: "This is your chance to become a machine learning pro in 2020"
+    excerpt: "Machine learning is transforming the way businesses operate. Understanding trends and patterns in complex data is becoming critical for success and with this comprehensive bundle you can get introduced to machine learning and the tools used to leverage it, like Python, Apache Spark, and TensorFlow. Make your way through the entire collection ..."
+    publishedDateTime: 2019-12-27T18:21:00Z
+    sourceUrl: https://www.techspot.com/news/83342-chance-become-machine-learning-pro-2020.html
+    ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
+        width: 700
+        height: 490
+  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
+    publishedDateTime: 2019-12-29T15:08:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 78
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
+      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
         width: 600
         height: 315
-  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2019-12-30T14:49:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
+  - title: "In 2020, let’s stop AI ethics-washing and actually do something"
+    excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
+    publishedDateTime: 2019-12-27T10:07:00Z
+    sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
+    ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
+        width: 700
+        height: 393
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
+    publishedDateTime: 2019-12-27T16:39:00Z
+    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
+        width: 700
+        height: 266
+  - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
+    publishedDateTime: 2019-12-29T00:06:00Z
+    sourceUrl: https://in.news.yahoo.com/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    ampUrl: https://in.news.yahoo.com/amphtml/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
+  - title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
+    excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
+    publishedDateTime: 2019-12-27T13:00:00Z
+    sourceUrl: https://www.bleedingcool.com/2019/12/27/long-live-the-robot-revolution-of-iron-man-2020-beginning-in-incoming-1-spoilers/
+    type: article
+    provider:
+      name: Bleeding Cool
+      domain: bleedingcool.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.CDD021FE3E6BF2082C836BF2F3C5E953
+        width: 592
+        height: 568
 
 secured: "dgLd7+naIXRyRfX+xUF3mWK+joZ+8HMGonWUvvambToBW/D83hnMPIefQECNC07uBRXg8dDvt2drIkX5udKaX2hx6I0J1OpbhDlGQcaoKrgIQ87zmNtE03xXMuuEg2MDZbduk7GJosa8ivodR5ro7fdgoVcVlBCDX6zMmAF6UP82Rn7IlVeY24tMX5yEWk1xlwH7ZYpkgIL2QfngDLuA7GOCIq9sRl+R/fATATL/L819E3KxmkSqALkelzh1OG61QdiQjCYFRVNDVbtk8ELcdg==;ER62uXjrOR8+MB67Q1h82Q=="
 ---

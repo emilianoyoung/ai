@@ -28,6 +28,6 @@ images:
     height: 933
     title: "‘Godfathers of AI’ honored with Turing Award, the Nobel Prize of computing"
 
-secured: "/oa2t1nSYxcqcFcDY5Yg+z/QU6lJkJAaqnBRkfOskl0E9F27Ocf5fF1qNWbyPXbcr4rT3qs7G4mfIwJjRbnx3DzDCvd3ao5YlFdTTTVRbThXUlLLzvxrpW34hmLJstc7r/ONN4D4EaiNem6ACNR74yHsfWYhGq6jvjdyxln5Sc/B3OEATMu23+NAbFr586R0Rlb7t1dAOGeqefCvmquflmE0Z4BbMLcJi/p6McEoWc22KTpFbpTe/p+NAtWy5iSNGa/60yUM0Iw2uYzoNE0BAA==;QNb1myhPQIjFYgUJzbBtsQ=="
+secured: "lNaHE0hCJteqlv4xedM8SoeMWUlY6e+GYLXOcrSctiH9GRcLoCygya5g+BQFLX18G3+iT1samo7C9V5HioZJS543lVy0KFfzWesdso7+l4m0Z1pVSGsjJjlaxFbDf7XuBOCD+XVidypyk693tEhe099CsQSMgyfqZoE5UlczaSsW8sDQIbT18+Yt5Z4FnR4IlvjRyuQv1j+yivsMLVfMNbJAwEjajfwU7RKoBnKSHN+bV1try7s5WpEg2lEjp2sOtJygK0lqqzJXltC15yEO+g==;Wvc4I9XGmPOm2ic6WDOpuw=="
 ---
 

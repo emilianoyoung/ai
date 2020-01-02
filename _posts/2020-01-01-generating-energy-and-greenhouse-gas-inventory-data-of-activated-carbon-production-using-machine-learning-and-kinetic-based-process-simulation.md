@@ -18,45 +18,30 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
-    publishedDateTime: 2019-12-27T16:39:00Z
-    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
-    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+  - title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
+    excerpt: "Is there time for a better way? Robotic process automation (RPA) uses artificial intelligence (AI) and machine learning capabilities to handle high-volume, repeatable tasks. The benefits of RPA are compelling, including reduced human error and labor, improved data security, integrated data management and higher employee satisfaction."
+    publishedDateTime: 2020-01-01T11:00:00Z
+    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge
+    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
+    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
-        width: 700
-        height: 266
-  - title: "A new deep learning approach to predict disease-associated mutations"
-    excerpt: "This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. The research findings were recently published in a top scientific journal Nature Machine Intelligence. Metal ions play pivotal roles either structurally or ..."
-    publishedDateTime: 2019-12-28T13:09:00Z
-    sourceUrl: https://www.news-medical.net/news/20191228/A-new-deep-learning-approach-to-predict-disease-associated-mutations.aspx
-    ampUrl: https://www.news-medical.net/amp/news/20191228/A-new-deep-learning-approach-to-predict-disease-associated-mutations.aspx
-    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191228/A-new-deep-learning-approach-to-predict-disease-associated-mutations.aspx
+      - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
+        width: 900
+        height: 531
+  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
+    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
+    publishedDateTime: 2020-01-02T07:03:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
-        width: 620
-        height: 480
-  - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
-    excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
-    publishedDateTime: 2019-12-28T05:34:00Z
-    sourceUrl: https://www.sify.com/news/researchers-use-deep-learning-to-predict-disease-related-mutations-of-metal-binding-sites-in-protein-news-health-tm2kViieichei.html
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 4
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "5fXNJkD7kkKAAkIn46TlKtCZn3IRW47DcgpaNiGO+6/of9VfWmZJxCJcapoKJ4IGk8raXf913GeTYHthQkFItqtVO04zXzgl7IsNkWMMuN5pGABVKoJ+Jnk62FyigcVEF79LAJYQnCsCv0s5+Io9e2jnWfPfVPqlTxOVANC1dssXMTjYeJF/e74acBIEscJLiilCJoMMUFgivv1EUJ9qHOn7ILCqy9oHejOEjKHpOeEBGiDW0zdklQYeAoanUiSLASJtm1X51av3MdBdotPU3g==;MY70IKd3pmu0+TB0/a2uXA=="
 ---

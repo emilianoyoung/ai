@@ -26,19 +26,6 @@ images:
     title: "Self-Driving Truck Hauls 40K Pounds Of Butter Across US"
 
 related:
-  - title: "Chinese self-driving, refrigerated truck travels across US"
-    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
-    publishedDateTime: 2019-12-30T04:39:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
-        width: 700
-        height: 350
   - title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
     excerpt: "Earlier this month, Silicon Valley startup Plus.ai was the first company ever to have a self-driving truck make a coast-to-coast commercial freight trip. The autonomous truck, along with a supervising driver and mechanic, drove for three days from Tulare, California to Quakertown with over 40,000 pounds of butter in tow. While Plus.ai’s ..."
     publishedDateTime: 2019-12-24T08:19:00Z

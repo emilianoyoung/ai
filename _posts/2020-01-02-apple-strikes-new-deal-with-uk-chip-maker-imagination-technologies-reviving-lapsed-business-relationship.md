@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/big-tech/article/3044270/apple-strikes-new-dea
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3044270/apple-strikes-new-deal-uk-chip-maker-imagination-technologies
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,68 @@ images:
     width: 700
     height: 367
     title: "Apple strikes new deal with UK chip maker Imagination Technologies, reviving lapsed business relationship"
+
+related:
+  - title: "Apple Pens New GPU Chip Licensing Deal With UK-Based Imagination Technologies"
+    excerpt: "The UK-based company didn't specify which intellectual property this latest agreement covers, but it's believed Imagination's graphics and AI technology could be a big feature for future Apple ... Apple previously used Imagination designed GPU's in its iPhones and iPads, but then announced it would stop using its intellectual property in ..."
+    publishedDateTime: 2020-01-02T14:01:00Z
+    sourceUrl: https://in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies
+    ampUrl: https://in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies?amp=1
+    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies?amp=1
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 101
+    images:
+      - url: https://www.bing.com/th?id=ON.25AA139A4346394006554D7F4DAB0060
+        width: 700
+        height: 468
+  - title: "iPhone 12 and other Apple products could use Imagination's new GPU"
+    excerpt: "One partnership, between Apple and GPU maker Imagination Technologies, ended in 2017 under a dark cloud ... as well as products that relate to the AI and automotive sectors, which may help Apple expand its product range. The ending of Apple and Imagination’s prior agreement (as reported in the Financial Times) caused a lot of tension between ..."
+    publishedDateTime: 2020-01-02T12:39:00Z
+    sourceUrl: https://www.tomsguide.com/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    ampUrl: https://www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/iphone-12-and-other-apple-products-could-use-imaginations-new-gpu
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.61E82D1DD590446A2DB88DCF96AF4EE2
+        width: 700
+        height: 393
+  - title: "Apple Inks Licensing Agreement With Imagination Technologies"
+    excerpt: "Apple AAPL recently signed a multi-year licensing deal with chip designer Imagination Technologies Group Plc, its former GPU supplier. The latest deal replaces Imagination ... use the latter’s extensive intellectual property rights related to graphics and AI, which could be the keys to Apple’s initiatives to bring 5G to its flagship ..."
+    publishedDateTime: 2020-01-02T13:46:00Z
+    sourceUrl: https://finance.yahoo.com/news/apple-inks-licensing-agreement-imagination-130901284.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/apple-inks-licensing-agreement-imagination-130901284.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/apple-inks-licensing-agreement-imagination-130901284.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.A07B7883A055A42EBF0DF056538DA464
+        width: 635
+        height: 400
+  - title: "In Unexpected Move, Apple Taps UK’s Imagination Afresh"
+    excerpt: "The mobile GPU specialist sells license rights to graphics technologies, AI cores and connectivity IP spanning RF, baseband and software. Apple has been pushing throughout 2019 to bring such technologies under closer control; subsuming part of fellow British chip firm Dialog Semiconductor in April 2019, to agreeing a deal for Intel’s mobile ..."
+    publishedDateTime: 2020-01-02T08:31:00Z
+    sourceUrl: https://www.cbronline.com/news/imagination-technologies-apple
+    ampUrl: https://www.cbronline.com/news/imagination-technologies-apple/amp/
+    cdnAmpUrl: https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/imagination-technologies-apple/amp/
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.FCE0BCE9EB8A188AB55F95CB4DC25819
+        width: 700
+        height: 458
 
 secured: "rPtqQlsqeoVzkmKsntN8BP9k2QxepF7p9fjQMwksriR3q0luLHNWdDYn+fhVnx5e/L/ih9pfAGEv8Ox4ar7OZiH7p8Kb3f3jCs0TtCaMtP/LZtm5xCQbv9Gf73TrowHb+UH2Ya3JcOEcnEAxsgpKPTFq8fEdjEUlb+YscvSpVxkN6ZoS121iqQLRBRN0/pU82JMFFvErFm16K1V1z8NtiVDptS+gR87wTSeEqzvvxAtK19pSbyqykMRreej2r8hWBbD3+fiRh/VWOk74dJj6rg==;gdYVOe/4hNcH6xTgI7nc0Q=="
 ---

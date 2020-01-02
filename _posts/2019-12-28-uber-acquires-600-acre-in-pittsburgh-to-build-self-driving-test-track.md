@@ -129,6 +129,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AFBC2550D1B7141A83FF212E1A046EC5
         width: 700
         height: 466
+  - title: "Bosch announces lower cost sensors for self-driving cars"
+    excerpt: "What’s interesting about the lidar sensor is that the firm has managed to reduce the price which in turn makes self-driving vehicles more affordable for consumers. According to Bosch, lidar technology is “indispensable” for bringing SAE level 3 to 5 ..."
+    publishedDateTime: 2020-01-02T14:26:00Z
+    sourceUrl: https://www.neowin.net/news/bosch-announces-lower-cost-sensors-for-self-driving-cars
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.A23690DECED0605C78EC9FC43CEC5B47
+        width: 700
+        height: 394
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
     excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
     publishedDateTime: 2019-12-26T20:43:00Z

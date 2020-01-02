@@ -26,6 +26,21 @@ images:
     title: "Apple Inks Licensing Agreement With Imagination Technologies"
 
 related:
+  - title: "Apple Pens New GPU Chip Licensing Deal With UK-Based Imagination Technologies"
+    excerpt: "The UK-based company didn't specify which intellectual property this latest agreement covers, but it's believed Imagination's graphics and AI technology could be a big feature for future Apple ... Apple previously used Imagination designed GPU's in its iPhones and iPads, but then announced it would stop using its intellectual property in ..."
+    publishedDateTime: 2020-01-02T14:01:00Z
+    sourceUrl: https://in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies
+    ampUrl: https://in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies?amp=1
+    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/10048/apple-pens-new-gpu-chip-licensing-deal-with-uk-based-imagination-technologies?amp=1
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 101
+    images:
+      - url: https://www.bing.com/th?id=ON.25AA139A4346394006554D7F4DAB0060
+        width: 700
+        height: 468
   - title: "iPhone 12 and other Apple products could use Imagination's new GPU"
     excerpt: "One partnership, between Apple and GPU maker Imagination Technologies, ended in 2017 under a dark cloud ... as well as products that relate to the AI and automotive sectors, which may help Apple expand its product range. The ending of Apple and Imagination’s prior agreement (as reported in the Financial Times) caused a lot of tension between ..."
     publishedDateTime: 2020-01-02T12:39:00Z
@@ -56,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FCE0BCE9EB8A188AB55F95CB4DC25819
         width: 700
         height: 458
+  - title: "Apple strikes new deal with UK chip maker Imagination Technologies, reviving lapsed business relationship"
+    excerpt: "Last year, Apple acquired Intel Corp’s modem unit to design cellular chips for future devices. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence ..."
+    publishedDateTime: 2020-01-02T05:53:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3044270/apple-strikes-new-deal-uk-chip-maker-imagination-technologies
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3044270/apple-strikes-new-deal-uk-chip-maker-imagination-technologies
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3044270/apple-strikes-new-deal-uk-chip-maker-imagination-technologies
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.CE08E64DDC7629758FEF6D6C5532EFCE
+        width: 700
+        height: 367
 
 secured: "ZnB36puTJULgA1wNIO0JWWcVXvngJ8tg5KBWJ9owisUHCqVY9s+dp1712ahjOJH/sYFtPVdnheouEezv605rP7H5O7tBbNVnd6H0Tjh/XUCostlPybEJaJrA3iR8oFds/gvKkz8cAjo0kwnX9Efz6ZGCRFMCxGmi4dIKhuYMDpww7aLiaba+PTZzJ0Cq8tqrC3/GH+gLz366s497oiD05ZOVDIlUfG0cj+N9iGC1Y1yI4ODxLIkZ8v1xwIj60Mib14SFkY6KkaaifMJXp+k/bA==;RsLUbjpLSoBHJ8/Z2dg0og=="
 ---

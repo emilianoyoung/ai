@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
         width: 700
         height: 335
+  - title: "AI and robotics execs look back at tech trends of 2019"
+    excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of ..."
+    publishedDateTime: 2020-01-02T14:50:00Z
+    sourceUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 69
+    images:
+      - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
+        width: 1024
+        height: 530
   - title: "A Look-back at Tech 2019"
     excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
     publishedDateTime: 2019-12-26T02:56:00Z

@@ -22,6 +22,6 @@ provider:
 topics:
   - AI
 
-secured: "+jUu6lXuMxTuRFSpXbHONteWeV+VfVjOoXCNZJHtj3E/xYl7T+qVgcdShrDS69+ehVCrN2PBS8SOrqpFplb9pYyoaqT68hjzHAypQrszbeACTBm5ba2cMv9M/kMZ8fuwA5ZBeW+k5o1pZ3OM81MjG/+Zg1JAkeTCF1VrxET0uW+jifUSbCU8ZWe+FSZx1pOpwolJy35vprs+T4PIyoYCWd00PXSbIYdE+3kiMWhX9ENlSnNzpLWoPLsfPfx9ZL02pfikvKN81R0X0l/bUxjueA==;68VjJgGYRhgsr4KXChnh8g=="
+secured: "8a1KwzXBjv6ivQ+1UYI3aNAsPjT6OZPEMRrj9/3HijbTxe47QpmsjHYK2GLI3hrgFsS7ADoEHnFOVRg4AkMVHmPBLEq/4wzk5bd2MCN/NvMy4p12O4nAb6aEbsfM4LVc/0AAogtKBz1l7xbURjCYY43lL8p/dmXQdKMbWKjp8HTeW291Utp7x7isOwu2X5y9BqwfpuoyRxEe58ETjwLgxWFZ9wHF2/j3oOpUR5izg4oPYBdgbLGWb7zKWuH7b+WLZDkeNE6KVxQvOeEVdepdoA==;VMW7eR7dmpWdoM9+HxuSJg=="
 ---
 

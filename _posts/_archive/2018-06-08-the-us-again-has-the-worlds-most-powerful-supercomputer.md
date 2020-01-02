@@ -7,8 +7,8 @@ sourceUrl: https://www.wired.com/story/the-us-again-has-worlds-most-powerful-sup
 ampUrl: https://www.wired.com/story/the-us-again-has-worlds-most-powerful-supercomputer/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/the-us-again-has-worlds-most-powerful-supercomputer/amp
 type: article
-quality: 167
-heat: 167
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "NjgH9jacOUTm2X4n97Y36GND7kQM00xlNcd6FoibhIWd31EmcsuVos3HUyMmSxut/EQOY27B2XZ6ony6NNCWiuGU26dXjGRmQEyPYOYG+6ovFYU2VTttccWWA+wdO5mqPML2NMipu4vqETaPMqsO59qPzIbwv/dkE1CPCn2uAD+ZPxeC2s27cvh1NL5QzSKVR1j6CnQ0c0ydgyIDTiw8aJdZH+B6gMOueUUJqmNFqAxRdwZcZ6xh4AH8knzKJmYAnn//TIRs1TunigAgux+AOg==;MXelh8GqdA23f8CsWvFg8w=="
+images:
+  - url: https://media.wired.com/photos/5b19a3fd985bbd041c32d0c3/master/pass/Summit-supercomputer---side-view-(wide-shot)-TAFA.jpg
+    width: 2400
+    height: 1602
+    title: "The US Again Has the World’s Most Powerful Supercomputer"
+
+secured: "UYnSfLbO/0z6gUQ++bS1Ivjvsvtd5ekfYO38duMLkl4wIajvMBk1jYELDYfp4NVjXPddgr0IvTwUWogZv4kg5pucr83g13xVCy+EQ1uFWyPygP3isSbmI2Szf+9N1rE4MySBwO0qd2NZldTkCtUptfPVBWBJyh2sUlVrrRBH0xdkgvOFFBqT/3kwcS3h6o6Cz6m/qAvsSxDAqDaLAgd2L1sHMu9Qb/J62loAbrWRrLRN7kqAId4CncZUffKjBMqyQAoMzAWFJs7btibuw9pKSw==;PmWY8dDZW8KSFHJm72z7Mg=="
 ---
 

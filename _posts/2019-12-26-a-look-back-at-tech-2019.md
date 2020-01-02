@@ -52,6 +52,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI and robotics execs look back at tech trends of 2019"
+    excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of ..."
+    publishedDateTime: 2020-01-02T14:50:00Z
+    sourceUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
+    type: article
+    provider:
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 69
+    images:
+      - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
+        width: 1024
+        height: 530
 
 secured: "JYzSs0XK4Rg/lcvAf0kWFc9ZFuYVegPG2ae0kSzLzIh7FpCw0fvsYjIdLIZjQ3SoZcSrm3mcAocNfxG+NeHbvJfRcEY6F2x1BFljn0XRFbz75V3EMe7ZszeMsHnUoIBtuHLeNINdTl60dLEMp/zUMXNyTTpJTEzy5qWmCB13OyJs6VMNFl7aeTeDGyrwB7bxL9yH+vmo3Q5uXMlRw23OjIHwYoj2UHfaU+Yi6vcf4/UPHwC8RaS3lG48oUFxMg66RT+QxUMBPzJ8dpMOcFribw==;mO2X3Wq9qT4mInY2B2pVaQ=="
 ---

@@ -33,6 +33,15 @@ related:
       - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
         width: 900
         height: 531
+  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
+    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
+    publishedDateTime: 2020-01-01T11:23:00Z
+    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 0
 
 secured: "AAzXtCDFQzpHl8OtI97XHr6eVmwoEes6P36v8ql+BNK7eXX9Ncu96mInmiB6xyg4niyq8A9JUgPxh3m2Y8S3wDX6CQFEHuqXpGx7KTilPMkrpPuFldaf1XiSiYCY+BLPyior13LCouqNufofw0RQK0zQhojeKGdB8xl/upRMrkRKTmFeIYONxIW1+typrJ5pL8Iu1XPNyRwCQsOD1HmUUzRxsUqzP4+dvVuPQaz+3eBVDUR8RABA/dlvXf78mZ5aqRNvHKeszi3Pz4nMf1ZcsQ==;rdi46hdVJsNJziPMLZgq3w=="
 ---

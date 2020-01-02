@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191228/A-new-deep-learning-appro
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191228/A-new-deep-learning-approach-to-predict-disease-associated-mutations.aspx
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: News Medical
@@ -26,21 +26,21 @@ images:
     title: "A new deep learning approach to predict disease-associated mutations"
 
 related:
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
-    publishedDateTime: 2019-12-27T16:39:00Z
-    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
-    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+  - title: "New machine learning platform can help spot colorectal cancers, predict disease severity"
+    excerpt: "A new machine learning platform can identify patients with colorectal cancer and helps predict their disease severity and survival, according to a study involving samples from thousands of subjects. The noninvasive method adds to recent advances in technologies that analyze circulating tumor DNA (ctDNA) and could help spot colorectal cancers in ..."
+    publishedDateTime: 2020-01-02T11:23:00Z
+    sourceUrl: https://www.news-medical.net/news/20200102/New-machine-learning-platform-can-help-spot-colorectal-cancers-predict-disease-severity.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200102/New-machine-learning-platform-can-help-spot-colorectal-cancers-predict-disease-severity.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200102/New-machine-learning-platform-can-help-spot-colorectal-cancers-predict-disease-severity.aspx
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
-        width: 700
-        height: 266
+      - url: https://www.bing.com/th?id=ON.0453938D2F729666CF64E16C2F459043
+        width: 620
+        height: 480
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     publishedDateTime: 2019-12-28T05:34:00Z
@@ -50,15 +50,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 4
-  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
-    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
-    publishedDateTime: 2020-01-01T11:23:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 0
 
 secured: "xFSJkxC7iBUC5nQEeeFiWikP6aGD7+B1eoC2RGAmrrnzoPSPNzdbH0TjqM0WQ4TWnwctKnNZZpopegMhgSWakyIEo/HPKz2NmfuRFK+6tHKkYOICt3SaY+HbtuzuzwJcn9prSZTADp0YFrrUusHZylAlfL6iE1UwSFutlRh+lfmQRfOF06CEp4l/k6aTwSH/qMCDpxGmbzXt45rKPnzC+Jq6QPzoRphIhE0h0+pLkdZH48pCAkbEhdQfFutyCzxSzEnOw7iWzWoulD8nO1bQcw==;aMid8y96Wt8kggTDDNUYfg=="
 ---

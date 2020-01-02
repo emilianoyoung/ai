@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D57852237CBAC8808C2F7D502008D71B
         width: 700
         height: 588
+  - title: "Processors re-imagined: Will cloud and AI lead mean all change in the datacentre?"
+    excerpt: "This will be followed by Ice Lake, which is set to be Intel’s first server chip family manufactured using a 10nm (nanometre) process. Ice Lake features a redesigned core with wider and deeper instruction pipelines, and will also implement more instructions targeting artificial intelligence (AI) and machine learning. Coming in 2021 is a major ..."
+    publishedDateTime: 2020-01-02T14:25:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre
+    ampUrl: https://www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.2D1D8CC86698CDF91426608B7629FA07
+        width: 700
+        height: 233
 
 secured: "uQNiQlXEOPzlx7Fpx/gFk9cEBi2/FEmHi317U6Zbgm6YAGlh+xYMa8svIGDC91AvoP3sjxamwtPV//kAByEXwkTlvRfhasp9JpNC3N19Uld0jVN9UbD6Kw/XPhHc9n6pYvu9FdEPgqJi7fTguJYVDstPUnNw4l+PvLUPBQ+IY+m6dSo+JGXFGdpt10s/S4bIilvTtedbMZEpHoOoQEQmTuhDKMuLWuxhaFXfaQKSrwVyuzxXXa6waEj8nnBTglpysPu7OEW2ifx4UFBikNhZvA==;SDWVgG7of+4sLl/oscw/yg=="
 ---

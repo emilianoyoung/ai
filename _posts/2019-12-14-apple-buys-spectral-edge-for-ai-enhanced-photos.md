@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F3DBFDC92AE5256A9716A205BDB88194
         width: 700
         height: 394
-  - title: "Apple Aims for Better iPhone Photos Using AI and Infrared"
-    excerpt: "The quality of the photos smartphones capture has become increasingly important, and Apple just acquired a company called Spectral Edge to ensure future iPhone photos look even better. As Bloomberg reports, Spectral Edge is based in Cambridge, England and focused on developing technology that improves the photos we take automatically. It does ..."
-    publishedDateTime: 2019-12-13T13:37:00Z
-    sourceUrl: https://www.pcmag.com/news/372519/apple-aims-for-better-iphone-photos-using-ai-and-infrared
-    ampUrl: https://www.pcmag.com/news/372519/apple-aims-for-better-iphone-photos-using-ai-and-infrared?amp=1
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372519/apple-aims-for-better-iphone-photos-using-ai-and-infrared?amp=1
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.5A744A4D8A5FDD796D2DBB749E81E1C5
-        width: 700
-        height: 393
 
 secured: "yMmMQn2BtH+AsdVtPUhQlxw3ZDyvh4ctvCWbo4I45ihzxQBzu6N+o/HKq7vO9mrG+APSzei4rPGRf7eH+S3gk/mdm9K0hkAtbKBJFXkgAopbQZxa3SBY1jM92QPhg+mX1T0LZ6zpBmBT+LCfMYO5JhY20vX8TGdeLg/b7ALT/OBE+4QeJ344UpimAhTXPZu27rRMqXnque1Vd8Azib1RzX0fl9UNmgBtW1HAdtHf4j6PAAtxwsNLA4sXNXgKErqV5fnGJSEqmYac3/FjzffPQw==;tYLNbh5MAC77y0+rApGUEg=="
 ---

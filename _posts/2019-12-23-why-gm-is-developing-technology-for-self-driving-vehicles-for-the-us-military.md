@@ -50,21 +50,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 54
-  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-28T10:49:00Z
-    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
-    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
-    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
-    type: article
-    provider:
-      name: Montreal News
-      domain: montrealgazette.com
-    quality: 42
-    images:
-      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
-        width: 1000
-        height: 750
   - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
     excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
     publishedDateTime: 2019-12-30T16:04:00Z

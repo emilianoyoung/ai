@@ -27,6 +27,6 @@ images:
     height: 420
     title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
 
-secured: "HCdzMw8AREfxZXH+Qp//xvovDIrjxRpoewwyII0+waVe8aKPP8HWQ3L3QdTy37/ipMnopdDF5OuhynTBN3v85EQJA5L/UQXAWraBxS54cyOIYc7ppoMp+WwZ1tpZbSy/Tb5Cyis3vjkPkx8JbrZwOTaxlxXUwcZwKiEQ8VFJg4RYgTGabQF4jJGvIf79YURUPiwnMb7VyoNl9t5X+jEX1c2JAxCaveCKpqDaC4nCWS/HYdbow39Gmuan8OXbTPkqTwVHooUP2KoJVWq/7mkHIQ==;hcMyvlLsb9HAaD8rvvD3Qg=="
+secured: "89Abz2WV1l2aEKnCs49TwF0dSldzR55Ta8Up52CkfGukVH1GThVZtueiHFji2/sv6opbRG0xuPLMXrs0JEs6TMCfpcOu5gBZrUWCA/n0VaLWLDhx2DJcMV/KGmCA70OybD+pVlHxD48yyhfvGUinkwxDzJYvwDShiaMbsSYbMvbeNjT5VL6F1aFGmsaWT+3XJ38fJqzCLfJt4DozhdoKjNAOVFG4yTi2/ev9GpEhzJNo48qb9HgAn4RF/6kkM3iuKty/MxU2sJ9UG8sVV67b7Q==;e+/Znu9C2sYvquhy5RoiXQ=="
 ---
 
