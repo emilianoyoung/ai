@@ -2,16 +2,22 @@
 category: news
 title: "Google Shows AI Can Spot Breast Cancer Better Than Doctors"
 excerpt: "Artificial intelligence can spot breast cancer more accurately than doctors, according to a study by Google Health. The technology’s reading of mammograms reduced both false positives, where healthy patients are mistakenly diagnosed with the disease, and false negatives, where the cancer is missed, the Alphabet Inc. unit said in a blog post ..."
-publishedDateTime: 2020-01-02T09:31:02Z
-sourceUrl: https://www.msn.com/en-us/health/medical/google-shows-ai-can-spot-breast-cancer-better-than-doctors/ar-BBYxF8E
+publishedDateTime: 2020-01-02T09:31:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg on MSN.com
-  domain: msn.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -581,14 +587,14 @@ related:
   - title: "Google’s AI system can beat doctors at detecting breast cancer"
     excerpt: "The program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States, and early research shows it can be produce more accurate detection than human radiologists. According to the study, using the AI technology resulted in fewer false positives, where test results suggest cancer is ..."
     publishedDateTime: 2020-01-02T13:21:00Z
-    sourceUrl: https://krdo.com/money/2020/01/02/googles-ai-system-can-beat-doctors-at-detecting-breast-cancer/
+    sourceUrl: https://kesq.com/money/2020/01/02/googles-ai-system-can-beat-doctors-at-detecting-breast-cancer/
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KESQ News
+      domain: kesq.com
     quality: 39
     images:
-      - url: https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9005_cloudy_day.png
+      - url: https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png
         width: 280
         height: 360
   - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
@@ -724,6 +730,6 @@ related:
         width: 500
         height: 500
 
-secured: "RiRXGu16G1Xsv1giCX1OOoATaaeuN62HXqiwaNvfKo6UHlCng17EOIpijg8cjfIBtOh+HLfhOH7uV2ZKv0D2HM4J0ouZryjc1T+MfDBL4stvz8ahVJC+HoMTgbWsOQFTbidtaKpUUdhZo7McgoDLqajmne+6wrb0n9YSf13kys/a+qj15GZl9Jc+MUJpsCkGqX2qg3vzexwx5AQARzwIun0+D0276SucMExs9FEJiBzANLdsGgGrQxfKeTBgZ6OsxYZ2I+RnJB4fWD2Mm7aKUg==;DT7/SioDz8bk56NFzV8LFw=="
+secured: "4tCDAE/WXxgiF7uUaGcB1bDZmYWva31cchXk0brXHI1KKkOemWMBJu22NplxCMf/Z9d1fKI+TcoJxOOd12HY+22rrHxyphPu+f24l76Vh6wBz8bp0Wr2ESVT3SMHt5RJgehSVarMpy5Ldfohjoz5ke4Xh4ZTybY5A9Gfsf2J6nW/4sXfgH+UV1zlL1wpRvw5nzemMTkA7Zw1jtj35rJIbcxLC9V83FfJIf7UQ0c1rR/g3PN/wMIxh/wF40rdYcicxVQ98oRQRJjysUIJ0QJPaQ==;z38bhIt4gHO/uCBHRFCC6Q=="
 ---
 

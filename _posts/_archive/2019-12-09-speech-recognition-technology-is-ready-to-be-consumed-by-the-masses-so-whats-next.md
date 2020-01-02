@@ -743,19 +743,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "A setback for facial recognition talks?"
-    excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
-    publishedDateTime: 2019-12-13T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/13/a-setback-for-facial-recognition-talks-783689
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
-        width: 1120
-        height: 629
   - title: "How far should facial recognition technology go in K-12?"
     excerpt: "More K-12 leaders are choosing to install facial recognition in schools despite public opposition and research that casts doubt on the technology’s effectiveness. A study by the MIT Media Lab found that facial recognition software is inaccurate up to 35% of the time when scanning images of darker-skinned females. “With faulty facial ..."
     publishedDateTime: 2019-12-13T18:10:00Z
@@ -1341,6 +1328,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "E5IBvoUsM3CeUq04CpV9f8NmOpTS3WMgsW2/iggDao0hSpiyGem+3Mwr23eEia4QXE7lgSyQr6YJlicTsXjl4c4AJ59bvyVkEun34Edcs5xE51XYTXlNbD+NkswvW49LOmfnQITCDiLHRRkZGg5l3BBdiifkM/LWiiva2VOW4J8/ODMaXMsu7NuOLha1B5yDY4jS1dvQvwk8i4Y+VKl/h2Y0RKrXf8EyA+pqdo8XZRjzWE7ym3AqdHLTzRGnIZPXPeUjcNpW0MtDHBJdXQKhIw==;phUoDBs9IZG3RJD2nlF6ew=="
+secured: "8cgESn24PPOYI1/S3E8qlyu+q1X11HszJMS5gZpY6IpY9u3mlZa/JSzIIsEKi6n/jZCCtw+iXYhdPwF1g921GV9xo5Lg1/j6jKikVwPYNeK+nyNmX0Xd4U1AS9I5RSJ1oCWPbJCYXGwLzXVjcbG+mfTYl0P96Agt8dKiBjYh1VroYw2BcmbAsO8o9vhGl4UnS90B00zNCSlEfoYjUwNIrgUCTNM2Cn/sFxBd6Hd+ePzSKBPnKscjEtaRkoKtwSHQJdmFPd264SamyMQjyz1vmw==;In52jrAF5CUzL9MGYAh0pA=="
 ---
 

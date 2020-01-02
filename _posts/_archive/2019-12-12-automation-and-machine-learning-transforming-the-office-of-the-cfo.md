@@ -198,19 +198,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
-    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
-    publishedDateTime: 2019-12-13T14:47:00Z
-    sourceUrl: https://github.com/deepmind/dm_memorytasks
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
-        width: 400
-        height: 400
   - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
     excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
     publishedDateTime: 2019-12-19T10:40:00Z
@@ -234,6 +221,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "uqot5lnVZ6vDm4XACSWvl5ONzcC33AA3xTT7wZpPHdXcB+PtAigig5vh32nBSIA7GhfDKK7PVJH1fZfGGqn3qMO1hhzw2HHjsrNZ9+grDeoAYx1diUmGaL3uNs6IwOUbRXYg2ZHA843jYhWLJ4KAUpFYIAiou+TR9FTmYXjq/JMCtB+MlcxihTsVsewQ+PRjembpiLKihNnpAQntOuGJ+U8a177KVYpA+IHvoZEq1PxTPxSh8T3gJsq2/gm3/IX+vAV/6jZgrbiyWAST5NNApQ==;haGYCq/dB+3c/eDuOQZGDA=="
+secured: "5vM0HuVUfa4S1phOkfacvmiVpbAT4VYkch3p3un3Tpj6vrd564Rh7s2kqx67HNKgXTUlmk0oIj46zfAi8CqSRsDmbraCZPEQh7A9wOoreUF+qIGQFgFOuowJEf5M2nO+JwRfgOVyakRt7RvI+CcmXUG3bbetTDY9Nw9pvJ1t6JVY6/RLFsxynS28UWwUA8FylBOTe1NbFuWHwFDuSIjCeSgqDeyEDCyYS5FlVbzDMelR1QTWPsHZDM1Wh4zEcO8s6LQAg8g9LLZAbhtIPWVvNw==;/6UiFaNFFRPLxgBFGTmhkQ=="
 ---
 

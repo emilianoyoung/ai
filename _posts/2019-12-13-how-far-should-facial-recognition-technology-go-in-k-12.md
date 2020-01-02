@@ -743,19 +743,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "A setback for facial recognition talks?"
-    excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
-    publishedDateTime: 2019-12-13T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/13/a-setback-for-facial-recognition-talks-783689
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
-        width: 1120
-        height: 629
   - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
     excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
     publishedDateTime: 2019-12-15T08:34:00Z

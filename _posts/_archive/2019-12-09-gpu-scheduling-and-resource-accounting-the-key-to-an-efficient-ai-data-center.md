@@ -23,6 +23,6 @@ images:
     height: 615
     title: "GPU Scheduling and Resource Accounting: The Key to an Efficient AI Data Center"
 
-secured: "cY7xwRIxZcNcKR2mkq3zuy2DQAc9dRT+tTmKEmca93OOXJjdY8qMgxC+rAnu69ulVQQsVmBFfEFUsXu9va/UMwrTSPX7wWFT6SgpDtDbbAs5SWFPlkf3oITnCuoe1g5MyaPP88p3IPvfFQTvAubwTzA3N3LBROk0NpWkWP2j6uS+nISggNAARMv9ogjd+X0/9+8fYCHmQXW2vDbvsSukX5wqQeOh3DKxMBOoUlF1USUUbgK8fqwLXYS+aTaCptFtXnRGN4DcwUOAQ4SKf1RjUg==;Xj/D526A8p6bavRgpu1Gvw=="
+secured: "awA8cHtHOuCYy2OnDulajoDtRFtUCuA2h/aJ5sXZbdEhwN7juewwkEsT16yZDYQ0wnwy/C9HmL7YVkWl+7K+NQ/YDvs0hcP6EPWlFjG2MFLFoyJJhkneYwgtsabdrBD3TXBwxOwk8d4MxQYuh2Y9rm7a+JJzRUJXB7MHp8PmF+6S4olMX5DPKoctwGcqDiUqi7IvC4z400FqUNXk+DyfjSCtViWJ5ncFBhumNX2fpjRu0YExpEZKTLkQnrmXasnsOq7P8sQMx0KX5WJOS68aAw==;SPLcs2ocjhw7DhRorVZTFw=="
 ---
 

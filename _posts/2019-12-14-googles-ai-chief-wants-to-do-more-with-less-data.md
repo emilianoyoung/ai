@@ -8,8 +8,8 @@ ampUrl: https://www.wired.com/story/googles-ai-chief-do-more-less-data/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/googles-ai-chief-do-more-less-data/amp
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Wired
@@ -31,36 +31,32 @@ images:
     title: "Google's AI Chief Wants to Do More With Less (Data)"
 
 related:
-  - title: "Google AI chief Jeff Dean interview: Machine learning trends in 2020"
-    excerpt: "At the Neural Information Processing Systems (NeurIPS) conference this week in Vancouver, Canada, machine learning took center stage as 13,000 researchers explored things like neuroscience, how to interpret neural network outputs, or how AI can help solve big real-world problems. With more than 1,400 works accepted for publication, you have to ..."
-    publishedDateTime: 2019-12-13T14:57:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/
-    ampUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
+  - title: "Google’s AI Chief Wants to Do More With Less (Data)"
+    excerpt: "Read the interview with Google’s head of AI Jeff Dean on using ML for better chip design, ML energy use and climate change, and acting on Google’s AI ethics principles on Wired."
+    publishedDateTime: 2019-12-19T16:58:00Z
+    sourceUrl: https://ctovision.com/googles-ai-chief-wants-to-do-more-with-less-data/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.B5BA2836D1F6FEA3CDE3533638F487D4
-        width: 700
-        height: 350
-  - title: "5 Machine Intelligence Trends Of 2019"
-    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
-    publishedDateTime: 2019-12-20T02:16:00Z
-    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
-    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+      - url: https://ctovision.com/wp-content/uploads/data-fall.jpg
+        width: 1024
+        height: 768
+  - title: "Google is developing AI to do more with 'much less data'"
+    excerpt: "Though Facebook's vice president of artificial intelligence predicted researchers attempting to scale AI solutions will soon \"hit the wall,\" the head of Google's AI research group recently countered with many ways to get through, over and around that wall. In an interview with Wired, Google's Jeff Dean, PhD, said that much of AI's potential ..."
+    publishedDateTime: 2019-12-16T22:05:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/google-is-developing-ai-to-do-more-with-much-less-data.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
-        width: 960
-        height: 640
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
 
 secured: "E7PP0gscRnKMch3GSCQ/MAfLG/DStEsd8vvJrzSp1iRIrWxEKF8EgidqWGjmpLh9C1oWvHmgUyLgO4di1uS8msiFBxny57w8F0TVEt4uRDRdG5iksK5NkvYFrPS12pt/UU2B6UoXPXoQ1PzMIo4hxy4qCDMVXN3Xbz5alAeFzobaDMAMp4zd81JPbf/Z5vnJglXAXgWL+vmI7gKlj6XksJ0lWZrYJEcleCoFfGARSljadl6YJTWwc9idMRkm3h2Z1255h7BI0glMDsTfiK/BUg==;Dbu0/MMuM2rnwyHG9R1qYA=="
 ---

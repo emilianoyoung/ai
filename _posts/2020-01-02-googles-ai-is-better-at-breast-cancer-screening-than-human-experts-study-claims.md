@@ -101,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.101C4C4D0FA52335E899BF42B203973C
         width: 700
         height: 525
+  - title: "Google Shows AI Can Spot Breast Cancer Better Than Doctors"
+    excerpt: "Artificial intelligence can spot breast cancer more accurately than doctors, according to a study by Google Health. The technology’s reading of mammograms reduced both false positives, where healthy patients are mistakenly diagnosed with the disease, and false negatives, where the cancer is missed, the Alphabet Inc. unit said in a blog post ..."
+    publishedDateTime: 2020-01-02T09:31:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.7DC446378E1602047DC0B1F72B269D74
+        width: 700
+        height: 449
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -569,14 +584,14 @@ related:
   - title: "Google’s AI system can beat doctors at detecting breast cancer"
     excerpt: "The program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States, and early research shows it can be produce more accurate detection than human radiologists. According to the study, using the AI technology resulted in fewer false positives, where test results suggest cancer is ..."
     publishedDateTime: 2020-01-02T13:21:00Z
-    sourceUrl: https://krdo.com/money/2020/01/02/googles-ai-system-can-beat-doctors-at-detecting-breast-cancer/
+    sourceUrl: https://kesq.com/money/2020/01/02/googles-ai-system-can-beat-doctors-at-detecting-breast-cancer/
     type: article
     provider:
-      name: KRDO
-      domain: krdo.com
+      name: KESQ News
+      domain: kesq.com
     quality: 39
     images:
-      - url: https://krdo.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9005_cloudy_day.png
+      - url: https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png
         width: 280
         height: 360
   - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
@@ -631,19 +646,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA27F8EA8342BDB9774EFDED2B1035F4
         width: 600
         height: 315
-  - title: "Google Shows AI Can Spot Breast Cancer Better Than Doctors"
-    excerpt: "Artificial intelligence can spot breast cancer more accurately than doctors, according to a study by Google Health. The technology’s reading of mammograms reduced both false positives, where healthy patients are mistakenly diagnosed with the disease, and false negatives, where the cancer is missed, the Alphabet Inc. unit said in a blog post ..."
-    publishedDateTime: 2020-01-02T09:31:02Z
-    sourceUrl: https://www.msn.com/en-us/health/medical/google-shows-ai-can-spot-breast-cancer-better-than-doctors/ar-BBYxF8E
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.7DC446378E1602047DC0B1F72B269D74
-        width: 700
-        height: 449
   - title: "Google artificial intelligence system could improve breast cancer detection"
     excerpt: "CHICAGO: A Google artificial intelligence system proved as good as expert radiologists at detecting which women had breast cancer based on screening mammograms and showed promise at reducing errors, researchers in the United States and Britain reported. The study, published in the journal Nature on Wednesday, is the latest to show that ..."
     publishedDateTime: 2020-01-01T23:11:00Z

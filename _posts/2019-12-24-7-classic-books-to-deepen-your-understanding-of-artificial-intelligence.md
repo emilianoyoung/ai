@@ -44,6 +44,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc59fd4e29170007838c30%2F0x0.jpg
         width: 1200
         height: 675
+  - title: "5 Machine Intelligence Trends Of 2019"
+    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
+        width: 960
+        height: 640
   - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
     excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
     publishedDateTime: 2019-12-19T14:00:00Z

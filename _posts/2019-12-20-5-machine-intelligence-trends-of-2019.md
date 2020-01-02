@@ -30,36 +30,49 @@ images:
     title: "5 Machine Intelligence Trends Of 2019"
 
 related:
-  - title: "Google AI chief Jeff Dean interview: Machine learning trends in 2020"
-    excerpt: "At the Neural Information Processing Systems (NeurIPS) conference this week in Vancouver, Canada, machine learning took center stage as 13,000 researchers explored things like neuroscience, how to interpret neural network outputs, or how AI can help solve big real-world problems. With more than 1,400 works accepted for publication, you have to ..."
-    publishedDateTime: 2019-12-13T14:57:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/
-    ampUrl: https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/amp/
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2019-12-20T05:45:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.B5BA2836D1F6FEA3CDE3533638F487D4
-        width: 700
-        height: 350
-  - title: "Google's AI Chief Wants to Do More With Less (Data)"
-    excerpt: "WIRED talked with Dean in Vancouver at the world’s leading AI conference, NeurIPS, about his team’s latest explorations—and how Google is trying to put ethical limits on them. WIRED: You gave a research talk about building new kinds of computers to power machine learning. What new ideas is Google testing? Jeff Dean: One is using machine ..."
-    publishedDateTime: 2019-12-14T07:00:00Z
-    sourceUrl: https://www.wired.com/story/googles-ai-chief-do-more-less-data/
-    ampUrl: https://www.wired.com/story/googles-ai-chief-do-more-less-data/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/googles-ai-chief-do-more-less-data/amp
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc59fd4e29170007838c30%2F0x0.jpg
+        width: 1200
+        height: 675
+  - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
+    excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
+    publishedDateTime: 2019-12-24T01:19:00Z
+    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
-        width: 700
-        height: 366
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
+        width: 1199
+        height: 675
+  - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
+    excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/opinion/how-internet-of-things-and-artificial-intelligence-pave-the-way-to-climate-neutrality/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 30
+    images:
+      - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
+        width: 800
+        height: 450
 
 secured: "dMXh1K6ypqjKbUZIHT6lkootM1C4NxFKdXPXQge8+6CWG7GCGAsAu89cm7HQXgpSUK7DfJfNwsVhfI1PSSpEYtx52dcfHga85TrQBieGrMU4NFV7kcfp7iS21t3ODt5xmwE4A4qmXeGYkGwDbn0+hFczrw64KVztAWvb4Fyz/2vvQ4WaSbqM4FWOgh3lX7q0SJhF1rfrbxFb776uUOSrufjc+C0dnNa/7z0qvHj3t3IWpN/v2zwS5SfsblLYr1gwWmKxSQoQMPRL3ySNRwrhVQ==;gUY/A4G4i40csqjcN603Zw=="
 ---

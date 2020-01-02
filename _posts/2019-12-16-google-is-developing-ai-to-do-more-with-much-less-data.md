@@ -24,6 +24,21 @@ images:
     title: "Google is developing AI to do more with 'much less data'"
 
 related:
+  - title: "Google's AI Chief Wants to Do More With Less (Data)"
+    excerpt: "WIRED talked with Dean in Vancouver at the world’s leading AI conference, NeurIPS, about his team’s latest explorations—and how Google is trying to put ethical limits on them. WIRED: You gave a research talk about building new kinds of computers to power machine learning. What new ideas is Google testing? Jeff Dean: One is using machine ..."
+    publishedDateTime: 2019-12-14T07:00:00Z
+    sourceUrl: https://www.wired.com/story/googles-ai-chief-do-more-less-data/
+    ampUrl: https://www.wired.com/story/googles-ai-chief-do-more-less-data/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/googles-ai-chief-do-more-less-data/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: https://www.bing.com/th?id=ON.D7F5BBC4A63C16AD672B0B4A55AB9FB6
+        width: 700
+        height: 366
   - title: "Google’s AI Chief Wants to Do More With Less (Data)"
     excerpt: "Read the interview with Google’s head of AI Jeff Dean on using ML for better chip design, ML energy use and climate change, and acting on Google’s AI ethics principles on Wired."
     publishedDateTime: 2019-12-19T16:58:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-18T18:48:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
 type: article
 quality: 63
-heat: 133
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,19 @@ images:
     title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
 
 related:
+  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
+    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
+    publishedDateTime: 2019-12-16T06:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
     excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
     publishedDateTime: 2019-12-19T10:00:00Z
@@ -41,59 +54,63 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
-    publishedDateTime: 2019-12-16T13:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
+  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
+    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
+    publishedDateTime: 2019-12-20T05:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 34
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-18T17:30:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
+  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
+    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
+    publishedDateTime: 2019-12-17T19:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
+    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
+    publishedDateTime: 2019-12-17T15:53:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
     type: article
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 4
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
-    publishedDateTime: 2019-12-19T00:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+    quality: 16
+  - title: "Machine Learning as a Service (MLaaS) Market"
+    excerpt: "Based on End Use Industry segment, the Machine Learning as a Service (MLaaS) Market is sub segmented into Education, Banking And Financial Services, Insurance, Automotive And Transportation, Healthcare. The report is a compilation of first-hand information, qualitative and quantitative assessment by industry analysts, inputs from industry ..."
+    publishedDateTime: 2019-12-18T13:36:00Z
+    sourceUrl: https://www.openpr.com/news/1880777/machine-learning-as-a-service-mlaas-market-to-reach-valuation
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: openpr.com
+      domain: openpr.com
     quality: 4
-  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2019-12-19T00:47:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
+    publishedDateTime: 2019-12-10T13:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
     type: article
     provider:
-      name: YAHOO!
+      name: Yahoo Finance
       domain: yahoo.com
-    quality: 0
-  - title: "21.0% Growth Rate for Natural Language Processing Market by 2024 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "According to Market Study Report, Natural Language Processing Market 2019 provides a comprehensive analysis of the Natural Language Processing Market segments, including their dynamics, size, growth, regulatory req`uirements, competitive landscape, and emerging opportunities of global industry. This report also provides market landscape and ..."
-    publishedDateTime: 2019-12-20T11:02:00Z
-    sourceUrl: https://www.openpr.com/news/1882222/21-0-growth-rate-for-natural-language-processing-market-by-2024
+    quality: 3
+  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
+    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
+    publishedDateTime: 2019-12-17T13:21:00Z
+    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
     type: article
     provider:
       name: openpr.com

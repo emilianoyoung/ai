@@ -734,19 +734,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "A setback for facial recognition talks?"
-    excerpt: "First in MT: The House Oversight Committee’s plans for another hearing on facial recognition technology are being delayed until next year — and the panel’s new leader indicated that legislation isn’t exactly imminent. — Facebook vs. FTC: The tech giant reportedly could soon be in court to defend its business practices against charges ..."
-    publishedDateTime: 2019-12-13T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/13/a-setback-for-facial-recognition-talks-783689
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
-        width: 1120
-        height: 629
   - title: "How far should facial recognition technology go in K-12?"
     excerpt: "More K-12 leaders are choosing to install facial recognition in schools despite public opposition and research that casts doubt on the technology’s effectiveness. A study by the MIT Media Lab found that facial recognition software is inaccurate up to 35% of the time when scanning images of darker-skinned females. “With faulty facial ..."
     publishedDateTime: 2019-12-13T18:10:00Z

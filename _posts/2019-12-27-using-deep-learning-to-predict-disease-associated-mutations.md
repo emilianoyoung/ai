@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 108
+    quality: 110
     images:
       - url: https://www.bing.com/th?id=ON.276373166D6B8475A03219B55606BD53
         width: 700
@@ -114,6 +114,21 @@ related:
     quality: 74
     images:
       - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
+        width: 700
+        height: 393
+  - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
+    excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
+    publishedDateTime: 2020-01-02T15:17:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/02/where-ai-going-2020-useful-virtual-assistants-digital-versions-you/2634457001/
+    ampUrl: https://amp.usatoday.com/amp/2634457001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2634457001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.5A68C7E2C4F1AA3E9B841E170DD06194
         width: 700
         height: 393
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"

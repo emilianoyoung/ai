@@ -20,32 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
-    publishedDateTime: 2019-12-11T08:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market Current Business Trends and Growth Opportunities -2026"
-    excerpt: "Dec 16, 2019 (Market Insight Reports via COMTEX) -- The Global Machine Translation Market Report is highly intended to offer robust acumen considering Machine Translation Market industry to aid a market contender with insightful analysis for Machine Translation Market size, share, competitive scenario, segments, sub-segments, and dominant ..."
-    publishedDateTime: 2019-12-16T06:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Enterprise Artificial Intelligence Market 2019 Registering a Strong Growth by 2025"
     excerpt: "Dec 13, 2019 (Xherald via COMTEX) -- Global \"Enterprise Artificial Intelligence Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the ..."
     publishedDateTime: 2019-12-13T19:26:00Z
@@ -59,37 +33,72 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Chipset Market Overview, Scope and Technology Advancement Outlook till 2025"
-    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Deep Learning Chipset Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2026 Deep Learning Chipset Market report contains a forecast of the next 5 years, starting 2019 and ending 2026 with a host of metrics like supply-demand ratio, Deep Learning Chipset market frequency ..."
-    publishedDateTime: 2019-12-17T10:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
+  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
+    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
+    publishedDateTime: 2019-12-18T18:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
-    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
-    publishedDateTime: 2019-12-17T15:53:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
+  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
+    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
+    publishedDateTime: 2019-12-16T13:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 16
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
-    publishedDateTime: 2019-12-10T13:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
     type: article
     provider:
-      name: Yahoo Finance
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+  - title: "Self-Driving Bus Market to Reach $74.52 Bn, Globally, by 2026 at 40.5% CAGR, Says Allied Market Research"
+    excerpt: "Reduction in traffic congestion due to improved safety and increase in connected infrastructure have boosted the growth of the global self-driving bus market. PORTLAND, Oregon, Dec. 13, 2019 /PRNewswire/ -- Allied Market Research recently published a report, titled, \"Self-Driving Bus Market by Level of Automation (Level 3, Level 4, and Level 5 ..."
+    publishedDateTime: 2019-12-14T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/self-driving-bus-market-reach-133000298.html
+    type: article
+    provider:
+      name: YAHOO!News
       domain: yahoo.com
-    quality: 3
+    quality: 7
+    images:
+      - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
+        width: 400
+        height: 400
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "21.0% Growth Rate for Natural Language Processing Market by 2024 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report, Natural Language Processing Market 2019 provides a comprehensive analysis of the Natural Language Processing Market segments, including their dynamics, size, growth, regulatory req`uirements, competitive landscape, and emerging opportunities of global industry. This report also provides market landscape and ..."
+    publishedDateTime: 2019-12-20T11:02:00Z
+    sourceUrl: https://www.openpr.com/news/1882222/21-0-growth-rate-for-natural-language-processing-market-by-2024
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "2GoJdvftzPLPiMij1HRGIiaQ+hPyGXGipFm+T+XnYYlZTlxUnOPhTwN56jfublwo1mnTBDd1vE89aXF1v4+xkU0dQuEGFbFYKoOwznH10jdS3qYq7RAx8+Gh78ubEWL+aPJHIndIjCwytjaWzwQp4t90dUBozPFHJUjzDc7RMjp1URt5mYdCmOFlxzDDJ8DhYsj+i7Xnmg4nZQexOQadabkhHvXHgT/9KJRN5C4uVcaqU5yA0uZBro7M+zSs84Y7NOLrmfWcWiyw0SJTR06uhQ==;H+8UbQsQ39v7bZfYZtC9/Q=="
 ---
