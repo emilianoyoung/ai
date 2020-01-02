@@ -25,6 +25,6 @@ images:
     height: 433
     title: "AWS re:Invent re:turns with re:vised robo-car and Windows Server 2008 re:vitalization plan"
 
-secured: "K3dFMncpJXTds/akXqidNf9e265j7H4sOCzc528wChqh6xJwmgPZlhYQKXNY1TMwuF70ZZYBLnN5ViIkZWY0GQnLBcq0gkn1kNMF9hjXjKF97+BqkWAvfL5hj+P4HgA3qHSBS0LgkfAHfxNtrbdBdM0LO5bYUuSD1mqNF5bQ0Qn44i0V+aG4ku//t8iWeqxWhT5QSHK+uX+SX0eVlxaZ7FLjqi+ZWmF8M4wi4Dc3cm/3KC5cS4Y16RgBQFCJNKgknt715/bYipGdh+hbKSjLVQ==;dMyQa0p37Ig3HWsa6iAr8g=="
+secured: "IClpJ7hzrYVZ+pP7HkNLde450qMAJufSZ1NPtL6BaMXqkjXTpjUpz76h9hyb5VQK+b+yTiD06ZsuekXR2aUr+d7rQwf9ogK/1dopwe/pNrvSKw0+KpCXip+ad2FM/4rDGbtMAyA0XgufxxO34N1KqaH1mlUFOPn0DnxCTcpx0El0ri9hb260D3nbkQQuV4rYMDg6KOjOMma4ArlUk+BMxQMaZ4FCbiMXqcEcyBu+bHtYyw0+M/JOpxzA4C03CPwLgZ9AlblEHu8DbSo8C/s20Q==;ngieEFc1J/ngR7VcYUJmAQ=="
 ---
 

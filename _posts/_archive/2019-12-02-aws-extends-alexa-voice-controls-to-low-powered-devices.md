@@ -38,6 +38,6 @@ related:
       domain: gizbot.com
     quality: 24
 
-secured: "ElEIJqF08P8fqAa5KM6dzvXSCQsD+jiD33B7akMiZLhIgd4F/9bov7mcde3xn5e8gfWpPMeT3qIROswH7MPbrAu2j2ecqfRhIXYMoEcVaDrv7AmgwJXCTCdDxfuO5/sAWX/i8uXon5IsjDzKI7ZLna2QyEEUcvQL2hF4SfPSnxe+X96p8G/l7Q/WCsNFe1GUsd1i6Y5lI89YqbbgdTGQFLzKhOmj9sho5SbIEy2QzYOmkDqVsz8mRcvLCixu0lkUGYit7JKL+a90/3Y7c/Xjtg==;cq1SVAqY8rJzbUfQgAHEfA=="
+secured: "9K3x4rC+0nIWZmHP2H586vcTopD97+ifejX6dLemVjhnr61KTysyMbKpOpIYPStWZa4x1R+tb1HM5wrbIOKwrwx2UUHto3jNqStf21PfxwdhbA9JBSl+ETUes5k1W8+tfrcmyq/8RfMh4AmcOa3IqDosEwqZDD57SD0dbTpLg1BAKADTZJkVpgy2LXs9TC4hRp8fGwE57QM4PwjRAP6RTwXTab23ZIrGas8Gl3P5YUhmVGluF2fn/kwiTAnxOd+QmLggb9QgRAcVS/Zb6/BVZw==;YsiP11tWSQl0ek/L6lbYag=="
 ---
 

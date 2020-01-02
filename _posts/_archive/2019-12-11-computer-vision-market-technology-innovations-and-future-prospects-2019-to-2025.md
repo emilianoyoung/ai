@@ -88,6 +88,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "/ym5sqVeX8Dk/Bd2Ip8DyBhwPowqMb4Bt+v7ljhEXzCebRiXd4+AKAnhzLSEUdcQQZnPAJtvTYd3X+vPBkQvJ5tSAL3nV23hViC3vsKrbkgWphDjM4iE3YGUYtFYdIwuHpD2tZDWMO5RCDR9KucrA1My0quRIvnifDfnF5hcCPmJHi9Te4XnhYt4At+EYNTmP1mYhn6w69i8wiCzBtN2MFUfHLpwD2pgxnBFC2IxGd7KQxd/xAgeUggk/FQ1pAETQe5JALbBQNGWhm6AAM61Ow==;4PL65IJblmamLjSQewJlZQ=="
+secured: "azOcuWB7bqXFTasVp7eXaYToCjgul6Wr0PZan5Uccer+sEnI/j2DXD9/9mXE0rHvHs8dUiDmaSY+roxRyXMfdp5eSdpC0ZhPAyd1UsdC01jd8mfvh/LP1xoufERPgO4CxpSSgZttTOg9JN39fNkJZcF3Vj/Z6y1Bs1QT9RPz5Gu8yieWYmpRMIe+3+rF7zDzcpN4eSfMnGOtquyDRF2b4BwJqciIhna1riKZLVXm+TDGFkyOs2ExYPvUUETB0ZV7vTdea+yzvKpfg/cW03pdSw==;GQS8oIo/V+bXoEreNqKx2Q=="
 ---
 

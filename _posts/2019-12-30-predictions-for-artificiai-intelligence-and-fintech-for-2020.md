@@ -37,7 +37,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 107
+    quality: 109
     images:
       - url: https://www.bing.com/th?id=ON.EC6374614A9157CE07C21ADFBB899607
         width: 700

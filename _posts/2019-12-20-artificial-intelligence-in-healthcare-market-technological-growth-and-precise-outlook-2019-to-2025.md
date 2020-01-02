@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
-    publishedDateTime: 2019-12-13T04:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
     excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
     publishedDateTime: 2019-12-20T07:56:00Z

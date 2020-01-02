@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Diabetes Management Market Next Big Thing | Apple, Google, Vodafone Group"
-    excerpt: "Dec 12, 2019 (AB Digital via COMTEX) -- This intelligence report provides a comprehensive analysis of the \"Global Artificial Intelligence In Diabetes Management Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects. Data True to market on the products, strategies and market share of leading ..."
-    publishedDateTime: 2019-12-13T03:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-next-big-thing-apple-google-vodafone-group-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "fZFeVmYMC1bwzJFqLQoNBfD83PboVscYhlCfGL3uXRtj9hDU61XD5rLKSjyNFCggx5ksFieg8bBgZmfBxyy5nbFc8z/FfZuwHiYSxN7dHukJvYc9W1dWh2MO70KTzQ99yqWVtDAiYzrkaRsJo/8zfCZatfwgaKibp6G81ZX/5UmydCSdVdxOpiXHsugrnTNb1jOSop9jkLBBqS8o0BdMJXNsUNFbIcuzal/cVJwAvHCQjhs2c7SvY/HbCeh7te6xIrQmnIoxb8JBpO9Lt6RryQ==;Rs2F3/sTia74Q9slI699Xg=="
 ---

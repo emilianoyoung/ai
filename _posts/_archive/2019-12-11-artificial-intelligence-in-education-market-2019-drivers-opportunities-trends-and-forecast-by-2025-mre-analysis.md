@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
-    publishedDateTime: 2019-12-13T04:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
     excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
     publishedDateTime: 2019-12-20T07:56:00Z
@@ -307,6 +294,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "pyCfnL54sSYc2RQ+Bj4eBSXOD2JwLSwZgy/wq6H/YuY3ELOzgP3ByTlzhW+3nSIh8MN0uvFq1gQCVVxmH2UR7z/A7s7ZNjs1NPYrOdLfmC7rZ94rUFXnxs4PP0CHzyb/9Oh1ej1rKYI7U9VVhldsvmYdxZX6KO5EuIICECLo3g16iBSFhIj19hr5hbhMuPSNPc591TWwN0Z3wG01q1NYlAgMdRMRLo6850rAFU3p4G8AjK5sGLEJv5TSBD943s1Edff37xIuz84jDHJLmjkLzw==;+OYNWbotdRY4dR30xjf1jg=="
+secured: "BlyfiewuDrpQBY/JWCfVzpTttp8K64bh35EPQ+mqTE2s7umdwDQ2jnr0qAzQ+CeQpaX1sW8qlZIt3hAWYtWyVktqA5qVquVykFuyn4rkccIQodlcWvPEDyIyS4nztjaRVD8L4Ut6EYcMl7F2/xzgDW8Klx0QZ2/FQ6eG0pJ1vfm06OvSxgWIsSEQz2hJgZyqJtrjkHcYX6kGwPLZ0TAsqPssci0Zb+XNYPhcXgYnVq3LJ3IJLgV8ahAMyfqD6H0A/K31GzAQ/2L0dD+BUeAIYQ==;6FTEQCE0ChgCpe9iaYpi1A=="
 ---
 

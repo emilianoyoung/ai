@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
-    publishedDateTime: 2019-12-13T04:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Chipset Market Technology Innovations and Future Prospects 2019 to 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence (AI) Chipset Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different ..."
     publishedDateTime: 2019-12-13T07:00:00Z

@@ -17,6 +17,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "FpBHFnG9xu9TMOCOxpqeK8c0FPdPjMQKxDQretXsU44+G/gr/VYAgSB+0z9D6trgvTdDli8r5HcoIropH/2rUf2tVyKIiq4ch1ySmo1ciZlUXRdph+e6NviPqr3aN0IyXVHkWHbozKnRDAYtMk+Ya7TqTABmQTQ+rOTgS5fiReeuxuqHjH3Q74x9oSB0dFwqkI5Ua9eWpueSrALYfuRZ6rF4wEOGA+rCaPFz0lBs2r+Pmtpn0TwFn5HuidI0DbKmA0DdjPS0op2LeIf+naylaA==;VycO0qv/33AHRvuXJe0spA=="
+secured: "RKZuea59L0gQjqyTNiX6/Du/qMDBfxsYYE1myzhJuF4MlugvbUcLWWXrTzlPw8Gk75w5y+yUth1T0tnOM75nebnhgDRjPBtwEeCzL0l50oR4lbg+qBvDF5T2/iLZBHlFVd72ptbz4cnf6EXg9XnZ6UzA0YpBPP+3kgizDdVSIUIpHEsgEzkYZdvX+Z1vyvaYfzzSYt5oCFG1BdTtJyE0klTQ+kPyAVSOJ7yC78KS0sNZVvzzFpfPAi4SEXzCNxlv+Y5eO4K6JkXYxLt/BRL1aw==;sWfX8/3Gdg7o4E6H/R81MQ=="
 ---
 

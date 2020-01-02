@@ -67,19 +67,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
-    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
-    publishedDateTime: 2019-12-13T03:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Face recognition tech is everywhere at China’s new mega airport"
     excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
     publishedDateTime: 2019-12-13T07:32:00Z

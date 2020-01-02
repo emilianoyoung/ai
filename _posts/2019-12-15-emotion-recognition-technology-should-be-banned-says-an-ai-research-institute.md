@@ -52,19 +52,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
-    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
-    publishedDateTime: 2019-12-13T03:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Emotion recognition, AI for suicide prevention | Read"
     excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
     publishedDateTime: 2019-12-13T09:33:00Z

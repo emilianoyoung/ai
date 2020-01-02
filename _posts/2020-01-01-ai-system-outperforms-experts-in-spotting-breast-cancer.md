@@ -1,11 +1,11 @@
 ---
 category: news
 title: "AI system outperforms experts in spotting breast cancer"
-excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
+excerpt: "An artificial intelligence program has been developed that is better at spotting breast cancer in mammograms than expert radiologists. The AI outperformed the specialists by detecting cancers that the radiologists missed in the images while ignoring features they falsely flagged as possible tumours."
 publishedDateTime: 2020-01-01T23:10:00Z
-sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
+sourceUrl: https://www.msn.com/en-au/news/other/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA?li=AAF3IbP
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,10 +15,9 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
+  - url: https://www.bing.com/th?id=ON.D409150672A3F4C28F04F777A0263F75
     width: 700
     height: 367
     title: "AI system outperforms experts in spotting breast cancer"
@@ -144,6 +143,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E6AC70E574BF2718C33609F37498B683
         width: 700
         height: 393
+  - title: "AI is outperforming experts at spotting breast cancer"
+    excerpt: "AI is being used for one of the best causes on this planet -- cancer. DeepMind, the Google-owned and UK-based artificial intelligence company is now using AI towards breast cancer detection. Breast cancer detection isn't a perfect science, as there are a high number of false positives (this is when a doctor or expert sees a mammogram and says ..."
+    publishedDateTime: 2020-01-02T04:18:00Z
+    sourceUrl: https://www.tweaktown.com/news/69590/ai-outperforming-experts-spotting-breast-cancer/index.html
+    ampUrl: https://www.tweaktown.com/news/69590/ai-outperforming-experts-spotting-breast-cancer/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69590/ai-outperforming-experts-spotting-breast-cancer/amp.html
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
+        width: 700
+        height: 461
   - title: "AI system is better than human doctors at predicting breast cancer"
     excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
     publishedDateTime: 2020-01-02T02:00:00Z
@@ -226,6 +240,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
         width: 647
         height: 700
+  - title: "Google AI system beats doctors in detection tests for breast cancer"
+    excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
+    publishedDateTime: 2020-01-02T04:24:00Z
+    sourceUrl: https://www.afr.com/technology/google-ai-system-beats-doctors-in-detection-tests-for-breast-cancer-20200102-p53ocu
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
+        width: 700
+        height: 393
   - title: "AI shows promise for breast cancer screening"
     excerpt: "Despite some limitations, McKinney and colleagues’ study is impressive. Its strengths include the large scale of the data sets used for training and subsequently validating the AI algorithm. Mammograms for 25,856 women in the United Kingdom and 3,097 women in the United States were used to train the AI system. The system was then used to ..."
     publishedDateTime: 2020-01-01T18:16:00Z
@@ -333,6 +360,6 @@ related:
         width: 500
         height: 500
 
-secured: "c+JV+Udl1o9EaGlNRUYbaKQKBRS/NIRnryiO/oFCjAfpdJGXpeoXBkl0aMljx+x0A+sXKtZSyamzWSA2KHnTVBVnwzqxYqyTMe1WsIAf+6Qy9GEmt53hFizARkBa7wwlxVxQVs1/qQRhV7XDUVN7Vt4+x9NQCH+2oO41crA29jIQXhHzwGglU0otRyhFoJRp9/js8lVW1oLBSii9lR2WDm++Oa7AD8ajcFYk627L07/7X7YlLlxAEIqK3avXrT8Z0QSUJ/kA5IXXasTNbtJIVg==;iuZ2klm0doJHE2EyXDqATg=="
+secured: "r6NqNuzIpwXoqNmX0Zh8bFTRJhjA6Me6r8Zhagke6nhuE20Cfbv1FKlEqf4qe32EJZBnrnHMag0yR9VwVW5jKM5Cv6A2tUtSgI9XrqfD7WdXHqR1BIO2gCCbMQCydIbpC0A0K2u7+gOTbms7ozVjzn6LWxVbNT7SNKVC4XKG1VBZvogJ000pkVzLlRYWJ3+xu2kPOnbV5YChGuTUnh9GMb/fMyp1O+71Lha3a4WIFWf9JlrdCCEyCfQCZxIDhNZxGp9XYfqhnup5UHAw2p2x0Q==;mmon9mYbIn9u+uBS7Vcnvg=="
 ---
 

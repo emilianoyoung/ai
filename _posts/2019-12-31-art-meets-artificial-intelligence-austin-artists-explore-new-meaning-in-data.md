@@ -2,16 +2,16 @@
 category: news
 title: "Art meets artificial intelligence: Austin artists explore new meaning in data"
 excerpt: "They literally won’t move,\" Morton said. \"It’s like they have to look, and from what I’ve been told, get their bearings.\" Morton’s work is part of a budding art form — one that uses artificial intelligence to generate images and visuals. VIDEO: An Austin artist explains how AI is used to create art Dubbed generative art, the works are ..."
-publishedDateTime: 2019-12-31T15:24:00Z
-sourceUrl: https://www.statesman.com/business/20191231/art-meets-artificial-intelligence-austin-artists-explore-new-meaning-in-data
+publishedDateTime: 2019-12-31T16:30:00Z
+sourceUrl: https://www.msn.com/en-us/news/us/art-meets-artificial-intelligence-austin-artists-explore-new-meaning-in-data/ar-BBYuYXH
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Austin American-Statesman on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 525
     title: "Art meets artificial intelligence: Austin artists explore new meaning in data"
 
-secured: "ZIcmeIdCtKOK8k0ZH/iP0W43AkB44ouDRequlf1zuXxC12stkbL6nDJJ/syCa0qAke9IPeZpxGDflS0gZayn3AoDI5IjkdMaQOkiwzKugtwxX744aSkbOnlgGSYa6haIgjgBpgII8TasCr5jp64l6CZ4dxptoLx889EMACxwimKKKVsUu00QoCc8JV0oISQsS1olTAlieHoGL2P3ocxGKnxXjiE8gv4FR5o91hu4hX5FxuJ0DLEnxcgJOPEfvfTmAp1aFleIliKLTjWYHnpcgQ==;dE46gmHF70nsEIgGJiW6LA=="
+secured: "Mkiq7H9BUSgiWqOxNC642+voR8yTEVbq+oZVL0OWKxme4JILUnd35k1eNBjklOFO2yjBpC+S9N9WK/03/jpTC/yrsepj92sM9iyUrTgDCH4YPAOQYuQtVobdfke/gT+KO86X1sDuzNGBaxOikpp/vJsMYhr6d2DsAk7F45gZZMZkLWm5/WIazkEygGvbxQUy8lQXPbqfFRwuy9hFKJK8/f2xq4szK7EgmabEkXJ7XVhA0WMncig45pR/T388VqYFWvUNZHyzlk50mvVb/P4kRQ==;ohBIE5Z4iBKYVPzJL+ufmw=="
 ---
 

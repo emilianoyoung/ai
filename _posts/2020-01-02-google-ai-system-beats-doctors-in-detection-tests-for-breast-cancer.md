@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
-excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
-publishedDateTime: 2020-01-01T23:00:00Z
-sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
+title: "Google AI system beats doctors in detection tests for breast cancer"
+excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
+publishedDateTime: 2020-01-02T04:24:00Z
+sourceUrl: https://www.afr.com/technology/google-ai-system-beats-doctors-in-detection-tests-for-breast-cancer-20200102-p53ocu
 type: article
-quality: 34
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Times
-  domain: thetimes.co.uk
+  name: The Australian Financial Review
+  domain: afr.com
 
 topics:
   - AI
+  - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
-    width: 685
-    height: 385
-    title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+  - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
+    width: 700
+    height: 393
+    title: "Google AI system beats doctors in detection tests for breast cancer"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -240,19 +241,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1BD8EC5523850B2FCD1F9946A4982ED6
         width: 647
         height: 700
-  - title: "Google AI system beats doctors in detection tests for breast cancer"
-    excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
-    publishedDateTime: 2020-01-02T04:24:00Z
-    sourceUrl: https://www.afr.com/technology/google-ai-system-beats-doctors-in-detection-tests-for-breast-cancer-20200102-p53ocu
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
-        width: 700
-        height: 393
   - title: "AI shows promise for breast cancer screening"
     excerpt: "Despite some limitations, McKinney and colleagues’ study is impressive. Its strengths include the large scale of the data sets used for training and subsequently validating the AI algorithm. Mammograms for 25,856 women in the United Kingdom and 3,097 women in the United States were used to train the AI system. The system was then used to ..."
     publishedDateTime: 2020-01-01T18:16:00Z
@@ -333,6 +321,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
         width: 700
         height: 466
+  - title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+    excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
+    publishedDateTime: 2020-01-01T23:00:00Z
+    sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
+        width: 685
+        height: 385
   - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:34:00Z
@@ -360,6 +361,6 @@ related:
         width: 500
         height: 500
 
-secured: "zWHxA9lLg/CaAOP7ah6QWv433G257ym3x2QIVZRtLi6uBCuhEMwJfaKxk/93oKOYOBrEr5s2zRkSUJBNFKJkrg46KE3kDU6E7yz6lIAIRH7/tMzgP9O9nDPUlgW7sppMzaHUxyFRAWWJQOm5I5e2ZIuTjUepdHAtdlzgQxPY4OJ5JgT1R1HseQc8Zi2dBVb9emohgvmCqxZKubST531aIB3AUOsHlD7c0moCvAJhl0j8VVovfrcLuY5FCBjrg4jxebF8cw32PhOkYpSAVVfN7w==;E6gDxPDHQWckqG2sAI197g=="
+secured: "p1eED7a14wxcxXnEyawNg/USunTAwuC2oYpnGVw6IDrEpVK6pQuee0PMLYR2Z4V1HjAJdZRG3jfQKfB7kweWasCYIgqT7YQYengYwtz5lUpc7ivWzkSzhkZZfQe0XrbWDj+lO+k6kfZlGPDlkw1dozBD9dA+w1g+TAdP4iq74pWQiBE40aItLaG64yRi8c9P3Jb472aDDb2E6Nb/Rtwnr6vt24zNHu8MkkRX5bb7Xu132tVLWhoc5aGCadjNybEtCAzUD82z7saLv6nYnyMjTQ==;zPqqQ88tQS8TZaHbNVzVUg=="
 ---
 

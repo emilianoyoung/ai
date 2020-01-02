@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-14T13:42:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
 type: article
 quality: 81
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -50,19 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Fintech Market Evolving Technology and Growth Outlook 2019 to 2024"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- AI in Fintech Market – Growth, Trends And Forecast (2019 – 2024) Artificial intelligence is a part of computer science, aiming to enable the development of computers, which can perform jobs usually done by people. Its main focus remains thinking or intelligence. The development of AI ..."
-    publishedDateTime: 2019-12-13T04:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-fintech-market-evolving-technology-and-growth-outlook-2019-to-2024-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
