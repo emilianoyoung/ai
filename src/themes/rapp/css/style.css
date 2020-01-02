@@ -740,6 +740,8 @@ Newsletter
 .newsletter-wrapper {
   background: none;
   border: 1px solid var(--border-color-newsletter-wrapper);
+  position: relative;
+  overflow: hidden;
   border-radius: 5px;
   padding: 0;
   text-align: left;
@@ -1817,6 +1819,8 @@ Start Responsive style
     background: none;
     border: 1px solid var(--border-color-newsletter-wrapper);
     border-radius: 5px;
+    position: relative;
+    overflow: hidden;
     padding: 0;
     text-align: left;
     float: none;
@@ -1830,10 +1834,11 @@ Start Responsive style
 
   .newsletter-wrapper i {
     color: #f0083f;
-    margin-left: 15px;
     z-index: 1;
-    margin-top: -3px;
     font-weight: 900;
+    position: absolute;
+    top: 21px;
+    right: 15px;
   }
 
   .newsletter-wrapper .email {
