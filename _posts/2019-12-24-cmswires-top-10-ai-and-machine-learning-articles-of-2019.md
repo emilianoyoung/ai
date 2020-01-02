@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machin
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machine-learning-articles-of-2019/amp/
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -64,6 +64,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
         width: 700
         height: 393
+  - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
+    excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
+    publishedDateTime: 2019-12-20T05:38:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-attends-the-2019-stanford-university-mediax-conference-connecting-the-learner-and-the-learning-with-algorithms-and-analytics-300978173.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: https://mma.prnewswire.com/media/1057588/Squirrel_AI_Learning.jpg?p=facebook
+        width: 866
+        height: 453
 
 secured: "jpdPTXbnhSAc+ZeNh3T/hjRijceGb7yPUQ3gCx6QbdJ6wEHPcdW/LilWTBA9TIJfQfKVI3QMl+djYbWgrPA89kvN4YGCyhHnVbxzXiDagjJl9XsrnlvxLk6sef6XElN3h7Qu9amILSeCRwsBGHdTgyrHOVH3fjgKNcfMpx4iPcdrxfEk3dS+pQzwaa4A1KA37OQ2DhY6lE0O4fRoXR4KWzo1W2/5q1SM5DuoasiEjZyK5yJ83/4WrseAQGWtgDJiWRE6va/33EcwV0dj8gZvHw==;ACty/tiL15s+ry0GJ66eVA=="
 ---

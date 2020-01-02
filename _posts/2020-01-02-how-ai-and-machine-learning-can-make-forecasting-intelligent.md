@@ -8,8 +8,8 @@ ampUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-mach
 cdnAmpUrl: https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Demand Gen Report
@@ -26,47 +26,36 @@ images:
     title: "How AI And Machine Learning Can Make Forecasting Intelligent"
 
 related:
-  - title: "New eBay platform using AI to enable image search and internal innovation"
-    excerpt: "Krylov has allowed the e-commerce site to reimagine internal processes and give users new tools. Many of the biggest tech companies like Google, Facebook and Amazon have realized the value of creating their own AI platforms for both internal and customer-facing services. Facebook's FBLearner Flow helps the social media site filter out ..."
-    publishedDateTime: 2020-01-02T17:49:00Z
-    sourceUrl: https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
+  - title: "How deep learning can transform your marketing results"
+    excerpt: "Whether you outsource a deep learning solution to a vendor or bring that expertise in-house, here’s what marketers need to do to make deep learning work. Technology continues to push the boundaries of what’s possible for marketers. While most marketing executives understand that software can drive growth, not everyone is familiar with the ..."
+    publishedDateTime: 2020-01-02T15:14:00Z
+    sourceUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/
+    ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.B0519701A0F5A0B0AD3221EA2B7866F9
+      - url: https://www.bing.com/th?id=ON.0113C3EFA92A9C277EF0AB9E8873C445
         width: 700
-        height: 525
-  - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
-    excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
-    publishedDateTime: 2019-12-26T18:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-may-see-new-emerging-trends-2019-12-26
+        height: 292
+  - title: "Artificial Intelligence: Improving learning by forgetting"
+    excerpt: "Paradoxically however, our past views on information and forgetfulness have undergone a reset due to modern research in the areas of psychology and artificial intelligence. Firstly, although information is generally valuable, however, it is only useful up to a threshold and then it starts to become detrimental. Secondly, forgetfulness improves ..."
+    publishedDateTime: 2019-12-31T05:20:00Z
+    sourceUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    ampUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.BB8A1367AF4F1F17D302734A7FE4283A
+        width: 640
+        height: 480
 
 secured: "AvbBbVtSFtCICizIpdcMvV5glyOy+AV+MLERZJZqIOqtMYHBbpRJ4XUT8lMfa41JuD9T2oaySDrz6tYZQAkMtOVMcw4F0vK8O1IMtmqzDEM4800BJAq/+GL7D+eZvNWNV1SQWLtCdCJtdf7iwoX+PPeirwnzvKkC5m71nrJ2uZP0aDY/00M3GMFU81m9l6eRiGpKIhCtRTuB7NuAZlcIHuI1ju5lTFwAWqC0egQNRQ9TgxajPaK4e1Kav/r23RMv6+JT1i+X44/cqyq63mBJQA==;zurEprwknS3Oqvn7ZOcsxQ=="
 ---

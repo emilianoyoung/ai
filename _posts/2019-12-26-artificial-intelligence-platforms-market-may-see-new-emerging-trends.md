@@ -27,49 +27,50 @@ images:
     title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
 
 related:
-  - title: "New eBay platform using AI to enable image search and internal innovation"
-    excerpt: "Krylov has allowed the e-commerce site to reimagine internal processes and give users new tools. Many of the biggest tech companies like Google, Facebook and Amazon have realized the value of creating their own AI platforms for both internal and customer-facing services. Facebook's FBLearner Flow helps the social media site filter out ..."
-    publishedDateTime: 2020-01-02T17:49:00Z
-    sourceUrl: https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.B0519701A0F5A0B0AD3221EA2B7866F9
-        width: 700
-        height: 525
-  - title: "How AI And Machine Learning Can Make Forecasting Intelligent"
-    excerpt: "Companies have dealt with inaccuracies and blamed their bad data. However, things are starting to change thanks to artificial intelligence (AI), machine learning (ML) and predictive analytics. According to Salesforce, only a quarter of companies use predictive analytics. Of those using it, 86% have already seen a positive return. Predictive ..."
-    publishedDateTime: 2020-01-02T16:59:00Z
-    sourceUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent
-    ampUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
-    cdnAmpUrl: https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
-    type: article
-    provider:
-      name: Demand Gen Report
-      domain: demandgenreport.com
-    quality: 74
-    images:
-      - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
-        width: 1280
-        height: 1280
-  - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+  - title: "Deep Learning Market May Set New Growth Story | Clarifai, Entilic, Google, HyperVerge, IBM"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI has added one more investigative report of valuable nature to its repository. Global Deep Learning Market have been compiled following extensive research, and analysis of various market segments. The report includes market revenue sizing, latest and ongoing trends, threats & key ..."
+    publishedDateTime: 2019-12-24T08:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-may-set-new-growth-story-clarifai-entilic-google-hyperverge-ibm-2019-12-24
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 74
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
+    excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
+    publishedDateTime: 2019-12-31T06:09:00Z
+    sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
+  - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
+    excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
+    publishedDateTime: 2019-12-26T11:07:00Z
+    sourceUrl: https://www.openpr.com/news/1885852/speech-and-voice-recognition-market-set-for-rapid-growth-with
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "dBEKVlzAFFsiWlxxMaQdXlZupWPQJt5z/EjgtlFj1CYdnGvDv2rOvYQl+N5gjMN1n5Wu8SmJthLaZi8LiDlgxFLAjph6oGmpi+nH3PRFkElEE9rV2aa4JykHK8ldCwQQig7YeVJExKO8z3LykEHDOCgTFIzzjw3YupGGpPXuN9N7qCIiIALjANwHrPKsVMC4tDFPJ4yq6tIl39r+gWgn2v1t2kr5jL0zQogtfB+vHRCHWapyAhMlMJDZTXO080Uz6zxBjJHFID85jSaRyhO7/w==;dJhgsrA0mlNWQ6SXsilsDg=="
 ---

@@ -24,21 +24,49 @@ images:
     title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
 
 related:
-  - title: "ProBeat: AWS and Azure are generating uneasy excitement in quantum computing"
-    excerpt: "In November, Microsoft announced Azure Quantum, a cloud service that lets you tap into quantum hardware ... Potential applications are so vast and wide (from basic optimization problems to machine learning to all sorts of modeling) that interested industries span finance, chemistry, aerospace, cryptography, and so on. But it’s still so ..."
-    publishedDateTime: 2019-12-13T18:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/probeat-aws-and-azure-are-generating-uneasy-excitement-in-quantum-computing/
-    ampUrl: https://venturebeat.com/2019/12/13/probeat-aws-and-azure-are-generating-uneasy-excitement-in-quantum-computing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/probeat-aws-and-azure-are-generating-uneasy-excitement-in-quantum-computing/amp/
+  - title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
+    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
+    publishedDateTime: 2019-12-17T00:05:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.CDE31A775B70BF476AD1F16510FDF3A0
+      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
+        width: 600
+        height: 315
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
+    publishedDateTime: 2019-12-23T06:01:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
-        height: 350
+        height: 392
+  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
+    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
+    publishedDateTime: 2019-12-14T02:05:00Z
+    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
+        width: 700
+        height: 364
 
 secured: "yH0+oDmOaOx575JghZSyE6mkv3xARl5NF83u0+Yxvop3USDtSCYXWNR/RSbm/cJzZT36QMZ/I5bxcjPCZ/5BcVppcLtOhIypgBGGG8AtHuV2H3WakVUk3VX/roiYHlLWFs41ELeDMre1Vq8wV3FdLcLHbnl7TBbAckSXhNjq2pGCKl2gF2VHsHEkW/nz+359HBoSfScDn40ekHMmo0v2ktXSe93z0ASDkP2TMmgNbGeMyutdi2nBEFYywr8ei1WZYwaF1zJCrRKVD21vIRblMw==;xgqvksMjWmtECEX9qmMulQ=="
 ---

@@ -28,6 +28,6 @@ images:
     height: 470
     title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
 
-secured: "DXlShBCLoDD72YbQ5HJagvx55JeUraSNaWo8C++iJCPumf2ZAhbACiH605h+ngD4pmjh2czofKIBrVQ6EAlMTQfzoaOZF6p77MW/fHD0cB8y/1d6Q8jO8YsWQuk82BGyOLQ3BFP3IFZczfgas2KEy1V1SEkegnVJfk6mC3AsaDiBPUj1OC/EMdHtbqZxFlSESasCWof8fWrT44U80YasQHbrFLfSDC2KKYV57ez46M/cbSthgEQYyFh5MWiegKx9ZR4p4Dz0G1HDIO5xKRPApQ==;vRWD7gaRuBqEX3RwfmQ1CQ=="
+secured: "igvyQanrLelx/garJooRMLEhbBssb7QkO7W4KrdHC0i+k4M7bCI/DyFFf17zCXt7t/59bMzQdd8MINJZNlxiqPfH/dAVK8hvdGV4YAoK2Itpk+zqacQVI5+N2MTzvJPGOadmxa+HTlys2dNTmoZ5/Pigobs8aHXizgA/ZjQqUFiN9Qxd8f8egYmJUGMcJbzNOsitQOY4xmoOq15YHOOfgvi6sE9VZV91+mSjbZr2aiCTaBNz+qkwbTQN1aIX+iApfe2td2vQKgNLjDTeimyVXg==;1RRdQVHf1APq0a7Jbl234w=="
 ---
 

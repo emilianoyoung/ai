@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "DeepCode AI: Symbolic AI versus Machine Learning"
-    excerpt: "In developer communities, this is a double edge sword these days. It feels a bit overhyped (blockchain anyone?). So let me explain what we mean and that it is actually different from pure machine learning here. I guess first we need to agree on what intelligence is. Let us stick to the definition of Intelligence of DeepMind cofounder Shane Legg ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/deepcode-ai/deepcode-ai-symbolic-ai-versus-machine-learning-79c5fca29d31
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.EE7CA071202365FB6D7525CDB7722475
-        width: 700
-        height: 270
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z
@@ -72,6 +59,6 @@ related:
         width: 700
         height: 558
 
-secured: "FQhzV1vW8fbC27w2lZ8+ef0HR/g0CML5C+PjQIfuxyIwtiv6FWFN62gdntGLVxCt/Vs2sLWYe2Q+Xpd9qwm5N0VAUT6GfHEovozfG9NgfhKCmXV4CObMxmfhPH53Sf66pEKBGE5jc9hJMgk4km5n6nK6jvWub7FJuRIUUS91M2QgKJdr2U4hd2gcll9+5/2t/cxf+xcwoBPiFOELlGep4jW+BcTsrZSK0cVCOhaMN3yFFcg0UDq2Canvks0EvydwEvHCMw851GqPDC7r4RLOrg==;570f0JRuf1u/MEn2ksB7lw=="
+secured: "/VprP6smowyXu72AzjEfM+DkZGOuCtq6nCPY0ydWnFtiMRV3Av/uwiCOBN8HFSA01XGv7OGaiu8sgovP54kJWB95SBJJwoEEu7m3Tf62K1mwdbGNVXRvw+9SrXAon9+qxnYFrfmD9tcWGaYQX6F8gZNJt994zh9/B9yRvtF2jXnoZIx2y7aBl4JQ6klBnJ/9q9UacCVMT7tIWSUnbu9jxrVRFv5UlWy5zU0Bj5n7aRwDpZjJtP54O9Sz4FGjrUYopfvR56aJB74t+6vd4fRQvQ==;M0+yGMPNrmFp83IU4HVW7g=="
 ---
 

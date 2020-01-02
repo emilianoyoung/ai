@@ -36,32 +36,6 @@ related:
       - url: https://miro.medium.com/max/1200/0*F2CXcyf2VqAqX8tS
         width: 1200
         height: 800
-  - title: "Division of Computational and Data Sciences marries AI, social science"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
-    publishedDateTime: 2019-12-13T18:22:00Z
-    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
-    type: article
-    provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
-        width: 300
-        height: 200
-  - title: "Division of Data and Computational Sciences marries AI, social science"
-    excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
-    publishedDateTime: 2019-12-13T18:22:00Z
-    sourceUrl: https://source.wustl.edu/2019/12/division-of-data-and-computational-sciences-marries-ai-social-science/
-    type: article
-    provider:
-      name: Washington University in St. Louis
-      domain: wustl.edu
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
-        width: 300
-        height: 200
 
 secured: "d9BBGA6PJiP2We7rvPR/1+SmxY35JyTFHlor919pPvCmaXAAbvGcilCjilZeI/KZD3isVtZS7w0WX1G3a6VpNBi46CUR0vLWlUgvjYWHajbliWc33n20BgZS6WA8n98jeyAvJOUOYWtZmUl9gF8Fx1/ZsLykmFEZCscWUZlOwa1kV8U36IOkR5xzFYSPTeVEXk4tGPAugtnSEUmRLEhJUK72ZXMjShSRD/LLPTmlg685+/N8hFK3cBjI044QWS1ukDfCtQqMWymSXpxNjlabig==;Dt77eAcYobdKiVGS7Okf1w=="
 ---

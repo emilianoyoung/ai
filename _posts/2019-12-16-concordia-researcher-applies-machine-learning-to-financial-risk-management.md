@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "DeepCode AI: Symbolic AI versus Machine Learning"
-    excerpt: "In developer communities, this is a double edge sword these days. It feels a bit overhyped (blockchain anyone?). So let me explain what we mean and that it is actually different from pure machine learning here. I guess first we need to agree on what intelligence is. Let us stick to the definition of Intelligence of DeepMind cofounder Shane Legg ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/deepcode-ai/deepcode-ai-symbolic-ai-versus-machine-learning-79c5fca29d31
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.EE7CA071202365FB6D7525CDB7722475
-        width: 700
-        height: 270
 
 secured: "JYzmkoZhXmeaIufTfXn5ZkrabP4BRHfKhCbgPKCLlSKfL50UcQRxCzqJmBwObwpv2VG+xxjUne/tVG2lRbD2SPnylAQr0iLHI7J4MTHWbdCz1cBnWUlSTvGpoPKW35TlX/Sw4JNHj7OIxFouBp68oySVjOYtMMhPA32Z3Ykv7swq9vNmNvTtL/VC9VNDhMV7/kLoc08oIvJ9t4rp0PkN9jp0FpJA/x2qqPMM0z13b21zaBzyDBb5nCh5lzaxC01GX8m4onBWPpj3VcIvflovHA==;chsvL4gg4s0+RZLsh0dNpA=="
 ---

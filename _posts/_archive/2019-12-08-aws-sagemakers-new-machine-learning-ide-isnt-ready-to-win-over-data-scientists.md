@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Deep Learning breakthrough made by Rice University scientists"
-    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
-    publishedDateTime: 2019-12-13T18:42:00Z
-    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
-        width: 700
-        height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
@@ -93,7 +80,20 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "4CaVJD+CYExFygoOkr0C01I+8tuFxD+nzQAq9FW7Dffx0o9A02K2nYPsaDMj6jh8cVFO5iR878Ehx+eF4pzDxtPOof0xeQUHh7UEg681LbJrEJW5JlOjV65jIKZVPyyE1iHEpkyAK0KHf6DYuNOCPCUzvxntYr76XOGxnR59xRDAOLEDvQBBYdnAxotSdSzKRF/6h/TF16mE+KnoY37oRQRoSkbPKIw2PHOT+HzBZ5Nv2gz6CzzJAFT2y5NBnfdSUNGT3Wwd4XmU1TXVIcqr8g==;EmxqVLNXmBczVVZ6WjbLPg=="
+secured: "p6TCQdU3G173EOSQxWZVtECSHu1KOYd+X7zswMCTwD3AdsIq/afEx1rb53/kRIBo1HoEGbAyGTRuYQRBv7zft8jXKNfhwhoyrLz/tO4cEszVsXPCKRkl7URrNChJCNnCYJGyjnXdUZmbDDdfIq+FLAXyRu95IWw5l7+VJDfjLesVcBVxxZecQhOegsek8wSRctxHC8WsS16liRSeon9drGJSI0DPhhNIDDFYZNrAxqey5UxVxop8McC+M6ECi9BwUsYDuytNLfpslXu7h5hKLQ==;ipnhF/KnBReJJWePNV5Ouw=="
 ---
 

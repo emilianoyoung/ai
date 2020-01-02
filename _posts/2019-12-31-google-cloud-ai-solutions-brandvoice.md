@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/googlecloudaisolutions/2020/12/31/4-steps-t
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloudaisolutions/2020/12/31/4-steps-to-shape-your-business-with-ai/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62B46E9FC2DBA70056CA813F5A056AE6
         width: 300
         height: 300
+  - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
+    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
+    publishedDateTime: 2020-01-02T18:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.675CCCB63BD23B8051BD242965EE03A6
+        width: 700
+        height: 365
 
 secured: "h+koyuThUQwnhv4rNRaQhwL8pfP9b/BZzfKbfQ8gf2X4Zr1GgwM1e2isND5TH/CXrhlPWO9AjFiSiLQ9vXMJBgrDymEvWlujvPktpGgB4UZKIHc/v+A7kdl4xmuGHN8agiuLSizsPFDy3dsX6X9s2pNqMvcwOHf7xO/bV1km/JGnR/Tj6nIi6yRkyFGtSR97L8Bg7NKrzRHAJn4WSBpVO5YIFIYRY1vNUl55dAhc4gLYzrHyZQ1RGH7YhteRVqF0Y2w/41ZVE+KvzBXRsOwVdw==;R2MrG8rjBiWOC766gvguYQ=="
 ---

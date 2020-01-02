@@ -8,8 +8,8 @@ ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learni
 cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Smart Insights
@@ -26,45 +26,36 @@ images:
     title: "How deep learning can transform your marketing results"
 
 related:
-  - title: "Logistic Regression in Machine Learning using Python"
-    excerpt: "Find the sum across all the values in training data. Now that we have the error, we need to update the values of our parameters to minimize this error. This is where the “learning” actually happens, since our model is updating itself based on it’s previous output to obtain a more accurate output in the next step. Hence with each iteration ..."
-    publishedDateTime: 2019-12-27T21:34:00Z
-    sourceUrl: https://towardsdatascience.com/logistic-regression-explained-and-implemented-in-python-880955306060
+  - title: "How AI And Machine Learning Can Make Forecasting Intelligent"
+    excerpt: "Companies have dealt with inaccuracies and blamed their bad data. However, things are starting to change thanks to artificial intelligence (AI), machine learning (ML) and predictive analytics. According to Salesforce, only a quarter of companies use predictive analytics. Of those using it, 86% have already seen a positive return. Predictive ..."
+    publishedDateTime: 2020-01-02T16:59:00Z
+    sourceUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent
+    ampUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
+    cdnAmpUrl: https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
     type: article
     provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
+      name: Demand Gen Report
+      domain: demandgenreport.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1FE5C96CBFAFC7DD79276C871476C9BC
-        width: 700
-        height: 420
-  - title: "Practical Lessons for Scaling Machine Learning Solutions in the Real World"
-    excerpt: "Instead of thinking about flashy milestones, my wish is that in this new year we make progress streamlining the end to end lifecycle of large scale machine learning solutions. Despite all the progress in machine learning stacks, the implementations of large scale solutions remains a difficult challenge for most organizations. My company ..."
-    publishedDateTime: 2020-01-02T14:28:00Z
-    sourceUrl: https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6
+      - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
+        width: 1280
+        height: 1280
+  - title: "Artificial Intelligence: Improving learning by forgetting"
+    excerpt: "Paradoxically however, our past views on information and forgetfulness have undergone a reset due to modern research in the areas of psychology and artificial intelligence. Firstly, although information is generally valuable, however, it is only useful up to a threshold and then it starts to become detrimental. Secondly, forgetfulness improves ..."
+    publishedDateTime: 2019-12-31T05:20:00Z
+    sourceUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    ampUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
     type: article
     provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 37
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
-        width: 700
-        height: 467
-  - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
-    excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
-    publishedDateTime: 2020-01-02T15:20:00Z
-    sourceUrl: https://www.theglobeandmail.com/canada/article-canadian-schools-prepping-students-for-jobs-of-the-future-as/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.0F78F08BA63EFE2A6BBE3524ECC71755
-        width: 700
-        height: 466
+      - url: https://www.bing.com/th?id=ON.BB8A1367AF4F1F17D302734A7FE4283A
+        width: 640
+        height: 480
 
 secured: "V1FzFcPcxnPmUak7QiLNLgelQpMAr7cVDvy93NklC7CjJmfUxIshbN8GGgSDLmexqZR0k5Q/FHmr3Uw0PIjFgb1TrDIg/l4opyehh9I8EuEHzP+zchPnV86lf5uWO9e0mGH94+yb3CooePtkiRPwUnNo16jn+BAROawRSY1Na22AE3f2WKTSFmj2BuCwFWLQRXqUj88xFCONkT4QoE94S5OSKnw7+2kbgFsiQzZF5GOf50FIb5cqmspSKH2XSG3GyTX0A8Mv/esKT0ahu4IL+Q==;Vqn5c5c7snewGkI5tDn+FA=="
 ---

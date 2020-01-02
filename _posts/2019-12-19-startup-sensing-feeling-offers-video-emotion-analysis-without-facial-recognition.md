@@ -562,19 +562,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Airport Facial Recognition System Fooled"
-    excerpt: "Facial recognition technology used to secure airports and process payments has been fooled by photographs and 3D masks. According to Fortune, multiple facial recognition systems in several countries were tricked in a series of tests carried out by San Diego artificial intelligence company Kneron. Researchers at Kneron were able to access a self ..."
-    publishedDateTime: 2019-12-13T18:08:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/news/airport-facial-recognition-system/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.9987564357E5E31A184285EA3AF5F981
-        width: 300
-        height: 300
   - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
     excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
     publishedDateTime: 2019-12-16T20:00:00Z
@@ -743,19 +730,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "How far should facial recognition technology go in K-12?"
-    excerpt: "More K-12 leaders are choosing to install facial recognition in schools despite public opposition and research that casts doubt on the technology’s effectiveness. A study by the MIT Media Lab found that facial recognition software is inaccurate up to 35% of the time when scanning images of darker-skinned females. “With faulty facial ..."
-    publishedDateTime: 2019-12-13T18:10:00Z
-    sourceUrl: https://districtadministration.com/facial-recognition-in-schools-debate-facial-recognition-software/
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0FF4AD6724AAACCF04D3A065C2039450
-        width: 700
-        height: 467
   - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
     excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
     publishedDateTime: 2019-12-15T08:34:00Z
@@ -997,19 +971,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z

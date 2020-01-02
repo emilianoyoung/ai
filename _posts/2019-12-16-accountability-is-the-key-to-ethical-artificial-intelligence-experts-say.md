@@ -55,19 +55,6 @@ related:
       - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Artificial Intelligence in the Telecom industry"
-    excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://medium.com/@venkat34.k/artificial-intelligence-in-the-telecom-industry-da34fc814f99
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
-        width: 851
-        height: 315
   - title: "Empowering Telecom Industry with Artificial Intelligence"
     excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
     publishedDateTime: 2019-12-13T23:51:00Z

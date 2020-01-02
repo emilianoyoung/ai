@@ -8,8 +8,8 @@ ampUrl: https://ifpnews.com/iran-unveils-new-humanoid-robot-sorena-iv/amp
 cdnAmpUrl: https://ifpnews-com.cdn.ampproject.org/c/s/ifpnews.com/iran-unveils-new-humanoid-robot-sorena-iv/amp
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: IFP News
@@ -24,21 +24,6 @@ images:
     width: 700
     height: 432
     title: "Iran Unveils New Humanoid Robot ‘Sorena IV’"
-
-related:
-  - title: "Making robots too human is bad for humans, bad for robots"
-    excerpt: "An accurately humanoid robot makes as much sense as a Ferrari with a top speed of five miles per ... It’s only a matter of time before the sand fills the spaces in the pyramid and her role is eliminated. From \"Human Compatible: Artificial Intelligence and the Problem of Control\" by Stuart Russell, published by Viking, an imprint of Penguin ..."
-    publishedDateTime: 2019-12-13T18:24:00Z
-    sourceUrl: https://www.linkedin.com/pulse/making-robots-too-human-bad-humans-stuart-russell
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4B3BA79FBE68BC1D97B044F8CA86BFE7
-        width: 700
-        height: 467
 
 secured: "qap8XnO3H+DOHMUUKFliU9pumPKWJh7s90pS4X6WNV4kdOxcquSYw+aziJY1kwKs1RogFBIKuJozCVtK2GJ6KVidgAM0D+C+OO8JRsaitAILVZDhChcbFCNgM4r1fXIc3jnydQzJmR96B+CbyMrH40ksnkNrJ/pDaN9bQDU++5r52BU47EQI38Cmbvt3LOwyPZ+esqgSNYwakwCPJmvv2wZsKqnJgETDuGUepdmTcnjkEGIWJ9Q4tpnghKHdKrCzX+JnI/E9dcPnh5mktrCCiw==;wyvFIgarGmn9PlL1085x2g=="
 ---

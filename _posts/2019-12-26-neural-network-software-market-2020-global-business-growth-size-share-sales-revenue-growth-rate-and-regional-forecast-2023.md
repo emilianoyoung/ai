@@ -28,56 +28,19 @@ images:
     title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
 
 related:
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+  - title: "Artificial Intelligence Insight Series Market Size, Share - Business Revenue, Trends Plans, Top Key Players"
+    excerpt: "Dec 26, 2019 (AmericaNewsHour) -- The application of Artificial Intelligence (AI) is growing exponentially. This rapid expansion of AI software development, therefore, calls for a focused effort to build new hardware that can process the emerging AI algorithms. Future of AI hardware will be defined by biologically-inspired neuromorphic ..."
+    publishedDateTime: 2019-12-26T11:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-size-share---business-revenue-trends-plans-top-key-players-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 49
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
-    excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
-    publishedDateTime: 2019-12-27T04:02:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/19/12/wr15044893/automotive-artificial-intelligence-market-size-future-forecasts-growth-rate-nvidia-corporation-a
-    ampUrl: https://amp.benzinga.com/amp/content/15044893
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15044893
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
 
 secured: "hHVtXd+lgv3V+x/WMKj07ulQb/3GfhSELAx6+BSkwxoPN4du/I/nTocByRS6ukyxDQNofkN0d9NCqBhHK911bKiiJFhZU2TI/z04XRttPiulGGd62VE/OcvPyrC2FwTtWNNKd1rgcv9X4liJyifoUcc1XO185lAp+Ebj4SVELvALjlvVbc06Qiu4fMGC2G/ID3m1/NGAOWLYo0gstHoi3J4MWgXjBgRaKbAYVaSVHghepA5QZQi4YQr1N7TJWKceuPaQPCFHJ9KCTuyxxEKE7A==;YBgJ4kHQjsEf/fek9TdpoQ=="
 ---

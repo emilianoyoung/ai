@@ -41,21 +41,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "Machine learning accurate at colorectal cancer diagnosis, may also predict survival"
-    excerpt: "Jan. 2 (UPI) --Can artificial intelligence assist in colon cancer screening? A study published Thursday in the journal Science Translational Medicine suggests a new machine learning platform can help identify people with colorectal cancers, and perhaps even predict disease severity and chance for survival. According to researchers, the non ..."
-    publishedDateTime: 2020-01-02T16:38:00Z
-    sourceUrl: https://www.upi.com/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    ampUrl: https://www.upi.com/amp/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.0C67B7E63A5F109146D1E2B2BF69E530
-        width: 700
-        height: 466
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     publishedDateTime: 2019-12-28T05:34:00Z

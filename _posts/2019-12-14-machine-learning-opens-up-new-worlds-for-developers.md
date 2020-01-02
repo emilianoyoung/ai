@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/machine-learning-means-expanded
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Machine learning opens up new worlds for developers"
 
 related:
+  - title: "What is Deep Learning? Everything you need to know"
+    excerpt: "That means taking in data from the world around us and forming ideas about how to optimally perform tasks or understand new information. Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information ..."
+    publishedDateTime: 2019-12-20T10:00:00Z
+    sourceUrl: https://www.techradar.com/sg/news/what-is-deep-learning
+    ampUrl: https://www.techradar.com/sg/amp/news/what-is-deep-learning
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/what-is-deep-learning
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
+        width: 700
+        height: 466
   - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
     excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
     publishedDateTime: 2019-12-14T10:26:00Z

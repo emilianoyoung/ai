@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
         width: 700
         height: 643
+  - title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
+    excerpt: "Meet #NEON. January 2020. pic.twitter.com/iFkWVVyF6kDecember 17, 2019 Samsung has been mindful to not describe it as a voice assistant or artificial intelligence. Instead the company is using terms like ‘artificial human’ or ‘artificial intelligence being’ to market the project. Honored to have so much coverage even before we unveil."
+    publishedDateTime: 2020-01-02T19:16:00Z
+    sourceUrl: https://www.tomsguide.com/news/samsung-to-announce-neon-at-ces-2020
+    ampUrl: https://www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.3841CB3BCC57682224B20D4AD6BD9799
+        width: 700
+        height: 393
 
 secured: "4RjjC1rWgU2IeIjCMFTr/tEg+AupmAZ8jeAnc7oT12nJu9jnEV7YqZt9eIeexcY/wE8Rt0ZLtr0HQcPWo8Usa2ki8kdbsNW32mEYMv4oxjAZzFVvwTtwprIxZ0SKl7MPFAszd+aqJmClVh5qLJEh0ds2CfMJsx0wRkiHhkaGR99i62UrL1eyOBFtgkdPIOawvF6/Y+pwbcxfJ0JBK/ulaGyce9aMJ/kQmkIEpusDTE6PbJlnXplEbZrBHQPd4opJ86m6ekV/+rkx500JnKl9/A==;h/Ymjns2C7Xb8zPTquxmwA=="
 ---

@@ -19,58 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
+    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
+    publishedDateTime: 2019-12-31T08:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+  - title: "AI Stock News: GBT (OTCPINK: GTCH) Files Continuation For Its Communication Microchip Patent"
+    excerpt: "AI, for both mobile and fixed solutions ... security and network's capabilities. The chip communicates via satellite and/or its private network in order to connect with other same chips that are on the network. The chip is operating in real time, enabling GBT's advanced security and auto error-correction communication protocol."
+    publishedDateTime: 2019-12-31T14:20:00Z
+    sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12311CommunicationMicrochipPatent.asp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Investor ideas
+      domain: investorideas.com
     quality: 43
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
-    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
-    publishedDateTime: 2019-12-26T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.56EEA2283178F2343D9A73473C16A048
+        width: 649
+        height: 328
 
 secured: "XsNxHV5Jcan+b7ysyNKioI73FN8jfBLx03H5EwyQjI5uuhm9bncBLQCkiCvuQpmqwHsIHpP/brOQ4xRDgKVejiptHXIBFSiNC7kCF7QGFilRSFAhu9tFH5zolrrAIXmh5tIbN1lzV+CZm3UYvqk5dIVt+xVk2E9eo6O+ux8XIkDC+8CPxSPtwRCjiT/hCVCSNpHqAVWe44CaLe0JydMpLy7u0f9c9dgce/XhADqD9eqJxY6FEJfT8zpWjCzUkCi0hCq3FGaBh3bixSjt7gCW4w==;D5UjQf7FPmN5zUW6Ki7zTw=="
 ---

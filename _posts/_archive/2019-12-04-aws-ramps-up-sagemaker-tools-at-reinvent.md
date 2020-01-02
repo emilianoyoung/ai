@@ -74,19 +74,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Deep Learning breakthrough made by Rice University scientists"
-    excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
-    publishedDateTime: 2019-12-13T18:42:00Z
-    sourceUrl: https://arstechnica.com/gadgets/2019/12/mach-ai-training-linear-cost-exponential-gain/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.75583303C0D52A7FC85BB4F43CE4BE01
-        width: 700
-        height: 350
   - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
     excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
     publishedDateTime: 2019-12-03T09:16:00Z
@@ -103,6 +90,6 @@ related:
         width: 700
         height: 466
 
-secured: "NADKvRZ/rncB5U9U7et8AkVdo8aLWJ0gEszhJeU2sVqc8e+vTwAqfPmb4tuoSTv2AgcaKPkeXMD6mAt1dCdOzA2MpLNacZa6z3ZZrTmlZ9HWC+5GDN3gEvMSkPxGo/8l2n+faV6EBB6xX02r/JlV2P2l+CSGFB+KgNNMGbuhBjYFyoP8oE8chp5UVQS8u3E/7/PeztU+EPPqWp/R7r5AMKYSZv2JwbnEhCAsXhtzk9otA5B56SadWbRl5OH4kCDbQOtSQ2yZ6v70qCvLh4PVMQ==;mseOrf59sHLRs4JFplSZTg=="
+secured: "IVBH7LvWjkCntCKeSV9oOteRFbBbqESTKhGKfnDHgDLlWjxOdKQqg6MPlDd4cvHMZKtb4rDop0J0v69XKRXm//X6dYdez3k393LNVn+dEv20yejcwIPcHODuL+gIzfeud0IMLq/xZ0ppjGln/Jen333GD4ev0xAL+G5+BBLGpXiyzEqGupxQS94Y7J9lafqYw/5BPfitNuBr7IC5hJf9VmO5pNnXUQyyQgvsDlsYqT5+Ry8F6o97GIML6/utLCkibivQiPpfA9/5A1S6UklQJw==;eN6Y6RATOZr4263ouTN23Q=="
 ---
 

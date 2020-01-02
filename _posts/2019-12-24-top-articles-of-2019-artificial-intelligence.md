@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6D06F9D0624E3987B512C89E67FD1467
         width: 700
         height: 393
+  - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
+    excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
+    publishedDateTime: 2019-12-20T05:38:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/squirrel-ai-learning-attends-the-2019-stanford-university-mediax-conference-connecting-the-learner-and-the-learning-with-algorithms-and-analytics-300978173.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 1
+    images:
+      - url: https://mma.prnewswire.com/media/1057588/Squirrel_AI_Learning.jpg?p=facebook
+        width: 866
+        height: 453
 
 secured: "x5Ui8q8NSSOM/KfZnUPjDsErhkPtmvfo3AgWsejAya0syKvC+pQw+R5SsGDGRdefmSqZB/vKzLRoE46319VEeTs4az3erYrubTmjSgoWssGOjFCmXyAPBZh5erVlFHVSS34Aq8X7paXmCahbwq6hsrskn+Uj2+jLUidcuhdgsEDsqnw1/CTmnAo9IyCMhLq64ZHmej/62qGjZ+8jA2rlxNTIKqf9EjFSmZ6tn0SC4nVFuvtwXLCFl9NXnnMmNgCkG9nCuwkIJ12P1e7fuHkBTQ==;JOSsOXJ/rWMf4rxXBqw+iQ=="
 ---

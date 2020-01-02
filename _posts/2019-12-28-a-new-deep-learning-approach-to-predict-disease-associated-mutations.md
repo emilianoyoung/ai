@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191228/A-new-deep-learning-appro
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191228/A-new-deep-learning-approach-to-predict-disease-associated-mutations.aspx
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "A new deep learning approach to predict disease-associated mutations"
 
 related:
-  - title: "Machine learning accurate at colorectal cancer diagnosis, may also predict survival"
-    excerpt: "Jan. 2 (UPI) --Can artificial intelligence assist in colon cancer screening? A study published Thursday in the journal Science Translational Medicine suggests a new machine learning platform can help identify people with colorectal cancers, and perhaps even predict disease severity and chance for survival. According to researchers, the non ..."
-    publishedDateTime: 2020-01-02T16:38:00Z
-    sourceUrl: https://www.upi.com/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    ampUrl: https://www.upi.com/amp/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/01/02/Machine-learning-accurate-at-colorectal-cancer-diagnosis-may-also-predict-survival/8981577976908/
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.0C67B7E63A5F109146D1E2B2BF69E530
-        width: 700
-        height: 466
   - title: "New machine learning platform can help spot colorectal cancers, predict disease severity"
     excerpt: "A new machine learning platform can identify patients with colorectal cancer and helps predict their disease severity and survival, according to a study involving samples from thousands of subjects. The noninvasive method adds to recent advances in technologies that analyze circulating tumor DNA (ctDNA) and could help spot colorectal cancers in ..."
     publishedDateTime: 2020-01-02T11:23:00Z

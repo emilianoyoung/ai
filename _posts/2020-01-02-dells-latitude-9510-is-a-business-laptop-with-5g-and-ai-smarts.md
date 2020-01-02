@@ -2,26 +2,32 @@
 category: news
 title: "Dell's Latitude 9510 is a business laptop with 5G and AI smarts"
 excerpt: "As with some other recent notebook launches, the company is highlighting a few superlatives here. Dell is calling the Latitude 9510 \"world's most intelligent 15-inch PC with built-in AI,\" the \"world's smallest, lightest ultra-premium business 15-inch PC\" and the \"longest running 15-inch PC.\" That's a lot to promise, but let's start with one ..."
-publishedDateTime: 2020-01-02T14:00:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/dells-latitude-9510-is-a-business-laptop-with-5g-and-ai-smarts/ar-BBYyatX
+publishedDateTime: 2020-01-02T13:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
+ampUrl: https://www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.49B58B2337206E7FC67197558871AA1E
+  - url: https://www.bing.com/th?id=ON.35F4E75CC6DB73D5199877E3C6A74621
     width: 700
     height: 367
     title: "Dell's Latitude 9510 is a business laptop with 5G and AI smarts"
 
-secured: "O3l85A2GWMcQk6tDXb1j0nL2YKceX11xCUwtVZJe/MobkYOLsnJ/SA0XjO69GqfnJCdoBDFZZR6DRQCiQdeVKcgvHD2fNc8mW/OFfCV1F7PGSHcLVVQDsoN+uVo4VXvyRyLsjzWj4rLT8+EcrCH2EFEOPpkbKJ+U5LdNzIfXk/8m7Qw63kZHxLIHK9684ACcjzgAS/IkVQp6hC87rQ7Of0gr9VO5VS5mkifNLOaKVHPVD1hXUtX0UJ8pVQZgh5ron/rNLeu9fuAlsnVaqO1y6Q==;eKIILGkkX3X24Y5dN88IsA=="
+secured: "tOn6abi7HlccxAY7Lv7lIYYqeaaeetCuydsTEhd5t7j2P36WItwFvppMDkrDnLAtQyykky1BJAxdC+vOMBtXVixmHsWWZxtU6OpnA6GSGYSv6Tt1FbsZUOaiNBnJp9RzB5rxR9HvDN9prFgBdXGZYP16GDneP8bQr4SwFSjWm07o/MmcI/CzhoBY564N/nWpZrY1xlA9n4qO4evAkEOTuP9/7jMtpahmpg1ldhuxt8tRQ8XkOZq5iECMWcMTeSgHkjZYT8DAv5mUjvaPBwmlwg==;hTouqhxG+aIQEfnwUJ2yRQ=="
 ---
 

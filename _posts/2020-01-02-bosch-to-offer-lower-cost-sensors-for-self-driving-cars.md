@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Bosch to offer lower-cost sensors for self-driving cars"
-excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
-publishedDateTime: 2020-01-02T15:03:00Z
-sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately held Bosch said the internally developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+publishedDateTime: 2020-01-02T15:23:00Z
+sourceUrl: https://europe.autonews.com/automakers/bosch-offer-lower-cost-sensors-self-driving-cars
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+  - url: https://www.bing.com/th?id=ON.AF3F93ACC38BE79CF6038D80599602DC
     width: 700
     height: 525
     title: "Bosch to offer lower-cost sensors for self-driving cars"
@@ -280,6 +280,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "747ghgOYTBPVKr0tIrkM3ljAKLsBS8ZDqb8CN13mq0d7zjzfzoTgJZz0E4VQAJAWdNUDOtBcOOuyg7/7UJC8QT3b/QXycZvSmEV4G5/+2QdJ1zyRBckftMBVycPDNSaF86tHMoqOpSxDzUzrCeG6xmMQfoTClLtOZ+EZbeRAJhb009IcIGIe+RWePMb4nXXEHQjpclTGtnpVdvahQI5nzqxg9gl0BzvUX1jINCYm+mP+eBizMjAanR+9FVPzzpoMLk60JcKVowyLPPjOXASpzg==;CfsJgwkdkzToh165C6wcJA=="
+secured: "qhm+IgOgqjHPqwEJ0aIPdgvZNpwYyIc+6V8Uweg3+bfsUzroMm0zz4ml9DuPFHCwFKdrWEtq788KEotg4lBS38FEXry5amIIbqroJKph4yhv9DVyn6WMf7V3d6WYfKnDPCFLn+NHwqABWOHX2uFousHLWk6pmTMbxKG44iZemZCjc0abbFUIv4YpQ4E9Wvtvd0flFeNAQYmIlIi48ZnbHBMiYMe8qqG+ffUOXZo0oRng5JmhT8Ld0MSTOom73fmNTT08fKhP1A8b3UukRrvoRg==;d30vQI+usppbS77ceCZd7g=="
 ---
 

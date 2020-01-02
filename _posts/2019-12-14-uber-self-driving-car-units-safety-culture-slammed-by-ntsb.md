@@ -54,32 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "Waymo self-driving vehicle struck by another car in Tempe"
-    excerpt: "TEMPE, AZ (3TV/CBS5) --A Waymo self-driving car has been involved in a crash in Tempe. It happened near Southern Avenue and McClintock Drive around 7 a.m. Friday. The Waymo vehicle was traveling eastbound on Southern Avenue when it was rear-ended by another vehicle, which was being driven by a woman with two young children in the car."
-    publishedDateTime: 2019-12-13T18:58:00Z
-    sourceUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.html
-    ampUrl: https://www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
-    cdnAmpUrl: https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/waymo-self-driving-vehicle-struck-by-another-car-in-tempe/article_31e23c1e-1dd3-11ea-b462-5f8826deef87.amp.html
+  - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
+    excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
+    publishedDateTime: 2019-12-16T12:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 39
-  - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
-    excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
-    publishedDateTime: 2019-12-13T19:04:00Z
-    sourceUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html
-    ampUrl: https://www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    cdnAmpUrl: https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/business/transportation/road-warrior/mc-biz-road-warrior-autonomous-truck-rules-20191213-eddmcfji5fh2tcuwpbx35gjnae-story.html?outputType=amp
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 28
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
     images:
-      - url: https://www.bing.com/th?id=ON.E38510F899216E331EFB04EB0F6A7288
-        width: 415
-        height: 290
+      - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
+        width: 700
+        height: 365
 
 secured: "F9LkLjX2ff7YnbGgA8NiaXGCo1y5OLlNeMlgU4+qPLwSv02/5V0xtMipSfdIwno0eNZVRpFHQJpGv50iF8r2gog4t2GUJwck2uNbQABCUjQFpS6oo0xW1r5lqd1b4i/70BOgFdrNgCt47w4TrjSs258xptrwcdwW6Cawo5CX+22ZK1GlcA5L8M6vy4+z/1dAQ/U6BYvX6Md0AkvpBZRDnzB33EgPu4GKcSEHHakS1Le93r4FILlFjkYJAmEyYCdLtq1FUglhJQz3RlNTARSl7A==;WLVvFrdC8YBCINCNCAyp/g=="
 ---

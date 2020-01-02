@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0499B449EC56143D4A6B4376F9FF978
         width: 600
         height: 315
-  - title: "DeepCode AI: Symbolic AI versus Machine Learning"
-    excerpt: "In developer communities, this is a double edge sword these days. It feels a bit overhyped (blockchain anyone?). So let me explain what we mean and that it is actually different from pure machine learning here. I guess first we need to agree on what intelligence is. Let us stick to the definition of Intelligence of DeepMind cofounder Shane Legg ..."
-    publishedDateTime: 2019-12-13T18:21:00Z
-    sourceUrl: https://medium.com/deepcode-ai/deepcode-ai-symbolic-ai-versus-machine-learning-79c5fca29d31
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.EE7CA071202365FB6D7525CDB7722475
-        width: 700
-        height: 270
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z

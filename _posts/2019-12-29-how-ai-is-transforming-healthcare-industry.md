@@ -24,21 +24,6 @@ images:
     title: "How AI is Transforming Healthcare Industry"
 
 related:
-  - title: "How AI Changes Healthcare By 2020"
-    excerpt: "Now a subtype of artificial intelligence called deep learning may be just what the doctor ordered. The research on deep learning was performed at the University of Toronto by Geoffrey Hinton, Yann LeCun and Yoshua Bengio, and was recognized in 2019 by the Turing Award - the equivalent of the Nobel Prize for computer science. ‘Medical ..."
-    publishedDateTime: 2020-01-02T13:37:00Z
-    sourceUrl: https://www.medindia.net/news/potential-of-ai-can-make-healthcare-human-again-192351-1.htm
-    ampUrl: https://www.medindia.net/amp/news/potential-of-ai-can-make-healthcare-human-again-192351-1.htm
-    cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/potential-of-ai-can-make-healthcare-human-again-192351-1.htm
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.837FDA7059C97B64E794F4050AE9589F
-        width: 300
-        height: 250
   - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
     excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
     publishedDateTime: 2020-01-02T11:53:00Z
@@ -52,71 +37,86 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
-    excerpt: "And thanks to artificial intelligence and pervasive technology ... As data science makes it easier to identify people at risk of disease, healthcare AI is surging. Deep learning techniques are helping doctors spot the early signs of Alzheimer’s, eye disease and major cancers. And they’re accelerating the detection of advanced kidney ..."
-    publishedDateTime: 2020-01-01T15:28:00Z
-    sourceUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/
-    ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
-    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
+  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
+    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
+    publishedDateTime: 2020-01-02T11:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
     type: article
     provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
+    publishedDateTime: 2020-01-02T12:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Tech will drive change in health care throughout next decade"
+    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
+    publishedDateTime: 2019-12-26T16:47:00Z
+    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
+    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
         width: 700
         height: 393
-  - title: "Harness AI power to transform healthcare"
-    excerpt: "To address the twin problems of diagnosing cancer early and to treat it at a fraction of the cost, the field of Artificial Intelligence must be explored In 1910 ... With 11.5 lakh new cancer patients being registered every year in the country, the healthcare system is reeling under overburdened workforce and inadequate infrastructure."
-    publishedDateTime: 2019-12-27T19:11:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
+  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
+    publishedDateTime: 2019-12-30T03:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: https://www.dailypioneer.com/images/logo.jpg
-        width: 325
-        height: 325
-  - title: "How AI is making healthcare ‘more human’"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
-    publishedDateTime: 2020-01-02T07:25:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
-  - title: "How AI is Transforming Health Care"
-    excerpt: "“I think the average patient or future patient is already being touched by AI in health care. They’re just not necessarily aware of it,” says ... AI is much closer to a spreadsheet than to human intelligence, he says, laughing at the idea that it will rival a doctor or nurse’s abilities anytime soon: “You use a spreadsheet to help ..."
-    publishedDateTime: 2020-01-02T16:26:00Z
-    sourceUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-ai-is-transforming-health-care
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
+    publishedDateTime: 2020-01-02T12:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
     type: article
     provider:
-      name: WebMD
-      domain: webmd.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
-        width: 700
-        height: 466
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
+    excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
+    publishedDateTime: 2020-01-02T11:52:00Z
+    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/02/goodbye-2019-hello-2020-year-cloud-reviewed-and-what-horizon/
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 21
+    images:
+      - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
+        width: 600
+        height: 450
 
 secured: "QN0IJgDlYEFh9EGK/7le2lL1sSaS9FpaAeoetknCnVCykKCUHhnQpovsaRZ3bhGWzw9/+le3U//eAMy46b1uKyzJ23ydl5HNQonq53UFdkTb3ppN+IilU4ggMS2mLoS/XjPsTs/w6jyZDx18dPNHs0T/bkQoYVko7wQba8NmNxaZ1EYgDvEOkLzzMozXgdJPaoqamsxbJ14K2KFcWJbGy/h0OaCKsJQrztzCGy+RnVOn1KdgJ76YqA9KMxIufQIlVUh9mdbc5GkCnRtLEvmQ6Q==;yHKXusTp5lekR47UROtCcw=="
 ---
