@@ -258,6 +258,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:36:00Z
+    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+    ampUrl: https://amp.usatoday.com/amp/2755613001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+        width: 568
+        height: 320
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-25T08:47:00Z
@@ -358,19 +373,6 @@ related:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
         width: 700
         height: 393
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:54:56Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z

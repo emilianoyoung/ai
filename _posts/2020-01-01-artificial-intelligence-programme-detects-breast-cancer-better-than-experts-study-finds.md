@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8564E70EFD9D0BA0124C593949414644
         width: 700
         height: 525
+  - title: "AI 'outperforms' doctors diagnosing breast cancer"
+    excerpt: "The algorithm outperformed six radiologists in reading mammograms. AI was still as good as two doctors working together. Unlike humans, AI is tireless. Experts say it could improve detection. The current system in the NHS uses two radiologists to analyse each woman's X-rays. In rare cases where they disagree, a third doctor assesses the images."
+    publishedDateTime: 2020-01-02T00:07:00Z
+    sourceUrl: https://www.bbc.com/news/health-50857759
+    ampUrl: https://www.bbc.com/news/amp/health-50857759
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/health-50857759
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.83841D8E2243EC088FDF6C0EF787B37F
+        width: 700
+        height: 393
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -259,6 +274,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
         width: 700
         height: 466
+  - title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+    excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
+    publishedDateTime: 2020-01-01T23:00:00Z
+    sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
+        width: 685
+        height: 385
 
 secured: "1apf0vHSsrIuXwRGnIluixHPKQc9/Ynt+NhdJu1OJc94cz6OFJfdZr/iKminFjcFmdwajLWvPd/tzqxUIduk/FlBaQ1egMZ4evVtdny4SCd8hLUWS3KSPLrgf8tCCd2f4+TqE1SJ9K4Zf5pmHHcU+2xaEL3LgL8Pic6Y3NB68lGZ0KF41Wze6t54I+peHfghV+iiQ8kz2ndafmFQhZHEaoY0ChlSU4oDASmuFbEACsa2a+EKm5RAcVX+ubKlawpcrXxh1PX/GLtmtxElIOKBJA==;7IUREaCde8P86Iw+Gyx2dA=="
 ---

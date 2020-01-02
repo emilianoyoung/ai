@@ -1,27 +1,26 @@
 ---
 category: news
-title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
-excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
-publishedDateTime: 2020-01-01T18:11:00Z
-sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
+publishedDateTime: 2020-01-01T23:00:00Z
+sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
   - AI
-  - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
-    width: 700
-    height: 366
-    title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+  - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
+    width: 685
+    height: 385
+    title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -114,6 +113,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E6AC70E574BF2718C33609F37498B683
         width: 700
         height: 393
+  - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
+    excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
+    publishedDateTime: 2020-01-01T18:11:00Z
+    sourceUrl: https://www.wired.co.uk/article/deepmind-google-ai-breast-cancer
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
+        width: 700
+        height: 366
   - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:56:00Z
@@ -261,19 +273,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
         width: 700
         height: 466
-  - title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
-    excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
-    publishedDateTime: 2020-01-01T23:00:00Z
-    sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
-        width: 685
-        height: 385
   - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:34:00Z
@@ -288,6 +287,6 @@ related:
         width: 700
         height: 437
 
-secured: "tWieIKPPFf20hCypt5tbXGLYi0jPjOq7jpNbNXtblrysm1cHOP5GUxwl8rDiI6jJMrO2Ap6DQ+UkgtslA+aCGjMAcFwHD1SnjswRxPEn8O6ngQjkWbUm0lBXBHpTFpJ3nHaP+isPjoj8QmqwUanhHb3nlVG30Ti5P3QRpTs+1+7gm4fxZhLs1lWh8xgiUk/8WGJlK+d3X+dfhE1sb5V2YXnulVBfN6GIX0XLo3ALA4NuHBLCUU2S6e14drTwWtDvJ4OAui6/bQy8hwxxp9EV1w==;F6IanXUkGTAens3VxYDwhw=="
+secured: "zWHxA9lLg/CaAOP7ah6QWv433G257ym3x2QIVZRtLi6uBCuhEMwJfaKxk/93oKOYOBrEr5s2zRkSUJBNFKJkrg46KE3kDU6E7yz6lIAIRH7/tMzgP9O9nDPUlgW7sppMzaHUxyFRAWWJQOm5I5e2ZIuTjUepdHAtdlzgQxPY4OJ5JgT1R1HseQc8Zi2dBVb9emohgvmCqxZKubST531aIB3AUOsHlD7c0moCvAJhl0j8VVovfrcLuY5FCBjrg4jxebF8cw32PhOkYpSAVVfN7w==;E6gDxPDHQWckqG2sAI197g=="
 ---
 

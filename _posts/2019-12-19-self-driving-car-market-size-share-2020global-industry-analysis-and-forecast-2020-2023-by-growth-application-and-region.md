@@ -249,17 +249,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
-    excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
-    publishedDateTime: 2019-12-13T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-construction-170000567.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
   - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
     excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
     publishedDateTime: 2019-12-18T15:11:00Z

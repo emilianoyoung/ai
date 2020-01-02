@@ -71,19 +71,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
         width: 1024
         height: 576
-  - title: "Google recruits DeepMind co-founder Mustafa Suleyman to join its AI team"
-    excerpt: "More personnel changes are taking place at Alphabet Inc., with DeepMind Technologies Ltd co-founder Mustafa Suleyman moving upstairs to work with Google LLC’s artificial intelligence team. Suleyman (pictured) made the announcement today on Twitter ..."
-    publishedDateTime: 2019-12-06T01:29:00Z
-    sourceUrl: https://siliconangle.com/2019/12/05/google-recruits-deepmind-co-founder-mustafa-suleyman-join-ai-team/
+  - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
+    excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
+    publishedDateTime: 2019-12-06T11:15:00Z
+    sourceUrl: https://www.theregister.co.uk/2019/12/06/deepmind_founder_shifts_to_google/
+    ampUrl: https://www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2019/12/06/deepmind_founder_shifts_to_google/
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 53
+      name: The Register
+      domain: theregister.co.uk
+    quality: 57
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/43130477915_03e0eb06ca_k.jpg
-        width: 2047
-        height: 1365
+      - url: https://regmedia.co.uk/2016/10/19/robot_typing.jpg
+        width: 648
+        height: 391
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -109,6 +111,6 @@ related:
         width: 580
         height: 358
 
-secured: "sf2CBw1ASIg6jje95MnsyKvvV6e/AxdDf72YOU0cfShG/1N8UsVGMtOY2RCXHs5cQ5xB8Gujnh3z28Cna7A5thp1SXcNgNr24m0BApvJCTtPAVa0p/LTL2ATFkFj+O9Sr0kmdJN1jk4aNgVJNcakoWHSnaRGi5yjxIWZo+r/lIKv7ZRLKHcxxIGVincphBWINuq7dSXohi8iZjY12+hbf1UeCxfkCOWL8deFdFwoSoc3lIig/MIQJ6eIuZiA+KKeraIz0DSkpLeDK1vlLQYCGg==;ZRDTg18p9tBVbJqGyMOVnQ=="
+secured: "7EM9SQnS3z0vuCanmAaiP2z/4tpWG23b5xdaE9XrYz74EKZGwymXGnZsswrmFpTQoNP+C6H/RJB9DUb40Dhp4oaeNwcaZQxWNjwlHRY92x8181gWWdEoHueRVoq7pyui9sm5ZWWOs0ZpXMlkRDDUp5A99lRnukzGyp4Ty3b7i7pYu75rqZsLCIdiRDAToOZ50sgBdc7bL87jGrW6GZqjkWZTj1ZotobGg/90B/WKyZudax3+wZa65sj7PfUTKA7rjASIZQOiCDmnqCnG0mBoGg==;3/it2tMPYpDECi58veadSw=="
 ---
 

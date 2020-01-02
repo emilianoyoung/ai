@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8080AFA18518540F4CB26CA4D3A51B81
         width: 700
         height: 393
+  - title: "Microsoft and Oracle Expand Interoperability Partnership to Canada"
+    excerpt: "For example, using the interconnect makes it possible to connect Azure services like analytics and AI to Oracle Cloud services like Autonomous Database. Together, Azure and Oracle Cloud offer customers a one-stop shop for all the cloud services and applications they need to run their entire business. From a technical perspective, the ..."
+    publishedDateTime: 2019-12-24T14:38:00Z
+    sourceUrl: https://www.hpcwire.com/off-the-wire/microsoft-and-oracle-expand-interoperability-partnership-to-canada/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.24BA367CCC9080EAB19F98C97D60E30C
+        width: 405
+        height: 228
 
 secured: "rZziVbqV8LXXAW+jmuWVu5Hzfk7cKS+454iSiqrxGZen/CCkT0XRrqJUisAjqqprrV8aSBk5eZVaK1tGMj76cKt7aNifyCNND6ijys8WwmN0Bi16gUs05KquouM4/N8HqiycvpzKZjQYHhSo+GV7xeGyDYy/D52lJy1no0oQS6pgJexlwizDSKZKOggmdrhE1bjIaoBA55cwi0y7J3/2LmNc2xdgcvEeMcb4R8gd726+zGWFXxEmBZDDpKDdzuYvnDIl7nBTUnQX51TOiAmuBQ==;ORHlhPrwHkSnIwmoqnXkPw=="
 ---

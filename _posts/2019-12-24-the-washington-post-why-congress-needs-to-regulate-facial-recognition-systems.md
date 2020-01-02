@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
         width: 300
         height: 170
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
 
 secured: "CysbezALxa/TUPlEKVjdBdqmtRDYMXMkzvLjVLj3Fsh8xEL+cFlYOoraWkadsYCe6hqKOBhoW+LFEa16TFtcnImH5kfQy6T84+1Gn6QZtzcMWqhzDs/nWPL/eBnPhsCeSzJr0840I7ocGa19+zj2yhUj4RMGxEuptYl8rGJW6i4l7GysyKSaLZwwHpc7N7wQTBmPhpf3ZiefhvqsPO3GbyzGCZfgjKbrLCpW+P1JwniVj+HR+RbNi6UAQyANF2jDYjARQIqyeh0DEhPd0oFN7g==;i3HI2WgO+Z3BvxEgEdhRtw=="
 ---

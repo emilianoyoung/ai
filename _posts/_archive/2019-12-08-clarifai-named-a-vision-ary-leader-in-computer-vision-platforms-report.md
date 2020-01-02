@@ -34,6 +34,6 @@ related:
       domain: businessinsider.com
     quality: 63
 
-secured: "Q7fZjisHexOYMNpnGT6JsMKEMsvBXVM06My1Ibf0SpCEYGdcdITrQEY/JGH6w0O6OBvfwA270LKzjETVFCiyiwq5fBxOWzLg7U7UViOYngHJYccAJE9tyT2XdRE2gl4Az32blk+Iq9ZMQJXdtczU6niXOfDxBGFkrdZHsq/CG+xWhWUUlWhHM7Ra5ifdVwUnN6ahqYekYa5zP185JuJ64kN7DrDdsc2AwEAjmyxvL4BzqDoWKJsA2fRlq3MOpiPkUgW8sjhJncB8lYNhGEtApQ==;wknR17h/ZN6S3HAKSSH6Dw=="
+secured: "8SSb8r25DjpdqJ9vP5sGBX7hncXmBHK/BMMHtjvcYUC+k6idhe4T84IvdT4lZsAlXUt1OmOlU2Dccd7OS+m6ekxjGkVqff1JZL8UfoNKv925Sp3kg30a3m0BekqaYyXhpTh+izIll/bDDazH9E6de8BNr/C2pzTFUgSKEZOFP9meixGH7V3J+bjmoQtJiUhUadlCCqHXE455q6++6JvAMF2JA3CUsx9tGlQRGwpvw1KNE3TrQDP/9bQkGBkOZCmOa3MgMyZ/K7YZjvCfMmDzNA==;08uoRvJGLylg/nfSUZfgkw=="
 ---
 

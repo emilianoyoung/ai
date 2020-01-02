@@ -236,17 +236,6 @@ related:
       - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
         width: 1024
         height: 567
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
-    excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
-    publishedDateTime: 2019-12-13T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-construction-170000567.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
   - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
     excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
     publishedDateTime: 2019-12-19T05:21:00Z

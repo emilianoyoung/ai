@@ -116,6 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0A180902D952262DF8F4176AC0E5E56E
         width: 700
         height: 466
+  - title: "As robots invade warehouses for Amazon and others, workers forced to adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2020-01-02T00:15:00Z
+    sourceUrl: https://www.usatoday.com/story/money/business/2020/01/01/amazon-and-rivals-deploy-robots-warehouses-and-workers-must-adapt/2776000001/
+    ampUrl: https://amp.usatoday.com/amp/2776000001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2776000001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.3E2DB878EDD7E900C47B7CD5F290321A
+        width: 700
+        height: 393
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z

@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
         width: 700
         height: 366
-  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
-    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
-    publishedDateTime: 2019-12-27T00:22:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
-        width: 200
-        height: 150
 
 secured: "iGToFwWQ7zocsWPO6bP/fcCxXrEOpWZekEda3//G8YcNHeHzCFPkY6BjSMUootJiWiZgCp1ilmNn/jTgbTuI1aDGnA+lyXACnT6eURbvEvTYn67mr5P8QAw/12PRoyaztwio5JpwpzuC4pZjOjQh6o8dGm9a1Xhwnj0iUnRS+oDM2nD/uYF2EX1d1siQWxYJFMHaVWgLzVPbI9q6xLmDdALbGvN0oGzipG62RND9BfFCaRZ4FarVQiC3lQ4HNFeRMtduifznhFVB99kNIaqEAg==;WD2N9ujNFpJD+UdM6/xQ5g=="
 ---

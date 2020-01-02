@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
         width: 300
         height: 170
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
   - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
     excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
     publishedDateTime: 2019-12-24T05:45:00Z

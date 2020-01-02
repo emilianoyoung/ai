@@ -236,17 +236,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
-    excerpt: "Global Artificial Intelligence (AI) in Construction Market: Investment in AI Start-Ups The extensive use of AI across industries such as healthcare, finance, advertisement, energy, and construction is attracting significant investments in AI start-ups. The rise in the number of AI start-ups is also expected to increase M&As in the market."
-    publishedDateTime: 2019-12-13T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-construction-170000567.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-construction-170000567.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
   - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
     excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
     publishedDateTime: 2019-12-19T05:21:00Z
@@ -318,6 +307,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "wRuhPSDtnqRtMlausGZN/xm8K+pqrS9p8E3gn0aHIRGUT9fzA+n6I3nxju38oEzsHyIjIQ1enITncQtjtoa/SkQFCrvTMHzyBQSHwLZ8pwM6t4BhAqRCpzU8A2xNc+bV7fkAAAzZJYVA5gO47KKj8KMdaXOqX+nxwxsseo5JFeQgSW2AQj11GdEs0k2Ek3jdW/Ch0hwgN+b1DbznoTGzn9qlBQdXys1iYFADjPrjdT2Ei74eT8+BZ1sOKU64vrcFz9c/BF1Jwv+oDk1xRyIPEQ==;sek+WwrUsti/nW3IkhHBHw=="
+secured: "9qDMtEnm3xHpr+mxcUAi/7slbRju0tPA6N+C2ce4Yw0nUHJd5BrqcQ49yoeKNI+RcnTA3Y7BXods96ci0iUpvZDWVVORerbCM0pQnttfW7sX+fQUzD4gP8xdvDZkagsiUWMu8I8dXzleLSIjwVpSujPx32USE2ZvJW21yWJMnIxjSwv8Bg1AdAfJNxbV5ssD/KB012cAaBSFeNnr0yWUjOPNyU1EyrxS9NZ3mjYFkKTWnJNP/3c8epPXJqeDxP3IAJMz8bLBnKVuWvbfi24Y1A==;OWwJK5K+KOEXA8ny7btamg=="
 ---
 
