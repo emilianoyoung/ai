@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.339C75AF5A09408E44813F03969CA8E0
         width: 700
         height: 525
+  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
+    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
+    publishedDateTime: 2019-12-14T10:26:00Z
+    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
+    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
+        width: 700
+        height: 466
   - title: "Breakthrough in 'distributed deep learning'"
     excerpt: "Computer scientists, using a divide-and-conquer approach that leverages the power of compressed sensing, have shown they can train the equivalent of a 100 billion-parameter distributed deep learning network on a single machine in less than 35 hours for ..."
     publishedDateTime: 2019-12-09T21:40:00Z

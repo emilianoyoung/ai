@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
+    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
+    publishedDateTime: 2019-12-20T05:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "hHVtXd+lgv3V+x/WMKj07ulQb/3GfhSELAx6+BSkwxoPN4du/I/nTocByRS6ukyxDQNofkN0d9NCqBhHK911bKiiJFhZU2TI/z04XRttPiulGGd62VE/OcvPyrC2FwTtWNNKd1rgcv9X4liJyifoUcc1XO185lAp+Ebj4SVELvALjlvVbc06Qiu4fMGC2G/ID3m1/NGAOWLYo0gstHoi3J4MWgXjBgRaKbAYVaSVHghepA5QZQi4YQr1N7TJWKceuPaQPCFHJ9KCTuyxxEKE7A==;YBgJ4kHQjsEf/fek9TdpoQ=="
 ---

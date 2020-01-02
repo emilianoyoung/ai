@@ -85,6 +85,21 @@ related:
       - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
         width: 700
         height: 366
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
+    publishedDateTime: 2019-12-12T20:53:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
+        width: 1199
+        height: 600
   - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
     excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
     publishedDateTime: 2019-12-21T14:38:00Z
@@ -165,6 +180,32 @@ related:
       - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
         width: 700
         height: 366
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
+  - title: "A set of 13 diverse machine-learning tasks that require memory to solve."
+    excerpt: "The DeepMind Memory Task Suite is a set of 13 diverse machine-learning tasks that require memory to solve. They are constructed to let us evaluate generalization performance on a memory-specific holdout set. NOTE: The 5 other tasks in the Suite are in Psychlab and DMLab, not Unity. Psychlab is part of DMLab. DMLab has a separate set of ..."
+    publishedDateTime: 2019-12-13T14:47:00Z
+    sourceUrl: https://github.com/deepmind/dm_memorytasks
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2C8E72EE76F81B19DDD6768417C15F1D
+        width: 400
+        height: 400
   - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
     excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
     publishedDateTime: 2019-12-19T10:40:00Z
@@ -178,6 +219,15 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
         width: 685
         height: 416
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "pcukmW/2/QfTDZt9T1IrzgKj5wQk0jCX3HS6le/fZwZd9Z0/VvY+VhVwxysVa4Dbl+EoU7ybwL/dgfqQ+XacRp363jT7xMLU+4RNmJT0ib5xdNBr1FQsFtLUV/ZkdBp2mEJFe83tM5woHs/3NEXgGyQsEAjZX5jOWZ+uPRerR+RaFg4DR6JoDSBdPpJkwobTy5uBpeuNqAzIRjA96Zwautrsf9832SvYdO8DwU5u0I8cgxMalIspyf8Lcaz1mP+J4qYQ6grSW7DdW4YAB6+YGg==;AiCiaLaucCu0D6FRX78ALg=="
 ---

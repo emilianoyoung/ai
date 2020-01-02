@@ -23,21 +23,6 @@ images:
     height: 1414
     title: "TensorFlow 2.1.0 Will Be the Last Version to Support Python 2"
 
-related:
-  - title: "DistilBERT (97% of BERT’s performance on GLUE) for Question answering on device thanks to TensorFlow Lite with Android demo app"
-    excerpt: "It provides 48 passages from the dataset for users to choose from. Example scripts used to convert models are available in the models_generation directory. Please note that they require the nightly version of TensorFlow and might thus be unstable."
-    publishedDateTime: 2019-12-13T01:30:00Z
-    sourceUrl: https://github.com/huggingface/tflite-android-transformers/
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.C8D5E970169D045AD4DFBE9B8C5A46FD
-        width: 175
-        height: 175
-
-secured: "VJ9z0Of14JifRFguC+LMOzL0XYORzOdNdJFd3yrQrTpcxVQzbWHGBtK1LaLJB1sJDiP54YQjhDM1f/0Jo4hrklwRyyX+g9Y9F8LVYJw6FzxNf95xr+b/XsMbaV88J5F22yjW7JL7YcTZ4biiur9e8CB08hoM/XXxxI0dX10pKsxjXXPb2Y+0hGuiq/a8i8wVpLu8jt7k3E6fs/Auesxhs6QNbHWY2vVw7/3dLxfCG959ditE3BVKqnsTIWX4wZzOQqRxXEcyWHG+yb+mcfgj7w==;5WBUsUncWv88N1t4HkvHHA=="
+secured: "0mSTRHO5oDnaDm4xqNlz/1ABqgj/+XyL7OQW4IYjZiWHLWvNjZ/7irTP9ss88Ie4WmoHQhwX8l+rBIjGlTtDZCZhwh2DX7kyGqTkCKo+v9MLZYnfgfXUBtx4lcUYk18RC7A4OZNhHakH+dlcV5MUalJZ9gI+b1oeqf8kL7DhGc+Dj/cdGJH+G1A6vpRAmKu3bcXCfZc69BySgeoFn7Qp/RmybHqrLmbAQ5ctEirGrfXB54RU2bQ+vszkTHX9c69yQAoEQop8XMVqvEre2aEmcQ==;/nNYLk+Ab2R3fl2caWdMBw=="
 ---
 

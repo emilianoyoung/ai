@@ -7,8 +7,8 @@ sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-2020
 ampUrl: https://finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
 type: article
-quality: 17
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
+    width: 480
+    height: 270
+    title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
 
 related:
   - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
@@ -34,6 +40,6 @@ related:
         width: 1200
         height: 630
 
-secured: "gxEBOyVRDDxKCz0bUfS6gIh2tj5KbSvAK3KHCE2lf987i82vHkizMZFY2uh+RrXbHHETHTdXIeg3nw08EkZ8og6DPXWl/VK21vW4hght/IKwdEqSvUQNyfmXR53PGfOM1/UpmMQQBzj4+rD3YBm7XOCT93nH56Jn4zFkBLQWIcgjKNh3apKft9Oz2DzD0veACmkJKepGlNy4qkgi/VlQ3iZ+fy/RIKlL1XG8osPJKrKqFUrqCa82kwTAf+g3TPatQ2fDFLiBoH/AnZ2UldX4NQ==;7n5yCDa8rfbhGKwEIf1SpQ=="
+secured: "pqtrZcxd9h+KaoarU8u/w0CZs21uYgFWPoWtS2aC0/qwutDzdQm8AEgepRk9yU5B0Ok9ghz8MKyw4SoFjI1j4GKdov/PQDGS1pEt/67sjoIwty58ZiMS0Nd+VkZJIWotq74ALhW0DjNJ8JdPd0UCF8GsfFWKu8d+JZ2jnkH1M7+f8qSk5SYsaF4iyuoX6aDpD0dkWx8g9MOBmfqcvYPdhdm4PRnDNx55IQ/v+SOut2XItgL5teDvYaYDRbSn7Fe+pA9kGFbstmn6Coui1X7Vgg==;yYYCKheOeFNf3VMfqdhySQ=="
 ---
 

@@ -20,77 +20,139 @@ topics:
   - Computer Vision
 
 related:
-  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
-    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
-    publishedDateTime: 2019-12-23T03:14:00Z
-    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
-    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+  - title: "Emotion recognition technology should be banned, says AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
+    publishedDateTime: 2019-12-13T12:16:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 88
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 135
     images:
-      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
         width: 700
-        height: 437
-  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
-    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
-    publishedDateTime: 2019-12-24T14:53:00Z
-    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+        height: 393
+  - title: "Emotion recognition technology should be banned, says an AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
+    publishedDateTime: 2019-12-15T00:03:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 75
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 135
     images:
-      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
         width: 700
-        height: 490
-  - title: "New face recognition feature at airport"
-    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
-    publishedDateTime: 2019-12-23T23:56:00Z
-    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
+        height: 393
+  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
+    publishedDateTime: 2019-12-17T15:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
+    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
+        width: 1198
+        height: 599
+  - title: "Emotion recognition, AI for suicide prevention | Read"
+    excerpt: "Emotion detecting technology is both fascinating and alarming. Cameras that can capture micro expressions on peoples’ faces and voice recognition systems that are sophisticated enough to catch tonal variations are very much in existence and can be put together with algorithms to identify someone’s state of mind. Various industries have ..."
+    publishedDateTime: 2019-12-13T09:33:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/emotion-recognition-ai-for-suicide-prevention-read/article30296298.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
+        width: 615
+        height: 384
+  - title: "Face recognition tech is everywhere at China’s new mega airport"
+    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
+    publishedDateTime: 2019-12-13T07:32:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
     type: article
     provider:
       name: The Star
       domain: thestar.com.my
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
-        height: 466
-  - title: "Women in SF police department face barriers in assignments, recognition"
-    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
-    publishedDateTime: 2019-12-16T23:52:00Z
-    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
-    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+        height: 445
+  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
+    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
+    publishedDateTime: 2019-12-13T06:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
-        width: 700
-        height: 632
-  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
-    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI research and big tech"
+    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
+    publishedDateTime: 2019-12-16T15:03:00Z
+    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
     type: article
     provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 23
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
+      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
+        width: 700
+        height: 700
+  - title: "Printed masks can be used to fool facial recognition systems, say researchers"
+    excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
+    publishedDateTime: 2019-12-14T14:45:00Z
+    sourceUrl: https://www.thenews.com.pk/latest/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+    ampUrl: https://www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 36
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-18T18:26:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 2
+  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
+    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
+    publishedDateTime: 2019-12-19T20:28:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "eq5YljHnl0ufD8omnYgcqMKRgfkCxFf9HcfUkJcSlgVW43Bbhj8m0QI5T/DcyPpuy3TRnPwgqUQnsuBDu6VHArnqQdsdot1x/XlKiVrBKtkjjoS61ARwKPU7Wam/Imgwc6bpnykibk8unLveaHbBjK2aQzfmyILqKZJQcRKnBiOjAaEoqS88Ne8MgnRYaYxXi1eKQJ1KP+qZJMSAd457fUSdxR5/w+hmb66K/tOrIcdNMUtxnC+v8kAhkTlN85hv99K6hh5kcstf7CAfW1Yz+A==;0FHikAghYBuexTqq4ReH8w=="
 ---

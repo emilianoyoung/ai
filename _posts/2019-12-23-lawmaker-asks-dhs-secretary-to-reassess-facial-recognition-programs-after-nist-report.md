@@ -24,6 +24,17 @@ images:
     title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
 
 related:
+  - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
+    excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
+    publishedDateTime: 2019-12-19T19:40:00Z
+    sourceUrl: https://www.democratandchronicle.com/story/news/2019/12/19/rochester-airports-new-surveillance-systems-remain-inoperable/2619020001/
+    ampUrl: https://amp.democratandchronicle.com/amp/2619020001
+    cdnAmpUrl: https://amp-democratandchronicle-com.cdn.ampproject.org/c/s/amp.democratandchronicle.com/amp/2619020001
+    type: article
+    provider:
+      name: Democrat and Chronicle
+      domain: democratandchronicle.com
+    quality: 54
   - title: "Why Congress needs to regulate facial-recognition systems"
     excerpt: "A MASSIVE government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often than men. The federal National Institute of ..."
     publishedDateTime: 2019-12-21T19:26:00Z
@@ -52,19 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
         width: 300
         height: 170
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
 
 secured: "Ue1VZcWBB6p+np1equyhM5K8tZdHhf5RPBvSblFVc8OdbnxXEatq0SyBmyiVqCFk9ur26Cog7GTWPYUL+N80DFYPYZ21t9ZKvqyl+E3x8pAKyY8oCol8RBoktuVFzy9GfIwThfrjoIwXIa9fScZg0IuotxbeTYXxzG+goZMZylieRh1nWdS69u5h4s86eCOJy1wMRZmtqK5yiRsmD4VrfnMjOlMczgX9pUpc1WoO2Oe0hrxEQbih37XK93fSmlNwXxtiKcg1naHwSQ5GTad5SQ==;eTZclOzWflgikAtlLZJ7Pg=="
 ---

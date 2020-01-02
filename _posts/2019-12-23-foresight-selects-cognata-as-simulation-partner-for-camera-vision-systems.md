@@ -33,6 +33,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
+    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
+    publishedDateTime: 2019-12-24T05:45:00Z
+    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
+        width: 700
+        height: 393
 
 secured: "nTyDIXh3xBdpaaSJb1bZRGKQofbzoMUbaCauAt1v3YQG+Q/TJx0BrHP+vsUnmtfKtwRXYD1I9a7X/kTaLv4lqtDqt+WzQ5i701rbxWTxpiKABpKkIzlDzBlupXzi9dcBMtcbPobpJf1BiWYv24Mh6xOl8UfMuZRF+1V3IhNabJG7IC++YTR/vyGl+/miWZNzr83xFE4HNqHuXak1fL7iiWv7BsXPSgCe6adzt99ZhAfBQJNAG2B7XZwmz14kX2XIthvrqYfZ6SRNpzs3PVoYwA==;biurb2zKuKed0o8/nO43SQ=="
 ---

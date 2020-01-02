@@ -251,21 +251,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
         width: 700
         height: 350
-  - title: "Over 70% of Chinese citizens worry about data leaks through facial recognition"
-    excerpt: "In some advanced public toilets, facial recognition is even being used to ensure people do not take too many tissues so as to monitor acts of resource abuse. But coinciding with facial recognition's fast penetration into China has been growing concern about the new technology. According to a recent survey of 6,100 Chinese citizens ..."
-    publishedDateTime: 2019-12-12T22:46:00Z
-    sourceUrl: https://www.zdnet.com/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    ampUrl: https://www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/over-70-percent-chinese-worry-about-data-leaks-through-facial-recognition/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.6EE804C302027D9635E841B316914DB2
-        width: 700
-        height: 525
   - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
     excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
     publishedDateTime: 2019-12-20T14:27:00Z
@@ -1139,6 +1124,19 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
+    publishedDateTime: 2019-12-09T11:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+        width: 1960
+        height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z

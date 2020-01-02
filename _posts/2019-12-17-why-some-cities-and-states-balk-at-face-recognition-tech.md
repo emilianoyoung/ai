@@ -26,60 +26,36 @@ images:
     title: "Why some cities and states balk at face recognition tech"
 
 related:
-  - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-13T00:30:00Z
-    sourceUrl: https://www.businessinsider.com/facial-recognition-fooled-with-mask-kneron-tests-2019-12
+  - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
+    excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
+    publishedDateTime: 2019-12-23T03:14:00Z
+    sourceUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/
+    ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 170
+      name: SlashGear
+      domain: slashgear.com
+    quality: 88
     images:
-      - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
+      - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
-        height: 350
-  - title: "Emotion recognition technology should be banned, says AI research institute"
-    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
-    publishedDateTime: 2019-12-13T12:16:00Z
-    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
+        height: 437
+  - title: "San Francisco tweaks facial recognition ban that made it illegal for city employees to use iPhones"
+    excerpt: "In brief: The San Francisco administration's ban on the use of facial recognition has had the surprising side effect of making devices like newer iPhones illegal to use by municipal workers. Officials are now tweaking the law to allow their use while still maintaining a strict ban on using facial recognition features. While San Francisco may ..."
+    publishedDateTime: 2019-12-24T14:53:00Z
+    sourceUrl: https://www.techspot.com/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+    ampUrl: https://www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83309-san-francisco-tweaks-facial-recognition-ban-made-illegal.html
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 135
+      name: TechSpot
+      domain: techspot.com
+    quality: 75
     images:
-      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
+      - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
         width: 700
-        height: 393
-  - title: "Emotion recognition technology should be banned, says an AI research institute"
-    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
-    publishedDateTime: 2019-12-15T00:03:00Z
-    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 135
-    images:
-      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
-        width: 700
-        height: 393
-  - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
-    excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://www.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    ampUrl: https://amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
-        width: 700
-        height: 393
+        height: 490
   - title: "Some cities and states balk at face recognition tech, here’s why"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T22:20:00Z
@@ -110,145 +86,47 @@ related:
       - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
         width: 700
         height: 433
-  - title: "3D mask or photo fools airport face-recognition, but not Face ID - 9to5Mac"
-    excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
-    publishedDateTime: 2019-12-17T00:15:00Z
-    sourceUrl: https://9to5mac.com/2019/12/16/3d-mask/
-    ampUrl: https://9to5mac.com/2019/12/16/3d-mask/amp/
-    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/16/3d-mask/amp/
+  - title: "New face recognition feature at airport"
+    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
+    publishedDateTime: 2019-12-23T23:56:00Z
+    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
-        width: 700
-        height: 349
-  - title: "3D mask or photo fools airport and payment face-recognition, but not Face ID"
-    excerpt: "A 3D mask – or even a photograph of a face – was able to fool supposedly secure face recognition systems used for payments and boarding aircraft, but was unable to fool Face ID… Fortune reports on the tests carried out by an AI company. The test, by artificial intelligence company Kneron, involved visiting public locations and tricking ..."
-    publishedDateTime: 2019-12-16T14:02:00Z
-    sourceUrl: https://9to5mac.com/2019/12/16/3d-mask/
-    ampUrl: https://9to5mac.com/2019/12/16/3d-mask/amp/
-    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/16/3d-mask/amp/
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.6FFA7767FBDA13621321F86DCCE862F5
-        width: 700
-        height: 349
-  - title: "Drawing a blank: Airport's facial recognition system remains inoperable"
-    excerpt: "Drawing a blank: Airport's facial recognition system remains inoperable Monroe County committed $1 million for state-of-the-art surveillance systems at the Rochester airport, but after 18 months they're still not in use. Check out this story on DemocratandChronicle.com: https://www.democratandchronicle.com/story/news/2019/12/19/rochester ..."
-    publishedDateTime: 2019-12-19T19:40:00Z
-    sourceUrl: https://www.democratandchronicle.com/story/news/2019/12/19/rochester-airports-new-surveillance-systems-remain-inoperable/2619020001/
-    ampUrl: https://amp.democratandchronicle.com/amp/2619020001
-    cdnAmpUrl: https://amp-democratandchronicle-com.cdn.ampproject.org/c/s/amp.democratandchronicle.com/amp/2619020001
-    type: article
-    provider:
-      name: Democrat and Chronicle
-      domain: democratandchronicle.com
+      name: The Star
+      domain: thestar.com.my
     quality: 54
-  - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
-    publishedDateTime: 2019-12-12T20:40:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
     images:
-      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
-        width: 760
-        height: 368
-  - title: "Printed masks can be used to fool facial recognition systems, say researchers"
-    excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
-    publishedDateTime: 2019-12-14T14:45:00Z
-    sourceUrl: https://www.thenews.com.pk/latest/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    ampUrl: https://www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
+        width: 700
+        height: 466
+  - title: "Women in SF police department face barriers in assignments, recognition"
+    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
+    publishedDateTime: 2019-12-16T23:52:00Z
+    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
+    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
     type: article
     provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 36
-  - title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
-    excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
-    publishedDateTime: 2019-12-18T20:40:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmakers-demand-answers-facial-recognition-deployments-public-housing/161999/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 36
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 44
     images:
-      - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
-        width: 400
-        height: 400
-  - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
-    excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
-    publishedDateTime: 2019-12-18T08:11:00Z
-    sourceUrl: https://www.sporttechie.com/italian-soccer-league-serie-a-facial-recognition-technology-fans-racist-chants-taunts
+      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
+        width: 700
+        height: 632
+  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
+    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
     type: article
     provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 33
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 23
     images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
-  - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
-    excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
-    publishedDateTime: 2019-12-16T14:46:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/an-ai-company-test-demonstrated-how-easy-it-is-to-fool-most-facial-recognition-applications-but-not-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
-        width: 600
-        height: 263
-  - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
-    excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
-    publishedDateTime: 2019-12-19T21:59:00Z
-    sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
-        width: 1280
-        height: 721
-  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
-    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
-    publishedDateTime: 2019-12-17T15:53:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 16
-  - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
-    excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
-    publishedDateTime: 2019-12-13T21:18:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/microsoft-invents-a-next-gen-depthmulti-spectral-camera-for-advanced-3d-facial-recognition-to-match-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.425632E64F66A79BDB5C31D4B4715B40
-        width: 600
-        height: 295
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
 
 secured: "EEVzs7hiQpaK4rS3lZzygEamM6MIWYDET+n4u5SWncmIeIiviTN9x9usQrBD5zLt9r5YtaFkuOw8lkCsfkDM8iZ3R/5LXwalM7zA/6a+t+jwwJ1hPB9DGwfPfbyRy3duaWt880qwXD9ccqbB1UnP9XHKH+EpxjP3T9YDK/T29FF6oaxTOihHcDr1sgqd+Q3vyFhR2dh8wrkGCBsAw4A0owxWuX0L4APZGEWSmSrztpIjgLhmcCxuC5OOjT/RrJ7DgOjaZ3z9q6iEuO4Oh9TJMw==;aihMm/9+YG8EqztJuN29BQ=="
 ---

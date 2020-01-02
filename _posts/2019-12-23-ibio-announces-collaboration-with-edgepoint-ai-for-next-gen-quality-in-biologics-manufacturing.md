@@ -1,27 +1,21 @@
 ---
 category: news
 title: "iBio Announces Collaboration with EdgePoint AI for Next Gen Quality in Biologics Manufacturing"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- iBio, Inc. (NYSE AMERICAN:IBIO) today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (OTCQB:MATN), to deploy EdgePoint’s proprietary artificial intelligence ... cell and gene therapy, small molecule manufacturing, bulk drug substance ..."
-publishedDateTime: 2019-12-23T14:27:00Z
-sourceUrl: https://apnews.com/Globe Newswire/8202d23a810bbfe5fcdf59d3811252c3
+excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- iBio, Inc. (NYSE AMERICAN:IBIO) today announced that it has entered into a collaboration with EdgePoint AI, a division of Mateon Therapeutics, Inc. (MATN), to deploy EdgePoint’s proprietary artificial intelligence (“AI ... cell and gene therapy, small molecule manufacturing, bulk drug substance ..."
+publishedDateTime: 2019-12-23T15:49:00Z
+sourceUrl: https://finance.yahoo.com/news/ibio-announces-collaboration-edgepoint-ai-133010228.html
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: Associated Press News
-  domain: apnews.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://apnews.com/images/PaidContent3.png
-    width: 700
-    height: 450
-    title: "iBio Announces Collaboration with EdgePoint AI for Next Gen Quality in Biologics Manufacturing"
 
 related:
   - title: "EdgePoint announces collaboration with iBio CDMO to implement AI/Blockchain driven TrustPoint Vision Technology in its Texas cGMP facility"
@@ -38,6 +32,6 @@ related:
         width: 1200
         height: 630
 
-secured: "NRaG2hTJNtkuTYVatV21zZxC77qptorgxciOrbnFxrUrwhG2WBCLhlOi98TOmpyBwtBRsMtvAzdD26Enqx1JGDxjIGOLaSSOB2X9siwC7h2ik7065AmAWPMBu846e8q3BDbUGljz2TGdXtdjn8nHue04dDxC3xjUK5b4qXW2vLu/iAGTTzqp0TwwS7nPWDrv0+J0H8lmxUjrjLvX6KCh6izRW+7pTlwG8/59z9GNguJgmzp1rygy25rx8vLB9sAekCZ2gohLqW4M+EL47ayEbg==;6LEgwhMRX0bZd63WOVR5Dg=="
+secured: "wEU3L6qltezX9STYhwP6Sdh+mOk5cS2PNyFE9hoJNvnZxjZMSj7NUepZikJnWJm9OqsLfP/R3gRUqsyOiyqsaV1a3dgMe+dzWBDkfVt7J1xQihuQpyyI6EuAJmW4gSQ4gV/DfzvD0Cry0Th8IwtTvOuUYfyLk9eiPmRrp27PDlB/tVki9hRW1OHT/8Hqn1RTgxWjzZyBZcJvAeXbkbZyQEkWytO+QjkFuK7Zpd+mGY26XTfYFyUZWMTzPH4R7CB4J3srYnFrpMJgf4a3mlHY3w==;v0XU1ywpqGQtDpBDLoRloA=="
 ---
 

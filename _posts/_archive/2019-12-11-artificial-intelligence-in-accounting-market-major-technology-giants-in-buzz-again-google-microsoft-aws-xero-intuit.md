@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T12:06:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-major-technology-giants-in-buzz-again-google-microsoft-aws-xero-intuit-2019-12-11
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,20 +41,7 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Diabetes Management Market Next Big Thing | Apple, Google, Vodafone Group"
-    excerpt: "Dec 12, 2019 (AB Digital via COMTEX) -- This intelligence report provides a comprehensive analysis of the \"Global Artificial Intelligence In Diabetes Management Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects. Data True to market on the products, strategies and market share of leading ..."
-    publishedDateTime: 2019-12-13T03:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-next-big-thing-apple-google-vodafone-group-2019-12-12
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
-secured: "SSLwjx7Auu+lQqM+ByElC7BIS6zGQjTZBIXlD7l+OYhWwYH4QmlZ4cQmUQpzWpROuPNbH+y5oo65zPG/vdhYZkfj+pjX8b/9kv5jyvx00MaUZNIKG7xkX/RSipGXnYkxKpI6twwS+DbcjRh6L8c3q8a65Y3w8TgNdZ4giJ5fv5OULlyMNspArp/wZR/qQkK699xSxSX0sd7ybDk4sxzvXkMbXSGg/A2wqyIFsvSysa5lTSGavhc/n8cjICK1tE/X4VmBHIs19AJSSZb2FlH3Iw==;5xdMVhw4705WbyiH81eIGA=="
+secured: "/dGdwXsUJ2HXmxuuWgDIgcqom7GlvQSPZxBbXQAf/d3qiLQzF0hkeHTG49g9ly+aXVDXjAA5S4TNcWNeqD1KRBRhm4J/+FjxiUkRpIQngWxReRDLh7BCZD9gzDUcmfTabTmgDe3Pi1SLAFRCoj9Hn/GqD/ZECJmfKL5kd3gccuuQSLscbTAY2I+h5bmmpLBH+ygJkc4YHsfOIo6nY6E876k7HQi+cfvOgo2B1ajpoI1046bls+2347lJ5adajDTnvbHJCWqevoMgCIRKvteM+g==;rLE5UCzGr2iTiOHGvaXDTA=="
 ---
 

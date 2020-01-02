@@ -43,17 +43,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
@@ -64,6 +53,17 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
+    quality: 86
+  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
+    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
+    publishedDateTime: 2019-12-03T18:20:00Z
+    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
+    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
@@ -92,6 +92,6 @@ related:
         width: 648
         height: 420
 
-secured: "Olm7x9QH9modDlLU6n3aUTarRcv9NdNjtW+8wRtft+MEaorI6fVnZcH88O8DbDJV1zCBQHZmZ/0fdbOqD/uy9zltYmVbyjz5Si69sIIVWB0wC80vGqGD+M3jGMHz9VxUR0g+86qzKyQhuSKx3ZooS1mObOi0CSDwUEtJejti8cm2gY4X3YN0G/2pGvMMtw45QlicEOwbkskGkrmtO8kJ4mAkCITL5dA+XHk056xpU/FMHVbWWCDq6ownHXcc79ZaeKg1GWXevhUmuRtwGhDmfA==;NY3HoTfI1UGzTFfYGY+tsw=="
+secured: "LfT5m739XnMKxZZ1kLIDLvdn8qDb1mV4WOP8Z6CRucDnF/a1Hdsjp4gLqj+JSxFnSe6h+p1rgGuSwzPPVCjcyngX7TxU8Kz+G2ioXLaNT3KF2b9VGkaoSgzOIlbqvbKbbZsnF4qERAT+2TN5V2wJN3f2e3mkGeqU7XUtykJwOPGsS6GtrV+kcpe2OV2k70RqjblMR7lDJPjBJe5Y76kO8wQqN4tvfqRrwXvoW1PE9u9nnbu0sOlrVoqNHxHyv0Y+LdBoueHedgTjCrVntncmRQ==;rPwjFIjvCTQtO5qj7FR29A=="
 ---
 

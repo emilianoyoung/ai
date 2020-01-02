@@ -2,12 +2,10 @@
 category: news
 title: "Intel buys AI chipmaker Habana for $2 billion"
 excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
-publishedDateTime: 2019-12-16T16:15:00Z
-sourceUrl: https://www.yahoo.com/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-ampUrl: https://www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
-cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/intel-buys-ai-chipmaker-habana-150356967.html
+publishedDateTime: 2019-12-16T21:41:00Z
+sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -710,6 +708,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "b/VbAPiuUaQHXYTXFZOYOlezGdSvYryiftgiKEWkDhjpGK/3lL7CB972sKRzgfH+gXscPUq9aR4htWaE0JeliMtRzh7kJ5fhUImcX+u0Awzn2komaivOvL6Nj196B5WozCyVMyGLgXuND+X81RxrBfDtWsxIr5CYZGsP3WQqt4Z8I4hAMthQFuvCGqrQ8vWhj8AW2HSweqE4chUl43ET4EHgxibUs9mKSQc7CSdPca2OwwombSF/p5quvFNe2DFXPwRXVNPGkW5tlvt4YUKsIw==;zGkxNdunpoJDqqP/Wj+O5A=="
+secured: "3yR1OCOiLFCu3hpPv66VTTviMkHikRV90gSQNsVCE8cEcchOI086rxzyUsEJOdHf3fP/XqFgGMrw7+LL+m0mhH89br5Obik5ICiZhvTmU2/xqwhfRC03McKGZlEf2P2T9Ni7hl/wxZm/XTPjdS/ccPzP/0lQSGJ/KEJPhqUR10A0Ne6QbWuANRHRzmJTqrkLb4zw9eLBOAX82PglZ/kdmHCulGjN2sX0Ksn5ZzHhA684HHU4ScncJ2es6gZAH7lD85acTrp4rtjK3KxKgWrU0w==;v5Qg/xZcNrhoE8mBlI2tEg=="
 ---
 

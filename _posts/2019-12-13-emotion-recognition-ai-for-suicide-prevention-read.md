@@ -26,71 +26,47 @@ images:
     title: "Emotion recognition, AI for suicide prevention | Read"
 
 related:
-  - title: "AI Image Recognition Market 2019 Evolving Technology and Growth Outlook"
-    excerpt: "Facebook can now identify and map 98% of its images correctly to the ... in Asia-Pacific. Singapores National Research Foundation has invested about USD 107.64 million in the AI. SG initiative, to uplift the artificial intelligence technology. Artificial intelligence offers the region massive opportunities for growth, innovation, and ..."
-    publishedDateTime: 2019-12-13T03:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-image-recognition-market-2019-evolving-technology-and-growth-outlook-2019-12-12
+  - title: "Emotion recognition technology should be banned, says AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
+    publishedDateTime: 2019-12-13T12:16:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 135
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Computer Vision Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 11, 2019 (Market Insight Reports via COMTEX) -- \"Computer Vision Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size, trading and key players of the industry with a forecast period of 2025. This comprehensive research report is titled 'Finned Tubes Market' with ..."
-    publishedDateTime: 2019-12-11T08:08:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-11
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
+        width: 700
+        height: 393
+  - title: "Emotion recognition technology should be banned, says an AI research institute"
+    excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that machines can work out how we’re feeling, emotion recognition is estimated to be at least a $20 ..."
+    publishedDateTime: 2019-12-15T00:03:00Z
+    sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 135
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
+      - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
+        width: 700
+        height: 393
+  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
+    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
+    publishedDateTime: 2019-12-17T15:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
+    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 102
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipset Market Overview, Scope and Technology Advancement Outlook till 2025"
-    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Deep Learning Chipset Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2026 Deep Learning Chipset Market report contains a forecast of the next 5 years, starting 2019 and ending 2026 with a host of metrics like supply-demand ratio, Deep Learning Chipset market frequency ..."
-    publishedDateTime: 2019-12-17T10:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
+        width: 1198
+        height: 599
   - title: "Face recognition tech is everywhere at China’s new mega airport"
     excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
     publishedDateTime: 2019-12-13T07:32:00Z
@@ -117,45 +93,41 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+  - title: "AI research and big tech"
+    excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
+    publishedDateTime: 2019-12-16T15:03:00Z
+    sourceUrl: https://www.ft.com/content/ea8af249-230b-4355-b1ff-a81e71b5ccc3
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
-    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
-    publishedDateTime: 2019-12-17T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
+      - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
+        width: 700
+        height: 700
+  - title: "Printed masks can be used to fool facial recognition systems, say researchers"
+    excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
+    publishedDateTime: 2019-12-14T14:45:00Z
+    sourceUrl: https://www.thenews.com.pk/latest/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+    ampUrl: https://www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
+    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "The tech initiative that saved Inspira Health $1M? Voice recognition, says CIO Tom Pacek"
-    excerpt: "Voice recognition technology has freed up more than just providers' time at Inspira Health; it's helped the Mullica, N.J.-based health system save $1 million on an annual basis, according to Tom Pacek. As vice president of information systems and CIO, Mr. Pacek heads up IT network and information systems efforts at Inspira Health. He joined the ..."
-    publishedDateTime: 2019-12-12T22:39:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/the-tech-initiative-that-saved-inspira-health-1m-voice-recognition-says-cio-tom-pacek.html
+      name: The News International
+      domain: thenews.com.pk
+    quality: 36
+  - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
+    excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
+    publishedDateTime: 2019-12-17T17:56:00Z
+    sourceUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393
+    ampUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 15
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
-        width: 400
-        height: 300
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 24
   - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
     excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
     publishedDateTime: 2019-12-19T09:31:00Z
@@ -174,59 +146,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 2
-  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
-    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
-    publishedDateTime: 2019-12-19T00:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/idc-technology-employment-impact-guide-174000643.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/idc-technology-employment-impact-guide-174000643.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/idc-technology-employment-impact-guide-174000643.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 1
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
-    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
-    publishedDateTime: 2019-12-17T14:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "New IDC Technology Employment Impact Guide Forecasts Steady Growth in Technology Job Roles Through 2023, Led by Data and Machine Learning Positions"
-    excerpt: "The fastest growing roles will be data scientist (13.7% CAGR), machine learning design/development/engineer (13.6% CAGR), and data engineer (12.9% CAGR). The guide also looks at the impact digital transformation (DX) is having and will have on skills and roles within an organization. DX-related job roles are those that focus on extracting and ..."
-    publishedDateTime: 2019-12-18T17:47:00Z
-    sourceUrl: https://www.ksl.com/article/46692717/new-idc-technology-employment-impact-guide-forecasts-steady-growth-in-technology-job-roles-through-2023-led-by-data-and-machine-learning-positions
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 0
   - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
     excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
     publishedDateTime: 2019-12-19T20:28:00Z

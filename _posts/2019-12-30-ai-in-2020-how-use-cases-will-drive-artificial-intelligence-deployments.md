@@ -7,8 +7,8 @@ sourceUrl: https://www.techrepublic.com/article/ai-in-2020-how-use-cases-will-dr
 ampUrl: https://www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
 type: article
-quality: 107
-heat: 127
+quality: 109
+heat: 129
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI in Autos
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.EC6374614A9157CE07C21ADFBB899607

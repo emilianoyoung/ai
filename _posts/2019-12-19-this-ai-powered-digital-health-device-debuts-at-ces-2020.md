@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47E52A5B35A4632D66CF600F5BC302EB
         width: 600
         height: 315
-  - title: "Partners HealthCare is launching a $100 million digital health initiative"
-    excerpt: "“The consumer does have a lot more choice than they used to,” Singh said. In addition, health care providers are working on algorithms to identify high-risk patients and manage their health. Partners, since 2017, has been developing artificial intelligence programs with GE Healthcare. Partners’ competitors across the country are also ..."
-    publishedDateTime: 2019-12-13T00:35:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
-    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
-        width: 506
-        height: 315
   - title: "Mayo Clinic Names Health IT Vet to Head Its Digital Health-Care Businesses"
     excerpt: "The Mayo Clinic has named health-care technology veteran John Halamka as the head of its digital health-care businesses. One of his focus areas will be looking at how neural networks, machine learning and artificial intelligence can improve health care."
     publishedDateTime: 2019-12-23T12:24:00Z

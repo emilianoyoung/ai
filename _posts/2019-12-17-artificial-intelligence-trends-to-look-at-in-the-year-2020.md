@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C7F25CCA3C9834CA2A53752ED198614E
         width: 700
         height: 367
-  - title: "How artificial intelligence is making health care more human"
-    excerpt: "For some time, leaders of technology-enabled health-care institutions—and today, that means practically all health-care institutions—have been anticipating the potential impact that artificial intelligence (AI) will have on the performance and efficiency of their operations and their talent. But in reality many, if not most, have already ..."
-    publishedDateTime: 2019-12-12T22:52:00Z
-    sourceUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/
-    ampUrl: https://www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614894/how-artificial-intelligence-is-making-health-care-more-human/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.771F401FB0F667AF8630D8701ADB5EF5
-        width: 700
-        height: 393
   - title: "Putting the 'art' in Artificial Intelligence"
     excerpt: "Artificial Intelligence never ceases to surprise us. Recently, AI was used to determine if Shakespeare took outside help to complete some of his work. It turns out that large portions of his play Henry VIII were written by John Fletcher. At least this is what researcher Petr Plechác's AI neural network would have us believe. The literary world ..."
     publishedDateTime: 2019-12-19T09:24:00Z

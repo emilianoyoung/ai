@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/iphone-exemption-in-san-francisco-face-recogni
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/iphone-exemption-in-san-francisco-face-recognition-ban-opens-can-of-worms-22604129/amp/
 type: article
 quality: 88
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -45,6 +45,51 @@ related:
       - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
         width: 700
         height: 490
+  - title: "Some cities and states balk at face recognition tech, here’s why"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-17T22:20:00Z
+    sourceUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/
+    ampUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
+    cdnAmpUrl: https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 59
+    images:
+      - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
+        width: 4030
+        height: 2498
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-17T19:56:00Z
+    sourceUrl: https://www.chron.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
+    ampUrl: https://www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
+        width: 700
+        height: 433
+  - title: "Why some cities and states balk at face recognition tech"
+    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
+    publishedDateTime: 2019-12-18T06:06:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
+        width: 700
+        height: 433
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z
@@ -73,17 +118,6 @@ related:
       - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
         width: 700
         height: 632
-  - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
-    excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
-    publishedDateTime: 2019-12-17T17:56:00Z
-    sourceUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393
-    ampUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
   - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
     excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
     publishedDateTime: 2019-12-20T22:24:00Z

@@ -23,6 +23,6 @@ images:
     height: 799
     title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 
-secured: "WywTfziUBFY/HEmK8XQZj9izCvetEobscEEcwb91mGhp+V6JkFzq7jlf7FD+X0+meNbDIZmfFWg8sGxG+9k4ETG7pfciuao8CuJvbdMWo34qHNm8yjluS/YmRQl/wGAVwyWgee95BKUr9u+puzoioJ55Ky1r9fUVDufdW4rGltg6MLkGzdUqQoUG0BtGIE5ePlJY2V6kMwM5FLaTFj3Ac1PGoiEOtq8e7cO5LBDLhgaApbh2VbtafiYrX2Qyp+GHy/UyxTxYGzKmmMm6g+2Rsw==;Mlo1dJPwwpMjtZ4nX9Ef+A=="
+secured: "WFcY8EPtmVL/DraBTBvxDhmXqoNIJAkW8SGutwB4y+DtdiKSuieY/UIOZ2gTbbPk2oaw/xc6NtlrpkGFPfKdR3HvLrogWm2j9ZY1URtimCMp/3HwrlZLqMuHdhxckf4cXlW4LaLNGcSoGpWph9bTGGsLQrBAVaWZ/sl3QlRvCD0Gf8q/evFLGGpc2FUj0Cz/b0y+0CATkybYtemSCPrMGXtMwyqOFQbVMvmA4YBmVGR6xGoMixydRFcofnrtpoZAJjJvs8ND5bYMAMDi6bMdVQ==;2HUfdR/VDlD4S6oYUA2WZw=="
 ---
 

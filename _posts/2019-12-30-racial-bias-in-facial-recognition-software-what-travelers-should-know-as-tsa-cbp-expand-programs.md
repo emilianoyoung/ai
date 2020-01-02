@@ -317,6 +317,17 @@ related:
       - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
         width: 700
         height: 466
+  - title: "Indian Adventures: Policing, Facial Recognition & Privacy"
+    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
+    publishedDateTime: 2020-01-01T23:51:00Z
+    sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -375,6 +386,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "HVBY2Pv1OXmum+BclUipPGzljZt6+DqccU3LtLniAKriGBtEm65D7EYPLfDr+Mugeygz/3rkAk4Wb8GkD9Nbu83Ez5cCQgeRIvM7fOheSXmLIa8qZB31ANhneHd40KrhtLXiwI0/YKrR3PnfsD475pI9WYu+IV9T/sBPrdJEkWuZRm0ygxuN/yKarEhkya8Efh5JJuW5Cc4N3VnKDVhavAhEGNkhYztX0u8NAuyBcs37nY4M96mtnWN7uSpSnDXryKGTMYhp3V53VFMzbQNJgQ==;/3x/3sUyoo5E0TganwHv9Q=="
+secured: "Tjdwvf+pv8JWLgUV46Py/vfufh/UkfheQquL8qT25T80scMCP+pk5AQAR6iZNUBYO1JXkfwAw1zgeBz++ZMI3rztRlyxQFT/WFT5UYzTJY4ee5XZJiDMbOZ4F21GiWBRLOc2ae08pAKHyuUzotP+63kXwX45ofkisssWU1YOCeSCR87KNSX/MaBsXcljWDNE0dSFISJW2uq/UW22xHZfdTRiMXmc6xdWonJB7XN0rMO7LlCyIKigmU9tPEbAiL80xNJeab1FbsBnZGaYnh7VZQ==;zAqnyLWJT9B2IsIbcPIzgQ=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Gecko Robotics raises $40 million for industrial inspection robots"
 
 related:
-  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
-    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
-    publishedDateTime: 2019-12-17T15:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
-    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
-        width: 1198
-        height: 599
   - title: "Rovenso raises $2.3M in funding for safety, security robots"
     excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
     publishedDateTime: 2019-12-13T19:50:00Z

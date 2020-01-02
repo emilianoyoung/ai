@@ -32,19 +32,21 @@ images:
 
 related:
   - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
-    excerpt: "WELLESLEY, Mass., Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol ..."
-    publishedDateTime: 2019-12-19T12:20:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/4g-clinical-launches-innovative-clinical-supply-software-leveraging-natural-language-processing-nlp-300977512.html
+    excerpt: "Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol complexity ..."
+    publishedDateTime: 2019-12-19T13:53:00Z
+    sourceUrl: https://finance.yahoo.com/news/4g-clinical-launches-innovative-clinical-132000906.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
     images:
-      - url: https://mma.prnewswire.com/media/554411/4G_Clinical_Logo.jpg?p=facebook
-        width: 5157
-        height: 2700
+      - url: https://s.yimg.com/ny/api/res/1.2/uEjWcTC9moxa74KfoJFLTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY5MDtoPTgwMA--/https://s.yimg.com/uu/api/res/1.2/93ddzB_eGKp4WZ9cU5Ojjw--~B/aD00MDA7dz0zNDU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/c9b19827adf404db80ba5ef1f9874cbc
+        width: 345
+        height: 400
 
-secured: "BfHhki+596EDq0kE3xo2rUScmlVcB0h2dl8IRVP7ycofWaOSTX7FUwTeXBE6Os7EeDlAZqiyoh83WhFqZNZ6xfC3PSMhAkQjyC/5ahSlkX8UG8gfe7NF/PTKli+OZfZ1n+LPAPEcoms4BZC31B1EvsRCZj9ApI/FGPKPfyG5xoeN0GxbGtghSageJjVQLDYeJKDHrBa4HHIjafxv/Ud2fRxIKAtBCrt1ypEN2QEnFicXXJ3lRVdxgYm2obDoPb2XmIZMAIcCujdOdGmI1Aam+g==;KxcshvZ5+qr7U1zmCoq7Qw=="
+secured: "fbzihj2ItOu0F9Lk+sOT8yciXFOyL/oVs+yqFXRA4RoXhauphLibq/ILN7oRP0TTIoadEfFGcC+gwocli1K57SI2ZEVUBvuCK1dd5ytjgHxZMATk1dauThQXELCbRq5H+zSgPyVNbf2ZagSsru2gJ5/xOxATcVO0HDMleWLLOatsVGEq/f1/NMsK6bZyq3KobSfkY/GETzdJd+H0rnaWtPZJDyvhUBnwTfHb90Bc3+GAHdC1j7y63ido/A9U5/PFCWftDGCQdzYR67yJSgJoSQ==;NTnwJ6D8byd/kfkaxQNsHA=="
 ---
 

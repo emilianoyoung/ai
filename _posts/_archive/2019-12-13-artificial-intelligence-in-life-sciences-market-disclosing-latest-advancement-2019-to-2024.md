@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T04:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-disclosing-latest-advancement-2019-to-2024-2019-12-13
 type: article
 quality: 61
-heat: 71
+heat: 61
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 1200
     height: 630
     title: "Artificial Intelligence in Life Sciences Market Disclosing Latest Advancement 2019 to 2024"
-
-related:
-  - title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "Top Companies in the Global Artificial Intelligence in Accounting Market: Microsoft (US), AWS (US), Xero (New Zealand), Intuit (US), Sage (England), OSP (US), UiPath (US), Kore.ai (US), AppZen (US), YayPay (US), IBM (US), Google (US), EY (UK), Deloitte (US), PwC (UK), KPMG (Netherlands), SMACC (Germany), OneUp (US), Vic.ai (US), Hyper Anna ..."
-    publishedDateTime: 2019-12-16T13:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "zLYxnMmUkIH/ff43JiRin7l/MRO+txeW4J0+K2GOqiVjekMr/+kZm3X1n2rL6VAPpUm37zrv1fJRpz9lNKPqBdE+MCliGFNtB3Js3+xYd0lgxR3x6lBIxXmMht6ljvi3hnEkACuNGdtBcy9AApWFBRBnxHOUd4L6JAUu8ws0q0dPJJOr+JqTX4Xs16kB2PaNxrZDpEJ8FYKvMyB7/JTo4OUULSyNQzXRBvoxUf5YTtiXDQClEoGQJ+4hrH6p3pcd7cGri/kXCPyQudubBeF70w==;+4qhqIwR4F/0gsPHDECGxw=="
 ---
