@@ -17,7 +17,7 @@ elements to <head> such as styles, scripts, and meta tags.
 <link rel='stylesheet' href='{{ THEME_DIRECTORY_URL }}/css/style.css' type='text/css' media='all' />
 <!--set the theme-->
 <script>
-    var useLightTheme = false;
+    var useLightTheme = true;
     if (window.location.search.includes('theme=light')) {
         useLightTheme = true;
         localStorage.setItem('theme', 'light');
@@ -27,7 +27,7 @@ elements to <head> such as styles, scripts, and meta tags.
         localStorage.setItem('theme', 'dark');
     }
     else {
-        useLightTheme = (localStorage.getItem('theme') !== null && localStorage.getItem('theme') === 'light');
+        useLightTheme = (localStorage.getItem('theme') === null || localStorage.getItem('theme') === 'light');
     }
     document.documentElement.setAttribute('data-theme', useLightTheme ? 'light' : 'dark');
 </script>

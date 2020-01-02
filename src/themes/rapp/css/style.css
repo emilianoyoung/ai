@@ -38,6 +38,25 @@
 ---------------------------- */
 
 html {
+  --text-color-normal: #191D28;
+  --text-color-secondary: #444444;
+  --text-color-accent: #f0083f;
+  --text-color-link: #f0083f;
+  --text-color-tag: #000000;
+  --text-color-primary-button: #FFFFFF;
+  --text-color-secondary-button: #f0083f;
+  --background-color-normal: #FFFFFF;
+  --background-color-menu: #efefefd9;
+  --background-color-tag: #efefef;
+  --background-color-primary-button: #f0083f;
+  --background-color-secondary-button: none;
+  --background-color-textbox: #FFFFFF;
+  --border-color-secondary-button: #f0083f;
+  --border-color-textbox: #f0083f;
+  --border-color-newsletter-wrapper: #f0083f;
+}
+
+html[data-theme='dark'] {
   --text-color-normal: #FFFFFF;
   --text-color-secondary: #AAAAAA;
   --text-color-accent: #f0083f;
@@ -53,24 +72,7 @@ html {
   --background-color-textbox: #FFFFFF;
   --border-color-secondary-button: #f0083f;
   --border-color-textbox: rgba(255, 255, 255, 0.4);
-}
-
-html[data-theme='light'] {
-  --text-color-normal: #191D28;
-  --text-color-secondary: #444444;
-  --text-color-accent: #f0083f;
-  --text-color-link: #f0083f;
-  --text-color-tag: #000000;
-  --text-color-primary-button: #FFFFFF;
-  --text-color-secondary-button: #f0083f;
-  --background-color-normal: #FFFFFF;
-  --background-color-menu: #efefef;
-  --background-color-tag: #efefef;
-  --background-color-primary-button: #f0083f;
-  --background-color-secondary-button: none;
-  --background-color-textbox: #FFFFFF;
-  --border-color-secondary-button: #f0083f;
-  --border-color-textbox: #f0083f;
+  --border-color-newsletter-wrapper: rgba(255, 255, 255, 0.4);
 }
 
 /* ------------------------------
@@ -737,7 +739,7 @@ Newsletter
 
 .newsletter-wrapper {
   background: none;
-  border: 1px solid var(--border-color-textbox);
+  border: 1px solid var(--border-color-newsletter-wrapper);
   border-radius: 5px;
   padding: 0;
   text-align: left;
@@ -1813,7 +1815,7 @@ Start Responsive style
 
   .newsletter-wrapper {
     background: none;
-    border: 2px solid rgba(255, 255, 255, 0.4);
+    border: 1px solid var(--border-color-newsletter-wrapper);
     border-radius: 5px;
     padding: 0;
     text-align: left;
