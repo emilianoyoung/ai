@@ -207,6 +207,32 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
     publishedDateTime: 2019-12-18T18:27:00Z

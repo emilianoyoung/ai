@@ -133,19 +133,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "Concordia researcher applies machine learning to financial risk management"
-    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
-        width: 700
-        height: 558
   - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
     excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
     publishedDateTime: 2019-12-18T18:49:00Z

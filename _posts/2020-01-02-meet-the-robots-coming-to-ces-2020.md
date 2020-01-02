@@ -5,8 +5,8 @@ excerpt: "It is unknown if Samsung is developing artificial intelligence (AI) fo
 publishedDateTime: 2020-01-02T13:51:00Z
 sourceUrl: https://electronics360.globalspec.com/article/14458/meet-the-robots-coming-to-ces-2020
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767

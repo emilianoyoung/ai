@@ -1,44 +1,35 @@
 ---
 category: news
 title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-publishedDateTime: 2019-12-11T11:14:00Z
-sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
+excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG (VOWG_p.DE) - are betting they can answer by ..."
+publishedDateTime: 2019-12-11T11:19:00Z
+sourceUrl: https://in.reuters.com/article/us-autos-self-driving-argo-focus-idINKBN1YF18C
+ampUrl: https://in.mobile.reuters.com/article/amp/idINKBN1YF18C
+cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN1YF18C
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 154
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-    width: 991
-    height: 557
+  - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
+    width: 700
+    height: 466
     title: "Argo takes different road to skirt self-driving challenges"
 
 related:
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
     excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
     publishedDateTime: 2019-12-17T16:43:00Z
@@ -93,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
         width: 640
         height: 427
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 24
+    images:
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
   - title: "Argo takes different road to skirt self-driving challenges"
     excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
     publishedDateTime: 2019-12-18T07:49:00Z
@@ -129,6 +133,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "EIkLSDbdIv4AcykhbSEy2/Hl5ElFByX/qfDeh3xtm3XkD3tjFz/TCp/6zDcKnFIWtbjF1+CPZiZCv48NkgXT260Z87JLBVslfrHWmLX+0DKmpwha7PnHqCMV9blnfYIf2Ws5cUJ2FkAJZKca1bImPmMRouuWO+cc/WbSWwER9RHTRJOu16/w5aR7sVBBOOzt/APxcPB6N01vc99IfB1jYnBoznG6YzdOZtgVqB4WKikR3UDiT4Bpa0XWBFXuULBynoVSCDx12ARbYGKuv5yYSg==;NDF/6s7yeZXMitkluVLq5g=="
+secured: "MUUyc4/PhYNIh5Mpteg4jOVnPwbwErAB8XpH9d1BN4yME3gwAB8KQ4a3aq6uonkKEHf74Mniq0MW9yby6cKUghyo0y0i26K3kapmz67IVHy/+TKVQXg2JPnorrwbElc7ni4GKdSuPG25vJLfwjKQwly+JaR+kjc95ZHkeh6Y+w/jKvY8Qerhz0KTIgL3Y/7fXbSO09JFaX+r0GxyrpDtFLsPyap4XvOUttipNy/DplN/EVobIO51E3Rn/8mjhkaX8NDWV20npSue500tPlZ6TA==;uFKIlOQGh+hJWwm5FqhHJQ=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.medindia.net/amp/news/potential-of-ai-can-make-healthcare-hu
 cdnAmpUrl: https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/potential-of-ai-can-make-healthcare-human-again-192351-1.htm
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -104,6 +104,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
         width: 1903
         height: 836
+  - title: "How AI is Transforming Health Care"
+    excerpt: "“I think the average patient or future patient is already being touched by AI in health care. They’re just not necessarily aware of it,” says ... AI is much closer to a spreadsheet than to human intelligence, he says, laughing at the idea that it will rival a doctor or nurse’s abilities anytime soon: “You use a spreadsheet to help ..."
+    publishedDateTime: 2020-01-02T16:26:00Z
+    sourceUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-ai-is-transforming-health-care
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
+        width: 700
+        height: 466
 
 secured: "JfXvKXS4iJVxmWpkski4MXCNqeGMOq4sXysJ3zsVJl35Esp4TH7hvSO2v3toOnkWsdLu4VAvqO2McoTU2zXxRFFUycAGl97nn3tLSXniVJVcNFSk2oJ4y7YU/wISHYGXiKy/EFnHrmhB95//gLLetGzUHIt00AG061pJu65It1BkqVpxzSpqeTJ9ZFE5PrZjBCKbVxFjSYEegsTWvPUEFaYEfguUtuDeXOHW1mkkyPJUHhGm5a6qi6NXvFliVzqTcf4pwsVB/qG/EEIlXaUFnA==;XSAkmyX5ImqMXrxhYZqPIQ=="
 ---

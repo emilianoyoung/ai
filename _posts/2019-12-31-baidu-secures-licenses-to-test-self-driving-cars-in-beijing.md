@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -226,6 +226,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
         width: 600
         height: 315
+  - title: "Bosch to offer lower-cost sensors for self-driving cars"
+    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+    publishedDateTime: 2020-01-02T15:03:00Z
+    sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+        width: 700
+        height: 525
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z

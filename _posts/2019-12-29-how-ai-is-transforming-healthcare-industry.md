@@ -104,6 +104,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
         width: 1903
         height: 836
+  - title: "How AI is Transforming Health Care"
+    excerpt: "“I think the average patient or future patient is already being touched by AI in health care. They’re just not necessarily aware of it,” says ... AI is much closer to a spreadsheet than to human intelligence, he says, laughing at the idea that it will rival a doctor or nurse’s abilities anytime soon: “You use a spreadsheet to help ..."
+    publishedDateTime: 2020-01-02T16:26:00Z
+    sourceUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-ai-is-transforming-health-care
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
+        width: 700
+        height: 466
 
 secured: "QN0IJgDlYEFh9EGK/7le2lL1sSaS9FpaAeoetknCnVCykKCUHhnQpovsaRZ3bhGWzw9/+le3U//eAMy46b1uKyzJ23ydl5HNQonq53UFdkTb3ppN+IilU4ggMS2mLoS/XjPsTs/w6jyZDx18dPNHs0T/bkQoYVko7wQba8NmNxaZ1EYgDvEOkLzzMozXgdJPaoqamsxbJ14K2KFcWJbGy/h0OaCKsJQrztzCGy+RnVOn1KdgJ76YqA9KMxIufQIlVUh9mdbc5GkCnRtLEvmQ6Q==;yHKXusTp5lekR47UROtCcw=="
 ---

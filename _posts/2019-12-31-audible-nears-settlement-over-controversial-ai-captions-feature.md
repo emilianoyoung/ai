@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/audible-nears-settlement-over-controversial-ai
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audible-nears-settlement-over-controversial-ai-captions-feature-31604759/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 388
     title: "Audible nears settlement over controversial AI captions feature"
 
-secured: "BN2F1EJD3eXkI6Ww4/TuXXbiom/W7zZwPTa6h81A4ATjir6Wph84pje8CyMZnF2G7rFCWRjAAyQX4O8sVz/Qet4nMjPvKWpkfpA/tgI3TvWDLCvFizX58yC1L4TxaiJ7J65h6ciB2eVVGvf5/eLuIkTDXAiWHdcVTBpG6dR4L1wne7I2TYunwLj1U0if/LKcfitjRmJhwzUPh3UzfaccWkC7WSUas/IhrRNAgIsMp4jEyXnN9bpx78GiwXzbps+5cReqVz8S0ibS//NqwRAp2w==;tqSii5CwDZqc2xuPn9DgRA=="
+secured: "qjUwPzBRn/nwKU/3fNz6GjUNGgsyRWF8EKSInqBS1pIHwe668zQhhxkZQwhN+2RK1/Q4+fWA/WA/lwCmTqkBUPuNXWqDEiyi1Gueract2zGyo5KI39NnYoK/+qvxLgi44LW3oPf+tLlGF+3SDLOJlFywonAHgQ7V7EKZ0eHmtTwkce3wH7q2WlqhKVEHoHkJ7Diqo2kAkGm4zg/zWPCS8INh+jdydLM2rBjePfvFdqm03+tnhQEnT7kI2Gdbh/BLr0SRcaKmxXaOWMJzXmy7XA==;jik9NEQuu+oQDacrooCWEg=="
 ---
 

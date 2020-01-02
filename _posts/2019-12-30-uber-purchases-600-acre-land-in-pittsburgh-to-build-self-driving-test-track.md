@@ -235,6 +235,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
         width: 600
         height: 315
+  - title: "Bosch to offer lower-cost sensors for self-driving cars"
+    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+    publishedDateTime: 2020-01-02T15:03:00Z
+    sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+        width: 700
+        height: 525
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:39:00Z

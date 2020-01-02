@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10DY
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10DY
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 470
     title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
 
-secured: "MnNxO2Kannq91QGa1CJ7Az+OZ21nIc1ng4mxVvWelidW5wfjXFkTsOxQMeyqn+WtT7EDRqdrEg19pCkBCqdDJdWjDzGJAwp6usB8sJucJkEfcWwhJv9TnWt/FeAy30SPxvWapMOeVHUoIjDe3lGtHWhOhlXIxzP69E/rv8qcHXWiowv1jXu7d9Cuw2LdW3GH0e4+3+Slk755raJe874HLFs10Q3fv1qKkjF8C2+GRTXBdEFBppbFLdveA3qKr/7y+gg1/OLepa3w6VY9ROZmww==;k7jJ4YGEs5wKuT0hw9Nawg=="
+secured: "B9mxsEu9PNd+xDJwIs3204Dq7bncKzB+h85CJGjfJmj1NgaTvU0ojdoc1qKn++wu435zqjcVCNMeKrtUM/3Mpk74Qt9R2TWb0DAa+r4bSFMYDuc/w7ERHHgcHZY4yKMWzWwA56KJpqYxMkup8KjMpMcYPZaRmoWu2uChGCUygGXU7Wik8EBrrHBMckf4Y+/2V01l2d+FgMCdIMDPbiXDcU5RSx1mOfErB10e03aXBDQqnlxDBoD8kFaTuzNPxzaO4/ZKLDK2Eu/osDGLp7BsCA==;a4FuzXtfc+5xYib5OySbIQ=="
 ---
 

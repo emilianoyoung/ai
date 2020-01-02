@@ -24,21 +24,21 @@ images:
     title: "Volkswagen Takes Stake In Self-Driving Startup"
 
 related:
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG (VOWG_p.DE) - are betting they can answer by ..."
+    publishedDateTime: 2019-12-11T11:19:00Z
+    sourceUrl: https://in.reuters.com/article/us-autos-self-driving-argo-focus-idINKBN1YF18C
+    ampUrl: https://in.mobile.reuters.com/article/amp/idINKBN1YF18C
+    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN1YF18C
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 74
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.416CE544DEB55032565C618A4FDAA871
+        width: 700
+        height: 466
   - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
     excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
     publishedDateTime: 2019-12-17T16:43:00Z

@@ -104,6 +104,19 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 54
+  - title: "How AI is Transforming Health Care"
+    excerpt: "“I think the average patient or future patient is already being touched by AI in health care. They’re just not necessarily aware of it,” says ... AI is much closer to a spreadsheet than to human intelligence, he says, laughing at the idea that it will rival a doctor or nurse’s abilities anytime soon: “You use a spreadsheet to help ..."
+    publishedDateTime: 2020-01-02T16:26:00Z
+    sourceUrl: https://www.webmd.com/special-reports/artificial-intelligence/20200102/how-ai-is-transforming-health-care
+    type: article
+    provider:
+      name: WebMD
+      domain: webmd.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
+        width: 700
+        height: 466
 
 secured: "gnYll1i4c6U47AUguyGfbtt9MtlcoZFmryeaNwBM9HQofo8YFBWKwhD15gBp2Vw2mLUrTAh+6HcSeiVT8DzBq3kYpsCH9ffWgj2ZgxDA2o86e6RTh8YETqqiJam+BrYqWc3qY9XnItLSYxe7X+5Uvf1MUQbMZOzbKgzHo+8WLf+QBQf30itMlelz3HPJV09yqvaQKfb4Vv/9cSmDNyNoys2UzF/DGrbp7CVMR1Pmx2U3EOUwKvrQTaiBh5MeyaXtFRgwNkUb68F+DXLNOxZR6Q==;V+m6kuaXuOzCwIamEHwnpw=="
 ---

@@ -198,6 +198,32 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
+  - title: "Featurization for Transfer Learning"
+    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
+    publishedDateTime: 2019-12-18T20:31:00Z
+    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 24
+    images:
+      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
+        width: 400
+        height: 400
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
   - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
     excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
     publishedDateTime: 2019-12-19T10:40:00Z
@@ -221,6 +247,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "5vM0HuVUfa4S1phOkfacvmiVpbAT4VYkch3p3un3Tpj6vrd564Rh7s2kqx67HNKgXTUlmk0oIj46zfAi8CqSRsDmbraCZPEQh7A9wOoreUF+qIGQFgFOuowJEf5M2nO+JwRfgOVyakRt7RvI+CcmXUG3bbetTDY9Nw9pvJ1t6JVY6/RLFsxynS28UWwUA8FylBOTe1NbFuWHwFDuSIjCeSgqDeyEDCyYS5FlVbzDMelR1QTWPsHZDM1Wh4zEcO8s6LQAg8g9LLZAbhtIPWVvNw==;/6UiFaNFFRPLxgBFGTmhkQ=="
+secured: "CTUwX7uL2ShFX1JqHBX55p2bv/GWdqdKK7Nhg7QvbRi3yBd3o8z5y1quxdmWVgcE2b1UgXu+kWFGtbYaIoQuDBGTc9Nlbmo367OqrujAlO3nmVAM47eHSV9NIr+BUcACzr7lVxhB+VyV1G3KAotnEwgpYKrtOxDNLsvSpaf0giXXQE3SQTNWBEllUGMMNrs1LzPrBDy5VBPH4NWIkAxX3XzZw5OZ0qvSXEil1fXJZ8fvBwTYUZ7i6gNd6nqTMqkPRvlNJ32WJ1i5Y6wCpWwaAw==;1NKf3ka7G0s/P86JCX+kfg=="
 ---
 

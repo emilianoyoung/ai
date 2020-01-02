@@ -133,19 +133,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
-  - title: "Concordia researcher applies machine learning to financial risk management"
-    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
-        width: 700
-        height: 558
   - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
     excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
     publishedDateTime: 2019-12-17T16:23:00Z

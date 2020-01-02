@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,48 @@ images:
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
 related:
-  - title: "DeepMind proposes novel way to train ‘safe’ reinforcement learning AI"
-    excerpt: "Reinforcement learning agents — or AI that’s progressively spurred toward goals via rewards (or punishments) — form the foundation of self-driving cars, dexterous robots, and drug discovery systems. But because they’re predisposed to explore unfamiliar states, they’re susceptible to what’s called the safe exploration problem ..."
-    publishedDateTime: 2019-12-13T15:35:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/
-    ampUrl: https://venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/deepmind-proposes-novel-way-to-train-safe-reinforcement-learning-ai/amp/
+  - title: "'Learning' is still the operative word in machine learning initiatives"
+    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
+    publishedDateTime: 2019-12-14T15:17:00Z
+    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
+      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
-        height: 350
+        height: 525
+  - title: "DeepCode AI: Symbolic AI versus Machine Learning"
+    excerpt: "In developer communities, this is a double edge sword these days. It feels a bit overhyped (blockchain anyone?). So let me explain what we mean and that it is actually different from pure machine learning here. I guess first we need to agree on what intelligence is. Let us stick to the definition of Intelligence of DeepMind cofounder Shane Legg ..."
+    publishedDateTime: 2019-12-13T18:21:00Z
+    sourceUrl: https://medium.com/deepcode-ai/deepcode-ai-symbolic-ai-versus-machine-learning-79c5fca29d31
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.EE7CA071202365FB6D7525CDB7722475
+        width: 700
+        height: 270
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
+        width: 700
+        height: 558
 
-secured: "dAMgKpgOgKcBmOq9LEDCRHbAhYUIIw8pJGa/xs94jbfyPeUqgjVc0dQKevadsK+cC40Y3UJ9dTLrtMRCH+LPMXmViRi11wD6b9r0mIbeD6ZLMlnMaDcns1J+yOzLyuhnZrsefWb3ZIQp4+mJDaxQKCQMDCpYCWCZh3GDmYEqq9hcZ+Qone6DITjgaSCdImcmsS4W+6YlED8Pa7Irs3He/1X/iWv/K4dwmNhs+lN/dQhQRcSb6ttxN992n/JzNaOY630sigSDOkvl60RKvbKjqw==;SzgQdhjDUCQkgqRqebR50A=="
+secured: "5PlvqJr2lSrMmS9SWq00dj524eD6YijLLEtEfdsKl4MQFnj9Jbxv5bhprbw0cfHEGfaVq8DVKPw9aCYBIWRevqPdkReBiJ4u8vFYmWlGJ4mOriulU6iOr/ZVwqSbGrF+eXgm1xlgatHwUe2LiOqbzVUVwBR4YLFgFDpX7vvwZgg26uB+tcQvuPly0K+T3ujn8bTYBdcI4C2IApPhILuZHWde5Mr1WIvG/vPU2reJRbt031qvXmBEE1TlXHGWjz+o0pmjVT7pER8jYiYaIfkZ4A==;9V2QJagsTXyeXpjt+eLBZg=="
 ---
 

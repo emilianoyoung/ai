@@ -8,8 +8,8 @@ ampUrl: https://www.thehindubusinessline.com/info-tech/telangana-targets-to-beco
 cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/telangana-targets-to-become-artificial-intelligence-hub-targets-to-attract-200-startups/article30459275.ece/amp/
 type: article
 quality: 50
-heat: 50
-published: false
+heat: 60
+published: true
 
 provider:
   name: Business Line
@@ -24,6 +24,23 @@ images:
     width: 615
     height: 384
     title: "Telangana targets to become artificial intelligence hub; targets to attract 200 startups"
+
+related:
+  - title: "Hyderabad Will Soon Set up Artificial Intelligence Research Centre Targetting at 200 Startups"
+    excerpt: "Hyderabad: A Centre for Research in Applied Artificial Intelligence (CRiAA), an R&D Park, a Centre of Excellence and other facilities in Artificial Intelligence will come up in Hyderabad as the Telangana government on Thursday signed eight memoranda of understanding with various companies and institutions. The state signed the Memorandum of ..."
+    publishedDateTime: 2020-01-02T16:49:00Z
+    sourceUrl: https://www.india.com/technology/hyderabad-will-soon-set-up-artificial-intelligence-research-centre-targetting-at-200-startups-3897181/
+    ampUrl: https://www.india.com/technology/hyderabad-will-soon-set-up-artificial-intelligence-research-centre-targetting-at-200-startups-3897181/amp/
+    cdnAmpUrl: https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/hyderabad-will-soon-set-up-artificial-intelligence-research-centre-targetting-at-200-startups-3897181/amp/
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.A77D479665F48AED00BA5584011766E9
+        width: 700
+        height: 415
 
 secured: "zG90Amw32cT0BpMC6GNTPVCXOJf0EdIpqKIVMRSKX3y0e4LluA9cd7qLgiS1VrN/vzLIMjOnwL8MUoGqRSyXeJk6hzcFM4NNBmSbn2g1bEsT1BOpZHjuCACMPOH0k+dJ/banwnCEm8hzJiW8+eSJ6RIJk9ejedy0nRgaiVDAzMU9cofCS2k11qJoW7TuOnHDSebLPCHGQYK52HIjOOI3+pN4iF8Lf0BD8qVC39I0SAd8Rx9Ey9c4PZs1jEcrUQcJALjT3vTV3mQ4aXWMXpQsvg==;ZJVg4/dESi8AolhwEXGUpA=="
 ---

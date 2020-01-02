@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E5FB9E6D356A78BFBE281518757D46E2
         width: 700
         height: 467
-  - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
-    excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on Thursday, announcing ..."
-    publishedDateTime: 2020-01-02T11:31:58Z
-    sourceUrl: https://www.msn.com/en-us/finance/news/xiaomi-plans-to-invest-over-247b-in-5g-artificial-internet-of-things/ar-BBYxXvU
-    type: article
-    provider:
-      name: Benzinga.com on MSN.com
-      domain: msn.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.CE5F927DB9428C194C233C7F7C1C59D1
-        width: 400
-        height: 300
 
 secured: "k4Gsx7FWqWFdKG7w+ikhRf716/b/sKEKECzja3stqOnY5Tix9lDL36rc8NiXu8KsN5YVrKQEExy101A+p3NRxHO9UcWeQOGvC4A4CEzsuZAl/yP9Qbzj3f5exvy/xQiQjQ5d9krcflw2qKV320f2JQSajNAora+erKg720H4ORtPkV4ZiH1JmpTgiE3K99/oeMHLaq/WaxfUAkDd7u98ufWqA0mk+oIc7KjVCHu4ILjKqeDdz5bvF3ejlWWvXiXYcY9GQ7ts7dcSVZztuwy2Hw==;3fyJF8k35R3m81VmMVpNdg=="
 ---

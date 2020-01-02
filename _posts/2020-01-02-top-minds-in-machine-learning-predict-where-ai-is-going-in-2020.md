@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
 quality: 110
-heat: 200
+heat: 201
 published: true
 
 provider:
@@ -167,6 +167,6 @@ related:
         width: 592
         height: 568
 
-secured: "pumgfsfXg6S94rKaHdIkiZv8JCooraQOFTw/4FtM35qjIxl/wcIGahZQ06P1odP6yRDqEsmpikukjbSx/G3oXwo3aAs9ivi01/YMVGFdiz8InsHFJ9iTS9eFMXilGc7QLiTHdyMEh9KCRvKFFAed152PXrp+9++OS9z+Rycyz+QL54SzWw28w5TQZuCkO7IdKtwCzIwVmvsKdjPbep1l8usSveUOAwGh8mRMoAuJQ3ghXEkMd1XdIRuUNBlGCRxDSergs9WYwxiT/NvyBedisg==;XlC48HAsa96OZJHFaZKATA=="
+secured: "AGnJJ6JQSU01EZJ683/zMVqThAde6wBDrUQ6buGqK8xhb9AAMnhHlFMeUN4ikj0Q6E1FfNaGhEndoglb/fpn9XS8e0o+u2LgY3zbpR9dYpumXXPHLe/1916gWOmzpK6JSin974G31Dhwxd/cRtmVOZ4dbqkZjIMC2IjZu3bg3RXaBPvrewuZbYZQbVIpHl7/vl3wdFUBh8mjqxk/pMajJZJP+GrvDWi9trux4vO/w99n3kOubehv36bM00jE2wN/u029bgNme0Q+DvZV9+Ekzg==;o0rPMUF2ifsmTWnGMUUnfQ=="
 ---
 

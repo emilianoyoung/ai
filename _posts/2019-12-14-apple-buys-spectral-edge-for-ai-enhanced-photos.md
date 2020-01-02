@@ -8,8 +8,8 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/14/apple-buys-spectral-edge-f
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/14/apple-buys-spectral-edge-for-ai-enhanced-photos.aspx
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Motley Fool
@@ -28,23 +28,6 @@ images:
     width: 700
     height: 491
     title: "Apple Buys Spectral Edge for AI-Enhanced Photos"
-
-related:
-  - title: "Apple buys AI camera tech that could put iPhone back on top"
-    excerpt: "Still, given the fierce competition each year as each phone-maker argues their handset is top of the pile for pictures and video, picking up tech that can coax more quality – and tap into significant investment in neutral engine processing in chips like Apple’s Bionic series – seems like a sensible strategy. According to previous leaks ..."
-    publishedDateTime: 2019-12-13T15:14:00Z
-    sourceUrl: https://www.slashgear.com/apple-spectral-edge-acquisition-machine-learning-iphone-camera-processing-13603198/
-    ampUrl: https://www.slashgear.com/apple-spectral-edge-acquisition-machine-learning-iphone-camera-processing-13603198/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-spectral-edge-acquisition-machine-learning-iphone-camera-processing-13603198/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.F3DBFDC92AE5256A9716A205BDB88194
-        width: 700
-        height: 394
 
 secured: "yMmMQn2BtH+AsdVtPUhQlxw3ZDyvh4ctvCWbo4I45ihzxQBzu6N+o/HKq7vO9mrG+APSzei4rPGRf7eH+S3gk/mdm9K0hkAtbKBJFXkgAopbQZxa3SBY1jM92QPhg+mX1T0LZ6zpBmBT+LCfMYO5JhY20vX8TGdeLg/b7ALT/OBE+4QeJ344UpimAhTXPZu27rRMqXnque1Vd8Azib1RzX0fl9UNmgBtW1HAdtHf4j6PAAtxwsNLA4sXNXgKErqV5fnGJSEqmYac3/FjzffPQw==;tYLNbh5MAC77y0+rApGUEg=="
 ---

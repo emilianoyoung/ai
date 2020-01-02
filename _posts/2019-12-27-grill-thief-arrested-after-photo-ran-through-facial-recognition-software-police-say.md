@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
         width: 700
         height: 367
+  - title: "SEC to test face recognition tech in ULB polls"
+    excerpt: "Telangana’s Information Technology, Electronics & Communications Department, which has successfully launched the face recognition technology app for the benefit of pensioners to obtain ‘life certificate’, is now taking up a pilot project in association with the State Election Commission (SEC) to check photo electoral rolls in the ..."
+    publishedDateTime: 2020-01-02T16:06:00Z
+    sourceUrl: https://www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece
+    ampUrl: https://www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/sec-to-test-face-recognition-tech-in-ulb-polls/article30462912.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
   - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
     excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
     publishedDateTime: 2019-12-29T11:40:00Z
