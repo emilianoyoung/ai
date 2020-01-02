@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T08:52:00Z
 sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     height: 630
     title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
 
-related:
-  - title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
-    excerpt: "The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full ..."
-    publishedDateTime: 2019-12-02T11:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-2020-113000351.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
-        width: 480
-        height: 270
-
-secured: "1igrmuX0v3EPl4AFGxN6z0vxK5hs4TBpEZy6vlkpMPqjdy+Z9O/YcvaPxy16d8SMFIuiYBMmV0L4vt6LcC6B2uqw+mlfR/BSsi7kWair138+weD9K7fzrKRxe+HyBP6/sFQgV/WO2xnReYeTVfJxRjRysvfhl4X7eilJHtThSq+7H/aKD0buwbL2EfXOBrYXfcoa+i7yyASuXSf0oAirqag0uF6LP1nx2TQxM0jV4SpBq5A5Ai1KkFHnm2e1LFJwbhrAZraFQxDbzIIian5MQA==;MogFeH0QR2XNapbxNjtBpA=="
+secured: "ZLXiqzgkVgCdWJlMN+vHe/hwT6GAVClihQBFfzW5LL/A1q7VjiE9sPhBuB1CCie2EZhKR8YKp/G9VStYX45fYRu3Ef+Zk2xB2bbqrrM2EvIC/t4aFsGXMmITn1zIoUYKt7vVbLyjTBk5gP3FGUv9CmtdH7Onk+Gg6XHXJB2Hyyd+RmsLLGFRVku03CgQjRt8jXNIbGLZLHo+cxT8uqXgbTZoxlTRiH7QhsVA5q42QNl4iShZR++jV0lGZGlrNVtb9yZbDj1corbxlcwR+5S6GA==;Xr8R2CZsyIh27FzgbQr8wA=="
 ---
 

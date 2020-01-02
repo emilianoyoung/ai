@@ -35,21 +35,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1F3EDB0AF268C588DD2E77FD7FE8041B
         width: 700
         height: 367
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
   - title: "Google's self-driving car company Waymo has broken ground in Europe by buying an Oxford startup"
     excerpt: "As well as buying up Latent Logic's tech and talent, Waymo announced that it is establishing its first European engineering hub."
     publishedDateTime: 2019-12-13T11:54:00Z
@@ -187,6 +172,6 @@ related:
         width: 700
         height: 413
 
-secured: "qPt+pS6lLiI4x1NOBrJ7eBt0BI+7XtH3PB4TJaqzgYJv1flQUxJvmHj9iZG4Qfs/GbU1PPf8B5IQeKS2zTZ556g1nwlVoD3VYDG1PX8oF5XqM+nt/EOdKQ0M8/uVGsYJCe/GZ17galLOLN3ZoSKHpxCvPMXzTHW85zlTg3SawY3ycWr1QAKVP9IrsKdhQ7DW5pqMlDc64HzR+5BYlitXFPICMOXFyRSi6BSg5gUSCXTxb6XxNa6rIAN/NXhRerMzUiHQgZyt2s+WDrzVRBLaAQ==;B+DHTic3QGJc0EWFrqMVCw=="
+secured: "IlbpRAKd86NriyR4pGLMkBjkAczo8bAxb/QzcPdQRL0ZnKrt1lJppTrFrulCgTzOHlgLjVEpLMhIK6gvQ6H/6vYLLRTOcD1pq0kcibmfx/PvfjkVXrurda+zF7ke53UjYhzcnCNxNQs0uq7IkAzMwtLCfKrpyKY/RzVM9UaCAkj6OgcFqrTdUnxJjO9dn5pxoB0/npJ4ZvXRa0CHhpwexYcRxQbGAmkUK2SIgRsJVzlRuB8sNzEbG134XdfWNlM4BxV4NRhLyxeC35BsU/tbDQ==;oM3Px4NaguBq+LkwLjNlgg=="
 ---
 

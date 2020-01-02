@@ -2,22 +2,18 @@
 category: news
 title: "DeepMind co-founder Mustafa Suleyman switches to Google"
 excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-publishedDateTime: 2019-12-05T18:55:00Z
-sourceUrl: https://www.bbc.com/news/technology-50679791
-ampUrl: https://www.bbc.com/news/amp/technology-50679791
-cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
+publishedDateTime: 2019-12-05T18:47:00Z
+sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
 type: article
-quality: 89
+quality: 59
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: /assets/images/organizations/bbc.com-50x50.jpg
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -124,6 +120,6 @@ related:
         width: 580
         height: 358
 
-secured: "f2AlctxH/ej46NUpkyeoQvzwucrQYQqyG0AXSrv51KJdLVdy7VKhfPgOVcr1T8pJfTCmne7Pl31nOepgG46LTKeyNDhMOI4qiXvbTxjd6p/AHQQkwJiCx6uqrs5eaRlGr/ASUuAOpli3Y7CHZ2cq+ZSm1rWKjsalouCOxqkbBsVsAUvbd4kUWMtVeEQ7rGhYMvNC7lA1Nik6MljsUFaey9+tie9mzcbhskVh7+zqJm/7uERJJ3/o5k+oT8uQRpxUFVbsh7rp0dhhD8gWHZZY3w==;FJIZYm2l3GjMlgHFBBB2nw=="
+secured: "I5q2zodFAeOBmrazg38CDjAkao7BDqkN/KnGZTvBnvrswulwTpShh+mHGMyZrQlqBEch+hxo6EbOJBQT4b+cCWRyeqxZQpeVJ0HOYgiifpjGUzOyE7GsSPkoq/+iUfFgjqp/+5/u8gl6ek4LvjG12GGbIGXbPp2KlicWnYWFz0hXf39WDqxkqohsdbkEYa3tGJ6G16VcA2SVAAj47Bu74hXijcj4qL2I781jYGQbkQ5fPToCi3XA/zbHeir05W4MEH0eUu+XGUFz99nHfZ+Y0Q==;wm0U9ohlNH0HRsmvDE7oMQ=="
 ---
 

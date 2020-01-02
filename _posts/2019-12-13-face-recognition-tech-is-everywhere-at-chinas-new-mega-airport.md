@@ -93,21 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
         width: 615
         height: 384
-  - title: "Emotion-detecting tech should be restricted by law - AI Now"
-    excerpt: "A leading research centre has called for new laws to restrict the use of emotion-detecting tech. The AI Now Institute says the field is \"built on markedly shaky foundations\". Despite this, systems are on sale to help vet job seekers, test criminal suspects for signs of deception, and set insurance prices. It wants such software to be banned ..."
-    publishedDateTime: 2019-12-13T02:43:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50761116
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50761116
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50761116
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.0816D6DCBA76734AC9B2D12373D02E5D
-        width: 700
-        height: 393
   - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
     excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
     publishedDateTime: 2019-12-13T06:19:00Z

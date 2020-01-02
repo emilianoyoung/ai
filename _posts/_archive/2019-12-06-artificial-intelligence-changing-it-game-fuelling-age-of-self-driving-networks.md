@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T18:05:00Z
 sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     height: 799
     title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
 
-secured: "UGo0/bB10KOAwn9vmwXXSLoJ9NCSIoDTqlx9C7TvFo7t9yHjPyQvkqc+SG+17d2Tqy1IzV7khfzREQK3CEvOUgA6r/zKDGW5GMI1GQt4Af+J43JCftBPz7mc7Hhpl+LBPDnN3kYkwkZzKc7r1kH2YvXuckTHtFBEtqj4B1+uA3USC6zareabV8aJIPfuVpSvMuTd+LKK6GyEZfPYsNJzZoA3sReWoJ06VTkEXHC3DztyW/3ZXCYMt3g5Lb4xbE+s/ZrL/XtKImXjPpAx+vQ3rQ==;nvIhENq2AUpCV3Nhi4xqcw=="
+related:
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
+    publishedDateTime: 2019-12-08T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
+  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
+    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
+    publishedDateTime: 2019-12-13T20:42:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
+    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
+        width: 700
+        height: 393
+
+secured: "jNWmlnSy7QceASBuNoEFm1XM3spgZnLcD7iLVgd5Y3NveOCgV76cNxP0ssWpDuNsL6W10upfXoSbqCVzbZgBgEioHNJ4G1NluvVG2uJ0NI9RLN8IQgUJ3LkxW+sqKuv0aApPzn1eXY0TNyV5BzQcqJ0LHA8v8w/wObPRP99O5xTqair9/4sodW8X7kblSVlpTwCp3HoG7S3P6QkL8uUfalHUmrXnSOBtdjjiDqrGS9MMNO8rg5MnkKtwEHqKP+Ldm3Vqn5iRT3rPP6hz4jwJ2A==;E8gTqcEWq00gsInvAAYKYw=="
 ---
 

@@ -120,6 +120,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "/f3/KjR7rKWgZ0QINo/kIXyFUPcEmwFVIrQldVzSczMbV9xcOdpFsmf/alho61vSuXySB4Dvid2G2AnnUCQWDMJ1SJhixQUW4nnu202/dK7Jq3Wv0K5ML7X9P/M+G2HJ5/PXxXoU9lEb7ZsvOnznpF3lOu4NKuguwdoKyONZLbcxOsOS4F/B7wVmEvRDIjf3j8/Sp13ipbYM+Pqdo4rO6hM2hm3w8DxJ8wDxvCjrXUBwxPsK602Jaa9W0lb0Cw4zwXQ0XuGy6DsNVHnIzzQ+Ew==;2sqN0CDuH1JF4vJgnBSzqg=="
+secured: "B1g/TvqlggsERwHw1ohkCCEjrg9gh4teKJQRnic1T+saFkyAb69Npa3btyD4369oov7I9i1baGvBgSWdFaSXD6oELkOPs8id85+gy/JL07YWcQqLVir/rT1bYKvGy5EeonK959Shnw2F4W9xYorpv3v97U0NJXj7TXy1J/ILL6JlJiGuCEwrFfqrhj7GcYWnK+qB7kwrEuVEzXpzf01iJbcflWY4/tYbHBpLYpiBKzwxqDfI76bh5s87/g11sBZYs2GD5jGJSyXLwJwPz0vWLA==;eaaPFU+ZqX+hYEXL4iBT5A=="
 ---
 

@@ -39,21 +39,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:55:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50679791
-    ampUrl: https://www.bbc.com/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50679791
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
-        width: 1024
-        height: 576
   - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
     excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
     publishedDateTime: 2019-12-05T17:53:00Z
@@ -80,6 +65,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:47:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "DeepMind founder behind NHS data slurp to be beamed up to Google mothership"
     excerpt: "Mustafa Suleyman, one of the founders of DeepMind, is to join Google's applied AI division. In August, Suleyman took \"some personal time for a break to recharge\" but promised he would return to DeepMind. Instead he's off to work with Jeff Dean and Kent ..."
     publishedDateTime: 2019-12-06T11:15:00Z
@@ -120,6 +120,6 @@ related:
       domain: ft.com
     quality: 39
 
-secured: "tO4sRcT2FZTeOCFMTjkSy3WqLp9uqyEznqRCluiHtoE5s11zJmPAQq1AyaaScj+B11rYcPTzF5Ltf4CFvYNsyw/L5xnEKeTxlOzlmWxdLGWNWBv1iPradKeytm4cmbvJuM/+ZbcY+jG1gVBuKaOtU/L1ILAVRRPl0ljyHtaf3tIdOqKAjex6UwPUT+F1X/FedC+ZV7UjJbdVpvspvT8WR7knzcf2MaIDVP+bio+zxLaeKk/Wu7kWIpCkE7y+jH+CxF7CPJZQERDlO9fuvcdjJw==;hsdyQ8SLWMqOBdkoDPK64w=="
+secured: "HO8exHkiSMj8FFIFJDWhct0Cg1SOgj48X4eW7kEUOoUpJVgdSIns1euQX9b921w9W10mhFYrmjwy9780a3M3rrb5VpfPV4XP1TTboI3hxPy/kycd5OS7WtOUSxf0vGnYwHJ/75VuNDNMyfrMNk+OuDXaDOVkP69YJy3NV9EBgtOTEgYnqpkPYrjbexTAsqAgAOVy0qobLXDhNtTDktVbW2qEx4mjMPLQp5A0hQyZGIpbwt6gRTQV76VfjUqod8aPQ/0TYoDuxQbC756z3zRJXA==;Wu07iiaKOxZ/iUUR60dP6g=="
 ---
 
