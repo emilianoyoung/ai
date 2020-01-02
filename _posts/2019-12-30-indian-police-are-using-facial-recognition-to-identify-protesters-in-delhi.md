@@ -3,7 +3,7 @@ category: news
 title: "Indian police are using facial recognition to identify protesters in Delhi"
 excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
 publishedDateTime: 2019-12-30T21:20:00Z
-sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
 type: article
 quality: 37
 heat: -1
@@ -198,6 +198,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
         width: 700
         height: 420
+  - title: "Success of facial recognition tech depends on data"
+    excerpt: "How does the software work? The police’s AFRS is different from the facial recognition systems used on smartphones. The latter is based on the ISO 19794-5 standard meant for consumer biometrics; the police’s software is more “restrictive\", as per the National Crime Records Bureau (NCRB) document seeking proposals for the system."
+    publishedDateTime: 2020-01-02T17:50:00Z
+    sourceUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data-11577986675080.html
+    ampUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.57E336D173C64D0E8B8F509B0293A5EC
+        width: 600
+        height: 338
   - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
     excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
     publishedDateTime: 2019-12-26T11:29:00Z
@@ -399,6 +414,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "FC1kFNYiz7k/7HS21RoZfob96KMLtEG50PUoTgYJGbMOgINxmrzdkNHltCq0GNVMDiyn4yHPwDZJ0KirZdMMeqcUVTlij1yD/r/5n3QL2dQf/UaWME3DkMWVUk5QSBavnuXh0WlljqP8vCDo+IcbVaQWLzCCOw1tZL8u4Ct4w4l0paVHsFCIK5IktN1CoSL7nXs317iAQcBlvwjZjSTL0nVE7SkFC54eudwbbtVyHkC58KzwhBYeYdH1XrauAXpfYpXZiDG0RdFIomypesvarg==;nEvPdktiISYm0nrJdaE9MA=="
+secured: "MozIvyootRk5HxyxvUD9e3PY6OovayYLMKh1LNVaaUnnfcbPIw2Tb5oFfKNpeRDn6Lq0OC0wRHWPutUvIspomXpQW74uV+4UQIKVYWZUpLBJI7/759ElxvcOWw74QSj1Ezsjtex7y6f7OBiqBRE9R2gEpXS5pAoN1XsLDVJClSzI1zK9DTQT2LsJQB6MQk1wgpOsgRXsYDBIKWMK0ia1l4uA3HT8edIagupGMUQm9AIsx+XkRG3RyAnOPuGJgG4VN/B71s+XIymrTS6JSwNw6A==;RyFoDo+d/Y9W+7837it6kQ=="
 ---
 

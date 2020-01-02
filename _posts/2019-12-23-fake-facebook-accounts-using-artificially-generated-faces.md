@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Fake Facebook accounts using artificially-generated faces"
-excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more ..."
-publishedDateTime: 2019-12-23T12:21:00Z
-sourceUrl: https://www.thedenverchannel.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
+excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts ..."
+publishedDateTime: 2019-12-23T12:36:00Z
+sourceUrl: https://www.abcactionnews.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: ABC Action News
+  domain: abcactionnews.com
 
 topics:
   - AI
@@ -294,6 +294,6 @@ related:
         width: 594
         height: 397
 
-secured: "lQclZlgMvVUTJh8Y8cUOX8FKipR1b4iA9yqC0lCV8xE2LHLZoyLNKJeweD3j/yF6lmG3eYC3wDHjHStg1dIqmLZPXFoz59Pa6qB8A4k4TqPIzGPhybt2H2srAB3LU+K4T9ELDAnW0lzOu/Y+wSXhU1q0uD+LeLqeyLx/gKZI8yvgGeTk4GC89EAEEbaz0gRbaQKb+KdYL5kwu8dj14SGh1SpW+lWxRhCl3BrSp01Eyw8L/fZKgEjnth0oTzXptnCW8rzB2KFRyGSPsmrM4bFDQ==;U4wPeecX4w6rSCwyVgRjbw=="
+secured: "azFiL2k1QTr4EivFXnVLE2HTVDTBaKDfySkqxitGamT83cIL3U+p2M6ZDw4z3Nyn1CL/oaP7ryIwfULhYtwEAC+DAkEjl0nvaJnRfEnxqWW4oHK19tz0uLIjVTTdZdekkXhlGVpECeOcoh7Gj4ZYxzY3C9+eL/m8yhOg5R+0vucV8U+78DeUlXVPilwaltNmyC+Tvse4a8EUxXqRH34kChfpfT2BfbVz5EqeN79rLKjkpU1nI900HJ/mXoXjPjhDYU59nKxr+uWW7vZmBUUcgA==;7VIfJiktY4nb7Hb0DYbcPw=="
 ---
 

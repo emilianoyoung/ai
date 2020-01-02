@@ -102,19 +102,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 50
-  - title: "Partners HealthCare launches five-year $100M digital health initiative"
-    excerpt: "... latest of several big digital health investments as health systems and academic medical centers make big investments in the future of artificial intelligence and data analytics to transform healthcare. Mount Sinai Health System is teaming up with the Hasso Plattner Institute in Germany to launch a new $15 million digital health center ..."
-    publishedDateTime: 2019-12-13T17:05:00Z
-    sourceUrl: https://www.fiercehealthcare.com/tech/partners-healthcare-launches-100m-five-year-digital-health-initiative
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
-        width: 480
-        height: 320
   - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
     excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
     publishedDateTime: 2019-12-20T22:24:00Z

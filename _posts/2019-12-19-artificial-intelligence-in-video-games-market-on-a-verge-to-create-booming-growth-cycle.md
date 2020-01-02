@@ -43,19 +43,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Energy Market to see Booming Worldwide | IBM, Siemens & Grid4C"
-    excerpt: "Dec 13, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Artificial Intelligence in Energy Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-to-see-booming-worldwide-ibm-siemens-grid4c-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
     excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- Market.us Prominent Research Firm has added the latest report on “Artificial Intelligence Service Market Scope and Opportunities Analysis 2020 to 2029” to its Massive Report Online Store. The purpose of artificial intelligence service research document is to depict the exact information to the user ..."
     publishedDateTime: 2019-12-16T11:58:00Z

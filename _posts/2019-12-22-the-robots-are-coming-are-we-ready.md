@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9F0CD8C662F039E63370E60D6E5FB065
         width: 700
         height: 366
-  - title: "Are Robots Ready for Prime Time?"
-    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
-    publishedDateTime: 2019-12-13T17:00:00Z
-    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
-    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
-        width: 200
-        height: 200
   - title: "Using robots to inspect sewer pipes"
     excerpt: "Data retrieved from the robot will be used for a variety of assessments. For example, core samples taken from the pipes will be analyzed by a scanning electron microscope to relate material chemistry to pipe strength, in addition to using finite element modeling and employing artificial intelligence. In 2015, Abolmaali--a renowned pipe expert ..."
     publishedDateTime: 2019-12-18T19:13:00Z

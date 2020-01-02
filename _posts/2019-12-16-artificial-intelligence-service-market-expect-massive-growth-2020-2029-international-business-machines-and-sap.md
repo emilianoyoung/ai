@@ -53,19 +53,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Energy Market to see Booming Worldwide | IBM, Siemens & Grid4C"
-    excerpt: "Dec 13, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Artificial Intelligence in Energy Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-to-see-booming-worldwide-ibm-siemens-grid4c-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
     publishedDateTime: 2019-12-19T20:50:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T17:48:00Z
 sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -48,20 +48,7 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 39
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
 
-secured: "kUxg7kf/1HMk4sMbYtYpuAXY7TjFdrtH5j1emA979YRLsmHb1ciGUUPirMwHw83hd8hGv1JpgL0Zlp2PiXaW69ryn+huIlWxt5CK83j49s1kANKt7/zQOHoBJyct7zkRD84PGjYD8MgJ7n7G1MhaUcCFFvmNhDGJu6T8HtLdHKcQFdR5YFh4su2wPFLswTMLG6QYj5OMYbhiTab36xsIQ2Wsy7NX9yynTXR+aJjzB1KmnDZNcP5mHvfPfpCGleYLTH9VFPGyEUesld4HQ7DGOQ==;WE3wVrxH8v6QnNwixqR3sg=="
+secured: "7WjBK8MWKyioVe9dl6pC1k+fntplERHb89k9DQ8tVm3TrbWlJjmJVQKxbxaU7hfg3TT7ieXwI8+hcDMx51E7mUWGRuDGke1iVD6G0YVmuV22ExoXcdCyL7yqAjhJqjcCAPLyTPySaZ+4/mapH82tIWyo3O/hO6VatzRL+GILS8fZLk8mMymPpDRFgsykHHZbuFbAzsp88NzZgyToKRJqA1kfhaRP5I6G66309EkV3Ibt1us74PfAeOKaqMNdmub1hzrfWfXzKZMq9STW+6crvA==;/hI5IH9Eg2c30QeWoUSDHA=="
 ---
 

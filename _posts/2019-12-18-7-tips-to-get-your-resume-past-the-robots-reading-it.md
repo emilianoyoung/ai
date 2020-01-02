@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-art
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/18/how-to-write-the-best-resume-for-artificial-intelligence-and-robots.html
 type: article
 quality: 189
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9F0CD8C662F039E63370E60D6E5FB065
         width: 700
         height: 366
-  - title: "Are Robots Ready for Prime Time?"
-    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
-    publishedDateTime: 2019-12-13T17:00:00Z
-    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
-    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
-        width: 200
-        height: 200
   - title: "The robots are coming, are we ready?"
     excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
     publishedDateTime: 2019-12-22T09:06:00Z

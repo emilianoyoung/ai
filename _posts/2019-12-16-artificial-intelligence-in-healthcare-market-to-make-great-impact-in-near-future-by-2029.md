@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T08:24:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Energy Market to see Booming Worldwide | IBM, Siemens & Grid4C"
-    excerpt: "Dec 13, 2019 (HTF Market Intelligence via COMTEX) -- The Exploration study offers deep assessment of the Global Artificial Intelligence in Energy Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend, Current Growth Factors ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-to-see-booming-worldwide-ibm-siemens-grid4c-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

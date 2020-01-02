@@ -219,15 +219,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Educational Robot Market Growth | Industry Analysis Report, 2019-2025"
-    excerpt: "Increasing expenditure in educational R&D activities and the popularity of these systems as a learning tool will drive the educational robot market growth. These activities will support the development of innovative and affordable products, which will suffice the growing demand. The implementation of artificial intelligence technologies in new ..."
-    publishedDateTime: 2019-12-13T16:28:00Z
-    sourceUrl: https://www.openpr.com/news/1879224/educational-robot-market-growth-industry-analysis-report
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
     excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
     publishedDateTime: 2019-12-18T12:39:00Z

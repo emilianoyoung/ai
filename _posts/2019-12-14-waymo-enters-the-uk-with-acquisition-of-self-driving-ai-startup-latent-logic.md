@@ -48,19 +48,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 39
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
 
 secured: "96ppx1JaeyfPs9fMqMqIJig355iGOMWMWZthfJW920uS/+uNUQI7STQyCFocV6sl1zWx3dP0RL3QN21ejQpTaPHmi8DLBBDROnWavRZYE9qdQAZccsw2RM2xFq0pMelkzvrrzBamYrwmenPELkpTviuURSVfxSvOqVUhybybeaFVchNWLaQONgMc/h8puB3kCWaz0kqVxdPh5//xl+pZvAy7tZtaUyStjIKjAJs//gXEM+I6bACc9qxnq0UHAZI6aBbeRqtd1gQIov/e1gBGpw==;StgA2QhrQJbBWtsBFihlZQ=="
 ---

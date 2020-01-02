@@ -46,20 +46,7 @@ related:
       - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
         width: 700
         height: 388
-  - title: "Alphabet's Latent Logic Buyout Bolsters Waymo Initiatives"
-    excerpt: "Alphabet’s GOOGL self-driving project Waymo has acquired Latent Logic ... Given this upbeat scenario, Tesla TSLA, General Motors GM, Apple, Amazon and Baidu BIDU is also leaving no stone unturned to bolster presence in this promising market. Nevertheless, Alphabet enjoys the first mover advantage that is anticipated to provide it a ..."
-    publishedDateTime: 2019-12-13T17:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/alphabets-latent-logic-buyout-bolsters-142202676.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.98007C977ADB2DA1FAE0D83C3E2CB38E
-        width: 635
-        height: 400
 
-secured: "5BuguPomY/Pd12lZmyL2I1EkMIZ6Qej1rMQRk7rxAHlM70GI+RRcNIhrlXX88A12WFRDdWO1wm52pMmKDGjtCRJS1Z40ig0ZDyYDPAIfUrjW3+pUCmBh1I1sS+kRPsU2TqrzcMsYAgpnBHn+6IiyE7LWbLu6f1JfDYRskrgVJ6DIE1JQaTrcD4AWkKqC/NfRs/HtDeU53dlU40L5EVX87G/fu6IewLO9xTQQCglHU9ObHP6DtapsKvbGVQ8E5MKO5YqqOJIRAlokUPNl46viRA==;ekGvDM1z8w0yKEo/xwtdRA=="
+secured: "19AnkgQ2r+gXNtf87eJMev6GN8deYOSHpwJoMaIF1FcEKx0Xsg9p47VKzTCrgyD7JsTfz0wppocBe8Lys/dpkNPFUkNQevxS3T8LzL7ALLm8QX2PlzImO0L0uj4huas21eddgI2pmCgbglIW3KF1EfeSxYELlELyqFpsJJ2MXwHB1r+ei1zwTgrycmN/0mLscIQ/tI/eKY0S7s4UC5vlBlapos6bh8lbxWNqSvqv0aLxv9n54XASdxteJV5gDaDLwjK2FsI30//ZB7wD6OlwPA==;UwMXNsxJCooAHiN5/8/iEQ=="
 ---
 

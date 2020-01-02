@@ -44,21 +44,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106301158-1576611037425gettyimages-1139051812.jpg?v=1576611115
         width: 2000
         height: 1330
-  - title: "Are Robots Ready for Prime Time?"
-    excerpt: "warehousing and transportation/delivery — incremental learning can help to program robots to be more human-like through analysis of terabytes of human decision-making scenarios. Yes, we are talking artificial intelligence (AI) and machine learning here. Introducing robots that require human interaction to consumers today is counterproductive."
-    publishedDateTime: 2019-12-13T17:00:00Z
-    sourceUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/
-    ampUrl: https://www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/are-robots-ready-for-prime-time/amp/
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1010A4A211314A0338945FC4DEF70E19
-        width: 200
-        height: 200
   - title: "The robots are coming, are we ready?"
     excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
     publishedDateTime: 2019-12-22T09:06:00Z

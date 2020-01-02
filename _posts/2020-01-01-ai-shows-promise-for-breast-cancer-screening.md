@@ -23,6 +23,21 @@ images:
     title: "AI shows promise for breast cancer screening"
 
 related:
+  - title: "Study claims Google AI is more successful at breast cancer screenings than experts"
+    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
+    publishedDateTime: 2020-01-02T17:11:00Z
+    sourceUrl: https://mashable.com/video/google-ai-breast-cancer-screenings/
+    ampUrl: https://mashable.com/video/google-ai-breast-cancer-screenings.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/google-ai-breast-cancer-screenings.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.09B844C8EBF9672CDB5A73AD7FA2C5EC
+        width: 700
+        height: 367
   - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
     excerpt: "The AI was trained on two datasets of mammogram scans from the US and the UK, then pitted against six radiologists."
     publishedDateTime: 2020-01-02T10:45:00Z
