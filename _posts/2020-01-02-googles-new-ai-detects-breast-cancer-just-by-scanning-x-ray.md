@@ -1,28 +1,31 @@
 ---
 category: news
-title: "Google’s new AI detects breast cancer more accurately than doctors"
-excerpt: "The project is the fruit of a transatlantic research collaboration. Google Health worked together with Cancer Research UK Imperial Centre, Northwestern University, Royal Surrey County Hospital and DeepMind, Google parent Alphabet Inc.’s AI development unit. The search giant taught the machine learning model to identify cancerous tissue by ..."
-publishedDateTime: 2020-01-01T21:27:00Z
-sourceUrl: https://siliconangle.com/2020/01/01/googles-new-ai-detects-breast-cancer-accurately-doctors/
+title: "Google’s new AI detects breast cancer just by scanning X-ray"
+excerpt: "Google‘s AI team has just developed a new system to scan X-rays to help radiologists in detecting breast cancer. The model was developed in partnership with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. The team used anonymized data from mammograms – low energy X-ray to detect ..."
+publishedDateTime: 2020-01-02T06:40:00Z
+sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/googles-new-ai-detects-breast-cancer-just-by-scanning-x-ray/
 type: article
-quality: 41
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: The Next Web
+  domain: thenextweb.com
+  images:
+    - url: /assets/images/organizations/thenextweb.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Google AI
-  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.686C5EE02AFF74C52AAB3A21F0281548
-    width: 700
-    height: 466
-    title: "Google’s new AI detects breast cancer more accurately than doctors"
+  - url: https://www.bing.com/th?id=ON.06A6D5AC1EE3487551FAF1F726FCE58C
+    width: 600
+    height: 300
+    title: "Google’s new AI detects breast cancer just by scanning X-ray"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -100,19 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE3A7C13CE9FC7B93BCE7CC986AD440
         width: 700
         height: 466
-  - title: "Google’s new AI detects breast cancer just by scanning X-ray"
-    excerpt: "Google‘s AI team has just developed a new system to scan X-rays to help radiologists in detecting breast cancer. The model was developed in partnership with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. The team used anonymized data from mammograms – low energy X-ray to detect ..."
-    publishedDateTime: 2020-01-02T06:40:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/googles-new-ai-detects-breast-cancer-just-by-scanning-x-ray/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.06A6D5AC1EE3487551FAF1F726FCE58C
-        width: 600
-        height: 300
   - title: "AI could monitor breast cancer"
     excerpt: "This approach would significantly reduce the workload of pathologists and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this interesting result shows the potential of Artificial Intelligence applied in cancer imaging for the detection of breast cancer tissues in ..."
     publishedDateTime: 2020-01-01T00:47:00Z
@@ -201,6 +191,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D3A2DCD6DE08CC3B8F57B44FF391B6A4
         width: 620
         height: 413
+  - title: "Google’s new AI detects breast cancer more accurately than doctors"
+    excerpt: "The project is the fruit of a transatlantic research collaboration. Google Health worked together with Cancer Research UK Imperial Centre, Northwestern University, Royal Surrey County Hospital and DeepMind, Google parent Alphabet Inc.’s AI development unit. The search giant taught the machine learning model to identify cancerous tissue by ..."
+    publishedDateTime: 2020-01-01T21:27:00Z
+    sourceUrl: https://siliconangle.com/2020/01/01/googles-new-ai-detects-breast-cancer-accurately-doctors/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.686C5EE02AFF74C52AAB3A21F0281548
+        width: 700
+        height: 466
   - title: "AI system can detect breast cancer better than clinical experts – study"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
     publishedDateTime: 2020-01-01T20:45:00Z
@@ -360,6 +363,6 @@ related:
         width: 500
         height: 500
 
-secured: "pTUXhG5v62BMRd5O34pxLjzY1fB+Cr5vlmxcV3l2aWVwbU9NRcv5fVwXjWky/DzpmcY1yv0HTu1ajJsxl4uohKpVyQBFTk3DHWEdo+V/M+gtaEAG+F3luMgarwVxgk1QQNH/YCKsJchnYWXbg3+rbT8kg+0gsjx+kFMf08PsbwdVDfmuLp74+iKJWB23cSJRrDle1mG2nEfGf/ayUa0Ts7twpji14bg3yYzEZyKKEEDi4gHUwCI2hsezaefgLRui1XI/99iKrXRC+viGlOTIPw==;rUDIBw19eXOf59zmnMia7A=="
+secured: "8me25DTMpaLo0HSBGpbZuCN7jZmKNG6qJ/2a3TA9qrCE5dpiWvf0fAf9PD+Zxws+hlmZxopoBvSm9M5+3m4Oqipgn+ZsnD/5pWnyIQclX4pVUt1jYXN91bIXLzVpJK5vAN7hJ6YipyB8Fzk4a2Ru4F7oYIL5J7RJslTGFsQFlv7PahDZccwjP0PaKPI40PmKwSoNg9UB2dr0bcJD8XxOishIelA2NDASqcI9d0hXxkZZeqmsTOCG4pC8UkW39Cmr4k0cdHMaZp/mLyvVyne8OQ==;rJ08Z5/W2PdNuJvGbBlBxg=="
 ---
 

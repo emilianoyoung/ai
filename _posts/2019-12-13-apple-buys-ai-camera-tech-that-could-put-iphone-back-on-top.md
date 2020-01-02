@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/apple-spectral-edge-acquisition-machine-learni
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-spectral-edge-acquisition-machine-learning-iphone-camera-processing-13603198/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5A744A4D8A5FDD796D2DBB749E81E1C5
         width: 700
         height: 393
-  - title: "Apple buys AI photo company"
-    excerpt: "Spectral Edge’s technology could contribute to the AI Apple already uses in its Camera app by continuing to improve the quality of photos in low-light environments. The startup has said its technology can be applied via software or chips. Apple’s latest devices include custom processors that assist with picture taking. Apple’s purchase of ..."
-    publishedDateTime: 2019-12-13T05:44:00Z
-    sourceUrl: https://mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html
-    ampUrl: https://mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html/amp
-    cdnAmpUrl: https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html/amp
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D1905BE1F8A1557D780BCA41E0CBB923
-        width: 640
-        height: 430
 
 secured: "WNcM21bEjjcV6zB5IkvSlCD0IXEf2nhOl23pRyE3uIUiGDHgFgnoETcJ8w+TbYT3Q0hdVL+DGrRPqS6IL0thYtAVsDhlVuju3h1eFjsS+6wUXqxeUiGlX0MaXQdvbCLf+pbAEX1zgp5gTZTVGtcJp3fajhHnN4vYMXtB5ANVE3KGSjDg8V0M4e/gNpHmh7Oj5r8ynZ1ydnnGgxM0pp70+stZLfVJMV/5Rr94tL9VsXPp+Ppf86/Q8322mA4B1ySuYcf4zvs8kzyu5EkfVV4KEQ==;8tPNZyHvrlQIOlhIuhdvig=="
 ---

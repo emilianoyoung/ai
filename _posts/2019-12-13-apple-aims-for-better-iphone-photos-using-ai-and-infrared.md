@@ -59,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.16FA68169149F0BC93F9DE9073118C59
         width: 700
         height: 491
-  - title: "Apple buys AI photo company"
-    excerpt: "Spectral Edge’s technology could contribute to the AI Apple already uses in its Camera app by continuing to improve the quality of photos in low-light environments. The startup has said its technology can be applied via software or chips. Apple’s latest devices include custom processors that assist with picture taking. Apple’s purchase of ..."
-    publishedDateTime: 2019-12-13T05:44:00Z
-    sourceUrl: https://mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html
-    ampUrl: https://mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html/amp
-    cdnAmpUrl: https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/business/332772-apple-buys-ai-photo-company.html/amp
-    type: article
-    provider:
-      name: MyBroadband
-      domain: mybroadband.co.za
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D1905BE1F8A1557D780BCA41E0CBB923
-        width: 640
-        height: 430
 
 secured: "CdIZ1pxf7dCqYPjB+TQYdQSdzq3CqK/5gLOIv89LXSvUsP78Q9SbcPiZVlbubgp2128M94VAjlYziB7+E9RXo8WshVCbPcUCEBQR/6thfpEMePKYBU3otz80GpKg2asSUftN1T0h9m5oDbfkcHnxohpPMByZeDEUItBhGmTtI+izPRIe1XsCLX+aCdIGDhwedmVQtZwaLeakUb65dw0siJV6xJeMmVIIVJnaTsQKcdBi1+Dlx5ClNifZv8qOM3kkAH7od3A2mqbTkJaSxdBFPg==;Xll1WGqufS3ZNzFyHDVYXQ=="
 ---

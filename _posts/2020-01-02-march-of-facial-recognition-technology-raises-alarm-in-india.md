@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-publishedDateTime: 2019-12-28T07:00:00Z
-sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+title: "March of facial-recognition technology raises alarm in India"
+excerpt: "India is planning to create the world's largest facial-recognition database, with the technology already being widely used by police, airports and even cafes. Critics fear this violates human rights and will turn the country into a Chinese-style surveillance state. In Delhi’s central business district of Connaught Place, the Chaayos tea cafe ..."
+publishedDateTime: 2020-01-02T06:07:00Z
+sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/02/march-of-facial-recognition-technology-raises-alarm-in-india
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Telegraph
-  domain: telegraph.co.uk
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
+  - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
     width: 700
-    height: 437
-    title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    height: 466
+    title: "March of facial-recognition technology raises alarm in India"
 
 related:
   - title: "Police Use Face-Recognition Software as India Protests Intensify"
@@ -41,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
         width: 700
         height: 466
+  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
+    publishedDateTime: 2019-12-28T07:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
+    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
+        width: 700
+        height: 437
   - title: "Facial recognition software biased against Asians and black people, major US government study finds"
     excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
     publishedDateTime: 2020-01-01T22:28:00Z
@@ -86,19 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
-  - title: "March of facial-recognition technology raises alarm in India"
-    excerpt: "India is planning to create the world's largest facial-recognition database, with the technology already being widely used by police, airports and even cafes. Critics fear this violates human rights and will turn the country into a Chinese-style surveillance state. In Delhi’s central business district of Connaught Place, the Chaayos tea cafe ..."
-    publishedDateTime: 2020-01-02T06:07:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/02/march-of-facial-recognition-technology-raises-alarm-in-india
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
-        width: 700
-        height: 466
   - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
     excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
     publishedDateTime: 2019-12-29T00:05:00Z
@@ -143,6 +143,6 @@ related:
         width: 700
         height: 389
 
-secured: "GhY0m2aCLqkfqK4f6yfD67Qtr29xvjXDo1MufehwORukgPCtqIbKmkPlFCQxUZewZdSYsrRfGbvGKFIEThLJV7GD9zguL2AV4HI9kbL30rT27Q8R+KomFH6oEakF5uZt/5pjjO/eZod9pFixo12PH02TGIwBrvEQ47zhJoQuxm+XY21DkAaRnCX+bo6J75JSL9ms8NLKPTpAXgJYRf0YNL2TOdyTEPOIuYr4s1cb3kH+STjX59/b+QH0+HXlKeoVSxBqSZSfwuSY7nVWp0STYg==;nD6OWy5S0W6Wc31jex35ZA=="
+secured: "GRGww8lT59jXfsu5tj+2vAgt4FTXAT55JsHkum2gpC80O3ccj5J9hgJCbot4wxUj5T7PuLNUTooFF3uEd34Ga/yPayXonrQXm7xohj2kxoiFXFVKMvwaNYzj3GvonQ+7f+uxOWgMxebCEGZZ7J0bsH5Gk5g8+W7PJR3fAh08mqVSobSpDgG9WkdoawQ2/Ayh9LttxxKz7zPL4OKjYOYf5mO4eP5lsaQv5kokeWZP+JBP7rl4oT9znxmyVdDZ3GU5JylxhFk4Gkr7dXx5T78GwQ==;S+mpufjYROYi4uge8db2vQ=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Klipsch’s next true wireless earbuds will include AI and gesture controls"
-excerpt: "Now, the company is expanding its lineup with three more true wireless models. The Klipsch T10 True Wireless and T5 True Wireless ANC smart earphones both include AI, gesture controls and active noise cancellation. Though, the details about the AI are limited. All we know is that these have \"a built-in operating system with embedded artificial ..."
-publishedDateTime: 2020-01-02T05:00:00Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/klipsch-e2-80-99s-next-true-wireless-earbuds-will-include-ai-and-gesture-controls/ar-BBYxcCu
+excerpt: "For the second year in a row, Klipsch is introducing new true wireless earbuds at CES. Last year, it offered the first glimpse of its T5 True Wireless earbuds. Now, the company is expanding its lineup with three more true wireless models."
+publishedDateTime: 2020-01-02T06:30:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/klipsch-e2-80-99s-next-true-wireless-earbuds-will-include-ai-and-gesture-controls/ar-BBYxeTz
 type: article
 quality: 36
 heat: 36
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.7815F25D84AE490D63503BBE492D0BDD
+  - url: https://www.bing.com/th?id=ON.74676E47A4CDEB2C9DC416AB9F877495
     width: 700
     height: 367
     title: "Klipsch’s next true wireless earbuds will include AI and gesture controls"
 
-secured: "i1Fqnamul8I226IXc/raz286cWbdq1hbQJbTW5ugQLVsKHr7gd6oy7hqekKU2minocPnwz9ahtBEpcYdToJ/fH669rRqdrLw8PolXBs9mH+Slaytp25FDJmFdpRU0TLiiXz9gzPdiwhoNPMS88zAzGPx4Fr54qAh9tayX9k0yvyXelCxVaFIjgxP3jR4rKrysXFkR2KYq3XP8oZQ4AEQ9CE6AWEXoAo8dewXe+n/XEfg6ONjftsoFVB3jjb5sp+SdhSQHDxl6MDPFu7ZncF6dw==;gggGzTb63zSZcSg9bff1Aw=="
+secured: "gr4+r6GeoggS3wAroA4RvIFEaowXRHeET/dmnMAAwCDReLKtQQ9oCDGJqFSn6xFPITrka3200NkgboDKmhIWiDt5qcxfHb3788nFzNTgDWsqyJ/QNI/E7SCq4HtuigzElnq2u6amsFKpeNf0H1pK42bj/cHEZHDGbgRNgcKvOKTU+Zz+aSlTgNXdsnmzamFpZdEeMbp2viuy82w4L/0r32kjbroMTQuJ0V2HIQDyBsz6NRLnYNzvmcgk3dHdBq2IA8tmTjSBQ3SRFW/0FzSXgw==;J2Mm4MSZlujM62UdsNZ8TA=="
 ---
 

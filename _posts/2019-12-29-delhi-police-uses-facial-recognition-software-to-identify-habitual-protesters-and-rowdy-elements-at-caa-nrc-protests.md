@@ -101,6 +101,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
+  - title: "March of facial-recognition technology raises alarm in India"
+    excerpt: "India is planning to create the world's largest facial-recognition database, with the technology already being widely used by police, airports and even cafes. Critics fear this violates human rights and will turn the country into a Chinese-style surveillance state. In Delhi’s central business district of Connaught Place, the Chaayos tea cafe ..."
+    publishedDateTime: 2020-01-02T06:07:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/02/march-of-facial-recognition-technology-raises-alarm-in-india
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
+        width: 700
+        height: 466
   - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
     publishedDateTime: 2019-12-28T11:42:00Z

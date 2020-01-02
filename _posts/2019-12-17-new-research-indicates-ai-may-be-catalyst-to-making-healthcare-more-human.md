@@ -102,19 +102,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D903242659D42EF9976F0992B412785A
         width: 480
         height: 320
-  - title: "Partners HealthCare unveils 5-year digital health initiative"
-    excerpt: "Customized patient communication options, including text, email, call or direct mail. Last month, Partners HealthCare announced the creation of an Artificial Intelligence and Digital Translation Fund with an initial investment of $30 million over the next five years. The fund will be used to support ventures that develop new technologies based ..."
-    publishedDateTime: 2019-12-13T05:52:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/partners-healthcare-unveils-five-year-digital-health-initiative
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.C1FA5AEDE3CEDE360E20A92C9B5DFAAE
-        width: 700
-        height: 367
   - title: "How can healthcare achieve real technology driven transformation?"
     excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
     publishedDateTime: 2019-12-19T20:50:00Z

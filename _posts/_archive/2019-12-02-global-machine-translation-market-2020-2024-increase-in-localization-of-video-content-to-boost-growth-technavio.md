@@ -26,6 +26,19 @@ images:
     title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+    publishedDateTime: 2019-12-02T13:19:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+        width: 800
+        height: 419
   - title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
     excerpt: "Machine translation engines are a good tool, but they are unable to break down language barriers. In the development of machine translation, the next step is to improve the translation of audiovisual material. Many of us are familiar with Google Translate ..."
     publishedDateTime: 2019-12-02T08:52:00Z
@@ -40,6 +53,6 @@ related:
         width: 1200
         height: 630
 
-secured: "kARtB1dua/ZWnj4NPM6OCBagCs3MjtNUXQTwMOEgH4MO16LspKKukhNFWJZxyHJVU9Nz99JHpR55Kt56O3lPE84WiDkjvXueZt2i+wviRfzmSjvImUllSnfaYD1Zf3bnqsIDRQay4Q9wL2L+hC+iAgFpR8+jiRyEv9uII8JUgxc54KL0ynLdmnS6komwYGddvmXCG4HHFxNpfoap16zN1zSX1sYlNIwWMpX4ekYdXk9VkGnptPygJrnkoeMNCp+KqlF0ffyuMIAqFgL68o9HtA==;n7qMkBzQc6Ytymeq4JlH/Q=="
+secured: "CZanp54hCNK4MbWrKK/icqu8NMrzW/iSE257PZ3LVZWqBfrAEp5KH9meWLUBWA+H5ZjdQw4EKvOOx3vgfBn0d02ga0fvs5w3IJWk91ShXH6qNb8WjGCrFvjSuU1X+PUV6yBvTV2hcJvv0NRArAYx/9KpS67Iwpg0jeJHOZGEYXqgSPvOXjCC7vBAWwVy9hT8shjSF065DPMrGjEPCgrv3AJI96I2AsZyzr87eavT69jiYfMcCZXSUlQlkuv7uEVDvG7ccYeS8Bd2KA8XrTes6w==;HBL1DpVvL9Fq9TSJfnfi0g=="
 ---
 

@@ -53,19 +53,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) in Agriculture Market : Future Challenges, Production, Demand Analysis And Outlook To 2029"
-    excerpt: "Dec 13, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence (AI) in Agriculture Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence (AI) in Agriculture marketers and ..."
-    publishedDateTime: 2019-12-13T05:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-future-challenges-production-demand-analysis-and-outlook-to-2029-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
     excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- Market.us Prominent Research Firm has added the latest report on “Artificial Intelligence Service Market Scope and Opportunities Analysis 2020 to 2029” to its Massive Report Online Store. The purpose of artificial intelligence service research document is to depict the exact information to the user ..."
     publishedDateTime: 2019-12-16T11:58:00Z

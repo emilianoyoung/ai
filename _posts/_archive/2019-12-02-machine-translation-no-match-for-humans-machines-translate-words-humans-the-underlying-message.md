@@ -39,7 +39,20 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
         width: 480
         height: 270
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market 2019-2024 - Agricultural Drones Set to Drive the Market"
+    excerpt: "The artificial intelligence (AI) market in agriculture is expected to register a CAGR of over 21.52%, during the forecast period of 2019-2024. Driverless tractor is trending in market as these tractor can steer automatically using GPS-based technology ..."
+    publishedDateTime: 2019-12-02T13:19:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-in-agriculture-market-2019-2024---agricultural-drones-set-to-drive-the-market-300966796.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 33
+    images:
+      - url: http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook
+        width: 800
+        height: 419
 
-secured: "vst2bSymrQDmF5NiY0HQy4q9zGtBYQeplY8ALX2fGyCrcZaWDSmrKSNy9NBlOuAdosVNGZiNaw/+snoIubMbZRluUsmvydmC7svc0wHKBZYLy0GrGRZlZejLX317pSyceKYjGBu+c2YolhmYkHws4gex1/d8+JXt7DgwzU6JTpcMko18ulXZKrrctE2p4++Fn0+Y33B8tJrDMO/tHnzQf9WFlMm8NdBAeeIkePTkVoSxrrpPvmmCjNqE5DYrLA4nzVMkVigjOkW/NDpKPa43tg==;gCKx7CxsGRm22zSBN9yPbw=="
+secured: "tQbm8ZZjZj1kmtFDhmsQRUltjBTLNWnf5RHl/Fn5F33/ZRLhCf+CvIyoe20xIsyhYRHhwuX+9OPl5JfVqjyVk5MvMm9YQry0aPNkyaxbnQ8ABnJCavgl0AiUseZ41Grw6iJrvdzU39uVXzKLqDIP5ck40KyLIE3UEXhkVQMCHOVDPtUom7g8xUlFuRyluWJlD4VIGEDdk2YiwSAUXPWbZ+CkwUAK+eXlEuQu1d+POcdKDOmyY46hGZ+p3dW6TmmJ10xnZ5HJUX2mvr6jClKf5g==;ayY0+u6nOBLq/Y6MAGlfEg=="
 ---
 
