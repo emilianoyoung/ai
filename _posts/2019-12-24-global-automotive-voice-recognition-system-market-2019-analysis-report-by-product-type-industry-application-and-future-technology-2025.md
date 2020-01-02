@@ -28,229 +28,62 @@ images:
     title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
 
 related:
-  - title: "AI Weekly: Facial recognition, deepfakes, privacy, and jobs automation defined 2019"
-    excerpt: "As the year draws to a close, it’s instructive to look back at the months preceding to see what the future has in store. History is cyclical in nature, and this is true of the field of AI. Consider that backpropagation, an algorithm widely used in the training of machine learning systems, appeared as a theory as early as 1980, but it wasn’t ..."
-    publishedDateTime: 2019-12-27T21:45:00Z
-    sourceUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/
-    ampUrl: https://venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/ai-weekly-facial-recognition-deepfakes-privacy-and-jobs-automation-defined-2019/amp/
+  - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
+    publishedDateTime: 2019-12-30T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: https://www.bing.com/th?id=ON.63BFCE03F38CBB1A4697C403F137D867
-        width: 700
-        height: 350
-  - title: "The best facial recognition cameras of 2020"
-    excerpt: "Many home security cameras nowadays have facial recognition, which lets you create a database of friends and family members who regularly visit your house. Then, when the camera sees a face, it determines whether or not it's someone in your database of known faces. The software can be hit-or-miss, based on a variety of factors, from ..."
-    publishedDateTime: 2019-12-30T21:43:00Z
-    sourceUrl: https://www.cnet.com/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    ampUrl: https://www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/favorite-facial-recognition-home-security-cameras-for-2020-google-nest-hello/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.2CAE30B96CA2C942E26B5836F25B6537
-        width: 700
-        height: 393
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law."
-    publishedDateTime: 2019-12-30T11:45:00Z
-    sourceUrl: https://www.reuters.com/article/us-india-protests-facialrecognition-trfn-idUSKBN1YY0PA
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YY0PA
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-    publishedDateTime: 2019-12-23T05:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+  - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
+    publishedDateTime: 2019-12-30T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
-        width: 700
-        height: 466
-  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
-    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
-    publishedDateTime: 2019-12-26T11:34:00Z
-    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
-        width: 670
-        height: 440
-  - title: "Fight against facial recognition hits wall across the West"
-    excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
-    publishedDateTime: 2019-12-30T10:09:00Z
-    sourceUrl: https://www.politico.com/news/2019/12/30/facial-recognition-privacy-089881
-    ampUrl: https://www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2019/12/30/facial-recognition-privacy-089881
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.A9226850B25122A6968ED7DE19E648C9
-        width: 700
-        height: 466
-  - title: "Use of facial recognition in Delhi rally sparks privacy fears"
-    excerpt: "MUMBAI, Dec 30 (Thomson Reuters Foundation) - Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi ..."
-    publishedDateTime: 2019-12-31T01:02:00Z
-    sourceUrl: https://in.reuters.com/article/india-protests-facialrecognition-idINL8N29301S
-    ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N29301S
-    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N29301S
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-  - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-27T18:59:00Z
-    sourceUrl: https://cn.reuters.com/article/usa-crime-face-idCNL4N28U2B2
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Facial recognition technology needs proper regulation"
-    excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
-    publishedDateTime: 2019-12-28T15:15:00Z
-    sourceUrl: https://www.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    ampUrl: https://amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3043793/facial-recognition-technology-needs-proper-regulation
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.1283010EF379FC036D38C955BC61F145
-        width: 700
-        height: 367
-  - title: "Police using facial recognition system to identify protesters"
-    excerpt: "With the help of Automated Facial Recognition System (AFRS), the Delhi police are comparing the details of people involved in violence during the protests against the citizenship law in the national capital with a data bank of more than two lakh ‘antisocial elements’, said the police on Monday. A senior police officer said that they are ..."
-    publishedDateTime: 2019-12-30T20:06:00Z
-    sourceUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece
-    ampUrl: https://www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Delhi/police-using-facial-recognition-system-to-identify-protesters/article30437756.ece/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
+    excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
+    publishedDateTime: 2019-12-27T03:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-developments-and-precise-outlook-2019-2026-2019-12-26
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: https://www.bing.com/th?id=ON.410C04674B26F08F08E99A9ADDC5B0E2
-        width: 615
-        height: 384
-  - title: "Privacy fears as India police use facial recognition at rally"
-    excerpt: "Police in Indian capital of New Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to ..."
-    publishedDateTime: 2019-12-30T12:29:00Z
-    sourceUrl: https://www.aljazeera.com/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-    ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.4AF2CFBCCA9C5B2936952FB811ED40C6
-        width: 700
-        height: 393
-  - title: "Use of facial recognition in New Delhi rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
-    publishedDateTime: 2019-12-30T13:50:00Z
-    sourceUrl: https://www.dawn.com/news/1525267
-    ampUrl: https://www.dawn.com/news/amp/1525267
-    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1525267
-    type: article
-    provider:
-      name: Dawn
-      domain: dawn.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
-        width: 700
-        height: 420
-  - title: "Success of facial recognition tech depends on data"
-    excerpt: "How does the software work? The police’s AFRS is different from the facial recognition systems used on smartphones. The latter is based on the ISO 19794-5 standard meant for consumer biometrics; the police’s software is more “restrictive\", as per the National Crime Records Bureau (NCRB) document seeking proposals for the system."
-    publishedDateTime: 2020-01-02T17:50:00Z
-    sourceUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data-11577986675080.html
-    ampUrl: https://www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/success-of-facial-recognition-tech-depends-on-data/amp-11577986675080.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.57E336D173C64D0E8B8F509B0293A5EC
-        width: 600
-        height: 338
-  - title: "AI in demand but 2,500 jobs remained vacant in 2019, says report"
-    excerpt: "Bengaluru: The rising demand for artificial intelligence (AI), the technology that mimics the human brain, is a no brainer. However, although the number of AI professionals in India has doubled, 2,500 related positions remain vacant indicating that the number of jobs getting created in AI has outpaced the talent available in the sector ..."
-    publishedDateTime: 2019-12-26T11:29:00Z
-    sourceUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report-11577358818915.html
-    ampUrl: https://www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/ai-in-demand-but-2-500-jobs-remained-vacant-in-2019-says-report/amp-11577358818915.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.0A1185139DC73ED308A5B7967CF47B90
-        width: 600
-        height: 338
-  - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
-    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
-    publishedDateTime: 2019-12-27T18:45:00Z
-    sourceUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html
-    ampUrl: https://www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    cdnAmpUrl: https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/news/lake/os-ne-facial-recognition-arrest-grand-theft-20191227-2tikgadxovbibagkrfy75tpq4a-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
-        width: 700
-        height: 455
-  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
-    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
-    publishedDateTime: 2020-01-01T12:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
+    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
+    publishedDateTime: 2019-12-31T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
     type: article
     provider:
       name: MarketWatch
@@ -260,10 +93,10 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
+  - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
+    excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
+    publishedDateTime: 2019-12-26T12:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-education-market-2024-outlook-analysis-major-company-profile-analysis-google-ibm-pearson-microsoft-aws-2019-12-26
     type: article
     provider:
       name: MarketWatch
@@ -273,145 +106,69 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-25T08:47:00Z
-    sourceUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.html
-    ampUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
+  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-23T07:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 39
-  - title: "Use of facial recognition in rally sparks privacy fears"
-    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
-    publishedDateTime: 2019-12-30T21:16:00Z
-    sourceUrl: https://www.gulf-times.com/story/652120/Use-of-facial-recognition-in-rally-sparks-privacy-
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.0794A7B7E77D3CD47CAECBC43D9FC8F7
-        width: 620
-        height: 355
-  - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
-    excerpt: "The chances for those seeking a world of solitude are rapidly run out. A good case can be made that this has already happened. Aldous Huxley’s Savage, made famous in Brave New World, is out of options,"
-    publishedDateTime: 2019-12-31T00:00:00Z
-    sourceUrl: https://www.msn.com/en-za/news/other/indian-adventures-policing-facial-recognition-and-targeting-privacy/ar-BBYtH5s
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2019-12-31T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
     type: article
     provider:
-      name: News Chronicle on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3682FE7917FDE24FDB7A86A69D8E4F91
-        width: 600
-        height: 315
-  - title: "The quiet creep of facial recognition systems into New Zealand life"
-    excerpt: "Facial recognition systems have quietly crept into casinos, airports and some of New Zealand's biggest retailers. Inquiries by Stuff reveal the controversial technology is in use everywhere from SkyCity casinos to shops such as The Warehouse. A security sector insider said he was getting three or four times as many inquiries about the ..."
-    publishedDateTime: 2019-12-31T16:03:00Z
-    sourceUrl: https://www.stuff.co.nz/technology/118202977/the-quiet-creep-of-facial-recognition-systems-into-new-zealand-life
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
-      - url: https://www.bing.com/th?id=ON.ABB3B4AFD0F0CE177B33FA656A393C58
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:27:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The global NLP ..."
+    publishedDateTime: 2019-12-30T13:19:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191230005197/en/Global-Natural-Language-Processing-NLP-Market-Size
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
-        height: 394
-  - title: "U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
-    publishedDateTime: 2019-12-31T14:16:00Z
-    sourceUrl: https://www.yahoo.com/news/u-government-study-finds-racial-231410866.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.01669EDF11B6991D87815410757603A0
-        width: 700
-        height: 466
-  - title: "Indian Adventures: Policing, Facial Recognition & Privacy"
-    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
-    publishedDateTime: 2020-01-01T23:51:00Z
-    sourceUrl: https://www.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    ampUrl: https://m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    cdnAmpUrl: https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2001/S00007/indian-adventures-policing-facial-recognition-privacy.htm
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
-  - title: "Facial recognition to grow 12.5% annually through 2024"
-    excerpt: "The facial recognition market is expected to grow at a combined annual growth rate of 12.5% for the forecast period 2019 to 2024, according to Mordor Intelligence. The market was valued at $4.51 billion in 2018 and is expected to reach a value of $9.06 billion by 2024, according to a company press release. Facial recognition has been gaining ..."
-    publishedDateTime: 2020-01-02T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/facial-recognition-to-grow-125-annually-through-2024/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.5979CE3C08B1ABCD2B2F5EF711BF233F
-        width: 300
-        height: 170
-  - title: "Indian police are using facial recognition to identify protesters in Delhi"
-    excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
-    publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
-        width: 700
-        height: 393
-  - title: "Indian police are using facial recognition to identify protestors in Delhi"
-    excerpt: "Police in Delhi have now used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about India’s new citizenship law that has sparked protests across the country, the Indian Express reports. Protests have erupted around India after the country’s parliament passed the Citizenship ..."
-    publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
-        width: 700
-        height: 393
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:54:56Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-25T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+        height: 365
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
     type: article
     provider:
       name: YAHOO!

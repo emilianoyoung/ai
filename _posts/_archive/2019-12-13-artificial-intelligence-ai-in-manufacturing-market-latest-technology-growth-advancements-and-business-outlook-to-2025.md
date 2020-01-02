@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
+    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
+    publishedDateTime: 2019-12-18T18:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning and Our 2020 Technology Forecast"
     excerpt: "Machine learning can be useful in forecasting, but for now, Editor Bill Wong is the one gazing into the technology crystal ball. Machine learning (ML) and neural networks will continue to be a hot topic in 2020. One of its uses is forecasting in everything from when an electric motor will fail to how stocks will perform in the current market."
     publishedDateTime: 2019-12-19T17:31:00Z
@@ -68,6 +81,6 @@ related:
         width: 700
         height: 363
 
-secured: "tclyP/2ZJeRHW0vs20uzvf+tyuRQj0UyFlPqa1cOmQkDoK0SZ6qcSR/PxYk7/nc672Qw2zB/aShULj4aiJEc48J6zU6XsZ9BtKNBDbWIp0vZntdW3sD/Ua1RAb7Z4ioWZekHj17IrgfJkw97ZcscuwIUGlvym4nvV+F5CbJMXm8lGfYqj2ugHTTaqHi00ovV0PCbnpFxBfZ3BhQh/UW7e6BPusCtlKTQOpf8U3ZAu/JYCgfso/eO6syj+53JuAkyG+RkhXAsnvXj2TGJyoHssw==;6YIZLQ6z7J6syrsWXR3G5w=="
+secured: "3qfDOWanLEEuaABESCmCM4/l6BABg/io+uJ7VEbitUwoVkfuwErcS72vTG3FbOaXCNoINvwcHVGamgD0KBVZoQhcClY1V5oGTZdW50GCpSMO/XYf0ICtKK/OeZ10wwESxkCUfnJTgVD+Wl9BXZqeYOcSh6X3idKmGm0neyb5HSrL5HtnX+WDdXrUiaFffOgmXI2TzsLagWGinueHTGrJUS4TQvumF8PH2wKi4hfb1d3U8iUEYOrAk84Mip325ZTJsziaThLm4b/zMdZ+nBQn4g==;sHAO7HauimCsujR7YUZRkA=="
 ---
 

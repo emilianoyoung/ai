@@ -41,15 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Technology Overview: The Past, Present, and Future"
-    excerpt: "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. Global 'Voice Recognition Market' Research Report 2020-2029 is a vast research database spread across various pages with numerous tables, charts, and figures in it, which provides a complete data ..."
-    publishedDateTime: 2019-12-27T06:16:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37236/voice-recognition-technology-overview-the-past/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 4
 
 secured: "XwJmrFMOkqf6pWDoJtsl8qPry3Azu9nl3Sz9e2DLfs/x6TAvDuH8OTLONAhbjo0r2je4AMqXhEQ8ocRILrSD428U0ily7+OWHsfMLh+iwBN8Q2OTlQfMSIBYjcu4i9aXhJo1CqiJPBrrkwcv70S9HgvJoGSkdJVrCJ0puP62cDhSmNAJrpqQd0nXYlPXtrFWzvjOFvx06r+YxSOruA2+PZQP9VDG49+yXERAcXrYXLXe+ElWK5KelW8YjN5qyKAnhojVMHclRVB+50JQGaI/Ug==;QtFuccfZlSdymUgJRKj3cg=="
 ---

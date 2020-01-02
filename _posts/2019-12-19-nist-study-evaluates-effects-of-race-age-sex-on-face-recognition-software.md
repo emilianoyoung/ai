@@ -112,36 +112,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
         width: 700
         height: 393
-  - title: "Chinese art exhibition on pervasive facial recognition"
-    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
-    publishedDateTime: 2019-12-24T05:30:00Z
-    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
-        width: 700
-        height: 466
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-26T07:45:00Z
-    sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
-        width: 700
-        height: 466
   - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
     excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
     publishedDateTime: 2019-12-23T11:55:00Z
@@ -157,99 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-26T08:35:00Z
-    sourceUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.609F48C5B2B4CF46E1AB4A33371D98B6
-        width: 700
-        height: 649
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-27T00:10:00Z
-    sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
-        width: 700
-        height: 649
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-    publishedDateTime: 2019-12-23T20:15:00Z
-    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-        width: 700
-        height: 464
-  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
-    publishedDateTime: 2019-12-23T16:21:00Z
-    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-25T18:52:00Z
-    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
-        width: 725
-        height: 725
-  - title: "How NIST Tested Facial Recognition Algorithms for Racial Bias"
-    excerpt: "Facial-recognition technology is already being used for applications ranging from unlocking phones to identifying potential criminals. Despite advances, it has still come under fire for racial bias: many algorithms that successfully identify white faces still fail to properly do so for people of color. Last week the National Institute of ..."
-    publishedDateTime: 2019-12-27T12:14:00Z
-    sourceUrl: https://www.scientificamerican.com/article/how-nist-tested-facial-recognition-algorithms-for-racial-bias/
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EED55EE013B46088D74063F3494C019F
-        width: 700
-        height: 439
-  - title: "Improved technology will drive facial recognition adoption"
-    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
-    publishedDateTime: 2019-12-27T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
-        width: 300
-        height: 170
   - title: "Lawmakers Demand Answers on Facial Recognition Deployments in Public Housing"
     excerpt: "Eight Democratic lawmakers pressed the Housing and Urban Development Department Wednesday to address concerns and review policies on the use of facial recognition in federally assisted housing facilities. In a letter penned to HUD Secretary Ben Carson, Sens. Ron Wyden, D-Ore., Sherrod Brown, D-Ohio, Cory Booker, D-N.J., Edward Markey ..."
     publishedDateTime: 2019-12-18T20:40:00Z
@@ -287,19 +164,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
         width: 700
         height: 466
-  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
-    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
-    publishedDateTime: 2019-12-24T15:12:31Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
-    type: article
-    provider:
-      name: Abacus on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
-        width: 600
-        height: 315
   - title: "Federal study finds race, gender affect face-scanning tech"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
     publishedDateTime: 2019-12-20T13:32:00Z
@@ -313,19 +177,6 @@ related:
       - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
         width: 1200
         height: 630
-  - title: "Federal study finds racial bias of many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
-    publishedDateTime: 2019-12-24T16:06:00Z
-    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
-        width: 700
-        height: 465
   - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
     excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
     publishedDateTime: 2019-12-19T21:59:00Z
@@ -339,15 +190,6 @@ related:
       - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
         width: 1280
         height: 721
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
   - title: "Vimeo Asks Judge To Send Fight Over Facial Recognition To Arbitration"
     excerpt: "... company stated when the lawsuit was filed that Magisto uses \"machine learning technology to help identify objects within video frames,” but does not collect facial-recognition data. The company says in its new court papers that the matter should be sent to arbitration, arguing that Magisto's terms of service effectively prohibit ..."
     publishedDateTime: 2019-12-26T18:56:00Z

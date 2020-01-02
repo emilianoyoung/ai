@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
-  - title: "Rovenso raises $2.3M in funding for safety, security robots"
-    excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
-    publishedDateTime: 2019-12-13T19:50:00Z
-    sourceUrl: https://www.therobotreport.com/rovenso-raises-2_3m-funding-safety-security-robots/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
-        width: 700
-        height: 435
   - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
     excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
     publishedDateTime: 2019-12-22T13:06:00Z

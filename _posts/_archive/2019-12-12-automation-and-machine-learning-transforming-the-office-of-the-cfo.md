@@ -232,6 +232,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "XpdvDsLruN8pSBtkU1w1E180XqfEUgk6kr/GpwZWsK4vW6a3DAyJXw2x8OsyepgFGhyXh8EJtVH4KJwUFl+RrlvliVSdiCN5tUK4B5wu+COaLOtH3ZtL4DMdrvOGIyole0A0Nb/9uR2PtkjazGrV0J1IUEHnJ57HLuoGCWWZ0GT8nygXRohtueAMjzFhJmqfbbo71eAmFh0n8FwBtRyn07MKORsoxIUApuUECN4VGxeWq5cp7Z1kqxlOaCvlQ14jHssmnn8HapRnH37QbzFwEw==;1ryZ2cPsVDvM5ae/RyAZAQ=="
+secured: "rECycreDyKNQWfIP1+dhV5zrBKRhg65cKnPyHPvEOY1KQYntfjQEf69wRR0v7T9pcnwvWSTh+whsioJCOVCeRxAEtP7EpP4Vqu59w9Mkh2Gz4Bq8COSrAoIP5ffmoinlC/+a/r7QwRrZaCOvVvyf4vLf4Ni4qzJ8z+j2ptKzT46uxj5MwsCRNrIjrm34kX1lScZQkoAaz4W271kKQrTtIjgnAN+mUvonC0RtLhhUarC60NPh+xihZe5eselX+LTtgz1UDYtunkP1jrXmRx12RA==;ysJDeBqwRWgq2KFenKQjiQ=="
 ---
 

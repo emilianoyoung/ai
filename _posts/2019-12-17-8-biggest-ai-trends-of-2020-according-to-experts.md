@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
         width: 700
         height: 393
-  - title: "The Top 5 Fintech Trends Everyone Should Be Watching In 2020"
-    excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
-    publishedDateTime: 2019-12-30T05:27:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
-        width: 600
-        height: 315
   - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
     excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
     publishedDateTime: 2019-12-23T07:33:00Z
@@ -201,19 +186,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "From AI to 5G: Predicting the future of technology in 2020"
-    excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
-    publishedDateTime: 2019-12-28T12:28:00Z
-    sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
-        width: 700
-        height: 393
   - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
     excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
     publishedDateTime: 2019-12-20T16:01:00Z

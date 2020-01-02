@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/accenture-agrees-acquire-clarity-
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/accenture-agrees-acquire-clarity-insights-181500935.html
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
 
 related:
-  - title: "Accenture Acquires Clarity Insights for Data Analytics, AI, ML Engineering"
-    excerpt: "Accenture is acquiring Clarity Insights, a data science consultancy with artificial intelligence (AI), machine learning (ML ... Clarity’s vertical market expertise includes healthcare, financial services and insurance. Clarity’s revenue grew to $73.9 million in 2016, according to an Inc. 5000 honor in 2017. The company’s three-year ..."
-    publishedDateTime: 2019-12-13T19:25:00Z
-    sourceUrl: https://www.channele2e.com/business/enterprise/accenture-buys-clarity-insights/
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.0CF0357464E68B2099AA84F86DE4A88D
-        width: 227
-        height: 300
   - title: "Accenture Agrees to Acquire Clarity Insights, Boosting Artificial Intelligence Impact for Clients in North America"
     excerpt: "Accenture (News - Alert) (NYSE: ACN) has announced that it has entered into an agreement to acquire Clarity Insights, a U.S.-based data consultancy with deep data science, artificial intelligence ... and global lead for Applied Intelligence at Accenture. \"Their focus on insight-driven transformation for healthcare bolsters Accenture's ..."
     publishedDateTime: 2019-12-13T20:06:00Z

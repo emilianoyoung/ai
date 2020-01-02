@@ -7,9 +7,9 @@ sourceUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-
 ampUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
 cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 167
+published: true
 
 provider:
   name: BGR
@@ -24,6 +24,21 @@ images:
     height: 426
     title: "More details about Samsung’s AI human project ‘Neon’ have been revealed"
 
-secured: "3x6PRTK/ZheWd0/xK9ueUXtGYKl5KcMKUYuvoNOA3mG2vzq9sS/ZTtlVM/MWSND/3gaiyvwfvUQ5UC1Vu1BOdAgFQBRi6fdupSW4BEpvS5XeNV/TVIfyZv/ogyXgBSXPr7f0RcuQ/F95ww3C9ZKBVE1ENXP81nJ+SKTDEKHGJ62a2vwYXxEvGdnAR0xdEcOJSIrh2yMvoqlfk5iEmzkvGfQqaUiRq9Lg9m/zv6XifCHss5XzsJCXoEh/TXin4Ersst5nJ3x54irzWQEDteEI2Q==;2QtUAy1s0g7MevZLEYCzhg=="
+related:
+  - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
+    excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
+    publishedDateTime: 2019-12-26T09:15:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/samsung-announce-mysterious-human-ai-090701619.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CC7E61B851D4B9E1DF1EE7E45A41CDD7
+        width: 279
+        height: 157
+
+secured: "XgTYJ/PqTIe4XSOuiCVLs0NKk/eTwiDTn2bjFXE6U0OpQjTerMTXbdGiIWuDE5LvpdwBEO48F5aZL3eop69lSWoqe7cKAUxS6w9p9qkpBVHhJAjhRR+AhijkHMDHhOhy6D4bMudlK5A/ZhrA9jNcDIrDFbgNiXRRzmkGwUXCoU5uY4/f5RXu2FjDD45LMSkGnbO30jQnTqKCg8clPj0b0A+2jPI6PjOxG7swYhxFOKmJ/XfX9bePT1svB4FnpOAJmEsGHLunAwCmzR4xq65JvUU0Br47EIHv6iji9fAvEak=;Vyi2wfXUJv8hjK8AFn3DLw=="
 ---
 

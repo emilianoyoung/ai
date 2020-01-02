@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.712EF02870D2016A8B6580B3FC26B162
         width: 700
         height: 350
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the most traffic-congested cities in the country. Baidu was issued 40 licenses to test its self-driving cars while carrying passengers on specially ..."
+    publishedDateTime: 2020-01-02T20:34:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
+        width: 700
+        height: 393
   - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
     excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
     publishedDateTime: 2019-12-28T14:13:00Z

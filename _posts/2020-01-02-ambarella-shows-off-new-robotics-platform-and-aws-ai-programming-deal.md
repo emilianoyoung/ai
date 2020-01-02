@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-p
 ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
-quality: 140
-heat: 150
+quality: 240
+heat: 250
 published: true
 
 provider:
@@ -49,6 +49,6 @@ related:
         width: 220
         height: 220
 
-secured: "pt13Ro/NLBwqi1vNHH1gGzkudMu8v6JBfD7IJkn8z2oOJ34ZkJw1Pki9gbz4tG74Kzojv3PoChFxkTmp9Q9JjbhPoswz+q7ueDM61gOTtoAsk6wxaSniaHiRfAw8HxtyaEsFPtCGC8Jm4purj4n1EwlhrYM3uM5ApJpJOtK+aVBT6DYG5WXgr3qLrVZscPTJLaW3dnA+8jmc942zWIcErPeqnU7AQlq98yZ4jdHxLrI9VoAGynyf0TIKzoyqgE62QXyzW43xp9iPwo5u8P9PLw==;kbn0QAV/eoLCN2QqVSheEw=="
+secured: "JOU2qd6k6sai7Aawcitq/o9UFgaDnQjH9398ny9KnE03VhWwkr27HrzctfFmXeZWiz4JAp8iZYEtxd2n0gmgNOkRPq5BDUPPOt4Q/xwUcHrMxNakHdky2hI6KWPYG0E7UHOVozQQ2d4MKifnkcDhpkhYyscmjMkZODexvgDzGsHV56X5bv6l7PSWpaUfA3sOVKWkOTSFNEVouUQVvZNw9FD+5Yi0Mgo/BDUvjwBkOEFe77bbhv4qvpXBjdtU8UdRSAXh9miT9atqbYhVmmxJkvmAr4y0c/uOG6qIEFCAKBU=;2Y4MTb0NFvbGkndAtY48aQ=="
 ---
 

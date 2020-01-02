@@ -65,35 +65,7 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 84
-  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
-    publishedDateTime: 2019-12-03T09:16:00Z
-    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
-        width: 700
-        height: 466
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "gzvxu8Nmp+ySrgTr09I1pUDkq4PqO9BhfCAId205EA//t1E/21fhXuQhQeIwEYfugVDhbEq1q18/2vmCEvrXUnGIr4mpdX8oo26Ax8jYAXqsiiA0a1P5VoOoqAKplBlvedUiENBlN4RX2x+VbaS6a2zKPlMxl4Qc2Y6pQXjwDGIHsYczmnNZpaH0ADdaDmFOHxNAMCOBcGGxJz/DZSwT2ExYA7VGbNcLwpJCupXcuVZER+F7XgrxDD12TJPWlDcOyL7lZDs2DFYLdJDn91ptBg==;ZAzH2ECoJA50Qs03W2JKoQ=="
+secured: "61DP98lkv5N5d4r5pda5u69bb4aq+a2HT/hN1zgnJCsnhB63Z7ToxI1gGe1GQBmPqFiHzXErOpzXH+UR6ddAEjioD1rmoViE+HO/Eor72bdAX3/kDqDPlh2COCao7fNfD7Zkh9FLEgZ9nC+5Tj1YSwwvWOBBdXuxqYmN3zjcPgsWsl2yqaEf5/hXNol66aQ7jpzW5pCRmbPmEZfXRC52MiRxNdNCJABhA64EYsgu7y4naXcKE3I3WLiJ95I2vYHm9u9onTu/ga9uyVCwV5scew==;e7VO4Wert0ITzwSLVioMqA=="
 ---
 

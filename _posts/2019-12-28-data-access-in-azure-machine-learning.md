@@ -5,8 +5,8 @@ excerpt: "Consuming it directly in Azure Machine Learning solutions like automat
 publishedDateTime: 2019-12-28T23:03:00Z
 sourceUrl: https://docs.microsoft.com/en-us/azure/machine-learning/concept-data
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png

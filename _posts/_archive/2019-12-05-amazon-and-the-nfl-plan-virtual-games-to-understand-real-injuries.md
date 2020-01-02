@@ -7,8 +7,8 @@ sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simul
 ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
-quality: 74
-heat: 94
+quality: 54
+heat: 74
 published: true
 
 provider:
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-    width: 1200
-    height: 628
-    title: "Amazon and the NFL plan virtual games to understand real injuries"
 
 related:
   - title: "NFL turns to Amazon for help addressing player injuries"
@@ -53,6 +47,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "7vGegCLLTUpcshxhVTM5VwZeWI4y9hqmTYpenIgtWZC1y3vonVTNvvE6hgVdZBvkEyed4bZKZXTHk468tcQgGaWUUWQZXVGOs5HbaBBRgnnw9vBe0HdioSc4BdjlZzhSy+87uIPt3xCYGmQaTuCvgylcb1TkFo9+D4zJl+aJ17+8Sk3SAKcmMIayu8Hb2ES52BSr6knoHODvqyRNq92egHS1ItuxLnBNbPYDTELUUz2HTRyVGqIF9uVH15idXbyL3VGNpJSYMAGUEu2Lrr1Bdw==;5nwWZDgVTfX5SUi93UjudA=="
+secured: "4SvftwDl9uoq2kf7nhZXeifD/4iOtLsDnMjZD4ncW5T4cLlwm2au3EK625gVVAEfuZUqwxnaWrZGwnkWdqqGlxBKGwZr8pP95c23ULMyxN4/vdXYUpCfBpSUfUErrxsMyZqC8KLFF3HchW7MCrSzPnukfe5HTJq2VGv+Dwbqx5XiagMJRuyQtXnr9gPIQhMh/p7yuDltfqQcLQpd19LCL3jJ/KoO7RSY/Z+kb9K0zU3WAR5yhd7C8gBkmuoc6X7b6v5tEVS0isYpL91Uv90xMA==;a2TCLHiKOnf93kyLsrEIaw=="
 ---
 

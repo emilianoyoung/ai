@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 110
+    quality: 210
     images:
       - url: https://www.bing.com/th?id=ON.276373166D6B8475A03219B55606BD53
         width: 700
@@ -101,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.809AFEB18E18751E63FC09CBD66B6358
         width: 600
         height: 315
+  - title: "The Top 5 Fintech Trends Everyone Should Be Watching In 2020"
+    excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
+    publishedDateTime: 2019-12-30T05:27:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/12/30/the-top-5-fintech-trends-everyone-should-be-watching-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
+        width: 600
+        height: 315
   - title: "Using deep learning to predict disease-associated mutations"
     excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
     publishedDateTime: 2019-12-27T16:39:00Z
@@ -146,6 +161,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
+  - title: "From AI to 5G: Predicting the future of technology in 2020"
+    excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
+    publishedDateTime: 2019-12-28T12:28:00Z
+    sourceUrl: https://www.thenational.ae/arts-culture/comment/from-ai-to-5g-predicting-the-future-of-technology-in-2020-1.957125
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
+        width: 700
+        height: 393
   - title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
     excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
     publishedDateTime: 2019-12-27T13:00:00Z

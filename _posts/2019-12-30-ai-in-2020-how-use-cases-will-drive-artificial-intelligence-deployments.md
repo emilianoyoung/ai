@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-2020-how-use-cases-will-drive-artificial-intelligence-deployments/
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -48,19 +48,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
         width: 700
         height: 589
-  - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
-    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
-    publishedDateTime: 2019-12-30T09:39:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5---exclusive-report-by-mordor-intelligence-300979730.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
-        width: 700
-        height: 366
 
 secured: "iUHDpnXjG4L4MtsuK3aq0TWZgqKwz9SncIpsYpXPhQdIx8s6D4z9ARxBUF7b+CLNp7VmgaV92x40dslYX9kOqe3y8upXUJDTY/6mBjBWoEhaj5bgwzQjwIA+TeYymEbUffdUe6qCJ6Gcnl8ptBYcma51opOnFpsibfUj5UzC5qdMNtMowWphDCh/tEwcPb95BcBIarsTjJDCndZtQRFX6ONOiN0rcwoqR0TCdU1ORrfQibqVhiy3TZoVDwgz1v/P5z9jIv5yRmT/DSiZjHbyqQ==;poseW5sldyw5gVdB+W5l/g=="
 ---

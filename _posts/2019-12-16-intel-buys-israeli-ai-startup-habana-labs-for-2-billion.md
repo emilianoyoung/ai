@@ -679,19 +679,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592
         width: 600
         height: 592
-  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
-    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
-    publishedDateTime: 2019-12-17T23:15:00Z
-    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 20
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
-        width: 1200
-        height: 630
   - title: "Intel Acquires Artificial Intelligence, ML Chip Specialist Habana Labs"
     excerpt: "Intel acquires Habana Labs, an artificial intelligence and machine learning (AI and ML) chipmaker in Israel ... Intel faces potential competition and market disruptions as massive cloud customers like Microsoft Azure, Amazon Web Services and Facebook explore ways to leverage their own home-grown technologies or third-party processor technology ..."
     publishedDateTime: 2019-12-17T15:45:00Z

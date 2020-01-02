@@ -30,176 +30,141 @@ images:
     title: "The Top 5 Fintech Trends Everyone Should Be Watching In 2020"
 
 related:
-  - title: "Here are the top tech trends of 2020, according to top experts"
-    excerpt: "In 2020, technologies will move toward the ... will begin to appear, and may use fast 5G connections to the cloud to identify people and things for us. The role of AI will increase in business, and the public will become more aware of it. Next year’s tech will appear in the context of a turbulent political scene and perhaps the biggest ..."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
+  - title: "Top minds in machine learning predict where AI is going in 2020"
+    excerpt: "In demystifying this perception of neural networks, Kidd looks to the work of people like Aude Oliva, executive director of the MIT-IBM Watson AI Lab. “We were talking about this, and I said something about the system being a black box, and she chastised me reasonably [saying] that of course they’re not a black box. Of course you can ..."
+    publishedDateTime: 2020-01-02T14:16:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/
+    ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 124
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 210
     images:
-      - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
+      - url: https://www.bing.com/th?id=ON.276373166D6B8475A03219B55606BD53
+        width: 700
+        height: 366
+  - title: "This is your chance to become a machine learning pro in 2020"
+    excerpt: "Machine learning is transforming the way businesses operate. Understanding trends and patterns in complex data is becoming critical for success and with this comprehensive bundle you can get introduced to machine learning and the tools used to leverage it, like Python, Apache Spark, and TensorFlow. Make your way through the entire collection ..."
+    publishedDateTime: 2019-12-27T18:21:00Z
+    sourceUrl: https://www.techspot.com/news/83342-chance-become-machine-learning-pro-2020.html
+    ampUrl: https://www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83342-chance-become-machine-learning-pro-2020.html
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
+        width: 700
+        height: 490
+  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
+    publishedDateTime: 2019-12-29T15:08:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
+        width: 600
+        height: 315
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
+  - title: "Start The Year By Learning These Essential AI Self-Driving Car Industry Acronyms"
+    excerpt: "The self-driving car industry is replete with numerous acronyms and specialized lingo. Here’s a taste of some of the oft used acronyms: ADS, ODD, DDT, OEDR, OTA, V2X, ADAS, etc. If you know what each of those means, kudos! If you think maybe you know what each of those means, tip of the hat for your awareness. If you don’t know what they ..."
+    publishedDateTime: 2020-01-02T10:49:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/02/start-the-year-by-learning-these-essential-ai-self-driving-car-industry-acronyms/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/02/start-the-year-by-learning-these-essential-ai-self-driving-car-industry-acronyms/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/02/start-the-year-by-learning-these-essential-ai-self-driving-car-industry-acronyms/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.809AFEB18E18751E63FC09CBD66B6358
+        width: 600
+        height: 315
+  - title: "In 2020, let’s stop AI ethics-washing and actually do something"
+    excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
+    publishedDateTime: 2019-12-27T10:07:00Z
+    sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
+    ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
         width: 700
         height: 393
-  - title: "8 biggest AI trends of 2020, according to experts"
-    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
-    publishedDateTime: 2019-12-17T14:18:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
+    publishedDateTime: 2019-12-27T16:39:00Z
+    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
+    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
-        width: 796
-        height: 417
-  - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
-    excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
-    publishedDateTime: 2019-12-23T07:33:00Z
-    sourceUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/articleshow/72935214.cms
-    ampUrl: https://www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/artificial-intelligence-in-2020-needs-to-be-about-ethics-in-india/amp_articleshow/72935214.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.6A6CBF06DA44CEE1244E707F31189F08
-        width: 454
-        height: 340
-  - title: "To stop a tech apocalypse we need ethics and the arts"
-    excerpt: "However, as the likes of driverless cars and robot therapists emerge ... arts and social sciences to examine key issues arising from artificial intelligence. According to the chair of the ACOLA board, Hugh Bradlow, the report aims to ensure that “the well-being of society” is placed “at the centre of any development.”"
-    publishedDateTime: 2019-12-26T10:54:00Z
-    sourceUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/
-    ampUrl: https://www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
-    cdnAmpUrl: https://www-theafricareport-com.cdn.ampproject.org/c/s/www.theafricareport.com/21635/to-stop-a-tech-apocalypse-we-need-ethics-and-the-arts/amp/
-    type: article
-    provider:
-      name: The Africa Report
-      domain: theafricareport.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.7B8E40978C2F06FD02ADC6EDFD4A9869
-        width: 700
-        height: 399
-  - title: "Why 2020 Is Going to Be Another Huge Year for AI Stocks"
-    excerpt: "For me, the company best suited to see massive gains on the back of the AI sector is NVIDIA Corporation (NASDAQ:NVDA). NVIDIA is mainly known for selling graphics processing units (GPU) that are used in high-end gaming computers, but the company does more than that. Now NVIDIA’s dominance in the GPU space is translating into dominance in the ..."
-    publishedDateTime: 2019-12-23T12:03:00Z
-    sourceUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/
-    ampUrl: https://www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
-    cdnAmpUrl: https://www-profitconfidential-com.cdn.ampproject.org/c/s/www.profitconfidential.com/stock/nvidia-stock/2020-another-huge-year-ai-stocks/amp/
-    type: article
-    provider:
-      name: Profit Confidential
-      domain: profitconfidential.com
+      name: Phys.org
+      domain: phys.org
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.C1578C51AC2EBF5FC8BA69D93E6D7F12
-        width: 300
-        height: 184
-  - title: "New AI tech to bridge the culture gap in organisations: IT experts"
-    excerpt: "Expect traditional organisational boundaries between IT and business lines to start breaking down, and new roles like ‘citizen developer’ and ‘AI Ethicist’ that blend IT and business backgrounds to grow,” he added. Mankiran Chowhan, Managing Director, Indian Subcontinent, SAP Concur, noted that as we move towards the fourth industrial ..."
-    publishedDateTime: 2019-12-26T18:57:00Z
-    sourceUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece
-    ampUrl: https://www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/new-ai-tech-to-bridge-the-culture-gap-in-organisations/article30404788.ece/amp/
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.4D9F1E942243D13F3348008D1BD9F8EA
-        width: 615
-        height: 384
-  - title: "Healthcare AI Tech is Here, Now We Must Learn to Manage the Data"
-    excerpt: "Molecular Health, a software firm focused on transforming big data into analysis and prediction tools for healthcare companies, believes biotech is in the early days of using artificial intelligence (AI) and machine learning in drug discovery and development. It is not the technology available holding the industry back, but the managing and the ..."
-    publishedDateTime: 2019-12-23T20:12:00Z
-    sourceUrl: https://xconomy.com/national/2019/12/23/healthcare-ai-tech-is-here-now-we-must-learn-to-manage-the-data/
-    type: article
-    provider:
-      name: Xconomy
-      domain: xconomy.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.34BD48A656483EBF50ED8B6D22765197
+      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
         width: 700
-        height: 467
-  - title: "BYU professor constructs mini town to test self-driving car tech"
-    excerpt: "The fictional town is named after DJ Lee, a professor of electrical and computer engineering, who constructed it with students as a way to teach them about self-driving cars. “The main thing that we learned is the things you design and build, they work differently in the real world than you would expect from simulations,” said Harrison ..."
-    publishedDateTime: 2019-12-23T15:00:00Z
-    sourceUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.html
-    ampUrl: https://www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
-    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/education/college/byu/byu-professor-constructs-mini-town-to-test-self-driving-car/article_1be64be4-2731-5fc5-8acf-6397a18d9077.amp.html
+        height: 266
+  - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
+    excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
+    publishedDateTime: 2020-01-02T15:17:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/02/where-ai-going-2020-useful-virtual-assistants-digital-versions-you/2634457001/
+    ampUrl: https://amp.usatoday.com/amp/2634457001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2634457001
     type: article
     provider:
-      name: Daily Herald
-      domain: heraldextra.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.5A68C7E2C4F1AA3E9B841E170DD06194
+        width: 700
+        height: 393
+  - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
+    excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
+    publishedDateTime: 2019-12-29T00:06:00Z
+    sourceUrl: https://in.news.yahoo.com/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    ampUrl: https://in.news.yahoo.com/amphtml/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    cdnAmpUrl: https://in-news-yahoo-com.cdn.ampproject.org/c/s/in.news.yahoo.com/amphtml/researchers-deep-learning-predict-disease-related-mutations-metal-052511294.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.652237398F7DBF574DBC73D016B961FF
-        width: 700
-        height: 380
-  - title: "3 Top Digital Health Trends: 2020 (Pre) Vision"
-    excerpt: "Meanwhile, FDA-approved innovations from Microsoft and others claim the ability of computer vision for assisting radiologists and pathologists in identifying tumors and abnormalities in the heart. While robotic primary care is a long way off, some view AI as a rival to more niche clinical positions. 2. Privacy and security will be more ..."
-    publishedDateTime: 2019-12-27T15:46:00Z
-    sourceUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/
-    ampUrl: https://www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
-    cdnAmpUrl: https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2019/12/27/3-top-digital-health-trends-2020-pre-vision/?amp=1
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FA2C904A6C004F3A0B73840202EB0C3F
-        width: 616
-        height: 372
-  - title: "Tom Still: Tech trends to watch in 2020"
-    excerpt: "Robotics, along with related tools such as artificial intelligence, will help to fill the gap ... animal and human DNA to protect genes from disease. Genetic and cell therapy is advancing quickly, as well. Real breakthroughs will also come is digital health data, such as what exists in millions of patient records, can be anonymously analyzed ..."
-    publishedDateTime: 2019-12-29T10:00:00Z
-    sourceUrl: https://madison.com/wsj/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.html
-    ampUrl: https://madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    cdnAmpUrl: https://madison-com.cdn.ampproject.org/c/s/madison.com/business/tom-still-tech-trends-to-watch-in/article_c7b01da1-5e4f-5115-9ae0-34f95b3fd3b8.amp.html
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0652F2389F2AC41B5EAF50EE628DAB0E
-        width: 356
-        height: 200
-  - title: "AI specialist will be the hottest tech job of 2020. These are the skills you'll need — and the roles that are hiring right now."
-    excerpt: "Companies like Morgan Stanley and Microsoft are taking novel approaches to train their current workforce on AI amid a skills shortage."
-    publishedDateTime: 2019-12-29T15:40:00Z
-    sourceUrl: https://www.businessinsider.com/the-skills-needed-to-land-hottest-tech-job-of-2020
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
-        width: 700
-        height: 350
-  - title: "Audio tech and marketing experts predict the trends that will catch fire in 2020, from programmatic audio ads to conversational AI"
-    excerpt: "Voice technology is opening doors for advertisers, but as it grows smarter with scale its practical applications will continue to expand."
-    publishedDateTime: 2019-12-27T12:41:00Z
-    sourceUrl: https://www.businessinsider.com/audio-tech-marketing-experts-share-2020-predictions-programmatic-ai-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
-        width: 700
-        height: 350
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
   - title: "From AI to 5G: Predicting the future of technology in 2020"
     excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
     publishedDateTime: 2019-12-28T12:28:00Z
@@ -213,72 +178,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
         width: 700
         height: 393
-  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
-    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
-    publishedDateTime: 2019-12-20T16:01:00Z
-    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
+  - title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
+    excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
+    publishedDateTime: 2019-12-27T13:00:00Z
+    sourceUrl: https://www.bleedingcool.com/2019/12/27/long-live-the-robot-revolution-of-iron-man-2020-beginning-in-incoming-1-spoilers/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
-        width: 600
-        height: 532
-  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
-    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
-    publishedDateTime: 2019-12-19T14:08:00Z
-    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
-    excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
-    publishedDateTime: 2019-12-23T19:59:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/8-healthcare-companies-among-the-top-25-highest-funded-ai-startups-of-2019.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Bleeding Cool
+      domain: bleedingcool.com
     quality: 32
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-23T16:26:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 19
-  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
-    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
-    publishedDateTime: 2019-12-19T13:36:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 4
     images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
-  - title: "What will Fintech scene look like in 2020 according to the industry experts"
-    excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
-    publishedDateTime: 2019-12-23T13:15:00Z
-    sourceUrl: https://www.finextra.com/blogposting/18278/what-will-fintech-scene-look-like-in-2020-according-to-the-industry-experts
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 2
+      - url: https://www.bing.com/th?id=ON.CDD021FE3E6BF2082C836BF2F3C5E953
+        width: 592
+        height: 568
 
 secured: "vFmlQRl8rEBnoFczWgcxUIv+ywQUUuFaaP0B6sW/lkeYRNSRujnlYOxkRuVKc5tNxuGMUDb6dR8d9DAnJRC4btnkYGhAu9NGGFas+0pOCYLCa4AjBl3CijBzeuVhuFwuegZaafof6cIs10YWBHTSmq5QVEv/CFunANfZEiBQa/cIcFLhOaQXQiaMSZ6tXKiFRMmeTZVbJYtVaTBXN+nVOAGMdbjh83OW1b4q9gki1WRpJdm2BiiMnurs7UIti9ajYnmXWx+EzQlS94mcntwYjQ==;KydtVMDlnYcQXks/A591Qg=="
 ---

@@ -34,11 +34,7 @@ related:
     provider:
       name: digitaltrends.com
       domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
+    quality: 54
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -51,6 +47,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "Ls47gR+A/CLTFNGCo5H64uXmhkCwliUGWM9mf2VuuK/KZkFbIppHrDrCY4jRVhX+J/9/pCDvGMlb0MHA/fHEsEzs52KQ05lRwUKYeyiVz/7N9RCgApzOx1erWeqUhutKj/O8Zu2vFJCZR0VnrGfRkhyOe6s0ykl+x9VaXXULzUVEVB1sMfRrcbeVwNfdWR4/kWdBdDbVl6qFhPf/E4QtuRSVki2BN09sxV2cioeix6TP683lLpCLzip3ZQVELQXs9BjVQ6gVlLFBwctgp5WUmA==;BnJ/Isv0pdm2wV0hYCm3MA=="
+secured: "5wAnuo6uN50g68pntGO52WiGkNzheILiXRsn7bK6RLmruzoLZ1PeojkYYfcu5GgWd16SIz48WY4MIRl2o1mFX3M7s8kSeYM/04xZyiodyJuMRhJChQIigaawLkxBE002xln/5L5DFZ/YQQKfSOSi1nUBPYQEukGcStYKQz5z6U/WF71kLQ0Bg/iqVEKwu83eCBOf+e5RrLdR5728OTU3vQZyvvVMOM+UQZaA7RkSeC6Hpn5Zpws0IGS3VLNu2gIp048FAskYl2Vp3goJv5PsRg==;4aLiZi7eJmgn7624he4nvA=="
 ---
 

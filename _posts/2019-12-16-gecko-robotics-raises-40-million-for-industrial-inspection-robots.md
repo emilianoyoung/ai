@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "Gecko Robotics raises $40 million for industrial inspection robots"
 
 related:
-  - title: "Rovenso raises $2.3M in funding for safety, security robots"
-    excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
-    publishedDateTime: 2019-12-13T19:50:00Z
-    sourceUrl: https://www.therobotreport.com/rovenso-raises-2_3m-funding-safety-security-robots/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
-        width: 700
-        height: 435
   - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
     excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
     publishedDateTime: 2019-12-19T14:20:00Z

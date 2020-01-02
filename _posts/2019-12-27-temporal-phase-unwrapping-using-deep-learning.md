@@ -24,19 +24,21 @@ images:
     title: "Temporal phase unwrapping using deep learning"
 
 related:
-  - title: "AI, IoT and Machine Learning To Challenge Traditional Networking"
-    excerpt: "The next phase of networking will depend on IT learning to wrangle modern technologies in ways that simplify operations and help humans make decisions. That's the upshot of a new report by Cisco, which specifically called out technologies like machine learning, machine reasoning and automation. According to the report, \"2020 Global Networking ..."
-    publishedDateTime: 2019-12-24T16:16:00Z
-    sourceUrl: https://redmondmag.com/articles/2019/12/24/ai-iot-vs-traditional-networking.aspx
+  - title: "Artificial Intelligence: Improving learning by forgetting"
+    excerpt: "Paradoxically however, our past views on information and forgetfulness have undergone a reset due to modern research in the areas of psychology and artificial intelligence. Firstly, although information is generally valuable, however, it is only useful up to a threshold and then it starts to become detrimental. Secondly, forgetfulness improves ..."
+    publishedDateTime: 2019-12-31T05:20:00Z
+    sourceUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    ampUrl: https://tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
+    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2127832/6-artificial-intelligence-improving-learning-forgetting/
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.875E2F51343E45F03F9635EE0FCBF9E1
-        width: 647
-        height: 450
+      - url: https://www.bing.com/th?id=ON.BB8A1367AF4F1F17D302734A7FE4283A
+        width: 640
+        height: 480
 
 secured: "Haz6ZeXr5J/bKbKXp+DQNYXS40bsD88x23DKDYWMYqSDXpOXVIprmhqX5xD8FOnv3jw5Z8Pon0KttZYDzlJhftxqVpnLwpD/LicOdCv38bB7DOLY4qLi1zHqVua8mMwVhTF0mSLUM7CeyE/v9fy/kMpNYgkoux31FeRjzn3ronwPVXtCEtDUI0YNJqxq5c5IjGTALMjSgfyJjaaDOST7pyx4D3m6e3nnMadaMkgXAdOZyhNOUMXzxD7a/uF7bUkB88/pgKCoiIDXnK3cAKssBA==;JigcQ+IluDAbGq8ROBhhGQ=="
 ---

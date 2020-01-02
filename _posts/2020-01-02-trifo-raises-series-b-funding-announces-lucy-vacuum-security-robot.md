@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T19:27:00Z
 sourceUrl: https://www.therobotreport.com/trifo-raises-series-b-funding-announces-lucy-robot-vacuum/
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 700
     height: 394
     title: "Trifo raises Series B funding, announces Lucy vacuum, security robot"
+
+related:
+  - title: "Home security robot vacuum maker Trifo raises $15M in funding round"
+    excerpt: "“Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang sai"
+    publishedDateTime: 2020-01-02T20:22:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/home-security-robot-vacuum-trifo-raises-15m-funding-round
+    ampUrl: https://www.foxbusiness.com/technology/home-security-robot-vacuum-trifo-raises-15m-funding-round.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/home-security-robot-vacuum-trifo-raises-15m-funding-round.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3318593B1E323AC332B53222101E666F
+        width: 700
+        height: 394
 
 secured: "Uq5DgDLqEVTrMfFxQ2t3CpdM6YEuOpasKw+3irK8XM8vf2TZtvm/MWuXWsSPXlohl2+tvHVYDuCm2a+jaZ+gQrLpVx3hhrHE48SoAUiF7rpYnnvVOARfTXiQAaqR/oerXiCXROokp3nPpQxFvnWr5RGZnANkvvXJ8/shFz2MQqyy/LAiJnxpPXaCiW//rz98z4qF20v1bjjmfNT01hgZ++TLPTKC48mGUsQY8sYZoF/AH+88j2aOd01N8bbUHb2slcl9rUflAYL4+2eULIQ+9A==;K9ZdN9czPZVDiu8kq7cm4w=="
 ---

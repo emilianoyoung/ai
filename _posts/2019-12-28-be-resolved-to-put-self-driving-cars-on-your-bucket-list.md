@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.712EF02870D2016A8B6580B3FC26B162
         width: 700
         height: 350
+  - title: "3 Things That Sent Baidu Stock Soaring to Start 2020"
+    excerpt: "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the most traffic-congested cities in the country. Baidu was issued 40 licenses to test its self-driving cars while carrying passengers on specially ..."
+    publishedDateTime: 2020-01-02T20:34:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
+        width: 700
+        height: 393
   - title: "Germany's Bosch to offer lower-cost sensors for self-driving cars"
     excerpt: "German automotive supplier Robert Bosch said Thursday it has developed a sensor that lets cars “see” a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles."
     publishedDateTime: 2020-01-02T08:16:00Z

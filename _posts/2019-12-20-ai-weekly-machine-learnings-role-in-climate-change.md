@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/20/ai-weekly-machine-learnings-role-in-c
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/ai-weekly-machine-learnings-role-in-climate-change/amp/
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     width: 1200
     height: 604
     title: "AI Weekly: Machine learning’s role in climate change"
-
-related:
-  - title: "AI Weekly: NeurIPS proves machine learning at scale is hard"
-    excerpt: "Researchers are presenting more than 1,400 papers at the Neural Information Processing Systems (NeurIPS) conference, ranging from work that organizers believe has had the greatest impact over the past decade to Yoshua Bengio’s continued march toward consciousness for deep learning. But even as the conference showed theoretical research and ..."
-    publishedDateTime: 2019-12-13T19:54:00Z
-    sourceUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/
-    ampUrl: https://venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/13/ai-weekly-neurips-proves-machine-learning-at-scale-is-hard/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.B9643B213B4F8CD7D0C15539A1AF3147
-        width: 700
-        height: 350
 
 secured: "luWkd90xNRziBz1T9nscMgKZgcwTtnFScvsE/kJGsaOYfqViuz3BGhFf7HkbGHo0e8dQKYZvTCM1HGJOC/upb37r+PwAqwHMlRy5jdbM+WcoMriw8AYLrRjXv1s6z1OWrOOTZT3qVjJvl94b26/a5Dh6IZMPQqQVE904workOJAefSPMV69Jq17+HS4/A4OS8u0EUquZl8+wAzqUC2wuSEced2pPc3Cim5XgPle7eZD7nV8XVETNwFWmDo13wL2G7aEnRWpBT/sCXuO3qbyDoA==;svYA0SYtc83h0eK4xABGMg=="
 ---

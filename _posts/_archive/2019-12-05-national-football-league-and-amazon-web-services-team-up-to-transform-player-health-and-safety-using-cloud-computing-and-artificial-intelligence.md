@@ -30,11 +30,7 @@ related:
     provider:
       name: digitaltrends.com
       domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
+    quality: 54
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
     publishedDateTime: 2019-12-06T15:42:00Z
@@ -47,6 +43,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "mf+jC2KgWAOrjGf1K2XMAqjUljGdf0YMB8y2KbW9UjzkH5DjU1GpCYtpwm4ThY6a2YM/98NIHKqU0A8WyfhwQFajrOjtrpxsjRKIZnuv6HhSeOCQZwUp2orBee6oBvN7tqPQUBq20eftOtu3eJvPeYlb8/vkyaFmfwokACBhXmQfirHUIPzQUUvcMRS7FScbw+09M2JrKwzlvVtBw2s6NDp7XfBX/gSUTlYmEo83o+g0V0oMRYVqHTZ2HV90BT2aZcLnlRml/cQh3VrHy79MDA==;I4eFbMB8jyCA3w8sB+V7Pg=="
+secured: "OkhCgHST/dJ0WXpGxm5+WX56a2Ph/nQSvXf/tBfHyd0+j8Onl7yAMSbtpnQ19nQn7dxD6b+vbCy1MqV5EiEu3WYrj0Il+XnZOV+7nOJqkPwtMjUYoLho8p9aC7qvu2gz1UXZ25T+0kcRvmmtyjeKAwqI9tvQG+OboKI3pAfmJCRiJwP/YCqgwY9w6twsRIwe6FqaSIwDzqCD1g4s4KLOYcSlePtnO4O03Bw6QkDQW1lW3lvDXtL753OctONpikRLvvyGZ9ZtXNpBJLybbss+YA==;jMVY3jo0lE6nODLuRoJROQ=="
 ---
 

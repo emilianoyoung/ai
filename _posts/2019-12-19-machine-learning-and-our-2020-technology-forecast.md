@@ -63,6 +63,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
+    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
+    publishedDateTime: 2019-12-18T18:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "9SYdXgkmbV9tKWj5+a8jQIjVIKC/yhSFdWgSmr11H6BpzevV33qEpYArDSZAou5aRpyYdtZuUK2myTCNUrpk7MMhfG6bH4QK8WU39dIxJEY2oGL0d2O8Lsc4LotuYF8ADbjb2wnqLsH5jRoThow49N41dpkqdTQlkqYsBdicpajUNKiYDhdDAme+6pS7inIS5Hhhfuhsi7rwIh4CCnHCmqwEV1ANq5uHsehHqmI86sRjAmQgUFWcQhhDBZaCQHgZ8eTaGOcjFfKTB9gBTRLKtw==;s5Cbsu5kq+nnxkLG0fPddg=="
 ---
