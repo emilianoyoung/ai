@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T04:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-chip-industry-latest-trends-demand-and-advancement-2019-to-2027-2019-12-26
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Speech-to-text API Market 2020 Latest Advancement and Precise Outlook – 2026"
+    excerpt: "Recent Developments:– In October 2019, Google launched a new recorder app. The new Recorder app uses speech recognition and Artificial Intelligence (AI) to transcribe lectures, meetings, and interviews, which means that it must have enhanced capacity to denote separate speakers, clarifying the audio streams. – In October 2019, Microsoft ..."
+    publishedDateTime: 2020-01-02T06:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-to-text-api-market-2020-latest-advancement-and-precise-outlook-2026-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

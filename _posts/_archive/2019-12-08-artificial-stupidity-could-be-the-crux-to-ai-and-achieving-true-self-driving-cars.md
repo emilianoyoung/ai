@@ -166,6 +166,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
   - title: "Volkswagen Takes Stake In Self-Driving Startup"
     excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
     publishedDateTime: 2019-12-15T18:34:00Z
@@ -193,6 +206,6 @@ related:
         width: 700
         height: 413
 
-secured: "jFrOuh0ne021yp3ebXSMQxi7CNAaDEEYNkWPS3yJRQOuN2Mr3O+AIFlMJWAoZ0+bThGUnxAEAMxPghANuB/TQaIxVGvwTaJaV338u7+E9g2kQWfbMV3ieOeQNN1V1ZtpGP5JbNBbSSC/7pEzApHlOkBI/NHPlV2Gy+Ygr4lF2i4wGrQQjY3N7xYnllSi26H0MkXVj5s8QD3kBMHkxM/uTP/uyfLaa1RPjWt92UBiQncJGfKdh0VVhejrLiOlr8TmgNIywpzOuuHmYNrlowsBZw==;L+lOQa5tKLEPgUKx3bpQJg=="
+secured: "cMH/NHe0vNMtcBToTa+8rOIy+E762qNd6Mb67zDSP5lUe+Pq2BNzQVVZ0Mje40UD6+3rljXN2QWzKuAvXW9EErOEuNJKrLDmfXnxLkkOxHTRkGnRRSFaRo4ApwrgVTEgoK0ObQppTHMLO6lScbSBUlQKnsceGLCYEmvtyOOh10B7bRYAXToPbgsTJkCDik/O0oXYSX52JEBv41//78ahpT0Lnkf2YQ5djsjVd8tvrW0RitDlbVvjD3gbtOkuldwlpFNz2nZ0osrnHfcvnv4xzw==;b4jplhncaK0pQ7CRDPEHgw=="
 ---
 

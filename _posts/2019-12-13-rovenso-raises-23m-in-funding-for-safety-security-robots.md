@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
+  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
+    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
+    publishedDateTime: 2019-12-19T14:20:00Z
+    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
+    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
+        width: 700
+        height: 393
   - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
     excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
     publishedDateTime: 2019-12-22T13:06:00Z

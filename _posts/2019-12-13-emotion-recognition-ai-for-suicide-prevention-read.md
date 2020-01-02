@@ -67,19 +67,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
-        width: 700
-        height: 445
   - title: "AI research and big tech"
     excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
     publishedDateTime: 2019-12-16T15:03:00Z

@@ -67,6 +67,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Speech-to-text API Market 2020 Latest Advancement and Precise Outlook – 2026"
+    excerpt: "Recent Developments:– In October 2019, Google launched a new recorder app. The new Recorder app uses speech recognition and Artificial Intelligence (AI) to transcribe lectures, meetings, and interviews, which means that it must have enhanced capacity to denote separate speakers, clarifying the audio streams. – In October 2019, Microsoft ..."
+    publishedDateTime: 2020-01-02T06:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-to-text-api-market-2020-latest-advancement-and-precise-outlook-2026-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
     excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
     publishedDateTime: 2019-12-20T07:52:00Z

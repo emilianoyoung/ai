@@ -53,6 +53,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Speech-to-text API Market 2020 Latest Advancement and Precise Outlook – 2026"
+    excerpt: "Recent Developments:– In October 2019, Google launched a new recorder app. The new Recorder app uses speech recognition and Artificial Intelligence (AI) to transcribe lectures, meetings, and interviews, which means that it must have enhanced capacity to denote separate speakers, clarifying the audio streams. – In October 2019, Microsoft ..."
+    publishedDateTime: 2020-01-02T06:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/speech-to-text-api-market-2020-latest-advancement-and-precise-outlook-2026-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Data Science And Machine Learning Service Market Enhancement, Rising Growth, Demand and Developments by 2025"
     excerpt: "Jan 01, 2020 (Xherald via COMTEX) -- The Data Science And Machine Learning Service Market as of late Published Global Market look into study with in excess of 100 industry enlightening work area and Figures spread through Pages and straightforward itemized ..."
     publishedDateTime: 2020-01-01T16:15:00Z

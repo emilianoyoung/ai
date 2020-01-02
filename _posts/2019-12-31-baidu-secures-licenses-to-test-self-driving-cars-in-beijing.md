@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 229
+heat: 249
 published: true
 
 provider:
@@ -45,6 +45,36 @@ related:
       - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
         width: 600
         height: 315
+  - title: "Germany's Bosch to offer lower-cost sensors for self-driving cars"
+    excerpt: "German automotive supplier Robert Bosch said Thursday it has developed a sensor that lets cars “see” a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles."
+    publishedDateTime: 2020-01-02T08:16:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-bosch-lidar-idUSKBN1Z10EK
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10EK
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10EK
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3220DD48849E2DD7403F5FFE630CF54B
+        width: 700
+        height: 423
+  - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
+    excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
+    publishedDateTime: 2020-01-02T08:03:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/bosch-lidar-self-driving-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/bosch-lidar-self-driving-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bosch-lidar-self-driving-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.970CBABFFC89A672594B4944739CF1B6
+        width: 700
+        height: 367
   - title: "Baidu can now test its self-driving cars with passengers in Beijing"
     excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
     publishedDateTime: 2019-12-31T09:47:00Z

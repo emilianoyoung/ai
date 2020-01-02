@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8AD437707C8425737E0EB28D7CD70A1B
         width: 700
         height: 435
+  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
+    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
+    publishedDateTime: 2019-12-19T14:20:00Z
+    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
+    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
+        width: 700
+        height: 393
   - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
     excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
     publishedDateTime: 2019-12-16T21:00:00Z

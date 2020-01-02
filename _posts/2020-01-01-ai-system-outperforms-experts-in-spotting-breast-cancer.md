@@ -2,21 +2,20 @@
 category: news
 title: "AI system outperforms experts in spotting breast cancer"
 excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-publishedDateTime: 2020-01-01T18:00:00Z
-sourceUrl: https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
-ampUrl: https://amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+publishedDateTime: 2020-01-01T23:10:00Z
+sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Guardian on MSN.com
+  domain: msn.com
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
@@ -40,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8564E70EFD9D0BA0124C593949414644
         width: 700
         height: 525
+  - title: "Google's AI can detect breast cancer more accurately than experts"
+    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
+    publishedDateTime: 2020-01-01T17:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    ampUrl: https://www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
+        width: 700
+        height: 367
   - title: "Google develops AI to improve breast cancer screenings"
     excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
     publishedDateTime: 2020-01-02T00:58:00Z
@@ -184,6 +198,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
         width: 700
         height: 366
+  - title: "New artificial intelligence spots breast tumours that trained doctors miss in 'huge advance' for cancer patients"
+    excerpt: "Artificial intelligence that can help diagnose breast cancer more accurately than ... AI tools could now support clinical decision-making in the future and relieve pressure on healthcare systems by reducing workload. Dominic King, UK lead at Google Health, London, said: 'Our team is really proud of these research findings, which suggest we ..."
+    publishedDateTime: 2020-01-01T18:00:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7842845/New-artificial-intelligence-spots-breast-tumours-trained-doctors-miss.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7842845/amp/New-artificial-intelligence-spots-breast-tumours-trained-doctors-miss.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7842845/amp/New-artificial-intelligence-spots-breast-tumours-trained-doctors-miss.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.28D3C45D4EE8E623DA4C18D1ED9B0426
+        width: 636
+        height: 382
   - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:56:00Z
@@ -225,19 +254,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
-  - title: "Google's AI can detect breast cancer more accurately than experts"
-    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
-    publishedDateTime: 2020-01-01T18:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
-        width: 700
-        height: 367
   - title: "How Google Is Using AI To Improve Breast Cancer Screening"
     excerpt: "A study about the technology was put together by Alphabet’s DeepMind AI unit — which combined with Google Health several months ago. This technology could be used to help reduce errors, which is important because one in eight women is affected by breast cancer globally. The team also included researchers from Cancer Research UK Imperial ..."
     publishedDateTime: 2020-01-01T19:25:00Z
@@ -371,6 +387,6 @@ related:
         width: 500
         height: 500
 
-secured: "IMdbLGpPj0NCFOWjKZMfg5MXdr5pA0XPlU6wbLTrlW5l/+yKcpggLIHF8qiSkIHbmk7eIaOyJv+5it/3mx1WpK5jvBuUhRXp1uhfqwexe6tymsNJdKkXJaFxv4rHQLjOCK3UROlhh4X2I3+p8Yb8hzPCkzHSIijN2Oic/M3nRFZQ0SYwTxUNWPIBD3MFnj26xxB6p7RViPAP+/sD6BZ7JGraTYuXe2gYFBYdRgMw013Uk7BuWgMoBczv8xkYE8RLO8jVba+Wf1j0i5F/JT4tWw==;+Os7PJuTIETlQXoO0A8c3Q=="
+secured: "RBdccMWnooZsWgmkiMD8wg5pIp6upVfl5WuTeY39OCHabWBucfS1xXQQGzEcVHDfmIEBftoiZK/+5r0CeKJDCYn6I5Ezr1HxkPttttA8kscOF57hVTL/4QKQZQnmZF8GxwnYP32TDNRO/PWAM5A+OzmjENfjm2ondNvRgZ33NbPeAYn/57ZEEdCvt3F3wzMU2Rmr/oWOn2iASRfDskqlQz9u/KQgs8n5MrBJKOyQQIC027z6dzq//wqyKoMJH64VhUwklhtzCGhVV9fNowWmAw==;dn8p7M4diR7MULvG7Il3Mg=="
 ---
 

@@ -71,15 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2B74CB934E80273CDF7FCBFF158A0509
         width: 400
         height: 400
-  - title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
-    publishedDateTime: 2019-12-10T13:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-worth-133000426.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 3
   - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
     excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
     publishedDateTime: 2019-12-17T13:21:00Z

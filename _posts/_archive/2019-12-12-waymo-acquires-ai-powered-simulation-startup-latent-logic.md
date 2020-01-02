@@ -162,6 +162,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
   - title: "Volkswagen Takes Stake In Self-Driving Startup"
     excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
     publishedDateTime: 2019-12-15T18:34:00Z
@@ -189,6 +202,6 @@ related:
         width: 700
         height: 413
 
-secured: "/6uFY/gXmQJxjzB5xTAFKSJf0OvOXwBrKY/IKFKavVL4YAojupWCUcQKxSO0XcoCZct35B0h36cjgB7JT91YBh2T5JWtTq0tHdimC44kenCvbEzuUIYt1Zra+x5/IzvLjf1HbbeH7aiIG+Ns++a4ONqGdRSqdlK1MSn4toxpaQtPcQwIgpFQO6u7Y6Iz+MBbSzCqG5d4j8NUTJDl4hFcagiByofSeChYSyjR+GwQNti3qlNXqZDSYuxQGqf4sdSqK68l3jq83YTe7Vf8Xhu0Eg==;Fdu0KEU9m7t+UqHUAhR4cA=="
+secured: "IVnZ3K/1Avngqtqm1s9jXuuLlfxzBONvVB1Bl/2PIY3Q7rRtwPkyAg6hsPb0j0MmONfwwR1qP65U11kBn71tZVJ6PErHJAtcwdrjtJ85JSw8PUi4IVh5wF6CN2dw+0suv2IzMp6IEmocoJRwfq5ZbfwdegptS9fVWV/ucDj8jVwn3fdVhqtg0z31JT7agFDxfaTigZyXIh87lywXGupW4IoWIYz7qRvtxCELxqeJ+YCE4BitRD1GTzpvbgUxsml+c1ZIo7QoZV7joZy7QYeZHw==;25CZAkQwKu+PhprvWN1J9A=="
 ---
 

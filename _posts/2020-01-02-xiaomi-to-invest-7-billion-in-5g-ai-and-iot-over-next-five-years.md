@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
-excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-publishedDateTime: 2020-01-02T07:46:31Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/xiaomi-to-invest-247-billion-in-5g-ai-and-iot-over-next-five-years/ar-BBYxwAZ
+excerpt: "Chinese smartphone maker Xiaomi Corp will invest more than 50 billion yuan ($7.18 billion) in artificial intelligence and fifth generation internet technologies over the next five years, as competition in the sector grows."
+publishedDateTime: 2020-01-02T07:59:00Z
+sourceUrl: https://www.reuters.com/article/us-china-xiaomi-investment-idUSKBN1Z10DY
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10DY
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10DY
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.199BFAAA5DE083228639AD97B36FFE5E
+  - url: https://www.bing.com/th?id=ON.C7AD093C959CBA410D9CA11DF03727E0
     width: 700
-    height: 367
+    height: 470
     title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
 
-secured: "68hl0tXGsIH1A6t2c/OOea7Ys0TnXCSNuukwMCifQ0Mw7JymlwjAKvCbNLlrn+CrBjhwEmJPqsSChIjT8wLSglWg9lw8gUiIPi0FUVjsxttkFzQF7YKhfMl9L6CyO2nhRCBBW/vPGlL1aoa2vkgL80zYgkjiYepMwXtp2RMFGW+s/HIvugeVbj7l3M8JIoKyGFywsE/2ojSH2PbPn0Xc60InGoBjdPgmJs3rULLe2QE0VeVpN0mgv50F5Sg1Wlmq6fyxmzwK14t98XqPEOSeaw==;gH6yy/Kz+Lp9NOLwxpXEKg=="
+secured: "MnNxO2Kannq91QGa1CJ7Az+OZ21nIc1ng4mxVvWelidW5wfjXFkTsOxQMeyqn+WtT7EDRqdrEg19pCkBCqdDJdWjDzGJAwp6usB8sJucJkEfcWwhJv9TnWt/FeAy30SPxvWapMOeVHUoIjDe3lGtHWhOhlXIxzP69E/rv8qcHXWiowv1jXu7d9Cuw2LdW3GH0e4+3+Slk755raJe874HLFs10Q3fv1qKkjF8C2+GRTXBdEFBppbFLdveA3qKr/7y+gg1/OLepa3w6VY9ROZmww==;k7jJ4YGEs5wKuT0hw9Nawg=="
 ---
 

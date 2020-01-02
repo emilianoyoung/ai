@@ -79,19 +79,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F42E86371031DFFD4BCFDA8D4FB02C8
         width: 615
         height: 384
-  - title: "Face recognition tech is everywhere at China’s new mega airport"
-    excerpt: "Flying in and out of Beijing may soon be a Minority Report-like experience. From the ticket turnstiles at the train station, to getting through customs and even buying a duty-free bottle of wine, facial recognition scanners are everywhere at the city’s newest airfield: the sprawling, starfish-shaped Beijing Daxing International Airport."
-    publishedDateTime: 2019-12-13T07:32:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/13/face-recognition-tech-is-everywhere-at-chinas-new-mega-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
-        width: 700
-        height: 445
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z

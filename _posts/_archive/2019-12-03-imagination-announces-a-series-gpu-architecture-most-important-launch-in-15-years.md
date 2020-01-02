@@ -23,6 +23,6 @@ images:
     height: 381
     title: "Imagination Announces A-Series GPU Architecture: \"Most Important Launch in 15 Years\""
 
-secured: "jD3IPXvaXZxD74lJQ8GYOQqUkSlbjkuoS2bghnl63X402tpKo9cxH2YBGSRuL1FGnfV2Q+GvEWmNHroUMF/0awi3gu0QCagtC8JjJVgXhZlf+fHdDh4+eCSpppDd6ceQ3+iO2f00hsMXZbJ17P2KnzuiHzVMbbX/HJvt/2m1lfjYfDh19DpXeode1sO/54dAinyLNjc+R2ilbQZ6to53m/gF0IKTj+pwLF+v9mxMicZ5eHIyqyFPKX3zlLXSJxSQvK+Yuerd68bdcbDxyu57Fw==;W0TMUl3FDY3NBb6gf2Kfeg=="
+secured: "4cxvLFX9BHKH2U3TbSgZuE/h3bhJ0iUoQ8YMSI9HnajXEIWre3OEpAkUqTsC07gZNnvTDPtuBYF57HW7v9vWltrtTUUw/TP0QiUd+72Vd8JNzNVgMUupRrdVz0at9IonV1xsTG/anYTGFrg/B/w2UOWngD/g23FcKurh7ECKeqCNJyQvs66yildS1CEKbC02gZ//jf2wBr9GAnvpcaHD3a2C0N9VNksvaxp180J4Xe9YzH7S3zUZatfYMKth4ZysPyK413479wseNVdBV1beBw==;3awh/VxJVy1ElztIMelJJg=="
 ---
 

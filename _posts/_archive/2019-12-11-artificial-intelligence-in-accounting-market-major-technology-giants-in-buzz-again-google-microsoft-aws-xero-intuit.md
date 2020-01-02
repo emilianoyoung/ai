@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-11T12:06:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-major-technology-giants-in-buzz-again-google-microsoft-aws-xero-intuit-2019-12-11
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence in Accounting Market Major Technology Giants in Buzz Again | Google, Microsoft, AWS, Xero, Intuit"
 
-related:
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
-    excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
-    publishedDateTime: 2019-12-13T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-technology-growth-advancements-and-business-outlook-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-
-secured: "jASiAs5w5+boFVrbw7Gx1v2ccozs2K0GUFwbyZ7u6VhnXzPL+7oQpa02MQIvZET13y2mI8cnmAxYpduOJHUH3LGs9FuplFybMOLFRrQxGlNOl+171BQjhr3zy0P8rj5ZWobgCqjwafS6eeiAqFoVDAZXtOhCacXvXJIxLKUAIx3odwlO1H6oXC/6KJHycVLQRpStNHuDePftFqxfTH2yLgihSlcgV5pchxJxifWZufSPGZ/ctqj8HlWlb/JWyJAKJ791PQ9rdUw2MarLzky9WQ==;Aa2L2+LaKHKuBAyZWLAZNA=="
+secured: "i6tKBZkaF94DT8I5B0qvuydupLXj1T9qHw6dLzfLBze/offcHoE2HyY98Q7WbLc+g1r6KSYKBXCYSCUPGcxqjmnQsEHl+t0/3pD2UGUYusHsITgoBb4CVJf3eu2E0FXB+YX7+FQzEdpuNXUFHNxY84xuUuTgqE8V/YG+eB5FV119+wXaaU2MbeRkQEqOOkkU8KGtToZR0+g7fTa918tTn8Gh/TJrsvxuSIpMopphBRS9mJ4OB74+iEmAN+kLRfxh4cIK96Fjrf1oe6FWmZVzIw==;BS4OeI0w2HAA3h6EXdYbKw=="
 ---
 

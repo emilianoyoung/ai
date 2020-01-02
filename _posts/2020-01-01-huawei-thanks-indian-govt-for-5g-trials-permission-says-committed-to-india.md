@@ -24,6 +24,21 @@ images:
     title: "Huawei thanks Indian Govt for 5G trials permission, says committed to India"
 
 related:
+  - title: "Huawei Thanks Modi Govt For 5G Trials Permission, Says Committed To India"
+    excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
+    publishedDateTime: 2020-01-02T08:18:00Z
+    sourceUrl: https://www.newsnation.in/technology/tech/huawei-thanks-modi-govt-for-5g-trials-permission-says-committed-to-india-249458.html
+    ampUrl: https://www.newsnation.in/amp/technology/tech/huawei-thanks-modi-govt-for-5g-trials-permission-says-committed-to-india-249458.html
+    cdnAmpUrl: https://www-newsnation-in.cdn.ampproject.org/c/s/www.newsnation.in/amp/technology/tech/huawei-thanks-modi-govt-for-5g-trials-permission-says-committed-to-india-249458.html
+    type: article
+    provider:
+      name: Newsnation
+      domain: newsnation.in
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.453FDF20E86FDFC18B65E9EE8B9935BF
+        width: 700
+        height: 393
   - title: "Huawei Thanks Indian Govt For 5G Trials Permission, Says Committed To India"
     excerpt: "The 5G networking standard is seen as critical because it can support the next generation of mobile devices in addition to new applications like driverless cars and gadgets made out of artificial intelligence (AI). Huawei rivals western equipment makers, such as Ericsson, and is banned in the US. India on Monday indicated its unwillingness to ..."
     publishedDateTime: 2019-12-31T13:39:00Z
