@@ -56,21 +56,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:47:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
-        width: 1024
-        height: 576
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -96,6 +81,6 @@ related:
         width: 580
         height: 358
 
-secured: "q5zqFggX/2Vf5t4v2DjCgeLWJxkF9UWSu/sSvsYlCudy3dfrjd5s3wZ4yhioZJKRUkhymSnOp9OLsdCyS5/EpeguWqR8kZiYJrzWqJOUuXUqyg9atnc7umxEfYfyzC0nYIaparX7Cu2oPCLyS3OQmT478dL0d7kYlY2aj/fWd6v3aXiqZpDdt2/454XRHyS+cRYFYCYlV9IrqJVAVfhNq+kgQ+iuosWZxpFIdEc4GvaujzXe1ut8u5vEmy8U4Qv+QrG5BK+EBfTpNHl53OMlQA==;1GgIQiRMrUtBCBAqjwM6dQ=="
+secured: "b31Aii+/76UEViFVsW/LVqOfaHhfBrXFCtgbHgsmuKGh0IbPwn2yKIMkLo95hPs3byoGyjCPSOSva8SjUzeMR+CDQmPrIN2NR4WNeHB/5yUCyqEOCIEpHGvYY+gOyUmRgzqWHdkJ/JI6xhReVoZn+HP9280RRn2hdXm5/DCCdao6HaHbOLms9+vCi/anRowRHyu6+5W3U1A7fjs0yeTHuI/ZVKoap4KkS9GTBbnce1TsSgv97hlhtBwI8T1MOTc8tKyFtGCkJUpk5YhvWjMGGA==;YcKyGRBCoUYPkgo6Zmxuow=="
 ---
 

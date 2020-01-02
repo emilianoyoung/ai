@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
         width: 600
         height: 315
-  - title: "A Sobering Message About the Future at AI's Biggest Party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-13T09:00:00Z
-    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
-    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
-        width: 700
-        height: 366
   - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
     excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
     publishedDateTime: 2019-12-19T18:49:00Z
@@ -234,6 +219,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "Shuw+RTEhyd8myA8JHyO4Arucc9une/ELzsVf5Wu+xLkL3bfMgo5iyMixD+RXzHTwHl7AGhuQcC76K++bPHbkazdJKpWXzBAkBhRUZ9vZw02GdDKmnyjWDSN8KvGaDScdlhvq2sIV50pVVGPTYf1QNHxOmDyAZ92TFPP/+kByYqQ1j0jfahbcqFXmm1uoss+UKpk+X75XKdcHRAbyRVDRLTK4FtAW0L329ubaRNObf9qRezr8BEpbry/qgpjAg8KBJot0kGtjdgB9pPtq4Ngmg==;H/FzN37Er1XG589R9gzOZQ=="
+secured: "BP5z1i2KSj86LYCcylTwK9TGZiStBjCuF7RAVWxpc8GVbE/j74CJ4xz4ITZnS4YknJmT49E1zRxCxOpd82yiBACV3FkxCxyphSYYC+7Z6rpxq0lvYDIxgTJ9VHKDKiq81GfXsh7FwIxJBYUQfSBuEDeMT31lUpX6Ykf4X61e8d1GhbwXAjspuYBixxs4ErJ2P3mKzwDbkKsld9pKgESaviS2fOnL9zmu9BB6nv9R3fCexgfflBFXxPrXJQtq6frT/QMQj7Odi7ZB7Tqh2G2Tfw==;wJeKvgxg8A9je/dgOgn5rA=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Klipsch’s next true wireless earbuds will include AI and gesture controls"
-excerpt: "For the second year in a row, Klipsch is introducing new true wireless earbuds at CES. Last year, it offered the first glimpse of its T5 True Wireless earbuds.&nbsp;"
+excerpt: "Now, the company is expanding its lineup with three more true wireless models. The Klipsch T10 True Wireless and T5 True Wireless ANC smart earphones both include AI, gesture controls and active noise cancellation. Though, the details about the AI are limited. All we know is that these have \"a built-in operating system with embedded artificial ..."
 publishedDateTime: 2020-01-02T06:30:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/klipschs-next-true-wireless-earbuds-will-include-ai-and-gesture-controls/ar-BBYxeTz?li=AA4Zoy
+sourceUrl: https://www.msn.com/en-us/news/technology/klipsch-e2-80-99s-next-true-wireless-earbuds-will-include-ai-and-gesture-controls/ar-BBYxeTz
 type: article
 quality: 36
 heat: 36
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9EC2AF07E2033C49DCEBCE0E453DE0B3
+  - url: https://www.bing.com/th?id=ON.7815F25D84AE490D63503BBE492D0BDD
     width: 700
     height: 367
     title: "Klipsch’s next true wireless earbuds will include AI and gesture controls"
 
-secured: "OBc/Uf/tSZ/G9iSEga7UgOdy+cszBPXmBTNZnus2ikvTQcg3lCSgYXdfeIHTRVaevnD6vVvV90ANArTyjWSEUO+wtrvllRjH4kgcy1CvOixA6u64UnkbGavq/gaoVXC7i66wcgYfZkI9MkI15k68MLRWlXh1rW1KGdH9nPvv80jacGCs/8nSqyUpwD2PBhHGgD1SaSOmoJPUSR+cMsetsbbmVMAl144GRDGJtVc781o8Kxl0mTQM9zsBD0bui5IigPB6Leu6uf2nHPAgjnpy9w==;tw9NwTHU0ot/DgkgDijfrQ=="
+secured: "mpho2q7eyqxu5gSieF8cDjOQ5g59VMUS7r2KQUlF85zgNnmnEKXHolJb2rHFPpWGGfGeHuSk6UH7Uwk6ywfc8d6gsGTIBq0NrwRu3MUY6Hl/R8rqbV4fu+4WiEisN2TJgnbDaNbcQYpGUUNyxmABIAt5FyDhNc7NbiDJ2Ss/+SLXoNu65RmkEQEwHUfL3gzUTDY8PAoqopbIU0dSK7c3TG1nHZUvRVqSSeF/xnJ68Hl/g1ug0HcNfOJ77g/zgFYL/Y7lQBsaOLmiHcdJGUEesg==;dt3vCW/DmvZxX4f0c14QWg=="
 ---
 

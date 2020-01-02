@@ -23,6 +23,21 @@ images:
     height: 364
     title: "picking the AI elite"
 
+related:
+  - title: "Taking AI to the edge with HCI"
+    excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
+    publishedDateTime: 2020-01-02T09:46:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/taking-ai-edge-hci/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
+        width: 580
+        height: 305
+
 secured: "pDqCcc8ZmEUCwfRJ31LKaVr1mTd74gurkKJGWG919xvLyk0nX/S6nbFKUWnL9VWgg7m7hz5ISh5Lyc1iV031gLL2I62PFPE9fofLqdkDQZ32GfsiDCFOPp9oPb5drhzdZZ4RYnlBVAUlo4C99D5U8rbG+HuufqSflKndLUy11AKrAQjcjq/fKKVPTzotfWdYxTJPsOsuPFLCoKe2saeRZFObfmwf24VJiKS9+XTmchYozGLXn78b2awFcmWXYjM4CfbvBTcbwJnTdPdX2xRn2w==;tR9i+WRXvFl6wvkZrBLyQg=="
 ---
 

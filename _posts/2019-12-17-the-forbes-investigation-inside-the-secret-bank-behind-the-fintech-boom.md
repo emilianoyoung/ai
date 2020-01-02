@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
         width: 600
         height: 315
-  - title: "A Sobering Message About the Future at AI's Biggest Party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-13T09:00:00Z
-    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
-    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
-        width: 700
-        height: 366
   - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
     excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
     publishedDateTime: 2019-12-19T18:49:00Z

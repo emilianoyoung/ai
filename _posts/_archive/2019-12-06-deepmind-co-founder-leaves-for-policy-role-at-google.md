@@ -61,21 +61,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
-    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
-    publishedDateTime: 2019-12-05T18:47:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
-        width: 1024
-        height: 576
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
     publishedDateTime: 2019-12-06T10:24:00Z
@@ -90,6 +75,6 @@ related:
         width: 580
         height: 358
 
-secured: "kvVfa6qXUW44kCObPTRLV8P8aAUQRfgdvFakneD9ZgNZN6s0w0rhQ4q0pfL6opCpLJlLUNvnGatsDS9vH/WA15pZoXrBMKjBeqX0OeLP5dyso1prSA3A+OIRAA0k6G2yF1dtwWTOrL1Uc3NokX4Hx90mi/kUlTXZjm1qOw8+LTUvD4/GcXTA4DCeUIZZ5K8pc5iYBi6M+uNRlUoEsPatl/o7ufIF2N7qu0byZNmqOZ7xXJYsg5TS13qtFkKCpbMhc7JC1GPH1YTT1xrpMrqo4g==;5N/be+zksr1ECjzAQ4Oavg=="
+secured: "rTwGiftiiNIuJg4uI8Fq3M5j4RP6qFza3XKMnbPIGM5OGOlONEsnUcfEzLGKjfJR54GtM3BehQhdF11bJEUwy9OYYtLKyxqOKaj66Y8zT98XEH2qwtUaPqD89ujix0JTn2nmTaasmLrGoDgm9RysQJsKkTf9ViDxSbjj+Ql88mdHKjGHHvsMiLBXJeCoL9CeexaW/mXUJN89gGMniGO4UW6pfNX4y8CdhVZIgQzKZfZ4bHc91uRdlyVB0O39kpcPnwHQxks5VWUOf8ks85eNxw==;fj1KGOG+Z40wWDM+XpIUgg=="
 ---
 

@@ -232,6 +232,21 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "Automation, climate change, AI: schools prepping students for jobs of the future"
+    excerpt: "\"The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,\" Pitt said. This report by The Canadian Press was first published Jan. 2, 2020."
+    publishedDateTime: 2020-01-02T08:17:00Z
+    sourceUrl: https://www.ctvnews.ca/sci-tech/automation-climate-change-ai-schools-prepping-students-for-jobs-of-the-future-1.4750141
+    ampUrl: https://beta.ctvnews.ca/national/sci-tech/2020/1/2/1_4750141.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/2/1_4750141.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.1587069F69E96039D263DE09F8DFA486
+        width: 620
+        height: 348
   - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
     excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
     publishedDateTime: 2020-01-01T12:40:00Z

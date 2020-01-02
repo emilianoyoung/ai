@@ -233,6 +233,21 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "Automation, climate change, AI: schools prepping students for jobs of the future"
+    excerpt: "\"The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,\" Pitt said. This report by The Canadian Press was first published Jan. 2, 2020."
+    publishedDateTime: 2020-01-02T08:17:00Z
+    sourceUrl: https://www.ctvnews.ca/sci-tech/automation-climate-change-ai-schools-prepping-students-for-jobs-of-the-future-1.4750141
+    ampUrl: https://beta.ctvnews.ca/national/sci-tech/2020/1/2/1_4750141.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/2/1_4750141.html
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.1587069F69E96039D263DE09F8DFA486
+        width: 620
+        height: 348
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z

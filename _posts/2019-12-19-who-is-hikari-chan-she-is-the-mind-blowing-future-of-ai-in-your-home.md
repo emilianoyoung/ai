@@ -59,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
         width: 600
         height: 315
-  - title: "A Sobering Message About the Future at AI's Biggest Party"
-    excerpt: "More than 13,000 artificial intelligence mavens flocked to Vancouver this week for the world’s leading academic AI conference, NeurIPS. The venue included a maze of colorful corporate booths aiming to lure recruits for projects like software that plays doctor. Google handed out free luggage scales and socks depicting the colorful bikes ..."
-    publishedDateTime: 2019-12-13T09:00:00Z
-    sourceUrl: https://www.wired.com/story/sobering-message-future-ai-party/
-    ampUrl: https://www.wired.com/story/sobering-message-future-ai-party/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/sobering-message-future-ai-party/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.EB739469F8A02125D45C5EAC8DCAF0DB
-        width: 700
-        height: 366
   - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
     excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
     publishedDateTime: 2019-12-12T20:53:00Z

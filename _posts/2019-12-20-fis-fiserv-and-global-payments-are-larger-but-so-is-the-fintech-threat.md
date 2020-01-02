@@ -108,21 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
         width: 700
         height: 466
-  - title: "Are We Ready For The First Patent Filed By Artificial Intelligence?"
-    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
-    publishedDateTime: 2019-12-13T08:49:00Z
-    sourceUrl: https://news.yahoo.com/ready-first-patent-filed-artificial-084900026.html
-    ampUrl: https://news.yahoo.com/amphtml/ready-first-patent-filed-artificial-084900026.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/ready-first-patent-filed-artificial-084900026.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
-        width: 700
-        height: 466
   - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
     excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
     publishedDateTime: 2019-12-16T08:56:00Z
