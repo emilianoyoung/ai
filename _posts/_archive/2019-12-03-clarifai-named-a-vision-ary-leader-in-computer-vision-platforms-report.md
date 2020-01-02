@@ -2,26 +2,24 @@
 category: news
 title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-publishedDateTime: 2019-12-03T15:19:00Z
-sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
+publishedDateTime: 2019-12-03T10:13:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-1028734163
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Markets Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-    width: 700
-    height: 366
-    title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
 
 related:
   - title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
@@ -34,10 +32,10 @@ related:
       domain: newkerala.com
     quality: 54
     images:
-      - url: https://www.newkerala.com/news/pics/r/destination_wedding_iansf.jpg
+      - url: https://www.newkerala.com/news/pics/r/jasmin_bhasin_iansf.jpg
         width: 500
-        height: 272
+        height: 454
 
-secured: "ggqI9Qh5DXKepzmnClQrC5ed6u/u6B99UvSPS7RYsdytfYzsAD1Hnp4Et58Wso8tSDToGcSz29VYHZGdrkjYTEI6iIcrxAVJqn4UmutyujUsD0fchNsrD6qi7qu0+r2NGMYTPQP0SGT7pWl+V4+t10zxvgrK9fU70iAXs3xbf6Tge9NWTcsVhrWgZTUxFiRm1WsP7yrb6kZV+eSGC1jqLYNvxlXd+rcZqQVgXpDrmoe8PxgwYAJsNqk3Y+jSO83M8ksTodjvpV579GCe1zge4Q==;dhXZka1duhIUk8qsGU7G0A=="
+secured: "Xl4z5eScWw3evHBgi9gmgQC7ypTSp8ULLYaTyOg0mZPiTCRchbfYSU6jqViWUN8seaCXs0ZFEJJiSIyM9Cez62rIN1msS72cerwnz24VPJWzcgkxNFeHfQJGow2pkLI/8ygvc3dQrjTcweeD6SDR/hPi/YtjABdxJB9xoRUA1WOFQcdqQMPVP73TFpcn4OdPgqKzHLQReN3cZyBtvtVof4Llj5ExaBRfQ8KLnvHw9LQw0Znm5Y6IRBrhdInN6BlUQQvhBkMHtxNfGFV5WAiRFA==;9oKbAVJn0vzK4cU2OE0c/A=="
 ---
 

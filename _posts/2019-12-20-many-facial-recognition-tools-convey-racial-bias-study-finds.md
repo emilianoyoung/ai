@@ -1137,7 +1137,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."

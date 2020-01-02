@@ -23,19 +23,6 @@ images:
     title: "Artificial intelligence to complete Beethoven's unfinished symphony"
 
 related:
-  - title: "AI Puts Final Notes On Beethoven's Tenth Symphony"
-    excerpt: "A few notes ... latest AI compositions have been more promising. Barry Cooper, a British composer and musicologist who himself wrote a hypothetical first movement for the Tenth Symphony in 1988, was more doubtful. \"I listened to a short excerpt that has been created. It did not sound remotely like a convincing reconstruction of what Beethoven ..."
-    publishedDateTime: 2019-12-13T04:38:00Z
-    sourceUrl: https://www.ibtimes.com/ai-puts-final-notes-beethovens-tenth-symphony-2884853
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 137
-    images:
-      - url: https://www.bing.com/th?id=ON.8031F6C566A31B49A2B64DD38D5B93F9
-        width: 700
-        height: 479
   - title: "Beethoven Never Finished His Last Symphony. Can Robots Complete the Job?"
     excerpt: "Ludwig von Beethoven’s unfinished last symphony is being completed by artificial intelligence, Yahoo! reports. Beethoven died at age 56 in 1827. The work on his 10th and final symphony is part of a yearlong celebration of the composer’s 250th birthday on December 17, 2020. The decision to use AI is polarizing in the classical musical ..."
     publishedDateTime: 2019-12-18T17:55:00Z

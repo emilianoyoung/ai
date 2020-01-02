@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-08T05:18:00Z
 sourceUrl: https://www.newkerala.com/news/read/260994/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report.html
 type: article
 quality: 54
-heat: 64
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Kerala
@@ -18,26 +18,22 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.newkerala.com/news/pics/r/destination_wedding_iansf.jpg
+  - url: https://www.newkerala.com/news/pics/r/jasmin_bhasin_iansf.jpg
     width: 500
-    height: 272
+    height: 454
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
 related:
   - title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
     excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-    publishedDateTime: 2019-12-03T15:19:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
+    publishedDateTime: 2019-12-03T10:13:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-1028734163
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 53
-    images:
-      - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-        width: 700
-        height: 366
+      name: Markets Insider
+      domain: businessinsider.com
+    quality: 63
 
-secured: "pZd0wmMbZivJzwG5vYsX/RMy4GsmVlrZoolrTQ3DTNe+IhcRlboZyuPfP+gU3g52d97dISkGSULdiMefxa4C7mPadY4+lZJddDQNG657QV0JyJbsM8VboD+J9Wi3PsK4Dd2vxoy7KmQQ6J/mPvECaqOXXN5X2YIJFKRv5YFobdlqpO91jlLxWwLVtU7kMUWQFHPyIjMLW9vo9SmzDXKnrCYyl7uo+0Jngvl0LZM0dfV8Of2fJN33sShrrUTa9VEpNLGLpX5bKMFopwL5EkgqTg==;7flSDout7gMPtsWSHK6zlw=="
+secured: "4rJUStnPRo41/jefz7CGOmjJ22ldswoGAqk70J3z1agAJ7LUh0/O0i3BtTeEG5+0nx3SGWyja3Qi7Q4/zwla0n3fiaEXsRHXepmA1WFXulJt81roOLWdLqUf4nyJce3PgSHSYRoAUZY5NbMMubqtqeNNASjPC8fRsJ8NkGoTcRLUQZbHNb49YyDeNB/wYgOIafTg3e1m8sdn4iNYVFBO0ztwpanZEckiFolLZQv2BnKezneXsFrBXxP3OyqrB2fUOOpLks1kWTRnPjfm18jyFw==;QJhCCLLYekYKThqOH2AkZg=="
 ---
 

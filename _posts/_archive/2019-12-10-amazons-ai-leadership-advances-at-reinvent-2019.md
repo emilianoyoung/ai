@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon's AI Leadership Advances at re:Invent 2019"
-excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
+excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
 publishedDateTime: 2019-12-10T15:29:00Z
 sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
 ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
@@ -20,16 +20,37 @@ topics:
   - AWS AI
 
 related:
-  - title: "AWS re:Invent 2019 — AI/ML recap — Part 2: Amazon SageMaker"
-    excerpt: "In a previous post, I introduced you to our new high-level services. Now let’s go down one layer and talk about the new capabilities added to Amazon SageMaker: SageMaker Processing, SageMaker Experiments, SageMaker AutoPilot, SageMaker Debugger ..."
-    publishedDateTime: 2019-12-13T07:31:00Z
-    sourceUrl: https://medium.com/@julsimon/aws-re-invent-2019-ai-ml-recap-part-2-amazon-sagemaker-fee83f05a1bc
+  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object recognition. Amazon Rekognition will help users train their machine learning models more ..."
+    publishedDateTime: 2019-12-17T09:49:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 79
+      name: Forbes
+      domain: forbes.com
+    quality: 93
+    images:
+      - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
+        width: 600
+        height: 315
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
+        width: 600
+        height: 315
 
-secured: "fa4PgAIfoma2CvN7QXS7ei43rMTvxfuu2yaAP97JO0xD6uvTnqw1HkmRXVA0+yQQQX3iw0nAVvB9eElfCDCd/OAJ65LjgyX0YT9HvdwiaRaE054A55fK3qiheYR3PGdsUMfnRHUZMHXoVXUOgfipVxc4qDJIkeO1dcyvMLUWOYHEYZ9Blx0npzELnBLIT6xfAb/JSHs+LcLA0wfrWD9TOsVU6jX8mn1zZ9w9WLlTgUbsqcn2gH/lvHHbBI9GiNIPLs5bT9Uyg4Fe6P3xN/9ziQ==;gkGFa1THCIuxTDT9sDbqng=="
+secured: "iR8eteFSDC41b8wnoAxcm8K7aORSjeAkOYdj+QM4k3ptFghq/+uJqpjdwECYCgDerfU7sCLy4OHPNszJuItxwumJGf1J34oKNhRKa3U2RCZdXGcv+hEwMohKwqUoE15VvxsyipY7+OKLlDGqL0LuUahQCsylkgUzVXcnoLmPgCxWDAMC0w9TgAzN9botdPVBKrvqWjM6P3Mz3fFxr+lEHbwBg/nlMdIg4lztLKs05YV9Kpn9JZJoWNMcfgdp7iYQjEX2WX2Efhil5ALklyFwOQ==;40HqC3JkyNV1RXjm0k33jw=="
 ---
 
