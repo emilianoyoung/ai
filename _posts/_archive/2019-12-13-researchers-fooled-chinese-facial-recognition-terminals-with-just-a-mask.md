@@ -1,27 +1,27 @@
 ---
 category: news
-title: "How far should facial recognition technology go in K-12?"
-excerpt: "More K-12 leaders are choosing to install facial recognition in schools despite public opposition and research that casts doubt on the technology’s effectiveness. A study by the MIT Media Lab found that facial recognition software is inaccurate up to 35% of the time when scanning images of darker-skinned females. “With faulty facial ..."
-publishedDateTime: 2019-12-13T18:10:00Z
-sourceUrl: https://districtadministration.com/facial-recognition-in-schools-debate-facial-recognition-software/
+title: "Researchers fooled Chinese facial recognition terminals with just a mask"
+excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
+publishedDateTime: 2019-12-13T18:44:48Z
+sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
 type: article
-quality: 39
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: District Administration Magazine
-  domain: districtadministration.com
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.0FF4AD6724AAACCF04D3A065C2039450
+  - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
     width: 700
-    height: 467
-    title: "How far should facial recognition technology go in K-12?"
+    height: 366
+    title: "Researchers fooled Chinese facial recognition terminals with just a mask"
 
 related:
   - title: "Facial Recognition Laws Are (Literally) All Over the Map"
@@ -743,6 +743,19 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
+  - title: "How far should facial recognition technology go in K-12?"
+    excerpt: "More K-12 leaders are choosing to install facial recognition in schools despite public opposition and research that casts doubt on the technology’s effectiveness. A study by the MIT Media Lab found that facial recognition software is inaccurate up to 35% of the time when scanning images of darker-skinned females. “With faulty facial ..."
+    publishedDateTime: 2019-12-13T18:10:00Z
+    sourceUrl: https://districtadministration.com/facial-recognition-in-schools-debate-facial-recognition-software/
+    type: article
+    provider:
+      name: District Administration Magazine
+      domain: districtadministration.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.0FF4AD6724AAACCF04D3A065C2039450
+        width: 700
+        height: 467
   - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
     excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
     publishedDateTime: 2019-12-15T08:34:00Z
@@ -984,19 +997,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/A0kh.fyOSPdFU9dsoVfVYA--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/94e446622079952b5348711a7f495d97
         width: 800
         height: 533
-  - title: "Researchers fooled Chinese facial recognition terminals with just a mask"
-    excerpt: "Facial recognition has been heralded as a secure way to confirm your identity on your phone or at payment terminals, and with features like Face ID on your iPhone, it sometimes seems like the tech really is more secure than other options. But the tech isn’t infallible, as public facial recognition terminals can still be fooled with just a ..."
-    publishedDateTime: 2019-12-13T18:44:48Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-fooled-chinese-facial-recognition-terminals-with-just-a-mask/ar-AAK6t9P
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.03CFF4E70A3D87DACCB9B36E9648074C
-        width: 700
-        height: 366
   - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
     excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
     publishedDateTime: 2019-12-16T12:36:00Z
@@ -1120,7 +1120,7 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
@@ -1328,6 +1328,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "TL7EZ94uVUabGo5TlT+8uyF0n/YzMMxhxqNG0uHSaDgQ3R1YzMPwO1V1fKudaXNXt3aJsm6kCaQbiKELGqV8GgoHdzYIttIuaRE2RQJ145gWoMcy65jphRRdgyax7Y+TWVkoGYhu7HwPXJoVnQbMBUantmXEPrpIjRMpyMVkbYzPnBDPKUZz4f0n9eeP0hCMKkfpwYuuvSy4VZdpQhH86uuCzgaMo31mTKCtmxwSGD43u35GsvOgT+pkZHgWwO/cazzc/HkaTdsRqr9d/Y8RtA==;KLD8mF4SfnxGNr8d96sXjw=="
+secured: "baBUtBEZTgT/uMjoP3LhUvUwqDNT6csNHwcTTlXKGCY7Y6YRjvFGOu3qJ9I02hr4pvfSiHiOnRCFN8mQSUdeWk/cwthAxryblx/1NZTs87X7mkKqmSNxy85KH0R/ILQ8jG2wgSaB2OIp9ZVPKIrLIcKBEc4FVs58iNX7o6lV1ATkckLuIkQ1W7XIj0UKE2eAOyfjaTpHOPyvpF2OXcVJMCOWnuEdBKbiArDQ2wBYtqHXnkue1dxrly6OwiKX/J8whsxBFfiKAGjPoSe3VBRGxQ==;+7jZfi+PvVyGot2I/gUNtg=="
 ---
 

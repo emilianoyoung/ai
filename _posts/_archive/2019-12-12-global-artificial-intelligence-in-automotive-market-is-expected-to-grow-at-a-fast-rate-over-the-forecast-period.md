@@ -38,6 +38,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "yOhbqLsdn1hodFEOXjn4k/09Afh8N+I4OecZiH4vbKspKBZ5t/11x8rs3Co4g7aGtba51W6uAEI2qxQd3yaFMjlGXgORAlemhfe754XADgUXwgV9su8pRkLv2YyWsb7njOQSniTUSh9d7b/HGnQpfryPc86T8iAeIAV5fE+1p1blizmTNGi9B7ZMQJUQsCOFGW8Ug/DX5DLzNSnHPLSoWQf7nbDiT4lsU9LmxLKpVfgTChKztN2eohUjyR4z7A1V6iGCaqxiI4fkiljrGzvEFA==;FpT01vttWInM/hk06Ol5ZQ=="
+secured: "L2vAlfFmevFGbDqwa2hxxwAEvfbRSznugKMngBnLexfFtT0QBuEa4BfZGoDXtVqbmAk+mF6n0BiRobp7TU0IxuEViAZ9BAZcbkaL2r4ZATkZIHDeFqIU3GTE0yHekaZ+2ZLEu1eQUcOaS5nhOwv/gw7W0yz9Gkz9Et4VjPwwh1JwtYbTqqvYmWGGDe4zxx4IzubKjr5B2Faf1E9hCluxECv0Ct32H1rKSr16chVPHHPJwflwNaZ6MSu7K0416ZHTbXQKDkj71CJExsbc09Ra8g==;VlNDKr++irXBw414bX4nwA=="
 ---
 

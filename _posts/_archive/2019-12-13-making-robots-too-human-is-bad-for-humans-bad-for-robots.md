@@ -43,17 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.10B4F10AFCE58DA0E1A85C93049B88ED
         width: 700
         height: 432
-  - title: "Cancel Sophia and Her Humanoid Robot Brethren"
-    excerpt: "Here’s why robots should be canceled. Follow Jezebel’s Cancel Tournament to see what ultimately gets canceled. Words like “artificial intelligence” and “robots” tend to get everyone very upset. They conjure images of villainous robot overlords, a full-on Matrix situation, or a world in which our entire lives look like Westworld."
-    publishedDateTime: 2019-12-13T17:18:00Z
-    sourceUrl: https://jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989
-    ampUrl: https://jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989/amp
-    cdnAmpUrl: https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989/amp
-    type: article
-    provider:
-      name: Jezebel
-      domain: jezebel.com
-    quality: 39
 
 secured: "EM5fxBA02cRLjbqqWtmMQ+j/qOkzsgV3KrQOi311TzyX1/x7tXP9UD4QuAepTK586v4DAD2VX3uvBT6ngLzT12m/jDLceAfwf6/M27zu5q/itv0aQj6Uu6yphzTYVhyTEgTzxif2sgV3b4w+xrjChrmVg2PgkQfgh2jm/o2jvdM1NKAQGIdsP8CN+dQTitWp+P+7Akq4MfD1ximtn+wHy7VSALwHFgHAe+0BU+avRs7D5wPfjY7kkGFc7rCxhh/5Y8Unna7o7d02BlFj2tBUtQ==;cwZZKrSTK2nGMg+txZfA8g=="
 ---

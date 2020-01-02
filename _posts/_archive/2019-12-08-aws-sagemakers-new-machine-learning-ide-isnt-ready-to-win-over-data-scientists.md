@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -93,20 +93,7 @@ related:
       - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
         width: 700
         height: 466
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "gqlM48XTvYD+zbEcF5Fbs4nPSQ7fBTkDZ3ce3BoAJoYXQw1G9ZJg2GVnczTi87Q2JgZLpOetGCUOfYNdW2xFA+YKaTSHqhZUZaHWJ90idb82siMP7bKrtrv1xOrVqLZfedyZmUnZLepfFG6KNqPjMPR8ZuMdb3sDOC63vjpYo+mzCG2J8OG+z3pBA03u5y52jQgdmA1JKJkX9qyRCVabmtvknQ1KZApexCEypsCrfn1dtnUnq2Wlr9JFhz8EWgzvs7HixdAXB2xsYOjTae3KIQ==;BCpUwne7/4B+eczZkmXbdg=="
+secured: "4CaVJD+CYExFygoOkr0C01I+8tuFxD+nzQAq9FW7Dffx0o9A02K2nYPsaDMj6jh8cVFO5iR878Ehx+eF4pzDxtPOof0xeQUHh7UEg681LbJrEJW5JlOjV65jIKZVPyyE1iHEpkyAK0KHf6DYuNOCPCUzvxntYr76XOGxnR59xRDAOLEDvQBBYdnAxotSdSzKRF/6h/TF16mE+KnoY37oRQRoSkbPKIw2PHOT+HzBZ5Nv2gz6CzzJAFT2y5NBnfdSUNGT3Wwd4XmU1TXVIcqr8g==;EmxqVLNXmBczVVZ6WjbLPg=="
 ---
 

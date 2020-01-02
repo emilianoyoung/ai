@@ -8,7 +8,7 @@ ampUrl: https://ifpnews.com/iran-unveils-new-humanoid-robot-sorena-iv/amp
 cdnAmpUrl: https://ifpnews-com.cdn.ampproject.org/c/s/ifpnews.com/iran-unveils-new-humanoid-robot-sorena-iv/amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     title: "Iran Unveils New Humanoid Robot ‘Sorena IV’"
 
 related:
-  - title: "Cancel Sophia and Her Humanoid Robot Brethren"
-    excerpt: "Here’s why robots should be canceled. Follow Jezebel’s Cancel Tournament to see what ultimately gets canceled. Words like “artificial intelligence” and “robots” tend to get everyone very upset. They conjure images of villainous robot overlords, a full-on Matrix situation, or a world in which our entire lives look like Westworld."
-    publishedDateTime: 2019-12-13T17:18:00Z
-    sourceUrl: https://jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989
-    ampUrl: https://jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989/amp
-    cdnAmpUrl: https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/cancel-sophia-and-her-humanoid-robot-brethren-1840179989/amp
-    type: article
-    provider:
-      name: Jezebel
-      domain: jezebel.com
-    quality: 39
   - title: "Making robots too human is bad for humans, bad for robots"
     excerpt: "An accurately humanoid robot makes as much sense as a Ferrari with a top speed of five miles per ... It’s only a matter of time before the sand fills the spaces in the pyramid and her role is eliminated. From \"Human Compatible: Artificial Intelligence and the Problem of Control\" by Stuart Russell, published by Viking, an imprint of Penguin ..."
     publishedDateTime: 2019-12-13T18:24:00Z

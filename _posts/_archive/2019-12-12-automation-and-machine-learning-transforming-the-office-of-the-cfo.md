@@ -183,21 +183,6 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "‘Transportation Is Broken.’ Cruise CEO’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-13T17:32:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
   - title: "Featurization for Transfer Learning"
     excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
     publishedDateTime: 2019-12-18T20:31:00Z
@@ -247,6 +232,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "nqcJmAKjtbji0aWT08qg3iDLwPUh1zysCoQYouH7xULOIpg9nMcA3pTOBHarf4OjO2a0cppuK0by1ERec/c7baspQZ7z716sfuXpfAxjUMskjeHwoJNAN1yxahXiXd2EfEe+uYFnqUhIqYAhuGP/GHvYsSVF6DRqfZcA4N91B7t0JabmU8JwKJtSHd8xOnSrD5zI1Z6zVVi/npsnyXINeiyL95ql5B5xDWa8v61LMLnmllDHC0BwZNAuYrJXfaD2Kbi/uzgEx59JLfs3nnm3EQ==;S4xF3PFW45W2I3VqzcwlgA=="
+secured: "S1cyveOgpGThoG9Eq/zckryAChnABpDwavcjbomT2IgjbQpSa0qVNnTHqjVzngAkbZG6t582AQFsLbK2J/1d43JPF+bL1Y5LUo+yQTukZ5OA+ps5NU1RH79Ay4rqBHtiQzM0CzslD5Vimk3Krc3SvgsNWqRSjHOUCCtUDLpLwUB8kM66FUh7+8GXjiw/MoNg9yxbtMaMFdEK9cc/qdoC4ThRNXsyigLZb6o/WDemszSkYLIQfWELilHsEbtDWAQf2mXPD7cBtugKhlTpJbdxjA==;r27OxqMQInEHYIaw3OswGA=="
 ---
 
