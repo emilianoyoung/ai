@@ -37,28 +37,6 @@ related:
       - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
         width: 400
         height: 400
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
-        width: 700
-        height: 495
-  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
-    publishedDateTime: 2019-12-19T20:28:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "w/+aO8VY4uRs6/iF+WPtgdszPKPX+DU/GNPn1cPk1ZQjyVpuREmDADgouc2PHkaBT9W0U5lG656KGGz2yCWptOhOj0Z950qC8yq/tdA1IU9uFwiEqVC/Tw9X6tB8PMAzJ/Iqa6Ixr4sojxh8JtBRLYXJjCsx4845L7sQThOEj1tqPiiVAQ7lwkca8JQWuOPE6876HQMK031YV8YDdAFUu8SkxTDbuQf9/Oh9Vlve4fYhXoiPWg8zrkHF5qGkysZR+rzae7xPpsXLGkcIrH3YSg==;A+8pQXocRu3ruFfZ77bFUQ=="
 ---

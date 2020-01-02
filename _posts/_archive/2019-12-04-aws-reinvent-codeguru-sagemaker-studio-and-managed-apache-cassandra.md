@@ -43,17 +43,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -64,6 +53,17 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
+    quality: 84
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
     quality: 84
   - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
     excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
@@ -78,19 +78,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -104,20 +91,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
 
-secured: "ZVz5uxTjM61PVi1q4CyYJ58uiYSfwMDh+tfejPeevTe1n29CvDZ5YUuRwkuGvJytcfOAIIrrou9KDoeelsXN5kMSqo2OANd6c095GjlW3HYb5mOhy/1+5wLBcJ6CxMC762XfJQMg8Lw+9MpMptq+1qvYRpWs15wt4JE2qw71b/bnoLC5xhKcKaZ6VtNfpQgaAkoSgcyhb+2hO/wwmNRPSknvgyZGdgdJHKwJvue3iNgx4ZO8gL9z/ia7dbo8INrQnlmyon/kLRyyNcXg8PsMOQ==;Lr+TDVN2/+EEWPOQE0TcHw=="
+secured: "Olm7x9QH9modDlLU6n3aUTarRcv9NdNjtW+8wRtft+MEaorI6fVnZcH88O8DbDJV1zCBQHZmZ/0fdbOqD/uy9zltYmVbyjz5Si69sIIVWB0wC80vGqGD+M3jGMHz9VxUR0g+86qzKyQhuSKx3ZooS1mObOi0CSDwUEtJejti8cm2gY4X3YN0G/2pGvMMtw45QlicEOwbkskGkrmtO8kJ4mAkCITL5dA+XHk056xpU/FMHVbWWCDq6ownHXcc79ZaeKg1GWXevhUmuRtwGhDmfA==;NY3HoTfI1UGzTFfYGY+tsw=="
 ---
 

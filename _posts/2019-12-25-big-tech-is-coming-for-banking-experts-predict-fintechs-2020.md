@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
         width: 600
         height: 315
-  - title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
-    excerpt: "Globally, the Fintech revolution offers solutions to all manner of issues, and as we see in so many sectors, algorithms and AI can locate data and highlight trends. In doing so, such technologies operate automatically – and therefore can carry out functions much quicker than by human effort – and at a reduced financial cost as technology ..."
-    publishedDateTime: 2019-12-30T00:00:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
-        width: 700
-        height: 589
   - title: "Fintech startups to make a bigger move in 2020, experts suggest"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-24T06:59:00Z
@@ -114,6 +99,15 @@ related:
       - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
         width: 300
         height: 300
+  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
+    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
+    publishedDateTime: 2019-12-24T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "UPJ3dn3wRKTWsRAYXR2PwSa3MgZbdpRKF8WKi7qDPm37+ATYK27GSo+OP/AYBU0dW1cDUyhQUPC1DTpsXRCJM362rpAr0PKFTnpjNAk864QVLNBQTLBKvm1hxW90WWsVCCb2TJg89IKZ+AI858Eojv0PhYs+RS1lfmHYtGkwQs5OOWQ3tYZ0zhgf7Gsio7eCShmB7trcYY85T02oeJb8F1pKEvww6nLEI1e7FGHSiqDVnLo4AlEhnuXdObGGIj6YuXTGK2iXYJvHEwlcyv9x+Q==;QRk32Ua5TgkELyOACybCGQ=="
 ---

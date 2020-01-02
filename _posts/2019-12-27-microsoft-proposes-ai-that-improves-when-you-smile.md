@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/27/microsoft-proposes-ai-that-improves-w
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/27/microsoft-proposes-ai-that-improves-when-you-smile/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Microsoft proposes AI that improves when you smile"
 
-secured: "EsO+ovPf5u4vNHQ9GkuH+LpftkGkFu5cRImVlRWtKvRdZjfteKuNmAul03mg0dRYxF6PVdl0kZOXm2/9F4gNdjsQDpXgGZzQkQR+Vf1hrQhqNANS8oeD1vZrTYURrYerYGwP6jHZHKz/VoXivYxOmIuhL6dzFxU/0Nw1yqcaMr/jdit4wgmM2VnZBtaHjILapXlRMqaxzbYa8ZEheAbkGGyxrCXjL9KZE8wZNBVeg3La/GaApvhc6bNKCYfydK4jctm2UjH8w+t2TZxVcbEzwA==;w5FlCmsmVxZuRaRnhqkQfg=="
+secured: "P20tSlKFOZLJ7R0IkYn+WqV2ZyTQsfHJq+TdUENBYyX/cmPgoxNFZZSpeja2n4bFST0LfRIiksn6VcF/e5Uvqpeu7WshawrnHb9Q4J1GLZolVsIq3OiHFgxzK57j+9ZkgMR0h/34HS7iVpawK0NQhYKruczjulBx5BbhP+sQ+fJzC8To1/7EN4c2P88Nh+nmpRZcoa/9MMy3zKN9x2cxe2PS1iXUrHxrdW7pOFcBdXeL2MDC/qhtuV8NTVFIajCnzrFLS1si/ChxF61/oEy0kA==;0vDMZBjbKU8yVu2YUmyh8A=="
 ---
 

@@ -107,6 +107,19 @@ related:
       - url: https://www.bing.com/th?id=ON.374F61F40B85003F4DB6B809EA1AC8AC
         width: 600
         height: 315
+  - title: "Samsung wants to Kick Start 2020 at CES by introducing their Next-Gen Artificial Human-Like Assistant Platform Dubbed 'Neon'"
+    excerpt: "Perhaps more importantly, Samsung will be introducing a new artificial intelligence platform next week that they're calling 'Neon ... Humans' designed to a combination of devices and software that is designed for companionship, robots and digital pets. Samsung has their Neon website ready to host the live event with a countdown to the keynote ..."
+    publishedDateTime: 2019-12-30T17:23:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/samsung-wants-to-kick-start-2020-at-ces-by-introducing-their-next-gen-artificial-human-like-assistant-platform-dubbed-neon.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.8B743AFB5B5589D1A5672C18C18FE83A
+        width: 700
+        height: 390
 
 secured: "R/EPbNlOgUJPM6+KntJS+7VnQsstZcDsSk0N1cWb4Pb7lPJ5lQdtKH6nYWDi42/mid7urkFdtazdrMif4jIEbbuBMWbEyoH+W8F9RRDEiZLmgzAUhW76SeIJWtjKHu9W/7ymHAFQiRHKnK7RkdE7HIAHdNMpkg8zXg7bdeu/e9m8SgEW9B00tIymtRV2IEqM6TQj3prxrSvU4ocTB65B2DzFE9Kx4StBcZZ3oef2PE0V5rihp5G1PjitUVDT8TrE4j0LhkXrewn7S/iRBgQHbQ==;E6LcE3f82RQD5/XjLKtt2Q=="
 ---

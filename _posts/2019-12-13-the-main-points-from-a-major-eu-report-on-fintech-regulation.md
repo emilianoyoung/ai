@@ -24,34 +24,6 @@ images:
     title: "The main points from a major EU report on fintech regulation"
 
 related:
-  - title: "Human Rights Commission calls for regulation of artificial intelligence"
-    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
-    publishedDateTime: 2019-12-17T03:28:00Z
-    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
-        width: 700
-        height: 394
-  - title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
-    excerpt: "The Caisse de dépôt et placement du Québec and the Public Sector Pension Investment Board (PSP) are among a group of at least 14 investors pumping $229 million into an international fintech fund run by Portag3 Ventures ... a Series A investment round for Toronto-based Integrate.ai, a cloud-based machine-learning platform that allows ..."
-    publishedDateTime: 2019-12-11T15:21:00Z
-    sourceUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed
-    ampUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
-        width: 700
-        height: 525
   - title: "EC expert group issues call to action on fintech regulation"
     excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
     publishedDateTime: 2019-12-18T00:38:00Z
@@ -78,15 +50,6 @@ related:
       - url: https://www.legalbusinessonline.com/sites/default/files//styles/inline_images_style/public/02-Mar-2019-600x400-4.png?itok=LAAMi29C
         width: 600
         height: 400
-  - title: "Tavant's Fintech Business Reports Year of Momentous Growth Fueled by Digital Transformation"
-    excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced record growth, 24.3 percent annual revenue growth in its Fintech business and corporate expansion including the addition of a new Dallas Innovation Center. Additionally, the organization received multiple industry awards for innovative product launches ..."
-    publishedDateTime: 2019-12-18T12:52:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-tavants-fintech-business-reports-year-momentous-growth-fueled-/2019/12/18/9071636.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "f8htQ/7LIUcvv+0TlWUvApGyqEKo4Y3MR8/jW0W8wj8rIQjmnXaBFAGwBZplLU2bKrwM0RGphLtMBuvmvYoyvXVODNbhOX9Q/x3Pv2zw10bywYMLlLbhhEcaEMQazwg0tjx7hm3QxcsQ9LlPhdWzbYvax0rXFpFIwiHHwWAIm1TdbNRz1IMcICscSufw3LM7X+Y0uZytEJag3ZkzOb01SEo0crDurEJ6F05PzJsiLrChb/TxHVRcxe/M5BNMHKCzLgXm6/S4ZPTv19/UB8GgMQ==;D90arylHGW17iukOsNHFZQ=="
 ---

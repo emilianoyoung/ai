@@ -24,21 +24,32 @@ images:
     title: "People are open to biometric retina recognition"
 
 related:
-  - title: "Google Wants People With Down Syndrome to Help Improve Voice Recognition"
-    excerpt: "This is in order to train its voice-recognition AI to understand unique speech patterns. Currently, Google’s aim is to get at least 500 voice recording donations from people with DS. Voice computing is considered the future of technology, however, it can be slightly inconvenient for people with mental and physical disabilities. In order to ..."
-    publishedDateTime: 2019-12-12T12:22:00Z
-    sourceUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/
-    ampUrl: https://propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
-    cdnAmpUrl: https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2019/12/12/google-wants-people-with-down-syndrome-to-help-improve-voice-recognition/amp/
+  - title: "Innovatrics provides facial recognition for Precise Biometrics’ YOUNiQ"
+    excerpt: "Precise Biometrics and Innovatrics have announced a partnership, under which face recognition technology from Innovatrics will be integrated into Precise’... This is a companion discussion topic for the original entry at https://www.biometricupdate.com/201912/innovatrics-provides-facial-recognition-for-precise-biometrics-youniq"
+    publishedDateTime: 2019-12-13T17:09:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/innovatrics-provides-facial-recognition-for-precise-biometrics-youniq/206121
     type: article
     provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 43
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.E604A4FA07D1D1EBC131CDE8C89034D0
-        width: 700
-        height: 393
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
+  - title: "Iris recognition edges fingerprint, face and palm biometrics for most willing use by UK consumers"
+    excerpt: "After face and palm recognition, voice recognition is palatable to 55 percent, 51 percent would use handwriting biometrics, and 49 percent would be willing to use DNA biometrics, followed by heartbeat recognition (45 percent) and keystroke recognition (44 percent) as the least popular forms of biometrics. Only 32 percent say they have tried or ..."
+    publishedDateTime: 2019-12-16T21:12:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/iris-recognition-edges-fingerprint-face-and-palm-biometrics-for-most-willing-use-by-uk-consumers
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/05171026/biometric-iris-recognition-for-healthcare.jpg
+        width: 950
+        height: 550
 
 secured: "sTkWUNBKcnotRkWo25iKYu/kElYv9KKmCMzRjrVKEaYKMtkfjnXwEJemvsLLkDUvVkr5z/Ye+phBjGgwzl200BlO673DkNGH3WkPClInZy5299toqArZuuKY2SRbigRc6AwSxlkEf2jzLiYrrbl11LGLYvoJyn7htPXldkKvUoCt653elX4npGXZLbpja2NUMgxrQr5qyEzP84NQRuJHJzBTzrttX3PfdgPeHRzijmU+RuGHILdBmZqCk+2xdWrKDPLbY7BFte8MkgRE8+g/Yw==;mdTPs+wrS771mNMffy9XSA=="
 ---

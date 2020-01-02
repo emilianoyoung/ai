@@ -24,41 +24,47 @@ images:
     title: "Exhibition in China reflects on loss of anonymity to recognition technology"
 
 related:
-  - title: "Speech recognition and synthesis sample"
-    excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
-    publishedDateTime: 2019-12-21T22:35:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/samples/microsoft/windows-universal-samples/speechrecognitionandsynthesis/
+  - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
+    excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
+    publishedDateTime: 2019-12-31T01:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.html
+    ampUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 45
     images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
-  - title: "Some cities and states balk at face recognition tech"
-    excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
-    publishedDateTime: 2019-12-22T04:00:00Z
-    sourceUrl: https://www.herald-dispatch.com/business/some-cities-and-states-balk-at-face-recognition-tech/article_cd3e3777-f087-5aab-a88c-81800f0a3012.html
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
+      - url: https://www.bing.com/th?id=ON.F53F5EE0AF7E1C233152D63A3B9551DD
         width: 700
-        height: 469
-  - title: "Global Iris Recognition Markets, 2019-2024 - Immense Opportunities in the Use of Iris Recognition Technology in E-Commerce"
-    excerpt: "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@researchandmarkets.com For E.S.T Office Hours Call 1-917-300-0470 For U.S./CAN Toll Free Call 1-800-526-8630 For GMT Office Hours Call +353-1-416-8900"
-    publishedDateTime: 2019-12-19T20:28:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1963102/0/en/Global-Iris-Recognition-Markets-2019-2024-Immense-Opportunities-in-the-Use-of-Iris-Recognition-Technology-in-E-Commerce.html
+        height: 466
+  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
+    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
+    publishedDateTime: 2019-12-28T03:56:00Z
+    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: WFTV
+      domain: wftv.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
+        width: 700
+        height: 366
+  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
+    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
+    publishedDateTime: 2019-12-27T00:22:00Z
+    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
+        width: 200
+        height: 150
 
 secured: "iGToFwWQ7zocsWPO6bP/fcCxXrEOpWZekEda3//G8YcNHeHzCFPkY6BjSMUootJiWiZgCp1ilmNn/jTgbTuI1aDGnA+lyXACnT6eURbvEvTYn67mr5P8QAw/12PRoyaztwio5JpwpzuC4pZjOjQh6o8dGm9a1Xhwnj0iUnRS+oDM2nD/uYF2EX1d1siQWxYJFMHaVWgLzVPbI9q6xLmDdALbGvN0oGzipG62RND9BfFCaRZ4FarVQiC3lQ4HNFeRMtduifznhFVB99kNIaqEAg==;WD2N9ujNFpJD+UdM6/xQ5g=="
 ---

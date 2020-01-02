@@ -26,34 +26,6 @@ images:
     title: "Uber buys $9.5M parcel near Pittsburgh for self-driving test track"
 
 related:
-  - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
-    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
-    publishedDateTime: 2019-12-28T11:12:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI.html
-    ampUrl: https://m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
-        width: 700
-        height: 393
-  - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
-    excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
-    publishedDateTime: 2019-12-26T20:43:00Z
-    sourceUrl: https://www.businessinsider.com/uber-new-self-driving-car-test-site-pittsburgh-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
-        width: 700
-        height: 350
   - title: "Uber buys parcel near Pittsburgh for self-driving test track"
     excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
     publishedDateTime: 2019-12-27T15:39:00Z
@@ -65,19 +37,6 @@ related:
       name: Wichita Eagle
       domain: kansas.com
     quality: 24
-  - title: "Uber will build a self-driving test track in the Pittsburgh area"
-    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
-    publishedDateTime: 2019-12-27T12:53:00Z
-    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
-    type: article
-    provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
-        width: 700
-        height: 393
 
 secured: "+oNVYL2J+K2+DyQisxY+vIwPJGBLyDQQ4fqoVvVgPY9a6VaV5k4p6yUg6toIhXyCFmFk0g2ioWavB5OfKkjqJta3sINKmG+a92/f0fg4LieLquFhHiY+T9z3ZdLmISNaXCy0olMiF526PdxIqjedizYAQgWR4KFgCrRc6OSUcqZDDU/lAgIP66j3a0sDKMYB3MRtz7knIcdMEwzlsaqiQCcFP+j16xSVjGZPUrkKH2sSmrHd8A7ou7J4L1HrlquB0iXcmuwCQz6ZODVKT4rHLA==;5dyluyRUcrgfrSnYo7ba2w=="
 ---

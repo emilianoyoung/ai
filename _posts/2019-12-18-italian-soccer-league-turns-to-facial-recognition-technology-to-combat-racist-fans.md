@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
         width: 700
         height: 350
-  - title: "All it takes to fool facial recognition at airports and banks is a printed mask, researchers found"
-    excerpt: "Researchers fooled facial recognition across three continents, but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-12T16:54:15Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/all-it-takes-to-fool-facial-recognition-at-airports-and-banks-is-a-printed-mask-researchers-found/ar-AAK44gl
-    type: article
-    provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 140
-    images:
-      - url: https://www.bing.com/th?id=ON.973F824511E2281F71151BAEDF22C0F9
-        width: 700
-        height: 350
   - title: "Emotion recognition technology should be banned, says AI research institute"
     excerpt: "There’s little scientific basis to emotion recognition technology, so it should be banned from use in decisions that affect people’s lives, says research institute AI Now in its annual report. A booming market: Despite the lack of evidence that ..."
     publishedDateTime: 2019-12-13T12:16:00Z
@@ -76,21 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7C43B32BD7B21BE8DCC841CE63A861B0
         width: 700
         height: 393
-  - title: "San Diego to suspend facial recognition tech program used by police, ICE access blocked"
-    excerpt: "A facial recognition platform used by over 30 agencies in San Diego, Calif., will be suspended on January 1, 2020, following a long campaign by civil rights groups. Launched in 2012 and known as the Tactical Identification System (TACIDS), the program involves a database of facial recognition scans shared between local, state, and federal agencies."
-    publishedDateTime: 2019-12-12T11:36:00Z
-    sourceUrl: https://www.zdnet.com/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    ampUrl: https://www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/san-diego-to-suspend-facial-recognition-tech-program-used-by-police-restricts-ice-data-access/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: https://www.bing.com/th?id=ON.53EEDA62D15C01C0031C5B71146D72B8
-        width: 700
-        height: 525
   - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
     excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
     publishedDateTime: 2019-12-16T14:00:00Z
@@ -192,22 +164,9 @@ related:
       name: Democrat and Chronicle
       domain: democratandchronicle.com
     quality: 54
-  - title: "Voice Recognition Market : Key Facts and Forecast Predictions Presented Until 2025"
-    excerpt: "Dec 10, 2019 (AmericaNewsHour) -- Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with a healthy growth rate of more than 11.35% over the forecast period 2017-2025. The major factors driving the growth are rising need for Voice Recognition worldwide, aim to enhance security in ..."
-    publishedDateTime: 2019-12-10T12:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-key-facts-and-forecast-predictions-presented-until-2025-2019-12-10
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to give them a tool that would prevent them from having to sit in the station for three ..."
-    publishedDateTime: 2019-12-12T20:42:00Z
+    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
+    publishedDateTime: 2019-12-12T20:40:00Z
     sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
     type: article
     provider:
@@ -215,9 +174,9 @@ related:
       domain: gcn.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.305227D4573636606460050702387B14
-        width: 700
-        height: 338
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+        width: 760
+        height: 368
   - title: "Printed masks can be used to fool facial recognition systems, say researchers"
     excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
     publishedDateTime: 2019-12-14T14:45:00Z
@@ -242,19 +201,6 @@ related:
       - url: https://cdn.nextgov.com/media/img/upload/2019/12/18/NGface20191218/open-graph.jpg
         width: 400
         height: 400
-  - title: "All it takes to fool facial recognition at airports and border crossings is a printed mask, researchers found"
-    excerpt: "Researchers said they fooled facial-recognition tech across three continents but were unable to fool some software, including Apple's Face ID."
-    publishedDateTime: 2019-12-12T15:57:55Z
-    sourceUrl: https://www.msn.com/en-sg/news/world/all-it-takes-to-fool-facial-recognition-at-airports-and-border-crossings-is-a-printed-mask-researchers-found/ar-AAK4kCz?li=BBr8Cnr
-    type: article
-    provider:
-      name: Business Insider Singapore on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.3D8C90C7668B5994A3C7ACF2D26E2B1E
-        width: 700
-        height: 367
   - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
     excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
     publishedDateTime: 2019-12-16T14:46:00Z

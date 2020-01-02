@@ -46,19 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DBBAC337A0AB61C6218A75066D462C78
         width: 700
         height: 394
-  - title: "AxxonSoft releases Neural Network Analytics for early visual detection of fires"
-    excerpt: "Neural Network analytics are used whenever the standard fire alarm sensors are ineffective. The artificial neural network for better for insights about what’s happening and being recorded. Deep learning technique that draws on the way networks of neurons in the brain adapt to new information is a new milestone of video surveillance systems."
-    publishedDateTime: 2019-12-11T10:13:00Z
-    sourceUrl: https://www.sourcesecurity.com/security-videos/axxonsoft-releases-neural-network-analytics-for-early-visual-detection-of-fires.html
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.897C185AE4FFA59E434C0C523BF56951
-        width: 612
-        height: 355
   - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
     excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
     publishedDateTime: 2019-12-20T00:07:00Z

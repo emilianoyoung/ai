@@ -23,6 +23,6 @@ images:
     height: 1125
     title: "CFO Corner: Machine Learning"
 
-secured: "upnb/TwBpXQLtE6kaKO5wWrledExDIKkjf35tnGugLrhVxkQ4LOl3KsG/meNHduyx+u9YmJG19jAx/detVxSfuj0DMLA5Njsofmoeieh1bm53F38krNVywMoHihH+PhBska89fQi02GdU58cU5h8SrwwG6gSXu6s+ADNCUBWhcE6QdurjfislJtz4rTjwre1lGAIOjYsha0W7q3EjcPB48N92AT7t4u1UDYlWwwmcVXOvo2VyjJLZHS65/XOV2fu/ayelbbsmkNs4HGLSbxDQQ==;hFWcowXjoLff2LGKvqeECQ=="
+secured: "nfGxvx/Mh4SpFQuFYe0l92t/P9tQ9TWUM5RJnxFsLrbaS7jovgPvWEG/UBIoi12sBswIc6ZPnpJUJAFUmntbU+M+Wny/NVKnKbaKtSpNged/SK32u/Y9XrI8TMaYIuehU25FSRpke3v67RbBoR4LjijTLId72y/cUUz4IWmcQDg1HbiZ2sUcf8QXyASKh7kX+LQ5LBHhNf3gqZPpY9olRtGWtGDilvSUv52WSHg9yvuomtvk5rMfC9r7Hq1bCXYmuKvpZbvGFmOVL1Sf1APbcg==;Qkfjn5ghXRfqAy9XwZNYhw=="
 ---
 

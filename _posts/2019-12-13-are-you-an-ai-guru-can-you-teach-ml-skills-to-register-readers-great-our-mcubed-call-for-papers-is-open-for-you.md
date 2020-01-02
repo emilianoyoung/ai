@@ -25,21 +25,6 @@ images:
     height: 429
     title: "Are you an AI guru? Can you teach ML skills to Register readers? Great! Our MCubed call-for-papers is open for you"
 
-related:
-  - title: "When Your Face is Your Key"
-    excerpt: "Whenever the topic of facial recognition surfaces, it tends to garner immediate reactions. For instance, according to the Center for Data Innovation, one in four Americans think that the government should strictly limit the use of facial recognition ..."
-    publishedDateTime: 2019-12-11T19:08:00Z
-    sourceUrl: https://www.industryweek.com/technology-and-iiot/when-your-face-your-key
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 24
-    images:
-      - url: https://www.industryweek.com/sites/industryweek.com/files/flat-3252983_1280.png
-        width: 1680
-        height: 980
-
 secured: "s5cqRSGjwlgh2V4mJN5BBBxPXd/HiopvgP+Bi04ji2/xDcQJyGXtT9eOoL1nZZLWGUH1inInztT4lwlGtrvbCpLzyVRUghtibtOKFNuhYx3YnjcewXj19Y3W/zF9QIT5DQXYsKmgit8tEeLaRzBKssCn5zqYZB/kZInlAlP/GipgaRiE6z1aThegHC3ngnKhUp4Goc9NNjEPPu3iJVGoiv+8o4pCWHapBUqjMGLQhZAIDPUV2L7xGsVtUrSuudEX7M6CBQ+c4bvS9ZAc5IlojQ==;eEbvu+ijXu9I6hTt2RgYpA=="
 ---
 

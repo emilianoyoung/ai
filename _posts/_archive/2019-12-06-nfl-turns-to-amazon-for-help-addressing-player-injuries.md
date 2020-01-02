@@ -24,20 +24,35 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
-    publishedDateTime: 2019-12-06T15:41:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice, playing surface, environmental factors, and aggregated and anonymized player injury ..."
+    publishedDateTime: 2019-12-05T20:58:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "pBXBz3w9pVnGwOf4IC2EQklp8WF3rQuIBq/GQEj+w+xFZH0HipPbIdqhbUb/fJYNf+S1+m05UYCzLyesxsHz7i6z7FshN3PnxkSl9cqsJ2CR5NPfBocTvhYsGYFKFSLi6HKcgK/70k1Y3wY9o4s9huDWUIbKZ8odNQL6Eo82QZ3M084YkBPv6eVewRKr3Fiw1+SLcFhx7uwRYo/vuxNqevpI3aePFZ8eceCbR/8L/tQHnXoMXqck6LEnxSSLyRVs3wEGyBDx/PiSxEpWDZCBKg==;6VhePFThmFtssHDRbQm1dQ=="
+secured: "XuXIpXZJ6yY/osgSpSl/hrT9L7eK+ezTptijmGxUdKSf9f8bxeaBPZb/m0XD1J//RYe7r0kWusVNTG0bEFnBg1Y9qGAAhujkw15Yt0o1UVSw40tgxnBByNRPiNH5yLtEzDSIamQM1lsbj+Ynay3gv0vnkpe1td6eCSW0cZ3lIDpF+SChfyMVu2dT0rOFWmWFQSzNoBo7q6h8l+B0NaH7aHj9CIi7t8sISkeHnww8adw8W6dMcF7VJx3lZvFtUuCEcwuq+8+2PkbdVruhhSvR+Q==;XjQrNUozy9e79NNySDG7pA=="
 ---
 

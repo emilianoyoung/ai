@@ -41,18 +41,29 @@ related:
   - title: "How AI came to rule our lives over the last decade"
     excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
     publishedDateTime: 2019-12-21T16:11:00Z
-    sourceUrl: https://www.wesh.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-    ampUrl: https://www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-    cdnAmpUrl: https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
     type: article
     provider:
-      name: WESH
-      domain: wesh.com
+      name: WBALTV11
+      domain: wbaltv.com
     quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
         width: 700
         height: 393
+  - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
+    excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
+    publishedDateTime: 2019-12-31T06:59:00Z
+    sourceUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers
+    ampUrl: https://www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/healing-sexual-trauma/201912/what-is-the-cope-strategy-manage-trauma-triggers?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 26
 
 secured: "Ut1XBX1fK6PcbQ/Tb7K7XyJkkvi9shOpr5ilIc8gIluYKBMbH/cWuQZrFtaddA7p9+zpcN3dxcyhlBxHiNeQ1lrSFRMKW+2Lp/nUKaHNBCrBcM85BhuLIakF+Gi6kDp6LwIuyR9pAx56241gEk0+WJSV6gyV1s+YJ2cICRPzoHtbrf6+dv0fhk/cFwFIOdSd3hfGYUHHEPQoVjB8xfx1wPyXSYqsEE3xC1yhwLIqnKO/MWdVWyDZKzcVdJfNzlosVSuaTNGyW8DDt9wC8HP6rw==;BqejViTXhpNAOgBI4tp5sQ=="
 ---

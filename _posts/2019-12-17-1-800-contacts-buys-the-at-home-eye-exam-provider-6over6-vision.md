@@ -2,27 +2,31 @@
 category: news
 title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
 excerpt: "New developments in sensor technologies, computer vision and machine learning technologies are combining to drive medical diagnostics further into the home, and the latest company to make a move to push services deeper into the home is the online contact lens retailer 1-800 Contacts. The Utah-based company has acquired 6over6 Vision for an ..."
-publishedDateTime: 2019-12-17T18:05:00Z
-sourceUrl: https://finance.yahoo.com/news/1-800-contacts-buys-home-120028488.html
-ampUrl: https://finance.yahoo.com/amphtml/news/1-800-contacts-buys-home-120028488.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-800-contacts-buys-home-120028488.html
+publishedDateTime: 2019-12-17T12:07:00Z
+sourceUrl: https://techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/
+ampUrl: https://techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/amp/
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
-  name: YAHOO!News
-  domain: yahoo.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.23ED5985353306C3291313D39D2120A2
-    width: 700
-    height: 466
+  - url: https://www.bing.com/th?id=ON.8F999134A63886244BA20E4244726174
+    width: 600
+    height: 400
     title: "1-800 Contacts buys the at-home eye exam provider 6over6 Vision"
 
 related:
@@ -53,6 +57,6 @@ related:
         width: 700
         height: 466
 
-secured: "WAQUEc+C/Sq0lo/Ohqb3fZCNiskMTGYy7QVevq/iQR8/0xbCPd7FN3ID56P8H+paI0CdpHWjgd1WXywO4TClASsG6orXuYw0t/6FKX/3BeUCMTbfXI3vY/Rm5i4sVFRjCrAElRKzuzOpcmav85hbE5BfJu3sYUqpaxnvlt2ouYngkAf7VUyQ27UwVlyPJ8QF8byR8KRFYwvWrgH7emfVqBPj1MX74mVGYCYgScy+OICPgk7Hx/rD3e/qot2DM2303idUJHb0se9IVLBzitCkZg==;2HcrnDGnrJL5G98gIY8zNA=="
+secured: "zYdb54sgVhdjVXOjDWoKOSiaIH6DpV+R5lyUo4eLp7hxUXGcaeuwv7QWUMY86Eq7BA6eZXttwy40iWvjlTB1HbUIE3qky8UCW2tegR/8DEF2HLQ69rgj4d4MfNVCrdJzRqyfaq3YL4lCiM8CC5Mfvp026dAhQj2pxwukFV4aQnK4/BVCm0Xh804SoMTcIQPlGmhy/rdlO9tIUWFZBVVsQGtfuw/SXu/j+hf8UTjJuEBasv0twt50wJeSzLqkIahFl2n6QvEynlsnx1tv/4UXtA==;G8VYUKqMDeI+tQeS0d44hQ=="
 ---
 

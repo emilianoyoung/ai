@@ -28,41 +28,15 @@ images:
     title: "Artificial Intelligence in Accounting Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
 
 related:
-  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
-    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
-    publishedDateTime: 2019-12-17T07:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Enterprise Artificial Intelligence Market 2019 Registering a Strong Growth by 2025"
-    excerpt: "Dec 13, 2019 (Xherald via COMTEX) -- Global \"Enterprise Artificial Intelligence Market\" 2019 Research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers, challenges and opportunity, capacity, revenue and forecast 2025. This report also includes the ..."
-    publishedDateTime: 2019-12-13T19:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2019-registering-a-strong-growth-by-2025-2019-12-13
+  - title: "Artificial Intelligence in Life Sciences Market Disclosing Latest Advancement 2019 to 2024"
+    excerpt: "Additionally, as of March 2018, the company has entered a partnership with IBM to make use of IBMs AI platform, IBM-Watson, to improve clinical trial recruitment, and make use of intelligent AI algorithms to predict medication efficacy. Such initiatives are encouraging many companies to invest in AI solutions tailor-made for clinical trials."
+    publishedDateTime: 2019-12-13T04:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-life-sciences-market-disclosing-latest-advancement-2019-to-2024-2019-12-13
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
-    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

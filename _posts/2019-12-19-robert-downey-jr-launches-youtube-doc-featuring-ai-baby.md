@@ -55,34 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C2E82E984FB47341B534005BEB08D39F
         width: 700
         height: 394
-  - title: "VIDEO: Watch the Trailer for the New YouTube Series THE AGE OF A.I. Hosted by Robert Downey Jr."
-    excerpt: "Today, Youtube Originals is releasing the official trailer for \"The Age of A.I.\" - an all-new learning series hosted by Robert Downey Jr. This new eight episode series takes a deep dive into the fascinating world of the most transformational technology in the history of humankind. Robert Downey Jr. brings his irreverent enthusiasm and curiosity ..."
-    publishedDateTime: 2019-12-12T17:33:00Z
-    sourceUrl: https://www.broadwayworld.com/bwwtv/article/VIDEO-Watch-the-Trailer-for-the-New-YouTube-Series-THE-AGE-OF-AI-Hosted-by-Robert-Downey-Jr-20191212
-    type: article
-    provider:
-      name: BroadwayWorld
-      domain: broadwayworld.com
-    quality: 125
-    images:
-      - url: https://www.bing.com/th?id=ON.21E0D9E4D5F04BB2D5B6B20372B9531C
-        width: 700
-        height: 350
-  - title: "YouTube's AI docuseries with Robert Downey Jr arrives on December 18th"
-    excerpt: "RDJ hosts a deep dive into the transformative tech. If you're going to throw megabucks at a show about AI, you'd better make sure you've got the right host for it -- and most would agree that YouTube's decision to get Robert Downey Jr, aka Iron Man, on board for their multimillion dollar The Age of AI endeavor was a pretty good shout."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.engadget.com/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    ampUrl: https://www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/12/youtube-ai-docuseries-robert-downey-jr-december-18/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.CB44EBE59F88C0B94668F35F988249CC
-        width: 700
-        height: 367
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z

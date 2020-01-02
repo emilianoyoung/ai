@@ -27,6 +27,6 @@ images:
     height: 380
     title: "Cloudy with a chance of neurons: The tools that make neural networks work"
 
-secured: "72DYukKfbKpPAn3L9SYbunPoZ/moSDwgHzWI/JeeawfCsP4nEm9lWnosQ8b/+rI0RNK+1kcNWJSe7dt/WVVw4QuHMniR20ihHQhIoxkV2Yb0uRIngZp623tAoY6fghQkqicKvDcmaF4ML6bsQLH4GohITGGHm5dyCAWcsueLzETQxoEf3FzeGEuXqUdgNQ3VT3lk9Q6N0KNxsDqWLyGkH1DywlhNIlVXUSCK8RlMW6J+1i4NpjGb897AgKyrBYF+hhJhm/hG9VD2pP15M5lmVw==;aq+f6bzu5TK3EP2R7NdKgA=="
+secured: "sgyxZrFuoqUKCoYcQ1KisgVDcXNZiYWsh++ytDBy3Ey5VmJYSYqevEGozszzUQwG7ku33drVlVwWYHwfR7dg8SwZbwVmLnYk014YUU1V/M6uYSuedbY2iy5xpBwNvfx6c6Vvew2JFaLrtJZrUr9sqRKBFes2tnsM8uJqWDSO+uYrwQmY+8HwOW10Y+OPpxSCqrTJ5kF6v/O7bgKqkkoj9C1ydBzNGsNRQXDkJ1Q2HMccX2F3YINC1Iv+h98fDWaeSken7TsStIU2OYzGRlqEEg==;Nsg+mj3WFBVFJPlbRAVHLQ=="
 ---
 

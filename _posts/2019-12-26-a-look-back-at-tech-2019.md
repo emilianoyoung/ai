@@ -8,7 +8,7 @@ ampUrl: https://www.thehindubusinessline.com/specials/technophile/a-look-back-at
 cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/specials/technophile/a-look-back-at-tech-2019/article30396927.ece/amp/
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,49 @@ images:
     width: 615
     height: 384
     title: "A Look-back at Tech 2019"
+
+related:
+  - title: "AI and robotics execs look back at tech trends of 2019"
+    excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? The Robot Report spoke with the following leaders ..."
+    publishedDateTime: 2019-12-30T20:30:00Z
+    sourceUrl: https://www.therobotreport.com/ai-robotics-execs-look-back-tech-trends-2019/
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
+    images:
+      - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
+        width: 700
+        height: 335
+  - title: "Robot Software Market Opportunity in 2019 By Top Key Players such as urhat Robotics, H2O.ai, IBM, Liquid Robotics"
+    excerpt: "The report also presents forecasts for Industrial Cross Platform and Mobile Advertising investments from 2019 till 2025. Robot Software is an Artificial Intelligence (AI) system used to perform the autonomous task. It is basically a set of the coded system which executes the given commands. Any type of system which incorporates AI is might be ..."
+    publishedDateTime: 2019-12-27T08:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/robot-software-market-opportunity-in-2019-by-top-key-players-such-as-urhat-robotics-h2oai-ibm-liquid-robotics-2019-12-27?mod=mw_quote_news
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Alabama Robotics Technology Park to launch new robotics program"
+    excerpt: "The smart factory manufacturing experience is focused on transformative technical areas, including automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics and 3D printing. “Launching RTP 2.0 is exciting for Alabama companies as they gain access to some of the most revolutionary ..."
+    publishedDateTime: 2019-12-31T19:39:00Z
+    sourceUrl: https://www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.html
+    ampUrl: https://www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2019/12/31/alabama-robotics-technology-park-to-launch-new.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.5F8A99765DEC5DBB0E1576A6F3E41D84
+        width: 220
+        height: 220
 
 secured: "JYzSs0XK4Rg/lcvAf0kWFc9ZFuYVegPG2ae0kSzLzIh7FpCw0fvsYjIdLIZjQ3SoZcSrm3mcAocNfxG+NeHbvJfRcEY6F2x1BFljn0XRFbz75V3EMe7ZszeMsHnUoIBtuHLeNINdTl60dLEMp/zUMXNyTTpJTEzy5qWmCB13OyJs6VMNFl7aeTeDGyrwB7bxL9yH+vmo3Q5uXMlRw23OjIHwYoj2UHfaU+Yi6vcf4/UPHwC8RaS3lG48oUFxMg66RT+QxUMBPzJ8dpMOcFribw==;mO2X3Wq9qT4mInY2B2pVaQ=="
 ---

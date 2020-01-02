@@ -24,82 +24,94 @@ images:
     title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
 
 related:
-  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
-    excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
-    publishedDateTime: 2019-12-19T03:05:00Z
-    sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
-    ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T18:42:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-  - title: "Top News In Payments: Indian FinTech ZestMoney Raises $15M; Fed’s Brainard Warns Of Crypto Risks"
-    excerpt: "Indian FinTech ZestMoney Raises $15M Led by Goldman Sachs Bangalore-based FinTech ZestMoney ... Dec. 18, after it first debuted in Chicago two months ago. AI has finally proven to business leaders that it’s here to stay, and is soon to have a major impact on everyday life. In a new PYMNTS interview, Sudhir Jha, Mastercard’s senior vice ..."
-    publishedDateTime: 2019-12-19T21:01:00Z
-    sourceUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/
-    ampUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 46
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
-        width: 457
-        height: 261
-  - title: "Investments in Fintech Hit Record High in Q3"
-    excerpt: "Global investments in financial technology firms hit their highest quarterly record to date, clocking in $8.9 billion in Q3 2019, according to the Q3 2019 Global Fintech Report from CB Insights. The year-to-date count of $24.6 billion already surpasses 2017’s annual total of $18.8 billion. Early-stage transactions fell to an 11-quarter low ..."
-    publishedDateTime: 2019-12-13T17:01:00Z
-    sourceUrl: https://www.ai-cio.com/news/investments-fintech-hit-record-high-q3/
-    type: article
-    provider:
-      name: Ai-cio.com
-      domain: ai-cio.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.EAAB9A2A831183B707C1E2C501E2511A
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
-        height: 309
-  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
-    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
-    publishedDateTime: 2019-12-18T18:08:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
-    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
+        height: 393
+  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
+    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-18T02:13:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
-  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
-    excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
-    publishedDateTime: 2019-12-20T00:05:00Z
-    sourceUrl: https://au.news.yahoo.com/goldman-sachs-leads-15m-investment-024659367.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
+      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
+        width: 700
+        height: 393
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "HELSINKI (AP) — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the ..."
+    publishedDateTime: 2019-12-18T03:42:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Finland-offers-crash-course-in-artificial-14912225.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
         width: 700
         height: 466
-  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
-    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
-    publishedDateTime: 2019-12-19T04:24:00Z
-    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
+  - title: "Finland offers crash course in artificial intelligence to European Union"
+    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the ..."
+    publishedDateTime: 2019-12-22T19:03:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/
+    ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
     type: article
     provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 20
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 56
     images:
-      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
-        width: 766
-        height: 400
+      - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
+        width: 700
+        height: 465
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
+  - title: "Finland is offering a free crash course in AI to everyone in the EU"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
+    publishedDateTime: 2019-12-18T11:38:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
+        width: 207
+        height: 155
 
 secured: "sBLw9QJLvA6SuycSJPnjjUrAYxYGo1Bm8vJZpH6rSx5kkvuCuF3iZ0b70i6sufeFP1Ou63JQJCl5RSCe1OvUsJIylIoVNdidiFQhiwa1RO5UOZGxQXRZ9ZNbCKX/rmadrK0L7MZM2+BVd7t4lT5TW3ms1436Edf8S2nEXCd8cRvgkQie7sHWMmr4Kgn3oDZ6mxxwaX/4AoHkgM+knp3iDDz/WFdHCzM5eYrZe3AiMCeZlTy1e7ERhDmgmxrw3hqk6yEeu7GfPOCroWFq9cIKZw==;lbGX8VC92FPM5+MjJ/mKjg=="
 ---

@@ -24,36 +24,36 @@ images:
     title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
 
 related:
-  - title: "Honda self-driving technology coming next year, report says"
-    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
-    publishedDateTime: 2019-12-13T21:06:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
-        width: 700
-        height: 367
-  - title: "Uber is reportedly close to buying Foresight, a self-driving software startup"
-    excerpt: "Terms of the deal weren't included in The Information's report, but the tech news site said the price would be largely to hire Foresight's team."
-    publishedDateTime: 2019-12-11T13:42:00Z
-    sourceUrl: https://www.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    ampUrl: https://amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/uber-nears-deal-for-self-driving-car-simulation-startup-the-information-2019-12
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.EEC822B5690F33FC1D9F657543202E6E
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 350
+        height: 349
   - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
     excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
     publishedDateTime: 2019-12-17T17:32:00Z
@@ -69,32 +69,52 @@ related:
       - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
         width: 1200
         height: 628
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+    publishedDateTime: 2019-12-16T18:15:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
     type: article
     provider:
-      name: The Digital Universe
-      domain: byu.edu
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
     quality: 24
     images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+        width: 700
+        height: 467
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
     type: article
     provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "6CoUYhDFhydlfILn8RZHRWuPaZIv58v7itcDjsMgSW4tC1xgyQJqWfoFcO0ih6iW2kJnGA5MurlD2QGnOdFymzy1OO9r0+jOMQ+ZBlTn2uVUvH6utrw9fyJzHKYomSRsicLIf2pZddboItUQ7qi4wRunfIN0reU2asxII/dvnbAUPKqXGDOgFP8i1zHDIfU1K4XOFR1OKTDsykA/GJ6X8doeeo9kGD7TB+y2uslBnmdpsECMdw9HgBJGQ2jRm/7mBP6w9a3kioIIeueZT3dajA==;+MZHXaoT1eStLwul4E3dMQ=="
 ---

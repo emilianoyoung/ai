@@ -28,21 +28,6 @@ images:
     title: "Google just added the cofounder of its DeepMind unit to its own AI team"
 
 related:
-  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
-    excerpt: "Researchers hailing from Google, Alphabet subsidiary DeepMind, and the University of Toronto sought to exploit this with an agent — Dreamer — designed to internalize a world model and plan ahead to select actions by “imagining” their long-term outcomes. They say that it not only works for any learning objective, but that Dreamer exceeds ..."
-    publishedDateTime: 2019-12-10T17:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/
-    ampUrl: https://venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/deepminds-dreamer-ai-uses-the-past-to-predict-the-future/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "DeepMind co-founder moves to Google as the AI lab positions itself for the future"
     excerpt: "Mustafa Suleyman co-founded DeepMind in 2010 with Demis Hassabis and Shane Legg. Photo by John Phillips/Getty Images for TechCrunch The personnel changes at Alphabet continue, this time with Mustafa Suleyman — one of the three co-founders of the company ..."
     publishedDateTime: 2019-12-05T19:00:00Z
@@ -58,50 +43,57 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/uZMWCi1NyXy3XdORgyB_ctHddyk=/0x0:5760x3840/1400x933/filters:focal(2420x1460:3340x2380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65834351/627782606.jpg.0.jpg
         width: 1400
         height: 933
-  - title: "DeepMind’s Dreamer AI learns from the past to predict the future"
-    excerpt: "In a new preprint research paper, researchers at DeepMind and Google propose Dreamer, an algorithm that learns to predict outcomes from experience. Read More"
-    publishedDateTime: 2019-12-11T00:12:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    ampUrl: https://www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/entertainment/deepmind-dreamer-ai-learns-past-173039091.html
+  - title: "DeepMind’s Mustafa Suleyman joins Google AI"
+    excerpt: "DeepMind and co-founder Mustafa Suleyman have decided to go their separate ways. Earlier this year there were disputed reports the two were arguing, some even suggested he’d been placed on leave. But now it seems he’s actually left the UK-based enterprise."
+    publishedDateTime: 2019-12-06T00:39:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/06/deepminds-mustafa-suleyman-joins-google-ai/
     type: article
     provider:
-      name: YAHOO!
+      name: thenextweb.com
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
+        width: 796
+        height: 417
+  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
+    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
+    publishedDateTime: 2019-12-05T17:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+    type: article
+    provider:
+      name: Yahoo Finance
       domain: yahoo.com
-    quality: 74
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.7AE4FB9683DED0CA8D78A36AF88B83C5
-        width: 578
-        height: 289
-  - title: "Harnessing the power of machine learning for earlier autism diagnosis"
-    excerpt: "Dawson and Kollins began to explore the possibility of applying modern computational resources to the problem. They knew that the field of machine learning, in which computer algorithms are applied to problems that involve sifting enormous amounts of data in order to find hidden patterns and associations, could offer the tools they needed."
-    publishedDateTime: 2019-12-10T14:30:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.html
-    ampUrl: https://medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-harnessing-power-machine-earlier-autism.amp
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
+  - title: "DeepMind co-founder leaves for policy role at Google"
+    excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
+    publishedDateTime: 2019-12-06T15:08:00Z
+    sourceUrl: https://www.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    ampUrl: https://amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/02757f12-1780-11ea-9ee4-11f260415385
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/3-harnessingth.jpg
-        width: 1020
-        height: 600
-  - title: "LG Explores Future Possibilities Of AI At The AI Summit | New York"
-    excerpt: "NEW YORK, Dec. 10, 2019 /PRNewswire/ -- LG Electronics (LG) will be exploring the diverse dimensions of artificial intelligence (AI) at home and what LG ThinQ® – LG’s brand for products and services incorporating advanced AI technologies – means to the home of the future, joining other key AI innovators from around the world at the 2019 ..."
-    publishedDateTime: 2019-12-10T21:24:00Z
-    sourceUrl: https://apnews.com/PR Newswire/58f932c9ec66367397d12e9801b22ec5
+      name: Financial Times
+      domain: ft.com
+    quality: 39
+  - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
+    excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
+    publishedDateTime: 2019-12-06T10:24:00Z
+    sourceUrl: https://www.theinquirer.net/inquirer/news/3084509/deepmind-co-founder-mustafa-suleyman-moves-google
     type: article
     provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 37
+      name: The Inquirer
+      domain: theinquirer.net
+    quality: 39
     images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
+      - url: https://www.theinquirer.net/w-images/6c91fae7-4371-4f76-92dd-23ae21754fd1/2/suleyman-580x358.jpg
+        width: 580
+        height: 358
 
-secured: "dVb/DRC8WbuDcK0oO9cbp2N0++s0z4AXYsyFQ1rn6daW6hht4PtV3+jU90106Qzl4fekgZXn7R1H1cr8yU7slDmITGwT/rd0Jy/j+JG2jeoG+xSxKwY9NWlCPvJ4AukghGkEI6Ibm0O8k4vuA3nMntpdpyNIc0PNMREvLMnAZnq+5IG+gzfv1LeMdSGAu03Q/e8KCPGPmvRvYaJsgS74MHwCbDnP+35iwUaY/AaW1eZcpHfasX3891UNaCxudQjWxebrYO5EQzPSwda8gazlww==;Y7FLWZTIMzYqRm71P6FS6Q=="
+secured: "vZLVaRlrHSIxRyj0MNGPAXgpsuLGBvP4yxm3BmXe211n6jfNn0IpUOX53+LKY52vjBVAuA5ZDMl/jgFdGZxpitJeOUgZUuIi4da9PyS6OlQKhZkDwtrCEvymUwkvx+qMnEQwBx1zqn/1USbdxrjEkYNEo98nwlqc910bxHP33tHJClntYWe+ma8wfMautSIGiMBDTidV6XEjpDzou/x5oP7JWsXj3CagZikH0XkCOEAEmXR+rEygFHcLIUAlIz+RpQPaW1jc/nKjVh/4TjPEXg==;IbgXekVFxwfmLZuagi0NZw=="
 ---
 

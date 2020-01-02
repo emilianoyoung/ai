@@ -50,6 +50,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
         width: 457
         height: 261
+  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
+    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
+    publishedDateTime: 2019-12-19T06:39:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
   - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
     excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
     publishedDateTime: 2019-12-18T18:08:00Z
@@ -74,19 +85,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
         width: 700
         height: 466
-  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
-    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
-    publishedDateTime: 2019-12-17T21:59:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
-        width: 620
-        height: 413
   - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
     excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
     publishedDateTime: 2019-12-19T04:24:00Z

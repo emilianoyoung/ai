@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-24T16:16:00Z
 sourceUrl: https://redmondmag.com/articles/2019/12/24/ai-iot-vs-traditional-networking.aspx
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Redmond Magazine
@@ -22,21 +22,6 @@ images:
     width: 647
     height: 450
     title: "AI, IoT and Machine Learning To Challenge Traditional Networking"
-
-related:
-  - title: "Temporal phase unwrapping using deep learning"
-    excerpt: "With recent developments and advancements of machine learning for computer vision and computational imaging, it can be demonstrated in this work that deep learning techniques can automatically realize TPU through supervised learning, as called deep learning-based temporal phase unwrapping (DL-TPU), which can substantially improve the unwrapping ..."
-    publishedDateTime: 2019-12-27T18:39:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56222-3
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.930FBF651F8A7B01197658B775FD4969
-        width: 685
-        height: 357
 
 secured: "IQQ34oUKDHQfnUV1rFG8e6dq0VzS9m6cyyvI2SaNRQmumdptoAKFfrDKjcAfhP8uJk6T6yAZezj/QVvHZf7/TwyKneMb8BS6kkB79aLjrVbehr+CeyrKwZo2UmgpJ6bTIATjyjP+1Jwjm4vGsKB4tkEF/W9Bmu3QXmvSKTG9R+uqE/UFFBFOTosYFrh4aLm+AAKLlQffrPPBg9s3tvp8+N6W556phCXG955rJ0cgd90vhuh0RO9E71cNM+1gdlLNnopaqd63PXuTfGldodORDA==;1gWwE1yS7rmuGCt3WCokmQ=="
 ---

@@ -41,19 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
-    publishedDateTime: 2019-12-17T11:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
+  - title: "Global Artificial Intelligence (AI) Chips Market 2019-2023 | 39% CAGR Projection Through 2023 | Technavio"
+    excerpt: "The global artificial intelligence (AI) chips market is expected to post a CAGR of around 39% during the period 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20191218005451/en ..."
+    publishedDateTime: 2019-12-18T21:43:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chips-163000152.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 52
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://s.yimg.com/ny/api/res/1.2/216f9D8Jq.XktKgjqwptMg--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/e07bae27e4d07932f29cad0fbe371a46
+        width: 480
+        height: 270
   - title: "global artificial intelligence in supply chain market"
     excerpt: "Data Bridge Market research has recently published the comprehensive business research on “Artificial Intelligence in Supply Chain Market” includes historic data, present market trends, future product environment, marketing strategies, technological innovation, upcoming technologies, emerging trends or opportunities, and the technical ..."
     publishedDateTime: 2019-12-19T12:12:00Z
@@ -63,19 +63,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
-  - title: "Global Artificial Intelligence (AI) in Construction Market 2019-2023 | Investment in AI Start-Ups to Boost Growth | Technavio"
-    excerpt: "The global artificial intelligence (AI) in construction market is expected to grow by USD 1.13 billion during 2019-2023, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia."
-    publishedDateTime: 2019-12-11T17:14:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/2019/12/11/9068263.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.56383493308BD7368369A82BCCD2A169
-        width: 480
-        height: 270
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-13T08:58:00Z
@@ -87,39 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Global Artificial Intelligence (AI) In Agriculture Market Growth Hampering Due To High Cost Of Systems And Services"
-    excerpt: "Artificial intelligence (AI) is a program based technology, owing to which digital computers and robots can perform real-time tasks by using cognitive human intelligence such as speech recognition, visual perception, decision making etc. AI in agriculture ..."
-    publishedDateTime: 2019-12-10T11:43:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/36830/global-artificial-intelligence-ai-in-agriculture/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 12
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-13T12:24:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191213005200/en/Global-Voice-Picking-Solution-Market-Report-2019-2025
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A5D72D4730021F4A73B74DE66662A175
-        width: 700
-        height: 365
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-15T00:25:00Z

@@ -24,21 +24,19 @@ images:
     title: "Google is developing AI to do more with 'much less data'"
 
 related:
-  - title: "Artificial intelligence development is starting to slow down, Facebook head of AI says"
-    excerpt: "In an interview with Wired, Facebook's head of AI, Jerome Pesenti ... Limitations to the development of processing power is already starting to slow the progress of AI and machine learning, especially since research shows that the one thing that leads to predictably better performance from AI systems is access to more computing power."
-    publishedDateTime: 2019-12-16T21:45:00Z
-    sourceUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331
-    ampUrl: https://www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
-    cdnAmpUrl: https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/artificial-intelligence-development-is-starting-to-slow-down-facebook-head-of-ai-says-19424331/amp
+  - title: "Google’s AI Chief Wants to Do More With Less (Data)"
+    excerpt: "Read the interview with Google’s head of AI Jeff Dean on using ML for better chip design, ML energy use and climate change, and acting on Google’s AI ethics principles on Wired."
+    publishedDateTime: 2019-12-19T16:58:00Z
+    sourceUrl: https://ctovision.com/googles-ai-chief-wants-to-do-more-with-less-data/
     type: article
     provider:
-      name: Mic
-      domain: mic.com
-    quality: 68
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.C7F25CCA3C9834CA2A53752ED198614E
-        width: 700
-        height: 367
+      - url: https://ctovision.com/wp-content/uploads/data-fall.jpg
+        width: 1024
+        height: 768
 
 secured: "Y0nZ9rBJ3UFHFf9sibIxrAwT5Ru3B5RvkmXmtW+TJSu99WjRE7Xau87uTxJSxgbOa6wkGg3glmZi451nrLqRTKLiNcdcKI9xe/uuEhlwnsZrPjq4lnxI/MbiQskJ0/XJn/PFUsxiZdGTHP8CVi6VOP42uajbqAb1H5H3wdrG0VDTaC4wT6M/DnId0OX847OzuiNBCbdrwLoXkkSgjwHp/n6ZOhAkMnkDnNx0h0bmiEaWqaxYv7JyzmAI6tHKcFCqcaHtR6RNtJ6GiOQeATqJ3A==;AivbuO2xbgxKE894RtEpFg=="
 ---

@@ -86,19 +86,6 @@ related:
       - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
         width: 1000
         height: 667
-  - title: "Nestle’s Orchid Bertelsen on Testing Conversational AI and Failing Forward"
-    excerpt: "Here, see how Orchid's team is partnering with Pandora to explore conversational AI more deeply and why hustle and grind don't necessarily lead to happiness. What led you to your role leading digital innovation for Nestlé? I wish I could say that there was a master plan to get where I am today. But the reality is that I’ve had many different ..."
-    publishedDateTime: 2019-12-10T20:08:00Z
-    sourceUrl: https://www.adweek.com/inside-the-brand/innovators/nestles-orchid-bertelsen-on-testing-conversational-ai-and-failing-forward/
-    type: article
-    provider:
-      name: Adweek
-      domain: adweek.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.DC4AED630C8C2561B7AD8110BE2BEEBE
-        width: 700
-        height: 366
 
 secured: "09jggcTYwiX6NKoq7yEv5M8VzubC4f//gAYv6RpHQbqxyIlSZYaCm+dQ1F6c/zBW1wL8TWxLrOIfX+agCUoZ/CfJB/s110NgdwQt64L4vhG1HbiEceNubIV0gZeTx6qGdME8FdpHJtsG1lGIunIrArROXvgvNggy0U1V6BHkpDT+yhbGqpLLXK5FeDJyFStPLm2Uj3k0FQxCEHk5d3JiACB8z/j0X7oimyyp9r6MhtN/5PlCH9WPQpMORjBGLyh+5HVS+5j534PVJ0UokAIS8Q==;CnPqHb3jA/GoDgfwnhgglw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T17:30:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/innovaccer-joins-the-aws-partner-network-global-startup-program-1028763053
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -22,21 +22,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Mint Group joins Global Microsoft AI Inner Circle Programme"
-    excerpt: "This award recognises Mint as a partner that delivers on AI services based on the Microsoft Azure AI platform. “Mint Group has delivered innovative and disruptive transformation through AI that has had a direct impact on people’s lives. This showcases the potential of technology and the passion carried by the people that implement it to ..."
-    publishedDateTime: 2019-12-10T09:33:00Z
-    sourceUrl: https://www.itweb.co.za/content/Gb3Bw7WoP5m72k6V
-    ampUrl: https://amp.itweb.co.za/content/Gb3Bw7WoP5m72k6V
-    cdnAmpUrl: https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Gb3Bw7WoP5m72k6V
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.822359AC243EA10ACB344923D1B2F9B0
-        width: 400
-        height: 317
   - title: "Innovaccer Joins the AWS Partner Network Global Startup Program"
     excerpt: "AWS is enabling scalable, flexible, and cost-effective solutions from startups ... company committed to making a powerful and enduring difference in the way care is delivered. The company leverages artificial intelligence and analytics to automate routine workflows and reduce manual overhead to facilitate more patient-centered care."
     publishedDateTime: 2019-12-14T00:24:00Z

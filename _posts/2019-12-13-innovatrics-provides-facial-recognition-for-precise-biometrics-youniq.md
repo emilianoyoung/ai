@@ -24,6 +24,19 @@ images:
     title: "Innovatrics provides facial recognition for Precise Biometrics’ YOUNiQ"
 
 related:
+  - title: "People are open to biometric retina recognition"
+    excerpt: "There was, however, some reluctance when it came to verification by heartbeat recognition (45%) and keystroke dynamics (44%). The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29 ..."
+    publishedDateTime: 2019-12-16T16:19:00Z
+    sourceUrl: https://www.mortgagefinancegazette.com/fintech/people-open-biometric-retina-recognition-16-12-2019/
+    type: article
+    provider:
+      name: Mortgage Finance Gazette
+      domain: mortgagefinancegazette.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1262A996EA1FA9EF607DEA971CEF4323
+        width: 700
+        height: 369
   - title: "Iris recognition edges fingerprint, face and palm biometrics for most willing use by UK consumers"
     excerpt: "After face and palm recognition, voice recognition is palatable to 55 percent, 51 percent would use handwriting biometrics, and 49 percent would be willing to use DNA biometrics, followed by heartbeat recognition (45 percent) and keystroke recognition (44 percent) as the least popular forms of biometrics. Only 32 percent say they have tried or ..."
     publishedDateTime: 2019-12-16T21:12:00Z

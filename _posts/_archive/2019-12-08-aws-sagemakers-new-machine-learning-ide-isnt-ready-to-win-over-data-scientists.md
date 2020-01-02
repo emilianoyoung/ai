@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
 related:
-  - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
-    publishedDateTime: 2019-12-04T14:52:00Z
-    sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
-        width: 700
-        height: 393
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -87,6 +72,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "IrYgIJ1JqoBUVR4IA64N7Ieh74DLO35LDxbFMQxNJoi/qHLfYvUhxwoVbpEMXNtX92XjaGp4uQQKZOYMMV+2NetO5vmRZfOtNK2qOCg9NFgOO4t1OftB6BKFiNLRFgwz82c0etkKT4Nfsa+xno5r38DfLnOP3ikkqR1P5D2u015Ig+KXIxkOL6yvWAwaJmWs/oOnhGnIVrtVv4KhyrBDhE8SvVdok3DjhO1R28nZoqDTJ1IJbBDE6AIaDwg8/G8hoIn6Bl/yR13Hs2KF+ENWAw==;S0wnHytuQzClBUbF80msxg=="
+secured: "Q8+9K3hEelUgaaN6tJzMFKC7MLoiOYiIb4AStYO0j+slE01+9PFzS6lLkLUXYmJzIvnFRWAC25Dp5Y0Wyw+3qGs0N2Mx69Ne+31Gdk4NW3gaf6wGpKjsT+JnCgNwDX8w4lhTl+K7Qpd4G3pxVUvJVocy9qTIN96FaqPEjY7RTGmrLTiaQ8c6fvXh34X4ZKXxPr+LhtW3MQG7siyuGLla8s6z60jmy9oAcS/9bNmkXuOTsSeMYgMa98CLi07AotNFRQTU6q0iN5g3hSlO0RX0Ag==;pD2DvD5n5KI06D/EG8iaow=="
 ---
 

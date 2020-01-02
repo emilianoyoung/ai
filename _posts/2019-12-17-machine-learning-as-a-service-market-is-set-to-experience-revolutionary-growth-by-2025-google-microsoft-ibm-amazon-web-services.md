@@ -42,32 +42,21 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
         width: 1575
         height: 847
-  - title: "Cognitive Services Market Aims to Expand at Double-Digit Growth Rate"
-    excerpt: "The report provides key statistics on the market status, size, share, growth factors of the Cognitive Services. This Report covers the emerging player's data, including: competitive situation, sales, revenue and global market share of top manufacturers are Microsoft Corporation (United States), AWS Inc. (United States), Google (United States ..."
-    publishedDateTime: 2019-12-10T15:51:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cognitive-services-market-aims-to-expand-at-double-digit-growth-rate-2019-12-10
+  - title: "Cloud4C recognized as Microsoft Azure expert managed service provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-18T05:55:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Leveraging AI & Cognitive Services to Simplify Communication"
-    excerpt: "All I am trying to avoid can be described this Photo by Kyle Glenn on Unsplash This problem provided me with the unique opportunity to leverage Microsoft Virtual Assitant, with a goal to not only to solve the immediate problem but also to build and ..."
-    publishedDateTime: 2019-12-10T20:39:00Z
-    sourceUrl: https://medium.com/@jainsameer01/leveraging-ai-cognitive-services-to-simply-communication-dddd116b5997
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 84
-    images:
-      - url: https://miro.medium.com/max/584/0*4XWE_4lJeGWPw5Bh
-        width: 584
-        height: 389
+      - url: https://etimg.etb2bimg.com/thumb/msid-72864503,imgsize-62446,width-800,height-434,overlay-etcio/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider.jpg
+        width: 800
+        height: 434
   - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
     excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
     publishedDateTime: 2019-12-17T12:35:00Z
@@ -81,15 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
         width: 700
         height: 365
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-18T00:59:00Z
-    sourceUrl: https://finance.yahoo.com/news/cloud4c-recognized-microsoft-azure-expert-120000367.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
 
 secured: "DgQgHquW2kSURuLbquXYsKnXWAwg5WW/Gu+ErEZximXYHEXAa5a6V5rWFXoQZtjyUjMXEQ/ybOU5ohwi+ubweoOI+EKGtjJ+7/sb3zdfJx3lLxZT/+bu55jqHByEOyxLOCy3n3oYN41RQojvoC5kJ1Y63/bSCvuzTQ/yTIJ9oM3kz9OQEi4OHyTo2jb4qND1M+Fld+WWjIXR5kU1dVSi+VT0G8/1usf8UruLR8zCU3ISk4vpCHzDaXx2k8RufMCPnf9T+kvRHgw1eqcwNBralA==;Uj//nfKP6s5aCrfBWZqkYQ=="
 ---

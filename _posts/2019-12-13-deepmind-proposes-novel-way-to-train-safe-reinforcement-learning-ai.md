@@ -42,9 +42,9 @@ related:
       domain: forbes.com
     quality: 89
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df00fc625ab5d0007ce1af2%2F0x0.jpg%3FcropX1%3D2%26cropX2%3D897%26cropY1%3D64%26cropY2%3D567
-        width: 896
-        height: 504
+      - url: https://www.bing.com/th?id=ON.E0499B449EC56143D4A6B4376F9FF978
+        width: 600
+        height: 315
 
 secured: "SE3TC5GmcZp4vJjau4NBpdY+g+xVceW5lG8v4U3Qi5JnDbsqWlhSV2l5mNpGuKbpwAX+a2nbgCzViW4DS8TVefwoxxUvqfzH4Irjprdr5M9jbFBC6fgghNybOfYce6Nt0GG1VsdBedP6xHrrpq090b1jSn0Zi0c5Evi9ygvchHClZy7IgenWmzw87TffLhzLK4FfLRAqrLPY4ZUHMu+Vj23YwasvdUumzTV7mlXl5xvylzEhbSSCjt6n0N97a8D0+Wyf7hi2G9FwrF8NO1MHjw==;Q07ECqyun4ZzDV7oP+6COw=="
 ---

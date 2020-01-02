@@ -23,6 +23,21 @@ images:
     height: 512
     title: "How computer vision can alleviate pressure on NHS staff"
 
+related:
+  - title: "How to train computers faster for 'extreme' datasets"
+    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search ..."
+    publishedDateTime: 2019-12-17T19:49:00Z
+    sourceUrl: https://gcn.com/articles/2019/12/17/machine-learning-extreme-classificaton.aspx
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/December/SANSnetworkthreats.png
+        width: 620
+        height: 300
+
 secured: "yY2/XQDTuSSyltLu2IOrt3tFGPq+2PhZsUjjeQRPQBuia/DXfgYs0T7JBtcJsgayQ+rvXPXp0QYvg69sctMytgwv9Tr5ofYSmQCh+IT0YOQp6HvihnJLhL3muJQoSVOcHKtd5Bftw8pI1yKgUHeVYi9dTCYyhUEZ44hPpKmfh15BTJnjDHFu3fDrVgeutsq9aEzN/hfdE9R1dsdJDaZRKs1hiKLPfd4dy59DNhn1tLgbhyFEs7oDqk6Kr6RZcN+Tp3pgF3wUMzxdYBahFCgRuA==;Kh/yIlcLQ46b6gtoko/Msw=="
 ---
 

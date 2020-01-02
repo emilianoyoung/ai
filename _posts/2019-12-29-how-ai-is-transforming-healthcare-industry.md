@@ -24,17 +24,19 @@ images:
     title: "How AI is Transforming Healthcare Industry"
 
 related:
-  - title: "Harness AI power to transform healthcare"
-    excerpt: "To address the twin problems of diagnosing cancer early and to treat it at a fraction of the cost, the field of Artificial Intelligence must be explored In 1910 ... With 11.5 lakh new cancer patients being registered every year in the country, the healthcare system is reeling under overburdened workforce and inadequate infrastructure."
-    publishedDateTime: 2019-12-27T19:11:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
+  - title: "The impact of AI on the medical industry"
+    excerpt: "Developments in neural networks and other AI techniques have potential to transform healthcare but raise weighty questions about human bodies and society. Artificial Intelligence has taken over many areas of life including healthcare in terms of for diagnostics, drug development, treatment personalization, and gene editing. Many years of ..."
+    publishedDateTime: 2019-12-30T12:18:00Z
+    sourceUrl: https://augustafreepress.com/the-impact-of-ai-on-the-medical-industry/
+    ampUrl: https://augustafreepress.com/the-impact-of-ai-on-the-medical-industry/amp/
+    cdnAmpUrl: https://augustafreepress-com.cdn.ampproject.org/c/s/augustafreepress.com/the-impact-of-ai-on-the-medical-industry/amp/
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
+      name: Augusta Free Press
+      domain: augustafreepress.com
+    quality: 59
     images:
-      - url: https://www.dailypioneer.com/images/logo.jpg
+      - url: https://www.bing.com/th?id=ON.C362509FAFBB50BBA41C8B8DBF67208A
         width: 325
         height: 325
 

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-excerpt: "These are self-driving cars that have an AI system doing the driving and there is no need ... reasoning and in no manner whatsoever has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the Artificial Stupidity side of things ..."
-publishedDateTime: 2019-12-08T15:57:00Z
+excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+publishedDateTime: 2019-12-08T15:55:00Z
 sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
 ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -24,9 +24,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.71EF054EEEF5E674D34310009406C552
-    width: 600
-    height: 315
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+    width: 1199
+    height: 763
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
 related:
@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.09313128D20AFFAC63470A425B6ADAF3
         width: 700
         height: 350
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
   - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
     excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
     publishedDateTime: 2019-12-14T00:14:00Z
@@ -86,23 +99,8 @@ related:
       - url: https://www.bing.com/th?id=ON.A6D9341E9DCACDEE5499DBA89DA7BCBB
         width: 700
         height: 525
-  - title: "Self-Driving Semi Truck Hauls Load of Butter 2800 Miles in 3 Days"
-    excerpt: "The money that could be saved through automated trucking is one of the reasons for increasing numbers of companies trying it out. Like the holiday season, self-driving technology breakthroughs can often solicit a Damn, it’s already here? reaction. And the news of a self-driving semi truck driving across the country without any disengagements ..."
-    publishedDateTime: 2019-12-12T14:03:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30200730/self-driving-semitruck-cross-country/
-    ampUrl: https://www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30200730/self-driving-semitruck-cross-country/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.35D07AFE150F4D797E4B1482FA9BFD22
-        width: 700
-        height: 350
   - title: "Google's self-driving car project buys British AI firm Latent Logic"
-    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car division, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from the University of ..."
+    excerpt: "Photograph: Waymo Waymo, Google’s self-driving car sibling company, has acquired the Oxford artificial intelligence company Latent Logic for an undisclosed amount, giving Waymo its first presence in the UK. Latent Logic, a spinout company from Oxford ..."
     publishedDateTime: 2019-12-12T17:21:00Z
     sourceUrl: https://www.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
     ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
@@ -138,21 +136,6 @@ related:
       - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
         width: 1200
         height: 800
-  - title: "‘Transportation Is Broken.’ A GM Exec’s Blog Post Offers a Glimpse Into the Future of Self-Driving Cars"
-    excerpt: "A car company executive might seem like the last person to push back against the automobile’s place in society. That is unless they’re leading a car company’s self-driving unit. Indeed, Dan Ammann, CEO of General Motors ’ Cruise automation division, thinks the automobile has kept the us “living in a state of cognitive dissonance.”"
-    publishedDateTime: 2019-12-12T20:20:00Z
-    sourceUrl: https://www.barrons.com/articles/gm-ceo-dan-ammann-post-51576181471
-    ampUrl: https://www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-ceo-dan-ammann-post-51576181471
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
-        width: 700
-        height: 350
   - title: "Road Warrior: Self-driving truck hauls 20 tons of butter on cross-country trek, no regulations required"
     excerpt: "The tech firm Plus.ai successfully hauled the payload of Land O Lakes butter from Tulare, California, to Quakertown. The self-driving tractor-trailer traveled more than 2,800 miles in less than three days. The butter wasn’t alone for the ride. A human driver was behind the wheel in the event of an emergency, and a safety engineer rode shotgun ..."
     publishedDateTime: 2019-12-13T19:04:00Z
@@ -183,45 +166,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E258E39BBEE1471CE687F187C1C1E02
         width: 700
         height: 350
-  - title: "Collaboration is key in the race for UK self-driving success"
-    excerpt: "The UK is the leading location for the development of connected and self-driving vehicles. This is thanks to an investment of almost £500 million from the Government and industry into research and development (R&D) and testing, according to a recent report from the Society of Motor Manufacturers and Traders (SMMT) and analysts Frost & Sullivan."
-    publishedDateTime: 2019-12-10T14:55:00Z
-    sourceUrl: https://www.fleetnews.co.uk/smart-transport/features/collaboration-is-key-in-the-race-for-uk-self-driving-success
+  - title: "Volkswagen Takes Stake In Self-Driving Startup"
+    excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
+    publishedDateTime: 2019-12-15T18:34:00Z
+    sourceUrl: https://www.mediapost.com/publications/article/344516/volkswagen-takes-stake-in-self-driving-startup.html
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
+      name: MediaPost
+      domain: mediapost.com
     quality: 24
     images:
-      - url: https://cdn.fleetnews.co.uk/web/1/root/st-membership-360x290-1.png
-        width: 360
-        height: 290
-  - title: "What the Future of Self-Driving Cars Actually Looks Like"
-    excerpt: "IF YOU BELIEVE the buzz coming from the auto industry, we're only a couple years away from being able to hail a self-driving car or take a road trip with no one at the wheel. The problem is, experts have been making that prediction for years. The timeline isn't evolving for lack of trying--rolling out autonomous driving technology is just ..."
-    publishedDateTime: 2019-12-10T07:34:00Z
-    sourceUrl: https://www.inc.com/kevin-ryan/self-driving-cars-future-5g-cybersecurity.html
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F1ADFD651C88D3B680F784AF1E485684
-        width: 700
-        height: 324
-  - title: "Ford adding to Austin self-driving car operation"
-    excerpt: "Ford Motor Company is adding to its self-driving car testing operation in Austin, saying Wednesday it has secured two pieces of real estate that will be central to the project. The Michigan-based automaker said it purchased property near Austin-Bergstrom International Airport to serve as a command center for its fleet of self-driving cars."
-    publishedDateTime: 2019-12-11T22:48:00Z
-    sourceUrl: https://www.statesman.com/business/20191211/ford-adding-to-austin-self-driving-car-operation
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0496A2C1F3C543FAC47676060EBDA4FC
-        width: 700
-        height: 465
+      - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
+        width: 600
+        height: 375
   - title: "Self-Driving Cars Have Arrived in the Washington Area. We Gave Them a Try."
     excerpt: "But that is precisely what’s radical: For self-driving cars to truly affect the way we live, Chin thinks, using them will have to become as routine as driving your Civic to the supermarket. The Optimus cars can travel only around the Halley Rise complex ..."
     publishedDateTime: 2019-12-13T12:21:00Z
@@ -235,25 +192,7 @@ related:
       - url: https://www.bing.com/th?id=ON.4A181847F02F60D7A3012B7C47A0E90B
         width: 700
         height: 413
-  - title: "How AI shifts enterprise decision-making into self-driving mode"
-    excerpt: "So we use artificial intelligence as well to help us. But sometimes it’s just good ol’ hard ... If I take an analogy, people look at self-driving cars, and they say, “Oh well, you need a set of sensors in the car.” No, to actually have self-driving cars running, you need to have satellites in the sky, and that’s not a small ordeal."
-    publishedDateTime: 2019-12-12T18:47:00Z
-    sourceUrl: https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=12354836
-    type: article
-    provider:
-      name: Harvard Business School
-      domain: hbs.edu
-    quality: 19
-  - title: "Uber eyes self-driving car simulation startup"
-    excerpt: "Uber (NYSE:UBER) is in advanced negotiations to acquire the team behind Foresight, a startup that develops simulation software to help test self-driving car prototypes, The Information reports. The small deal, if completed, would aid Uber’s robo-taxi development efforts. Company insiders have singled out the poor state of its simulation ..."
-    publishedDateTime: 2019-12-10T10:47:00Z
-    sourceUrl: https://seekingalpha.com/news/3525015-uber-eyes-self-driving-car-simulation-startup
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
-secured: "vgIJCqIXCXnFuYa5c2GPmFyKVhOPSb1n8dpD88K3/IW1IjqIs9hN6zkfF5DVGIsKJ3zv7lOGpj5mLk4RX7yIBTG/zW+8DgZ0+l41ql45daBipOSqhciJqudfDDmDAaLa+6X0ZniBf86Z8eLCztosVltXZBwPnViiNBsp0r8VrSzhfcGqr74UWvNlCtSVqZ77ej3duK21HAyheylZ6lio4XEe7/iITatG8ddAkfu95VBbC1K0d/x9K2YDUKY/PUFPgvCf8CxxPq9TA87Dyfip2w==;AVx3G3OoUhhJ5cjGO4VsiA=="
+secured: "J/iRt6D9O09FcO5m6jFPIQ3yLdXH4GmUuiHRJ/YchkAUGTKBkHPaekZnuI4uoMiDQBIzFTM4ksprAk/L/Fg+dnHGYz4PzM2zxDdhKnRnPov09DNyEghXSSHyNbdqCPMeZE/lcrehs+h9XaipdZNtj7DwOgvz/uZ8O2ki7T9l96agdTI5xuugbojgo/9d6rr/AgZ0D3E55cyDePRkhgxpYsciGrUltIHScFWnQ4MNE2xLfuKFjkvWAWjWeQzDFhTJquCFr7k73aeE7nKE/Z7bmQ==;EHroT2wt8S6Y5JOM1wapfQ=="
 ---
 

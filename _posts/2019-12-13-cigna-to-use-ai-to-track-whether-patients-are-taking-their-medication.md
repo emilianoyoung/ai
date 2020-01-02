@@ -8,8 +8,8 @@ ampUrl: https://www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence
 cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cigna-insurance-artificial-intelligence-patients-taking-medicine/
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 69
+published: true
 
 provider:
   name: CBS News
@@ -26,34 +26,21 @@ images:
     title: "Cigna to use AI to track whether patients are taking their medication"
 
 related:
-  - title: "DIY AI: One mom’s quest to use machine learning to help others detect a rare fetal condition"
-    excerpt: "She asked a question that not a lot of people would ask: could artificial intelligence help? The answer was yes. What happened next was a case study in the potential of machine learning and other forms of artificial intelligence to transform health care and other industries, particularly as Microsoft, Amazon, Google and others work to make the ..."
-    publishedDateTime: 2019-12-11T16:52:00Z
-    sourceUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/
-    ampUrl: https://www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/diy-ai-one-moms-quest-use-machine-learning-help-others-detect-rare-fetal-condition/amp/
+  - title: "The AI community needs to take responsibility for its technology and its actions"
+    excerpt: "On Monday, at the opening of one of the world’s largest gatherings of AI researchers, Celeste Kidd addressed thousands of attendees in a room nearly twice the size of a football field. She was not pulling her punches. “There’s no such thing as a neutral platform,” the influential scientist and prominent #metoo figurehead told those ..."
+    publishedDateTime: 2019-12-13T10:57:00Z
+    sourceUrl: https://www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/
+    ampUrl: https://www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614923/ai-tech-industry-take-responsibility/amp/
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 93
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.B2CB4F014C046EA9C0B4866EBC250C09
+      - url: https://www.bing.com/th?id=ON.0E85B743ACE325A0148BE0562FA62BE5
         width: 700
-        height: 700
-  - title: "Using machine learning to help at work"
-    excerpt: "Citrix told CNN Business it will soon launch an Intelligent Digital Workspace that uses machine learning to aggregate information from dozens of outside apps into a single place. The product is getting rolled out as an update to the existing Citrix Workspace. \"There are just too many applications. We're constantly getting notifications that are ..."
-    publishedDateTime: 2019-12-12T06:22:00Z
-    sourceUrl: https://www.channel3000.com/news/using-machine-learning-to-help-at-work/1150670115
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.AFFC167FC18C87BA8358C2EBC315A75A
-        width: 160
-        height: 90
+        height: 393
 
 secured: "dthqnqCGAuJeZtW11oak4G9xYWLb1sWsd7HeKYEtKwTb5KjXdzzXD5hrrg8EfHabDeB1WAzi8SQBgtQ8paMy6OWqFT6muPlJOLXsAWqY4iMcRTFuH971FyrqesWu/3kDKn064ypGYBdlh2qenBtW8Fycg/apn208DJW3otRrSWRuBXHOJlV6wAGD/w1f8ieGnb3Fr7tu0kp7jstddpXQgiR/S0aa7iFmi5ry2iCpDU3EAc7Mw02ScR3npXlnDcOMdvnEaqcFytAk5UvSiZG8XA==;RPt0uAlNXwBGjPWxCSWoCg=="
 ---

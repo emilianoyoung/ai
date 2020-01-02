@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T13:44:00Z
 sourceUrl: https://www.therobotreport.com/mobile-robots-6-noteworthy-developments-2019/
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "6 noteworthy developments in mobile robots from 2019"
 
 related:
-  - title: "Lloyd Shoes implements Magazino robots in warehouse"
-    excerpt: "After the delivery at the beginning of December 2019, the first two robots are now exploring their new working environment and are subject to a number of tests before being integrated into live operations. Through a link to a global cloud and the use of artificial intelligence, Toru can constantly learn from its own experience in its daily work ..."
-    publishedDateTime: 2019-12-12T12:55:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/12/lloyd-shoes-implements-magazino-robots-in-warehouse/27374/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F5861D1D70A6CFA9249DD9BE788E4496
-        width: 700
-        height: 398
   - title: "Oppo developing its own mobile chips, says report"
     excerpt: "The report did not provide details of the chip. At the forum, which was held to mark the completion of Oppo's new office ... the company's future R&D push will be also eyeing the development of emerging technologies including 5G/6G, AI, AR and big data, Chen was quoted as saying. Liu, who also serves as dean of Oppo's research institute ..."
     publishedDateTime: 2019-12-13T06:47:00Z

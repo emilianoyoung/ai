@@ -18,73 +18,21 @@ topics:
   - AI in Finance
 
 related:
-  - title: "The main points from a major EU report on fintech regulation"
-    excerpt: "The Expert Group on Regulatory Obstacles to Financial Innovation has published a report reviewing the suitability of the existing legal framework for fintech in a number of areas including blockchain, crypto-assets, AI, data and inclusivity. On Friday (13 December), a group of financial sector experts set up by the European Commission in June ..."
-    publishedDateTime: 2019-12-13T12:42:00Z
-    sourceUrl: https://www.siliconrepublic.com/start-ups/the-main-points-from-a-major-eu-report-on-fintech-regulation
+  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
+    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
+    publishedDateTime: 2019-12-17T18:32:00Z
+    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
+    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
+    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.84424280818CFC6C57669F736294D13C
-        width: 700
-        height: 509
-  - title: "Human Rights Commission calls for regulation of artificial intelligence"
-    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
-    publishedDateTime: 2019-12-17T03:28:00Z
-    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
-        width: 700
-        height: 394
-  - title: "Major pension plans join investor group pumping $229M into Portag3’s second fintech fund"
-    excerpt: "The Caisse de dépôt et placement du Québec and the Public Sector Pension Investment Board (PSP) are among a group of at least 14 investors pumping $229 million into an international fintech fund run by Portag3 Ventures ... a Series A investment round for Toronto-based Integrate.ai, a cloud-based machine-learning platform that allows ..."
-    publishedDateTime: 2019-12-11T15:21:00Z
-    sourceUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed
-    ampUrl: https://lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/news/fp-street/major-pension-plans-join-investor-group-pumping-229m-into-portag3s-second-fintech-fund/wcm/aed971bf-c586-424a-a536-415425d91eed/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.F10F4C61F93B1875832D944889ABE69E
-        width: 700
-        height: 525
-  - title: "EC expert group issues call to action on fintech regulation"
-    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
-    publishedDateTime: 2019-12-18T00:38:00Z
-    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
-        width: 480
-        height: 270
-  - title: "People’s Republic of Fintech"
-    excerpt: "She continues to explain that the newly released plan emphases on the importance of using emerging technologies such as AI, big data, cloud computing, virtual identification to empower the ﬁnancial services. Fintech is encouraged to be used in achieving ﬁnancial efﬁciency, risk control and effective regulation. “The Plan indicates the n ..."
-    publishedDateTime: 2019-12-18T10:22:00Z
-    sourceUrl: https://www.legalbusinessonline.com/features/people’s-republic-fintech/78785
-    type: article
-    provider:
-      name: Asian Legal Business
-      domain: legalbusinessonline.com
-    quality: 24
-    images:
-      - url: https://www.legalbusinessonline.com/sites/default/files//styles/inline_images_style/public/02-Mar-2019-600x400-4.png?itok=LAAMi29C
-        width: 600
-        height: 400
+      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
+        width: 620
+        height: 349
 
 secured: "lBcNxK6jRiVp2mnSOJpbP3BAM5KuLToZBh4GqRcQgBJKACyTmQS2SF1U0tNNY6cwCBYHZhH9cKMGcIbKzCWG5E64JHt01C6I/Jtx5Djt9HWgoTp5TXO6e/jHiVU3W4dBZVjklwOzMf/pj9sFNljtrqlYBSW7TRpL1XB7ynv3v1MGGJU1/DBVEqMQqhC04C+Y2sGNPVVZyZ5zv9lGnv6dVl+3qEMVGYQRrHYxbo58j8Cdt4IazA3L1/euhMVoJAQv0Ji8VlmiEvzkg4cL5aRY+Q==;cPZZcFS3Rluz4dkCtqP/MQ=="
 ---

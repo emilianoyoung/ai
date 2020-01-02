@@ -43,21 +43,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
         width: 1200
         height: 675
-  - title: "AI R&D is booming, but general intelligence is still out of reach"
-    excerpt: "Trying to get a handle on the progress of artificial intelligence is a daunting task, even for those enmeshed in the AI community. But the latest edition of the AI Index report — an annual rundown of machine learning data points now in its third year — does a good job confirming what you probably already suspected: the AI world is booming ..."
-    publishedDateTime: 2019-12-12T05:01:00Z
-    sourceUrl: https://www.theverge.com/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
-        width: 700
-        height: 366
   - title: "AI is breathing new life into artificial limbs for India’s amputees"
     excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
     publishedDateTime: 2019-12-17T03:54:00Z
@@ -73,28 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
         width: 700
         height: 393
-  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
-    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
-    publishedDateTime: 2019-12-12T14:06:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
-        width: 600
-        height: 314
-  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
-    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
-    publishedDateTime: 2019-12-11T18:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
 
 secured: "uMSbuX5gnYM6AOCebEZH2PR/8I1lqB3uUtKXBfO/1I5gO1T7A2D77o+3WS7L9l8EXuCB3P7K27E3CTyB+4Cc/Yi5pWh5z25EvkFtcIHHaCuItXZFAz0suqo7tBwxdJRtWe+cx0LfrOxHZh2OFq9qUGkT0UPpnf0/NIR3ZLq9jfWdSIYSFf8trn9HFBqUIB4XN4geNihrnLbFx5xkn9tmjYWVYdBVPMrb19B5l8qprZnQnrcSBIC2dZHPdwTvbnuTsJGDb12QnmOI8cx98popsQ==;k+73c0AGyVAjj6nYfg17Lw=="
 ---

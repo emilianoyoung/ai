@@ -24,6 +24,19 @@ images:
     title: "Division of Data and Computational Sciences marries AI, social science"
 
 related:
+  - title: "Introduction to Computer Vision & OpenCV in Python"
+    excerpt: "Computer vision is one of the most exciting divisions of computer science. A lot of research has been carried in this field for decades. Processing of images becomes faster and efficient thanks to cloud technologies and powerful GPUs and TPUs. Cars ..."
+    publishedDateTime: 2019-12-16T13:19:00Z
+    sourceUrl: https://medium.com/analytics-vidhya/introduction-to-computer-vision-opencv-in-python-fb722e805e8b?source=rss----7219b4dc6c4c---4
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 69
+    images:
+      - url: https://miro.medium.com/max/1200/0*F2CXcyf2VqAqX8tS
+        width: 1200
+        height: 800
   - title: "Division of Computational and Data Sciences marries AI, social science"
     excerpt: "Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window ... innovation and collaboration without boundaries. McKelvey Engineering has top-ranked research and graduate programs across departments, particularly in biomedical engineering, environmental engineering and computing, and has one of the most ..."
     publishedDateTime: 2019-12-13T18:22:00Z
@@ -37,19 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E55E38E359296C0FE858A3731A2D68EC
         width: 300
         height: 200
-  - title: "Confirmit announces AI-driven digital experience solutions"
-    excerpt: "The major developments include: new partnerships with Brandwatch and Tealium, a new Digital Feedback module for easily configuring web and app intercepts, and enhanced, AI-driven text analytics. This combination enables businesses to intelligently analyze and act on digital feedback across key digital channels of social, app and online."
-    publishedDateTime: 2019-12-10T19:43:00Z
-    sourceUrl: https://finance.yahoo.com/news/confirmit-announces-ai-driven-digital-140300579.html
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.3867A8EC503ED0076A82B409019EA7A0
-        width: 400
-        height: 198
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
 
 secured: "EDOYhD0wPK+WvDRYqPpdXc4tL3JU5zhdIWMQpqEe3wJeg5ljZPwMu7FJ0GDyDcLwi35KsezEB4r8dK33n/fA5J8Q37Rs4/2ksp6kNJHE6dgnqfKtooblr+Pfk2L4aHxr3urXUGNqkWjHSFhhyuhrnq99Lvzi/cHb2eg4hPrzjnALnCfmC+IaWlBMAfcpYL3lBSm8qKeygDGRDkFBeVx73gP5A41N1Ffm9oktpPYp4CRaceQlzHwLAf9wbaVeLMbvU2xqmygvLLQ9sabQKp/8vw==;/ltPOJpkAZiUBdPOHvP1Qg=="
 ---

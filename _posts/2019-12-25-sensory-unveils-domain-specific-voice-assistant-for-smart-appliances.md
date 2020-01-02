@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.40B1A661AA6399ACE7181787DF620388
         width: 700
         height: 366
+  - title: "Sensory platform for smart kitchen appliances brings voice assistant AI to the edge"
+    excerpt: "Sensory is showcasing at CES 2020 its domain specific assistant for smart appliances based on its vocabulary speech recognition and natural language understanding platform TrulyNatural, the company announced. Following a partnership with Midea Microwave and Cleaner Appliances (MCA) business unit, a preview of how the system works with a ..."
+    publishedDateTime: 2019-12-30T19:26:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/sensory-platform-for-smart-kitchen-appliances-brings-voice-assistant-ai-to-the-edge
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
+        width: 700
+        height: 388
 
 secured: "cI9JN/DAsLFwSF5JOKjyIfVH4lFIJyW6wtqjNuf+bH1IXJZJ5Qbqc/Q2MYnAsXQ0c19Uh8XZbU8WzXb1fqLDqV0Uski2rR9gea9OiujMvNqePpfaqtlo2vQCI3IMR+5zta/FKAY0gfwt5g3ySCVaqLE04/UWwdi2OJHmaf7u/Wzm000E/7dcKLFEhuaMzCEFo0vojaUw+67OLlWdrSaaBXqwYlVZH2A0PdEdB++fMl+tXsg1QTwrYGMwZii/8a2F35C9zcEEv4YHOvXBurnIWw==;bV8j4GOdLGWGOVXSoASbWg=="
 ---

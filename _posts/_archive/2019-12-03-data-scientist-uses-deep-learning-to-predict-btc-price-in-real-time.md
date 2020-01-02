@@ -41,21 +41,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
         width: 1679
         height: 1005
-  - title: "Amazon targets devs and scientists with new machine learning IDE"
-    excerpt: "Amazon has just launched SageMaker Studio, which it describes as the first IDE (integrated development environment) for machine learning. This is another big move which happened over at the AWS re:Invent 2019 cloud conference, with SageMaker Studio aiming to be a one-stop-shop for developers and data scientists hammering out their machine ..."
-    publishedDateTime: 2019-12-04T14:52:00Z
-    sourceUrl: https://www.techradar.com/nz/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    ampUrl: https://www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-targets-devs-and-scientists-with-new-machine-learning-ide
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.4B245BF69ADF665A74EF1EBDBAA290FB
-        width: 700
-        height: 393
   - title: "Deep Learning breakthrough made by Rice University scientists"
     excerpt: "In an earlier deep learning article, we talked about how inference workloads—the use of already-trained neural networks to analyze data—can run on fairly cheap hardware, but running the training workload that the neural network \"learns\" on is orders of magnitude more expensive. In particular, the more potential inputs you have to an ..."
     publishedDateTime: 2019-12-13T18:42:00Z
@@ -83,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "Lw+XeC+xQvuxAMDIKB41sObNWaeTO868DIjJ2XtyC8UFNy4RIvq43YGHAJ4u93Q7GsbT0ErvbTZch+COm96QlpM9WC9UlV2HG8aE/C4lX0TqNJ47crdALLAXoiTXXOxGSX6l65IiljB2EYVCyDFmkoWFoqhoQFtLWDg7N4gS/e4NxxKF7UWf3PT0+QMP57vKZ7wLzYhhJ8QHW5t922fiRHjM+O5jcQOboiLO5RNrSsRHsHAYAskbtbZv5635RlgnxZGGeKGbf0NwNMHJa1O5RA==;O3X7SxSju4eXNN6aqCaOUA=="
+secured: "1v23WE3x3497FgbdyYHZTendzE8Ok5sgqBAM0mPyXwlF4Rjh0o8MDkkAOhdGdiNjgplmf4Dw4BMBPSpUeNbEjVsXsvd67gQBOTGqcgVL2saNkPpxiGKtJSJu8VLig+8f/uMydTaGsgH0j3RosVz5GwZPXAYgCm7qVdF1wCUl0GfIKFf+QWznsTogJwsw3f263j5ePNqF6CIai6iepIKtPn4KHucuDv43v50frTPJ0HXhTqRKUdMSpnNq2CBw/fgFoE9yZfGvtJLGOlDMGnD64w==;GaLkRmeRt/1SeAhfEDDddg=="
 ---
 

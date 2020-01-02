@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-1700
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -53,19 +53,6 @@ related:
       - url: https://apnews.com/images/PaidContent3.png
         width: 700
         height: 450
-  - title: "Top Risk Concerns for Business Leaders in 2020 Include Talent, Culture, Technology and Innovation, Finds Protiviti-NC State Survey"
-    excerpt: "\"As the future of work evolves, businesses need to upskill and reskill existing employees ‑ particularly as digital innovations, such as artificial intelligence, natural language processing and robotics become a mainstay in organizations ‑ to ensure they remain competitive with 'born digital' companies and are future-proofed for the next ..."
-    publishedDateTime: 2019-12-12T11:03:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/top-risk-concerns-for-business-leaders-in-2020-include-talent-culture-technology-and-innovation-finds-protiviti-nc-state-survey-300973766.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.CF8ADAAD07907BF2E74489810069B472
-        width: 598
-        height: 315
 
 secured: "ZEP+68xcnRz5KYNx9EAOs6th90yPMmDoK/tBZR4uSeIZZ9WUBXUskj/ojDROLz6JSmutuJ8lOZipPlsCXISUL77l4joaV4m6sulLadRAuGSd3LqraRElJI6UhjH31sE92SUq7qXf96+h65vcpjv3tIP+YnlkIQYXL34zTApPgrWJDa/F1vgjlYwHKhSOYqqN8YvrigG8nfKIqJFV8IB5YOrHY120EPypxhd3+u6MT55sZsyigzVLgsIlh3ZycBatm84WBJqzJ7LS7l79J4o6Nw==;4WREmGBho6RDyIhZg05TDw=="
 ---

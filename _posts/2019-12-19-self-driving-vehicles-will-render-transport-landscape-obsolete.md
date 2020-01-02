@@ -387,19 +387,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
         width: 600
         height: 301
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying robotaxis. \"Waymo, however, is now working on adapting its automated 'driver' to commercial vehicles ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
-        width: 700
-        height: 467
   - title: "Self-driving DeLorean learns how to drift"
     excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
     publishedDateTime: 2019-12-23T20:44:00Z

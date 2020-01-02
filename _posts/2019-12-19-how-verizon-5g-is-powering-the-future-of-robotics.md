@@ -37,43 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2CF993488DD1E8A9225C51DE4D9AA43A
         width: 700
         height: 479
-  - title: "Big Data, 5G and Surgical Robots Are Transforming Healthcare"
-    excerpt: "The immense improvement in the working efficiency of every sector that the advancement in technology has brought with it has benefitted the healthcare sector as well. The introduction of artificial intelligence, machine learning, big data services, and robots helping in the surgery has proven to enhance the workability of the people involved in ..."
-    publishedDateTime: 2019-12-12T07:42:00Z
-    sourceUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/
-    ampUrl: https://techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/big-data-5g-and-surgical-robots-are-transforming-healthcare/amp/
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.F2E270E733A55E6BD9287CFDDDD8701C
-        width: 700
-        height: 402
-  - title: "NVIDIA Brings AI To Health Care While Protecting Patient Data"
-    excerpt: "eWEEK HEALTH-CARE TREND ANALYSIS: At the RSNA conference, NVIDIA demonstrates secure, distributed AI modeling for health-care use cases. Download the authoritative guide: Big Data: Mining Data for Revenue Health care has been one of the early adopters of artificial intelligence (AI), because the technology has the ability to find needles in ..."
-    publishedDateTime: 2019-12-12T18:42:00Z
-    sourceUrl: https://www.eweek.com/enterprise-apps/nvidia-brings-ai-to-health-care-while-protecting-patient-data
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.9793947014ABAF08D0919FA6C9B8322C
-        width: 300
-        height: 200
-  - title: "Healthcare general counsels explore pressing health policy and legal issues at Harvard Law School"
-    excerpt: "Bavitz led the group in a discussion of the opportunities and challenges that artificial intelligence, machine learning, and algorithms present to the health care industry. The spirited conversation that followed raised questions on how to conceptualize the role of AI in health care decisions. Should AI be used as tool, or decision-maker?"
-    publishedDateTime: 2019-12-12T16:18:00Z
-    sourceUrl: https://cyber.harvard.edu/story/2019-12/healthcare-general-counsels-explore-pressing-health-policy-and-legal-issues-harvard
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 6
 
 secured: "VPYgoUFrxurcFq8uwHVKtXke4M8RjSvMxPJ9dZ+nF+akJhdWSikxsdXa6Q56FOJ+4OX8GXr7xU+pTeuoa3LD3scTgpZN1WBDzVtwz7nwY+3tA4MD9QbBmml5fNrneoL3YXzNrN2hOrZjTOPzK25nxNYL3CsN6u+3zm6A6hhnKkWzEZ7BQ1b4ehsqyFS+8J4Pf+HH7/kdKKeVISO+qme086sKQjFoWCAOjGP97cKNXO70+kaOIuG8LaWruDvcs7iz0lBMMj2lqlFLZlI1I7BfDg==;ci0j/xodgkCgDQ0xH/1H1g=="
 ---

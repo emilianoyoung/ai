@@ -25,6 +25,21 @@ images:
     title: "Finland offers crash course in artificial intelligence to European Union"
 
 related:
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T18:42:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
+        width: 700
+        height: 393
   - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
     excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
     publishedDateTime: 2019-12-18T02:13:00Z
@@ -55,6 +70,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
         width: 700
         height: 466
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
   - title: "Finland is offering a free crash course in AI to everyone in the EU"
     excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
     publishedDateTime: 2019-12-18T11:38:00Z
@@ -68,6 +98,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
         width: 207
         height: 155
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
 
 secured: "P03nfWl9aA/D0EAaPMfc75cPjY1f93Lc7cZbkkZo5aMOMfQgDciXQHUpReFC4Oae6MFsJXHAIsZgRU9erVKs719Oy4In8kjkd5PGEhGugKkx1jz1ztOq3xnjSX018VV4Hv2GgV/m1RWGgg6prYclWbyqDb54fJPPanS240BxxTZwW/J0QKLIfS9nlixXUKvC1bE5lfO4Hw0Lduh06k8/x/d8pQUKWMprhqWtyKLtEmRD46yFAr4/2lXkYEKMAJURkThELqIimROGb5bQsCKdZA==;OJTMDdW+q4qA2iV5/TWfgQ=="
 ---

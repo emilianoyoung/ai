@@ -8,8 +8,8 @@ ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unve
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -29,6 +29,36 @@ images:
     title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
 
 related:
+  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
+    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
+    publishedDateTime: 2019-12-30T16:35:00Z
+    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
+    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
+    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
+        width: 700
+        height: 357
+  - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
+    excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
+    publishedDateTime: 2019-12-30T22:30:00Z
+    sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
+    ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
+        width: 700
+        height: 393
   - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
     excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
     publishedDateTime: 2019-12-30T05:54:00Z
@@ -44,7 +74,22 @@ related:
       - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
         width: 457
         height: 299
+  - title: "Samsung To Unveil An Artificial Human (AH) Called Neon At CES"
+    excerpt: "Samsung will be at CES 2020, and it will be unveiling something vastly different than what it has shown off before called Neon. Neon is said to be an artificial intelligence platform that was developed by Samsung Technology and Advanced Research Lab in the U.S. and is expected to be introduced as a new AI platform of Samsung. Neon has an ..."
+    publishedDateTime: 2019-12-30T21:34:00Z
+    sourceUrl: https://hothardware.com/news/samsung-neon-ai-platform
+    ampUrl: https://amp.hothardware.com/news/samsung-neon-ai-platform
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-ai-platform
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
+        width: 700
+        height: 643
 
-secured: "h+dbIdgUpSvMxJ+hKVFhpLPQWZy/0WYayoQOgU0sKFC4dUDZynhgvC9qzgMkIJ1dUaI6a637i6sshBwaaWFD8x1ZN3bIXsvMf4QTxqszXy34t2oVH+a50yxM25oXnaZEoJ5CtYe+jpWKHjkakXshE1GuyIRkjBc2ff0hBlC2icCgVAWI7xBJQf6sYg5lYAIhDVOW4jZareprPK8YaXGodjWJM8iusz/Lx9hmPX5kRew+I2RZ/VRpLDo0cimb5WYIzvdNzsKlGb7/j8irF9WGxQ==;W/rWRakmAGto4rsFZXsVSg=="
+secured: "iTym1uU7st47Uv2GD84dUdxnuPWFl4e+NPaA83FGqiZC81LEgs+d+LXvMYqLiJT89xZO6dMcsMjhsEkQwHoWPFR3fyHXpwlkO0sEap2FRcpTN0hQBqWlX2yI+Lqmk9uh9i4fscTsMwAMiAe5fvnCkN36jZbPM3mC0Zh3ORLr+3MlWdWt/4CHQJSHJ5a5j41VMx+TtZp/ztU+dI3BBUnK0S7zrzThvvXMYdhT/THiok2A3h1vrTh7W+rL7TT87RCoPiwVsycii/Vs97r+FkPs4w==;2DsCHc1SI3tz8mle5+sLUA=="
 ---
 

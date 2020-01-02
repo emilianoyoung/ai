@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 13
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "KcltnFLnTO57rJF5KSQrzX/hYKw7bjDIv96ZKqLxLL1lRi1hwaIXKhbfhC5uyVtZG8Ab5ypb0j/Em5jS2s3GtixUlXPb6XshGNGodO4YfQI2cdQ7yvPTW1hBfGZowgI9rctYUSgiLdTO4xPjhvc+33QCyttJ1Ng6Zd/7a1Fibt2Y65FSNrcAUXNkiujXdISI8fGUun1M2aBsd38gWp5ypcEHCyLcWgXISgTwD8P9kUtLRKkYXbMba2mZa3X3odwyspAjc7SMwDhaHa/GM/rh9Q==;clb7inkipVgPH9PT3JgC2w=="
 ---

@@ -39,17 +39,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
         width: 1080
         height: 530
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 86
   - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
     excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
     publishedDateTime: 2019-12-03T18:20:00Z
@@ -74,19 +63,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -100,20 +87,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
 
-secured: "QO/hkBN2nQkyuH6235+VvBKnxHN6d7Fh5aPhaQ14f0FvFjU7A4FRW4i7g/BtxqqQDJs2lYGNQ7g42TooGO/bWvGTEzOX28JNczMMInPYmICAiaeJl86nmtceg5JfH7GYmCOJPq7pUotrFI/LD1s1brJBxXm3si3OBC68rHuyjozxj1/hJlbwzJvikK6DWCt9ECekhOx1ms372xhhDTkutgcmrwTSqwKUYmRrUWBuI1mhaWlzvKPlNLHZX+tvblbFidcz2AQ5wO4j/JoePJaLgA==;/VWn71N0XAwY2yHAbCS+kA=="
+secured: "Z2ZQqZ2rckJY0/cVPq3aRkWbovDljmpva1Zr0oLYDPtZvFDwPJKVOxJHz5wg/Ns50+RGQD+IIMw65TWQzkQBAbsw/xE9I2FMtsvqh2kIki1E2CS7XfJO2+bxovtPjT0Ne41o+L5KG4fSpiDDs42CDShi0pUnTQvC1JrRfaYS5gmKPacTL3nGDgjgS0+hF81K/Pun4+xBLPtbf6mgJMfOoBaNZdyAaQOByz8bQcMzH0ApClHhuExhPYeVnaxlMx4A5dcCNpqugdjYYoCNhTcBaQ==;bH3LMhKOfFYbPZSC0wjNsA=="
 ---
 

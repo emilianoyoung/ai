@@ -30,21 +30,6 @@ images:
     title: "Amazon-Backed Aurora Readies An Air-Traffic Control System For Self-Driving Cars"
 
 related:
-  - title: "Carpool Lanes To Morph And Disappear In An Era Of Self-Driving Cars"
-    excerpt: "The battle between those in favor of a carpool lane versus those opposed can be loud and quite acrimonious. It is important to clarify what I mean when referring to true self-driving cars. True self-driving cars are ones that the AI drives the car entirely on its own and there isn’t any human assistance during the driving task. These ..."
-    publishedDateTime: 2019-12-12T16:00:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/12/carpool-lanes-to-morph-and-disappear-in-an-era-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.575B1AD674C90194F485A128778FA4B5
-        width: 600
-        height: 315
   - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
     excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
     publishedDateTime: 2019-12-20T16:47:00Z
@@ -60,6 +45,19 @@ related:
       - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
         width: 1200
         height: 630
+  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
+    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
+    publishedDateTime: 2019-12-17T07:29:00Z
+    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
+        width: 450
+        height: 274
   - title: "For self-driving progress, Aurora focuses inward"
     excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
     publishedDateTime: 2019-12-21T04:00:00Z

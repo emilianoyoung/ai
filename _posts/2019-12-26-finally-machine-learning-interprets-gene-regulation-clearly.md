@@ -23,6 +23,23 @@ images:
     height: 393
     title: "Finally, machine learning interprets gene regulation clearly"
 
-secured: "cYtIJWgmvyDXg91MS2upfgkmQGJE8Mzoed+CUPzbrRbWR3VgaMdqNufI02bwEF4KPW8Ry6noIkp846RmNGG4DScG+f302SHrpw7l9mYU8qOjha4VhJx811JK4oKmdncDXqa7JYYocTiNx9S4huCiQ8PN7MKSBURyWI0M0csmvaZ4RFiRJEywlTfvOMyoaeoNi9XghmTvSAnnI+PAIpG1lutsULXysCEYHSwnKkzinTjIO3Atcw5ZjP61RfIfUZVpEN0dVBWRuPgfMsrfhEx1Gw==;RUIj3KO+WSWSFpq6ydbXzg=="
+related:
+  - title: "Squirrel AI Learning appears at Top European Education Summit OEB and gives a Keynote Speech as the Only Educational Technology Company from China"
+    excerpt: "AI can solve many problems with education in the future. Squirrel AI Learning is always committed to exploring the field of \"AI + education\". According to disclosed information, Squirrel AI has applied more than ten algorithms and deep learning technologies to its intelligent adaptive system. It has also developed a number of globally unique AI ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-appears-top-200000716.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/squirrel-ai-learning-appears-top-200000716.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.5ACD95BA4FE994C0894DA8FD4F6D1492
+        width: 400
+        height: 267
+
+secured: "Y+eAAAErRzpisjDzFyChewfZxQdFoR8IJ3nWi0Zs1kKlif0K/w+3KXzJ47yfiDv8fP0Y6POMIaj20rGxhfLWuvOoPpp41FSwskosZntaHFAhes6chJobK1J9BcesIRpgeUShAVSa2PdaL/iqo2zJX3ZfADfwtXZL9cR09+jsv63/N1/1hfoPuYwX1csdhdH0EHJQvJJvDxZD1ijvpZGCT9m/oIU0QitOrrAC0zIsx9bq0Jf6pOjuMhTgP3sVK98B2plJnhRXbBSc8sBL9b7pzQ==;WLV/XoHD6vE/mcCwbf5Ftg=="
 ---
 

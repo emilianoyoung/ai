@@ -1,27 +1,21 @@
 ---
 category: news
 title: "This artificial intelligence tool won’t make you a fool"
-excerpt: "An artificial intelligence (AI) tool will help social media networks detect fake news and news organisations in a bid to avert ... According to the study, presented at the ‘Conference on Neural Information Processing Systems’ in Canada, researchers were motivated to develop the tool by the proliferation of online posts and news stories ..."
-publishedDateTime: 2019-12-17T16:04:00Z
-sourceUrl: https://www.freepressjournal.in/technology/this-artificial-intelligence-tool-wont-make-you-a-fool
+excerpt: "Toronto: Researchers have developed a new artificial intelligence (AI) tool that can help social media networks and news ... presented at the ‘Conference on Neural Information Processing Systems ..."
+publishedDateTime: 2019-12-17T16:11:00Z
+sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-tool-won-t-153834169.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://gumlet.assettype.com/freepressjournal%2F2019-12%2F4a7d0d9a-1ded-4b45-a761-6ff07985b170%2Fetc_lead_dec_17.jpg?rect=0%2C0%2C1460%2C767&amp;w=1200&amp;auto=format%2Ccompress&amp;ogImage=true
-    width: 1460
-    height: 767
-    title: "This artificial intelligence tool won’t make you a fool"
 
 related:
   - title: "This Artificial Intelligence Tool Can Identify Fake News!"
@@ -40,6 +34,6 @@ related:
         width: 90
         height: 120
 
-secured: "sZriCeoa2iKRiYTvyftDfGvgvt3361rvhyHwP6/4zZGRB9NG5X+Lv62SOUkE/Ly0aMpPg2qdxnHxA3oytOFC1Jf2c+PvvIFR83vkkR6wNSqpw5NbKGsz2jN0cuSn2nxRmduz0a+PWwpGvXP9XVojhzJN8Np7Iv/6ym4tS1OXU04pWM+Smye5wW18ki+1Iih8J49vyZe0P7sWzBPG/eauLPrC4TQY6rjbnoo4BB7XWp//DBehJ7q+aSQdZQXIY0SV4sdrNFD768dIasW+Kn0qoA==;2BFUikzFUbrhJ2IqUsY5gg=="
+secured: "4vh1oSn2KmdjRi69q6/rNfKemOrml5QxYJ4PCdzn4920VOVpDSKgj5TzRTGQsLIjzXv+lhK102p5+T0XBf3KR4WxKY4CH3m3dhb1+hzZ0E6ACty9aDOKV/BA/e+AN91Kj8eSFKG12JioVKOZ8IPXz0cEJ7dX+m7McXgPu+IxeHmXq+70ukySQvqChNXDMKRnSSlH7oVG9nUipwxlDjNf7Omyx4/d55MAiWOTmMh0dUfIMgaPv/PiiF9Tfjkct72OdT70r9zb46y/cHLNYVpq4Q==;Mg+/Hl+Hd3TDr18OoIG2SA=="
 ---
 

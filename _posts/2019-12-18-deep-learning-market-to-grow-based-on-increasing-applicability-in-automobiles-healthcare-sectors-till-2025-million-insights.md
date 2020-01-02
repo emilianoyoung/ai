@@ -5,7 +5,7 @@ excerpt: "FELTON, California, Dec. 18, 2019 /PRNewswire/ -- The global Deep Lear
 publishedDateTime: 2019-12-18T20:47:00Z
 sourceUrl: https://finance.yahoo.com/news/deep-learning-market-grow-based-102000833.html
 type: article
-quality: 8
+quality: 0
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - AI in Healthcare
 
 related:
   - title: "Automated hacking, deepfakes are going to be major cybersecurity threats in 2020"
@@ -35,6 +34,6 @@ related:
         width: 2000
         height: 1333
 
-secured: "/0PJd7vWpvKkQdWxlC0etzwR5akzMx09PuHtvf+aJ06wyk3jKtedwUFwKIzRpsp8X83p9XDmEmmuvoEjKd1eCO286hHAvt0dDuAHsr9bxuPpTbnLVJJ/9l6OvyDrLbUUNlbcmp+RVzFa9+BmeUHPiI1mrCu7KN5PdWs3wavEsRFHFAaYpGJvmewtmHzdn+j2Wl2Px+1TRZWRdgbF6Qagnkdr+UhF+l4q6DaCHaRfZGHh9o1S67AYETA1wUibknmiIMsKL+6uKntgjWELEEG0mQ==;XGqW/YQUNGql949MBfbo8Q=="
+secured: "yg3btOqHkwTLuFq4CIyPdmOc+Ro/eZzRrz6RFWis70QYzNrMfTreUfQuBDRIPgNlYnG12Kf53ZGyjJiNOPqY22X+G3JBFujUh6LPz1+pL+gwRrip16+e46YSScV0JhxOztSoSb6gkU0oMMsRe3RAiusfj9E0smkoVbBnH0MeAdm660Mh/LrpC4Foorkgf6FvdBWCYh+DbOjt82AEGfvNNDIqiDxPOf9hRyjIt4V+DZAWEtvIIhsdtk0DacQq46vothqYizc4A+rcwklsK4L9NA==;0Kcf9YebkJT6zrlsCw5N3Q=="
 ---
 

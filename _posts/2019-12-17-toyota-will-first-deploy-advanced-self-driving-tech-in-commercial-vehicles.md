@@ -26,34 +26,103 @@ images:
     title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
 
 related:
-  - title: "Self-driving car firms rooted in U.S. government competition"
-    excerpt: "Bryan Salesky had little way of knowing in 2007 that his teammates and rivals in a U.S. Defense Department-sponsored competition were laying the foundations for future self-driving businesses now valued at billions of dollars."
-    publishedDateTime: 2019-12-11T11:09:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-darpa/self-driving-car-firms-rooted-in-u-s-government-competition-idUSKBN1YF18Y
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18Y
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18Y
+  - title: "Honda self-driving technology coming next year, report says"
+    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
+    publishedDateTime: 2019-12-13T21:06:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNET
+      domain: cnet.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.CFF4CCDD3367F8105E8CDDA8D5B68A45
+      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
         width: 700
-        height: 466
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit ... Argo's main rivals focused initially on deploying autonomous taxis. Waymo, however, is now working on adapting its automated \"driver\" to commercial vehicles ..."
-    publishedDateTime: 2019-12-11T10:22:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+        height: 367
+  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
+    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
+    publishedDateTime: 2019-12-16T16:40:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
+        width: 636
+        height: 382
+  - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
+    excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
+    publishedDateTime: 2019-12-13T20:42:00Z
+    sourceUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs
+    ampUrl: https://www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/honda-self-driving-car-japan-how-much-costs.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
+        width: 700
+        height: 393
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 23
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.B0C00F70047798A314AB47871190AB49
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
         width: 700
         height: 525
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
+    images:
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "zgcJAdcrkdSG+LxZGp5zOWll+UqeW/WQNwEK3CYrK/VJYAYza6URZCJQ5IsiIa9dWUt5/KLfNN8t2z+pd9lfAjmC2zPqW3YpRRWFM0Q3L6sJbOqTSGpnfj+jFtlUNh4xOHh+RxvAGqEnVTQTOjKeoZ4DTrw/ap26f/EXkGNX2/ZCezKomrf2Dk+Pz87PVAgm9sf6fT95vpOziivROR5pTzawuKjQuqoUlkxwxcry0E4liIcEijasJ74d2KjKG6K7LIxtYUexgjfVGeKbm6K55g==;yfK34r8hJtd9dYFWg/5wrA=="
 ---

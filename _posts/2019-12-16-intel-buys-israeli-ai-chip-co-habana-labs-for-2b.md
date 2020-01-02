@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.872EF4DBECAB80647B8C23ED73EED33F
         width: 700
         height: 466
-  - title: "Will Amazon's New Chip Cause Headaches for Intel?"
-    excerpt: "The move wasn't surprising since it acquired ARM-based chipmaker Annapurna Labs in 2016 to develop its own first-party CPUs and artificial intelligence (AI) chips. This was clearly bad news for Intel (NASDAQ:INTC), the world's largest maker of data center CPUs, but the first-generation Graviton couldn't match the performance of Intel's ..."
-    publishedDateTime: 2019-12-10T15:09:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/10/will-amazon-new-chip-cause-headaches-for-intel.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BCA48C47DEEE781682555EE8B921AD2F
-        width: 700
-        height: 393
   - title: "Intel spends $2bn on Habana Labs in AI data centre push"
     excerpt: "Habana Labs builds AI accelerators, which are a type of processor designed specifically for AI applications, such as machine learning or computer vision — they're what a GPU is for graphics, but for AI. Habana will remain independent from Intel with the current management team remaining in place, and continue to be based out of Israel."
     publishedDateTime: 2019-12-17T13:16:00Z
@@ -189,21 +174,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5B25E998AAC089B03351CB2B8BF374F2
         width: 700
         height: 466
-  - title: "Intel buys Israeli AI chip startup Habana for $2B"
-    excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
-    publishedDateTime: 2019-12-17T03:36:00Z
-    sourceUrl: https://www.sfgate.com/business/article/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-    ampUrl: https://www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/amp/Intel-buys-Israeli-AI-chip-startup-Habana-for-2B-14910426.php
+  - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
+    excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/
+    ampUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: NBC Bay Area
+      domain: nbcbayarea.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.E322D761B2025606E2EB1596D2AF511E
+      - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
         width: 700
-        height: 466
+        height: 393
   - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
     excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
     publishedDateTime: 2019-12-17T08:15:00Z
@@ -354,19 +339,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
-  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
-    excerpt: "Teams working on autonomous driving projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to-life simulated training environment that enables AI models to learn more efficiently. Waymo didn’t say what exactly the ..."
-    publishedDateTime: 2019-12-12T17:55:00Z
-    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5C3D34CA06B645754AE6139428E6CE54
-        width: 700
-        height: 389
   - title: "Intel Acquires AI Chip Startup Habana Labs For $2B"
     excerpt: "By Dylan Martin December 16, 2019, 09:46 AM EST Intel announced Monday it has acquired artificial intelligence chip startup Habana Labs for approximately $2 billion, expanding its arsenal of AI accelerator products for the data center market. The Santa Clara, Calif.-based company's announcement came nearly two weeks after multiple reports ..."
     publishedDateTime: 2019-12-16T15:07:00Z
@@ -443,6 +415,17 @@ related:
       - url: https://www.bing.com/th?id=ON.739097A0A6F7F29656C58B1FE4F38D34
         width: 700
         height: 389
+  - title: "Waymo acquires AI startup Latent Logic"
+    excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
+    publishedDateTime: 2019-12-16T13:23:00Z
+    sourceUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    type: article
+    provider:
+      name: Leftlane
+      domain: leftlanenews.com
+    quality: 54
   - title: "Intel buys Israeli AI chip firm Habana Labs for $2bn"
     excerpt: "Habana Labs, a developer of deep-learning accelerators for data centers, has been bought by Intel for around $2bn. The acquisition comes as Intel tries to build up its portfolio of AI chips, which the company expects to be greater than $25 billion by 2024. Intel has said it expects to generate over $3.5 billion in AI-driven revenue this year."
     publishedDateTime: 2019-12-17T13:00:00Z

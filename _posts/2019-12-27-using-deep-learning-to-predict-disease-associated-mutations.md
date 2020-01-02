@@ -8,7 +8,7 @@ ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
 cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 4
+  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
+    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
+    publishedDateTime: 2020-01-01T11:23:00Z
+    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 0
 
 secured: "+azpzT2WhBknwO4FDzeW7QinY/TT/oLme5ryjBVwY2811x1Ufp+Reeq5Z3cXmx+7PT00/ugQ0D+PmGl+sUYe6loyq+7GIq3g/LTXsK8GJBn4016naXVDVYQ7TxVZ8TGW7+O6s5SLJrQcj37WfJnBgkognJYvliVKNgTtSpYhRhvPIoGyQfgIEXANHR7UAYH7jsnRlRoTR1LcQkFG5IMDPs3Zdru4N17Pml6aLBFC5CIHGOb63z8pv3EkoQLCD5SB+ShRJB4Ec4MaDT+LP7k1EQ==;y93U2wD6Qugo6P/HXKi06A=="
 ---

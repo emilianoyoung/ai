@@ -8,7 +8,7 @@ ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-p
 cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
 type: article
 quality: 68
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
 
 related:
+  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
+    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
+    publishedDateTime: 2019-12-17T12:58:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
+        width: 700
+        height: 367
+  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
+    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
+    publishedDateTime: 2019-12-14T18:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
+    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
+        width: 700
+        height: 350
   - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
     excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
     publishedDateTime: 2019-12-18T18:25:00Z
@@ -60,8 +90,8 @@ related:
         height: 475
   - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
     excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-    publishedDateTime: 2019-12-16T14:41:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/erc-uot121619.php
+    publishedDateTime: 2019-12-16T14:56:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
     type: article
     provider:
       name: EurekAlert!

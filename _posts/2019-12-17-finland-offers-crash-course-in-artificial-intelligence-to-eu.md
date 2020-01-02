@@ -8,8 +8,8 @@ ampUrl: https://amp.charlotteobserver.com/news/business/national-business/articl
 cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Charlotte Observer
@@ -25,34 +25,51 @@ images:
     title: "Finland offers crash course in artificial intelligence to EU"
 
 related:
-  - title: "Finland seeks to teach 1% of Europeans basics on artificial intelligence"
-    excerpt: "TALLINN, Dec 10 (Reuters) - Finland, which holds the rotating EU presidency until the end of the year, said on Tuesday it aims to teach 1% of all Europeans basic skills in artificial intelligence through a free online course it will now translate into all official EU languages. The European Union is pushing for wide deployment of artificial ..."
-    publishedDateTime: 2019-12-11T00:15:00Z
-    sourceUrl: https://in.reuters.com/article/finland-education-ai-idINL8N28K2E8
-    ampUrl: https://in.mobile.reuters.com/article/amp/idINL8N28K2E8
-    cdnAmpUrl: https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINL8N28K2E8
+  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
+    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-18T02:13:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 88
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
     images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
-  - title: "Finland Seeks to Teach 1% of Europeans Basics on Artificial Intelligence"
-    excerpt: "TALLINN — Finland, which holds the rotating EU presidency until the end of the year, said on Tuesday it aims to teach 1% of all Europeans basic skills in artificial intelligence through a free online course it will now translate into all official EU languages. The European Union is pushing for wide deployment of artificial intelligence across ..."
-    publishedDateTime: 2019-12-10T13:18:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/10/world/europe/10reuters-finland-education-ai.html
+      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
+        width: 700
+        height: 393
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "HELSINKI (AP) — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the ..."
+    publishedDateTime: 2019-12-18T03:42:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Finland-offers-crash-course-in-artificial-14912225.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 66
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
+        width: 700
+        height: 466
+  - title: "Finland offers crash course in artificial intelligence to European Union"
+    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the ..."
+    publishedDateTime: 2019-12-22T19:03:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/
+    ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
+        width: 700
+        height: 465
   - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
     excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
     publishedDateTime: 2019-12-17T17:52:00Z
@@ -68,6 +85,32 @@ related:
       - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
         width: 1200
         height: 674
+  - title: "Finland is offering a free crash course in AI to everyone in the EU"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
+    publishedDateTime: 2019-12-18T11:38:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
+        width: 207
+        height: 155
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
 
 secured: "i/QsL+vyzjaG755tsxsJ5/Qdesl0KdBi34FjrAFxEMuBLmcRGV+gKU64CfSmM8Lbh8k8KsNH08HFgTD74L2fFn6HRdvW3ph1+ZkC13BtO6n7ei4abEnuMwQBpjGEqQbrtVAWJpwBqIDjNitc6QFaKvMKZXgcXRe9O16bI8dLRsErDoCPbiMFDleWx9KIJmmdZJ6D6GHboTrnessLyA+po1MRrZYSGSiReWIPNTbY9fsUMrd1zzFeqmBfstF/EKl9st7B8Xw+URGJCIof7T3I+w==;OYJOAIy0T9THp8GMZ/tuxw=="
 ---

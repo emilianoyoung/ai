@@ -40,36 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
         width: 700
         height: 350
-  - title: "Prediction 2020: The future of robotics next year and beyond"
-    excerpt: "Industrial robots are no longer the exclusive domain of heavy industry or huge factories ... In the midterm, Harlow cautions that the regulatory environment could slow down the pace of progress. \"In the 2020s,\" he says, \"the artificial intelligence and machine learning technology landscape will move from the 'Wild West' where almost anything ..."
-    publishedDateTime: 2019-12-11T12:00:00Z
-    sourceUrl: https://www.zdnet.com/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    ampUrl: https://www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/prediction-2020-the-future-of-robotics-next-year-and-beyond/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: https://www.bing.com/th?id=ON.B887204DB63C0A73A2A7AE9376B28153
-        width: 700
-        height: 525
-  - title: "How 5G Will Create Opportunities And Challenges For The Robotics Industry"
-    excerpt: "We are on the cusp of a robotics Golden Age, which I believe will increase our standard of living to the degree that mass production, electricity and transistors did for our ancestors. The term “smart manufacturing” refers to business processes that feature machines in decision making roles. Artificial intelligence (AI) provides the ..."
-    publishedDateTime: 2019-12-10T14:11:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/10/how-5g-will-create-opportunities-and-challenges-for-the-robotics-industry/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 103
-    images:
-      - url: https://www.bing.com/th?id=ON.5B1C3D3E830EC8318980519E4D4C4469
-        width: 600
-        height: 315
   - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
     excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
     publishedDateTime: 2019-12-17T15:00:00Z
@@ -85,19 +55,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
         width: 1198
         height: 599
-  - title: "On eve of British election, robotics and automation remains on sidelines"
-    excerpt: "Rian Whitton is a research analyst for ABI Research, a market intelligence company focused on the most transformative technologies and their impact across industrial, commercial and consumer markets. As part of the Strategic Technologies research team, Rian provides an analysis for Robotics, Automation, Intelligent Systems, Artificial ..."
-    publishedDateTime: 2019-12-11T16:48:00Z
-    sourceUrl: https://www.therobotreport.com/on-eve-of-british-election-robotics-and-automation-remains-on-sidelines/
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 98
-    images:
-      - url: https://www.bing.com/th?id=ON.1728772EAB6108F0C29BB2748629CC80
-        width: 700
-        height: 543
   - title: "Rovenso raises $2.3M in funding for safety, security robots"
     excerpt: "acoustic analysis, as well as thermal and visual features extraction,” added Lucian Cucu, chief technology officer at Rovenso. The company said the between it and Nivalis Group in terms of robotics, artificial intelligence, and machine vision will shorten iots time to market."
     publishedDateTime: 2019-12-13T19:50:00Z

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
-excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
+excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting ..."
 publishedDateTime: 2019-12-06T13:45:00Z
 sourceUrl: https://www.sporttechie.com/nfl-amazon-web-services-injuries-player-safety
 type: article
-quality: 43
+quality: 41
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Facebook AI
 
 images:
   - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
@@ -25,24 +24,24 @@ images:
     title: "The NFL Will Use Amazon Web Services AI and Machine Learning to Study Injuries and Player Safety"
 
 related:
-  - title: "AI Weekly: Amazon plays the long game in health care AI"
-    excerpt: "That’s not to mention AI-powered fraud detection and code review products and an expanded machine learning experimentation and development studio, as well as a dedicated instance for AI inferencing workloads. But perhaps the most intriguing launch this week was that of Amazon Transcribe Medical, a service that’s designed to transcribe ..."
-    publishedDateTime: 2019-12-06T19:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/
-    ampUrl: https://venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/06/ai-weekly-amazon-plays-the-long-game-in-health-care-ai/amp/
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.495BAC0081EC7187F76D7E78C56BC8C8
-        width: 700
-        height: 350
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL player and run it through an endless number of game scenarios to gain a better understanding ..."
-    publishedDateTime: 2019-12-06T14:41:00Z
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+    publishedDateTime: 2019-12-06T15:42:00Z
     sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
@@ -50,25 +49,19 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.89C053C975679583B0E57C809DB75EF3
-        width: 700
-        height: 525
-  - title: "Amazon Partners National Football League For Player Health, Safety"
-    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and, playing surface. AWS and the NFL will also collaborate to develop computer vision models ..."
-    publishedDateTime: 2019-12-06T15:34:00Z
-    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+    quality: 54
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+    publishedDateTime: 2019-12-05T20:42:00Z
+    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 17
 
-secured: "QS7u86XAlIZqLqe7rsL/XatZwfuJCrxK19nj7l5bxpl7gET+CIWd65E3TI8MPzE52gIpMvzRg1BD1o2Oks4pO79vytjMM+BWPF5s5mpc97WBi0gOtg5tKqHkmlennv7EQHwVe4zAqxYhKsxeVNyqgltJzPpCh78ZaGzbfy63Eg9YsSuS6J0gckn4tSLG1wmpSUMrM6eFVHGgWu8ev7RxCNmEK8aQfksqQxG/dkSudegvTNXgwJP2KWXpLhTf4Q6lmStBKKDzD3HrTP3zSkUe0Q==;dmWb5QzS6EeRduqSnP7Qxw=="
+secured: "+Zz/CqAGPWWjGRLpxYz+FeaTPngnbIvqkQzquwF7J84IAIuPmQhTmYbJGm/rbu3FyIiN7z/ebwN0Jc2z6mka/oOYGV3pGDvxJT50+EVMahnpGYRzOEPeEQ4/Qk4N+HCeKo75NzSboGa1VgfTh/5/v56FSBQKcnZNB6N98yWGuPo4gIfFhU++tRxWrQAeJxpHZL6o9pUXEqRqq4kVTkIijROyUntDmhdy37lv7mCF0vNFO5vdNDP3YF7bzuoZu5FMww99oPFKhO6zIdpcAycO9Q==;Du7xS5G9cc31z6j7Q3VpnA=="
 ---
 

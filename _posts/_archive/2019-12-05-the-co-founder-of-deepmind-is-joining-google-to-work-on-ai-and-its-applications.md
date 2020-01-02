@@ -28,50 +28,35 @@ images:
     title: "The co-founder of DeepMind is joining Google to work on AI and its applications"
 
 related:
-  - title: "China’s AI initiatives to pay off with broad industrial applications, iFlytek founder says"
-    excerpt: "China’s efforts in artificial intelligence (AI) development are starting to pay off, with wider industrial applications set to be deployed, amid the protracted tech and trade war with the United States. Liu Qingfeng, the founder and chairman of iFlytek, highlighted that progress on Monday at a conference in Beijing, where he said AI advances ..."
-    publishedDateTime: 2019-12-10T10:37:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 147
-    images:
-      - url: https://www.bing.com/th?id=ON.E7B2E9DE8653009D1EA66E27ECFD6265
-        width: 700
-        height: 367
-  - title: "Don't put your AI initiatives at risk: Test your AI-infused applications!"
-    excerpt: "I could continue with more examples of how AI can become harmful. Enterprises are infusing their enterprise applications with AI technology and building new AI-based digital experiences to transform business and accelerate their digital transformation programs. But there is a chance that all these positives about AI could end, especially if we ..."
-    publishedDateTime: 2019-12-13T19:18:00Z
-    sourceUrl: https://www.zdnet.com/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
-    ampUrl: https://www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
+  - title: "Google DeepMind gamifies memory with its latest AI work"
+    excerpt: "That second problem, how a sense of consequence develops over long stretches, is the subject of recent work by Google's DeepMind unit. They asked how they can create something in software that is like what people do when they figure out the long-term consequences of their choices. DeepMind's solution is a deep learning program they call ..."
+    publishedDateTime: 2019-12-02T22:10:00Z
+    sourceUrl: https://www.zdnet.com/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepmind-gamifies-memory-with-its-latest-ai-work/
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 104
     images:
-      - url: https://www.bing.com/th?id=ON.EF496B372EE2043CF8F4651689EF8A88
+      - url: https://www.bing.com/th?id=ON.9BB7B3CFDA35885A8417A8684146BF72
         width: 700
         height: 525
-  - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
-    excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
-    publishedDateTime: 2019-12-10T08:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-size-share-industry-trends-opportunities-business-revenue-forecast-and-growth-prospective-2019-12-10
+  - title: "Google just added the cofounder of its DeepMind unit to its own AI team"
+    excerpt: "An icon of the world globe, indicating different international options.\" Google has added the cofounder of its UK-based DeepMind artificial intelligence research unit to its own AI team. Mustafa Suleyman confirmed the news on Twitter on Thursday ..."
+    publishedDateTime: 2019-12-05T17:53:00Z
+    sourceUrl: https://www.businessinsider.com/deepmind-cofounder-mustafa-suleyman-leaves-for-google-2019-12
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
         width: 1200
-        height: 630
+        height: 600
 
-secured: "If7HAMwwRMZrTGKKsXmqYYf2Mpq7mSZn/I4RYIk77dvg9LGkHusOxVXcEVmUr9S0Z+wsYxXx4NtZJpIoQUvKXM6ItIamtq9ssBQxNkwByumOGR7ONxl3GGoEza9I7dgdo6GjnxWQGAwD+ywUHcgoUa53CbidnmVVaIEIoTH8Y5WE88O6pPUHmCeie5RvaaKfBiUjsvNblXR5W8n6rtnTjIT2kEyroMMojY7oSJJdPat20OTZ538zYzdHThfwXFEvVla+guXF5wWuLFhtDQ8fBw==;u50gYWAQx3JThB6vwvZE1w=="
+secured: "fcwp+yr1bRBikTwK2MugEXlN1wTZ6mv5l/+XVEB0FHsnQeQjt2vtcYj/CMs8p54exd9WtWsaXd8IpHGO4YRZdFVFn9uguyAYEoJbPsFrwAYBKk9zQMOFyeg5ZUa2cpsTv5Rz5K/Tp4Hag2+m2ijFXNd64ZTjaPgwX1EGp9psLKMHouZwYrRZzZ+FgHhdBVO5k9A9ZTbqKv9qKsr5wfbbUONAoepipPuwwLvioWlnB2qYK4hoLQX6kOBBqMeQ76H4fyCDSlYbMSXTHzhKBOi7fg==;9ArrzQTrRv4NOAtGQ9Tqig=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-15/two-amazon-locati
 cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-15/two-amazon-locations-in-germany-face-strikes-ahead-of-christmas
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 700
     height: 466
     title: "Two Amazon Locations in Germany Face Strikes Ahead of Christmas"
-
-related:
-  - title: "Amazon Will Broadcast Champions League Matches in Germany for 2021-22 Season"
-    excerpt: "AWS platforms being used by the NFL will include Amazon SageMaker, Amazon SageMaker Ground Truth, and Amazon Rekognition (a software for facial recognition). The league and AWS will place an emphasis on finding information and techniques for protecting against concussions and lower extremity injuries. Sports Loft, a new sports technology hub ..."
-    publishedDateTime: 2019-12-11T14:58:00Z
-    sourceUrl: https://www.sporttechie.com/amazon-champions-league-matches-germany-2021-2022-season
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 21
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
 
 secured: "99fujrsn0nAshkli6R9k2oI/RnWcZrvcJamG2g61vGgMSuuhLwnxqhnPFqB4NHKl6Etv4C43DAgc1Uk1rXlCzIQCeIiRRdKoy/xVLY++AIjUI4OeVxcFICgYlAn/m2LlkFJv0mfZKGYSkoDtLs749GiCeW56ldqdbLKMh1C7kfN/U/y7IQBdQp4iinuPsJ+j0UaqXCK7d3Hj7MmIpLruUJp/BYq5Vozp+mb84b0Vbj7Jd6uPh22lrYQjlKaAmhUjc2Bxp+vo9C62i83BXIEQkg==;+5xqG65cPMUJ9OpdneMPVQ=="
 ---

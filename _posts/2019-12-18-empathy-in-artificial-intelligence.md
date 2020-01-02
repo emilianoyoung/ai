@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artifi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 type: article
 quality: 93
-heat: 143
+heat: 113
 published: true
 
 provider:
@@ -32,21 +32,6 @@ images:
     title: "Empathy in Artificial Intelligence"
 
 related:
-  - title: "AI R&D is booming, but general intelligence is still out of reach"
-    excerpt: "Trying to get a handle on the progress of artificial intelligence is a daunting task, even for those enmeshed in the AI community. But the latest edition of the AI Index report — an annual rundown of machine learning data points now in its third year — does a good job confirming what you probably already suspected: the AI world is booming ..."
-    publishedDateTime: 2019-12-12T05:01:00Z
-    sourceUrl: https://www.theverge.com/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/12/21010671/ai-index-report-2019-machine-learning-artificial-intelligence-data-progress
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
-        width: 700
-        height: 366
   - title: "AI is breathing new life into artificial limbs for India’s amputees"
     excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
     publishedDateTime: 2019-12-17T03:54:00Z
@@ -75,28 +60,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Content Intelligence: How to Move the Needle for Marketing Results in 2020"
-    excerpt: "Chances are that in the last 12 months, you’ve either demoed, tested, or even adopted a new marketing technology that includes artificial intelligence (AI). While the tool may or may not have been built for content intelligence, 2020 may be the year you adopt a tool or program that uses AI to help you make better decisions around your content ..."
-    publishedDateTime: 2019-12-12T14:06:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/content-marketing/content-intelligence-how-to-move-the-needle-for-marketing-results-in-2021/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.DDACA7391097EA5B9F3F751BF9D44665
-        width: 600
-        height: 314
-  - title: "The impact of artificial intelligence in screening for diabetic retinopathy in India"
-    excerpt: "With the exponential increase in the number of people with diabetes, and shortage of trained graders/retinal specialists, an automated approach using artificial intelligence (AI) for DR screening has started attracting attention of healthcare professionals. AI is an efficient computer-based tool that augments human intelligence in healthcare ..."
-    publishedDateTime: 2019-12-11T18:34:00Z
-    sourceUrl: https://www.nature.com/articles/s41433-019-0626-5?referral=true
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 12
 
 secured: "6sZghzjn4RlviIAzVr/T/zP9DiAxnnLudt/8Dj7993BTvf1zp8MKySMQVJkQ2fq+vx6rNRPVCrJqiZKZNwqLGz6TntTjKPVig+j0Qczvh4xR2vDulDDNrEvdUs/lv9sMj4z/wIIsINCIHeXamuNvTCwA6oiuVonMUzZ5o24b3Pz6WNsClLGowOd89w9DnRyY0ahj//Pm709nO0bLlCcK4Iev9UxP92kOq3RtEN5bEfD75/lmYcP4hlHYYihx9HS6T3hlE+TXuHzJtIKPvWemrw==;cfvtJSx4DiI33jPrjWArMQ=="
 ---

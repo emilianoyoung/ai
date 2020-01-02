@@ -37,6 +37,21 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/VY4rxYG.uINvvqCjNFlDpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuMg--/https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
         width: 1278
         height: 851
+  - title: "Paige raises $45 million to detect cancer with computer vision"
+    excerpt: "Health care startup Paige has raised $45 million to diagnose cancer with the help of computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has now raised over $70 ..."
+    publishedDateTime: 2019-12-18T13:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/
+    ampUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
+        width: 1200
+        height: 629
   - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
     excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
     publishedDateTime: 2019-12-19T11:30:00Z

@@ -42,19 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
         width: 600
         height: 315
-  - title: "Is Artificial Intelligence and Machine Learning really a strong market to invest in?"
-    excerpt: "Dec 11, 2019 (AB Digital via COMTEX) -- An extensive analysis of the Global Artificial Intelligence and Machine Learning market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and a ..."
-    publishedDateTime: 2019-12-11T17:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/is-artificial-intelligence-and-machine-learning-really-a-strong-market-to-invest-in-2019-12-11
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Accountability is the key to ethical artificial intelligence, experts say"
     excerpt: "Artificial intelligence (AI) needs to be more accountable but ethical considerations ... and we shouldn’t care about the internal workings of AI neural networks either,” he said. Instead, O’Neill says we should be focusing on outcomes. John Buyers, chair of the AI and Ethics panel and a partner at law firm Osborne Clark, points to the ..."
     publishedDateTime: 2019-12-16T16:22:00Z
@@ -70,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F66B2689EC2788F048943268DD2A8E5
         width: 700
         height: 233
+  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
+    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
+    publishedDateTime: 2019-12-17T19:43:00Z
+    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
+        width: 1200
+        height: 600
   - title: "Artificial Intelligence in the Telecom industry"
     excerpt: "The increasing complexities of communication networks today demand a clever approach to network planning and optimization. With the rise of the Artificial Intelligence market, new technologies such as network virtualization, self-organizing networks, intelligent antennas, AI-powered radio-frequency front-end, and intelligent chipsets can easily ..."
     publishedDateTime: 2019-12-13T18:24:00Z
@@ -83,6 +83,21 @@ related:
       - url: https://miro.medium.com/max/851/1*GUPb5KqBM0v66UfxmFxbIA.jpeg
         width: 851
         height: 315
+  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
+    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
+    publishedDateTime: 2019-12-14T16:18:00Z
+    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
+    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
+        width: 700
+        height: 466
   - title: "Are We Ready For The First Patent Filed By Artificial Intelligence?"
     excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
     publishedDateTime: 2019-12-13T08:49:00Z
@@ -98,19 +113,21 @@ related:
       - url: https://www.bing.com/th?id=ON.69F6CBBED20D4D59C6DF56DF2C0E749C
         width: 700
         height: 466
-  - title: "Artificial Intelligence (AI): The Answer To Our Environmental Prayers?"
-    excerpt: "Due to the variability in the observations the volunteers make, AI filters observations through collected historical data to improve accuracy. And now with over 500 million bird observations recorded through this global database, Microsoft’s Azure Cloud Computing Program is helping to allow calculations that used to take upwards of two to ..."
-    publishedDateTime: 2019-12-11T04:00:00Z
-    sourceUrl: https://goodmenproject.com/environment-2/artificial-intelligence-ai-the-answer-to-our-environmental-prayers/
+  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+    publishedDateTime: 2019-12-16T08:56:00Z
+    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
     type: article
     provider:
-      name: Good Men Project
-      domain: goodmenproject.com
-    quality: 54
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.BD284E498A061075A5BA2FD8764B5120
-        width: 600
-        height: 350
+      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+        width: 700
+        height: 367
   - title: "Qualcomm backs artificial intelligence startup to push 5G into industrial markets"
     excerpt: "Augury, founded in 2011, collects data from equipment via advanced sensors and then applies artificial intelligence algorithms to anticipate when they will break down. It saves customers money by flagging the need for maintenance ahead of a problem. Qualcomm Ventures believes the investment will help jumpstart the emergence of wireless ..."
     publishedDateTime: 2019-12-12T22:42:00Z
@@ -126,19 +143,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D242FBE77AADB4EC492F5EDB47BD12D2
         width: 700
         height: 367
-  - title: "Perficient to Discuss Real-World AI Applications for the Financial Services Industry at AI Summit New York"
-    excerpt: "Perficient, Inc. PRFT, -0.38% (“Perficient”), the leading digital transformation consulting firm serving Global 2000® and other large enterprise customers throughout North America, today announced it will speak at AI Summit New York, the world-leading AI event for business leaders, held Dec. 11-12 at the Javits Center in New York City."
-    publishedDateTime: 2019-12-10T15:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/perficient-to-discuss-real-world-ai-applications-for-the-financial-services-industry-at-ai-summit-new-york-2019-12-10
+  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
+    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
+    publishedDateTime: 2019-12-18T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 51
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
-        height: 630
+        height: 1200
   - title: "Concordia researcher applies machine learning to financial risk management"
     excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
     publishedDateTime: 2019-12-16T15:16:00Z
@@ -185,15 +204,6 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
         width: 1200
         height: 630
-  - title: "Are we ready for the first patent filed by artificial intelligence?"
-    excerpt: "Patent practitioners and others in the world of intellectual property have expended significant time and money seeking to protect innovation in the field of artificial intelligence (AI). But what happens when an AI tries to patent something itself? Will such an event be possible? If so, who would be named as the inventor? And who would own the ..."
-    publishedDateTime: 2019-12-12T11:49:00Z
-    sourceUrl: https://www.aei.org/technology-and-innovation/are-we-ready-for-the-first-patent-filed-by-artificial-intelligence/
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 17
 
 secured: "JFIVc+Soc+Ml+5Nl2V4N2zhSjy6903/VPeW4G9BvFvqBY9oEobqDD6CpF9tc8CtAA/sBnrVXeL8TMrRw/RFzEcj3DcmWKYL+mfclQ3xwlgpaWwZwphZJU+PxpZCLHy26zjgmzZX3k28GhbCci172UWcNRHjnTrxIVYOdGDDLn01wv8x/QhofpiPHjuanj6YbHBWH8X3FdXnMgak8ob5LyTMxgTuO6ZLWNTK/Wi0uEcsEo5TtT8RkQk221DxEwO+jI/tpMkmflUz4PUlo/NwzKw==;CEPNT/O6M0A5x8IQYSvpUg=="
 ---

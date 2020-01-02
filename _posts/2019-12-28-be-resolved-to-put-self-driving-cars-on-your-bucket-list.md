@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-se
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/28/be-resolved-to-put-self-driving-cars-on-your-bucket-list/amp/
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,73 +30,188 @@ images:
     title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
 
 related:
-  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
-    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
-    publishedDateTime: 2019-12-22T16:21:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+  - title: "Baidu secures licenses to test self-driving cars in Beijing"
+    excerpt: "It also revealed that its self-driving cars have traveled more than three million kilometers (or about 1.8 million miles) during tests in 23 Chinese cities to date, up from 2 million kilometers (roughly 1.2 million miles) across 13 cities as of July. Baidu vice president Zhang Dongchen reiterated the company’s commitment to road safety in a ..."
+    publishedDateTime: 2019-12-31T16:53:00Z
+    sourceUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/
+    ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
-        width: 600
-        height: 315
-  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
-    publishedDateTime: 2019-12-23T08:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-27T21:06:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
-        width: 700
-        height: 393
-  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-28T15:26:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
-        width: 700
-        height: 393
-  - title: "Chinese self-driving, refrigerated truck travels across US"
-    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
-    publishedDateTime: 2019-12-30T04:39:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
+      - url: https://www.bing.com/th?id=ON.712EF02870D2016A8B6580B3FC26B162
         width: 700
         height: 350
+  - title: "Baidu can now test its self-driving cars with passengers in Beijing"
+    excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
+    publishedDateTime: 2019-12-31T09:47:00Z
+    sourceUrl: https://www.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    ampUrl: https://amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3044091/baidu-can-now-test-its-self-driving-cars-passengers-beijing
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9AB36E5105F5945C67A46F8CF0FF31CD
+        width: 700
+        height: 367
+  - title: "Baidu Gets First Set of Licenses to Test Driverless Cars in Beijing"
+    excerpt: "(Yicai Global) Dec. 30 -- Baidu, the Chinese internet giant that is investing heavily in autonomous driving, has obtained the first batch of permits to test self-driving vehicles in Beijing with a driver present. Forty licenses have been issued to the Beijing-based firm, the city's Municipal Commission of Transport said on its website today."
+    publishedDateTime: 2019-12-30T10:50:00Z
+    sourceUrl: https://yicaiglobal.com/news/baidu-gets-first-set-of-licenses-to-test-driverless-cars-in-beijing
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.AFBC2550D1B7141A83FF212E1A046EC5
+        width: 700
+        height: 466
+  - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
+    publishedDateTime: 2019-12-28T11:12:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI.html
+    ampUrl: https://m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/uber-acquires-600-acre-in-pittsburgh-to-build-self-driving-test-track/story-BVCsy7pQcVd3gDt7BJ86KI_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
+        width: 700
+        height: 393
+  - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
+    excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
+    publishedDateTime: 2019-12-26T20:43:00Z
+    sourceUrl: https://www.businessinsider.com/uber-new-self-driving-car-test-site-pittsburgh-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
+        width: 700
+        height: 350
+  - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
+    excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
+    publishedDateTime: 2019-12-31T10:34:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/31/2020-next-decade-tech-predictions-flying-cars.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
+        width: 700
+        height: 393
+  - title: "Tourists in Tokyo have chance to try self-driving taxis"
+    excerpt: "TOKYO >> A consortium of companies is offering foreign visitors to Tokyo a taste of autonomous transportation. A project using airport shuttle buses and self-driving taxis will seamlessly transport tourists from two airports to the Marunouchi shopping district near Tokyo Station. The Mobility as a Service experiment, to run Jan. 20 to Feb. 1 ..."
+    publishedDateTime: 2019-12-26T10:12:00Z
+    sourceUrl: https://www.staradvertiser.com/2019/12/26/news/tourists-in-tokyo-have-chance-to-try-self-driving-taxis/
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.ECF20F8D49854E5DEAE31BBC27A33C4F
+        width: 700
+        height: 466
+  - title: "Uber to open self-driving test track in Findlay Township"
+    excerpt: "Months of speculation have come to an end after Uber Technologies announced the purchase of an almost 600-acre parcel in Findlay Township that will be used for a self-driving test track. Uber spokeswoman Sarah Abboud confirmed the purchase via email to the Tribune-Review, adding that she does not have “further details to share at this time ..."
+    publishedDateTime: 2019-12-27T00:30:00Z
+    sourceUrl: https://triblive.com/local/pittsburgh-allegheny/uber-to-open-self-driving-test-track-in-findlay-township/
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.4E3C2A03F4D4B4006EF028FBCE767251
+        width: 640
+        height: 457
+  - title: "Uber will build a self-driving test track in the Pittsburgh area"
+    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
+    publishedDateTime: 2019-12-27T12:53:00Z
+    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
+        width: 700
+        height: 393
+  - title: "Beijing adds area for self-driving vehicle tests with passengers"
+    excerpt: "on self-driving tests runs on a road in Beijing, capital of China, Dec. 30, 2019. Beijing on Monday added a new 40 sq km area for testing self-driving vehicles with passengers, as the capital pushes for further application of the technology,"
+    publishedDateTime: 2019-12-30T13:44:16Z
+    sourceUrl: https://www.msn.com/en-xl/news/other/beijing-adds-area-for-self-driving-vehicle-tests-with-passengers/ar-BBYsOxN
+    type: article
+    provider:
+      name: N.C.N. Limited on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0729D73EDEEDAADF1B542639E061CC6B
+        width: 600
+        height: 315
+  - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
+    excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
+    publishedDateTime: 2019-12-30T09:42:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/uber-purchases-600-acre-land-in-pittsburgh-to-build-self-driving-test-track/ar-BBYsjOA
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
+        width: 600
+        height: 315
+  - title: "Baidu testing self-driving cars in Beijing"
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+    publishedDateTime: 2019-12-31T18:39:00Z
+    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+  - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
+    excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
+    publishedDateTime: 2019-12-31T14:29:00Z
+    sourceUrl: https://www.fox7austin.com/news/from-streaming-to-self-driving-cars-how-technology-has-changed-our-lives-over-the-past-10-years
+    type: article
+    provider:
+      name: FOX 7 Austin KTBC
+      domain: fox7austin.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
+        width: 700
+        height: 393
+  - title: "Uber buys parcel for self-driving test track"
+    excerpt: "PITTSBURGH (AP) — Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars."
+    publishedDateTime: 2019-12-30T08:20:00Z
+    sourceUrl: https://www.djc.com/news/bu/12128348.html?cgi=yes
+    type: article
+    provider:
+      name: Seattle Daily Journal of Commerce
+      domain: djc.com
+    quality: 4
 
 secured: "obHLXukQRUUoCPr690Y0TP7bLqtFZYPdrFE6snIA2QXDf6m0NgDsVsyFsx4N8OLAhtM+U2QiwkYRK7XEpui5fLXkZ6MHFXpPGd3CnvFiXsLlp4QCcBVtMu2jr6XpMtT4fmfd8uInt1vKuR/PHAPl/okTGfFCtOrpIEKinLc+PygXAZA1pdaKVcLyjhJxympu1chB85ttNyFOGbJt8tlmwKwz94wP38ccTUt3/5fm3ntwGUCXkKobirddw20iu+ruXIURYMjk01pf2bhtyY1ySg==;qJWjUsAroHM68FgLZDvqDg=="
 ---

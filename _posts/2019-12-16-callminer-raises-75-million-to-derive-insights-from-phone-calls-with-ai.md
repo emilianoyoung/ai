@@ -29,36 +29,6 @@ images:
     title: "CallMiner raises $75 million to derive insights from phone calls with AI"
 
 related:
-  - title: "Iterable raises $60 million to optimize omnichannel campaigns with AI"
-    excerpt: "There’s also Kustomer, a software-as-a-service (SaaS) provider that automates repetitive processes by applying analytics atop data from multiple sources; RedPoint, which offers products that analyze customer data with AI; and Punchh, a startup leveraging machine learning and omnichannel integrations to create customer journeys. But despite ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/iterable-raises-60-million-to-optimize-omnichannel-campaigns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.A4046261FC6E71237042435BCF6388B2
-        width: 700
-        height: 350
-  - title: "Augury raises $8 million more to predict mechanical breakdowns with AI"
-    excerpt: "Its wireless Halo sensors — which attach to commercial refrigerators, industrial-scale heaters, and practically everything in between — record readings like vibration, temperature, and magnetism and upload it to the cloud, where AI algorithms ingest it to make predictions about the machines’ health. Augury counts Johnson Controls ..."
-    publishedDateTime: 2019-12-12T14:10:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/augury-raises-8-million-more-to-predict-mechanical-breakdowns-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.91AF421CD45A630818614B04A70E3BBB
-        width: 700
-        height: 350
   - title: "Voximplant raises $10 million to automate call campaigns with AI"
     excerpt: "Can the cloud-based unified communications market, which is anticipated to reach $167.1 billion by 2025, be materially transformed by AI? Alexey Aylarov, Andrey Kovalenko, and Sergey Poroshin firmly believe so. They’re the founders of Voximplant, a startup developing products that imbue web and mobile apps with voice, text, and video chat."
     publishedDateTime: 2019-12-17T13:00:00Z
@@ -72,21 +42,6 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.53900F1B8FD2F370F0BF607AC7B8965F
-        width: 700
-        height: 350
-  - title: "LeanTaaS raises $40 million to optimize health clinic operations with AI"
-    excerpt: "It’s not without competitors — University of Washington spinout Perimatics offers an AI system that uses data on patients and surgeons to predict the length of surgeries, as do Tagnos and Qventus — but LeanTaaS has market momentum on its side. “LeanTaaS’ iQueue represents a rare nexus of product leadership, robust ROI, and fast time ..."
-    publishedDateTime: 2019-12-12T11:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/leantaas-raises-40-million-to-optimize-health-clinic-operations-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.53A91E1D5097A32744DCD5D59DD800E3
         width: 700
         height: 350
   - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
@@ -104,6 +59,21 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
         width: 1100
         height: 550
+  - title: "Voximplant Raises $10M; Expands Its Cloud-Based Voice & Video Communications Platform"
+    excerpt: "Customers use the Voximplant CPaaS to build leading edge applications for cloud call centers, IVRs with voice recognition, unified communications, programmable call back and voice notifications, as well as many others. Voximplant currently supports more than 600 million calls per year with 20,000 paying customers to date across market ..."
+    publishedDateTime: 2019-12-24T08:57:00Z
+    sourceUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    ampUrl: https://www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    cdnAmpUrl: https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/cloud-integration/voximplant-raises-10m-expands-its-cloudbased-voice-video-communications-platform/
+    type: article
+    provider:
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.CAF72CA2CC3E56CC12D7A0D31C0F0247
+        width: 700
+        height: 466
 
 secured: "AX9CCzQDA9AsyJdBKVEcB7FIhk54Mz5wzJbCMGxqpLg7NweqqQJLF4RI0Pz88McJghtkW3vTB7htCrozGGaXJOuvljGEjtHFUIIiF9zBNnOD/gg73mOWWL7Appto5LTHpwOO76hJk+9UkSbUOmosdaQaezgaH9EgJRRhHR6kWjrddoD5PgNDGXrDM8c42JeLQqoSwnHgEhZJhfHtwJxq+dM3JD1SiG/3N2l2OPKbgTgdjeAEG21QYl40VaLACVFK67/ifqp0hmsIu1UT73h8tA==;2RkKJi6NssFNVuuBBy+q0w=="
 ---

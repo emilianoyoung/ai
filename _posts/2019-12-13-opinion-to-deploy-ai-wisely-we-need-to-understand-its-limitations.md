@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CD442411B56928EB5B28447FF20D6635
         width: 599
         height: 399
-  - title: "You don’t need to understand AI to trust it, says German politician"
-    excerpt: "She also demanded that AI developers should consider users’ safety concerns and other basic principles from the beginning. This is very much in line with what has been outlined in the EU’s “Ethics guidelines for trustworthy AI” published in April this year, where, as guideline number one, it is stated “AI systems should empower human ..."
-    publishedDateTime: 2019-12-12T12:13:00Z
-    sourceUrl: https://telecoms.com/501363/you-dont-need-to-understand-ai-to-trust-it/
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9CFCC069C75E8BCBE57ECE17A2C3117D
-        width: 300
-        height: 199
 
 secured: "tyvVXVQAcMRduIEoqwK3lqvAboKgUidC3a5FyS4pebihHw2UmgxLtybhgupdAc3zIxZZ3glTbMdVRLce44yKkp8y1lk33U/RNrc6N2TfthVjTJf1EMcohA9qG65j5pWEqzRVLBJ5UXhhwMoMsOtO54wcHjRYOcesLZdLp5IH3nwjL+WyQy5olOurKJNyQUyK7+2j7nnU2zldPxtZeyA+8an6562zjVkquQbAq9jr8r/A35hhBU/9RgqJi9Fg2n9AYlK48Q9eOslNMT8yxUfiNA==;/9pSLZpalcOtMMesqc8xZQ=="
 ---

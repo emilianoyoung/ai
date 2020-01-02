@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15EB4F3E21E5569BAA895BF37AA7EBEA
         width: 700
         height: 450
-  - title: "10 predictions for data science and AI in 2020"
-    excerpt: "You could call machine learning APIs and develop an ‘AI product’ if you are a software engineer. You could build and deploy the same model on cloud platforms such as AWS Sagemaker or Azure ML Studio if you have familiarity with cloud offerings. And the list goes on. The net result may be fertile ground for misunderstanding and turf wars due ..."
-    publishedDateTime: 2019-12-10T16:08:00Z
-    sourceUrl: https://thenextweb.com/syndication/2019/12/10/10-predictions-for-data-science-and-ai-in-2020/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/1-copy-1-796x417.jpg
-        width: 796
-        height: 417
   - title: "IBM Data Science Elite Team Helps Propel IBM to #1 in Global AI Market Share"
     excerpt: "IDC ranks IBM number one in global AI market share by revenue, with companies leveraging the Elite Team to apply ... This joint collaboration resulted in a machine learning pipeline, via Watson, that fully utilized all of our data signals to produce models that increase the performance over our previous models by 200% or more."
     publishedDateTime: 2019-12-20T01:25:00Z

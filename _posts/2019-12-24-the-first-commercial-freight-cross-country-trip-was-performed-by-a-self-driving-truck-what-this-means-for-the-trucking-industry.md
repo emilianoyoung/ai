@@ -26,30 +26,34 @@ images:
     title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
 
 related:
-  - title: "Eliseo Delgado Jr. Discusses How Self-Driving Trucks Will Improve Distribution Across the Country"
-    excerpt: "RIVERSIDE, CA / ACCESSWIRE / December 27, 2019 / Eliseo Delgado Jr. has seen first-hand how advances in technology like robotics, artificial intelligence ... He believes the same tech advances allowing self-driving vehicles to drive on roads today will help automate a lot of processes in distribution and provide services for the trucking ..."
-    publishedDateTime: 2019-12-28T00:01:00Z
-    sourceUrl: https://finance.yahoo.com/news/eliseo-delgado-jr-discusses-self-203000373.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/eliseo-delgado-jr-discusses-self-203000373.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/eliseo-delgado-jr-discusses-self-203000373.html
+  - title: "Self-Driving Truck Hauls 40K Pounds Of Butter Across US"
+    excerpt: "Silicon Valley startup Plus.ai is thought to be the first company to deploy a self-driving commercial truck to haul 40,000 pounds of butter roughly 42 hours cross-country from Tulare, California to Quakertown, Pennsylvania, ZDNet reported. The company’s Level 4 autonomous semi-tractor-trailer completed the 2,800-mile run for Land O’Lakes in ..."
+    publishedDateTime: 2019-12-30T23:51:00Z
+    sourceUrl: https://www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/
+    ampUrl: https://www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2019/self-driving-truck-hauls-40k-pounds-of-butter-across-us/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 31
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "Web Presence: Eliseo Delgado Jr. Discusses How Self-Driving Trucks Will Improve Distribution Across the Country"
-    excerpt: "Here, he explains how the self-driving semis soon to hit American highways will vastly improve the distribution of goods across the country. RIVERSIDE, CA / ACCESSWIRE / December 27, 2019 / Eliseo Delgado Jr. has seen first-hand how advances in technology like robotics, artificial intelligence, and the Internet of Things (IoT) have improved ..."
-    publishedDateTime: 2019-12-27T19:32:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2019-12/48502719-web-presence-eliseo-delgado-jr-discusses-how-self-driving-trucks-will-improve-distribution-across-the-country-200.htm
+      - url: https://www.bing.com/th?id=ON.188181DD0DA8498376B080C68AD52E4C
+        width: 457
+        height: 319
+  - title: "Afternoon Coffee: Ghosn jumps bail, flees Japan; initial U.S.-China trade deal to be signed Jan. 15; self-driving truck hauls butter across U.S."
+    excerpt: "Carlos Ghosn, the ex-Nissan leader charged with fiscal impropriety and was out of custody on bail in Japan, fled the country and issued a statement that he’s now in Lebanon, where he is a citizen, according to The Associated Press. Other media reports ..."
+    publishedDateTime: 2019-12-31T17:00:00Z
+    sourceUrl: https://spendmatters.com/2019/12/31/afternoon-coffee-ghosn-jumps-bail-flees-japan-initial-u-s-china-trade-deal-to-be-signed-jan-15-self-driving-truck-hauls-butter-across-u-s/
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.B9B8F2B1643672B8ABC24CEC54D72151
+        width: 300
+        height: 200
 
 secured: "hNMptOgiQX0bZcn7soepm1EincpyzcHsiYr/mu9upgYcAjqTrTGxCyBpRA1RfR1v/4bg5MXESh/z28CYA1fawZ3TwnbiKsN4C98AkD8wdhjW/T85YABDBvgtaGy/toSHozXoF4xRgDR5QiFGUMiDVKljK8iIBHbJmcj/OPrGCZl5nu/nGZAx2z/+eQXNtKXE9qFTbMaHpcGNEqK+KQhsVHRRFZ4J56oih4B9je95GSto4DcoafVd83ExhXui9uwD3p6f0Jkxkvh5zsVz12icnw==;mgwKHJ+f7AuIT94yATQysw=="
 ---

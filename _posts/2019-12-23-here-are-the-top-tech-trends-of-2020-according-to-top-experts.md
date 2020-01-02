@@ -5,8 +5,8 @@ excerpt: "In 2020, technologies will move toward the ... will begin to appear, a
 publishedDateTime: 2019-12-23T12:00:00Z
 sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
 type: article
-quality: 122
-heat: 302
+quality: 124
+heat: 314
 published: true
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.10C1ECDDF1E7FE5D8D8B1ADCDD7F79F0
@@ -243,6 +244,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 32
+  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
+    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
+    publishedDateTime: 2019-12-23T16:26:56Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ai-5g-ambient-computing-what-to-expect-in-tech-in-2020-and-beyond/ar-BBY7bMJ
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 19
   - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
     excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
     publishedDateTime: 2019-12-19T13:36:00Z
@@ -266,6 +276,6 @@ related:
       domain: finextra.com
     quality: 2
 
-secured: "7Zgnd2Nt+69PJwANENeKXApUfFZfezxR9HLo4yaFOa4eVAERgaBEjkfsOhCH+CgszFH0wVlv8BSDoB1ZzHNTVDyCyVmv1OiWa/wDtp3rTvGLWHy0NTFUTksqX0vCnPee/xuLrXx6XKGWvqaMCBZlGupReWBLNB1zZPx+xQKy12DpU/Xe4QvGOutE9zEemG0ZnE3kyEmd0R/ltYSfKRTdZf2mJ28jbBgeITWg2fi9TIhV9T+LKerh6GjuqoE/oEl5zh5PLqPMGnXvK26Aow+XYw==;Jw9VT/3R2APyAeFDbFH1lQ=="
+secured: "tDMGVnDCJGVrADp5esWK0+clKcdKJUEFvfgN5Dz+V23BKaXgcAQyCVAy0/n6OQc5V7lBnyz96hlFT5IN83X1RHdryQK3ib7Pu5NGJYb9/fgIsVsHfyWgp1dJunFApaXgdyX2N4iQZrrnzZSQi3rRZs4+qglXhNT7L/oLz1LG6inrPJ9vftab/IdUkof1Clz0sXxgudD5VyIk5U+VxyWHH72IVERiIa23aZKuWKqs4Xc0Q3EA4d2ec0+CAFF1724Pc/CwpTDB+v3RBeSPZwWIkrz+NFOkOo1atWSxq4HcxDs=;W4CYA3wQPktCAFdRAngAvw=="
 ---
 

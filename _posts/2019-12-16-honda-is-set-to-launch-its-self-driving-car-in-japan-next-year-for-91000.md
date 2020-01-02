@@ -26,118 +26,36 @@ images:
     title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
 
 related:
-  - title: "Noodling On How Much Revenue Self-Driving Cars Will Ultimately Generate"
-    excerpt: "That’s the rhetorical question often posed when someone asks how much money self-driving cars will potentially be able to make. Part of the willingness and enthusiasm of VC firms and major automakers to invest in driverless car tech is due to the belief that there is a huge pot of gold at the end of the self-driving car rainbow. Estimates ..."
-    publishedDateTime: 2019-12-10T17:03:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/10/noodling-on-how-much-revenue-self-driving-cars-will-ultimately-generate/amp/
+  - title: "Honda self-driving technology coming next year, report says"
+    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
+    publishedDateTime: 2019-12-13T21:06:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNET
+      domain: cnet.com
     quality: 74
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F884650780%2F0x0.jpg
-        width: 1199
-        height: 625
-  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-    publishedDateTime: 2019-12-17T16:43:00Z
-    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
         width: 700
-        height: 349
-  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
-    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
-    publishedDateTime: 2019-12-16T05:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
-    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+        height: 367
+  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
+    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
+    publishedDateTime: 2019-12-17T17:09:00Z
+    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
+    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
-        width: 700
-        height: 350
-  - title: "Arbe Raises $32M To Help Tesla Competitors With Radar For Self-Driving Cars"
-    excerpt: "Arbe raises $32 million to produce its chipset Arbe's technology is the first to provide precise details of the environment of a vehicle The chipset will help vehicles achieve SAE level 3 Tesla vehicles aren't considered fully autonomous, and by SAE standards -- it's only at level 2. Arbe may be able to change that with its high-definition ..."
-    publishedDateTime: 2019-12-17T04:48:00Z
-    sourceUrl: https://www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941
-    ampUrl: https://www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/arbe-raises-32m-help-tesla-competitors-radar-self-driving-cars-2886941?amp=1
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.B04AF3E84C82E65CCE78E300CE5F7742
-        width: 640
-        height: 426
-  - title: "Air France Hopes to Reduce Delays With Self-Driving Luggage Carts"
-    excerpt: "A multitude of factors can contribute to a flight being delayed, but Air France, who partnered with a handful of other companies, is testing the world’s first self-driving luggage tug in hopes of streamlining airport operations and improving the speed of getting luggage to and from an aircraft. Good night, sweet prince: An out of control ..."
-    publishedDateTime: 2019-12-11T00:14:00Z
-    sourceUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455
-    ampUrl: https://gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
-    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/air-france-hopes-to-reduce-delays-with-self-driving-lug-1840313455/amp
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
-    publishedDateTime: 2019-12-11T11:06:00Z
-    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28Q0QE
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28Q0QE
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "Apple is worried 2 ex-employees will flee to China after allegedly stealing secrets from its self-driving car project"
-    excerpt: "Former Apple engineers Xiaolang Zhang and Jizhong Chen have both been accused of stealing secrets from the company's self-driving car program."
-    publishedDateTime: 2019-12-10T11:44:00Z
-    sourceUrl: https://www.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    ampUrl: https://amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/apple-has-deep-concerns-that-ex-employees-accused-of-theft-will-flee-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.0FEA5044765B11AFDAE3E38D0A506AE3
-        width: 600
-        height: 450
-  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
-    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
-    publishedDateTime: 2019-12-17T16:54:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
-    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 43
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
-        width: 1987
-        height: 996
+      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
+        width: 457
+        height: 274
   - title: "Honda preparing to release self-driving car in Japan. Here's how much it costs"
     excerpt: "Could your future self-driving car be a Honda? Continue Reading Below Honda Motor is planning to release a car next year with partial self-driving technology that would allow it to drive itself while the person sitting in the driver’s seat is occupied with something else like a phone or TV show, Nikkei Asian Review reported. Honda will ..."
     publishedDateTime: 2019-12-13T20:42:00Z
@@ -153,123 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.719155ED5E8D419ADB032B0C902EEEA2
         width: 700
         height: 393
-  - title: "Daimler and Bosch start self-driving service in Silicon Valley"
-    excerpt: "Mercedes-Benz parent company Daimler and automotive supplier Bosch have started a trial self-driving service in the heart of Silicon Valley, specifically between downtown and west San José along the busy San Carlos/Stevens Creek corridor. With more than a million residents, San José is the third biggest city in California, which makes it an ..."
-    publishedDateTime: 2019-12-10T15:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1117660_daimler-and-bosch-start-self-driving-service-in-silicon-valley
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.A59E054147E68E8E16DB9152B15353A0
-        width: 700
-        height: 410
-  - title: "Baidu and BMW To Launch First Self-Driving Car On Chinese Roads"
-    excerpt: "Chinese search giant – Baidu – and the Bavarians from BMW are joining powers to compete with Silicon Valley’s best and brightest. The two companies are working on a joint project to produce a self-driving car for the Chinese market. Baidu reports ..."
-    publishedDateTime: 2019-12-11T00:00:00Z
-    sourceUrl: https://www.bmwblog.com/2015/12/11/baidu-and-bmw-to-launch-first-self-driving-car-on-chinese-roads/
-    type: article
-    provider:
-      name: BMW BLOG
-      domain: bmwblog.com
-    quality: 39
-    images:
-      - url: https://cdn.bmwblog.com/wp-content/uploads/2015/12/baidu-bmw-self-driving-car.jpg
-        width: 980
-        height: 551
-  - title: "Bosch and Daimler launch self-driving taxi service in San Jose, California"
-    excerpt: "Now, the project has launched with self-driving cars shuttling passengers between the downtown area and west San Jose. Through an app, passengers will be able to book a journey with an S-Class self-driving vehicle from a defined pick-up point to a destination within the San Carlos Street and Stevens Creek Boulevard thoroughfares. The goal of ..."
-    publishedDateTime: 2019-12-11T14:02:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14390/bosch-and-daimler-launch-self-driving-taxi-service-in-san-jose-california
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.3DED32ED327DD3B99384A85180153D89
-        width: 700
-        height: 418
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 35
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 799
-  - title: "Aptiv’s Self-Driving Vehicles En Route To Hazelwood Green"
-    excerpt: "“What started as a small team of PhDs and engineers has grown globally to 700 experts leading the world’s development of technology that will power self-driving vehicles. We’re proud to be a part of Pittsburgh, a city with incredible talent and a legacy in engineering – from its history in industrial manufacturing, to its current ..."
-    publishedDateTime: 2019-12-10T13:14:00Z
-    sourceUrl: https://www.aftermarketnews.com/aptivs-self-driving-vehicles-en-route-to-hazelwood-green/
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 24
-    images:
-      - url: https://s19538.pcdn.co/wp-content/uploads/2018/01/APTIV-Logo.jpg
-        width: 600
-        height: 300
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make ... focused initially on deploying robotaxis. Waymo, however, is now working on adapting its automated ..."
-    publishedDateTime: 2019-12-11T11:14:00Z
-    sourceUrl: https://www.channelnewsasia.com/news/business/argo-takes-different-road-to-skirt-self-driving-challenges-12176572
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 24
-    images:
-      - url: https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/12176564/16x9/991/557/d0b5cc904019b7e76b6cec964daf3122/bj/file-photo--argo-ai-self-driving-prototype-vehicle-is-seen-outside-a-ford-and-volkswagen-joint-news-conference-in-new-york-city-3.jpg
-        width: 991
-        height: 557
-  - title: "Editorial: Be aware of limits to self-driving cars"
-    excerpt: "In September, a Tesla driver was caught on video sleeping behind the wheel as his car sped down a freeway. And last year, a self-driving Uber hit and killed a pedestrian in Arizona. It’s worth noting that cars are plenty dangerous regardless of technology. More than 36,000 people died on American roadways last year. Advocates have argued for ..."
-    publishedDateTime: 2019-12-11T05:00:00Z
-    sourceUrl: https://www.ctpost.com/opinion/article/Editorial-Be-aware-of-limits-to-self-driving-cars-14896305.php
-    type: article
-    provider:
-      name: Connecticut Post
-      domain: ctpost.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B5028F16DF5C19DE23F8FAEC626D1F03
-        width: 700
-        height: 445
-  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
-    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
-    publishedDateTime: 2019-12-15T20:34:00Z
-    sourceUrl: https://www.msn.com/en-gb/autos/news/vw-will-roll-out-self-driving-electric-shuttles-in-qatars-capital/ar-AAK9r3U
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF4BA25374A41F44CB35ADC48EF183DF
-        width: 700
-        height: 367
-  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
-    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
-    publishedDateTime: 2019-12-16T00:03:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
-        width: 700
-        height: 466
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
     publishedDateTime: 2019-12-17T16:11:00Z
@@ -283,19 +84,45 @@ related:
       - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
         width: 800
         height: 600
-  - title: "Argo takes different road with VW, Ford to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT -- Optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor and Volkswagen Group -- are betting they can answer by taking a different road than more highly ..."
-    publishedDateTime: 2019-12-12T08:12:00Z
-    sourceUrl: https://europe.autonews.com/automakers/argo-takes-different-road-vw-ford-skirt-self-driving-challenges
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 23
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.DC915292F23A99237918F74FED8346A8
+      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
         width: 700
-        height: 419
+        height: 525
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
+    images:
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "O1k5pd0IJdVb6r1NJsqGVIAW5KSasUJP3O2ziNwEQF/bE+fNSSt4T8lMIYp17Cc4QEXTDCIkoG55mH+x+dwfizfiZKFlNBHitxAjIJf/WFgbTmBPtnIbVN+eutFnId+EQK4zxzUT57G/oaTGbZMP5eSvH2knZ9P9+ltJ6kmhSUuZOnp4+OHuil4woKCBRkTyb+E4sw78L6X/4/RQOhSpoeUbKgooBMeC/KKz1Kotr4b6NQo2tnvCykY+/kx/f3wAigc3iZADKFIU5rvmF2tMnw==;LMJbgOBSrbpSi/DrgKqiQg=="
 ---

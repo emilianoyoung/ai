@@ -18,114 +18,101 @@ topics:
   - AI in Autos
 
 related:
-  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
-    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
-    publishedDateTime: 2019-12-19T20:42:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker partners Ford Motor Co and Volkswagen AG - are betting they can answer by taking a different road than more highly valued rivals."
+    publishedDateTime: 2019-12-11T11:06:00Z
+    sourceUrl: https://www.reuters.com/article/autos-self-driving-argo-idUSL1N28F182
+    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N28F182
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N28F182
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
-        width: 600
-        height: 315
-  - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
-    excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
-    publishedDateTime: 2019-12-24T20:12:00Z
-    sourceUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/
-    ampUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
-    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
+      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
+        width: 1200
+        height: 630
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 63
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
-        height: 381
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
-    publishedDateTime: 2019-12-18T18:35:00Z
-    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+        height: 349
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+    publishedDateTime: 2019-12-16T18:15:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 54
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
-    publishedDateTime: 2019-12-22T12:03:00Z
-    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
-    ampUrl: https://amp.azcentral.com/amp/2709275001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 41
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
-        height: 393
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
-    publishedDateTime: 2019-12-18T22:50:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+        height: 467
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 33
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
     images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
-    publishedDateTime: 2019-12-19T16:34:00Z
-    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Santa Cruz Sentinel
-      domain: santacruzsentinel.com
-    quality: 33
-    images:
-      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
-  - title: "Why GM is developing technology for self-driving vehicles for the US military"
-    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
-    publishedDateTime: 2019-12-23T06:00:00Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
-    type: article
-    provider:
-      name: USA TODAY on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
         width: 700
-        height: 367
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
+        height: 466
 
 secured: "o5D3wjVtZrkQkMnCVA3YSMUgZHdID86ttMXWke+Z3hpT9wXQkd4ss38hPrFZ/F8MrloMjCv4ojhSqWZYbpMj7mPMz6fqh6YYnAOqQh+XockCcQazzZfen0y8Dabn2zu7b35TGEUopU21t26TPzGCtvo6zlTWKCimCoO2zDOGU2dniJAQyTyIstnkLyqs8tcoYxLbd3tCijiTlr/gXrzcm1u1cbQEFv3l5KqpgHttcxquuG1bSNAuIS86ajfZj2on9Sl+F/fsQ50izV6tJv3PHg==;pI4QPDHdtqTOzjD89WU06A=="
 ---

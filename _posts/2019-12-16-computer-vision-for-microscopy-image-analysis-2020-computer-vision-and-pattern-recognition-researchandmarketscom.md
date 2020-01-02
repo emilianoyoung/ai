@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to ..."
-publishedDateTime: 2019-12-16T09:06:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
+excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands ..."
+publishedDateTime: 2019-12-16T10:09:00Z
+sourceUrl: https://www.benzinga.com/node/14993434
+ampUrl: https://amp.benzinga.com/amp/content/14993434
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993434
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.9F65351E0EF217F2BAFBBD661A5845E6
-    width: 700
-    height: 365
-    title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
 
 related:
   - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
@@ -59,6 +55,39 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 27
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-16T09:56:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.D42937E6FA9B2FAD8028F84BBFE31D77
+        width: 700
+        height: 365
+  - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
+    publishedDateTime: 2019-12-17T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 0
+  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
+    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
+    publishedDateTime: 2019-12-17T00:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-event-based-vision-systems-105600748.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
     publishedDateTime: 2019-12-18T12:30:00Z
@@ -82,6 +111,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "QXJYcBwB/zAkF1ppHd1eZcR9gqvSQcqSDpXKGCWhnM5eQat0LDOWJGVwTU883lJCD59n+Can3aKFXPLsWdRvaSmj6yGYpOK3CsvP0dwKUB9ylB9842hcYVKXu/MjaqjQyIwxOT5Lh2Rnb/9K/PeqeOPmXqfZWZK+Q0LiwPM46QeCzmdRP/tNYY/hkFRs/MZEmCJtxksC+ZGsWdut52kHt7wTxB3FI+nAae/m6BdrF+c7aSIYGhHSJaTykn2wD4bh997qOr9ADyG4JbeQUEJKbQ==;aayfwzo/T2Zr+gS1sg68HA=="
+secured: "lKNvpx+baGV2Y+U+2eC23f4rFMbAOBTV7jdAHieHgCcD2wHxh3cxs/tCMr/7YE27l6jPUhMk3MeDo/SyPtmh6wgsilsZ9CrzY4l3kWNGtx8P4RMMXjsKiz+BaJLbT5Sz0224GICVsSySZ/bAcdrBvAXk6G1XAKI5v4PbaM47ZORLH2IZRXbHdPW3M0k+NER+OuAa2N32tmiT3Rk7TSC9Fs247MtNonI9R4NU1fYzu/vPeQpKP12lV8pSQADOfpgufSNogd1wmlzoq7Smf1jpGA==;ROfdcr5AZMS3QzXh/R+Zmw=="
 ---
 

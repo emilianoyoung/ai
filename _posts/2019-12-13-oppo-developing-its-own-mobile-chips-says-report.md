@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E36226926A0858375C018F4FE5C761AE
         width: 700
         height: 494
-  - title: "Lloyd Shoes implements Magazino robots in warehouse"
-    excerpt: "After the delivery at the beginning of December 2019, the first two robots are now exploring their new working environment and are subject to a number of tests before being integrated into live operations. Through a link to a global cloud and the use of artificial intelligence, Toru can constantly learn from its own experience in its daily work ..."
-    publishedDateTime: 2019-12-12T12:55:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/12/lloyd-shoes-implements-magazino-robots-in-warehouse/27374/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.F5861D1D70A6CFA9249DD9BE788E4496
-        width: 700
-        height: 398
 
 secured: "0oH+RFMCNpNe6vIVagEovreVbH7Rl5AiUNiVql+zLStxrxNgRSgxM/rb+Ptp/QYDSXSbycwePLluKmCb4xFgVjzdf7T2IlIe1zfXsJF8Ku3fZpdHKylJFGrE6EzTVPJlVbe6o3qsPDyqEp1U8tqn5AyxsVho9ZeH+r1IjKJtAMo0p6iV6UhQPvhn2bK3qLOyCF/UukdZ6cbvM4mKFZOPPgxSkDP7zgz9BgTlKa6jhMnZwif4dFS99LCaAJmQf4Hw+pcdm4jicjTU/Z0Fh/udtg==;Vl+EuFR41rFZSG1EIFpl2w=="
 ---

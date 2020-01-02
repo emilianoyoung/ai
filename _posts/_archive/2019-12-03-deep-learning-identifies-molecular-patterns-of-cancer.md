@@ -8,8 +8,8 @@ ampUrl: https://medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.am
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-deep-molecular-patterns-cancer.amp
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Medical Xpress
@@ -25,17 +25,6 @@ images:
     height: 960
     title: "Deep learning identifies molecular patterns of cancer"
 
-related:
-  - title: "Deep learning identifies molecular patterns of cancer"
-    excerpt: "The deeper analysis shows some colorectal subtypes need to be reclassified. A new deep-learning algorithm can quickly and accurately analyze several types of genomic data from colorectal tumors for more accurate classification, which could help improve diagnosis and related treatment options, according to new research published in the journal ..."
-    publishedDateTime: 2019-12-02T19:54:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191202122916.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-
-secured: "AYngNjZ92QYP9HhMouv4gZtylbZ15f27kOSOt6p6GGeC+bSJAJicvvzvU43X3pvZIYUj9XceT55WI218kcv+xiiR6i/om1kOKZM2gbJKK0puVfKER50G3c7rgJVavEzr4DYLbrQIxfUufvlKfHGeubsEKpojlBir6jUbLb5jBZKQh/hjiLBT3WLLVnliy+30Jbw6ICeSSJDzJ6QQYDYfBgT2nzVzV+H5Z0Kihd6cK8y4jeqovPO+ETSx+dHj6OR5+Wd3TEhRSTT2cT/WA8uVdg==;LyQvUcNLKjoCxdbEgiZZsQ=="
+secured: "TZREGrITJ+o14LpEN2dPBN4Q4tomP5Vhbv+UlDAUlgIOV64cHeD174uCx8KBL9ne502qpdDdBjh04gsYVSp7auMkKrg2HNjEJxxVyZesetT6F2a1Wwopzt5DvGqsvb8ygL8XH+YmcwjDSHkwAOoKp2DVIoqMyBIObqDX7GOmTQhoKpMa9Eikn04texgaO75Piq/BkJXU+eK6xZF+Ciq1gzDo0/0ec/gBB2V66NcKyIyFllW1BFioC0sgdnq1LLRYZElvoL9SMmn2cXNJ7kqKZg==;OfaC/MugzF4YhX0AmfxlGQ=="
 ---
 

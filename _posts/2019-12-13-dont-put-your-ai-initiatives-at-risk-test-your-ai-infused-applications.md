@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-put-your-ai-initiatives-at-risk-test-your-ai-infused-applications/
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: ZDNet
@@ -29,30 +29,15 @@ images:
     title: "Don't put your AI initiatives at risk: Test your AI-infused applications!"
 
 related:
-  - title: "China’s AI initiatives to pay off with broad industrial applications, iFlytek founder says"
-    excerpt: "China’s efforts in artificial intelligence (AI) development are starting to pay off, with wider industrial applications set to be deployed, amid the protracted tech and trade war with the United States. Liu Qingfeng, the founder and chairman of iFlytek, highlighted that progress on Monday at a conference in Beijing, where he said AI advances ..."
-    publishedDateTime: 2019-12-10T10:37:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3041427/chinas-ai-initiatives-pay-broad-industrial-applications-iflytek
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 147
-    images:
-      - url: https://www.bing.com/th?id=ON.E7B2E9DE8653009D1EA66E27ECFD6265
-        width: 700
-        height: 367
-  - title: "Conversational AI Market Size, Share, Industry Trends, Opportunities, Business Revenue, Forecast and Growth Prospective"
-    excerpt: "Conversational artificial intelligence (AI) is revolutionizing the way enterprises interact with customers. Intelligent virtual assistants and chatbots help organizations to resolve repetitive customer queries and proactively offer suggestions to make real-time decisions. With advances in artificial intelligence, machine learning, deep learning ..."
-    publishedDateTime: 2019-12-10T08:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-size-share-industry-trends-opportunities-business-revenue-forecast-and-growth-prospective-2019-12-10
+  - title: "The AI Eye: Increased AI-Related Patent Applications and IP Portfolios"
+    excerpt: "As Artificial Intelligence (AI) becomes increasingly visible in the popular imagination through applications such as virtual assistants, computer vision, natural language processing and self-driving cars, companies are unsurprisingly ... Chinese multinational tech and internet firm Baidu (NasdaqGS:BIDU) recently revealed that it has filed ..."
+    publishedDateTime: 2019-12-16T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-increased-ai-related-patent-applications-and-ip-portfolios-2019-12-16
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 73
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

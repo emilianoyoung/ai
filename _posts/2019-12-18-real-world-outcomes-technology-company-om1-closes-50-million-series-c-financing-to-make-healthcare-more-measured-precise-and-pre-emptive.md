@@ -37,15 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
         width: 540
         height: 405
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-11T11:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/traqiq-inc-acquires-mann-india-technologies-pvt-ltd-to-for-fintech-expertise-1028754486
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "CVS Health to offer oncology program using genomics, other technology"
     excerpt: "CVS has tapped Tempus, a precision medicine technology company that uses artificial intelligence, to help with the program ... will automatically receive prior authorization approval, speeding therapy for patients, CVS said. Alan Lotvin, MD Ryan Fukushima, chief operating officer of Tempus, says the collaboration has real potential to ..."
     publishedDateTime: 2019-12-16T19:50:00Z
@@ -59,15 +50,17 @@ related:
       - url: https://www.bing.com/th?id=ON.D1906BAD336691001B09D46D2A0A434B
         width: 700
         height: 367
-  - title: "TraQiQ, Inc. acquires Mann-India Technologies Pvt Ltd to for FinTech expertise."
-    excerpt: "TraQiQ’s leading edge FinTech and AI solutions have been deployed with leading multi-national customers around the world and are helping increase customer loyalty, improving profitability and driving efficient financial transactions. Mann-India Technologies Pvt Ltd. Mann-India Technologies Pvt Ltd. is a leading software development company ..."
-    publishedDateTime: 2019-12-12T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/traqiq-inc-acquires-mann-india-120010440.html
+  - title: "Why this Dallas company launched an index focused on health care technology"
+    excerpt: "Precision medicine includes companies that provide custom therapy solutions based on a person’s genetic content, environment and other key factors. ROBO's best performing subsector includes companies that are dealing with logistics automation, which use artificial intelligence to make goods faster and cheaper and has helped the boom of the e ..."
+    publishedDateTime: 2019-12-17T13:12:00Z
+    sourceUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.html
+    ampUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
 
 secured: "8qnC3dvakOkvH9szXWeUnEA4ps8o/ujEQqlwMpQmxgzur1frsAAMKixlfmR2ncIE8zNTGMPfBC+dbJToxynSfI45Hxb6Kx5W+1RvzgMG9QiT9740aQ+qEp41KacXD2U6E7zIm4/OYhpOeiAv6QOl0jUH63vNQ9KJ6turV7d+LIHQUYPbmU+gldcowvBj3o1+fp1FSrfd2MW1EDOUXnEqjpSug/mV5ZnnGZdxTE7JwMyR/cAVEVnXIQg1q0jxh1Eoek5IbsJ6B/RDLDg+ge2xyQ==;7Mi2M362EBr2AcZi6PWZgg=="
 ---

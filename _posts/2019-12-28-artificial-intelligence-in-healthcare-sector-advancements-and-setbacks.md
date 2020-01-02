@@ -8,7 +8,7 @@ ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligenc
 cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -26,21 +26,32 @@ images:
     title: "Artificial intelligence in healthcare sector: advancements and setbacks"
 
 related:
-  - title: "Ten defining health care achievements of the 2010s, from artificial intelligence to immunotherapy"
-    excerpt: "After all, a lot has happened in the last 10 years – and advancements in health care are no exception. In looking back at the health achievements ... I don't know. That's been a major trend.\" Artificial intelligence made big strides throughout the decade, though its potential benefits remain vast. AI systems allowed health organizations ..."
-    publishedDateTime: 2019-12-24T19:24:00Z
-    sourceUrl: https://www.phillyvoice.com/decade-health-story/
-    ampUrl: https://www.phillyvoice.com/decade-health-story/amp/
-    cdnAmpUrl: https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/decade-health-story/amp/
+  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
+    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
+    publishedDateTime: 2019-12-23T10:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
     type: article
     provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 61
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
-        width: 700
-        height: 463
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+    publishedDateTime: 2019-12-31T09:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "‘Healthcare needs urgent attention’"
     excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
     publishedDateTime: 2019-12-28T18:57:00Z
@@ -56,19 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
-  - title: "Singapore investors plow into health care startups"
-    excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
-    publishedDateTime: 2019-12-24T03:35:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Singapore-investors-plow-into-health-care-startups
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
+    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
+    publishedDateTime: 2019-12-26T06:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.371B42E7FD8F99995FBFD8E766961935
-        width: 700
-        height: 350
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "h87St4n6ihFaTg9b3pQkojXOzvo+kAiNWcMt9oMRbxZ3legQOhLfbJYdoWXlF7tVneGkZgY5Lo9RLTf0asJNxkmVK7QoJLouxSbMpEADXDhXYihHtlULBoVnspbEjwii4q1OO0mN6VXNUCDqt6UbBDd4O7/lvo3Fek3UzK3rpBxQRj9YY10AQHU5k1e7PzbvBmUI/3HQkny/OBWWCzFslF7lq+hSiao98YeeSx9sFtoMMOEPeeebmvySR/FoisXc+5FlEHNGC0tSkD6cu3dYig==;QhKUIfV33wIT+fBmJm1f5A=="
 ---

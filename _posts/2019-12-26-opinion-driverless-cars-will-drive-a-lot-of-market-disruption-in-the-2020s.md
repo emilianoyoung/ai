@@ -26,21 +26,15 @@ images:
     title: "Opinion | Driverless cars will drive a lot of market disruption in the 2020s"
 
 related:
-  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
-    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
-    publishedDateTime: 2019-12-26T23:10:00Z
-    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
-    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+  - title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
+    excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
+    publishedDateTime: 2019-12-31T20:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-automotive-detection-and-ranging-sensor-market-is-expected-to-reach-us-46-821-5-million-by-2024-1028790122
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
-        width: 700
-        height: 466
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 16
 
 secured: "dTXkPJgOhi00lSf5lsR/q7pxH1CKlQT7/vdW6NnbzDGcIBq3QupBgDUQ+DExo6cLwO2qY37n9+KIDhAra6qvRQZDnlxPnUA6uwFUOWJm6//lpIUcBBgqdM6+vFGFKVr0rRClUN+zf1oi1gXlD1cB7haIEtZqjO2R1V6ov+G8Bsj3hcmeZbKqCuDMzW9aX2EhSTO4Kq3JQTtdnUCV/H+h3o/zWe35llqYUP7rFtIIfqhQ8STlU9bzN+KU8D826rJs/qQaummIbz88P1XXWCn4Ng==;3ioJNS+vt1a8ecBXbp7b7g=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.bizjournals.com/newyork/news/2019/12/17/artificial-intellige
 cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.amp.html
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -19,94 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "ELLIS launches $220 million initiative to keep AI talent in Europe"
-    excerpt: "The European Laboratory for Learning and Intelligent Systems (ELLIS) today announced the selection of 17 cities in 10 European countries and Israel where it’s establishing project that it hope grows into AI research institutes keen on societal impact. Each selected site — in places like Amsterdam, Copenhagen, Helsinki, Tel Aviv, and Zurich ..."
-    publishedDateTime: 2019-12-10T23:33:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/
-    ampUrl: https://venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/ellis-launches-220-million-initiative-to-keep-ai-talent-in-europe/amp/
+  - title: "Here's the pitch deck that Gloat, an AI-powered talent management startup, used to raise $25 million from investors led by Intel Capital"
+    excerpt: "Gloat, which uses AI to help businesses manage their talent pool, just raised $25 million from VCs led by Intel Capital."
+    publishedDateTime: 2019-12-17T12:09:00Z
+    sourceUrl: https://www.businessinsider.com/gloat-ai-talent-management-25-million-intel-capital-2019-12?IR=T
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 189
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.E99831D08856D6182B7A37B0A6A79EBD
+      - url: https://www.bing.com/th?id=ON.CE0C91800753003290F9FC28444E0E7F
         width: 700
-        height: 466
-  - title: "Observe.ai raises $26 million for AI that monitors and coaches call center agents"
-    excerpt: "Countless tech platforms are setting out to help call centers automate conversations with their customers. But U.S-Indian startup and Y Combinator alum Observe.ai is bucking that trend by using AI to help improve human call center workers, rather than replace them — and it today announced it has raised $26 million in a series A round of ..."
-    publishedDateTime: 2019-12-10T13:24:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/
-    ampUrl: https://venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/observe-ai-raises-26-million-for-ai-that-monitors-and-coaches-call-center-agents/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 186
-    images:
-      - url: https://www.bing.com/th?id=ON.0360C56D176B3E053DBEC94C1B7A8628
-        width: 578
-        height: 308
-  - title: "VA Launches AI Institute Aimed at Helping Veterans"
-    excerpt: "The Department of Veterans Affairs has launched an artificial-intelligence institute to research and develop AI systems that improve the health and well-being of veterans."
-    publishedDateTime: 2019-12-10T12:19:00Z
-    sourceUrl: https://www.wsj.com/articles/va-launches-ai-institute-aimed-at-helping-veterans-11575973804
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.EF0024293FB033BB184F890CD82B013F
-        width: 700
-        height: 405
-  - title: "Partners HealthCare launching $100 million digital health initiative"
-    excerpt: "The initiative also includes a renewed focus on artificial intelligence and data analytics. Erskine said his team is budgeting $100 million for the first 18 months of the project and will seek more funding as needed. Partners, the largest health care provider in Massachusetts, is the parent of a dozen hospitals including Massachusetts General ..."
-    publishedDateTime: 2019-12-12T17:46:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
-    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
-        width: 506
-        height: 315
-  - title: "Partners HealthCare is launching a $100 million digital health initiative"
-    excerpt: "“The consumer does have a lot more choice than they used to,” Singh said. In addition, health care providers are working on algorithms to identify high-risk patients and manage their health. Partners, since 2017, has been developing artificial intelligence programs with GE Healthcare. Partners’ competitors across the country are also ..."
-    publishedDateTime: 2019-12-13T00:35:00Z
-    sourceUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html
-    ampUrl: https://www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    cdnAmpUrl: https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/business/2019/12/12/partners-healthcare-launching-million-digital-health-initiative/l51YQc8MZfAPluV5yFsELI/story.html?outputType=amp
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.9022F233BF3A1C98D48C800905BCBEA2
-        width: 506
-        height: 315
-  - title: "Artificial intelligence in classroom: Is it reducing human interaction in learning?"
-    excerpt: "I feel more confident and want to learn more,” says Prasad who studies at Mount Zion school, Gangtok. Earlier this year, the school introduced adaptive assessment software, Next Assessment, that uses artificial intelligence for setting and assessing objective question papers. Machine-set question papers On an average a teacher takes an hour ..."
-    publishedDateTime: 2019-12-11T05:56:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/articleshow/72468345.cms
-    ampUrl: https://m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
-    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/artificial-intelligence-in-classroom-is-it-reducing-human-interaction-in-learning/amp_articleshow/72468345.cms
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.28D4642B968C938715BC73BF767306D2
-        width: 700
-        height: 379
+        height: 350
 
 secured: "i4ChaPXKSEpfz71dOM7SMaA2ZG5LsTdyzDN4TH+vIUECn/P6naz3J5pgqjzEdswnlOIvBZ/Ueq1SnOebyS44YVtdmuLQ0hvDunseFC+PRBGZFHw0ToRsrta9JEUUz3EwdloSFZQTRdxq/gZ5RZHRF1yylwHjz4xFCdOrgWYK/o9x2gqCWpxJc+wwsltLMszdr1wSV5HTgxYzSeFiQlibD47ryAqHfs++iQu6m8ymSlsjgaQIyQmxVKF7SjRbGkXdLBqHgYIcpXgzsAm3RAb3SA==;9PjZyFRmwVAu9hm2cypZ1w=="
 ---

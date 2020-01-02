@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T19:36:00Z
 sourceUrl: https://newsroom.intel.com/news/aws-deepcomposer-enables-developers-get-hands-generative-ai/
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,28 @@ images:
     height: 500
     title: "AWS DeepComposer Enables Developers to Get Hands-On with Generative AI"
 
-secured: "d7lPJ146kAb+5o3t+Z4TpbgyLC/sD8bzScNbD8JNUdhzYZaIObTHesC5ddUeiel9HDvq/nC3xLdJ6I/yRBAto30gUAi6GNEvfzwgEmBPouCCNPw6AtWB3v8iafmRw8/u1j0nkLPrif5h3wC/H3fYlFEnJMUKu8mnD/iiL1jtjpzJEhXKsNLVct/8nbaZPwTx0pS2L9KYXwXZidugz04G+iHgoMyAXvx19vy5z0wlqds5sk5x0PNqGl+OAoBqoruVciyFSWD6fNaFjBeP0+EIrA==;INl9SoHxGincLFicQMpvrw=="
+related:
+  - title: "AWS announces DeepComposer, a machine-learning keyboard for developers"
+    excerpt: "“AWS DeepComposer is a 32-key ... The area involved in generating creative works in artificial intelligence is called “generative AI.” In other words, it helps you teach machines to generate something creative using “generative adversarial networks.”"
+    publishedDateTime: 2019-12-02T16:15:00Z
+    sourceUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/
+    ampUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
+  - title: "AWS announces new AI services and quantum computing initiatives"
+    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning..."
+    publishedDateTime: 2019-12-04T16:34:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
+
+secured: "ylXUNEx3U/jjKTwSzVU9tbubTmwMba3iXNxNjroCIQ8mB6PvB+VPgyCJOodwWlJqSEf8gX3nn+4phT84fy1CYuIWfXgEltwo8m4qFaDzKTaLEEtxWOWqSDHkyHedm9XNJ19GIx+IvXrVktTeXdCPQSS1DnvnenT5GijcjabHFuc8dCduZeQs4L0fmYymVDVm30p6r3u7jOBeqkJUkqlZDmksh7y3vzbWfdmyADbvCjC2S+7uT7q834DLTpswnywoacKkQazx/7anTTt2lkMftg==;Jyhja89lTtOzBx4zbD/3eA=="
 ---
 

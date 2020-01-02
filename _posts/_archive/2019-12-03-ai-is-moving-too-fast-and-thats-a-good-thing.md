@@ -87,19 +87,6 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
         width: 936
         height: 523
-  - title: "Unboxing for Business – Amazon DeepRacer AI training car"
-    excerpt: "AWS has launched a DeepRacer League and is inviting anyone to participate by attending its summits in 2019 and competing at the SpeedWay. In this video, Mike Miller, sr. manager, product management for AWS AI, unboxes the DeepRacer unit and goes through ..."
-    publishedDateTime: 2019-11-29T00:00:00Z
-    sourceUrl: https://www.itworldcanada.com/video/unboxing-for-business-amazon-deepracer-ai-training-car
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 54
-    images:
-      - url: https://i.itworldcanada.com/wp-content/uploads/2018/11/DeepRacer-thumbnail-e1543532439846.jpg
-        width: 932
-        height: 377
   - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
     excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
     publishedDateTime: 2019-12-03T20:32:00Z
@@ -113,7 +100,20 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
         width: 648
         height: 420
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
+    type: article
+    provider:
+      name: I Programmer
+      domain: i-programmer.info
+    quality: 39
+    images:
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
 
-secured: "nv+bqXL8Z4H79MiKUgSRoCMzh6HarLCHYwY4qBGhLjms58oZJlgPWchK0CEw+sdZ8QC7+5/9TWmXpFErxdvTqAD5oxcmpPu65/S8PHc/HzNLUgrwvqoas05DYki2rLbMDXmeSAF39UN7xxwpZd13aK7Ct7LxZd0p8H8PLesyMmv0sPnawo+Mg6J5aajfSYmlMOBJW2TlxHN8m3+WDQ9dFqSVgXj5XovsVmBKccabfeYl8YTbWpvZto/mgiBHhghSdsCXxMcM+LwBjvNCQ4dERw==;vNrbalFsrgrr0Em7+LnKmw=="
+secured: "LTfBQxkVyI+n7OwzDOfIbT+cvyYBEruG4giU7W6xlJwk1jghyPnRFSHVOGmvChfhFlg/tRzBX7ETVqbMZdWAY3txYbLx3+0R21x5H/BU5K55os7RsCu92++tZLd47/r4PfDmIB9rJ0A6NmiSu94CN9FxFS2dj/N+1c4HHloRz6HTLtTiHLbLFXmCnjrBbRPoDlEjn5jk2gSjKeIT0Iw3VqXNVhr7zSRmj3Oalt4XWpHSG26lFDVQTyE+g2tjD1QhRWyL2+2sxHhRo0zbmons0Q==;fDt1YPcUQomaKzLWPaFRGA=="
 ---
 

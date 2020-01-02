@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FC682CF853436E113D7CC9288596031F
         width: 700
         height: 393
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
+    publishedDateTime: 2019-12-30T02:57:00Z
+    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
+    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+    type: article
+    provider:
+      name: KSTU
+      domain: fox13now.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
+        width: 700
+        height: 445
   - title: "Self Driving Truck Technology Market Evolving Technology and Growth Outlook 2019 to 2025"
     excerpt: "The Self-Driving Truck Technology Market report provides a valuable source of insightful data for business strategists and competitive analysis of Self-Driving Truck Technology Market. It provides the Self-Driving Truck Technology industry overview with growth analysis and futuristic cost, revenue and many other aspects. The research analysts ..."
     publishedDateTime: 2019-12-27T06:42:00Z
@@ -52,21 +67,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How AI came to rule our lives over the last decade"
-    excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
-    publishedDateTime: 2019-12-30T02:57:00Z
-    sourceUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/
-    ampUrl: https://fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
-    cdnAmpUrl: https://fox13now-com.cdn.ampproject.org/c/s/fox13now.com/2019/12/29/how-ai-came-to-rule-our-lives-over-the-last-decade/amp/
+  - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
+    excerpt: "Technology continues to redefine the way we live. It is an enabler that fulfills our wants and needs, and enriches our lives with comfort, convenience, entertainment, good health and even prosperity. And going by the trends, it seems like we can’t get enough. Our growing demand for compute and connectivity on-the-go has led to tremendous ..."
+    publishedDateTime: 2020-01-01T20:33:00Z
+    sourceUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/
+    ampUrl: https://www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/1809956/lite/
     type: article
     provider:
-      name: KSTU
-      domain: fox13now.com
-    quality: 59
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.62EE8985AB435DF98188B13CEF819689
-        width: 700
-        height: 445
+      - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
+        width: 660
+        height: 440
   - title: "How AI came to rule our lives over the last decade"
     excerpt: "Facebook's chief AI scientist, Yann LeCun, said that without deep learning ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with mental health issues — already trying out AI systems with people."
     publishedDateTime: 2019-12-23T11:35:00Z
@@ -75,7 +90,7 @@ related:
     provider:
       name: Channel 3000
       domain: channel3000.com
-    quality: 39
+    quality: 41
     images:
       - url: https://www.bing.com/th?id=ON.D3BF8895D8642E1DE075784E2437BF73
         width: 700

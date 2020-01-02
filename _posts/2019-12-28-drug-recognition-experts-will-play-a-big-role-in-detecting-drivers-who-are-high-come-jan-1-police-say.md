@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E6D7B7F774A81F0348E5D3255147CB1A
         width: 681
         height: 600
+  - title: "Drug recognition experts to play a big role in detecting Illinois drivers who are high"
+    excerpt: "It wasn't until Pirela pulled out a black light during the exam that she could see cocaine residue on the woman's face. The exam that drug recognition experts conduct helps to show officers if someone is impaired, what category drug they could be on or if the person has a medical condition. And come Jan. 1 when recreational marijuana is ..."
+    publishedDateTime: 2019-12-31T21:08:00Z
+    sourceUrl: https://www.rrstar.com/news/20191231/drug-recognition-experts-to-play-big-role-in-detecting-illinois-drivers-who-are-high
+    type: article
+    provider:
+      name: Rockford Register Star
+      domain: rrstar.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.46BD3E2035D33CA2FA18E688A8407518
+        width: 700
+        height: 447
 
 secured: "LRM0yjoTDA29azx/DMaW45HEcG8L9xuMw22PR17+iiqitE0aMm3N/a3Iy8FAtiKt+N4MqrEwYnanixwYcNrI88HRMID6TJOXi7Fv/+EqnDc3kBCAG8LXRaYWXO5vA5WohhA3C/JExWuyIKAi3lMDqc3ioqPRhD4P8rXSh09G1pdgelyMRgzEt1Nil4L7rSZuNBA4XFt0zxAMOjs0DHYnzUhwFGOOT6rdOq7Hkzc4fxjQ6suUmOC2wIY/4G50b05gR6oOHHVFxPwPx0kYJsavdQ==;W1h31PXqt8yuHf6wLrCQuA=="
 ---
