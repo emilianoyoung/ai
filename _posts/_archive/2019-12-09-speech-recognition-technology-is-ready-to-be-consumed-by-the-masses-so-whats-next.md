@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -1169,19 +1169,6 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
-  - title: "Emotion Recognition Is Creepy As Hell"
-    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-    publishedDateTime: 2019-12-13T21:12:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
-        width: 700
-        height: 366
   - title: "Nets trials facial-recognition payments"
     excerpt: "Under the tagline \"Hungry? Face it,\" Nets, a Nordic provider of digital payment services, has launched a pilot testing facial recognition as a payment method, the company announced via a press release Monday. Around 1,000 people — all working at Vibenshuset, an office community of 25 companies in Copenhagen — can sign up to participate in ..."
     publishedDateTime: 2019-12-18T11:03:00Z
@@ -1289,6 +1276,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "AleJjfWAr6D0sX8GYNbbhNIOYs+S7cmy9Emdd+RQCUo23XcH42goZ7HlzRUabsrsnJ0ofF3L+ZOeHqm1pRxOKjq9rKrAPQTD/AQi+3DHtLKXztnKCoihe99GK5VJU1bjoL+U1YB/2ZGGwLflNlpMCk4R07BcQihLB/HBgobVpc7uyHo3qD8y7oIdD0LTJx42OnHNsjOP5wJlSknjg6xBKkaMKmFkJeQt05VDDuX4YDpOBZeBVi0kZCWyLSTX68VWC8to6KiU1hrB2C/OnoguGA==;u6C5J/kTMwFZqKxbI62fhw=="
+secured: "RAtAHWEkwRo38dBbeUIqcxZHS1dkieHQCrPqoDmFOKo5UNKBaiNoHNT4it/2F0MG5HxxfOGsYAOUj7L5thmn7enjmgSV1UsgDKCRazairoGSnNMQ0jhvfN8+sv3Gc+RtI5TmXCGJScAI18thf6knvfV7o+6fWqkTIBX+yo3Cz0KVb6bNEqXcEv+94xjrtDnnTRQ6i94qwCOL9mSgq/ZHndEOYBCTTRxm9aOTygeSwI1X109cPyN5Pipz1mngEeCkB754cWZw5ogBvi7TDgi9Kw==;0Nu/K58/PTmPt8ARHZ1i9w=="
 ---
 

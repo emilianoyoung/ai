@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
         height: 349
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "Volkswagen Takes Stake In Self-Driving Startup"
     excerpt: "The Volkswagen Group has made a “significant investment” in Aeva, a company that makes sensors for autonomous vehicles. Earlier this year, Aeva agreed to develop and add its LiDAR (Light Detection and Ranging) technology on vehicles made by Audi, another member of the Volkswagen Group. The investment comes along with the introduction of ..."
     publishedDateTime: 2019-12-15T18:34:00Z

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-elect
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/14/volkswagen-to-bring-self-driving-electric-shuttles-to-qatar-by-2022/amp/
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
         width: 700
         height: 349
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
     excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
     publishedDateTime: 2019-12-17T16:54:00Z

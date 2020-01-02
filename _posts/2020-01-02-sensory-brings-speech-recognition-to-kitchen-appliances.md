@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5E5640C69DE22E5E99A4DE446A43E0AE
         width: 615
         height: 324
+  - title: "CES: New tech to give appliances voice interface"
+    excerpt: "Released by Sensory, a Silicon Valley company pioneering AI at the edge, it is a specialised model of TrulyNatural, the company’s large-vocabulary speech recognition and natural language understanding platform. Voice adoption in consumer electronics continues to gain significant traction, but as more voice-enabled products powered by cloud ..."
+    publishedDateTime: 2020-01-02T22:07:00Z
+    sourceUrl: https://gadget.co.za/ces-new-tech-to-give-appliances-voice-controlled-interface/
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5E5640C69DE22E5E99A4DE446A43E0AE
+        width: 615
+        height: 324
 
 secured: "la1AT5ngI7V7N+zPyXJdKv/uQ0gAYoco0cts9VvAOQDjv6iHHRTbE2FOZMUpXFNzmxvMnYbqnM9akx7ZRRqpzTGyhUSuBDc9++xhB1WMyTWRsOSyYwoMmzMgXjbI/5CRc/DwU1YEB+3zmM38r5pzZMBsS5exXKQUMCWUQc+9E0JdewIVflh6m0xr/n7MIAYMWkVOfb4kITXtYNUYwpU2PrEieh/3EGLjHCVrVRuoqG30haMveeYnPyloEbATeMrPzW9jjKE1fSo8o4d9MhOXMQ==;WaXEvijiHeiLnKeavNLJBQ=="
 ---

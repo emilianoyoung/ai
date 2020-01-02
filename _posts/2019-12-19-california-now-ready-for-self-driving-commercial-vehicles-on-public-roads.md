@@ -60,6 +60,32 @@ related:
       - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
         width: 700
         height: 393
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "q2GVdxfbGCnl6VE+GOfQy2+IBGLAdyUHIvAgTtly+4WkGFlOsjXUBOl8Z+0U4xxETjvZIgMceFFqBYXJVPhn53EA9Ut3McWbgSKT8mZcohXdu3dZckMj8Kc398CQ4pMYzA/9xEA6jQ0StLy4E6YMtI5NMzOpAbDAk3QboE/bBMe32TbGcSiFHSUU7f9gt00GImxTgV7zk6h1sXly5uROw3Hscd+CUbxSVfs2LMU2nWDo37rqE0TE6tmJjJJuFaXe1bFziscbCa2zaUUdSOMM1A==;5UdvkgRDBOyqHQ/c/mg6zA=="
 ---

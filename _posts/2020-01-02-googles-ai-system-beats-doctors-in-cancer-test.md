@@ -3,9 +3,9 @@ category: news
 title: "Google's AI system beats doctors in cancer test"
 excerpt: "The study, which was conducted in collaboration with colleagues at DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, was recently published in the scientific journal Nature. By using tens of thousands of mammograms from women in the UK and the US, the program was trained to detect cancer and ..."
 publishedDateTime: 2020-01-02T20:36:00Z
-sourceUrl: https://www.techradar.com/uk/news/googles-ai-system-beats-doctors-in-cancer-test
-ampUrl: https://www.techradar.com/uk/amp/news/googles-ai-system-beats-doctors-in-cancer-test
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+sourceUrl: https://www.techradar.com/news/googles-ai-system-beats-doctors-in-cancer-test
+ampUrl: https://www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
 type: article
 quality: 89
 heat: -1
@@ -56,6 +56,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.D2B4A77E5E32ADF4644C58D3CF37E8A5
+        width: 600
+        height: 315
+  - title: "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis"
+    excerpt: "Google’s DeepMind team has just published a paper “International evaluation of an AI system for breast cancer screening” showing that their research on artificial intelligence applied to medical data has is making amazing progress. Their system makes breast cancer predictions by assessing mammogram images, and seems to work better than ..."
+    publishedDateTime: 2020-01-02T22:38:00Z
+    sourceUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/
+    ampUrl: https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
       - url: https://www.bing.com/th?id=ON.D2B4A77E5E32ADF4644C58D3CF37E8A5
         width: 600
@@ -516,6 +531,6 @@ related:
         width: 500
         height: 500
 
-secured: "Fd+3r6nAWgfpwdcl9i9msKwNq4PFHsJsM6G2U+VZ71EKCPAo16W5hmmwR1zRR7UkVOOB4uBBrwSFomsRqtL/hONfZSY2zDHMsgRwhJKLjc0IoCv96P0dP/0/1X7Ew5Os/MRK3Sld85hINGB8Rbp6yQWbHPP1ChumgUlYy+/CQwTcG+UXp2DiB+ncvXBlQYcc8f5KZqRCGFQsli28s944xRUDucDqOCDSq+F8jDYoEjEx3LtuXIXZlQLrbCjUK58Ym5EnIfYLId+q+fTzzpcAQQ==;YCjzZ89NAJAc9Jp91gDIqQ=="
+secured: "vj5BLzHKIb1Jg/L35pqQdNhS49F0I/HF1YB2xV34ZsADZ2IC9NpBrt8qz/x6mBMqt+gkDcnMk59FBfmj6Tri1CFfQLLKw7xAt5/2ZJmADyyeFgb4fAN8j9wReSX2uHTBRFJ0L4KgZMRPeBpkBwYeqwx5NU6Qs85ZUinTCx9n6Bm+UVsETc97ea30RjXkzBjRz5d9edS3ZfVWZ65kZn5aW5MgaeaotZe0jGwOpdJuTC26xS/Iz16A/2ZWWy33vNAaxesaQEs2MT5/nxBA+Z+7NQ==;GJd7+cJDnKC86hB84AJobA=="
 ---
 

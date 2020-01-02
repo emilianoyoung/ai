@@ -1072,6 +1072,19 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
+    publishedDateTime: 2019-12-09T11:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
+        width: 1960
+        height: 1226
   - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
     excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
     publishedDateTime: 2019-12-17T10:06:00Z
@@ -1157,19 +1170,6 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
-  - title: "Emotion Recognition Is Creepy As Hell"
-    excerpt: "Passersby walk under a surveillance camera which is part of facial recognition technology test in Berlin. (Photo: Getty) Emotion recognition technology, at best, promises to read commuters’ mental anguish and adjust subway cabin conditions accordingly, and at worst, puts biased and buggy mental microscopes in the hands of corporate overlords."
-    publishedDateTime: 2019-12-13T21:12:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/emotion-recognition-is-creepy-as-hell/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.0386395F0EDB28297896C5C0223D4CAF
-        width: 700
-        height: 366
   - title: "Nets trials facial-recognition payments"
     excerpt: "Under the tagline \"Hungry? Face it,\" Nets, a Nordic provider of digital payment services, has launched a pilot testing facial recognition as a payment method, the company announced via a press release Monday. Around 1,000 people — all working at Vibenshuset, an office community of 25 companies in Copenhagen — can sign up to participate in ..."
     publishedDateTime: 2019-12-18T11:03:00Z

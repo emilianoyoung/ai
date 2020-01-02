@@ -35,10 +35,10 @@ related:
       domain: securityinfowatch.com
     quality: 30
     images:
-      - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-        width: 960
-        height: 640
+      - url: https://img.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.png?auto=format&amp;fit=max&amp;w=1200
+        width: 1200
+        height: 800
 
-secured: "kKIr4/qazPPNd287HdyTjHSJlC2JR2w63vTHnmYHvytiMv8DN15quHpjkThMBxT+qpTR2usrrvskpVZBxb/xRApvgBEe0w2DKpklmO+JEq2ja0W70X6iDy6FD0q27DtIPbwPUjPUs20hcdtEqmcote6rbk7yJ/FCJ5GY6TVZuf60K3AWa0Bc9bXgefPKh9OSd8i+2/gt6ZE+Ckx/6CflAIv3lovuuka/Su136ntsNKWSgzr9GpbPPqGim+B/8dxNp0wB/skwE5ZryLmr6CFYlw==;vl74cGs12u7Wr0zMU8usFw=="
+secured: "fwwl6w06FrQuiqTHqzfR+sev6xc8yVBIvz/Q1DVLz0BMZc/FUUbs62uI/vt7zOvu7l6t2He6pIE5fGWXKzk//fLWExOrVE+9gHxaC3/Yn2+D4YDubrzFEID5VJTxoE/k0KjjVcv+8xF3W6a+m6TwCzRwQoHUoM2W8UgTJ7GtrLz9PlATRUIG/IMgMVlviHttsLA1sAbYE6fjRQsJENBH2REItk3yr53NHkkbEUCcEswuYyif+Cz3LHj79oTn+mdHL0KJRcbR2O5KD3V56vmbNQ==;i4SEl+0nfAbH+0KXEOfvDg=="
 ---
 

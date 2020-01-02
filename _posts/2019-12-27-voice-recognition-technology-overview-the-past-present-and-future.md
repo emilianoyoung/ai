@@ -31,6 +31,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
+    excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing Advertising, Image Search, Segmentation on the ..."
+    publishedDateTime: 2020-01-02T12:05:00Z
+    sourceUrl: https://apnews.com/Wired Release/20e8c5c9a540ea70c73effd0085b6585
+    type: article
+    provider:
+      name: Associated Press News
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: https://apnews.com/images/PaidContent3.png
+        width: 700
+        height: 450
 
 secured: "gH7Zar2CLXTCGOdwUBX0Refd0EMtGSuOrXyTHE/i64JCzgYWZv/NA6Xd4IpCFsa5JRCMr1ECKEXJocaLcGXmmugRD24yXtqL6iqkf0L8ILXCB15W1Ciipndj/SmZG44S0WhopCPGc6pNXvBRoBvfq1anYFZcM0d3LTIM8GB2E2p/1QqAkdSwhLn7Gl1kxtPv4JcC0+AqMnaIGLCC59KR9NZPyizFCpsC+btPpgA79x5tC6HyndMJe62FGa/xkjGwcFX6e1+OLLIPeSx42ZBbyA==;TnWSf/jFlwDdwY5cZQB3YQ=="
 ---

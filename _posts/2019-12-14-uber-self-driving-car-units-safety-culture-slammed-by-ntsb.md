@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
   - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
     excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
     publishedDateTime: 2019-12-16T12:00:00Z

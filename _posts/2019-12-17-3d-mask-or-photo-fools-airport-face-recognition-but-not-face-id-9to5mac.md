@@ -8,7 +8,7 @@ ampUrl: https://9to5mac.com/2019/12/16/3d-mask/amp/
 cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2019/12/16/3d-mask/amp/
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
         width: 600
         height: 263
-  - title: "Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID"
-    excerpt: "When Apple introduced Face ID with iPhone X using their new TrueDepth Camera, they instantly leapfrogged their smartphone competitors that were relying on 2D facial recognition as the biometric standard. Only larger bulkier systems like RealSense or Xbox's Kinect were using 3D depth methods. Apple was able to shrink the technology to actually ..."
-    publishedDateTime: 2019-12-13T21:18:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/microsoft-invents-a-next-gen-depthmulti-spectral-camera-for-advanced-3d-facial-recognition-to-match-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.425632E64F66A79BDB5C31D4B4715B40
-        width: 600
-        height: 295
 
 secured: "/9vmNm4JvFWcPdhtoifGR0ubEq0JPiK0RUjVt9ctZ+IB9InXqST1OVpjLfjRlqImas9ZkxMRmOYcwUFw/yTHWSvkV5zU+qSczJqOG/IgFLb104SqgRqxH/8huSrqIsTZxlCEOjMfGe9s7Cj8i/dfAFjJc8eukI6Gu8Zj/Q8i+9t+jPZw1C5hiV5NDfEzoZoFAAQ/CxBLSR0ypFUttJglraYt89xEZErfyqBM8yAcvY3RKsprflfglxW8/QDdP8CiF/7Vr/ZX3hnpLZFBpvus/g==;uXTUJVMt8oV6TZo8mWp4FA=="
 ---

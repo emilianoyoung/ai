@@ -24,66 +24,51 @@ images:
     title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
 
 related:
-  - title: "Honda self-driving technology coming next year, report says"
-    excerpt: "Honda may be prepared to make its first big step into the world of self-driving technology as soon as next year. According to a report from Nikkei Asian Review on Friday, Honda plans to launch a Level 3 self-driving system with the Legend sedan next year ..."
-    publishedDateTime: 2019-12-13T21:06:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-self-driving-car-technology-japan/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-self-driving-car-technology-japan/
+  - title: "Yandex is developing lidar sensors and a camera for self-driving vehicles"
+    excerpt: "Above: Yandex’s 360-degree lidar sensor is sitting atop two solid state lidar sensors. Yandex’s sensors are also relatively inexpensive. Yandex Dmitry Polishchuk, head of self-driving cars at the company, said that when the lidar sensors enter mass production, Yandex will save up to 75% on the bill of materials. “Third-party lidars ..."
+    publishedDateTime: 2019-12-16T05:00:00Z
+    sourceUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/
+    ampUrl: https://venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/15/yandex-is-developing-lidar-sensors-and-a-camera-for-self-driving-vehicles/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.C56E74AB37C1DDBCCB83D37E014EE82B
+      - url: https://www.bing.com/th?id=ON.F8185E5E81A0798F125CF3810DF5DB7C
         width: 700
-        height: 367
-  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
-    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
-    publishedDateTime: 2019-12-17T17:32:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
-    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+        height: 350
+  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
+    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
+    publishedDateTime: 2019-12-19T20:42:00Z
+    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
+    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
-  - title: "Honda is set to launch its self-driving car in Japan next year for $91,000"
-    excerpt: "Honda is set to launch a partial self-driving car during in Japan the summer next year. Its Legend sedan will boast a Level-3 autonomy system, which enables the vehicle to pilot itself for extended periods. According to a report, the car will retail for 10 million yen, roughly $91,000, compared to 7.2 million yen for the current standard model."
-    publishedDateTime: 2019-12-16T16:40:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7797857/amp/Honda-set-launch-self-driving-car-Japan-year-91-000.html
+      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
+        width: 600
+        height: 315
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
+    publishedDateTime: 2019-12-22T12:03:00Z
+    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+    ampUrl: https://amp.azcentral.com/amp/2709275001
+    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 42
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.3EFEF7DB325E0B976E38DD3CD95FFD9C
-        width: 636
-        height: 382
-  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
-    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
-    publishedDateTime: 2019-12-17T17:09:00Z
-    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
-    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
-        width: 457
-        height: 274
+      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
+        width: 700
+        height: 393
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
     publishedDateTime: 2019-12-17T16:11:00Z
@@ -97,45 +82,6 @@ related:
       - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
         width: 800
         height: 600
-  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
-    publishedDateTime: 2019-12-17T10:27:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
-        width: 700
-        height: 525
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 24
-    images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
-        width: 700
-        height: 466
 
 secured: "GiwCt+O4eTvd6XpTuLQW3M0xOTSqkbGlV7Gm6AxhqbSaNujzANbRvyWQd25h5jEgTux+joDdIYYgEjnSsuU4dXQh376nQAf1eR8/r48i93vTef/EAlVPV7fAhehp5ngqY+4V3uJ8V/jedv3oOsuSMzRcgGMn68stG7orevvBE2+9ED1psi6xIKkoMkN2bH3Np+vzZLEMd90QSBjKTvuImQFnWv93iXHkCfLIW5QgxRU/zerEh9b/sYufp9b5IsqIAWmr0KYS5xZ/fvZDvq0Qog==;52rfjzkRw4L/KfHvku8dNw=="
 ---

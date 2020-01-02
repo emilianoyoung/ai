@@ -18,9 +18,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://cdn.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/960w/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.jpg
-    width: 960
-    height: 640
+  - url: https://img.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.png?auto=format&amp;fit=max&amp;w=1200
+    width: 1200
+    height: 800
     title: "N.Y. school district moves closer to being able to use facial, object recognition system"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 1024
         height: 645
 
-secured: "c6/4Z5KOWX73SIpHqHyX0tmTqQEEduFEEO97Wxjc+vFHDEHkDmCGnLUceljmRli7K8kxWlj7mLMLAqxMxIrz9IAsEnVw3sIa3zyhUYZ/uEZOJrrYfmvO1SmsVVuwtRObtDMr/4kQAxHkkzPhb3BOtaoPpIi5wIxdw+gbc+MXk2o56D1JnZ+kHm6xrR3MmM5E3Sr6NeoqdQe/N1nceXMSvmn9ID3mr1svhDMx1GtTQr91sGcjNH+1Zo7/67YG8tWgiZSrSjuImG7cUkj/J3a2lw==;SXLK6VJlJTau3eN6diFquA=="
+secured: "ZTz6dLd+DRKI2LW6ACJAXcqBWnnABK1CzqAfsonVthfz5tPKt8FuJnQIQctRXpTXAABdKHsWplB9/XIYKQ6VORDs4O7B8Eul8GdNgOvupztjNhkY/BRwE+t4a/XKAYXU9DqNKkzuCUlN8/ZYj4+nqZoSmvLu2ezh+ZRe3tP+nVAjSiyUByuBBS5fbYj/E7WJISz3uutCZGgBhyEXmU3tPplBVTK0OoDT2+J6jWDbGIlu8II5m3PMIavaorZs7bD6PaFKp2KffHcOeGjfvE4wuw==;qoUzs0kR6SnHBUgzPfiU4Q=="
 ---
 

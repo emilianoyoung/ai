@@ -98,6 +98,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
         width: 207
         height: 155
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
+    images:
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
   - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
     excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
     publishedDateTime: 2019-12-17T21:59:00Z

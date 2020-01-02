@@ -73,6 +73,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DB37F9770A69A001285A02C11A4B5F5D
         width: 700
         height: 367
+  - title: "Artificial Intelligence Takes Aim At Breast Cancer: Google Health"
+    excerpt: "(Shutterstock) MOUNTAIN VIEW, CA — A study in the journal Nature suggests that artificial intelligence is more accurate than doctors in diagnosing breast cancer from mammograms. A computer model designed by an international team, including researchers from Google Health, looked at X-ray images from nearly 29,000 women, mostly in the United ..."
+    publishedDateTime: 2020-01-02T22:48:00Z
+    sourceUrl: https://patch.com/california/mountainview/artificial-intelligence-takes-aim-breast-cancer-google-health
+    ampUrl: https://patch.com/california/mountainview/amp/28499897/artificial-intelligence-takes-aim-breast-cancer-google-health
+    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/california/mountainview/amp/28499897/artificial-intelligence-takes-aim-breast-cancer-google-health
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.D957AC78D867B66DB6071888A6C56C01
+        width: 700
+        height: 524
   - title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
     excerpt: "A new Google artificial intelligence model appears capable of more accurately spotting breast cancer ... wrote in their abstract that they had aimed to \"identify breast cancer before symptoms appear, enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide, interpretation of these ..."
     publishedDateTime: 2020-01-02T20:02:00Z
