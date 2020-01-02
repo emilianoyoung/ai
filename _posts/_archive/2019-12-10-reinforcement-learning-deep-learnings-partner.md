@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Reinforcement Learning, Deep Learning’s Partner"
-excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to ove ..."
+excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to overestimate deep learning’s capabilities and pretend it’s the magic bullet that will ..."
 publishedDateTime: 2019-12-10T21:43:00Z
 sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
@@ -46,6 +46,6 @@ related:
         width: 700
         height: 350
 
-secured: "6O0FL6vDN8r8r8sbrGV5wPl5PQ1dk06SnDMguy2C4Vocjjih7TG24+e2E1aVGBLUtbPOJOz/Sd7z5sLorETGdEDiQf9nf1yNr2wAmVYnTc5Efyc9PYFezg/x6iOPMvxWfSyFhqtwwJP81r8ktsoh6Sva65OGWXnLY65dBKbcDLH3H36DYNuG4IvAdsJkoZkZzTTVQJCLqdMN2BzZRhE8vrflwb41b9K6Izp1AQZRLtfM+/2mZy6sfcUJYoRYYpVGGi8KOVt8BUyhBXrbBW5Zlg==;2MFHn2mWXKzOumS2sQtWvA=="
+secured: "NwP1DBeGEI+5oYbBK0TWybTwsczqEvAoNAk58S3qZEWazAhZLwElRLgFU+KxvWldn7xZYQfcTdAGoq8wv+8j0sINtaQoBrzXgUACwcfdq/voVXf0pCi2kUHq+sDtJmc/JjEtNJmDG9SVpBuafMgV3rM+rSXXw39WJH1XXvrGJMqQmm8MQ8uTWLkK05dnmXwhYe+5MTRgCBUG98QHPp+xLWXbl4/z76SQEqdoLgf5uo27xYv62NsQg+TFXzKpK6+LcZ8W4jcPTGlx2MW/4w44XQ==;vrpzWfgFrDx3rfeLXI6VRA=="
 ---
 

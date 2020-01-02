@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
         width: 700
         height: 367
-  - title: "‘The Age Of A.I.’: Robert Downey Jr. Hosts YouTube Documentary Series – Watch The Trailer"
-    excerpt: "Robert Downey Jr. will explain in The Age of A.I., a new documentary series from YouTube originals that premieres December 18. Check out the first trailer above and key art below ... producer with Evan Moore serving as a co-producer on the series. Subscribe to Deadline Breaking News Alerts and keep your inbox happy. Check out the airdates ..."
-    publishedDateTime: 2019-12-13T01:00:00Z
-    sourceUrl: https://deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtube-documentary-series-watch-the-trailer-1202807411/
-    ampUrl: https://deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtube-documentary-series-watch-the-trailer-1202807411/amp/
-    cdnAmpUrl: https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2019/12/the-age-of-a-i-robert-downey-jr-hosts-youtube-documentary-series-watch-the-trailer-1202807411/amp/
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 148
-    images:
-      - url: https://www.bing.com/th?id=ON.C2E82E984FB47341B534005BEB08D39F
-        width: 700
-        height: 394
   - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
     excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
     publishedDateTime: 2019-12-19T16:07:00Z

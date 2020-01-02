@@ -2,23 +2,23 @@
 category: news
 title: "5 Innovations That Will Dominate CES 2020"
 excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
-publishedDateTime: 2019-12-30T17:05:00Z
-sourceUrl: https://www.stamfordadvocate.com/business/article/5-Innovations-That-Will-Dominate-CES-2020-14939244.php
+publishedDateTime: 2019-12-30T16:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/5-innovations-that-will-dominate-ces-2020/ar-BBYt91c
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
+  - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
     width: 700
     height: 466
     title: "5 Innovations That Will Dominate CES 2020"
@@ -157,6 +157,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "pfuZwE46Wo3T0ehwIEHbN5AYx/8YMy8EHLwQ7Z8pZOgd8GtrWI1TpvRpF9am509lHU2oCP1hUtKi6W80YSfdqNksfa5TZXb+W7uD8o77lVsRQ4g+1gNBk31cbB/DUrOcARcprKDDU4R6r96i12Eq/t9xPma2hJHXKlIWX6Qj6wJ6Fdu6g4jK/Zmv3y4+Gv37yksYuB00nupoP3fei+2j5+Y6L2Os8HWR24y6HdlqeZddeuB6BLa5WZvj9bHZ7lEwAeO4yL/JlupduOsjFNhY5g==;oTtB34SrLs73P63qd/LFhw=="
+secured: "l1Z0vwM1eBDC2XfoDRCXKjOeBLw36TyQbKIayLAwyVJfv0VE6CaKf0HiVyjRP3ke9zNEiG6pF9zwjrCATLC5/lje4zGPbY/Lg7CM6RhLJjWNE3FzmKClo3CxLXC+Z4QwUdRnxN7DIN2dOS88C5yrqmNHbJf6ONQEmy7Laf1NhL9SGPa8G+UYixZrQVCNb2gyapvrgACEmcoX2VGJzdqDDEZpRUNZK9FM7qw0oZP4wJ1JBurGA2IAzl+M+vIvHbWu9eZgm9/jkqmLKROQjHChxg==;yhs5ji7lhrYwU9FZS62wpg=="
 ---
 

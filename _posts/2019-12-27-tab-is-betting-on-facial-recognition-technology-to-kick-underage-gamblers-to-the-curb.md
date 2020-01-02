@@ -24,62 +24,47 @@ images:
     title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
 
 related:
-  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
-    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
-    publishedDateTime: 2019-12-28T07:00:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+  - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
+    excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
+    publishedDateTime: 2019-12-31T01:00:00Z
+    sourceUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.html
+    ampUrl: https://www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
+    cdnAmpUrl: https://www-heraldextra-com.cdn.ampproject.org/c/s/www.heraldextra.com/news/local/govt-and-politics/utah-legislature-looks-to-limit-department-of-public-safety-s/article_e1f48e8d-4f0b-5080-8677-8a8148ab416e.amp.html
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 69
+      name: Daily Herald
+      domain: heraldextra.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
-        width: 700
-        height: 437
-  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-    publishedDateTime: 2019-12-29T11:40:00Z
-    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
-        width: 700
-        height: 350
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
-  - title: "Police Use Face-Recognition Software as India Protests Intensify"
-    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
-    publishedDateTime: 2019-12-28T05:22:56Z
-    sourceUrl: https://www.msn.com/en-us/news/world/police-use-face-recognition-software-as-india-protests-intensify/ar-BBYpzsx
-    type: article
-    provider:
-      name: Bloomberg on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
+      - url: https://www.bing.com/th?id=ON.F53F5EE0AF7E1C233152D63A3B9551DD
         width: 700
         height: 466
+  - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
+    excerpt: "Heather Reynolds was wanted for allegedly stealing nearly $12,000 worth of items from a Clermont store last month. Investigators said they were able to identify Reynolds through facial recognition technology. The Tampa Police Department and Seminole County Sheriff’s Office used images from the store’s surveillance video to identify Reynolds ..."
+    publishedDateTime: 2019-12-28T03:56:00Z
+    sourceUrl: https://www.wftv.com/news/local/florida-law-enforcement-agencies-use-facial-recognition-identify-alleged-thief/SGHPUGB5W5CX3FYVSLU7P6EV7I/
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.1DEF8DBB16713F80845110511BEAD1B6
+        width: 700
+        height: 366
+  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
+    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
+    publishedDateTime: 2019-12-25T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
+        width: 700
+        height: 495
 
 secured: "KMAsTbRjahCSu55F7kehlgl0C8oEoOMzS0FvlMvxq5TDkfszuPeh5JLkTICy/dfu4Z9zL6T0HCi66iqoed+tLW+hzwk9nPDvvxd2xJ4CvCdF8rog0dXwiR0pKSSW0VwlfB2b7voVOoCm5RbohVklWbErJlBqtf5g9vsH1TMn+jGx/NuczIj8pm9ElCrTGm4db0iacN1jp9LtZYXoVelr9Nmv9pYR6BKGKvxGBdZKFIvkQITWVXo01O/cRiH1GeENrT2fq9WKLmQJ5IIX7KifjA==;GyxtfJmmxq/TrVPbZHCwdg=="
 ---

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
-excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
-publishedDateTime: 2020-01-01T23:00:00Z
-sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
+title: "Google develops AI to improve breast cancer screenings"
+excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
+publishedDateTime: 2020-01-02T00:58:00Z
+sourceUrl: https://www.zdnet.com/article/google-develops-ai-to-improve-breast-cancer-screenings/
+ampUrl: https://www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
 type: article
-quality: 34
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Times
-  domain: thetimes.co.uk
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
-    width: 685
-    height: 385
-    title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+  - url: https://www.bing.com/th?id=ON.101C4C4D0FA52335E899BF42B203973C
+    width: 700
+    height: 525
+    title: "Google develops AI to improve breast cancer screenings"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -53,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.83841D8E2243EC088FDF6C0EF787B37F
         width: 700
         height: 393
-  - title: "Google develops AI to improve breast cancer screenings"
-    excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
-    publishedDateTime: 2020-01-02T00:58:00Z
-    sourceUrl: https://www.zdnet.com/article/google-develops-ai-to-improve-breast-cancer-screenings/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.101C4C4D0FA52335E899BF42B203973C
-        width: 700
-        height: 525
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -288,6 +279,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0478E47A27586A2BBBA0BE7DE67A552E
         width: 700
         height: 466
+  - title: "Google artificial intelligence ‘beats NHS doctors at spotting breast cancer’"
+    excerpt: "An artificial intelligence system developed by the NHS and Google could dramatically speed up diagnosis times for women with breast cancer, a study suggests. The “deep learning” system outperformed human experts in detecting breast cancer from x-rays. Integrating the system into Britain’s breast cancer screening process — in which a ..."
+    publishedDateTime: 2020-01-01T23:00:00Z
+    sourceUrl: https://www.thetimes.co.uk/article/google-artificial-intelligence-beats-nhs-doctors-at-spotting-breast-cancer-trjh8nsqs
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.9AEB2862A8C041120466DF76FA348767
+        width: 685
+        height: 385
   - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
     publishedDateTime: 2020-01-01T20:34:00Z
@@ -302,6 +306,6 @@ related:
         width: 700
         height: 437
 
-secured: "zWHxA9lLg/CaAOP7ah6QWv433G257ym3x2QIVZRtLi6uBCuhEMwJfaKxk/93oKOYOBrEr5s2zRkSUJBNFKJkrg46KE3kDU6E7yz6lIAIRH7/tMzgP9O9nDPUlgW7sppMzaHUxyFRAWWJQOm5I5e2ZIuTjUepdHAtdlzgQxPY4OJ5JgT1R1HseQc8Zi2dBVb9emohgvmCqxZKubST531aIB3AUOsHlD7c0moCvAJhl0j8VVovfrcLuY5FCBjrg4jxebF8cw32PhOkYpSAVVfN7w==;E6gDxPDHQWckqG2sAI197g=="
+secured: "i2jzFxmQry8O6VG5jAUJzDwHoiO6nkoG9uynVeoQqvZmRMuF5p3YitZndzKmAKpEAwX0iQqZubdyfYmjIKYhqFl3bhuPXobDwAFKpLC01IB+z4V8LQoLOy25eSGC7o6oq9t2cjhdYjJInC11moQ+GroZbKGlvCveDrh7pwBNzrLdsP2mBBXJ79MrIVYyzeoKJUA7SxeMLh5R1dum/lizdISS0HuwULFyEueBXmbqJWt8N1zWb6x6fOGAE5exHSUENLOmA8GifM5yonsjMo0xHA==;ooX064kwxOMGk0dLziazpw=="
 ---
 

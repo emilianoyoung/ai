@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-02T08:52:00Z
 sourceUrl: https://www.helsinki.fi/en/news/language-culture/machine-translation-no-match-for-humans-machines-translate-words-humans-the-underlying-message
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     height: 630
     title: "Machine translation, no match for humans: machines translate words, humans the underlying message"
 
-secured: "zzxFmQ0WaUddcQ0xlwGLpclwtwqhZ0/VW3PttwFs8YSGXnWnDbaT+3hksKrwKYdP9+jY8wMNxooCiNqywbJHDHfNq6hcarveCQTyHoH0uC9Sn2UkM0UUTJgHBl9bNeml5fJIJz+aKVAsVvo3lwI/qShXvH9PLinFmm6ukSHdEV5uOZ3LlAd60gizXBI65S3BTeQAfNnI2NFA+4+6+BJXCAUds5GYRgf9RlIOt3CKenX4pHEks/m2MKgbXhfsFsH1GrdCN4iKyZ9IGLk1EAeTbg==;iI4q6vTw8b64h3zbAZy6ew=="
+related:
+  - title: "Global Machine Translation Market 2020-2024 | Increase in Localization of Video Content to Boost Growth | Technavio"
+    excerpt: "The global machine translation market is expected to post a CAGR of more than 19% during the period 2020-2024, according to the latest market research report by Technavio. Request a free sample report This press release features multimedia. View the full ..."
+    publishedDateTime: 2019-12-02T11:35:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-2020-113000351.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-machine-translation-market-2020-113000351.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://s.yimg.com/ny/api/res/1.2/Rq7uz94_pde66j_.7c.LxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU0MA--/https://s.yimg.com/uu/api/res/1.2/kQGjxsrLMqhsCGj5nSUGnw--~B/aD0yNzA7dz00ODA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/en_us/Finance/BUSINESSWIRE/1c06388733d1958ecbdf12ea7c950c65
+        width: 480
+        height: 270
+
+secured: "DcrL8TcXrjG0JXTxFeTjOt9Za1xpVgSjPJpHBKbdQC430T/JTZDaY7BBCvedvZ5m9JQmcEKS9qsSHfjygO45nWFnFoPP2Ejv3sQOgNUXRn/OwCwaCgqdvd0Qgeh9FOKhOEDnb8NvWt2KXwzVpPUJS5ZGuej814dOI3cx+dzVmYp0deQVVpYyYZfM4o+h/hxoN75/s/9lZMBcqxVNsFTSwLgzCskbsqZ10GubHnsTSGqBACYWdSZ0S0mct17veGroiKMwmpSeUFL9ccQqUa7f2A==;UgSoNWnDWuDAAM3HB7oSsA=="
 ---
 

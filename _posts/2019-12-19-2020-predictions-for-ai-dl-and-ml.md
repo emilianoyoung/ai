@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -141,15 +141,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
-    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
-    publishedDateTime: 2019-12-13T00:24:00Z
-    sourceUrl: https://finance.yahoo.com/news/deloittes-2020-tmt-predictions-forecasts-100000094.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
 
 secured: "VAAHmraRSDfDheo9vMJe9ujieoHsA9dD7civfVSbBQceBR4F2Nn78FGvrXQERmRe5gHvbDujvF+T0fdZgWHIaOeUwyhVBVP/ToF19TjY5lVN/l098bSp+oAQwWyR5iPoKVsxQrKxml885JRVh6IPx5SXonZe8q00qy9A5GAaOzNYaRh7Klw0EL0liyhhd42ArmB3uObvreM9Mee15ujvxdHTdbgOWGR8BOorHwAO613tUjHqV8rUxTtqZowZ1+S1kd7/3EsUq1MsWIdpx8RbeA==;g0Iu1c2BuNo1GFguGYU+Nw=="
 ---

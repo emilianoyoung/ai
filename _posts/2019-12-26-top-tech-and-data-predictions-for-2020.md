@@ -136,15 +136,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deloitte's 2020 TMT Predictions forecasts greater accessibility to AI via new chips at the edge"
-    excerpt: "Deloitte predicts more than 750 million edge artificial intelligence (AI) chips will be sold, with the new generation of technology bringing AI directly to the device TORONTO , Dec. 12, 2019 /CNW/ - In the 19 th edition of its Technology, Media and Telecommunications (TMT) Predictions, Deloitte projects more than 750 million edge artificial ..."
-    publishedDateTime: 2019-12-13T00:24:00Z
-    sourceUrl: https://finance.yahoo.com/news/deloittes-2020-tmt-predictions-forecasts-100000094.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
 
 secured: "8noWDaXyx+dFXMtr46Lkr8s3xYVmUxv2eHlvHuPRMmoV+tHn1YR+6j0L/Ip2zqKcHVZnU9mSxOu+3QAV9bp8yIjSgJPi9w0DJR0aajq26FqvtKMQla08sYcrmsn+4D7iJHkFX7mDmfcXcT1GiX/JHGMMYaijsVxgf0ul/tC4rGq6EJ+1hMXuj1uTtj4a/gU9Ynddvvz+BJGAdC8lA4+dt1l7CJiq2VmIMjbQeTU5LUKEUcDRKP1XfVGsb9B0nwmeCL45QTLbLdpHhiQD/LQcCA==;HawQpjiCMqPjaTdH8COwVw=="
 ---

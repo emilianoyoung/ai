@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
-excerpt: "Working with medical experts, engineers at Google Health have created an AI model that lowers false positive and false negative rates."
-publishedDateTime: 2020-01-01T18:00:16Z
-sourceUrl: https://www.msn.com/en-us/health/health-news/googles-ai-bested-doctors-in-detecting-breast-cancer-in-mammograms/ar-BBYwqtz
+excerpt: "So improving how effectively mammograms can detect abnormal growths that could be cancerous is a priority in the field. AI could play a role in accomplishing that—computer-based machine learning might help doctors to read mammograms more accurately. In a study published Jan. 1 in Nature, researchers from Google Health, and from universities ..."
+publishedDateTime: 2020-01-01T18:09:00Z
+sourceUrl: https://time.com/5754183/google-ai-mammograms-breast-cancer/
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Time on MSN.com
-  domain: msn.com
+  name: Time
+  domain: time.com
+  images:
+    - url: /assets/images/organizations/time.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.13ED98FF01885BAF58277B7F81732C38
+  - url: https://www.bing.com/th?id=ON.313AB06863D41951767466534A6470B0
     width: 700
-    height: 367
+    height: 366
     title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
 
 related:
@@ -53,6 +57,21 @@ related:
       - url: https://www.bing.com/th?id=ON.83841D8E2243EC088FDF6C0EF787B37F
         width: 700
         height: 393
+  - title: "Google develops AI to improve breast cancer screenings"
+    excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
+    publishedDateTime: 2020-01-02T00:58:00Z
+    sourceUrl: https://www.zdnet.com/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.101C4C4D0FA52335E899BF42B203973C
+        width: 700
+        height: 525
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -169,8 +188,8 @@ related:
         height: 525
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-    publishedDateTime: 2020-01-01T18:27:16Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwspg
+    publishedDateTime: 2020-01-01T23:10:00Z
+    sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
     type: article
     provider:
       name: The Guardian on MSN.com
@@ -287,6 +306,6 @@ related:
         width: 700
         height: 437
 
-secured: "cFNLaL4Jf6FhCvDc79YYrSCvmWvi6SIUtiWdIdQ4izyqeVXB6D087JV83lN4T4ouwe1NrBhZXMJGBpefCOxcDPbIrEcHkC6lHNeg4/UC9LRlwuGXQggoIECecfpWO8sx1KBlV/FMGt92jNlsz6VQivq0XWForR0/xkTnZW6W/Wzxqh58Q6e1gG5lGrLkWb5/gYQJQ9vjJ4dfRWnP4bxTvSGTNoWYqAsYUDN/KyKeMPHW7bWfpsNxYfYpK+mK4ZrwMncDga7cidz4DIALYUL+1Q==;1Dmf85begagAP9Kxe2Ywqg=="
+secured: "ollZDVVKhllab+p871TpR+VuCi9KsS4a3vYbE/QqckCXqB01YS+5OEa8nvldJ2v6IJdSRpCKYnglPsymi07/nDKiOJ/YYOQhwLdz/tivNswicZuHw2v1XjDMi3csylQs/hSYH82JNjoUe46y2kQVsrWBKRXKhjrJdFIVDkOwies/jEIcR1V+dOTprYQ12E6k7B2rZU0kgLCfXbd7+Sy9+nrKfzoTdKeKIPtyBqyBdpApg9u57E6q16bSvrJifl8+zL6137tTeXhS2dRII7eiEw==;GM20gMy0pUegZLxd4NHE4Q=="
 ---
 

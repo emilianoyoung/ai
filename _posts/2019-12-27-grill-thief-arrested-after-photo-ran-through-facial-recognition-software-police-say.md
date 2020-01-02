@@ -26,6 +26,36 @@ images:
     title: "Grill thief arrested after photo ran through facial recognition software, police say"
 
 related:
+  - title: "Police Use Face-Recognition Software as India Protests Intensify"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
+    publishedDateTime: 2019-12-28T05:22:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-28/police-use-face-recognition-software-as-india-protests-intensify
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
+        width: 700
+        height: 466
+  - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
+    excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
+    publishedDateTime: 2019-12-28T07:00:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/
+    ampUrl: https://www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/28/facial-recognition-keeping-us-safe-turning-us-big-brother-britain/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.3317A4A46B1800CB85E15D394497AACF
+        width: 700
+        height: 437
   - title: "Facial recognition software biased against Asians and black people, major US government study finds"
     excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
     publishedDateTime: 2020-01-01T22:28:00Z
@@ -41,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
         width: 700
         height: 367
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+        width: 700
+        height: 350
   - title: "Delhi Police uses facial recognition software to identify ‘habitual protesters’ and ‘rowdy elements’ at CAA-NRC protests"
     excerpt: "After the Uttar Pradesh government decided to identify protestors and seal their properties to reimburse losses, the Delhi police have resorted to using the Automated Facial Recognition System (AFRS) software to identify CAA and NRC protestors. The police used the software during various protests to screen the crowd at Prime Minister Narendra ..."
     publishedDateTime: 2019-12-29T00:05:00Z
@@ -56,6 +101,34 @@ related:
       - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
         width: 280
         height: 187
+  - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
+    publishedDateTime: 2019-12-28T11:42:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
+    ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
+        width: 700
+        height: 411
+  - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
+    excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
+    publishedDateTime: 2019-12-28T00:06:00Z
+    sourceUrl: https://in.news.yahoo.com/delhi-police-film-protests-run-234158355.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
+        width: 700
+        height: 389
 
 secured: "ArRI+A+iGQRbyzaBONsbKoT8wiWmWjIARTf+c3cqIOZV8tCFpubzMMg798In1hiz6nhfnYVz1CB4zATDeHbH7AhhCcA4PbdGioMR50IR6Hw6V8zJ8qoLjTJFkfUQp+JUqc6TT1qkCWXbr+CD63EjwLKqacAh1grtMxez67joZkv07CSdYYqoCzMiy34lGXgp7J4EI7R8z736sQvs28a6BdB1mFIAD4ekY5AD69uDZhjjLtsC0CdLamVE60QjB4DxqQR6o36Bs3OpZ5sibMdwZg==;Dz4qTkZaRPMjvLBYXxK/sg=="
 ---

@@ -55,6 +55,21 @@ related:
       - url: https://www.bing.com/th?id=ON.83841D8E2243EC088FDF6C0EF787B37F
         width: 700
         height: 393
+  - title: "Google develops AI to improve breast cancer screenings"
+    excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
+    publishedDateTime: 2020-01-02T00:58:00Z
+    sourceUrl: https://www.zdnet.com/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-develops-ai-to-improve-breast-cancer-screenings/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.101C4C4D0FA52335E899BF42B203973C
+        width: 700
+        height: 525
   - title: "Google Health’s AI identifies breast cancer in mammogram imagery with fewer false positives"
     excerpt: "Google Health today shared an AI model trained with more than 90,000 mammogram x-rays that achieve better results than human radiology experts while recognizing more of false negatives, the kind of images that look normal but contain breast cancer. Initial findings were published in Nature. The model achieves lower rates of false-positives (5.7 ..."
     publishedDateTime: 2020-01-01T18:00:00Z
@@ -85,6 +100,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE3A7C13CE9FC7B93BCE7CC986AD440
         width: 700
         height: 466
+  - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
+    excerpt: "So improving how effectively mammograms can detect abnormal growths that could be cancerous is a priority in the field. AI could play a role in accomplishing that—computer-based machine learning might help doctors to read mammograms more accurately. In a study published Jan. 1 in Nature, researchers from Google Health, and from universities ..."
+    publishedDateTime: 2020-01-01T18:09:00Z
+    sourceUrl: https://time.com/5754183/google-ai-mammograms-breast-cancer/
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.313AB06863D41951767466534A6470B0
+        width: 700
+        height: 366
   - title: "AI could monitor breast cancer"
     excerpt: "This approach would significantly reduce the workload of pathologists and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this interesting result shows the potential of Artificial Intelligence applied in cancer imaging for the detection of breast cancer tissues in ..."
     publishedDateTime: 2020-01-01T00:47:00Z
@@ -158,8 +186,8 @@ related:
         height: 525
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-    publishedDateTime: 2020-01-01T18:27:16Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwspg
+    publishedDateTime: 2020-01-01T23:10:00Z
+    sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
     type: article
     provider:
       name: The Guardian on MSN.com
@@ -208,19 +236,6 @@ related:
       - url: https://www.bing.com/th?id=ON.14BA4E501B16650CE2278CF1E7928AA3
         width: 700
         height: 393
-  - title: "Google's AI Bested Doctors in Detecting Breast Cancer in Mammograms"
-    excerpt: "Working with medical experts, engineers at Google Health have created an AI model that lowers false positive and false negative rates."
-    publishedDateTime: 2020-01-01T18:00:16Z
-    sourceUrl: https://www.msn.com/en-us/health/health-news/googles-ai-bested-doctors-in-detecting-breast-cancer-in-mammograms/ar-BBYwqtz
-    type: article
-    provider:
-      name: Time on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.13ED98FF01885BAF58277B7F81732C38
-        width: 700
-        height: 367
   - title: "International evaluation of an AI system for breast cancer screening"
     excerpt: "Here we present an artificial intelligence (AI) system that is capable of surpassing human experts in breast cancer prediction. To assess its performance in the clinical setting, we curated a large representative dataset from the UK and a large enriched dataset from the USA. We show an absolute reduction of 5.7% and 1.2% (USA and UK ..."
     publishedDateTime: 2020-01-01T18:13:00Z
