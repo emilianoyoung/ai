@@ -39,6 +39,17 @@ related:
       - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
         width: 700
         height: 393
+  - title: "How AI is making healthcare ‘more human’"
+    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
+    publishedDateTime: 2020-01-02T07:25:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 54
   - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
     excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
     publishedDateTime: 2019-12-31T02:10:00Z

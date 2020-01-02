@@ -40,6 +40,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "E7UOusYBCcs0615KvA1VFurGbt2lsntOlKsL7uiiFrYn46WkSFGv/kEhxfDtWYUbzVebe2losu8RDtwWuBxvloEXEhoeXSepIHSxqOQ8ORW9FdznZNXfirABLk0/dgkNQQFCjt4rFcZZwoNPoQYxd4UvaS5foJSXbjUFJbz7h6FIxTxnwIMQz0rv/NXWhFpf9foPpiZ7cDm4535dl61M0+2RNMvA1/IYobaFZn5ZGo/PZowJ7giuExTDnJF1yodMVLZHwC0EJuh6C4MpExcfNw==;BlkN1ETOJqIQQSTyZTttMg=="
 ---

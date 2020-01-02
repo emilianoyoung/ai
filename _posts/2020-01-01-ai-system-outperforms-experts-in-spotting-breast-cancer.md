@@ -2,20 +2,21 @@
 category: news
 title: "AI system outperforms experts in spotting breast cancer"
 excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
-publishedDateTime: 2020-01-01T23:10:00Z
-sourceUrl: https://www.msn.com/en-au/health/medical/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA
+publishedDateTime: 2020-01-01T18:00:00Z
+sourceUrl: https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+ampUrl: https://amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
@@ -39,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8564E70EFD9D0BA0124C593949414644
         width: 700
         height: 525
-  - title: "Google's AI can detect breast cancer more accurately than experts"
-    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
-    publishedDateTime: 2020-01-01T17:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
-    ampUrl: https://www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/01/googles-ai-can-detect-breast-cancer-more-accurately-than-expert/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
-        width: 700
-        height: 367
   - title: "Google develops AI to improve breast cancer screenings"
     excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
     publishedDateTime: 2020-01-02T00:58:00Z
@@ -112,6 +98,19 @@ related:
       - url: https://www.bing.com/th?id=ON.06A6D5AC1EE3487551FAF1F726FCE58C
         width: 600
         height: 300
+  - title: "Google AI model demonstrates impressive accuracy in the screening of breast cancer"
+    excerpt: "Similarly, the field of healthcare is also leveraging the power of artificial intelligence. We've had neural networks achieve remarkable accuracy in detecting brain hemorrhages and in assessing the likelihood of cardiac arrests. Now, Google has announced that it has trained an AI model that improves the screening of breast cancer (detection ..."
+    publishedDateTime: 2020-01-02T07:52:00Z
+    sourceUrl: https://www.neowin.net/news/google-ai-model-demonstrates-impressive-accuracy-in-the-screening-of-breast-cancer
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.77B6E9F6D1B685C6EA9631715410177C
+        width: 700
+        height: 394
   - title: "AI could monitor breast cancer"
     excerpt: "This approach would significantly reduce the workload of pathologists and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this interesting result shows the potential of Artificial Intelligence applied in cancer imaging for the detection of breast cancer tissues in ..."
     publishedDateTime: 2020-01-01T00:47:00Z
@@ -226,6 +225,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
+  - title: "Google's AI can detect breast cancer more accurately than experts"
+    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
+    publishedDateTime: 2020-01-01T18:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
+        width: 700
+        height: 367
   - title: "How Google Is Using AI To Improve Breast Cancer Screening"
     excerpt: "A study about the technology was put together by Alphabet’s DeepMind AI unit — which combined with Google Health several months ago. This technology could be used to help reduce errors, which is important because one in eight women is affected by breast cancer globally. The team also included researchers from Cancer Research UK Imperial ..."
     publishedDateTime: 2020-01-01T19:25:00Z
@@ -359,6 +371,6 @@ related:
         width: 500
         height: 500
 
-secured: "Ci0p6O3TyMzJgBvKGNggV4h3X1FO9wxCnREyIGrGeh9v22fJPWP9Jx8m3ld47EBi2OdaTEwz6guuycCBzyc0gu8sdGinpLTVBmX32gNJ4Sf4Dtf2bjlhY8medxmZl/E8vBM94yGXCWziOKy5EK/3bkZirIjBAfngXoBobJORs5eiI7t/K+eKfkpCQ5/fmJpWWM2DUqEpR6JAY8GHYveT+2VXAjORCw97iWIdDccG8KZalgwg7KLBDUAHdpn4Iden0mYmx/ScD+Dj2N9pq0TG4A==;sg7ovVuZBJQFAoOlGJt+Ig=="
+secured: "IMdbLGpPj0NCFOWjKZMfg5MXdr5pA0XPlU6wbLTrlW5l/+yKcpggLIHF8qiSkIHbmk7eIaOyJv+5it/3mx1WpK5jvBuUhRXp1uhfqwexe6tymsNJdKkXJaFxv4rHQLjOCK3UROlhh4X2I3+p8Yb8hzPCkzHSIijN2Oic/M3nRFZQ0SYwTxUNWPIBD3MFnj26xxB6p7RViPAP+/sD6BZ7JGraTYuXe2gYFBYdRgMw013Uk7BuWgMoBczv8xkYE8RLO8jVba+Wf1j0i5F/JT4tWw==;+Os7PJuTIETlQXoO0A8c3Q=="
 ---
 

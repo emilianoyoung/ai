@@ -56,19 +56,21 @@ related:
       - url: https://image.businessinsider.com/5a5da7eaf421491f008b4fde?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
-    publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:47:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
     type: article
     provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "DeepMind co-founder leaves for policy role at Google"
     excerpt: "The co-founder of DeepMind, the UK’s leading artificial intelligence company, is leaving to take up a role at sister company Google in the US. Mustafa Suleyman, 35, founded DeepMind with Demis Hassabis and Shane Legg in 2010 but has been on leave from ..."
     publishedDateTime: 2019-12-06T15:08:00Z
@@ -94,6 +96,6 @@ related:
         width: 580
         height: 358
 
-secured: "6ZBvsixbbP8hQHWMA/DlkIIDHlcMd41CFqXlCwW0Z31LtFlG54ag9Yml4gMGHQm64L4dghGnOElvS56USZpoIS7UU9qU2/nbUovGg7sg9WlS31b22H2UFAg4E/6w7LCXchIid9ZV3yg/R0Y58yOm6ATWEfHsPt2UOzwXEdwGVavx4w6X/xFNnd15IM2NufO3NrNh+orMIHu7m7bopTTP4eCAV9ZC5Fl/xAVrHqTesEnTZWfdHIHQSlPedVqHC2lCozX+zj2YBQpFGkghVPY20Q==;Yz6c1zTTflzkqWeZjp2KYw=="
+secured: "Bpgmm6ntH9iJcyC7Q9+Aqdy8RRo6qmKpEb3p9Tb4YkMNSxJlx1M417duUP3h/NgYeHpLfmrHZMr0mLC3YEuEDcm+0cWxLGX+PGe/zJIb0d261/5mLd8dE4gzlxIOJ9QQuXLlwiyl6aFJBTSjQ1uequ8/RXTclLoAebIVW2wbBCbZb3/nIlPdAd2h3dbateTeW/+7SFc7mGNJPnc1L/BTLK3uf1GT7c9F66SKYSv23EsFoi5JEN3JIkVGPCSNlGCwveL4CU2ly/EJ3QAQQjKl8g==;favBdWGc7slDm6UmnWs3qg=="
 ---
 

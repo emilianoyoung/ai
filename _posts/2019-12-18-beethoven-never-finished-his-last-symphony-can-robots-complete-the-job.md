@@ -8,7 +8,7 @@ ampUrl: https://www.popularmechanics.com/science/amp30266727/beethoven-last-symp
 cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp30266727/beethoven-last-symphony-artificial-intelligence/
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Beethoven Never Finished His Last Symphony. Can Robots Complete the Job?"
 
 related:
-  - title: "Artificial intelligence puts final notes on Beethoven's Tenth Symphony"
-    excerpt: "Now, a team of musicologists and programmers is racing to complete a version of the piece using artificial intelligence, ahead of the 250th anniversary of his birth next year. “The progress has been impressive, even if the computer still has a lot to learn,” said Christine Siegert, head of archives at Beethoven House in the composer’s ..."
-    publishedDateTime: 2019-12-13T06:39:00Z
-    sourceUrl: https://tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    ampUrl: https://tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.AD5E1ABB80554F324CFA69B9C715C942
-        width: 640
-        height: 480
   - title: "Artificial intelligence will be used to complete Beethoven's unfinished Tenth Symphony"
     excerpt: "Ludwig van Beethoven's unfinished Tenth Symphony will finally be completed using artificial intelligence to mark the 250th anniversary of his birth next year. A few notes scribbled in his notebook are all the German composer left of his symphony before his death in 1827. Now, a team of musicologists and programmers is racing to complete a ..."
     publishedDateTime: 2019-12-13T12:05:00Z

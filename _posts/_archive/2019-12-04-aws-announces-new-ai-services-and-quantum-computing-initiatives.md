@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T16:34:00Z
 sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,32 +17,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "AWS announces DeepComposer, a machine-learning keyboard for developers"
-    excerpt: "“AWS DeepComposer is a 32-key ... The area involved in generating creative works in artificial intelligence is called “generative AI.” In other words, it helps you teach machines to generate something creative using “generative adversarial networks.”"
-    publishedDateTime: 2019-12-02T16:15:00Z
-    sourceUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/
-    ampUrl: https://techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/02/aws-announces-deepcomposer-a-machine-learning-keyboard-for-developers/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-  - title: "AWS DeepComposer Enables Developers to Get Hands-On with Generative AI"
-    excerpt: "The AWS DeepComposer keyboard announced at AWS re:Invent 2019. The machine learning-enabled keyboard helps developers in the field of generative artificial intelligence. (Credit: Amazon Web Services) At the kickoff for AWS re:Invent, Dr. Matt Wood ..."
-    publishedDateTime: 2019-12-02T19:36:00Z
-    sourceUrl: https://newsroom.intel.com/news/aws-deepcomposer-enables-developers-get-hands-generative-ai/
-    type: article
-    provider:
-      name: newsroom.intel.com
-      domain: intel.com
-    quality: 54
-    images:
-      - url: https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2019/12/gemini-2x1.jpg
-        width: 1000
-        height: 500
-
-secured: "3iiHOvu+y6qRMuqRjplN5jEVTnZEzYep3B3RrEOqpLP8lK3TPtKeVRiAwv4cRRmyegGNxhCSLIQqbS+dilgxq3WudaNk1Du/qCJ2fGPM5kRU1LJUx49zmVfhujp67wwI2soplyREWO/lTmXxIm7QTHA4fjJ6DLufyy5/P5LmWyETfn2qUKnxG6N55tm3+btDBj6NJ/qcv61wSeR8ZVsUIaNgMkynDcfc46Sa1pVaErSWDeVd/E/+CVzuT7xV/2yGwCmmgjktX73NN9PF5R+hFA==;iYUmgKxuUbczRLsJOBISQg=="
+secured: "0XGZNX5h6DROQCVbI12OFYIrO/1n4Od3E8k3AXkaIdDFM9X0jAopW3xtrGpLcbyLZfJZGhNXqKf1hoLtnVQHSsAfV/ktv1dxcwDTHwoUCVC3jOD19TLRwRvDeomURLcsEurEh9gYN/MUdmIZtJMpiNjeepYYYigjIHo30uLwvhL7hz7DC8s6/VCjxGHCC0pxWi1X+qKb5N/xkwAKsEI303DrhuZUOZ5V50h2z52ZlVXC/YWyh5DaFJXTQ8uxIcuDQJSYv3zoXeqp/7x8tTcQtw==;hhscK8sC6XJMXzysCJlX+w=="
 ---
 

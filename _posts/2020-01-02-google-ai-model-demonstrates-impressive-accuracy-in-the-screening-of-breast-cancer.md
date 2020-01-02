@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Artificial Intelligence system better than doctors at spotting breast cancer, study says"
-excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital. The team trained the system to identify breast cancers on more than 76,000 women in the UK and over 15,000 women in the US. They then compared the system's performance with the actual results ..."
-publishedDateTime: 2020-01-02T03:04:00Z
-sourceUrl: https://uk.news.yahoo.com/artificial-intelligence-system-better-doctors-spotting-breast-cancer-024500102.html
+title: "Google AI model demonstrates impressive accuracy in the screening of breast cancer"
+excerpt: "Similarly, the field of healthcare is also leveraging the power of artificial intelligence. We've had neural networks achieve remarkable accuracy in detecting brain hemorrhages and in assessing the likelihood of cardiac arrests. Now, Google has announced that it has trained an AI model that improves the screening of breast cancer (detection ..."
+publishedDateTime: 2020-01-02T07:52:00Z
+sourceUrl: https://www.neowin.net/news/google-ai-model-demonstrates-impressive-accuracy-in-the-screening-of-breast-cancer
 type: article
-quality: 30
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Neowin
+  domain: neowin.net
+  images:
+    - url: /assets/images/organizations/neowin.net-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Google AI
+  - Machine Learning
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-    width: 500
-    height: 500
-    title: "Artificial Intelligence system better than doctors at spotting breast cancer, study says"
+  - url: https://www.bing.com/th?id=ON.77B6E9F6D1B685C6EA9631715410177C
+    width: 700
+    height: 394
+    title: "Google AI model demonstrates impressive accuracy in the screening of breast cancer"
 
 related:
   - title: "Google Health's AI can spot breast cancer missed by human eyes"
@@ -97,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.06A6D5AC1EE3487551FAF1F726FCE58C
         width: 600
         height: 300
-  - title: "Google AI model demonstrates impressive accuracy in the screening of breast cancer"
-    excerpt: "Similarly, the field of healthcare is also leveraging the power of artificial intelligence. We've had neural networks achieve remarkable accuracy in detecting brain hemorrhages and in assessing the likelihood of cardiac arrests. Now, Google has announced that it has trained an AI model that improves the screening of breast cancer (detection ..."
-    publishedDateTime: 2020-01-02T07:52:00Z
-    sourceUrl: https://www.neowin.net/news/google-ai-model-demonstrates-impressive-accuracy-in-the-screening-of-breast-cancer
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 63
-    images:
-      - url: https://www.bing.com/th?id=ON.77B6E9F6D1B685C6EA9631715410177C
-        width: 700
-        height: 394
   - title: "AI could monitor breast cancer"
     excerpt: "This approach would significantly reduce the workload of pathologists and improve the management decisions on whether or not to administer therapy, perform a surgical intervention, etc. Overall, then, this interesting result shows the potential of Artificial Intelligence applied in cancer imaging for the detection of breast cancer tissues in ..."
     publishedDateTime: 2020-01-01T00:47:00Z
@@ -371,7 +362,20 @@ related:
       - url: https://www.bing.com/th?id=ON.11DDE710EA7D48FB01638CB05C23A7BB
         width: 700
         height: 437
+  - title: "Artificial Intelligence system better than doctors at spotting breast cancer, study says"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital. The team trained the system to identify breast cancers on more than 76,000 women in the UK and over 15,000 women in the US. They then compared the system's performance with the actual results ..."
+    publishedDateTime: 2020-01-02T03:04:00Z
+    sourceUrl: https://uk.news.yahoo.com/artificial-intelligence-system-better-doctors-spotting-breast-cancer-024500102.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 30
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
-secured: "qjinZEbwe9A9WJTKl72AOGSdIiqyqFZB0Ol6oncKdubpMDCnq7z0NGERCItgIV/b3Qi4pVXk7YtDX0oIS83Te8QYCvLAe19XV8L/Mil6wMNdar2q4aONPgVxa4flxWKQ4KaFQhdFtq7q3Lf+HjO1dbbSGPfyS8+9jUuCe8M6Kej54nhBEgosDaUoFvaYCkF5MCBTTzDtVJu470akBIr9wCZZ4iGa+fwFawSoj/Wkptd2XZwt+2sGGtTePzSWHI/TB0yjxG0fnHEuvUfQY8/Rkw==;9XcK8h+vMhbzizVC7Me4JQ=="
+secured: "soP24Lj5QnzOpzPP4S5Lq92WBCVb/Q2D67AeBw6BpyhDzoOXV/1wg9xCiZAsEoLkI3IAKtEzc4VNMuXnrS5Yp3mJnb3KTBKsp/A64DTDT4m2DpTLVobL0o+atT38kaKcIp/zZl/59se9FHgr2XIs0iOCEz1aB9boqujYER0UH9BVfirNeLdt4iqoxkXr0u+Z7gGNctD14LL60Y7RKKGZfSJXQRjmYRnVRTZZHmAnJfOwdX6YPx+4W4Q5l7/30o09s0K/EhlQ7bVdpjwG4pTZNQ==;8r0hpCopjyQM9o8ouNHPvA=="
 ---
 

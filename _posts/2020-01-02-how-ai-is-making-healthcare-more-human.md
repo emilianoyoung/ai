@@ -1,42 +1,40 @@
 ---
 category: news
-title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
-excerpt: "And thanks to artificial intelligence and pervasive technology ... As data science makes it easier to identify people at risk of disease, healthcare AI is surging. Deep learning techniques are helping doctors spot the early signs of Alzheimer’s, eye disease and major cancers. And they’re accelerating the detection of advanced kidney ..."
-publishedDateTime: 2020-01-01T15:28:00Z
-sourceUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/
-ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
-cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
+title: "How AI is making healthcare ‘more human’"
+excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
+publishedDateTime: 2020-01-02T07:25:00Z
+sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
+ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
+cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
 type: article
-quality: 59
-heat: 99
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Adweek
-  domain: adweek.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
-    width: 700
-    height: 393
-    title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
-
 related:
-  - title: "How AI is making healthcare ‘more human’"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
-    publishedDateTime: 2020-01-02T07:25:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
+  - title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
+    excerpt: "And thanks to artificial intelligence and pervasive technology ... As data science makes it easier to identify people at risk of disease, healthcare AI is surging. Deep learning techniques are helping doctors spot the early signs of Alzheimer’s, eye disease and major cancers. And they’re accelerating the detection of advanced kidney ..."
+    publishedDateTime: 2020-01-01T15:28:00Z
+    sourceUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/
+    ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
+    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
+        width: 700
+        height: 393
   - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
     excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
     publishedDateTime: 2019-12-31T02:10:00Z
@@ -75,6 +73,6 @@ related:
         width: 1903
         height: 836
 
-secured: "I9NVs1Zr8nhARzg3CRIIjGp0XGS+uR+cbT2xP2Ts5eR/wANXH8RB09c0qfSjXBFbF4zYDXWUq7koUq1DoyfbtsG8BQqLjmgS3yD/JUPRwJccUFBRy2Ooe5cDGlk/J9r97ipYSKJAyw2hZSotxaOgT4U93eTWMV0zHuNEgGQWTA3nd/F5AYU5kiH/6rQurVX7q4+9K3HyD4iYp153r8Un9jk5e4dI14V1PmWpM1aW2DUSvq8nP32RqbnKS/51Ni40f7r01L1z9i8xjtIyNhyhBQ==;9RUyde2SnpNWt8nuPrYNEQ=="
+secured: "afCGG34GGGBBfBHUIyb3I00y5ys/RT+NVfBz+g3SXnP7nhX5Vep5Zfy0R0vKaIquoRAcLNyjhi07cZYi91MXNU4G/6zyYmVdiZYzLe+9yazSURR1rgyxB9j/KdE/9pfwrLFaQb+zDV06/RMtO7OhIjOX9y3cml822EJWH9y/rbrNeuydj5g4exlCGeMY1vDrgPyrUTBZCHmGAvLK8fDJkblYPSF6ZhQ/i7LXujW6SNptBdatZTIuhIqnpnOKpHjEq4Z7qiu/FXSaj2uFLxxfTg==;pT/68d0+QWbxod3VAq1dMQ=="
 ---
 

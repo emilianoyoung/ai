@@ -61,19 +61,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/10/google-796x417-796x417.jpg
         width: 796
         height: 417
-  - title: "DeepMind Co-Founder Leaves to Join Owner Google in New Role"
-    excerpt: "(Bloomberg) -- The co-founder of DeepMind, the high-profile artificial intelligence lab, is set to move to the U.S. to take up a role at parent company Google. Mustafa Suleyman, who ran DeepMind’s “applied” division, was placed on leave in August ..."
-    publishedDateTime: 2019-12-05T17:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/deepmind-co-founder-leaves-join-170000178.html
+  - title: "DeepMind co-founder Mustafa Suleyman switches to Google"
+    excerpt: "Mustafa Suleyman, co-founder of British artificial-intelligence firm DeepMind, has announced that he is joining Google. He had previously said he was taking time off from DeepMind. Mr Suleyman helped develop Streams, a controversial health app which ..."
+    publishedDateTime: 2019-12-05T18:47:00Z
+    sourceUrl: https://www.bbc.co.uk/news/technology-50679791
+    ampUrl: https://www.bbc.co.uk/news/amp/technology-50679791
+    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50679791
     type: article
     provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 39
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
+      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/1061B/production/_108399076_gettyimages-627782606.jpg
+        width: 1024
+        height: 576
   - title: "DeepMind co-founder Mustafa Suleyman is moving to Google"
     excerpt: "DEEPMIND CO-FOUNDER Mustafa Suleyman has left the AI lab to take a role at its parent company Google. Suleyman announced over the summer that he was taking open-ended leave from DeepMind, fuelling speculation of a rift. However, he has emerged, seemingly ..."
     publishedDateTime: 2019-12-06T10:24:00Z
@@ -88,6 +90,6 @@ related:
         width: 580
         height: 358
 
-secured: "DdCA8cABYY6b81KUlCaQhZJ9Lm9AAShc8cQgSDzVwvVMDUVLQEh5P+ws2W/xXylrcitQlwNf8/0wtgUiN9Y+cgsHWQAGvNL8Us6nDvv8F74eom4fPjvrvFhgD5s5t7eWCLlOIJimQzMd8i2sYM6P1n+mHUbpdt05Jz+YzeK+f74vHFnZXFxmClvvvD/HtcOVuAlzERJd0bOMQ4l8SAkonvUZRBbJaDRvTS1xk32HXa1mxX1b5qhLKa8DKsddIgdv6UyhKXtE1p8vSvRIVDnGTQ==;9xA5PAtytcp9UfzAFyjLLg=="
+secured: "R+t0/Emei+dkwRPn3k/kOi5lQclBrVsYoT1PYcK+IcPnR0bKhci/zivc2mH6/yeLZgVTdYTHLirWPbdoDk0kVHSPlMPRhBH4MaCcf5X7cv9gtul8PtlxuSpsbQLs9HoR6RTeOzt4Tw/tt4JffMHaik9nR5ITzLKWSXGr3YDoi+Wx9hNpSPcTrx+vdbZwX98UdUREP2vAUjCdc8hCcpDaY4RGJQLQONoH5TO5lH2S/1YfQyN7EKHHximffXVv7dOQHzaNgor/o9zdF30prt+0vA==;/VgsemtbsutHTvg9vP7rBg=="
 ---
 

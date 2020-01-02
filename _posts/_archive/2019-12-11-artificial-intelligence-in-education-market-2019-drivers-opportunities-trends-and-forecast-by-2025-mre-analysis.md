@@ -80,19 +80,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Chipset Market Technology Innovations and Future Prospects 2019 to 2025"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence (AI) Chipset Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence (AI) Chipset Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different ..."
-    publishedDateTime: 2019-12-13T07:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-technology-innovations-and-future-prospects-2019-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
     excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
     publishedDateTime: 2019-12-16T14:05:00Z
@@ -132,19 +119,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
         width: 680
         height: 350
-  - title: "Artificial Intelligence Market Ongoing Trends, Driving Factors, Opportunities and Forecast to 2025"
-    excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- Global Artificial Intelligence Market Size, Status and Forecast 2019-2025 The report titled \"Artificial Intelligence Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such ..."
-    publishedDateTime: 2019-12-13T07:10:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-ongoing-trends-driving-factors-opportunities-and-forecast-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Oil And Gas Market 2019 Disclosing Latest Trend and Advancement Outlook 2025"
     excerpt: "Dec 13, 2019 (Market Insight Reports via COMTEX) -- The Artificial Intelligence In Oil And Gas Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence In Oil And Gas Market\". The report provides ..."
     publishedDateTime: 2019-12-13T17:48:00Z
@@ -210,19 +184,6 @@ related:
       - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
         width: 1024
         height: 567
-  - title: "Gesture Recognition and Touchless Sensing Market key Insights Based On Product Type, End-use and Regional Demand Till 2025"
-    excerpt: "Gesture recognition and touchless sensing involves a combination of both language technology as well as computer science in order to interpret face or hand gestures. These gestures are then converted to commands and therefore an individual using gesture ..."
-    publishedDateTime: 2019-12-13T06:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-key-insights-based-on-product-type-end-use-and-regional-demand-till-2025-2019-12-13?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
     excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
     publishedDateTime: 2019-12-19T05:21:00Z
@@ -294,6 +255,6 @@ related:
       domain: openpr.com
     quality: 7
 
-secured: "sjltstMcQ6MxPhk2BrdfuYzhQlNn5sQncV1njHHkNekRsCvL1i9SqZW0uY8M1A4+EbwH9vhSwxCbVRKfr2hsy7NQ2aSy9ZKlME78OFPK0VqppyaELRR8KA11FZJXZeXjgP6rpohipzGvu6+29Z4medPWpWUYX1uNGj8C9RivC0CWr2fk8T5mwmWW17n5L51OHRc9Lj6DZYUd8gCCcMDCbeK6Joe7HqSFqjiT80LPfsGD/+hvl5BuMJagpkRDPjcEMKj6k0E5C34GSs3dfOhdhA==;R5zAIkoSmAp4eWZ2bct+PA=="
+secured: "BT7FWLJtVKifoU2wLbXTBhlCWOznl6o9MtSohdPcgAy53/MzHWH/nkLVBzPi7TJ45szhdk7eIXd0DEmaXeTy7etP7Xf76yhrBj+lElBJH/5Sd3tmJkZ0oK64c1XCwG0l1Y3K+fJC58p9N22G3jOYk7G7pzQ4aBRAb7bCp7+laEgYsocLLP7gfDifUwkQUIXwX6ylBdhfyix75N4rtIB4Pqm556bi1IjPAnvLYyZfaGaLeBpvYJHx2KL2GeXE6V1HYenQ1BaC1Nr6j5vwn+Ddvg==;+yZxP9dzimv1ZugkmIm9LA=="
 ---
 

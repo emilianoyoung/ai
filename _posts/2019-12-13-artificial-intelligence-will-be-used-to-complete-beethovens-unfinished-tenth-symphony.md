@@ -40,21 +40,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beethovenrobot-1576687849.jpg?crop=1xw:1xh;center,top&amp;resize=1200:*
         width: 2000
         height: 1000
-  - title: "Artificial intelligence puts final notes on Beethoven's Tenth Symphony"
-    excerpt: "Now, a team of musicologists and programmers is racing to complete a version of the piece using artificial intelligence, ahead of the 250th anniversary of his birth next year. “The progress has been impressive, even if the computer still has a lot to learn,” said Christine Siegert, head of archives at Beethoven House in the composer’s ..."
-    publishedDateTime: 2019-12-13T06:39:00Z
-    sourceUrl: https://tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    ampUrl: https://tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    cdnAmpUrl: https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2116923/8-artificial-intelligence-puts-final-notes-beethovens-tenth-symphony/
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.AD5E1ABB80554F324CFA69B9C715C942
-        width: 640
-        height: 480
   - title: "Artificial intelligence to complete Beethoven's unfinished symphony"
     excerpt: "In the run-up to Ludwig van Beethoven's 250th birthday, a team of musicologists and programmers is using artificial intelligence to complete the composer's unfinished tenth symphony, Euronews reported. The piece was started by Beethoven alongside his famous ninth, which includes the well-known Ode To Joy. But by the time the German composer ..."
     publishedDateTime: 2019-12-18T06:49:00Z

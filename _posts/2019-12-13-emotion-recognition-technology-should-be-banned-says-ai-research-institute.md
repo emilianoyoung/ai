@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-13T12:16:00Z
 sourceUrl: https://www.technologyreview.com/f/614932/emotion-recognition-technology-should-be-banned-says-ai-research-institute/
 type: article
 quality: 135
-heat: 245
+heat: 235
 published: true
 
 provider:
@@ -79,19 +79,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB1922B97943C9D6D1A5E784205E700
         width: 700
         height: 445
-  - title: "Gesture Recognition Market Technology Growth, Developments and Scope 2019"
-    excerpt: "The development of artificial intelligence (AI) has given rise to the gesture of recognition-based devices. Douwe Egberts has come up with an innovative machine, which was placed at the Tambo International Airport, to detect travelers who yawned or looked sleepy and dispense free cups of coffee. The company was able to take benefit of face ..."
-    publishedDateTime: 2019-12-13T06:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-market-technology-growth-developments-and-scope-2019-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI research and big tech"
     excerpt: "John Thornhill talks to David Barber, director of the UCL Centre for Artificial Intelligence in London, about how academic researchers can work with business and the wider community to create the best outcomes for society."
     publishedDateTime: 2019-12-16T15:03:00Z
