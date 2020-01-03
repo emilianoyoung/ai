@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 86
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -65,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
-    publishedDateTime: 2019-12-03T09:16:00Z
-    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
-        width: 700
-        height: 466
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -94,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "0iHnrWJ6JLolwpINtGdymmFjfCaIV1u1fsr1jYldSkIpSGAs4BKy1IqtDmC12g8tiV+UHUrWYCJTO0ZlM5hC85kJYUDHpOeeLBtl0OBCgcwGIwKSRWymGK6cTPh5yUbTp77/Gp6tn1NfG1dto5me8X3PFLIvTYWUAf0mPkWKOgQf0ixz4vUUMrvDf0MjqklBeAAwnGCdN31GBf/GqbdW6ltDCQW0wUm7OTq/qgjQvGT+OKffC5L88XmThRpcGLWT46hJa/IuGtKpHA5eMXvm7w==;L+smL5yYN8CuSLMg+JsQPw=="
+secured: "0oq6gCcvw01exKjg0AjEmD9BE4QYWLJ7aHgmHuMvExTdQ7KJs/HtxgC8lKuQxV0mv+KeOpjbSM+9EV5hrOiXoq4NpaQ3Ou+9dPeEJnk/gOOP+FJv0xnMG783I2k5M8kgpguilzOln0xHCnh0qs52RsGNfpAeKBRZOQJWGN+v5VXnXnEzrS0qUJUbxfb0GZM/3xIqhW3ws8QL3EP8X9N7JEabLpQUpNjapOs9rYFpOa4fh7Ew18CSJtCqDi8aYO80pj0fv1J/rMqOoVxblLS5jQ==;R5d92qwKpwTN7zYyjGjblQ=="
 ---
 

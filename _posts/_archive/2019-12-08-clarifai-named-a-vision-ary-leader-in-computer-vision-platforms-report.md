@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-08T05:18:00Z
 sourceUrl: https://www.newkerala.com/news/read/260994/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report.html
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: New Kerala
@@ -23,21 +23,6 @@ images:
     height: 454
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
-related:
-  - title: "Clarifai Named a \"Vision-ary\" Leader in Computer Vision Platforms report"
-    excerpt: "NEW YORK, Dec. 3, 2019 /PRNewswire/ -- Clarifai was named as a leader in The Forrester New Wave TM: Computer Vision Platforms, Q4 2019 report. The company is focused on driving business solutions for commercial and public sector clients using machine ..."
-    publishedDateTime: 2019-12-03T15:19:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/clarifai-named-a-vision-ary-leader-in-computer-vision-platforms-report-816960340.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 53
-    images:
-      - url: https://mma.prnewswire.com/media/1036785/Clarifai_Logo.jpg?p=facebook
-        width: 700
-        height: 366
-
-secured: "keJtmcYwwCvB0YiS5aCjLohSfyN6QEgdMWmU0HQbDshEmDOcNLIo+GGtaJcbzzgcN+35Jx5H1Fl/liyKHX64TPpfrr8VkcybxbpONgz6W8JY5uE7YNATlwgMD51u1sTpwEYHyrhd51gRCtbiApk3Hgxhc5mjm965PjyF+ynezI35Af6+a/+p5Ppq91LcNUU3uD8eMSHYmdd0m9kCw5Y++ZMtr6PjPp4lV1vumy4ISEK41HZN1teNMnczXjW2EcVOy2CILwbLyqJHidCi82brPQ==;RJGmOMaQpsDQnd44EwiJsQ=="
+secured: "UfcPKPkSBM/a+KCJYBeyahMggswyJuZrvyF/NpBJo3tyzSvR7Zhpy7Gbr52dFINWeMsVvUJBz+HwxtAhpNz2YXA3+KAORiGsqyq4bmgZ1akqlN+uwnrYd+RMAgPDEDm1JCT8LhO0DpXnsehIhFLBuhhzaeflgHzPjE9hX9uF/aAz5zVk99nRej54o4nca2lyYU/SKlpsQCKufc4LXt/IEzXL5oITZ1gtlE0eDYwCslIGtrMEtF8WXt3ehUajXJYiDGWyTitG5XnI5mNSj4XOuQ==;yRP6W+qY/l8mL1Z0FyDJHg=="
 ---
 

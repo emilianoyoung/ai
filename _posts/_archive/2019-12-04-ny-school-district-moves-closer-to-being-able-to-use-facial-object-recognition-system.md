@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-04T22:24:00Z
 sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     height: 800
     title: "N.Y. school district moves closer to being able to use facial, object recognition system"
 
-related:
-  - title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
-    excerpt: "“Amazon claims that its system can be used to train an AI to detect an object using as few as 1- images, as opposed to the hundreds or thousands that are usually required for object recognition.” Amazon has announced a new machine learning capability ..."
-    publishedDateTime: 2019-12-03T00:00:00Z
-    sourceUrl: https://findbiometrics.com/amazons-rekognition-gets-new-ml-capability-for-object-recognition-612031/
-    type: article
-    provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 41
-    images:
-      - url: https://findbiometrics.com/wp-content/uploads/61769640_thumbnail-3-e1457541721182-1024x645.jpg
-        width: 1024
-        height: 645
-
-secured: "7F7VuciSdPSwrlPQB/ICZNZL8Pb/U9f/fKijPEM4JMP5PdfXZi8W7xotTIbfL/Yr1RXDjc3Y3E1FKG0WPaOYp0PP/xXgwQvg4TmCscJQwydGWsgZMyv/PwPw+mUHH96ZLRiWPNTEjM7nJeHPvqohmeq5aFHfYb7Z/wCtdHnM+0a26NWKbqhKRrn3Q+vduxJG00B3RpJXWgafhuzN5EEtg68QDk5cOhWHG4aHysLaEA8ev31loOgH3zmHlYSTu6UAfirCv7E2W6x02bh0irg0OA==;aoaajsVsRN8k8vu3Lq7JKA=="
+secured: "62RpMjyt6fpUS0i42iahT+0wb3wcQCG8p6vpJcbrvawh2gSBMKyb/nexurlYaXnarPBa6eFth7vlGGINadlXiMepu5lQBvnpXCaGAxPIHVelV8gpLGaPMd5xuKalIru/LdwYanSh1lHb8kkA4UjbxL0S5sLzLVIAsjYopy4eBt8a7a+RTuUx58LcIDZpe43CI/sn94CLr/wuaAPUKur9g9WBOZsRL4wf+NuBgX6xV9OsZ/CBwUEa0+fZc6Jlt3uvjBb8Tai2IoLGlpNanA7oBA==;hvByQKebEtCbzMpmaOFJhw=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
-excerpt: "And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting ... more than 100,000 trips have already been taken on Alphabet’s Waymo One, its commercial self-driving ride-hailing service, since it was launched ..."
+excerpt: "From Batman to Transformers, self-driving cars have long captured the popular imagination. And China, where the pervasive use of artificial intelligence (AI) technologies extends from sorting rubbish to traffic control , is a natural testing ground for ..."
 publishedDateTime: 2019-12-07T22:00:00Z
 sourceUrl: https://www.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
 ampUrl: https://amp.scmp.com/tech/start-ups/article/3040896/we-tried-out-self-driving-robotaxi-china-it-was-very-considerate
@@ -25,6 +25,6 @@ images:
     height: 630
     title: "We tried out a self-driving robotaxi in China – it was a very ‘considerate’ ride"
 
-secured: "bA3E1DyNBdoD5BXnp/yQxCv7QYJpnjXXQnOG6ZNVgHKsAndrLiXh6TpIG2gDTSVztOiiU9dDL+bAPqwy0aVvOQ+vM6+C8cFjmVby9n6NypbFTVu6tj5ROIhzjfJvevKn0aXOk37rANEjTqYhi/DpT/hwfvqyTnBnysuEbaVj/OjCFq0nizGdFxq1gWSwWJ/xTPlNSfN/9bkuqFHtDbu8E2jGrNrZstGoZ7KkIDn9mzpGl/qptdcNacbtdtuaO14bkOo8aFFKic5XbXB1keGyjQ==;p52fLt9ZLGxIoeApT4XrUA=="
+secured: "eXgPtFODPvIjWBUhKsDMGKfK3kW+17H6U7tfbUEVIjkC1Gt8cEV5bJSZRZBPi5mZMuQA6MKs4Eq6qkxolTL/I4D9LVN9QSZnRtUWIRJBEj/EembfMjJB5tOOq8Gb+qwQy82dFCjD42ZOiVjYIppkg6RotQkxySRvDmFs+4x672KFjQRwGR8tyBGR6CNXJRVUHWn6+WwPM+KDoTVsOoQEfJj6q1pKsS6n5q2hkxXcltuK3jGIqXCoCsc1lkFeoBy9t8N25xzdGneVxkqsj0H/GQ==;eD1YjzuSC/IETI6ceXdHuw=="
 ---
 

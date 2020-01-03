@@ -50,17 +50,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 86
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
     publishedDateTime: 2019-12-04T20:48:00Z
@@ -74,22 +63,7 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
-  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
-    publishedDateTime: 2019-12-03T09:16:00Z
-    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
-        width: 700
-        height: 466
 
-secured: "jt2cekuYTQbcHeleNKFx07z0Ep4RTCqkLjVeqL7HvMrpMt+/iW2C6+iw1ni3U+oE7ID2fMuz/9A+0fD7j1rY0HpPK/N81dYUCR2X9CJYba0vh5c/GB3SmGJD0UEqbhWawl1uWoJ/Gz+8uCJ+u1Axu9Z7as/Yg/aY2AR3GwwIHb6rcsj8KHNaCqcIlEFovVD7NFqRLSJYR62MeCipvj1VOkHc9tYigkA+hP4GGvLIZvc6lNb5JVE6yI7LGuieJ6acAJq3kRPqmnLajrtlr8ddaw==;JudQJ2A/RC4Ium/qL0CKDg=="
+secured: "jXlK/QtMx51eD3g9xn9rN3VE935uUbImWkXrJHJ1xH/pmzSPhUKckwnMa0sd00TQchWfSbt3e8zUo6CeOaT5TDjrbFlvhdbYQRKmaiIaAhPjmxJFS9T/1JXGQWaZH6kh4hl0t5A5Sy+ainqu+xzdVa7MkF8VuNUXMPIqE8IEarDd1JJG2AINVYMM+i0yLU9REvF/FeFa0Svx3dcRzqdlsg1pmjqVRs9rIPMF1MVmoAGiu+dvkbTSHsFVkdDbQ/+899ZrpdP8Bi0CT24x8wlygQ==;m7WXbfmLTLsjtmPv6zVkuw=="
 ---
 

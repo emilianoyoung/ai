@@ -54,32 +54,6 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 86
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
-    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is “relatively unpredictable” as compared with traditional markets. Sagar prefaced his demonstration by noting that while machine learning has achieved some ..."
-    publishedDateTime: 2019-12-03T09:16:00Z
-    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
-    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
-        width: 700
-        height: 466
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -94,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "tuFPVe9cfUAB0ud73tpta/HWhVl4bsS3DRhhG18GqphsvTkdncblPzqPKLstllLGXwp5WJI4KMJ3GCKA4KTIJCHJrbeaocn/Kp/Qqbjr4eAPuTmpbu2rSLZyVVo8505Q0MoGX3TkOjek6ukYoOHDLPLaXdh6NjA4ZcMjlqcGj7tz319HtO1xzjKrzhmtwKSIvYLn5nH1cR0qectxNQN6n9FcXIjxiAy11u5ePVR/kWXS88K/Y+jbX0yksR0CmXLKUU0G3nqLTK3fYF0VyVlgCw==;OxX38i4su4OZQC0+Uz2YIQ=="
+secured: "yxkNtoasySDQUjCOdiDFKxZb9P5ZyCYI1/mRbs7ltwncaePShKuZFrwuzH7yeHgrJX0o1odfRgAFpVDlbcLNe3zbBVXoiismdt+ffCQX3zs39/EiR3JEEim8HsoJcG0RhFBeGVkOsgV3vJyT8Bh0s0okiGxqrBh4ZXyqLnjbvwT98gvlsqh7w6INpEluWp9t+8Nij8yG7QsDsMW4mO5s76JcI1SnsTirCw2AEGRd2bdgyOTFdkgdbi0vAOSBXUeqxvNElhX/Fx9oc6UrcieNtQ==;HndEA0omYLV6h+WQi9NJmw=="
 ---
 
