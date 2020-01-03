@@ -64,17 +64,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 1
-  - title: "Global Voice Picking Solution Market Report 2019-2025 - Market Size is Expected to Reach $2.9 Billion - ResearchAndMarkets.com"
-    excerpt: "The pickers speak into the microphone to confirm their work. The voice picking application requires speech recognition software that understands and interprets the spoken response of the order picker. The industry is witnessing an increase in the adoption of voice-directed warehousing systems to improve employee productivity and warehouse ..."
-    publishedDateTime: 2019-12-14T00:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-voice-picking-solution-market-132400409.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-voice-picking-solution-market-132400409.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "FcR/WCkl9dGH1xHBXC0vbpFTqT5Zq5HLYvAKNi93QaqjGMwRijaV2qlWvCXt0jjgExMmyiHD9vuSXCYqmjTh06LffX2rGSNeom5I03x0dxumQAILbG7xpRhtiSliLzira5Qw/O/WM4Tx6a3z8QrqJVSMCluvjsRcp9Jbp/g2lJcgOb/YO17wyS7//glJ8BXmx3t9ntgStPhm3gecR4CIR6rA1RHb51XMrW5sgVLFc2ganurdQHhQv49xrfoRqLDRcFQI0XSPMRTyxa1JkGYmWA==;JwXsM8NDuSzlN5EYqI6I3Q=="
 ---

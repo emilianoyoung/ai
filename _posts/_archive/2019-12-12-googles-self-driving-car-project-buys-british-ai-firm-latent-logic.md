@@ -33,20 +33,7 @@ related:
       - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
         width: 718
         height: 400
-  - title: "Waymo enters the UK with acquisition of self-driving AI startup Latent Logic"
-    excerpt: "Google's parent company, Alphabet, has been pushing the self-driving car industry forward through its subsidiary Waymo. To date, the company has operated primarily within the US, but a recent acquisition demonstrates its interest in expanding internationally as well. As reported by The Guardian, Waymo has bought the UK-based AI company Latent ..."
-    publishedDateTime: 2019-12-14T00:14:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-13-waymo-uk-latent-logic.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.97EC4F7CE25DE08FDE4E59F662759648
-        width: 700
-        height: 388
 
-secured: "rdktBrfD4atRpw6GhCnAb5Z4e29FjMObO/44gmGicshz3cpMuXer/WjCc+9qCcFB8pFjMRqeV+0Nb7K/rx+8Yh+o9oUDOEwwit/Z3uS2NBdp3yk9RlKDf6S/Qkl20BY2yhr8NHANLr+tDHcCC/XXb+H5L17IUZNSXSTlr3Ydnf6J13cxNk2hh1w3H/4raXUSlTsuHWmcOhlkVh7BkxIlCfc/qBgHH8XVyTHQ6TXL7jNMeFaXrm8IqT+qHU1iY0PZJIu83Fob7OaE1nG6wp73Tw==;3h5v+r5ea1J9BVXQGYcNKA=="
+secured: "35jsM4gLgupAvwi7VE/V3j4nh7H3dBzNBz9rF/7Q0kkBvWVXqmLAZ7C3JHGx+8dmS+DVMEOpHw4YmceL5DOCCAYHYRz/PZKZ40execb29rYjFzi0x7s80Yng1TbhZfi38PnXbIehb5tp176gZr0eWBfE/Yfd20RoHlAzdBRNhsSfx4UZRMjSffJrwosjLbOOoOCoLa1gckcfRqeCw9Rl8lu1LrfU3RpgYkZkvty7RoNXzatG+vYbQrMQNG2yv5QoFWVGAhXlayCmT/rVLKMOmQ==;qLAD/gPj4xHlNBF1P2Sf5g=="
 ---
 

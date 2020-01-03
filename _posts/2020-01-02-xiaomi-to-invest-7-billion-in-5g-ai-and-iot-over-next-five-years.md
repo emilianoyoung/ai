@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10DY
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10DY
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     height: 470
     title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
 
-secured: "AKkigHQY81y+D847dH1qNssF4kg4EI95yL7lSI1qiwWe95qRf57//ff//ruBw0yV7gFfiA6jghfvFPkM0P1nWwrocD/fINN1q0XIkcj0WKmMYdvdGzofgBaJeky0zVnnamgVmfYogug1QGM8eCz0I3aGozifgkC7BdaCAyazQ+ptWXA3p59/A02U3DuIHC1m92ETUM/QUrZWXVatUiVqn3MMXcWuvJK3wkuKYX9S8n2yrAqiPQV/ls+xNFcySaNEafYOnjmwdQiC4kE3oWbDEw==;HcN9PLiC4z25yGbL30JaBw=="
+related:
+  - title: "Xiaomi to invest $7.2 billion in 5G, AI, and IoT over five years"
+    excerpt: "Chinese smartphone vendor Xiaomi will invest at least 50 billion yuan ($7.2 billion) on 5G, artificial intelligence (AI), and Internet of Things (IoT) over the next five years as the budget phone maker is trying hard to maintain healthy business growth in the face of challenging smartphone sales. 2020 will be the year of breakthroughs for ..."
+    publishedDateTime: 2020-01-03T01:16:00Z
+    sourceUrl: https://www.zdnet.com/article/xiaomi-to-invest-us7-2-billion-on-5g-ai-and-iot-for-coming-five-years/
+    ampUrl: https://www.zdnet.com/google-amp/article/xiaomi-to-invest-us7-2-billion-on-5g-ai-and-iot-for-coming-five-years/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/xiaomi-to-invest-us7-2-billion-on-5g-ai-and-iot-for-coming-five-years/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.8EF0FA1358FD28FE41933CFB2B5C5FC5
+        width: 700
+        height: 525
+
+secured: "tdBxEe4tOKuzafDpMVpSurG9QV6hmy0YqwqGzqpPlMyuAVnDD/qzHdUq76jm/YPyRW3cBopfC2EX62h5dbDEFmrVqJaZfIApdhO9UiTptjJFGnwvaDQ/k7N2HTVKvm9ZkAWMYTI8L9v328IS4bDz6mep9i1ssCYjJWWWRfgDH1MFFczxLZ/BPc0tOv5w6qAiEHOQJ2yryLX6sM3Nb6LoKTtSG3hpHa+nF3Ro/AKCRzqMY/DyiXDgbX0IBuxkyPK0NOqv4YuPV+migGGUVvSyjg==;BTXsPQXSgUNi44hM/8OiCQ=="
 ---
 

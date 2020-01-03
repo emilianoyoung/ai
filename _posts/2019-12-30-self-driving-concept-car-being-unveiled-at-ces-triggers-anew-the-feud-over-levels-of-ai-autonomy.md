@@ -129,19 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
         width: 700
         height: 350
-  - title: "Bosch is finally making LiDAR sensors for autonomous cars"
-    excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-    publishedDateTime: 2020-01-02T08:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/bosch-is-finally-making-lidar-sensors-for-autonomous-cars/ar-BBYxzme
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A70535DB790916403AD7C22D17E063CA
-        width: 700
-        height: 367
   - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
     excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
     publishedDateTime: 2019-12-28T00:56:00Z

@@ -63,6 +63,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "Data Scientist Uses Deep Learning to Predict BTC Price in Real-Time"
+    excerpt: "In a blog post published on Dec. 2, researcher Abinhav Sagar demonstrated a four-step process for how to use machine learning technology to forecast prices in a sector he purported is ..."
+    publishedDateTime: 2019-12-03T09:16:00Z
+    sourceUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time
+    ampUrl: https://cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    cdnAmpUrl: https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/data-scientist-uses-deep-learning-to-predict-btc-price-in-real-time/amp
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.330BE68B5FD4A872523F71AAEB2B9E95
+        width: 700
+        height: 466
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -77,6 +92,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "e6X7Yxh72BP5lmdz1OQGqYB9bByY0XC6ImWTm37vHLyJWVt2aTWXlKmbmWGaLgjyyZSIPGMYckXNmgg3IqAY0MocTPdVgfbkyZa19V0clX6qpCw+FHuCnQ/t9M9O/JO4a+C/Yz0eYPWuyUAv/vwq7uTi7nXy59co1fNdH6mpVqKz5q1GUV9Gv8+6457QhO+viQHTqku4hbakHYNtA/pHxGiaicA+YmnyZ8V5EIbLy8aj0EfMskRJrZ/t5NOpmE11imW8PvGE03DsLfDjZBYyVg==;t6FQx8Pk9vD/JNDiK1s+eg=="
+secured: "Fhsrq/kPIsj1+jffDh2p8u50k/eRsbNM7iLvZXGFUct8gmTqPQwk80CsD9E9VHmc6ZWir99V3f2Jx+3gXN0xfdpXnKCvdmB76xPHkBFZGt/Z7vd3+DuVrQNAnkDpke+yrZB3LfT9DDU6RI/YUK63a2tHbNcTGLVFfVS7Z2o660R4iMjWYsj32imU40iAgLHZn4sHFu5XPQBJsj7pyVx47eSrh1mtoY7m2B5BobmMD70XNLGVhPVerhTryB3/Ln9KoX3vhJ8yu5rX2ytpop+ptA==;2Y8pS/7YujOadzzJrxNsBg=="
 ---
 

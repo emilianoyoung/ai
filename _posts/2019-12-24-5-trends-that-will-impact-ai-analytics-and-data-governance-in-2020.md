@@ -52,6 +52,15 @@ related:
       - url: https://www.bing.com/th?id=ON.D84A7E9BD027D93ECA99E28B7614612A
         width: 700
         height: 395
+  - title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
+    excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
+    publishedDateTime: 2020-01-03T01:31:00Z
+    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-os-uk.aspx?tc=page0
+    type: article
+    provider:
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 13
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z

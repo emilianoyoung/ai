@@ -43,6 +43,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "H9WtWGCqRkFYD8YT/iiZpvJSv+q4YXydhPeKZtXqJ4cCeAf4HQxLfR2PjsDF0VUOqG1TezNwqbaIiY1VhXyWpTQg8/LHMwdmbxYGW5kIj3g5UalGS3AwDeV0MRFxWgK3RVqEcyaErwiKdNFxiIZHjALF8+gGfHJNNFPQTGC5C7Cz/g8S8s/814hTlNTjmf2TNFnHU4x2itfqZcZM6EyjdYN6gzLGVr/rqNKnNrtGYNfI7orp9zmDQg8nutm8m68aRr73Sm8VrngiQKglquoNVw==;Ia88W32Lfa5zA0tiCmKb3g=="
+secured: "26p3zh6mBEU4yBZy4i4Ku4fzArfRsxA+gj/Kl1Wt8S54xDPsboN9uXDQkScsloWjGTFJ4T1f3aAs1RsJVTeMmG6Na9NlY/w50kpTxipYYplxJaQMbo9p2H5C48cjvOCvy0R6TJJt+9Nx4yfrdlUSxTEEUpkYzOLuhQKRQ6jWkMDIqkJWwQDeznv6dpfTMCUKeJaWqwXj662DAFO75rwG7wi+mXww40w33Z8UXjJxS/m7MqHGcBHykJ4cIaqOR+9mh+dePha5BlSyYQm6WVAVvg==;qDN1ZtLoATM8CGWoiaZ0oA=="
 ---
 

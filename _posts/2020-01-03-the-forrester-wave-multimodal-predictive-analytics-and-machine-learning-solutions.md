@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-publishedDateTime: 2019-12-25T00:06:00Z
-sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
+excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
+publishedDateTime: 2020-01-03T01:31:00Z
+sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-os-uk.aspx?tc=page0
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: adtmag.com
+  domain: adtmag.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Machine Learning
 
 related:
   - title: "Big data predictions: 8 analytics trends in 2020"
@@ -59,15 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D84A7E9BD027D93ECA99E28B7614612A
         width: 700
         height: 395
-  - title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
-    excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
-    publishedDateTime: 2020-01-03T01:31:00Z
-    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-os-uk.aspx?tc=page0
-    type: article
-    provider:
-      name: adtmag.com
-      domain: adtmag.com
-    quality: 13
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -77,7 +68,16 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 0
+  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
+    publishedDateTime: 2019-12-25T00:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "N33djKOeXN0xZe6cL8x67SCx64I/8bsjQAEljRd4UNxkgJLBUf4h5BoUmn8MmFYqEAALwdlkDYqrLcFV6cQQv+o1S92fPs05hH5q49U+9q2GJ3GH6j6efkD5DTnYpmZyQKDJ+zEA3JMjVztpZHpUQ0j7htmZoP+owndHAmPY2+bCWJF+vcFiycuEuNsQcystod4y8DE6gskcqPT23BdcB8xNR8dQ8c6UfoGfk6QIre1+jEiZkW2rTlfOZG0Q3KdEbFGtEfXrXI15mVSSBwQc4Q==;sU9zUsbR19o0v3UIkSrkIg=="
+secured: "Wg6jr9+9fu8LYrH/lEF7pumSyB6Ahott/KWK75izr9yLuq7im5YXwIKWpP8tR5+ogeW85UYefg7EvDIvtvZAOu+QXcB0z4dchAKo/kIjgEAOY8aNhetN/Uz5pzVDHxHFzCBsh9mJf6Y6YPpVEcwjbK2nZKlSeF6ayT1OgLaidYUDtJEopyFT4RIGGhnviRwuTr83jvSOHS39yUjs05JyvPFThQTzs9euBWUcXr1KJO9TIB57dR1QO8vrYRDHb0V9L5dWCKUtxMLELN6i/AZjzA==;awVlz/3gtMjh3QjqyM7vGA=="
 ---
 

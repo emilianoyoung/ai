@@ -111,6 +111,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "1oMu4o1q0tNZDPXAcpaReD4jPysuwYGzdDnNrARMCFhETeFy1f2uNfsqaEjva73l/8voGdF5O+gB4YIMn/mvaDmVydG3dXqYDbKRzhR3ieOIzRjcDWpWGHaqgwWEg+p4qCazpQAw+wqm//mXtENwrsHtbbkXHYget2qfOsYVCSG+nO6/FF6RKz6B/ZewVJ1P8B6dDHF0i69GgJVZZ9KX9XgkyYSiU3I74wRyEZqVMC3qVs1xbTDNAnvsBdfdcGYqxt1fJnXSwJ7y0VBsadvAcQ==;8r5dYKSIa8Hd7S4bx3qqjw=="
+secured: "xbAEAHa4i+41+0Gcr1OLLL255VRywZdqfit/uRG8Pw+csKwJEZLIQksDy52D7+IrfpWlXU5RuQoR52JXLX9n7Dlw8RaQukUBqM/XjiqkiM1C9BF5xKz6C7JUIZ9GpvgZl3fzG71PKlXtwjebZBBRNhIQfyKOdR8MjjkFal07/ZDbd9YWtG/SzAjGEiZpZRfDZPR93gnO613UErJK5a+qL5XUDI1XX1hk2crX2WgSPdvrGW+aUNbyFDzBtjnfV19H3lGMHSIrQXvYemArj/gKcw==;SJt1vz1xlH6ZYz5PiTqhWA=="
 ---
 
