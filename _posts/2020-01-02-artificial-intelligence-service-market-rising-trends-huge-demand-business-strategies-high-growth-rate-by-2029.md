@@ -2,16 +2,16 @@
 category: news
 title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
 excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
-publishedDateTime: 2020-01-02T07:03:00Z
-sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
+publishedDateTime: 2020-01-02T06:51:00Z
+sourceUrl: https://www.arnnet.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Australian Techworld
-  domain: techworld.com.au
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI
@@ -43,6 +43,6 @@ related:
       domain: acs.org
     quality: 0
 
-secured: "AAzXtCDFQzpHl8OtI97XHr6eVmwoEes6P36v8ql+BNK7eXX9Ncu96mInmiB6xyg4niyq8A9JUgPxh3m2Y8S3wDX6CQFEHuqXpGx7KTilPMkrpPuFldaf1XiSiYCY+BLPyior13LCouqNufofw0RQK0zQhojeKGdB8xl/upRMrkRKTmFeIYONxIW1+typrJ5pL8Iu1XPNyRwCQsOD1HmUUzRxsUqzP4+dvVuPQaz+3eBVDUR8RABA/dlvXf78mZ5aqRNvHKeszi3Pz4nMf1ZcsQ==;rdi46hdVJsNJziPMLZgq3w=="
+secured: "+nfdR1cJJ8InpUTMuPO6ZL6DR6J8nR77XjZzdV3fEC8Wk9Td2I2XFx+Rqr6BpHESL8gzHiSqqiPOrvliZCmwjtCKMwSGxlab2qZTyC+SJfnj7QQ5okD6DOXZKS2Rma4CZ9u3G/x3mp19tVie5JeCoQWJOewNI1eLSLzFhOAttOz6I7/WRAIW9qKL+LN8GpxBHECSP4wy8sDxuHhOBydCwwLOZZ/kc21y2p3KcxoyYYkgVX4VO5r1bvhfjYQob9NusR6+3JmHKBr8MCeX+g0W+Q==;ijg23Hxvudo5X2E91DFmHw=="
 ---
 

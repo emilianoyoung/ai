@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "Uber Self-Driving Car Unit’s Safety Culture Slammed by NTSB"
-    excerpt: "Uber Technologies Inc.’s self-driving vehicle unit lacked an effective safety culture at the time when one of its test vehicles struck and killed a pedestrian in Tempe, Arizona last year, National Transportation Safety Board Chairman Robert Sumwalt said Tuesday. “The inappropriate actions of both the automatic driving system as implemented ..."
-    publishedDateTime: 2019-12-14T02:05:00Z
-    sourceUrl: https://www.industryweek.com/operations/safety/article/22028606/uber-selfdriving-car-units-safety-culture-slammed-by-ntsb
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2A6B7549CA8E842F889C0C7BED581166
-        width: 700
-        height: 364
   - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
     excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
     publishedDateTime: 2019-12-16T12:00:00Z

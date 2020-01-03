@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
-excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
-publishedDateTime: 2019-12-27T13:00:00Z
-sourceUrl: https://www.bleedingcool.com/2019/12/27/long-live-the-robot-revolution-of-iron-man-2020-beginning-in-incoming-1-spoilers/
+title: "Telangana to train 30K students in AI in 3 years"
+excerpt: "The next pillar, which is developing talent, aims to train 30,000 students in AI, ML, Data Science and DL in the next three years. One of the most important pillars of the framework is governance, ethics and privacy,” he explained. Sharing the government’s goal for 2020, Rama Rao concluded by saying, “Our primary goal is to attract and ..."
+publishedDateTime: 2020-01-03T02:18:00Z
+sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.html
+ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
+cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
 type: article
-quality: 32
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Bleeding Cool
-  domain: bleedingcool.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.CDD021FE3E6BF2082C836BF2F3C5E953
-    width: 592
-    height: 568
-    title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
+  - url: https://www.bing.com/th?id=ON.DCF29E77D08D17AD86D32E8702B68D71
+    width: 600
+    height: 390
+    title: "Telangana to train 30K students in AI in 3 years"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -144,21 +146,6 @@ related:
       - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
         width: 700
         height: 266
-  - title: "Telangana to train 30K students in AI in 3 years"
-    excerpt: "The next pillar, which is developing talent, aims to train 30,000 students in AI, ML, Data Science and DL in the next three years. One of the most important pillars of the framework is governance, ethics and privacy,” he explained. Sharing the government’s goal for 2020, Rama Rao concluded by saying, “Our primary goal is to attract and ..."
-    publishedDateTime: 2020-01-03T02:18:00Z
-    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.html
-    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.DCF29E77D08D17AD86D32E8702B68D71
-        width: 600
-        height: 390
   - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
     excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
     publishedDateTime: 2020-01-02T15:17:00Z
@@ -217,7 +204,20 @@ related:
       - url: https://www.bing.com/th?id=ON.D820026CE879D8925DEC59D242DCA89B
         width: 700
         height: 393
+  - title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
+    excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
+    publishedDateTime: 2019-12-27T13:00:00Z
+    sourceUrl: https://www.bleedingcool.com/2019/12/27/long-live-the-robot-revolution-of-iron-man-2020-beginning-in-incoming-1-spoilers/
+    type: article
+    provider:
+      name: Bleeding Cool
+      domain: bleedingcool.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.CDD021FE3E6BF2082C836BF2F3C5E953
+        width: 592
+        height: 568
 
-secured: "nwjHGQYsZhh2Kw+Xmh02earJ/jLmXEM4oi0AtOLfsBeaLLBel0vu3hd0o98Cz4GBmHx6lJV5sV17VR+LZqbLP+pux1Cc7lGO9HpZJtJ2K4GpGtAblcrURGutl2NBmZTUIpDYxs/P9Sb6D43pf9RZezWOyAaFxIVmP9C5Lj0iIeNUHGkFA0j+kL9AKAtJ/vqiDNv0RJCzkdnfpYtkOdKQAB47dqVhkpmpxMiSSPpleywDUkOwCWF3N/2xlfAVlq7RZI3eJQoU7nlH0eMx1u9vaw==;3KyoA+om/JIeaQi2MRoLIQ=="
+secured: "mXi6mjAvX/JMioqBeGpMyW830AJTm1vbId8kmKiKe446nTJwUDn2ianro4u+cddlRitKZDFo1pl+wIoHKTCsc0ce+ZLrcbZN6ejjoJ1UnxgY4iqK1m4XgVJpY2dqU28r9mi3ewquhjBFFPXcBpcOaH9kji39oEBz/0mkSJ/atDF+Xk/0XRziQcG+vZfy8tvT8R44nEB4CdgzeQv0zaWMhCVx05IBfmCIoZFatOxCK0eTmNGnFCKgn0WWPzEvnScDk1x50MVGxVtCmUryupCYAw==;homjpaPt99rxRi4551PZ/w=="
 ---
 

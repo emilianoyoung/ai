@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,20 +43,7 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
 
-secured: "zwz5T4LII69oB6MJQMRVh0KWM1+odjtJhpk8M87m+iGdWgXSX1ZtLLkFArH4dSXoNOZdRp5nWdPxa+OOX8fzFUXl3c3+PHcgWtqfmasv8uKbIenKiqDMUTkDCGMvbSXpohLRMufHKvKyV25gpGtKLdh9wVhr04AibnP0mqJvEVXvPMa3BbnIAEHFF+3VaT8zV3av5Fb/klLpGonAO913hDPCKvzgmTnmE8tSaCLVF8a51YuvYA8yfJNJeA23LceWPIKZR5AqqhdZL1YyO64v2Q==;mgQ0viUHoPAo2oSFdrlu6A=="
+secured: "D1DsdiRRCCvzpc1FChJbX4o3SVxx+feL5iyTAdoZRFI0X1FAK6smlCxf22tuW36SFZ01NlOhwLzWSj0rHvN5Kv4cALe6KObAz1fx7Z8+QwdDCMAuX9V7iKXM/3zJfj3lUyZgnp3jwF+3u0YwuQs/eHc2BlnnnvIHHG9NqYv7n0BmLKlRz2/taT2WBCmii/gxUbka4waoikBLTdrXBL7f/hTs8aSx05fQpJKZkpRC0/jHv6uqHPHs2EmP8hKEh59cPQgD43Jqcfynum3RqwKgRw==;b//Voh8fhu9GZ8viGr2wHA=="
 ---
 

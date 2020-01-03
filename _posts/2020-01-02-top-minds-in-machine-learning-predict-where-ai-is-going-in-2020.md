@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
 quality: 210
-heat: 321
+heat: 341
 published: true
 
 provider:
@@ -138,6 +138,21 @@ related:
       - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
         width: 700
         height: 266
+  - title: "Telangana to train 30K students in AI in 3 years"
+    excerpt: "The next pillar, which is developing talent, aims to train 30,000 students in AI, ML, Data Science and DL in the next three years. One of the most important pillars of the framework is governance, ethics and privacy,” he explained. Sharing the government’s goal for 2020, Rama Rao concluded by saying, “Our primary goal is to attract and ..."
+    publishedDateTime: 2020-01-03T02:18:00Z
+    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.html
+    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/03/telangana-to-train-30k-students-in-ai-in-3-years-2084427.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DCF29E77D08D17AD86D32E8702B68D71
+        width: 600
+        height: 390
   - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
     excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
     publishedDateTime: 2020-01-02T15:17:00Z
@@ -168,6 +183,21 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
         width: 1200
         height: 1200
+  - title: "Researchers identify key biomarkers for predicting autism in newborns"
+    excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... \"We are always looking for new ways to make a difference in the lives of our patients,\" Dr. Warner said. \"Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
+    publishedDateTime: 2020-01-03T02:38:00Z
+    sourceUrl: https://www.news-medical.net/news/20200102/Researchers-identify-key-biomarkers-for-predicting-autism-in-newborns.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200102/Researchers-identify-key-biomarkers-for-predicting-autism-in-newborns.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200102/Researchers-identify-key-biomarkers-for-predicting-autism-in-newborns.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fAutism-620x480.jpg
+        width: 620
+        height: 480
   - title: "From AI to 5G: Predicting the future of technology in 2020"
     excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
     publishedDateTime: 2019-12-28T12:28:00Z
@@ -195,6 +225,6 @@ related:
         width: 592
         height: 568
 
-secured: "TQA1EgmYhPoLTj2rtYItPhKqkCfgLMyJDRixUyjP+7QayjPA8L5GK0izzeNT+VYDYCK27nZnh1A7mpHtgq9Hb3vvQrnFS+YuX2mikmUueVf9WlSOWQlNdtQuk75+cWGWTTc0TYAVtz4vu3p0q1aV63CHJvyaA/xAB1cbeD9s6p2g5gZ51/sua0g0V2ziKSukDtSvcKFvuYBUGAWWJspZcSnYKdoaeMhivz7PdjoEt5FLvnH1JEj2s8rXcNwUjFaTDKjcITPjWwjeuQ8woiSYFI8FY2B5nRk/iF3ITG5pQ90=;GVqh0GFKwfogsXJKzUwmtg=="
+secured: "lMcfnW4SjFgtoSGr0hlsh3DYWGjnkFuylq2kQncGpHnrR/IYhVuRapRSX3LxtW89k08Kg3ua5sd0bOjh66m3uu5sAURtXh0pZ9fQFr3GnYV4Du7/aVDKP/u8AOrDa5MmBSIJr2S+ZUeD+Gz8SwdEyyg07YvEeI4kfTLdjLlbPHY18PFvzMedr3o1sqiLWmjoRLLfoV+JAtMFmggnur6QQ7wAsxIOFGTHjyUVzszOuonJb7P1mqAeKPb9QrV/TENElKuyjIy6Prk/XTRzqvSu2lAMa8hy3OKk6Drn3vJIUB0=;HV1ASSfNoBQPZNCfx6IqAg=="
 ---
 
