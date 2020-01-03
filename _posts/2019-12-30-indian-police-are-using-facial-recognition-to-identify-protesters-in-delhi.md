@@ -3,7 +3,7 @@ category: news
 title: "Indian police are using facial recognition to identify protesters in Delhi"
 excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
 publishedDateTime: 2019-12-30T21:20:00Z
-sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
+sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
 type: article
 quality: 37
 heat: -1
@@ -793,6 +793,6 @@ related:
         width: 336
         height: 254
 
-secured: "83fttyAJ6CyCYojDjc64l9YBrvLtArY7IEwUJqsZ0bwEVPehe3TgXrriI2imol4Mm8x0Zb6KSf//QH4Rl2I0KM/SktfBYRbo5BsT9CHCC15rii9xC39aXQug0ChqPlBdjH9imU04FxOuBCA5d/awESN2aEjlQuKTXmEgOW6APRHXWkzxlbU7vIcHb2lVBDNGC+JYH0RqcS6BxHvYjSzFiK2usKU1y3z75YzkZoIS7UJ/MOVByhZV02LLojyXstKDVyZaAmdrZYA12goIeaFEVA==;dPLPHNB2gWkLM5qH98NALw=="
+secured: "qM57N9gisFlSZF/Ip7JCDue1z1CWFf2myWIPK7zgjOPxPXCUq6yUxZSNYMg1saMksT5D5Og+0vuAOfXdtfVDUqPo8w/0m8PcWCMPk8Com7knz/ZunYWzWP2slmP0DHLHJ3Y1l54apEwcvi1N2PlTm+ZL5ybU973+vUs/8veEmAV3o04qYzVFJjal5xzC1oAsQBnI6UbYMpLzLJ1eHg7x+gLD+I0pO6rsv2SV86WKKzsrH0TYT/w5K/L66+8jbMK9xPx63esCfOg9efZb28NAUg==;c/MfZoLMDz139sAMmmxi0w=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Google AI system beats doctors in detection tests for breast cancer"
-excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
-publishedDateTime: 2020-01-02T04:24:00Z
-sourceUrl: https://www.afr.com/technology/google-ai-system-beats-doctors-in-detection-tests-for-breast-cancer-20200102-p53ocu
+title: "Tech breakthrough allows breast cancer robots to spot tumours doctors may miss"
+excerpt: "A new artificial intelligence system has been developed that may be able to perform the job of spotting breast cancer as accurately as radiologists. The computer algorithm could save thousands of lives, slashing the number of “false negatives” from 9.4 per cent to 2.7 per cent. In 2019, Australian health officials report an estimated 19535 ..."
+publishedDateTime: 2020-01-03T05:44:00Z
+sourceUrl: https://www.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
+ampUrl: https://amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
+cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
 type: article
-quality: 39
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: The Australian Financial Review
-  domain: afr.com
+  name: News.com.au
+  domain: news.com.au
 
 topics:
   - AI
-  - Google AI
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
-    width: 700
-    height: 393
-    title: "Google AI system beats doctors in detection tests for breast cancer"
+  - url: https://www.bing.com/th?id=ON.F4F2A0E17BC6F1EF95CA5D27434EF541
+    width: 496
+    height: 279
+    title: "Tech breakthrough allows breast cancer robots to spot tumours doctors may miss"
 
 related:
   - title: "AI 'outperforms' doctors diagnosing breast cancer"
@@ -318,21 +320,6 @@ related:
       - url: https://www.bing.com/th?id=ON.26D6212CEEC115DDA976A0EFBFDE54D1
         width: 625
         height: 352
-  - title: "Tech breakthrough allows breast cancer robots to spot tumours doctors may miss"
-    excerpt: "A new artificial intelligence system has been developed that may be able to perform the job of spotting breast cancer as accurately as radiologists. The computer algorithm could save thousands of lives, slashing the number of “false negatives” from 9.4 per cent to 2.7 per cent. In 2019, Australian health officials report an estimated 19535 ..."
-    publishedDateTime: 2020-01-03T05:44:00Z
-    sourceUrl: https://www.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
-    ampUrl: https://amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
-    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
-    type: article
-    provider:
-      name: News.com.au
-      domain: news.com.au
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.F4F2A0E17BC6F1EF95CA5D27434EF541
-        width: 496
-        height: 279
   - title: "DeepMind's new AI can spot breast cancer just as well as your doctor"
     excerpt: "False negatives, when cancer is present but not spotted, can prove deadly, while false positives can be distressing. Google-owned DeepMind has already worked with NHS organisations to develop AI to read eye scans and spot neck cancer. Over the past two years, researchers from Cancer Research UK Imperial College, Northwestern University ..."
     publishedDateTime: 2020-01-01T18:11:00Z
@@ -413,6 +400,19 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.32D3BA488750D0DE35B603CE291A8E23
+        width: 700
+        height: 393
+  - title: "Google AI system beats doctors in detection tests for breast cancer"
+    excerpt: "In a paper published in the scientific journal Nature, experts from Google Health, Alphabet’s DeepMind unit, and UK and US universities showed the AI model reduced both false positives, in which patients are wrongly told they have cancer, as well as false negatives, where the disease is present but not diagnosed. Screening mammograms is known ..."
+    publishedDateTime: 2020-01-02T04:24:00Z
+    sourceUrl: https://www.afr.com/technology/google-ai-system-beats-doctors-in-detection-tests-for-breast-cancer-20200102-p53ocu
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FA551C09525AF7E7C92BF600A0C735F0
         width: 700
         height: 393
   - title: "Google Heath’s AI outperforms radiologists at breast cancer screening"
@@ -572,6 +572,6 @@ related:
         width: 500
         height: 500
 
-secured: "p1eED7a14wxcxXnEyawNg/USunTAwuC2oYpnGVw6IDrEpVK6pQuee0PMLYR2Z4V1HjAJdZRG3jfQKfB7kweWasCYIgqT7YQYengYwtz5lUpc7ivWzkSzhkZZfQe0XrbWDj+lO+k6kfZlGPDlkw1dozBD9dA+w1g+TAdP4iq74pWQiBE40aItLaG64yRi8c9P3Jb472aDDb2E6Nb/Rtwnr6vt24zNHu8MkkRX5bb7Xu132tVLWhoc5aGCadjNybEtCAzUD82z7saLv6nYnyMjTQ==;zPqqQ88tQS8TZaHbNVzVUg=="
+secured: "Sz2Js/us+NLx1KkUe+CYtMDYAINn4TssI6UJBeETOJ7NlL7sZbyZL9RkXaqE83cBGcTYxzAVoPlIwLgYF7eBMgn46ptylLkeHZx/TBhodpBBwVldpb1jSGVUDEv/GVkX1CwI9ZxmOLFBOMF4qgi+qmk4u4ZeXVIkWIYdsgPQA4Hmrl+ZMAPFRveE3rTs1+LZUYZ0y42Y9S2iD9+OB4qtCEwwmCRghJxef3HCW8OboZs3/bGbQ0fKEFhx8+B+wYSJqYr3u9lfsIGXtyYrGNwjkQ==;93GorsnKOmnzK42XCjOnjQ=="
 ---
 

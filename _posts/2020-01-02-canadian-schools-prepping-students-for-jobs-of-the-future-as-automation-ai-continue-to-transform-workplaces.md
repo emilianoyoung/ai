@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.31B46DDBFBA8EC78286808C9C9347FCB
         width: 700
         height: 466
+  - title: "Robots will not be coming for our jobs just yet"
+    excerpt: "A robot accountant is not C-3PO; it’s Excel or QuickBooks ... It’s only a matter of time before they do a better job than us — just as AlphaZero does. The Artificial Intelligence Index project, based at Stanford University, tracks a wide variety of benchmarks. The machines are making rapid progress at symbolic achievements — such ..."
+    publishedDateTime: 2020-01-03T05:00:00Z
+    sourceUrl: https://www.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    ampUrl: https://amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C2D0656B2C6F0F423A73307B29FFE36A
+        width: 700
+        height: 393
 
 secured: "WpAUTlQ7T91fVTPoH0oxGZjs+efmIyDU5+Zor2826E1CtZD3Uo7P51VCP03fa0liOlYdVz9KSogqb7QJ4iH+y5pTxMOk4996opFtigBWGUYYGzdn7iUCaO+sSYGGE8QgMs6D418/dRScV+6nKL3KUhLT3hQEGJ+ZFbHYeTtlCwY3CiKcYdwWTWHgG96Zvi+8W3pjNJolRHnqTxj5AbJwIMUO4hwVJYY+5JPceblHJE4r5SE1lLzWehMMkuFXxY1zSeW6/T2BvcuJnKH326ElYg==;yA2Ywf+P0RhQe3TH/JdAaA=="
 ---

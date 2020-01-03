@@ -89,19 +89,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Supply Chain And Logistics Market Analysis by Recent Developments and Business Outlook 2019"
-    excerpt: "Dec 14, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, policies, and clients ..."
-    publishedDateTime: 2019-12-14T05:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-analysis-by-recent-developments-and-business-outlook-2019-2019-12-14
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence In Aviation Market Global Opportunity Analysis and Future Assessment 2019-2025"
     excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The Report scope of Global Artificial Intelligence In AviationMarket 2019 includes Market Trends, Size, in-depth analysis and Forecast till 2025. \"Artificial Intelligence In Aviation Market\" research report provides an actual industry viewpoint, future trends, and dynamics for market growth rate, market size ..."
     publishedDateTime: 2019-12-14T06:25:00Z

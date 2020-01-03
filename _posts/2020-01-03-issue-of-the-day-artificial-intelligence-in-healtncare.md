@@ -1,27 +1,27 @@
 ---
 category: news
-title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
-excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. \"It's only a matter of time before something like this leads to a serious health problem,\" said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 billion ..."
-publishedDateTime: 2019-12-31T17:13:00Z
-sourceUrl: https://www.healthleadersmedia.com/innovation/reality-check-artificial-intelligence-are-health-care-claims-overblown
+title: "Issue of the day: Artificial intelligence in healtncare"
+excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
+publishedDateTime: 2020-01-03T05:50:00Z
+sourceUrl: https://www.heraldscotland.com/opinion/18135278.issue-day-artificial-intelligence-healtncare/
 type: article
-quality: 51
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: HealthLeaders Media
-  domain: healthleadersmedia.com
+  name: heraldscotland.com
+  domain: heraldscotland.com
 
 topics:
   - AI
-  - AI Ethics
+  - AI in Healthcare
 
 images:
-  - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
-    width: 1903
-    height: 836
-    title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
+  - url: https://www.heraldscotland.com/resources/images/10859006/
+    width: 2400
+    height: 1800
+    title: "Issue of the day: Artificial intelligence in healtncare"
 
 related:
   - title: "Are health care claims overblown about artificial intelligence?"
@@ -84,19 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
-  - title: "Issue of the day: Artificial intelligence in healtncare"
-    excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
-    publishedDateTime: 2020-01-03T05:50:00Z
-    sourceUrl: https://www.heraldscotland.com/opinion/18135278.issue-day-artificial-intelligence-healtncare/
+  - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
+    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. \"It's only a matter of time before something like this leads to a serious health problem,\" said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 billion ..."
+    publishedDateTime: 2019-12-31T17:13:00Z
+    sourceUrl: https://www.healthleadersmedia.com/innovation/reality-check-artificial-intelligence-are-health-care-claims-overblown
     type: article
     provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 51
     images:
-      - url: https://www.heraldscotland.com/resources/images/10859006/
-        width: 2400
-        height: 1800
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
+        width: 1903
+        height: 836
   - title: "Artificial intelligence and health care: The revolution has not yet come"
     excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
     publishedDateTime: 2019-12-31T15:14:00Z
@@ -124,6 +124,6 @@ related:
         width: 700
         height: 350
 
-secured: "qo1/zkbg2ORpqnKpyBEQzzZWbjjZMGKix6gAfWDWnEwNA1rXSxh0JoAp45xJdGWJ2YOjZvAXpfF4ZQTQng2Z5hhqIsXkzOk2VNRVKhiZqhRlq7Vp0fBSg+41ryuZG7ic8mqXAsZMAW5R8rqSTBrwaORBKhswGwSSBxCCSCssW4LFPxmopcoBnLSeKP7uLptx6pAcYvIWio6zHveDtumliBf8Rd8I/X5T0ugU1XLG5RRjwouuY3Ep/xjAW49Gk0L3UDE77O9x8PaiCFZg18Qicw==;/tulEN05GAPTC6nT5gulBA=="
+secured: "Tz0YH6Cb5l4ut8IzwcfcLbl4U9+njo1Q9+jgH0DrF6U3F57L/kr+1Sj/RIZQE8zIKwy4LHPJn2/bAGO4TT/2WGop5fTAse8/kYTAr81iAeMik/J/SjcthN3YVvmnoEaffLT9rcMqapBd66JeAKjH3xoJ4iMGUpkuCxOZsQ2+Mp3EBOuaYYZ2OVJ3yflS/MjGfvovtBejDbo6XNAP70Vn90SFE0uJSeSUYPOcNhW5FgTbblqpETAcKPx7Q4WskEv1/fiIplxO+nACTGYMEovgFg==;UJwHGmveUmDF40dK3IHnKw=="
 ---
 

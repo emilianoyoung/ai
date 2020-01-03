@@ -23,118 +23,103 @@ images:
     title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
 
 related:
-  - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
-    excerpt: "Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see and process images in the same way humans do. Computer vision through ..."
-    publishedDateTime: 2019-12-13T12:46:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
+  - title: "How the ‘big 5’ bolstered their AI through acquisitions in 2019"
+    excerpt: "While Google itself can obviously be used to research most school subjects, Socratic is guided by teachers and ... This was pretty much true of each of Facebook’s and Apple’s AI acquisitions this year. In some cases, it wasn’t always obvious whether the AI element of a product was what the acquirers were looking for — in other words ..."
+    publishedDateTime: 2019-12-23T13:01:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/
+    ampUrl: https://venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/how-the-big-5-bolstered-their-ai-through-acquisitions-in-2019/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 93
+    images:
+      - url: https://www.bing.com/th?id=ON.5B5908183CB222A511ED3A7C978F19AE
+        width: 700
+        height: 366
+  - title: "As consumers find value in AI, now is the time to invest further"
+    excerpt: "Artificial intelligence has reached a point in its advancement where the masses have an understanding of its capabilities. In fact, consumers already see the near future where AI simplifies specific tasks of their everyday lives such as booking travel, educating them, preparing their taxes, and driving their cars. It’s no surprise that the AI ..."
+    publishedDateTime: 2019-12-23T12:10:00Z
+    sourceUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/
+    ampUrl: https://venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/23/as-consumers-find-value-in-ai-now-is-the-time-to-invest-further/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.383123F8C62131FB51E5F676CE178CD2
+        width: 700
+        height: 358
+  - title: "For All That AI Can Do Today, It Still Needs Humans In The Loop"
+    excerpt: "The best way to look at AI is as a prediction engine. We now have recommendation engines to predict what movies we want to watch and voice assistants to predict what we’re saying. But when we use AI in our personal lives, near-perfect answers are often completely adequate. If we only like a couple of Netflix’s recommendations or if Siri ..."
+    publishedDateTime: 2019-12-23T12:19:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/23/for-all-that-ai-can-do-today-it-still-needs-humans-in-the-loop/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 101
+    quality: 87
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F12%2Fa-51.jpg
-        width: 960
-        height: 641
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
-    publishedDateTime: 2019-12-12T20:53:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+      - url: https://www.bing.com/th?id=ON.51BBC079C4A6BE9C795A454E39FEC990
+        width: 600
+        height: 315
+  - title: "Is Simulated Data the Great Equalizer in the AI race?"
+    excerpt: "The big five US tech companies (Google, Amazon, Facebook, Apple, and Microsoft) are pouring hundreds of millions of ... The direct result is an explosion of academic research in AI since 2010. For example, the number of research papers on Neural Networks had a CAGR of 37% from 2014 to 2017. Similarly, the ICCV conference which I recently ..."
+    publishedDateTime: 2019-12-22T08:57:00Z
+    sourceUrl: https://medium.com/@charlesbrun/is-simulated-data-the-great-equalizer-in-the-ai-race-9ed30f9076db?_branch_match_id=link-737069905698870252
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Medium
+      domain: medium.com
+    quality: 69
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
-        width: 1199
-        height: 600
-  - title: "Robot arrives on the space station to keep astronauts company"
-    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
-    publishedDateTime: 2019-12-17T14:28:00Z
-    sourceUrl: https://www.kmov.com/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.html
-    ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
-    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
-    type: article
-    provider:
-      name: KMOV
-      domain: kmov.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E052F39DFD642392DB92D6AD4DE04770
-        width: 700
-        height: 394
-  - title: "Artificial intelligence and the future of insurance"
-    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
-    publishedDateTime: 2019-12-18T05:23:00Z
-    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
-    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
-    images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
-        width: 620
-        height: 372
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-17T05:47:00Z
-    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
-        width: 700
-        height: 265
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
-    publishedDateTime: 2019-12-17T07:41:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
-        width: 400
-        height: 300
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T08:07:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
-  - title: "Scientists show mice an Orson Welles movie, then disprove dogma about how vision works"
-    excerpt: "“But computer vision has been hampered by an insufficient understanding of visual processing in the brain.” The “unprecedented” findings in the new study, he said, promise to change that. The textbook understanding of how the brain sees, starting with streams of photons landing on the retina, reflects research from the 1960s that won ..."
-    publishedDateTime: 2019-12-16T16:08:00Z
-    sourceUrl: https://www.statnews.com/2019/12/16/mice-shown-orson-welles-movie-neuroscience-dogma-disproved/
+      - url: https://www.bing.com/th?id=ON.2A28CF672EF7C47EA35BBD8F97470294
+        width: 600
+        height: 338
+  - title: "Manufacturing: the next breakthrough in gene therapy"
+    excerpt: "While we certainly seek to standardize processes through enhanced analytics, automation, and even artificial intelligence, manufacturing each therapy will still require custom processes. And time is of the essence, because patients and their families are waiting for these therapies. Given that many of these diseases have limited or no treatment ..."
+    publishedDateTime: 2019-12-18T10:01:00Z
+    sourceUrl: https://www.statnews.com/2019/12/18/manufacturing-the-next-breakthrough-in-gene-therapy/
     type: article
     provider:
       name: STAT
       domain: statnews.com
-    quality: 16
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.5336641F9EE7577A7E68F01EBB259270
+      - url: https://www.bing.com/th?id=ON.DAD49722D56BF247D98023D133EBCBA5
         width: 700
         height: 393
+  - title: "Automotive Industry Puts the Pedal to the Metal with AI"
+    excerpt: "The growing importance of AI to the industry is underscored by the substantial investments the industry is making in new technologies. To that end, the research firm Tractica forecasts that the market for automotive AI hardware, software and services will reach $26.5 billion by 2025, up from $1.2 billion in 2017.[1] While significant amounts of ..."
+    publishedDateTime: 2019-12-23T16:28:00Z
+    sourceUrl: https://www.hpcwire.com/2019/12/23/automotive-industry-puts-the-pedal-to-the-metal-with-ai/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
+        width: 700
+        height: 373
+  - title: "2019: The Year of the Face"
+    excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
+    publishedDateTime: 2019-12-28T16:45:00Z
+    sourceUrl: https://petapixel.com/2019/12/28/2019-the-year-of-the-face/
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
+        width: 700
+        height: 367
 
 secured: "dYdlkxeT/ByLDC512be2VxE2jLY1nObwVLrdDdhVxfSrhS0y9cFVQampq4qPGsPYYUL3L7aY0Pb0qNoWXbQvsAX8ljvTo6vTBlu0C+YixZUaYHPEdp8M9d3kx5vUYw6f73PcfYiNGLxsx8MYK5LxYBxODW+RxLti9zZhPqAvAKF1ePvUevTnd/o/ejHP3ChJFEvDDSOVQGa6ftjS9L9kPGM+8fclP6GDyWOFoOut/rG/rkb7amgOMm/1bpnTqXQiUzT1d2fxmj37KfFqZY8emg==;rCSrIve9MVTBw3qxFb84Ug=="
 ---

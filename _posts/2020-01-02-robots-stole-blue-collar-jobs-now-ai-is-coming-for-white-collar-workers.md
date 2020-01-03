@@ -8,7 +8,7 @@ ampUrl: https://www.voanews.com/usa/all-about-america/robots-stole-blue-collar-j
 cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/all-about-america/robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers?amp
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Robots Stole Blue Collar Jobs, Now AI Is Coming for White Collar Workers"
 
 related:
+  - title: "Robots will not be coming for our jobs just yet"
+    excerpt: "A robot accountant is not C-3PO; it’s Excel or QuickBooks ... It’s only a matter of time before they do a better job than us — just as AlphaZero does. The Artificial Intelligence Index project, based at Stanford University, tracks a wide variety of benchmarks. The machines are making rapid progress at symbolic achievements — such ..."
+    publishedDateTime: 2020-01-03T05:00:00Z
+    sourceUrl: https://www.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    ampUrl: https://amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C2D0656B2C6F0F423A73307B29FFE36A
+        width: 700
+        height: 393
   - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
     excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
     publishedDateTime: 2020-01-02T15:20:00Z

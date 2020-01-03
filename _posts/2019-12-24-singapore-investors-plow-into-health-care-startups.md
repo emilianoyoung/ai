@@ -97,6 +97,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
         width: 1903
         height: 836
+  - title: "Issue of the day: Artificial intelligence in healtncare"
+    excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
+    publishedDateTime: 2020-01-03T05:50:00Z
+    sourceUrl: https://www.heraldscotland.com/opinion/18135278.issue-day-artificial-intelligence-healtncare/
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 39
+    images:
+      - url: https://www.heraldscotland.com/resources/images/10859006/
+        width: 2400
+        height: 1800
   - title: "Artificial intelligence and health care: The revolution has not yet come"
     excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
     publishedDateTime: 2019-12-31T15:14:00Z

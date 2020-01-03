@@ -318,6 +318,21 @@ related:
       - url: https://www.bing.com/th?id=ON.26D6212CEEC115DDA976A0EFBFDE54D1
         width: 625
         height: 352
+  - title: "Tech breakthrough allows breast cancer robots to spot tumours doctors may miss"
+    excerpt: "A new artificial intelligence system has been developed that may be able to perform the job of spotting breast cancer as accurately as radiologists. The computer algorithm could save thousands of lives, slashing the number of “false negatives” from 9.4 per cent to 2.7 per cent. In 2019, Australian health officials report an estimated 19535 ..."
+    publishedDateTime: 2020-01-03T05:44:00Z
+    sourceUrl: https://www.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
+    ampUrl: https://amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
+    cdnAmpUrl: https://amp-news-com-au.cdn.ampproject.org/c/s/amp.news.com.au/lifestyle/health/tech-breakthrough-allows-breast-cancer-robots-to-spot-tumours-doctors-may-miss/news-story/a676ba01f9af99ce5767148f7a627e87
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.F4F2A0E17BC6F1EF95CA5D27434EF541
+        width: 496
+        height: 279
   - title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
     excerpt: "The study was published Wednesday in the scientific journal Nature. The AI program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States. Early research shows it resulted in fewer false positives and false negatives and can produce more accurate detection than human radiologists."
     publishedDateTime: 2020-01-03T03:23:00Z

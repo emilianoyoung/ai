@@ -3,7 +3,7 @@ category: news
 title: "Could bots drive public policy?"
 excerpt: "Machine learning tools can generate nearly infinite variations of fake speech at scale. Using a natural language processing framework developed by OpenAI, a bot program and a proxy server, Weiss turned his attention to a public comment page on Medicaid.gov dealing with a proposed waiver for Idaho residents, where he generated more than a ..."
 publishedDateTime: 2020-01-02T20:25:00Z
-sourceUrl: https://gcn.com/articles/2020/01/02/bot-generated-comments-on-policy.aspx?admgarea=TC_EmergingTech
+sourceUrl: https://gcn.com/articles/2020/01/02/bot-generated-comments-on-policy.aspx
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 338
     title: "Could bots drive public policy?"
 
-secured: "KBrLjZQr+p56X1rGAemi4UejdZJdZ+uhGBsIEqMYjxO3s2govNURQpT+NKOeuTAhk/Ip3my0X+yxysn8gY3CeSctLKx4ddNivXkvso9LhWlZO20yNUH1QmPBZcNDw0XNZ2xN6NDF1Aje0B5/ybnNdbuXHoh1C2Xyvli7Hm9JlAJFq6lY7ofxk3jxXEvXOexzrHiszLHhh85zIwQKYzDBqqxwCrit6IZN4OcGWujQPcYhwuDiwyTTj/SFf1wvEA9Jb5bTes+ZdOP6XkpzJSzAnQ==;4iNatQImtnmuC+h2aAgDmA=="
+secured: "7aUTf3efzG5xhUot0Ec4W/tdKu8n2ejMgvj3FHId0TmWd24S16tbV/864J29acskvtRHlV9kYjYCTtC3qQu/75iR9i44Y8ipfQzTc8K4LdvKFPSa0w0s2pOGWgmFPV4/4AeH5IT5ktxFBBBFWi5ExUAODLHsA+pHDuvwl//LRSfFZa+3OxWvZDvRm5iCXo5tu8oAmgH7id6FHHbAN0XbZzFrpsGBikFYRBA1vmhHHrRAxGKaihzdTp10j/wdq7TMXkxds8BKp9mLMxGrUSAidQ==;3VeZucxxYrzMsd9X6+UP0A=="
 ---
 
