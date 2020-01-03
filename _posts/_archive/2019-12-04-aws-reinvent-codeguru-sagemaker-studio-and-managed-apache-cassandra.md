@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 86
+    quality: 84
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -68,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "usLcWhohfuIi1eyR0lchIidPNY8FUv6FbhbdDTqoZiLCsplteQ2hjPlXXY4IOkMiSmI94tf5ThnGfYoB+SLOf4SqD8h3rmw1AmffsnH7AFT42DZBSI/2cxLVsB4qrdd1tgNOYjNja/IFGiCbnwpi+9D0ruxAoaF7T7jKLW1KnJWnEWDssmmRQInUkvIxDzL4cF4ilGbnASKioMKQ7g2DPaL2CmB10jpO6zxj46VivZzSpsuJpoiRKkJwTC7Ew9wEFiS4kyeJG/9Uxej3YZvNWg==;mJ0pUsboBVzqm2TKgvKvQg=="
+secured: "BSwOBdX1O/z6AQhRJXQF4qmfVZixbgzYv3E/HBHAu5pbTaxdNv9Jqk3LLqjBGoCM3GDkJOjsQZKfTy+QcW/gkcwlJEwVJ3RHhwqbjGUWjxYSPl3txkViAlu440bBrnQFV1wszDdvSTk/m6336QKy847KBTYGdZvTTUjjRNFyIRi+d5glwzaLg8yQofga3bQ5UgVVARvIdnVeLTbM8BhxjPDwqJ2w/nXgxZYvMiWkIr+CqznOIbOFdbaMWUstRRxTMEcLiSgiWbEROJgnsyntKg==;87ln2M87Zmow7FBVSgMtUQ=="
 ---
 

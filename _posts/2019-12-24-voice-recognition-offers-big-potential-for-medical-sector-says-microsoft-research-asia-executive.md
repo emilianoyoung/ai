@@ -832,9 +832,9 @@ related:
         width: 700
         height: 466
   - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
-    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions and services offered by various vendors like NEC. The hardware components involved for ..."
-    publishedDateTime: 2019-12-30T09:39:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5---exclusive-report-by-mordor-intelligence-300979730.html
+    excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions ..."
+    publishedDateTime: 2019-12-30T10:45:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/facial-recognition-market-expected-to-grow-at-a-cagr-of-12-5-exclusive-report-by-mordor-intelligence-864922245.html
     type: article
     provider:
       name: PR Newswire

@@ -24,19 +24,21 @@ images:
     title: "Home security robot vacuum maker Trifo raises $15M in funding round"
 
 related:
-  - title: "Trifo raises Series B funding, announces Lucy vacuum, security robot"
-    excerpt: "The company said its robots combine perception, communications, and artificial intelligence technologies. Trifo holds more than 50 U.S. and Chinese patents and has filed for more than 70 additional patents globally. The startup’s proprietary algorithms have been published at events such as the International Conference on Robotics and ..."
-    publishedDateTime: 2020-01-02T19:27:00Z
-    sourceUrl: https://www.therobotreport.com/trifo-raises-series-b-funding-announces-lucy-robot-vacuum/
+  - title: "ProBeat: AI startups raised fewer funding rounds in 2019"
+    excerpt: "2019 is over, and while we’re already looking forward to AI in 2020, there’s still plenty to say about the past year. While funding news isn’t as critical to our coverage here at VentureBeat as it once was, we do still follow the money for transformative tech. Nowadays, that includes AI. In 2019, AI startups raised more money than in 2018 ..."
+    publishedDateTime: 2020-01-03T18:30:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/probeat-ai-startups-raised-fewer-funding-rounds-in-2019/
+    ampUrl: https://venturebeat.com/2020/01/03/probeat-ai-startups-raised-fewer-funding-rounds-in-2019/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/probeat-ai-startups-raised-fewer-funding-rounds-in-2019/amp/
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.670ABF7F727E210FE1A8F102125D473F
+      - url: https://www.bing.com/th?id=ON.63E663CA67BC598C6A528102161C8A66
         width: 700
-        height: 394
+        height: 404
   - title: "Home security robot vacuum maker Trifo raises $15M in funding round"
     excerpt: "“Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang sai"
     publishedDateTime: 2020-01-02T20:22:00Z
