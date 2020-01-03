@@ -31,6 +31,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
         width: 700
         height: 335
+  - title: "A Rocking Robotics ETF For 2020"
+    excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. Tactical traders looking to take advantage of short-term ..."
+    publishedDateTime: 2020-01-03T17:33:00Z
+    sourceUrl: https://www.marketwatch.com/story/a-rocking-robotics-etf-for-2020-2020-01-03?mod=investing
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Robot Software Market Opportunity in 2019 By Top Key Players such as urhat Robotics, H2O.ai, IBM, Liquid Robotics"
     excerpt: "The report also presents forecasts for Industrial Cross Platform and Mobile Advertising investments from 2019 till 2025. Robot Software is an Artificial Intelligence (AI) system used to perform the autonomous task. It is basically a set of the coded system which executes the given commands. Any type of system which incorporates AI is might be ..."
     publishedDateTime: 2019-12-27T08:19:00Z

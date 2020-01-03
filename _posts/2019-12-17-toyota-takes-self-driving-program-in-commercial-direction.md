@@ -42,17 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
         width: 640
         height: 427
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
 
 secured: "o5D3wjVtZrkQkMnCVA3YSMUgZHdID86ttMXWke+Z3hpT9wXQkd4ss38hPrFZ/F8MrloMjCv4ojhSqWZYbpMj7mPMz6fqh6YYnAOqQh+XockCcQazzZfen0y8Dabn2zu7b35TGEUopU21t26TPzGCtvo6zlTWKCimCoO2zDOGU2dniJAQyTyIstnkLyqs8tcoYxLbd3tCijiTlr/gXrzcm1u1cbQEFv3l5KqpgHttcxquuG1bSNAuIS86ajfZj2on9Sl+F/fsQ50izV6tJv3PHg==;pI4QPDHdtqTOzjD89WU06A=="
 ---

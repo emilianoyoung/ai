@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 86
+quality: 54
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - AWS AI
   - Microsoft AI
 
 related:
@@ -80,6 +79,6 @@ related:
         width: 720
         height: 335
 
-secured: "D2QCNmtLrgibLAEQ8dq37x/BZoLvFjXyKHflReNKS5MoGvcPC/6VZjXZQIIFRKo/HqMB5UjUZOF2laDnNo2flL3WAwKeeHLq4H6p4SD9hqmVB8XaEFdAGysyYR20q4rbAGsxktVyRTQfqpcRRy9WJP6x4X2DPOD9KaPs00FGpT0y0nkB9pGGlb0mvosisTkdLnuzFqCCz4tBwvvt9vdtSgg6z+C35DxF65o01Ur8yFtaLKygJeI7RGtOisheajXe9Co88vR9EGnshH6u+6zCAA==;kqva1SoZXqZwKjYRA83fkw=="
+secured: "3Qx2xc9QZFgzwF5iZS1fxHcgwscmHJwS/HzBG5qmlL1eVVIhQZ3i9NuFxcVsVdEcO172akFIXMZ3IFJe+onEt+djx7X2ls2jaeIGrwGNGgLOXu9BMOiOuCdX92wjf7KRF8VOEi153zJnP+jDRNU9rI/fzhBd5VoJS5kLwbE2VO85ofg1Hj83QYP/Bm9fn7wSGS/ro02aD/peHf8ArsBbdKQquJyq99GAsJCb2LAc1+LLg/CKE9dAULUs346osR65yy7oiZlbZNYuwKXYx+EubA==;ksItrthpx1r6HUrE4RbYeg=="
 ---
 

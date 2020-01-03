@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D4779A3BEEEBCCF50F665D9AA16D169A
         width: 700
         height: 335
+  - title: "A Rocking Robotics ETF For 2020"
+    excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. Tactical traders looking to take advantage of short-term ..."
+    publishedDateTime: 2020-01-03T17:33:00Z
+    sourceUrl: https://www.marketwatch.com/story/a-rocking-robotics-etf-for-2020-2020-01-03?mod=investing
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AI and robotics execs look back at tech trends of 2019"
     excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of ..."
     publishedDateTime: 2020-01-02T14:50:00Z

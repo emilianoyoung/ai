@@ -272,6 +272,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "AI beats doctors at predicting breast cancer,Google says"
+    excerpt: "The collaboration studied the A-I program, showing it was trained to detect a cancer using tens of thousands of mammograms from women in the UK and the U.S. Early research shows it resulted in fewer positives and false negatives and can produce accurate detection than human radiologist. WASHINGTON D.C. (WEHT) – Congress officially went back ..."
+    publishedDateTime: 2020-01-03T20:29:00Z
+    sourceUrl: https://www.tristatehomepage.com/news/national-news/ai-beats-doctors-at-predicting-breast-cancergoogle-says/
+    ampUrl: https://www.tristatehomepage.com/news/national-news/ai-beats-doctors-at-predicting-breast-cancergoogle-says/amp/
+    cdnAmpUrl: https://www-tristatehomepage-com.cdn.ampproject.org/c/s/www.tristatehomepage.com/news/national-news/ai-beats-doctors-at-predicting-breast-cancergoogle-says/amp/
+    type: article
+    provider:
+      name: WTVW
+      domain: tristatehomepage.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DC4CCBAAF93BB4BB6F168EF353497C2B
+        width: 700
+        height: 393
   - title: "Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis"
     excerpt: "Despite all of our fears about artificial intelligence (AI), we still have to look at the health benefits that could save lives through machine learning. According to a study conducted by researchers from Imperial College London and Google Health, an AI program has been developed that can identify breast cancer from routine scans with greater ..."
     publishedDateTime: 2020-01-03T11:15:00Z
@@ -498,6 +513,19 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.EF5A3E97B1A66FB0E5CDBFEBA656C996
+        width: 700
+        height: 393
+  - title: "Google’s AI beats humans at detecting breast cancer — sometimes"
+    excerpt: "Google’s DeepMind AI outperformed radiologists in detecting breast cancer, according to a retrospective study published in Nature on Wednesday. After being trained on thousands of mammograms, the system was able to better identify breast cancer cases than the radiologists that had made their initial assessments. Researchers from Google ..."
+    publishedDateTime: 2020-01-03T22:23:00Z
+    sourceUrl: https://medcitynews.com/2020/01/googles-ai-beats-humans-at-detecting-breast-cancer-sometimes/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A6C6E5E086B66F53D8F9E4A5C7C81474
         width: 700
         height: 393
   - title: "AI shows promise for breast cancer screening"

@@ -35,17 +35,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
   - title: "Toyota takes self-driving program in commercial direction"
     excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
     publishedDateTime: 2019-12-17T13:07:00Z

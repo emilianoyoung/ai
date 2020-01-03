@@ -20,40 +20,61 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
-    publishedDateTime: 2019-12-16T18:15:00Z
-    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
+  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
+    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    publishedDateTime: 2019-12-08T15:55:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
-    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
-    publishedDateTime: 2019-12-16T18:07:00Z
-    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
-        width: 640
-        height: 427
-  - title: "Toyota takes self-driving program in commercial direction"
-    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
-    publishedDateTime: 2019-12-17T13:07:00Z
-    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
+        width: 1199
+        height: 763
+  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
+    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
+    publishedDateTime: 2019-12-06T18:05:00Z
+    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 35
+    images:
+      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
+        width: 1200
+        height: 799
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "LY/IlPeEpVhszg1lrh9bnLlFyFhUUcp5V8WbLauDFSHKpEcqOpHUhH4z9OHejnfzB13PkiJX9raxHMkncrqKHQT5dE0htavPHKzxilR9WS4yyuempLt5b7iaVqo0Pvj5KIaXpvCnqB8uRHkPEgflw+Wgi/n8vIu4xL+CQzlBLzP7stdg3t3YgCdnvjE7mMNvWSMTDygZ5+d4czXPcNcfUigdGGAhCkUDZZj2intc3IPoofKANg5ZDjIlEaCpVqgZiiM1mYkT39He6VYFcNMM6w==;bi188AhLcoQEMjb0RpsLGw=="
+secured: "mecFbEdQoXzs9NBShWqsl82vT5lyGE7PVrxATObQuiDBour7T0lqorfFnJsy/mQ2Undr1ndCz3Mrz/8HrKfTxkBQnhsOQQ69aiSkELFtM9AH6s79hYLx8kDtOak82zrB0qkZ/WIDKim61/C/oVRqNsaT2aQaqEblJhgTS93O2BNZ4a2WckIzCrAPtKFkDQ0xyCfFVGbinPNL1RrG3Ebpvelqlc66atisPJeq56TVoNNu+mBxfserHHkEH3FnE2VV8g1c5JtPjF/VsXM0piJH5w==;uj7OXftiEbAS8LaQA2T0TQ=="
 ---
 

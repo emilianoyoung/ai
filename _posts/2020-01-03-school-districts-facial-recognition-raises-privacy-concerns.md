@@ -1,26 +1,28 @@
 ---
 category: news
 title: "School district's facial recognition raises privacy concerns"
-excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
-publishedDateTime: 2020-01-03T21:06:00Z
-sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
+excerpt: "LOCKPORT, N.Y. -- An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education officials ..."
+publishedDateTime: 2020-01-03T21:09:00Z
+sourceUrl: https://abcnews.go.com/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
+ampUrl: https://abcnews.go.com/amp/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
+cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/school-districts-facial-recognition-raises-privacy-concerns-68057381
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: ABC
+  domain: go.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
+  - url: https://www.bing.com/th?id=ON.61E890E30030333A596C2A29D8532CAF
     width: 700
-    height: 507
+    height: 393
     title: "School district's facial recognition raises privacy concerns"
 
 related:
@@ -361,21 +363,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:36:00Z
-    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
-    ampUrl: https://amp.usatoday.com/amp/2755613001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z
@@ -857,6 +844,19 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:54:56Z
+    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
+    type: article
+    provider:
+      name: USA Today on MSN.com
+      domain: msn.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+        width: 568
+        height: 320
   - title: "Federal study finds racial bias of many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
     publishedDateTime: 2019-12-24T16:06:00Z
@@ -883,6 +883,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9703E681202188EEB0BFF186BE337021
         width: 700
         height: 466
+  - title: "Study finds bias in facial-recognition technology"
+    excerpt: "A recent study by the Commerce Department's National Institute of Safety Standards and Technology (NIST) found that facial-recognition technology is more likely to error on African American, Asian and Native American subjects than it is on Caucasians. The results are likely to boost concerns among privacy advocates about bias in facial ..."
+    publishedDateTime: 2020-01-02T23:50:00Z
+    sourceUrl: https://www.travelweekly.com/Travel-News/Airline-News/Study-finds-bias-in-facial-recognition-technology
+    type: article
+    provider:
+      name: Travel Weekly
+      domain: travelweekly.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AEF71066705E63B8E854310181D2FC53
+        width: 700
+        height: 393
   - title: "Facial Recognition Market Expected to Grow at a CAGR of 12.5% - Exclusive Report by Mordor Intelligence"
     excerpt: "Download a Free Sample of our report on the Facial Recognition Market. Facial recognition is defined as a method of recognizing a human face through hardware like video cameras. The scope of this study is limited to standalone facial recognition solutions ..."
     publishedDateTime: 2019-12-30T10:45:00Z
@@ -919,6 +932,6 @@ related:
         width: 336
         height: 254
 
-secured: "TVq4G8BjZXmgFSgVokXZabeEH3rfZE3O9u+opbbOeBKap2vAYeZCwpIZ9As2mGn7OBgBy9O3sO7gpxuRuzJai21ARBfzT+F7Cobzhib5edBOHM1QsdehgYc8F0O19fRdFKaZcnFU3mU/IomdWWaAYkMn7fofOpS/7cexGxGyck8ap0y5sDUUsj5mIfMkatn4gVYQqcBrBHRvz0ewFGlBjl+VSQf7Ivrsnmm8zuFtWe6yP5a8uWLlzJcsKp0mq1lTNmcOgZ+gnRDwIM30f+VzhA==;9G5SrH0VisnK41s/wcaOlw=="
+secured: "QpaYYfM+Ow/MCm7EKPgLng+KUrVcII6KtwZ87Ed0CeLyc7vqpdfN+N0pO0aNTuaW1UkLTW6dvkEAZZRA14NbohFJ7HSiyCGLb0E+edSkRSUPDrk/uGjdLCGZTTNU5jX1zgEukc02b14xJ+zb2l1zdshUjPvcLn+tyePeoWwWGMXokDm7tlqcZT3cR9WTy/OKYOYgTBGHHjyyZVDERuv6xV8kp0qbbjFrJVowZjJoOMQL3NJcxB4sPo1MAwJB2eHtdYMFijSrNUB6jY3FAwmr1Q==;JIE20qadpgtbP8E9DC2gNA=="
 ---
 
