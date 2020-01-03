@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T01:25:00Z
 sourceUrl: https://siliconangle.com/2019/12/17/analysis-drifting-back-clouds-aws-reinvent/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 3787
     height: 2155
     title: "Analysis: Drifting back down from the clouds at AWS re:Invent"
+
+related:
+  - title: "AWS re:Invent: Intelligent services, closer clouds"
+    excerpt: "AWS isn’t the first to offer quantum computing capabilities ... Like Soylent Green, the key part of the next service, Amazon Augmented Artificial Intelligence (A2I), is people. Machine learning models don’t always produce clear-cut answers to ..."
+    publishedDateTime: 2019-12-12T02:40:00Z
+    sourceUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.html
+    ampUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
+    cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
 
 secured: "A3uVfh3GI86p7/hzeGCNxZu3fBnLlDMHwS3MqytKZMOCrSgmRABjFvtG34WUniNWmjmceoOjlUDmjaTKIjFBh1Fwb7NB0KGJSRAL7ZBYZRt6fSYKJ3HKeTz+A5zBZRsSD+dcNg9IXxhUa2tTAKmKOQkVwQfGiD1wRO+EYxuw6m/rhNK5+nNE8G9rqe399amqUknWQUNtLfG7W0S3f9yZm0VUD6t3DwuHNbvHquqd13oF1xOc+GmbLd5i7jIDZiAcXasepQaE+C1gA5ebngz3IA==;nVMSAvGrdUMNgOs3g1kr5Q=="
 ---

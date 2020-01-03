@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
-excerpt: "© JUNG YEON-JE/AFP/Getty Images FILE: A South Korean demonstrator holds a banner during a rally to mark International Women's Day as part of the country's #MeToo movement in Seoul on March 8, 2018. - The #MeToo movement has gradually gained ground in South Korea,"
-publishedDateTime: 2020-01-03T08:37:27Z
-sourceUrl: https://www.msn.com/en-za/money/technology/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYzIpM?li=BBqg6Q6
+excerpt: "Artificial intelligence programmers are developing bots that can identify digital bullying and sexual harassment. Known as “#MeTooBots” after the high-profile movement that arose after allegations against the Hollywood producer Harvey Weinstein,"
+publishedDateTime: 2020-01-03T10:37:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYzKzh
 type: article
 quality: 36
 heat: 36
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5A4B4ACCF97677CB3DD426A10F0D3ABB
+  - url: https://www.bing.com/th?id=ON.2E3189FBD29D7795AB1B73740A335B4E
     width: 700
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "48D+gMFPZsYgus9Bmg9Db/0kSpW3sTxH+IJaAaME5TRWUgL3UIhZeeTEOFQntMPOP2sJuGLQJgHTV08EiI/NL9cJN8zL/Yu2VC6pUjbs7yqjRQIOIslCawAwScW4qtHBUkVZdSL6spaz8aLhgbD+EBbus7ZeHOdl9MwmOdo3AoI2iLbQgeVkYncsqoCL2C3WqTn33FyLXBkENy14FIlOJnqfkJN2PBvhHgoxFGjdCl1pIq0bc6Rj5aOCp7eX4V1aFwos009njUSlZukGl/NUwA==;aNuDjbgiPOuReOgghkmPzw=="
+secured: "oIyk6iUMFE2+OwGfUDpb/rezCaQzddjEoRTGEY1E/v6giU1nau5UEmHTE+N5xys935Sm9ALJqd1cF4fKR0OcIt/l7JIW3Jp+emvAWF2QPcfM/JQR63DecBn+PYl3Qv+vQz0Tt2VJkpok5wppitmuNDnzgTCzF0yjbNzRcmAkcbP4gftTd77VX8VB6Q9UtOrQg0oUeUbVWSGV2AbIAx7H/3eXydFxfoNtSwsII4EQVIbP2bCupg/4cztYNOGndR7+cUgQH7ZlxDeVD/6r+qkSAQ==;1cWzvXek4p92aN9oNEnVSQ=="
 ---
 

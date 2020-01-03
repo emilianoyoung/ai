@@ -595,6 +595,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
         width: 700
         height: 466
+  - title: "How facial recognition can play a positive role when used responsibly"
+    excerpt: "Facial recognition has been named as an epidemic of our time as campaigners warn against facial recognition use in shopping centres, museums, conference centres and other private spaces around the UK. Its legal implications are a hot topic around the world, in the US, for example, the government has recently dropped the use of facial ..."
+    publishedDateTime: 2020-01-03T10:30:00Z
+    sourceUrl: https://www.itproportal.com/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    ampUrl: https://www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
   - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
     excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
     publishedDateTime: 2020-01-03T09:00:00Z

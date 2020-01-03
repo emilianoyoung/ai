@@ -118,6 +118,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
+    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
+    publishedDateTime: 2020-01-03T10:02:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
   - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
     publishedDateTime: 2019-12-31T12:00:00Z

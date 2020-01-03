@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
-excerpt: "WekaFS was architected to leverage the benefits of NVMe flash technology, delivering high-performance, high-bandwidth, and low-latency storage infrastructure to meet the demands of today’s GPU-enabled AI and HPC workloads in the data center and in the cloud. WekaFS is the world’s fastest and most scalable file system for AI systems ..."
-publishedDateTime: 2019-12-11T16:20:00Z
+excerpt: "WekaFS was architected to leverage the benefits of NVMe flash technology, delivering high-performance, high-bandwidth, and low-latency storage infrastructure to meet the demands of today’s GPU-enabled AI and HPC workloads in the data center and in the cloud."
+publishedDateTime: 2019-12-11T16:16:00Z
 sourceUrl: https://insidehpc.com/2019/12/innoviz-to-accelerate-ai-for-autonomous-vehicles-with-wekaio/
 type: article
 quality: 39
@@ -18,11 +18,11 @@ topics:
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.A85B223100426780EFC54CB2F0355D0E
-    width: 700
-    height: 642
+  - url: https://insidehpc.com/wp-content/uploads/2019/12/weka-1.jpg
+    width: 1164
+    height: 1068
     title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
 
-secured: "Sv5jObLWXDz7pVJGPbzcb5tnaarglsrt37Zz8hKPKA2Yyl1w0A1HpDqQU/23o3ROccR9m7tjSxzGqX8f0l1U59sHM17dM4Upm/5XeN6nQ2xlJGuczxxfbSjQMvx2YxjovVQmDnM1x0aXx09HBrjT46t8pL4vilEqQDSFPvICZ/gUG9PwuXzgcb9V8oGp3Ryl8MSd00bLkOm6tu1vGlDEFAAzpNneBwnPDIuTHjS3N9CrVswEzlO4viilAiKNmTrilEPuDG9Yf1oIJ0CgOci+zQ==;SAY9UYwaGq1xq5Bmk80bsw=="
+secured: "OoUieVZhfvRHfX/Lq2DrFTykggyCgYtlTcdZb39UL6cPDaJ1oViXrqCC6THRK3rFnPokx0fLY1sHrS6v85tr7/hjYtnptTI3OT1BxFHX5+Mra03W5726uWUJoaAFWuvGBs6yxqCrJnBbabbJqtgT8jmX4dSLlxun0RBM0PFZhKHQZ5+yodKAEaNLS8ptRMWUyf+38k7eKX2G7R+pRV8wk7xjlXIm0xEMThsyoNsG4uqP8OcbTiaTjB+3YRvxQoVAuXiMOBli/GNwZg9tnYqqSg==;yu2jtAcjCAWxb970+qGtaw=="
 ---
 

@@ -37,6 +37,19 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-13680-7/MediaObjects/41467_2019_13680_Fig1_HTML.png
         width: 685
         height: 495
+  - title: "A deep-learning technique for phase identification in multiphase inorganic compounds using synthetic XRD powder patterns"
+    excerpt: "Here we report a facile, prompt protocol based on deep-learning techniques to sort out intricate phase identification and quantification problems in complex multiphase inorganic compounds. We simulate plausible powder X-ray powder diffraction (XRD) patterns for 170 inorganic compounds in the Sr-Li-Al-O quaternary compositional pool, wherein ..."
+    publishedDateTime: 2020-01-03T10:15:00Z
+    sourceUrl: https://www.nature.com/articles/s41467-019-13749-3
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.A785F07930421FDB9513533F79FC4DAF
+        width: 685
+        height: 336
 
 secured: "PMWDDPP1+Uu5xS6eDcz+viSPdDWAO5aauzl+TALUDMLuVoPuFM5jRI4TlAxFfKOK8G20fkfUHhGw8HXWdsQP4/RCNbTW4cWcPaQI+HYbEnRL4bJ0w/ZD/YS2+FDDHtNIQCEVyva/mz9BR+XlyYR5XJVhBS8xpcjWdsO22DBKDWBPGrEYOOIMRpiVhf7WaF2wKyaQTr7RFckeQy0nxz1SBVEbIBUZDym0m93ZKAYuYLGcjEbf6PzyYbj9eZ8kRISpJOIYhScUuF8ukvqr/yi/sA==;vugxlzbVUDiGd9HtzI45VQ=="
 ---

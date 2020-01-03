@@ -610,6 +610,17 @@ related:
       - url: https://www.bing.com/th?id=ON.E6230B4C76EC171A0998E55C2C8E7722
         width: 700
         height: 466
+  - title: "How facial recognition can play a positive role when used responsibly"
+    excerpt: "Facial recognition has been named as an epidemic of our time as campaigners warn against facial recognition use in shopping centres, museums, conference centres and other private spaces around the UK. Its legal implications are a hot topic around the world, in the US, for example, the government has recently dropped the use of facial ..."
+    publishedDateTime: 2020-01-03T10:30:00Z
+    sourceUrl: https://www.itproportal.com/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    ampUrl: https://www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-facial-recognition-can-play-a-positive-role-when-used-responsibly/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z

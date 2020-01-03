@@ -1,13 +1,13 @@
 ---
 category: news
 title: "What is Deep Learning? Everything you need to know"
-excerpt: "That means taking in data from the world around us and forming ideas about how to optimally perform tasks or understand new information. Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information ..."
-publishedDateTime: 2019-12-20T10:00:00Z
-sourceUrl: https://www.techradar.com/sg/news/what-is-deep-learning
-ampUrl: https://www.techradar.com/sg/amp/news/what-is-deep-learning
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/what-is-deep-learning
+excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
+publishedDateTime: 2019-12-20T10:06:00Z
+sourceUrl: https://www.techradar.com/news/what-is-deep-learning
+ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
-    width: 700
-    height: 466
-    title: "What is Deep Learning? Everything you need to know"
 
 related:
   - title: "Machine learning opens up new worlds for developers"
@@ -61,6 +55,6 @@ related:
         width: 700
         height: 466
 
-secured: "aeN3C/1JuwkdxK+gCzmY9aBgwpMOfE0NkS7gddbJzA4WHCSlS+JgItOyxNLILvJcTAhjwCpu0rjmWRRLFAVtDcJqquJPdJHKlaJW1SmjShovlBvcT0yQtGvRPAT7gtScRPAtboXK92Zt7u4KobKCdWDYm5F9s1KlWLSOmJZMhtHCRiHaJ2NVttoRhuffRDfiWnOGYfW0QDUJ74ubW7m7U9bLJHP833ksM1+v4x2N1fH19ZUyWBMlPleNo2MsKBKVF0qdpNGwGm0tk1PiZ2mw2Q==;zCrsZlEFxdWTpT+W1hpsrg=="
+secured: "hpLQzKMDXmyZKDEQ6WA7m55hohnfq76ra3lKk0KcqSkrGJwY9NgcKJ6ypkXUHx6qaPRYCtcwalJBzTsjZIAkJ6agnMQHy0Xu0V+BV8K4Y2UZtyY9FRP041M1D9cmGl98P2nuKdzQhPGkV+DymVIldu+YA481a3/UzHCIKisJ0jHcbaoCXjhyx6NP7Ey/keLFnpHKeXCLmcjHV55I6sFQvT71hRK8Ofl+XzzOzLnGvAyfb1SaKQaUg/1jrLV3fvK4/pduE1f//D4MspQpTIpgSQ==;5n5OFD4Dy0/jt9Nj7EmEOg=="
 ---
 

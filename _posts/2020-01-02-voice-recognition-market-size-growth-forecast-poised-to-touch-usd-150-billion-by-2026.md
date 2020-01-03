@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
+    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2020-01-03T08:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
     excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
     publishedDateTime: 2020-01-02T11:32:00Z
