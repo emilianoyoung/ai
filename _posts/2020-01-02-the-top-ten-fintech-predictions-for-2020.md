@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The predictions for 2020 we got horribly wrong"
-excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
-publishedDateTime: 2020-01-01T11:20:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
+title: "The Top Ten Fintech Predictions for 2020"
+excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
+publishedDateTime: 2020-01-02T21:47:00Z
+sourceUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/
+ampUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: CNN on MSN.com
-  domain: msn.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
-    width: 600
-    height: 315
-    title: "The predictions for 2020 we got horribly wrong"
+  - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
+    width: 700
+    height: 525
+    title: "The Top Ten Fintech Predictions for 2020"
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -95,21 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
         width: 640
         height: 427
-  - title: "The Top Ten Fintech Predictions for 2020"
-    excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/
-    ampUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
-        width: 700
-        height: 525
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z
@@ -147,6 +134,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
         width: 700
         height: 466
+  - title: "The predictions for 2020 we got horribly wrong"
+    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+    publishedDateTime: 2020-01-01T11:20:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+        width: 600
+        height: 315
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z
@@ -172,6 +172,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "CUSsK1JI0zl3bAIOcSW8wWj+S5HPhCidKlAWdC3h/sSVO1A8sULpe/dJ2aMW3ajMiJXTmx0aRCrIvGTA3ldiEJN8nSevQynHZJW/azoN+jLQHgrI5N2owZ6gso5Ra4UzL9ud/FAjgLVhkZOLJQ6n4SsvfTuujQZO3bQ8+6jnLsqYAUy7CHNCzEHOyZV4/ufgK/8r3hU14Dxx+likoIfDAaYKDfX43PAXG0bPjMxslAfxRNxnIQ5iSUMbSgjO8XPtZoOlhJILu71y7GJYlxdB5Q==;S69Nz597y6A6aqYohz2LVA=="
+secured: "c5EYelZT+z3qvMKYmEmUvklePaUKVaz6Mf2MJYGDiQmp8Y90GNpPjkf67lxU3KkGIDw86jlcwYFigtMX3GG9dG4lsnExqIw67qss99ysOWpKSdzKLTM/9rK4Sz0bADxET8OZk43wvS76AhIx8vBJTVRTVthwsFBuwAEp/hOoNnX6yS4DqtNaSIjNEZao8Ctf5tniZ2aLVwg1fFcX3aJkOIxJJ/xW8icNdS3Tv9yghqaAVX3za+KShTrz0wyt89avB0Q5VubtdFSTFZzupBaoHA==;dFwC8JhdnJs4SDqZpjJH9g=="
 ---
 

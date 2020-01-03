@@ -23,6 +23,6 @@ images:
     height: 375
     title: "Amazon Launches AI-Powered Keyboard AWS DeepComposer"
 
-secured: "FD5ZTPbbPUxKCwqCiM0LY3jDWJ995RCeK6iUiRommMDXAREFUCjtXpz0eLwUi/4biraZPzqAmcPfDGr+qhal7z7uErHqsxNLBHEvWVkOlai2vGsXSPbZvr7VZ/8ZIA+Rnu+bWyfj1Q5152UEcI/PZrUvEL3rgHC67b1klentKs0c6NIl7VHLp+6bY97ichthNSv8tXKKq0xA8GrPMOE+roYhz3E45FBBHR9aBFr18h36jQ3mjVVEh1fJ+Rai1O1L6ViHg+PEiYxldAQ8bqeRFw==;9Lf/CiqLAdWwTAAsXsU0Uw=="
+secured: "jR2QNG5MEDma3AQTwIjjePvPX43jYsxMRxWIKIPqmPwrkB2oA4Nlq94/47oEDw6PV/jf6vJvzFtfTDs3A+P67S+6VfUN4YNgdbp65dgsaiOdfcxk0r0PBEYoix0CSEmwpCbn62q/qwW23WpMSOpzuF6vuZQJRIW7KEV7GzmBPx8fp3nZSFndfNMCaH+4vhcKpIuB2xL7v9Rg3GI+SJV2diHFvR40xAZDeH2/K2xChysjClmpRdvLTaaDLXI9RiZuuT64fKtDeGErBf1Y+TmCWg==;FFXEFWdico/1IpYyQKqVXw=="
 ---
 

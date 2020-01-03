@@ -39,19 +39,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "AI Now 2019 report slams government use of facial recognition, biased AI"
-    excerpt: "“Community groups, workers, journalists, and researchers—not corporate AI ethics statements and policies—have been primarily responsible for pressuring tech companies and governments to set guardrails on the use of AI.” AI Now 2019 report AI Now’s 2019 report is out, and it’s exactly as dismaying as we thought it would be. The good ..."
-    publishedDateTime: 2019-12-13T22:08:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/13/ai-now-2019-report-slams-government-use-of-facial-recognition-biased-ai/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.6E68221647382839DCEB1B5DFD15B038
-        width: 700
-        height: 350
   - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
     excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
     publishedDateTime: 2019-12-19T22:11:00Z

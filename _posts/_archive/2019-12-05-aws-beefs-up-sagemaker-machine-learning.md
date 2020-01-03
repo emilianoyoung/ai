@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -63,7 +64,20 @@ related:
       - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
         width: 700
         height: 335
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "yASSgXQ3cWqs5kTryleHbqPwAy6U//FBeMmkvOWX8bMG3FJKoIycvhtd1QHjw7ReT80T//S/QpQh6uKjMFKR8sDF9xhV0eV/2tPpWFSprt3HB94LVdceaah/tL6gzThI0/6poeyRqWTDq4zJMDvQfJoUjvAYJGXk96w9SSeAN7m4op8hO8JpfTuOd4/NJ2lNHco6uXAYCQAHHCM8VL0Lc3qp28EODGBGntVZ4d1mSRRDANDalxdnta1LV2XIf75KTARVyCn/wN04/gpf1YPokg==;yIjCofq8S29AjnjLARxkLg=="
+secured: "XDgg13pqOZ3xoVyLM0a8d2oYn/zRSBSSNfi5C2AlLT8HxZBLdbmpaLlUaoFOCV+Zo6nEMuQeJs2pfZf7XViZUd2olb4mu/rj6+fweLTZ4PfFdg5THRc3eA2ml8+t7kjIAaifC57CRPO969NpMRPjKgs/U1R+SYJ+uCoSYZJNednY6bquMsv5EdZeYHZP8Q/22KhBcgcAe5rZNpHBP+71yrB9CFuT3Smz9RoZXoSoErhJcDQblsB7z/lRYRWFpnmunNffnhPY40gJaBMhNP/Bzw==;J3835M3/skv26tQoqB9Sng=="
 ---
 

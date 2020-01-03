@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Conversational AI Market Growth and Technology Advancement Outlook 2019 to 2025"
-excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- The report titled \"Conversational AI Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, SWOT analysis, policies, and clients operating in several regions. The qualitative and quantitative ..."
-publishedDateTime: 2019-12-27T03:19:00Z
-sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-growth-and-technology-advancement-outlook-2019-to-2025-2019-12-26
+title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
+excerpt: "Lagging in semiconductors, China sees a chance to overtake the US with AI chips as 5G ushers in new era 4. Modular design method will makes chips easier and faster to develop. The traditional method of chip design “cannot efficiently respond to the fast evolving, fragmented and customised needs of chip production”, the Damo Academy said."
+publishedDateTime: 2020-01-02T23:28:00Z
+sourceUrl: https://www.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
+ampUrl: https://amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
+cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
 type: article
-quality: 63
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: South China Morning Post
+  domain: scmp.com
 
 topics:
   - AI
+  - AI Hardware
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
-    title: "Conversational AI Market Growth and Technology Advancement Outlook 2019 to 2025"
+  - url: https://www.bing.com/th?id=ON.5176A19A7044A2FE9450B6C1146DC8EB
+    width: 700
+    height: 367
+    title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
 
 related:
   - title: "AI Chip Industry Latest Trends, Demand and Advancement 2019 to 2027"
@@ -36,6 +35,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 84
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Conversational AI Market Growth and Technology Advancement Outlook 2019 to 2025"
+    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- The report titled \"Conversational AI Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, SWOT analysis, policies, and clients operating in several regions. The qualitative and quantitative ..."
+    publishedDateTime: 2019-12-27T03:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-growth-and-technology-advancement-outlook-2019-to-2025-2019-12-26
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -79,21 +91,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
-    excerpt: "Lagging in semiconductors, China sees a chance to overtake the US with AI chips as 5G ushers in new era 4. Modular design method will makes chips easier and faster to develop. The traditional method of chip design “cannot efficiently respond to the fast evolving, fragmented and customised needs of chip production”, the Damo Academy said."
-    publishedDateTime: 2020-01-02T23:28:00Z
-    sourceUrl: https://www.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    ampUrl: https://amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.5176A19A7044A2FE9450B6C1146DC8EB
-        width: 700
-        height: 367
   - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
     excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
     publishedDateTime: 2019-12-20T07:52:00Z
@@ -122,6 +119,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "yuHIQTHVaaqnw10avnpm/mgIVz0JDpO6cQOBX0l19aUscC0yMDzzLhrfKkvtkwUkyWTzQEMtngCEGypH5ynfUDyNThAb9JzGDOyguqzpVRzUAdn84aebCy0ZntKHmvebOaCBsMASN4VkwXok8QbutTTTX9ZuSqbWBP7qg0YRdoo+0GH6pYHoQXFQI4YIOf/RHsD+KWOkMgl3PqEHaic0HkJlfNLRue6rZnTOmrNHF8j+wlQXRv3vgOnjmrSp8ZZ5FWV5DNmRPcFBnYLRNk31Ig==;AgfT1SQCmUtipnsNwMBOEg=="
+secured: "qbwzM5s6nbZFkQCYT4nnxRJbLtUAeuoAFjJyCDFjaVdIYZzMlG9XPO31T7o9VhXi1V1I9PNajH9tb8HKJnu27ifXQtS7WziLpweWFn0Cd5kBMW8DOqnR/jkISwg7GpyJIJ2ALypqzh5t4EC8l786eO4lMXc+eO+LiayM+WYR1QVQ2hGneDRUfgvdqDmeiP9t1b3i42PHkIfXlE+fDOSlMerEKGPcmvN9wkGnZT+j+1MIPCmKqgwSFy+Mye54gmLMelzGj+Z2ZLz62dmHfmwd2Q==;+wIs25vBvXmwTYfbxBB9wQ=="
 ---
 

@@ -193,21 +193,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
         width: 600
         height: 315
-  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
-    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
-    publishedDateTime: 2019-12-13T22:32:00Z
-    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
-    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
-        width: 700
-        height: 393
   - title: "UAE belts up for self-driving journey"
     excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
     publishedDateTime: 2019-12-16T04:33:00Z

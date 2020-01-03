@@ -91,6 +91,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
         width: 640
         height: 427
+  - title: "The Top Ten Fintech Predictions for 2020"
+    excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
+    publishedDateTime: 2020-01-02T21:47:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/
+    ampUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
+        width: 700
+        height: 525
   - title: "20 AI Predictions for 2020"
     excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
     publishedDateTime: 2019-12-31T01:31:00Z

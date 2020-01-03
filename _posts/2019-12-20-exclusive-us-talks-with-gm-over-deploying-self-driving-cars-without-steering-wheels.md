@@ -8,7 +8,7 @@ ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.htm
 cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
 type: article
 quality: 134
-heat: 434
+heat: 424
 published: true
 
 provider:
@@ -175,21 +175,6 @@ related:
       - url: https://www.bing.com/th?id=ON.69E6091B0B38F7BAB9BF2EDEFC6E5F4A
         width: 600
         height: 315
-  - title: "UC San Diego Rolls Out Self-Driving Mail Delivery Cars"
-    excerpt: "These days, getting your snail mail at the University of California San Diego is pretty high-tech. For months, UC San Diego has been using self-driving cars to deliver mail on campus. Here’s how it works: each morning, the car -- which has seating for four -- is loaded up with mail. The car’s computer is programmed with the information that ..."
-    publishedDateTime: 2019-12-13T22:32:00Z
-    sourceUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/
-    ampUrl: https://www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/local/uc-san-diego-rolls-out-self-driving-mail-delivery-cars/2230426/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.FF8666F0D0DE47D8EA04724CF6F36652
-        width: 700
-        height: 393
   - title: "U.S. Talks With GM Over Deploying Self-Driving Cars Without Steering Wheels"
     excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
     publishedDateTime: 2019-12-20T23:12:00Z
