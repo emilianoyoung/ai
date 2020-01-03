@@ -260,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "AI system outperforms experts in spotting breast cancer"
+    excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
+    publishedDateTime: 2020-01-01T18:00:00Z
+    sourceUrl: https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+    ampUrl: https://amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+    cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
+        width: 700
+        height: 367
   - title: "AI system is better than human doctors at predicting breast cancer"
     excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
     publishedDateTime: 2020-01-02T02:00:00Z
@@ -467,19 +482,6 @@ related:
       - url: https://www.bing.com/th?id=ON.14BA4E501B16650CE2278CF1E7928AA3
         width: 700
         height: 393
-  - title: "AI system outperforms experts in spotting breast cancer"
-    excerpt: "An artificial intelligence program has been developed that is better at spotting breast cancer in mammograms than expert radiologists. The AI outperformed the specialists by detecting cancers that the radiologists missed in the images while ignoring features they falsely flagged as possible tumours."
-    publishedDateTime: 2020-01-01T23:10:00Z
-    sourceUrl: https://www.msn.com/en-au/news/other/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA?li=AAF3IbP
-    type: article
-    provider:
-      name: The Guardian on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.D409150672A3F4C28F04F777A0263F75
-        width: 700
-        height: 367
   - title: "AI beats human breast cancer diagnosis"
     excerpt: "A computer programme can identify breast cancer from routine scans with greater accuracy than human experts, researchers said in what they hoped could prove a breakthrough in the fight against the global killer."
     publishedDateTime: 2020-01-02T09:16:42Z

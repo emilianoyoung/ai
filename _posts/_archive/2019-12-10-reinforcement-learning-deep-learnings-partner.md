@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Reinforcement Learning, Deep Learning’s Partner"
-excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to overestimate deep learning’s capabilities and pretend it’s the magic bullet that will ..."
-publishedDateTime: 2019-12-10T21:43:00Z
+excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to ove ..."
+publishedDateTime: 2019-12-10T22:29:00Z
 sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -24,9 +24,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.E0499B449EC56143D4A6B4376F9FF978
-    width: 600
-    height: 315
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df00fc625ab5d0007ce1af2%2F0x0.jpg%3FcropX1%3D2%26cropX2%3D897%26cropY1%3D64%26cropY2%3D567
+    width: 896
+    height: 504
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
 related:
@@ -45,20 +45,7 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
-  - title: "Concordia researcher applies machine learning to financial risk management"
-    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
-    type: article
-    provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
-        width: 700
-        height: 558
 
-secured: "tViJplvNcC3FJJGj1/dNGNG/mtKBkW9Jpusi7rnrlTVcAFMLPbV7SvSsb0ElM53swnEH+1e4Ck3IYkBymRzK77W5mC2t38LrjqV8mA9ucI9RlmJP3X0+07fVfmu+J4eA+7AoiEyj+vG/uUU+kiAGHGyVoUW2lwXB0ozo+eFr5wZkJvvR3qS5PifmzG4Zbam5SrS7rFJCk+ZotdkER0PxlC7N46UsGxVAqyKwPkHak3LAq8jEQJShFC+wwsFeSa1dkFBwlrgMD91MXUM+qptP9w==;Vn71Fk4VTS49kUIvTZG/Fw=="
+secured: "25MnvBfeW21Izd9QqJEXnKAodtgTJs0WIJi1Q4Sro2ZcU+81wQrmbSfZvc2k8Sm3pWD8erjkJ1ckhVXCnOerIeDVOv5dpNmWyXpVyhXMBKg+r7IvMR62ZHysv3dE65OuPx+LDRXdcxaUpjqm1tdFmzOLDNxtJahW0nT9F7q4cDOCslCW/R5CZcC3alQrQd+bl0eJc98GF+pBo8kYwQqsoW/Z36s+qtw3EO4zYIc4S0xF1e9VIjYfD9PoQAun1SwBi/9hj8OOB+V1uNt4ohHXFQ==;h4WLF/oHWxEvQVUmhgb6UQ=="
 ---
 

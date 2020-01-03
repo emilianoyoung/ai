@@ -36,6 +36,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
+    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
+    publishedDateTime: 2020-01-03T07:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
     excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
     publishedDateTime: 2019-12-30T02:53:00Z

@@ -1,23 +1,25 @@
 ---
 category: news
 title: "AI system outperforms experts in spotting breast cancer"
-excerpt: "An artificial intelligence program has been developed that is better at spotting breast cancer in mammograms than expert radiologists. The AI outperformed the specialists by detecting cancers that the radiologists missed in the images while ignoring features they falsely flagged as possible tumours."
-publishedDateTime: 2020-01-01T23:10:00Z
-sourceUrl: https://www.msn.com/en-au/news/other/ai-system-outperforms-experts-in-spotting-breast-cancer/ar-BBYwOGA?li=AAF3IbP
+excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
+publishedDateTime: 2020-01-01T18:00:00Z
+sourceUrl: https://www.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+ampUrl: https://amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2020/jan/01/ai-system-outperforms-experts-in-spotting-breast-cancer
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.D409150672A3F4C28F04F777A0263F75
+  - url: https://www.bing.com/th?id=ON.8D25BDD86C7CE6F2ED82466B83FFB3C1
     width: 700
     height: 367
     title: "AI system outperforms experts in spotting breast cancer"
@@ -571,6 +573,6 @@ related:
         width: 500
         height: 500
 
-secured: "/f1ZQWq7dExfX708aNyByuTYzAdsroWjTf/nPHysB6lVRZY6SEK9hy0tgcb6i3EwZbE9nh8646BUcMxlh+kuyDIb7uha1kC6tPVjlhP/xaUJOkqjS5mcIJJCEQSrSRpgHiPMaG8egRQBtLZmc9zio1tJnqrbivMJ9jDovmro8rJIXY4Ygs0MBzFO1ttDcFWkuBGlQGeow4V/ldSRS2iK9eAtiGNqWsNHEmCVpHAx77nmr09zUfAmoE6w+KD5yjAGmjVD0E20TkPg9QHCGlnILA==;lEvnloLTT4RRO/6Rdm5ZMA=="
+secured: "htERQDT82mv0XowMkS+VPHInFJwVzfAYN45kU0okee75AFVMnNORv/kjhjNal5pnN26IGF3xppySFNJy4uknuNUvlCyFxqjSBWqLJM0Y8eaLcFXrHNPUkFwPngq0ZldEQScV/IIgRaVGSLauWQYE7q8u3sdXXEmKx08kgb0WQYbN2RYWN32QHZI5b5phPGAcMQfeL8J0r2KZALPjf9wMM+84lXr4OJxtBCGJQcTPYM8emV5LeCUT77SBhXY2uYPMZ64jwMQ4VkrzJzMTOZVahA==;LeFCo1Ul91I/2IfjWW6ozw=="
 ---
 

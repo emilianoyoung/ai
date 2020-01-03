@@ -40,6 +40,17 @@ related:
       - url: https://www.bing.com/th?id=ON.57FE5745D14967DCBDD37117F13F554D
         width: 700
         height: 379
+  - title: "Artificial Intelligence research hub to come up in Hyderabad soon"
+    excerpt: "A Centre for Research in Applied Artificial Intelligence (CRiAA), a R&D Park, a Centre of Excellence and other facilities in Artificial Intelligence (AI) will come up in Hyderabad as the Telangana government on Thursday signed eight memoranda of understanding with various companies and institutions.(Getty Images/iStockphoto) A Centre for ..."
+    publishedDateTime: 2020-01-03T08:06:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM.html
+    ampUrl: https://m.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 37
 
 secured: "kzPA2l/FYwKJXbYAd8gmDQ6j1CptrygV5CsJN0SLzKnGmljM14B9V2s0Y0XKAyY5zFw4+18WyW3qQ82vO7Q9xFEhmQDXwO69meVZ0IQz2BmIoZ9tjb7aZ8ms/SHA6LfNSHcYhTYvFAJkTRjA33cm9AZbChOtVLjptXS07GakoWSKd2Szc7ejfVaAm/UQkY2GatMtEdEjP8H7CnK9uqxHnn7CTAygy8JmQ07E+NpwciphiKnYXHazvkiTB/o7s1p6u6S+iU7KKlXGm93t7oG6mw==;UT90yt8wjswzJFOMsQ7+Ig=="
 ---

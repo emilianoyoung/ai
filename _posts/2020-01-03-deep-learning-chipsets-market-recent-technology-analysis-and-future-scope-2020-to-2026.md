@@ -1,20 +1,31 @@
 ---
 category: news
-title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
-publishedDateTime: 2020-01-01T00:08:00Z
-sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
+excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
+publishedDateTime: 2020-01-03T07:12:00Z
+sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
 type: article
-quality: 0
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
+  - Machine Learning
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
 
 related:
   - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
@@ -26,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
-    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
-    publishedDateTime: 2020-01-03T07:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -180,7 +178,16 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "f8vdloDUKkDSv1w1x6sFfbfLU+jy4qMexRxARq4EF5Jmyabekee51JBFilmK01IRXR6oZ3rE3Pt7mJ71tTDsJr8Mu/Fv5KIoWX90UMOZ1A96lFhvrD5ggsMTfkhGODOUlaKWl8CnGSLMSalKYzR+GtHiWe950M2AoPWaGnjvLHdPKZMr61yCK4Kohh/BEIdpCj4duFa/znXFEXVpBpIe8chHw/Flsz5TgW1eDC4epN6ymOLMLR8RCNrmJkEKawbvLvqOhGmDnoffFsHfIWDl0Q==;Y5FNFnNT2R+oy8Dh6HHqRw=="
+secured: "N4BGRxw36sEAWCf7WFweQjzOFY1BDj/x7ONIkJnwDoLBWg4ildo4A5hHJR2/LtB49WHdH1In7pDajm9iYA1PpJ9NBzTAg95z06oPdgGi4GwRXQpYOBXXlSIcqyz+qkwHj5FerBihSrIqncS7koxJYZxSqoLiBmmw2WxRFdozuFLrh+kAHQJZrA72jIVU+P3cQu6KF1aqasY11m1PY9QXC9wpF7fOVAKOzFLsXBY810BRpziwp9XrsnX3vpDDJAjr2fTqiKtb/CNxg3wIAgc4gQ==;BFzmAwd1UV9gqHd2Z1LMOA=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 388
     title: "Audible nears settlement over controversial AI captions feature"
 
-secured: "GSBmjb6HrsCEE652RvOLxhsniNA9ExslWbR5OK5PVkGiGFoWZPkTI446nfix45CweZz+0UwFGtOYaBPNhmx/OcZIyMSYKT3s4yB8DIas7KNfe9YAoN+3w0AsXHOWW0VTR+odWlLKvH/ThiBQT6tqG2qOq9HjAT7QyKT/V1CRKSOIdkCyvZ1ylhP/QY2KaUGRUVAbKy/C2FaFnGIerOAwQQ3/5OvjLuR6P5ooXrUliBiCIsXuZKcLthCOUJOaakVeiA4V1XTf+SE75sN4VRONVw==;QOKfWJGs/Fz5RwNVQop3TQ=="
+secured: "Wg6zyAAIvlQw9Bfi8uBb7EpLDZrU9SI+svviZ4d99J31Yhi75dqzsL+BQmdt+e8InLIixistRMIh7VRamgZQHgJ6p7Va4icf0/IiLeKPvi6L3vHAIoYhMl+CnNNxlkS10AYU4kySWHVEg2o7+zmw6SSXA7W56hkGwx609n6nzfdcu9sY6iYzeoSa3J3bUzxI7pPynb3Xy/v+t3ePQL9RutzujE8hynCNVocmgImgdAigMM3l0SR0nIDvcriI1Cld1wiXA+wJDoN7Li1rCBY3yQ==;BsbvCtNwZuNUB/lf/trUDg=="
 ---
 
