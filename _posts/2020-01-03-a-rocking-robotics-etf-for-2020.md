@@ -1,27 +1,23 @@
 ---
 category: news
-title: "AI and robotics execs look back at tech trends of 2019"
-excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of ..."
-publishedDateTime: 2020-01-02T14:50:00Z
-sourceUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
+title: "A Rocking Robotics ETF For 2020"
+excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. UBOT has tailwinds right now as the robotics market ..."
+publishedDateTime: 2020-01-03T18:33:00Z
+sourceUrl: https://www.benzinga.com/trading-ideas/long-ideas/20/01/15015434/a-rocking-robotics-etf-for-2020
+ampUrl: https://amp.benzinga.com/amp/content/15015434
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015434
 type: article
-quality: 69
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ctovision.com
-  domain: ctovision.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Robotics
-
-images:
-  - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
-    width: 1024
-    height: 530
-    title: "AI and robotics execs look back at tech trends of 2019"
 
 related:
   - title: "AI and robotics execs look back at tech trends of 2019"
@@ -50,17 +46,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "A Rocking Robotics ETF For 2020"
-    excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. UBOT has tailwinds right now as the robotics market ..."
-    publishedDateTime: 2020-01-03T18:33:00Z
-    sourceUrl: https://www.benzinga.com/trading-ideas/long-ideas/20/01/15015434/a-rocking-robotics-etf-for-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15015434
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015434
+  - title: "AI and robotics execs look back at tech trends of 2019"
+    excerpt: "As 2019 winds down, every news media and technology site is pausing to reflect on the biggest trends of the past year. Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of ..."
+    publishedDateTime: 2020-01-02T14:50:00Z
+    sourceUrl: https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: ctovision.com
+      domain: ctovision.com
+    quality: 69
+    images:
+      - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
+        width: 1024
+        height: 530
   - title: "A Look-back at Tech 2019"
     excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
     publishedDateTime: 2019-12-26T02:56:00Z
@@ -86,6 +84,6 @@ related:
       domain: plantservices.com
     quality: 34
 
-secured: "gtinCmCRDbXJ/hTofgyXirxma6Ecra/CUwLSK62Nr19h5ACkp+aeUQgBzmEENCDNX0YUUdTJ/tVg4MDCCWcuBk6udyWZEKXa180P/TKFdaYeeOEsXIe1A8uCGrU8Uepy03nSE+RaKssUFZoop4IqHgWHEIslCgBLNKQ5DT9F95FLEnnsw1YFwH55IwsqDub2fYb0e+etiIq75qmSD0m+hgJGrMBCYOg/yQ+JFsG4RfdnIVTJ+INjUaV/AFQ/ZZBwFalDDuNL2xNeNE8VTUoakw==;sZrr/ixBItDSw6N2YLghMg=="
+secured: "zB9F81s9k2tHULihVJehlOzLE69aHvpi8/VmGVDB9uL6q7Bg6Y1WfbrE+3wSe4qEZkM3QPk0o1RBi3eMH9JNECKKmzgT/anbXYUaXSwcRoYXYf2pCDqUBXviFxTBBa+LHcTAyBGz3ybodSY+P07lHq8TSbo7rJ1bt8XH3vCsWRD5Hx2n86w1U4S8sIuR5xe9vLEsMUVs1tiGJ2o5e6NJ2BLSrubpyBnlxhOUpS6hBvSx86Vo2vwRfPAGnfIPuJLnhQe625X9k8P7+fLI23TQCw==;45Lvi5uQZD9sbPlo33eIuA=="
 ---
 

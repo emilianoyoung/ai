@@ -24,21 +24,21 @@ images:
     title: "Sagemaker Studio - An IDE for Machine Learning"
 
 related:
-  - title: "AWS launches major SageMaker upgrades for machine learning model training and testing"
-    excerpt: "Amazon today announced half a dozen new features and tools for AWS SageMaker, a toolkit for training and deploying machine learning models to help developers better manage projects, experiments, and model accuracy. AWS SageMaker Studio is a model training ..."
-    publishedDateTime: 2019-12-03T18:16:00Z
-    sourceUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/
-    ampUrl: https://venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/03/aws-launches-major-sagemaker-upgrades-for-machine-learning-model-training-and-testing/amp/
+  - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
+    excerpt: "AWS SageMaker, the machine learning brand of AWS, announced the release of SageMaker Studio, branded an “IDE for ML,” on Tuesday. Machine-learning has been gaining traction and, with its compute-heavy training workloads, could prove a decisive factor ..."
+    publishedDateTime: 2019-12-08T16:49:00Z
+    sourceUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/
+    ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 112
+    quality: 99
     images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?fit=1080%2C530&amp;strip=all
-        width: 1080
-        height: 530
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
+        width: 1679
+        height: 1005
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
@@ -50,20 +50,9 @@ related:
       name: InfoWorld
       domain: infoworld.com
     quality: 86
-  - title: "AWS launches SageMaker Studio, a web-based IDE for machine learning"
-    excerpt: "At its re:Invent conference, AWS CEO Andy Jassy today announced the launch of SageMaker Studio, a web-based IDE for building and training machine learning workflows. It includes everything a data scientist would need to get started, including ways to ..."
-    publishedDateTime: 2019-12-03T18:20:00Z
-    sourceUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/
-    ampUrl: https://techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-launches-sagemaker-studio-a-web-based-ide-for-machine-learning/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-    publishedDateTime: 2019-12-04T20:48:00Z
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+    publishedDateTime: 2019-12-04T20:45:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
     provider:
@@ -71,49 +60,23 @@ related:
       domain: sdtimes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-        width: 700
-        height: 335
-  - title: "AI takes center stage: AWS debuts SageMaker Studio, CodeGuru, Kendra and more"
-    excerpt: "The foundational layer is the freshly upgraded SageMaker developer toolkit, while the top layer includes pre-packaged AI applications such as Kendra and Amazon Fraud Detector. SageMaker gets smarter SageMaker, the provider’s managed toolkit for ..."
-    publishedDateTime: 2019-12-03T21:16:00Z
-    sourceUrl: https://siliconangle.com/2019/12/03/ai-takes-center-stage-aws-debuts-sagemaker-studio-codeguru-kendra/
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+        width: 900
+        height: 431
+  - title: "AWS ramps up SageMaker tools at Re:Invent"
+    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
+    publishedDateTime: 2019-12-04T09:36:00Z
+    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 66
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
     images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/ai.png
-        width: 936
-        height: 523
-  - title: "AWS re:Invent: Quantum computing, end-of-support migration program for Windows Server, and Amazon SageMaker Operators for Kubernetes"
-    excerpt: "AWS releases Amazon SageMaker Operators for Kubernetes AWS has announced the release of Amazon SageMaker Operators for Kubernetes. This new service will make it easy for data scientists to train, tune, and deploy machine learning models on Kubernetes in ..."
-    publishedDateTime: 2019-12-03T20:32:00Z
-    sourceUrl: https://sdtimes.com/cloud/aws-reinvent-quantum-computing-end-of-support-migration-program-for-windows-server-and-amazon-sagemaker-operators-for-kubernetes/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 53
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/Sessions@2x.png
-        width: 648
-        height: 420
-  - title: "AI is moving too fast, and that’s a good thing"
-    excerpt: "2019 was a great year for seeing what AI could do. Waymo deployed self-driving taxis to actual paying customers in Arizona. Bots from OpenAI and DeepMind beat the top professionals in two major esports games. A deep-learning algorithm performed as well as doctors—and sometimes better—at spotting lung cancer tumors in medical imaging."
-    publishedDateTime: 2019-12-03T12:00:00Z
-    sourceUrl: https://www.fastcompany.com/90429993/ai-is-moving-too-fast-and-thats-a-good-thing
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3EE553B7C6DC8FD75FF0803F8DEEEA7D
-        width: 700
-        height: 393
+      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
+        width: 3648
+        height: 2736
 
-secured: "JaCfuv4GgPDo25wGKUxOP7VbVQP8BTFrNI/UW+Pqam8rm5uLqi8LuV/kzvabepf3KJd4cCcaxoJxAL/sF4CUvfhCEB2qerGQpeBpQAmlfmUyyvFxC6sQ7gi+Mb53exN3rig7tp5Hur8zqscJH+K62WI0vlydwZJpmT9mZRPASBqLnoIi9NxpA4m92kY9e00BnO+fcMYOHkd+3w5/BInJaQeYaG2iHE0XnGYzieXG1CLtv21QserMnqkyzoSoxkv3d+POTVcIaIYuiN45nZmlyw==;ga0yZLYND6vP7behHIdsiQ=="
+secured: "ay4dnPbJwfVM0oOUUuQY11XaVJtamt3pQDqkFDouis3Cmy0w8InA799xhL869gmKYr0wfArjLO+WpGunMyu5WzRuRPB45VMIGR1Q6Qhf8vcDUVypMg9gElQYndKzt6DjCsvWKTtZSvHw+TG048l1JTLfr//fWtAm8ApK7mtvkXEn8K+K8UM0v53UbUZlt5vuRV2FpWj3XzpwP7WzqGJmEinwqNni3hIHiC5aS+KfwMf36GX8WZcjs4WoDCKikcu9OJAvveqzx75RKzG1FEUmeA==;RBFErx8W6PuHUSNHxofHJA=="
 ---
 

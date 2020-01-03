@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
 related:
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
     excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
     publishedDateTime: 2019-12-04T20:45:00Z
@@ -43,17 +54,6 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
         width: 900
         height: 431
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -67,7 +67,20 @@ related:
       - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
         width: 3648
         height: 2736
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
+    type: article
+    provider:
+      name: I Programmer
+      domain: i-programmer.info
+    quality: 39
+    images:
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
 
-secured: "Jfvze2QcRO00h5DkkoJp60l9nxUhEbWnstaR3C2UHS76dNzda6ZA1O3cgeZCIztS6AlXv9MEt7Q32DSpLbbC63goMEPcgMRmHL6A8q2LmOfZKevsh9T6CJ0V/oCOAmq71sBlqY3seW3WyYHuSVOp7rDlemZKHYjbPSkZCDVGw+e1MFzPwLUfH7IF4syjTMY/+KGBxYnk0Y92oGztl5mN6G9WmSmMqd7Es9PYd6cZzaivPRQs7Gshq+aiEblCpK9A+cVMdhyjHu5oPYGjIArEdA==;lrKrUYP0RHZw8qmjA2Hm3A=="
+secured: "M16qRNbtgznRGh5NtnEl5F87Xy66O2BV5okC21nT1H2BurmOnSHvk5PhAQmo3yWI6Ye9tqiB892FKWhYOJa3LW3LN84OaX0bjXZkZnSFYiEUp3f2lRIiJwAIONPFVTrK8l5/GTMRSZ0U6HMpzEKyl/l9qwMVVD6zm2HWw8cMwRnPvoWtOX8yhr988TmaY9Tqq7zh0+CyZpotsRNLnL9OKsf92vdDqlnyuht7BOFilb5P9i26wai1JBPmAPhjVqlCWkK3OTYU7VL0quJvZm3mZg==;gnRqlU2Nb6LXHeW+LjFSkA=="
 ---
 

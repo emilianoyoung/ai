@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
+excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
 publishedDateTime: 2019-12-08T15:55:00Z
 sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
 ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -56,7 +56,31 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
+    publishedDateTime: 2019-12-11T11:07:00Z
+    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
+    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
+    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
+    type: article
+    provider:
+      name: London Free Press
+      domain: lfpress.com
+    quality: 24
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "kmzZL/FbuAW22k6Lfw4YNA2mbP/AeNIHF3/jljlAopZrVY/vWwv2EyUNgDy/fBr+/u53zGn/ZUiViX+HtfASGpCn6AwkZNL8uJKuGbqYBopIvULx7bztYWJ/Sta7kJ8It5qRs7nqSkbdfg0v+/ykL9P6H0vlFcqUFd/P4jRbMrUsWRrDeL19FGH+NBX/PusIL2ip/H1LzIr/POewEYEIhXjV1HW0lhx6JFvJUr8ZY2xgFCQzTcCb8+agKLPCKIzH06ZKYURocYm+3Gx+VNXrsw==;KwCG+Tu3WpDDm6AAcm2YIQ=="
+secured: "c+7owd3YGnY8cbSAshz91S1F1yzKFy2Oh9KFsaYoyVZwGB4uHOsT7h8riSRAotFatcOQUvrt34umhnfeVKc6LBp+4zQfGxLuwEaDHM1jMm6Sv5tLV4mR7pk2hVfPOvkf1oNkKXWMrRlfsWZZ2r/wV93ZJwnK3s2vnQ+Kb52bQ/9vqzzJYIa60DfGEaR6oty8ADV27G2nmrDtc7gzW45sK9ynLkG2QVZWRpkaimsuNKWkggK1E5WZy+mJIRmCDifsU+cwIjrCPyCZy3Mb3d14bA==;R5hNoAujd3urbv725qbnuw=="
 ---
 

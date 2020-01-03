@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -65,7 +66,20 @@ related:
       - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
         width: 3648
         height: 2736
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
+    type: article
+    provider:
+      name: I Programmer
+      domain: i-programmer.info
+    quality: 39
+    images:
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
 
-secured: "1swXwa+4w2INr/UfobCzUjGND6HbDgcSAt+kZT7vn9dcW+Lu71BDdWC7Gq54iIohpbpsf/HuRpRceEnZLcYQ6bFbPkAxMwOjNXX0T22pFS/HeTU+xzBuHt6BNViZ5ijx8/tCUJP7ltvyQczEZwzkU5UtFWw01V0L+udGZMp/C+zz3qioE39a4pNIWI/cThl6hp16D39xX9aM7Oj9UY10DQM7ngiMnJ4l6dTjahH3/tkvHKtIPTRjFL/fbQl2nz3Us3AlEyWibbV6QQDUyAcZEw==;bez7sBABChybvZf6e3Z3KQ=="
+secured: "fhBYVbIDzg+ZntKp9K4YjTpsxV+59BFPdPzuUAWx29iwBAK7cuvim/5vIqF9H6qVxO1lKEOfrstwZMZyU8yiRcZ3e5w3AHoIk8yNqBSDCuNQ02DHyrULv2WLaqvsEM3RAXr/LeckamfyLC6sKSAW/NX/uLIj02stHL5Yu85mPD077NsOudGRqKM7OP+dz+iH8WDDjqZvUvP0m842SDqm54T5K+49WHMgCBibuzxgWJHBNETH8inYdUsC0bzwVDH5LIpPEf7CU97UBEe73l29Rw==;x5yJV+KZ1YfjD7N+/fYRmA=="
 ---
 

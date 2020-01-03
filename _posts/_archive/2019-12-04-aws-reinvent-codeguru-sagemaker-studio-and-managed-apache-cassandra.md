@@ -53,7 +53,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
+    quality: 86
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -67,7 +67,20 @@ related:
       - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
         width: 3648
         height: 2736
+  - title: "Sagemaker Studio - An IDE for Machine Learning"
+    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
+    publishedDateTime: 2019-12-04T00:00:00Z
+    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
+    type: article
+    provider:
+      name: I Programmer
+      domain: i-programmer.info
+    quality: 39
+    images:
+      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
+        width: 720
+        height: 335
 
-secured: "BSwOBdX1O/z6AQhRJXQF4qmfVZixbgzYv3E/HBHAu5pbTaxdNv9Jqk3LLqjBGoCM3GDkJOjsQZKfTy+QcW/gkcwlJEwVJ3RHhwqbjGUWjxYSPl3txkViAlu440bBrnQFV1wszDdvSTk/m6336QKy847KBTYGdZvTTUjjRNFyIRi+d5glwzaLg8yQofga3bQ5UgVVARvIdnVeLTbM8BhxjPDwqJ2w/nXgxZYvMiWkIr+CqznOIbOFdbaMWUstRRxTMEcLiSgiWbEROJgnsyntKg==;87ln2M87Zmow7FBVSgMtUQ=="
+secured: "/XkZCom9S2QV8CGCmcr62E+bmy8lByT5bPxlHtdyvURfXVb00Yiqfgoy+T6MfTTwoo+a4pmKOrUvrDLVzTKLmUf2Ebaa6ocv6uMEaKGgCuYe7xu2XpSXYs2HSFGlwqOuSOkTv33QYUX1lOalZPLdBy9xmA7xohDno65I3UG/u0k5xAUwgbbpOJnIVfHmswWtTk0BykGiLjNfbhmyQOkb3a3VdZed+ErS2QUoFP5FYSN9MzarqGH87acnIrvIvFayli8WmW62wIkCj/0eAJrIDw==;Y7JnK/usQV9o/SMltDQE3w=="
 ---
 
