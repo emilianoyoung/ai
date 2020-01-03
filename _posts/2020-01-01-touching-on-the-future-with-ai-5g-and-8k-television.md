@@ -24,21 +24,21 @@ images:
     title: "Touching on the future with AI, 5G and 8k television"
 
 related:
-  - title: "China’s AI champions are already powering a mind-boggling array of processes and this will rise in 2020"
-    excerpt: "The assistant provides diagnosis advice 200,000 times every day on average. iFlyTek’s AI tech has helped with customised education in 35,000 schools in China. Its smart education products and services now cover over 100 million students and teachers in the country. iFlyTek’s technologies also deployed in nearly 5,000 courts in China to ..."
-    publishedDateTime: 2020-01-01T13:51:00Z
-    sourceUrl: https://www.scmp.com/tech/start-ups/article/3044188/chinas-ai-champions-are-already-powering-mind-boggling-array
-    ampUrl: https://amp.scmp.com/tech/start-ups/article/3044188/chinas-ai-champions-are-already-powering-mind-boggling-array
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3044188/chinas-ai-champions-are-already-powering-mind-boggling-array
+  - title: "The Future Of Work Now—Medical Coding With AI"
+    excerpt: "Some medical coders are now working hand-in-hand with AI-enhanced computer-assisted coding systems to identify and validate the correct codes. Elcilene Moseley and AI-Assisted Coding Elcilene Moseley lives in Florida and is an 11-year veteran medical coder. She previously worked for a company that owned multiple hospitals, but she now works for ..."
+    publishedDateTime: 2020-01-03T16:48:00Z
+    sourceUrl: https://www.forbes.com/sites/tomdavenport/2020/01/03/the-future-of-work-now-medical-coding-with-ai/
+    ampUrl: https://www.forbes.com/sites/tomdavenport/2020/01/03/the-future-of-work-now-medical-coding-with-ai/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/01/03/the-future-of-work-now-medical-coding-with-ai/amp/
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.633B0729163789334274B20436CBC59A
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.C39B4CABD2439191E262DD392438ECB3
+        width: 600
+        height: 315
 
 secured: "h7KXPXRfNnW6vqP06H8FY46OYfzigO3TtSl5t7rb21s1taIOjlFXA+Tb7ziQmYoeN1QSaOloaFB894051yDFOZ3RSm+Zax7R2HL5r6iGgcUGe1/XJRnwEfmJ5A18l4yjqgKtyNoLfgmdrbEMBBJ+vZrSAU+5UKGlV1RuPDRa983s7nwmwdT/qpMz9SYZoCiYbboCGrxjmq/mKAoP4yNs3D/lbL3RghhvjxJZ0vwDCbEIj516Uc7WMBko84nxEzfaNJgypwB3ad62vR/RkYCpdA==;ajIuwrXTQ6zWpQrKj/2TkA=="
 ---

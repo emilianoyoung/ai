@@ -25,21 +25,6 @@ images:
     height: 440
     title: "Video: MARTYkhana where self-driving all-electric DeLorean does flawless drifts like a pro"
 
-related:
-  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
-    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the ..."
-    publishedDateTime: 2020-01-03T15:58:00Z
-    sourceUrl: https://sg.finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
-        width: 635
-        height: 400
-
 secured: "uhMbfH86VNa3i4EH4rN+ZT8hmAe4ehX3QuWcGNYEFN007AbO9tSmjvV75oNZOjsO46nvMLnTBiN41JpF43wyB3DSg4xVrEtgxXRsV9GF5fM0dwioezByRomBOLnhU5WIaeXtP2q0VsAJr4kIZ1kK35GCjqH3BEl0G6EgSBg8alsa55ThpE2cIrmDdKf2AEjOC20A4OZ/CubEk857DAgIj/qXAdj+Kdxn4DQWEwNftl6NdtZaOxFwXz8QpzNfzcqBlxNUI6iNX8KNzCwbOpHMYg==;oRZUXOEBKO5h2h2/2XLB1Q=="
 ---
 

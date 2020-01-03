@@ -54,6 +54,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "14GKpEBloiD/AjuqNEzNI0gBpeTG0vLSQ7roiNBA7xQnPc58UYQ27ErluQ80vg5dGI0cbByAgVXh1whXk8EV7qvio0zK3DmUlGGWJ5HEIq+XVXzNq4uQANLMuW9dBtX6vGIODiQLHqJKiwgyyfc+C+U4pPu9yamK9A2/OVK/1ZsWW1jrarDxVS99TVnS26tmptDIW6MIi3KW2jW457hzJxzXbGW4eht9vPiVdDaQ5SO0XlKBrPTBm+QlkbLz9QjKTUQHv65STJgXZW1X52IaLg==;cUxvxqAisDl0etPfDszubw=="
+secured: "mjQquq9rRh1q1f2MFXDo2aet7Iq5LYPv15T+7dMSdqKlO/pcMXHZqGZGXPnMBu0ihLo2r0wmcBWGrrGJomfhoO3r9Hc99qg3oDDlnMo1PttAD2Qgr9RNAoFA6ID9BVbbCjm4+pzCFreHaO45ze+o99fkngEd/q52x/2LHGVY5nucqEVJtGtCNSRp2dVKfnbhY+UaU7Vxg0JRaVbPHiFaSEs0MptTr37aC8hkuUjxxx+v8RNUEo0fHZ+TW0sz2w/FH7+k/g+ykJTRqp5pvVI8oA==;qcgD/5+me+ua0nHnQx8Dpg=="
 ---
 

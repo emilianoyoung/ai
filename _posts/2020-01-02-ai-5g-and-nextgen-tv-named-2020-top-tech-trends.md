@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.58633CB2E1E500BCA7EB8BDD05EF6A8E
         width: 700
         height: 393
+  - title: "Tech in the 2020s: Five big trends"
+    excerpt: "Put together, 5G and IOT could mean anything we want it to – and dealing with this constant flood of data would require new artificial intelligence to sift through it ... Would we move any closer to AI-powered driverless vehicles becoming a mainstay on motorways? Despite the hype, Parry pointed out that what fully automated vehicles we ..."
+    publishedDateTime: 2020-01-03T16:11:00Z
+    sourceUrl: https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12290164
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B309304190811EB77142C1E5132140A3
+        width: 700
+        height: 466
 
 secured: "ebIvwy/bT85x7VEouGjd4/HmmPBKzKLympv91szkB/XOkdZstxyIT0ruNRxaKLB+BLfGvBc5AnISJoLqAIug8xFdHHDXtUFiT6ib0uyXw5s0Nu4Zg1CqXXdzC06mjXY6NUMNcRDmSBPUgp6+JdDp1ou/xr0S+O0aJ/dp8qSDxlsMWwhB8wjo2bgWbLz5z1+yFqposJf1A2cuxLpT8svlLcwoOcSyYMD1Gn49Mv3guXznZnfPxNbptCrwqVm5Z495dSwOqQUsmQOTmpivYEeTCg==;1J7cc4Tr+hP5aHJtBn1aiA=="
 ---

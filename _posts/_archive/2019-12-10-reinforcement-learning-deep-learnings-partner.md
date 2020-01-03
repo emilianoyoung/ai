@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 504
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
-related:
-  - title: "'Learning' is still the operative word in machine learning initiatives"
-    excerpt: "The hype machine for AI and machine learning has been going full throttle, and one can be forgiven for thinking that every organization from the mega-techs to the corner store is turning over processes or decisions to AI. If you're still stuck trying to figure out how AI and machine learning can fit into your operations, don't worry -- so is ..."
-    publishedDateTime: 2019-12-14T15:17:00Z
-    sourceUrl: https://www.zdnet.com/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
-    ampUrl: https://www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learning-is-still-the-operative-word-in-machine-learning-initiatives/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
-        width: 700
-        height: 525
-
-secured: "VdleEsbaUPRYOvZ04wzKq7Mzhk0oj5HsEH3PXzAYFnU+F4I1Ed19s70Gxv8uuCAkLQ5EF3q35uJ5Pk+C6g/j+uA4hp+mKzy+K5SUGZi8zOwLfYEWZSmyEPlxYaLxcODBmYIwE1G4L0W1eENl64tkTmvTRYVIuh+WeBJmkUeNqm47UFHiLMx3JskeGoChBPiKAT60qqv/8R4s1tn4/fLTjuHk2lLzPRgAudmimZrzj77uLir84LwOTPhXiBTP+Knf+S0dTzdUwDHT4q90qWGnwA==;vgRHRXQ6oyTudqXtXHhQAg=="
+secured: "e5/7aeXF8ulM3uB9LcSI97iaBc9dGWq/IQHnZCj5y3pJqC0ZaNLEwk2T+igr78kXCpYb4/JdDTMbmngYofLntcuz/08crDsQuDDgALQFzRwyBUul5egNgt5XJAv0Ps8mzVWQ9zyI0mDKeKBdTYYYWxogzcJDb/BrtPvGnP4eM1YArMHd0CMtVR2JnnO+ZHPdpwEp55Ufycv4dMWCqY7P/dGO1HMggfyiQDBMmAt39v8lDs+u2BvW0EOf+otimCcEjM9SABL/XWyInfUx2Oxe8Q==;6FqNA3f63roXZUYky23KsQ=="
 ---
 

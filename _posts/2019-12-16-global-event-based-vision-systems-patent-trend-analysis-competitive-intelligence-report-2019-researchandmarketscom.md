@@ -48,17 +48,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 39
-  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-    publishedDateTime: 2019-12-18T14:26:00Z
-    sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 27
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands ..."
     publishedDateTime: 2019-12-16T10:09:00Z
@@ -70,6 +59,15 @@ related:
       name: benzinga.com
       domain: benzinga.com
     quality: 15
+  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
+    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE ..."
+    publishedDateTime: 2019-12-18T12:38:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_ac774e7b-3ff9-596b-aa6b-3436f571c9b7.html
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 7
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
     publishedDateTime: 2019-12-17T00:09:00Z

@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE) provides a snapshot of the emerging ICT led innovations in artificial intelligence, machine learning ..."
-publishedDateTime: 2019-12-18T14:26:00Z
-sourceUrl: https://finance.yahoo.com/news/innovations-artificial-intelligence-natural-language-122500599.html
-ampUrl: https://finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/innovations-artificial-intelligence-natural-language-122500599.html
+excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE ..."
+publishedDateTime: 2019-12-18T12:38:00Z
+sourceUrl: https://www.oaoa.com/news/business/article_ac774e7b-3ff9-596b-aa6b-3436f571c9b7.html
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
@@ -111,6 +109,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "1lwS4yR3AqZN6TQLctaPzcmXmIsVUcZq4pzcEI7hepmt9FSjhimbiNPqP1t8YrwS4G13MX8UkqE+mkgVJ9yA3a4NaC7ZZveSAJAzvznRH6VJHYslzvX/7D53oPn5Jc7Kh39lZm73t/aK3rNNmQWlS+1QSWSdOnWp7lxK6o52ZIcJYKKCa+ONQrZUI0KEztMN51K4xEDB0zvHkhwuOrBHDhNvZ2m0AJV9wYUyoGMi+zW3TOiA1+byTcH0tp8nfSruhY8NFSJpOKsswr/gU6JmMA==;ZXX06PiHwyv6hqn3DZviIA=="
+secured: "Sj7PEB0fFbZ61Tbx4QVR6JnS48a3EI4A23n7kK7RYnzVr39Y5wneyn7syPScj7QrPpKyDnhq1RG40SFR5Uw9yX5nhQUgbOg/6bFK89NJvIYiO289pVYFEJSSNfYXQZQMXvoue+GfuyDWRkvDJ5aDApDO2aQPcCiz7QDiZwUInprw6lc4fw4qUZgZ8vQpm0NB4pmvldoOm+qwvvdftHV7q9pPH5qx5+hxN4tjuqlnBQRMObnaFyHe4GSffgFgkV03/Mx5DyPUTw2AM0eE5MtFZA==;+Jc9fvet3Ousm4dOOMwYpw=="
 ---
 

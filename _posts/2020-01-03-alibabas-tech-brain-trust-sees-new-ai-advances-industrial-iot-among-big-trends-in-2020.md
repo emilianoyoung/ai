@@ -8,7 +8,7 @@ ampUrl: https://sg.news.yahoo.com/amphtml/alibaba-tech-brain-trust-sees-14162330
 cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/alibaba-tech-brain-trust-sees-141623301.html
 type: article
 quality: 50
-heat: 60
+heat: 70
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5B1E6A427404570AC208FD2357DDF916
         width: 600
         height: 314
+  - title: "Tech in the 2020s: Five big trends"
+    excerpt: "Put together, 5G and IOT could mean anything we want it to – and dealing with this constant flood of data would require new artificial intelligence to sift through it ... Would we move any closer to AI-powered driverless vehicles becoming a mainstay on motorways? Despite the hype, Parry pointed out that what fully automated vehicles we ..."
+    publishedDateTime: 2020-01-03T16:11:00Z
+    sourceUrl: https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12290164
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B309304190811EB77142C1E5132140A3
+        width: 700
+        height: 466
 
 secured: "//YDoaKCadaeHj/u8As+fGSUp3EF8ujIImD5Sq6o3HbdAf8l9LSufprrC8zRGwHN+dw7gPEIfzRPabmcEHAZe5lFxg23k80l0sAqxSDyST9ag7VraKBMWgLR67msTWVn0gIKgsuiLNC2LY0p9+T03ZtqELMHI3wUMFeQq2CDP/yfkQ/imYQSXaIgE1cNt83uLT/7wAuUoSrSbU5LzFKSKJaygJHOmBMlksP0Pp5kn1rEOkiqfDfkho3H72q2HHBKRuTT+D7QiP0AwaKYRWTIeA==;TEZeSAnF1q7wXcp4d83aGw=="
 ---
