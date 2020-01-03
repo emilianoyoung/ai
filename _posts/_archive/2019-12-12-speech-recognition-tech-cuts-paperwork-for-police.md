@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://gcn.com/articles/2019/12/12/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+  - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
     width: 760
     height: 368
     title: "Speech recognition tech cuts paperwork for police"
@@ -184,6 +184,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "kjou5I+JaKRd8jSjo/0noOHglcuwbAUqMMoG7v3VC8v2bvp2vf1j09Eu/WyCpHEk3AwQu4xXDdXylqnUD6Dzzi9QT2PloJJ3/S4bz3oKty3aTT5wZJQVBAyNcT4WKurNfTUzXMew06++8oWVX+5mwWcHzQS5QhO0MyZSVIeBKfF20fvvjjLbCqo8XUynakkN14BjCstgcFZEjbTAJXFBUFL7YyOJz9sIpf0m9EMvolN3KNhkAqRdJ+IK0vRzvMzFjb21VA9iDALOp4NCszpxpg==;i7Hv/cuqeW7XrjEM2G183g=="
+secured: "ANB8fLruNsrNJa91Rk7mc6gn48nTaskw6p1cdVHfNC2YHB3OJdt2OSvRw5IIUMqppmO3VTqMjto1UXVdfKbzeEDfol+RQ0zH3xvTdJ0MQUgl9Z9texrXenXLb8eQ5IPkBi9jXsMWWICU68UL1nBECUSDWuhYcKAtxSc/AK/R6WBxjUjaqNAKEFrY5aTeRFlk/i1Km87h6cErybiLLAUTgLtplYzgmYjBCTJRsJoq0cIzjT7vhxHMdlg52idNmIoWUjAdhjpF7usMRBX0bE4dJw==;l3YpPQvfBI1PkNw4js708A=="
 ---
 

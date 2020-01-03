@@ -597,6 +597,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5979CE3C08B1ABCD2B2F5EF711BF233F
         width: 300
         height: 170
+  - title: "Indian Adventures: Policing, Facial Recognition and Targeting Privacy"
+    excerpt: "State and corporate regulation of life, surveillance and monitoring, are reviled only in the breach. And, like Mond, we are told that it is all for the better. Facial recognition is one such form, celebrated by the corporate suits and the screws of the prison system alike. Amazon CEO Jeff Bezos is a keen devotee, and it is telling that his ..."
+    publishedDateTime: 2020-01-03T09:00:00Z
+    sourceUrl: https://www.counterpunch.org/2020/01/03/indian-adventures-policing-facial-recognition-and-targeting-privacy/
+    type: article
+    provider:
+      name: CounterPunch
+      domain: counterpunch.org
+    quality: 39
+    images:
+      - url: https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/10/The-Big-Heat-Cover.png
+        width: 510
+        height: 792
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z

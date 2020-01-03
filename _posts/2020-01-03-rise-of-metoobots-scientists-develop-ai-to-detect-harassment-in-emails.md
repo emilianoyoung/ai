@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
-excerpt: "City firms experimenting with tech that flags harassment but critics question effectiveness"
-publishedDateTime: 2020-01-03T07:00:00Z
-sourceUrl: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
-ampUrl: https://amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+excerpt: "© JUNG YEON-JE/AFP/Getty Images FILE: A South Korean demonstrator holds a banner during a rally to mark International Women's Day as part of the country's #MeToo movement in Seoul on March 8, 2018. - The #MeToo movement has gradually gained ground in South Korea,"
+publishedDateTime: 2020-01-03T08:37:27Z
+sourceUrl: https://www.msn.com/en-za/money/technology/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYzIpM?li=BBqg6Q6
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Guardian on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.32159D05BE0C3BBDA1495EFBD3AE1C0C
+  - url: https://www.bing.com/th?id=ON.5A4B4ACCF97677CB3DD426A10F0D3ABB
     width: 700
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "2u7A2pm/C5U05IxgsjlrEunermT7/2okptxrIPC/uhdnXep5rsTSh016oSUq3XAKVzA+UC1DbLW0/EAIJ3rUi+LmrgeHDaA+j8DLhTRFESQrfmotdlQqShGybwb0Lj1x0pDXmexW58/toNpk46paB92tvk0dtYdOp1UTIH78mGnf1qacJAzB7M+J1QmWgHBkTsEpm7wIdh0/W/738ruNW8fHERvg9Ii17PcL+5UuMl0WCY7tzO1h8o6dchj5YT2BaJh8nqRwaQkB6Pb1AYuxSg==;FnPzshX2R7lTfA/k9lTBNQ=="
+secured: "48D+gMFPZsYgus9Bmg9Db/0kSpW3sTxH+IJaAaME5TRWUgL3UIhZeeTEOFQntMPOP2sJuGLQJgHTV08EiI/NL9cJN8zL/Yu2VC6pUjbs7yqjRQIOIslCawAwScW4qtHBUkVZdSL6spaz8aLhgbD+EBbus7ZeHOdl9MwmOdo3AoI2iLbQgeVkYncsqoCL2C3WqTn33FyLXBkENy14FIlOJnqfkJN2PBvhHgoxFGjdCl1pIq0bc6Rj5aOCp7eX4V1aFwos009njUSlZukGl/NUwA==;aNuDjbgiPOuReOgghkmPzw=="
 ---
 

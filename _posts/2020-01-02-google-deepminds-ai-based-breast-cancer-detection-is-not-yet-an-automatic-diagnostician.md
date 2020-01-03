@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breas
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
 type: article
 quality: 97
-heat: 317
+heat: 327
 published: true
 
 provider:
@@ -339,6 +339,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E72C4E4E58FA3AEFF318EA11DB0F2107
         width: 700
         height: 439
+  - title: "Google’s AI breast cancer screening tool is learning to generalize across countries"
+    excerpt: "In a preliminary test, a model trained only on data from UK women still performed better than experts on US patients. The news: DeepMind and Google Health have developed a new AI system to help doctors detect breast cancer early. The researchers trained an algorithm on mammogram images from female patients in the US and UK, and it performed ..."
+    publishedDateTime: 2020-01-03T09:28:00Z
+    sourceUrl: https://www.technologyreview.com/f/615004/googles-ai-breast-cancer-screening-tool-is-learning-to-generalize-across-countries/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.FE6B132FC938A489CA706EBE20A62DCF
+        width: 700
+        height: 393
 
 secured: "9izbVFSKu7Ew51nMkzq282xWGIXg3euHFmp3JOScy51LpGcObJHZiH6F49j82whplZYyS4sw+xj5m93FZxS8fExCZcQ7DV2mdO782wPmzbM0E8570gyVW6YBqPGFLeq8Fdha2n6HyXmKNw1x6Osz6kiUxmxPQ1pUSkJg1vvuqIg5uFtUXVHYCgUR9w5M04uwC3v2l6l2biUkopWoMzyHa5R7x5UDMZDVxSrejcfrYqp54ApHtblMwhnS3WumbjZ0+t1RWsrq3+u7sWxogUiAcA==;Wi+cKDJowMoUPmoheu9f3A=="
 ---

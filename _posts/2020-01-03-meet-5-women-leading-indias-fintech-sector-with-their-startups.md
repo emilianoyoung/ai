@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T04:03:00Z
 sourceUrl: https://in.news.yahoo.com/women-leading-indias-fintech-sector-startups-024518973.html
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     title: "Meet 5 Women Leading India’s Fintech Sector with their Startups"
 
 related:
-  - title: "IBM Teams Up with Argentine Chamber of Fintech to Support Digital Transformation Efforts in Country’s Banking Sector"
-    excerpt: "These efforts have helped several Fintech startups in establishing their operations ... machine learning (ML), and artificial intelligence (AI). IBM will provide access to its large program of entrepreneurs (Startup with IBM) with subsidized credits, so that business owners can create their products and services. Eligible entrepreneurs may ..."
-    publishedDateTime: 2019-12-31T17:04:00Z
-    sourceUrl: https://www.crowdfundinsider.com/2019/12/155829-ibm-teams-up-with-argentine-chamber-of-fintech-to-support-digital-transformation-efforts-in-countrys-banking-sector/
-    ampUrl: https://www.crowdfundinsider.com/2019/12/155829-ibm-teams-up-with-argentine-chamber-of-fintech-to-support-digital-transformation-efforts-in-countrys-banking-sector/amp/
-    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155829-ibm-teams-up-with-argentine-chamber-of-fintech-to-support-digital-transformation-efforts-in-countrys-banking-sector/amp/
+  - title: "Indian FinTech sector has potential to cross $2.4 billion earnings by end 2020"
+    excerpt: "FinTech in India has been growing at a significant pace for the last four years as ... 2019 was also a year with many FinTechs building real-time, fully automated and intelligent solutions for lending and payments. AI and Machine Learning saw some real takers and many human-led processes were fully automated. As liquidity continues to come ..."
+    publishedDateTime: 2020-01-01T16:41:00Z
+    sourceUrl: https://ibsintelligence.com/blog/india-fintech-trends-2020-flexiloans-abhishek-kothari/
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 20
     images:
-      - url: https://www.bing.com/th?id=ON.E2F75E76A274AAAE516B4F971A12206B
-        width: 700
-        height: 557
+      - url: https://www.bing.com/th?id=ON.1C91C63CF8A9A3668CDFD09D60817543
+        width: 385
+        height: 385
 
 secured: "BD9cbU8dP0FVdflHmrrw/PoISY6dy1gbmkdIu9dWKHTHLfh8OI4m7bTNW71yKnFY9XhEmTeezfrtwpHRXoZT5j9mc9jiz33wQRaRquxRHmuHzOZwUuVVjmiQo0Xdk4PvqE8US/HUWUAbagrm/B7MYUnx38LNecOshxCiYkF/AaxuCM6fF8GhfupgI19stbHfdliwqKtWim54oaGr8m1ACtx9VWdvK+3OWHRSXr28FzeEAKf8yRcv2svktjwKAn24He3CPgbuucNNQ6mY8h2Ezg==;cUMcto8jefUyVD0LEuTTsQ=="
 ---

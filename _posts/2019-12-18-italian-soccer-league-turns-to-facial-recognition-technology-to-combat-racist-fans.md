@@ -92,7 +92,7 @@ related:
       domain: gcn.com
     quality: 39
     images:
-      - url: https://gcn.com/articles/2019/12/12/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
+      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
         width: 760
         height: 368
   - title: "Speech recognition and synthesis sample"

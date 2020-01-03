@@ -260,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "Google AI beats doctors in detecting breast cancer"
+    excerpt: "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window ... expected to be available to hospitals worldwide in the near future. It’s good to know AI technology is being used for important things like medical research and testing like this, and not just video games. Keep checking with Komando.com ..."
+    publishedDateTime: 2020-01-03T09:55:00Z
+    sourceUrl: https://www.komando.com/technology/google-ai-beats-doctors-in-detecting-breast-cancer/699656/
+    ampUrl: https://www.komando.com/technology/google-ai-beats-doctors-in-detecting-breast-cancer/699656/?amp
+    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/google-ai-beats-doctors-in-detecting-breast-cancer/699656/?amp
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.13B99A9B3528AC4A2921717CD438017E
+        width: 700
+        height: 393
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
     publishedDateTime: 2020-01-01T18:00:00Z

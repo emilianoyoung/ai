@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Argo takes different road to skirt self-driving challenges"
-excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
+excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit."
 publishedDateTime: 2019-12-11T11:07:00Z
 sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
 ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
@@ -54,6 +54,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "nIEBsICNTzOyLxanYkxk1g5jw1CrBlXrPxmP+cS8EQNApMbZ5nR8KP0sqPtAXBmsXtbOD2CUeaj/Z4SkvbVNli6KmGTF3VFzm9LZTL9JN4WQrBuk6GqbfVJdidaNnTDaFZdh5bPsR1dOA2n9c6BThrx9eIfeKS1CUd7XxdPh0EqV0BruC2UkBxfILNGXRT+7c4FM9U3HFiu7Imb6SFlGP+wK0Byo5n3iafA1SUN8lD/6Nv779jzeVyW77unYtY9Q5SXaokJyytENJl6ouPhqMw==;6O7yYCG92tr8k7ZqWgYB8g=="
+secured: "REQKxTV18x5473xb2p/S3Wz2wruBHX4VOTyMqrTliClfYuUmNc1drs16Nk5ofCvoeb4I7LYHvc6AJUEOoZr+m5NOXYGwovEH3WCt9hzSyLZ4Fi02nWp0BO/zBpSJkV8aCQmjYNKxK1j9apOD9niZ+4n4GRLMMCsS1xxg85bJRx88UhXuh5qllP2xxE3YdzofXpOEG4p/ozR4GAb0P80EZC/3SaXqQymMj4erjYTrAkiNSaOKQtHdDW/fr9qj6uu/In8yoMz75APx7gre/PCzQg==;1/a7As/8KhvN4J5Zm6T0oA=="
 ---
 

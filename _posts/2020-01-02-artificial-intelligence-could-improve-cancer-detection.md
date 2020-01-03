@@ -334,6 +334,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E72C4E4E58FA3AEFF318EA11DB0F2107
         width: 700
         height: 439
+  - title: "Google’s AI breast cancer screening tool is learning to generalize across countries"
+    excerpt: "In a preliminary test, a model trained only on data from UK women still performed better than experts on US patients. The news: DeepMind and Google Health have developed a new AI system to help doctors detect breast cancer early. The researchers trained an algorithm on mammogram images from female patients in the US and UK, and it performed ..."
+    publishedDateTime: 2020-01-03T09:28:00Z
+    sourceUrl: https://www.technologyreview.com/f/615004/googles-ai-breast-cancer-screening-tool-is-learning-to-generalize-across-countries/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.FE6B132FC938A489CA706EBE20A62DCF
+        width: 700
+        height: 393
 
 secured: "3aXxEdbfrS9kWVePSJsa+xrW19EDVLmCTsGToRjzaP6MS2IGaHE51hyfnFQ5QMGQApgoBrwKaZPTff2HF8KMMnZgQqvbZTLPI4zfb4pWoZ+/KZywtcuP4vF3DPo/ek6O1l07uu1zSdB1aaeHlTN8lRjfqo4QRuWkjln/PqGuGIb+0Dyb/mJ/N3pNkGYpS04/fYvxFgReUhjI3p6GmJ3iaNqMNtfeoUIKj63bMjxib8jomP84kIvc7rj0Vx9eBokA5IkL6pKDbdkjicJKN0efdQ==;gb2MPRCTcJPB8f71gVQvwQ=="
 ---
