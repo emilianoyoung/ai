@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T20:23:00Z
 sourceUrl: https://siliconangle.com/2020/01/02/dell-targets-enterprise-new-5g-ai-enabled-latitude-9510-laptop/
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,15 +26,13 @@ images:
 related:
   - title: "Dell's Latitude 9510 is a business laptop with 5G and AI smarts"
     excerpt: "As with some other recent notebook launches, the company is highlighting a few superlatives here. Dell is calling the Latitude 9510 \"world's most intelligent 15-inch PC with built-in AI,\" the \"world's smallest, lightest ultra-premium business 15-inch PC\" and the \"longest running 15-inch PC.\" That's a lot to promise, but let's start with one ..."
-    publishedDateTime: 2020-01-02T13:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
-    ampUrl: https://www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
+    publishedDateTime: 2020-01-02T14:00:00Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/dells-latitude-9510-is-a-business-laptop-with-5g-and-ai-smarts/ar-BBYyatX
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.35F4E75CC6DB73D5199877E3C6A74621
         width: 700

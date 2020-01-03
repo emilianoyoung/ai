@@ -3,7 +3,7 @@ category: news
 title: "Indian police are using facial recognition to identify protesters in Delhi"
 excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
 publishedDateTime: 2019-12-30T21:20:00Z
-sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
 type: article
 quality: 37
 heat: -1
@@ -346,6 +346,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
+  - title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India’s farms"
+    excerpt: "But India’s booming agritech industry hopes to change all that, and has some novel ideas – wearable tech for livestock and facial recognition systems for cows among them – to do so. has promised to increase farmers’ incomes and in 2018, launched the ‘DigiGaon’ or Digital Village programme, which aims to connect more than 100,000 ..."
+    publishedDateTime: 2020-01-03T04:57:00Z
+    sourceUrl: https://www.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
+    ampUrl: https://amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.3FD7E2F49A5846F3B79B167642866874
+        width: 700
+        height: 367
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z
@@ -778,6 +793,6 @@ related:
         width: 336
         height: 254
 
-secured: "yEjN8RRX6bDrMdsOiZNo/rupi/Sua4NJPJiJtZfxUtyz0K+beGPzWG+IYNqFdcRDfn1q/nZm2jFMYTNemNAlZsMAZa3hL7tM6qSa/KMdMWZ7mBEoYecaY5oapzWihgqlFTA+msW6mEgm5w1he1rKiN+Jmv+/YPRaGft04OB3qB4hdPFoGj6aKr2BTBSB8xTlBEgLJWIQEso7wiAj+lv93LcHMVxaXAqGnCkp7JA4UllUnWPKZJQFAfDF6s/m+vcx1ZwHt9zR9yXBDah9p6+14A==;DFDM8I0At8g62qwbKj5xwg=="
+secured: "83fttyAJ6CyCYojDjc64l9YBrvLtArY7IEwUJqsZ0bwEVPehe3TgXrriI2imol4Mm8x0Zb6KSf//QH4Rl2I0KM/SktfBYRbo5BsT9CHCC15rii9xC39aXQug0ChqPlBdjH9imU04FxOuBCA5d/awESN2aEjlQuKTXmEgOW6APRHXWkzxlbU7vIcHb2lVBDNGC+JYH0RqcS6BxHvYjSzFiK2usKU1y3z75YzkZoIS7UJ/MOVByhZV02LLojyXstKDVyZaAmdrZYA12goIeaFEVA==;dPLPHNB2gWkLM5qH98NALw=="
 ---
 

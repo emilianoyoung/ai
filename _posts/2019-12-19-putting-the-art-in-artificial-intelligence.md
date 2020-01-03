@@ -69,6 +69,30 @@ related:
       - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
         width: 700
         height: 329
+  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+    publishedDateTime: 2019-12-16T08:56:00Z
+    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+        width: 700
+        height: 367
+  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
+    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
+    publishedDateTime: 2019-12-17T16:23:00Z
+    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
 
 secured: "8vlu2i1PF6Ym74wFlV5YLbG6lAjrCIr6HrSO7aegnuIkO7rKEGQBAzVPDOVyr626uI7jgSTTHFzrwNqb0Hlx+o0+KY3aoHvlh3ZwujA+IWQvuNzPe5AATvoqlnU7hnGEoCNcZkr1x1vE5RYhPpVdgV6xkseVEKnyeo34Dv1xy+Q3b4pNwBW6CGyDrxzu+uSFq3nkW8WLwv8+80NuTN4g27v/ieX1DOjw8Cu82Ar4wVCOj6+xDBaL5TlQomIUVPv6S89pmcIkfT8dyNVyLjwkxQ==;swY6+YmG1vsQu+0MZyALeQ=="
 ---

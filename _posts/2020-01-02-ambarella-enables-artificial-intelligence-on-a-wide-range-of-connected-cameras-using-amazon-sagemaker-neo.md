@@ -23,6 +23,6 @@ images:
     height: 272
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
-secured: "m85Bc2hwQmTu93Bbi04Yoextgq/XkpUHIet2JFHlPjruKat6mB9lKlhg3n/2SyenxQvUObGozGH1ROaDX3dCTn/1OSpdW2rpxWr3bEAD71wQInofn+GULmCvux0AXH37vFMtRHjvy5x+bPVcZAHxJvVLjc12sZ4eiZpePR1qZvfzfzebQ6rNBsfRba7Iq3EkFK73R/LDWNMaKaF6W6+k3H7pp8H9KPG55PsS49x1ZSFUDbzNSaGzqqbIbRLi+3VT7WT5SISHJuvCoFBCDDCngg==;pHnqK/WxybLAwvhMlStKpg=="
+secured: "gGpbv5REkjou+sL123oDyLH1SMwBXv8Y+bdJI/voncWYElnChSSMI9A7tLDtELv4iVyIC4sSLWMayEmuDvlWBqoshzKhHWwVLjnisCDa2yRxd3SdeOcGrSXGoI5h1Sddg6iNsO62dWBhGbX1Ppp9LVegqQ7nPXhr2b3+kEfxLRHKhkj35DufnK27FrC9pCCGHOh9WBJepRnaVbYgruCgYTs6RWnAbAa/+2T5g2/Sh44bw3l+IyzDaR1wPC7SRGY1TZVLQu7y0crEMVl015HNYw==;bsckJDx20oE8Kxj5UzODug=="
 ---
 

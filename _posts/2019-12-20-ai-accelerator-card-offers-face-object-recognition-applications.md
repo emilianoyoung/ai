@@ -47,6 +47,6 @@ related:
       domain: electronicdesign.com
     quality: 5
 
-secured: "Yyhys1IpjAN2rNRidVAe7njAE9/ofjOwCSoLZj8hsSfL2VxtCo4B/ZpA2b9/maKLTGl5u09zM2qO6ZEFJdFa2fkJbyOLaMtWFTEuPVDcfq9M/iQHYEEv/SsSX2a3sGlimCn6OZbp5Q1a9Ak1r3+GLk78y4QmVa78a0mshYUAIcFuzbc5mlDDHwZTjkwLe3xnkxusg7Gl0zSDzZ8eYAKSiJcFQWRKmTiP3fd8tR6Xh6LRwcMET/v9aRU5ZzQs/54VQ0Y65O9SXpugzQRSiBbFRA==;sNhtyRyymcdruo6ZSxSYDg=="
+secured: "dSgRvPWDcDXZN1kZfnmduaUJhhuXU4BSldoDeWZpn34a85p4Sk1z4hLi6VWvvC8JKQG1z401uNK+3cF/2SpxkI3xoixUPuGyE+SZAFGxEMlGRJ1asrjMQtKjxH651KBqGpMZvea1qjRFK/seMyHhUM9m+VFlY5squR69Kj9da2Ra9c5lGpKs7+5JGm3VojQxShbvgi7JgrrJSxqiSeDlB8zf060jgauUjB4OEphgP38PxV84MAdfVURFZF/l+XRjQsgXsexZWpLeUrEEYjYOdA==;sev1EL04GC8+OVG6AvJIEQ=="
 ---
 

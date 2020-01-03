@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-17T19:43:00Z
 sourceUrl: https://www.businessinsider.com/ai-in-banking-report
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Business Insider
@@ -27,99 +27,62 @@ images:
     title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
 
 related:
-  - title: "AI Is Central To The Longevity Financial Industry"
-    excerpt: "New types of financial institutions are evolving to satisfy the needs of this aging population. Investment banks, pension funds, and insurance companies are developing new business models, and are using AI to improve the quality of the analytics used to formulate them. In the near future, the synergy between innovative AI and wealth management ..."
-    publishedDateTime: 2019-12-14T03:28:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
+  - title: "Winning Strategies for AI in Banking"
+    excerpt: "In the Winning Strategies for AI in Banking report, Business Insider Intelligence looks at several effective strategies used to capture AI's potential in banking, and details how financial institutions like Citi and US Bank have successfully implemented some of these strategies."
+    publishedDateTime: 2019-12-19T21:02:00Z
+    sourceUrl: https://www.businessinsider.com/intelligence/winning-strategies-for-ai-in-banking
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.50A46DF6F65A02E59E285FC96818A024
-        width: 600
-        height: 315
-  - title: "Accountability is the key to ethical artificial intelligence, experts say"
-    excerpt: "Artificial intelligence (AI) needs to be more accountable but ethical considerations ... and we shouldn’t care about the internal workings of AI neural networks either,” he said. Instead, O’Neill says we should be focusing on outcomes. John Buyers, chair of the AI and Ethics panel and a partner at law firm Osborne Clark, points to the ..."
-    publishedDateTime: 2019-12-16T16:22:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say
-    ampUrl: https://www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Accountability-is-the-key-to-ethical-artificial-intelligence-experts-say?amp=1
+      - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
+        width: 450
+        height: 700
+  - title: "Empire BlueCross CEO: AI, new office buildings in Latham, and growth in the Albany market for 2020"
+    excerpt: "For example, if you called our customer service line [in some instances] listening in on the call is that same artificial intelligence. It's trying to pick up cues, so if you, for example, said, \"I'm trying to understand my physical therapy benefits,\" it would immediately bring up in front of the customer service agent the benefits, the claims ..."
+    publishedDateTime: 2019-12-16T12:20:00Z
+    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.html
+    ampUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 75
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.3F66B2689EC2788F048943268DD2A8E5
+      - url: https://www.bing.com/th?id=ON.7BAE9FD93C36727361B570B9E28FEADC
         width: 700
-        height: 233
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+        height: 393
+  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
+    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
+    publishedDateTime: 2019-12-17T12:58:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
         width: 700
         height: 367
-  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
-    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
-    publishedDateTime: 2019-12-18T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+  - title: "Finland is offering a free crash course in AI to everyone in the EU"
+    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
+    publishedDateTime: 2019-12-18T11:38:00Z
+    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
     type: article
     provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 51
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
-    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
-    publishedDateTime: 2019-12-17T16:23:00Z
-    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
-  - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
-    excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
-    publishedDateTime: 2019-12-18T18:49:00Z
-    sourceUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to
-    ampUrl: https://yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/why-commercial-real-estate-is-the-next-industry-to/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 24
-  - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
-    excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
-    publishedDateTime: 2019-12-20T05:34:00Z
-    sourceUrl: https://www.paymentssource.com/news/fis-fiserv-and-global-payments-are-larger-but-so-is-the-fintech-threat
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 23
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
+        width: 207
+        height: 155
 
 secured: "6i16whvXhtjeAcp1thzBszmV2sZNJ/yAhRd4PXU4SIHyjYu4lbklyCvM9sTWLzU8d/vgKsV06AmeD0kZTYPeDM2Zef8CHwmgJMxWrAU+Aq1JBk3luRLecaCaTxSNoeNEuSf562Gno12HZR0kUYmx4oz94x0BnIf2yX7oS3TTfUn5+H8vYOmyy3jXFE2BJmxO3nSVCwUsr+6H23JdUtVGPnpBdvumX+JFDTg+S2QbMOdVKzmuOi5qhk7FxRXvT0Un9oQb7SkJhXqakzWID4LeRg==;hTa380bFCt0Q60uQ0CJUsA=="
 ---

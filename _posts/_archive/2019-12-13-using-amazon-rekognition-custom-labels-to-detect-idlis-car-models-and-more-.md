@@ -27,6 +27,6 @@ images:
     height: 881
     title: "Using Amazon Rekognition Custom Labels to detect Idli’s, Car models and more ;-)"
 
-secured: "ExELZ5SUNJaCgav8BqAQzGaGohTxYK5wFLTg3+PsHsLfUXbFWF5w9th6H4V4DCmjHWd8jh8PKGP1e2lK4g92CJocDqBkkYpQn+IcX3WUY3iDltBpgTfTXauYmsaENhh2P3CPsVEzDdjpFuPFABY19LF/mnX5MnMVpq5y4/R4Rzop11geg0uKTeX2FK8GIo+SdbV9/LtRxB1JFviMuJ1zlr9pxd2yqxdRUU7/3e2E4Bnp08mTLbXY1zYsJ7x6g9x2FpOqQVsCMaGRiiq3CrkWCA==;YMpzBeXMbxWsVOj0I06pCQ=="
+secured: "D9dyNvK0G/ZWsCjwZQTVgDvW/oIsTn8RtDJeFQL8eOu14+m5IUJb0HdOZJuPA+fCh13hApITK1zj08riaTaVU2KRzUxGkaqZMLtHCyb5OjLSedcD3qaz+oLkloFwkY1aGSFxERvZhEP1sNl/x17a+KqoCcfUDUjCYdCV0xGgU8xP1bRUp4dtSVvKdYB6N6peaIpkwfD7Zt3/V9Kly83eagpI9E1/fdkmDGrrCvpUtQFesECnrxM0FB7xQZU96PBRzjTRfaOlHo+ExdGHW0URRg==;89ZJPtnIdWNCd1ORU2T9MQ=="
 ---
 

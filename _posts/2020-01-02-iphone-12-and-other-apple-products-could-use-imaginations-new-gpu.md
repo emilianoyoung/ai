@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.25AA139A4346394006554D7F4DAB0060
         width: 700
         height: 468
+  - title: "Imagination Tech's AI And GPUs Could Be Used In Apple's Next-Generation Products"
+    excerpt: "Imagination Technologies recently announced that it signed a new license agreement with Apple that grants the Cupertino company access to its intellectual property. In 2017, Apple decided to end its relationship with Imagination Technologies and design its own graphics processing chips In its unclear what IP Apple will gain access to as the ..."
+    publishedDateTime: 2020-01-03T04:12:00Z
+    sourceUrl: https://www.ibtimes.com/imagination-techs-ai-gpus-could-be-used-apples-next-generation-products-2895366
+    ampUrl: https://www.ibtimes.com/imagination-techs-ai-gpus-could-be-used-apples-next-generation-products-2895366?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/imagination-techs-ai-gpus-could-be-used-apples-next-generation-products-2895366?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.59BDF12B4A1328A3ECCECCCFC394A109
+        width: 700
+        height: 466
   - title: "Apple Inks Licensing Agreement With Imagination Technologies"
     excerpt: "Apple AAPL recently signed a multi-year licensing deal with chip designer Imagination Technologies Group Plc, its former GPU supplier. The latest deal replaces Imagination ... use the latter’s extensive intellectual property rights related to graphics and AI, which could be the keys to Apple’s initiatives to bring 5G to its flagship ..."
     publishedDateTime: 2020-01-02T13:46:00Z

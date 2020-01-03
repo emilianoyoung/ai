@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1B7989D9B4AC7FC0061AD66BAE2CA330
         width: 700
         height: 357
+  - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
+    excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
+    publishedDateTime: 2019-12-18T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/trintech-expands-artificial-intelligence-strategy-160000844.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 51
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+        width: 1200
+        height: 1200
   - title: "Hello, super intelligence. Will robots get along with mortals?"
     excerpt: "Driverless cars are coming to Dubai ... While some predicted it to happen in 2030, yet today we know that artificial intelligence despite making huge strides is still nowhere near human intelligence. But what if we did achieve this in 10 years? How would things pan out for us? If I did an Einstein-like thought experiment about the future ..."
     publishedDateTime: 2019-12-30T20:40:00Z

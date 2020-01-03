@@ -3,7 +3,7 @@ category: news
 title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
 excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
 publishedDateTime: 2020-01-03T01:31:00Z
-sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-os-uk.aspx?tc=page0
+sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-eds-us.aspx?tc=page0
 type: article
 quality: 13
 heat: -1
@@ -78,6 +78,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Wg6jr9+9fu8LYrH/lEF7pumSyB6Ahott/KWK75izr9yLuq7im5YXwIKWpP8tR5+ogeW85UYefg7EvDIvtvZAOu+QXcB0z4dchAKo/kIjgEAOY8aNhetN/Uz5pzVDHxHFzCBsh9mJf6Y6YPpVEcwjbK2nZKlSeF6ayT1OgLaidYUDtJEopyFT4RIGGhnviRwuTr83jvSOHS39yUjs05JyvPFThQTzs9euBWUcXr1KJO9TIB57dR1QO8vrYRDHb0V9L5dWCKUtxMLELN6i/AZjzA==;awVlz/3gtMjh3QjqyM7vGA=="
+secured: "hcAG5lt5CjEVJ9W9j4+Id52SHkNsnOT9Gly2oDF0YQdmiGSjrZ1yn/5KD0o2YzwumTQpXSAYQIIBs9/YVWJH/ASS7MpTTSS2aUo63kLwBYZTfAAsLF36YyLb0FvbCRpedU7sUp45c5GoxHbfvf691A6NofaFP/3rNlWCkdFAo6uE5GUVvIzYoqkmO9xQyyk59Tt16xz4Cf/ejEBRfJ3uA2t1Qb83cvxW3nBQayvlLdBDOVLXQHi9SgDnqQqm9GD3iYcExI08ccY9iCCY8wva1A==;1foY3pIPOcvawe7J87v29g=="
 ---
 

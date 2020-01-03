@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-inte
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/16/augmented-intelligence-empowering-humans-not-replacing-them/amp/
 type: article
 quality: 76
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -61,6 +61,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C78514CFDB4EC2E608F3FF107D05631F
         width: 700
         height: 329
+  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+    publishedDateTime: 2019-12-16T08:56:00Z
+    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
+        width: 700
+        height: 367
   - title: "Putting the 'art' in Artificial Intelligence"
     excerpt: "Artificial Intelligence never ceases to surprise us. Recently, AI was used to determine if Shakespeare took outside help to complete some of his work. It turns out that large portions of his play Henry VIII were written by John Fletcher. At least this is what researcher Petr Plechác's AI neural network would have us believe. The literary world ..."
     publishedDateTime: 2019-12-19T09:24:00Z
@@ -74,6 +89,15 @@ related:
       - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
         width: 725
         height: 725
+  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
+    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
+    publishedDateTime: 2019-12-17T16:23:00Z
+    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
 
 secured: "3ytiDKu//IBPWdlgzDDpMpZDi9e1Hqu1nk5PnuGdKRyrJok5skyFRYcnhIcIjvrbyWWEUW9VWeDJeJspWYDW/cOKISthXWqGj5GVypmV/QMrW9FLwIb14SjzJTmDi+pSmGGgN89cTXkS0VAAxeEF0v+idlsLEmIHfApwsBbB5c69oLgiCjix1s50458NhYe8NzyVc8JkOT0T2emhB3YD3WPUHXsROtMjdrAcayLp5LvI/dnZe9H4acTR+dHX4H3kqB7gFDehqAXAeH6AQa0e5Q==;wNsXmUmrR6PBGTAs4KsR8A=="
 ---

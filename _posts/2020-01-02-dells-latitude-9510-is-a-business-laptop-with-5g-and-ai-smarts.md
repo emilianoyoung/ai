@@ -2,22 +2,16 @@
 category: news
 title: "Dell's Latitude 9510 is a business laptop with 5G and AI smarts"
 excerpt: "As with some other recent notebook launches, the company is highlighting a few superlatives here. Dell is calling the Latitude 9510 \"world's most intelligent 15-inch PC with built-in AI,\" the \"world's smallest, lightest ultra-premium business 15-inch PC\" and the \"longest running 15-inch PC.\" That's a lot to promise, but let's start with one ..."
-publishedDateTime: 2020-01-02T13:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
-ampUrl: https://www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
+publishedDateTime: 2020-01-02T14:00:00Z
+sourceUrl: https://www.msn.com/en-gb/finance/technology/dells-latitude-9510-is-a-business-laptop-with-5g-and-ai-smarts/ar-BBYyatX
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -43,6 +37,6 @@ related:
         width: 718
         height: 400
 
-secured: "tOn6abi7HlccxAY7Lv7lIYYqeaaeetCuydsTEhd5t7j2P36WItwFvppMDkrDnLAtQyykky1BJAxdC+vOMBtXVixmHsWWZxtU6OpnA6GSGYSv6Tt1FbsZUOaiNBnJp9RzB5rxR9HvDN9prFgBdXGZYP16GDneP8bQr4SwFSjWm07o/MmcI/CzhoBY564N/nWpZrY1xlA9n4qO4evAkEOTuP9/7jMtpahmpg1ldhuxt8tRQ8XkOZq5iECMWcMTeSgHkjZYT8DAv5mUjvaPBwmlwg==;hTouqhxG+aIQEfnwUJ2yRQ=="
+secured: "M32qRDOdDsinr8NgIhnjUUX2CWVz+syDihB5s3QoBtcKbfI065ENi570fx2zHcHsPnIZGyzCT15pII7f6ssCZ9ocrmodNd3P5A+39XiC8bne+b7fvvm2XWj4CGWaMA6a2hrMgXId7dy/rtXPwflcGa9ph79gYEQXePN8CPLCojN60zKMfBK4mKMCjCmQ/uq+qYL7H14nVWIwB9F69u7bCSeWD7tvzonB5PiIsMn6RcpYKgShwADQUm8Ovq2qr6xFnGFBKeZQ4MdLO0QietKi/A==;sd7alPvla3FYJH1cZhwWPg=="
 ---
 

@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2895B6C95DBFB3E92867F2E027273702
         width: 600
         height: 315
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-17T05:47:00Z
-    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
-        width: 700
-        height: 265
 
 secured: "6fUvla2Bclk9gRReMIsDIMhSLizxCWlYqbi5wsenUPCKvt2PQ17uNr0NvcNyqR+vMj3OqaXWtyZoXEkUydcCCtphz7yfMl3ZR4xqv2jz61s4DhMYJBTvQiaFqmMHXxOoyghJOELOYDzNyerztI/6s7FWbaVdSM20RvfylQtnxxnyMrQPiacPIRAjMal7zQPcmLtJSeYQjBxcijXg9YCt+jmDnTFY1/XvojcHlZGP6jY3vDdqTaqkMwChW3t2nhMKP6oPLVSXTPv+4nU58J1HEQ==;Py3yiZibML0Xx62PGvGVkg=="
 ---
