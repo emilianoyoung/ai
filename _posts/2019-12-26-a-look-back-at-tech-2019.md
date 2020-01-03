@@ -65,17 +65,6 @@ related:
       - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
         width: 1024
         height: 530
-  - title: "A Rocking Robotics ETF For 2020"
-    excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. UBOT has tailwinds right now as the robotics market ..."
-    publishedDateTime: 2020-01-03T18:33:00Z
-    sourceUrl: https://www.benzinga.com/trading-ideas/long-ideas/20/01/15015434/a-rocking-robotics-etf-for-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15015434
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015434
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "8 robotics trends for 2020"
     excerpt: "as robots proved their worth in helping to address labor shortages and take on dangerous tasks. But even within the traditional fields, advances in artificial intelligence and software helped robots perform new tasks, working alongside human workers more collaboratively than before. Now that the calendar has turned to a new year, we look ahead ..."
     publishedDateTime: 2020-01-03T00:37:00Z

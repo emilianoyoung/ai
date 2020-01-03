@@ -23,6 +23,6 @@ images:
     height: 457
     title: "AWS re:Invent: 10 New Ways To Connect Storage To AWS"
 
-secured: "BuJpw5Ikm5Jjfzr4/mh46dmO1kA1XYBHLDIgl859b+fvTI35BMNQnCYLoC7x1IEMCd+f7Zt3lfgj4ChhodOVQC2ABlVB3v4W36G2bwdxdZ0huVvpdfkvfgJY/mDIOJbYY+jfiniMK1ybaXQ3ypN7raiHQ8Q4FEjhSsjERayNQ7ElAEy8wVgLXnt7XsPQZKmL9y3zDVuEkYy+0n2t2+ld2ydoR0oS8tn6V8aGXTnQAHDwrFusuFU7jtCV2vhyCpSjr3P/wB8C7EVDsQpP8ok/0g==;JyvNPIMMsa9IfA3tYiRQHQ=="
+secured: "Yq1F7NgbOAtzlQ0qC0Q6LQF5jqwnzcU2s3lPintKK4DB1VsRmoD/FusXehBgJ2ddrNac98XZZ/+CmgqbHIpui3Ah3atPurgBvoOJjmBePhguD3wgA3FY9wY7g74PjH5V1Q3B13w/YGwGBQ72gHm6vtv7fmdm+ECrZMnYOHYKajUiTN0L+lY55Mzp6MwXKZ5qouyDy/dz1BetFB9MXqgYPDQxHy+DtMrFnVB9uNadD+gqmTzEqqk4DWZgeY8x9KchwYpUvnYRL5bzf7r8vbU9jg==;yoll5tLcHDhyskXU/qa9qw=="
 ---
 

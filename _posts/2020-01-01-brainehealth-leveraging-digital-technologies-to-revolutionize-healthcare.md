@@ -89,6 +89,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
         width: 1903
         height: 836
+  - title: "From Apple upping its healthcare ambitions to Walmart acquiring a health insurer, VCs shared the biggest surprises they're watching out for in 2020"
+    excerpt: "The 'surprises' aren't predictions, exactly, but if the events do occur, they could have big implications for investors and patients."
+    publishedDateTime: 2020-01-03T20:18:00Z
+    sourceUrl: https://www.businessinsider.com/healthcare-surprises-for-2020-from-top-investors-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.CD8C442A8E47BD41D4DC3532DCA60D1F
+        width: 700
+        height: 350
 
 secured: "1d0H98VaVpKesRKQYZg5vQFAWMcCqYZ0/LL6pooSxrO6pWQhDlMQgIZFdvbVxbBlrNTRG9+d14fnN2Yrzy30PYfrSMJ/PdE5kykAdmPErO2g8fZiduS+5d5lMMTD9zjOCdj/f1nY4UjMfOjxnNWUGerWt8iUbQnBq7NJ2/EWqizRaZtgrN8LbGsNN5elVk4lZBIWaLJX+J5OfezKOW0e/z6yvkGyzydDz7tXNvprPJm7td4KVFeMiJEyqxvGkCOX4Sd7BAxTRMwQENFuMS9OKg==;QL86vqkI0BcASRFILcHGsw=="
 ---

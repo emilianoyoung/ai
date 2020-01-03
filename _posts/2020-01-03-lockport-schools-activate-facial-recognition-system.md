@@ -645,6 +645,17 @@ related:
       - url: https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/10/The-Big-Heat-Cover.png
         width: 510
         height: 792
+  - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
+    excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website came as a surprise, since administrators had previously told the Union-Sun & Journal they did not have a set date for launching the system. “I am ..."
+    publishedDateTime: 2020-01-03T20:32:00Z
+    sourceUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html
+    ampUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z

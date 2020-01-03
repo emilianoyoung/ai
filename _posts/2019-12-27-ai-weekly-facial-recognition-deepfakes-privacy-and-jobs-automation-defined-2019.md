@@ -637,6 +637,17 @@ related:
       - url: https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/10/The-Big-Heat-Cover.png
         width: 510
         height: 792
+  - title: "Lockport, N.Y., Schools Embrace Facial Recognition Software"
+    excerpt: "(TNS) — Lockport City School District announced Thursday that it has begun using its controversial facial and object recognition surveillance system. The announcement on the district website came as a surprise, since administrators had previously told the Union-Sun & Journal they did not have a set date for launching the system. “I am ..."
+    publishedDateTime: 2020-01-03T20:32:00Z
+    sourceUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html
+    ampUrl: https://www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Aegis-software-turned-on-in-Lockport-schools.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Lockport schools activate facial recognition system"
     excerpt: "A new year also marked the start of a new era for security efforts in Lockport's public schools. The district announced on its website Thursday that it has activated its $1.4 million facial recognition system in all schools. The Lockport Board of Education has yet to approve policy changes the State Education Department requested in late November."
     publishedDateTime: 2020-01-03T17:28:00Z

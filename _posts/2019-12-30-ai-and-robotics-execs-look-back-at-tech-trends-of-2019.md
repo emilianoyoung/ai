@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-30T20:30:00Z
 sourceUrl: https://www.therobotreport.com/ai-robotics-execs-look-back-tech-trends-2019/
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -50,17 +50,6 @@ related:
       - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
         width: 1024
         height: 530
-  - title: "A Rocking Robotics ETF For 2020"
-    excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. UBOT has tailwinds right now as the robotics market ..."
-    publishedDateTime: 2020-01-03T18:33:00Z
-    sourceUrl: https://www.benzinga.com/trading-ideas/long-ideas/20/01/15015434/a-rocking-robotics-etf-for-2020
-    ampUrl: https://amp.benzinga.com/amp/content/15015434
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15015434
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "A Look-back at Tech 2019"
     excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
     publishedDateTime: 2019-12-26T02:56:00Z

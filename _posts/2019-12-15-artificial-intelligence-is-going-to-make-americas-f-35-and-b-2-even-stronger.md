@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:50:00Z
 sourceUrl: https://nationalinterest.org/blog/buzz/artificial-intelligence-going-make-americas-f-35-and-b-2-even-stronger-104967
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -21,23 +21,6 @@ images:
     width: 700
     height: 560
     title: "Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger"
-
-related:
-  - title: "Artificial Intelligence Is Going To Make America's F-35 and B-2 Even Stronger"
-    excerpt: "(Washington, D.C.) Fighter jets will control attack drones from the cockpit, bombers will avert air defenses and real-time intelligence data will be available to attacking forces more quickly -- all due to new iterations of fast-evolving Artificial Intelligence technologies. Faster computer processors, AI-infused algorithms able to merge or ..."
-    publishedDateTime: 2019-12-14T19:30:00Z
-    sourceUrl: https://news.yahoo.com/artificial-intelligence-going-americas-f-193000508.html
-    ampUrl: https://news.yahoo.com/amphtml/artificial-intelligence-going-americas-f-193000508.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/artificial-intelligence-going-americas-f-193000508.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D8EB78CDAB26273E5699B19237716B3C
-        width: 700
-        height: 560
 
 secured: "Cv0U0yWi/WtT06luKpFuvnMnexhTV/ctjNrXPAc6A//hy8tsa0BEdTYn3dd12CV4CKcbYQ4R5T5nljWVpLQMzMewaIS32ZeVuDnXsXmLvuodKCYOeeRm4Hfaio95xjEFybuEJ602Pkem6joTUPOEfGSzpHtoeMTbQgsSlUAXySUdQyEOXJ40rtd4w2TzAKwMR3U85p8rbZRirUwYwgGznH0xxk9/gKxiL5P8N7PJBh6S7Cz+72A6oB3V3EiLKXyMnDJghoViGUiLzZSV8FOVWQ==;q9nHatzrJSrCZ16DWsZ4/Q=="
 ---
