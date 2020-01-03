@@ -90,6 +90,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3220DD48849E2DD7403F5FFE630CF54B
         width: 700
         height: 423
+  - title: "3 Crashes, 3 Deaths Raise Questions About Tesla’s Self-Driving Cars"
+    excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed, ran a red light and struck a Honda Civic ..."
+    publishedDateTime: 2020-01-03T13:15:00Z
+    sourceUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/
+    ampUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
+        width: 700
+        height: 449
   - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
     excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
     publishedDateTime: 2020-01-02T13:00:00Z

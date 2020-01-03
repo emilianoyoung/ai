@@ -254,21 +254,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Beijing’s New Airport Is Embracing Facial Recognition Technology"
-    excerpt: "In general, Chinese citizens are less bothered by the growing pervasiveness of facial recognition technology than in other countries. But soon, international visitors to Beijing’s newest airport won’t have much of a choice of whether they’re captured by the technology. Flying in and out of Beijing may soon be a Minority Report-like ..."
-    publishedDateTime: 2019-12-14T13:00:00Z
-    sourceUrl: https://skift.com/2019/12/14/beijings-new-airport-is-embracing-facial-recognition-technology/
-    ampUrl: https://skift.com/2019/12/14/beijings-new-airport-is-embracing-facial-recognition-technology/amp/
-    cdnAmpUrl: https://skift-com.cdn.ampproject.org/c/s/skift.com/2019/12/14/beijings-new-airport-is-embracing-facial-recognition-technology/amp/
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.D2CAD93BE40E01CA4BEFB7E7E0161D75
-        width: 700
-        height: 466
   - title: "Backlash against facial recognition in Beijing"
     excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
     publishedDateTime: 2019-12-17T00:54:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-fa
 cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
 type: article
 quality: 159
-heat: 739
+heat: 749
 published: true
 
 provider:
@@ -303,6 +303,21 @@ related:
       - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
         width: 700
         height: 466
+  - title: "Ruti Overcomes In-Store Personalization Challenge With Opt-In Facial Recognition"
+    excerpt: "The retailer is taking steps to accomplish this goal by personalizing the in-store shopping experience with a proprietary AI-powered platform that leverages an internally built CRM solution and opt-in-only facial recognition. With this technology deployed across nine boutiques (and a 10 th soon to open in Dallas), Ruti can offer personalized ..."
+    publishedDateTime: 2020-01-03T11:00:00Z
+    sourceUrl: https://www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition
+    ampUrl: https://www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition/amp
+    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/topics/shopper-experience/ruti-overcomes-in-store-personalization-challenge-with-opt-in-facial-recognition/amp
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 54
+    images:
+      - url: https://www.retailtouchpoints.com/media/k2/items/cache/17040e0f8eaa9a5c4a4cc58d69afe22d_L.jpg
+        width: 900
+        height: 545
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z
@@ -609,7 +624,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
     type: article
     provider:
       name: Fast Company

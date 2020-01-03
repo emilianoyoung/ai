@@ -420,19 +420,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B4D0129391DAD616A8189188CFBDB9DB
         width: 315
         height: 236
-  - title: "Google's AI can detect breast cancer more accurately than experts"
-    excerpt: "The AI screened with fewer false positives and false negatives than humans. DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false ..."
-    publishedDateTime: 2020-01-01T18:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.06FF1D276EE02AC552015BBF7CF2E819
-        width: 700
-        height: 367
   - title: "AI system can detect breast cancer better than doctors, study finds"
     excerpt: "Currently, one in seven women in the UK develop breast cancer in their lifetimes. The programme was developed by Google Health in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. New treatment aims to make chemotherapy more effective and reduce side effects UK lags ..."
     publishedDateTime: 2020-01-02T07:59:00Z

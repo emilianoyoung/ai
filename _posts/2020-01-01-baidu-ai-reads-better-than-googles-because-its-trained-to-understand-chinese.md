@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-01T08:01:58Z
 sourceUrl: https://www.msn.com/en-sg/news/other/baidu-ai-reads-better-than-googles-because-its-trained-to-understand-chinese/ar-BBYvVx6
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,23 @@ images:
     width: 600
     height: 315
     title: "Baidu AI reads better than Google's because it's trained to understand Chinese"
+
+related:
+  - title: "Why Baidu Is a Better AI Stock Than Google"
+    excerpt: "Baidu (NASDAQ:BIDU) and Alphabet's (NASDAQ:GOOG) (NASDAQ:GOOGL) Google both develop artificial intelligence technologies like machine learning, deep learning, and neural networks. Both companies use those AI technologies to crunch data from their similar ecosystems, which include market-leading search engines, cloud services, streaming media ..."
+    publishedDateTime: 2020-01-03T13:48:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 91
+    images:
+      - url: https://www.bing.com/th?id=ON.061DBDB6CF00334B5A1A49BA4F889845
+        width: 700
+        height: 525
 
 secured: "b5XTzwC1nZoTO61ODHZjZp3VxYZ5iCX9R0E6wd681vfX3S1CgRX5R8dSL9ZPlJ+LHfXRVIDvbO5A9VhzV+aOsvRzu+uXEIG755WfzYmfAPcPbzX1kRdQHDVY+51RqlkH8LCStsksgWM4b5H8qc0tHd72UUrmf1tNR4it/KR6SkwIiAjQ9e9vrOm8K0Lg1cugDFBtPBo3OX1RPHSJKbp/s9hCJjNYpi3ItZ8CYTXWYJMXeWPSFk+fMAmo4w69Ztgse71TAS7xo3WTKhWiKa+SXA==;64tC3lmrL0BcGvqtzwIgDA=="
 ---

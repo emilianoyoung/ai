@@ -8,7 +8,7 @@ ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthca
 cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Sharing Data Could Save Lives as Healthcare Tech Booms in 2020"
 
 related:
+  - title: "Artificial intelligence could help breast screening save more lives"
+    excerpt: "The AI software was able to correctly identify cancers in screening images with a similar ... \"It's very important that I sit there on the lay side to make certain that everything is anonymized, and the ethics are checked.\" Before images enter the database, they're immediately de-identified so there is no way that a researcher can find out ..."
+    publishedDateTime: 2020-01-03T13:21:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-breast-screening.html
+    ampUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-breast-screening.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-breast-screening.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.6EF9317A035CD1AB4EB4BA730B8A052A
+        width: 620
+        height: 348
   - title: "How AI is making healthcare ‘more human’"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
     publishedDateTime: 2020-01-02T07:25:00Z

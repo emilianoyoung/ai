@@ -2,16 +2,22 @@
 category: news
 title: "Bosch is finally making LiDAR sensors for autonomous cars"
 excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-publishedDateTime: 2020-01-02T08:00:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/bosch-is-finally-making-lidar-sensors-for-autonomous-cars/ar-BBYxzme
+publishedDateTime: 2020-01-02T07:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
 type: article
-quality: 24
-heat: -1
-published: false
+quality: 74
+heat: 94
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,145 +30,37 @@ images:
     title: "Bosch is finally making LiDAR sensors for autonomous cars"
 
 related:
-  - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2020-01-02T12:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
+  - title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
+    excerpt: "Sony Corp (OTC: SNEJF) is working on developing a new, more affordable lidar vision-sensing technology for self-driving cars, the Financial Times reports. In an attempt to dominate the market for image sensors in the nascent autonomous-vehicles industry, Sony is developing a new silicon-based vision sensor that is lower in cost, compact ..."
+    publishedDateTime: 2020-01-03T11:51:00Z
+    sourceUrl: https://www.benzinga.com/news/20/01/15065597/sony-to-develop-new-vision-sensor-for-self-driving-vehicles
+    ampUrl: https://amp.benzinga.com/amp/content/15065597
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15065597
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
-  - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2019-12-30T14:49:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
-  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
-    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
-    publishedDateTime: 2020-01-02T13:48:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
-        width: 700
-        height: 366
-  - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
-    excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
-    publishedDateTime: 2020-01-02T17:44:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
-    ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
-        width: 700
-        height: 233
-  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
-    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
-    publishedDateTime: 2020-01-03T04:00:00Z
-    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+      - url: https://www.bing.com/th?id=ON.3FF539C0716604108A02D9898AB9A8CB
+        width: 400
+        height: 300
+  - title: "Mainstream cars could be self-driving sooner than predicted: German tech giant Bosch to launch lower-cost sensors for driverless vehicles"
+    excerpt: "German automotive supplier Robert Bosch confirmed that it has developed a sensor that lets cars 'see' a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer ..."
+    publishedDateTime: 2020-01-02T12:00:00Z
+    sourceUrl: https://www.thisismoney.co.uk/money/cars/article-7844511/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
+    ampUrl: https://www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
+    cdnAmpUrl: https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/cars/article-7844511/amp/Germanys-Bosch-offer-lower-cost-sensors-self-driving-cars.html
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
-        width: 700
-        height: 393
-  - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
-    publishedDateTime: 2019-12-28T10:49:00Z
-    sourceUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4
-    ampUrl: https://montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
-    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/business-pmn/u-s-talks-with-gm-over-deploying-self-driving-cars-without-steering-wheels/wcm/4a9c94f6-6d8a-4eba-b4fc-b9b5121bace4/amp
-    type: article
-    provider:
-      name: Montreal News
-      domain: montrealgazette.com
-    quality: 42
-    images:
-      - url: https://postmediamontrealgazette2.files.wordpress.com/2019/12/autos-autonomous-.jpg?w=1000&amp;quality=80
-        width: 1000
-        height: 750
-  - title: "Oh Good, The New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-27T21:06:00Z
-    sourceUrl: https://www.gizmodo.com.au/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.333F04D4B6C9379367059FDDEF1E5B9C
-        width: 700
-        height: 393
-  - title: "Oh Good, the New Police Surveillance Vector Is Self-Driving Cars"
-    excerpt: "A Waymo vehicle, however, was not responsible for maiming a 32-year-old biker, which makes this, to the best of our knowledge, one of the first instances of self-driving vehicle footage being obtained by police in a crime in which the autonomous vehicle was not involved. In this instance, it did nothing to assist in catching whoever injured the ..."
-    publishedDateTime: 2019-12-28T15:26:00Z
-    sourceUrl: https://www.gizmodo.co.uk/2019/12/oh-good-the-new-police-surveillance-vector-is-self-driving-cars/
-    type: article
-    provider:
-      name: Gizmodo UK
-      domain: gizmodo.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
-        width: 700
-        height: 393
-  - title: "Chinese self-driving, refrigerated truck travels across US"
-    excerpt: "BEIJING -- A self-driving truck developed by PlusAI, a Chinese startup specializing in self-driving technology for large trucks, succeeded this month in traveling from the U.S. West Coast to the East Coast. The truck carried about 18 tons of butter made by Land O'Lakes, the country's biggest dairy cooperative, over a distance of about 4,500 km."
-    publishedDateTime: 2019-12-30T04:39:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/Chinese-self-driving-refrigerated-truck-travels-across-US
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FE4D36B9864A8E2A38BA2D4B8C5FB831
-        width: 700
-        height: 350
-  - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
-    excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
-    publishedDateTime: 2019-12-28T00:56:00Z
-    sourceUrl: https://www.infosurhoy.com/top-stories/engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities/
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 0
+      - url: https://i.dailymail.co.uk/1s/2020/01/02/11/22906690-0-image-a-2_1577964086135.jpg
+        width: 636
+        height: 382
 
-secured: "3DWJhXzUgaqYmjwf2NJ7toPPVEuQjZwzyN6n+drrhS5SUVrL0e5RCrHoZ/olv5yUKYHQOrZC2QQlH1Ygtjd04L9iPiZzQsxdBkP53KrzXW5JqhN5ykeh/v7jfpX5cuS2LYfDbL2doa+aaRBTF5k237zFYCozZJWCW38aoOc3qXrDDRrSNIs3XjLZiPI5PcRRvo/hud5MZHMMHN1h+nhSulbaqxLwUTNKbaIcFWHebj+uvK/XjCzB1y1RtA+bv9IJLUk4UtEErCc1FRVc8REqnA==;7qlVSvewklR8zSPFlavMnA=="
+secured: "5A2FzD8NMDsEQnaOoKqwB6rxLBzCUji9CYIwN59Cdz95L9yLyryDSW/sWW2fsvFO/ZFxwVUmvsMxlPD9A65QtWki1hg38NhPposhwDfcE5f5QpxG4SKH0u9qbeI63IGeOWM1YFMvZGOfxQJ/hejWpDT7zBm+PVqvoU+hYyI4TY9Cw/v0wqMsg+8H3uZOYKPr8rcsArosDGx6wIDSM15hjBwsSWjxv6psLmZne/CIJiAZ15+ANak0ubtouW/ufMFPFWHqS/F59Y170fAqJ/eZ0w==;Z+0YKNJhZUJ4shskTK2RRg=="
 ---
 

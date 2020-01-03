@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1D24BBC5DB3181C57358044244BC4389
         width: 600
         height: 315
+  - title: "3 Crashes, 3 Deaths Raise Questions About Tesla’s Self-Driving Cars"
+    excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed, ran a red light and struck a Honda Civic ..."
+    publishedDateTime: 2020-01-03T13:15:00Z
+    sourceUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/
+    ampUrl: https://ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    cdnAmpUrl: https://ktla-com.cdn.ampproject.org/c/s/ktla.com/2020/01/03/3-crashes-3-deaths-raise-questions-about-teslas-self-driving-cars/amp/
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
+        width: 700
+        height: 449
   - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
     excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
     publishedDateTime: 2020-01-02T08:03:00Z

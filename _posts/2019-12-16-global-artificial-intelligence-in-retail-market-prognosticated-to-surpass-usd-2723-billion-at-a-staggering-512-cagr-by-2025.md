@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T12:14:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
 
 related:
-  - title: "Artificial Intelligence Chipset Market Anticipated to Witness a CAGR of 33.6% From 2019 to 2025 | Grand View Research, Inc."
-    excerpt: "Global artificial intelligence chipset market size is expected to reach USD 59.2 billion by 2025, Artificial intelligence chipset is being adopted rapidly in the consumer electronics industry owing to the rising demand for faster processors. New types of hardware/semiconductor accelerators are being introduced with the rapid evolution in ..."
-    publishedDateTime: 2019-12-14T12:50:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/ab14992513/artificial-intelligence-chipset-market-anticipated-to-witness-a-cagr-of-33-6-from-2019-to-2025-gr
-    ampUrl: https://amp.benzinga.com/amp/content/14992513
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14992513
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.C3662CC4C4C390E52D1D7CE2AA29EBEE
-        width: 600
-        height: 300
   - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
     excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
     publishedDateTime: 2019-12-20T12:08:00Z

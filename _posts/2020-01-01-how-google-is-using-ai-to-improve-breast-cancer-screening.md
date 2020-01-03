@@ -256,6 +256,19 @@ related:
       - url: https://www.bing.com/th?id=ON.686C5EE02AFF74C52AAB3A21F0281548
         width: 700
         height: 466
+  - title: "Google's AI can detect breast cancer more accurately than experts"
+    excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false positives (when a mammogram is judged to be abnormal even when no cancer is ..."
+    publishedDateTime: 2020-01-01T18:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/2020-01-01-googles-ai-can-detect-breast-cancer-more-accurately-than-expert.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6F2A8F4142BB9F2FF71743AC01B20F41
+        width: 700
+        height: 466
   - title: "AI could spot breast cancer more accurately than radiologists"
     excerpt: "An AI system, developed by Google Health and Alphabet Inc’s DeepMind AI subsidiary, has now been shown to identify cancer in breast screening mammograms with fewer false positives and fewer false negatives than radiologists. Mozziyar Etemadi of Northwestern Medicine in Chicago, who is a co-author of the study, said their findings “represent ..."
     publishedDateTime: 2020-01-02T13:38:00Z
