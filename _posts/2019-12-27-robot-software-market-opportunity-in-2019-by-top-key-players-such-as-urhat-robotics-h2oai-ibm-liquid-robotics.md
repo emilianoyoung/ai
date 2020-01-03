@@ -69,6 +69,15 @@ related:
       - url: https://www.thehindubusinessline.com/todays-paper/tp-news/rjbz9r/article29782763.ece/ALTERNATES/LANDSCAPE_615/bl2423bmtktOGJB6KAEDL3jpgjpg
         width: 615
         height: 384
+  - title: "8 robotics trends for 2020"
+    excerpt: "as robots proved their worth in helping to address labor shortages and take on dangerous tasks. But even within the traditional fields, advances in artificial intelligence and software helped robots perform new tasks, working alongside human workers more collaboratively than before. Now that the calendar has turned to a new year, we look ahead ..."
+    publishedDateTime: 2020-01-03T00:37:00Z
+    sourceUrl: https://www.plantservices.com/industrynews/2020/8-robotics-trends-for-2020/
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 34
 
 secured: "oL5SrQX9mIp2utp6j5wueMJ6dPVoc/tmg7BPP5+dZzKFNcoW/p+AI/ZpRt3z1lPZ8Z4Y2YhTG6aizY8w6CrxI6GnyYRQ62SWiI7/qKs9Pm+LChQwpcuN9qXehDuwAs9B0rqh3Mjm3xplXVBAvfjGrk7/Vz3I6kpUAFPEW+HPjHpkyCN1fslGmzFSAjyRvXura3ZBL+vG0r3pPIDy6XiB9/UWjEkGg49tedwzu2bqeyEo3h81Fa7N1E3m3dVgq22/SSTn92LGnrDUzCRJfdAnjg==;EfuUj5MxRLUs8f7J/VE7TQ=="
 ---

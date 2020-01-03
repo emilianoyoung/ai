@@ -61,6 +61,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Natural Language Processing for the Identification of Surgical Site Infections in Orthopaedics"
+    excerpt: "The objective of this study was to determine whether automating the abstraction process with natural language processing (NLP)-based models that analyze the free-text notes of the medical record can identify surgical site infections with predictive ..."
+    publishedDateTime: 2019-12-18T00:00:00Z
+    sourceUrl: https://journals.lww.com/jbjsjournal/Abstract/2019/12180/Natural_Language_Processing_for_the_Identification.2.aspx
+    type: article
+    provider:
+      name: LWW Journals
+      domain: lww.com
+    quality: 27
+    images:
+      - url: http://jbjs.careers.adicio.com/files/cmsimages/userfiles/6917e4642a831d61f2c597ec4bb9090eb7628262/images/jbjsLogo.png
+        width: 1374
+        height: 568
   - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-18T16:27:00Z

@@ -263,6 +263,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
         width: 700
         height: 525
+  - title: "Bosch teases low-cost lidar sensors for self-driving vehicles"
+    excerpt: "The company told Reuters the internally developed sensor could help speed up the adoption of self-driving vehicles, which has hit a roadblock amid higher-than-expected costs and increasing regulatory concerns. Lidar, as the technology is known, is thought to be a key enabler for self-driving cars. It works by using light-based sensors to ..."
+    publishedDateTime: 2020-01-03T00:01:00Z
+    sourceUrl: https://siliconangle.com/2020/01/02/bosch-teases-low-cost-lidar-sensors-self-driving-vehicles/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
+        width: 300
+        height: 169
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:39:00Z

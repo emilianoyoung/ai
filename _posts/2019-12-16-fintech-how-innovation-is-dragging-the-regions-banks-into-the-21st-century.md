@@ -69,19 +69,6 @@ related:
       - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Empowering Telecom Industry with Artificial Intelligence"
-    excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
-    publishedDateTime: 2019-12-13T23:51:00Z
-    sourceUrl: https://medium.com/@infopulseglobal_9037/empowering-telecom-industry-with-artificial-intelligence-36ad93610e
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
-        width: 700
-        height: 233
   - title: "Trintech Expands Artificial Intelligence Strategy to Support the Office of Finance"
     excerpt: "Identify and remove risk from your financial statements with the power of Financial Controls AI™ DALLAS, TX / ACCESSWIRE / December 17, 2019 / Trintech, a leading global provider of integrated Record to Report software solutions for the office of finance, today announced its newest Artificial Intelligence (AI) investments, AI Risk Rating for ..."
     publishedDateTime: 2019-12-18T00:05:00Z

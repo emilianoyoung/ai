@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T19:27:00Z
 sourceUrl: https://www.therobotreport.com/trifo-raises-series-b-funding-announces-lucy-robot-vacuum/
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3318593B1E323AC332B53222101E666F
         width: 700
         height: 394
+  - title: "Home security robot vacuum maker Trifo raises $15M in funding round"
+    excerpt: "And the company said the Lucy can operate for up to 120 minutes between charges. “Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang said. Trifo said it ..."
+    publishedDateTime: 2020-01-03T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/home-security-robot-vacuum-maker-201900349.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "Uq5DgDLqEVTrMfFxQ2t3CpdM6YEuOpasKw+3irK8XM8vf2TZtvm/MWuXWsSPXlohl2+tvHVYDuCm2a+jaZ+gQrLpVx3hhrHE48SoAUiF7rpYnnvVOARfTXiQAaqR/oerXiCXROokp3nPpQxFvnWr5RGZnANkvvXJ8/shFz2MQqyy/LAiJnxpPXaCiW//rz98z4qF20v1bjjmfNT01hgZ++TLPTKC48mGUsQY8sYZoF/AH+88j2aOd01N8bbUHb2slcl9rUflAYL4+2eULIQ+9A==;K9ZdN9czPZVDiu8kq7cm4w=="
 ---

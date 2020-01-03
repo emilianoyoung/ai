@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.670ABF7F727E210FE1A8F102125D473F
         width: 700
         height: 394
+  - title: "Home security robot vacuum maker Trifo raises $15M in funding round"
+    excerpt: "And the company said the Lucy can operate for up to 120 minutes between charges. “Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang said. Trifo said it ..."
+    publishedDateTime: 2020-01-03T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/home-security-robot-vacuum-maker-201900349.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "WaO7ypz6fjiGjTQMdSe89ds/g9jGUwOuFH+bGrdE8rqk9/J3msNXVKrdNxiGsS6N8QgL7oHpsiH1MYw4Kw3+9tsxxpIPDH7fsYqyY4uXPuL6SrYAOKWYLzY5JCFa6OVIvMj22v6KMJVkEy9P8uRdxrego/LKCIwnFKLyV4cArt8Lc4RZ4pFwFTn/urCCIhxljH4gV6vRrZ8Z/hzecSDAeHaXpi+eM7yf65gWxR4Lq8Qsk8WcELs/Ups3Xy+bjc4sOp6zfzZ69chUgZ5h1G1GuQ==;Webf+lyU34WNJExaoDxrpw=="
 ---

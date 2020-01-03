@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Samsung and LG go head to head with AI-powered fridges that recognize food"
-excerpt: "Samsung’s latest edition of its Family Hub refrigerator and LG’s second-generation InstaView ThinQ fridge both tout AI-equipped cameras that can identify food. The idea is that the cameras can scan what’s inside and let users know what items they’re short on, even making meal suggestions based on the ingredients they still have."
-publishedDateTime: 2020-01-02T19:11:00Z
-sourceUrl: https://www.theverge.com/2020/1/2/21046822/samsung-lg-smart-fridge-family-hub-instaview-thinq-ai-ces-2020
-ampUrl: https://www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart-fridge-family-hub-instaview-thinq-ai-ces-2020
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart-fridge-family-hub-instaview-thinq-ai-ces-2020
+excerpt: "Get ready for a smart fridge showdown at CES 2020, because Samsung and LG will both be unveiling fridges with added artificial intelligence capabilities this year. Samsung’s latest edition of its Family Hub refrigerator and LG’s second-generation InstaView ThinQ fridge both tout AI-equipped cameras that can identify food."
+publishedDateTime: 2020-01-02T19:23:00Z
+sourceUrl: https://www.msn.com/en-us/finance/other/samsung-and-lg-go-head-to-head-with-ai-powered-fridges-that-recognize-food/ar-BBYyoX7
 type: article
-quality: 85
-heat: 85
-published: true
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.00E7512FD1D87CB60C7B9B4FF6AD3439
+  - url: https://www.bing.com/th?id=ON.4787774278C397E16AD37D2937B96DFB
     width: 700
-    height: 366
+    height: 367
     title: "Samsung and LG go head to head with AI-powered fridges that recognize food"
 
-secured: "SN19imCcYbAuMec9XxDQomAPqgH2hUpqP13xEEOpM3sP2r+5N7Ds9tyuCs3N7SAs9WMAFd1E+/m9XdM6foE6QrluBKhdSgAEKCFJhwhKD8P3jN4RHbXoWYG9mJbYLGur9RcSzgJLTD823JCEBD3jSyhZYc0cQXSegmse0s7wT8sybScC+qpN+MU5wLLKDWme5bGOpooSudx3530xCO42LDZjKvcy6zWqCgtmrvPbqdQ+iHsnkNFecPc6rP4H9AeGk0+i4ms6ryXhqaFCePGrDg==;ysZKwXvcmkSiFd7lHu6y7w=="
+secured: "282n2q5u4J4JyCjbLFyrNAHVt6G5Ji47ghHWCJSOSJ85t+4lBh2DQ5ftNHZ766l/lkCB2j59kZXRhC/QdTmNvR2MOzBvvkly55324jQeYPq4hygfSkiBPnSK6uFshYcn9f6XQwyRwE3BNf5pxItsLZtbfZO98YE9mTFICBu7k9fpMMf6BEkwkspslyfEbmiJ+TMcEF4W4FCxS1g9i/74neEAYHTeRN66lmqeuKs/Si9q1DjeIZ4wMuwy8ZdyS1W/tFssb/uWq3vKBLHbIjcZMg==;65viMceo2yrKR09JyaqBTA=="
 ---
 

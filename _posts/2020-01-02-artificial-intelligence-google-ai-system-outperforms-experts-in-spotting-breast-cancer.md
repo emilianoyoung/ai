@@ -245,6 +245,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "Google's AI Proves Better At Detecting Breast Cancer Than Doctors"
+    excerpt: "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ..."
+    publishedDateTime: 2020-01-03T00:12:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/googles-ai-proves-better-at-detecting-breast-cancer-than-doctors/
+    ampUrl: https://www.gizmodo.com.au/2020/01/googles-ai-proves-better-at-detecting-breast-cancer-than-doctors/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/googles-ai-proves-better-at-detecting-breast-cancer-than-doctors/amp
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.93EFF5FC6AF1A37292AA30DEFC049F3B
+        width: 700
+        height: 366
   - title: "AI system is better than human doctors at predicting breast cancer"
     excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
     publishedDateTime: 2020-01-02T02:00:00Z

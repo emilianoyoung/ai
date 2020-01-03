@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
-excerpt: "Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been designed for home ..."
-publishedDateTime: 2019-12-25T00:05:00Z
-sourceUrl: https://finance.yahoo.com/news/sensory-unveils-domain-specific-voice-164500887.html
+excerpt: "SANTA CLARA, Calif., Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been ..."
+publishedDateTime: 2019-12-25T00:27:00Z
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances/article_6367c98f-6acf-5ff0-8f19-be02ebea416d.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.1E5903DEF831EC6A80278D64FEE9CCAF
+  - url: https://www.bing.com/th?id=ON.A0FCDBABD94E210ADAB31605EB3677D9
     width: 400
     height: 224
     title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
@@ -81,6 +81,6 @@ related:
         width: 700
         height: 388
 
-secured: "cI9JN/DAsLFwSF5JOKjyIfVH4lFIJyW6wtqjNuf+bH1IXJZJ5Qbqc/Q2MYnAsXQ0c19Uh8XZbU8WzXb1fqLDqV0Uski2rR9gea9OiujMvNqePpfaqtlo2vQCI3IMR+5zta/FKAY0gfwt5g3ySCVaqLE04/UWwdi2OJHmaf7u/Wzm000E/7dcKLFEhuaMzCEFo0vojaUw+67OLlWdrSaaBXqwYlVZH2A0PdEdB++fMl+tXsg1QTwrYGMwZii/8a2F35C9zcEEv4YHOvXBurnIWw==;bV8j4GOdLGWGOVXSoASbWg=="
+secured: "bo5saymGvHvJGJPctTtVAvlz185XYTVd9rnRHs+w2uUcJbaziKSwx7NV9So56/djuNbFJ8FY3B6t6MfqMR2UedZvtBvVqrlHV2St6zFKip+1TwhAoWEUjNC1XLro7eZkTObm7V1YkT/zO9+RrKWAPHFkdcSLd6E3cramTlzmiWvfz1Nc/f1KUggF1PBnZxIqJHHxMEpEcDoVt8NM9VFmHl5OH5JCUeqvCDR/St3icTbK0dljQDcsSGXdEoFaNr4E3zB9+5knevChgng8CiNG6w==;qXSDqH2jHu8FaxBEBQEQ9w=="
 ---
 

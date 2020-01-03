@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T22:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-17
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 34
+  - title: "Natural Language Processing for the Identification of Surgical Site Infections in Orthopaedics"
+    excerpt: "The objective of this study was to determine whether automating the abstraction process with natural language processing (NLP)-based models that analyze the free-text notes of the medical record can identify surgical site infections with predictive ..."
+    publishedDateTime: 2019-12-18T00:00:00Z
+    sourceUrl: https://journals.lww.com/jbjsjournal/Abstract/2019/12180/Natural_Language_Processing_for_the_Identification.2.aspx
+    type: article
+    provider:
+      name: LWW Journals
+      domain: lww.com
+    quality: 27
+    images:
+      - url: http://jbjs.careers.adicio.com/files/cmsimages/userfiles/6917e4642a831d61f2c597ec4bb9090eb7628262/images/jbjsLogo.png
+        width: 1374
+        height: 568
   - title: "AImotive's latest aiWare3P delivers superior NN acceleration for production L2-L3 automotive AI"
     excerpt: "The aiWare3P IP core incorporates new features that result in significantly improved performance, lower power consumption, greater host CPU offload and simpler layout for larger chip designs. \"Our production-ready aiWare3P release brings together everything we know about accelerating neural networks for vision-based automotive AI inference ..."
     publishedDateTime: 2019-12-20T00:07:00Z

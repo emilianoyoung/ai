@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-ins
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/13/new-financial-institutions-optimized-for-people-60/amp/
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -57,19 +57,6 @@ related:
       - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Empowering Telecom Industry with Artificial Intelligence"
-    excerpt: "To stay afloat in the fiercely competitive environment and meet the ever-increasing customer demands, telecom operators must embrace new emerging technologies. Artificial Intelligence is one of such technologies that have the potential to fundamentally transform and empower the telecom industry. Optimized networks, exceptional customer ..."
-    publishedDateTime: 2019-12-13T23:51:00Z
-    sourceUrl: https://medium.com/@infopulseglobal_9037/empowering-telecom-industry-with-artificial-intelligence-36ad93610e
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.4339FD62BA5F19F832AD5C4B1FA1643E
-        width: 700
-        height: 233
   - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
     excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
     publishedDateTime: 2019-12-16T08:56:00Z

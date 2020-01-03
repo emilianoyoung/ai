@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-30T20:30:00Z
 sourceUrl: https://www.therobotreport.com/ai-robotics-execs-look-back-tech-trends-2019/
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
       - url: https://www.thehindubusinessline.com/todays-paper/tp-news/rjbz9r/article29782763.ece/ALTERNATES/LANDSCAPE_615/bl2423bmtktOGJB6KAEDL3jpgjpg
         width: 615
         height: 384
+  - title: "8 robotics trends for 2020"
+    excerpt: "as robots proved their worth in helping to address labor shortages and take on dangerous tasks. But even within the traditional fields, advances in artificial intelligence and software helped robots perform new tasks, working alongside human workers more collaboratively than before. Now that the calendar has turned to a new year, we look ahead ..."
+    publishedDateTime: 2020-01-03T00:37:00Z
+    sourceUrl: https://www.plantservices.com/industrynews/2020/8-robotics-trends-for-2020/
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 34
 
 secured: "7lJF0IcArj6aN3okj+PDirp2h98MhBzQ/D1Qj5mOcK2oxu/PRD+1dQYpfvl1qmHuWuAt+VzObU1j5aqiO0Dwucr+OazcjbvszjworOHQrf0kXMgwQCxNlwarpYNbSJ4kVsy6OyjBKHJr4VFElf1ex53TFnE+OZyD2Qm1C89n++//s65tfUPi4DiD4eFCAIofUA0iqzo1g6GX0hFW95uQhUUgrMaWX7VLCUbRFj1QZQxJnodiyxCzBwlnQ9sAf54AshYTl8qyK8NVEozZJvYjPg==;UT1xiqb2M836EqQqge6M/g=="
 ---

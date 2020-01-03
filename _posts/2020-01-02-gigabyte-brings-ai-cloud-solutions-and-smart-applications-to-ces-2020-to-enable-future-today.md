@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.62B46E9FC2DBA70056CA813F5A056AE6
         width: 300
         height: 300
+  - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
+    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
+    publishedDateTime: 2020-01-03T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/gigabyte-brings-ai-cloud-solutions-180000651.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/gigabyte-brings-ai-cloud-solutions-180000651.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/gigabyte-brings-ai-cloud-solutions-180000651.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.7ED5BB814546D042B02818C1B3F87F9A
+        width: 700
+        height: 457
 
 secured: "7sRmD+OIXlMG6HkZojSODgqw+WWEoCNb0WeRZmY5b3bAZkgO1FambEIC2FzQsvDhisrxcIZdmgW3Z8DsDAM3oZRavv7k/4vsdaZ5hKvTiBsCe7auGuvzBd1lb+yBox8WmkFm2XBbUMGdh8IrwLqKR1iSDcJFTbmUIZOqPjEh+E/aRxALxbXuQ99GzjqO6uo3rHYH6cS7nbdWOfcW7sJ9/UL6YA3FK/Hmy6+1NoYomMAcMdcsdn0Zua+LR+B5BAr6fEtYXrgK4IyIw1glblH+9A==;7Rb9MhBtL0I94cXNG1P9JQ=="
 ---

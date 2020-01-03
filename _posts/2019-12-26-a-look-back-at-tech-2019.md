@@ -65,6 +65,15 @@ related:
       - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
         width: 1024
         height: 530
+  - title: "8 robotics trends for 2020"
+    excerpt: "as robots proved their worth in helping to address labor shortages and take on dangerous tasks. But even within the traditional fields, advances in artificial intelligence and software helped robots perform new tasks, working alongside human workers more collaboratively than before. Now that the calendar has turned to a new year, we look ahead ..."
+    publishedDateTime: 2020-01-03T00:37:00Z
+    sourceUrl: https://www.plantservices.com/industrynews/2020/8-robotics-trends-for-2020/
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 34
 
 secured: "JYzSs0XK4Rg/lcvAf0kWFc9ZFuYVegPG2ae0kSzLzIh7FpCw0fvsYjIdLIZjQ3SoZcSrm3mcAocNfxG+NeHbvJfRcEY6F2x1BFljn0XRFbz75V3EMe7ZszeMsHnUoIBtuHLeNINdTl60dLEMp/zUMXNyTTpJTEzy5qWmCB13OyJs6VMNFl7aeTeDGyrwB7bxL9yH+vmo3Q5uXMlRw23OjIHwYoj2UHfaU+Yi6vcf4/UPHwC8RaS3lG48oUFxMg66RT+QxUMBPzJ8dpMOcFribw==;mO2X3Wq9qT4mInY2B2pVaQ=="
 ---

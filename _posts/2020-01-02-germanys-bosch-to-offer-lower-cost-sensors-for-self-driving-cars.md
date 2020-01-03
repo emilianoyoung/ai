@@ -254,6 +254,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
         width: 700
         height: 525
+  - title: "Bosch teases low-cost lidar sensors for self-driving vehicles"
+    excerpt: "The company told Reuters the internally developed sensor could help speed up the adoption of self-driving vehicles, which has hit a roadblock amid higher-than-expected costs and increasing regulatory concerns. Lidar, as the technology is known, is thought to be a key enabler for self-driving cars. It works by using light-based sensors to ..."
+    publishedDateTime: 2020-01-03T00:01:00Z
+    sourceUrl: https://siliconangle.com/2020/01/02/bosch-teases-low-cost-lidar-sensors-self-driving-vehicles/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
+        width: 300
+        height: 169
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z

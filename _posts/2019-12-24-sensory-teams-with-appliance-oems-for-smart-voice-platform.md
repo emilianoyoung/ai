@@ -55,16 +55,16 @@ related:
         width: 700
         height: 366
   - title: "Sensory Unveils Domain Specific Voice Assistant for Smart Appliances"
-    excerpt: "Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been designed for home ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/sensory-unveils-domain-specific-voice-164500887.html
+    excerpt: "SANTA CLARA, Calif., Dec. 24, 2019 /PRNewswire/ -- Sensory, a Silicon Valley company pioneering AI at the edge, today announced the release of its domain specific assistant for smart appliances – a specialized model of TrulyNatural, the company's large vocabulary speech recognition and natural language understanding platform, that has been ..."
+    publishedDateTime: 2019-12-25T00:27:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sensory-unveils-domain-specific-voice-assistant-for-smart-appliances/article_6367c98f-6acf-5ff0-8f19-be02ebea416d.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.1E5903DEF831EC6A80278D64FEE9CCAF
+      - url: https://www.bing.com/th?id=ON.A0FCDBABD94E210ADAB31605EB3677D9
         width: 400
         height: 224
   - title: "Sensory platform for smart kitchen appliances brings voice assistant AI to the edge"
