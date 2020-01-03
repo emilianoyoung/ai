@@ -42,8 +42,8 @@ related:
       domain: infoworld.com
     quality: 86
   - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-    publishedDateTime: 2019-12-04T20:48:00Z
+    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+    publishedDateTime: 2019-12-04T20:45:00Z
     sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
     type: article
     provider:
@@ -51,9 +51,9 @@ related:
       domain: sdtimes.com
     quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-        width: 700
-        height: 335
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+        width: 900
+        height: 431
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -68,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "r9b0dawAXcgG1veAc3Ybh1Px7wK1/t9QoFotsJqA2v2AfQbpmseh015yOWjU5gIrbXeTFCsMFz7xlQ5UzWRKDHKtDSm60l33SRKV7IJ1niS1xvSKsVTg9tk+A5CBKTbxp9YVmR0KjtEOaKDmfGfe0PeHl4WbwfVljs01zkQbkH1H1i1rXMyCyO9eVG3Gr6hEg68DHJ5Q+AdljkpQPyN/glUEdSZSTDm9l/Y0NMKywsRiyxdLMWwvdSMZmTMb4i148fiN1JO10i8B0gAchPa+9Q==;eKX43ZoAAPL8Hr9HloLvQQ=="
+secured: "UaPcmVQhOo7PQXYYpzgcr27WxgjBZFF6CN9DeVt6N+AVvmbEy5qBpytTVPIpFsu/erszsZnnCgU5I4fsAsa8WYHlzTHGbmyvYXtAHCNRp8ZIWUgrcqbuAZ4541wbqLbCna/cu21Dg3umBpTgT1lG+/4/ZLUJ08g7hKgIrzwFqhYfKiceLNQezB7ztlcix6mBuMkN69Td/gIbpV79fachdJ98Ved8voNKhxJl68q8E7HzQukSbtMxmYggLHtaQLtm/mupVMjb9SjJ1FEr1R/EZg==;dYx5rvvujRZd8LzqFZiy7A=="
 ---
 

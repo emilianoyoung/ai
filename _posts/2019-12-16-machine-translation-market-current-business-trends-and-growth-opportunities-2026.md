@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T06:26:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-current-business-trends-and-growth-opportunities--2026-2019-12-16
 type: article
 quality: 64
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
-    publishedDateTime: 2019-12-20T05:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
     excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
     publishedDateTime: 2019-12-17T19:00:00Z
@@ -107,14 +94,14 @@ related:
       name: Yahoo Finance
       domain: yahoo.com
     quality: 3
-  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
-    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
-    publishedDateTime: 2019-12-17T13:21:00Z
-    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "WqBGEtAAF7Daq4RdXgAQoMML/YoMNUcra4jaNacTBi2Q5uYDJa7rS9WZo9RIoIsHGjgEHU/K+t8V32XOfqjwOa7IElBQ1j1sfHtV/VAk6wSuSR0I2rMHBCP/NMcdlZIDjjWSvAu4hqurtv4FxcHViGT7a953EsDtKGCce0SWI4Y3G9143naUuUPHM7qB1vDiOvz6kV58xUHj+YQFr+P3MfEIywE6eQquLe370Bq3yL6eaUNcH2bXp+ejJSOq0Fz/cDKHpBdhbQw3MPyVBD8o+Q==;sWNcRyft0wBPeb/EFUxieg=="

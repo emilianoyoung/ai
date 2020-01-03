@@ -28,6 +28,19 @@ images:
     title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
 
 related:
+  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
+    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
+    publishedDateTime: 2019-12-16T06:43:00Z
+    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+    type: article
+    provider:
+      name: CSO
+      domain: cso.com.au
+    quality: 19
+    images:
+      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
+        width: 300
+        height: 300
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
     excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
     publishedDateTime: 2019-12-15T00:25:00Z
@@ -38,6 +51,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "byXNr0Jes1ZEZhIRF0+bzOnfvVvrYuiZSeQDwuV3TFGMOfgHEwZsk1IBiqZdqkk5fGPr8m9MnPKGd8ydN5ATg/ziwwJL3jwbhtIwaSsmkfRwCq7GkKNra6kx9fT913m6cyDzehm+4UT3Zk1epgCKW/xfEPO7VzyXaBYbP1vm0G1Qs9aO86WNL2ONpxbdAzAtWL/PHBNYA8VEGO3emRoLnYV+sQgAKjMDQlHJfG8dYZ8IZinu3sSi+m3bO34jut3/NktTPhH6g5IaKqbkBs/ZSA==;iDiWCWBbGiAB/9hLZFJ0Sg=="
+secured: "dgL2HDH4GNxGh9MI6PMqgo5poCH0rJAlNQ0Ln0ZNhCKXBcHQJ9uTIxfH8FhqJo+7PixQGd03egosHNuViom5xXpLSDzFqjMnxfzX3CASY6FiF5ny6Es0LZ5kC6vc4A52fFWNaARkH8tdiSpyo3R82xjIFEhJWli6Txx3eYonL6mn+OnB/eNpx4gzBcfvwMJH4mD62ra9hqgVxeL9AkKUtK4mbyKobYXqA5D7hicTjjZUnA/zho0040YwZ3ucem6SpXgXG3JiuF6DnmBquqMiUw==;m2McQoLVvuiLmAYbdI+Fsg=="
 ---
 

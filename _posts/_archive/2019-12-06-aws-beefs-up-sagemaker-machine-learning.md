@@ -23,6 +23,6 @@ images:
     height: 500
     title: "AWS beefs up SageMaker machine learning"
 
-secured: "7TDw6M3MT0W5/nuUyBIKeRkAuwPKzCQYKGD1H5AJYL3am25y+ij6QrpEXTn/xU6NkLo+MfZJdQ9zPm+DmXr6VkD5VQblzm8pvW3JdgIjN2MSccCXxeAqayQ6v2shi13vb9YaCBWVUjo+9vacccQL+W7Xn+NQtaYin5LR87bItwtUX1oUMK3zb6d/LGOnX/ATl2cvlA8bVWsrjFtX7BY0JiaMbfDicsOACq7fILC0Im2/8Szl7yrTjdNIFoN/LkwYohHfQxOfIHv91S66XfKrew==;XvIOZXa8Ok10IgNL/fHfCA=="
+secured: "ppKLt/3IacBWtsaspBDbtcJOsB6MihEPj6osjv49okSEsvs+0gfHuP25ju5BZq0Pm9yjcCTFKR7mfa5ChyM5uvJs3tIAagGEzcbmyOgsFLRk+FfFPGRpLV4a1jz/6Ok+x7T+mFVVacSNtMSppBPU3ncvK5eu/IBAekQw8Fm8IGl6Gg/ha8I4cb809DKjXrgBOqfEXw5nw/GIwfKJWJbNedh8w7ZzVJRxBbC1JXfWMxkgZGFrSV1JlcjtX/qucZg67ykyNvnI5p/nbdpHJXwqSA==;Rru7Qn1IWU31tdTl+MHfyw=="
 ---
 

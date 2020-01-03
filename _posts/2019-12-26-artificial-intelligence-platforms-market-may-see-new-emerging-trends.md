@@ -57,6 +57,21 @@ related:
       - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
         width: 1280
         height: 1280
+  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
+    publishedDateTime: 2020-01-03T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
+    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+        width: 700
+        height: 350
   - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
     publishedDateTime: 2019-12-30T02:53:00Z

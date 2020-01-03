@@ -8,7 +8,7 @@ ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-fa
 cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
 type: article
 quality: 159
-heat: 749
+heat: 759
 published: true
 
 provider:
@@ -376,6 +376,17 @@ related:
       - url: https://www.bing.com/th?id=ON.7987DFEEF551404235017C31D7E37CB6
         width: 700
         height: 365
+  - title: "CyberLink Integrates FaceMe® AI Facial Recognition into iMedtac’s Smart Medicine Cabinet"
+    excerpt: "The New Generation AIoT Integrated iHospital Platform Brings Enhanced Safety for Pharmaceutical Management CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, announced that its FaceMe® AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is ..."
+    publishedDateTime: 2020-01-03T00:13:00Z
+    sourceUrl: https://finance.yahoo.com/news/cyberlink-integrates-faceme-ai-facial-140000672.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/cyberlink-integrates-faceme-ai-facial-140000672.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/cyberlink-integrates-faceme-ai-facial-140000672.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 45
   - title: "Many facial-recognition systems are biased, says U.S. study"
     excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
     publishedDateTime: 2019-12-26T08:35:00Z
@@ -624,7 +635,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
     type: article
     provider:
       name: Fast Company

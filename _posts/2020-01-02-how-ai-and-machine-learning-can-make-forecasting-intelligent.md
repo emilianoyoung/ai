@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B0519701A0F5A0B0AD3221EA2B7866F9
         width: 700
         height: 525
+  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
+    publishedDateTime: 2020-01-03T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
+    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+        width: 700
+        height: 350
   - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
     excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
     publishedDateTime: 2019-12-26T18:41:00Z

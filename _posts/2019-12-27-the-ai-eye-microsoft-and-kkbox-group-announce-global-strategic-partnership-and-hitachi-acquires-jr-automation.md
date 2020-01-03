@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.24BA367CCC9080EAB19F98C97D60E30C
         width: 405
         height: 228
+  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
+    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
+    publishedDateTime: 2019-12-18T16:41:00Z
+    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
+        width: 1024
+        height: 567
 
 secured: "rZziVbqV8LXXAW+jmuWVu5Hzfk7cKS+454iSiqrxGZen/CCkT0XRrqJUisAjqqprrV8aSBk5eZVaK1tGMj76cKt7aNifyCNND6ijys8WwmN0Bi16gUs05KquouM4/N8HqiycvpzKZjQYHhSo+GV7xeGyDYy/D52lJy1no0oQS6pgJexlwizDSKZKOggmdrhE1bjIaoBA55cwi0y7J3/2LmNc2xdgcvEeMcb4R8gd726+zGWFXxEmBZDDpKDdzuYvnDIl7nBTUnQX51TOiAmuBQ==;ORHlhPrwHkSnIwmoqnXkPw=="
 ---

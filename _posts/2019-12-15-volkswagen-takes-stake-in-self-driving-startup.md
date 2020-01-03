@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3070EBD97219C0A3592B007F62BC8AFC
         width: 600
         height: 400
-  - title: "VW to Develop Self-Driving Electric Shuttles for Qatar"
-    excerpt: "Volkswagen AG will help develop a fleet of self-driving electric shuttles for use in Qatar’s capital Doha in 2022, the company said. Volkswagen and the Qatar Investment Authority signed an agreement on Saturday for the self-driving Level 4 electric vehicles, they said in a joint statement, without specifying the project’s cost. Qatar plans ..."
-    publishedDateTime: 2019-12-14T13:48:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-14/volkswagen-to-develop-self-driving-electric-shuttles-for-qatar
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.2952AFB41D8B4E355DF4B49052D4E87C
-        width: 700
-        height: 466
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
     excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
     publishedDateTime: 2019-12-17T21:32:00Z
@@ -179,19 +164,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
         width: 668
         height: 355
-  - title: "'Project Qatar Mobility': Self-driving Shuttles Set to Take Doha's Local Public Transport to the Next Level in 2022"
-    excerpt: "The signing was witnessed by several Qatari ministers, dignitaries and high representatives of Qatar and Germany. For the first time ever a cutting-edge fleet of self-driving Level 4 electric shuttles will usher in a new era of urban mobility in a capital city in 2022: Earlier today at the Doha Forum in Qatar, in the presence of several Qatari ..."
-    publishedDateTime: 2019-12-14T14:02:00Z
-    sourceUrl: https://www.yahoo.com/news/project-qatar-mobility-self-driving-133000965.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 2
-    images:
-      - url: https://www.bing.com/th?id=ON.FBD154E01351788C61F8B621B36AD2D7
-        width: 400
-        height: 229
 
 secured: "OysKnH6LgAqTlp7L5O+lYPIFn4VbkHRyIPsA4Ji/7JLJNFqWwHoBaolNWaw1J8rgwU6KtFSnzejvjEBBjge3A2vcagSSSS0dGvYP8ZSitz25eJW6ze9hhL+/L1UC48oJ6urP8y6dSfT4tmOqyobMyTCNFEChVa1X27NvwVnC7i+ceV5AmTFgR9m4i6xo26NS1iMuhgvG5tbgFlQl4vYpGLaf6bOPrH6t/4CE19B4Ivo99nwnHZJvB1tER/modppiMK3fakw3REMktSbrPyP8Aw==;BEVJZwMX89NsWGt04HiHZw=="
 ---

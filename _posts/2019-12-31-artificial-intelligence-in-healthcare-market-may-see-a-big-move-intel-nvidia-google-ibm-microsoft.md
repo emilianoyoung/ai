@@ -86,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
-    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
-    publishedDateTime: 2019-12-26T06:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "nE5zFYTbDCfCoibXv7waDY9t5yTsf5l0SKc+JKbyCu+HhiYK2Mf2lPP6w+Uan6GECLwHiMZ/PZqk+fPr0ShRqzAVcOoVgSqDaYSya/RT6xoWYXFUkXYJDKHRLCSrHJwiYaUqXsV84NtlDCkzKXo0uqZ8/f+Hh6XVQ9YwK1s5Ry+rodpQQd79De+X3GiWe+HvUZ0sJ6ilBcxduX7thpt6FuP+PiwVpT9GIG30eKxzsc7ghn3q7ZazHQY0qT9GJMVgyudtuRcIvyG3XfpH6Ify0w==;B3X+yAAOMqEjXytLKl2BbA=="
 ---

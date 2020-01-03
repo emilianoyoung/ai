@@ -41,6 +41,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "The Zacks Analyst Blog Highlights: Alphabet, Amazon, Apple and Microsoft"
+    excerpt: "The latest AI model has shown it is capable of detecting breast cancer at early stages in mammogram ... Microsoft is also strengthening presence in this industry on the back of well performing Azure, which is witnessing increasing adoption in order to support healthcare workloads. Consequently, growing initiatives by the abovementioned ..."
+    publishedDateTime: 2020-01-03T14:11:00Z
+    sourceUrl: https://finance.yahoo.com/news/zacks-analyst-blog-highlights-alphabet-132801072.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/zacks-analyst-blog-highlights-alphabet-132801072.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/zacks-analyst-blog-highlights-alphabet-132801072.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.98F5DBF26B39A8DD6D310482E3CF7CD2
+        width: 635
+        height: 400
 
 secured: "hnuhuQvVxaSOddGQmqVYGKTCJHkT2s9i4BVLD5lV2do06Pq2cXb5yIkIH7cHeO0whetP9Cork7AkaYRYHVsAQEtltu+AEBrJWFDaXJ+fInLQ1HdQTHWF6UlKMMln/dBFf+DlTrAQukpCR1M3XkScpvVbngN4mtlKqv7UL9c+PMGNKGAT7SyPxWVKiOqpuTOOcHd+uUtHFyHUaxM0INu1lm+A1RB9XWH3C5z3o1x7rUHOVPQKeZ3tUknyKSLsDVVAaBXSQarUsADgHGhL3Pyivg==;Aek2bZnygNFgmgbNyrDxYA=="
 ---

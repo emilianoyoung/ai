@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-excerpt: "Using this knowledge, it can identify resources leaks, data race conditions between concurrent threads, and wasted CPU cycles. In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in ..."
-publishedDateTime: 2019-12-04T20:48:00Z
+excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
+publishedDateTime: 2019-12-04T20:45:00Z
 sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
 type: article
 quality: 84
@@ -22,9 +22,9 @@ topics:
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.7CED2721BD1E02BA3B909C0C4686D4E0
-    width: 700
-    height: 335
+  - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
+    width: 900
+    height: 431
     title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
 
 related:
@@ -68,6 +68,6 @@ related:
         width: 3648
         height: 2736
 
-secured: "C8J62OhGSPCYqzz4ZyvuE9hU1JlZHtRKoo76zb5Ye8NiTYcznk7iXccIY6QlgVICr5HzNlFSD6js1yGvgwg1U29NI4mDXmSPt6B0FJ64e9+3QHwVDVNeeOgFcShKYqpj7T1DRBRL5V6+5gPhCf2ELi0RLHFxUhwJ1+auHTEHI9yOeQUxYhpwQcM0nZ9l6paa96s8Aid/9nshqq5VjxjTBs1Ne5azVkJMIsQz8Dq8apJ/jn9p2OgUBdvv9aGmgAOEbUT8nvpmBaJUGVzf7UnASw==;lNH4g+G0lgSuqHIrVVeipQ=="
+secured: "16R4sLhL9nLo8g7qht2Lq65oHkF+Y49IaD24r2irmNlxtSbb+7wkCgVKqGm7oMbJDbF8YwCKtc9Ykhh/f2g+oGQ918dozWUWRFEq32S5r2udhSmT+vLRrZJYR9Va1YuwulzgwYnlZV0071TKJ4+TVKpa3fytnAD6wmz5ZM6FTyhmT8nIaP8Vogu6xDQTQgtEcNaIeLICEfYgps+0RWJ0QjUEBN9MnDbFbLyORGQnQMB4JTZSsndrePp2QNlEEUuVaIa8lvrdr0v+uydbxWYLOA==;FQko71OwHmYJPxQNdrkhfA=="
 ---
 

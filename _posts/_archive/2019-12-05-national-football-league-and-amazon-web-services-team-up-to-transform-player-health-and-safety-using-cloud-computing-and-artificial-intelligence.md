@@ -1,19 +1,19 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-publishedDateTime: 2019-12-05T20:42:00Z
-sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational ..."
+publishedDateTime: 2019-12-05T20:37:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
+ampUrl: https://amp.benzinga.com/amp/content/14941071
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Yahoo Finance
-  domain: yahoo.com
+  name: benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -43,6 +43,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "QOlevMt3WPaU9YqpNaVhKdpHMqwKV6wLwTReNNqc5R4VeFW26LcCNdVGpJPTUvNsF/KtsC8BjWxIJT0WgNG7Ntn1wPF0qA17XnCqc+y1dXsGVN+76nQuxLcCDiBAIBeU7PbWRHJ7yBdCglUx8Mdxx2PGnvSAqMhgf+j/0yim6O6tUuf3RGyDj7kTZcI+hcPnW4wEGodXkG4kveJZiCvkKhrQdntN3EewB/tNFV7+ykf1ruBCAUCJgGTmbaSbO9VmG/paagR2g/lxpWKssE9vyA==;stKDkzipF0ATvoYmtny57w=="
+secured: "85qkkK9zSVLhnqMvLz+9DfVSpqblLM2QM5k+U3rzFke9r4kG9t9JhQ2d+gtPkiaMLPHeH8+VCAN+5hvLVAlpjXBcyqQl6L/Zsz8WQltpHmn8TZ6jPwCX8ar7pZPzWjZCTDA2IvXCt86uxMbtcbdRTA4iDZ8UNcKdCqgxVRk2KwaLdI9SkoV0BV2vHHkNXBLYwWBNY3MZSuFVMm0RMNmg0DvIg64geZKxIg4T9IfmAflAnKKkjFP8wsW+GzbNUDp3hXVWcCVwjHgC3uIzWmpOog==;EapGrq8MMK1tWvRkZ2C9AA=="
 ---
 

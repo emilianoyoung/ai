@@ -30,20 +30,44 @@ images:
 
 related:
   - title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
-    excerpt: "Chinese smartphone maker Xiaomi Corp will invest more than 50 billion yuan ($7.18 billion) in artificial intelligence and fifth generation internet technologies over the next five years, as competition in the sector grows."
-    publishedDateTime: 2020-01-02T07:59:00Z
-    sourceUrl: https://www.reuters.com/article/us-china-xiaomi-investment-idUSKBN1Z10DY
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z10DY
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z10DY
+    excerpt: "BEIJING (Reuters) - Chinese smartphone maker Xiaomi Corp will invest more than 50 billion yuan ($7.18 billion) in artificial intelligence and fifth generation internet technologies over the next ... of AI and internet technologies. The announced investment increases Xiaomi's pledge made last year to invest 10 billion yuan over five years ..."
+    publishedDateTime: 2020-01-02T06:47:00Z
+    sourceUrl: https://kfgo.com/news/articles/2020/jan/02/xiaomi-to-invest-7-billion-in-5g-ai-and-iot-over-next-five-years/970837/?refer-section=technology
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
+      name: KFGO
+      domain: kfgo.com
+    quality: 137
     images:
-      - url: https://www.bing.com/th?id=ON.C7AD093C959CBA410D9CA11DF03727E0
+      - url: https://www.bing.com/th?id=ON.6C1716F312007CD0B104F987DCF6CB03
         width: 700
         height: 470
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
+    publishedDateTime: 2019-12-27T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
+    excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. What Happened The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on ..."
+    publishedDateTime: 2020-01-02T16:50:00Z
+    sourceUrl: https://finance.yahoo.com/news/xiaomi-plans-invest-over-7b-113158621.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/xiaomi-plans-invest-over-7b-113158621.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/xiaomi-plans-invest-over-7b-113158621.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.F59DE4AB3D86971D5D54E5A39CAF8779
+        width: 600
+        height: 400
 
 secured: "RjPwOgKgqVYQIDuKs9LfZ45b27CNK5gjvhRquH8Q+EhfUS3Zm8z1rsQoLzKkK5ytVVCdOoNr8rQHw2bEriRs+Ci/Y2GsPCgUm1Bq2gEWp9+aW7KsCKmiWi1oLf4ryhaADbJA6nMpeadEni4Y4Rni+4xQWURYXQLebq0bJrHJyF3ORVQWlBN+rNxrmj8B/T4TC/4WODd6YKTSj51CzdNvXU3iXIS69Xk/g03m46C7IndSXqE60Nkh5xLS7xj49T7P6ua8wzsrYi5hCxyQd8ZA7g==;FDV/NwLakE7Mi1TvQKf9Nw=="
 ---

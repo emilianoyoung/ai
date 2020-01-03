@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
         width: 700
         height: 395
+  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
+    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
+    publishedDateTime: 2019-12-14T18:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
+    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
+        width: 700
+        height: 350
   - title: "University of Tartu developing translation programme with Mozilla Firefox"
     excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
     publishedDateTime: 2019-12-19T08:45:00Z

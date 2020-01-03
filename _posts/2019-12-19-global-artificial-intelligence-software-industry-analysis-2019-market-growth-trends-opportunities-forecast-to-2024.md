@@ -27,49 +27,36 @@ images:
     title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
 
 related:
-  - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Global Insights 2019, Forecast to 2024"
-    excerpt: "Dec 14, 2019 (Xherald via COMTEX) -- The study includes the use of artificial intelligence and robotics for various applications in aerospace and defense. Some of the important aspects covered in the study are use of AI and robotics in manufacturing of aircraft, operations and fleet management, and other applications by airlines; airport ..."
-    publishedDateTime: 2019-12-14T13:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-global-insights-2019-forecast-to-2024-2019-12-14
+  - title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
+    excerpt: "Mobile robots are typically controlled by software and use sensors and other gear to spot their surroundings. Mobile robots combine the progress in artificial intelligence with physical robotics that permits them to navigate their surroundings. There are 2 types of mobile robotics such as autonomous and non-autonomous mobile robots. Autonomous ..."
+    publishedDateTime: 2019-12-23T20:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 79
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Chips Market Insights by Size, Status and Forecast 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently released Global Artificial Intelligence Chips Market research with more than 100 market data tables and figures spread through Pages are easy to understand TOC in \"Global Artificial Intelligence Chips Market research\", so you can get a variety of ways to ..."
-    publishedDateTime: 2019-12-20T12:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
+  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
+    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
+    publishedDateTime: 2019-12-17T07:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 69
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Technological Growth and Precise Outlook 2019 to 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The global \"Artificial Intelligence in Healthcare Market\" 2019 research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers ..."
-    publishedDateTime: 2019-12-20T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-technological-growth-and-precise-outlook-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2019-12-20T07:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
+  - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
+    excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
+    publishedDateTime: 2019-12-27T06:08:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-analysis-evolving-opportunities-studied-for-the-period-until-2025-2019-12-27
     type: article
     provider:
       name: MarketWatch
@@ -79,36 +66,62 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025"
-    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive offer:FLAT 30% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market-size ..."
-    publishedDateTime: 2019-12-16T14:05:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2019-12-16?mod=mw_quote_news
+  - title: "Natural Language Processing (NLP) Market Size 2019-2027 / Trends, Growth And Opportunity"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based ..."
+    publishedDateTime: 2019-12-27T06:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-2019-2027-trends-growth-and-opportunity-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 60
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
-    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
-    publishedDateTime: 2019-12-18T08:52:00Z
-    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
+  - title: "AI For Drug Discovery Market 2019-2027 / Size, Growth, Trends And Future Opportunities"
+    excerpt: "Dec 26, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
+    publishedDateTime: 2019-12-26T12:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-size-growth-trends-and-future-opportunities-2019-12-26
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
+    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
+    publishedDateTime: 2019-12-17T09:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
-        width: 680
-        height: 350
-  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
-    publishedDateTime: 2019-12-18T06:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Robots Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
+    excerpt: "Company profile includes assign such as company summary, financial summary, business strategy and planning, SWOT analysis and current developments. The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here: https ..."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2019-industry-outlook-comprehensive-insights-growth-and-forecast-2025-market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
+    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
+    publishedDateTime: 2019-12-24T09:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
     type: article
     provider:
       name: MarketWatch
@@ -118,80 +131,45 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
-    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
-    publishedDateTime: 2019-12-18T16:41:00Z
-    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-    images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
-        width: 1024
-        height: 567
-  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
-    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
-    publishedDateTime: 2019-12-19T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
+  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
+    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
+    publishedDateTime: 2019-12-23T05:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "B2B ecommerce in 2020: From voice and predictive analytics to PWAs"
-    excerpt: "So, what ecommerce trends and innovations do B2B organizations need to prepare for in 2020? Here are five predictions from Sana Commerce. With the initial struggles of voice recognition technology solved and some slow adoption in B2B, we’ll see a significant growth of voice commerce in 2020. The B2B purchasing cycle is complex and will ..."
-    publishedDateTime: 2019-12-18T15:11:00Z
-    sourceUrl: https://econsultancy.com/b2b-ecommerce-in-2020-from-voice-and-predictive-analytics-to-pwas/
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 24
-    images:
-      - url: https://econsultancy.imgix.net/content/uploads/2019/02/21141015/ecommerce.png
-        width: 1200
-        height: 598
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
+  - title: "Gesture Recognition and Touchless Sensing Market Size, Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Face Recognition System, Voice Recognition, Others By Applications: Touch-based Gesture Recognition, Multi-touch System, Motion Gesture, Touchless Gesture Recognition, Capacitive/Electric Field, Infrared Array, Ultrasonic Technology, 2D Camera-Based Technology, 3D Vision Technologies, Stereoscopic, Structured Lighting, Time-Of-Flight Cameras ..."
+    publishedDateTime: 2019-12-21T09:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/gesture-recognition-and-touchless-sensing-market-size-growth-analysis-opportunities-and-forecast-to-2026-2019-12-21
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-    excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-    publishedDateTime: 2019-12-16T06:43:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
+  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
+    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
+    publishedDateTime: 2019-12-17T17:44:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
     type: article
     provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 19
+      name: Business Wire
+      domain: businesswire.com
+    quality: 31
     images:
-      - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
-        width: 300
-        height: 300
-  - title: "Artificial Intelligence In Manufacturing Market Key Insights and Booming Factors up to 2023"
-    excerpt: "Artificial Intelligence rely on large datasets, using statistical modelling and various technologies such as machine learning and natural language processing to generate insights from the manufacturing records, data, IT systems, stock control and order processing. AI uses electronic records (ER), machine produced data from apps and sensors ..."
-    publishedDateTime: 2019-12-18T12:39:00Z
-    sourceUrl: https://www.openpr.com/news/1880732/artificial-intelligence-in-manufacturing-market-key-insights
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 7
+      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
+        width: 700
+        height: 365
 
 secured: "DERhjD43b45oJDTKBpjt/OPMlB35Kc2r85bHbDda6pFRJJVsgoKTCT6f+mMVb4A19EVr9RUf2ym6AxvIvFkFuk4Y620HT4TSmIGEiDtiTuhIhjEgK3c9fi3uM0pbH0KeannBK5204xGYoB/WV0rho7C/AqW3MDG6jrRPOAKpx2Gzri9x5gXhiFcxNM8wq+SYheQxGl/TQ6hq6lt1h4HHPsJ4mwbgcpmeVKtmNdr25jJY+IgykIg1PpuebA/QT9XFEu7SVjeN6ERW1RyEEBXRGA==;wQPbX751ZA3VH4zH/Y5OTw=="
 ---

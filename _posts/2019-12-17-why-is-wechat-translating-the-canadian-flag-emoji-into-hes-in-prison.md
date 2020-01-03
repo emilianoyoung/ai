@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
         width: 450
         height: 700
+  - title: "6 Big FinTech Trends That Shape the Banking Industry in 2020"
+    excerpt: "On the other hand, machine learning has better-deployed solutions that complement traditional analytics in fintech. In the upcoming year, AI promises new sources of information about customers and data collection methods. It is proved by the fact that many credit underwriting attackers now use AI to analyze alternative sources of information ..."
+    publishedDateTime: 2019-12-14T16:18:00Z
+    sourceUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188
+    ampUrl: https://www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/6-big-fintech-trends-that-shape-the-banking-industry-in-2020-02267188/amp
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.524041588567523DFF7095AA026F6EEB
+        width: 700
+        height: 466
   - title: "Empire BlueCross CEO: AI, new office buildings in Latham, and growth in the Albany market for 2020"
     excerpt: "For example, if you called our customer service line [in some instances] listening in on the call is that same artificial intelligence. It's trying to pick up cues, so if you, for example, said, \"I'm trying to understand my physical therapy benefits,\" it would immediately bring up in front of the customer service agent the benefits, the claims ..."
     publishedDateTime: 2019-12-16T12:20:00Z

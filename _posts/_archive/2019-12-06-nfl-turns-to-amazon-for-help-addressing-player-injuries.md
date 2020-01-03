@@ -36,17 +36,17 @@ related:
       domain: digitaltrends.com
     quality: 54
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-    publishedDateTime: 2019-12-05T20:42:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+    excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational ..."
+    publishedDateTime: 2019-12-05T20:37:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
+    ampUrl: https://amp.benzinga.com/amp/content/14941071
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
     type: article
     provider:
-      name: Yahoo Finance
-      domain: yahoo.com
+      name: benzinga.com
+      domain: benzinga.com
     quality: 17
 
-secured: "96N2KgoO1xZyPhbYDnBPNLUJqRgqZg7iHApjjvzjN5PQ/sLN1Eo7dvnkZPo9o3SGxiKL+Pc0jIHFPW8BP0IgbyUSJy95G+LSdi22rMZ0wtMl0R8WuCVi1/6iXvHzoFi6/eM6EBFHJQzb8r8sPAr2eY7NlcAP5CxHn8l1iyw0t6mCbUD9io+1R3Oh0D8y5CRJafC0sb+b+TYG335BRxMH0kulA4GTqzBRxu31mxByMZm+GHUOWoOyCVEV58arNcNQSeLNDkYvZrNrw6FdN4/J7w==;cT1In48cLFm0mNJqikvO7A=="
+secured: "slb2iXpHUTQgP8GAOUa0nIZUrSuub3EeGFuGbbbqKtnsvWzHwA3PF8vNj/JDBVE+Vxq8KXJd6lZ2mvbP3lkWlnaj4qzbEvfHBFTZ1KMwvzv8Lhhz7yZq3stRh+xFv2bhJFtoS2Y7NWEwpdDJU7fNieTol9uz1rvhqa+EE4WA5Eeg3f/GpArti1Lu3K/ILCEU4+EVpxxzgEmRojKOgBKAJeQjNu+tzLXiC2+0InPj+sOv8xQdB0EWzaXNJUeyOLEAfAvZr4j/AgG6PlmqEXpu1g==;Bx3Fr9pqV9pvcg7onIrAvQ=="
 ---
 

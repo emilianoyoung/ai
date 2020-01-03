@@ -146,6 +146,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7DC446378E1602047DC0B1F72B269D74
         width: 700
         height: 449
+  - title: "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images"
+    excerpt: "Google's DeepMind medical artificial intelligence system can outperform doctors in successfully identifying breast cancer from X-ray images."
+    publishedDateTime: 2020-01-03T14:37:00Z
+    sourceUrl: https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.E8A1AC3B42674A147869C7C66105A6C0
+        width: 700
+        height: 350
   - title: "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists"
     excerpt: "The AI was trained on two datasets of mammogram scans from the US and the UK, then pitted against six radiologists."
     publishedDateTime: 2020-01-02T10:45:00Z

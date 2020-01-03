@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Google's AI can detect breast cancer more accurately than experts"
-excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false positives (when a mammogram is judged to be abnormal even when no cancer is ..."
-publishedDateTime: 2020-01-01T18:06:00Z
-sourceUrl: https://finance.yahoo.com/news/2020-01-01-googles-ai-can-detect-breast-cancer-more-accurately-than-expert.html
+excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women,"
+publishedDateTime: 2020-01-01T18:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.6F2A8F4142BB9F2FF71743AC01B20F41
+  - url: https://www.bing.com/th?id=ON.D036F61EC9C6E774AACCC67B0E508F49
     width: 700
-    height: 466
+    height: 367
     title: "Google's AI can detect breast cancer more accurately than experts"
 
 related:
@@ -361,6 +361,6 @@ related:
         width: 700
         height: 393
 
-secured: "pZ/Lc109y2sackdByXkNCrExo4HjTN98Z0ctn9K2cTjuYYORSlK13/Lq1lvAOWh2L8dVFc384o5sRX6zgvNHsQSrWH8cR+XWxWrq41xpr7PJdWuRwphWtvesiHoZd8Dg4mVkDUct9PMDYpUOjD7WEVkqgrygdhWCk/YfouK3T0lECBinCApf+zGpwnJjVy5ldZeaM+5YaXVuieHTefz1/nWMXsLlg1vzsFJbZ8Y2LHToRO5Uy3K17CBz9S1aPT5cDwyxWRJa4p7cflLthRgWyA==;yjV7pONcsIC3Ua2bv50dDA=="
+secured: "ApAehhavHLC8odFcDOzgoMYd2TA8BV0DjJBtf262wNZ+ARiY8CcaWanR7xgpTJXr/a0C+WIPXwBBZoynma7RfjAFd2trUJ8MehktQAx0ehUk+WSsqqJ17aiBPOxcM5I5Mn3HxxS//djKpzKUqzwdkvS8phGibNODUAu6I245O2pz4pvz7qv1OARlc1Mjk+xeKjuUS0QMsSarePd2g/SbLsfAR9Ul8lSMyOznE70V+opEa0PfWx//n9JzbQjsJ+SKejROp9IdspNlLYRBoNybew==;Kf268RbnI2x92pWCfJv5LA=="
 ---
 
