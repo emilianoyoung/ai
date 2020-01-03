@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Google's AI can detect breast cancer more accurately than experts"
-excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women, detection is difficult due to high rates of false positives (when a mammogram is judged to be abnormal even when no cancer is ..."
-publishedDateTime: 2020-01-01T18:06:00Z
-sourceUrl: https://finance.yahoo.com/news/2020-01-01-googles-ai-can-detect-breast-cancer-more-accurately-than-expert.html
+excerpt: "DeepMind, a UK-based artificial intelligence company purchased by Google in 2014, has turned its sights to the problem of breast cancer detection. Although breast cancer is the most common type of cancer among women,"
+publishedDateTime: 2020-01-01T18:00:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/googles-ai-can-detect-breast-cancer-more-accurately-than-experts/ar-BBYwsme
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.6F2A8F4142BB9F2FF71743AC01B20F41
+  - url: https://www.bing.com/th?id=ON.D036F61EC9C6E774AACCC67B0E508F49
     width: 700
-    height: 466
+    height: 367
     title: "Google's AI can detect breast cancer more accurately than experts"
 
 related:
@@ -347,6 +347,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E72C4E4E58FA3AEFF318EA11DB0F2107
         width: 700
         height: 439
+  - title: "Google's AI detects breast cancer more accurately than 6 US physicians: study"
+    excerpt: "The artificial intelligence used by Google's DeepMind more accurately diagnosed breast cancer in women compared to six U.S. physicians, leading to fewer false positives and false negatives, according to CNBC. A study, which was published in Nature ..."
+    publishedDateTime: 2020-01-02T18:49:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/google-s-ai-detects-breast-cancer-more-accurately-than-physicians-study.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 36
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
+        width: 400
+        height: 300
   - title: "Google’s AI breast cancer screening tool is learning to generalize across countries"
     excerpt: "In a preliminary test, a model trained only on data from UK women still performed better than experts on US patients. The news: DeepMind and Google Health have developed a new AI system to help doctors detect breast cancer early. The researchers trained an algorithm on mammogram images from female patients in the US and UK, and it performed ..."
     publishedDateTime: 2020-01-03T09:28:00Z
@@ -361,6 +374,6 @@ related:
         width: 700
         height: 393
 
-secured: "58t0fh+18hrwVHVM8AEyXRkowGK7m0IRVT2qofj197t0HckW3fzwAmrD10pzzKgrTDO8rM5dZFYQbU+bAWGlwliQNs3y6TkmsgDWyQjmXog9pe001wls0VieGeAzFA5WMSlnPdUThkIqwnPowpJTGOjRUBssqLeEhiU3saIQr2XQc7PWOuFV6uhLRAOxjFh/eB06O6gZmq/m8LJifVOasjAARfpJCMHuOcCt1UW0bYZxkmBiKn9+ggjt/xmiKb46fIb8WxGYat/rJOE9V4xuYQ==;LRA136niNsKUpkr3GPIdhw=="
+secured: "YOAOcnEKIMqXuf2gE8bLV8ey7FzyZoOFzOgwUmiK1iQYlqrCu6kdew++7hFRC+O/pf+luaBDB5YyABS2gKtrU5PVyMNq66K6fZPmgrMDHeoX7frqY7BLMD2DUESN5RzLOf4l4/K7vxFdGEl8S0FoktZwRVqEqBJb3LSQLyeC5Nads1ob94vBqnbY+8L63wt2vqm/hGFBrJaB3HRXToLGa7amJ75J4b3uvCVLn2UO8NiXe6y/+1HtjBmjW7lc54wUrGZqcVD1tkWEqv+mRyU7mQ==;SwSRW555GbcoZgd/7whHHw=="
 ---
 

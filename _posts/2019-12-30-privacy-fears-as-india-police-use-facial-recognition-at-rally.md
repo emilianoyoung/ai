@@ -8,7 +8,7 @@ ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-fa
 cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
 type: article
 quality: 159
-heat: 759
+heat: 769
 published: true
 
 provider:
@@ -632,6 +632,19 @@ related:
       - url: https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/10/The-Big-Heat-Cover.png
         width: 510
         height: 792
+  - title: "Lockport schools activate facial recognition system"
+    excerpt: "A new year also marked the start of a new era for security efforts in Lockport's public schools. The district announced on its website Thursday that it has activated its $1.4 million facial recognition system in all schools. The Lockport Board of Education has yet to approve policy changes the State Education Department requested in late November."
+    publishedDateTime: 2020-01-03T17:28:00Z
+    sourceUrl: https://buffalonews.com/2020/01/03/lockport-schools-activate-facial-recognition-system/
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
+        width: 700
+        height: 525
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z

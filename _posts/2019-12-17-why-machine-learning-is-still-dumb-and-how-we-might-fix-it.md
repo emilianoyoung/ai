@@ -37,19 +37,6 @@ related:
       - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
         width: 1154
         height: 636
-  - title: "Why machine learning is important to society"
-    excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
-    publishedDateTime: 2019-12-20T07:50:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/why-machine-learning-is-important-to-society.html
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: https://www.dailypioneer.com/uploads/2019/story/images/big/why-machine-learning-is-important-to-society-2019-12-20.jpg
-        width: 1000
-        height: 800
 
 secured: "Z0xqnucJb/f4LxYAnV21PuqMI5bLsGx6Nl5QxV3qg1URGg/Zs6JqWgOEih90Po1ibRDxgprd6H0V8vrhOljialuEt1eGbZebHkONCZB1phYKOh1n6uYogrEpjtaE7TKVPRXto66RTBvm3zeQDIprayBWLosfxzTeCfW7qpWQMR8vYOGJvZa/PNSkmH/yNwufO6/1weOLM3MPaHNnWt5C0uX5AZksApZ+wzYy2HzNwGcF5VKPiwnHUjvitpvzDmKubRHyNh5ZYAzuOr56N8SUyw==;sE0o8vq22rJZ7ksRpQcygg=="
 ---

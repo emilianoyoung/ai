@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/03/living-ai-from
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/03/living-ai-from-potential-to-practice/amp/
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 315
     title: "Living AI: From Potential To Practice"
+
+related:
+  - title: "SEOs must focus on intent research practices in 2020"
+    excerpt: "SMX speaker, Frédéric Dubut of Bing, explains why 2020 is the year SEOs need to evaluate their intent research practices to keep up with the latest developments in deep learning and natural language processing. Below is the video transcript: Hi everyone. This is Frédéric Dubut from Bing, here to talk about some of the cool stuff we are ..."
+    publishedDateTime: 2020-01-03T17:54:00Z
+    sourceUrl: https://searchengineland.com/seos-must-focus-on-intent-research-practices-in-2020-327128
+    ampUrl: https://searchengineland.com/seos-must-focus-on-intent-research-practices-in-2020-327128/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/seos-must-focus-on-intent-research-practices-in-2020-327128/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4DBF2183E3AC3F312D3827D953B11D6F
+        width: 700
+        height: 393
 
 secured: "3t6Ty2xG9GlCsAAqCNiz5w4NdFJW5dJ+XNJFPn0ufCNQnP4XI9gSQMl1Mw+gchxUz7PTHVnwsMBvHAHFcVLwjznpsxPtJsXvbtecOqSeCNhWSdV7b2gSrQRw6eR0y1XsNtxwlD3ihHXGMYY8jJfAAt4mNXKBen4kMjQLZCZKLRnQ+/iX/B1Ag8xyHe636HbSJd7RzwApsGPUwqKIK+uWHZ8wdVrkKzT8fGY4YFrsDL9BwmdDCpM3yujqaObgNk35MDosdlD8xj23Jq0meTQKZw==;yiNe65N2RASrV/9XO7DLnA=="
 ---

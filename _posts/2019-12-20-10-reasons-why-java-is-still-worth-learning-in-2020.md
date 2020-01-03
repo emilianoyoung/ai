@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T00:38:00Z
 sourceUrl: https://medium.com/javarevisited/10-reasons-why-java-is-still-worth-learning-in-2020-86a65282f735
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8C61A0B50DB0395BF9CBC13803E5401F
         width: 700
         height: 349
-  - title: "Why machine learning is important to society"
-    excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
-    publishedDateTime: 2019-12-20T07:50:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/why-machine-learning-is-important-to-society.html
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: https://www.dailypioneer.com/uploads/2019/story/images/big/why-machine-learning-is-important-to-society-2019-12-20.jpg
-        width: 1000
-        height: 800
 
 secured: "D8322RUMNBAVcj0s6pyU/hxxQCFBuP2p8OdzwB6Fx/ZRC+n8UMd7+sTQZGUlRMGx4LIdNEIuxTHenM2iyAHXkCZBJubEd6kg/nR88diLHT6Kuo68kRUepscwXUj8wcV7oFR/aQJsknfyA7sBXc7ozDgrpdsyNq0kw24xMG98zm1qDhIqeh/XvPjHzQgboi/sLE1B1OZvQInokJAG7a9TdVbjm2KVe/rLN5FI51nPi1M9zB3xkQaDSafeWCnZc9izv9Ux7PTVaR1tGOKoL2YMKQ==;ygVNmr6Lk6U4VpnyHLUyEA=="
 ---

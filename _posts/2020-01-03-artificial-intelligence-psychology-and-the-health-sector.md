@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game than chess (2.08 x 10170 possible moves), through teaching itself the game 4. The best AI Go programs have been clearly advancing at an exponential rate 5. Network technology is also ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate 3, with deep learning neural networks leading many achievements. IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - Google AI
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -83,6 +82,6 @@ related:
         width: 615
         height: 384
 
-secured: "1pqrKepen6sHu563y8bGUtsG/nTufHWu0POGUc+tULI6OtRhJ169UEGIvpZXn0dhgAIpgddCqaTjkyRpbaawdT8ym42/UwXnDC5lj30uSXuVCTzqfNnS4mXXlJxQkeHbO4XBrnjdM6QRIoc3HZvs+8neUHju3fa0z3vx5MmwwQMxU2fQVBc2EbmWpENTxasxUDY9mSUv3+gQXQxg0nThg0r9hGVhEFpjYvrbKEP5VlYxofxSt8n/+MuMF9CBKDz4iaw1coNkIdvdoOkmhLLxFg==;mlg/xcbPH7iOpHH89XnIuA=="
+secured: "zv+mJePFlCZ1DJaOhY8e8gq/+KZbJ3tIjSpbLuKLzP57DBlnf3w+thM2lomoeFingG1TDeb+ws6PWjIZoWpxB6hL2clVHvP1urM2bH58SIJxDbzh2GQfPZaIEmrB41bDUrKp6+zo9oZwHUZ7orpyWff2Pg2HB53a3nevF9v5d7sG33x5aAZ8BijN0PuLDlReiXExDDGiMQyNRiALBKYIaszxPJAmzJ+dXzyh4elx66OuPsAGSwu+xwAaMTPhDlP3gYBlX+E8r2FTy6aydJjsNg==;4gbcRHBhozpzV3U5xLuPrA=="
 ---
 
