@@ -1,31 +1,33 @@
 ---
 category: news
-title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
-excerpt: "A new Google artificial intelligence model appears capable of more accurately spotting breast cancer ... wrote in their abstract that they had aimed to \"identify breast cancer before symptoms appear, enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide, interpretation of these ..."
-publishedDateTime: 2020-01-02T20:02:00Z
-sourceUrl: https://www.foxnews.com/tech/google-artificial-intelligence-breast-cancer-fox-business-susan-li-technology
+title: "Is Google breast cancer detection AI better than doctors? Not so fast"
+excerpt: "The latest example of AI's probabilistic achievements is in this week's issue of Nature magazine, titled \"International evaluation of an AI system for breast cancer screening,\" and is authored by an army of 31 scholars from Google's Google Health unit, its DeepMind unit, and the Imperial College of London, led by authors Scott Mayer McKinney ..."
+publishedDateTime: 2020-01-02T21:23:00Z
+sourceUrl: https://www.zdnet.com/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
 type: article
-quality: 64
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: /assets/images/organizations/foxnews.com-50x50.jpg
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
-  - AI in Healthcare
+  - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.C6E677CBD0DDF7C4DC9D350C9F3DA469
+  - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
     width: 700
-    height: 393
-    title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
+    height: 525
+    title: "Is Google breast cancer detection AI better than doctors? Not so fast"
 
 related:
   - title: "Google DeepMind’s AI-based breast cancer detection is not yet an automatic diagnostician"
@@ -39,21 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 97
-    images:
-      - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
-        width: 700
-        height: 525
-  - title: "Is Google breast cancer detection AI better than doctors? Not so fast"
-    excerpt: "The latest example of AI's probabilistic achievements is in this week's issue of Nature magazine, titled \"International evaluation of an AI system for breast cancer screening,\" and is authored by an army of 31 scholars from Google's Google Health unit, its DeepMind unit, and the Imperial College of London, led by authors Scott Mayer McKinney ..."
-    publishedDateTime: 2020-01-02T21:23:00Z
-    sourceUrl: https://www.zdnet.com/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
-    ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
         width: 700
@@ -116,6 +103,19 @@ related:
       - url: https://www.bing.com/th?id=ON.06A6D5AC1EE3487551FAF1F726FCE58C
         width: 600
         height: 300
+  - title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
+    excerpt: "A new Google artificial intelligence model appears capable of more accurately spotting breast cancer ... wrote in their abstract that they had aimed to \"identify breast cancer before symptoms appear, enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide, interpretation of these ..."
+    publishedDateTime: 2020-01-02T20:02:00Z
+    sourceUrl: https://www.foxnews.com/tech/google-artificial-intelligence-breast-cancer-fox-business-susan-li-technology
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 64
+    images:
+      - url: https://www.bing.com/th?id=ON.C6E677CBD0DDF7C4DC9D350C9F3DA469
+        width: 700
+        height: 393
   - title: "Google Banks on New AI Model to Detect Breast Cancer Early"
     excerpt: "The latest AI model has shown it is capable of detecting breast cancer at early stages in mammogram ... Microsoft is also strengthening presence in this industry on the back of well performing Azure, which is witnessing increasing adoption in order to support healthcare workloads. Consequently, growing initiatives by the abovementioned ..."
     publishedDateTime: 2020-01-02T17:28:00Z
@@ -339,6 +339,6 @@ related:
         width: 700
         height: 439
 
-secured: "DEH/xPHYKSns/r2Dej4fX3qnEXkRyFV/QArJXeICELtXNPLq0RMxaQwYe99whX1wJaae0rpGOSBnIV7MVZxZ8t6xsRaiqx6zvDas/WQegQbepgdSNYZF2s1K47G/azTFR/6twf7mDvHbN0V2d2WdKBsHjCSxymVzt1BW5h+7N/vSsUm/JwqMhbC1XqMlwBUD6KVUmNFB484qAiQEmGDM3V4MQSSOHKd44W5tCs2mOCQJqcy5piBJ4tjpCI2pY9G5Igoa2Ocy0VyGsGFhmMEPzA==;c71EZJfYrlcF5xNZS/zHYQ=="
+secured: "RKrc0Mosc8Y1IEbou/9dBxoZVjQugA3B5si3USKjcZyjWcm/zN9DcExTj3nLpTRs/t+ibDMjQVmx31elT7t91LQpqT7RKTHGfQF8GpmLVDrHx+tbAMZHqECCIxNf4VWx/Ovu4FEdbYxL0F/LI6tKnWltFIw0/QLq9gU8VAHWXIUSM7Uy2MnB/tBDDZMG/OO8e3SfT4NiMVvImR0TjdD5XcSS9vleTpUYtBmyl/SfUKguHF9cwMXbSbsL4IQMomoB36iVk/HaZED92kT2LFX6Sw==;HrtcrmPeATtrOjmY1cLdBA=="
 ---
 

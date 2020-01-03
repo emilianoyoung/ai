@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
         width: 700
         height: 525
+  - title: "Is Google breast cancer detection AI better than doctors? Not so fast"
+    excerpt: "The latest example of AI's probabilistic achievements is in this week's issue of Nature magazine, titled \"International evaluation of an AI system for breast cancer screening,\" and is authored by an army of 31 scholars from Google's Google Health unit, its DeepMind unit, and the Imperial College of London, led by authors Scott Mayer McKinney ..."
+    publishedDateTime: 2020-01-02T21:23:00Z
+    sourceUrl: https://www.zdnet.com/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
+        width: 700
+        height: 525
   - title: "Google develops AI to improve breast cancer screenings"
     excerpt: "Google has been working with clinical research partners in the United Kingdom and the United States to see if artificial intelligence (AI) could be used to improve the detection of breast cancer. In collaboration with the Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital, Google has created an AI ..."
     publishedDateTime: 2020-01-02T00:58:00Z

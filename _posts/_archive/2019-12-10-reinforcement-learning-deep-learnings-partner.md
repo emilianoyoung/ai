@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Reinforcement Learning, Deep Learning’s Partner"
-excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to ove ..."
+excerpt: "This year, we have seen all the hype around AI Deep Learning. With recent innovations, deep learning demonstrated its usefulness in performing tasks such as image recognition, voice recognition, price forecasting, across many industries. It’s easy to overestimate deep learning’s capabilities and pretend it’s the magic bullet that will ..."
 publishedDateTime: 2019-12-10T21:43:00Z
 sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/
 ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,20 @@ related:
       - url: https://www.bing.com/th?id=ON.693CDE487D8498B20A7293AB04217F93
         width: 700
         height: 525
+  - title: "Concordia researcher applies machine learning to financial risk management"
+    excerpt: "Concordia researcher Alexandre Carbonneau says machine learning might be able to improve upon existing methods. The PhD candidate in financial mathematics is studying the use of reinforcement learning methods to optimize risk management decisions made by banks and insurers. I hope that my approach will have practical applications in the ..."
+    publishedDateTime: 2019-12-16T15:16:00Z
+    sourceUrl: https://www.concordia.ca/news/stories/2019/12/16/concordia-researcher-applies-machine-learning-to-financial-risk-management.html
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2B66CC849908A1284189DD51EA0DF12C
+        width: 700
+        height: 558
 
-secured: "qP5vHDu3suKbv6SKdl/l4HRfzql+haj3JwfdWLdQmNKJcbYqAYewI79Eo/V/XO5Gz1g5YAuVj1bEaOYTXgNdopUpIIY+U/ZbBHTH1GKOb2sfQNbUUKZgUO1PqfPdbbPpx6zjDGxIRy3pt8SgHvN+vblpFka0tjt5teDgQUfHjtY+XUFOMYPgsdw6PyCPR/KQg2BRsbg6cPVEpZjLcSyJBFOf5+3Fb6atiX90/FU1wpdKyLGuSSXNacGJTj/c5K9Ne+tUPPM/tvUi535iAoaU/w==;mhvZ7cqc4xOarvuZkeiTDw=="
+secured: "clb+PGIbIUwv+rm6JMov6OjeI5No1Ttxhjl3iTrm8jTFx3qeiQhqiEiTuhZmnmN8rsBw3nbVk8uW7eL9VRw/MGiME2g6a3gVbr+l7JkXEiN6LwH/6o3HIGkKmismAZoSa75+JhpiDJZ1cD2enmTDoW3G7ZdGp4UVFZ2hW0DHQywl4+uA/hBxsmz1/byZDiTO+7sPybY4NJ9i8HG7WRQ8P3Nw0lAmGVF875oeDZJ+ZYSb9O0UCdbudu4YARi3lXNlXpcIRvT042VEliu4SxUe0w==;0a2ycuqU/PVcLmV8PXahhg=="
 ---
 

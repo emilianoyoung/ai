@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
         width: 700
         height: 525
+  - title: "Is Google breast cancer detection AI better than doctors? Not so fast"
+    excerpt: "The latest example of AI's probabilistic achievements is in this week's issue of Nature magazine, titled \"International evaluation of an AI system for breast cancer screening,\" and is authored by an army of 31 scholars from Google's Google Health unit, its DeepMind unit, and the Imperial College of London, led by authors Scott Mayer McKinney ..."
+    publishedDateTime: 2020-01-02T21:23:00Z
+    sourceUrl: https://www.zdnet.com/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.89DE8B3E1E652D024A3F94914AE2BB5D
+        width: 700
+        height: 525
   - title: "Google's AI is better at breast cancer screening than human experts, study claims"
     excerpt: "You may remember Google's DeepMind AI being really good at Go, but the company's also been putting it to work on a potentially life-saving mission — breast cancer screening. According to Google's new study, published in Nature, the company's AI model was able to spot breast cancer in mammograms with \"greater accuracy, fewer false positives ..."
     publishedDateTime: 2020-01-02T09:35:00Z

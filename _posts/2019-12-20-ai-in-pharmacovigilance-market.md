@@ -27,6 +27,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Becky Partida, research specialist, supply chain management, APQC"
+    excerpt: "We already know that AI and IoT at the edge are key to the acceleration of factory transformation ... and maintenance of the technologies within those four walls. Our research found that while there is a big appetite for digital transformation—83% of companies say they plan to make investments in smart factory technologies in the next ..."
+    publishedDateTime: 2019-12-21T02:55:00Z
+    sourceUrl: https://www.industryweek.com/home/contact/22031279/becky-partida-research-specialist-supply-chain-management-apqc
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 19
 
 secured: "/wQ5vyE8EoMJLxf9E63C/10mdvOfzqSXPEVtig43VWeDJDIqLk2g/poJCGHZIl4Dd3t0c2ZFcF8Jk3k573y7Fw/GxbOKjIhRrZXbVvwswdj2LxtoWJi7BVnFfZbe5nIYYH5HYVYrckvZrmyDLt6OCcD3EVfgSpm3jpinUoI0Bi7dP4UkYe6BqBYnjh+Cb/iIDgYzlOWgde9vzZBYPYJOufaGv9TwgAt5oSDlJ8jKfq6pRJEkCwZsRQPOR46d4H0T89n5tNm5QfTLUswuoXk5wQ==;Ka7aTIKJVmucNNbq4W4vYA=="
 ---

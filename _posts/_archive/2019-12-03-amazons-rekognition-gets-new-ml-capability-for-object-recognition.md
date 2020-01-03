@@ -24,21 +24,6 @@ images:
     height: 645
     title: "Amazon’s Rekognition Gets New ML Capability for Object Recognition"
 
-related:
-  - title: "N.Y. school district moves closer to being able to use facial, object recognition system"
-    excerpt: "The district used $1.4 million of the $4.2 million allocated to it through New York’s Smart Schools Bond Act to acquire and install one of the first facial and object recognition security systems in an American school. The system relies on the Aegis ..."
-    publishedDateTime: 2019-12-04T22:24:00Z
-    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21116958/lockport-schools-reviewing-state-privacy-requests
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 30
-    images:
-      - url: https://img.securityinfowatch.com/files/base/cygnus/siw/image/2019/12/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5de830efa7f53.png?auto=format&amp;fit=max&amp;w=1200
-        width: 1200
-        height: 800
-
-secured: "dw3NJ3dBog96cZv5HSdgAWZM0N50NF+JNRARhhzD/eOx+Yxo+wbgPprxyKzXc/YtLWMxttgsBKM6f5Q4l8u9HO5rYR5vJtFyR6T1DrgDMUZpSwSiPgTaYCM4r1aRvTfIQJynl868u9xgCUUdnn0P+QmcCytvoH1+pKFc/fWa30Qk0msnNwyojafEmBB0c0CURQBKOuLBGL3R6xWRARFDtgikvWeQgxp4s3YSy9mGPe6kJeGycx8Yn4d9pnDub6LfGu7n04uS7e3MzcIjPMHT5A==;D180ZpCCzYr/gBrMomcQww=="
+secured: "k8avceR+B2niiK39dgItgYrgL91Y3mZr+dMGOlkzwHB6YXVZFFkWPIqzdhlXAHm0gGV8Y9CXymc4vo4qe1f7VptA4cEF6Y4z0V2ogBBhSL6gNtkH7SjK63VGFgPt5fKBH7ZoVStiV/1etssqF4jrIksJswsNP+mIz7eDE5u0CKFRJTRgLTxmudoyWySvya1ZNbXDs916MepSNBFh5DWm1W9XxEqOqW+t88glVZjKnfmHu1P5sGh+Vg7EhIStC41JbQHtx8pZBA1KNfD5O4FrMw==;w3n3kGCpPTzEvl00v2g3pg=="
 ---
 
