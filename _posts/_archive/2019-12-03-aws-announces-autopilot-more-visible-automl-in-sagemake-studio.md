@@ -35,7 +35,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 101
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
+    images:
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
 
-secured: "O5u+GTxKPHxlNRQF70dYusFW6OHgTJq9HWJ4c8uH+KX7vvRdi7+jtOeW/A3P8khcIKpwkA4gAB7AQjOQKXz+QxkjG8AZAqH/zhqPUNOEg8CGPn+w0wRZoGMn/T9Wpe3FbnDiIPYN8VqAN9AhrItWH+hA16JA0EzwR1nw7up0+kbxFMXmYb5dg0JxrZ2DYvWTW+7rkGOPKH68R16jUjOfPkIj9HsjU1JYgKMDGHvCnEFjmR4RMm9s5oOiUcjCHiXiN5F/cYGZda2G4wIZ8FG2UA==;jTDiMxGMHIaB1w40N2wCkg=="
+secured: "hBfZWzXlUIJx78/QEbRcpbvMPHwcPIQ5Is684QvcpwW6JwNNAt/2tXtMcvClnpL+Jt5Wc4YZLe5wp2pRcXPk33ROJNYWujsTMssZBx2jhg8zB/p0hQJPdSC5Mhae4K8rL029n43OeCbx80YQbvFEvhjIHkMpGBCQebwofZlBGkkUE5e16GAHPcyAM1Nw+f+Uth0jve7MDye+DBrGRdOS9OpXWBTn/LJXYR975AmhaXYvnzkVQqXS1V/ALCVyE0k2IIOUMgaDW2PUIL2POF23ww==;5ssVTGVg3GZYIjBTFf5nKg=="
 ---
 

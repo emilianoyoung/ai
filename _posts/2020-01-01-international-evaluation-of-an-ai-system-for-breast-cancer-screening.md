@@ -279,6 +279,19 @@ related:
       - url: https://www.bing.com/th?id=ON.191EC85042F7B8B7F683D410F13B4714
         width: 700
         height: 393
+  - title: "Google Uses Artificial Intelligence to Detect Breast Cancer"
+    excerpt: "January 02, 2020 - An artificial intelligence model developed by Google and other entities was able to identify breast cancer in screening mammograms with greater accuracy, fewer false positives, and fewer false negatives than human experts. In a recent blog post, Shravya Shetty, MS, technical lead at Google Health, and Daniel Tse, MD ..."
+    publishedDateTime: 2020-01-02T17:49:00Z
+    sourceUrl: https://healthitanalytics.com/news/google-uses-artificial-intelligence-to-detect-breast-cancer
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.455261126AA0DF7BF0325430BCB0F79E
+        width: 690
+        height: 401
   - title: "Google's AI detects breast cancer more accurately than physicians: study"
     excerpt: "The artificial intelligence used by Google's DeepMind accurately diagnosed breast cancer in women, leading to fewer false positives and false negatives, according to CNBC. A study, which was published in Nature, explored how the AI diagnoses compared to physician diagnoses. In the study, Google \"trained\" a computer to find abnormalities on X ..."
     publishedDateTime: 2020-01-02T18:49:00Z
@@ -305,19 +318,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E72C4E4E58FA3AEFF318EA11DB0F2107
         width: 700
         height: 439
-  - title: "Google Uses Artificial Intelligence to Detect Breast Cancer"
-    excerpt: "January 02, 2020 - An artificial intelligence model developed by Google and other entities was able to identify breast cancer in screening mammograms with greater accuracy, fewer false positives, and fewer false negatives than human experts. In a recent blog post, Shravya Shetty, MS, technical lead at Google Health, and Daniel Tse, MD ..."
-    publishedDateTime: 2020-01-02T17:49:00Z
-    sourceUrl: https://healthitanalytics.com/news/google-uses-artificial-intelligence-to-detect-breast-cancer
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.455261126AA0DF7BF0325430BCB0F79E
-        width: 690
-        height: 401
 
 secured: "Rn5zkaGnaRDd/g2MSSlnZd94w9nEubAGVDCbCtPkkBl8Ml+QJfCeKiXgVaFd5sy9gZZ+6lERe9qEUWVVlT96Jv/baPb0y/ibV8GrjqHPbPfa/YOxX5g06BX20tfg297HiCPdQUyLjWtJmSwFTrXFMIYzDbcZBQw4xrjxu1NVEZmhN1OueWZiLxNQUFqWpjN3nVCG/D5j5ChfAiQfvfbIipOdFuy8A4WSw2C7re18k6JOUWOih6mywHZOzv19TUPf82shGQkCoZ32ueNGzZQC+A==;XNsHASMvHVxEbfrnLGuDgg=="
 ---

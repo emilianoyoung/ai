@@ -5,7 +5,7 @@ excerpt: "January 02, 2020 - An artificial intelligence model developed by Googl
 publishedDateTime: 2020-01-02T17:49:00Z
 sourceUrl: https://healthitanalytics.com/news/google-uses-artificial-intelligence-to-detect-breast-cancer
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.455261126AA0DF7BF0325430BCB0F79E

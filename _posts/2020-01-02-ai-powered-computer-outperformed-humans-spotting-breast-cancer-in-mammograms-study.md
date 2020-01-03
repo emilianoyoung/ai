@@ -332,6 +332,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
         width: 700
         height: 366
+  - title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
+    excerpt: "The study was published Wednesday in the scientific journal Nature. The AI program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States. Early research shows it resulted in fewer false positives and false negatives and can produce more accurate detection than human radiologists."
+    publishedDateTime: 2020-01-03T03:23:00Z
+    sourceUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/
+    ampUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
+    cdnAmpUrl: https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
+    type: article
+    provider:
+      name: Local 24 News
+      domain: localmemphis.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.2EB23EE52ACB6B729BB86EA08E4E6CBF
+        width: 700
+        height: 393
   - title: "Google’s AI Beats Doctors at Breast Cancer Detection"
     excerpt: "When Larry Page reportedly brushed aside criticism and competition from Facebook to gobble up UK-based artificial intelligence ... In spite of this, it screened decisions with greater accuracy than what the radiologists could. However, the research team has clarified that the AI project is still in its early stages and only more such studies ..."
     publishedDateTime: 2020-01-02T20:37:00Z

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Google's AI system beats doctors in cancer test"
-excerpt: "The study, which was conducted in collaboration with colleagues at DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, was recently published in the scientific journal Nature. By using tens of thousands of mammograms from women in the UK and the US, the program was trained to detect cancer and ..."
-publishedDateTime: 2020-01-02T20:36:00Z
-sourceUrl: https://www.techradar.com/news/googles-ai-system-beats-doctors-in-cancer-test
-ampUrl: https://www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
+excerpt: "The study was published Wednesday in the scientific journal Nature. The AI program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States. Early research shows it resulted in fewer false positives and false negatives and can produce more accurate detection than human radiologists."
+publishedDateTime: 2020-01-03T03:23:00Z
+sourceUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/
+ampUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
+cdnAmpUrl: https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
 type: article
-quality: 89
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: /assets/images/organizations/techradar.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Local 24 News
+  domain: localmemphis.com
 
 topics:
   - AI
-  - Google AI
+  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.E95AB84299559C7D3B6B105ECE79BD99
+  - url: https://www.bing.com/th?id=ON.2EB23EE52ACB6B729BB86EA08E4E6CBF
     width: 700
     height: 393
-    title: "Google's AI system beats doctors in cancer test"
+    title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
 
 related:
   - title: "AI 'outperforms' doctors diagnosing breast cancer"
@@ -88,6 +84,21 @@ related:
     quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.34ACDF1E4AA3B8C222AB654AA9DA1114
+        width: 700
+        height: 393
+  - title: "Google's AI system beats doctors in cancer test"
+    excerpt: "The study, which was conducted in collaboration with colleagues at DeepMind, Cancer Research UK Imperial Centre, Northwestern University and Royal Surrey County Hospital, was recently published in the scientific journal Nature. By using tens of thousands of mammograms from women in the UK and the US, the program was trained to detect cancer and ..."
+    publishedDateTime: 2020-01-02T20:36:00Z
+    sourceUrl: https://www.techradar.com/news/googles-ai-system-beats-doctors-in-cancer-test
+    ampUrl: https://www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/googles-ai-system-beats-doctors-in-cancer-test
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.E95AB84299559C7D3B6B105ECE79BD99
         width: 700
         height: 393
   - title: "Google's DeepMind A.I. beats doctors in breast cancer screening trial"
@@ -322,21 +333,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5212B85FE7780C10D2F3D4E3E7357CA4
         width: 700
         height: 366
-  - title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
-    excerpt: "The study was published Wednesday in the scientific journal Nature. The AI program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States. Early research shows it resulted in fewer false positives and false negatives and can produce more accurate detection than human radiologists."
-    publishedDateTime: 2020-01-03T03:23:00Z
-    sourceUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/
-    ampUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
-    cdnAmpUrl: https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
-    type: article
-    provider:
-      name: Local 24 News
-      domain: localmemphis.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.2EB23EE52ACB6B729BB86EA08E4E6CBF
-        width: 700
-        height: 393
   - title: "AI-powered computer 'outperformed' humans spotting breast cancer in mammograms: Study"
     excerpt: "While the study states the AI-powered computer \"outperformed all of the human readers\" in an independent study, the researchers emphasized that further clinical trials are still needed to truly assess the utility of the tool in medical practice. The study from a team of international researchers in the U.S. and U.K. at Google, Deep Mind ..."
     publishedDateTime: 2020-01-02T18:07:00Z
@@ -561,6 +557,6 @@ related:
         width: 500
         height: 500
 
-secured: "vj5BLzHKIb1Jg/L35pqQdNhS49F0I/HF1YB2xV34ZsADZ2IC9NpBrt8qz/x6mBMqt+gkDcnMk59FBfmj6Tri1CFfQLLKw7xAt5/2ZJmADyyeFgb4fAN8j9wReSX2uHTBRFJ0L4KgZMRPeBpkBwYeqwx5NU6Qs85ZUinTCx9n6Bm+UVsETc97ea30RjXkzBjRz5d9edS3ZfVWZ65kZn5aW5MgaeaotZe0jGwOpdJuTC26xS/Iz16A/2ZWWy33vNAaxesaQEs2MT5/nxBA+Z+7NQ==;GJd7+cJDnKC86hB84AJobA=="
+secured: "47rEhWoFfZ2c+BLxXvbpMO99vqyx8IhA/DQMhrpMhxMB/k865WkAYE/UmRZhbaRBpyZ0z4OyU9fgMELbQPEsxHCIdMOCXOtcBl2IaKxG1/a/Vu9fBteqwFBrmI1YHgQoTmUW8miAG9qf02SptUGlCg7JOka2N+JWw3aOdfSfZshB5eg1mGWuNlYtBFVx3ef2oOk6HwmFM5J8QXkY6u12oMa8WQ+b5ZPp6QnrcZP6dW4GppjM0w074t451/0XdP6nQ3pR4AYeiXe+sEZSXTPI+A==;212m9+DoLCE5TaNRagN0Rg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-a
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/03/aws-autopilot-gives-you-more-visible-automl-in-sagemaker-studio/amp/
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -25,6 +25,19 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon: $250,000 Outpost Rack Servers, Quantum Computing Service, AWS SageMaker Autopilot"
+    excerpt: "At AWS re:Invent in Las Vegas, Amazon announced the new $250,000 Outpost server racks, the new AWS SageMaker Autopilot, and a quantum computing service Today at AWS re:Invent in Las Vegas, Amazon announced that it is entering the $250 billion data center ..."
+    publishedDateTime: 2019-12-03T20:24:00Z
+    sourceUrl: https://pulse2.com/aws-reinvent-las-vegas-2019/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 45
+    images:
+      - url: https://cdn.pulse2.com/cdn/2019/09/AWS.jpg
+        width: 1000
+        height: 667
   - title: "AWS announces AutoPilot, more visible AutoML in SageMake Studio"
     excerpt: "Today at AWS re:Invent in Las Vegas, the company announced AutoPilot, a new tool that gives you greater visibility into automated machine learning model creation, known as AutoML. This new tool is part of the new SageMaker Studio also announced today."
     publishedDateTime: 2019-12-03T19:12:00Z
@@ -39,6 +52,6 @@ related:
         width: 1280
         height: 960
 
-secured: "+QHS7uk/RpUgqEml5dvykE097nQDlS8CHH9FrnYKKbzgP+AiIQ6LhCLVjCHs0VIultiL7d11eKgNRuqw3p3aFx76+Q3xHepuqGwPWeOvoyBChMv8HsbXImECVedphTArSTQeRZp+65AiM6X8P9HaJnCioTUImydjscYftNvneoatS8lw2Ez0VON6lmYogJ88yUH4kZQY/fxZObGEEnChX+c+wmNxJZ5DOHEZoDlkgstj1lu3INogAldQIGb0fuaQXnHMxAirQmLPiDWz4rcCYg==;nEt5CIxN44WXqjRNOukyGw=="
+secured: "Y9jOvG0UZaUBKELyF3lyy3AhUIa4Yv1zCSgak3HA1o2nPjvZrcxV9fpsGstTSICXwuW6uu2ygFjaTcLHnBYPzUJWSP2uRWba/O+YThn3PaxYitrxOp/zj5JpbYtMJahSBAsnNp0iKot1m19t4a2BQrGrPTsJ8cP8rX4jFiX/Jh4J8nQq7aUgCvc8JwYbcNnXvs1v5qaeNnYY6DkKTd/w6cgYrmVAIo3X/6mHoI63mbAk1clANAJ7mbduE/DM9HhMEBpiHHKY3dl6dAIGNIgu+w==;88DzYiunu8uO9PRANkLK1w=="
 ---
 

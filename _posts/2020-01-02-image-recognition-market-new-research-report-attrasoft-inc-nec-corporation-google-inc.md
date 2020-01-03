@@ -24,6 +24,21 @@ images:
     title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
 
 related:
+  - title: "LG 2020 TV lineup boasts Real 8K support, AI picture and audio recognition"
+    excerpt: "Think of it like the AI-based scene recognition on smartphone cameras, just for video and audio playback. That AI also applies to voice recognition, either on its own or connected with Amazon’s, Apple’s, and Google’s smart home ecosystems. Curiously, LG seems silent on the design of the TVs, perhaps avoiding being compared too much with ..."
+    publishedDateTime: 2020-01-03T02:35:00Z
+    sourceUrl: https://www.slashgear.com/lg-2020-tv-lineup-boasts-real-8k-support-ai-picture-and-audio-recognition-02605052/
+    ampUrl: https://www.slashgear.com/lg-2020-tv-lineup-boasts-real-8k-support-ai-picture-and-audio-recognition-02605052/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/lg-2020-tv-lineup-boasts-real-8k-support-ai-picture-and-audio-recognition-02605052/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.5161C6BF0D86F009C8522D2A00DB4998
+        width: 700
+        height: 437
   - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
     excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
     publishedDateTime: 2020-01-01T12:40:00Z

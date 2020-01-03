@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original entry at https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object ..."
-publishedDateTime: 2019-12-20T23:49:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
 heat: 74
 published: true
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+    width: 400
+    height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
@@ -47,6 +47,6 @@ related:
       domain: electronicdesign.com
     quality: 5
 
-secured: "8oVtSMJNqF7HebUtVAYXZhI0AGwWtckj+lkt1JFx4uUhM78zy8up2A/nCdFpBHO7kGvwm0Lx9UlsSPClsUBntsNf7kPUMUH9hIEa0Ob5EkTnViiOksyO7KeQsvJMT0IMMavxeF5EmP13XYLG/OpEqF0mu3lWnSq8jn19q1cPg4EdbdICCaOgIyP9tZIn+IL5QTItFqMsRgjM4h8Eoez9Ei1QYzS66dRuReazVYWvQPE/G4DrkrhfLJwkIvi4jlBH+G+ava0nx/8m9caHNphKqA==;vtWv8yt8DG6Gk4ijWVSdag=="
+secured: "Yyhys1IpjAN2rNRidVAe7njAE9/ofjOwCSoLZj8hsSfL2VxtCo4B/ZpA2b9/maKLTGl5u09zM2qO6ZEFJdFa2fkJbyOLaMtWFTEuPVDcfq9M/iQHYEEv/SsSX2a3sGlimCn6OZbp5Q1a9Ak1r3+GLk78y4QmVa78a0mshYUAIcFuzbc5mlDDHwZTjkwLe3xnkxusg7Gl0zSDzZ8eYAKSiJcFQWRKmTiP3fd8tR6Xh6LRwcMET/v9aRU5ZzQs/54VQ0Y65O9SXpugzQRSiBbFRA==;sNhtyRyymcdruo6ZSxSYDg=="
 ---
 

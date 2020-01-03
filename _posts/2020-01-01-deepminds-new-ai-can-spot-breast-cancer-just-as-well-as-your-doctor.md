@@ -318,6 +318,21 @@ related:
       - url: https://www.bing.com/th?id=ON.26D6212CEEC115DDA976A0EFBFDE54D1
         width: 625
         height: 352
+  - title: "Google’s artificial intelligence system can beat doctors at detecting breast cancer"
+    excerpt: "The study was published Wednesday in the scientific journal Nature. The AI program was trained to detect cancer using tens of thousands of mammograms from women in the United Kingdom and the United States. Early research shows it resulted in fewer false positives and false negatives and can produce more accurate detection than human radiologists."
+    publishedDateTime: 2020-01-03T03:23:00Z
+    sourceUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/
+    ampUrl: https://www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
+    cdnAmpUrl: https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/news/local-health-alert/googles-artificial-intelligence-system-can-beat-doctors-at-detecting-breast-cancer/amp/
+    type: article
+    provider:
+      name: Local 24 News
+      domain: localmemphis.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.2EB23EE52ACB6B729BB86EA08E4E6CBF
+        width: 700
+        height: 393
   - title: "AI-powered computer 'outperformed' humans spotting breast cancer in mammograms: Study"
     excerpt: "While the study states the AI-powered computer \"outperformed all of the human readers\" in an independent study, the researchers emphasized that further clinical trials are still needed to truly assess the utility of the tool in medical practice. The study from a team of international researchers in the U.S. and U.K. at Google, Deep Mind ..."
     publishedDateTime: 2020-01-02T18:07:00Z

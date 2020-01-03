@@ -39,7 +39,20 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
+    type: article
+    provider:
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
 
-secured: "SQ/MSCUXEBT9znlACdfbasEXQHGC/4HKexBxYMFFUBfy7wNZjmXL9AdtCtUxvqkGHm5Qd/ikxXgtkLt5EEONvtAPDn54OYo+EUkW+eTIypRrx6Gb8P3S5EVSlAts7yajuJGu9zyxTizzCmQpc4Hnfut+Gz9T4SSp0AwmMhZsttqs5NCViYFNiK1PBmrk4nKAO7vdvtpGRtNgdfJTqgxfaC7xbUwIgJeQiZVahlVgY45neKYlPkn+kmf3Qho5Q/fqMaSD9nK1lNCabYPikAndrg==;bB2beZGc8AmKQKI55yJ56g=="
+secured: "oYXsC6LUbqREyOyBpOHh7gohMhyT5aq9BT13Cq6mz8Uo2yNClRNqVpv6QSDGgsBu3nJHlVzBVXFImoqX9E6LvhXeagdi0nIDJRnYbL+AsYU9hlDwal8cGwbA3eXC43qiPnDeHGeXeMDFzgkqDuh1JewN5uoeizmMYSAZnP+hrRehOHZRu+n1KHs3ewbTQrzh09L0YdmJgctYevQ2CJ2HgXTEa2uQl6gtzSfDj1NRDD3nG/nyVw0SAfcS7xuM3/6EnsrPPe6mCQH9YnNkbg1T4Q==;3QdZdw6Dhm/p3sNFGxRQew=="
 ---
 

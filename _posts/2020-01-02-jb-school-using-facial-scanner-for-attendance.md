@@ -25,6 +25,21 @@ images:
 
 related:
   - title: "Facial recognition system now 'operational' for Lockport Schools"
+    excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
+    publishedDateTime: 2020-01-03T02:12:00Z
+    sourceUrl: https://www.wgrz.com/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
+    ampUrl: https://www.wgrz.com/amp/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
+    cdnAmpUrl: https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
+    type: article
+    provider:
+      name: WGRZ
+      domain: wgrz.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
+        width: 700
+        height: 393
+  - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website,"
     publishedDateTime: 2020-01-02T21:09:39Z
     sourceUrl: https://www.msn.com/en-us/news/us/facial-recognition-system-now-operational-for-lockport-schools/ar-BBYyKFn

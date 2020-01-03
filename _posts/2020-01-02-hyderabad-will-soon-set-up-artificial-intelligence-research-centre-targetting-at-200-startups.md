@@ -8,7 +8,7 @@ ampUrl: https://www.india.com/technology/hyderabad-will-soon-set-up-artificial-i
 cdnAmpUrl: https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/hyderabad-will-soon-set-up-artificial-intelligence-research-centre-targetting-at-200-startups-3897181/amp/
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 700
     height: 415
     title: "Hyderabad Will Soon Set up Artificial Intelligence Research Centre Targetting at 200 Startups"
+
+related:
+  - title: "Artificial Intelligence research hub to come up in Hyderabad"
+    excerpt: "They will also assist in startup incubation, and host AI training sessions to support women and minority groups, officials said.IANS | January 03, 2020, 08:36 IST Hyderabad: A Centre for Research in Applied Artificial Intelligence (CRiAA), a R&D Park, a Centre of Excellence and other facilities in Artificial Intelligence will come up in ..."
+    publishedDateTime: 2020-01-03T03:06:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/corporate-news/artificial-intelligence-research-hub-to-come-up-in-hyderabad/73078191
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/artificial-intelligence-research-hub-to-come-up-in-hyderabad/73078191
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/artificial-intelligence-research-hub-to-come-up-in-hyderabad/73078191
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.57FE5745D14967DCBDD37117F13F554D
+        width: 700
+        height: 379
 
 secured: "kzPA2l/FYwKJXbYAd8gmDQ6j1CptrygV5CsJN0SLzKnGmljM14B9V2s0Y0XKAyY5zFw4+18WyW3qQ82vO7Q9xFEhmQDXwO69meVZ0IQz2BmIoZ9tjb7aZ8ms/SHA6LfNSHcYhTYvFAJkTRjA33cm9AZbChOtVLjptXS07GakoWSKd2Szc7ejfVaAm/UQkY2GatMtEdEjP8H7CnK9uqxHnn7CTAygy8JmQ07E+NpwciphiKnYXHazvkiTB/o7s1p6u6S+iU7KKlXGm93t7oG6mw==;UT90yt8wjswzJFOMsQ7+Ig=="
 ---
