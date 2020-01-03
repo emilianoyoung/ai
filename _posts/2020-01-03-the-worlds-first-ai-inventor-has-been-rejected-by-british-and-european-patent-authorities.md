@@ -42,6 +42,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CC9B1C2F5DE5D835321F24CF6838D181
         width: 600
         height: 315
+  - title: "Europe rejects patent applications signed with AI inventor"
+    excerpt: "The European Patent Office (EPO) has rejected two patent applications in which artificial intelligence (AI) was designated as the inventor. EP 18 275 163 and EP 18 275 174, described as a food container based on advanced geometry and light-based \"devices and methods for attracting enhanced attention\" in rescue scenarios, are patents submitted ..."
+    publishedDateTime: 2020-01-03T15:04:00Z
+    sourceUrl: https://www.zdnet.com/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    ampUrl: https://www.zdnet.com/google-amp/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.F654D1AA94D23C7518C9E4826E5CC38E
+        width: 700
+        height: 525
 
 secured: "aqJQFoU/cu/rwI8vcEJt9JB1R4PKUZ3b0L49Hj4eDCh5YRAOq6kfCvVArXLNsqyaYRLhZJkLAdGo+xzJNM9lgB3F6MXQcpjksd0ikid3MLRyb9RgEf2PI39HBVuH7I29PY/hAXsdduiUu3XlTndBv6FvnZiscTWJep9w+a3Q1TtB4LiCuHtGiPvfQlMwvsltuxN0a2WGJTVFiKOOIQkwWfjEnyXvuD4ZJK1AqtBOu90c8xPIpxKJ2gQ8C2ELoXld2yUfeFmrGnNm8Tq3ZjMFmA==;HF9vaeTXKGba3x7mZkxo9A=="
 ---

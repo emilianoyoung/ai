@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/01/google-healths-ai-identifies-breast-c
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/01/google-healths-ai-identifies-breast-cancer-in-mammogram-imagery-with-fewer-false-positives/amp/
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -59,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28D3C45D4EE8E623DA4C18D1ED9B0426
         width: 636
         height: 382
+  - title: "Google AI improves accuracy of reading mammograms, study finds"
+    excerpt: "Artificial intelligence was often more accurate than radiologists in detecting breast ... and the importance of her company's application of AI to healthcare innovations. She said that focus had already led to the development of a deep learning algorithm to help pathologists assess tissue associated with metastatic breast cancer."
+    publishedDateTime: 2020-01-02T15:28:00Z
+    sourceUrl: https://www.bizjournals.com/bizwomen/news/latest-news/2020/01/google-ai-improves-accuracy-of-reading-mammograms.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E6961A74508C30A19FDABD197A75A6F2
+        width: 306
+        height: 172
 
 secured: "ACod/bcDlQmg+z+DLrCRKdPEwuEFGVu6YGn9ytcVVyf+JLj5WCjrh0n8g4lVHuD/TwQJxNPEci554JDflQXEwKnkN+VdsBUnp0/E4usmf8ifZ18RKRTfjvvkxEw1JuwyO/JnyI1hVazhFYHycFbf/PxGGiHWFbeko6IfOLWdXnDnDyHuazVkGPUXUAUVMGNmhG29p9Ve7ddKCYiic0rjCufLD7n99/iKu/A+kKjTOpeixkY7oY2vYRTYcJwEsyselNXx8tEHNXShjXjCcCXRcA==;bQKH6SX5OriZfnGioCluqw=="
 ---

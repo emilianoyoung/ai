@@ -5,8 +5,8 @@ excerpt: "If you have ever asked yourself why Google Translate has become much b
 publishedDateTime: 2019-12-11T10:53:00Z
 sourceUrl: https://www.pv-magazine.com/2019/12/11/neural-networks-improving-solar-power-forecasting/
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "Wo6tc4s6MPhI7ygvnFSbQe8D2R2DRGmz8Yp8pMJRoLTgdWNlTdoBc4DC7UHp2LEVHv2GArY76fl3lw9Gfh14+phWK6/IjWYRxLYMEoux+x2QRAvPftTg1cnVuX+7+59eXdj4/zSmZ5N905I7Euesmx5zwzEd7t2AQXzJxcmgwVIKzTEagKiS57VyXAjqKoKIKrqCG1BohVANF2GutY8ETieFZK9sE+snRtMoEE72th4njagW/z4AsHCYWLUF/qO9qqhQ39Xv5746k6Hx1T9e5Q==;SxinMkpP2eiivxj3i0+j/Q=="
+images:
+  - url: https://www.pv-magazine.com/wp-content/uploads/2019/12/rainbow-4285843_1920-1200x796.jpg
+    width: 1200
+    height: 796
+    title: "Neural networks improving solar power forecasting"
+
+secured: "gIqV/2reXT4nHrneH5RlAVXJ+XCa2IkinZfMuCUHtxWz/u3vpO0z/tSL7ZCFIIfUY2s1j+ycQL74WtiuLOEKsbtVEwy+sEXZD5p5coVWxRV8He8PGe2pHYHwd+4/EfQHnAtgttkVUnJTlEO4LYNRIX9O8v++e8dVUt/0xkfsQpqhjUY2RR7WS8zY/WjAzl3NohSk3734Oyu6GOEHdgCf2gu2ajUrj2SHvNDsO5CFfMQSg9+rjAGc+83I8wZiyQuYJ0Kop8CaHHvMK0Cvcuddvw==;JCdbvpY6riKFzzOjLHJKXQ=="
 ---
 

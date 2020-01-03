@@ -125,17 +125,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6065F51EDA09A803E252E5E8FDED1BEA
         width: 700
         height: 700
-  - title: "Printed masks can be used to fool facial recognition systems, say researchers"
-    excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
-    publishedDateTime: 2019-12-14T14:45:00Z
-    sourceUrl: https://www.thenews.com.pk/latest/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    ampUrl: https://www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 36
   - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
     excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
     publishedDateTime: 2019-12-18T08:11:00Z

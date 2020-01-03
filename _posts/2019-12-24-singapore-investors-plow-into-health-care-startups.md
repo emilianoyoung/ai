@@ -123,6 +123,15 @@ related:
       - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
         width: 600
         height: 400
+  - title: "Issue of the day: Artificial intelligence in healthcare"
+    excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. Complex algorithms and software are used to emulate human behaviour in the analysis of complex ..."
+    publishedDateTime: 2020-01-03T15:43:00Z
+    sourceUrl: https://www.heraldscotland.com/opinion/18135278.issue-day-artificial-intelligence-healtncare/
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 34
 
 secured: "h3R90tNhaOZc6YjG2hocM6gU13Ci22GLguesbsAd9DSQ0bSXDscuEGK/QYep7id805cIomh/gValWlo4ADivAbtSruoQzgybMC6VkC+mEldcPP2CPP/jphU8T3qkJDXDWhtI0BcFd7w8x82RG3uLy8vnLAwg2XBSEaUZ3v8i87P8NTjiOwipjb3nK+krFRqkzVoBC5dzEp/jnfQ7C9Qh2UyVCksxNKZfRj/Z7T/xmlPlAQf0KreRa6oTHM7pMjOjZS6MS+UjgMP8PTQMhxh/0A==;dH/96VUnqe6+X6CFMgMqAA=="
 ---

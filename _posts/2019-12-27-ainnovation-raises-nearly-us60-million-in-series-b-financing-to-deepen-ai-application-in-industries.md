@@ -51,6 +51,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8EF0FA1358FD28FE41933CFB2B5C5FC5
         width: 700
         height: 525
+  - title: "Xiaomi's $7.2-billion AI investment plan could bolster its declining smartphone segment"
+    excerpt: "Xiaomi plans to invest more than $7 billion over a five-year period in an \"All in AIoT\" strategy – hoping to bolster its declining smartphone segment."
+    publishedDateTime: 2020-01-03T15:00:00Z
+    sourceUrl: https://www.businessinsider.com/xiaomi-reinvests-in-artificial-intelligence-powered-device-ecosystem-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.088A58C2AA437D5E4AA93455643494E8
+        width: 700
+        height: 350
   - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
     excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. What Happened The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on ..."
     publishedDateTime: 2020-01-02T16:50:00Z

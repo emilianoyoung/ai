@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F2E5C4630926E52781E39911D9FA316F
         width: 700
         height: 466
+  - title: "Google AI improves accuracy of reading mammograms, study finds"
+    excerpt: "Artificial intelligence was often more accurate than radiologists in detecting breast ... and the importance of her company's application of AI to healthcare innovations. She said that focus had already led to the development of a deep learning algorithm to help pathologists assess tissue associated with metastatic breast cancer."
+    publishedDateTime: 2020-01-02T15:28:00Z
+    sourceUrl: https://www.bizjournals.com/bizwomen/news/latest-news/2020/01/google-ai-improves-accuracy-of-reading-mammograms.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E6961A74508C30A19FDABD197A75A6F2
+        width: 306
+        height: 172
 
 secured: "b6QQs7uEBC3cSBhMHBMCxbFoCg5DcM9XNoS5dABKubIcZN91/bWyjwbeUQmnnzVLQO9VEp3iy4xlDkNQ5DJcka/Mjnz97dYHkMQP/sDhwoi5ne2ks86gbgMKof/RPV13zDINZ1iUP3XE64T01Zen7CWYokx8hzXs0s6By5a77CLuw9dKTPBDBdIQHqhxI9x6Xfx6+zn88wvIiyNP/XgUydtUJxQbJHn61xH1h1VtiZIYnnQ/s17Gf46LaIzixX13QRulV2hG03DhS1GDRnDFgw==;IiQS0BC9t0sQc5IEcAd9AQ=="
 ---

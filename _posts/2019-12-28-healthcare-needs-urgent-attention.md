@@ -68,7 +68,7 @@ related:
         width: 1200
         height: 630
   - title: "Artificial Intelligence, Psychology, and the Health Sector"
-    excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate 3, with deep learning neural networks leading many achievements. IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+    excerpt: "IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game than chess (2.08 x 10170 possible moves), through teaching itself the game 4. The best AI Go programs have been clearly advancing at an exponential rate 5. Network technology is also ..."
     publishedDateTime: 2020-01-03T12:36:00Z
     sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
     ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
@@ -77,7 +77,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 61
+    quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
         width: 639

@@ -3,7 +3,7 @@ category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 excerpt: "Artificial intelligence programmers are developing bots that can identify digital bullying and sexual harassment. Known as “#MeTooBots” after the high-profile movement that arose after allegations against the Hollywood producer Harvey Weinstein,"
 publishedDateTime: 2020-01-03T10:37:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/rise-of-23metoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYzKzh
+sourceUrl: https://www.msn.com/en-us/news/technology/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYzKzh
 type: article
 quality: 36
 heat: 36
@@ -22,6 +22,6 @@ images:
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "+46kPpPMlkwwyUoWZhVwS6By0gfipN9UnlrBbwrpo58VtVCdv7U1/mHDOO8uLTlky4eXp41zV3GUgi2qfKoUn4bK/pObd/bBWLyLV6qPZp2ToLNoPcDzIDcTUXSy0LYdEWVxuq+DrdV979XJdmTt7x8HqUQcb+VUirq8gh5eaiemZPfg529tcfMyPitGy77k/ci4LIX/VUx4YO3T4n1gF0i5O5jdGFvXEo98VruaJb6EPRZcr+PIjPYtop3fjBK8fy7ywSCGfVt+fTnLXUnWew==;Sb858YTMuxKNJ/qzp9vC5w=="
+secured: "oOoBB3up8bT5Upyvf7Nc/vPsmeqalqSr6zOWWmt07BJWNcAbG8YEYIdVUvKsYaFLQ+jAA39BQhFif7rH4mMThy59+2IuglpwXlbkF+BptSwSjzXFNU2XZEQcQ5ja/2pedOOaj6Bwa10jUpxiw4ZQc3YVo/bQUhuCJREhRcCkiauZA9IwA38Kj9lsVGCSJXrnTQiYY+acE9lAPP9j8NCrZmWLMnmRzCdLICd+YfzTdRP7qxcSOcOC1Tqvt7WLFxwOUxmdvHcrMpF5Zke1zpjbKg==;D98kUM9z5IIGuBbZvuP/cA=="
 ---
 

@@ -3,21 +3,15 @@ category: news
 title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
 excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
 publishedDateTime: 2019-12-23T12:00:00Z
-sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+sourceUrl: https://www.msn.com/en-us/finance/companies/big-tech-is-coming-for-banking-experts-predict-fintech-e2-80-99s-2020/ar-BBYhxoO
 type: article
-quality: 89
-heat: 139
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Bloomberg on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -60,44 +54,7 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
-  - title: "How AI is Revolutionizing the Banking Sector"
-    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
-    publishedDateTime: 2019-12-24T09:32:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
-        width: 300
-        height: 300
-  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
-    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
-    publishedDateTime: 2019-12-24T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
-secured: "JP7T6LShN6Xxipiq2pSycn2+/PoQbxix15/ipPsPAh5aqwnn80py6mlKFd5tEc1sZ8gnPhkziS0PnBTJV4GsegmiytLmMC9e9Mu53jSdTsZflL0N/mYlnm4HSAJ+T2T00IH9Rt7OReOBP0ekjS92dFblKyLBPxEiBENMonJdYbR72E3HXB8UbI/VOjpWmDwGTh6fGJvxQlk38B/aJ4ERSOddF7/Wv/ioh/jKuBH7ZYKizwc6u8OWE4u+16vRGQbUoPh4Q0dDw/OiGoXnylBTVg==;b1PPZ5F4OsmK7I+9+x5w5Q=="
+secured: "dWquW5vXWa5Klm3S6zOP9AxcgpwW15AI13lyrkmNzVoeKTEzNjFhtEA27ez/l93Hz6HtIpT6wtXpjstAT0HzezeR6sc+BEKtyuADrjMueO/KfdGJm51DReAO9Qb4jM93ungeg0/GVC3thSsyOt0R70duvmq2H9+uGwS9870HErPpDAHhV0f7pHTtEP3oyKgkrn+Mkq1/kii8tSg1D+wZjJh3z8rg1GFrttci9HqvnRUeVlxYnjDUbhnSsqUORl39NE68JAabziR4S6q9MCozyg==;elaISxPE8+oPZ2/wQ8Hu7A=="
 ---
 

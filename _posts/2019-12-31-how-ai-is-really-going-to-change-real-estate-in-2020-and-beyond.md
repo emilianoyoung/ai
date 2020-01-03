@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/paularmstrongtech/2020/12/31/how-ai-is-real
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/12/31/how-ai-is-really-going-to-change-real-estate-in-2020-and-beyond/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9A639712DEC856AEED9F83B64FA45DC8
         width: 700
         height: 375
+  - title: "How AI is Revolutionizing the Banking Sector"
+    excerpt: "Artificial Intelligence (AI) is becoming ubiquitous in recent years and its uses are seen in every industry from health, to travel, to banking, to hospitality and finance. According to the IHS Markit’s “Artificial Intelligence in Banking” report, the global AI market is expected to reach $300 billion by 2030. AI is becoming important for ..."
+    publishedDateTime: 2019-12-24T09:32:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/opinions/ai-revolutionizing-banking/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.51D6A1967038B501274C2E41289B1EBC
+        width: 300
+        height: 300
 
 secured: "uBH1c9mrYiRLbegujLppmVKFY9ifxCL8EJykqUL+qhRXP1L6PPYJkJRiXGx7s0rNkVzjJLQN6yT4z1+dnhTntINs+RLd9rffCc+DQxG5DoKIcNHN6TKMHohgphHkbHSKbTc1FaF0skL0bVRgD3Oi8/u7J6E7+tRW7sv1/rs2zuRBJUA6xY8BpRDQXCVGRLZ5CE678+/J2nE2DT2dz9BTaBwe1BY+uQpf60NRi2Kp0WF5uCWNmewl/3D0gT+8J3gczw5SIVaYJBUFWQvuS8oLoA==;cuDfdcE41qgzTv4PGce3Fg=="
 ---

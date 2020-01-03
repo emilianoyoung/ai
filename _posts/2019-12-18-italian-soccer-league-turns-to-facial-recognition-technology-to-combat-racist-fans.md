@@ -134,17 +134,6 @@ related:
       - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
         width: 1024
         height: 768
-  - title: "Printed masks can be used to fool facial recognition systems, say researchers"
-    excerpt: "Law enforcement agencies and corporations across the globe are increasingly making use of facial recognition systems to keep tabs on who's accessing airports, smartphones as well as other sensitive devices and locations. However, researchers have claimed that printed masks can be used to fool some facial recognition systems. Artificial ..."
-    publishedDateTime: 2019-12-14T14:45:00Z
-    sourceUrl: https://www.thenews.com.pk/latest/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    ampUrl: https://www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/583456-printed-masks-can-be-used-to-fool-facial-recognition-systems-say-researchers
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 36
   - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
     excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
     publishedDateTime: 2019-12-17T17:56:00Z

@@ -2,27 +2,49 @@
 category: news
 title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
-publishedDateTime: 2020-01-03T11:18:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/zephyrtel-to-reinvent-its-telco-software-solutions-suite-leveraging-amazon-web-services-300980824.html
+publishedDateTime: 2020-01-03T12:27:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-zephyrtel-reinvent-its-telco-software-solutions-suite-leveraging-/2020/01/03/9075699.htm
 type: article
-quality: 31
-heat: 31
+quality: 11
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
+related:
+  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
+    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip). Reportedly, this collaboration eliminates the need for developers to manually optimize ML ..."
+    publishedDateTime: 2020-01-03T15:54:00Z
+    sourceUrl: https://finance.yahoo.com/news/ambarella-aws-bring-ml-solutions-150803976.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/bb66Tva8FEJkyNSwnJ0QtA--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cebb9d6f35cfe34562f36d3a78800bca
+        width: 635
+        height: 400
+  - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
+    excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
+    publishedDateTime: 2020-01-02T17:08:00Z
+    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48524162-gigabyte-technology-co-gigabyte-brings-ai-cloud-solutions-and-smart-applications-to-ces-2020-to-enable-future-today-200.htm
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.A611B201AD16A925C3B0A75ADD6A62D1
+        width: 700
+        height: 457
 
-secured: "/kxUGQZGq8zr1U7/hXL1WZovMtTFwMq6nmGjjw/PsK9vRTkioP/Io1NtZ0MfiaReJSvO2y+wXefgQnpFMZNfzK3qQfSOjaxemJHELqGS0OGxLyr+sn9x1JKgefMIWtbi2GmdcYB5DVEOHNxQycVJzQp4yF9jeC44QxXR52BVTzJ0RGrGh62Gj0gQqasJQ/EUTrpYOm9QdP4ZazjLYfe3OmEp8eFEmq2WuicW/8ZRNj/1jes7Zp7/7K3NBEgFk32brrd730R15hvN9haFHD0dzA==;oVUX8tyR1tFMI5v3JP/tgg=="
+secured: "KGyI83JhwtST2JliRI3F79qs5i8vkoBhx2Sks0DV6CkJc4aWE7slNXrgEKFV5X28lFOH3VFTmKvJF6s14bNpP+/89L4Q3Yq3ZB36FaCgNGJ7tFMrzHDC1AaP2Z+mqOmz6foCmvcdHdEdBngYTRMmK11cWUv2Ui4rEaFh5j5rjuychfu8lYCVYZyw3YZ/uF0ChvDg8uwdCc5oOSRfp59V3yzsSZ5Abv7HPqEPZBnVxE9c+UgK4aLIYbLvGKE00estXc4D4q2njUCin+cqWkY/Qg==;fAYSVqfOo5BdDWrQUi/42g=="
 ---
 

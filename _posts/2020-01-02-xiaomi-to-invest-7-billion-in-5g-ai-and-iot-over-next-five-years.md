@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T06:47:00Z
 sourceUrl: https://kfgo.com/news/articles/2020/jan/02/xiaomi-to-invest-7-billion-in-5g-ai-and-iot-over-next-five-years/970837/?refer-section=technology
 type: article
 quality: 137
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8EF0FA1358FD28FE41933CFB2B5C5FC5
         width: 700
         height: 525
+  - title: "Xiaomi's $7.2-billion AI investment plan could bolster its declining smartphone segment"
+    excerpt: "Xiaomi plans to invest more than $7 billion over a five-year period in an \"All in AIoT\" strategy – hoping to bolster its declining smartphone segment."
+    publishedDateTime: 2020-01-03T15:00:00Z
+    sourceUrl: https://www.businessinsider.com/xiaomi-reinvests-in-artificial-intelligence-powered-device-ecosystem-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.088A58C2AA437D5E4AA93455643494E8
+        width: 700
+        height: 350
   - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
     excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
     publishedDateTime: 2019-12-27T12:05:00Z

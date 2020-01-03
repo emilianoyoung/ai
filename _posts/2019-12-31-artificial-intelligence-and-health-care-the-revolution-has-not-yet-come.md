@@ -110,6 +110,15 @@ related:
       - url: https://www.heraldscotland.com/resources/images/10859006/
         width: 2400
         height: 1800
+  - title: "Issue of the day: Artificial intelligence in healthcare"
+    excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. Complex algorithms and software are used to emulate human behaviour in the analysis of complex ..."
+    publishedDateTime: 2020-01-03T15:43:00Z
+    sourceUrl: https://www.heraldscotland.com/opinion/18135278.issue-day-artificial-intelligence-healtncare/
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 34
   - title: "Singapore investors plow into health care startups"
     excerpt: "SINGAPORE -- Singaporean investors are plowing into startups in the health care sector, drawn by the industry's innovations and strong government ... Biofourmis itself has developed a platform that uses artificial intelligence to analyze data collected by such sensors to quickly identify symptoms of heart attacks and other ailments."
     publishedDateTime: 2019-12-24T03:35:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-o
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-office-rejects-worlds-first-ai-inventor/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "European Patent Office Rejects World’s First AI Inventor"
 
 related:
+  - title: "Europe rejects patent applications signed with AI inventor"
+    excerpt: "The European Patent Office (EPO) has rejected two patent applications in which artificial intelligence (AI) was designated as the inventor. EP 18 275 163 and EP 18 275 174, described as a food container based on advanced geometry and light-based \"devices and methods for attracting enhanced attention\" in rescue scenarios, are patents submitted ..."
+    publishedDateTime: 2020-01-03T15:04:00Z
+    sourceUrl: https://www.zdnet.com/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    ampUrl: https://www.zdnet.com/google-amp/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-rejects-patent-applications-signed-with-ai-as-the-inventor/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.F654D1AA94D23C7518C9E4826E5CC38E
+        width: 700
+        height: 525
   - title: "The world's first AI inventor has been rejected by British and European patent authorities"
     excerpt: "The world's first AI inventor has been rejected by the UK patent office. It says there is a \"legitimate question\" over future applications."
     publishedDateTime: 2020-01-03T07:11:00Z

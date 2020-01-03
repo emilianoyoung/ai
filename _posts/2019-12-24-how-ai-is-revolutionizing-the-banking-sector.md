@@ -23,75 +23,34 @@ images:
     title: "How AI is Revolutionizing the Banking Sector"
 
 related:
-  - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-23T12:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-23/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020
+  - title: "How AI Is Really Going To Change Real Estate In 2020 And Beyond"
+    excerpt: "Real Estate is one industry that has a big AI opportunity due to its late mover position. The early pitfalls have been identified and now fast progress can be made with a sensible strategy. Lending money is an easy task but validating a client is tricky. \"Risk is the biggest hurdle to get over\" according to Reynaldo Reyes, Director of Sales ..."
+    publishedDateTime: 2019-12-31T09:07:00Z
+    sourceUrl: https://www.forbes.com/sites/paularmstrongtech/2020/12/31/how-ai-is-really-going-to-change-real-estate-in-2020-and-beyond/
+    ampUrl: https://www.forbes.com/sites/paularmstrongtech/2020/12/31/how-ai-is-really-going-to-change-real-estate-in-2020-and-beyond/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paularmstrongtech/2020/12/31/how-ai-is-really-going-to-change-real-estate-in-2020-and-beyond/amp/
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
-        width: 700
-        height: 466
-  - title: "Big tech is coming for banking: Experts predict Fintech’s 2020"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.\" Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-25T05:42:00Z
-    sourceUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020-11577251234356.html
-    ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.61239B8EEC47D72D3ED19ED8AEE64190
+      - url: https://www.bing.com/th?id=ON.C8D7D98030DAB5578B9F8F671D0117BE
         width: 600
-        height: 338
-  - title: "Fintech startups to make a bigger move in 2020, experts suggest"
-    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
-    publishedDateTime: 2019-12-24T06:59:00Z
-    sourceUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/
-    ampUrl: https://theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
-    cdnAmpUrl: https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/fintech-startups-to-make-a-bigger-move-in-2020-experts-suggest/339834/?amp
+        height: 315
+  - title: "Under the Tree in 2020: AI, Political Advertising & Beyond"
+    excerpt: "I expect to see Facebook come under even more scrutiny as we get closer to ... and overall provide them with an instant experience that would take a data analyst days to research, adjust and deliver. — Katie Boschele, project manager, Lucidworks AI-enabled revenue solutions Content has become more readily accessible with more being created ..."
+    publishedDateTime: 2019-12-31T11:10:00Z
+    sourceUrl: https://www.dmnews.com/customer-experience/article/21108096/under-the-tree-in-2020-ai-political-advertising-beyond
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 44
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
+      - url: https://www.bing.com/th?id=ON.9A639712DEC856AEED9F83B64FA45DC8
         width: 700
-        height: 393
-  - title: "What is the Procedure to Start a FinTech Company?"
-    excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
-    publishedDateTime: 2019-12-29T02:05:00Z
-    sourceUrl: https://yourstory.com/mystory/procedure-start-fintech-company
-    ampUrl: https://yourstory.com/mystory/procedure-start-fintech-company/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/procedure-start-fintech-company/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
-        width: 670
-        height: 352
-  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
-    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
-    publishedDateTime: 2019-12-24T00:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
+        height: 375
 
 secured: "wS1ylv3ibMyLrdRV0t8Ach60fOtdgzx0/8vX89DJ7QuMre1e1+TMvSyutlMf9sxGjUbUMRre6C6g1DeZywdxZOhJuey4HzYydnB9w9q0/GF4vXSSpvEbpSeU/9Ez8iolWdRhBRuiIYmDnINfvBxzaHUIYblW3e433HLck+zZN51jIIi+S6n3tjPVvXxianvbL7Ykwg+DDOqXAQIq+zB5M2saetyhJyClqFZjvd5hRnmAdtzWOYGLQLwpWVP+b75SxC2hZwaXtVrOm2YGo4HdKg==;3a6z3uwBWnGg542G7+63Rg=="
 ---

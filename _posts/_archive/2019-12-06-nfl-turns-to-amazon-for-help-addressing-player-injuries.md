@@ -47,6 +47,6 @@ related:
       domain: benzinga.com
     quality: 17
 
-secured: "slb2iXpHUTQgP8GAOUa0nIZUrSuub3EeGFuGbbbqKtnsvWzHwA3PF8vNj/JDBVE+Vxq8KXJd6lZ2mvbP3lkWlnaj4qzbEvfHBFTZ1KMwvzv8Lhhz7yZq3stRh+xFv2bhJFtoS2Y7NWEwpdDJU7fNieTol9uz1rvhqa+EE4WA5Eeg3f/GpArti1Lu3K/ILCEU4+EVpxxzgEmRojKOgBKAJeQjNu+tzLXiC2+0InPj+sOv8xQdB0EWzaXNJUeyOLEAfAvZr4j/AgG6PlmqEXpu1g==;Bx3Fr9pqV9pvcg7onIrAvQ=="
+secured: "QlriNUrJxWub/22Nu7JeHWuz9RUICu9tMir5abVuULclBRWwtctthbLEvm1LBVKixRkitlqwF0kyKnldokTXu3q86c2NtuDSx3csECK0qYDVsL/CZyKyL0SuBFf4WKMXoh46BWLKB9MgOw+XJ4Ukra4RbQOY/1f5ZXIPgKvTI5WtgOA9Rsh1yEh7EbgaLTatZxzYJUE9a0L3f/+pqMV1w0J2Us9OxcLekX3rDURWCkjYDH+5QHNhvjHjs4l8Mx0EapIAV+uCM/vKZtZ4IIoL/g==;xx+9iteHjAmA8GPs7SPLDw=="
 ---
 

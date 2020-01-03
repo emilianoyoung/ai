@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/360-finance-selected-in-kpm
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/360-finance-selected-in-kpmg-china-s-top-50-fintech-companies-1028781909
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
     excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
     publishedDateTime: 2019-12-24T00:02:00Z
     sourceUrl: https://finance.yahoo.com/news/360-finance-selected-kpmg-chinas-120000593.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
+  - title: "InterGen Data Selected for 2020 MassChallenge FinTech Program"
+    excerpt: "InterGen Data joins the MCFT20 cohort of top fintech startups for 6-Month MassChallenge FinTech Program InterGen Data, Inc., an AI-driven technology provider of proprietary AI software solutions and machine learning algorithms for banking, wealth management, insurance and fintech companies has been selected for the 2020 Mass Challenge FinTech ..."
+    publishedDateTime: 2019-12-24T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/intergen-data-selected-2020-masschallenge-184100714.html
     type: article
     provider:
       name: YAHOO!
