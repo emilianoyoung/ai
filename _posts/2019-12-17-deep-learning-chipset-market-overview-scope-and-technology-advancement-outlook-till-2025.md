@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T10:34:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipset-market-overview-scope-and-technology-advancement-outlook-till-2025-2019-12-17
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
-    excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
-    publishedDateTime: 2019-12-13T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-technology-growth-advancements-and-business-outlook-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

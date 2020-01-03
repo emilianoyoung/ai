@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/machine-learning-means-expanded
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-means-expanded-job-roles-for-developers/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 69
-  - title: "The Artist in the Machine opens our eyes to AI's amazing creativity"
-    excerpt: "Arthur I. Miller's sure-footed survey of machine art reveals a world of beauty, but his book slips a gear when it tries to marry creativity to consciousness Turkey is getting military drones armed with machine guns People in Japan are wearing exoskeletons to keep working as they age Young people can't remember how much more wildlife there used ..."
-    publishedDateTime: 2019-12-14T10:26:00Z
-    sourceUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/
-    ampUrl: https://www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/mg24432600-300-the-artist-in-the-machine-opens-our-eyes-to-ais-amazing-creativity/amp/
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.E2DC428A132CB5ED994176903EECCD29
-        width: 700
-        height: 466
 
 secured: "1WA6WvHkF/7PWTd9M0Lqrh8ShhDYteWyHBf2pOvCCmLp38wDfMuLsg/zALaf2vrONPnL7CDd0nxV1AOPm+QK1PWaafxDENtNgwr9oXspys/xjyQbfqHsWYQADGNJ7kaYb8ppZajT/lu0YuOSsmwOqoFZQ6QvOZEbH+J/p6C2oreqnQZ+f1zRrVLa4f8yIc7N0dTM/y9wvF0NIQNFelufy1A9BZSu0oS3UsVEO2BWhemqaumto+oodDtc9nfp/vVEwPthHsdBtXvpR3MoqAdyOg==;YHzXQVZO/LGythAHbsOOKw=="
 ---

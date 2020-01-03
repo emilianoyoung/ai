@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India’s farms"
-excerpt: "But India’s booming agritech industry hopes to change all that, and has some novel ideas – wearable tech for livestock and facial recognition systems for cows among them – to do so. has promised to increase farmers’ incomes and in 2018, launched the ‘DigiGaon’ or Digital Village programme, which aims to connect more than 100,000 ..."
-publishedDateTime: 2020-01-03T04:57:00Z
-sourceUrl: https://www.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
-ampUrl: https://amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
+title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India's farms"
+excerpt: "Hundreds of start-up tech firms are offering everything from wearable health monitors for livestock to real-time agriscience data The boom has excited investors and raised hopes of solutions to the industry’s more intractable problems – if the government is willing to help In India,"
+publishedDateTime: 2020-01-03T07:01:22Z
+sourceUrl: https://www.msn.com/en-sg/news/other/facial-recognition-for-cows-how-the-search-for-tech-unicorns-is-revolutionising-indias-farms/ar-BBYzCIu
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
+  name: South China Morning Post on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.3FD7E2F49A5846F3B79B167642866874
-    width: 700
-    height: 367
-    title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India’s farms"
+  - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
+    width: 600
+    height: 315
+    title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India's farms"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -817,6 +815,6 @@ related:
         width: 336
         height: 254
 
-secured: "HpE4qJJD9d7dYvL2NmBf9h4G31Zgn0bclAGKEY1R4PreZDXlzTCKQSCB4q8UE42yQk9gKgEuMVYdqXY17VygX4vsNP/DxaSE1hoNsAAAl3goXd4W4TpIXZmxifplkY5K6gMG5Zh0h+d74F3Jrd1hqZJxGY9mmbGjJoNjzyoZcDcCkZwmNZhSd80E7b+F0zcERjeE0cdSxTzb8RT0qzBTv8CBykn8TbITuN1la82uiUjQre6L8nW/bzxJGivghgh0wLurQbohwfuGRpQVJlmiFw==;zrJmGnHOUQC4INojKIO46A=="
+secured: "oMNM/2M8et2oH8XxiwyVeUJp/3RiaGhbA4U3EcvIzrNuS8QNbfyGVhjfkgg6ZDLzXB8NCvgvmtczs2UEmEb2oEm8X/6KuxXzgeElRUrll4GJV2dvKGuqHlQ/degePaV+jFBm8Drl9Scdg7l9Zu4miagQL+K4K8PrS2XBsjK218f8hfMeyzaqxb/Wb3fBUA8UHFbhba8/FC4PUWMG970MUvbx8Lc3oKT9j0hC+OOr0gkBeJUKZ1bQ3YPvJy323XgpqPEtbNK/58ykB3aEKd+n+A==;bZGoi290ioHTxSGPaaf7uw=="
 ---
 

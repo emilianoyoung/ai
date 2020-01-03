@@ -20,17 +20,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
-    publishedDateTime: 2019-12-05T22:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
+    publishedDateTime: 2019-12-06T15:41:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
     type: article
     provider:
-      name: digitaltrends.com
-      domain: digitaltrends.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "NFL turns to Amazon for help addressing player injuries"
     excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
     publishedDateTime: 2019-12-06T15:42:00Z
@@ -43,6 +45,6 @@ related:
       domain: techrepublic.com
     quality: 54
 
-secured: "352/Eb6g0hd4OrGxf0pUwJgfhzdfOkjIEkHNPGo6+1mPKzBZL+mVHP+jNGlBYcbTwotQftSbHeLUfPHzPAfSEmANhHVTwazBrFa8OhgMMFzcPXSTaRFSOV2e5pjsqq+xxZhoYGNcMul4GxTTWXsZ/fgeT+xd0vf7F+zsmjIEeg1Oyue9r2RcppNFvTt3nGM38KRh2TaaE6NlUJnO/G5h/DNoPSQDwERWZgX1i9Wvf+yNECa5BCg6brRr70Y5IeRQRWOnoqXKXxOB4VClNTwXng==;5Etbgj1UB9Bjp3ZBg/nxSw=="
+secured: "UJwwWxPhdGIlcz3vBQ1rNHF/F54KWvn2boZMQPr/NhuHxycSJ+fr3r2kvPkxpj9l2YNaCSJ83rD8qBxQjXpmhL8pnhQ6lYCLRckRc+ZwmlIPDzxlKxDLF7HYczN8dm75qGHeFbKklzVY2KJCeIzKDtnEW9UJ2DEn4nH9HhDN4MU+JaO9jo7UjwEWIs8fcEhXKQyF9UZz29QdVPGxOF9YawJ0ab0ysDMmsC3HxdBqsIHFb5/mDiZLzDueL41Yb+xPKYdy1uO03vde3IXn+18t0A==;lEbLRJkKS0suTkJGJM02Rw=="
 ---
 

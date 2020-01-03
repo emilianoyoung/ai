@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T07:11:00Z
 sourceUrl: https://www.businessinsider.com/first-robot-inventor-rejected-british-and-european-authorities
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,23 @@ images:
     width: 700
     height: 350
     title: "The world's first AI inventor has been rejected by British and European patent authorities"
+
+related:
+  - title: "European Patent Office Rejects World’s First AI Inventor"
+    excerpt: "While the EU did at one time consider adding 'electronic personality' to the two categories of potential patent owner allowed - 'natural person' and 'legal entity' - it abandoned the idea after receiving a strongly worded letter from more than 150 experts in AI, robotics, IP and ethics."
+    publishedDateTime: 2020-01-03T12:42:00Z
+    sourceUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-office-rejects-worlds-first-ai-inventor/
+    ampUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-office-rejects-worlds-first-ai-inventor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-office-rejects-worlds-first-ai-inventor/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.CC9B1C2F5DE5D835321F24CF6838D181
+        width: 600
+        height: 315
 
 secured: "aqJQFoU/cu/rwI8vcEJt9JB1R4PKUZ3b0L49Hj4eDCh5YRAOq6kfCvVArXLNsqyaYRLhZJkLAdGo+xzJNM9lgB3F6MXQcpjksd0ikid3MLRyb9RgEf2PI39HBVuH7I29PY/hAXsdduiUu3XlTndBv6FvnZiscTWJep9w+a3Q1TtB4LiCuHtGiPvfQlMwvsltuxN0a2WGJTVFiKOOIQkwWfjEnyXvuD4ZJK1AqtBOu90c8xPIpxKJ2gQ8C2ELoXld2yUfeFmrGnNm8Tq3ZjMFmA==;HF9vaeTXKGba3x7mZkxo9A=="
 ---

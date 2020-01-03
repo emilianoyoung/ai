@@ -122,6 +122,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-03T11:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
     excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
     publishedDateTime: 2020-01-02T11:52:00Z

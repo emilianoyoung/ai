@@ -257,6 +257,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis"
+    excerpt: "Despite all of our fears about artificial intelligence (AI), we still have to look at the health benefits that could save lives through machine learning. According to a study conducted by researchers from Imperial College London and Google Health, an AI program has been developed that can identify breast cancer from routine scans with greater ..."
+    publishedDateTime: 2020-01-03T11:15:00Z
+    sourceUrl: https://observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/
+    ampUrl: https://observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/amp/
+    cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/amp/
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.87D8F0E42687B0195231C7F123794D20
+        width: 700
+        height: 463
   - title: "Google AI beats doctors in detecting breast cancer"
     excerpt: "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window ... expected to be available to hospitals worldwide in the near future. It’s good to know AI technology is being used for important things like medical research and testing like this, and not just video games. Keep checking with Komando.com ..."
     publishedDateTime: 2020-01-03T09:55:00Z

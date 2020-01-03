@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-ne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
       - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
         width: 600
         height: 315
-  - title: "Amazon's AI Leadership Advances at re:Invent 2019"
-    excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
-    publishedDateTime: 2019-12-10T15:29:00Z
-    sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
-    ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
-    type: article
-    provider:
-      name: Web CMS
-      domain: cmswire.com
-    quality: 39
 
 secured: "Rm6phQBjvhMXrYo6qmeSQMr5205NuG/E+1ToC3UJud+PjMotvQVfMNgF86lvy4ElcTLjChrfAWBcsabMfJztN3el4+YfnpMN+3poqFtQYTGkcnn9T+I5UVojFCCDL9M6w08cXSPPKrbPKlQoiWFGqyHT4OC5J9+ZZGM+UXDs9q9i8vgEap5kIZabogHUu2jURkb6ESPOj2m4BOo/NdAP6xNQUxO2gRYomQEV9BMAkMvskBXcJAcazoyW8M0wpckaj8/EErfolCjlT2ydVC4Hjw==;EIyFBxaEJHDFNqgQsub61Q=="
 ---

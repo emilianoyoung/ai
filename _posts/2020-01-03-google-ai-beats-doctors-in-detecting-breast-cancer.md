@@ -260,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B4A7C8E9C4FD759684F50FAF947EE71A
         width: 700
         height: 461
+  - title: "Artificial Intelligence Outperforms Doctors in Breast Cancer Diagnosis"
+    excerpt: "Despite all of our fears about artificial intelligence (AI), we still have to look at the health benefits that could save lives through machine learning. According to a study conducted by researchers from Imperial College London and Google Health, an AI program has been developed that can identify breast cancer from routine scans with greater ..."
+    publishedDateTime: 2020-01-03T11:15:00Z
+    sourceUrl: https://observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/
+    ampUrl: https://observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/amp/
+    cdnAmpUrl: https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/01/artificial-intelligence-breast-cancer-diagnosis/amp/
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.87D8F0E42687B0195231C7F123794D20
+        width: 700
+        height: 463
   - title: "Google's AI Proves Better At Detecting Breast Cancer Than Doctors"
     excerpt: "In a Google-funded study, a team of independent researchers from various hospitals and universities, researchers from Google Health, and engineers from DeepMind (a Google-owned UK-based AI company) compared analyses of nearly 29,000 mammograms from UK and U.S.-sourced datasets. The study reports that they found 9.7% and 2.7% reductions in false ..."
     publishedDateTime: 2020-01-03T00:12:00Z

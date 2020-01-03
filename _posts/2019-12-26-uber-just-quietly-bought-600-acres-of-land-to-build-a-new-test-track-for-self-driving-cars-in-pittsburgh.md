@@ -159,6 +159,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A23690DECED0605C78EC9FC43CEC5B47
         width: 700
         height: 394
+  - title: "3 deaths in rash self-driving Tesla crashes threaten Elon Musk's autopilot ambitions"
+    excerpt: "DETROIT (AP) — Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. Continue Reading Below On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed ..."
+    publishedDateTime: 2020-01-03T11:26:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions
+    ampUrl: https://www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/3-deaths-in-rash-self-driving-tesla-crashes-threaten-elon-musks-autopilot-ambitions.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.F4FF4A5FD074EFC7D3357F5A3EEE6EA5
+        width: 700
+        height: 393
   - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
     publishedDateTime: 2019-12-28T11:12:00Z

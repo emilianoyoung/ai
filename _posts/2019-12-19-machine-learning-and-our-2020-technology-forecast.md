@@ -50,19 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Manufacturing Market Latest Technology Growth, Advancements and Business Outlook to 2025"
-    excerpt: "source=MW&Mode=07 Top LeadingCompanies of Global Artificial Intelligence (AI) In Manufacturing Market are: Intel, IBM, Siemens, GE, Google, Microsoft, Micron Technology, Amazon Web Services (AWS), Nvidia, Sight Machine and others. Global Artificial Intelligence (AI) In Manufacturing Market Split by Product Type and Applications: This report ..."
-    publishedDateTime: 2019-12-13T07:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-latest-technology-growth-advancements-and-business-outlook-to-2025-2019-12-13
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
     excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
     publishedDateTime: 2019-12-18T18:45:00Z

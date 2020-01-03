@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B117FBA51EF921F1BAECED5D8455AC64
         width: 700
         height: 466
+  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
+    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
+    publishedDateTime: 2020-01-03T10:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "IBM Teams Up with Argentine Chamber of Fintech to Support Digital Transformation Efforts in Country’s Banking Sector"
     excerpt: "These efforts have helped several Fintech startups in establishing their operations ... machine learning (ML), and artificial intelligence (AI). IBM will provide access to its large program of entrepreneurs (Startup with IBM) with subsidized credits, so that business owners can create their products and services. Eligible entrepreneurs may ..."
     publishedDateTime: 2019-12-31T17:04:00Z

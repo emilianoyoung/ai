@@ -156,6 +156,17 @@ related:
       name: Business 2 Community
       domain: business2community.com
     quality: 24
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
   - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
     excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
     publishedDateTime: 2019-12-19T09:31:00Z
@@ -184,6 +195,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "om3z6QmV2RBkKeLH0qguscrduYVLp2C6u7X46mr2VZbkjPKtmoqdOL7oGRyHSBL0KWHVoMtNMygVTk0jQxxtAOTvrPgGfvQA5oWysg+XLwS9QBwxNRN8pmfnyUV5juLM/lUNa6xnSjQYF3sAeZA5d+RAwopcHYr99owR/cDFY7/YpfxVsJTEN9h7IpChJn33c5A0jb9b2TRS4p3YTZ3TG3qveMjHbGmugt8frQLwwaDU8PaxjudwmRkQLSSKLufIpUcHXBLfnCcIqu9fyfiCDA==;YcQTPgCuwI8qL6qhb1tX/g=="
+secured: "F0AEinqtit25gqCXk2a8OFHDHLdGudO9CyzaNJmFeusiaS+Xxc3t7mZTu0vR8y98icGYqyh3K0aShzHA1rYewGDUXrAIbBsZh070eIpdCOTx34eIUmZ9ZTqIvDVOYXfihSaA1EDiXh0rX0G98D/xHM86FxcLPnPIam243Nge7gxFqqI4Jw+C7WmOo+Xc1yRqk5O7BHN7SkLrm/+nX7/gSOhsRIV013x+yrio5L7/sNczL/pJbYmYrM3zW5ol1vkTQN6thyrTkQ+Go/3p2xDKMQ==;pQNdoOibuMI5NwgN0wUrqw=="
 ---
 

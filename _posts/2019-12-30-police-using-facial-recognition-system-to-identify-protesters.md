@@ -333,21 +333,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
-  - title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India’s farms"
-    excerpt: "But India’s booming agritech industry hopes to change all that, and has some novel ideas – wearable tech for livestock and facial recognition systems for cows among them – to do so. has promised to increase farmers’ incomes and in 2018, launched the ‘DigiGaon’ or Digital Village programme, which aims to connect more than 100,000 ..."
-    publishedDateTime: 2020-01-03T04:57:00Z
-    sourceUrl: https://www.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
-    ampUrl: https://amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/week-asia/economics/article/3044446/facial-recognition-cows-how-search-tech-unicorns
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 47
-    images:
-      - url: https://www.bing.com/th?id=ON.3FD7E2F49A5846F3B79B167642866874
-        width: 700
-        height: 367
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z
@@ -742,6 +727,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4167286DE2E2863B8C72CACCD5B31C2F
         width: 700
         height: 389
+  - title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India's farms"
+    excerpt: "Hundreds of start-up tech firms are offering everything from wearable health monitors for livestock to real-time agriscience data The boom has excited investors and raised hopes of solutions to the industry’s more intractable problems – if the government is willing to help In India,"
+    publishedDateTime: 2020-01-03T07:01:22Z
+    sourceUrl: https://www.msn.com/en-sg/news/other/facial-recognition-for-cows-how-the-search-for-tech-unicorns-is-revolutionising-indias-farms/ar-BBYzCIu
+    type: article
+    provider:
+      name: South China Morning Post on MSN.com
+      domain: msn.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
+        width: 600
+        height: 315
   - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
     excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
     publishedDateTime: 2019-12-30T12:54:56Z

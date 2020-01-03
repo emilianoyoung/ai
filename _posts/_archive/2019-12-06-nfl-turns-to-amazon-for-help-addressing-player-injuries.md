@@ -24,17 +24,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
-    publishedDateTime: 2019-12-05T22:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
+    publishedDateTime: 2019-12-06T15:41:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
     type: article
     provider:
-      name: digitaltrends.com
-      domain: digitaltrends.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
     publishedDateTime: 2019-12-05T20:42:00Z
@@ -47,6 +49,6 @@ related:
       domain: yahoo.com
     quality: 17
 
-secured: "3n6//e9jQ+gXiUt7fFZG36JT6XiloonYrLjFWNcMT8T2v6ZyqddqqldQMwNJJi6Y9NUL13uaBEGG9ct9zYjA8HB9hArgyVG9GRyOZlKofaaberrRtK3gsOQZ9u24StpYUz5xWTUh9Y/6RP4xtNqjdFQ7hS3CaDOi5CWOMdFZynz0j8qC3UZBp8ZvaVxHKZpoIyEtHDZkfyEbapdN7QuDIsPMYaUx7aXRpqYVI07x+IF+1lPO5WfUhUuLDD1t7XgxCfGUtr4Og/pidn0lxjOZeQ==;jG5LtdWTEqn9WQ+J/PrABg=="
+secured: "5fFsbe0MugN0+HSASU88ugZ0G8nS2mgqjjHI/HzSd5RAAkDaguYhR5VEs6LvwPLNOq0j4sDMgH1e1vGXlyoGHGrlG4BvwKiSMbevwPYKAiTDm3/rTELQccklnX8orQQNnSb7l6tTjwo7z5jZCczVaw2vZdAHr67FJ8xMskUqR49oeZkNPL5cbv1nuTnV6xnO1XTwKWkV4DVfrnRBaI/TS/C04EG1YDtAr1vsXAkZA3UReIN2I2T9KrQXVobO4PDqW4+TnQz5Iag3XGqWaOwHeA==;+i/9TqPHKjiAMvLnqewxfQ=="
 ---
 
