@@ -318,6 +318,19 @@ related:
       - url: https://www.retailtouchpoints.com/media/k2/items/cache/17040e0f8eaa9a5c4a4cc58d69afe22d_L.jpg
         width: 900
         height: 545
+  - title: "School district's facial recognition raises privacy concerns"
+    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
+    publishedDateTime: 2020-01-03T21:06:00Z
+    sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
+        width: 700
+        height: 507
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z
@@ -348,6 +361,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
+    publishedDateTime: 2019-12-30T12:36:00Z
+    sourceUrl: https://www.usatoday.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+    ampUrl: https://amp.usatoday.com/amp/2755613001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2755613001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
+        width: 568
+        height: 320
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z
@@ -504,6 +532,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
+  - title: "Facial recognition is coming. Get used to it."
+    excerpt: "Land Line recently heard from a driver. “What do you think about mandatory facial recognition?” he asked on our Facebook page. Facial recognition is the complex digital technology that identifies individuals from the characteristics of their faces. “Today, driving through to show my card the guy told me I needed to do a face recognition ..."
+    publishedDateTime: 2019-12-30T19:49:00Z
+    sourceUrl: https://landline.media/facial-recognition-is-coming-get-used-to-it/
+    type: article
+    provider:
+      name: Land Line
+      domain: landline.media
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.82E33785B62DF55A6B066DCF0C8329A2
+        width: 540
+        height: 420
   - title: "Use of facial recognition in rally sparks privacy fears"
     excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally - a first for India - raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
     publishedDateTime: 2019-12-30T21:16:00Z
@@ -764,6 +805,32 @@ related:
       - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
         width: 200
         height: 150
+  - title: "New trials and rollouts of biometric facial recognition to prevent underage gambling"
+    excerpt: "We’ve just got to make sure that whatever we do doesn’t compromise our privacy obligations,” he says. The technology, which SMH refers to as facial recognition software, will not operate at TAB retail terminals in pubs and clubs. During the trial, Tabcorp worked with Australian machine learning and AI company Eliiza and three facial ..."
+    publishedDateTime: 2020-01-03T18:11:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/new-trials-and-rollouts-of-biometric-facial-recognition-to-prevent-underage-gambling
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.6442B26B504EB7E2476D71ECE45356DA
+        width: 700
+        height: 452
+  - title: "Technology vs. privacy: Washington looks to regulate facial recognition tools in 2020"
+    excerpt: "The high-tech cameras were set to go live at Seattle-Tacoma International Airport by the end of December. In a first among private airlines at the busy travel hub, Delta Airlines planned to start using facial recognition technology to identify passengers boarding at international gates. The scan of someone’s facial features was intended to ..."
+    publishedDateTime: 2020-01-03T13:06:00Z
+    sourceUrl: https://crosscut.com/2020/01/technology-vs-privacy-washington-looks-regulate-facial-recognition-tools-2020
+    type: article
+    provider:
+      name: Crosscut
+      domain: crosscut.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.26F422EF1167D5C12D88091CB793DDD9
+        width: 700
+        height: 458
   - title: "Delhi: Police film protests, run its images through face recognition software to screen crowd"
     excerpt: "(Express photo by Tashi Tobgyal) Prime Minister Narendra Modi’s Ramlila Maidan rally on December 22 — where he said there was no talk of NRC — was the first political rally where Delhi Police used a facial recognition software to screen the crowd. This was also the first time Delhi Police used a set of facial images collected from footage ..."
     publishedDateTime: 2019-12-28T00:06:00Z
@@ -790,19 +857,6 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:54:56Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Federal study finds racial bias of many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
     publishedDateTime: 2019-12-24T16:06:00Z

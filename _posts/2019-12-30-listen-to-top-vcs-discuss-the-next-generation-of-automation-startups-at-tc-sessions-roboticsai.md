@@ -152,6 +152,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
         width: 600
         height: 315
+  - title: "4 Predictions for the First Year of the Ambient Computing Decade"
+    excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
+    publishedDateTime: 2020-01-03T21:54:00Z
+    sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
+        width: 700
+        height: 363
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z

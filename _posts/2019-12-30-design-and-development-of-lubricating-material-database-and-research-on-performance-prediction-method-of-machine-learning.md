@@ -162,6 +162,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
         width: 600
         height: 315
+  - title: "4 Predictions for the First Year of the Ambient Computing Decade"
+    excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
+    publishedDateTime: 2020-01-03T21:54:00Z
+    sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
+        width: 700
+        height: 363
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

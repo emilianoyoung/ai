@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
-excerpt: "City firms experimenting with tech that flags harassment but critics question effectiveness"
-publishedDateTime: 2020-01-03T07:00:00Z
-sourceUrl: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
-ampUrl: https://amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
-cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+excerpt: "Artificial intelligence programmers are developing bots that can identify digital bullying and sexual harassment."
+publishedDateTime: 2020-01-03T21:42:00Z
+sourceUrl: https://www.msn.com/en-nz/news/offbeat/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYAWCi?li=BBSVbAt
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: The Guardian on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.32159D05BE0C3BBDA1495EFBD3AE1C0C
+  - url: https://www.bing.com/th?id=ON.A18FCBEBA92D7FF94BCC4B806019866B
     width: 700
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "ralq6R8D5qYSmOZvJmRC6dogUoFsJdS0fAN+3Zh98AzRrgY0FHJfmh5qNinH5cnxqPPk3w48dZTZ7lWfFJu9QEPh7BzHpqN7sQAH5fQZNvQ5UGf8vGL5qpAAy4RqttoYHwX9UsgD7dEfkekTJIJsYcz30kj/bMKoGJ/O0YzyVVTnzLR7ZJOh2KvscJIdChfJSLLXC3AjtWekxqKJusDAWOmD/IRhBSc6VjY1m4qNVL4rMG5zOBJZDtqGmFmOdf6ni3oPYjWCClFxepvMfKWHSg==;wpZJTBRknmB2qMqiJRQwXw=="
+secured: "gYK6FYofiu0UGRKGt2dHy9CeeXzTe741knVxnK5DIv8jBk/sHhWt1vvKt+3BmFbBe7zw+6/o/uAbGfaoy1GVDE+G9H5Oxm/HIGaPYJ4g1aqj3iACznsy1MIXP+z4d3ycOzOnqC4mUDQX6TcvEYQtHjU3s4Lm/OjkhsUfQpa8lY4lvkRLfm1XuR3a1oWDc0tgbmLfCN8tDW+BRgygHzceXI7XQt6lY4SU6qfYbAe5E6BFL7iduLhy4ZwwU3o+OkoDlXm1UZBflvlK6bNCJCbavQ==;L5tYyZNiwDXWge8k2A0YFA=="
 ---
 

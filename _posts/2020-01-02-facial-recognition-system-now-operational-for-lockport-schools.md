@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
         width: 700
         height: 393
+  - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
+    excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
+    publishedDateTime: 2020-01-03T16:49:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/facial-recognition-gun-detection-system-implemented-in-lockport-schools-despite-controversy
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
+        width: 640
+        height: 260
   - title: "JB school using facial scanner for attendance"
     excerpt: "JOHOR BARU: SK Taman Perling here has taken a different approach in recording the attendance of its pupils, teachers and staff by using a facial recognition system. Headmaster Zamri Abd Wahab said the use of the system, introduced this year, was to smoothen the school’s daily operations. “We are always open to the use of the latest ..."
     publishedDateTime: 2020-01-02T08:59:00Z

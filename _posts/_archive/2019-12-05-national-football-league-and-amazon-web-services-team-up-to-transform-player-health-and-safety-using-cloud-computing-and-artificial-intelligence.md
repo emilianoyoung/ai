@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
     publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -65,18 +65,7 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
 
-secured: "annvMCj/wprnJZ3K8OhX+utcLX+foLWyf/2CXY14fqV1YEkMWiI+dcPKSRPa0tBavlZoFW4U93hnBIVNX6MLSyamUP6+9izi/gUGM+bRmbbDq0PjrAcx+PTzWGulmp7pD5jblXm6xpuA5oZ7T6awhvyOdEqJIt9iqudDsI7Yqc5xX3aWXYOIsWEjaU/hK1n6l2ueXDVbWnXHHvuRCLDjate5RVxV+YY7wovPtjDjlcAaCnWyQ9lBX8Wq6Do4PVU1fEyLjvDr3YQml+W3SmrdVw==;DZ+0V7WRGic2yUV7fAdXAw=="
+secured: "0tkE2jSGYXSGKiN6CItJqnioNZih9FZqsrlg31H0rsRryKHHe1U8bzETKwADIA0kqGKv48o2Erh6lFkz8wYs24PhB3br2B6aoQuhQkuboUbuURS97y55juy/hPihesHtvto1PrJEqDhqiqBggGou8JL3Z2un42vMBAqSmBGdutKK6dbMwASBqmVL5p8pjgF8ff3RPpUyFbdOQhOLIffYlXE5yy1mS6kLFJJgDaHDMGwTk+1L4nTzAuuopI/VyQFDs3eh3x4cWN03msu4+hs2mw==;61qqmuv9pmywVikGQTO7hg=="
 ---
 

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Intel Graphics Chief Raja Koduri Teases Xe 'High Performance' Discrete GPU"
-excerpt: "it's first base GPU architecture that takes aim at the high performance computing (HPC) and artificial intelligence (AI) markets. It’s all Xe HP - the team here in @intel Bangalore celebrated ..."
+excerpt: "HP presumably stands for \"high performance\" (and not \"Hewlett Packard\"). This is in line with Intel recently sharing some details about Ponte Vecchio, it's first base GPU architecture that takes aim at the high performance computing (HPC) and artificial intelligence (AI) markets. It’s all Xe HP - the team here in @intel Bangalore celebrated ..."
 publishedDateTime: 2019-12-05T15:24:00Z
 sourceUrl: https://hothardware.com/news/intel-raja-koduri-teases-xe-high-performance-discrete-gpu
 ampUrl: https://amp.hothardware.com/news/intel-raja-koduri-teases-xe-high-performance-discrete-gpu
@@ -25,6 +25,6 @@ images:
     height: 395
     title: "Intel Graphics Chief Raja Koduri Teases Xe 'High Performance' Discrete GPU"
 
-secured: "TMo/InoD/2d7vyKaf4P7a4NgyW3a4CGnmEoYT6WoIEvYkSX5XX9b13lJR59OKCqmFxL3tXPN3CB26YJsXh/o51/18CmBQUGtXuxUHoFgKzrSgCkjIiUgWGCwKPpfoemB7nbmUzDhvKDz9vzha6KGNGcl5rsUheUKTqEISEDeC7kmfU3Ctal4QeYZFNLXrCu55iRmqpFVuPGn8DYwWq+zb86LXl9ug8q+A7y9EWl/5ni9RUqDJrWmZPEHNePWO+7IEleCzkaI99id1cDBT3tGQA==;z9pWJpNnNz/E7+i5E+MLuQ=="
+secured: "vVMEGdo1u/oBfdX29LoXnt3J8l9Sk6RXlMwr9cRcgmtj0EQFByVmkw/WPEpZJ+HUc9JjiD6E9+wnlVxNmhPXAEEPtL+ZitYkTBkv3tgXbIq2YSAiAfKB3rDITHLI8P1Ow6IcEph302sR7SVZUrsHrTLLVYjGaw6qGTT8cjigePeC43+FRXPJWEOb0/Inzz+sW8dswtziyWYKYsnU+3iNVN0H9lmTDGOloOmxZwdxiOWc/H8+epakcCCdv8NMdOpsAHCS3UOvCWpTqy9QKDMNNg==;iABX/Bqos7plYPAlFAmQrA=="
 ---
 
