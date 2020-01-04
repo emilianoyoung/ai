@@ -1,34 +1,44 @@
 ---
 category: news
-title: "From ray tracing to AI: best gaming technology advances in the last decade"
-excerpt: "Artificial Intelligence (or AI) is another technology which has been driven forward massively over the past ten years. And while a lot of that progress might involve endless mentions of phrases like ‘machine learning’, ‘training models’ and ‘inferencing’, which may well threaten to send you into a deep (learning) sleep, AI applies ..."
-publishedDateTime: 2019-12-29T18:00:00Z
-sourceUrl: https://www.techradar.com/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+title: "Technology: The next decade"
+excerpt: "Machine learning AI (Artificial Intelligence) Shows like Black Mirror depict AI as something to be feared ... Advancement in machine learning AI is starting to make a big impact in systems like Google-owned Waymo's autonomous service. Imagine if you had the ability to tap into the memory of anyone who ever had an accident and instantly learn ..."
+publishedDateTime: 2020-01-04T08:42:00Z
+sourceUrl: https://www.heraldscotland.com/life_style/18137473.technology-next-decade/
 type: article
-quality: 85
-heat: 185
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: /assets/images/organizations/techradar.com-50x50.jpg
-      width: 50
-      height: 50
+  name: heraldscotland.com
+  domain: heraldscotland.com
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.FC682CF853436E113D7CC9288596031F
-    width: 700
-    height: 393
-    title: "From ray tracing to AI: best gaming technology advances in the last decade"
+  - url: https://www.heraldscotland.com/resources/images/10863167/
+    width: 2400
+    height: 1600
+    title: "Technology: The next decade"
 
 related:
+  - title: "From ray tracing to AI: best gaming technology advances in the last decade"
+    excerpt: "Artificial Intelligence (or AI) is another technology which has been driven forward massively over the past ten years. And while a lot of that progress might involve endless mentions of phrases like ‘machine learning’, ‘training models’ and ‘inferencing’, which may well threaten to send you into a deep (learning) sleep, AI applies ..."
+    publishedDateTime: 2019-12-29T18:00:00Z
+    sourceUrl: https://www.techradar.com/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    ampUrl: https://www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/from-ray-tracing-to-ai-best-gaming-technology-advances-in-the-last-decade
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.FC682CF853436E113D7CC9288596031F
+        width: 700
+        height: 393
   - title: "How AI came to rule our lives over the last decade"
     excerpt: "Increasingly, companies like Apple and Google are trying to run AI directly on handsets (with chips specifically meant to help with AI-driven capabilities), so activities like speech recognition can be performed on the phone rather than on a remote computer — the kind of thing that can make it even faster to do things like translate words ..."
     publishedDateTime: 2019-12-30T02:57:00Z
@@ -137,19 +147,6 @@ related:
       - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
         width: 700
         height: 367
-  - title: "Technology: The next decade"
-    excerpt: "Machine learning AI (Artificial Intelligence) Shows like Black Mirror depict AI as something to be feared ... Advancement in machine learning AI is starting to make a big impact in systems like Google-owned Waymo's autonomous service. Imagine if you had the ability to tap into the memory of anyone who ever had an accident and instantly learn ..."
-    publishedDateTime: 2020-01-04T08:42:00Z
-    sourceUrl: https://www.heraldscotland.com/life_style/18137473.technology-next-decade/
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 24
-    images:
-      - url: https://www.heraldscotland.com/resources/images/10863167/
-        width: 2400
-        height: 1600
   - title: "The man leading the self-driving technology charge"
     excerpt: "A British autonomous vehicle maker is already doing very well for itself, but you probably haven’t heard of it. We pay a visit"
     publishedDateTime: 2020-01-04T06:02:44Z
@@ -164,6 +161,6 @@ related:
         width: 700
         height: 367
 
-secured: "AOiHiMYevCI9tyOv4kzvOTAw8Gq/E02Hem/YrBSN3ceK8NA4Ms8/wHCCMfM+OChclxwAtepHMV1vB8L2fbDpkLlBrsRfyZXsLQdI+NB8xj9H7dgjekTkjEu9CfuT1Xhda4gPf0kvv6+eAiUJk7Wgr4IumFsx/CyF/C1WJbAOOOGSmXppdKnXm5RYQ5LJTCPSTCS9HXNtq6ethTPKiC/OxX6zpdmRshw91IrjNaD0BC6prMFAJ6p6TavCjFPcuovG9ao3pytN6mDM0XwSii6Tdw==;dCxFp2wk6RT1+tHqaj7dkw=="
+secured: "X2lcpvxeJpNJcmznPVdfFIcFLWyf2x07eoPBImxWmTuCxZ6jAY2bu0RbotVllHTddCDX8pPR5ByWtxch7Y9770ZqytpLvy3y23+sru50SFh22939M6AtkFd37JLdjX3psmgPcHGOwuIk/Zf48dhASR7nTYPrc1ZZC0+fHt336/JOhR7jsDMPXuQ7sUrxgAx1PtoywH4YaJtdXzADRx9tKWF1ZxZzdikyQtOFM0JsIxhL1QCgoK9ZOA2QMkI/Wqgb2EudHdO1LNjnHsSMJ9kt7g==;l+hEuN97Ze+v1vU73dKlFw=="
 ---
 

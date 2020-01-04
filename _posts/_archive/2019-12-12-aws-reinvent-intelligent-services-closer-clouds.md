@@ -2,7 +2,7 @@
 category: news
 title: "AWS re:Invent: Intelligent services, closer clouds"
 excerpt: "AWS isn’t the first to offer quantum computing capabilities ... Like Soylent Green, the key part of the next service, Amazon Augmented Artificial Intelligence (A2I), is people. Machine learning models don’t always produce clear-cut answers to ..."
-publishedDateTime: 2019-12-12T02:40:00Z
+publishedDateTime: 2019-12-12T03:21:00Z
 sourceUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.html
 ampUrl: https://www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
 cdnAmpUrl: https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3489039/aws-reinvent-intelligent-services-closer-clouds.amp.html
@@ -34,6 +34,6 @@ related:
         width: 3787
         height: 2155
 
-secured: "ynvbMJsVOlRO1/V6Q5hSGB/g9S3C/DpDaBdR/jt2p7BzDcOAmXkeEe5zx9UHitZTrCDg0mLsnE4CWmDirIo4I8okAhaItWJ+4Dh82Xbnv3riM25XpWpF7CTU6k6Qeul79/tUk8PGQWcx/sdV7AhMOwNY9e1HzE+x8FVY+/31SpiN3n1AT+O4+fU1BsXK9UPqckbeKcsSOYkMLPCBiyBxyTA8Dgw/RiBdalE1q3stGZ3P2OmgCWob/cOFFc9dFO0PVIoyf0qrQNs8fHfjHb6KOw==;0pVykk98hX+J75lHeLVkXg=="
+secured: "K5CsWWBz+CnU+f0saBIh9r8l+hy5TSnQtZR7yhvpsbrMFjbCTLxeOsa7GHoDnJctwbOlYe65t2JzdiGjmH6yGjmwpJ4lTPrpQVADzbmm6WK/l+vyxNGn8SiQX5zM0+jMwTDcXjjwxDB/HBJtcKYehP00kL3D6rK/ghbek8DpENJbE95l8nfppcDZvGX7irjuUlzfnpMkPpltZw1dfO5U6LeW5tlw0+2wW9UBNb6shWc37pTq9skqtKGBQn8Ey5br35ZMlPdRijA2zb5KolpI6g==;DNHJbZfBaQ3McQXbtWO8lg=="
 ---
 

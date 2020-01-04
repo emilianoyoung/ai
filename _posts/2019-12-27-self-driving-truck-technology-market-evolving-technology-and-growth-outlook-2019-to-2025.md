@@ -138,6 +138,19 @@ related:
       - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
         width: 700
         height: 367
+  - title: "Technology: The next decade"
+    excerpt: "Machine learning AI (Artificial Intelligence) Shows like Black Mirror depict AI as something to be feared ... Advancement in machine learning AI is starting to make a big impact in systems like Google-owned Waymo's autonomous service. Imagine if you had the ability to tap into the memory of anyone who ever had an accident and instantly learn ..."
+    publishedDateTime: 2020-01-04T08:42:00Z
+    sourceUrl: https://www.heraldscotland.com/life_style/18137473.technology-next-decade/
+    type: article
+    provider:
+      name: heraldscotland.com
+      domain: heraldscotland.com
+    quality: 24
+    images:
+      - url: https://www.heraldscotland.com/resources/images/10863167/
+        width: 2400
+        height: 1600
   - title: "The man leading the self-driving technology charge"
     excerpt: "A British autonomous vehicle maker is already doing very well for itself, but you probably haven’t heard of it. We pay a visit"
     publishedDateTime: 2020-01-04T06:02:44Z

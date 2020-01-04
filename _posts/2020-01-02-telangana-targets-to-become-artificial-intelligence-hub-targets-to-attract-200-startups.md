@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D2369BBAAC7B18090643359360946AE8
         width: 700
         height: 392
+  - title: "IIT Hyderabad to collaborate with Telangana government on artificial intelligence"
+    excerpt: "IIT Hyderabad and Telangana government will also work on education and training to prepare and deliver content and curriculum on AI courses to be delivered to college students along with industry participants. Get real-time alerts and all the news on your ..."
+    publishedDateTime: 2020-01-04T08:58:00Z
+    sourceUrl: https://www.indiatoday.in/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
+    ampUrl: https://www.indiatoday.in/amp/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
+    cdnAmpUrl: https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.EE497C798252F61E55E4AFEFF7E757BF
+        width: 647
+        height: 363
 
 secured: "zG90Amw32cT0BpMC6GNTPVCXOJf0EdIpqKIVMRSKX3y0e4LluA9cd7qLgiS1VrN/vzLIMjOnwL8MUoGqRSyXeJk6hzcFM4NNBmSbn2g1bEsT1BOpZHjuCACMPOH0k+dJ/banwnCEm8hzJiW8+eSJ6RIJk9ejedy0nRgaiVDAzMU9cofCS2k11qJoW7TuOnHDSebLPCHGQYK52HIjOOI3+pN4iF8Lf0BD8qVC39I0SAd8Rx9Ey9c4PZs1jEcrUQcJALjT3vTV3mQ4aXWMXpQsvg==;ZJVg4/dESi8AolhwEXGUpA=="
 ---
