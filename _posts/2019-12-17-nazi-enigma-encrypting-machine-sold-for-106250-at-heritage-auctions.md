@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T16:49:00Z
 sourceUrl: https://www.finebooksmagazine.com/news/nazi-enigma-encrypting-machine-sold-106250-heritage-auctions
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 480
     height: 750
     title: "Nazi Enigma Encrypting Machine Sold for $106,250 at Heritage Auctions"
-
-related:
-  - title: "Nazi Enigma encryption machine sells for $106,250 at auction"
-    excerpt: "A rare Enigma encryption machine used by the Nazis to communicate without interception and translation by opposing nations fetched $106,250 at auction Saturday. The buyer’s identity was not immediately revealed. The seller, who wishes to remain anonymous because of “security concerns,” is a lifelong collector of Americana and World War II ..."
-    publishedDateTime: 2019-12-15T12:45:00Z
-    sourceUrl: https://www.vanguardngr.com/2019/12/nazi-enigma-encryption-machine-sells-for-106250-at-auction/
-    ampUrl: https://www.vanguardngr.com/2019/12/nazi-enigma-encryption-machine-sells-for-106250-at-auction/amp/
-    cdnAmpUrl: https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2019/12/nazi-enigma-encryption-machine-sells-for-106250-at-auction/amp/
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.91610043CF3DAC4C41158A3E5FA96A5D
-        width: 700
-        height: 466
-  - title: "From Translation Service to Globalization Consultancy: Transforming Localization at LogMeIn"
-    excerpt: "“Good thing we had started to automate processes early on,” von Berg said. Von Berg singled out SEO localization and machine translation as current focus areas. About SEO localization, he said, “We looked into the industry and we couldn’t identify a really good solution. So we are starting to build our own,” he said. Von Berg said ..."
-    publishedDateTime: 2019-12-16T07:08:00Z
-    sourceUrl: https://slator.com/slatorcon/from-translation-service-to-globalization-consultancy-transforming-localization-at-logmein/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 14
-    images:
-      - url: https://www.bing.com/th?id=ON.B00D97B36239F082553931A819CF487A
-        width: 700
-        height: 466
 
 secured: "NEOq07srwR635K0u6N9HORUb4yHcxP4qW323SvseBxxn+PzGsR90EPvN0f1LfXhtalBHzKpvzsezP2WOLDA7ne8nuq0nDF4pKdNVqODPn5OWsgP4vNxIRdsIRLzTJBtGqw1WSxHRPSvxfC+3yMbGKVg4ZZquKWApGCNLHVqnxP6OktVOCd0n0MatZBnlBPe0aTA7T8DoRBSNFWiWEg/7NHxuooEY3cceha/Uw0WduKMBWd66ZHK7p3tpdyEKTrZLofoy+sLSx66ePAykcqJzEg==;lGqDpDoR7RfRMczqql/y6w=="
 ---

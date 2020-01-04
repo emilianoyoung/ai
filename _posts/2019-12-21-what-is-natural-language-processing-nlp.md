@@ -1,11 +1,11 @@
 ---
 category: news
 title: "What is Natural Language Processing (NLP)?"
-excerpt: "Passing a middle-school exam might sound mundane, but it's complicated for computers. Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ..."
-publishedDateTime: 2019-12-21T12:33:00Z
-sourceUrl: https://uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp
-ampUrl: https://uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp?amp=1
-cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp?amp=1
+excerpt: "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ..."
+publishedDateTime: 2019-12-21T12:08:00Z
+sourceUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp
+ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
+cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
 type: article
 quality: 89
 heat: 109
@@ -24,9 +24,9 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.1AEACDFD1183AD6DAA5BAA0CAF2BE219
-    width: 700
-    height: 393
+  - url: https://assets.pcmag.com/media/images/681757-what-is-natural-language-processing-nlp.jpg?thumb=y&amp;width=1280&amp;height=720
+    width: 1280
+    height: 720
     title: "What is Natural Language Processing (NLP)?"
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "exx1UByAKBJULw7/eHYr4rUgWxds1WOa9/JCPVPmH0yiow8Y8BkC4noEdgk/gzCeZrCuDVJqTImurn4W53lD4VLqva8HpXjFIJOM7Dxtafyf+XdnfUvQ9/GfWNCOJkfP+IXfCULVHMYJ1gkNIURtKWafSZjFqaFosra5QgZJl61WWI9SDR96cQB7ViGhDJ0PfmwfVFKQ8OGj5PNkqjMP+EucI0gh/Gv4LZUwHYmE1JcPHPXDrys20RbOyXNUuoCTlIml6UFuFv0WlSVk3ABsxg==;NMZyzxytyPb0W+mkF2+jbA=="
+secured: "7GlIR0MBXrX6ce8UNzkSNtXzZwWeJqWZi83hRxcrD+Ev0sOyKfQfFQ2QjZE5FQYmp7L0cXdXtHVdtJphMeDAGGGSOImdUcHmI1TlcIV4k5n8DXzjNcTT5c2cGKI1oUcn7VuchfPiFcpfkW3PbCRQAkEGaa86CGLU6g2Y3z1I3t2WXAV+TBbKFIKOrdPCy8fPJxFifvzifTfT6ZbrjuaRfu7ZuuD4R2uvXCt5t9pBx66MoSMZQnPN7aoA4QNsw42Wpxt1FlgVQK6viwdY9OqDdQ==;NDan6umreilY1EcfbYNH2A=="
 ---
 

@@ -2,26 +2,20 @@
 category: news
 title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
-publishedDateTime: 2020-01-03T11:18:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zephyrtel-to-reinvent-its-telco-software-solutions-suite-leveraging-amazon/article_6d18ef30-8911-5bbd-a128-3e41415270d8.html
+publishedDateTime: 2020-01-03T12:27:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-zephyrtel-reinvent-its-telco-software-solutions-suite-leveraging-/2020/01/03/9075699.htm
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
-    title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 
 related:
   - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
@@ -51,6 +45,6 @@ related:
         width: 700
         height: 457
 
-secured: "8nBGJyex4ZBSQ2cLkVSe+LwFur7nS61YSziHVE7FhOEOdhTu/UUrkhzQSYxDnsNFdQgHNndcpM9fTIKhWbDh28CEdORrDWqqnCy4nxTmEtBDwJp6p+m3zBVgO3bALM7eHXx7tWgXKE8QwJBCjiiPFdFOC1KOQDoKih0YPi2Jbn3NydYU37vFSdLSNXa2vNQmE7pZdYgqHC4ZJ9YflN2Sm2/Uk6Pgca9iJm+lmrleR6pJUZ/bFVYmADZFeOyrH9FQhuRwvCoJfpfxPNd9r5wWbw==;b/Ygzs2ix6lqQXn8PKb3bA=="
+secured: "pWHZyHVe/BjB89e7oct/gtKicG3/WoketKYLDytRoMbtk185ipKNRlkPq9I0u47DnF5Tnv/5EMHRIAqNQ5vgpx/x5m3609glkSjzLGIv43wdIzREregQc7TA0QCMKrNe3TwiTL47mIWjwK9/t6NY+RtdD4mg4jAUxlgm/WJ7+ReK7Gj3BB5PllvGNMIqwn4TB5dURstVwpaCdZT5eoZWVfkrVs7q8y6M2H2k27H7L+AOKon3KUz7PHIbo6i1bTuuvk3A+Hq5Sz3FG/AHeDgboA==;SLQJATkHU0FU3NFWSn1CCA=="
 ---
 
