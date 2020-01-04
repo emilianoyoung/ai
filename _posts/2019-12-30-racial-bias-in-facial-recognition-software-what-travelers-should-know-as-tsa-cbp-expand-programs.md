@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-publishedDateTime: 2019-12-30T12:54:56Z
-sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
+excerpt: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs Researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. Check out this story on Freep.com: https://www.usatoday.com/story/travel/news/2019/12/30/facial ..."
+publishedDateTime: 2019-12-30T22:51:00Z
+sourceUrl: https://www.freep.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+ampUrl: https://amp.freep.com/amp/2755613001
+cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2755613001
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: USA Today on MSN.com
-  domain: msn.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-    width: 568
-    height: 320
+  - url: https://www.bing.com/th?id=ON.DDA879B6C96970D61251CA58AB3B6738
+    width: 700
+    height: 394
     title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
 
 related:
@@ -318,6 +320,21 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "FaceMe Facial Recognition To Be Used With IMedtac’s Meds Dispensing Cabinet"
+    excerpt: "Now that the world has welcomed a new decade, artificial intelligence and facial recognition still continue to be at the forefront of all the latest innovations among tech companies. iMedtac is a company that offers high-tech patient-oriented solutions. Among its products is the smart medicine cabinet that requires at least two pharmacists to ..."
+    publishedDateTime: 2020-01-04T04:06:00Z
+    sourceUrl: https://www.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    ampUrl: https://amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    cdnAmpUrl: https://amps-i4u-com.cdn.ampproject.org/c/s/amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
+        width: 650
+        height: 370
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z
@@ -715,7 +732,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
     type: article
     provider:
       name: Fast Company
@@ -947,6 +964,6 @@ related:
         width: 336
         height: 254
 
-secured: "MH5LK/dt97i6tTMDsWUtgopLUwEZKf8MMI0qk8Afr3Jsi70mF2y3Qk8vTKxf8EExaAJBjSaspG7uegU4m6WoqkG/DLUCFqeZ5YlwZoWdWyaAH9pDh51yaBLwEXpOoeYM4zSnAlRILE7Zu6f1TIu/DGcesnNdn3Qa0gVNGgkmuvKWvxPk4fqxcnE1+RCdZBdx4k2KdwANcj8qiSLCeWF7ea8l4v4Fmutv/sFmKwt1SNWar9rbLPf3SiY8FtymHsKWkQqTo6q3PvhUzNpBpmFeaQ==;JKrjxpF7ARQZKZ6TIHu/3A=="
+secured: "4mHouh+TZyVeg6C3iLZNVH+KowAn4l3UnJUd/8HgCjRFeACsifgqiiaeIuD+meRaIuhFsqSWX6nIVsFearQXsugSiM3u+bPLceKbWTEW8aC37bt0RwW9UGLylRwvUZL6rDx0p8nCm51n368gykmcz5+RG0rkdNHBy67UMfyQ/Rrt6Bi/LJf4BAxz7AsJ+IKBm+UjtGdMUmCkvT8RjiLvp4tIBwBv9CxXbkVUUDBGC3b8hd3GgF64mrcZelpRZToLVGH1THnRCjhEV8h3dBXP3w==;bkeHNn060OoIWctG4S49KA=="
 ---
 

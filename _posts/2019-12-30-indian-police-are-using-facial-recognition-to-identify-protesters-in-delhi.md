@@ -3,7 +3,7 @@ category: news
 title: "Indian police are using facial recognition to identify protesters in Delhi"
 excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
 publishedDateTime: 2019-12-30T21:20:00Z
-sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
 type: article
 quality: 37
 heat: -1
@@ -318,6 +318,21 @@ related:
       - url: https://www.bing.com/th?id=ON.343C3C3F9C7E1E275BF996C307B94393
         width: 700
         height: 455
+  - title: "FaceMe Facial Recognition To Be Used With IMedtac’s Meds Dispensing Cabinet"
+    excerpt: "Now that the world has welcomed a new decade, artificial intelligence and facial recognition still continue to be at the forefront of all the latest innovations among tech companies. iMedtac is a company that offers high-tech patient-oriented solutions. Among its products is the smart medicine cabinet that requires at least two pharmacists to ..."
+    publishedDateTime: 2020-01-04T04:06:00Z
+    sourceUrl: https://www.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    ampUrl: https://amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    cdnAmpUrl: https://amps-i4u-com.cdn.ampproject.org/c/s/amps.i4u.com/2020/01/132830/faceme-facial-recognition-be-used-imedtac-s-meds-dispensing-cabinet
+    type: article
+    provider:
+      name: i4u.com
+      domain: i4u.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
+        width: 650
+        height: 370
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z
@@ -391,6 +406,21 @@ related:
       - url: https://www.bing.com/th?id=ON.75C0777E12F9677D29527DE2CE2D8190
         width: 700
         height: 393
+  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
+    excerpt: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs Researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. Check out this story on Freep.com: https://www.usatoday.com/story/travel/news/2019/12/30/facial ..."
+    publishedDateTime: 2019-12-30T22:51:00Z
+    sourceUrl: https://www.freep.com/story/travel/news/2019/12/30/facial-recognition-racial-bias-traveler-info-tsa-cbp-expand-use/2755613001/
+    ampUrl: https://amp.freep.com/amp/2755613001
+    cdnAmpUrl: https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/2755613001
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.DDA879B6C96970D61251CA58AB3B6738
+        width: 700
+        height: 394
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z
@@ -859,19 +889,6 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
-  - title: "Racial bias in facial recognition software: What travelers should know as TSA, CBP expand programs"
-    excerpt: "Federal government researchers found evidence of bias against minorities in facial recognition software as its use is set to expand at airport security checkpoints. The Transportation Security Administration and U.S. Customs and Border Protection have been testing facial recognition technology at airports across the county ..."
-    publishedDateTime: 2019-12-30T12:54:56Z
-    sourceUrl: https://www.msn.com/en-us/travel/news/racial-bias-in-facial-recognition-software-what-travelers-should-know-as-tsa-cbp-expand-programs/ar-BBYsoYs
-    type: article
-    provider:
-      name: USA Today on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D4DF58131F751C12F97036247BA57BB
-        width: 568
-        height: 320
   - title: "Federal study finds racial bias of many facial-recognition systems"
     excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
     publishedDateTime: 2019-12-24T16:06:00Z
@@ -947,6 +964,6 @@ related:
         width: 336
         height: 254
 
-secured: "/2kJSJkQEI0k28HcZUt3MxfRW2d6/3LJbz5q19ekGUOXvgjYT/jr0HKMF9ra92M3SLiNYyMnT12GvGeCn7AvZjZQNSOyNth+ltrEoBE2K6oQAgpXgZ0c/cmWcSMuATvCPEvGJ+d7BqZ+EazQ8AidrXIzO9yMcZolJUNUWL+3YC2ByriueD8L2UE4vpS+pbBNXrAZI/0Oru3XYjnUDGDqYFhh8h1MWKbHlsIjXdwKzI1wB+vtKvTLqTUOgx+F1wS3r2/DiI1tRlncmK0bkApzRA==;inrTBmVtcw3RgEY0rHt1mA=="
+secured: "nnSwWOhMYgqLrFzPIAlN3H9WIWm+MuRa6VQljt8LRMvHDDn2gf73qzWQ/bR9x2U9lf4fdHiqtw9t1po7+XRMEm6AlxHJVgllVHNkPyiB6TqiJ0+SPrq3Dppjc5qflIaOe12G2jK5kh7pib0t8ktPSRz+PiYcHiQmvAqmbr/yrHIdP83yCoEvrDkk/sVFWLlMXEEnrqQm1+rAdRf9TMI8Nn2ckLeI2wA6hU0w/4kn40WeDvA+U7JtpZ0JSGiJockeVaUhI2UuOvDo/l44PPiqQw==;kCg6MrG2+zHJ5kKgAg4ZaA=="
 ---
 

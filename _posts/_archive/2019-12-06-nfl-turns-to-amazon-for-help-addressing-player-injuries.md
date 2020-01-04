@@ -36,6 +36,6 @@ related:
       domain: digitaltrends.com
     quality: 54
 
-secured: "Z22ghPsLE9FVrg+otTO4rLc1cOXQe+Nwvm9Ux3YARveQbF0QBPfDJoaNKG69S4a0hAV77r04D1mc3E9NjkSmX3M7al1FnTjRuHdLkbC3jL+aWoDOWuQEHR6giaFXyiRQ+rL25jSMZT9wRdJLh7WjbhPpwNDPiB/I1LnprEsYqXz/ro4HwBvMKOVOf0NKzUFBbUL/VhOIPcfZg2buPfykySJQSOWxUItT61MR2EN5+XNjjgpwSmiAdrnrctR0U/JVjSh1eI3v3VOPv9hjiRo0gw==;5IDi9q+pyRq71XjbB2gebA=="
+secured: "b19W952h6TNzEsjItp19Wpj1/d8mYH288SBl+lq1HvysTmLsACuSpmI0bP4cDkCGcuqY++lj5lJRtHifcvLvYPQsHAKH+u+6plBma5uEXyBR37EhBbWdzihnQElOAgenUf2hP77/UlKUwabm3IRVLehnkRrpUQh4AxoPkZvvOA3YSiuw3//jhtoMBk3+k7rIGOnXwVGINaLin+Ao5WooFEpejS9iDFZnETuDIAzDIK0YRHWB7Q+OI6L8GwLOsiGXPOs+1ac4YROxkAMnp3bjvA==;ygpDy6SBN2ai7XcXnGmIaQ=="
 ---
 
