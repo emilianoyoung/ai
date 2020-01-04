@@ -43,20 +43,20 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
 
-secured: "jKdQH7udbqvZnUI5KueO4IoVcg4R+1JQsuvxrgnGXCnc1IiZ01c8dV8CPtnTdckFM9eYniJxEV5p9s7ucVbAR3Z2tM+lTvmdiQllSR54J8qNnu9+V7gW241Lsamv5/OxjFwk1JfMzpzzIwWnQZxs1EFTrVaHuu0puY923RY7oNuvVsAQ/HrzCeoujNdoujjlgyIdZC7VMM4uN18q9w06fsVz8CN9ecuSRhi3FAomp5aRVAOJAUT9XQWwkbizoi4/oE7f4Wp+5sFpMqTS7jk8Jw==;RUcJVrPyQseIBp61ozLrPQ=="
+secured: "g2SqViBVHOk6E1elVDamVgRFbFSB18wxzsjT1sebV2gg+JKez9oQGT/+UeZY/1CBJPXWqSwKFEZ4lkVRqUPZM6aapDw+QbR+9AN0Jf+tbMjhmBLToA5T7eoFhme1PS/PntmF4wTr2o4VXfPno1i/RMuMdag08GytLzX3PemNs1YSVenqu0f3RcUPkQx1aAWjXs6XG4Z2jSMno5B0gBJHLuTFhk+vOZu7E/Dib/PKsA1qc/uzT1pu+UBPSppMDwKeZgSlq3TL0eJ4ELLi605VdQ==;tAp7KJy3PKyx4/BpaiIl/w=="
 ---
 

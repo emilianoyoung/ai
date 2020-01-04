@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,41 +23,6 @@ images:
     height: 512
     title: "Amazon Partners National Football League For Player Health, Safety"
 
-related:
-  - title: "NFL and AWS using data to improve player health"
-    excerpt: "Amazon Web Services (AWS) and the National Football League (NFL) have teamed up in a bid to advance player health and safety, combining the NFL's data with the former's capabilities in cloud and specifically artificial intelligence (AI) and machine ..."
-    publishedDateTime: 2019-12-05T21:13:00Z
-    sourceUrl: https://www.zdnet.com/article/nfl-and-aws-using-data-to-improve-player-health/
-    ampUrl: https://www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
-    publishedDateTime: 2019-12-05T22:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-    type: article
-    provider:
-      name: digitaltrends.com
-      domain: digitaltrends.com
-    quality: 54
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-
-secured: "1q6EroqGDRdWToLhB4mIWOvG/qgXcHb+ZtTpY/ZiyOxwikezlYrJKoyoEpcElnoAFEtE8/Jg9SOcS/1p3P2PUu/UXzmS6Gdq9dHzpBWImr4OfIKPTa+V3WsvDke1NUc5fSB4poWHAq1DMS7BVlFPwXCId1sMdVtaGRVGZGsO9iL3andtK5kCXevBpnqtVNpS18oS3BZXlJLlD2E7k1OxGuYcInxAa96R43r8M66xNagxKIE+ioUI7gq/0KK9NdgwaIYVhjF4SaBaiwElmUPfxw==;1SyUgtE3TlWpKaMBVypTdg=="
+secured: "zg+Gm3PeEzmBpY7ULeqnWMHvSKoXdzU5moBpccVEXOB5t9KqVjhO0sb+Zf8B6qGMnd36ksN+zczzcZi0JukjVGOJmT/PJ77feYCCGEAk0tyrURhoBwQwnBQHA6w5ekVUUurhDIwnDv1ZWSAMsN9xjBYU/J1VrVvTaxA9r2UxH8OEDS2/3HL+YThtrdyEwCpbSaOnSgOPXRIjr7kSZXGiLHAhSB/9wJCncGw37lCFYcUrAQgHZfS68wEXMAF5lKf9canEzvEhXkwg9i0eDYe6WQ==;3NTsyUV6bWehvrHkupiRRw=="
 ---
 
