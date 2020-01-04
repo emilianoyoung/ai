@@ -24,6 +24,17 @@ topics:
   - AWS AI
 
 related:
+  - title: "NFL and AWS using data to improve player health"
+    excerpt: "Amazon Web Services (AWS) and the National Football League (NFL) have teamed up in a bid to advance player health and safety, combining the NFL's data with the former's capabilities in cloud and specifically artificial intelligence (AI) and machine ..."
+    publishedDateTime: 2019-12-05T21:13:00Z
+    sourceUrl: https://www.zdnet.com/article/nfl-and-aws-using-data-to-improve-player-health/
+    ampUrl: https://www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "Amazon and the NFL plan virtual games to understand real injuries"
     excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
     publishedDateTime: 2019-12-05T22:16:00Z
@@ -35,7 +46,20 @@ related:
       name: digitaltrends.com
       domain: digitaltrends.com
     quality: 54
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
+    publishedDateTime: 2019-12-06T15:41:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
 
-secured: "M5U6Km6NBCFv2eyU1ca/BRQWYAG0l0D7fBWOWMlwm9c31DXVOnT1NleIDqhyghGhxT23oWRseBhao4rhBidwPnECsmZ2zBrqhkmlCWP+wmdRtPaCwin4Pq9BKHM1MTE3A0Z6DkPOzR7mTsocrngLYIVkARoE+8qc8jvrTsDO9bClA91KPGC1YnWWAQ4YouYKQVNDi/WPW8Bf8oXvvbYK8qFzVtDLj2DOdVEinJCCTK3WIQgvaB5Kva+LtqB8t8+b3cOVD73vMZY93He4IWm8QA==;HkvSkfkzYVdeZZ6MFDBc3Q=="
+secured: "fhADEuViOwShZxdSvVwWgcbBXzNary3aKXQQ7G03t9p+DPmJKnxUmcZVp7sxZE2SWTt3/NxFrx8/g02Kaq+WO6Wtsszi/9VrRiKcFIXNKn2rey5HXew2iTzEzBKqK5l/gTqDPCCxvSmV4ns+L1tQ2aHPV4DbHKZ0RN8whAqAoG+QKLVsaOZ55kPd4IBxcawOsSvFK2qjekA5+EWbNNQLyQCMaWZrvJCmSq0/v0qUhj5S45gh8POY417sl62J6Sa4VVSr42fWtpXJaZOnj0Qh0A==;OB9h9y0MjT1F4d8l+u1yvw=="
 ---
 

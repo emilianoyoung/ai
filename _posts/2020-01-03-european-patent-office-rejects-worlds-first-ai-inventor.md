@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-o
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/01/03/european-patent-office-rejects-worlds-first-ai-inventor/amp/
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F654D1AA94D23C7518C9E4826E5CC38E
         width: 700
         height: 525
+  - title: "Challenge to recognise world's first AI inventor heads for High Court battle"
+    excerpt: "The world's first AI inventor was rejected by authorities in the UK and EU. The team behind it is appealing both decisions."
+    publishedDateTime: 2020-01-04T09:34:00Z
+    sourceUrl: https://www.businessinsider.com/ai-inventor-legal-challenge-in-uk-and-europe-court-battle-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+    images:
+      - url: https://www.bing.com/th?id=ON.F9678792EB90DA65A4C057FB292C14A9
+        width: 700
+        height: 350
   - title: "The world's first AI inventor has been rejected by British and European patent authorities"
     excerpt: "The world's first AI inventor has been rejected by the UK patent office. It says there is a \"legitimate question\" over future applications."
     publishedDateTime: 2020-01-03T07:11:00Z

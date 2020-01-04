@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B543747CB917105C574FA5C3D658A02
         width: 700
         height: 420
-  - title: "IIT Hyderabad to collaborate with Telangana government on artificial intelligence"
-    excerpt: "IIT Hyderabad and Telangana government will also work on education and training to prepare and deliver content and curriculum on AI courses to be delivered to college students along with industry participants. Get real-time alerts and all the news on your ..."
-    publishedDateTime: 2020-01-04T08:58:00Z
-    sourceUrl: https://www.indiatoday.in/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
-    ampUrl: https://www.indiatoday.in/amp/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
-    cdnAmpUrl: https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence-1633913-2020-01-04
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.EE497C798252F61E55E4AFEFF7E757BF
-        width: 647
-        height: 363
   - title: "Telangana targets to become artificial intelligence hub; targets to attract 200 startups"
     excerpt: "The Tata Consultancy Services has announced that it will make investments in the AI domain in Hyderabad. This comes after it had announced 2020 as the Year of AII and its decision to make Hyderabad the hub for Artificial Intelligence (AI). At a meet organised to announce the Year of 2020, Telangana Information Technology Minister K T Rama Rao ..."
     publishedDateTime: 2020-01-02T10:02:00Z
@@ -70,6 +55,19 @@ related:
       - url: https://www.thehindubusinessline.com/opinion/editorial/hu9m17/article29946451.ece/ALTERNATES/LANDSCAPE_615/BL12THINKSTARTUP
         width: 615
         height: 384
+  - title: "IIT Hyderabad to collaborate with Telangana government on artificial intelligence"
+    excerpt: "IIT Hyderabad and Telangana government will also work on education and training to prepare and deliver content and curriculum on AI courses to be delivered to college students along with industry participants."
+    publishedDateTime: 2020-01-04T08:47:51Z
+    sourceUrl: https://www.msn.com/en-in/news/other/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence/ar-BBYByLf
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.D64513B76F9402A94FFE8EE2E5EC6262
+        width: 600
+        height: 315
 
 secured: "ziFlf0xdmMgEA/jm0KNygFy599YQZtNV3VeUW/smLTbDwhRm96ulFQtjlBKDFngDP1FROmYv0iyVnqUHmhrcVUp6ZAzBdMQeGStM4s+vKSXyXl8B0z9+hFDJA9YRmI3N7tn5l3vTBDfP4ZXKOSxf7A81e3pYHXRFmtXNjTi11aiCQlcttI29cnKfDdZa+8duJFERKOwBjhnjC7BTp/gtWLu1ni4/hKwJBCRAZ8KZ79sBTGZfPLoe9Nt+nkQYvmWY6Qm1EUKIgV8JqEv42BntJA==;PA66r6R6iyv38Ve8kx6Omw=="
 ---

@@ -715,19 +715,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Bill Would Constrain Some Police Use of Facial-Recognition Tools"
-    excerpt: "Police would need a warrant to use facial-recognition tools to track an individual for more than three days under a proposed law that would place the first federal limits on law enforcement’s use of the technology. The bill’s sponsors, Sen. Chris Coons, D-Delaware. and Mike Lee, R-Utah, say their Facial Recognition Technology Warrant Act ..."
-    publishedDateTime: 2019-12-15T08:34:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/bill-would-constrain-some-police-use-facial-recognition-tools/161736/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
-        width: 400
-        height: 400
   - title: "How China Is Using Facial Recognition Technology"
     excerpt: "Facial recognition technology became part of the fabric of life in China in 2019. Enabled by a vast network of cameras across the country, the government is using the technology for surveillance."
     publishedDateTime: 2019-12-16T20:24:00Z
@@ -1248,6 +1235,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "ycMzaiDQXZd2biVA9hdXLmy9DeWl0Sm9wxin/pWZo8+Nnx3/kxQuwj3UBj791ngZSb5WQVj9yMPGaXQ2I21Hfjen3ei8sG2UjforHeYlQHPCktarJZ/fMAaTfnj/ETM1DOwemz73339A4XNDDzGG8W6SYrZjXvJP8zDJ0hx1s2UOOzY8LXrosxixzTicoip2bo7/ds71tDSJ2GrlE6/OGqR/HxP2GtypSwPj8r8W3ZO96Kcm+zTgi+FPOnZOPaqn8WURDoFv/RNeVeCtmTnnAQ==;VoGDS4BK2p3dDm//TW99HA=="
+secured: "OWQ+TWkGlropOYaYVD5dLfB5dLgtPlhHJbID5Rzk3M3i7pJGYb0qWhAAcOO0u64d1yUT4AteTF0wLxBM3Ly5fyM4Sw97ryMOmHrD7lGyL5HOf76QzmYe2XLxjmxtcKwnKYdAqizKBBWMpM7Fac1hjYR+Zel4Eeosn0pi5vYjaeTpYlSDVpMiVVVlXmhqJ5uUhtkdRCrFQ67A9S9r1Y8lx1PqPP3rkb5eP6WBU1gnnsgz/b5uTNtTQ+tcGlrdQ84zWLNwGlewxHmAdN62OZUQ0A==;wrIBSmjLF2qLtj1GRoC+RQ=="
 ---
 

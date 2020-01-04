@@ -1,11 +1,11 @@
 ---
 category: news
-title: "The world's first AI inventor has been rejected by British and European patent authorities"
-excerpt: "The world's first AI inventor has been rejected by the UK patent office. It says there is a \"legitimate question\" over future applications."
-publishedDateTime: 2020-01-03T07:11:00Z
-sourceUrl: https://www.businessinsider.com/first-robot-inventor-rejected-british-and-european-authorities
+title: "Challenge to recognise world's first AI inventor heads for High Court battle"
+excerpt: "The world's first AI inventor was rejected by authorities in the UK and EU. The team behind it is appealing both decisions."
+publishedDateTime: 2020-01-04T09:34:00Z
+sourceUrl: https://www.businessinsider.com/ai-inventor-legal-challenge-in-uk-and-europe-court-battle-2020-1
 type: article
-quality: 57
+quality: 64
 heat: -1
 published: false
 
@@ -21,10 +21,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B44BADAE4F11A7953AF0E27E94AA2946
+  - url: https://www.bing.com/th?id=ON.F9678792EB90DA65A4C057FB292C14A9
     width: 700
     height: 350
-    title: "The world's first AI inventor has been rejected by British and European patent authorities"
+    title: "Challenge to recognise world's first AI inventor heads for High Court battle"
 
 related:
   - title: "European Patent Office Rejects World’s First AI Inventor"
@@ -57,20 +57,20 @@ related:
       - url: https://www.bing.com/th?id=ON.F654D1AA94D23C7518C9E4826E5CC38E
         width: 700
         height: 525
-  - title: "Challenge to recognise world's first AI inventor heads for High Court battle"
-    excerpt: "The world's first AI inventor was rejected by authorities in the UK and EU. The team behind it is appealing both decisions."
-    publishedDateTime: 2020-01-04T09:34:00Z
-    sourceUrl: https://www.businessinsider.com/ai-inventor-legal-challenge-in-uk-and-europe-court-battle-2020-1
+  - title: "The world's first AI inventor has been rejected by British and European patent authorities"
+    excerpt: "The world's first AI inventor has been rejected by the UK patent office. It says there is a \"legitimate question\" over future applications."
+    publishedDateTime: 2020-01-03T07:11:00Z
+    sourceUrl: https://www.businessinsider.com/first-robot-inventor-rejected-british-and-european-authorities
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.F9678792EB90DA65A4C057FB292C14A9
+      - url: https://www.bing.com/th?id=ON.B44BADAE4F11A7953AF0E27E94AA2946
         width: 700
         height: 350
 
-secured: "aqJQFoU/cu/rwI8vcEJt9JB1R4PKUZ3b0L49Hj4eDCh5YRAOq6kfCvVArXLNsqyaYRLhZJkLAdGo+xzJNM9lgB3F6MXQcpjksd0ikid3MLRyb9RgEf2PI39HBVuH7I29PY/hAXsdduiUu3XlTndBv6FvnZiscTWJep9w+a3Q1TtB4LiCuHtGiPvfQlMwvsltuxN0a2WGJTVFiKOOIQkwWfjEnyXvuD4ZJK1AqtBOu90c8xPIpxKJ2gQ8C2ELoXld2yUfeFmrGnNm8Tq3ZjMFmA==;HF9vaeTXKGba3x7mZkxo9A=="
+secured: "wB5/+Hu2YykGMuwxb8dhGSVIM57rGGUJA8T+72aTbMIRUjBZKMPyQ9HzB3LUx4cYRDYWgV0FqUxIWZhn1MMcTT4avyLwlp46uP3mU/7ffKObykAYykgd3iWhNrKypWZJFtNcl3SAB7UkQDP5ouWE7BlsPqrgkvEIXqWIJrhAFjKQfSuTdJFrp6njc7DkE0OvB5xbzsHVmyYHAIcJG4PZDC/RGOqPXAKXXvc8poVRjgYzuoU8IogtgC0OdinbQmXVvXHmelyLW9XoJQ5q0WBXLg==;AxJF41B+wXlCfOKvxrvxGQ=="
 ---
 
