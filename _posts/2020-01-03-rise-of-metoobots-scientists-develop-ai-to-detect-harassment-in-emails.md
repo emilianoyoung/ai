@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
-excerpt: "Artificial intelligence programmers are developing bots that can identify digital bullying and sexual harassment."
-publishedDateTime: 2020-01-03T21:42:00Z
-sourceUrl: https://www.msn.com/en-nz/news/offbeat/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYAWCi?li=BBS2yio
+excerpt: "City firms experimenting with tech that flags harassment but critics question effectiveness"
+publishedDateTime: 2020-01-03T07:00:00Z
+sourceUrl: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+ampUrl: https://amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.A18FCBEBA92D7FF94BCC4B806019866B
+  - url: https://www.bing.com/th?id=ON.32159D05BE0C3BBDA1495EFBD3AE1C0C
     width: 700
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "l/MorRAyyLItS/nmawJtw94jb8CDv8srqyHcxEfU5npJk296G6Zx1ZBuVkMvx+YrZae3NOFbh8qqUqlvTPvJ3CmdIzLvnanLkPazwgr0dGN0TIo3syv4dZwlQyvAC7Acs/ajjGslXGGFPeQhZR0jnbiZh8uTO/JS3Jr2yJjbUHAsTu6o0qMtgtOOcwcWrq6trIY0jXOINT7s5Z4/SrYcDO3fTwnC3lo2+nMnXGaiA2tLk5IvgEZmYzYGXpPyjvQpg9R8LPX2WtyLs2dRig/flw==;+I6lNnWYKvcfALrITERdjA=="
+secured: "1CBDO7dp+lqiUJihPs5KaAQyR7wa3MgWTgzrzu5gMkDh7g6n7Zc4sYre7EhlGRtDAurAlkadTFa0+JZxahApG9/rf1A0cniPIHzkLsqv2Wq3C2l7aGjI8i47rpHZ8ar4ZHFsJ3gpeCPCcv+AVYTaGNT04Ae6C3SjPCiY8FHE7t9u6tPCU1azmnxNnfeG8NNQgKSiRGL5N3/0Ela5YMqbaaRci+bgufshWil5Ro/c7T6sXr6qJaN8wh1yaWpMZFeximLc4Arz/xHJG+22KdBi9A==;mQNrUV0OE56pX38pqirGkA=="
 ---
 

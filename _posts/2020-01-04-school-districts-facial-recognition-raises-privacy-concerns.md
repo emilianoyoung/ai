@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Facial recognition software biased against Asians and black people, major US government study finds"
-excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
-publishedDateTime: 2020-01-01T22:28:00Z
-sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+title: "School district's facial recognition raises privacy concerns"
+excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
+publishedDateTime: 2020-01-04T04:55:00Z
+sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
 type: article
-quality: 60
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
+  - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
     width: 700
-    height: 367
-    title: "Facial recognition software biased against Asians and black people, major US government study finds"
+    height: 507
+    title: "School district's facial recognition raises privacy concerns"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -185,6 +183,21 @@ related:
       - url: https://s4.reutersmedia.net/resources_v2/images/rcom-default.png
         width: 1200
         height: 630
+  - title: "Facial recognition software biased against Asians and black people, major US government study finds"
+    excerpt: "Facial recognition software has a higher rate of incorrect matches between two photos for Asian and black people relative to white people, a United States government study has found. The evidence of bias against minorities in the software comes as its use is set to expand at airport security checkpoints in Asia, Europe and the United States."
+    publishedDateTime: 2020-01-01T22:28:00Z
+    sourceUrl: https://www.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    ampUrl: https://amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/travel-leisure/article/3044168/facial-recognition-software-biased-against-asians-and
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
+        width: 700
+        height: 367
   - title: "Chinese art exhibition on pervasive facial recognition"
     excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
     publishedDateTime: 2019-12-24T05:30:00Z
@@ -348,19 +361,6 @@ related:
       - url: https://www.retailtouchpoints.com/media/k2/items/cache/17040e0f8eaa9a5c4a4cc58d69afe22d_L.jpg
         width: 900
         height: 545
-  - title: "School district's facial recognition raises privacy concerns"
-    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
-    publishedDateTime: 2020-01-04T04:55:00Z
-    sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
-        width: 700
-        height: 507
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z
@@ -977,6 +977,6 @@ related:
         width: 336
         height: 254
 
-secured: "bZ61VbCUWtQJiazzut3p7+KfiQwD+aMDxN5xzsFbVOoeDsLoMF3ya+GHnkeDVu6y8Um5ab5WiR79wlTNDlTEyFWLRPuozmJNP/uAs/xwsHGs6hUB0Em2vO2MfcEUO0IX0RpJuZ7RfA/Yb2EHo5m/Llh2cNiFpEq7zveLP9a2kM94Z49PqrU4gQidhUybz/uZrfzEvdWcHaBGdN76FnO58RwSUvaPg5loib3eTMOsC2bO3/X/Laty9cyjoShOESsn+U3SgbelVe3flBe6yFNiQA==;QolgRVA5k8tGi6QtOBCa6w=="
+secured: "eoT3wQLZ+RxjIjAoSWCtmde2qMsEEIVzYt4RaJzVz7iOATOoJRaH0ajHB9qwyPLKNapHhCtsuYZzFdPDijTcV1uHT3KTrcrBwylnNhT2PsHTu+/qqXaYiXkqZwY2X8Fdcyydy9JL+MOiSKVIvmsemWo/muCS1np6TZFXdPG1WtSVAG7gM1hpcRdbbov5kq658C8q37Oy2yUDAuiBUSVzqUHP8O8UROvHTvJCbXsnJM62lSJptw8GFJrwe+A5/CXM601EqCQuGQ2O0QEYdDPd5g==;Lw7N+dzCnby26cZo+9q4ZA=="
 ---
 

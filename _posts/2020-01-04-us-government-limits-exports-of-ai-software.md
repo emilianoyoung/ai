@@ -55,6 +55,21 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 65
+  - title: "US government limits exports of artificial intelligence software"
+    excerpt: "The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United States must apply ..."
+    publishedDateTime: 2020-01-04T05:50:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.2DE338B403247424A5912A88BD127F05
+        width: 700
+        height: 392
 
 secured: "xKditazVGkiMyQKDWn04rUbjkBOI0Yf/jDydm1l58JKdzTayr4sB3/yvIUIpMFfX3vvFXgaSr95VKk9Hui2X6xR93Ofs1XcdF0WTzQRjLxIOYH06qu0402CVOws+Qg8SR1W82t35l0DoQv6L80NbZfF1d/xaD3iU9CHLCUZH7Wzv8UEIMqKmGMuJ1LauxDO4HUpIXjMKqtL10BDGNCWFOmdLftYfklyK7WEhf/laSahBWTDpnhtSlWmw/f2ZOj3tBKQ+ekMxL61XSOh2peL4zw==;VPbbLLfdFO6VrCRtdgE3fw=="
 ---

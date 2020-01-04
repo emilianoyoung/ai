@@ -363,6 +363,19 @@ related:
       - url: https://www.retailtouchpoints.com/media/k2/items/cache/17040e0f8eaa9a5c4a4cc58d69afe22d_L.jpg
         width: 900
         height: 545
+  - title: "School district's facial recognition raises privacy concerns"
+    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
+    publishedDateTime: 2020-01-04T04:55:00Z
+    sourceUrl: https://www.sfgate.com/news/education/article/School-district-s-facial-recognition-raises-14948076.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
+        width: 700
+        height: 507
   - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
     excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
     publishedDateTime: 2019-12-29T11:40:00Z
@@ -732,7 +745,7 @@ related:
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
-    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
     type: article
     provider:
       name: Fast Company
