@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
-excerpt: "Artificial intelligence programmers are developing bots that can identify digital bullying and sexual harassment."
-publishedDateTime: 2020-01-03T21:42:00Z
-sourceUrl: https://www.msn.com/en-nz/news/offbeat/rise-of-supernumbermetoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYAWCi?li=BBSVbAt
+excerpt: "City firms experimenting with tech that flags harassment but critics question effectiveness"
+publishedDateTime: 2020-01-03T07:00:00Z
+sourceUrl: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+ampUrl: https://amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.A18FCBEBA92D7FF94BCC4B806019866B
+  - url: https://www.bing.com/th?id=ON.32159D05BE0C3BBDA1495EFBD3AE1C0C
     width: 700
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "4vqCtNlaq4zguY7nbbMZ6UOqh7urd6r18q60ruvYdNKxzLbMVd3khUZAjlDDZwKhpL6L8A5W/r0qalachQXgmTN/9U8Y4P0ayi4X/OBOZPAaTuY3Q2gttPP7vrfqPhtNej8GdmZOEIPjPhFkWBJJEtCNmT+q4EMW4BWjJ8uGV+WuCi//hXFy5bHpjz99jsWYATrXRtzOEvAXwIXLfDowcCbtlg1T9Kl5xCDXh2JRZIM3UP9RBvDXFEcJRJxWCrEQOyppTKZNFTSKkCczlkY/pw==;pGveeDVAaIFWIi1qDvfk+Q=="
+secured: "KWxuEOoqz6CR4AIEM0Q7TKBiPyyH2mr6OILqN97YA+VAM8y7ohORTSD46sF//Lgtm+eZUUvk6noGqrTBm1hpqeiFvhCxzed0epVI9N4b4OOibeFx+nAjygkjmhIYAaYGfeZn0qLugxPR7QLJPy7ynX/B5hNff+cAu4rkGbXJJ6/mfSzMUmsikozuEz68WQ/HHI+yjWg89mzKd6/iTOoNeysW/gMsML2tPDh7NbQaZyv3YBHQgD2kTVN+/Kz3eqfqY7BqdXaDZI/dDuebWMibfQ==;Ba0+gyjAQ5cL8iGMyUSHTw=="
 ---
 

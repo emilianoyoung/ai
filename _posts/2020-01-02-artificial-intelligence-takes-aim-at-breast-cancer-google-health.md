@@ -2,18 +2,16 @@
 category: news
 title: "Artificial Intelligence Takes Aim At Breast Cancer: Google Health"
 excerpt: "(Shutterstock) MOUNTAIN VIEW, CA — A study in the journal Nature suggests that artificial intelligence is more accurate than doctors in diagnosing breast cancer from mammograms. A computer model designed by an international team, including researchers from Google Health, looked at X-ray images from nearly 29,000 women, mostly in the United ..."
-publishedDateTime: 2020-01-02T22:48:00Z
-sourceUrl: https://patch.com/california/mountainview/artificial-intelligence-takes-aim-breast-cancer-google-health
-ampUrl: https://patch.com/california/mountainview/amp/28499897/artificial-intelligence-takes-aim-breast-cancer-google-health
-cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/california/mountainview/amp/28499897/artificial-intelligence-takes-aim-breast-cancer-google-health
+publishedDateTime: 2020-01-02T22:48:09Z
+sourceUrl: https://www.msn.com/en-us/health/medical/artificial-intelligence-takes-aim-at-breast-cancer-google-health/ar-BBYCiu3
 type: article
-quality: 72
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Patch
-  domain: patch.com
+  name: Patch on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -386,6 +384,6 @@ related:
         width: 512
         height: 512
 
-secured: "/wvUGRwNv9WR/aUycdb04GPydMYfPm7k7NkuQrm3mq/PoGFsIma2xuojOmtwvfbemm7Bhhh/AWkNjRsCQY6vjbv+5RclmZCKXj+hefXME8NDqeVgFalcMWZpyDN6yZ7pD0T5qfalcenGBfesMn8fq0SBujmInyovvRqdRoPP+vNbRY6T9svaunM7hvxkGBSebm7DOJujwpchG0hS9yHwoFeD7sEWHLwlygmrpTgpQ6sKhq1PvRZOx/G9k6W6GxPOiPKvtYG7XtuF3vIVLatCBg==;gOplEk8hV4bpPUHheHC6+Q=="
+secured: "999P5cbZ5LR0rnMTDcdmbU/d0xSa6NnofHtx9lJf7JMHXO9u6fnFV4moqaspNJWyYAsHshChV6W6t+e+2P20QyP9bCh86Wmg1EmxgrQOpF39Mlsy3OIlRY2jVQO2LpZw5DI6Y5QHOAXKpDQUCew2jxIP8i72Ob6we4cAO77sv8isKBmqCc5x9J4n9VJs8Far9QCejDA2yeRwwAr9+s/U5qOOlKBAE5+fjLJqvYDudwXTg8Jk+EYJ8wzD5tbAkTGgKaEr+Mq9jTq82CWzVZ9dEA==;Gw/ZG9LrmK1uCNEa2bWIVQ=="
 ---
 

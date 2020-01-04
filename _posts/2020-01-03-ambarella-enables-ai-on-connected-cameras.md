@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T16:10:00Z
 sourceUrl: https://www.businessghana.com/site/news/Technology/203582/Ambarella-Enables-AI-on-Connected-Cameras
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,18 @@ images:
 
 related:
   - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "LAS VEGAS — Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI vision system on ..."
-    publishedDateTime: 2020-01-02T10:02:00Z
-    sourceUrl: https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-    ampUrl: https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    cdnAmpUrl: https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
+    excerpt: "They can choose CV25, CV22, or CV2 as the compilation target. Amazon SageMaker Neo compiles the trained model into an executable that is optimized for Ambarella's CVflow neural network accelerator. The compiler applies a series of optimizations that can ..."
+    publishedDateTime: 2020-01-02T10:06:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-ambarella-enables-artificial-intelligence-a-wide-range-connected-/2020/01/02/9075180.htm
     type: article
     provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 57
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.78AE867809153B8BF0D0FB3F7A7871DA
-        width: 700
-        height: 525
+      - url: https://www.bing.com/th?id=ON.7EB60B054642779B0DC2A74D6884695E
+        width: 480
+        height: 272
 
 secured: "1nkVKgX0qGrN4KuxK0e6gqLLzO5nmW3IK2UJcPSi3FW9dMPZZeutpSPsgue3qFi2FDBEV64r4QO1AjhwefMqOby0B6Er+FZA+tqvmZEmXyJuNMcpOuzwrCE7E7pYUhyIBXQcNJ6frkS9XMjNde3XjP9cJTNSnHWNEuaNUkfpHNsrDgVGtCkyyYWMrUKzrGD+s+cJqvFcCMxFoVjqB+pYXu0rVjCDklohgOw4v5fq8G+aqVmkkCDHSz9djQLoGsD2s+JO1kI7YFxW7FxafSPR9w==;8x9qjvsyNppsSjpIg3UTiQ=="
 ---
