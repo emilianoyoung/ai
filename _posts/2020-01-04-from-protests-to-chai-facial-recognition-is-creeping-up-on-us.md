@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Use of facial recognition in New Delhi rally sparks privacy fears"
-excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
-publishedDateTime: 2019-12-30T13:50:00Z
-sourceUrl: https://www.dawn.com/news/1525267
-ampUrl: https://www.dawn.com/news/amp/1525267
-cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1525267
+title: "From protests to chai, facial recognition is creeping up on us"
+excerpt: "Facial recognition technology is no longer the realm of movies and science fiction. Just last month, newspapers reported that Delhi Police used facial recognition to identify “habitual protestors” and “rowdy elements”. At the PM’s rally on December 22, it was used to deny entry to “miscreants who could raise slogans and banners”."
+publishedDateTime: 2020-01-04T22:30:00Z
+sourceUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
+ampUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
+cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
 type: article
-quality: 59
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Dawn
-  domain: dawn.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
-    width: 700
-    height: 420
-    title: "Use of facial recognition in New Delhi rally sparks privacy fears"
+  - url: https://timesofindia.indiatimes.com/blogs/wp-content/themes/blogstheme/images/blog-facebook.jpg
+    width: 330
+    height: 300
+    title: "From protests to chai, facial recognition is creeping up on us"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -146,21 +146,6 @@ related:
       - url: https://www.bing.com/th?id=ON.61E890E30030333A596C2A29D8532CAF
         width: 700
         height: 393
-  - title: "From protests to chai, facial recognition is creeping up on us"
-    excerpt: "Facial recognition technology is no longer the realm of movies and science fiction. Just last month, newspapers reported that Delhi Police used facial recognition to identify “habitual protestors” and “rowdy elements”. At the PM’s rally on December 22, it was used to deny entry to “miscreants who could raise slogans and banners”."
-    publishedDateTime: 2020-01-04T22:30:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    ampUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://timesofindia.indiatimes.com/blogs/wp-content/themes/blogstheme/images/blog-facebook.jpg
-        width: 330
-        height: 300
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
     excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
     publishedDateTime: 2019-12-28T07:00:00Z
@@ -275,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.410C04674B26F08F08E99A9ADDC5B0E2
         width: 615
         height: 384
+  - title: "Use of facial recognition in New Delhi rally sparks privacy fears"
+    excerpt: "Police in Delhi used facial recognition software to screen crowds at a recent political rally — a first for India — raising concerns about privacy and mass surveillance amidst nationwide protests against a new citizenship law. The Automated Facial Recognition System (AFRS) software that the Delhi Police had installed to identify missing ..."
+    publishedDateTime: 2019-12-30T13:50:00Z
+    sourceUrl: https://www.dawn.com/news/1525267
+    ampUrl: https://www.dawn.com/news/amp/1525267
+    cdnAmpUrl: https://www-dawn-com.cdn.ampproject.org/c/s/www.dawn.com/news/amp/1525267
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DB4A07FA2A77EB900EEF3F00F315B641
+        width: 700
+        height: 420
   - title: "SEC to test face recognition tech in ULB polls"
     excerpt: "Telangana’s Information Technology, Electronics & Communications Department, which has successfully launched the face recognition technology app for the benefit of pensioners to obtain ‘life certificate’, is now taking up a pilot project in association with the State Election Commission (SEC) to check photo electoral rolls in the ..."
     publishedDateTime: 2020-01-02T16:06:00Z
@@ -1005,6 +1005,6 @@ related:
         width: 336
         height: 254
 
-secured: "aO8n7tvQ7Axe3xf2qD4ii2PbG/j7G0fptozQtlYaTk/70hE3SV1Q2qoDrqi4OjKhaAJY8d/NGwxoG6chqP69ufvqH030GQFxTiNGQfnSnS4acFMIlpvC7KiAIMahd9YoPQAsoQxQNdkAz20W7X9owzYC74iffO5aeTUOpjM86oLjq/l5e+O3kbA3ocjzkV4f6bXTQwscefh2tNoj0upUQdqu9/tgClLSxT++/+/QuDlc/p7dSQA93K63GgKIiX35zM4xma896Ur+M8QA3m4iqQ==;7x8QKMYhgXTbZhtamotbQQ=="
+secured: "97kLJFmNHuSPfeUnLcn0wtK3ZQ6/5Y44TviEpMssJEEsW2OcwhvKt7SEDjdQ142wZZcOF3lc86hJMTXRSEh2PVsbPphjxW0R1xYVn4hgr+uUskp8/4dMwjOq/QqzxkkJ/6p2vWI9xCFjvNyq4CmNhdHXvFq9DJuK/1BPrWgrwVCdpsbRVEnSPIzfQGnsz1WWVg0OmsSHRHKkcL3c5msGeWWCeeckwOe62yWOh9bolaH7aMuARTU9jk3r9/XYW0bW+UoM4UP+uiPTY/AAn+Hq/Q==;eVRtBDmk8/FtRCK8kSMq+w=="
 ---
 

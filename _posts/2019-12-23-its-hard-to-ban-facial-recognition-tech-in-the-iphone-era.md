@@ -138,6 +138,21 @@ related:
       - url: https://www.bing.com/th?id=ON.61E890E30030333A596C2A29D8532CAF
         width: 700
         height: 393
+  - title: "From protests to chai, facial recognition is creeping up on us"
+    excerpt: "Facial recognition technology is no longer the realm of movies and science fiction. Just last month, newspapers reported that Delhi Police used facial recognition to identify “habitual protestors” and “rowdy elements”. At the PM’s rally on December 22, it was used to deny entry to “miscreants who could raise slogans and banners”."
+    publishedDateTime: 2020-01-04T22:30:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
+    ampUrl: https://timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
+    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/from-protests-to-chai-facial-recognition-is-creeping-up-on-us/
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: https://timesofindia.indiatimes.com/blogs/wp-content/themes/blogstheme/images/blog-facebook.jpg
+        width: 330
+        height: 300
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
     excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
     publishedDateTime: 2019-12-28T07:00:00Z

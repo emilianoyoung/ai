@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Philips and Paige team up to bring Artificial Intelligence (AI) to clinical pathology diagnostics"
-excerpt: "Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring ... Paige.AI is the leading start-up focused on building the best artificial intelligence in clinical medicine to transform how ..."
-publishedDateTime: 2019-12-05T09:08:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/philips-and-paige-team-up-to-bring-artificial-intelligence-ai-to-clinical-pathology-diagnostics-1028739590
+excerpt: "Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring, and health informatics, as well as in consumer health and home care. Philips generated 2018 sales of EUR 18.1 billion and employs ..."
+publishedDateTime: 2019-12-05T09:00:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/05/1956610/0/en/Philips-and-Paige-team-up-to-bring-Artificial-Intelligence-AI-to-clinical-pathology-diagnostics.html
 type: article
-quality: 51
-heat: 51
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "uMY4bnd6+eToO1//HXFaGm7m5xqKzrGJQO8zaMmYRAH6CtuWVbXPlqaj3Q/meSHHaqv3E5jGy5uMniouBvDVuIxabZpnI2IyXBDn452eIw1FVKqfQ4j9MeR6Z+a7SSEp8cvtApD+J3Dbxd7lF1kyPkr22ayPuSm07Q7eiiMqFzpCellJw117icJ6BRMBDqeF1csXg3+IlxWIMcqa+lCWaET9u7Fq23L6dYBaT/EF+6JLMVmvwY9aRkptg35wO94IrpLzT90HuzLFAgZsT7FJyg==;Hu/zO02RaRDp/YIhcRoHyA=="
+secured: "uCcRJ7USxOUcGQH+YWd4KGLzdOU5igbYSSJXqbZRBfNE1fyQZQFeyEsRIV2ABU9xJDSBg+3HF3VmAGsj6vb9slC6/nA79XSDYwPNEiFZ9QiRO44xfT+QrDLpPaKFxrF2rr9e9g/i6fxU0jpkfQIsO5JRfta+QzJ2i7xcJDepWmOvlTLwzFTHURILxLvVWGCFqDXDArk8SZDRt/WlfTplMi9BB9cnWMTf2Z8dUaSikx/ALhpOyQW2HKAfv8pGw9A66bWEYT82ByeIZhTuIj4Rpw==;1xT8ff2u0vTWDXTzyx6A2w=="
 ---
 
