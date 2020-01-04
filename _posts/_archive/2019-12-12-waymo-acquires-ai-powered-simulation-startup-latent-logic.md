@@ -36,6 +36,6 @@ related:
       domain: theguardian.com
     quality: 39
 
-secured: "3oNVu2IH7U9HBc3VKeoanNbj/dnKSip1rW6uX9Dx9Eal6mdEUCI1tV/0MMIl+WjvJ3fQs+6/vtJbCzpP+v/UAk0AxgRirxqAINBk87hVUVqgK/ZIQusSOUt1IcElVZHZzlOL5O7HaYgOGDIBUHuMWhX630ku9d62CvlY3OOzT2FrxwwQOVPsAv7g/bKrsecQ3AVEMaZ/vUHp/5gT69WuOzkT8bB5Jn676iC9/APsI0JgfAI5jznVOZuxSMs6fOFxLlbRg2DTtDxERWTXfWfy3w==;MqlgrO9F19DOR69o8S4Djw=="
+secured: "Z+hgQ9gNmyhUurJTe7tvEpTZ47KX98IV6vn+swwEytof/3/eNgW8na3jid4VrFSm9nFAzSdR+4B2tCjwUG4LJg/RGQvp20j6DEWVraME24VTa8qJp4nH4AtPcvYaFdPt8m17w6VThrEs0C++59BkgkKR4yRu3QMH7Bi2GKujZNqQ6w67oQQIZU0BvqoMWIuzHSZSCGl4jSKzVIXO1/yuioETWujcT2qgmkfglxt4titJVwb7M05WSCqNqNKQpxpuUUnxJAU3wpCQtjOcj5WqFw==;hZXFUWGNRb3kM7mJlDFDuw=="
 ---
 

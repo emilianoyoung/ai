@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B94DC8B0BC687B17C625DC409A4F7E5D
         width: 700
         height: 421
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
 
 secured: "u7jzba63p1nixK8C/0/Jjjln5YJksZv/OoNwoeoHZe//Tw6KR0F+MdFsIenrByhyl5Holnh+3UEH0dDxCCuJNFe0NyBgt22pgFKwXSfX8yNoEEEDwkibXiKsEMC7PVDyMRTDnVPB960YDMJsRPEy0lsJR5F+BQJVc45F0cWHgK1zaHdFIYyK72phTR+X97VO00L5KkdnxogLpcFHCRKH6azaBvbbBTBcPv+RZPzMjeYrziIdFayzM3xFSlaNnfDMpLTX4gTr2tHUFAE1b/J5Kw==;s79og+7GWPynxbECHAnPuA=="
 ---

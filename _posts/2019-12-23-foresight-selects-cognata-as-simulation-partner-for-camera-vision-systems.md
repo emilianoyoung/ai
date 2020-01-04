@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-publishedDateTime: 2019-12-23T16:14:00Z
-sourceUrl: https://finance.yahoo.com/news/foresight-selects-cognata-simulation-partner-160400161.html
-ampUrl: https://finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
+excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving ..."
+publishedDateTime: 2019-12-23T15:04:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
 type: article
-quality: 23
-heat: 23
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -33,20 +35,7 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
 
-secured: "FgUROqQ8QP7xlFNdpL1rHP/rezmazWOvEo7r7y3hLMfZxRvwPMNNq3dJKZ0cknan2cP1awKtLKkCixN8I2D9MfK05gFPAY4WwVE53sTW1qfxbFWCkPHg1+sNT7syn6+0i2lUsYI8EDtGKP9wrDOtg/1FUqu0VXm5PayMqG+r5junBLK5+OAp9ze7wYtaSDrCisUt+W/i+0Rask67qX5Xn+yj6T36kWQPcvsI/1pJcEmheS4CQGwS4Nklkgmg4MAIYn3WDVG+ocnivjquoiyABA==;YS3t7kZqHm+jPf9h6W6mUA=="
+secured: "IUZl/IY18Sq8PjLDb6NtZIyUPP4aKUc0aVo70Y3CudR32FjBJkHrC1VWYI5TeVFzgGQlNx9C871rh3WxBgGtZduEfS6GtgGkobmjGwNDPN8eoPcQZNmOQM9aj4mT+nMnbBosnC5pgbiqoi1zOhbLwHcoNPmsmhabKT35Wz9wyue1sKsDBoRm/6O2EGEXb+Xq+x9Lu97c8g6C1DFKWk+B1i01lgCw8RtvOoLnoTYhTZ/m5LLhkipmnrhhIe4qaEl1us+80S2j4H5y+gWmOltDLQ==;9hEoabEBCiLTD2lCanPqKA=="
 ---
 

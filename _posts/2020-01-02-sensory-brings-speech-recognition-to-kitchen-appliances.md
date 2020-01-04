@@ -24,32 +24,36 @@ images:
     title: "Sensory Brings Speech Recognition to Kitchen Appliances"
 
 related:
-  - title: "ATFX launches biometric facial recognition for trading account opening"
-    excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
-    publishedDateTime: 2020-01-02T12:52:00Z
-    sourceUrl: https://www.leaprate.com/financial-services/fintech/atfx-launches-biometric-facial-recognition-for-trading-account-opening/
+  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
+    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
+    publishedDateTime: 2020-01-04T15:32:00Z
+    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
+    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
+    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
     type: article
     provider:
-      name: Leaprate
-      domain: leaprate.com
-    quality: 39
+      name: newsr.in
+      domain: newsr.in
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.B94DC8B0BC687B17C625DC409A4F7E5D
+      - url: https://cdn.newsserve.net/newsR256.png
+        width: 256
+        height: 256
+  - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
+    excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
+    publishedDateTime: 2020-01-04T15:09:00Z
+    sourceUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html
+    ampUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.64C5F7517B64B206DDE538B1FA446189
         width: 700
-        height: 421
-  - title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
-    excerpt: "The latest upgrade significantly enhances the efficiency and accuracy of machine translation by integrating computer vision capacity and AI self-learning capacity that instantly captures and understands multimodal information presented by the speaker. Sogou Simultaneous Interpretation 3.0 is the first of its kind that can \"see\" and \"think\" in ..."
-    publishedDateTime: 2020-01-03T03:01:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-launches-ai-powered-simultaneous-interpretation-opening-a-new-era/article_4af7199a-fd6a-5192-8533-374082e63253.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.C743A1837799191945705FC679801B51
-        width: 400
-        height: 300
+        height: 467
 
 secured: "la1AT5ngI7V7N+zPyXJdKv/uQ0gAYoco0cts9VvAOQDjv6iHHRTbE2FOZMUpXFNzmxvMnYbqnM9akx7ZRRqpzTGyhUSuBDc9++xhB1WMyTWRsOSyYwoMmzMgXjbI/5CRc/DwU1YEB+3zmM38r5pzZMBsS5exXKQUMCWUQc+9E0JdewIVflh6m0xr/n7MIAYMWkVOfb4kITXtYNUYwpU2PrEieh/3EGLjHCVrVRuoqG30haMveeYnPyloEbATeMrPzW9jjKE1fSo8o4d9MhOXMQ==;WaXEvijiHeiLnKeavNLJBQ=="
 ---

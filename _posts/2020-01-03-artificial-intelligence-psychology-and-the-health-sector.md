@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
@@ -17,8 +17,8 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -84,6 +84,6 @@ related:
         width: 615
         height: 384
 
-secured: "Cv/1ygLDdOu5bwreNQcSXYxDX7OaHHtKATEkQZXTaLplHHV1cwNEJKi9FbA5FQzOn5PjbE4G0h2IrrQdGRHuRQL/eSstxVKSLOcjyPiqzJN3e/s2D9L2lB/pGX9MQYRH/mebjx41qpz4aBOaOAh5Dbju/5Gzj8tK1vWmZh5bREWo4u4n1K5T7ral9bZFlnubLiQ+T8FzxsVyqdqI7KUDSd10H2tzsNxomQt9rbswVZdECrwkNqEgoQ6KjCMCU87tsSRNDxhvJQS55g2nkSGoHw==;yLWyO3EiqdKAnumpxFGjaw=="
+secured: "9X4Lt6hvg703J9mxc5Ad1CBaWc43hMoROTSZjqMASjdChz32bDbSVcvDxrDLWdS4h6J4mXzkw3SvcII49ewzLOGWFf7yOe7CTVfLiZ+zRhECtvR0hXzjIcnibg9o9Fu9fEJUm8oesnZNO4JIcUPkg5ixU9qoWXGuRdpfd+pk8eBQOJV9Wtl9zE9f4gZa6w0VaIX0kYBaAuu/pimKcnvFIBvdr7QE9LbAEwEC9C+Rty/k8kxS4OnHeTLb8yljhdP3aQ6QSNXC+y9ptwNCOQtVQg==;lJOYsqBrc0U/My6pz99FQQ=="
 ---
 

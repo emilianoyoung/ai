@@ -24,19 +24,6 @@ images:
     title: "ATFX launches biometric facial recognition for trading account opening"
 
 related:
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
   - title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
     excerpt: "The latest upgrade significantly enhances the efficiency and accuracy of machine translation by integrating computer vision capacity and AI self-learning capacity that instantly captures and understands multimodal information presented by the speaker. Sogou Simultaneous Interpretation 3.0 is the first of its kind that can \"see\" and \"think\" in ..."
     publishedDateTime: 2020-01-03T03:01:00Z

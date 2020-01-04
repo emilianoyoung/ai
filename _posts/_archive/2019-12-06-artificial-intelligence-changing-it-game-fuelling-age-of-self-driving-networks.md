@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
     publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -39,18 +39,33 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational ..."
-    publishedDateTime: 2019-12-05T20:37:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
-    ampUrl: https://amp.benzinga.com/amp/content/14941071
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
+  - title: "China’s self-driving RoboTaxi hits the road"
+    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
+    publishedDateTime: 2019-12-07T22:20:00Z
+    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
     type: article
     provider:
-      name: benzinga.com
-      domain: benzinga.com
+      name: Yahoo Finance
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
+        width: 1920
+        height: 1080
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "wG6ZI+Agv6y7swzuY1azw7UNk8x61E+z81arNRd3JvLUoNm9Ebe/rylC1bCI3gqfMHCRYbO/ULipbCjQ20sWdVJ3QRZtbthb3nrmVhWQwaMmQz5ebWkDeFcLuuSeLo9bHP+/b/JP3489j+hVbUrBCzKY3HPk5Dt8p23c+nv4823Yiu0M6cP4CI0G7xpWhPhEGdJY97NoY3ps3bkAoLMLf3oNyTmNqSl5VqYI8+OeG/ZkhTEn3DYiXT5OUGcCQ7RLqEUbAvLuqY8PhTXpdGrJmw==;8Ym6qdDO9ZzJJZADRyq8aA=="
+secured: "0PwFkz4VB6WxJNmF9VntuUaGgkc6WHDAb/OD0hCOv4zn5kOH+pG32eJobGcgCsls7ZeI+zO6G1dFCozdl3R4GVmIIpU/2mtN9vy+sdQoWa+F3GB7iNkXK5AnNRrjqVodwsoTQm1vHNG1tS4zQSLa5SPwQxWWd+WLTTUUuR8UoUGtfhIt8EoISpV+uKkN0VDoEs1BQ9IaS+xtlx+3HY2oNsZ5hdbtemuANNjM9rIdcJ6NoisYJcmlORvl5YXRJRn/4aQZ+UkcGpuSBvY1P/XNzg==;aXNsgMeULuqFWw4qg9AGlA=="
 ---
 

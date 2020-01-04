@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T11:53:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
 type: article
 quality: 70
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
-        width: 700
-        height: 494
   - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
     excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
     publishedDateTime: 2020-01-02T12:03:00Z

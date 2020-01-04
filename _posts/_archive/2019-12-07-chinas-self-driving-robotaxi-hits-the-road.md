@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
     publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -66,6 +66,6 @@ related:
         width: 1200
         height: 627
 
-secured: "A3yArYsOfAJYj6PvINGzcq2aNelrZpFJPtk/CBhQ2iYh6a/qWpfclFWnB6/K966Uqsn3fj245hjCp+TeGbxDRP4oDRuoDBv+tywxLBivuP3O7y/adLF38N2E6ey7Ip8nVjIQAZI85jmkwLw1CJM/7Sa+OmPaJk6ognyYoCfWsfNh88DYNpyo74acczvSwY4gEiMbru0ovq1cBskfTKOdYlSJjAIHWrOSGa90XwvozUiF2lHO8W5EGY0VvYH4n5uFuqU+MOAuyB1YFWtY/R39Iw==;NKgqrlo+bwA/aTlW1kKbZg=="
+secured: "l6OCc6mmC63ydFKeLSnfTNoQ0+Db14ONzxl5TeNdoL2CpYHK5bH3ghkmxKxqgh29kfHuNMtWQwSCB4OYKnG8V3hS2yANrtPWR2b9OGJBTatKklr9AZVq1ewzGRMjSDQZzRc1R8EecuSin76bqSg+vuOjG20eoQoTF+CGyMlhLcZS9DS+CZk6oCqViGWCrDUDuViDMps18uhHi6rGmtCSyunKoHYqyFOda8NOpapdUwRwO+izaL0ODT3rfQKlTr7KU3mAifVt48YTw1NuSB/W0Q==;X2HfWxjunD0AIBW6xipdbg=="
 ---
 

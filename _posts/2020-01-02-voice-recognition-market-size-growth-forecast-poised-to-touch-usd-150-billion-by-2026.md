@@ -67,19 +67,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
-        width: 700
-        height: 494
   - title: "Tech will drive change in health care throughout next decade"
     excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
     publishedDateTime: 2019-12-26T16:47:00Z
