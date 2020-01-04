@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
         width: 700
         height: 393
+  - title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
+    excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
+    publishedDateTime: 2020-01-04T15:15:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
+        width: 600
+        height: 315
   - title: "Germany's Bosch to offer lower-cost sensors for self-driving cars"
     excerpt: "German automotive supplier Robert Bosch said Thursday it has developed a sensor that lets cars “see” a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles."
     publishedDateTime: 2020-01-02T08:16:00Z

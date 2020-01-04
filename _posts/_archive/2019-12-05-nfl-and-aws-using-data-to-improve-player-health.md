@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-impro
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nfl-and-aws-using-data-to-improve-player-health/
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,18 +59,7 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 54
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-    publishedDateTime: 2019-12-05T20:42:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 17
 
-secured: "HxjPGrJUCYCMlHnuNX3wPuw20VriDP7KSocUnERuhXJBK+SlkE5az+Go64S3V4grGGjEnTS0yikv1f2PVz+TK3xD6MJ0Jf3EHLsHlrbOF+QBe86gRqIq3EwvBf5hqsojflt+S3E5hqRfPvMLD8s883WCUfSdpuz3tR52rZn+z2/PtaJ2W1MIn1DQzTbJRYMWIWCIDtCQ8dyOQwA8gOJ8gDdLITGK+82OYwH6b8EHOmDxC0gxXgRwhsSAxGwaAnaCdpXVb/ZjNFAkl9A1lrwOWA==;nJzxAsuuRrm0QJQAEhtqHQ=="
+secured: "unjQ9k8vhAhVp9ndUugJ8bXewjuM4owBqvGtWttjpLm2GRJ+NrgXGMHqxmAnzEk13bqDTFiCutCJaJrBAdwlMppRMCBOc4DvJduUAmERowksquDKXLm+FVo5GMhxa1EWNY/yIrMlYbbCDNW834a17Y4Oif28vrry7+NroIVDLZnp45bTHkRwecO1DH2rWik9/pgHdYmHOgrRgjl7oJyQxa5zx6fYo3PfkgrzBCGh2I11WGwLSFBU2ku6EfnmnAclMZmITZ0icDLHbeaxfuPTUA==;d1rVK/lgPFyWAWkSP3fvdg=="
 ---
 

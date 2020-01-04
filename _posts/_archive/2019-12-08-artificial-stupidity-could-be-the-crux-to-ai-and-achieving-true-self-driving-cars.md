@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
     publishedDateTime: 2019-12-05T21:21:00Z
@@ -70,6 +57,6 @@ related:
         width: 1200
         height: 627
 
-secured: "t5VdFZPj6lwm1CHFGAyVOJOyDo4AYFBBuOoULqr7BKYTbhAUuLgpDQDmDQMI1drpxbRHfHpU+k9IANZZ8gXA0tO6ymW/YRJ2VQVtySD/UpJzF2PSiIzVMHCPP+5I9rbzaUq8zZ87dgMzEgEgDkfFueQxwXu25iluDE4LO5DbmmTA1PFH2Hm4pQEe7A2tZDVFTa/WNLRuksxY9k9Q3rY/zr5WiR1+8cjck7YsS9O5pnladN9TNaPZ0wznUNRfZTvLJ5F5X5tOYInj+JeukYiOyA==;UZH7zRom9Azx+ICazvxpXw=="
+secured: "jKdQH7udbqvZnUI5KueO4IoVcg4R+1JQsuvxrgnGXCnc1IiZ01c8dV8CPtnTdckFM9eYniJxEV5p9s7ucVbAR3Z2tM+lTvmdiQllSR54J8qNnu9+V7gW241Lsamv5/OxjFwk1JfMzpzzIwWnQZxs1EFTrVaHuu0puY923RY7oNuvVsAQ/HrzCeoujNdoujjlgyIdZC7VMM4uN18q9w06fsVz8CN9ecuSRhi3FAomp5aRVAOJAUT9XQWwkbizoi4/oE7f4Wp+5sFpMqTS7jk8Jw==;RUcJVrPyQseIBp61ozLrPQ=="
 ---
 

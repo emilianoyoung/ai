@@ -25,6 +25,6 @@ images:
     height: 395
     title: "Intel Graphics Chief Raja Koduri Teases Xe 'High Performance' Discrete GPU"
 
-secured: "KqBVkWmkG58IMvNEeECQTNdru+VyAP6N/ZsJYQF2UOvagxyc3iFhJGHEDCnKSO+Uxc1YdEJ83LmnhLnLS4A3GTNZnd65ZULCJOZ72SLKNqQONs14/in4UkSEfGZaSuBX9J6JreDcIn/cDsZtaQelNW/7Ld98HYnKSXgRjYJRZF3bzX8dg+TFXx4/dM/R2Rv5+p8D8uKy0uhDwPY67ik2LhFloUIv4FlBUyXawlAZVQR5T9vqOlaMIRtrN3Dv0D1wIK5VqmAdTsrJNiDMqehzzQ==;opgesauAkR1sWrTLh5xFsg=="
+secured: "3kXGbPP9jDfxG27kR61M3baOKAYxnY+IAmRCW4IYVCqZEZcqm19TY8ODvheSts8MBP4DisVCcoSU6G17/AoO+Atwazxx9iX7mMiijbUJA0iP7J21+CO2uuqY8icvFZ7+63G/DxmYN+wAHbLGW2OtL4CVLTuQdUVbWFqq/C7HfPyV2R+vzOkE6SxIx4hk7722sJThMmNYiZrADxsaT8kjFAbcEmUDpo8ij4bbUJG/k1SD2zmSMz75JbyYBZGo5nKaGmNNHlBwCyV9A+TVyNnvGg==;hH1jfUbSJhFDXwRtYwRYzw=="
 ---
 

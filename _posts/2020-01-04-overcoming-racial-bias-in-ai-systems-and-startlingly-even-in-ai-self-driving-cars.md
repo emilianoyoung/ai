@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Baidu testing self-driving cars in Beijing"
-excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
-publishedDateTime: 2019-12-31T18:39:00Z
-sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
+title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
+excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
+publishedDateTime: 2020-01-04T15:15:00Z
+sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/
+ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
 type: article
-quality: 19
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
+    width: 600
+    height: 315
+    title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
@@ -48,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
         width: 700
         height: 393
-  - title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
-    excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
-    publishedDateTime: 2020-01-04T15:15:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
-        width: 600
-        height: 315
   - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
     excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
     publishedDateTime: 2019-12-28T14:13:00Z
@@ -328,6 +325,15 @@ related:
       - url: https://www.bing.com/th?id=ON.B2A7CAFA6957E30B8E07B6DDC2CEC5CB
         width: 600
         height: 315
+  - title: "Baidu testing self-driving cars in Beijing"
+    excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
+    publishedDateTime: 2019-12-31T18:39:00Z
+    sourceUrl: https://seekingalpha.com/news/3528976-baidu-testing-self-driving-cars-in-beijing
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
     excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
     publishedDateTime: 2019-12-31T14:29:00Z
@@ -351,6 +357,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "Hdu1yVntnMwk9Djzxc/d9yxl9acZ77tAXjqvyS6TZLb5AXkX3YTLHhU5w6CnM3eG4xosCSOWpUwE6Q+2o6+v2+kdX826cUjAhgOTirkqiI8Xn2bCR9AqhttO2rbehB/ASYY/waqc3kv7E2j1gCkFAaroy8YGrr4Z4mtxnamTovnHtu4esa0T6c9RUwg4obHVm5rbrK6C/1fIVQ7oj1F8FOLa3pZhElltx0YvjlgQ2LxhKXO9DnTFfTIFdSOrxhtWmTpZlQJRfrAgmvmXDV0YmA==;8e8Q2j6j6LthW/8hTC8P1w=="
+secured: "Rm4ONPTR+3kriKcwENXldFvbT6aVbd0W8oUg9ftm2V5IMn254uEzWaKnhCMONcMJAStbCbS5HX+pcsVqIMb48LzMkB0ceQ7qNEwRKhGqkUN7Da0osWjYuwe+B46MBuMCUv8ZpULvNnvATJryPDSVjtr8GNQuto1OY52u4qJI3SKdKM8ndv/DNRbWfBlZVPT+7mDBIi5cAuKlzDGIQfpVMQD1XvtlMupP5Zs9nxfNKimxkQfowzjmKtz1+jjocWd/loxTr1oPMPxMBP+kIdNHcw==;vLLPol7oTPDXwFZtI4J+NQ=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
     publishedDateTime: 2019-12-05T21:21:00Z
@@ -66,6 +53,6 @@ related:
         width: 1200
         height: 627
 
-secured: "NOS1psxscxoKoKcNfca+sjiPHqAK0g9heMmpYCjjlovFAXzzgaKZar6ZtmnN2341CsdnJHBRTTAsas03Mk3Q8lvnQNC4uzRfWX+ma3WQ211DWfjnqYLhZBspVqZ/BaK5raDtW4WC6F3QUnMMfuJV5i96KHT/Z3KpCB49uHakVgSx390nbjRprej+jxPQc39wc9Ad1rHV3oNt3QR1xHPPgNKltpAkZvJS/pKidpmH1zsUTAxCSVUarcmRzwFUIfv9lCbaODbPdk8fp58Ri4KCVw==;ZWlsnGMTHmPQ5i0b+7hCIA=="
+secured: "cawEmsdem0jJw0Zs3lqXf3knRv6zmOi8Xaa+YC7cGCjzUMNd/7r/76Q/IAfNIzp2FF6vAbSfhpJ7I3lCq2sqpVPkewGVv64Hdp+ZsugyTJ+76Jf27UWfDJcENuIkUi1iiXvcqyxSNg0RrzUbiiDrW0VInzX+zCFu9c/iSPZuW863QRt5vX7x2zJtwMIBjQZfrSYVpij/a/ObTOU5b9S732fBYR9o9yBKpVTYtfoSiaejl8LVGyZ/83qS1hXt32U9sgxvjwzVyDqelGDrUaSIeA==;AZNbZe4Eo/SwnN/N4BQEDA=="
 ---
 
