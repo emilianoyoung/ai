@@ -21,8 +21,8 @@ provider:
 
 topics:
   - AI
-  - Microsoft AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -80,6 +80,6 @@ related:
         width: 720
         height: 335
 
-secured: "gJ3z2s+HJeHtzNCfOlERlMZunyvqzqCgKHcmoR1KtwSViPvbboUjEksP1oWwHxFoianN8JybQ3YW1X7vh2jtsdtXTdNBrIRH3riNwzQSWYCuSewoKJ5Wrb0ZBscqhV5L5VzSdy5iyxj6w99P0SPBqRy7tqpK2SbfX6imP/8LRgfkCm1XcdNRBny9GTipiHJhBm9xzmsh2GoY92xjQnEaoFbmRc/NOvQvacYX/zwPy6apNFhp0+vXpSWDZoGtsQR+SYXiw3ST8Z9udyIfxeGhvw==;T7ddSHsACAWtEpSNB8RWJQ=="
+secured: "b8TYdOOEsAWDtS+huZoHDqsnPJWXaQ2b7nKJVBF5jSvIknh9O6nkwNQZzMtvny8EC09yla7MFxj39vSmBpzZnJhuR3fgdWatvOZPafvntl+MVLOsG4jNxawiOheoBBSHDJ1rOJFV1ylTfICrEcEZw1PrW0kKjOzh7bx6Gp62LEyXup0XIKFwmOJ3I85As2MvHj81p96lsYnKZ2xgfJ1Xu64T9RevzYvtcnVKTp4O+4s8+k5NQR1IZ1judFuW66l+fJH7OX4xkjeYg+XOqJTloQ==;cM1DLIwZnirYn6nwfQ1d4w=="
 ---
 

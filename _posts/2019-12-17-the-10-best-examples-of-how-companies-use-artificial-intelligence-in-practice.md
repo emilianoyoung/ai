@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.716F8E7333EE8AD06F53EC459A70C261
         width: 600
         height: 315
-  - title: "Which Of The Top AI Events Is Best Suited For Your Profession?"
-    excerpt: "In the professional world, perhaps the most effective way to connect with others professionally is conferences. However, not all conferences are created equal - especially when it comes to emerging technologies such as AI. For this reason, I’ve compiled a list of what I believe to be the stand out conferences in this important and ever ..."
-    publishedDateTime: 2019-12-15T01:21:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/14/which-of-the-top-ai-events-is-best-suited-for-your-profession/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.2895B6C95DBFB3E92867F2E027273702
-        width: 600
-        height: 315
   - title: "How AI ruled our lives over the past decade"
     excerpt: "In 2010, artificial intelligence was more likely to pop up in dystopian science-fiction movies than in everyday life. And it certainly wasn't something people worried might take over their jobs in the near future."
     publishedDateTime: 2019-12-21T14:10:00Z

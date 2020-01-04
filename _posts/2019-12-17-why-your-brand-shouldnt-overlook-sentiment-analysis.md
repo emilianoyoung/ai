@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T00:30:00Z
 sourceUrl: https://customerthink.com/why-your-brand-shouldnt-overlook-sentiment-analysis/
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1222
     height: 1280
     title: "Why Your Brand Shouldn’t Overlook Sentiment Analysis"
-
-related:
-  - title: "Myths and Realities: Sentiment Analysis for Crypto Assets"
-    excerpt: "Producing true insights based on textual sentiment is a very difficult task that, most of the time, requires natural language processing (NLP) models optimized for a specific financial domain. Large quantitative hedge funds use armies of machine learning experts to train NLP models in a very specific task like analyzing earning reports in order ..."
-    publishedDateTime: 2019-12-15T01:30:00Z
-    sourceUrl: https://finance.yahoo.com/news/myths-realities-sentiment-analysis-crypto-103048045.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BBC557E613572FD9BC8575A4BD344994
-        width: 700
-        height: 466
 
 secured: "Zc0DvR+d9nSOsCGqcC9Qjpeok7VGbOPK2QXPcJLXRpws0CU1HGlvzdpbTWtG3VUjhFlfxI5wRyvqN/jDy43mQAEELBEUsgVPsEn5R2sRKjNfpmrXgi2CU8wGv2dfiQ0L151dVqUu0MjojOxEGIoSGNYPWeKy2lLgQV+ObLbuoN9gS6KiMKeVCX7fu+teYDdbAc21Nb8xsVS49nlMPXMyNCPZRC6IJRL+2hkhhMmfWAUWaXRMxbGn5vosKx5dk2bMfeeMJT8pYKTgQWsS2mwmMw==;VHmNxV6thCVDpZAZyV/1sA=="
 ---

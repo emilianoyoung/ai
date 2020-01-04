@@ -68,6 +68,6 @@ related:
       domain: lfpress.com
     quality: 24
 
-secured: "z/R4rfU/UDfakB0x+t304vTHIaXkTd+KfHzkura838wYzGHWVERqjL143tHZAP/nRJ0qoFEmi3ePJMgYvrraRYjb0zyivwjjJAPkMjUkLrEWRgy38e8Mgqqe4X+YPUTmFr+BofNuA9E//kWHMVXJCvkbV0PTEpKOjXPJndM36as/hCt5y1dDkGw4EboLTocDOeBuwmMLhIeoBdgjZH/iWTqUK1A8NrN8gjAOPwEJCApn/AJW86fdqYnm3WIqDpNHu/64E3KttF88mNJgQcT81Q==;HLIo+Y36pHFZChp0Ppcvjg=="
+secured: "Bw0FcqjfTc2HqWxNAfkuwa7R0mAstnkpTsa+UiscvJasouC7b9pJ9fHO7AeLJdqbnOPfnqlayUqquiMkuqiUyCsoDI6oGdJB/QXFIkibNMSbVTG6izczCPweY/IFH3b5g1J259rd+nQGFm2kLRtC6MHS+ppO5lJBow0ZCyzN8ADMX4D03if9o9ne7rXBYUVx8Okeah13uwrOgG8kJqqumtcqYrL1Q6Z17pXUmxovZiQMSN3JDnIOQ7zjl/2k/PiFiUNaMPlgwbyZlR+xDo/SKA==;JJIZJCoa5tmIGMiavGuHMQ=="
 ---
 

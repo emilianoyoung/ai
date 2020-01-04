@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -83,6 +84,6 @@ related:
         width: 615
         height: 384
 
-secured: "9wndNsv/Wb3ZBRu2EaTqTUfnuAdWIRrUrh1QFPxMsnTB+QhL8iH5He8B+svON6LSKCH+s53QZFj3L6lZX9XonI7YeIPYNC3p64CchMMjEGV3wW6J3CoVtFm5+dmZAFgYnQQKWLRbRHXyLHMWXewSgLp+cWmTn+foul9bV9jIg1ryRTAfTpm0Rln6i8r2zHzpQiiBsOlnFIE2vvREI97K7cuEx2vr2Lmst0WWE7kRRaYIHXbRawPi5zIVCFHBhjHdnJ5QWgpeS+NtmFRu7aDPWQ==;cTC08A/RqENZWcOM0T9SWA=="
+secured: "YJHVQFfI522an8D5LNpnm5OJzXzGa7bHrttmRHrI314j6HU5U4hOQqhsxj19OPfGJ88Kbh7xqH2ARtyPJdNvb/1DV6vIWkvboWs6MNL5MQ5q3hOvrbcBUDKpGI1rJLRsd21sFQWpLOhL2TJ8N0O0ASb7kH4viUxirf4fNEt/34s9Bl7Kjs5OWn8jY/Iat1nd7ewNjyu++VyoE2tYKwClraZYg6DMakUUFZapRi9n3Ik1ImWgN7MYCSRFp5Q5nZVowPwmSaAn9l80ss7eUH/NeA==;kvOtHKWGUahngapQtJw7/w=="
 ---
 

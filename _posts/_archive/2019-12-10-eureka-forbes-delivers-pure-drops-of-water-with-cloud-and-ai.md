@@ -27,6 +27,6 @@ images:
     height: 513
     title: "Eureka Forbes delivers pure drops of water with Cloud and AI"
 
-secured: "HhftLLVek3wNjd56aunfytdpo/T5Myer1WKsIlQjTIgBK3KcLEvr0kU/pZwWL4WlA4eq8UwrlizDowPi02tjGfAj6I9p0Do8helwLAEb/9zyvK5WveWBQY4CspZxMme/58wPJR4GMQjEr+vMbYv+kaNSVgvY32vyXHt93JhR7NR9rejynONZ5sIgt6m6TuK1z8U1G+acwjrBEfD1mM672X7XVQ4U0L17oOIovvkgZyzrGrFIoJ/mSggVfoIBD0kS021v3sce2AId/c7ZIb+zMg==;RIYRFYABpBD0CfLK+CAeXg=="
+secured: "V1xDvwa5BZuloQG3eJYM0UHxv0BVRuS+z2cr2nU/mbsYP2XsqpbmuoWH8DUa3CbkzDC/2H8EKd9Oi9reUt6MDNSaCHs+rASb9IaSN7WP9fkPHTC4kl069TFKhyiQPRcRvgu5QGAJ3QLzuEA1pvo6IrJpOZ1MPyblRV663aHThQGFP3Y2Gy9BODLIIjqqhQI0IKSampp60zOglSfuylbYnARlMtHV5l9esQexXfmRBhviVu6SFSkmbGUpOu1ya0lk4BfFHJuoI0SOrwpDjpUOuA==;51e1aQTNZS1Lw3eImwbyfA=="
 ---
 

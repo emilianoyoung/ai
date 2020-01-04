@@ -722,19 +722,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2925D8A0EFB7D7ABC1EBB666A9C65C33
         width: 400
         height: 400
-  - title: "Facial Recognition Systems Easily Fooled By Masks And Photos"
-    excerpt: "A new study reveals how Chinese facial recognition terminals are easily fooled Kneron conducted experiments to see if a 3D mask could fool the facial recognition terminals of AliPay and WeChat However, the study has some limitations Nowadays, we view facial recognition as a more secure way to confirm a person’s identity on a device or at ..."
-    publishedDateTime: 2019-12-15T01:13:00Z
-    sourceUrl: https://www.ibtimes.com/facial-recognition-systems-easily-fooled-masks-photos-2885472
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7F8B7356F672928B39205A4E870E221E
-        width: 700
-        height: 466
   - title: "How China Is Using Facial Recognition Technology"
     excerpt: "Facial recognition technology became part of the fabric of life in China in 2019. Enabled by a vast network of cameras across the country, the government is using the technology for surveillance."
     publishedDateTime: 2019-12-16T20:24:00Z
