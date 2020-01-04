@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Robots take health toll on human workers"
-excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
-publishedDateTime: 2019-12-31T13:47:00Z
-sourceUrl: https://www.gazettenet.com/Robots-take-health-toll-on-human-workers-31645896
+title: "Warehouse workers adapt to robots"
+excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+publishedDateTime: 2020-01-04T14:23:00Z
+sourceUrl: https://www.columbian.com/news/2020/jan/04/warehouse-workers-adapt-to-robots/
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daily Hampshire Gazette
-  domain: gazettenet.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.635898560A852C18D1025F1924101F48
+  - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
     width: 700
     height: 446
-    title: "Robots take health toll on human workers"
+    title: "Warehouse workers adapt to robots"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -209,6 +209,19 @@ related:
       - url: https://www.bing.com/th?id=ON.365D9DF8F855FDCACDEF4C679A51BBF5
         width: 620
         height: 330
+  - title: "Robots take health toll on human workers"
+    excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
+    publishedDateTime: 2019-12-31T13:47:00Z
+    sourceUrl: https://www.gazettenet.com/Robots-take-health-toll-on-human-workers-31645896
+    type: article
+    provider:
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.635898560A852C18D1025F1924101F48
+        width: 700
+        height: 446
   - title: "As robots take over warehousing, workers pushed to adapt"
     excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
     publishedDateTime: 2020-01-01T21:44:00Z
@@ -222,19 +235,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3F1AB18854B26A0D635C18CAB09619E1
         width: 700
         height: 446
-  - title: "Warehouse workers adapt to robots"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-    publishedDateTime: 2020-01-04T14:23:00Z
-    sourceUrl: https://www.columbian.com/news/2020/jan/04/warehouse-workers-adapt-to-robots/
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
-        width: 700
-        height: 446
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z
@@ -245,6 +245,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "XmjSHERp/+mwXCSMM1MS8K+JrlvqtIR1N26mfmqOIEVBVYQQVFFs7e5NbnDvmyDL4iIsopHMBPrsOpFrAIW/jwqRge6o6gC3T5pK2P3zjX8hbsvjdwf3r5PA9oAkPYzKxTzhG/8mL2fOFAxUlfh5uHdsonFJSaJNrVAGvFyYIuchZNSCq0JydQQUIHjWnLpZITqfbdXVxbmubxg9gkrCmi2Z29DqGbLb7QQ7lu2NL1g0Ext1a2fWzBTepp8QAtKQjdH7103gNpSvJj0LLnzMYw==;d/QdUkRPIdMSWLX6p9+kEg=="
+secured: "SBiEjDuZFOLrJo28TbsbvbP+p8u7uTRn9gSKwBotvW8UGxdsw43Bsj8MDOmfQ1utec6fOKflzKbkIUOXumMD/R+v+GYkfcjdjkllsM0ravscBD5cfqw4Ho0G/e8IfyN8XwzZhA1FYDsajeOAUhNRaxQF2A7sWZ4wznxvWDWh3Ug1YOh1c+uZWR9pyYIAv/ISvErJhOTWXWG8RHknhN41zSMlWpX0KZChLdoFWCxGgs2KJE3EUkzPC287jUG5eBUYgLC9a84oDD0PjfHOTAtnvg==;C8tu6FKPVf7fvDl8ax0oVA=="
 ---
 

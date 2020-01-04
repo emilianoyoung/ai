@@ -220,6 +220,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3F1AB18854B26A0D635C18CAB09619E1
         width: 700
         height: 446
+  - title: "Warehouse workers adapt to robots"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2020-01-04T14:23:00Z
+    sourceUrl: https://www.columbian.com/news/2020/jan/04/warehouse-workers-adapt-to-robots/
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
+        width: 700
+        height: 446
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z
