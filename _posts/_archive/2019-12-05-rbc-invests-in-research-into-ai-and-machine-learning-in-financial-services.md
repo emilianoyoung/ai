@@ -23,17 +23,6 @@ images:
     height: 599
     title: "RBC invests in research into AI and machine learning in financial services"
 
-related:
-  - title: "AWS announces new AI services and quantum computing initiatives"
-    excerpt: "At AWS re:Invent, Amazon Web Services (AWS) has announced several new projects including five new artificial intelligence (AI) services designed to put machine learning in the hands of more application developers and end users - with no machine learning..."
-    publishedDateTime: 2019-12-04T16:34:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191204PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
-
-secured: "OuDGtoSmahwMXxjfCNCWkV6gaOUzh9/Fy4ShkDOr2jCsrApXr1wjLSNTJ9NiweRMrLzGzwGGsA2jE9qkP7Q2MFob5V2mF8r31d5gYkvUDMESgCy6wrOz/psrLl2GAJtkLxiuXrezafCakl2IyXnH0RDRZGzUPQkZFaUQj27p7Fy+fe3VzjbRXWZzR2DsBdsU6MB7BTPi2Pxj9E3WQaXZF59k7PWQwUiUhXqbx7ntI3mkdKD7OqCyb6tmG8V8btgxvLmQgrLmkojJQ9h06ZRauw==;icDr20sdu32mLACbdfSYeA=="
+secured: "zngL+XWF4Gf8/+c4f7wSjoMpidFyp6hUE5muYuJnel9Y9y2xKqcOOEUYd+k/HNxmK5A4x14tyOaqzwA1U6Pl9VB0jwNrdcNth8ZT5cHfAKzvG9bWk+fkyWsGWLroID99oZ0o4CgMT8jNwKi6E0dq/LSDkvI3yEugfofrmm2+PeaBkjDOelCr2R0jreMMQD6tu/CDuVaOdmWAOJ/QmqkUsqmzmmGhVZiYDyjjsUZs5cUmZ8HX32wMlUOUY7uY4DGqD4oYKEalz2yTw0ndXWBiJA==;mXfXpMoqgkwLfKdWowsiRw=="
 ---
 

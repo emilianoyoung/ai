@@ -69,9 +69,9 @@ related:
   - title: "U.S. government limits exports of artificial intelligence software"
     excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
     publishedDateTime: 2020-01-04T06:45:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/TR20200103nL1N2981IWX1/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/TR20200103nL1N2981IWX1/
+    sourceUrl: https://www.zawya.com/uae/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
     type: article
     provider:
       name: Zawya

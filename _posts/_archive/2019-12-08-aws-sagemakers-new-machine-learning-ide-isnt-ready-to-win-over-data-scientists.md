@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
 related:
-  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
-    publishedDateTime: 2019-12-04T20:45:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 84
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
-        width: 900
-        height: 431
   - title: "AWS beefs up SageMaker machine learning"
     excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
     publishedDateTime: 2019-12-05T11:27:00Z
@@ -53,21 +40,8 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 84
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
+    quality: 86
 
-secured: "0WUeMPKlPL2RMK3EVj/ujAcNBtXAzhSo8f6FVJStEZZIODm255cFIK5OE6tDPVeuvel09MybR5MR1UgbSv6zaWzph7Xx37Rb9WNq0Sh9Py44Kwjr88LRbTvQwd3cC+zaODylH2yGEQZmeSwDip1xJ7OB+/9i6FxzOCmnp8aKO9AkQzOuFxV7Bu2IjsUKpEbxHSPe8in6gvca/4aN4MZqPMu8Xcxt1vzoELldRFgEccrrTnJBFwlVvtDTi/KFOQiNzBChgnKchyDTLZMhr0IBZg==;LJMCj86c8osGkiaz63rpqg=="
+secured: "zEsHn872mf5Xv5i+6rOs8oOZe87IA9kLHP2JcikzkRMrlvNhCfXHFcv/XEz+pLB4agSuAVl+Xy6TnQLfmXgxKlsNbH17bg/7NVVQ7dg3m1CvEatU0iW52T/pyEET5WBio+dM2X++FncTEGQE1fmPRQqrIhTV4yODp9oVdtJbkbP1Ai+ASGwcbLMPXNTEJAFbYr4y4ON0sdrcZ7gXTKkqlCLsaZPcceJca9Yu13Ee/snCAF4RkpsTgoaKCTstdj+5NDsPclHsGn+11/VmeZ4UJw==;DD2VDw8Gk7i76nVsSWZf3A=="
 ---
 

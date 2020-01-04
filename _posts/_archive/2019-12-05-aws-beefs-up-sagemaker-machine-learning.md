@@ -7,7 +7,7 @@ sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-mach
 ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AWS AI
+  - Microsoft AI
 
 related:
   - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
@@ -39,33 +40,7 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
         width: 1679
         height: 1005
-  - title: "AWS re:Invent: CodeGuru, SageMaker Studio, and Managed Apache Cassandra"
-    excerpt: "In addition to the several Amazon SageMaker features announced yesterday, Amazon announced SageMaker Studio, which is an IDE for machine learning. According to Amazon, SageMaker has come a long way since its launch in 2017, but the machine learning ..."
-    publishedDateTime: 2019-12-04T20:45:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/aws-reinvent-codeguru-sagemaker-studio-and-managed-apache-cassandra/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 84
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
-        width: 900
-        height: 431
-  - title: "AWS ramps up SageMaker tools at Re:Invent"
-    excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
-    publishedDateTime: 2019-12-04T09:36:00Z
-    sourceUrl: https://www.cloudpro.co.uk/collaboration/workflow/8329/aws-ramps-up-sagemaker-tools-at-reinvent
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
-        width: 3648
-        height: 2736
 
-secured: "BScSUzDECWb0vgaeagk6oHwdN71oqnamOaE0RW2Ehgx5f3y560NmZOoBums3GWTSRRKI2ilZGD3tPDzN/3xqp7bz/sQdVhgcQSEUHwDu8DIvKctuZewrDBM+EqO3hxg7VVqHLCWeOUcuG8+Nwwp940hxYYGQSZy8MliTrQv/bn6SL4idK1Ag9NYxUCrpPacQjEwu3fCs03iJK3zPS5Ncqysv+X9D8dn3E7uRYZ4Orp4PzkjQzaCx9kaM39VzcH7Xs5+xUKfdsapwba6ziitR8A==;DHpypeU2so7jv22yMrijHA=="
+secured: "r8IMRQj7BZk2K9gpstEE7pYApv5gy39VJvCOjo8uLmGi7bZAo8g3p+haxJd0LwHkw2FOB0JL2CdLWuK4hgoBGNrB7XXn9M+8q5aNjXonmiiw/dIanR33os6eQM4eGTpLpW4afuEcAplsdQXn99Jc+OJV7OsoXW5kbq81y+guBBNb58X7DBer3eqUIFEiSXdJAp3NJviOYjzTaCScT407wkuYz3A1bSmztRmgYCcZBoGP5PHMcUtAaOac1xID0HH5f6BYAYIYYqJoY0l44UpIgg==;wwZMnH7Nx1vLiyMofZiqbw=="
 ---
 
