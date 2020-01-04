@@ -5,9 +5,9 @@ excerpt: "I don’t have to learn how to move from a location to a location, I d
 publishedDateTime: 2019-12-05T11:03:00Z
 sourceUrl: https://www.digitaltrends.com/gaming/facebook-minecraft-ai-assistants-machine-learning/
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 69
+heat: 69
+published: true
 
 provider:
   name: digitaltrends.com
@@ -21,6 +21,12 @@ topics:
   - AI
   - Facebook AI
 
-secured: "6rjhnQcyixc2u9b2oXrEU8C5/vViYe/1/ehFIR5XMVGTh1VGmNV+lGt4G9FMy/GyJpo6RdTLdLRtWPQ3VC+BMwEwPtv3ndG4avIIHL96ejUTvsCoN1VYC2fzym1j6ju3XR4AMXMpvMasaAYtvZNE+PQuRC7oHlrkqut7nUtqGibcRGwMdjIZav7EhjL3Xiu5ohBH/UF1d/lIEo869F6nrVltrjoeYeFBRsJGF805VQa6NL1fN1PPmKHcXB+G1z3aLZ9s6dVxhS7+rZvlGoIYcQ==;41TLbVRX44AtKj2w0o/g3g=="
+images:
+  - url: https://icdn2.digitaltrends.com/image/digitaltrends/minecraft-15-1200x630-c-ar1.91.jpg
+    width: 1200
+    height: 630
+    title: "Facebook is using Minecraft to train AI assistants, one block at a time"
+
+secured: "rVco1dyVmo/tMCkAAzx5JYfRSwRlDKfF6TNigkACQz5fEZhUVGj+06Zpn7MkzFSUbykFjknLEBbDTfyroC+hVwjeB5Krka8VB/RYp6lyagAXJQGxqEOsIfKgo4aj/94cttGzUUbqz35pA5KQ1INxEDKTnnWUnLiqWKE2AREjEgkWppyoss9U+T6CFhQpQ1jAB/oDEMS6bwxbWvvHIPLQ/obYOu0gTJ31DFrupi+8DMJLnFT9RN1cDwz6wGnAo318nULEuV283ULeDcR9wRo+Ug==;kRZ0tWvw8qyeqmkSKDzUfA=="
 ---
 

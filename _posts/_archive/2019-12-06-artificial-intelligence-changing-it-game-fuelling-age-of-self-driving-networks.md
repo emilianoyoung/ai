@@ -52,7 +52,20 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "DKN5qpqsN2iJP5a8zsZp2JlxgBOPOAELRh6xN6BY4xIOoy09yW6LOlMRYSVwLzFhCFV0bY5RZuim2CV1Wpe817tdUdlPvwye6hEOEYKk/nTKvnJzbfYOURG3oLBByy1B+kzcOERaP6aJbO7TiegNEVqshYEfl+O6apGbUMyCDRAz1OGqu9wftN795DGYh4a8jOAHOQppzE/UETVT/ganYYzUhaqV6pr6XMtSYJKmXKJZ4CGKarHPpmJ1d1HSx3OdmG8tFBeJlqgzh9o4fo4GEg==;bgE7m4HhuSBvqU+f2zw6jA=="
+secured: "Sp3F0pFumNxbNUeQWCeS1vPMTUrek8ujbHcihivt/NQLsvzVWp/xbHAJu5ZaNd1e/GYe8oBYauThnj0XipQwyWpwF+KTO4sqj0ORRgwsXlnZMszyHZofAeFKV1LRoQJiAVxn0tRC1VlxJ+o0IY+EhhEd1nM5yBzbOj1mdppl2ibNrTfwsW9ocrAwspzbtOt2mn97dw17E88+HR3FrNDn+Zmf48t8dsx0lkwm7gkQ+RVzzw2mjsGc8xszvvKIxCtKV+GLA0HljO9ki/il1wy7tA==;15QA4OfZq9DrhvzLddWTrw=="
 ---
 

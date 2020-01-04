@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -56,7 +56,20 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "g2SqViBVHOk6E1elVDamVgRFbFSB18wxzsjT1sebV2gg+JKez9oQGT/+UeZY/1CBJPXWqSwKFEZ4lkVRqUPZM6aapDw+QbR+9AN0Jf+tbMjhmBLToA5T7eoFhme1PS/PntmF4wTr2o4VXfPno1i/RMuMdag08GytLzX3PemNs1YSVenqu0f3RcUPkQx1aAWjXs6XG4Z2jSMno5B0gBJHLuTFhk+vOZu7E/Dib/PKsA1qc/uzT1pu+UBPSppMDwKeZgSlq3TL0eJ4ELLi605VdQ==;tAp7KJy3PKyx4/BpaiIl/w=="
+secured: "6TsKpAZhkegepwyQDndLRb6+rYIKezukyNvdvrMyb33w1WFv4le5xTrjrrLFW+du7fNf/8ZOQgm53I68PGCISiX/u5uBwh9RPGUJOH2tBEA/5b40agMT6LijXs6hqDZtGE4vC/wIydA5Z8Z1mDu4qywvXVAXbPQ48MU3i2nzpYfUUaPDuS/iOv7WWfBlfrXCJaZ02EI3STQEYFBAMUwaSKwTcyiJx2loSLK/yRLZNsv485W3eSV0CX98LxYVOIgjujbet2exCHA3+uOn5gagJQ==;oClkQEgUmoLO3IzJqNjwTA=="
 ---
 

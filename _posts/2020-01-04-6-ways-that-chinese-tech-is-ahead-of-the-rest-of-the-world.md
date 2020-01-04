@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -74,6 +74,6 @@ related:
         width: 660
         height: 440
 
-secured: "cC2HPD6/AHdaahWSd3GgP99QW88w9n2NFFHHhP4tNR9aHJkZzMblViSqCUnRKj/zQv1cWtxl+FBb2B6+RJpEolITWK7ryQnBjiAUpWL8MXpAxfycsx/9IlTI3wk+SyvpXym8uFoHn0wKVuj5tIJ2jswWSkxCDCJfjjhpBENumnJTLKpSYm1ur1WzlhaflZ7uMiLdOoj4YgOFTdNLIRV4ZhspgTfI0+9FJNZRY8yRPep1BvbWluPuMKCDPg3mrA18KbYMZpN+6htExalGtugdhg==;4GQErXh7YxHjAUykawX7Eg=="
+secured: "tjTmLj20icwD6/0Xea94SGfscsx7ihQ8KuWto3kjAvVpURoFVGY4rNaIVXnU4MCIkCrNto+VPatd/uPdVnnuayGYbwNtAPvsGEF31Kp55PyedFa15Rsdn1wgjnrvf10YqIBxc+RTeKnirWBYFQGYxFRMO6TIgVDJZ9cxWtwi1S6nJuGfQfflFB8GvBJFAEtxP/KpLRl4KYtXOwZ5y3BkM6Fk4v1IjNqUCy9eGsgnmhvWIEhG1mWvphQjhWbl4Im8YGBTO6uzEdkmgDd1WzWHFg==;gfjVL4PU1fDDlmq80dRv1g=="
 ---
 
