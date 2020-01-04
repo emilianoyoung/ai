@@ -20,17 +20,17 @@ topics:
 related:
   - title: "What is Natural Language Processing (NLP)?"
     excerpt: "Passing a middle-school exam might sound mundane, but it's complicated for computers. Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ..."
-    publishedDateTime: 2019-12-21T12:11:00Z
-    sourceUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp
-    ampUrl: https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1
+    publishedDateTime: 2019-12-21T12:33:00Z
+    sourceUrl: https://uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp
+    ampUrl: https://uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp?amp=1
+    cdnAmpUrl: https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/feature/124190/what-is-natural-language-processing-nlp?amp=1
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
     quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C34E0A3A75A0AE4E65E287AB1B6FB8F8
+      - url: https://www.bing.com/th?id=ON.1AEACDFD1183AD6DAA5BAA0CAF2BE219
         width: 700
         height: 393
   - title: "Google Cloud Team Releases AutoML Natural Language"

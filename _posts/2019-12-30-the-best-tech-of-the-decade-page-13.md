@@ -8,7 +8,7 @@ ampUrl: https://www.tweaktown.com/articles/9301/best-tech-decade/amp.html
 cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9301/best-tech-decade/amp.html
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,49 @@ images:
     title: "The Best Tech of the Decade (Page 13)"
 
 related:
-  - title: "We're on the verge of AI developed drugs becoming a reality"
-    excerpt: "In 2020, we will begin to harness the power of artificial intelligence (AI) to create new, life-saving medicine. In the past decade, we have learned a great deal about the complexity of diseases. We now understand that biology arises not only from DNA, but also from proteins, metabolites, different cell types and the multiple interactions ..."
-    publishedDateTime: 2019-12-30T06:13:00Z
-    sourceUrl: https://www.wired.co.uk/article/ai-drugs-medicine
+  - title: "6 ways that Chinese tech is ahead of the rest of the world"
+    excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
+    publishedDateTime: 2020-01-04T12:00:00Z
+    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.049C856CF26D9CDF30F0E172BE6FAB09
+      - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
-        height: 366
+        height: 393
+  - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
+    excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
+    publishedDateTime: 2019-12-30T09:07:00Z
+    sourceUrl: https://www.jsonline.com/story/opinion/2019/12/30/world-must-ban-autonomous-weapons-killer-robots-column/2729729001/
+    ampUrl: https://amp.jsonline.com/amp/2729729001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2729729001
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
+        width: 700
+        height: 393
+  - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
+    excerpt: "In order to keep AI-powered devices, such as those in smart city surveillance systems, autonomous cars and healthcare systems responsive enough, the data needs to reside as close as possible to the source. This shift has also been possible due to System-on-Chip (SoC) processors that lend more computing power to edge devices. AI based solutions ..."
+    publishedDateTime: 2020-01-02T01:57:08Z
+    sourceUrl: https://www.msn.com/en-in/news/other/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/ar-BBYwVjR
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
+        width: 660
+        height: 440
 
 secured: "DjqRQvfESkL0XB//XoseGddsFGJQqSrpObqVhRQgT30msov5LfOEd5BOJoZbP/+8eVy6innIR4eRIwirNxxV7WL9zyEKUXpgG28cTdAo/NllfXC0I0S6h23QkhybRWyaoUkGvAuQ8KAbPForIXZgeyIuUVWRnhnZJIJLwnyn5CezxllDvY7A29mjJpyswpuRN1+lu8GBK5f4cLRz70Uh8d36boI55SeIpoPQdcb/c3sM4/nF+mRiFWTxTAmGZDUJRuOhTxaeWROax1Fblvy1Xg==;PidDDgc0SFfMknBXS5KdKw=="
 ---

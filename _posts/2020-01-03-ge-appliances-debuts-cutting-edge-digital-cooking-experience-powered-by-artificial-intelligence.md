@@ -25,15 +25,15 @@ images:
 related:
   - title: "GE Appliances Debuts Cutting-Edge Digital Cooking Experience Powered by Artificial Intelligence"
     excerpt: "Now with a built-in microwave, the next gen Kitchen Hub boasts an additional third camera inside the oven that's integrated into an Artificial Intelligence (AI) computer vision cooking technology, creating a cutting-edge digital cooking experience. The new AI technology will help the home chef select a recipe based on available ingredients ..."
-    publishedDateTime: 2020-01-04T00:47:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ge-appliances-debuts-cutting-edge-digital-cooking-experience-powered-by/article_fa01e748-779e-58dc-baa8-831edee13bde.html
+    publishedDateTime: 2020-01-04T12:52:00Z
+    sourceUrl: https://finance.yahoo.com/news/ge-appliances-debuts-cutting-edge-150000198.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 25
     images:
-      - url: https://www.bing.com/th?id=ON.975EF8BBE0A9C7421F146DAE46572DCA
+      - url: https://www.bing.com/th?id=ON.006F6295571C08DADF1B6D9DF671EF76
         width: 267
         height: 400
 

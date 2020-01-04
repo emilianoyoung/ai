@@ -18,7 +18,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+  - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
     width: 1960
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
@@ -1235,6 +1235,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "eyTCO3tmSlv7UY6jiehZgyILPFNSSXQj7mmtQziwXzn4peBggkY+KtSZWUdL8ck/bhQ4ELV2wNbYE361VZkPJS1G7saJfcHupUe5NA4nrSs2537JLVpNX4rrpAPlCPlEYVphgy+yfkgWsrLMh6BHWLTjCv0xk/c/MUWyPf2B03Y72x4g9ksnBkIPyhqGlw1w4VKdQPeJqOfr3Ol8SyO8ZpLrktTfAx4zLLMxq9jp2FlnwvIYuvBRNqVwBOn0TIFFkRdtBoBwgREDoVUHZX8QsQ==;tzCb2YU6syItXO1yulCAgA=="
+secured: "oc5oKlQpl6vL5CLRkFahgSiq+eE8iO9n4ZiUQ3zzctzMhGhaewAOI0pJZjZBCzv/I8Pq5Cr0Wkf3gmPMC1wSNEdXkEBuRKanFU8Z1cBU7rJ78zcEsh+uIt0xufvLAWSq3ypWUyQNOK0h00YMxf5MKQrorcfnVbx9+mwTGLm2TJx9kvLGhtzO9lmGDzROGPzhyu1IKKSj2qx69Jo12BfzaShpJQ3PT3zg+y0GozHPHBgrfxiam9k2bbvaB+ksst1/CUBK5ul2DZw4aZ4b+QVtww==;eTKzsNnyTfXozEtCXDS06w=="
 ---
 

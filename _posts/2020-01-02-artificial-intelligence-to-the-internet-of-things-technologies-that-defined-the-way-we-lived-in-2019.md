@@ -24,32 +24,51 @@ images:
     title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
 
 related:
-  - title: "Top Movies Of 2019 That Depicted Artificial Intelligence (AI)"
-    excerpt: "Grace is joined by Sarah Connor, and the now-obsolete ageing model of T-800 Terminator — the original killer robot in the first movie (1984). We all know Tony Stark as the man of advanced technology and when it comes to artificial intelligence, Stark has nothing short of state-of-the-art technology in Marvel’s cinematic universe."
-    publishedDateTime: 2019-12-30T10:36:00Z
-    sourceUrl: https://analyticsindiamag.com/top-movies-of-2019-that-depicted-artificial-intelligence-ai/
+  - title: "6 ways that Chinese tech is ahead of the rest of the world"
+    excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
+    publishedDateTime: 2020-01-04T12:00:00Z
+    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 56
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.2A1247EB945B05F8D4AF021CF9FC8E35
+      - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
-        height: 466
-  - title: "Top 6 Smartphones That Flaunted AI In 2019"
-    excerpt: "By adopting the advanced CPU and GPU multi-core architecture, the makers have tried to offer vast AI computing and the other focuses on specific tasks to create improved user experience. Realme’s Helio P60 AI Processor empowers system on chip with unprecedented wisdom. The new octa-core CPU and high performance GPU contribute to a boost in ..."
-    publishedDateTime: 2019-12-23T11:33:00Z
-    sourceUrl: https://analyticsindiamag.com/best-smartphones-ai-machine-learning-iphone-pixel-apple-google/
+        height: 393
+  - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
+    excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
+    publishedDateTime: 2019-12-30T09:07:00Z
+    sourceUrl: https://www.jsonline.com/story/opinion/2019/12/30/world-must-ban-autonomous-weapons-killer-robots-column/2729729001/
+    ampUrl: https://amp.jsonline.com/amp/2729729001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2729729001
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.5647C4809C9C4DBC0E70247FF5D3B912
+      - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
         width: 700
-        height: 399
+        height: 393
+  - title: "The Best Tech of the Decade (Page 13)"
+    excerpt: "Intel entering the GPU space means we'll have a 3rd player -- something that hasn't happened since ... You thought I was going to finish this article without mentioning AI, didn't you? We all know artificial intelligence is littered throughout our lives, but I don't think (even most of us) really know just how much. It's not just \"OK Google ..."
+    publishedDateTime: 2019-12-30T03:49:00Z
+    sourceUrl: https://www.tweaktown.com/articles/9301/best-tech-decade/index13.html
+    ampUrl: https://www.tweaktown.com/articles/9301/best-tech-decade/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9301/best-tech-decade/amp.html
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.AEB7303E23BB3303DD45A4090DA56298
+        width: 700
+        height: 324
 
 secured: "96bsPZq7edrTY0mnck59lyUmS4wdloGn19Fv+gS1AzK7kL4Py8G2/BeflBtR+dI+AFQmMik11uOVJ6wYNhuVTVQIBOgUPjRddLcKYKZ/U6HfOzqTG/w7PJYZKCFkASWprylZ207JuqKNIWJaNqhNwNPO/PY3ttS3L5cgKxTi/9QibPH5r43vUvvpUCdippWC+L341DgB3I/9d67F4HLklwsTikpveJV4eIOgxGSB+us6Hz3775dVJG26Ae+/nUVSIS12iIJ1BzWW+wfxhMTGjQ==;mMwlBSb+KM6QfJzKFfzsDQ=="
 ---
