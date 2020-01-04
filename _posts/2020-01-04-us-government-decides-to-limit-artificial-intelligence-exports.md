@@ -1,28 +1,30 @@
 ---
 category: news
-title: "U.S. government limits exports of artificial intelligence software"
-excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
-publishedDateTime: 2020-01-04T06:45:00Z
-sourceUrl: https://www.zawya.com/uae/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
-ampUrl: https://www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+title: "U.S. government decides to limit artificial intelligence exports"
+excerpt: "The U.S. government has taken the decision to limit exports of artificial intelligence software in a bid to keep it out of the hands of countries like Russia and China. With the new restrictions, which come into effect on Monday, companies that export geospatial imagery software from the country will need to acquire a license. The only time a ..."
+publishedDateTime: 2020-01-04T20:00:00Z
+sourceUrl: https://www.neowin.net/news/us-government-decides-to-limit-artificial-intelligence-exports
 type: article
-quality: 57
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Neowin
+  domain: neowin.net
+  images:
+    - url: /assets/images/organizations/neowin.net-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
+  - url: https://www.bing.com/th?id=ON.DD215E5C36A65F2E1E217764378A1D04
     width: 700
-    height: 466
-    title: "U.S. government limits exports of artificial intelligence software"
+    height: 394
+    title: "U.S. government decides to limit artificial intelligence exports"
 
 related:
   - title: "U.S. government limits exports of artificial intelligence software"
@@ -55,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F9D2EFCDE1243123D051E51A7A0E1284
         width: 700
         height: 350
-  - title: "U.S. government decides to limit artificial intelligence exports"
-    excerpt: "The U.S. government has taken the decision to limit exports of artificial intelligence software in a bid to keep it out of the hands of countries like Russia and China. With the new restrictions, which come into effect on Monday, companies that export geospatial imagery software from the country will need to acquire a license. The only time a ..."
-    publishedDateTime: 2020-01-04T20:00:00Z
-    sourceUrl: https://www.neowin.net/news/us-government-decides-to-limit-artificial-intelligence-exports
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.DD215E5C36A65F2E1E217764378A1D04
-        width: 700
-        height: 394
   - title: "UPDATE 1-U.S. government limits exports of artificial intelligence software"
     excerpt: "WASHINGTON, Jan 3 (Reuters) - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software ..."
     publishedDateTime: 2020-01-03T22:55:00Z
@@ -79,6 +68,21 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 65
+  - title: "U.S. government limits exports of artificial intelligence software"
+    excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
+    publishedDateTime: 2020-01-04T06:45:00Z
+    sourceUrl: https://www.zawya.com/uae/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
+        width: 700
+        height: 466
   - title: "United States limits exports of artificial intelligence software to rival powers like China"
     excerpt: "The rule was likely to be welcomed by the industry, which had feared a much broader crackdown on exports of most artificial intelligence hardware and software, he said. The rule covered software that could be used by sensors, drones and satellites to automate the process of identifying targets for both military and civilian ends, he said."
     publishedDateTime: 2020-01-04T06:31:00Z
@@ -108,6 +112,6 @@ related:
         width: 700
         height: 367
 
-secured: "hXD8dJNN9RDuQwHz16CEZ0ugXbENClu4aXW++8hlUxLh0GRy3CBbkEYmTuF7xHL/EMiyI1cBd0PwunoVAKaiyaazqhlxVh0wUFlaPG102Eg2kt+/db5STbST3zbFzNc6sCE2jQrVlAM6Nf19/1cI/XZiFnsZA2z1hO/LQ5XkmRG5qc6sg4c1cZ4HXGgRjkk4kYeL6MRw4/VLTrQ2SDyXZ552QcpJ2CE2NSmOvi08Dcx/Ef48QzumQn3dLRR2Pe5oHdaCAjJyvg6EF4wtbTf4Nw==;0aRTuW9BGZ/6EM5hmlFZiA=="
+secured: "E2ILNwkWy2pZcIfF3OlUWytyyYkG4MRYmoANKDJPNSkw6kKDJ6BfKflXx0PnEFTt6cHEG2P/88ptuKCK/q/q35pAjFODR/an4KAaBjV4kHtltzAC+/tzRteNJo2idaeT/K7wzFNsV5HVr16VpqlCmscfc0X9yuJVYKh1ESZT8deT4na416H8X6WceS1qK+akQLpyzDRglyXlVuFfrovGbV5c1UnIwYKMy07fpdFLTfqJ4GKjhCYqCu1bHm8wl+AiVO0LDogUEVM/Rt98Dd/MAA==;vFPTr+wg799WOVIZop/CQQ=="
 ---
 

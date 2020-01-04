@@ -1,28 +1,26 @@
 ---
 category: news
-title: "U.S. government limits exports of artificial intelligence software"
-excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
-publishedDateTime: 2020-01-04T06:45:00Z
-sourceUrl: https://www.zawya.com/uae/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
-ampUrl: https://www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
-cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+title: "US limits AI exports over fears it will fall into Chinese hands"
+excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
+publishedDateTime: 2020-01-04T20:40:00Z
+sourceUrl: https://www.msn.com/en-us/news/technology/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYCoos
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Zawya
-  domain: zawya.com
+  name: Engadget on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
+  - url: https://www.bing.com/th?id=ON.94C4B7CA941113295B99CABB7F1DA5E3
     width: 700
-    height: 466
-    title: "U.S. government limits exports of artificial intelligence software"
+    height: 367
+    title: "US limits AI exports over fears it will fall into Chinese hands"
 
 related:
   - title: "U.S. government limits exports of artificial intelligence software"
@@ -79,6 +77,21 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 65
+  - title: "U.S. government limits exports of artificial intelligence software"
+    excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
+    publishedDateTime: 2020-01-04T06:45:00Z
+    sourceUrl: https://www.zawya.com/uae/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
+    ampUrl: https://www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/TR20200103nL1N2981IWX1/
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
+        width: 700
+        height: 466
   - title: "United States limits exports of artificial intelligence software to rival powers like China"
     excerpt: "The rule was likely to be welcomed by the industry, which had feared a much broader crackdown on exports of most artificial intelligence hardware and software, he said. The rule covered software that could be used by sensors, drones and satellites to automate the process of identifying targets for both military and civilian ends, he said."
     publishedDateTime: 2020-01-04T06:31:00Z
@@ -94,20 +107,7 @@ related:
       - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
         width: 700
         height: 367
-  - title: "US limits AI exports over fears it will fall into Chinese hands"
-    excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
-    publishedDateTime: 2020-01-04T20:40:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYCoos
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.94C4B7CA941113295B99CABB7F1DA5E3
-        width: 700
-        height: 367
 
-secured: "hXD8dJNN9RDuQwHz16CEZ0ugXbENClu4aXW++8hlUxLh0GRy3CBbkEYmTuF7xHL/EMiyI1cBd0PwunoVAKaiyaazqhlxVh0wUFlaPG102Eg2kt+/db5STbST3zbFzNc6sCE2jQrVlAM6Nf19/1cI/XZiFnsZA2z1hO/LQ5XkmRG5qc6sg4c1cZ4HXGgRjkk4kYeL6MRw4/VLTrQ2SDyXZ552QcpJ2CE2NSmOvi08Dcx/Ef48QzumQn3dLRR2Pe5oHdaCAjJyvg6EF4wtbTf4Nw==;0aRTuW9BGZ/6EM5hmlFZiA=="
+secured: "+SlZPwWZLwke/IVk93ctWeZ/UIrZDLaSYmZHcX2IqQtHnNTmudn4QUT//ptoJW5nlgpBUjVXbCw0xGmwGnlld700tPYpv1EQicelEX7eTzejCN88B45mihIHOVtrq0xFNFMdvcuPwEdAWVxmjNRf2g9WrQ7Z2OCoAbvdkGsHTdmkgpSBc8HWgn0TDKp+usii7FA1ltDBNRDUEkFjKC+M7COjFtYzR2DHc1n0dzSF1YQ0j+w1Ea69sONQTvrl+C89bPfwad7qo/wLEKyb8/EynA==;WICXjfKvajk7eAJUKoalCg=="
 ---
 

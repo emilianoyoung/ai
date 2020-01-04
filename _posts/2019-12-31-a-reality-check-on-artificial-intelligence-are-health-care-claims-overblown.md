@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28A94546AEACFBF74234CCFCD769477B
         width: 700
         height: 463
+  - title: "What is artificial intelligence’s future in healthcare"
+    excerpt: "She also needed no opioids as a result. This is just one example of how artificial intelligence is transforming lives in the field of healthcare. We now have mobile applications and devices that are making preliminary diagnosis of life-threatening diseases easier, cheaper and far more convenient. Miiskin, UMSkinCheck, for instance, help in ..."
+    publishedDateTime: 2020-01-04T20:11:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-future-healthcare-192751819.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.FAB7260ACDA75BABFC1A2829215CB2BD
+        width: 660
+        height: 440
   - title: "Issue of the day: Artificial intelligence in healtncare"
     excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
     publishedDateTime: 2020-01-03T05:50:00Z
