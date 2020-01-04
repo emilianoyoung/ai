@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Indian police are using facial recognition to identify protesters in Delhi"
-excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
-publishedDateTime: 2019-12-30T21:20:00Z
-sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+title: "To learn how police use facial recognition, we must ask the right questions"
+excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
+publishedDateTime: 2020-01-04T11:00:00Z
+sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=feedburner
 type: article
 quality: 37
 heat: -1
@@ -18,10 +18,10 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
+  - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
     width: 700
     height: 393
-    title: "Indian police are using facial recognition to identify protesters in Delhi"
+    title: "To learn how police use facial recognition, we must ask the right questions"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -755,6 +755,19 @@ related:
       - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
         width: 700
         height: 525
+  - title: "Indian police are using facial recognition to identify protesters in Delhi"
+    excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
+    publishedDateTime: 2019-12-30T21:20:00Z
+    sourceUrl: https://www.fastcompany.com/90448241/indian-police-are-using-facial-recognition-to-identify-protestors-in-delhi?partner=rss
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
+        width: 700
+        height: 393
   - title: "Indian police are using facial recognition to identify protestors in Delhi"
     excerpt: "Police in Delhi have now used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about India’s new citizenship law that has sparked protests across the country, the Indian Express reports. Protests have erupted around India after the country’s parliament passed the Citizenship ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -766,19 +779,6 @@ related:
     quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
-        width: 700
-        height: 393
-  - title: "To learn how police use facial recognition, we must ask the right questions"
-    excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
-    publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
         width: 700
         height: 393
   - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
@@ -990,6 +990,6 @@ related:
         width: 336
         height: 254
 
-secured: "e9vQgpWIzTDqvvgNts+sFkbh2dhGp3D0AR9r0I3uzE8z1MIQG5igRbBYsdUQPlCtBN1rdWSsuq3nZPF81ooCR8tAqYWSdS8R+sheSomLIfZnUc8iktkcxBNJ3oHe2qX0Mir/zHBq3PnnWJBo0hxX9IHg0ImhknulKs37qpZkuLepHllsoIM9M4z64VqQSvwAle/kIxhdhT8XVb4Wn3vEzTrG1I5E77n8oZmjqjgkjCDNM0rJvNw5paCm9alQNOaacEoxd86jj7/6EFDC2TtYCw==;8MfUPJ7ufI8rnYHN79QbVQ=="
+secured: "/gPvEK6TfEZ2i446ClYEdqsPSV/e300wynOHZAkqB/NGDoQyefiZp5o/ISAwTtq3zV/hcjJn0OSvsnARW70uLOdmmC3hqyA+Uw6zLxQmcUgNM4NNs1AgCPK5HcRKq4sC5qcJCuvuI8hFehArpFQkSW7gRjlzEXr8vTr5jmD+yWCezmpg9Ywyhg8EL+jo83NVlcKNlL2PILttQEySEHj7CkYMUuQF/RhOI6/R0FHY9/JLW/zTOIqyrE9i7FnnrdfGnuZ/wgXKh1djzM1xhmmmlA==;wdLuMPHuGsvoQmuCzs4ezw=="
 ---
 

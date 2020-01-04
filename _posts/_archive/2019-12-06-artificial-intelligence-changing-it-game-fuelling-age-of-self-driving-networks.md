@@ -52,31 +52,7 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "NVK1Y4Hu3eTiOz2z6ME6XyKYhvsRKvkxn1gmI+mLkTPgJdG1LwSZGTEk4f2/lmzk6FSNNKDrNHzrHc7AB3EvcSE2HfsbdIJOg5bYOUUfUjuME4e+QxqcIN80o9bzNgM/x9x4is3Va+dn7uLZmgL4E86NWP/z8GyJGro+dPLi04t/SysFp/0axnPa5J/KFOauHcaaLns6nD5mJvFyBrt8LeNhVFDWt7tqHckiF3GX5gjX3DVSL4/CBFFX4KXKkKBXczpZWi4ulFJmQnMzMHhbtg==;rxqnl8cXKkMkWYKh55ikrg=="
+secured: "thfyhckUiavs9Qn2kikR+BLQM/M+x3OrDog39ncViGwR2GeTNEWlKu0LcxyoooZMa/tRXNFzMjWrVWrGvPLPfCTqYMNfGEbjPjCwpMxPRqa4ZNPo1eyidpFmnQ3YJHFhdaflnDJxJZOWskMxiG9wbU/7YrvDpRbhdc0s8Z1q080r/zQaSLftXApH07mnyke2ZhK7EOKx44UXuznxO5z9hL9w5sLdtrXNYLc5EIKgFBJWD+oTrlpax+aNCBYZzMF0Do9DvBOxNJ31/qe8kqmPGQ==;2tTeZ1mZ9ZtcKGn7w1whcA=="
 ---
 

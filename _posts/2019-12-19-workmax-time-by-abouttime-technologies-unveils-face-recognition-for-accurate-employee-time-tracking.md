@@ -46,15 +46,6 @@ related:
       - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
         width: 600
         height: 315
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-18T18:26:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 2
 
 secured: "t7GVG/ofx952KCCv1mVP1sggmFdHzrWV6O3UPYRt7aqfK+WCklfWJin2QnY7ES5fMjWPmHqNo5YbR0n7nDBI5GWSAq0vOLPlkEpV4ILfPQWpu8TaJfde13+JOQCNhUfmZ2WfbvU4vsldOkA7wr9FtOXU+OUubh34LzVPWKHs1amEfpbuNtMmyEapM7wwhMdPRYfMGN8O00J12A5SwfnSjbmIQsBB+jzAM/MQT4PrfMaIkpLtOPUGuAZtlSXecR1897IwNKUOmZhPF68krDmW3A==;rr4k/mkiR73vNMVrf644MQ=="
 ---

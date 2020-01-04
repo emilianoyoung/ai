@@ -1,82 +1,48 @@
 ---
 category: news
 title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-publishedDateTime: 2019-12-05T21:21:00Z
-sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
+publishedDateTime: 2019-12-05T20:42:00Z
+sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
+ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - AWS AI
 
-images:
-  - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-    width: 1200
-    height: 627
-    title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-
 related:
-  - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
-    publishedDateTime: 2019-12-08T15:55:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
+  - title: "Amazon and the NFL plan virtual games to understand real injuries"
+    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
+    publishedDateTime: 2019-12-05T22:16:00Z
+    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+    ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
-        width: 1199
-        height: 763
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
+      name: digitaltrends.com
+      domain: digitaltrends.com
+    quality: 54
+  - title: "NFL turns to Amazon for help addressing player injuries"
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+    publishedDateTime: 2019-12-06T15:42:00Z
+    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 35
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 799
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
 
-secured: "CxWGunSA/xJW59vydfgjG4tR87znE54Ki9IrLRg9blaQyv/q+KKtao/m+8C/Uso+qB+D+HiVCxCrEjcRJNWVN3S33HUf1dvBkqRk6rGmwgZKXwiCSkEZyzz9Gi6NIxB7eJ/EzPfKlz7E0sJmK2rERFkS4WMnCS/7h1wHIqwinXUq33pYzd+NddFqPlihitazO/l8nrVX/2Wnr0y2OFubYECy82roHiWWDDBNZcW4IQ+Vr00UJ0mctZ8N6XLqwNzmugIWxSMEb3yBw17zvTkqEw==;wt9nYGDO205xLJxgU5/tIA=="
+secured: "/XtT6K2M03VInzVRPixYZY/E6KLsQHBeKMxJJSSCwT/XAIgjoLGbMn9cE0UvgRD6aPqkXF5tvWElk9bhDboiP3n66LyyqTF2JcCsYFybE+zddqwvOtgCfwwxcpIHTyGmC9tFRtCFCQRNaBH236dIjHqJcMWX2bnkwONHmo1pRZwcUUHm1IPw3ZbNzYrPDzFibxbppcZjSrziE5Toc3lNbMqr5KfPxhK+tPSq5Kr687Ysn6mP+JWET31hVjS1nolKAV9vXRk5aHKBoW9WXd04pA==;Xnw/2AQ8B1Y+/5zdRYTW9g=="
 ---
 

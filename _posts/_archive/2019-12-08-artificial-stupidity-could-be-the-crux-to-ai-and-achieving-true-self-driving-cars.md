@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -56,31 +56,7 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
         width: 1920
         height: 1080
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "il/F/g3AriUq6fbP1qw4+e/KiwVAmAkXZ5CLBZIwukgM+GJcPO1Uxdk3JLC8Nbkqx2HkpSjLWj5PVg0AuvjoH61++hIYwBGBbUADDuTNHKer4lK3QTcrkp62EiZEq16eHDI3520DWEZDUOh8jhlHTjqcu3AsyunjaLo0GdwNwXrIb9zGJR60RQaaGX1NIl/a40DySjnNSM8moKyJAay8jNdRkiFAdf4m32ItxD3cxbgAcrEOPlwypc6mEzSnffKBxWRFBCYWWe+VDhKGzMVTVQ==;L5hX1LslU6LlRmv2dVSEZQ=="
+secured: "RKrxQd6GpF3jBHrmOYFefqhOBj/6o8UQiyzjCTJAYWmmHbtB/jnNo3q6qohGfXh2ootXV/IQI0VPprGQrMDSFmY4z9EiAthLu9CnqC9T1wxwpNYwBQZgZSmZkQ9L0Z7yzb0A5A+eafASnG9qC+yQLtejTbAuooPFVFjwX/eV8QNkYxDOFRp51I+W3f1GH+5MyAI9S4VzenSlqnxXAz06Cm4U3oWVBYDcpHFsQe5KwNlvnrBsV9hjW2i9TVOmWz7kyNtaGMISa0GTYuxOmouK5Q==;NUSBh4LUmvHb8licE+mmCw=="
 ---
 

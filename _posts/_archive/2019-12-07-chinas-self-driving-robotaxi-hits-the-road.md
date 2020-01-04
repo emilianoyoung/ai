@@ -52,31 +52,7 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "jgX+anZDRucl/UL0M7HsT+snLX7/vAe90yA4i6BeXc1dRLnlP/DaYGCK4YBBncwuLxWt+5oM6J/m/YQmbyuKgPlEsdBpf7w5QCSZbNmQlyf8s+IFKos0MKdUjc9oI8OfP618ocVZKVmomVpkoPL/xcwuEH6sqlhDPlZW1KB+JJEyvKEodE2OM6+ZsxYnE2csrgVAUaA2iV2AqR1SnPXPKSEaUsBjl8UQSKDcl8aumeqdnoMj/tV/ejqVdh8kzp7GX04j+k7vv7JWmF06SDvd5A==;PSxVAnv81R/ok3LxHcoKXw=="
+secured: "ALszkz5MUIJBR3Kc4mLVA40WXECrlQ9smDx+C2kilF5E2ypkb8tYY+NDH7td/gd4fJAsIlDS7HVf+A8oGPo3D9UJZrFvnSFdXUy6fgyQ8mGq3/Wl/P/Uwxqc/7tKvgeNE/f9UGDg/DTRfJzSw5D7Jofk+3oHJ9mdOVmrr6HWa3xcIb4/4w1x07OKcbFB+DFKxuHz2MFs4esoufXdTc4nd5kbUKJ+jPm9gQ1Txlwb1oX7NRj4FGe9VvXWJ2nODxHLbxj29zto8kQm4in+Vu5WqQ==;lbMmkLRns60alCVISGbZrQ=="
 ---
 

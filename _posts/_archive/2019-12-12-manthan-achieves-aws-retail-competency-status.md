@@ -2,25 +2,27 @@
 category: news
 title: "Manthan Achieves AWS Retail Competency Status"
 excerpt: "SANTA CLARA, California, Dec. 12, 2019 /PRNewswire/ -- Manthan, a leading artificial intelligence (AI) - powered Cloud Analytics Company, announced today that it achieved Amazon Web Services (AWS) Retail Competency status in the Advanced Retail Data ..."
-publishedDateTime: 2019-12-12T08:01:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/manthan-achieves-aws-retail-competency-status-1028758630
+publishedDateTime: 2019-12-12T13:09:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/manthan-achieves-aws-retail-competency-status-300974031.html
 type: article
-quality: 64
-heat: 64
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Markets Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AWS AI
 
-secured: "ekVdzRlLDq7VJeu2Ngntnv2429JExIS4+N3niLTwh85t27j0hBWrUdgMCAOdrRXgw51cGJqlN4VIDoCHRUNXKuZ9/RIQl/fjCWUJfpnQd9NLicxJkVUNAm+RB08jTfFzTExvbxDJ0iGMVxQhSt43rIySH99k2cBXGL9fDasGf7woulm2u2ttG1gByJEN98mblMca/MoisNajquz67I0l753F53VOXpebqmjklCVdhzoDzKdCLh63Sep5RAwnXDBMmm6nNLXNG/eoUb/8VDzZXQ==;bSngwLVBxqmyYSxvh/EkfA=="
+images:
+  - url: https://mma.prnewswire.com/media/1043013/Manthan_Logo.jpg?p=facebook
+    width: 597
+    height: 315
+    title: "Manthan Achieves AWS Retail Competency Status"
+
+secured: "eL+Js0Xs5/hDxrXN+hEjJf1iV4u26Dz3ZB8G+PfRStJ+O8hTpfW9a56qA7eUVrD5nM+q8MYkDlXacs7OjCUnNoeKkVvxsDLZkawSWacajkmK4O9VJdvBF10YVdVywR4DS/ECeWwozHwJGNtlGfSTl1WqEBRGDiKGSvQTzz6rmre0DXwT8TVJ1DFw/Tp7NcvzahA7OaIdLr/bmozHwIiggU1OyzKj+cQDzhU94moEYSkBOnIGnDvReJQZwsBl6suJx7g1Ymb6XSc1Go+ZvWRgeQ==;joKEZgByOK0PbGOYKwDrkA=="
 ---
 

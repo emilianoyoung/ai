@@ -8,7 +8,7 @@ ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-fa
 cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
 type: article
 quality: 159
-heat: 859
+heat: 869
 published: true
 
 provider:
@@ -766,6 +766,19 @@ related:
     quality: 37
     images:
       - url: https://www.bing.com/th?id=ON.273395AB4EF0896F22B32376D82E8A44
+        width: 700
+        height: 393
+  - title: "To learn how police use facial recognition, we must ask the right questions"
+    excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
+    publishedDateTime: 2020-01-04T11:00:00Z
+    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
         width: 700
         height: 393
   - title: "Florida law enforcement agencies use facial recognition to identify alleged thief"
