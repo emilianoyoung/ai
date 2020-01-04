@@ -39,33 +39,18 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational ..."
+    publishedDateTime: 2019-12-05T20:37:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
+    ampUrl: https://amp.benzinga.com/amp/content/14941071
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: benzinga.com
+      domain: benzinga.com
     quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "Sp3F0pFumNxbNUeQWCeS1vPMTUrek8ujbHcihivt/NQLsvzVWp/xbHAJu5ZaNd1e/GYe8oBYauThnj0XipQwyWpwF+KTO4sqj0ORRgwsXlnZMszyHZofAeFKV1LRoQJiAVxn0tRC1VlxJ+o0IY+EhhEd1nM5yBzbOj1mdppl2ibNrTfwsW9ocrAwspzbtOt2mn97dw17E88+HR3FrNDn+Zmf48t8dsx0lkwm7gkQ+RVzzw2mjsGc8xszvvKIxCtKV+GLA0HljO9ki/il1wy7tA==;15QA4OfZq9DrhvzLddWTrw=="
+secured: "wG6ZI+Agv6y7swzuY1azw7UNk8x61E+z81arNRd3JvLUoNm9Ebe/rylC1bCI3gqfMHCRYbO/ULipbCjQ20sWdVJ3QRZtbthb3nrmVhWQwaMmQz5ebWkDeFcLuuSeLo9bHP+/b/JP3489j+hVbUrBCzKY3HPk5Dt8p23c+nv4823Yiu0M6cP4CI0G7xpWhPhEGdJY97NoY3ps3bkAoLMLf3oNyTmNqSl5VqYI8+OeG/ZkhTEn3DYiXT5OUGcCQ7RLqEUbAvLuqY8PhTXpdGrJmw==;8Ym6qdDO9ZzJJZADRyq8aA=="
 ---
 

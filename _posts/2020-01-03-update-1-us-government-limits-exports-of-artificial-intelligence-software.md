@@ -25,10 +25,10 @@ topics:
 related:
   - title: "U.S. government limits exports of artificial intelligence software"
     excerpt: "The Trump administration will make it more difficult to export artificial intelligence software as of next week, part of a bid to keep sensitive technologies out of the hands of rival powers like China."
-    publishedDateTime: 2020-01-03T21:50:00Z
-    sourceUrl: https://www.reuters.com/article/usa-artificial-intelligence-idUSL1N2980M0
-    ampUrl: https://mobile.reuters.com/article/amp/idUSL1N2980M0
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2980M0
+    publishedDateTime: 2020-01-03T17:09:00Z
+    sourceUrl: https://www.reuters.com/article/us-usa-artificial-intelligence-idUSKBN1Z21PT
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z21PT
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z21PT
     type: article
     provider:
       name: Reuters

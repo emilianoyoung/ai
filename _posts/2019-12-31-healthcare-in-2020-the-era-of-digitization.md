@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
         width: 700
         height: 381
+  - title: "Top five projections in Artificial Intelligence for 2020"
+    excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
+    publishedDateTime: 2020-01-04T17:46:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
+        width: 414
+        height: 364
   - title: "5 top tech predictions for 2020 and beyond"
     excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
     publishedDateTime: 2019-12-31T11:04:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -43,33 +43,18 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    excerpt: "and ultimately predict and prevent injury The partnership aims to leverage AWS's artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational ..."
+    publishedDateTime: 2019-12-05T20:37:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/19/12/b14941071/national-football-league-and-amazon-web-services-team-up-to-transform-player-health-and-safety-usi
+    ampUrl: https://amp.benzinga.com/amp/content/14941071
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14941071
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: benzinga.com
+      domain: benzinga.com
     quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "6TsKpAZhkegepwyQDndLRb6+rYIKezukyNvdvrMyb33w1WFv4le5xTrjrrLFW+du7fNf/8ZOQgm53I68PGCISiX/u5uBwh9RPGUJOH2tBEA/5b40agMT6LijXs6hqDZtGE4vC/wIydA5Z8Z1mDu4qywvXVAXbPQ48MU3i2nzpYfUUaPDuS/iOv7WWfBlfrXCJaZ02EI3STQEYFBAMUwaSKwTcyiJx2loSLK/yRLZNsv485W3eSV0CX98LxYVOIgjujbet2exCHA3+uOn5gagJQ==;oClkQEgUmoLO3IzJqNjwTA=="
+secured: "I2fjhqP771ANaHb+2qzVYSZZ2FwdUIphXYImWkotu8vD7JNYPtyFXDQ0zDyMlzlkRbT/HT+2ZxYrIVfnUVG0w12V8ohw6kIABoCaahmRJdfRuDtNCT8Ll9Mzu4+x3AbADNpzBuRuXeo34WcjC/q8KVeiEUvpBam9iNRHbwfCkC2XIZZN5Yx8t0RaV8i2rVofOabfRlAisrY+zR2KUNv5Y+4u95HdC1/1nN7wd+I5uFMPJNhr/AErnlhhUAbdNKBfp9HzFq9FAIcHqbqA7HPljg==;e3Hmy39J5sZ5OGbAbf+xgQ=="
 ---
 

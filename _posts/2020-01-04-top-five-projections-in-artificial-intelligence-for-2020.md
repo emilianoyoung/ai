@@ -1,27 +1,30 @@
 ---
 category: news
-title: "4 Predictions for the First Year of the Ambient Computing Decade"
-excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
-publishedDateTime: 2020-01-03T21:54:00Z
-sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
+title: "Top five projections in Artificial Intelligence for 2020"
+excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
+publishedDateTime: 2020-01-04T17:46:00Z
+sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
 type: article
-quality: 24
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Electronic Design
-  domain: electronicdesign.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
-  - Machine Learning
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
-    width: 700
-    height: 363
-    title: "4 Predictions for the First Year of the Ambient Computing Decade"
+  - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
+    width: 414
+    height: 364
+    title: "Top five projections in Artificial Intelligence for 2020"
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -54,21 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
         width: 700
         height: 381
-  - title: "Top five projections in Artificial Intelligence for 2020"
-    excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
-    publishedDateTime: 2020-01-04T17:46:00Z
-    sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
-        width: 414
-        height: 364
   - title: "Healthcare in 2020: the era of digitization"
     excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
     publishedDateTime: 2019-12-31T10:38:00Z
@@ -177,6 +165,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
         width: 600
         height: 315
+  - title: "4 Predictions for the First Year of the Ambient Computing Decade"
+    excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
+    publishedDateTime: 2020-01-03T21:54:00Z
+    sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
+        width: 700
+        height: 363
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z
@@ -215,6 +216,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "59TL4wTk87Pgb/oNVeYJUGlF3MjRAwTiDnqHtqC7c/3GaJc4abEJ3zOLHEfnAkcxtGgQb+Uu+LiSHTSukZuVSLrzbT83NMlExWt0S+hleVPfZJZ364TlZucJyRLLnrU1rM2Rgn84ymsVwD/18avGiCAUaE7y2WYN6My5b+Pt2W4+LnUqpGDwkKVCsRYJLk0ZFCCL3G/cW/pbKkFjnjy5eXpPp7otqUdHEf283/6CVzkYxCO7Dc6nhJbuySoQ+pIwsaTWIrDqxAjULrF0sxKo4A==;b0YK423e27uAOZ9/YkB5lA=="
+secured: "GEm2IofmS02XsJyD+HintpHUg+CbAThXZIqZYJEmDZYg9EM3u4ZiitjHoCmBAI8Cwku379G/fQ7ewk6Ngp7eI3uwxcjZHflEpQmw7Ldq+UMs8xNmQ5t5xm/DsqqHtbkJs3jZyVu2OfsONBwB8XcE8RRr6hdn/YXHsJtwUHM5+64LWzxrTRyHuw6j4SY4XFjgYtOX7V7F4DHFWXJIolMN8yKoStusjQQ2ucxELo47BePMvIwWZXv1nMgW1KEZsbd13asAg/xztfwG1uwJdhSwow==;0838WSo0cR5tXCHAclrLDg=="
 ---
 
