@@ -52,21 +52,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence, Psychology, and the Health Sector"
-    excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
-    publishedDateTime: 2020-01-03T12:36:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-    ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
-        width: 639
-        height: 413
   - title: "‘Healthcare needs urgent attention’"
     excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
     publishedDateTime: 2019-12-28T18:57:00Z
@@ -82,6 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
+  - title: "Artificial Intelligence, Psychology, and the Health Sector"
+    excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+    publishedDateTime: 2020-01-03T12:36:00Z
+    sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+    ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
+        width: 639
+        height: 413
 
 secured: "h87St4n6ihFaTg9b3pQkojXOzvo+kAiNWcMt9oMRbxZ3legQOhLfbJYdoWXlF7tVneGkZgY5Lo9RLTf0asJNxkmVK7QoJLouxSbMpEADXDhXYihHtlULBoVnspbEjwii4q1OO0mN6VXNUCDqt6UbBDd4O7/lvo3Fek3UzK3rpBxQRj9YY10AQHU5k1e7PzbvBmUI/3HQkny/OBWWCzFslF7lq+hSiao98YeeSx9sFtoMMOEPeeebmvySR/FoisXc+5FlEHNGC0tSkD6cu3dYig==;QhKUIfV33wIT+fBmJm1f5A=="
 ---

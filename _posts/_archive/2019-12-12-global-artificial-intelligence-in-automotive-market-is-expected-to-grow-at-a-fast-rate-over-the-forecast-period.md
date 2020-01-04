@@ -41,16 +41,7 @@ related:
       - url: https://idge.staticworld.net/cso/CSO_logo_300x300.png
         width: 300
         height: 300
-  - title: "Global Artificial Intelligence (AI) in Agriculture Market Study (2019-2024): Set to Exhibit a CAGR of 28.38% During the Forecast Period"
-    excerpt: "Dublin, Dec. 13, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) in Agriculture Market: Focus on Product Type (Software, Hardware, AI-as-a-Service), Farming Type (Field Farming, Livestock, Indoor), Application (Crop Protection, Weather Forecasting, Automation), Funding - Analysis and Forecast, 2019-2024\" report has been added ..."
-    publishedDateTime: 2019-12-15T00:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-agriculture-095857327.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "fVae6N5wHNRG6OkySZ7I+QDedgoNBohGmbaBI9Jk7ZoJo4ybB/InHb0TDnN04Js1OIcK61x4olGZ+gMUVSEEENf4GHy4gTyfqIqVJvBfJdSsVDqQpLUP30v6W6c0EfcwAqd/Hgd6hWzF/Ix3++fptQnybqEAImxbnaTt8HosepkS6v7E3RPpMe/pwImN17Dk40gGay5HZiJ1MI9Bc9fu/vXH26+nNf6SL1I6xrLiF0e6VFB6SuAlLCG5O5JFj2SccQ/NTWcFHT8UeId7s005oQ==;YDRMaNyoz56PmDPsOfvFHg=="
+secured: "CLNNuFFY0PSnbHB6V3fbmiiOzny6dAuzSIhiO7rDEoB1LR/F/yp3M19OSOM8q3qIZjtK+vhmzheKjlf/rwB9t2XfP+6RAmv/vsJkwybF7eAO0iHRfzZK/WdltWDf0fulpj2iI5ebswMR0vLTNUXcssG8D8ctVndxRPDgjokFDEr3DpBl1cEianZeGzFnE3WNGqd/tTWUdjkc1dEwclebT1v6adLekamG7tLjYaSacDDJAhAXSveoDi634CczjZSQu+hOEwCSPBDiYopdGnp15w==;3nfEaQfMN0SiV0I7S7tckg=="
 ---
 

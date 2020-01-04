@@ -1,29 +1,31 @@
 ---
 category: news
-title: "How AI came to rule our lives over the last decade"
-excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
-publishedDateTime: 2019-12-21T16:11:00Z
-sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
-cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+title: "Computer Vision and the CCPA: What You Need to Know"
+excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
+publishedDateTime: 2019-12-21T00:09:00Z
+sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: WBALTV11
-  domain: wbaltv.com
+  name: Medium
+  domain: medium.com
+  images:
+    - url: /assets/images/organizations/medium.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
-    width: 700
-    height: 393
-    title: "How AI came to rule our lives over the last decade"
+  - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
+    width: 1200
+    height: 744
+    title: "Computer Vision and the CCPA: What You Need to Know"
 
 related:
   - title: "AI is not a strategy: What companies need to know to overcome tech obstacles in their business"
@@ -41,19 +43,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B9B983B89372E853C463487D5464EA33
         width: 700
         height: 525
-  - title: "Computer Vision and the CCPA: What You Need to Know"
-    excerpt: "This article will cover what companies who have deployed or are considering deploying computer vision technology should do with the biometric data they collect in order to be compliant with the CCPA. The National Law Review does a tremendous job of ..."
-    publishedDateTime: 2019-12-21T00:09:00Z
-    sourceUrl: https://medium.com/trueface-ai/computer-vision-and-the-ccpa-what-you-need-to-know-928477de0601
+  - title: "How AI came to rule our lives over the last decade"
+    excerpt: "It's become so core to the company's products that a year ago, Facebook's chief AI scientist, Yann LeCun, told CNN Business that without deep ... Though much of this work is still in the research or early-development stages, there are startups — such as Mindstrong Health, which uses an app to measure moods in patients who are dealing with ..."
+    publishedDateTime: 2019-12-21T16:11:00Z
+    sourceUrl: https://www.wbaltv.com/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    ampUrl: https://www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
+    cdnAmpUrl: https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/how-ai-came-to-rule-our-lives-over-the-last-decade/30303067
     type: article
     provider:
-      name: Medium
-      domain: medium.com
-    quality: 69
+      name: WBALTV11
+      domain: wbaltv.com
+    quality: 59
     images:
-      - url: https://miro.medium.com/max/1200/1*YGkB52a5tgp8vGHleh2bAw.png
-        width: 1200
-        height: 744
+      - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
+        width: 700
+        height: 393
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z
@@ -94,6 +98,6 @@ related:
       domain: psychologytoday.com
     quality: 26
 
-secured: "+8Zk7JcvqAfJXV5tmWcK08OcYIMWtS121BCnAEpHp6KU+KYI7JgPqRF8WEBqnenr4iM4nJFypYn2SwJ9tdk9AgbgKThvGEN0coM14XLwo2juJ3sBDGBcVBhwca9aUEZvfoT3mNGZY1ZpTVD0XzgBAn17t6SnKg1tHfS+jxHL3CTN6F/mlzPhn8hMWtWBzAWqN5OFNpDLLtAjo71v6t+1XN2Q6A5NgU9N8x7k8ij23P+0iyVo3bnUm0pjYp0qgZrerWD2UOpWKdtB7S9YZvF8gg==;99K0eNMxJLpmVEx7X+VPnQ=="
+secured: "+sQbxRZhYDTpeGIJjejRs5ekuALbl3slr5AlvvR5jCktwHLDPxdLLb4BuW6+JwrLno2+tlp+lHBr735CfqsMCs/qqzr1jqVszizd7buOUCCiaEZX0Dd7c7g01ZYN1b9JvXTLFDXrGYhamTlYWwTnhii3MWqPA/bVvGEoEw1KJmGvkwbODBou0pnlEjFubMUGsNUWHmE93ZDDLeXgWi/RFglIMWNKo8j/F4BKgci0Ry4M9RGfh/XOPJVJO4Qr4n2lfGrmfprcDKouN3JS8xqS8A==;AhFQm3vKrJRI/5VzH/GjpA=="
 ---
 

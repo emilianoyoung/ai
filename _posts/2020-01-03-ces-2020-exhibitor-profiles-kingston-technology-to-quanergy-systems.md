@@ -5,8 +5,8 @@ excerpt: "U-wigo is a smart HUB that integrates Internet of Things and Artificia
 publishedDateTime: 2020-01-03T22:21:00Z
 sourceUrl: https://www.oilandgas360.com/ces-2020-exhibitor-profiles-kingston-technology-to-quanergy-systems/
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "2sqGzVoYCmR3QEVh3xg/926stCWY/UJCUnk1NWEv7VDzNkKgg7066ccZTO0Pc5K5ijpSQGWBmVtgXQlDHyXBfs5fkTlke/OgzleVtUFmXmksck8QPEoZ7vcG0rAvQgqiFd5kIiJCPuNdlixLy60+28hmi5VCY20pa7yMVMxNpxq5gnCvBAC9j+8XeL/THOrXj4KpkUnpPxI5WllGCZxmrJj47mre0r7FtvnGYMcSdhhaN0nFNgVELVFDr/msKlAmdUl0S89zG4YSHInEzDHmMA==;X+2akBTwc+kGa9Q+BI0ZBQ=="
+images:
+  - url: https://servedbyadbutler.com/adserve/;ID=170963;size=300x250;setID=287428;type=img;click=CLICK_MACRO_PLACEHOLDER
+    width: 740
+    height: 570
+    title: "CES 2020 Exhibitor Profiles: Kingston Technology to Quanergy Systems"
+
+secured: "3E4Rm57/O6XwLCljwazhCx0kzQQZVcO7qrCxMbUontghlQLv7x1LEIgHrK6CUDune2nZsNgaZURDMo7oBNu1ruZ+r4vRA1aFwGpXdfHfjazeoWmaw/LqEEsJPeeWRYAWD0QOiGGlQWaDIMhyK6BmZPaerDxOatAyxalnNxxDDILMn5q7RPzKwngP3ZY/o9l55ns4s1Gnj3tly7TSGRZDf7PWlo6W7RTwM4OQX2t0QlxdMc8CHupaI/U8reEaIZ5euPb9qoEU4t+DtWPE0KOeCA==;aQf6UMPVt5SNo+fencSk4w=="
 ---
 
