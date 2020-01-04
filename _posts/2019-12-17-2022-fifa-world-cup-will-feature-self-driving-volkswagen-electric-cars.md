@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-v
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -235,19 +235,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
-  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
-    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
-    publishedDateTime: 2019-12-15T05:11:00Z
-    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
-        width: 668
-        height: 355
 
 secured: "ghwyX+oPem5PvbhGB2/nSaBRvGChDAndelRsgNHsSdDYKtbQm8yuQcmrIAGhBnGMP27QLYmOjKrAa+4g3By4nO0PWtQu6PokKimK+kd2m4Dg1fIGtyVAIBnh0UeMknkUKHzvPiwyO7f5G6tyChIQN9k/q/BCWIWA+N0Xx8ttYtY7A99SUW/0OoGfpIlAThmG0jyiko2bhIV2RmqyU65Ih3lUZraz5fOL4UEivd3s2ruBaNAXlDp5WvNQ8ns8uXugwcEqvrg8gnx85JAaqKOVnw==;whCKsFkFbyCJTJnQjxX3sA=="
 ---

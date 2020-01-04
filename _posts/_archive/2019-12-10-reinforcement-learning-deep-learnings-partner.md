@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-lea
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/10/reinforcement-learning-deep-learnings-partner/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 504
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
-secured: "erB9fuoHQAD5XYO/ggjuSaIqwU3kMOjrnXQiGFSKzXaG2UUjFkaLRAEg35FBVx3eiOIZKeRCrobCZyr56QZO5QQJ94I13WunkbJB0I4F3y0ZZwoZOT4JMuOvhBwIP2k2g/Nk4qAghN4umtuTaVahvGQHyh/XPWjoW86LqVzDh2EWigI1szdAn2lE4mqOwQMhR7hqckDg81K31XnAwQp1BYf3/LCJZpCNkJ/tdVgNeVYoCtVkT5S0r3XKd9u//lvLyWIyUIJ7b79NapcIHk7C4g==;pMBRC9/m2v/gnAPOSCrm6Q=="
+related:
+  - title: "CFO Corner: Machine Learning"
+    excerpt: "On-board machine learning therefore has the potential to elevate security of IoT devices in the sector and even minimize financial losses if a cyber ... Steven Bandolik is a managing director with Deloitte Services LP and a senior leader in Deloitte¹s ..."
+    publishedDateTime: 2019-12-05T21:24:00Z
+    sourceUrl: https://www.cpexecutive.com/post/cfo-corner-machine-learning/
+    type: article
+    provider:
+      name: Real Estate
+      domain: cpexecutive.com
+    quality: 24
+    images:
+      - url: https://media.atre.yardi.com/2/68660/images/iStock-509646667.jpg
+        width: 1500
+        height: 1125
+
+secured: "AO2O+inUlcnqEfwhG7GXEd4KfWEIUIS4LboXExf2Q3gY6UL2mdymy+n38YHASakC3lLCPvjyCwdFu8VLoncqcn98Pg4MVEhD3IAoyepuaLf+bTS5EpbyuCiG7lelQiDIEXhhybwohJsZ9Guhx0g1s1LFuO7nzvYS27BUcDIPi5n8seRWIZRzQ6ClxZIVt5BkX4ggthfZFYU+H35k9pO9nsWzGxrkNFOKITeDAgjK8nCvun7TF+X1oQpV0MdyQTEe6xKFYuLe+xf5eJluTE0O/A==;JVdqdptFowTB5ckI1osB9w=="
 ---
 

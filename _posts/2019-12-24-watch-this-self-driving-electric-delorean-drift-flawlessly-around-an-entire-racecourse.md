@@ -231,19 +231,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
         width: 700
         height: 393
-  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
-    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
-    publishedDateTime: 2019-12-15T05:11:00Z
-    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
-        width: 668
-        height: 355
 
 secured: "/VffFgEUxr2nG2HD50jTG0dSTGZoH+0w0VE5Uba/obrBZ3Uhn3oZ2wzvvnuQe7dgkOqtc251QTtRaI+bCWuwB0Id9F3Tk57Pn0Uw/4Fj+CZInNcImVrYtEVSsLeZ+aBQuAS4/DT9AK0t9wLCz9Bi+Zp6Y12A/XzTNe1oRx/j10oigGLn40ciDJnPw7qoPc//W+p6IsbIiyZGCirgAky4p8V4oOgG3Iu/yHMXFprrU6TiLWXtT9aDTDQhRUWYbuAhVL2sjXiw7bxVZwMkBlSbqQ==;30vxJNskjHY0A7PDEMDJWQ=="
 ---

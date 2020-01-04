@@ -18,11 +18,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.newkerala.com/news/pics/r/jasmin_bhasin_iansf.jpg
+  - url: https://www.newkerala.com/news/pics/r/rose_mcgowan_iansff.jpg
     width: 500
-    height: 454
+    height: 456
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
-secured: "lojfrRlUGqEvTLsPEvGMMZEjEZftiH8jorhdUSbz7dGwVUpYp18c2j3JTXV1W4KND1UXdeYa1oHJWhQW6QIArquMn6tiBhh+3W7knNv92XEmxYvZviYHzN2YIUhvAWuDNycu5GFG5nQfgFpd3elyzZJZumA5OE9MMUPMc93j+jqaMHbb2x9eyGKlSt3CFmJ+g5Mn352P1jSzN82JUpTCHcSkuV0TMeH2XmzrdkHojnO+D7OqVEnngDWUgxap/HEvEWX2L8AYE+6O/rZdy0PKqQ==;4/J4n/6jx1IouRnTXp05qA=="
+secured: "i5kxkZyzTLUGzVuFCFWEaO4pz6vLudkktZzegfguF3fFD9Rll8l1BC8D4qVq4lGO6vq+odlhSxuTKjXJiPVAJuI8rgS2K1hOEbVeWgCrk2LYhxltzob3JoW1/Y3E8a0auRC3UuN4tufupXH06Xjj6tlRpBmunQ5zEfimdAzUySWJsckHNTTYJvZN6l6LxFK2Sw9AKAMX+dYpdjDuKVbFVMkkBBzw9sibHiHc5YC5sRYwl0fM9DZ/r5eBuXW0gDpW37ai5mD6gCU0NtG2MyZuAQ==;nXiesQLghXsVB2S2frLQQw=="
 ---
 

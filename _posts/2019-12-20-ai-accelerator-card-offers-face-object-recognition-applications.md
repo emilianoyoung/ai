@@ -56,6 +56,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "ndph1zNDk5tM8FALHBDNvPqAWaTOQzWtSnFrvheH6iAkMHyY6kw9EeQdIY2HDWx60nfKD6OVzdeYrk5XfiYz5X8hNtr42nIKZkhauuDJXXXDSyKv0pU/DCjiejbDojxtOKSFnBjIdA/TDWmcfxW6t5TGJNULyF9XI2RJoQIHZJjmXds+JzuB5DtyoM3VIP4syEJvJCF+gLBpdooODyly7i76XemoBA5DcNe3S5VW2f9u0CKR8Z8sPv7oJSDWGck7ELtYw3279wOPMcm1/p7iBQ==;9bK/TDJ0aI+Qd12uPhAO+g=="
+secured: "UZx1b9vTScrk9+AswqhcjSBkXt+K2wzWknXXemN32iT7Ep4j016wOiwl7hHMMfqEQKpNmV4cbflE5Jtonjn+TPlUBf3G5TCVW4F8CiePHNjtWE/VMB6snrmV1cGAojRvK1FdjFzWC0U8Bj+wZ+z5SCZlkK7WB59yv/uxgbFktcPGuP8hquDlDTeShK2IGSow5/i5vblD2eGKIiOEbbtMd/PBZ0/qZyu/dU/9nfgI8Zfz+MID9EMscSLUgKGY3occdiIVG+fO85jvVJZtE8JjBQ==;HDCkpSCbCwWqzEUF86Cfkg=="
 ---
 

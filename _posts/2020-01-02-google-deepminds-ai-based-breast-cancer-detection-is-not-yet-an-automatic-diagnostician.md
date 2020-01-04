@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/google-deepminds-ai-based-breas
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-ai-based-breast-cancer-detection-is-not-yet-an-automatic-diagnostician/
 type: article
 quality: 97
-heat: 347
+heat: 357
 published: true
 
 provider:
@@ -378,6 +378,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FE6B132FC938A489CA706EBE20A62DCF
         width: 700
         height: 393
+  - title: "Neural-Network Excels in Breast Cancer Detection"
+    excerpt: "The Karolinska study is another in a growing number that supports using artificial intelligence, not only in breast cancer risk assessment but in a wide range of diagnostic roles. This is a companion discussion topic for the original entry at https://healthtechinsider.com/2019/12/20/neural-network-excels-in-breast-cancer-detection/"
+    publishedDateTime: 2020-01-03T21:24:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/neural-network-excels-in-breast-cancer-detection/221140
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 24
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "9izbVFSKu7Ew51nMkzq282xWGIXg3euHFmp3JOScy51LpGcObJHZiH6F49j82whplZYyS4sw+xj5m93FZxS8fExCZcQ7DV2mdO782wPmzbM0E8570gyVW6YBqPGFLeq8Fdha2n6HyXmKNw1x6Osz6kiUxmxPQ1pUSkJg1vvuqIg5uFtUXVHYCgUR9w5M04uwC3v2l6l2biUkopWoMzyHa5R7x5UDMZDVxSrejcfrYqp54ApHtblMwhnS3WumbjZ0+t1RWsrq3+u7sWxogUiAcA==;Wi+cKDJowMoUPmoheu9f3A=="
 ---

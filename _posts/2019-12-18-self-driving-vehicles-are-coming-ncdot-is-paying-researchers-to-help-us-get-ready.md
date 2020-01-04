@@ -231,19 +231,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "QIA and Volkswagen sign deal to develop self-driving, electric public transport system in Qatar"
-    excerpt: "QIA and Volkswagen will work together to develop the required physical and digital infrastructure to seamlessly integrate a fleet of self-driving vehicles into Doha’s existing public transport network. Autonomous, electric ID. BUZZ AD from Volkswagen Commercial Vehicles will shuttle up to four passengers in West Bay area on semi-fixed routes ..."
-    publishedDateTime: 2019-12-15T05:11:00Z
-    sourceUrl: https://www.thepeninsulaqatar.com/article/15/12/2019/QIA-and-Volkswagen-sign-deal-to-develop-self-driving,-electric-public-transport-system-in-Qatar
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 12
-    images:
-      - url: https://www.bing.com/th?id=ON.FC83B0187254817645A03E65B9780620
-        width: 668
-        height: 355
 
 secured: "GiwCt+O4eTvd6XpTuLQW3M0xOTSqkbGlV7Gm6AxhqbSaNujzANbRvyWQd25h5jEgTux+joDdIYYgEjnSsuU4dXQh376nQAf1eR8/r48i93vTef/EAlVPV7fAhehp5ngqY+4V3uJ8V/jedv3oOsuSMzRcgGMn68stG7orevvBE2+9ED1psi6xIKkoMkN2bH3Np+vzZLEMd90QSBjKTvuImQFnWv93iXHkCfLIW5QgxRU/zerEh9b/sYufp9b5IsqIAWmr0KYS5xZ/fvZDvq0Qog==;52rfjzkRw4L/KfHvku8dNw=="
 ---

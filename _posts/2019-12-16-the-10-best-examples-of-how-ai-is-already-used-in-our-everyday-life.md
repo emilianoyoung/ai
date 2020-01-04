@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B2111661B86E49B7AD8C2423FCE928AB
         width: 600
         height: 315
-  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
-    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
-    publishedDateTime: 2019-12-17T05:47:00Z
-    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
-        width: 700
-        height: 265
 
 secured: "eOFMf761s1AwlIv+X7SgaF0sK24csSyorCYRn+y/u3uu1PzN6mt0OP9DNUv5+jDxZ0BevNjTbHFh5WL9L3apR6CCT/TshcqiYseyOlMeVnhyjZizS5Q3XcHQzxanzNkPL1TnwVQ+W6l8Htb/85LcZKUrI21S6h9RpNVO8Qfh3jYb51w5yCGnwDq8OpSPxXXy1zmf6l1/36wtneBKz6jDr+lTzE8FrEbBps7Kczlk18mjcvEOQK/noX+RktmlsKaCf0aGj8mNYB3svs4VJ7BZjg==;jK9D6DuvCKpBbKD1GxL0pg=="
 ---

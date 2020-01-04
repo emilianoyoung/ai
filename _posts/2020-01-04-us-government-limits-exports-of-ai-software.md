@@ -55,21 +55,36 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 65
-  - title: "US government limits exports of artificial intelligence software"
-    excerpt: "The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United States must apply ..."
-    publishedDateTime: 2020-01-04T05:50:00Z
-    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
-    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/040120/us-government-limits-exports-of-artificial-intelligence-software.html
+  - title: "U.S. government limits exports of artificial intelligence software"
+    excerpt: "WASHINGTON - The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule which goes into effect on Monday, companies that export certain types of geospatial imagery software from the United ..."
+    publishedDateTime: 2020-01-04T06:45:00Z
+    sourceUrl: https://www.zawya.com/mena/en/business/story/US_government_limits_exports_of_artificial_intelligence_software-TR20200103nL1N2981IWX1/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/TR20200103nL1N2981IWX1/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/TR20200103nL1N2981IWX1/
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: Zawya
+      domain: zawya.com
     quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.2DE338B403247424A5912A88BD127F05
+      - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
         width: 700
-        height: 392
+        height: 466
+  - title: "United States limits exports of artificial intelligence software to rival powers like China"
+    excerpt: "The rule was likely to be welcomed by the industry, which had feared a much broader crackdown on exports of most artificial intelligence hardware and software, he said. The rule covered software that could be used by sensors, drones and satellites to automate the process of identifying targets for both military and civilian ends, he said."
+    publishedDateTime: 2020-01-04T06:31:00Z
+    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 47
+    images:
+      - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
+        width: 700
+        height: 367
 
 secured: "xKditazVGkiMyQKDWn04rUbjkBOI0Yf/jDydm1l58JKdzTayr4sB3/yvIUIpMFfX3vvFXgaSr95VKk9Hui2X6xR93Ofs1XcdF0WTzQRjLxIOYH06qu0402CVOws+Qg8SR1W82t35l0DoQv6L80NbZfF1d/xaD3iU9CHLCUZH7Wzv8UEIMqKmGMuJ1LauxDO4HUpIXjMKqtL10BDGNCWFOmdLftYfklyK7WEhf/laSahBWTDpnhtSlWmw/f2ZOj3tBKQ+ekMxL61XSOh2peL4zw==;VPbbLLfdFO6VrCRtdgE3fw=="
 ---

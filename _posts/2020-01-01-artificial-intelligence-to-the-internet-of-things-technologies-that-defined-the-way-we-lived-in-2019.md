@@ -134,6 +134,19 @@ related:
       - url: https://www.bing.com/th?id=ON.37741F59A48CB3AB9F77401FE81EDCA8
         width: 700
         height: 367
+  - title: "The man leading the self-driving technology charge"
+    excerpt: "A British autonomous vehicle maker is already doing very well for itself, but you probably haven’t heard of it. We pay a visit"
+    publishedDateTime: 2020-01-04T06:02:44Z
+    sourceUrl: https://www.msn.com/en-gb/cars/news/the-man-leading-the-self-driving-technology-charge/ar-BBYBtga?li=AAJsFr5
+    type: article
+    provider:
+      name: Autocar on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.4E12D0151097EE0224C88B5D8663E85A
+        width: 700
+        height: 367
 
 secured: "H3RKOPfUaJsxM0tpRhMbgvGnBuuVWtp7UuYW15osJh6ve6JxyaKJkTK41Njj3P8Dfbdm/hIyQhzh67xHR29bxZY60A+wVNEY7NKzk9RMSpcR6PuL2aoybPeNG1Wj1Rds+E2mRLU45cE1WYLfayUqiDpK/v1Qwi7YyHPI6P/Hhw2zDABc/oScNL8yEg7jukzCLPhrsXmUhtXhO8kIOaVGCtq5veoQ9Kz6IharrGY5DwSypCU9O8o0vNCl1+t3BtY5+xP3kcUdmdfEzGWTr4jU6A==;ef5qmHCkLL1wcXHOzV9+NA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -67,20 +67,7 @@ related:
       - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
         width: 3648
         height: 2736
-  - title: "Sagemaker Studio - An IDE for Machine Learning"
-    excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
-    publishedDateTime: 2019-12-04T00:00:00Z
-    sourceUrl: https://i-programmer.info/news/105-artificial-intelligence/13300-sagemaker-studio.html
-    type: article
-    provider:
-      name: I Programmer
-      domain: i-programmer.info
-    quality: 39
-    images:
-      - url: https://i-programmer.info/images/stories/News/2019/dec/A/sagemakerstudio.JPG
-        width: 720
-        height: 335
 
-secured: "+ljjbm00TRu/3ybfd3F3OpY/qw+BJfE9Wqfajb0y2+efT3TYzi7vmRp+2VbXZvgyhKcrGNJGoYW0rht6DrzNqvq+rp8KxvoK96M1oWO8f2ohG+IAUi84y71EX7y7Pt5IULpFxLdMWU6R5ip2SC7cMzYG/+bnekrW2abxRxFEKAptXX8FucyI78RCohhh3wjLNTXPElFygP0pUztBJwLaPU8o0B87QXqCG37aA70VFj2nZKWV+Kmc2senoKjR/W+LRWzwQO78J9iILJLCTu3Htw==;KdeUhE+poOi3a61CNcJyIg=="
+secured: "0WUeMPKlPL2RMK3EVj/ujAcNBtXAzhSo8f6FVJStEZZIODm255cFIK5OE6tDPVeuvel09MybR5MR1UgbSv6zaWzph7Xx37Rb9WNq0Sh9Py44Kwjr88LRbTvQwd3cC+zaODylH2yGEQZmeSwDip1xJ7OB+/9i6FxzOCmnp8aKO9AkQzOuFxV7Bu2IjsUKpEbxHSPe8in6gvca/4aN4MZqPMu8Xcxt1vzoELldRFgEccrrTnJBFwlVvtDTi/KFOQiNzBChgnKchyDTLZMhr0IBZg==;LJMCj86c8osGkiaz63rpqg=="
 ---
 

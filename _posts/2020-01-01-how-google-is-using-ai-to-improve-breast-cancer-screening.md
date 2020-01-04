@@ -373,6 +373,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FE6B132FC938A489CA706EBE20A62DCF
         width: 700
         height: 393
+  - title: "Neural-Network Excels in Breast Cancer Detection"
+    excerpt: "The Karolinska study is another in a growing number that supports using artificial intelligence, not only in breast cancer risk assessment but in a wide range of diagnostic roles. This is a companion discussion topic for the original entry at https://healthtechinsider.com/2019/12/20/neural-network-excels-in-breast-cancer-detection/"
+    publishedDateTime: 2020-01-03T21:24:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/neural-network-excels-in-breast-cancer-detection/221140
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 24
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "JfeIJzP6cIIvE1AEkihquG6uRWN+GGF/XoyPdkGQnqeuupOMb8SHoqr35kCtef9nVrnrSY2d9A/mE3UWGzzivD3IuZfXV29H3dGNdLBDtaVwkLBgwMraMHEoayqwFAo30kq0vhM3+8W61ldoZ0Z6Fis1nb4lYJbI9XsbO0bY+Qg/cc0ts/W8y1+hf2WC50lCNhagq87f6Y+TmbCF81iN2FCI601yXQvZC+zoKKYD+Crsw23jx+JKQ8nPALkyUQ+quZ4h5tXpQhvmdQeJrebQng==;unlvZOvaF/IKr85rR79mFw=="
 ---

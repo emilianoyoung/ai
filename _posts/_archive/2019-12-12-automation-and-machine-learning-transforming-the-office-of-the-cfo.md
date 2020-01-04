@@ -30,64 +30,36 @@ images:
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
 related:
-  - title: "What Machine Learning Means For The Future Of SEO"
-    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
-    publishedDateTime: 2019-12-16T11:05:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
-    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
+  - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
+    excerpt: "Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see and process images in the same way humans do. Computer vision through ..."
+    publishedDateTime: 2019-12-13T12:46:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 101
     images:
-      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
-        width: 600
-        height: 315
-  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
-    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
-    publishedDateTime: 2019-12-17T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
-    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F12%2Fa-51.jpg
+        width: 960
+        height: 641
+  - title: "Robot arrives on the space station to keep astronauts company"
+    excerpt: "CIMON-2 is the next generation of the Crew Interactive Mobile Companion. The robot was built by Airbus at the German Aerospace Center and uses IBM artificial intelligence based on Watson technology. It's designed for human interaction and to help the astronauts with tasks as it autonomously navigates around the European Columbus research module ..."
+    publishedDateTime: 2019-12-17T14:28:00Z
+    sourceUrl: https://www.kmov.com/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.html
+    ampUrl: https://www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
+    cdnAmpUrl: https://www-kmov-com.cdn.ampproject.org/c/s/www.kmov.com/news/robot-arrives-on-the-space-station-to-keep-astronauts-company/article_8d0c0398-7e06-5719-bf95-6f454c4acb0d.amp.html
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: KMOV
+      domain: kmov.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
-        width: 600
-        height: 315
-  - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
-    excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/
-    ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
+      - url: https://www.bing.com/th?id=ON.E052F39DFD642392DB92D6AD4DE04770
         width: 700
-        height: 366
-  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
-    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
-    publishedDateTime: 2019-12-21T14:38:00Z
-    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
-        width: 700
-        height: 350
+        height: 394
   - title: "Artificial intelligence and the future of insurance"
     excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
     publishedDateTime: 2019-12-18T05:23:00Z
@@ -103,122 +75,72 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
         width: 620
         height: 372
-  - title: "How VDO.AI is building the future of Internet advertising"
-    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
-    publishedDateTime: 2019-12-23T11:03:00Z
-    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
-    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+  - title: "The 10 Best Examples Of How Companies Use Artificial Intelligence In Practice"
+    excerpt: "Artificial intelligence is a term that appears on Microsoft's vision statement ... live streaming, sports, education, movies, and even self-driving cars. One of the company's slogans is \"AI in all.\" Tencent acquires huge amounts of information and insights about its customers that it processes and leverages to the company’s advantage."
+    publishedDateTime: 2019-12-17T05:47:00Z
+    sourceUrl: https://www.linkedin.com/pulse/10-best-examples-how-companies-use-artificial-practice-bernard-marr
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+      - url: https://www.bing.com/th?id=ON.445DBCD24292E10A6C607D54F76B91AC
+        width: 700
+        height: 265
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
+    publishedDateTime: 2019-12-17T07:41:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
+        width: 400
+        height: 300
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
+    publishedDateTime: 2019-12-17T08:07:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
+        width: 400
+        height: 267
+  - title: "Scientists show mice an Orson Welles movie, then disprove dogma about how vision works"
+    excerpt: "“But computer vision has been hampered by an insufficient understanding of visual processing in the brain.” The “unprecedented” findings in the new study, he said, promise to change that. The textbook understanding of how the brain sees, starting with streams of photons landing on the retina, reflects research from the 1960s that won ..."
+    publishedDateTime: 2019-12-16T16:08:00Z
+    sourceUrl: https://www.statnews.com/2019/12/16/mice-shown-orson-welles-movie-neuroscience-dogma-disproved/
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.5336641F9EE7577A7E68F01EBB259270
         width: 700
         height: 393
-  - title: "Duet at TREC 2019 Deep Learning Track"
-    excerpt: "This report discusses three submissions based on the Duet architecture to the Deep Learning track at TREC 2019. For the document retrieval task, we adapt the Duet model to ingest a “multiple field” view of documents—we refer to the new architecture as Duet with Multiple Fields (DuetMF). A second submission combines the DuetMF model with ..."
-    publishedDateTime: 2019-12-16T18:33:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/publication/duet-at-trec-2019-deep-learning-track/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png
-        width: 1200
-        height: 627
-  - title: "How Artificial Intelligence Is Reshaping the Future of Stock Picking"
-    excerpt: "Computers aren’t new to Wall Street, but for most of their lives, their function has been primarily quantitative. That, says Forbes‘ William Baldwin, is about to change thanks to the rise of artificial intelligence. Created by a trio of former MBA classmates at at UC Berkeley, EquBot is the answer to its creators’ dream of producing a ..."
-    publishedDateTime: 2019-12-17T18:23:00Z
-    sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 39
-    images:
-      - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
-        width: 1200
-        height: 800
-  - title: "The future of banking is basically robots running everything"
-    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
-    publishedDateTime: 2019-12-23T06:04:00Z
-    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
-        width: 700
-        height: 366
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "Featurization for Transfer Learning"
-    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
-    publishedDateTime: 2019-12-18T20:31:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
-  - title: "Bochum team wins second place in machine-learning competition"
-    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
-    publishedDateTime: 2019-12-19T15:35:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
-        width: 1440
-        height: 960
-  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
-    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
-    publishedDateTime: 2019-12-19T10:40:00Z
-    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
-        width: 685
-        height: 416
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
+    publishedDateTime: 2019-12-18T18:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 11
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
+        width: 400
+        height: 267
 
-secured: "xPIZb3doktuYzJScHwB6T/lJhZDnt6BdE1wBwSCjecziUFpl6ekCzOF3L9DxjEG5Nwdq7obkeYOoLaOOucnyv10ay8w1V96ge2bEWndmlLMSw6zILdyb3lsSxTtRXV0B4miO4qJS9/VK/oQjZhl4mWahYgEEFKImVwbtjHIM8c7qadn01vB9lKH/P0akzqvCcgHc2h1EXoKk9/8a/U8acd9DFyuwx15LECLK7G6oLH6J9sSRdJOyTt9IPZVI1IKMhY7pkyLJFXKZUbIn0ZVWUQ==;VZHE6EXecU7cmYm9liYlQA=="
+secured: "EamHriCq1pDlbiFDSRtIy6enWV57VFnU8hNFcyd8ekawDi8TR1nCOm4rDBoiHHZG9C5iNUH9xf0/Co9n016F8LCY/kolsxOZIsIM/UwlHbIQ6NHoAJFuony+s7pEkABZQ/SPL3GUw1h5FpbHEqJs4+KUUQQLIyuehKL2HTE4XsTKdzei1fB+LfxhEmRx+lf/RzS3lmhpTd0ZUIznEXwlenBOU45mjrU49oqJMI4/4hwE2H0mTS/L8AMDgOj1Ewf1a9Wf575WciCpbzz+v6Eawg==;cSGSTPDOq/jcuvEULYHkIw=="
 ---
 
