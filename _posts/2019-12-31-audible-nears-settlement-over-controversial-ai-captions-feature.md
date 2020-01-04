@@ -8,7 +8,7 @@ ampUrl: https://www.slashgear.com/audible-nears-settlement-over-controversial-ai
 cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/audible-nears-settlement-over-controversial-ai-captions-feature-31604759/amp/
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -318,6 +318,21 @@ related:
       - url: https://www.bing.com/th?id=ON.13B99A9B3528AC4A2921717CD438017E
         width: 700
         height: 393
+  - title: "Researchers developing AI to detect breast cancer in mammograms"
+    excerpt: "and really that just highlights the early nature of most AI research we’re really just scratching the surface with what is possible,” Dr Etemadi said. It’s not a perfect science. If a radiologist misses something on mammography, a false negative could delay life-saving treatment. On the other hand, false positives lead to unnecessary ..."
+    publishedDateTime: 2020-01-03T22:13:00Z
+    sourceUrl: https://www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/
+    ampUrl: https://www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/amp/
+    cdnAmpUrl: https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/amp/
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.ACC4F1CA2545109822F3C46E06075898
+        width: 700
+        height: 393
   - title: "AI system outperforms experts in spotting breast cancer"
     excerpt: "Program developed by Google Health was tested on mammograms of UK and US women"
     publishedDateTime: 2020-01-01T18:00:00Z

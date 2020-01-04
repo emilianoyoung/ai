@@ -1,30 +1,26 @@
 ---
 category: news
 title: "A Rocking Robotics ETF For 2020"
-excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. Tactical traders looking to take advantage of short-term ..."
-publishedDateTime: 2020-01-03T17:33:00Z
-sourceUrl: https://www.marketwatch.com/story/a-rocking-robotics-etf-for-2020-2020-01-03?mod=investing
+excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. What Happened Tactical traders looking to take advantage ..."
+publishedDateTime: 2020-01-03T23:56:00Z
+sourceUrl: https://finance.yahoo.com/news/rocking-robotics-etf-2020-193325661.html
 type: article
-quality: 84
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.94CF88B5F4AC16B7A3222AA595D643C1
+    width: 600
+    height: 400
     title: "A Rocking Robotics ETF For 2020"
 
 related:
@@ -92,6 +88,6 @@ related:
       domain: plantservices.com
     quality: 34
 
-secured: "JqJNoXM8BgijIfJzh2mnPWCfezCoi4NY3lQzxq1ZYde6rVYhOL8dwcmB/JSOCh6nq0ymllMDcZ5mYepBoaJqqnLDwiKuMlA5bSncuR2pvU+OovEiZznIHXx9ELN41rQnT8n+8qW7bldJYuFLqXfM/7TTYFuG+C8dhK7Lnsf2wgfcJ/wSYhTU5yT1UhEKGsxJvw+JDch4NvLQ85YiRugJ8Wg6zWsmudqGnj7tsAeOnt7YkHIlScJBfTs/cUhLRr0zuye4/bRxqDUzKQdj3cUZnA==;hssZaqWEZ6n9hSr2/zC8iw=="
+secured: "rbe+nZSJFYjNI+KLqSvJ82mnNaiu2E/6OVQkOUi1/attRDSWWF3Z/tN2/vBOYOTy99qedhQJru1wiijBbEwuguFthEp4ThchPd+5j+8Px+/YYhiPMJ27vEawWBW86NHxyfMOSHtrlMKbJXSVg6kBxjGxLLgL86yE7c3RQ0A9dFK/gFInO+0C6yuPqzcUoRaAfCmlVjPznrNXL6iCSojLfk12h84EJ/xLhCuvVn41mON0BiJlkRsLOC1zqJ/0iL4/ZJbTS2ed3XER8DdlMe2n1A==;ifJqvtaHQnT0ml1CVpfW6g=="
 ---
 

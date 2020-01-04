@@ -56,32 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
         width: 600
         height: 315
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
-    publishedDateTime: 2019-12-17T16:11:00Z
-    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
-        width: 800
-        height: 600
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
-    type: article
-    provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
 
 secured: "Mxxnr3R66jyY8mj1Nqs27L8PSdvRaB2f2pK0YWXrtwOGtNIl5k26kVQ/7YJmieKObGAlEVzKT37hvffSzawgg9WUnuubTY4Qvl2dzbwSGtfBKipawowZvwRd7gfPoDnmc43iOk36H0CxITz+CmeQOPxRlS8Gq8pAr2tbPGnDWNj2TIMsEUaY+23AJy2drXgvmdp95EM+cq5iImt9h7t3g/GY6Lk6vlXRzKK7VGmeDzVzZ0BpH63yctS+3WY0T1f3c+yqx+Qq/2yFcyRZmK8+FA==;sZq1karYYuhhJYCnLBnalw=="
 ---

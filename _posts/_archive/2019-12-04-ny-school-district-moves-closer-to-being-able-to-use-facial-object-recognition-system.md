@@ -23,6 +23,6 @@ images:
     height: 800
     title: "N.Y. school district moves closer to being able to use facial, object recognition system"
 
-secured: "r8YJzOk/CCPiN5NxxnkFlzsBgnoS6H7jaEs5Bhg3q7qpvfEANWUOkA8juN5DDFCYWfmEGf06X0yfNFUjxfsoJWezGRAiZPQr0KcmqKN9GSHeexC2j12kirK2vQ3p3fUC4g+dNfVu5jko3Kd5LH+iomdXtiSkZxQL96qeF1r+XTZ5bThSuw5u5E2atgEX7EblbdP+XgKYqKu2XgCYe7s1Esg3ozrdMIh5N120QoehQQ74x41FCxLelWy+n/YX2Xt8tnJd58UgqZwbKDdYwFMy1w==;Q3/Z6GyGVzQ1G8xkxnGNeQ=="
+secured: "u69ayf1WIL4a0x/3RMfvuVyxF2gnC6O1Vswcw601u+CIgTQyKOL0MRBRZCgt2/sA9IvaHytAvEE0hXy0uQcYwl7vaoOY4hJ7znRQfVjU1Xhsb7DSCK3iIx3g23uG8KCuLhUbtWveCaaBwc7RFgWdIEAfbzT/IgrLdELsifrFAI9f/HC280WRQt9hCvOX1/zYPy92383aVDmlDgfoQMoqf7JrsFDnjv/68edo5qBL59q1gz8hUWoNHFn3emhRREqlU/AQMo8Re94WRi7iAinZFw==;+Ua1ByEp7CWsUstFVEiLUg=="
 ---
 

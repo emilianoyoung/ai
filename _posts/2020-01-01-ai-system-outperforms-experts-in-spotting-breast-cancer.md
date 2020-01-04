@@ -332,6 +332,21 @@ related:
       - url: https://www.bing.com/th?id=ON.93EFF5FC6AF1A37292AA30DEFC049F3B
         width: 700
         height: 366
+  - title: "Researchers developing AI to detect breast cancer in mammograms"
+    excerpt: "and really that just highlights the early nature of most AI research we’re really just scratching the surface with what is possible,” Dr Etemadi said. It’s not a perfect science. If a radiologist misses something on mammography, a false negative could delay life-saving treatment. On the other hand, false positives lead to unnecessary ..."
+    publishedDateTime: 2020-01-03T22:13:00Z
+    sourceUrl: https://www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/
+    ampUrl: https://www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/amp/
+    cdnAmpUrl: https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/national/researchers-developing-ai-to-detect-breast-cancer-in-mammograms/amp/
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.ACC4F1CA2545109822F3C46E06075898
+        width: 700
+        height: 393
   - title: "AI system is better than human doctors at predicting breast cancer"
     excerpt: "In an attempt to improve diagnoses, Shravya Shetty at Google Health and her colleagues trained an AI system on 91,000 mammograms taken from women in the UK and US. In each case, women were followed for two or three years to confirm whether or not they developed breast cancer. The team then tested their AI system on 28,000 other mammograms."
     publishedDateTime: 2020-01-02T02:00:00Z

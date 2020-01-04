@@ -8,8 +8,8 @@ ampUrl: https://www.cnbc.com/amp/2020/01/03/reuters-america-update-1-u-s-governm
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/03/reuters-america-update-1-u-s-government-limits-exports-of-artificial-intelligence-software.html
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: CNBC
@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Government Limits Exports of Artificial Intelligence Software"
-    excerpt: "WASHINGTON — The Trump administration will make it more difficult to export artificial intelligence software as of next week, part of a bid to keep sensitive technologies out of the hands of rival powers like China. Under a new rule that goes into effect on Monday, companies that export certain types of geospatial imagery software from the ..."
-    publishedDateTime: 2020-01-03T19:55:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2020/01/03/technology/03reuters-usa-artificial-intelligence.html
+  - title: "U.S. government limits exports of artificial intelligence software"
+    excerpt: "Under a new rule, companies that export certain types of geospatial imagery software from the U.S. must apply for a license to send it overseas The Trump administration took measures on Friday to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers like China."
+    publishedDateTime: 2020-01-03T23:30:00Z
+    sourceUrl: https://www.thehindu.com/news/international/us-government-limits-exports-of-artificial-intelligence-software/article30475360.ece
+    ampUrl: https://www.thehindu.com/news/international/us-government-limits-exports-of-artificial-intelligence-software/article30475360.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/international/us-government-limits-exports-of-artificial-intelligence-software/article30475360.ece/amp/
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
     images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
 
 secured: "mb95Xtn7dZMSw04+1Rbcc2dU28sU8md6WAYdhZPuR78GkHInAhfaRcZDba2GJtps2pcwFYELxhzD2OrEPVAsblU3gbo20qzvMMxMd9IbGix/4MTVKJNVCMigSpEFppvWK4zkaBbeOaPa/SSVND+Rn/OkmmnpuyjbNALF3O2XHv9M04ZeTU/lZsKtzbgfrAnOIkzU2r+wYECLOehGCSITcIoMz/wTf68cqHWYvbtgg69USVYbeJmb1dch6kCxJ5S9BR5mLlhpafxDqEg/gbjBHA==;DOWMPiVH82/t+ypX7GSJIg=="
 ---

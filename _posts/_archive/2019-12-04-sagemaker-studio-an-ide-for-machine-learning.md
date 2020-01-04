@@ -52,6 +52,17 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2019/12/welcome_to_reinvent_1.jpg
         width: 900
         height: 431
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
+    publishedDateTime: 2019-12-05T11:27:00Z
+    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 84
   - title: "AWS ramps up SageMaker tools at Re:Invent"
     excerpt: "CEO Andy Jassy announced a barrage of new machine learning capabilities for AWS SageMaker during his Re:Invent keynote on Tuesday. SageMaker is Amazon's big machine learning hub that aims to remove most of the heavy lifting for developers and let them use ..."
     publishedDateTime: 2019-12-04T09:36:00Z
@@ -65,18 +76,7 @@ related:
       - url: https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2019/12/awssagemakerstudio.jpg
         width: 3648
         height: 2736
-  - title: "AWS beefs up SageMaker machine learning"
-    excerpt: "Amazon Web Services has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalize machine learning, from model organization, training, and ..."
-    publishedDateTime: 2019-12-05T11:27:00Z
-    sourceUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.html
-    ampUrl: https://www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3487678/aws-beefs-up-sagemaker-machine-learning.amp.html
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 54
 
-secured: "UMcOlxO5WqTH4X2I06/BALX+XID+ddEhSg8MDIGsyeEwyGpekDy+d7elBfvLZwBKYGGf8QCt5j5Cb23XtP7owJXQ3XxWTkk+44khwsVOZBEmMZBmciGj6gSpr2m02y4IZym1Dmrp8MVAygAg2iWRwPbsQ7TVyrgz/Y6DOvL37F4gyDeYMsL3oXbpP9H3+kW22rOIDbHcTcVGVk34Ro98kOdHxjiqgPtcvrsCHoC3W/0QS0GQ89WINzY+QGtVSA4O3ddJ+moRpRlpAlYVRmMRLA==;E4qsAhJ36YaLBcqpYeJ6ZQ=="
+secured: "2LN14neMqkaP7GEGfB62Wlfwa1rg/smlz1q0D9MGCqo5vUuiERohGpf2swDXWx9MtMoHew/QWLd+YgD8nK4IOoGUOkIhJdtWQ6IanQyKAzSqCaQ0Pz+GEI/gZ74kZNGy8t2EBtwFrKBThn4oWSraBhM1VfE+7SViK7is/ytxFECKOsN/OnfvPH/bLAYk7YQ3a867gcALXcFpwrl8fgW3OTeOSI0PxI58Vpr+zkXg1Tm+Q/foKA/0zDeNX2b8hzzjGegzF5se3ry5wy7wDPe9CQ==;kcFOGAFjCfS3rj7VBh7aRg=="
 ---
 

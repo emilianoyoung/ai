@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
-    excerpt: "These are self-driving cars that have an AI system doing the driving ... has the capabilities of overall human reasoning (many refer to such AI as Artificial General Intelligence or AGI). As such, some would suggest that today’s AI is closer to the ..."
+    excerpt: "Overall, driverless cars to-date are akin to a novice teenage ... s AI is closer to the Artificial Stupidity side of things than it is to the true Artificial Intelligence side of things. If there is a duality of intelligence and stupidity in humans ..."
     publishedDateTime: 2019-12-08T15:55:00Z
     sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/
     ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
@@ -52,17 +52,6 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT — Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI – and automaker partners Ford Motor Co and Volkswagen AG – are betting they can answer by taking a different ..."
-    publishedDateTime: 2019-12-11T11:07:00Z
-    sourceUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246
-    ampUrl: https://lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    cdnAmpUrl: https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/argo-takes-different-road-to-skirt-self-driving-challenges/wcm/5eba0c40-ec55-453c-a19d-c43425565246/amp
-    type: article
-    provider:
-      name: London Free Press
-      domain: lfpress.com
-    quality: 24
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
     publishedDateTime: 2019-12-05T21:21:00Z
@@ -77,6 +66,6 @@ related:
         width: 1200
         height: 627
 
-secured: "fn8NO/qS/8q6mPTfl5Oi6BW3Nsv75S2xXttu0n+YBkk4JJm5CF1HY6HOmGQtGc1kKkKwKqrszD7keUsDeNjliQssv23c7tmT5D8CHJ99k30FWU5x7GCLIrNxfve/lQi9nKmkpeBxXrqIN8fj1u1kEGitpH0W8BIE6Fny6Db6s5mRgcoZUfpF4yPt3IPtyACkh3nq7ISSRPYK3VlWIV7sSBOXX2hOAHxIU1K9IkswbBQYZkCIuMILptIhOS53bQWdk4EMMS3f7RRr8luZcLPymw==;HCuy6AaPf03ONAY7/cPXLA=="
+secured: "NdhczHifpTZUidth0TU5TdnsJLiI2+uibSfPc680FmF1riFu5mx+ysqYaNLG2ve4YcBOwUr2pnyxjls4dh+6JE9DPY+axs2eG2FG/nsFwqY/OAKmiDYYrAmo9Jf+yofl4OmfOnxL0lUp7/A0DxY8MSVSFJYVSkIIuKlr+hQyhWvvuVrjbwWazUEnZfQlTLpK+agsnLc8qgoHiCPtXc9eXlH2cgc7D30sL0FRFW5ghj3gQSWE238AsqQzWXT7Hx+2uZl3Qbyf7N8PO4l8/bPwFA==;gq30G8NzguXQvXLoH7icSg=="
 ---
 

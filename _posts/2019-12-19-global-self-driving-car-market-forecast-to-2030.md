@@ -18,87 +18,125 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
-    publishedDateTime: 2019-12-23T08:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
+  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
+    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
+    publishedDateTime: 2019-12-17T16:43:00Z
+    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
+    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Electrek
+      domain: electrek.co
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
-    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
-    publishedDateTime: 2019-12-17T17:09:00Z
-    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
-    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
+      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+        width: 700
+        height: 349
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT (Reuters) - Sky’s the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI - and automaker ..."
+    publishedDateTime: 2019-12-16T18:15:00Z
+    sourceUrl: https://www.reuters.com/article/us-autos-self-driving-argo-focus-idUSKBN1YF18C
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YF18C
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YF18C
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "FOCUS-Argo takes different road to skirt self-driving challenges"
+    excerpt: "Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. By Paul Lienert and Ben Klayman PITTSBURGH/DETROIT, Dec 11 (Reuters) - Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive ..."
+    publishedDateTime: 2019-12-16T18:07:00Z
+    sourceUrl: https://www.nasdaq.com/articles/focus-argo-takes-different-road-to-skirt-self-driving-challenges-2019-12-16
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
     images:
-      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
-        width: 457
-        height: 274
-  - title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
-    excerpt: "Dec 30, 2019 (Global QYResearch via COMTEX) -- The fresh industrial research report Global Self-driving Cars and Trucks Market Research Report 2019 published and promoted by Ameco Research.com studies industry trends, market gains, Market development aspects, growth speed, and industry situation during the forecast period (2019-2026)."
-    publishedDateTime: 2019-12-30T06:46:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-overview-industry-trends-and-growing-opportunities-till-2026-2019-12-30
+      - url: https://www.bing.com/th?id=ON.43D16B471D3182D1ECB65C08D6C137F7
+        width: 640
+        height: 427
+  - title: "Stanford engineers teach self-driving DeLorean to drift"
+    excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
+    publishedDateTime: 2019-12-21T04:45:00Z
+    sourceUrl: https://www.kcra.com/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    ampUrl: https://www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: KCRA
+      domain: kcra.com
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
-    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
-    publishedDateTime: 2019-12-27T13:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2017-2023-growth-size-share-global-forecasts-analysis-company-profiles-2019-12-27
+      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
+        width: 1253
+        height: 705
+  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
+    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
+    publishedDateTime: 2019-12-17T16:54:00Z
+    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
+    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 43
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
+        width: 1987
+        height: 996
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 4
-  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
-    publishedDateTime: 2019-12-18T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+        width: 700
+        height: 467
+  - title: "Stanford Engineers Taught a Self-Driving DeLorean to Drift"
+    excerpt: "Since then, mechanical engineer Chris Gerdes and his students developed the self-driving car to drift through a multi-turn, kilometer-long track in just a matter of minutes at a level that’s nearly as good as real professionals. The DeLorean uses GPS coordinates and the algorithms on Jonathan Goh’s laptop to chart its path, meaning those ..."
+    publishedDateTime: 2019-12-24T13:04:00Z
+    sourceUrl: https://hypebeast.com/?post=4844035
+    ampUrl: https://hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
+    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
-    publishedDateTime: 2019-12-19T00:15:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-164500275.html
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 24
+  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
+    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
+    publishedDateTime: 2019-12-16T10:37:00Z
+    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
+        width: 700
+        height: 466
+  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
+    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
+    publishedDateTime: 2019-12-22T14:51:00Z
+    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
+        width: 700
+        height: 393
 
 secured: "u+Jy/xhxmXPPuLS/tetwd49HJry94Sg6K3+bnfSkKGJmEHDO46isxL2x7EoSrS0wDfgPILeMRcTlN+a3WqMUvQnRc/UZ+4YQ2VerYwlmL0MYxstMdkW4K29i4R1HI7GjRiINFQEPPSpiQYgwD1iFGk4DjdIY1BQRTe9h/L6ScO3/XylDSUs5nESYQtv4ALESjBCLEPGHqqUB3Qg8cCDU8B9fTUbxkGnMLm/kbNjPixmO+4L4DeNdblXgPby37TURli7LWRIkKet6B5vtqAk5AQ==;tAH9+wfRDoDPb4MRL5i1Rw=="
 ---

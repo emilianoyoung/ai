@@ -23,6 +23,21 @@ images:
     height: 551
     title: "Perfecting Driverless Cars Is More Ones And Zeroes Than Nuts And Bolts"
 
+related:
+  - title: "Driverless forklifts are now a thing"
+    excerpt: "Driverless forklifts and the dock of the future It may not be long before driverless ... Addressing such complexities will probably require artificial intelligence (AI) or machine learning, he adds. But until then? Eastabrook expects the loading process will be collaborative, with a human working with multiple pieces of automated equipment."
+    publishedDateTime: 2020-01-03T23:18:00Z
+    sourceUrl: https://www.dcvelocity.com/articles/20200106-driverless-forklifts-are-now-a-thing/
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6D6AAD10B5364177C93FA4D191242F28
+        width: 600
+        height: 300
+
 secured: "lQWcd3CCg0+Vl6Ej7KpVuf/WPUjFfF0c0xyuEaFN0lcXzeMmnMxrrgAG36kv+S8Ur8nrBh0Nxhj0F5pCqG4JS9Vc6DgmwGV4rS/LMM5O5OjlXO9Db/nc5nxPnf+rwwn9FB19nr80FxN8cbQ91414ltqhXb4TJzzOVvhTFzgxCP51x2n8nR9PrspDIPcYnLxdug0ozo2FR8afjBAzif9FVCC0FfEVI1zZNC7CqhmsmEKNJlxqQJqbOvwbNZBAjnV7dicKIdLFzbXrhU8Lgvvr+g==;3Qdh1yY//FutFitrVFmnRg=="
 ---
 

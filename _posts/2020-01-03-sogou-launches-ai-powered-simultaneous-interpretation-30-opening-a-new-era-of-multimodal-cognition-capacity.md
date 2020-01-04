@@ -23,6 +23,6 @@ images:
     height: 366
     title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
 
-secured: "sJuxtmOYL6nsMzhIrH7muGQP3DBGmF/dTMqnYbeiUdYI2xzt+j97LWxEq3jf7Ax2wP7omJ8G4CTwVw2bSRF9KjSniZv7ASqBSX+zLzde0FYfqee46cL07l39Ky3eqIAxtPML0ATUMvaeLpQ9unx3U99Im/zZ37x2y00jV23B2gPqmd8PuzY2II/dDj07utZVYrGhQ4RsYfPzcMi1zATjVWlFoKH5DTpD8rKDAmKyuTYPUPnVrzqOufyoXT+sB2mz59O26UCj260UlRypyQXMiA==;WkaSG9Aq52SEoUDaSorNHQ=="
+secured: "2DoVUKxKHtPFQxHA1/Z6TjXRXqJeyDyV1hugZlmaek8DwdEWRRHVMvQxyn4PyeiGdHRhGsipZs0GV5LTVhjxYaN422MqREYwxkOo5Eh0BQ66/K2czfFsvumCr7OCO3FSlVPDL5HfkB0+Rapwo2zLWjyye8pfxP7A8ff1unTNydNCEFSXLaJVdl1PAsOssneZv6MUiL3t5qkLS1d7MonTGgN71W6CIQ1kHWxNDhV0OVcLNJi2AZ/kvMyY2D+CUiS9xduZWX+ecjWIXSvMYSACkQ==;YVbt9dY57iLeSNp73A9WXA=="
 ---
 

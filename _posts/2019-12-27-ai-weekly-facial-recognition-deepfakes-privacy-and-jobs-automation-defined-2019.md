@@ -368,6 +368,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
         width: 700
         height: 350
+  - title: "State civil liberties union trying to put a stop to facial recognition system in Lockport"
+    excerpt: "LOCKPORT, N.Y. (WIVB)–The New York Civil Liberties Union is now trying to put a stop to the facial recognition system in Lockport City Schools. After months of preparation, the school district finally began using the system yesterday in the hopes it will recognize the faces of sex offenders or red-flag certain adults who are not allowed in ..."
+    publishedDateTime: 2020-01-03T22:41:00Z
+    sourceUrl: https://www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/
+    ampUrl: https://www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/amp/
+    cdnAmpUrl: https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/local-news/niagara-county/lockport/state-civil-liberties-union-trying-to-put-a-stop-to-facial-recognition-system-in-lockport/amp/
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 50
+    images:
+      - url: https://www.bing.com/th?id=ON.75C0777E12F9677D29527DE2CE2D8190
+        width: 700
+        height: 393
   - title: "Utah Legislature looks to limit Department of Public Safety’s use of facial recognition technology"
     excerpt: "The Utah Legislature is looking to regulate the Utah Department of Public Safety’s use of facial recognition technology after reports that DPS had scanned driver’s license photos at the request of federal law enforcement agencies. In July, the Georgetown Law Center on Privacy and Technology found that the FBI, United States Immigration and ..."
     publishedDateTime: 2019-12-31T01:00:00Z

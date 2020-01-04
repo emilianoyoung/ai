@@ -62,7 +62,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 54
+    quality: 84
   - title: "Sagemaker Studio - An IDE for Machine Learning"
     excerpt: "Amazon SageMaker Studio, announced by CEO Andy Jassy on the second day of the AWS re:Invent conference, is envisaged as unifying all the tools needed for machine learning. Several other SageMaker products were launched alongside it. As we reported at the ..."
     publishedDateTime: 2019-12-04T00:00:00Z
@@ -77,6 +77,6 @@ related:
         width: 720
         height: 335
 
-secured: "ryl7GztOizJKk52KEaCKZfNRajy8sA4f3j0WRPkZafIFigEzQpXkqhCAlvgItnIRgGcNAXmWpYq48hTQ/+qOKZssoL1Hei0bYwvslZzEmtlvzZzv0JHHK1DRiGZ75In4kJT9wnPzHGOqLG6pqZFWDQmPkRQHs7c3R7betg5MvWluS0tU1C2jkl15C1hqHDbyf8dgZoSVnVqvTyS1ebq918kk9WdDxE3lGQiTbT9Z0DsCRQccGNsXr0Iv5/mjmVOYA6QrA+H88tUzcw7z/5590Q==;2rsLVX4FtMe2/idptD47hw=="
+secured: "EUqI+36oc2K2m1jQAWkrUgXvN6PpozCCM9nPWMFy9hRsbO0QxMf9EGPx0LQY1sEGmYoLmpp/kY4QrG51j55Q/QdIwzB6/rFeQshQnIfWTWNBDy9q8/b0xx9mVJizMwIMzGAyRq+ZKuoGI8Z8xnLf/6W/NQzSW0oZDRi9CR1lACga5wkvrNW/N7FMrzCUbZDCdS0Ib5rv01JvnLP69+0OZe+tJLZi3cOVbcRIqmcmcDVA8esjawqUFOHwfLx261tIs3nACk1rw7PEAVpGRKbPfg==;+5dvz+42ofbbS6n14v1dtg=="
 ---
 
