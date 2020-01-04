@@ -35,18 +35,7 @@ related:
       name: digitaltrends.com
       domain: digitaltrends.com
     quality: 54
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The Digital Athlete will apply AWS’s AI, ML, and computer vision technologies, including Amazon Rekognition, to the NFL’s data sets from numerous sources – including historical and current video feeds, player position, play type, equipment choice ..."
-    publishedDateTime: 2019-12-05T20:42:00Z
-    sourceUrl: https://finance.yahoo.com/news/national-football-league-amazon-services-203000206.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/national-football-league-amazon-services-203000206.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 17
 
-secured: "unBopFv6mJ9hMCF6xgfLH3wmPePASZ3+mSrAU1C8BDqniEcBXPJMDjnKi1ewHdaE2/DMtD0ffdZZgyhvYbphJ+FzvDZWARQRxd7Lx6eZE80E7WE50Ps6leTeIF7BP4Yk19Gkb2AvYI3OLzYXg3HwAGCn1NGBwSrcBVUH6/RRruVMKwDXcHKmGUEWpaQnR+O11og5i/xrZiypLd3bRaWtLTn/ZrLh/5J6ZEblcY/riNm9VoRbWL84IKdLATZs3iRJudfV3NvMHK9mxhrlZHLxPA==;rpK620bSfAvV1Cp1oVgaVQ=="
+secured: "Z22ghPsLE9FVrg+otTO4rLc1cOXQe+Nwvm9Ux3YARveQbF0QBPfDJoaNKG69S4a0hAV77r04D1mc3E9NjkSmX3M7al1FnTjRuHdLkbC3jL+aWoDOWuQEHR6giaFXyiRQ+rL25jSMZT9wRdJLh7WjbhPpwNDPiB/I1LnprEsYqXz/ro4HwBvMKOVOf0NKzUFBbUL/VhOIPcfZg2buPfykySJQSOWxUItT61MR2EN5+XNjjgpwSmiAdrnrctR0U/JVjSh1eI3v3VOPv9hjiRo0gw==;5IDi9q+pyRq71XjbB2gebA=="
 ---
 

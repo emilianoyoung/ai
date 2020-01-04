@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "AI Is Getting Better Than Humans at Catching Cancer"
-    excerpt: "Google Health has published new research showing that AI can diagnose breast cancers better than radiologists. This is similar to recent research that AI can study EKG results and predict death. The algorithm reduced diagnostic errors,"
-    publishedDateTime: 2020-01-03T20:33:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/ai-is-getting-better-than-humans-at-catching-cancer/ar-BBYAOBv
+    excerpt: "This would save a vast majority of the time and save money and time for healthcare systems that are more and more burdened. Hopefully, a medical system infused with human critical thinking and AI-powered analysis can better battle one of the most deadliest forms of cancer in human history."
+    publishedDateTime: 2020-01-03T20:53:00Z
+    sourceUrl: https://www.popularmechanics.com/science/health/a30391960/ai-diagnosing-cancer/
+    ampUrl: https://www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
     type: article
     provider:
-      name: Popular Mechanics on MSN.com
-      domain: msn.com
-    quality: 37
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.03A101AB04E50B502DB060A994DFB286
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
+        width: 700
+        height: 350
 
 secured: "orDdjyW3cXAmIzH8n7hMLy+n2H0pX8s+K/mPGP303n7e2q13qsBqtiwggv6aBhW+46ofHCQ8gsihBqhXBFnXCDurxDOZ/LQyzUAEOCPu3sWTUcHKjrb1TwEJlf2FoBsAuyx15F6h5mgLTecq2Evwi6OOADqzzQUIl6KKunn6E11il0HN00cc3sEWUi6JwwwI1MIXB2XbfRFmmk9TaE2ZDCDfh7guwS+UR92GwL9Cj4j/6BwAJxFl0tiamXBuz3xIQSHvtYOrPZizDvefIQoWnA==;OFqyyB81X/e2a0WHdJj9jQ=="
 ---

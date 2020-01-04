@@ -8,7 +8,7 @@ ampUrl: https://www.wgrz.com/amp/article/news/education/facial-recognition-syste
 cdnAmpUrl: https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Facial recognition system now 'operational' for Lockport Schools"
 
 related:
+  - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
+    excerpt: "An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education officials, including that no ..."
+    publishedDateTime: 2020-01-04T03:46:00Z
+    sourceUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/
+    ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.09025C93BACA87948898EA1D02F9A079
+        width: 700
+        height: 393
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website,"
     publishedDateTime: 2020-01-02T21:09:39Z

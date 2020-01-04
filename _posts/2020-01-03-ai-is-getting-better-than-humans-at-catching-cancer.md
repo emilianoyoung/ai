@@ -1,25 +1,27 @@
 ---
 category: news
 title: "AI Is Getting Better Than Humans at Catching Cancer"
-excerpt: "Google Health has published new research showing that AI can diagnose breast cancers better than radiologists. This is similar to recent research that AI can study EKG results and predict death. The algorithm reduced diagnostic errors,"
-publishedDateTime: 2020-01-03T20:33:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/ai-is-getting-better-than-humans-at-catching-cancer/ar-BBYAOBv
+excerpt: "This would save a vast majority of the time and save money and time for healthcare systems that are more and more burdened. Hopefully, a medical system infused with human critical thinking and AI-powered analysis can better battle one of the most deadliest forms of cancer in human history."
+publishedDateTime: 2020-01-03T20:53:00Z
+sourceUrl: https://www.popularmechanics.com/science/health/a30391960/ai-diagnosing-cancer/
+ampUrl: https://www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
+cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Popular Mechanics on MSN.com
-  domain: msn.com
+  name: Popular Mechanics
+  domain: popularmechanics.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.03A101AB04E50B502DB060A994DFB286
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
+    width: 700
+    height: 350
     title: "AI Is Getting Better Than Humans at Catching Cancer"
 
 related:
@@ -39,6 +41,6 @@ related:
         width: 700
         height: 462
 
-secured: "UBzNjsGcQiOK853Gc4Qx4OoNxvJUSqmW4Jvkb+e4kxKMpVWje1fuKrpXXodxUP0WAntwi5WxA8PbOfXm9dksnY8TebZFSI+QeRf1Ym7xgQrV8u8h3MxIBjYYZCk5F4StspZGmZ92Ze9QwHE7o6W4eD4CMO22vfa8TlbzYiLpFzRmRaPb98gpBxy78rrh/p+tAGumV6YTytrMAPM8kywnYUS8AxF9dyJS1anSCTfwoX2jK9UU2PlkClYA/Xay6q9krKvcTbxMTadtlq2JJNfObw==;nF0c1DpDCtxjiXAHtVhXKg=="
+secured: "QepzAQHmqnrTzGR0yQN9/+ZBT9MiGpmdCpfcn/waVsqg7EfS0MuYbmfgZ/hAIFbav/p2iHCn4PSaF3GSWT2boCFFWRJzkFQmrSvj7oqehKDF75f1oJrhMOY0LqD/i3SFGSfD8R7uULCmfooiKKOECBkDkxywvsSlGvwcujuc6YtwYYwP+OWrfN0U+RegKCwLNmyq6LQFYz4lUJse1rU5PwNq+rz6u77RleXOoZ29cy2+coQ6MU9iGLYE1hmkmvnY52qFGFlIaqpw4fd2t/ZyTQ==;tFKlCXEuVkwABOa/k9ql0A=="
 ---
 

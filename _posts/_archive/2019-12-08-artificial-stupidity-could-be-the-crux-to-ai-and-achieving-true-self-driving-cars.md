@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -67,7 +67,20 @@ related:
       name: London Free Press
       domain: lfpress.com
     quality: 24
+  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
+    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
+    publishedDateTime: 2019-12-05T21:21:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
+        width: 1200
+        height: 627
 
-secured: "Bw0FcqjfTc2HqWxNAfkuwa7R0mAstnkpTsa+UiscvJasouC7b9pJ9fHO7AeLJdqbnOPfnqlayUqquiMkuqiUyCsoDI6oGdJB/QXFIkibNMSbVTG6izczCPweY/IFH3b5g1J259rd+nQGFm2kLRtC6MHS+ppO5lJBow0ZCyzN8ADMX4D03if9o9ne7rXBYUVx8Okeah13uwrOgG8kJqqumtcqYrL1Q6Z17pXUmxovZiQMSN3JDnIOQ7zjl/2k/PiFiUNaMPlgwbyZlR+xDo/SKA==;JJIZJCoa5tmIGMiavGuHMQ=="
+secured: "GGXslZdeHfZ+NGOWngl7C5UTtcxFoM4pXFY0wx/oUC0hgEpo5/pNNRsWlb9K1O2DentN/8RNI4Cou1aRIOtZD+WM4Dgc9tntIXBQJCXCHyn9iKnOMPveRNWuH41X1k1rgBAneC5yqsFDHkdVXwZLlzmpNFtDBZoi5qBR4BzZoSyxehSoAT8VOJTJnTL5NOQAlZu3COOuv9QqmQr+6zdsA18ScrPLkGnstEH76n+taxFLcia1dikBEOpEgDSCkKRJ2tzlIyr9JxmccaoK0MFEMw==;D0mS97O0JjKw8YFh//rERA=="
 ---
 

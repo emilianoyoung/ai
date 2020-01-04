@@ -25,6 +25,6 @@ images:
     height: 434
     title: "Google co-founders step aside as Pichai takes helm of parent Alphabet"
 
-secured: "GLYhmpCF+ZN/jmnAonh8ueBWOBvZbc4rjOak/vn8+zrHuPT11tRA4AhsSDTcxmF7kkdRIUJ3NrZ61UNaMniO80MwH66NlFABA0nvTqESvhJ00XmqezvEtjDb9f67NHkXNDFHul43E4wG/966ojS2mSehYPwJplJcEBmHXFzZ/thROMJ+v+u6SSJTmPsaaln3EwEnVVrFmH1ZaukU/7QbLQr0pbpyxvzUO/yEbnqm3sKnE7F82sWUaMoz0jGPz2+vZUQyDrW3KSV4fQqYGE6Sww==;FpB7yBAtCxp1KFV9eK+zHQ=="
+secured: "114s7cXnQ8yqbEDRaFfHKCgkahKjJBFAfu93hEr+URGWAZpgXVfmBcPmt8GG21ppvzJ71xpR1jta6qQoOgOSBJDWvq+6K8nST39wQA1wIjCWAg/p0Jtl+IMYkcvM1BqkxoTjDKGi+yGwnumevznK/Wye7axWMBAFGiYpbcznFj5JD69NxGV88eUqL+XWo4nBr6I1kkE1NmK8XFjHj2ncqPk/jpg55Yn0WyoFlbExy0xV6fY6VlGlS4LcflCJs38tdKEGAzwNdaIqtcfLJTTJyg==;zmK7CJyoZH0vyjgI9mPBZg=="
 ---
 
