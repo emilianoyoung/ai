@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-v
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
 type: article
 quality: 74
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -146,19 +146,6 @@ related:
       - url: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2019/12/12/4d-lidar-chip-600_Ydx5sfe.jpg
         width: 600
         height: 375
-  - title: "Volkswagen to bring self-driving electric shuttles to Qatar by 2022"
-    excerpt: "Volkswagen Group and Qatar have agreed to develop a public transit system of autonomous shuttles and buses by 2022 for the capital city of Doha. The agreement signed Saturday by VW Group and the Qatar Investment Authority is an expansive project that will involve four brands under VW Group, including Volkswagen Commercial Vehicles, Scania, its ..."
-    publishedDateTime: 2019-12-15T00:05:00Z
-    sourceUrl: https://www.yahoo.com/now/volkswagen-bring-self-driving-electric-225609415.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.5B0A6CF80C46D3EF242DC3D172C83048
-        width: 700
-        height: 466
   - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
     excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
     publishedDateTime: 2019-12-15T20:34:00Z

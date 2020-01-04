@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
-excerpt: "The latest upgrade significantly enhances the efficiency and accuracy of machine translation by integrating computer vision capacity and AI self-learning capacity that instantly captures and understands multimodal information presented by the speaker. Sogou Simultaneous Interpretation 3.0 is the first of its kind that can \"see\" and \"think\" in ..."
-publishedDateTime: 2020-01-03T03:01:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/sogou-launches-ai-powered-simultaneous-interpretation-3-0--opening-a-new-era-of-multimodal-cognition-capacity-300980767.html
+excerpt: "Sogou applies leading Optical Character Recognition (OCR) and Natural Language Processing (NLP) technologies that enable the solution to see and process images on presentation slides, further interpreting the underlying information. To \"think\" while interpreting, the solution utilizes Sogou's proprietary \"Context Engine,\" Knowledge Graph ..."
+publishedDateTime: 2020-01-03T04:13:00Z
+sourceUrl: https://finance.yahoo.com/news/sogou-launches-ai-powered-simultaneous-034500810.html
+ampUrl: https://finance.yahoo.com/amphtml/news/sogou-launches-ai-powered-simultaneous-034500810.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/sogou-launches-ai-powered-simultaneous-034500810.html
 type: article
-quality: 20
-heat: 20
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.A24D2BB7461DAF8468EB765BD7761997
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.067E65287EA55D205CDE555D5CD092DD
+    width: 400
+    height: 300
     title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
 
-secured: "2DoVUKxKHtPFQxHA1/Z6TjXRXqJeyDyV1hugZlmaek8DwdEWRRHVMvQxyn4PyeiGdHRhGsipZs0GV5LTVhjxYaN422MqREYwxkOo5Eh0BQ66/K2czfFsvumCr7OCO3FSlVPDL5HfkB0+Rapwo2zLWjyye8pfxP7A8ff1unTNydNCEFSXLaJVdl1PAsOssneZv6MUiL3t5qkLS1d7MonTGgN71W6CIQ1kHWxNDhV0OVcLNJi2AZ/kvMyY2D+CUiS9xduZWX+ecjWIXSvMYSACkQ==;YVbt9dY57iLeSNp73A9WXA=="
+secured: "EdHZplic1PxhqP/kBNPj9eSPm90SGerQKNFpv44MJUkheOdcWrzNGZ8HaBXUlqkdIhYaVt0yeIpCdEAA5ptPIZmdKdCS7cx56iTQVsckLDTOTQ6dHTTKZWi946hlLEBinzFGvO3oNHH4Rn6yoci0mSX8a4fohET3aIgWFrOWcYYKhbmS/aRYubpu0PueJHuRnTni5Cg0mX1G5RPKoaLTtSHn3ebSACZfv6b3vkQQiNHaECHbx8JEzB5+oMtK2BvSUXsevzX8YipJMC4QxMSAjg==;LfFlpN9xY7N9GCLDR9Kbew=="
 ---
 

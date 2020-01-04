@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T19:43:00Z
 sourceUrl: https://www.businessinsider.com/ai-in-banking-report
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -83,6 +83,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
         width: 207
         height: 155
+  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
+    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
+    publishedDateTime: 2019-12-18T18:52:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
+        width: 1024
+        height: 768
 
 secured: "6i16whvXhtjeAcp1thzBszmV2sZNJ/yAhRd4PXU4SIHyjYu4lbklyCvM9sTWLzU8d/vgKsV06AmeD0kZTYPeDM2Zef8CHwmgJMxWrAU+Aq1JBk3luRLecaCaTxSNoeNEuSf562Gno12HZR0kUYmx4oz94x0BnIf2yX7oS3TTfUn5+H8vYOmyy3jXFE2BJmxO3nSVCwUsr+6H23JdUtVGPnpBdvumX+JFDTg+S2QbMOdVKzmuOi5qhk7FxRXvT0Un9oQb7SkJhXqakzWID4LeRg==;hTa380bFCt0Q60uQ0CJUsA=="
 ---

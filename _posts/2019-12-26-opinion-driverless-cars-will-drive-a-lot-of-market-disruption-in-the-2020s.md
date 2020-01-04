@@ -28,13 +28,13 @@ images:
 related:
   - title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
     excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
-    publishedDateTime: 2019-12-31T20:45:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/the-global-automotive-detection-and-ranging-sensor-market-is-expected-to-reach-us-46-821-5-million-by-2024-1028790122
+    publishedDateTime: 2019-12-31T21:50:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-automotive-detection-ranging-sensor-214500040.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 16
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "dTXkPJgOhi00lSf5lsR/q7pxH1CKlQT7/vdW6NnbzDGcIBq3QupBgDUQ+DExo6cLwO2qY37n9+KIDhAra6qvRQZDnlxPnUA6uwFUOWJm6//lpIUcBBgqdM6+vFGFKVr0rRClUN+zf1oi1gXlD1cB7haIEtZqjO2R1V6ov+G8Bsj3hcmeZbKqCuDMzW9aX2EhSTO4Kq3JQTtdnUCV/H+h3o/zWe35llqYUP7rFtIIfqhQ8STlU9bzN+KU8D826rJs/qQaummIbz88P1XXWCn4Ng==;3ioJNS+vt1a8ecBXbp7b7g=="
 ---

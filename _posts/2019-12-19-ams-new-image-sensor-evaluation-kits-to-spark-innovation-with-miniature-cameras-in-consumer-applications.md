@@ -46,6 +46,15 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 5
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
 
 secured: "276rJvByIWbOpqmlXyMAnXMWK9Ef8Yf9NDSCiRMsxz3YH/lFUDpbVTdDyFHxCYv/LXfio6QveWfoBVxtBSNPuspvsTjVJ03FgM6XWTak2kRKGGZ9pftiOR34EwWF8JiUIt4DqCkwr1hNgEwXEdQqdG2HT1HaSNM9bTp23HCHrkQF8BNuYgIdLgC2ng7P9xGoF783Aljy/HuqO6ZyM8KqRWhaYviHz6anYtdceUqyjyTK83J45JlAhpj9eJFm93WYOXBMb6BEm1zQL6VX8wwfiw==;8B4l7YEwGPuOfe5/lxYwCA=="
 ---

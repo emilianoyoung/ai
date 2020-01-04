@@ -45,6 +45,15 @@ related:
       - url: https://www.bing.com/th?id=ON.1B6FC08A1BF1CBCA43DD13C0A576F48F
         width: 700
         height: 365
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
 
 secured: "gf92rHH/kblGxghjunaSrGaGF34V/5vQgCgsGMvY39zoVVH4DqYM99ZUm6Xbu4BxnilvtioC4lpyhazuPX8NcEqDW5SLeK6AGxTQ3CJquNEBVail5gqE9+tbtrSLJEj+Ak9S/c8RhrowsaeegaZ3xu31I+tN+WHdcaRNSL3oTIIhhvecvErQoUxosPn09uI+SyvBSHCsNuI+LqWz4Fpko/TLA8mplqEnuvX2SnlVjve0IVTsikVMiJhOCnTy8xocYZzCOmc/adGfxdMqkVZV/Q==;09Mt7s2ygKptGGNAQaatGQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T00:00:00Z
 sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 5
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-19T09:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/id-r-d-achieves-strong-182618516.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 4
 
 secured: "ndph1zNDk5tM8FALHBDNvPqAWaTOQzWtSnFrvheH6iAkMHyY6kw9EeQdIY2HDWx60nfKD6OVzdeYrk5XfiYz5X8hNtr42nIKZkhauuDJXXXDSyKv0pU/DCjiejbDojxtOKSFnBjIdA/TDWmcfxW6t5TGJNULyF9XI2RJoQIHZJjmXds+JzuB5DtyoM3VIP4syEJvJCF+gLBpdooODyly7i76XemoBA5DcNe3S5VW2f9u0CKR8Z8sPv7oJSDWGck7ELtYw3279wOPMcm1/p7iBQ==;9bK/TDJ0aI+Qd12uPhAO+g=="
 ---
