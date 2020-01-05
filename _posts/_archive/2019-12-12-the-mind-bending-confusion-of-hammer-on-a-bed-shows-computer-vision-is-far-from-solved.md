@@ -29,6 +29,6 @@ images:
     height: 426
     title: "The mind-bending confusion of ‘hammer on a bed’ shows computer vision is far from solved"
 
-secured: "IU3piNRGeaTzLT8tqE5isyFMQ54yQuOONitmoi9dOJHD4GQEVtEvZaF5gfqUKyllDiwGXHX+xhkvzP6QmBGkLscw4zRnXxLfRWBKz/7bZhF25VmFOMb2W+L6vUzGitjO47LRw9BnKRJV8r9CbreeyLusfpGsTn4pB7oHr9b4Uy/EjB5kNFfBE+GpO0gNH0EAmPjgFgMGeOj9xoO+YPdCBxyiewDR+HsTDBWsLHA4rWXE/RFltf8nZpDPzc8yJrMLRMbTwzRshiC8zi3r7vj4CA==;UypUWkjdGR7bjL4MTlznDg=="
+secured: "VvHjZeUjzTwyPVOW7HEU7gIHWF34tB0/uB8eyqw1XQGSWdDlZkLSynpvX+DcNQobXlakjJFlF9Lpv7oGS3fHVXjHxXoofiEYlxTsduAUOq/6q0QwZ73Y693j8F9qCoVwgA6mFDakvJ+ENMHVG2CRolBgNADwSwSR8zAu4MJGOccgJ+p+EE3q+BcQxtTXrkk+C9gB6H6bpmV6C6y+CS08tti/fJgq2ng28zsx7W7YZNCoCeeh2X4NNh1/cJHD7NqNdmiR+9ZU5G85QJ5MGSxqug==;mNkcxkOT+IR4pzDUhLWBkg=="
 ---
 

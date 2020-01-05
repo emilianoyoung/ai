@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-excerpt: "They can choose CV25, CV22, or CV2 as the compilation target. Amazon SageMaker Neo compiles the trained model into an executable that is optimized for Ambarella's CVflow neural network accelerator. The compiler applies a series of optimizations that can ..."
+excerpt: "They can choose CV25, CV22, or CV2 as the compilation target. Amazon SageMaker Neo compiles the trained model into an executable that is optimized for Ambarella's CVflow neural network accelerator. The compiler applies a series of optimizations that can make the model run up to 2x faster on the Ambarella SoC. Customers can download the compiled ..."
 publishedDateTime: 2020-01-02T10:06:00Z
 sourceUrl: https://www.tmcnet.com/usubmit/-ambarella-enables-artificial-intelligence-a-wide-range-connected-/2020/01/02/9075180.htm
 type: article
@@ -38,6 +38,6 @@ related:
         width: 800
         height: 600
 
-secured: "ex0VMBfCQam4YT165XmDswgvR8NvmTkhVL4RwL5/tQ7rmSTmRG7AiZvdxGwaAs3Nsa7eh5aZ8UDW5RkQWB9qyv0PI2/bL3F37vimxgrRuKdTJP7I52YZPXjVLrlUXI5sC4oFS5qavWpBYWjOUiuuvC7Wq/sj9JmkzBLTU4SjDgXXf9A3UNGueA/SBWJckLFEc3ZLUDJ7oDh26ro7MtIIldpjf6koeVqxEYTuqAMxPyxOtEsX9Ja4w2s6sE4eY4yC7XNLsCl0cTs8uUoUmkbvlg==;mpo/Criz16shJkW+ptX+/w=="
+secured: "z3riNCQ2Gplm0B0PdI5JZ6ihh8nqQLHi/RtTFpINIYEHtV3R1J0mLIR+YIStkgig3esL3RQwGCnnM0BY+BpjPYEc5LrvkjLrajs11vIJcp0pOR5eFj4HtnQCPweWhQQAhTvsfpShxOmseU+PMNNeX3P+LS9rZuRcpFPRiSOz5MO69biMzotsS2gn0NSyulPOPcl0qw9GePlvf/oboATavDaiAupppyGronGPQl/AQmuOlV1fHTY+Jt7UtTacAhe3pQ3FSbqpSlvhJZFHVAmEOg==;SSQBBsQTBzSl/JkBKOBzeA=="
 ---
 

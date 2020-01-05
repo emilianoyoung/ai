@@ -7,7 +7,7 @@ sourceUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-
 ampUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
 cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00

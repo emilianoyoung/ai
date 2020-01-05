@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Nasdaq
@@ -23,19 +23,6 @@ images:
     height: 512
     title: "Amazon Partners National Football League For Player Health, Safety"
 
-related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-
-secured: "mT2HZCdG8rZqqFkNxw3ZzOOv+K7yYwj/gPF0lL+iTiDfuJktreXNKe+7chZ0PmTP4Not4nL3c1+Et4OuvgEE1dJqTsvk29m42c9IcitfeUIA9M6t1ywhCFQH4aDMRlxmDa3GsTpG5BSbRpuL4bxtivLqYobHJhERPVwDfPT38NyYuQ6bLI+UdBXpLMshJztwY12oHyupr/2DUNEpvAmruQf0XMsp6IqTKrnn7NLvnZ561MIC1lLqf2JV7/zAan2ArpwFHrSlchTl7vo7bDnp7g==;4qbo9yeDteeNjXwRFbvpWw=="
+secured: "gfn8VK03sDa12fJBOP175p2UXM0JEa+MuWs9SxxXhtHVNU2YswUEuysTlpGFOHseBrH2kFZHh3Lul1mhIHAi76QByLqyJDxCq+SU74OudO3mWuFcoCD65dnjoOUCezRC9ZqGoPEhGrVsLl8tB7a2j7pDz6RzJvBIoBym9eVCdl0Jw1+YueFqVn3m4Hsornvvu2r8BLjmandSZwTs4Zo0JYrkzEvkV8mQjz7GBybtIU7zN1A4CFtmKRBsXxqwShqqGkSNimD+naVE/hvS99cshw==;gTxEHnX+/ALQuB3CgzRBrA=="
 ---
 

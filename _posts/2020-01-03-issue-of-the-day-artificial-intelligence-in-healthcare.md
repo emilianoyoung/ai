@@ -43,7 +43,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 74
+    quality: 76
     images:
       - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00
         width: 660
