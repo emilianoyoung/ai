@@ -133,7 +133,7 @@ related:
   - title: "Google Shows AI Can Spot Breast Cancer Better Than Doctors"
     excerpt: "Artificial intelligence can spot breast cancer more accurately than doctors, according to a study by Google Health. The technology’s reading of mammograms reduced both false positives, where healthy patients are mistakenly diagnosed with the disease, and false negatives, where the cancer is missed, the Alphabet Inc. unit said in a blog post ..."
     publishedDateTime: 2020-01-02T09:31:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors?srnd=all
     ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
     cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-02/google-shows-ai-can-spot-breast-cancer-better-than-doctors
     type: article

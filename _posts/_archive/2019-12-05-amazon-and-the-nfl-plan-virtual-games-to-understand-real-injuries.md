@@ -4,12 +4,10 @@ title: "Amazon and the NFL plan virtual games to understand real injuries"
 excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
 publishedDateTime: 2019-12-05T22:16:00Z
 sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
-ampUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
-cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/?amp
 type: article
-quality: 54
-heat: 64
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: digitaltrends.com
@@ -23,19 +21,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "NFL turns to Amazon for help addressing player injuries"
-    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
-    publishedDateTime: 2019-12-06T15:42:00Z
-    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-
-secured: "loeulLNwXGFGQRKrwcjSJEIm60/s+bq2m0l9lLviOWp17zTl0dmJ+Jp8slFpdSQYmwGHYY9TDUSbw2ng3JhPRVZVwXl4b1Ig0c1IICNek4C0vRgMMnNHSXgNILSnI6ZiNnzyq7TgGqFr7Lgz64Qp50K6nh40+RnO1Q8PehYWQWETEUgaGdTIjd1pH89Fu5YTmJGPOeX/+h/MjYh7N9IM62fT0dZFj7L1WMA2zZuFvk/RCCkoZo9V4s4/Sujw+7yz/hUUE1hGm1QQnaDL6eDY4g==;7fJ1rNHPRD0qU7CcTx7p1Q=="
+secured: "dnQ5JJ5WUV0IhHdK9EoDvr71dyflAysazaiXSQ2tohCU9N6w4l1jSL3Scd/TN9nWpLEvbBdndaq6Y2GEXLP/9oamC+GApj6UCdxA91VKQWuVOcKeTPAFt5WTZ6wvFPNF/gpgRI/mETFYVI3ud9fq/XQHMHNVFAawe8mD8HWyV/Mko8bV1I2Ta7ZdM8+Uk9c9qArQF4OjQA+02dDDifOUYbtKfMDJgvMEcv08aL/rZeLm7tEODKZ9zYIE33tUWTDSG1tttLheuu3oEzj02Psubg==;U8l2XOSVaVGsR73/vV1uMg=="
 ---
 

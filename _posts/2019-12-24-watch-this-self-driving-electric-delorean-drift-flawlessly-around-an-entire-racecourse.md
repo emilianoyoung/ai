@@ -129,19 +129,6 @@ related:
       - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
         width: 700
         height: 393
-  - title: "VW will roll out self-driving electric shuttles in Qatar's capital"
-    excerpt: "If you visit Qatar in the next few years, you might find yourself riding in a driverless vehicle. Volkswagen and Qatar have struck a deal that will bring self-driving electric vehicles to the public transportation network in the capital city of Doha before the end of 2022. A total of 35 autonomous ID Buzz vans will carry up to four people each ..."
-    publishedDateTime: 2019-12-16T00:03:00Z
-    sourceUrl: https://www.yahoo.com/entertainment/2019-12-15-vw-self-driving-electric-shuttles-qatar.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.694E2E6E63A6D52B5573A7E6D010BC8C
-        width: 700
-        height: 466
   - title: "Russia's Yandex making its own self-driving sensors"
     excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
     publishedDateTime: 2019-12-17T16:11:00Z

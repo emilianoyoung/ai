@@ -204,6 +204,21 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fAutism-620x480.jpg
         width: 620
         height: 480
+  - title: "Medical cheers in 2020"
+    excerpt: "And even in this age of hypersonic innovations, that remains relatively true. Yet advances in areas of gene therapy, DNA mapping, stem cell research, digital medicine, and the related artificial intelligence diagnostics have all helped to accelerate the discovery of cures. There were quite a few such innovations in 2019 and some are expected ..."
+    publishedDateTime: 2020-01-05T00:18:00Z
+    sourceUrl: https://punchng.com/medical-cheers-in-2020/
+    ampUrl: https://punchng.com/medical-cheers-in-2020/amp/
+    cdnAmpUrl: https://punchng-com.cdn.ampproject.org/c/s/punchng.com/medical-cheers-in-2020/amp/
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: https://cdn.punchng.com/wp-content/uploads/2017/03/12111351/Minabere-Ibelema.jpg
+        width: 600
+        height: 388
   - title: "From AI to 5G: Predicting the future of technology in 2020"
     excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
     publishedDateTime: 2019-12-28T12:28:00Z

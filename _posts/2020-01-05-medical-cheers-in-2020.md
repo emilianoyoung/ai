@@ -1,33 +1,29 @@
 ---
 category: news
-title: "10 Ways AI Is Going To Improve Fintech In 2020"
-excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
-publishedDateTime: 2019-12-29T15:08:00Z
-sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
-ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+title: "Medical cheers in 2020"
+excerpt: "And even in this age of hypersonic innovations, that remains relatively true. Yet advances in areas of gene therapy, DNA mapping, stem cell research, digital medicine, and the related artificial intelligence diagnostics have all helped to accelerate the discovery of cures. There were quite a few such innovations in 2019 and some are expected ..."
+publishedDateTime: 2020-01-05T00:18:00Z
+sourceUrl: https://punchng.com/medical-cheers-in-2020/
+ampUrl: https://punchng.com/medical-cheers-in-2020/amp/
+cdnAmpUrl: https://punchng-com.cdn.ampproject.org/c/s/punchng.com/medical-cheers-in-2020/amp/
 type: article
-quality: 89
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Punch Newspapers
+  domain: punchng.com
 
 topics:
   - AI
-  - AI in Finance
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
+  - url: https://cdn.punchng.com/wp-content/uploads/2017/03/12111351/Minabere-Ibelema.jpg
     width: 600
-    height: 315
-    title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    height: 388
+    title: "Medical cheers in 2020"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -60,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3FECF9BBFFD30BAD3050191165EB716E
         width: 700
         height: 490
+  - title: "10 Ways AI Is Going To Improve Fintech In 2020"
+    excerpt: "Bottom Line: AI & machine learning will improve Fintech in 2020 by increasing the accuracy and personalization of payment, lending, and insurance services while also helping to discover new borrower pools. Fintech’s traditional tech stacks weren’t designed to anticipate and act quickly on real-time market indicators and data; they are ..."
+    publishedDateTime: 2019-12-29T15:08:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/12/29/10-ways-ai-is-going-to-improve-fintech-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
+        width: 600
+        height: 315
   - title: "Nine AI Marketing Trends Set To Explode In 2020"
     excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
     publishedDateTime: 2019-12-30T13:14:00Z
@@ -195,21 +206,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fAutism-620x480.jpg
         width: 620
         height: 480
-  - title: "Medical cheers in 2020"
-    excerpt: "And even in this age of hypersonic innovations, that remains relatively true. Yet advances in areas of gene therapy, DNA mapping, stem cell research, digital medicine, and the related artificial intelligence diagnostics have all helped to accelerate the discovery of cures. There were quite a few such innovations in 2019 and some are expected ..."
-    publishedDateTime: 2020-01-05T00:18:00Z
-    sourceUrl: https://punchng.com/medical-cheers-in-2020/
-    ampUrl: https://punchng.com/medical-cheers-in-2020/amp/
-    cdnAmpUrl: https://punchng-com.cdn.ampproject.org/c/s/punchng.com/medical-cheers-in-2020/amp/
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
-    images:
-      - url: https://cdn.punchng.com/wp-content/uploads/2017/03/12111351/Minabere-Ibelema.jpg
-        width: 600
-        height: 388
   - title: "From AI to 5G: Predicting the future of technology in 2020"
     excerpt: "Two key technologies will underpin developments coming in 2020: the next-generation data network known as 5G, and new frontiers in artificial intelligence (AI). Despite the hype, 5G hasn’t yet managed to elicit much enthusiasm among consumers. We know it promises to be speedy (between 10 and 100 times faster than 4G), but that prospect alone ..."
     publishedDateTime: 2019-12-28T12:28:00Z
@@ -237,6 +233,6 @@ related:
         width: 592
         height: 568
 
-secured: "LHNxNJ6+UIeRemlbC6w3e59a6ML9CQThJGoHPZZYLdXaXFBGTbnQtHYLMI7+TctWT//vZS8GizD74O8D8nfo0+auAhyUxRIZrBGA/G36KglzQMxKj39cO6r7HWpXujEFah6je+1OorZHIrKTVEUoB9BFD7VqM7oXjYYfucrxD67qSV/lKtmIxLoR6pqMKhy0NdbqI6JJwzl45ZBSclHnwJq8G7RhR969U/TtnjG1HVW3CxohxddZX6dMT6jfTGwuITbXG0qqlGEqChCWtQOxVA==;J52Ice3FpeUJuBB8e0VHaw=="
+secured: "KCJH0TMZhfVFG3RaFh8ztcl0HucbJugXyZAXOvijqgkdRO8gf6wOrvuqKY5vncsWPlq/byPeZd5tzBFHoTNeodSWMYY+HfUzno9qkCSiglo3qcz1wALUmfQB1HfduDTiMsy4VZTWPJ9DRciIcDSGF6YT9Hv4jkdwjuIjwKR4RkDi9LintD3wiffIcqTpB8XmLgcIpN0Ypekeye4Dj3Qn9Fqf0MEyCtfb4RipGeRACL4X4O+nbc+cD0bc/8MehvoHM3+9Tib8xbv0IszpsBNolg==;mHUWPenRSYYTTCvliP4NIQ=="
 ---
 

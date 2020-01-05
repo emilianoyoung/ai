@@ -2,24 +2,26 @@
 category: news
 title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
-publishedDateTime: 2019-12-23T12:53:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/aylien-raises-5-million-to-identify-and-analyze-risk-events-in-real-time-in-the-financial-services-and-risk-intelligence-space-using-ai-1028782240
+publishedDateTime: 2019-12-23T14:03:00Z
+sourceUrl: https://finance.yahoo.com/news/aylien-raises-5-million-identify-135600933.html
 type: article
-quality: 16
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Finance
+
+images:
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
+    title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
 
 related:
   - title: "Artificial Intelligence’s Foothold Increases Going Into 2020"
@@ -51,6 +53,6 @@ related:
         width: 1280
         height: 720
 
-secured: "DypHaDbqhllUO6nI29CJ5C4Cyi3Nf6a5xqwBd1v2kMtL7L4ZDqSMrskgw9SmSkdKsi2BtUSRsB1ZAM8FDK0CwU97wWtWoKPBjxKmO/uuwTkUr2gTlKKI5EOIYwJ3qMTS0AuzdYPmyQE10sY5MyPppEKAcWlOhxElkuN/amf0Jlr59//ainN6AmalXV2KX4Kzxactotj+kS+4Jmwy2rlDj8H/m5Cw88C/9ULjz2MQXI++kyhYHjyPaWsY0Ney+QucFqTe6Z99yl2QDeMEENDzOQ==;NctAWKbqPqvWLosSgl7aJA=="
+secured: "GzxebJ2ZVl6RQZfr4fIS+1pNeTuoEa/m0V9N8cGULvg2jbDMdRBikihci/j/Yr7epQgGqETqOlsz21LyYzteQHWy5k6oZcid+v9rAxrmqoIyp+bRZG0oPgxIbKZWLlO4C3S/1dli8K7Mj45ZW696DltoeVcveUHOgF/piRPc8s1eUWqcDGi7XPK1cW8y0SMLELLKejSsfTH1iEKPOwKzexeBQDR5GQUOrWGQIDiwlDu8psLZvtV+FoLLl1RoMykI8jSaaWEqIKw4ptWnkuMSkA==;oUDl4ohxKwVEKBziOBrxzQ=="
 ---
 

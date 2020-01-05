@@ -203,6 +203,21 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fAutism-620x480.jpg
         width: 620
         height: 480
+  - title: "Medical cheers in 2020"
+    excerpt: "And even in this age of hypersonic innovations, that remains relatively true. Yet advances in areas of gene therapy, DNA mapping, stem cell research, digital medicine, and the related artificial intelligence diagnostics have all helped to accelerate the discovery of cures. There were quite a few such innovations in 2019 and some are expected ..."
+    publishedDateTime: 2020-01-05T00:18:00Z
+    sourceUrl: https://punchng.com/medical-cheers-in-2020/
+    ampUrl: https://punchng.com/medical-cheers-in-2020/amp/
+    cdnAmpUrl: https://punchng-com.cdn.ampproject.org/c/s/punchng.com/medical-cheers-in-2020/amp/
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: https://cdn.punchng.com/wp-content/uploads/2017/03/12111351/Minabere-Ibelema.jpg
+        width: 600
+        height: 388
   - title: "Long Live The Robot Revolution Of Iron Man 2020, Beginning In Incoming #1 (Spoilers)"
     excerpt: "Yesterday’s publication of Incoming #1 saw Al Ewing, Humberto Ramos, Dan Slott, Luciano Veccho, Espen Gundetjern, Francesco Manna and Edgar Delgado, kick off the Robot Revolution of Iron Man 2020. First with Captain Marvel musing about Artificial Intelligence… and the absence of one Tony Stark. Then Valeria Richards taking the inhibitor ..."
     publishedDateTime: 2019-12-27T13:00:00Z

@@ -2,23 +2,25 @@
 category: news
 title: "What is artificial intelligence’s future in healthcare"
 excerpt: "She also needed no opioids as a result. This is just one example of how artificial intelligence is transforming lives in the field of healthcare. We now have mobile applications and devices that are making preliminary diagnosis of life-threatening diseases easier, cheaper and far more convenient. Miiskin, UMSkinCheck, for instance, help in ..."
-publishedDateTime: 2020-01-04T20:11:00Z
-sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-future-healthcare-192751819.html
+publishedDateTime: 2020-01-04T19:37:00Z
+sourceUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/
+ampUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
+cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.FAB7260ACDA75BABFC1A2829215CB2BD
+  - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00
     width: 660
     height: 440
     title: "What is artificial intelligence’s future in healthcare"
@@ -146,6 +148,6 @@ related:
         width: 700
         height: 350
 
-secured: "0RgHeRDuLhPN4ndo7KrCgQ76F6fU5CNiWLa7Ik+OxVURBQElmEPMe9WX0X+Id7k/ch87jfCDYbkgIYGDThAvPJhjCa+rTp1GSm1SeHxeOC+q18p/+x2s6lkuPAM1sR3AiCIekFaaf0rKvl0CMJ5aQeWcACVLXAKOPwr19UVolKV6G+4TzcpB6xFvTNe6Alx9yC7XxADgpomZGGZ8A82FCkDKJRJhU4KKa6HzpgiHYxKR8ZgAPYriNMZGGVmKu/QzJUCNpQhdxT+xyB9g8936CA==;zSbDq2UMy+s3vR7/eFvX1A=="
+secured: "TxIiZ4F8TAToakxFeyNgq1kb+RRnLc9DIrKYpU8fQrbPinL1SGZJUsssbEEnCIzR3q96PS1t6ji/yi7O1UyxTHQ0YCGc/1wMmcjfxtGbeANxDc8yInpDFkIY1ntujJ0JJhmkohnMWbJBIvIMm9djyVHXDeNjl5INGtsxJPb59KE0beWECP+etsMNbBksTsFKgTIWhguyuhbK50CJwWwWowKJET/NkAWAhmkpq3XC5HpUM00MuEZXy/ogNhb5d6VXnUhRqbcDtIf9mKWM6/wzGg==;xPazPlIMDGzLwLj8UmWWHg=="
 ---
 
