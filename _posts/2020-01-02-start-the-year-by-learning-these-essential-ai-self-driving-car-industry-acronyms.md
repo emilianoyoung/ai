@@ -90,6 +90,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
         width: 1200
         height: 580
+  - title: "AI Specialist Is The Top Emerging Job In 2020 According To LinkedIn"
+    excerpt: "AI and data science skills are proliferating across industries as businesses look to improve their ... [+] competitiveness and also create more patents. Data science is booming and starting to replace legacy engineering roles across U.S. organizations today. More than 50% of this year’s list was made up of roles related to engineering or ..."
+    publishedDateTime: 2020-01-05T20:01:00Z
+    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/05/ai-specialist-is-the-top-emerging-job-in-2020-according-to-linkedin/
+    ampUrl: https://www.forbes.com/sites/louiscolumbus/2020/01/05/ai-specialist-is-the-top-emerging-job-in-2020-according-to-linkedin/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/01/05/ai-specialist-is-the-top-emerging-job-in-2020-according-to-linkedin/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.B265F47C96A4B73FD370972370A03C46
+        width: 600
+        height: 315
   - title: "In 2020, let’s stop AI ethics-washing and actually do something"
     excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
     publishedDateTime: 2019-12-27T10:07:00Z

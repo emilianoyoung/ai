@@ -159,21 +159,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Serie A unveil anti-racism monkey paintings after announcing facial recognition technology plans"
-    excerpt: "Serie A CEO Luigi De Siervo cited former British prime minister Margaret Thatcher Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, De Siervo announced on Monday. \"We're working on facial recognition software to use inside the stadiums,\" De Siervo said. \"We're still ..."
-    publishedDateTime: 2019-12-16T19:44:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-controversy-continues-after-anti-racism-monkey-paintings
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 61
-    images:
-      - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
-        width: 700
-        height: 393
   - title: "Some cities and states balk at face recognition tech, here’s why"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T22:20:00Z
@@ -189,19 +174,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
-    excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
-    publishedDateTime: 2019-12-16T20:00:00Z
-    sourceUrl: https://asia.nikkei.com/Spotlight/Tokyo-2020-Olympics/Narita-Haneda-and-Kansai-to-allow-facial-recognition-boarding
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BE8EFDDC859B9CB78E42229A7F5C2EA0
-        width: 700
-        height: 350
   - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
     excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
     publishedDateTime: 2019-12-18T16:54:00Z

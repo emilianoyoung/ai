@@ -1,26 +1,29 @@
 ---
 category: news
-title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
-excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
-publishedDateTime: 2019-12-27T12:05:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
-cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+title: "Sweden to invest $585 million in artificial intelligence"
+excerpt: "Artificial intelligence is used today in a number of areas, such as internet search engines, self-driving vehicles and computers that can detect cancer. But that's just a fraction of possible uses. Nearly forty Swedish companies, including Volvo, ABB and Ericsson, have been reportedly associated with the program. Within the framework of the ..."
+publishedDateTime: 2020-01-04T11:08:00Z
+sourceUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579/
+ampUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
+cdnAmpUrl: https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
 type: article
-quality: 52
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: poandpo.com
+  domain: poandpo.com
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.19BDC7942F25FC2CAFA0E7F27978B75C
+    width: 700
+    height: 393
+    title: "Sweden to invest $585 million in artificial intelligence"
 
 related:
   - title: "Xiaomi to invest $7 billion in 5G, AI and IoT over next five years"
@@ -64,21 +67,17 @@ related:
       - url: https://www.bing.com/th?id=ON.088A58C2AA437D5E4AA93455643494E8
         width: 700
         height: 350
-  - title: "Sweden to invest $585 million in artificial intelligence"
-    excerpt: "Artificial intelligence is used today in a number of areas, such as internet search engines, self-driving vehicles and computers that can detect cancer. But that's just a fraction of possible uses. Nearly forty Swedish companies, including Volvo, ABB and Ericsson, have been reportedly associated with the program. Within the framework of the ..."
-    publishedDateTime: 2020-01-04T11:08:00Z
-    sourceUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579/
-    ampUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
-    cdnAmpUrl: https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
+  - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
+    excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
+    publishedDateTime: 2019-12-27T12:05:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    ampUrl: https://markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ainnovation-raises-nearly-us-60-million-in-series-b-financing-to-deepen-ai-application-in-industries-1028786089
     type: article
     provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.19BDC7942F25FC2CAFA0E7F27978B75C
-        width: 700
-        height: 393
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "Xiaomi Plans To Invest Over $7B In 5G, Artificial Internet Of Things"
     excerpt: "Chinese electronics company Xiaomi Corp (OTC: XIACF) is planning to invest over $7 billion in artificial intelligence of things (AIoT) and fifth-generation (5G) internet technologies over the next five years, Reuters reports. What Happened The founder and CEO of Xiaomi, Lei Jun, posted a letter on the company’s social media account on ..."
     publishedDateTime: 2020-01-02T16:50:00Z
@@ -95,6 +94,6 @@ related:
         width: 600
         height: 400
 
-secured: "Gb056CIlaBzu2+xbVEG3zQ472FtFcurpx1gr6D8VdaTQoUXX+TuFh2vEAlTd0ZyHj7N4RRq+zyFpmv/V3KYnXdUZrN5M6JiqN9V0SGwk7C7E1Z6QnoBSQg5upLtSsupC/rKb84+QD3lmVEb6xJucPxfz6s3FpWsCqbEI9fqrCMG66h+JuVj1Kln2NcdPRIEPGv0eIhIdluWIaeOacfgFsdJDkvW6ZOrfqA4VD42a8vNu7tZ593yjb+WA/VjOBFO2wL4aoI3PWNgndHcC2JiFaw==;x7sdzaF5qQCAIrw1qMqVwg=="
+secured: "0wbO6ruXyneuS1HkiamrDyJcwhyOdP/Wbje0B5rKjZErMHAtZ5EjiaoLE1w6usxvsYIw01j9NUyYZlwRok/QStuW3RbcJw+M4tLVxadScOTfsyucjtyQRlYsrZLRZYkz3qLA/9HiC8GXQK2vRsMc2LHn0S99hK07GIsuLEVZI3ebY/7mrOn+8j5emA2Uc/1BEgo+nt56aacmtvLgM7aoZQUdnHj0Y9JwoG7yUOJU003236CGPtNVw5Dom1cASllk/IZooqlhNxdt+mCMTC+2BQ==;S6SMDaXPHNorY5sGUvhMbg=="
 ---
 

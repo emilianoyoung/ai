@@ -1,11 +1,11 @@
 ---
 category: news
 title: "US announces AI software export restrictions for China"
-excerpt: "some in the tech industry feared it would harm the field of artificial intelligence, which benefits greatly from the exchange of research and commercial programs across borders. Although the US is generally considered to be the world leader in AI, China is a strong second place and gaining fast. But the new export ban is extremely narrow."
-publishedDateTime: 2020-01-05T17:43:53Z
-sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions-for-china/ar-BBYDsT1
+excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA."
+publishedDateTime: 2020-01-05T17:50:00Z
+sourceUrl: https://www.msn.com/en-us/finance/other/us-announces-ai-software-export-restrictions-for-china/ar-BBYD5Xa
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,12 +15,11 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
+  - url: https://www.bing.com/th?id=ON.FC2C336E811149EF64B59D62A6B5D659
     width: 700
-    height: 366
+    height: 367
     title: "US announces AI software export restrictions for China"
 
 related:
@@ -47,12 +46,12 @@ related:
     provider:
       name: The Verge on MSN.com
       domain: msn.com
-    quality: 37
+    quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.FC2C336E811149EF64B59D62A6B5D659
         width: 700
         height: 367
 
-secured: "8P9US9EKDTS5i61TVsIDAKn5I7R1XUlLnq14/zho07GbLRM+/zb4ySQhvNrq3YFaNdZpdZL0tC9BmHY6Id9wkjXO5MQBdeJsJomCzVBtwZSkwBA1VBkQ10qhsO7Arp3zp/XYGzq1zZlRs+rFTsM4wats+EQVll92B+ZTBaocWNixXJXtkC/24V1jfZUhx3/9Z/soY3/bsdNnCwP4nXGIjgHqdSGWE/dlATUwuY5WbDp+57hUt90+zLl/poGq1ULi6A9lOSsYjJX9x4D0pbKNVQ==;Eh6Vc628oUMkn9pQPAQm2Q=="
+secured: "x+DIt4H/dUFijmhED41qEULlrAeXWjhZI01IOGeWurhKG4PxDcVJPiDaypII++kMs4wziMu4VaPytiLuPNqZFdIiJhFbIIBxKM0W/kemuR+ctut/CCT3VMad5ZP393QHF3IHWjscatwoypw1RCrUTtsGg/Bg+z/FyMR/k/0Y1uLHOPypYb0Nqfp92VN2HKtQm8Ouqt+tIwLcEQJwGhI4YEGlPUy2q3Mu/WqeHB9Qlki4IqqL0iHZj5ZsRf/MYjXEmey1NF2qlUjdSGbmT4x9Gg==;k9eL+lYBxY9+kWN5h7Wf9A=="
 ---
 

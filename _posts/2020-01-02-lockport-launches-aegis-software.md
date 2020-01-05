@@ -26,23 +26,23 @@ images:
     title: "Lockport launches Aegis software"
 
 related:
-  - title: "US announces AI software export restrictions for China"
-    excerpt: "some in the tech industry feared it would harm the field of artificial intelligence, which benefits greatly from the exchange of research and commercial programs across borders. Although the US is generally considered to be the world leader in AI, China is a strong second place and gaining fast. But the new export ban is extremely narrow."
+  - title: "US announces AI software export restrictions"
+    excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA."
     publishedDateTime: 2020-01-05T17:43:53Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions-for-china/ar-BBYDsT1
+    sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions/ar-BBYDgGx
     type: article
     provider:
       name: The Verge on MSN.com
       domain: msn.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
+      - url: https://www.bing.com/th?id=ON.FC2C336E811149EF64B59D62A6B5D659
         width: 700
-        height: 366
-  - title: "US announces AI software export restrictions"
+        height: 367
+  - title: "US announces AI software export restrictions for China"
     excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA."
-    publishedDateTime: 2020-01-05T17:43:53Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions/ar-BBYDgGx
+    publishedDateTime: 2020-01-05T17:50:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/us-announces-ai-software-export-restrictions-for-china/ar-BBYD5Xa
     type: article
     provider:
       name: The Verge on MSN.com

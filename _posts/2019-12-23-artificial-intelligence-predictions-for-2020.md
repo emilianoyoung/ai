@@ -42,21 +42,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
         width: 1200
         height: 675
-  - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
-    excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
-    publishedDateTime: 2019-12-16T19:57:00Z
-    sourceUrl: https://www.techrepublic.com/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
-        width: 700
-        height: 525
   - title: "2020 predictions for healthcare IT from six industry experts"
     excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
     publishedDateTime: 2019-12-19T10:30:00Z

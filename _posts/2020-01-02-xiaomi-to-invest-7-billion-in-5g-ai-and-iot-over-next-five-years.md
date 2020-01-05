@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T06:47:00Z
 sourceUrl: https://kfgo.com/news/articles/2020/jan/02/xiaomi-to-invest-7-billion-in-5g-ai-and-iot-over-next-five-years/970837/?refer-section=technology
 type: article
 quality: 137
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -51,6 +51,21 @@ related:
       - url: https://www.bing.com/th?id=ON.088A58C2AA437D5E4AA93455643494E8
         width: 700
         height: 350
+  - title: "Sweden to invest $585 million in artificial intelligence"
+    excerpt: "Artificial intelligence is used today in a number of areas, such as internet search engines, self-driving vehicles and computers that can detect cancer. But that's just a fraction of possible uses. Nearly forty Swedish companies, including Volvo, ABB and Ericsson, have been reportedly associated with the program. Within the framework of the ..."
+    publishedDateTime: 2020-01-04T11:08:00Z
+    sourceUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579/
+    ampUrl: https://www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
+    cdnAmpUrl: https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/sweden-to-invest-585-million-in-artificial-intelligence-412020579.amp
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.19BDC7942F25FC2CAFA0E7F27978B75C
+        width: 700
+        height: 393
   - title: "AInnovation Raises Nearly US$60 million in Series B Financing to Deepen AI Application in Industries"
     excerpt: "BEIJING, Dec. 27, 2019 /PRNewswire/ -- Chinese AI solutions provider AInnovation recently announced the closing of Series B financing round of nearly 400 million yuan (approx. US$60 million), led by China Renaissance's Huaxing Growth Capital Fund, with participation from investors including CICC ALPHA, SAIF Partners and CreditEase. China ..."
     publishedDateTime: 2019-12-27T12:05:00Z

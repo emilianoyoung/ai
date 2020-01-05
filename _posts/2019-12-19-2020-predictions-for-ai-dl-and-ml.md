@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "2020 Predictions For AI, DL, And ML"
 
 related:
-  - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
-    excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
-    publishedDateTime: 2019-12-16T19:57:00Z
-    sourceUrl: https://www.techrepublic.com/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
-        width: 700
-        height: 525
   - title: "Artificial intelligence predictions for 2020"
     excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
     publishedDateTime: 2019-12-23T11:01:00Z

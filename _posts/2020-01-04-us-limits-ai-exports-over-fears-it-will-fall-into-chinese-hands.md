@@ -2,16 +2,22 @@
 category: news
 title: "US limits AI exports over fears it will fall into Chinese hands"
 excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
-publishedDateTime: 2020-01-04T20:40:00Z
-sourceUrl: https://www.msn.com/en-gb/news/world/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYClUE
+publishedDateTime: 2020-01-04T19:40:00Z
+sourceUrl: https://www.engadget.com/2020/01/04/us-limits-ai-exports/
+ampUrl: https://www.engadget.com/amp/2020/01/04/us-limits-ai-exports/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/04/us-limits-ai-exports/
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -108,6 +114,6 @@ related:
         width: 700
         height: 367
 
-secured: "hjg8whkPBrkBYoB9Th3DbzBIPK81qkM+KSVB9bx3hOcjSpWvv3G/5ivt9JSX/lgwnZlvXR3QB8wR1XneCxMWNy0rHlyrU3WN0rfxQvuMS7sU1p4j+T/LOzy5kA4EvQJWU48uN5ireSrOHQEGoSeuTDU/9IjrMkIPEn77TGE+wfU749ETRb5NoWiAg47M+evBctnJdAQa4v+8DYFq8nq+U0U18mRhl9azwtEhAa7SZ54KPNdrog53wjT4Tt0tOvzj+FyiroIDsHvmf1hPkq/emw==;/vteEMRqKIjseHR+CuUfZw=="
+secured: "xkzieouvNXSKLajGQRYI1C5iWku318sMqzAaWttH4ZK/xty39QZLUUm84wBQCa93jT0ilpWh53RuHATrdIqIY23W6tmOb0QeQrwMnu8XUODfbMnWTRjcGPl0LzP6E47ILT6JFS/4tKjpSwGrxviQZ5nanOyZEYb4TEhWNVc2GdjgRENxgfKaSYc6ao1i9/1yggi6RP5YEZf9ye3FdhHTqbrAHxDdhcoaEIgvZel1lxmFJDN2THafAoYbGmbNLgMPTz92XcihBR+F9QiOjLA4Eg==;dbFP0GPrAVi9OmqcnjHZtQ=="
 ---
 
