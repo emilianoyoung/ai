@@ -391,19 +391,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
-    excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
-    publishedDateTime: 2019-12-16T14:46:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/an-ai-company-test-demonstrated-how-easy-it-is-to-fool-most-facial-recognition-applications-but-not-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
-        width: 600
-        height: 263
   - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
     excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
     publishedDateTime: 2019-12-17T19:04:00Z
@@ -616,6 +603,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "CEZiBuxZMIIi29AG6iqRWN4XXLZktsmCfD1SHwzayYC2/0AyFE+lVfa5S0k0JhpPqfWI8BggPODyOfDc+troVJ6sgUlu/6Gz67huIJVeUWqWdqy+HoVjwRMc0Ug1LTt0KkPky3bt2ypFDFjf1Y1AStw40xK8WhriKTyXhyVGAokchT9uROpm0lnBqLUmaaBXWK68VffwxO92K39oamS8y1CQulelnI86ERPI3w02p2KWY08gSMqbg6cdGqKFx+cNG6G2fNOaFm/5oCoP8gmsog==;8l7HNkLFBAiUmCX3oaDfLA=="
+secured: "+NzEGMrDuurNsVt/42sz4gLAgfSZB4SreKo7/Ap7m7WtGfSrsXGcxgp7xHpxD13YGga3s5lHKbM+wu5Y7HM9NqyDN7oD4tAKQfZPgpwMoIMAmrIHBz8jDyNlnD/2rkTwpfRc285Xkn391MMkReyYwoiZO1DzCP/9idIECV1L2jZBnEG045EVGVIg/5GfQa14vhq4jsYdMoLx6mx18rkKyt0kyTV+vcIbMiAJhGs+cYcPQfIlF/i/4RO5NN0efdP2qzIbg5ctCUp1GvZ1fucPew==;TEh+7OPs/1g0VqTpY9NITQ=="
 ---
 

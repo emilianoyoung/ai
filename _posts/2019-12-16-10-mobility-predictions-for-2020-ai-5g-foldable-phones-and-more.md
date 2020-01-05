@@ -44,21 +44,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
         width: 1200
         height: 675
-  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
-    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
-    publishedDateTime: 2019-12-16T14:12:00Z
-    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
-        width: 600
-        height: 315
   - title: "Artificial intelligence predictions for 2020"
     excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
     publishedDateTime: 2019-12-23T11:01:00Z

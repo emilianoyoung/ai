@@ -64,19 +64,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
         width: 700
         height: 350
-  - title: "Push to rein in facial recognition stalls"
-    excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
-    publishedDateTime: 2019-12-16T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/16/push-to-rein-in-facial-recognition-stalls-783738
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 139
-    images:
-      - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
-        width: 300
-        height: 250
   - title: "Facial recognition fails on race, suggests government study"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-20T12:29:00Z

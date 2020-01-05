@@ -45,21 +45,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
         width: 800
         height: 525
-  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
-        width: 700
-        height: 490
   - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
     excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
     publishedDateTime: 2019-12-16T17:29:00Z

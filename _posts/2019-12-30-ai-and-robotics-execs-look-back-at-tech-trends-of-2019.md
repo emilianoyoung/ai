@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-30T20:30:00Z
 sourceUrl: https://www.therobotreport.com/ai-robotics-execs-look-back-tech-trends-2019/
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -50,6 +50,21 @@ related:
       - url: https://ctovision.com/wp-content/uploads/smart-cities.jpg
         width: 1024
         height: 530
+  - title: "CES 2020: From Apple and Ivanka Trump to 5G, AI and robotics – here's what’s in store at the annual tech bonanza"
+    excerpt: "Artificial intelligence, augmented and virtual reality, privacy, foldable tech, 5G, robotics, smart cities and smart car, home, and health products, 8K TVs, drones, wearables, and health and wellness tech – you name it and all the latest buzzwords in technology are expected to dominate this year’s expo. “Companies across every major ..."
+    publishedDateTime: 2020-01-05T15:10:00Z
+    sourceUrl: https://yourstory.com/2020/01/ces-cta-annual-technology-event-preview-apple-ivanka-trump
+    ampUrl: https://yourstory.com/2020/01/ces-cta-annual-technology-event-preview-apple-ivanka-trump/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/ces-cta-annual-technology-event-preview-apple-ivanka-trump/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.754AC2277E2C3ED7651F882F68DF09B5
+        width: 700
+        height: 350
   - title: "A Rocking Robotics ETF For 2020"
     excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. What Happened Tactical traders looking to take advantage ..."
     publishedDateTime: 2020-01-03T23:56:00Z

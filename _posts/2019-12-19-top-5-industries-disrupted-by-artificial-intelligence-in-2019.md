@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9838C36D4B842F4AC9A6BB8A1462C48E
         width: 700
         height: 466
-  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
-    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
-    publishedDateTime: 2019-12-16T14:13:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
-    images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
   - title: "Why Commercial Real-Estate is the next industry to be disrupted by Visual Artificial Intelligence"
     excerpt: "After all, it’s not a coincidence that we instinctively refer to a deeper understanding of something as ‘looking at the big picture’. Visual Artificial Intelligence mirrors our ability to make quick and detailed assessments based on sight. It’s now becoming possible to create powerful and intuitive interactions between humans and ..."
     publishedDateTime: 2019-12-18T18:49:00Z

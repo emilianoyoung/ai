@@ -350,6 +350,15 @@ related:
       name: Seattle Daily Journal of Commerce
       domain: djc.com
     quality: 4
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-05T15:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "Hdu1yVntnMwk9Djzxc/d9yxl9acZ77tAXjqvyS6TZLb5AXkX3YTLHhU5w6CnM3eG4xosCSOWpUwE6Q+2o6+v2+kdX826cUjAhgOTirkqiI8Xn2bCR9AqhttO2rbehB/ASYY/waqc3kv7E2j1gCkFAaroy8YGrr4Z4mtxnamTovnHtu4esa0T6c9RUwg4obHVm5rbrK6C/1fIVQ7oj1F8FOLa3pZhElltx0YvjlgQ2LxhKXO9DnTFfTIFdSOrxhtWmTpZlQJRfrAgmvmXDV0YmA==;8e8Q2j6j6LthW/8hTC8P1w=="
 ---

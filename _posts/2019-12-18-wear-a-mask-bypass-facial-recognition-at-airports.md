@@ -70,19 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
         width: 700
         height: 350
-  - title: "Push to rein in facial recognition stalls"
-    excerpt: "Facial recognition freeze: House lawmakers say the bipartisan effort in Congress to limit federal use of facial recognition technology has stalled because of impeachment and the passing of Elijah Cummings. — Industry ready for next U.S.-China deal: The preliminary U.S.-China trade deal isn’t soothing the tech sector’s worries about ..."
-    publishedDateTime: 2019-12-16T15:00:00Z
-    sourceUrl: https://www.politico.com/newsletters/morning-tech/2019/12/16/push-to-rein-in-facial-recognition-stalls-783738
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 139
-    images:
-      - url: https://www.bing.com/th?id=ON.7D3ACB0802419AA3CC2813FBB43A54EB
-        width: 300
-        height: 250
   - title: "Federal study finds race, gender bias in facial recognition technology"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
     publishedDateTime: 2019-12-19T23:43:00Z

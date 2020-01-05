@@ -388,19 +388,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
-    excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
-    publishedDateTime: 2019-12-16T14:46:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/an-ai-company-test-demonstrated-how-easy-it-is-to-fool-most-facial-recognition-applications-but-not-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
-        width: 600
-        height: 263
   - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
     excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
     publishedDateTime: 2019-12-17T19:04:00Z

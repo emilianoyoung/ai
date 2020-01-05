@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
 type: article
 quality: 119
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -86,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
         width: 700
         height: 366
-  - title: "AI-equipped robots active in precision welding"
-    excerpt: "Vision sensors are placed on the robot and used in conjunction with artificial intelligence. That allows the robot's motions to be tracked in real time using visual feedback. Minyue Tech's technology offers three advantages. First, SmartEye uses structured light to perform 3D measurements. By combining vision with deep learning, various parts ..."
-    publishedDateTime: 2019-12-16T14:18:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/AI-equipped-robots-active-in-precision-welding
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.372D82F4C365FFEC0818C03DE10F822D
-        width: 700
-        height: 350
   - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
     excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
     publishedDateTime: 2019-12-19T09:28:00Z

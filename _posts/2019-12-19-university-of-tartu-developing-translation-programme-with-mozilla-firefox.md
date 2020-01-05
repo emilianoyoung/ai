@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
         width: 620
         height: 350
-  - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
-    excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
-    publishedDateTime: 2019-12-16T14:56:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
-        width: 700
-        height: 493
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
     publishedDateTime: 2019-12-18T18:27:00Z

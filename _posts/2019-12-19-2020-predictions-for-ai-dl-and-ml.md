@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -46,21 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
-  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
-    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
-    publishedDateTime: 2019-12-16T14:12:00Z
-    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
-        width: 600
-        height: 315
   - title: "Artificial intelligence predictions for 2020"
     excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
     publishedDateTime: 2019-12-23T11:01:00Z

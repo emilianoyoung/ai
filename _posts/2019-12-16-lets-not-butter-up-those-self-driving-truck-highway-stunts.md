@@ -60,21 +60,6 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
         width: 1275
         height: 781
-  - title: "Argo AI will charge per mile for using its self-driving cars as a way to fund itself"
-    excerpt: "In brief: While most self-driving car tech companies are scrambling to build ride-hailing fleets, Argo wants to let consumers decide how to use its vehicles by letting them pay for distance traveled, regardless of the specific usage. In doing that, it might have a better chance of surviving on the path to profitability. Self-driving cars are a ..."
-    publishedDateTime: 2019-12-16T14:39:00Z
-    sourceUrl: https://www.techspot.com/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    ampUrl: https://www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83211-argo-ai-charge-mile-using-self-driving-cars.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2378763CDFE9CBE81DB91589A50EC645
-        width: 700
-        height: 490
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:36:00Z

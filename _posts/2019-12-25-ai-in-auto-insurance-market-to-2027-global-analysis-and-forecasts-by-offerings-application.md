@@ -275,15 +275,6 @@ related:
       - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
         width: 1200
         height: 627
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-    publishedDateTime: 2019-12-23T12:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 14
   - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
     excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
     publishedDateTime: 2019-12-27T04:02:00Z

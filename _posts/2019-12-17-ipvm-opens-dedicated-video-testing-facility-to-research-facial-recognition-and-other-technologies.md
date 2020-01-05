@@ -400,19 +400,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "An AI Company test demonstrated how easy it is to Fool most Facial Recognition Applications, but not Apple's Face ID"
-    excerpt: "On Friday Patently Apple posted a report titled \"Microsoft Invents a next-gen 'Depth+Multi-Spectral' Camera for Advanced 3D Facial Recognition to Match Apple's Face ID.\" The report noted how Apple's revolutionary 3D Face ID was vastly superior to their competitors facial recognition methods using 2D which was in the press many times shown to be ..."
-    publishedDateTime: 2019-12-16T14:46:00Z
-    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/an-ai-company-test-demonstrated-how-easy-it-is-to-fool-most-facial-recognition-applications-but-not-apples-face-id.html
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.6DC0029FA464C96C71D722AAD32F113F
-        width: 600
-        height: 263
   - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
     excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
     publishedDateTime: 2019-12-17T13:06:00Z

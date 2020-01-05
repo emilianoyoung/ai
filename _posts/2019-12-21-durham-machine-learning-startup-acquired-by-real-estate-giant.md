@@ -26,19 +26,17 @@ images:
     title: "Durham machine learning startup acquired by real estate giant"
 
 related:
-  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
-    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
-    publishedDateTime: 2019-12-23T20:16:00Z
-    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
+  - title: "Waymo acquires AI startup Latent Logic"
+    excerpt: "Waymo has acquired Latent Logic, a startup formed as an Oxford University spinoff that specializes in \"imitation learning\" for artificial intelligence technology. The company has focused its work on simulation environments that help train algorithms for ..."
+    publishedDateTime: 2019-12-16T13:23:00Z
+    sourceUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    ampUrl: https://leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
+    cdnAmpUrl: https://leftlanenews-com.cdn.ampproject.org/c/s/leftlanenews.com/2019/12/16/waymo-acquires-ai-startup-latent-logic/
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
-        width: 700
-        height: 466
+      name: Leftlane
+      domain: leftlanenews.com
+    quality: 54
 
 secured: "datSe0JyYXwhy7zuwmaLeJ3L3vw+JNnkvOrCakYzXWyPYmR69gq2d0R4XhdfUy3byEKqVKSy1DMA1vSG1LX5TCQ5v8j8gtss/iM67F+riWQmwzICI+Y1qL6uwAoihuOW+dhIghq59loJlMwxzjmPfJuBq1/KKoBmcPjNz17r8oFNHE/EM8K9NBdRG2DYrn01dr6NoFolcg9DrIrViEKP6RSFMErX/+0p74kUCbGNh5hFlCqoUfvwO5tXXyARwccJAQ1j/gwz9LZpiOEvWRId6g==;v/UHaCaXIna4swzzqgPczg=="
 ---

@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0EE4F887E504E8E6BD2163432BC4F077
         width: 700
         height: 393
-  - title: "Israelis develop 'self-healing' cars powered by machine learning and AI"
-    excerpt: "The company’s Line-Of-Code Behavior technology, powered by machine learning and artificial intelligence, creates a deep understanding of what software is installed on over 100 vehicle Engine Control Units (ECU), and the relationship between them. In addition to detecting software faults, the technology can enable remote, over-the-air software ..."
-    publishedDateTime: 2019-12-16T14:42:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Israeli-entrepreneurs-develop-self-healing-cars-powered-by-machine-learning-and-AI-611023
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.CD9C792AB54FD2CAB1F366BB8A83BEEA
-        width: 700
-        height: 457
   - title: "AI, IoT and Machine Learning To Challenge Traditional Networking"
     excerpt: "The next phase of networking will depend on IT learning to wrangle modern technologies in ways that simplify operations and help humans make decisions. That's the upshot of a new report by Cisco, which specifically called out technologies like machine learning, machine reasoning and automation. According to the report, \"2020 Global Networking ..."
     publishedDateTime: 2019-12-24T16:16:00Z
@@ -100,19 +87,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "How Machine Learning Is transforming Video Advertising"
-    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
-    publishedDateTime: 2019-12-16T14:08:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
-        width: 600
-        height: 314
   - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
     excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be ..."
     publishedDateTime: 2019-12-19T15:00:00Z

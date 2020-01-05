@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0EE4F887E504E8E6BD2163432BC4F077
         width: 700
         height: 393
-  - title: "Israelis develop 'self-healing' cars powered by machine learning and AI"
-    excerpt: "The company’s Line-Of-Code Behavior technology, powered by machine learning and artificial intelligence, creates a deep understanding of what software is installed on over 100 vehicle Engine Control Units (ECU), and the relationship between them. In addition to detecting software faults, the technology can enable remote, over-the-air software ..."
-    publishedDateTime: 2019-12-16T14:42:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Israeli-entrepreneurs-develop-self-healing-cars-powered-by-machine-learning-and-AI-611023
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.CD9C792AB54FD2CAB1F366BB8A83BEEA
-        width: 700
-        height: 457
   - title: "This 'lemon' could help machine learning create better drugs"
     excerpt: "Drug discovery researchers have created a new framework for mining data for training machine learning models. One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to ..."
     publishedDateTime: 2019-12-20T22:57:00Z
@@ -87,19 +74,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "How Machine Learning Is transforming Video Advertising"
-    excerpt: "Chris Graham is the CPO/GM of TONIK+, a video technology company using Machine Learning to evaluate and remix videos for highly targeted audiences at scale. He is a versatile software executive and entrepreneur, having created and managed companies and products in Enterprise SAAS, Venture Capital, and Education. He oversaw the development of ..."
-    publishedDateTime: 2019-12-16T14:08:00Z
-    sourceUrl: https://www.martechadvisor.com/articles/machine-learning-ai/how-machine-learning-is-transforming-video-advertising/
-    type: article
-    provider:
-      name: MarTech Advisor
-      domain: martechadvisor.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.290AADD00230E5EE787FBB3B6EAB9053
-        width: 600
-        height: 314
   - title: "Why machine learning is important to society"
     excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
     publishedDateTime: 2019-12-20T07:50:00Z

@@ -57,21 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
-  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
-    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
-    publishedDateTime: 2019-12-16T14:12:00Z
-    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
-    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
-        width: 600
-        height: 315
   - title: "2020 predictions for healthcare IT from six industry experts"
     excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
     publishedDateTime: 2019-12-19T10:30:00Z

@@ -18,311 +18,565 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Artificial Intelligence Chips Market Insights by Size, Status and Forecast 2025"
-    excerpt: "Dec 20, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently released Global Artificial Intelligence Chips Market research with more than 100 market data tables and figures spread through Pages are easy to understand TOC in \"Global Artificial Intelligence Chips Market research\", so you can get a variety of ways to ..."
-    publishedDateTime: 2019-12-20T12:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
+  - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
+    excerpt: "Intel has announced the acquisition of Israeli chip startup Habana for approximately $2 billion. As Intel’s press release states, the focus is on accelerating data center inference. That is a large market and Intel is still trying to figure out how to play. While much is being discussed about moving some artificial intelligence (AI ..."
+    publishedDateTime: 2019-12-17T21:36:00Z
+    sourceUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/
+    ampUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) in Manufacturing Market Size, Share & Forecast 2019-2025"
-    excerpt: "A full report of Global Artificial Intelligence (Ai) In Manufacturing Market is available at: https://www.omrglobal.com/industry-reports/ai-in-manufacturing-market According to the investigation of the International Federation of Robotics (IFR), various manufacturing robots deployed in factories accounted to be around 1.3 million globally in 2018."
-    publishedDateTime: 2019-12-23T07:25:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-size-share-forecast-2019-2025-2019-12-23
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
+        width: 876
+        height: 548
+  - title: "Dow Jones News: Boeing Could Slash Production; Intel Acquires AI Chip Company"
+    excerpt: "The stock is now barely up since the start of the year. While Intel's core business is providing the general-purpose processors that power PCs and servers, demand for specialty chips aimed at artificial intelligence workloads is growing. Intel expects the market for AI chips to exceed $25 billion by 2024. In 2019, the company plans to generate ..."
+    publishedDateTime: 2019-12-16T19:37:00Z
+    sourceUrl: https://www.fool.com/investing/2019/12/16/dow-jones-news-boeing-could-slash-production-intel.aspx
+    ampUrl: https://www.fool.com/amp/investing/2019/12/16/dow-jones-news-boeing-could-slash-production-intel.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/16/dow-jones-news-boeing-could-slash-production-intel.aspx
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
+      name: The Motley Fool
+      domain: fool.com
+    quality: 101
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market Technological Growth and Precise Outlook 2019 to 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The global \"Artificial Intelligence in Healthcare Market\" 2019 research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers ..."
-    publishedDateTime: 2019-12-20T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-technological-growth-and-precise-outlook-2019-to-2025-2019-12-20
+      - url: https://www.bing.com/th?id=ON.872EF4DBECAB80647B8C23ED73EED33F
+        width: 700
+        height: 466
+  - title: "Intel spends $2bn on Habana Labs in AI data centre push"
+    excerpt: "Habana Labs builds AI accelerators, which are a type of processor designed specifically for AI applications, such as machine learning or computer vision — they're what a GPU is for graphics, but for AI. Habana will remain independent from Intel with the current management team remaining in place, and continue to be based out of Israel."
+    publishedDateTime: 2019-12-17T13:16:00Z
+    sourceUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push
+    ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push?amp
+    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push?amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2019-12-20T07:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
+      - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
+        width: 700
+        height: 447
+  - title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
+    excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
+    publishedDateTime: 2019-12-16T20:51:00Z
+    sourceUrl: https://www.reuters.com/article/us-habana-labs-m-a-intel-idUSKBN1YK1BU
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YK1BU
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YK1BU
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Stadium Market to Witness Excellent Growth by 2025"
-    excerpt: "Dec 16, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Stadium Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides ..."
-    publishedDateTime: 2019-12-16T16:20:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-stadium-market-to-witness-excellent-growth-by-2025-2019-12-16
+      - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
+        width: 700
+        height: 466
+  - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
+    excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
+    publishedDateTime: 2019-12-17T00:32:00Z
+    sourceUrl: https://www.techspot.com/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
+    ampUrl: https://www.techspot.com/amp/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
+    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Ecosystem Market Outlook, Comprehensive Insights, Growth and Forecast 2023"
-    excerpt: "Dec 17, 2019 (The Expresswire) -- Global Deep Learning Ecosystem Market 2019-2023 Trends & Forecast Report, Consistent with our stated policy of making available the best research and analysis report. Deep learning is an integral subset of machine learning that has networks capable of learning from unstructured data. Several companies across ..."
-    publishedDateTime: 2019-12-17T11:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-ecosystem-market-outlook-comprehensive-insights-growth-and-forecast-2023-2019-12-17
+      - url: https://www.bing.com/th?id=ON.FF4F4333963CB32FB5BEF5A21F138A64
+        width: 700
+        height: 490
+  - title: "Intel buys Israeli AI chip startup Habana for $2B"
+    excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business. The company ..."
+    publishedDateTime: 2019-12-16T19:41:00Z
+    sourceUrl: https://abcnews.go.com/Business/wireStory/intel-buys-israeli-ai-chip-startup-habana-2b-67761099
+    ampUrl: https://abcnews.go.com/amp/Business/wireStory/intel-buys-israeli-ai-chip-startup-habana-2b-67761099
+    cdnAmpUrl: https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/intel-buys-israeli-ai-chip-startup-habana-2b-67761099
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: ABC
+      domain: go.com
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://www.bing.com/th?id=ON.D5C3E41F44FD8638295CD97A323EB106
+        width: 700
+        height: 393
+  - title: "Intel spends $2 billion for Israeli AI chipmaker"
+    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning, saying that Habana will help it make progress in the market for AI that is used in cloud ..."
+    publishedDateTime: 2019-12-16T18:13:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
+    ampUrl: https://www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.5B25E998AAC089B03351CB2B8BF374F2
+        width: 700
+        height: 466
+  - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
+    excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/
+    ampUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
+        width: 700
+        height: 393
+  - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
+    excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
+    publishedDateTime: 2019-12-17T08:15:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL.html
+    ampUrl: https://m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
+        width: 700
+        height: 393
+  - title: "Intel spends $2 billion for Israeli AI chipmaker"
+    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning, saying that Habana will help it make progress in the market for AI chips used in cloud ..."
+    publishedDateTime: 2019-12-17T01:10:00Z
+    sourceUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
+    ampUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DEE1B6087BBA23E82C690C475DDE05AE
+        width: 700
+        height: 466
+  - title: "5 Machine Intelligence Trends Of 2019"
+    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
+        width: 960
+        height: 640
+  - title: "Intel buys Israeli AI chip startup Habana for $2B"
+    excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
+    publishedDateTime: 2019-12-24T08:45:00Z
+    sourceUrl: https://www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.html
+    ampUrl: https://www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.amp.html
+    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.amp.html
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4CBCC1DED872190B27485DF30F060EC2
+        width: 700
+        height: 393
+  - title: "Intel Buys AI Chip Firm Habana Labs For $2 Billion In High Stakes Race Against NVIDIA"
+    excerpt: "Habana Labs currently products the Gaudi AI Training Processor, which can be adopted in large-node training systems (a la the Habana Labs’ HLS-1) and is sampling at the moment to select hyperscale customers. Compared to GPU-based solutions, Habana Labs claims that its solution offers a 4x uplift in throughput. “We have been fortunate to get ..."
+    publishedDateTime: 2019-12-16T16:23:00Z
+    sourceUrl: https://hothardware.com/news/intel-habana-labs-artificial-intelligence-ai
+    ampUrl: https://amp.hothardware.com/news/intel-habana-labs-artificial-intelligence-ai
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-habana-labs-artificial-intelligence-ai
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.048BA4136F9AB0F20E2DB91550C7E911
+        width: 700
+        height: 466
+  - title: "Intel acquires Israeli AI chipmaker Habana for $2 billion in a bid to boost its data-center business"
+    excerpt: "The Tel Aviv based Habana Labs said in July that its Gaudi AI training processor was capable of beating GPU-based systems by 4x. Intel, reportedly, was eyeing Habana Labs since then, as it wants to bolster its data-center business. Intel itself has been tasting success lately with it AI offering. The chipmaker's AI-driven revenues recorded $3.5 ..."
+    publishedDateTime: 2019-12-16T17:59:00Z
+    sourceUrl: https://www.ibtimes.sg/intel-acquires-israeli-ai-chipmaker-habana-2-billion-bid-boost-its-data-center-business-36098
+    ampUrl: https://amp.ibtimes.sg/intel-acquires-israeli-ai-chipmaker-habana-2-billion-bid-boost-its-data-center-business-36098
+    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/intel-acquires-israeli-ai-chipmaker-habana-2-billion-bid-boost-its-data-center-business-36098
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DA142C13FC1717F9CAF933C62B69F0A6
+        width: 700
+        height: 466
+  - title: "Intel Deepens AI Push With $2 Billion Purchase of Habana Labs"
+    excerpt: "Intel Corp. is expanding its push into the artificial-intelligence market with an approximately $2 billion deal for Habana Labs, an Israel-based AI chip-making startup. Intel said the deal strengthens its lineup of artificial-intelligence chips for use in data centers. Those are the large information-storage facilities where companies ..."
+    publishedDateTime: 2019-12-16T19:54:00Z
+    sourceUrl: https://www.barrons.com/articles/intel-deepens-ai-push-with-2-billion-purchase-of-habana-labs-51576525931
+    ampUrl: https://www.barrons.com/amp/articles/intel-deepens-ai-push-with-2-billion-purchase-of-habana-labs-51576525931
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-deepens-ai-push-with-2-billion-purchase-of-habana-labs-51576525931
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: https://www.barrons.com/asset/barrons/images/social_highres.jpg
         width: 1200
         height: 630
-  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
-    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
-    publishedDateTime: 2019-12-24T12:05:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
-    ampUrl: https://markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-in-auto-insurance-market-to-2027-global-analysis-and-forecasts-by-offerings-application-1028783749
+  - title: "Intel bolsters AI push with $2B acquisition"
+    excerpt: "Navin Shenoy, Intel EVP and data platforms group general manager, told Reuters Intel’s AI chips will be used in self-driving cars as well as training machine-learning algorithms in data centres. Habana Labs will remain an independent company run by the same management team, reporting to Intel’s Data Platform Groups division. The newly ..."
+    publishedDateTime: 2019-12-17T12:33:00Z
+    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/
+    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7D11C39C2DD185398ECE525FE4B34311
+        width: 650
+        height: 399
+  - title: "Intel Hedges Its AI Bets With Habana Labs Buy"
+    excerpt: "First a little historical context. Habana was one of the first AI chip startups to make its silicon available to datacenter customers. Goya, the inference chip, was released in January 2018, followed by Gaudi, the training processor, in June 2019. The Gaudi training chip is currently sampling with unnamed hyperscale customers. Goya is also ..."
+    publishedDateTime: 2019-12-17T17:34:00Z
+    sourceUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/
+    ampUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D5A8039508FDA88DED2E706254450A95
+        width: 326
+        height: 245
+  - title: "Intel Beefs Up AI Portfolio With $2B Purchase Of Israeli Startup Habana Labs"
+    excerpt: "Intel Corporation (NASDAQ: INTC) announced the strategic acquisition Monday of an Israeli startup company that makes AI chips. The Intel, Habana Deal Terms The Santa Clara, California-based chipmaker said it has acquired Israel-based Habana Labs for $2 billion. Habana Labs is a developer of programmable deep learning accelerators for the data ..."
+    publishedDateTime: 2019-12-17T01:45:00Z
+    sourceUrl: https://finance.yahoo.com/news/intel-beefs-ai-portfolio-2b-215129001.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/intel-beefs-ai-portfolio-2b-215129001.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/intel-beefs-ai-portfolio-2b-215129001.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
+        width: 600
+        height: 400
+  - title: "Intel Acquires AI Chip Startup Habana Labs For $2B"
+    excerpt: "By Dylan Martin December 16, 2019, 09:46 AM EST Intel announced Monday it has acquired artificial intelligence chip startup Habana Labs for approximately $2 billion, expanding its arsenal of AI accelerator products for the data center market. The Santa Clara, Calif.-based company's announcement came nearly two weeks after multiple reports ..."
+    publishedDateTime: 2019-12-16T15:07:00Z
+    sourceUrl: https://www.crn.com/news/components-peripherals/intel-acquires-ai-chip-startup-habana-labs-for-2b
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.03977ED0EC57239E3EFDF638BD728A58
+        width: 610
+        height: 457
+  - title: "Intel buys AI chipmaker Habana for $2 billion"
+    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
+    publishedDateTime: 2019-12-16T21:41:00Z
+    sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
+        width: 700
+        height: 466
+  - title: "Intel Buys Israeli AI Chip Startup for $2B"
+    excerpt: "The combination strengthens Intel's artificial intelligence (AI) portfolio and accelerates its efforts in the nascent, fast-growing AI silicon market, which Intel expects to be greater than $25 billion by 2024. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the ..."
+    publishedDateTime: 2019-12-16T17:04:00Z
+    sourceUrl: https://www.lightreading.com/artificial-intelligence-machine-learning/intel-buys-israeli-ai-chip-startup-for-$2b/d/d-id/756319
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 54
+    images:
+      - url: https://img.lightreading.com/lightreading/LR_fb_button.jpg
+        width: 600
+        height: 600
+  - title: "Intel drops $2 billion on AI chip maker Habana Labs"
+    excerpt: "Having once more failed at mobile, US chip giant Intel is doubling down on the datacenter, where artificial intelligence is expected to be ever more prominent. Spending two billion bucks on AI chip maker Habana Labs is a major statement of intent in this regard. The Israel-based company specialises in programmable deep learning accelerators for ..."
+    publishedDateTime: 2019-12-16T17:11:00Z
+    sourceUrl: https://telecoms.com/501420/intel-drops-2-billion-on-ai-chip-maker-habana-labs/
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.A2051AEF14681CE12CF5563B5AD764E6
+        width: 300
+        height: 172
+  - title: "Intel forks out $2B for Habana Labs to bolster AI chip standing"
+    excerpt: "Intel has bought artificial intelligence (AI) firm Habana Labs for about US$2 billion, with the chip-maker seeking to expand its AI portfolio to bolster its data-center business. Intel expects the fast-growing AI chip market to exceed US$25 billion by 2024, with its own AI-driven revenues this year seen rising 20 per cent from 2018 to more than ..."
+    publishedDateTime: 2019-12-16T23:18:00Z
+    sourceUrl: https://www.arnnet.com.au/article/669744/intel-forks-2b-habana-labs-bolster-ai-chip-standing/
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.50C095F2A6A4E6BD6EC74F4A23A28F35
+        width: 700
+        height: 466
+  - title: "Intel Inks $2B Deal For AI Chipmaker Habana Labs"
+    excerpt: "The deal stands to strengthen Intel’s AI portfolio by adding to it a company in Habana Labs that was founded in 2016 and develops programmable, deep learning chips and other AI products to boost operations at data centers and cloud-related areas of businesses. Intel expects to generate more than $3.5 billion AI-driven revenue this year alone ..."
+    publishedDateTime: 2019-12-16T18:06:00Z
+    sourceUrl: https://www.law360.com/articles/1228586/intel-inks-2b-deal-for-ai-chipmaker-habana-labs
+    ampUrl: https://www.law360.com/amp/articles/1228586
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1228586
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 54
+  - title: "Intel shells out $2B for high-speed AI chip startup Habana Labs"
+    excerpt: "In June, the startup debuted Gaudi, an eight-core processor designed for the sole purpose of training AI models. Habana showed in an internal benchmark test that Gaudi managed to train a popular machine learning model 3.8 times faster than Nvidia’s flagship V100 graphics card for data centers. The startup has a second chip called Goya ..."
+    publishedDateTime: 2019-12-16T19:31:00Z
+    sourceUrl: https://siliconangle.com/2019/12/16/intel-shells-2b-high-speed-ai-chip-startup-habana-labs/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.739097A0A6F7F29656C58B1FE4F38D34
+        width: 700
+        height: 389
+  - title: "Intel buys Israeli AI chip firm Habana Labs for $2bn"
+    excerpt: "Habana Labs, a developer of deep-learning accelerators for data centers, has been bought by Intel for around $2bn. The acquisition comes as Intel tries to build up its portfolio of AI chips, which the company expects to be greater than $25 billion by 2024. Intel has said it expects to generate over $3.5 billion in AI-driven revenue this year."
+    publishedDateTime: 2019-12-17T13:00:00Z
+    sourceUrl: https://www.datacenterdynamics.com/news/intel-buys-israeli-ai-chip-firm-habana-labs-2bn/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.94F3A0BED7881E3BA4BA0A0C1A5520B4
+        width: 700
+        height: 368
+  - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
+    excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
+    publishedDateTime: 2019-12-17T22:45:00Z
+    sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 56
-  - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
-    excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
-    publishedDateTime: 2019-12-26T06:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-threats-development-and-global-trend-analysis-till-2029-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+    quality: 51
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
-    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
-    publishedDateTime: 2019-12-18T08:52:00Z
-    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
-        width: 680
+      - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
+        width: 700
         height: 350
-  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
+  - title: "The AI Eye: Intel Acquires Habana Labs, Accenture to Acquire Clarity Insights and Honeywell Acquires Rebellion Photonics"
+    excerpt: "Another highlight from the research is the finding that \"AI in industrial machines will reach $415M globally by 2024 with collaborative ... brand of Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
+    publishedDateTime: 2019-12-17T17:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-intel-acquires-habana-labs-accenture-to-acquire-clarity-insights-and-honeywell-acquires-rebellion-photonics-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 44
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
+  - title: "Intel acquires Habana Labs for $2 billion to boost AI business"
+    excerpt: "The AI chip market has been growing significantly over the years and all of the big tech giants are looking to score a piece of the pie. Intel is making some big moves in this space right now, announcing the acquisition of Habana Labs in a deal worth $2 billion. Habana Labs is based in Israel, specialising in deep learning acceleration hardware."
+    publishedDateTime: 2019-12-16T15:27:00Z
+    sourceUrl: https://www.kitguru.net/components/matthew-wilson/intel-acquires-habana-labs-for-2-billion-to-boost-ai-business/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
-    publishedDateTime: 2019-12-18T06:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
+      - url: https://www.bing.com/th?id=ON.9E2D36C83B05EC92E469E3EAC0C49217
+        width: 700
+        height: 315
+  - title: "Intel buys Israeli AI firm for US$2 billion"
+    excerpt: "U.S. leading chip manufacturer Intel Corporation has acquired Israeli artificial intelligence (AI) company Habana Labs for about 2 billion U.S. dollars, both companies announced Monday. Habana Labs is an AI processor company founded in 2016 and headquartered in the coastal city of Tel Aviv. After the acquisition, Habana will remain an ..."
+    publishedDateTime: 2019-12-16T18:01:00Z
+    sourceUrl: https://newsghana.com.gh/intel-buys-israeli-ai-firm-for-us2-billion/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: News Ghana
+      domain: newsghana.com.gh
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
-    excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
-    publishedDateTime: 2019-12-27T03:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-developments-and-precise-outlook-2019-2026-2019-12-26
+      - url: https://www.bing.com/th?id=ON.33540327B7FE00A05AE0EBC3249DEF4E
+        width: 540
+        height: 394
+  - title: "Intel snaps up deep learning accelerator firm for $2bn"
+    excerpt: "Intel has acquired Habana Labs, an Israel-based developer of deep learning AI accelerators. Rumours about the possible deal, which has just been officially confirmed, were swirling at the start of the month. The $2bn deal is Intel's largest since its acquisition of MobilEye in 2017 (for the sum of $15.3bn). Bolstered by the absorption of Habana ..."
+    publishedDateTime: 2019-12-16T15:41:00Z
+    sourceUrl: https://hexus.net/business/news/general-business/137903-intel-snaps-deep-learning-accelerator-firm-2bn/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Hexus
+      domain: hexus.net
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market Booming by Size, Revenue and Trend in 2020 Scrutinized in New Research"
-    excerpt: "Dec 25, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Voice Recognition Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Voice Recognition marketers and clients to understand the market globally."
-    publishedDateTime: 2019-12-25T11:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2019-12-25
+      - url: https://www.bing.com/th?id=ON.7F805FCEAF027FB4A989557B8D8D6FDB
+        width: 515
+        height: 221
+  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
+    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
+    publishedDateTime: 2019-12-17T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "At 36.9% CAGR, Artificial Intelligence In Fashion Market Size, Growth Forecast is Projected to be Around US $4,391.7 Mn by 2027"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Market Study Report Provides A Detailed Overview Of Artificial Intelligence In Fashion Market With Respect To The Pivotal Drivers Influencing The Revenue Graph Of This Business Sphere. The Current Trends Of Artificial Intelligence In Fashion Market In Conjunction With The Geographical Landscape, Demand Spectrum ..."
-    publishedDateTime: 2019-12-17T11:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/at-369-cagr-artificial-intelligence-in-fashion-market-size-growth-forecast-is-projected-to-be-around-us-43917-mn-by-2027-2019-12-17
+      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
+        width: 635
+        height: 400
+  - title: "Intel snaps up Israeli AI startup Habana Labs for $2bn"
+    excerpt: "Intel has bought Habana Labs in a bid to expand its AI portfolio on the data centre arm of its business, likely by making use of the startup's programmable deep learning accelerators. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need - from the intelligent edge to the data ..."
+    publishedDateTime: 2019-12-17T09:20:00Z
+    sourceUrl: https://www.theinquirer.net/inquirer/news/3084713/intel-buys-habana-labs
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: The Inquirer
+      domain: theinquirer.net
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Industrial Artificial Intelligence Market 2019 Analysis By Global Manufacturers – Siemens AG, IBM Corporation, Alphabet Inc"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This report focuses on Industrial Artificial Intelligence Market report will make detailed analysis mainly on in-depth research on the development environment, Market size, development trend, operation situation and future development trend of Industrial Artificial Intelligence Market on the ..."
-    publishedDateTime: 2019-12-23T17:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/industrial-artificial-intelligence-market-2019-analysis-by-global-manufacturers-siemens-ag-ibm-corporation-alphabet-inc-2019-12-23
+      - url: https://www.bing.com/th?id=ON.4783444E224D5482BE728CF6C0AAAB00
+        width: 580
+        height: 358
+  - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
+    excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
+    publishedDateTime: 2019-12-20T02:01:00Z
+    sourceUrl: https://www.hpcwire.com/2019/12/17/intel-acquires-habana-ai-inferencing-edge/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
-    publishedDateTime: 2019-12-20T05:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
+      - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
+        width: 405
+        height: 228
+  - title: "Intel Buys Israeli AI Chipmaker Habana Labs for $2 Billion"
+    excerpt: "Intel Corp. bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon."
+    publishedDateTime: 2019-12-16T17:15:55Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/intel-buys-israeli-ai-chipmaker-habana-labs-for-2-billion/ar-BBY3qo4
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: Bloomberg on MSN.com
+      domain: msn.com
+    quality: 37
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
-    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
-    publishedDateTime: 2019-12-19T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
+      - url: https://www.bing.com/th?id=ON.36C738A85DBDBFC95984228AC0FFE4D0
+        width: 700
+        height: 367
+  - title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
+    excerpt: "Computing giant Intel announced Monday to buy Israeli AI startup Habana Labs for approximately $2 billion in order to \"turbo-charge\" its machine learning offerings. “This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the intelligent edge to the data center,” said ..."
+    publishedDateTime: 2019-12-16T21:33:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-intel-acquires-israeli-ai-company-habana-labs-2-billion-deal-2886616
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
+      - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
+        width: 700
+        height: 466
+  - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
+    excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
+    publishedDateTime: 2019-12-18T22:23:00Z
+    sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: CRN
+      domain: crn.com
+    quality: 36
+  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
+    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
+    publishedDateTime: 2019-12-23T20:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
+        width: 700
+        height: 466
+  - title: "Intel acquires Habana Labs for about $2 billion"
+    excerpt: "Intel Corp. is expanding its push into the hot artificial intelligence market with an approximately $2 billion deal for Habana Labs, an Israel-based AI chip-making startup. Intel said the deal strengthens its lineup of artificial intelligence chips for use in data centers. Those are the large information storage facilities where companies ..."
+    publishedDateTime: 2019-12-16T18:57:00Z
+    sourceUrl: https://gazette.com/business/intel-acquires-habana-labs-for-about-billion/article_07742cca-201d-11ea-9f63-e7b65e671e85.html
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 22
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/custom/image/3f755dae-418c-11e8-a244-53852639d709.png?resize=600%2C592
+        width: 600
+        height: 592
+  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
+    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
+    publishedDateTime: 2019-12-17T23:15:00Z
+    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 20
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
         width: 1200
         height: 630
-  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
-    publishedDateTime: 2019-12-20T16:02:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005450/en/Global-Artificial-Neural-Network-Market-Analysis-Trends
+  - title: "Intel Acquires Artificial Intelligence, ML Chip Specialist Habana Labs"
+    excerpt: "Intel acquires Habana Labs, an artificial intelligence and machine learning (AI and ML) chipmaker in Israel ... Intel faces potential competition and market disruptions as massive cloud customers like Microsoft Azure, Amazon Web Services and Facebook explore ways to leverage their own home-grown technologies or third-party processor technology ..."
+    publishedDateTime: 2019-12-17T15:45:00Z
+    sourceUrl: https://www.channele2e.com/business/enterprise/intel-buys-habana-labs/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
-    images:
-      - url: https://mms.businesswire.com/media/20191220005450/en/371054/23/ResearchAndMarkets_800px.jpg
-        width: 1200
-        height: 627
-  - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
-    excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
-    publishedDateTime: 2019-12-25T00:04:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-auto-insurance-market-2027-130500599.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 6
-  - title: "Automotive Artificial Intelligence Market Size, Future Forecasts, Growth Rate :: NVIDIA Corporation, Alphabet Inc, Intel Corporation"
-    excerpt: "The report attempts to offer a high-quality and accurate analysis of the global Automotive Artificial Intelligence Market, keeping in view market forecasts, competitive landscape, and technological advancements & risks, and other important factors. Its carefully crafted market intelligence allows market participants to understand the most ..."
-    publishedDateTime: 2019-12-27T04:02:00Z
-    sourceUrl: https://www.benzinga.com/press-releases/19/12/wr15044893/automotive-artificial-intelligence-market-size-future-forecasts-growth-rate-nvidia-corporation-a
-    ampUrl: https://amp.benzinga.com/amp/content/15044893
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15044893
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
-  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
-    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
-    publishedDateTime: 2019-12-17T13:21:00Z
-    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
-    excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
-    publishedDateTime: 2019-12-21T00:42:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-neural-network-market-170200987.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
-    publishedDateTime: 2019-12-24T10:14:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37213/enterprise-artificial-intelligence-ai-market/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 19
 
 secured: "B32zH3ihpdqHfbIH+DrfQh3CJAnf/CKB4rp/qdvejNXxrXJgCtHMX5HZLhpdwqJJThT873fC8orE8DXrT1dfog01b0IVlupHnKuS/zT6ZTBp4Nv6Mau3w6iS2bqDOO/MEB1L5LrWJEs9cZd5OwPffdjGFAWsN1cVcjEiheC5IrxDMh5B41AAXfOCOYv1GMAZNQFE+EcC2rFM0R7kqsiWPuwqysV9b9i8iuJP1iq8yZlTg/a2bAgJEm0ge4MFgA+9CBGC0yMPPxkhcbP0msXhKw==;oFGO53ZClNgnFNYSRYr/nw=="
 ---

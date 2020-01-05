@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -356,6 +356,15 @@ related:
       name: Seattle Daily Journal of Commerce
       domain: djc.com
     quality: 4
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-05T15:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "twjVLymqTr01z91ZwNP69cGL2wrD1GYdAMb3o2lUGEZHXY8fBTF71IgBQxJdTWfCIMZyHAtf/5Hc2Bv8AKtaaOnce7tWZoxyYlRrN7In4DYwS091ZkQ3glNr9vBdYOdTJTYuAEgFF8ww95hS5hQ9EquyFAba5wsCcFHyJ2DcLDG323WMRQsDe9byJff5fNwxGGyBdoTdNv39pbwvJt7V7VTDbuN5nStNa/I3cV4wNlvzw8BkRLjQza8am3yV6P7rBoB3i8lpPX6fHGTMdWYiFg==;1GPBrhQNkTy8ugIO3iEFPQ=="
 ---

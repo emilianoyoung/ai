@@ -350,6 +350,15 @@ related:
       - url: https://www.bing.com/th?id=ON.001A4E57F7E6BA74854ECE737800FD41
         width: 700
         height: 393
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-05T15:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "FSdRU4BnQHCvlY0rxNo8U5c0j5Liu1VAS3ox7eCYbOgMlO9fHWRcERbkkRohjbcnOc6SkRrGaoASlS5b0ZYu9HcDFDuh0+4y+X1tP8x4XGzIaPKCdGijy1+RDBNr2BxzCRXOpvj5HQejeeieZBdVK0OalEMVT+uJBQ8+RbV4nOFl6UFG9hkKWkSbw9wpdMAvJysuLu52oavtL64QKc+6pZlPa9MaW4bCK/vpLgBAYMQzLrWwwynwDCtPFEnyTIFNvHSet5Wwp0csIQAq2j6zLQ==;mLKXbxNKiqQ1BERCseh4pg=="
 ---

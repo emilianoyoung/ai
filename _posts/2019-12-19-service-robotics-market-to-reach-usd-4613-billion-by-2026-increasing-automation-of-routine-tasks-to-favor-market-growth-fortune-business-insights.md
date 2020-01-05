@@ -89,19 +89,6 @@ related:
       - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
         width: 700
         height: 366
-  - title: "AI-equipped robots active in precision welding"
-    excerpt: "Vision sensors are placed on the robot and used in conjunction with artificial intelligence. That allows the robot's motions to be tracked in real time using visual feedback. Minyue Tech's technology offers three advantages. First, SmartEye uses structured light to perform 3D measurements. By combining vision with deep learning, various parts ..."
-    publishedDateTime: 2019-12-16T14:18:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Startups/AI-equipped-robots-active-in-precision-welding
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.372D82F4C365FFEC0818C03DE10F822D
-        width: 700
-        height: 350
 
 secured: "lgZIIXqG1F7DP5GKLc5cR+ryi/++qqK1fiZctQtPEh5PrG3qiDAc1vRAAwNAN24kE6Tal9LQ1CSiu2b8CAkyJZTQHmFJyoINeX3cZ4AqM3Y8J+aIFSagRkvLjfxXrU/WAIc0cKRJWfintCBe7XJU3xMez0uBwoFW5T3ccbf0A+szMn9MsK2c+njkguzyh3HuAxGKke4hcbb0LlWPDc8TYs3sXCGdBWDWJZuDoZEesLBsqhqql2G/m1MsFZJQrjzwJespi8a6D9i7TVol6rz1/Q==;6Yrkq38pC+TlhVhcUkajzA=="
 ---
