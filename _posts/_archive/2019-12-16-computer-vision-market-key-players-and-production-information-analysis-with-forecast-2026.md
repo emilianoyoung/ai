@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T17:52:00Z
 sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -18,60 +18,16 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit https://www.cognata.com. Contact: DeeDee ..."
-    publishedDateTime: 2019-12-23T15:04:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
+  - title: "Natural Language Generation Market Ongoing Trends and Recent Developments | Key Players like Arria NLG, AWS, IBM Corporation and Automated Insights"
+    excerpt: "Enterprises are implementing Artificial Intelligence (AI) and semantics, so that IT systems can help in resolving ... Artificial Solutions (Spain), NarrativeWave (US), Narrative Science (US), Narrativa (UAE), Amazon Web Services (AWS) (US), Retresco (Germany), Phrasee (UK), Conversica (Conversica) (US), Linguastat (US), NewsRx (US), vPhrase ..."
+    publishedDateTime: 2019-12-18T14:23:00Z
+    sourceUrl: https://www.openpr.com/news/1880811/natural-language-generation-market-ongoing-trends-and-recent
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-    publishedDateTime: 2019-12-24T00:40:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-19T13:30:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-20T01:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: openpr.com
+      domain: openpr.com
     quality: 0
 
-secured: "01PHU5TaZHLQ7LHJt8f/sytLyW0hdRKPKzNaEYNEFHOhqONOsJq/oGYznfjZAj/lwQM10nQPFxfFKQ/3ii1acTNijKUVHjZU8fP15+ZpBZgilFuraJtPYmMarhGQPD9duSft/LrhCpcUhT3hcV2MO1XhhltKgX+0LezWEBpMfHhd41nrSEeYU6WUM5FgcHBt6vk1lNwGLTUG6EKgTVQK6DOiXH1tlqnYab0ga8nfGlDCKA5OPrgU0XcmcuxlSpSKYiZ1ofJ/zGd0O7vi5XuKZQ==;0xLMGPNVrSrvD3DWLoM7rg=="
+secured: "SWRyrl8c02W3GIl3N97ParEN6k46sk48wCw0mVWy+HyTbVjjkiHFlzbu8CbGToL4odnvVLJZW4XlXjaRJdJNXPVdngIqm9TUze2hqV1isBstHdd6jD6SkuplhUND4cQcKV0r5UfALNgYq4mM7CS1y24ZNc0X6RAkYtVhEUv6tqSob+KX2lp3XxO0JAhlMekv2YfosAwbJlaJSqCyJMe/hEXKd/Hbdo7x47uU112zPNqs2wF8uI0Ql6JmsOIAAlRMZO5H3ucBYKE+SEIalLnGsg==;lGUXtpd4P4eCw+xNho+O4w=="
 ---
 

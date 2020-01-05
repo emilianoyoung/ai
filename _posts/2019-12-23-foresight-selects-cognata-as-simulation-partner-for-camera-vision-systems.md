@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T15:04:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,45 @@ topics:
   - Computer Vision
 
 related:
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
+  - title: "Why Australia's peak human rights body is worried about artificial intelligence"
+    excerpt: "The Australian Human Rights Commission has proposed a moratorium on certain uses of AI technology. The Australian Human Rights Commission has sounded the alarm on how the country is embracing artificial intelligence (AI) and other emerging technologies. In a discussion paper launched on Tuesday, Australia's peak human rights body warned the ..."
+    publishedDateTime: 2019-12-17T09:29:00Z
+    sourceUrl: https://www.sbs.com.au/news/why-australia-s-peak-human-rights-body-is-worried-about-artificial-intelligence
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.096464F39CEA37C98519C6BEA25A84CF
+        width: 478
+        height: 478
+  - title: "EC expert group issues call to action on fintech regulation"
+    excerpt: "A European Commission (EC) expert group has called on regulators to respond to the changing nature of fintech by adapting the rule book and legal frameworks to ... risks caused by the use of innovative technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology; The need to remove fragmentation across the EU and ensure ..."
+    publishedDateTime: 2019-12-18T00:38:00Z
+    sourceUrl: https://www.finextra.com/newsarticle/34978/ec-expert-group-issues-call-to-action-on-fintech-regulation
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: https://www.finextra.com/finextra-images/top_pics/xl/2891.jpg
+        width: 480
+        height: 270
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
     excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
     publishedDateTime: 2019-12-24T00:40:00Z
@@ -35,46 +74,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
-    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
-    publishedDateTime: 2019-12-24T05:45:00Z
-    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
-        width: 700
-        height: 393
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-19T13:30:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-20T01:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "b6QX9XmdPV/O6kVeGyi9BtzPpwUIT1urntl/T4wZwe2XC1mmCwSSai4fFSw4CMv/oOM7PcgkbQiLVgk20fHosWZ21jlv6Pfr3n01wEaZV2u7xun1FuXVahF2mzgFztLcwicOdhy7YR7aOCFvLkjCiDsvDs9B/Rx71duR1p1Az5FCv6tmKlquNES9+zt205DNSg81PC8AC5C/OXlpb3hhdljLr9AlUvMhcpnyac1kOmCS2zOgOfRm3Lvdrq1gG8qL80PFcnWfbNHcWhg8+8d3lw==;ESOrK50SXaOu17GmQAfI5A=="
 ---

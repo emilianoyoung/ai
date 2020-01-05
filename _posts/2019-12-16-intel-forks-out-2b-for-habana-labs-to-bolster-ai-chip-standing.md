@@ -189,19 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
-  - title: "Intel buys AI chipmaker Habana for $2 billion"
-    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
-    publishedDateTime: 2019-12-16T21:41:00Z
-    sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
-        width: 700
-        height: 466
   - title: "Intel buys Israeli AI chip firm Habana Labs for $2bn"
     excerpt: "Habana Labs, a developer of deep-learning accelerators for data centers, has been bought by Intel for around $2bn. The acquisition comes as Intel tries to build up its portfolio of AI chips, which the company expects to be greater than $25 billion by 2024. Intel has said it expects to generate over $3.5 billion in AI-driven revenue this year."
     publishedDateTime: 2019-12-17T13:00:00Z
@@ -280,19 +267,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
         width: 405
         height: 228
-  - title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
-    excerpt: "Computing giant Intel announced Monday to buy Israeli AI startup Habana Labs for approximately $2 billion in order to \"turbo-charge\" its machine learning offerings. “This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the intelligent edge to the data center,” said ..."
-    publishedDateTime: 2019-12-16T21:33:00Z
-    sourceUrl: https://www.ibtimes.com/tech-news-intel-acquires-israeli-ai-company-habana-labs-2-billion-deal-2886616
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
-        width: 700
-        height: 466
   - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
     excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
     publishedDateTime: 2019-12-18T22:23:00Z

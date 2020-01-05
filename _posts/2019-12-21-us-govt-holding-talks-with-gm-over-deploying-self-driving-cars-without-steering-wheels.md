@@ -250,19 +250,6 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
-    publishedDateTime: 2019-12-16T21:23:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/russias-yandex-making-its-own-self-driving-sensors
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B1A91D30E8803EB2803AA1A2FD26D8CC
-        width: 700
-        height: 525
   - title: "Creating Together Opens a New Future of Self-Driving Cars"
     excerpt: "SINGAPORE, Dec. 17, 2019 /PRNewswire/ -- Demand for self-driving cars and the safety it brings is rising, particularly in Japan, where a super-aging society has upped the stakes considerably in recent years. Learn how Toshiba's image recognition technology, Visconti™, developed and refined over half a century, provides a myriad of ..."
     publishedDateTime: 2019-12-17T02:13:00Z

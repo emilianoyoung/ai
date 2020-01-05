@@ -256,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides around the Motor City during the revamped ..."
-    publishedDateTime: 2019-12-16T21:23:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/russias-yandex-making-its-own-self-driving-sensors
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B1A91D30E8803EB2803AA1A2FD26D8CC
-        width: 700
-        height: 525
   - title: "Self-driving vehicles will render transport landscape obsolete"
     excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
     publishedDateTime: 2019-12-19T06:40:00Z

@@ -184,19 +184,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
-  - title: "Intel buys AI chipmaker Habana for $2 billion"
-    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
-    publishedDateTime: 2019-12-16T21:41:00Z
-    sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
-        width: 700
-        height: 466
   - title: "Intel forks out $2B for Habana Labs to bolster AI chip standing"
     excerpt: "Intel has bought artificial intelligence (AI) firm Habana Labs for about US$2 billion, with the chip-maker seeking to expand its AI portfolio to bolster its data-center business. Intel expects the fast-growing AI chip market to exceed US$25 billion by 2024, with its own AI-driven revenues this year seen rising 20 per cent from 2018 to more than ..."
     publishedDateTime: 2019-12-16T23:18:00Z
@@ -288,19 +275,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
         width: 405
         height: 228
-  - title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
-    excerpt: "Computing giant Intel announced Monday to buy Israeli AI startup Habana Labs for approximately $2 billion in order to \"turbo-charge\" its machine learning offerings. “This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the intelligent edge to the data center,” said ..."
-    publishedDateTime: 2019-12-16T21:33:00Z
-    sourceUrl: https://www.ibtimes.com/tech-news-intel-acquires-israeli-ai-company-habana-labs-2-billion-deal-2886616
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
-        width: 700
-        height: 466
   - title: "Security intelligence startup RiskRecon acquired by Mastercard"
     excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
     publishedDateTime: 2019-12-23T20:16:00Z
