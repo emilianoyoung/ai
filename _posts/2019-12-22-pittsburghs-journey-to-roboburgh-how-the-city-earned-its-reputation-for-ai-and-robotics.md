@@ -26,49 +26,51 @@ images:
     title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
 
 related:
-  - title: "Gecko Robotics raises $40 million for industrial inspection robots"
-    excerpt: "However, Gecko positions itself more as a software company, with robots merely serving as the tools that capture the all-important data that could potentially avert dangerous equipment failures in the future. This predictive analytics leans heavily on artificial intelligence (AI), machine learning, and deep learning techniques. “We are ..."
-    publishedDateTime: 2019-12-16T16:52:00Z
-    sourceUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/
-    ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
+  - title: "Church of England to review ethics of its investments in AI and robotics"
+    excerpt: "Why it matters: The review will help determine whether the church's $15.6 billion investment fund should back companies like Amazon, Facebook and Google, which are pursuing artificial intelligence and robotics. What they're saying: A source close to the review said some church officials are worried that the technology is “akin to playing God ..."
+    publishedDateTime: 2019-12-22T13:28:00Z
+    sourceUrl: https://www.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+    ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: Axios
+      domain: axios.com
+    quality: 105
     images:
-      - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
-        width: 700
-        height: 350
-  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
-    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
-    publishedDateTime: 2019-12-19T14:20:00Z
-    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
-    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
-    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
+      - url: https://www.bing.com/th?id=ON.1B5F2BEE708BBC7BBE7F29359ED389BA
         width: 700
         height: 393
-  - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
-    excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
-    publishedDateTime: 2019-12-16T21:00:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
+  - title: "VC Investments In Enterprise Tech And AI"
+    excerpt: "I’m going to take a look at some of the top tier venture capitalists and their investments in the field of enterprise tech and AI. Companies with a focus on AI have collected over 9.3 billion dollars in the US during 2018. The number of venture capital investments keeps growing on a global scale, opening up new opportunities for startups and ..."
+    publishedDateTime: 2019-12-25T06:46:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/25/vc-investments-in-enterprise-tech-and-ai/amp/
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
+      - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
+        width: 600
+        height: 315
+  - title: "Church of England questions ethics of investment in AI"
+    excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
+    publishedDateTime: 2019-12-25T03:14:00Z
+    sourceUrl: https://www.thejakartapost.com/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+    ampUrl: https://www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+    cdnAmpUrl: https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2019/12/24/church-of-england-questions-ethics-of-investment-in-ai.html
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
         width: 700
-        height: 393
+        height: 417
   - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
     excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
     publishedDateTime: 2019-12-23T15:03:00Z
@@ -82,15 +84,65 @@ related:
       - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
         width: 700
         height: 366
-  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
-    publishedDateTime: 2019-12-19T09:28:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
+  - title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
+    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
+    publishedDateTime: 2019-12-28T11:35:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N.html
+    ampUrl: https://m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/recession-robots-and-rockets-are-we-headed-towards-a-repeat-of-the-1920s/story-trofqfJ39KBqpBcPnyvP3N_amp.html
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.E5F9EE185D518BE851E7DE436BC863EC
+        width: 700
+        height: 466
+  - title: "2019-20 Book of Lists brings robotics front and center"
+    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
+    publishedDateTime: 2019-12-20T12:45:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/20/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
+  - title: "2019-20 Book of Lists brings robotics front and center"
+    excerpt: "That List provided the theme for the Book of Lists, which features stories and images highlighting the past, present and glimpses into the future of robotics and artificial intelligence-related advancement in the region. There are other changes and additions to the new Book of Lists. Award and recognition programs were featured, grouped ..."
+    publishedDateTime: 2019-12-22T13:12:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/2019-20-book-of-lists-brings-robotics-front-and.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
+  - title: "Church of England Questions Ethics of Investment in AI"
+    excerpt: "\"Artificial intelligence [AI] is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion \"that is not only grounded in theology and distinctly Anglican but is also ..."
+    publishedDateTime: 2019-12-23T20:01:00Z
+    sourceUrl: https://www.voanews.com/europe/church-england-questions-ethics-investment-ai
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
+        width: 700
+        height: 499
+  - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
+    excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
+    publishedDateTime: 2019-12-20T13:07:00Z
+    sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 21
 
 secured: "rGWKzhs0C+Iz0vASGrBIhZzukL3oVHs558w4I2GyzdEnCjVQ9OzkevZUCsKziyUh2PZRegZmjqe8QCa/I/rSc0GUlxILdwgFIYEbUIGfsYNFIrEjQawOLSE+0UqlQiZ3nmFztU3+UI1GPUNVQmR+B9YxEXuUtE1gwS/nJPTneoqWDpt36BBuR3qD5teZ1Km38KKYNXHx9YkhIseBmu9CxV4fU6Jdlb89rDubikKGR/TsXfesW9KOpxTl3lsjWlDBOsiL5AjurrOGDXTh5p6atQ==;B07E2Z43FYqMTnW/XYwMiw=="
 ---

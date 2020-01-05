@@ -175,21 +175,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF6DC4E0C119F6EC5BF0467153FC280F
         width: 700
         height: 393
-  - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
-    excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
-    publishedDateTime: 2019-12-16T16:50:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
-        width: 636
-        height: 382
   - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
     excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
     publishedDateTime: 2019-12-16T20:00:00Z

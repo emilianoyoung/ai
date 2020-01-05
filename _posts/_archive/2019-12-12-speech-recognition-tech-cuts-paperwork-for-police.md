@@ -34,10 +34,10 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
 
-secured: "yPfeJNuMnOTWAjYz+EOekEWiXjTWS3pFabAi6hYYkc19z0PkCnM/ZS+6uKq1yFTdttyeD19e2jSulYXRLDutInPnUhzI7su8BiXwqtjKy/dcKDe59v6LRNvm5dppD/KX40L5PAJ31oFzWeJ8VnWPH7k2ohdSCvRh6ADIcR1bLorPtfwHuf368smuHCdBM7pLJog0YF+WsJ1tJsyWOrZAsSaQKObQs6pDOwicOOnAjXHbMVd2aVLOKeAr77eRhQ4RAY/DlMk+QaAunmThoF8zYQ==;gGvx+RmQal24S2ZWxYDF8A=="
+secured: "4Wc2keSquhpfMi15gMHZLvH3DQnDXA1KwyM7jrd04iWao0tuQ0tUoLkExWwaKeV53pwDIaF7XrEwDE5gDsEftQaDG7NnMX7YbQ088OB8NQy98SraR4aQ2r1DXzIh4vENwWKaMs0a80j2GMbtSirHyP18a5rMRKTX7txK3pXQodr1whhUZCVIAzolPY2iIAgUFAjNL2ZjnIuQD2Maqt7x2AoF46/ntZWe/cDHBX2/R+fAkYN83Jojle0f92X8rfZ/noDeIZckHUqWTO5tellq6Q==;DUtx0Yenq7PLefmKjBf/Bw=="
 ---
 

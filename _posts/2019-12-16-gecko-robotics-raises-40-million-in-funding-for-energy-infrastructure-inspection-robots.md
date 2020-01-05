@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-16T21:00:00Z
 sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 100
+published: true
 
 provider:
   name: Robotics & Automation News
@@ -24,73 +24,52 @@ images:
     title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
 
 related:
-  - title: "Gecko Robotics raises $40 million for industrial inspection robots"
-    excerpt: "However, Gecko positions itself more as a software company, with robots merely serving as the tools that capture the all-important data that could potentially avert dangerous equipment failures in the future. This predictive analytics leans heavily on artificial intelligence (AI), machine learning, and deep learning techniques. “We are ..."
-    publishedDateTime: 2019-12-16T16:52:00Z
-    sourceUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/
-    ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
+  - title: "AI Robots for Hire in Israel"
+    excerpt: "The world’s first “employment agency” offering robots controlled by artificial-intelligence for hire has launched in Israel as a joint venture between SixAI of Israel and Musashi Seimitsu of Japan, according to Daily Mail. MusashiAI provides a ..."
+    publishedDateTime: 2019-12-22T12:39:00Z
+    sourceUrl: https://www.jewishpress.com/news/breaking-news/ai-robots-for-hire-in-israel/2019/12/22/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
-        width: 700
-        height: 350
-  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
-    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
-    publishedDateTime: 2019-12-19T14:20:00Z
-    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
-    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
-    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+      - url: https://www.jewishpress.com/wp-content/uploads/AI-Robot-Forklift.jpg
+        width: 880
+        height: 495
+  - title: "The Introduction of Collaborative Robots"
+    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
+    publishedDateTime: 2019-12-16T17:10:00Z
+    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 82
+      name: Automation World
+      domain: automationworld.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
+      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
         width: 700
-        height: 393
-  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+        height: 425
+  - title: "Artificial intelligence innovator Gloat collects $25 million in capital"
+    excerpt: "Career development company Gloat is tapping its new round of funding to expand its New York and Tel Aviv offices. The startup, which uses artificial intelligence (AI) to help companies evaluate their workforces, raised $25 million in Series B capital. The round was led by Eight Roads Ventures, the proprietary investment firm backed by Fidelity ..."
+    publishedDateTime: 2019-12-17T19:29:00Z
+    sourceUrl: https://www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.html
+    ampUrl: https://www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2019/12/17/artificial-intelligence-innovator-gloat-collects.amp.html
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 80
-    images:
-      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
-        width: 400
-        height: 400
-  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
-    publishedDateTime: 2019-12-23T15:03:00Z
-    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
+    quality: 37
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
+    publishedDateTime: 2019-12-16T18:09:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 60
-    images:
-      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
-        width: 700
-        height: 366
-  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
-    publishedDateTime: 2019-12-19T09:28:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "SmWqeV4LrAFXIi1LGnvaSAymv6NhhCNNu68/JIPm0ZxanzATRxXsm4sD39UVA2YZQqRfcGv8rLEy+Gj5Y2N6tqGnKpmnPQtyH2KuQhB8bBFsXy93h4XQWk5c1CAkgrMTsS/mQyq/JAlRA1j9o231gIvP/pPvxt4cGDG8+h7aTLEqhIrbVsqVGLoGpWXDUYfNg0N1G1rLwpLVlwuFOZyB60nSOvz/GGLmQChB8WXD6LHKAekQ/mx+e4xD4TUPu6/6yrVcvAXOgSgY4zMrO/juJg==;0VMlo/mEOJbIDyI5fCg1Aw=="
 ---

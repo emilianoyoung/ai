@@ -188,21 +188,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
-    excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
-    publishedDateTime: 2019-12-16T16:50:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
-        width: 636
-        height: 382
   - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
     excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
     publishedDateTime: 2019-12-18T16:54:00Z

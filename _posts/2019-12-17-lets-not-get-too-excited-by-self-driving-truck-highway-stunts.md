@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
 
 related:
+  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
+    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
+    publishedDateTime: 2019-12-17T07:29:00Z
+    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
+        width: 450
+        height: 274
   - title: "Self-driving tractors: Next big thing in agriculture"
     excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
     publishedDateTime: 2019-12-23T06:01:00Z

@@ -26,71 +26,101 @@ images:
     title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
 
 related:
-  - title: "Gecko Robotics raises $40 million for industrial inspection robots"
-    excerpt: "However, Gecko positions itself more as a software company, with robots merely serving as the tools that capture the all-important data that could potentially avert dangerous equipment failures in the future. This predictive analytics leans heavily on artificial intelligence (AI), machine learning, and deep learning techniques. “We are ..."
-    publishedDateTime: 2019-12-16T16:52:00Z
-    sourceUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/
-    ampUrl: https://venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/gecko-robotics-secures-40-million-for-industrial-inspection-robots/amp/
+  - title: "Brazil to create national artificial intelligence strategy"
+    excerpt: "The Brazilian government has taken another step towards the creation of public policies around artificial intelligence (AI). A national AI strategy will be created as a response to the worldwide race for leadership in the field and the need to discuss the future of work, education, tax, research and development as well as ethics as the ..."
+    publishedDateTime: 2019-12-23T21:16:00Z
+    sourceUrl: https://www.zdnet.com/article/brazil-to-create-national-artificial-intelligence-strategy/
+    ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.853D3727FCC49A28B2EB25CCC2301D21
+      - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
-        height: 350
-  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
-    publishedDateTime: 2019-12-22T13:06:00Z
-    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
-    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+        height: 525
+  - title: "National Defense in the Age of Ethical AI"
+    excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
+    publishedDateTime: 2019-12-20T18:43:00Z
+    sourceUrl: https://www.theatlantic.com/sponsored/booz-allen-2019/national-defense-age-ethical-ai/3235/?preview=1
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 80
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
-        width: 400
-        height: 400
-  - title: "Gecko Robotics raises $40 million in funding for energy infrastructure inspection robots"
-    excerpt: "A Y-Combinator alum, Gecko Robotics raised the $40 million in its Series B round, which was led by Drive Capital. Gecko already partners with the largest brands in power, oil and gas and manufacturing industries. The startup says it has created “a new standard for industrial-grade inspection”, powered by artificial intelligence-based data ..."
-    publishedDateTime: 2019-12-16T21:00:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
+      - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
+        width: 700
+        height: 424
+  - title: "How to Cash in on Conversational AI"
+    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
+    publishedDateTime: 2019-12-24T16:19:00Z
+    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
     type: article
     provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 60
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.7FC084780B0FE0217E388D3DFA83A37A
+      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
+        width: 700
+        height: 259
+  - title: "Artificial Neural Network Model (image)"
+    excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
+    publishedDateTime: 2019-12-26T14:59:00Z
+    sourceUrl: https://www.eurekalert.org/multimedia/pub/220538.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DE5CFD7F64687182101B77E2310B5C71
         width: 700
         height: 393
-  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
-    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
-    publishedDateTime: 2019-12-23T15:03:00Z
-    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
+  - title: "National Strategy aims at major portion of global AI pie"
+    excerpt: "“The National AI strategy of Qatar has six pillars: education, data access, employment, business, research, and ethics. It envisions two roles for Qatar: First, Qatar must become capable of producing world class AI applications in areas of national interest and have a business environment enabling the use AI as a driver for innovatio"
+    publishedDateTime: 2019-12-27T19:19:00Z
+    sourceUrl: https://www.gulf-times.com/story/651826/National-Strategy-aims-at-major-portion-of-global-
     type: article
     provider:
-      name: WPXI
-      domain: wpxi.com
-    quality: 60
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
-        width: 700
-        height: 366
-  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
-    publishedDateTime: 2019-12-19T09:28:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
+      - url: https://www.bing.com/th?id=ON.59054D8FAD18B00DF186C76B11C85DCE
+        width: 620
+        height: 355
+  - title: "The United States Needs a Strategy for Artificial Intelligence"
+    excerpt: "Argument: The United States Needs a Strategy for Artificial Intelligence The United States Needs a Strategy for Art... In the coming years, artificial intelligence will dramatically affect every aspect of human life. AI—the technologies that simulate intelligent behavior in machines—will change how we process, understand, and analyze ..."
+    publishedDateTime: 2019-12-24T12:40:00Z
+    sourceUrl: https://foreignpolicy.com/2019/12/24/national-artificial-intelligence-strategy-united-states-fall-behind-china/
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Foreign Policy
+      domain: foreignpolicy.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.89C104007EC38FBFAB26C0842CB707DD
+        width: 700
+        height: 466
+  - title: "China and Russia plan to boost scientific cooperation with focus on artificial intelligence and other strategic areas"
+    excerpt: "Meanwhile, the Chinese foreign ministry has identified fields such as communications technology, artificial intelligence and the “internet of things” as promising fields for collaboration. The focus on tech cooperation was agreed by Putin and Chinese President Xi Jinping in June, when they stressed that China-Russia relations had entered a ..."
+    publishedDateTime: 2019-12-28T14:34:00Z
+    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3043787/china-and-russia-plan-boost-scientific-cooperation-focus
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.3C21826743DAF066F0EE1D70CAED15DD
+        width: 700
+        height: 367
 
 secured: "gyBcKqhKrjUECrNmUCSOLK460yTWEw0I4UNi+zw2nz+2TbsCEmJzzZ1jUTbT/rvRExglENOCYO1+kqMNk6lQE9ioKD0Ucyh5HlcwynCSv0XttJISQg/nruGOUJQm/ti4aIhwH4wHMo2hVSqlbCjw+641kKNlPRSUIpXdSoBJ5AJ+AUqGkB6IyJPrsIUwfyjIXUR4KkxgA+nxBvk1x1j7tFVrSnt2rB2C6ceRo9WDezKIWyoU6fvTmhWhUzIOpgd+juD6+4aeKH8SaCN921ASLw==;o/wGlChxYoHDYehT/kHMQA=="
 ---

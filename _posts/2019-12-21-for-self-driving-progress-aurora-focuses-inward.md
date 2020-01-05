@@ -24,49 +24,123 @@ images:
     title: "For self-driving progress, Aurora focuses inward"
 
 related:
-  - title: "Amazon-Backed Aurora Readies An Air-Traffic Control System For Self-Driving Cars"
-    excerpt: "Self-driving cars aren’t quite ready for large-scale commercial deployment, but as the technology advances most companies developing it plan multiple layers of safety. Aurora, a startup that counts Amazon as an investor, thinks a system of remote monitors acting much like air-traffic controllers is one way to help ensure public acceptance of ..."
-    publishedDateTime: 2019-12-16T16:25:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
+  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
+    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
+    publishedDateTime: 2019-12-19T20:42:00Z
+    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
+    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.75EA282AA5CC8C6C58C943CEDDB5BB78
+      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
         width: 600
         height: 315
-  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
-    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
-    publishedDateTime: 2019-12-20T16:47:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+  - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
+    excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
+    publishedDateTime: 2019-12-24T20:12:00Z
+    sourceUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/
+    ampUrl: https://www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/self-driving-delivery-vehicles-plus-self-flying-drones-now-theres-amazon-patent/amp/
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
+      name: GeekWire
+      domain: geekwire.com
+    quality: 63
     images:
-      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
-        width: 1200
-        height: 630
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+      - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
+        width: 700
+        height: 381
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
+    publishedDateTime: 2019-12-18T18:35:00Z
+    sourceUrl: https://www.engadget.com/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    ampUrl: https://www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/california-allows-light-duty-self-driving-delivery-vehicles/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Engadget
+      domain: engadget.com
     quality: 54
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
+    publishedDateTime: 2019-12-22T12:03:00Z
+    sourceUrl: https://www.azcentral.com/story/money/cars/2019/12/22/gm-military-vehicles-self-driving-cars/2709275001/
+    ampUrl: https://amp.azcentral.com/amp/2709275001
+    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2709275001
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
+      - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
+        width: 700
+        height: 393
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
+    publishedDateTime: 2019-12-18T22:50:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 33
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
+    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
+    publishedDateTime: 2019-12-19T16:34:00Z
+    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
+    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
+    type: article
+    provider:
+      name: Santa Cruz Sentinel
+      domain: santacruzsentinel.com
+    quality: 33
+    images:
+      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
+        width: 1024
+        height: 547
+  - title: "Why GM is developing technology for self-driving vehicles for the US military"
+    excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
+    publishedDateTime: 2019-12-23T06:00:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/why-gm-is-developing-technology-for-self-driving-vehicles-for-the-us-military/ar-BBYf2Lr?li=BBnb7Kz
+    type: article
+    provider:
+      name: USA TODAY on MSN.com
+      domain: msn.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
+        width: 700
+        height: 367
+  - title: "Toyota takes self-driving program in commercial direction"
+    excerpt: "Toyota (NYSE:TM) says it will deploy advanced self-driving features in commercial vehicles before adding them to cars for personal use. The Japanese automaker sees using autonomous technology in taxis, cars for on-demand ride services, mobile shops and ambulatory hospitals. \"It will take more time to achieve 'Level 4' for a personally-owned ..."
+    publishedDateTime: 2019-12-17T13:07:00Z
+    sourceUrl: https://seekingalpha.com/news/3526725-toyota-takes-self-driving-program-in-commercial-direction
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
+  - title: "California allows 'light-duty' self-driving delivery vehicles"
+    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "lb2EiSUd+p9xzBCrJKay7+6+Z+iK4ldZ6JwnZEbL83hids1DjP7rzMpZ3VUacfLcR7A/Fvab6oiBLPyewoCKq8CrvvH74OBAeUxqz3VEb4zJYLQx3NLVezb8EMW0NoW7jqO9UWEhAnnmFgTSxnoSmAmlvrJh7Qpuphk0ywebt+4EgUu0264xWgSKyRBGAI+2DvuCy2m7KoaEAbuGmznVdeTngYfrKL5AJS6hlvzvs6XHWvSDZpPQWJ0ajwaLRf2JNmV94Pc+Ai26EwY2hPslFw==;HgPMxNc1l1921TBJQT2T4Q=="
 ---

@@ -179,21 +179,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
-    excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
-    publishedDateTime: 2019-12-16T16:50:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7798005/amp/Systems-use-facial-recognition-fooled-using-3D-printed-mask.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.FE85ED1461D677FB16F2974DDA6D119E
-        width: 636
-        height: 382
   - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
     excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
     publishedDateTime: 2019-12-16T20:00:00Z
@@ -603,6 +588,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "U2kXKt+V6GLuj076KmgOl3opgZVPLZDi5mJyVNgzzA7ThN+VGlHPiy6O8z61VxOPRUPqbFiK/3j6nK28gykqeInH/I56kx+eUBa1wgn7ALKFleoXlal0fWlOn18JH3uYnIHSVUqWFAQpZPfFHXJ45TPO7x1ELi3wOEs7IxRDLSkKzeqokxv2fdhXDTaB6VlnXlvNDyDIyI2N0j9laQ9U8P0DiDLYAIX0PP2Vr23j+jRUpiNmrVZWJysWd1qwPaXt1aZfov9WjycFP6cPHRfTWQ==;3pZHbFYgtw/MySek2AjvbA=="
+secured: "dre8FaJWEy17O0ZXG0qkKtaqrV0T433iLeKEanZFC7bKlMGP674LwZfFd3o0cHLKvLXAI25z5HtVGs8xOrf57HZ78FvWycOcQN33TrPso00WziVxp7W1bwV+gOwsaglynONTgqK5MTnKkZKm1kfvGS6GywhSqfyAJOOnGU/KJfAyW5z50IpGqHZBTvoyzELcFlNTRohIkwb+vRahIgL4z3YudvtRhYeLS4lCv2eSVSYzl6XNQIuft60sSjNpRbcNx4cC6J1m51Bw8iWzfq8IYA==;B0k51cHau99dTN+3eLN2jA=="
 ---
 

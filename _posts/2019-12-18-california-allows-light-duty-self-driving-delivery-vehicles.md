@@ -99,6 +99,19 @@ related:
       - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
         width: 1024
         height: 547
+  - title: "For self-driving progress, Aurora focuses inward"
+    excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
+    publishedDateTime: 2019-12-21T04:00:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/self-driving-progress-aurora-focuses-inward
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
+        width: 700
+        height: 525
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
     excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
     publishedDateTime: 2019-12-23T06:00:00Z

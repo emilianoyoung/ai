@@ -157,6 +157,15 @@ related:
       - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
         width: 700
         height: 365
+  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
+    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
+    publishedDateTime: 2019-12-19T09:28:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EpwPKWk/1p+Ny3jPkSNZ9XUFIsq1khcE0UlgGUnf6hvuTCIW39L37VdnUhIiN0RH9EKC8KTLeDaqooWyLsJpdgF7VwwMBM7BKZJ73ofAhe+Skhy++bFCBpp9vOHWdnkQ4S0luHbVbcVAfcWk1KrOWN2mrkPXssW6zB9MEf7/+um9vDzXufbaMkSZya9MnsIX0STW/59Tz9r4RxuYf8FxW9VV7VNMSKtjXROuGsdZ3OxbIGgSI4hZ02F7DS28/sYFOtVx375f8WsKjIsSlqyGbA==;rEZUW8xexFihlQ932uMWfA=="
 ---

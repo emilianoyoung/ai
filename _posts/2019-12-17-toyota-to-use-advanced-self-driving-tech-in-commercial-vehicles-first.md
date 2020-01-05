@@ -24,49 +24,36 @@ images:
     title: "Toyota to use advanced self-driving tech in commercial vehicles first"
 
 related:
-  - title: "Amazon-Backed Aurora Readies An Air-Traffic Control System For Self-Driving Cars"
-    excerpt: "Self-driving cars aren’t quite ready for large-scale commercial deployment, but as the technology advances most companies developing it plan multiple layers of safety. Aurora, a startup that counts Amazon as an investor, thinks a system of remote monitors acting much like air-traffic controllers is one way to help ensure public acceptance of ..."
-    publishedDateTime: 2019-12-16T16:25:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
+  - title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
+    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
+    publishedDateTime: 2019-12-17T00:05:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.75EA282AA5CC8C6C58C943CEDDB5BB78
+      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
-    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
-    publishedDateTime: 2019-12-20T16:47:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
+    publishedDateTime: 2019-12-23T06:01:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
     images:
-      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
-        width: 1200
-        height: 630
-  - title: "For self-driving progress, Aurora focuses inward"
-    excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
-    publishedDateTime: 2019-12-21T04:00:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/self-driving-progress-aurora-focuses-inward
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
+      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
-        height: 525
+        height: 392
 
 secured: "8IOj29uiaMkSf0vug3Vslc0Eis0XknNfcc2QnakmctAqbaW4NuQm58CEtC9O1b0ivcQHPtLBuMr4a5i9p6bu95FKGKkSarX/UAvuiT+yxYIwXr45zDj1r17XJTbim4XYrr35h9rLAdFmfP4XJ99nF9osAa6mkFlR8sP3AVwmdSU+K2TFePt6SCzyrTmsvORPIJNmgCp/WfnIfTF6JMvULZ2kFMIrXrx28tJp0mworkaPBtveN5Etxkvfg7haWHfwInTytEcWu3C583+ey/RSfg==;2YVgX5WtN53vZxNvV5y+xg=="
 ---

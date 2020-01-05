@@ -50,6 +50,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A4BDBBED907CBE5AEBD4624537C01239
         width: 600
         height: 315
+  - title: "Pittsburgh's journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen, executive director of ..."
+    publishedDateTime: 2019-12-22T13:06:00Z
+    sourceUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.html
+    ampUrl: https://www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2019/12/22/pittsburghs-journey-to-roboburgh-how-the-city.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 80
+    images:
+      - url: https://www.bing.com/th?id=ON.921E62DCFCE8B6D3EB2BA06676C93BA9
+        width: 400
+        height: 400
   - title: "Church of England questions ethics of investment in AI"
     excerpt: "Read also: 'Faster with AI': Indonesia to replace ministerial aides with machines \"Artificial intelligence (AI) is an important element of this review,\" the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians \"to try to make sense of the issues\", the spokesman said. It wants to reach a conclusion ..."
     publishedDateTime: 2019-12-25T03:14:00Z
@@ -65,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C1A29383FDFEA5B8DC8E5D2841146091
         width: 700
         height: 417
+  - title: "Pittsburgh’s journey to roboburgh: How the city earned its reputation for AI and robotics"
+    excerpt: "PITTSBURGH — When Kenny Chen tells Pittsburgh’s artificial intelligence and robotics story to audiences outside the city, he emphasizes that the expertise and successes that earned the city its Roboburgh title did not happen overnight. It happened “during the time that AI and robotics were not really all that sexy,” said Chen ..."
+    publishedDateTime: 2019-12-23T15:03:00Z
+    sourceUrl: https://www.wpxi.com/news/top-stories/pittsburghs-journey-roboburgh-how-city-earned-its-reputation-ai-robotics/BUCIE6QTYZBB7PS6VGHMNSKSKM/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 60
+    images:
+      - url: https://www.bing.com/th?id=ON.748897A232E420884A99C2AFE81A2D6C
+        width: 700
+        height: 366
   - title: "Recession, robots and rockets: Are we headed towards a repeat of the 1920s?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company’s board. The ‘20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and ..."
     publishedDateTime: 2019-12-28T11:35:00Z

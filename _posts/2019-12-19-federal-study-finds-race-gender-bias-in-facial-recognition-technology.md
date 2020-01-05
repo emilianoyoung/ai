@@ -49,21 +49,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
         width: 700
         height: 367
-  - title: "75,000 people call on Congress to ban on facial recognition tech"
-    excerpt: "Activists on Monday delivered petitions to members of Congress calling for an outright ban on government use of facial recognition technology. The petitions were delivered to the offices of Rep. Carolyn Maloney (D-N.Y.) and Rep. Jim Jordan (R-Ohio)—the ..."
-    publishedDateTime: 2019-12-16T16:30:00Z
-    sourceUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/
-    ampUrl: https://www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
-    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-ban-petitions-congress/?amp
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 159
-    images:
-      - url: https://www.bing.com/th?id=ON.C49735C6C0B7A112ABE4E3242B4817CB
-        width: 700
-        height: 350
   - title: "Facial recognition fails on race, suggests government study"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-20T12:29:00Z

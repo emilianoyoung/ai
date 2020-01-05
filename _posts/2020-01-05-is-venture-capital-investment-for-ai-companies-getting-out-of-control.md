@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capita
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Is Venture Capital Investment For AI Companies Getting Out Of Control?"
 
 related:
+  - title: "Is Venture Capital Investment In AI Excessive?"
+    excerpt: "It goes without saying that startups are playing into this trend and raising more money than ever, as long as they have AI or cognitive technologies in their business plans or marketing material. Not only are startups raising increasingly eye-opening amounts of money, but venture capital (VC) funds themselves are raising skyrocketing levels of ..."
+    publishedDateTime: 2020-01-05T17:49:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.91FD19403DA1D8F96C8AEB8086367201
+        width: 600
+        height: 315
   - title: "Two Ugandan Fintech Companies to Watch Out for This Year"
     excerpt: "The fintech space is growing much faster than any other industry based on external funding ... Teheca at the Kampala pitch... 6 Steps to Building Your Own AI Model: Are You Patient Enough to Make... Businesses have begun to harness the potential of artificial intelligence (AI) and machine learning to drive secure positive outcomes."
     publishedDateTime: 2020-01-04T10:38:00Z

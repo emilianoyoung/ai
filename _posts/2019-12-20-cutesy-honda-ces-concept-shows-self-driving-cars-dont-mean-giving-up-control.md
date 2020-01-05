@@ -30,47 +30,187 @@ images:
     title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
 
 related:
-  - title: "Amazon-Backed Aurora Readies An Air-Traffic Control System For Self-Driving Cars"
-    excerpt: "Self-driving cars aren’t quite ready for large-scale commercial deployment, but as the technology advances most companies developing it plan multiple layers of safety. Aurora, a startup that counts Amazon as an investor, thinks a system of remote monitors acting much like air-traffic controllers is one way to help ensure public acceptance of ..."
-    publishedDateTime: 2019-12-16T16:25:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2019/12/16/amazon-backed-aurora-readies-air-traffic-control-system-for-self-driving-cars/amp/
+  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
+    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
+    publishedDateTime: 2019-12-17T21:32:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
+        width: 1200
+        height: 630
+  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
+    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
+    publishedDateTime: 2019-12-17T17:32:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
+    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 70
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
+  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
+    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
+    publishedDateTime: 2019-12-22T16:21:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 65
     images:
-      - url: https://www.bing.com/th?id=ON.75EA282AA5CC8C6C58C943CEDDB5BB78
+      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
         width: 600
         height: 315
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
+    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
+    publishedDateTime: 2019-12-17T17:09:00Z
+    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
+    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
+      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
+        width: 457
         height: 274
-  - title: "For self-driving progress, Aurora focuses inward"
-    excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
-    publishedDateTime: 2019-12-21T04:00:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/self-driving-progress-aurora-focuses-inward
+  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
+    publishedDateTime: 2019-12-18T07:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
+    type: article
+    provider:
+      name: YAHOO!News
+      domain: yahoo.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
+        width: 600
+        height: 400
+  - title: "Hungarian self-driving developer wins AI competition"
+    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
+    publishedDateTime: 2019-12-18T07:00:00Z
+    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
+    type: article
+    provider:
+      name: Budapest Business Journal
+      domain: bbj.hu
+    quality: 39
+    images:
+      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
+        width: 1200
+        height: 800
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-23T22:33:00Z
+    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
+    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
+        width: 700
+        height: 393
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-24T00:06:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
+        width: 700
+        height: 393
+  - title: "Russia's Yandex making its own self-driving sensors"
+    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
+    publishedDateTime: 2019-12-17T16:11:00Z
+    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8E740F14DF6CFBA52757EA7650C07849
+      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
+        width: 800
+        height: 600
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+        width: 700
+        height: 466
+  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+    publishedDateTime: 2019-12-17T10:27:00Z
+    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
         width: 700
         height: 525
+  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
+    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
+    ampUrl: https://amp.benzinga.com/amp/content/15000614
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
+    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
+    publishedDateTime: 2019-12-18T03:26:56Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
+    type: article
+    provider:
+      name: Raleigh News & Observer on MSN.com
+      domain: msn.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
+        width: 700
+        height: 393
 
 secured: "Lc31LBGkKDodyrD6rq1ekcijNGft++PEWhY35APDyBtf2zyoOP4RY7Em6bzWOA8pXm6wyXKyFSIM8EGKJetqw2fDLtYSrh+3o0k369gYWI7RlxBVS9bHKtZeoSGHnd9aZnxl8NKhNfknv3Q5sy8C6ekyvAcHzS/Q076eU0WjTxnkvkMhLONLGxfKMiAShzUKjEIEKQfzAq5smLh5PXLQXl1Cjdtx2R262H8emSy53ikfkg1g12RT3LBQB7VeE9nOrey3RORXm03E/hU1ELN8Ug==;/4/Ajr3eyurvzGBBYZtEuQ=="
 ---

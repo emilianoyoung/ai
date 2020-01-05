@@ -42,6 +42,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
         height: 525
+  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
+    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
+    publishedDateTime: 2019-12-19T14:20:00Z
+    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
+    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
+        width: 700
+        height: 393
   - title: "How to Cash in on Conversational AI"
     excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
     publishedDateTime: 2019-12-24T16:19:00Z
