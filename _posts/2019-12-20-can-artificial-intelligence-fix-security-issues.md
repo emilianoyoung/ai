@@ -22,17 +22,6 @@ images:
     height: 371
     title: "Can Artificial Intelligence Fix Security Issues?"
 
-related:
-  - title: "How Artificial Intelligence is Improving Security in Mobile Technology?"
-    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans. The industrial professional survey on the “Global Mobile Artificial Intelligence Market | Forecast 2020-2029” attempts to provide significant and detailed insights into the current market scenario ..."
-    publishedDateTime: 2019-12-16T09:05:00Z
-    sourceUrl: https://www.cso.com.au/mediareleases/36962/how-artificial-intelligence-is-improving-security/
-    type: article
-    provider:
-      name: CSO
-      domain: cso.com.au
-    quality: 17
-
 secured: "b+IT5HexZOeDsjeWCH2z9y0Ki6Q4JszlLwQJVu0yZW+zkAntaZDu8x+yVObK85YHdNo5tgcyuTH2qoKClhuuRamtRbYNlOC7uVicdk4Le+5B5ABUwVX58dPd+oPUQrlZQFBRf0aIhO7Z3xDslJdV9CB2QhAbnzsYmwFrPYG9Smvv4305UnflzMP9ru0gIYIdINFn+5E/7XR8aedM7KW7BoHUz7+oRnnDrio85JZetKXsLhdH3eRKYEzHYQiXz4dIdR/bPSxcr+gi0RJb1B5vrg==;XMvUk1Gd/730arhT5c41mA=="
 ---
 

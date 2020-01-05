@@ -29,6 +29,6 @@ images:
     height: 1005
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
-secured: "5Cz8kym9Ct346zZYB0ybm7FCZCFQDgKRU2760MYqhxZ3xu9Fns9g6yOTyE8sHU+oGudNdasdXITmKFDUhn9bJiDYYVURjnyBl1q0KNP55U9LVbkuL0pR1fuvNDESftSZgMzk0JnqGOk6JaUZHdd9pOf3O+yPeEQu7rV7oGCmN5RZaufLesxmeZLLvcfJFjDulKxlman+2iHPDqbji/0Rd2g1fJmE4F3DDfNA5mKqJwZ3vMazoHElg6zR6dWP2DPb1nNUauMgJmjA4H/J5Dn46Q==;XJCaZwNzQBWjt3SllL5XOA=="
+secured: "YpLrB5QIKbUPwvWLtzQH/9qBopvoLFwZ8ImIoLuDmM5iCohmTp4Yrd9WRVAt2rpToz9MNAO3XSKttUf/9D2JOxZz9o6Gpn6IIzR5reFIqxAH7dJHH9A+hGqPvh8VXEb0RBGRsxSFm2dNXLm4lP/ewZBaly0QsHK+jGO+epede5E+iNHSI9zva2yHn1VH5fimuAHmvcIQXpks4q8smIAKC7nWQIXR9Kisk1IyJp+RtMMD34xE08sedZ6ZwfQTUwr7sRUOC9jRQvMmRDRejeWGmA==;EwwFWMQNGwI1YOpVJSG5PA=="
 ---
 

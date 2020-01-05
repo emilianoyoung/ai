@@ -56,17 +56,6 @@ related:
       - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
         width: 600
         height: 315
-  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
-    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
-    publishedDateTime: 2019-12-16T09:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 50
   - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
     excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
     publishedDateTime: 2019-12-16T14:13:00Z

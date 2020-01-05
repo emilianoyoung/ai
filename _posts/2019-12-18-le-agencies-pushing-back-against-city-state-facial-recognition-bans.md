@@ -630,19 +630,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Smile! 3D facial recognition is raising kiosk value"
-    excerpt: "But it's even better when they know your face — and in countries around the world, consumers are eagerly using retail kiosks embedded with 3D facial recognition to confirm their identities and improve their shopping experience. 3D technology is changing the way we interact with retail. Wherever you look, from inventory robots to customer ..."
-    publishedDateTime: 2019-12-16T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/blogs/smile-3d-facial-recognition-is-raising-kiosk-value-2/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
-        width: 300
-        height: 170
   - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
     excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
     publishedDateTime: 2019-12-19T19:12:00Z

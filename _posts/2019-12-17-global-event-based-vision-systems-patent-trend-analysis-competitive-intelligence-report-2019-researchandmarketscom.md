@@ -64,19 +64,6 @@ related:
       name: Odessa American
       domain: oaoa.com
     quality: 7
-  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
-    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
-    publishedDateTime: 2019-12-16T09:56:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005311/en/Global-Event-Based-Vision-Systems-Patent-Trend-Analysis
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.D42937E6FA9B2FAD8028F84BBFE31D77
-        width: 700
-        height: 365
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
     publishedDateTime: 2019-12-17T00:09:00Z

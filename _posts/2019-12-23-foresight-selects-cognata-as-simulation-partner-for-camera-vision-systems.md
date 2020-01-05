@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
-publishedDateTime: 2019-12-23T16:14:00Z
-sourceUrl: https://finance.yahoo.com/news/foresight-selects-cognata-simulation-partner-160400161.html
-ampUrl: https://finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
+excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit https://www.cognata.com. Contact: DeeDee ..."
+publishedDateTime: 2019-12-23T15:04:00Z
+sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
 type: article
-quality: 23
-heat: 23
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -46,7 +48,25 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-19T13:30:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "JHYmOdoqEcIeBo2T1aN7s+p5Cjc1OQZRYyDENSgv55dyJkHJKMTMB7raTv0peUwJvQ1JVmzKAiq7Bmn+H6UdXZg7n6BqQkrgxfKMbws85y/D7tp2xtkIdAfi7JCovlgugdI+bPJgESu5HeRJrSGz5pGnCkCuVl5BH+8Yc1ysF72JR4rxR0inEqNcMuo3fdtXCMe+SPW5lHb6FI3Dc6Je7grkBOOHj/cMNLYfNt6Az4Pyo+CwIgvffYFvxANIauSfLPD9Vxj3RuKu6oz6ofn54Q==;PCQpqQWMfttUq600ZO/G7g=="
+secured: "b6QX9XmdPV/O6kVeGyi9BtzPpwUIT1urntl/T4wZwe2XC1mmCwSSai4fFSw4CMv/oOM7PcgkbQiLVgk20fHosWZ21jlv6Pfr3n01wEaZV2u7xun1FuXVahF2mzgFztLcwicOdhy7YR7aOCFvLkjCiDsvDs9B/Rx71duR1p1Az5FCv6tmKlquNES9+zt205DNSg81PC8AC5C/OXlpb3hhdljLr9AlUvMhcpnyac1kOmCS2zOgOfRm3Lvdrq1gG8qL80PFcnWfbNHcWhg8+8d3lw==;ESOrK50SXaOu17GmQAfI5A=="
 ---
 

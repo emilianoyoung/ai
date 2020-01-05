@@ -614,19 +614,6 @@ related:
       - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
         width: 100
         height: 100
-  - title: "Smile! 3D facial recognition is raising kiosk value"
-    excerpt: "But it's even better when they know your face — and in countries around the world, consumers are eagerly using retail kiosks embedded with 3D facial recognition to confirm their identities and improve their shopping experience. 3D technology is changing the way we interact with retail. Wherever you look, from inventory robots to customer ..."
-    publishedDateTime: 2019-12-16T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/blogs/smile-3d-facial-recognition-is-raising-kiosk-value-2/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.6502E80A3937DE96396E587CB02CE984
-        width: 300
-        height: 170
   - title: "LE agencies pushing back against city, state facial recognition bans"
     excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
     publishedDateTime: 2019-12-18T15:16:00Z

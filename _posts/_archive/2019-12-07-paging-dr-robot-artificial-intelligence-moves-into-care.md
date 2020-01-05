@@ -23,6 +23,6 @@ images:
     height: 482
     title: "Paging Dr. Robot: Artificial intelligence moves into care"
 
-secured: "Q8FGuNVw1KhZJFFew4Wfk+lyLX32kPQxXSTYuYKDhScTy1MutfAbRLTueH1lBPXwjOI1V5sXbO0R7eFKdX3Gq+nyyH4KPZcjBkP44WwtkgTv388ENf8B0x3t9s4KMW6pzt6uXggDScdReH0V+4UG/S7hdY1SYpGSt8yCPOKwzhIMjTcdwDiSu9sLToyy5CUdB7g5yxBQtH56Ju/TQmi5HH0TX5qbfvHfokmRJ9z5ujRKlyzN1FQCNjY/SSiKVlpDwPPLY2Ex74hoYA+K0NYGjg==;QOsy2+lQaETi4fIXbcMOEg=="
+secured: "8Bp+ItG3b7NROLqtlPdJV2jbaq1QmJC9PZcxBZkc7q9jQ5j8pgKgdoSdEs88NV730bC6DZ4JFu+Xr+avF3/W8JmxagJcL/oXS9JwSscwvAdyLOXIgf5ClUd56A4smXVcf/x+W95B0+wKD6wLe0TUZY2IXBms+zYOFKV8BonwiQv0cbKva7IZVV5Y4mwV4ldK0/0s5YQSJWPOjbVTFM1o3FAgiNit2C2v2WJwPvZxIGdtjR90UWRQxPRbeoroJn67QdGD7SZiASgyObSjQY9Seg==;uA3lK1nnHZoO29sJB40SkA=="
 ---
 

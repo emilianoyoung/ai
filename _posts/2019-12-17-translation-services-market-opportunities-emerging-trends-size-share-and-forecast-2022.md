@@ -31,15 +31,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "Y+DmIf0Fx5wyOkszoJvNZyv2uASW+RiFy1vPyOUGviSSK16eRGSC0BGsCPZHfw1Vb7d0KhlmqZJh1ZIGc8Y7udKd9eOEth9TKc2mYSG26U5XiTjHvJTdX86vea7nhboqpRD0csUC0GNZpgo75Pys1orr9HESZvymtNdgsfh7MDknXRrm6YrMkeuYbh18RUERrf+DLpWza7QHIiTg88idrkSE0LRXDcHCMjn+2Sk0i+9rwZwvzXgQ4M15ERQ8nrGWrYx5Tdj3AAP4WvxXbBR7Lw==;RVAIypVE/0phngvyi/ixQg=="
 ---

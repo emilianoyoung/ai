@@ -48,17 +48,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
-    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
-    publishedDateTime: 2019-12-16T09:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 50
   - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
     excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
     publishedDateTime: 2019-12-17T08:02:00Z
