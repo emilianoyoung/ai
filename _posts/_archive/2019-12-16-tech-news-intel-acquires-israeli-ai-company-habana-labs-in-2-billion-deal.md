@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Intel buys AI chipmaker Habana for $2 billion"
-excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
-publishedDateTime: 2019-12-16T21:41:00Z
-sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
+excerpt: "Computing giant Intel announced Monday to buy Israeli AI startup Habana Labs for approximately $2 billion in order to \"turbo-charge\" its machine learning offerings. “This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the intelligent edge to the data center,” said ..."
+publishedDateTime: 2019-12-16T21:33:00Z
+sourceUrl: https://www.ibtimes.com/tech-news-intel-acquires-israeli-ai-company-habana-labs-2-billion-deal-2886616
 type: article
-quality: 54
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
+  - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
     width: 700
     height: 466
-    title: "Intel buys AI chipmaker Habana for $2 billion"
+    title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
 
 related:
   - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
         width: 700
         height: 447
-  - title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
-    excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
-    publishedDateTime: 2019-12-16T20:51:00Z
-    sourceUrl: https://www.reuters.com/article/us-habana-labs-m-a-intel-idUSKBN1YK1BU
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
-        width: 700
-        height: 466
   - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
     excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
     publishedDateTime: 2019-12-17T00:32:00Z
@@ -204,6 +189,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
+  - title: "Intel buys AI chipmaker Habana for $2 billion"
+    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out in front of the AI market. The company clearly doesn’t want to repeat past mistakes like ..."
+    publishedDateTime: 2019-12-16T21:41:00Z
+    sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
+        width: 700
+        height: 466
   - title: "Intel forks out $2B for Habana Labs to bolster AI chip standing"
     excerpt: "Intel has bought artificial intelligence (AI) firm Habana Labs for about US$2 billion, with the chip-maker seeking to expand its AI portfolio to bolster its data-center business. Intel expects the fast-growing AI chip market to exceed US$25 billion by 2024, with its own AI-driven revenues this year seen rising 20 per cent from 2018 to more than ..."
     publishedDateTime: 2019-12-16T23:18:00Z
@@ -295,19 +293,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
         width: 405
         height: 228
-  - title: "Tech News: Intel Acquires Israeli AI Company Habana Labs In $2 Billion Deal"
-    excerpt: "Computing giant Intel announced Monday to buy Israeli AI startup Habana Labs for approximately $2 billion in order to \"turbo-charge\" its machine learning offerings. “This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the intelligent edge to the data center,” said ..."
-    publishedDateTime: 2019-12-16T21:33:00Z
-    sourceUrl: https://www.ibtimes.com/tech-news-intel-acquires-israeli-ai-company-habana-labs-2-billion-deal-2886616
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.92FD9424B8C8257F35F394CA1D8AC3C0
-        width: 700
-        height: 466
   - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
     excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
     publishedDateTime: 2019-12-18T22:23:00Z
@@ -362,6 +347,6 @@ related:
       domain: yahoo.com
     quality: 14
 
-secured: "3yR1OCOiLFCu3hpPv66VTTviMkHikRV90gSQNsVCE8cEcchOI086rxzyUsEJOdHf3fP/XqFgGMrw7+LL+m0mhH89br5Obik5ICiZhvTmU2/xqwhfRC03McKGZlEf2P2T9Ni7hl/wxZm/XTPjdS/ccPzP/0lQSGJ/KEJPhqUR10A0Ne6QbWuANRHRzmJTqrkLb4zw9eLBOAX82PglZ/kdmHCulGjN2sX0Ksn5ZzHhA684HHU4ScncJ2es6gZAH7lD85acTrp4rtjK3KxKgWrU0w==;v5Qg/xZcNrhoE8mBlI2tEg=="
+secured: "IQ48pNuRW7HJOEB9nlF2FJ5LcJspEGpMJDlAIHJFRY8MqH7I6llfQUSFeiMuxa6Z1XY0RYjwGhgLk0hWxJTD/ILr+/W+0Dzi26l8+O+8IZsG8JISJiPXTe6wEJjzP3DcxoJvBm3UW4jB2n5RRo4EzkPYWKmgmgEyRZF5iBqHLyqtcfosnZD92rO0xko8Yeqz0EABTc11p9lEJxGVv4JamvoriUxqdnRDleIl9tfiU8+kN0xI4J7si0NgJex/TYPTnQjCuAs81rB5BgqUzP4Otw==;kCfcJovfvEiK5wtKa3gk3Q=="
 ---
 

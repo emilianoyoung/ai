@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
         width: 600
         height: 315
+  - title: "Computer simulation enters the AI age: the Altair story"
+    excerpt: "That dialectic of design and simulation is pervading the world thanks to AI, Scapa believes. \"We are at a moment in time where for many things that we do, the algorithms are driving decisions,\" is the way Scapa broadly views the landscape of society, not just engineering. \"For me it's all about how algorithms are assisting humans to make deci ..."
+    publishedDateTime: 2019-12-21T20:22:00Z
+    sourceUrl: https://www.zdnet.com/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
+        width: 700
+        height: 525
   - title: "NHS is leading the way in AI adoption"
     excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
     publishedDateTime: 2019-12-17T12:30:00Z

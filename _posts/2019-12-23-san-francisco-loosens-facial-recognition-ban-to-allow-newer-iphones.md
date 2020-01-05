@@ -725,19 +725,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "How China Is Using Facial Recognition Technology"
-    excerpt: "Facial recognition technology became part of the fabric of life in China in 2019. Enabled by a vast network of cameras across the country, the government is using the technology for surveillance."
-    publishedDateTime: 2019-12-16T20:24:00Z
-    sourceUrl: https://www.npr.org/2019/12/16/788597818/how-china-is-using-facial-recognition-technology
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 39
-    images:
-      - url: https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400
-        width: 1400
-        height: 787
   - title: "Facial recognition for hotel guests may suffer customer backlash"
     excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
     publishedDateTime: 2019-12-18T02:53:00Z

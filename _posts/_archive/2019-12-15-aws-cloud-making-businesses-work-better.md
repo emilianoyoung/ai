@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AWS Cloud: Making businesses work better"
-excerpt: "AWS has significantly more services and more features than ... Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged services like Amazon SageMaker that enables ..."
+excerpt: "developers can quickly spin up apps that run at AWS scale, performance and security. Our customers have 2,500 integration apps at their disposal and we see about 200 million app invocations a month.” Last year, it added several features that are built on conversational and customer experience Artificial Intelligence (AI). “We have leveraged ..."
 publishedDateTime: 2019-12-15T23:00:00Z
 sourceUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/
 ampUrl: https://www.financialexpress.com/industry/technology/aws-cloud-making-businesses-work-better/1794616/lite/
@@ -25,6 +25,6 @@ images:
     height: 440
     title: "AWS Cloud: Making businesses work better"
 
-secured: "G1icuwPabO7m2ec0IGJU4GM4rkjkNBKV5o14ox1vf9JdAR3GQ+zr11niJFEjdce/XBbeoeXhzAaBa6a2fobbxaSZTeuMpAHLTUjX3L4rh3wcHhC0Lg6kZy2PEvzp/2F4j4wMlFpAhuUF7qp194mej6FyLIn6lbXvnv8ev/Kfpltrzl4rtbj0Wfax1Mmi3Ig3nuDVdgvxkxFqDRPOs5kxMNsbWxaqh6iEwFaa7g5EoiwxsgAFO2QhtITHDxdlowdxy7vvvCsxsOZt1qBQkfKSNg==;a1roCo1Z21X433KS0PbwXQ=="
+secured: "K71VFoQlcHladfP72zEs0WM8N5xGyEqtT8JiaOaWkoauo0CuwARXRGuAXDDuFx0uZGF1lng9jqMmVh9wChLwrpPQyERuI3pJPFpqfmdSf5AHDANhhRrcCfA078UuO+R5pZQT6WZZdet3eohy+wNWKoVKHpn1EyN9H5qu5pB3v7GcnVJcTi8WkJK+koGgc69Oo9bgEJi82aV8OC6yhvTk+oSdIq4xUA+XFT8Z8OBgBbgnlAITYTWf94iQ7DBAQOVsQsbhShcn7UMTJa3DWO3zPA==;byi4L5HOaNVjHiodx4HDXg=="
 ---
 

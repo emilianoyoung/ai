@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
         width: 700
         height: 447
-  - title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
-    excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
-    publishedDateTime: 2019-12-16T20:51:00Z
-    sourceUrl: https://www.reuters.com/article/us-habana-labs-m-a-intel-idUSKBN1YK1BU
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
-        width: 700
-        height: 466
   - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
     excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
     publishedDateTime: 2019-12-17T20:44:00Z

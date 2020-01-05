@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artifi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
 type: article
 quality: 104
-heat: 354
+heat: 344
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
         width: 700
         height: 447
-  - title: "Intel buys Israeli AI startup Habana Labs for $2 billion"
-    excerpt: "Intel Corp has bought Israel-based artificial intelligence (AI) firm Habana Labs for about $2 billion, the chipmaker said on Monday, seeking to expand its AI portfolio to bolster its data-center business."
-    publishedDateTime: 2019-12-16T20:51:00Z
-    sourceUrl: https://www.reuters.com/article/us-habana-labs-m-a-intel-idUSKBN1YK1BU
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YK1BU
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
-        width: 700
-        height: 466
   - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
     excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
     publishedDateTime: 2019-12-17T00:32:00Z

@@ -36,19 +36,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA014F7F1C28D9A6D7D50C5BDFB821A8
         width: 210
         height: 297
-  - title: "UCSF’s 11 Most Popular Health and Science Stories of 2019"
-    excerpt: "Artificial Intelligence Can Detect Alzheimer’s Disease in Brain Scans Six Years Before ... cancer gene panel test – that helped to reveal an unusual genetic alteration in his cancer and identified a long-shot therapy. Multiple sclerosis (MS) is an autoimmune disease caused by immune cells that attack the protective coating around nerve ..."
-    publishedDateTime: 2019-12-16T20:47:00Z
-    sourceUrl: https://www.ucsf.edu/news/2019/12/416096/top-11-science-and-health-stories-2019
-    type: article
-    provider:
-      name: UC San Francisco
-      domain: ucsf.edu
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.87CE588AA266CD8272F2E278F5ED7F59
-        width: 700
-        height: 466
 
 secured: "hhtcUlherukjMHh07S4qPI5JsZxqn1DgAgfr6VVqEw6v4dqhxTljgO7oQB1RoR/FG5FRGKob1D1Qcbjw0QXopGow2IW286d/lkdeR4xkOhZcIOMUEEi4Iqe2A5GQXO2NRai1oY3K2GSukTOClrkXVwd3n+ojhJYcNYmOsUlTOjnSXyPvfyDyyyLjaCH78ICP5dIdLjDqInwznkcgNKhALMNm2y4Xk6+QvoJJdb/frXSmV9xxzp/GJqchfBxue1QvAEpLA2UgILEi+YfJne4x3w==;TTWWesDTHGe7d6uFFWz4Qw=="
 ---

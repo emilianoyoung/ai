@@ -23,21 +23,6 @@ images:
     height: 1365
     title: "AWS adds ontology linking to its Comprehend Medical natural language processing service"
 
-related:
-  - title: "New – Amazon Comprehend Medical Adds Ontology Linking"
-    excerpt: "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights in unstructured text. It is very easy to use, with no machine learning experience required. You can customize Comprehend for your specific use case, for example creating custom document classifiers to organize your documents into your ..."
-    publishedDateTime: 2019-12-16T20:36:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/new-amazon-comprehend-medical-adds-ontology-linking/208117
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 24
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-
 secured: "AKojII/Ej4IqI3VuhJtlW1eRRYJMfKlV4BrxrCJKFn7MnTFSnb+mBWVWZVu+GNgEgNYpSNXA2cJXG29yKa0bBKoouIlqT60Jd6KhhXSgZjmP8UBOtnoSFz3U508EEOVGWDtkY+dGPiqxAwKm9Hn2MxyFStAS5mYaF4+FmC5Z3z0nZkeJfwDNqWZOUk8F5N1n6IfflppoN6mD9DCgvuN2SDuKpEVpDfULrEapkihp2ni3Q1CF0RL512iTxCXoZZSsokCYMaCtRPG6A9hqvXeLrQ==;Ryq89dSdbKjKFc+rV+iwNg=="
 ---
 

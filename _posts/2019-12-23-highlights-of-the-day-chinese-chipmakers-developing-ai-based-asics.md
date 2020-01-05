@@ -18,19 +18,21 @@ topics:
   - AI Hardware
 
 related:
-  - title: "China keen on developing AI-based ASICs"
-    excerpt: "Chinese chipmakers are revving up development of HPC (high performance computing) chips for AI and deep learning applications, which are expected to become available for volume production in 2021, and they are already asking backend firms from Taiwan..."
-    publishedDateTime: 2019-12-23T05:58:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191223PD200.html
+  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
+    excerpt: "WSU Professor Diane Cook is one of the university’s researchers working to create a test for measuring AI as part of a project funded by DARPA. (WSU Photo) Researchers at Washington State University in Pullman are developing an IQ test to challenge AI systems to see what they really know. “We have AI systems out there that are getting ..."
+    publishedDateTime: 2019-12-18T07:21:00Z
+    sourceUrl: https://www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/
+    ampUrl: https://www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/amp/
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: GeekWire
+      domain: geekwire.com
+    quality: 75
     images:
-      - url: https://www.bing.com/th?id=ON.565E4AF76E0714B36BB44E00D41472E7
-        width: 336
-        height: 224
+      - url: https://www.bing.com/th?id=ON.0B40AA1612759347DBB8D6FD48699D5B
+        width: 700
+        height: 465
 
 secured: "pT0kZXUrD4RUhn1ZbXjT20DGQrOPi2oxT7AqbrQ37nQ2gxcBKlUJIMRk7AZkq6HZwarRfF5Tk4IpXeAtITAS05mlTa6Ys+s/vc9CrcwtGWm34X5RyX/VY/6C96/1jbnzXzQM1qD91FM0eDpnfUJu5Cw0EH+lvZS3SLKbJBSdcByZ2Frv+XfbDi7RRNqCFAkiqJCBn8xSJPIF66gqrXv8YBHVLnm7VjuVRSG3NamwLqfxL3a4A6idbU21SBUu8Mww7gUAMn4BWUwuNLZ6B31PRw==;WUbPsw6HKq6LtaRfGmtuwg=="
 ---
