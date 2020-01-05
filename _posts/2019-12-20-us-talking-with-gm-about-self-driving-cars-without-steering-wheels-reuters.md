@@ -181,21 +181,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
         width: 540
         height: 405
-  - title: "Walmart to offer self-driving delivery service"
-    excerpt: "HOUSTON, Texas (KTRK) -- Walmart plans to partner with the technology company Nuro to offer a pilot program that delivers groceries with self-driving vehicles. The program will use Nuro's R2 vehicle that allows customers to access their deliveries with a code on their phone. The retail chain said the pilot program will begin with a small group ..."
-    publishedDateTime: 2019-12-16T03:08:00Z
-    sourceUrl: https://abc13.com/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    ampUrl: https://abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    cdnAmpUrl: https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/technology/walmart-to-offer-self-driving-delivery-service/5758120/
-    type: article
-    provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.A8C7669B034E27302C3BFB76975ED252
-        width: 700
-        height: 393
   - title: "US Agency, GM Discuss Deployment of Self-Driving Cars"
     excerpt: "WASHINGTON - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co. on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said Friday. Acting NHTSA Administrator James Owens said ..."
     publishedDateTime: 2019-12-21T01:44:00Z

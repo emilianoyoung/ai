@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate 3, with deep learning neural networks leading many achievements. IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -82,6 +84,6 @@ related:
         width: 615
         height: 384
 
-secured: "Pr0iP977XPNVSGINEQc4LhzRI17M1Eu/ZH17q8DTQR3DFQJOv/3JV6KihhPu6wIb+whXIl4Y9IYjeFtHMpNGPmDTxKZoTn9U7X6XxTfxCFYEasy2lqxGL0e7TWrolH6P4FyyIKLpXxszptLLgtX6NF1A+d0/bqUBNo5MBX8CF2DO1gs1IpG77TSo+oXGLSS6NsleSOwQ8kivmW9F3BA+aYbB+S1UAsdj9c21hcpyxs1xa1DO1eyNXxlyKQiVVCKsC/MVIo7tbYqsDCbTbvgWhw==;KbgdIvbx+5qCHR3PbMh8/g=="
+secured: "Nlw+udXLN3KiXAeoPMb2yxrx6ODvdqO/9zKzyCV1dYaaAw7qJbOZgsJCbeszw5Nf9T03XgWyC8Mhu7L8FnW2Z6VdPV3HV2EP3gkt3C7L/KQV7NJ0u3lDdlTkSW94epIxg94gKcq6dDJotMNCCG6MK4OHMqNNqqZdqjBxoBXGWp2rNz9Xy0L/X/9WCUQySzxXe0Wd9bfIi3eoAOHKkNlCMZnSWJKJtj13t/FtuKteVhYUTiAyw8Wp3ld69ipSoA0UoP/jVdB8cNlyPMcITKbksQ==;XZeGw7w6nrlUC42eyLmYcA=="
 ---
 

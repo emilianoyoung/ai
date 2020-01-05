@@ -1,9 +1,9 @@
 ---
 category: news
 title: "US limits AI exports over fears it will fall into Chinese hands"
-excerpt: "The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery software to other countries besides Canada."
+excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
 publishedDateTime: 2020-01-04T20:40:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYCoos
+sourceUrl: https://www.msn.com/en-gb/news/world/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYClUE
 type: article
 quality: 37
 heat: -1
@@ -17,7 +17,7 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5FBEBC3EE19E29AB717EE2EC12596E92
+  - url: https://www.bing.com/th?id=ON.94C4B7CA941113295B99CABB7F1DA5E3
     width: 700
     height: 367
     title: "US limits AI exports over fears it will fall into Chinese hands"
@@ -108,6 +108,6 @@ related:
         width: 700
         height: 367
 
-secured: "gtAbh4aPrEDBBu5RtMeKHhxao3cm0wadUnS1GyPJ6lqgJeRBBNfTlXjp+eY123+D7oHwCqhbY+DdVZ39e1kkDqaQp33OVhghisYASxayKM07a4cnw3F6Gkf6D+/I/0II4in95+H41aCqC0P3rOEANImSW25BhRMOigWwCL3EqESDjd8fIFR/6aLpKmdLUaj7nDUjsA24UHOvQHNFtQ9cLTP2F6J+gVu/efZo9ZGSROJc7mbZ9ByU3yteaSiVofwJFzcwAtbvlfiPNpQyDEA+NQ==;ayZakGdYS6V7rJf8As6k6Q=="
+secured: "hjg8whkPBrkBYoB9Th3DbzBIPK81qkM+KSVB9bx3hOcjSpWvv3G/5ivt9JSX/lgwnZlvXR3QB8wR1XneCxMWNy0rHlyrU3WN0rfxQvuMS7sU1p4j+T/LOzy5kA4EvQJWU48uN5ireSrOHQEGoSeuTDU/9IjrMkIPEn77TGE+wfU749ETRb5NoWiAg47M+evBctnJdAQa4v+8DYFq8nq+U0U18mRhl9azwtEhAa7SZ54KPNdrog53wjT4Tt0tOvzj+FyiroIDsHvmf1hPkq/emw==;/vteEMRqKIjseHR+CuUfZw=="
 ---
 
