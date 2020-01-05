@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
-    excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
-    publishedDateTime: 2019-12-16T12:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
-        width: 700
-        height: 365
 
 secured: "OndvV58nEjIgNPgFha99bc/MP3Svc7GvTJRhpYubUa9Ts1lwj6nhkh6ZeUDsHXSuSKTk3u+Vtcq/C1B4wgpiSPhHuwK3kPMFbtvUJGG7JIC1zQRcg3FuoZu6iFj1g51j831GzbIKhAxQ49UOXz4gxefKp6QXDApjq8/MHlgtSFO5PnJZzQ2rZjQmPXxugo9RdsZgFIDrP3iOnMMrWAMv1xA1377LbPNWoJTvhqpmiP6G1Ifac1yuWSfmDK6qMlzDmfM+SdyG/u8uU9WTJSN6DA==;xXJslq20he9YQbtHwY76vw=="
 ---

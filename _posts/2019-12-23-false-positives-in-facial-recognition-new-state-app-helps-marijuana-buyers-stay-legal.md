@@ -701,19 +701,6 @@ related:
       - url: https://www.bing.com/th?id=ON.057205BCC25C38951B173C05345712ED
         width: 200
         height: 200
-  - title: "Researchers bypass airport and payment facial recognition systems using masks"
-    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
-    publishedDateTime: 2019-12-16T11:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
-        width: 700
-        height: 367
   - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. It comes as lawmakers and privacy ..."
     publishedDateTime: 2019-12-19T19:57:00Z

@@ -105,19 +105,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Size, Growth Forecast Poised to Touch USD 54 billion by 2026"
-    excerpt: "The high implementation of artificial intelligence in several end-user verticals including, retail, automotive and healthcare is projected to boost the growth of the market over the forecast period. Several companies are making considerable investments to integrate artificial intelligence competences into their portfolio of products."
-    publishedDateTime: 2019-12-16T12:01:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-forecast-poised-to-touch-usd-54-billion-by-2026-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
     excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
     publishedDateTime: 2019-12-24T12:05:00Z
@@ -203,19 +190,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Service Market Expect Massive Growth (2020-2029) | International Business Machines and SAP"
-    excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- Market.us Prominent Research Firm has added the latest report on “Artificial Intelligence Service Market Scope and Opportunities Analysis 2020 to 2029” to its Massive Report Online Store. The purpose of artificial intelligence service research document is to depict the exact information to the user ..."
-    publishedDateTime: 2019-12-16T11:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-service-market-expect-massive-growth-2020-2029-international-business-machines-and-sap-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

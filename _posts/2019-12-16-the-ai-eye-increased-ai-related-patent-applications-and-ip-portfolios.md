@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T13:21:00Z
 sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-increased-ai-related-patent-applications-and-ip-portfolios-2019-12-16
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     title: "The AI Eye: Increased AI-Related Patent Applications and IP Portfolios"
 
 related:
-  - title: "The Significant Expansion of AI-Related Patent Applications and IP Portfolios"
-    excerpt: "The GRT (Gopher Radio Token) is an IoT/Mobile exchange/security application that is formed by the radio transmissions of a GopherInSight™ platform device, such as a chip, an IoT appliance or a wireless mesh network node. With AI technology becoming more pervasive and more visible, one can expect tech firm IP portfolios and attendant patent ..."
-    publishedDateTime: 2019-12-16T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-significant-expansion-of-ai-related-patent-applications-and-ip-portfolios-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Semiconductor tech to be more important in future 5G and AI applications"
     excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
     publishedDateTime: 2019-12-20T02:14:00Z

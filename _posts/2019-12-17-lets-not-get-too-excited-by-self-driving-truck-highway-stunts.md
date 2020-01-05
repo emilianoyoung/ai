@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-th
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
         height: 392
-  - title: "What WON’T Happen in 2020: 5G Wearables, Quantum Computing, and Self-Driving Trucks to Name a Few"
-    excerpt: "However, there are several anticipated advancements, including 5G wearables, quantum computing, and self-driving trucks, that will NOT happen in the first year of the new decade, states global tech market advisory firm, ABI Research. In its new whitepaper, 54 Technology Trends to Watch in 2020, ABI Research’s analysts have identified 35 ..."
-    publishedDateTime: 2019-12-16T12:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005038/en/WON’T-Happen-2020-5G-Wearables-Quantum-Computing
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.80CB2605DE5CE780152AE8EFDEC4A8B7
-        width: 700
-        height: 365
 
 secured: "vImTNJ9XsYYd4xuw4ckh7jYWxiTKDstNPhu02Vb0RzZ/hCrmXdRhWhEHzom40TajsLkFAdLbvEJHSf6m04CVUdQ4lXXL2MBhT+wsr6bVN4CO5+Sn8s4oKtyUE0v11+L9KvOmPIKDzIVPyvOsqMCMGOrweU3wZ7UaZrhhV6GTRVqN9AqudsIcLT1GCB+AafE4IDBcrgA3YQjKEGY8BnFsAG9M4y8C8ZJX9xACdYnzoaD4DHfRyAua+nia7mPauBlNj2vtoUesI5hoXGLRQLsjTA==;kw4rPSJnjiMVLlc7byl0Dg=="
 ---

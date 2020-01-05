@@ -686,19 +686,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5727B12614FDFAC2E7FBE963E7045D39
         width: 700
         height: 393
-  - title: "Researchers bypass airport and payment facial recognition systems using masks"
-    excerpt: "They were able to make payments via AliPay and WeChat. Facial recognition technology is increasingly used for everything from government surveillance to convenient online logins, especially in China. A new test reported by Fortune casts doubt on the accuracy of some such systems, however, by showing that they can be fooled by users wearing masks."
-    publishedDateTime: 2019-12-16T11:35:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/researchers-bypass-airport-and-payment-facial-recognition-systems-using-masks/ar-BBY2SlE
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.EA9F202119F49FA5F58EAE52C73C3ABE
-        width: 700
-        height: 367
   - title: "False positives in facial recognition + New state app helps marijuana buyers stay legal"
     excerpt: "Thanks for starting your day with the Capitol Alert. Andrew Sheeler here, filling in for Hannah Wiley. California law enforcement won’t be allowed to use facial recognition technology in their body cameras beginning Jan. 1. That’s because a new law, sponsored by Assemblyman Phil Ting, D-San Francisco, places a three-year moratorium on that ..."
     publishedDateTime: 2019-12-23T11:55:00Z

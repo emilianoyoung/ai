@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/frederickdaso/2019/12/16/firefliesai-an-mit
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2019/12/16/firefliesai-an-mit-and-penn-voice-transcription-startup-raises-5m-from-canaan-partners-to-automatically-take-meeting-notes/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Forbes
@@ -27,21 +27,6 @@ images:
     width: 600
     height: 315
     title: "Fireflies.ai, An MIT And Penn Voice Transcription Startup, Raises $5M From Canaan Partners To Automatically Take Meeting Notes"
-
-related:
-  - title: "AI provider, automation company merge and move HQ to Atlanta"
-    excerpt: "Exponential Machines, a software company that specializes in AI, has merged with automation company PurpleLogic Inc. The combined entities rebranded under the name Exponential AI and will relocate its headquarters to Atlanta, according to company representatives. Prior to the merger, Exponential Machines was based in San Francisco and provided ..."
-    publishedDateTime: 2019-12-16T11:28:00Z
-    sourceUrl: https://www.bizjournals.com/atlanta/news/2019/12/16/ai-provider-automation-company-merge-and-move-hq.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.5AB0F6BF75938E1E7F7F483732CD834C
-        width: 700
-        height: 394
 
 secured: "5LPfXUKt2WgI0CpTnUCnNywmjnepmMf0XYqPETcCO82jQhzSxBVxUSpaKLNzIBIkAQHxe9GgkoixWNdMdhlkgYsUP5QwFtWN6hRRZkSH1UYyK79LafUmPOy4F9R9y1p7XU0slgn1iTWV/pC99auhFoHGEfclFIELc+kM+ay6ZDkM5Cd1SC04ISsPBn75AwR0L2ayqhgv8t8BLad9NcYVjXXh9kqB3Ktv5CdI/dH+x1g/JBXRlNd/810x/ln1UBpkjQAJuVbRuKiL92+bXjavqw==;rJ6bemETwc9UndoKL+ppkg=="
 ---

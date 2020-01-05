@@ -246,21 +246,6 @@ related:
       - url: https://www.barrons.com/asset/barrons/images/social_highres.jpg
         width: 1200
         height: 630
-  - title: "Intel scoops up Israeli artificial intelligence startup for $2B"
-    excerpt: "The company develops custom artificial intelligence processors used to train deep neural networks, helping developers get hardware with improved performance and reduced power consumption. Habana will remain independent and be led by its current management team, reporting to Intel’s data platforms group. Habana chairman Avigdor Willenz has ..."
-    publishedDateTime: 2019-12-16T12:04:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2019/12/16/intel-scoops-up-israeli-artificial-intelligence.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2019/12/16/intel-scoops-up-israeli-artificial-intelligence.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2019/12/16/intel-scoops-up-israeli-artificial-intelligence.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.F842CDAB45E1AA744A1F7AC85A3AD5E2
-        width: 700
-        height: 393
   - title: "Intel bolsters AI push with $2B acquisition"
     excerpt: "Navin Shenoy, Intel EVP and data platforms group general manager, told Reuters Intel’s AI chips will be used in self-driving cars as well as training machine-learning algorithms in data centres. Habana Labs will remain an independent company run by the same management team, reporting to Intel’s Data Platform Groups division. The newly ..."
     publishedDateTime: 2019-12-17T12:33:00Z
