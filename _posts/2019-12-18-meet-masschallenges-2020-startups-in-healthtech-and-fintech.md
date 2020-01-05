@@ -46,17 +46,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
         width: 457
         height: 261
-  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
-    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
-    publishedDateTime: 2019-12-19T06:39:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
     excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
     publishedDateTime: 2019-12-20T00:05:00Z

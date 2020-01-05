@@ -41,6 +41,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Semiconductor tech to be more important in future 5G and AI applications"
+    excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
+    publishedDateTime: 2019-12-20T02:14:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PD213.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 18
 
 secured: "/Q3+Kol1UZu5Sw1xvHss64Ub4BFkqSJxjm44h4SuUUzJJ35ecxl2p5AsrLfw2yL9E6ZMoVMj7JVASGcFGDPBzQc4xGnfNZ480VMTPCkDH5JjGES8cKNqyyp0XqmJDt0rtzA9O06dJLFtaMvvb3CZvzgg4sbc0NotS51GtQmlOWe1SSiO7BwQRTNRTmrEAUlXFpHh5RK+vDfXUivcprLtP/Z3GKNlakYWdHeFxFZxOfo83DzjSnePpWCC6hSSnXAM1bWfJDJZnb+aq5i0A8wdTw==;oCak7RyitbjV+tpNo4uV+A=="
 ---

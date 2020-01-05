@@ -24,90 +24,107 @@ images:
     title: "Finland is offering a free crash course in AI to everyone in the EU"
 
 related:
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-17T18:42:00Z
+    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
+    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
+    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 57
     images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "Winning Strategies for AI in Banking"
-    excerpt: "In the Winning Strategies for AI in Banking report, Business Insider Intelligence looks at several effective strategies used to capture AI's potential in banking, and details how financial institutions like Citi and US Bank have successfully implemented some of these strategies."
-    publishedDateTime: 2019-12-19T21:02:00Z
-    sourceUrl: https://www.businessinsider.com/intelligence/winning-strategies-for-ai-in-banking
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
-        width: 450
-        height: 700
-  - title: "NHS is leading the way in AI adoption"
-    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
-    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
-        width: 700
-        height: 466
-  - title: "Empire BlueCross CEO: AI, new office buildings in Latham, and growth in the Albany market for 2020"
-    excerpt: "For example, if you called our customer service line [in some instances] listening in on the call is that same artificial intelligence. It's trying to pick up cues, so if you, for example, said, \"I'm trying to understand my physical therapy benefits,\" it would immediately bring up in front of the customer service agent the benefits, the claims ..."
-    publishedDateTime: 2019-12-16T12:20:00Z
-    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.html
-    ampUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.7BAE9FD93C36727361B570B9E28FEADC
+      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
         width: 700
         height: 393
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+  - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
+    excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
+    publishedDateTime: 2019-12-18T02:13:00Z
+    sourceUrl: https://www.aljazeera.com/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    ampUrl: https://www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
+    cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/finland-offers-artificial-intelligence-christmas-gift-191217210740672.html
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 43
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
+      - url: https://www.bing.com/th?id=ON.D10982FB444A4240B926B1B432071C01
         width: 700
-        height: 367
-  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
-    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
-    publishedDateTime: 2019-12-18T18:52:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+        height: 393
+  - title: "Finland offers crash course in artificial intelligence to EU"
+    excerpt: "HELSINKI (AP) — Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the ..."
+    publishedDateTime: 2019-12-18T03:42:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/Finland-offers-crash-course-in-artificial-14912225.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/Finland-offers-crash-course-in-artificial-14912225.php
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: SFGate
+      domain: sfgate.com
+    quality: 57
     images:
-      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
-        width: 1024
-        height: 768
+      - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
+        width: 700
+        height: 466
+  - title: "Finland offers crash course in artificial intelligence to European Union"
+    excerpt: "HELSINKI — Finland is offering a techy Christmas gift to European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the ..."
+    publishedDateTime: 2019-12-22T19:03:00Z
+    sourceUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/
+    ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
+        width: 700
+        height: 465
+  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
+    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
+    publishedDateTime: 2019-12-17T17:52:00Z
+    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
+    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
+        width: 1200
+        height: 674
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
+    type: article
+    provider:
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
+    images:
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
+  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
+    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
+    publishedDateTime: 2019-12-17T21:59:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 20
+    images:
+      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
+        width: 620
+        height: 413
 
 secured: "75w03fA6iu8UWChw8oELJ3wWVBdtc5x6Pe8iUOWuWf8AYPvBmaVcp7bGcaa20jfkEXjjLYwlSdQhQLfKClH1KdXHXl5tBzuckHU88FNZ5hfBUmXLvzM+3oGR+dmnx1OCf9c6M40XUFMomkDafk70tPD6WpXnLaOWP3cXc1jSHMKeAP+24qOKrZEcF/KH1goFX7xthnNuI6vdbgNRuvKmCzfeLLcHu0T31NT4uF3c6ltNrnIsEpmMs1uS4275CPXkVb3VdWlXucOXGKAn2/erUA==;13uk+jFJAA6wMQzzdbmlqg=="
 ---

@@ -26,88 +26,77 @@ images:
     title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
 
 related:
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
+  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
+    excerpt: "who identifies himself as a doctoral student of machine learning at the University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app would draw associations between the flag ..."
+    publishedDateTime: 2019-12-17T07:55:00Z
+    sourceUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/
+    ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: Quartz
+      domain: qz.com
+    quality: 68
     images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
-  - title: "Winning Strategies for AI in Banking"
-    excerpt: "In the Winning Strategies for AI in Banking report, Business Insider Intelligence looks at several effective strategies used to capture AI's potential in banking, and details how financial institutions like Citi and US Bank have successfully implemented some of these strategies."
-    publishedDateTime: 2019-12-19T21:02:00Z
-    sourceUrl: https://www.businessinsider.com/intelligence/winning-strategies-for-ai-in-banking
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
-        width: 450
-        height: 700
-  - title: "NHS is leading the way in AI adoption"
-    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
-    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+      - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
         width: 700
-        height: 466
-  - title: "Empire BlueCross CEO: AI, new office buildings in Latham, and growth in the Albany market for 2020"
-    excerpt: "For example, if you called our customer service line [in some instances] listening in on the call is that same artificial intelligence. It's trying to pick up cues, so if you, for example, said, \"I'm trying to understand my physical therapy benefits,\" it would immediately bring up in front of the customer service agent the benefits, the claims ..."
-    publishedDateTime: 2019-12-16T12:20:00Z
-    sourceUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.html
-    ampUrl: https://www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/albany/news/2019/12/16/empire-bluecross-ceo-ai-albany-health-insurance.amp.html
+        height: 395
+  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
+    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
+    publishedDateTime: 2019-12-14T18:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
+    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 45
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.7BAE9FD93C36727361B570B9E28FEADC
+      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
         width: 700
-        height: 393
-  - title: "Finland is offering a free crash course in AI to everyone in the EU"
-    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
-    publishedDateTime: 2019-12-18T11:38:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
+        height: 350
+  - title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
+    excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
+    publishedDateTime: 2019-12-18T18:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/wechat-had-translation-glitch-canadian-075537126.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/wechat-had-translation-glitch-canadian-075537126.html
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
-        width: 207
-        height: 155
-  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
-    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
-    publishedDateTime: 2019-12-18T18:52:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+      - url: https://www.bing.com/th?id=ON.878D20A9A5C4496D638CDAFDC97237A3
+        width: 620
+        height: 350
+  - title: "University of Tartu developing translation programme with Mozilla Firefox"
+    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
+    publishedDateTime: 2019-12-19T08:45:00Z
+    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: ERR News
+      domain: news.err.ee
+    quality: 23
     images:
-      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
-        width: 1024
-        height: 768
+      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
+        width: 672
+        height: 475
+  - title: "University of Tartu researchers are developing translation programme with Mozilla Firefox"
+    excerpt: "Reading about the project from English media, you will learn that it involves a machine translation programme (The Bergamot Project; see browser.mt) for open-source web browsers, such as Mozilla Firefox, the largest difference with, e.g., Google Translation being its privacy. When most similar machine translation programmes are cloud-based ..."
+    publishedDateTime: 2019-12-16T14:56:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/erc-uot121619.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
+        width: 700
+        height: 493
 
 secured: "+uOHA3KDfYsalwaoS+wqVR+v9VkgXDZRh+67vKQqWj1Sp07srwvTxUiiaC+wHeiSPMNUJTdhlOzC1WXeLgbyejdKkgS1lbh61dk+ZMRj8lbzX+kF10CZpEUST853zO7dC0+/yTXtYW2++spCTht7MLw4f9qIwxz0MPPkfPVB1jiRiWS0IsDa2FY7amFprfk2KeeYxJ647Yfk2RLUTH2U8jmMbuHkVYVQdOHtxBV7sOtIDCQXJvGUGPEkGg7lgRjZsaiX4JTTUqeaP0iPci57tg==;xIZGLfRB/YOMlA7dJADvWA=="
 ---

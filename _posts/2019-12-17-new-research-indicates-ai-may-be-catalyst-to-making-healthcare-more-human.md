@@ -48,19 +48,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "NAM: Healthcare must proceed with caution in adopting AI"
-    excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
-    publishedDateTime: 2019-12-19T05:40:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/nam-healthcare-must-proceed-with-caution-in-adopting-ai
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 54
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/a3cf187/2147483647/strip/true/crop/800x420+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F7e%2F22%2Fd9f681e54ee3ab9f3b04613abee3%2Fthe-keck-center-of-the-national-academies-crop.jpg
-        width: 1200
-        height: 630
   - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
     excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
     publishedDateTime: 2019-12-16T09:09:00Z

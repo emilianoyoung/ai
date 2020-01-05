@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artif
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
+  - title: "How to Cash in on Conversational AI"
+    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
+    publishedDateTime: 2019-12-24T16:19:00Z
+    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
+        width: 700
+        height: 259
   - title: "Artificial Neural Network Model (image)"
     excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
     publishedDateTime: 2019-12-26T14:59:00Z

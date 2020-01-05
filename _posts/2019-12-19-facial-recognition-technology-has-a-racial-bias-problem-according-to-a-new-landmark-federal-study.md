@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T22:21:00Z
 sourceUrl: https://www.businessinsider.com/facial-recognition-racial-bias-federal-study-2019-12
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,38 +26,6 @@ images:
     width: 700
     height: 350
     title: "Facial-recognition technology has a racial-bias problem, according to a new landmark federal study"
-
-related:
-  - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. It comes as lawmakers and privacy ..."
-    publishedDateTime: 2019-12-19T19:57:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/
-    ampUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
-        width: 700
-        height: 393
-  - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "WASHINGTON (AP) — A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law ..."
-    publishedDateTime: 2019-12-19T21:37:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/Federal-study-finds-race-gender-affect-14919032.php
-    ampUrl: https://www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Federal-study-finds-race-gender-affect-14919032.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.51561CA9294C328D0D4C767F742813E5
-        width: 700
-        height: 466
 
 secured: "S/XDul0xQgfajGYsdsj9sI12Ch6q3gaXEz6DhngAa6jsVixRCEU+wtT+xaySMuGRS/q+SYolP0O+DzeU4PzNI4v/L27xVLxuhREbPRBmBfruoVmo1JUGlWwdDl2MvLsjCbLf+umvYEq1+4n3AXWy7PGmg0fIf1Qnn3EDt6aOfzXAx4YuWqqvgSCa0uiqqhAt3fFk5KPwgZrOQblwmxMEMkNMubF9Fuj0ljKgMcqoUClUz+z+u7KHtdtVEcAbCG4uKf/tiy5/CerQKz3qZfXDbg==;gCoM1M0SPtq9c9f+boKSuA=="
 ---

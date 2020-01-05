@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 600
     title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
 
-related:
-  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
-    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
-    publishedDateTime: 2019-12-12T11:12:00Z
-    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
-    type: article
-    provider:
-      name: Medium
-      domain: medium.com
-    quality: 67
-    images:
-      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
-        width: 568
-        height: 567
-
-secured: "NsAbtOHVIN35cbYaryH2Jc/nAlwSLrgaQCkCVe6I2hv3ADs/2x62Mwp6EpjaUz8Z/T2UIyV4aHnL53Ez9J0S2vAF7lCUFqmeW42OSF1Y1GqIwaVQIkLod88TQO2Mg4goyLxIQoQ51Emp4RQ6MA2WnjG7AffQ+Ss+C2re8/Fh5YZTohUbmP6PwqSj6z4rgsaGKJB6OCTatcblUs4YB0LKeX7TXNd06LKzFVvjO4qnbXYQhehg6Hwg4Y6HXz0YEwA63HU7Bm2bh04BXufpozg/rA==;PQiQFc+yOIr7KCiYrU8iqA=="
+secured: "r+xMvKnDIkxVASlR/XtenqmF3eCD7hH7KqpQt/NsgeIk+l6Dp4u1kB2KQ9iELIFGBZ07GVISjV3XeE5xONkIJ1rfGwPXNOLFA0jkQj12IF9mbNrheKr8uYa3E1/9WmDu7qrBwXYPhiX6XPx/zSNEvTjk2KxLosa61ORW0Ole3Ta43lFYNHqZanzWJb9YkeD00Jtrvw0RQPpkty+0MEQYPib+gSKD4aH9mDXSkKqdV4fQfpwFsJ8KB6TQz6hCOJn5+jQxcXwqfRoOvUVtcoe0cw==;gQBqKGnnwJ+hIp+aHWshjw=="
 ---
 

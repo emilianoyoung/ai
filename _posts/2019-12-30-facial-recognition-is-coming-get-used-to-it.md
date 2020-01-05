@@ -99,21 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.20DF6FECEB2272EB3F1189F933313BF2
         width: 700
         height: 490
-  - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
-    excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
-    publishedDateTime: 2019-12-26T11:34:00Z
-    sourceUrl: https://www.mid-day.com/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    ampUrl: https://m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    cdnAmpUrl: https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-ola-takes-up-ai-enabled-safety-facial-recognition-for-driver/22330175
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.F263F522E04D818D0AA49846C1C593D3
-        width: 670
-        height: 440
   - title: "Fight against facial recognition hits wall across the West"
     excerpt: "Story Continued Below The result is an impasse that has left tech companies largely in control of where and how to deploy facial recognition, which they have sold to police agencies and embedded in consumers’ apps and smartphones. The stalemate has persisted even in Europe’s most privacy-minded countries, such as Germany, and despite a ..."
     publishedDateTime: 2019-12-30T10:09:00Z
@@ -213,36 +198,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1AD662FF72BE7C2C6B538A86E90BDB26
         width: 700
         height: 367
-  - title: "Chinese art exhibition on pervasive facial recognition"
-    excerpt: "The exhibition features a facial recognition system that visitors can opt out of, to draw attention to the inability to opt out in public"
-    publishedDateTime: 2019-12-24T05:30:00Z
-    sourceUrl: https://www.deccanherald.com/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    ampUrl: https://www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    cdnAmpUrl: https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/world-news-politics/chinese-art-exhibition-on-pervasive-facial-recognition-788271.html
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.1341BC3345DE02EC555F0CADE9141EFE
-        width: 700
-        height: 466
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-26T07:45:00Z
-    sourceUrl: https://www.zawya.com/mena/en/legal/story/Facial_recognition_is_the_future_privacy_is_a_concern-SNG_163119875/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163119875/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163119875/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
-        width: 700
-        height: 466
   - title: "Facial recognition technology needs proper regulation"
     excerpt: "But there are also disadvantages and risks and authorities need to ensure rules to ensure protection of information and privacy. No country has as many facial recognition cameras as China, a point that Western governments and human rights groups contend leads to abuse of liberties. But the politics, values and culture of one country should ..."
     publishedDateTime: 2019-12-28T15:15:00Z
@@ -348,19 +303,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6CA2457D4897111EC3EA4920BC840C2B
         width: 650
         height: 370
-  - title: "New face recognition feature at airport"
-    excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
-    publishedDateTime: 2019-12-23T23:56:00Z
-    sourceUrl: https://www.thestar.com.my/metro/metro-news/2019/12/24/new-face-recognition-feature-at-airport
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
-        width: 700
-        height: 466
   - title: "Ruti Overcomes In-Store Personalization Challenge With Opt-In Facial Recognition"
     excerpt: "The retailer is taking steps to accomplish this goal by personalizing the in-store shopping experience with a proprietary AI-powered platform that leverages an internally built CRM solution and opt-in-only facial recognition. With this technology deployed across nine boutiques (and a 10 th soon to open in Dallas), Ruti can offer personalized ..."
     publishedDateTime: 2020-01-03T11:00:00Z
@@ -488,60 +430,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 45
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-26T08:35:00Z
-    sourceUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.609F48C5B2B4CF46E1AB4A33371D98B6
-        width: 700
-        height: 649
-  - title: "Many facial-recognition systems are biased, says U.S. study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
-    publishedDateTime: 2019-12-27T00:10:00Z
-    sourceUrl: https://www.orlandosentinel.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html
-    ampUrl: https://www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    cdnAmpUrl: https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-facial-recognition-bias-20191226-cldfnnmqbzf6lp5w622jnw7oga-story.html?outputType=amp
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.2A327A7CD94E84CAAE98946A889EE373
-        width: 700
-        height: 649
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates for Asian and ..."
-    publishedDateTime: 2019-12-23T20:15:00Z
-    sourceUrl: https://dailytimes.com.pk/525889/massive-errors-found-in-facial-recognition-tech-us-study/
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.B176809E45DE873142AE3859AFCCFC46
-        width: 700
-        height: 464
-  - title: "Third Massachusetts Community Bans Facial Recognition Tech"
-    excerpt: "(TNS) — The Northampton, Mass., City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology ..."
-    publishedDateTime: 2019-12-23T16:21:00Z
-    sourceUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html
-    ampUrl: https://www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Third-Massachusetts-Community-Bans-Facial-Recognition-Tech.html?AMP
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
   - title: "Researchers: Printed masks can fool facial recognition systems"
     excerpt: "Researchers at Kneron, an artificial-intelligence provider, said they fooled facial recognition systems using a printed mask showing a different person's face, according to a Business Insider report. They said a person who prints a lifelike mask resembling another person could bypass security checkpoints. The researchers tested systems across ..."
     publishedDateTime: 2019-12-24T10:00:00Z
@@ -553,56 +441,6 @@ related:
     quality: 39
     images:
       - url: https://www.bing.com/th?id=ON.DBBBAA0F8E4082570A80EF8BD7159911
-        width: 300
-        height: 170
-  - title: "Facial recognition is the future, privacy is a concern"
-    excerpt: "Chances are, a camera is pointing at your face as you are reading these words. Facial recognition technology is becoming ubiquitous - you are being watched relentlessly the moment you leave the safety of your home. Should we hit the pause button and ban its use like US cities including San Francisco and Oakland, CA, and Somerville, MA ..."
-    publishedDateTime: 2019-12-25T18:52:00Z
-    sourceUrl: https://www.khaleejtimes.com/editorials-columns/facial-recognition-is-the-future-privacy-is-a-concern
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 39
-    images:
-      - url: https://www.khaleejtimes.com/assets/jpg/KT1585678.JPG
-        width: 725
-        height: 725
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-25T08:47:00Z
-    sourceUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.html
-    ampUrl: https://www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/why-some-cities-and-states-balk-at-face-recognition-tech/article_b66c5438-a5e6-52d6-b66c-2ad39f67128c.amp.html
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 39
-  - title: "How NIST Tested Facial Recognition Algorithms for Racial Bias"
-    excerpt: "Facial-recognition technology is already being used for applications ranging from unlocking phones to identifying potential criminals. Despite advances, it has still come under fire for racial bias: many algorithms that successfully identify white faces still fail to properly do so for people of color. Last week the National Institute of ..."
-    publishedDateTime: 2019-12-27T12:14:00Z
-    sourceUrl: https://www.scientificamerican.com/article/how-nist-tested-facial-recognition-algorithms-for-racial-bias/
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.EED55EE013B46088D74063F3494C019F
-        width: 700
-        height: 439
-  - title: "Improved technology will drive facial recognition adoption"
-    excerpt: "Jessica Medeiros Garrison, Nasr Satta and David Logue discuss facial recognition at the Global Gaming Expo. Photo by Networld Media Group. The adoption of facial recognition software to identify customers will increase in the next few years, thanks to improvements in the technology though it has also been somewhat controversial, according to a ..."
-    publishedDateTime: 2019-12-27T10:00:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/articles/improved-technology-will-drive-facial-recognition-adoption/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
   - title: "Use of facial recognition in rally sparks privacy fears"
@@ -852,45 +690,6 @@ related:
       - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
         width: 700
         height: 411
-  - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
-    excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
-    publishedDateTime: 2019-12-23T16:32:00Z
-    sourceUrl: https://www.nextgov.com/emerging-tech/2019/12/lawmaker-asks-dhs-secretary-reassess-facial-recognition-programs-after-nist-report/162092/
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.D6AD3EEE9AAA51A2D78CADCA1DFECDF0
-        width: 400
-        height: 400
-  - title: "Art exhibition in China offers rare reflection on facial recognition and surveillance"
-    excerpt: "Eyes of the City is jointly hosted by Shenzhen and neighboring Hong Kong, a city rocked by recent protests against China's influence An art exhibition exploring the impact of facial recognition technology has opened in China,"
-    publishedDateTime: 2019-12-24T15:12:31Z
-    sourceUrl: https://www.msn.com/en-sg/news/other/art-exhibition-in-china-offers-rare-reflection-on-facial-recognition-and-surveillance/ar-BBYj7hN
-    type: article
-    provider:
-      name: Abacus on MSN.com
-      domain: msn.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.F6264CB93784DA72FD99047738D9F53D
-        width: 600
-        height: 315
-  - title: "TAB is betting on facial recognition technology to kick underage gamblers to the curb"
-    excerpt: "We've just got to make sure that whatever we do doesn't compromise our privacy obligations.\" The facial recognition software will not be used at TAB retail terminals inside pubs and clubs. The group is now trying to slim down the technology, so that employees can receive alerts on an iPad or portable electronic device. Tabcorp worked with ..."
-    publishedDateTime: 2019-12-27T00:22:00Z
-    sourceUrl: https://au.finance.yahoo.com/news/tab-betting-facial-recognition-technology-235528691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
-        width: 200
-        height: 150
   - title: "New trials and rollouts of biometric facial recognition to prevent underage gambling"
     excerpt: "We’ve just got to make sure that whatever we do doesn’t compromise our privacy obligations,” he says. The technology, which SMH refers to as facial recognition software, will not operate at TAB retail terminals in pubs and clubs. During the trial, Tabcorp worked with Australian machine learning and AI company Eliiza and three facial ..."
     publishedDateTime: 2020-01-03T18:11:00Z
@@ -943,19 +742,6 @@ related:
       - url: https://www.bing.com/th?id=ON.31EA4C24864519D418A025AB84C1A081
         width: 600
         height: 315
-  - title: "Federal study finds racial bias of many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of colour more often than white people, a landmark United States study shows, casting new doubts on a rapidly expanding investigative technique widely used by police across the country. Asian and African American people were up to 100 times more likely to be misidentified than white men ..."
-    publishedDateTime: 2019-12-24T16:06:00Z
-    sourceUrl: https://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12296532
-    type: article
-    provider:
-      name: The New Zealand Herald
-      domain: nzherald.co.nz
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
-        width: 700
-        height: 465
   - title: "Police Use Face-Recognition Software as India Protests Intensify"
     excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify. The software, originally acquired in 2018 to find lost children, was used at a political rally for the first time on Dec ..."
     publishedDateTime: 2019-12-28T05:22:56Z
@@ -995,15 +781,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
         width: 700
         height: 366
-  - title: "It’s hard to ban facial recognition tech in the iPhone era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-23T17:22:00Z
-    sourceUrl: https://www.loopinsight.com/2019/12/23/its-hard-to-ban-facial-recognition-tech-in-the-iphone-era/
-    type: article
-    provider:
-      name: The Loop
-      domain: loopinsight.com
-    quality: 19
   - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
     excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
     publishedDateTime: 2019-12-24T06:57:00Z

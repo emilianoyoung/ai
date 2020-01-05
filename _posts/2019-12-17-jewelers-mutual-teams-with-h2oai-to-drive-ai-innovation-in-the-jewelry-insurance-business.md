@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.536B952C762FE3D5A030E430CF138B90
         width: 400
         height: 400
-  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
-    excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://apnews.com/bdf8aa8701e44448ad562bd9a3ee942b
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
 
 secured: "3HgScNV2U8NoEclCmOp/0t61x8jnALe/wVWOEMfrhrst45UFYVc3118oRTSUMO0SFK3kzOUwzM0uep7ba2q1jcqIcsHM8h6I3fM5zRKOAFVqMXUCdQ98HxaC3Nd5rBgFGnRZmhVn4raYpANLU3iL8Mb7L9/G9g8DhzltpzchgjKHkJv+S7t1Vv8VOwmMgUWrVL0bCEKTkVyqc/buapqcDhw1hwDZ4flPIBYVcSVqLXJZWCfXm206zZFfpCpmkQCbiUcfHL1VcHFtoySlBJvxOw==;6huEes9RtBXSq4LeNvLJbA=="
 ---

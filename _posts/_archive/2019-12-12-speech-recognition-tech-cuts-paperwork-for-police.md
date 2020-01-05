@@ -24,16 +24,29 @@ images:
     title: "Speech recognition tech cuts paperwork for police"
 
 related:
-  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
-    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
-    publishedDateTime: 2019-12-17T14:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
+    publishedDateTime: 2019-12-09T11:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+        width: 1960
+        height: 1226
+  - title: "Speech and Voice Recognition Market Is Booming Globally"
+    excerpt: "Speech and Voice Recognition Market report is a comprehensive study in the Speech and Voice Recognition Market it tells about what the market status in the forecast period of 2018-2025. The report provides with CAGR value fluctuation during the forecast ..."
+    publishedDateTime: 2019-12-13T07:11:00Z
+    sourceUrl: https://www.openpr.com/news/1879011/speech-and-voice-recognition-market-is-booming-globally-with
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
-secured: "juoEa1hjVJ5izkDEiL77+QuU2zen5Lo1VezseVxRwhHtFNOoNayhsMVNYj0m6PmGzIL+vIiWYmj/t+tmke+fytojYZe4QxTp81UVs78poaH6RgQlpKTbMUlm4xTMshVeLv+dXTsxYzKYCDY74dk9pQ9r0hlkwlh6ekhOFALiTBe7yp9xFF+Z1OV5h44+OzkVxBvvnWwsDOGV0/HyDuXIqsPENx09cHJx51KzHoPpC/Xj6YR7cNUJ+E30esvBS+u768fLFfViXZN5VjA7SSPI8g==;Fklhy5L9wv77pzm8OkK0rQ=="
+secured: "I/1sxuTydz7Q4EBGe0agNCdnHj0rTdGTXtZjnpds4vE7eQSHRvXNeVtrsMX1fUgTn9y2nlyO1VtlWrquIt6F+x6zwMoodL2AWFYTsdy0XmQ+uYOLhEtzJ7YdG+K/igUOU1dihnvpzXw42xeMfJ2OaS3dVX+Vgc/2swQryo63p8i7C6jQu6yjAPAntf4gnoD9k49ZxSo/4mCpysxmBMLz7NZXjJTHgtEHbR5uvjx8tk8lbl0aCloI7Urv6NzamS7mBzyNVQIZixr/2wCAdbP9sw==;09AQXaDH18Qg7aHvIKUX6w=="
 ---
 

@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.64BB90D666F0F3BCB4EF74DF6094471F
         width: 700
         height: 350
-  - title: "Artificial Intelligence (AI) in Education Market Latest Trends and Growing Business Opportunities 2019 to 2025"
-    excerpt: "Dec 23, 2019 (Xherald via COMTEX) -- The information mentioned in the Global Artificial Intelligence (AI) in Education market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the developments and the product launches and their ..."
-    publishedDateTime: 2019-12-24T03:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-latest-trends-and-growing-business-opportunities-2019-to-2025-2019-12-23
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Year in Review: Cloud Security"
     excerpt: "AWS and Google have both introduced network traffic mirroring in their respective cloud platforms, with Microsoft Azure soon to follow. Lack of visibility has been one ... Along with the pivot towards better detection and response (particularly via tools with advanced machine learning capabilities that will detect more than just known-bad ..."
     publishedDateTime: 2019-12-18T12:59:00Z

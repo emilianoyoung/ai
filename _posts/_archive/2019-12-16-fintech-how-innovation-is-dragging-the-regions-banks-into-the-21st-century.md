@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Women in SF police department face barriers in assignments, recognition"
-excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
-publishedDateTime: 2019-12-16T23:52:00Z
-sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
-ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+title: "Fintech: How innovation is dragging the region's banks into the 21st century"
+excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
+publishedDateTime: 2019-12-16T08:56:00Z
+sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
+cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
 type: article
-quality: 44
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Arabian Business
+  domain: arabianbusiness.com
 
 topics:
   - AI
-  - Computer Vision
+  - AI in Finance
 
 images:
-  - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
+  - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
     width: 700
-    height: 632
-    title: "Women in SF police department face barriers in assignments, recognition"
+    height: 367
+    title: "Fintech: How innovation is dragging the region's banks into the 21st century"
 
 related:
   - title: "Democratic Senators Are Demanding An Investigation Into The Use Of Facial Recognition In Public Housing"
@@ -190,21 +190,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z
@@ -328,6 +313,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Women in SF police department face barriers in assignments, recognition"
+    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
+    publishedDateTime: 2019-12-16T23:52:00Z
+    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
+    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
+        width: 700
+        height: 632
   - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
     excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
     publishedDateTime: 2019-12-18T14:57:00Z
@@ -640,6 +640,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "JK3NC3ukD93z1oi+Rb3ehsBmAdguyJvs4lZJh3aiuKZYMCKhMi2F/6E0/B5O6B/j9TUgQSGL7bCvYT0iWKmWY1A9VgXVAauOsL+eBYnHGkBSQmsG5jtTD9Aos8sh/D9ZQhJaqj3pnddGM4uv50XlrIX+BC9jMlnsN6SE8Zi7ppXRFGLMxLfg8BltJg/279uD4CLDCNRZBhcFplH6PfTALQPg4hJQ28dBcl/QvcMroWdf/hM14Xj9aQoxLoTQnTjM8JtoBPZ9e6yJ3ZV86CgqGA==;a+AhHXps3OzPLyypGVfAUg=="
+secured: "GYA+BJBDIRJvdZhs3LpVD8Yy0xbMbtqZhSJxVlxyHq62Kopv1c2VcfPghnimXBdLCc1HtPQQUFDB4RdBZXZNNKsTr3BDXbJzHBQAsUyFfNPaYOp9JeEfQyIQgYZpVqKa4Q8MD8zkuCzutIIBKxZS0ugDzwfk/DEi5bFTCEisNSgFUE9fa/98fy5zfrRZv4z/0eQp0fuatIJP2FrzFn5M6Swr30i5JEDzLMMNrijj+4AIpb5KllFrhNP1scheR1Uc+zKf4/BMJe3ifEXLUo87+g==;wwyTa9PCT4K3XNwWvn1YqA=="
 ---
 

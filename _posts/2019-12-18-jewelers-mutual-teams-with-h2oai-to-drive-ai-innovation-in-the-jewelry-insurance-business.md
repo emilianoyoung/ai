@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-1700
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
 type: article
 quality: 51
-heat: 71
+heat: 61
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
         width: 700
         height: 366
-  - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
-    excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
-    publishedDateTime: 2019-12-18T18:48:00Z
-    sourceUrl: https://apnews.com/bdf8aa8701e44448ad562bd9a3ee942b
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
 
 secured: "ZEP+68xcnRz5KYNx9EAOs6th90yPMmDoK/tBZR4uSeIZZ9WUBXUskj/ojDROLz6JSmutuJ8lOZipPlsCXISUL77l4joaV4m6sulLadRAuGSd3LqraRElJI6UhjH31sE92SUq7qXf96+h65vcpjv3tIP+YnlkIQYXL34zTApPgrWJDa/F1vgjlYwHKhSOYqqN8YvrigG8nfKIqJFV8IB5YOrHY120EPypxhd3+u6MT55sZsyigzVLgsIlh3ZycBatm84WBJqzJ7LS7l79J4o6Nw==;4WREmGBho6RDyIhZg05TDw=="
 ---

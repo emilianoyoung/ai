@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/26/evoman-mega-man-ii-capcom-ai-benchmar
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/evoman-mega-man-ii-capcom-ai-benchmark/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 700
     height: 350
     title: "Researchers want to use Mega Man 2 to evaluate AI"
+
+related:
+  - title: "Amazon researchers use AI to improve the recognition of curved text"
+    excerpt: "Optical character recognition (OCR), or the conversion of images of handwritten or printed text into machine-readable text, is a science that dates back to the early ’70s. But algorithms have long struggled to make out characters that aren’t parallel with horizontal planes, which is why researchers at Amazon developed what they call ..."
+    publishedDateTime: 2019-12-26T19:28:00Z
+    sourceUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/
+    ampUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.C3DB77C18C41A81ED896AFF172FCAA7A
+        width: 700
+        height: 350
 
 secured: "8PX9Zdz7vxnPL1+E0fOnW8EpiqHAqbKZvOVTWhKuFno7yG5kglhDdcDL7fUtU3gtIxqKFMKXAdpv4P98f8t4XC441lNM8k1wo//RS4KDucimoaUk3AYJ2pKgawBy/q6JY7H1hk4ddUfH7j0vnvpQPycIjDmI7/P0nWjttWJqgTJLR0Wk3ztfUqlquzTz1xg0/sLB0ytjFtxMIWIwcRRF4KonjIZgJkggIB/5r2mAcBoWPH6KZ+9yO3WUG6R4/+HPAqHZtwCCbpmuxJqmQKSHZQ==;N/pI1Rq9Y4j2Fl5wPBFv7w=="
 ---

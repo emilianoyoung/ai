@@ -26,6 +26,30 @@ images:
     title: "Employee Recognition – Does It Still Work?"
 
 related:
+  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
+    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
+    publishedDateTime: 2019-12-19T23:19:00Z
+    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
+        width: 1200
+        height: 600
+  - title: "My phone's facial recognition technology doesn't see me, a black man. But it gets worse."
+    excerpt: "Fraught with racial and gender bias:In the hands of police, facial recognition software risks violating civil liberties The diversity of AI tech companies also should include having noncomputer scientists on staff. Individuals who have a great deal of experience and expertise solving complex computer programming problems might not be as well ..."
+    publishedDateTime: 2019-12-17T10:06:00Z
+    sourceUrl: https://www.usatoday.com/story/opinion/voices/2019/12/17/artificial-intelligence-facial-recognition-technology-black-african-american-column/2664575001/
+    ampUrl: https://amp.usatoday.com/amp/2664575001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2664575001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
   - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
     excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
     publishedDateTime: 2019-12-17T13:17:00Z
@@ -48,15 +72,6 @@ related:
       name: Field Technologies Online
       domain: fieldtechnologiesonline.com
     quality: 5
-  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
-    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
-    publishedDateTime: 2019-12-18T18:26:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 2
 
 secured: "zqY1XVoWYLiSn27RMiilQFIdbRAPx7CubAFQcPr7YJEO7cc4krJ1iG4NVUe/zuzIUyN8iyDFlrKIBCfnffziGlShzS5q7/iSgUk73j7zjG2Qh4/Yzd7T9/T/GYXZByMdXZVxkf4ZtyrKuZiHlTd34WZOHz9k82KuphPpzHpbH+Aj5NWUM+8N/ZKF94yMLBatoJO1KT3pTby7SCrQJnVHyv4275k0IGJ31R2tgdPA/ldPGdlBeQbL/DssMpl6TM3cWh9S5TwwSrW8LDgiwC3ghQ==;gSzgdqy5bvu011e7pbFUtA=="
 ---
