@@ -45,15 +45,6 @@ related:
       - url: https://www.jewishpress.com/wp-content/uploads/AI-Robot-Forklift.jpg
         width: 880
         height: 495
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
-    publishedDateTime: 2019-12-16T18:09:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
 
 secured: "i4ChaPXKSEpfz71dOM7SMaA2ZG5LsTdyzDN4TH+vIUECn/P6naz3J5pgqjzEdswnlOIvBZ/Ueq1SnOebyS44YVtdmuLQ0hvDunseFC+PRBGZFHw0ToRsrta9JEUUz3EwdloSFZQTRdxq/gZ5RZHRF1yylwHjz4xFCdOrgWYK/o9x2gqCWpxJc+wwsltLMszdr1wSV5HTgxYzSeFiQlibD47ryAqHfs++iQu6m8ymSlsjgaQIyQmxVKF7SjRbGkXdLBqHgYIcpXgzsAm3RAb3SA==;9PjZyFRmwVAu9hm2cypZ1w=="
 ---

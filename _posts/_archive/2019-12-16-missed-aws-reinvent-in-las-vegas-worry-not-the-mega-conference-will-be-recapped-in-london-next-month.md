@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Missed AWS re:Invent in Las Vegas? Worry not: The mega-conference will be recapped in London next month"
-excerpt: "It will address both the business and technical aspects of the AWS cloud, with tracks covering topics such as migration, security, machine learning, artificial intelligence, serverless computing, and more. AWS experts and partners will be on hand throughout to answer your burning questions about cloud computing and the hugely popular AWS platform."
+excerpt: "It will address both the business and technical aspects of the AWS cloud, with tracks covering topics such as migration, security, machine learning, artificial intelligence, serverless computing, and more. AWS experts and partners will be on hand ..."
 publishedDateTime: 2019-12-16T07:27:00Z
 sourceUrl: https://www.theregister.co.uk/2019/12/19/aws_reinvent_recap/
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/19/aws_reinvent_recap/
@@ -25,6 +25,6 @@ images:
     height: 432
     title: "Missed AWS re:Invent in Las Vegas? Worry not: The mega-conference will be recapped in London next month"
 
-secured: "k2kCgqkhUPcsnXeuNnk26W/lCkyp7qC6QMuRtUrCdJjDFoIxV6ptUvlCQOPhfLx5Lp9/PYaEEG8PUNUCDE/Czr+PERszRzBzkPKh1AiY1AjHQ5fkIXZSo+hiKLqEC5amOPPEg5CgjnWT9edFbP52KiyWxYcvCDlQbGIovWFYwOEGuhfMjRQHkFF7JsvrnXELUcf5Xd8x1/Q8rZ9JAxto14SGaCGCEPqeOFFfZ8yEtU4YBZLh7TthA+v1Q/outPn519pbMTg/OnlCudZP4wmPKA==;GDCxG2TexZRpYuiHfMHnGg=="
+secured: "zsr3c2S7cdl3dNXjlbn4Ib5sjaNcODz9IEvycKnqufWZqK4zzVDKModdgzbXrcIVsbgeBC4o4llu8Y15x3AHYFhEc9xQUif4M3HIEsXES7gUha8U1TKGsxIX54Suh0EqWXO539HNDMzLGlkvaW5/Jb9e1u3Y0d33Equ1lw6zPLZ07TN73xqvlYJmisyV6FFadmbp1Tdie60N5LN/n0nB9eantjBNW7dChIkKjArN+7ADYOamS3h4WutsmwF3iEYE25a24LWT7od2qJa8y8qGXQ==;n4Qpic/K6BOseHyssq1Ipg=="
 ---
 

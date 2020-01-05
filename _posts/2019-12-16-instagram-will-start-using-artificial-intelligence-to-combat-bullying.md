@@ -23,19 +23,34 @@ images:
     title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
 
 related:
-  - title: "Are You Being a Jerk on Instagram? AI Will Let You Know"
-    excerpt: "To combat bullying, Instagram will use AI-powered algorithms to detect whether a post you're about to make contains offensive content. The anti-bullying feature is designed to make users pause and rethink publishing a post that may end up harassing or ridiculing someone. \"Today, when someone writes a caption for a feed post and our AI detects ..."
-    publishedDateTime: 2019-12-16T18:26:00Z
-    sourceUrl: https://www.pcmag.com/news/372551/are-you-being-a-jerk-on-instagram-ai-will-let-you-know
-    ampUrl: https://www.pcmag.com/news/372551/are-you-being-a-jerk-on-instagram-ai-will-let-you-know?amp=1
-    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372551/are-you-being-a-jerk-on-instagram-ai-will-let-you-know?amp=1
+  - title: "Instagram AI Tool To Flag Offensive, Bullying Captions. But What About Facebook?"
+    excerpt: "A phone screen displays the 'like' button of Instagram application in Ankara, Turkey on December 10, ... [+] 2019. On Monday, Facebook, Instagram’s parent company, announced their AI system will begin to detect and flag potentially offensive comments that could be bullying. If a caption is flagged as offensive, the AI will send a notification ..."
+    publishedDateTime: 2019-12-17T00:39:00Z
+    sourceUrl: https://www.forbes.com/sites/heatherleighton/2019/12/16/instagram-ai-tool-to-flag-offensive-bullying-captions-but-what-about-facebook/
+    ampUrl: https://www.forbes.com/sites/heatherleighton/2019/12/16/instagram-ai-tool-to-flag-offensive-bullying-captions-but-what-about-facebook/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherleighton/2019/12/16/instagram-ai-tool-to-flag-offensive-bullying-captions-but-what-about-facebook/amp/
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: https://www.bing.com/th?id=ON.6C62C5B2A76F3145907F37956BED4FD3
+      - url: https://www.bing.com/th?id=ON.3EDC4C688E81828A853B997D4E24FF7C
+        width: 600
+        height: 315
+  - title: "Instagram using new artificial intelligence to help stop bullying"
+    excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. If a user writes a caption on a photo or video that the AI deems offensive, that user will receive a ..."
+    publishedDateTime: 2019-12-17T06:42:00Z
+    sourceUrl: https://www.goodmorningamerica.com/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    ampUrl: https://www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    cdnAmpUrl: https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+    type: article
+    provider:
+      name: GMA
+      domain: goodmorningamerica.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
         width: 700
         height: 393
 

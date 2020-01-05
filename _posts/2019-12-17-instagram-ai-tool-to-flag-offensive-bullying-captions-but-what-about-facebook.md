@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/heatherleighton/2019/12/16/instagram-ai-too
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherleighton/2019/12/16/instagram-ai-tool-to-flag-offensive-bullying-captions-but-what-about-facebook/amp/
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
         width: 700
         height: 393
+  - title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
+    excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
+    publishedDateTime: 2019-12-16T21:36:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
+        width: 583
+        height: 700
 
 secured: "GW78epSm0Zxj6m6aGAIF0XOUxJtBz24tOBQNbefNwuCg7pPu8/8M27rDCJbP9YLmE9pt9qQLHUghH8eS1QhSCng9B3eQuyksvp55Pm9wvksLHu0z8snKAUD+w+HCThVti/YEqKEUnBMDmlv/v/bC1QcG9qU6FQeiLDMwBqa3uCAobSg0iytIvRqK5cp2UR9ByWK/mL0HcJCe55z4CB6s1Rnk9U3Vdu8gK6wZCOT/oThhcp33aQJmVMEuzHhk90GKR1bMOvTZI+pCGKh4n0bnEw==;v7O1glUagu8kRbLReXutAQ=="
 ---

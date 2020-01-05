@@ -738,19 +738,6 @@ related:
       - url: https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400
         width: 1400
         height: 787
-  - title: "When facial recognition goes wrong"
-    excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
-    publishedDateTime: 2019-12-16T18:40:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBqdk7Q
-    type: article
-    provider:
-      name: Newsroom on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
-        width: 700
-        height: 367
   - title: "Facial recognition for hotel guests may suffer customer backlash"
     excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
     publishedDateTime: 2019-12-18T02:53:00Z

@@ -23,6 +23,17 @@ images:
     height: 459
     title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
+related:
+  - title: "Self-driving moves closer with new LiDar innovation"
+    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
+    publishedDateTime: 2020-01-05T19:10:00Z
+    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 4
+
 secured: "+Dd8nk2ZtFJ4m/atUkHreGh8TRnAt4ePIDL7F9c0tlZltoqkCTk4STRIQrSEj5+7YPImRH40evhH/4/32G6+0DtLdSM0tWWHOyPJJsqOvetuXamKXcDWC0dSAhctfVdjON3tyMDY13DhLDZgvjb1BpFefATB1zWZ1mLzc276t6p4atGY85jjGz0H6TlYZJvdvq5W08oQ4GxRAPZn7+P0MMdX8Y4iBQroiIOLcLjokM3L6+s+Okv0bspwfCfTTLP8IfilOg8pFk+FWhXsT9BIew==;+cjIaiiYLtwVP30sfvGyCQ=="
 ---
 

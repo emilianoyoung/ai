@@ -744,19 +744,6 @@ related:
       - url: https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400
         width: 1400
         height: 787
-  - title: "When facial recognition goes wrong"
-    excerpt: "How are your cheekbones? Good? If so, you could be a shoo-in for automatic facial recognition technology.&nbsp;"
-    publishedDateTime: 2019-12-16T18:40:00Z
-    sourceUrl: https://www.msn.com/en-nz/news/world/when-facial-recognition-goes-wrong/ar-BBY3do5?li=BBqdk7Q
-    type: article
-    provider:
-      name: Newsroom on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0FE52DED569FC93675A3748087FC0FA7
-        width: 700
-        height: 367
   - title: "Lawmakers seek answers on HUD's use of facial recognition"
     excerpt: "Eight Democratic lawmakers, including noted privacy hawk Sen. Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD. In a Dec. 18 letter, the lawmakers are seeking a breakdown of public housing and subsidized ..."
     publishedDateTime: 2019-12-18T21:19:00Z

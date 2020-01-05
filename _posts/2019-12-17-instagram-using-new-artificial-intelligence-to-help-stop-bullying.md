@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3EDC4C688E81828A853B997D4E24FF7C
         width: 600
         height: 315
+  - title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
+    excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
+    publishedDateTime: 2019-12-16T21:36:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
+        width: 583
+        height: 700
 
 secured: "Dde2CPwtrWpUTIQaF/dWNTC0QHILX6s3Yc/BDn8FEeVHA/DjOwq0qbwLAqq36dGhffnkLEb8osY4Vxw2wJCSFKUt7qkNOQqhp0M2XkWqYGzTdE0S2LoNNpM+db4FXLXbsmhSVo0Zo8PxEMC9xme4k4koF2u9q/kv30zjHxXnX9I1f6QYnO3nDvLquOA0lrIrvTFq4GbesZl+T8r00rpRg5k6D2nRHKakvHxm1ttEng70hKHYSJ9rtqo1NsKkeESgXZyW/cChONKRmusCUIOijA==;pmFFyUfRDT/zRb0Zt9FnyQ=="
 ---

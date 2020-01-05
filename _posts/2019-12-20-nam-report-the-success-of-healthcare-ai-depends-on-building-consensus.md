@@ -78,19 +78,6 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
         width: 400
         height: 300
-  - title: "80% of healthcare pros believe AI is reducing burnout, survey finds"
-    excerpt: "Artificial intelligence may help to inject more humanity back into the medical profession, despite concerns that it may make medicine colder and more sterile. About 80% of healthcare professionals also believe such technology is helping to reduce burnout, according to a new survey of more than 900 individuals in the U.S. and U.K. The MIT ..."
-    publishedDateTime: 2019-12-16T19:01:00Z
-    sourceUrl: https://www.radiologybusiness.com/topics/leadership/healthcare-artificial-intelligence-burnout
-    type: article
-    provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3E917C66508DEC13087F9313ACFC33C3
-        width: 700
-        height: 367
   - title: "How can healthcare achieve real technology driven transformation?"
     excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
     publishedDateTime: 2019-12-19T20:50:00Z

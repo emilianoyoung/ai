@@ -29,6 +29,6 @@ images:
     height: 504
     title: "Reinforcement Learning, Deep Learning’s Partner"
 
-secured: "mQ79O1cffK0T6LEmRFe8Fq70QrQ1D1+edu8uWLKKFJ3bxht2t8o5Tfnty0h8wt7WThRv9qubyEef37ugrxPiJwmXk3NOHD7/f3O1ZPeszjjE+EgMArFWVtoq4G/v2nUTSbzImiMpChJDlsGFRaEnmMexe/6ovfRYRA+ujuBATS1EKwNj2+N8NdXpjdI4zOPBzI7xCdaOhkjhzsvu1e1vjHwu77zunpaLHs42ZMSl6aprQ8YFjpienDswtamhOivASwTM4gfneYYvCJ/MX27LuA==;yyat2h7MJV9cAdEA4sJuww=="
+secured: "c+/swi6Fag2l7ewQHToZl8RbcitTx1qcE0A1Qo4bXXoVL+hKoUMNADj+p5yhLL8GXUPI3NE14NFC2l0WApJUFQef5ENHJrNwnhhG7QEfoggSu1sRsn3Sh0kwWVvtt7+ihKpwBKmb+k2by2MYQtnyfe+IazZICyWqI8Sl0RcuMzwejEN/tlK0MupN9BO7J7v9ZBSGgDqJlW+dd9irIxjUi1BHqY1ak2fGfxKhbRRZf7BfOb6quBpVBJporA2oavoAFGe/kWVwr9bgLyLmhfieoA==;YYf7+RqMGdy+Y6/P8+Pb6g=="
 ---
 

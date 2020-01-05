@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T21:00:00Z
 sourceUrl: https://roboticsandautomationnews.com/2019/12/16/gecko-robotics-raises-40-million-in-funding-for-energy-infrastructure-inspection-robots/27564/
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -48,15 +48,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 37
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
-    publishedDateTime: 2019-12-16T18:09:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
 
 secured: "SmWqeV4LrAFXIi1LGnvaSAymv6NhhCNNu68/JIPm0ZxanzATRxXsm4sD39UVA2YZQqRfcGv8rLEy+Gj5Y2N6tqGnKpmnPQtyH2KuQhB8bBFsXy93h4XQWk5c1CAkgrMTsS/mQyq/JAlRA1j9o231gIvP/pPvxt4cGDG8+h7aTLEqhIrbVsqVGLoGpWXDUYfNg0N1G1rLwpLVlwuFOZyB60nSOvz/GGLmQChB8WXD6LHKAekQ/mx+e4xD4TUPu6/6yrVcvAXOgSgY4zMrO/juJg==;0VMlo/mEOJbIDyI5fCg1Aw=="
 ---
