@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/technology/tech-news/as-robots-ai-take-over-war
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/as-robots-ai-take-over-warehousing-amazon-workers-pushed-to-adapt/amp-11577682905726.html
 type: article
 quality: 74
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -235,6 +235,19 @@ related:
       - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
         width: 700
         height: 446
+  - title: "As robots take over warehousing, workers pushed to adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2020-01-05T04:00:00Z
+    sourceUrl: https://www.herald-dispatch.com/business/as-robots-take-over-warehousing-workers-pushed-to-adapt/article_bc5d23c0-75e6-5323-a895-d2fc9fae4935.html
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
+        width: 700
+        height: 466
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z

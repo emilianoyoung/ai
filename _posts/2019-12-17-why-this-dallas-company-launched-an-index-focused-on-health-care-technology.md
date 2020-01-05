@@ -20,45 +20,17 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "New technologies to transform healthcare in 2020"
-    excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
-    publishedDateTime: 2019-12-16T09:00:36Z
-    sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
+  - title: "Shifa International launches healthcare platform in India"
+    excerpt: "\"Starting with India, we aim to build an inclusive healthcare system, based on new-age technology, where there is no discrimination on the basis of caste, colour, creed or gender,\" Chhabra said. Shifa Care's ecosystem utilises Al (artificial intelligence), epidemiology and genetic sequence, all at one go driven by prediction, mitigation and Al ..."
+    publishedDateTime: 2019-12-19T11:47:00Z
+    sourceUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/articleshow/72886745.cms
+    ampUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
     type: article
     provider:
-      name: Gulf News on MSN.com
-      domain: msn.com
+      name: Business Insider India
+      domain: businessinsider.in
     quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
-        width: 540
-        height: 405
-  - title: "CVS Health to offer oncology program using genomics, other technology"
-    excerpt: "CVS has tapped Tempus, a precision medicine technology company that uses artificial intelligence, to help with the program ... will automatically receive prior authorization approval, speeding therapy for patients, CVS said. Alan Lotvin, MD Ryan Fukushima, chief operating officer of Tempus, says the collaboration has real potential to ..."
-    publishedDateTime: 2019-12-16T19:50:00Z
-    sourceUrl: https://www.healthdatamanagement.com/news/cvs-health-oncology-program-has-genomics-other-technology
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D1906BAD336691001B09D46D2A0A434B
-        width: 700
-        height: 367
-  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
-    images:
-      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
-        width: 2699
-        height: 1414
 
 secured: "04u4o4uCAwW6QQ8TE4uhO7GoMkE1emH9mYBGgvEBg0qeYR27FUB0tsCeU3vaeoQ6TXFy1rPapOopAsNky3cO53GS5+OyxaXZywLRLRjOnSBzTo3hKu3QslfPS/VzBLQDIe4BcdTqfLNGdhxHI2CiElFPSQz3OlhmwNk+put+oViMXzkPNP1Ux7a/8oCZQcO62Jm5f0M6SXwV+dgPgx6ZnrIydYQBarzQsebVMk9jrXDm4ADtV9KP1IOI3ZvMJrDuKCKFZXS5jIDSSDAq+bNrHQ==;eRbz4CsdkWzOrzoI9Ylk3A=="
 ---

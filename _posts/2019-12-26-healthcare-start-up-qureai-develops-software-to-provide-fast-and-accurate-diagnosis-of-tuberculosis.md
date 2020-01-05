@@ -37,6 +37,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T08:04:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+        width: 400
+        height: 518
   - title: "80% of healthcare professionals say AI has decreased burnout: 3 notes"
     excerpt: "In contrast to fears that the widespread use of artificial intelligence will dehumanize healthcare, the vast majority of medical professionals who regularly use AI say it improves workflows and reduces clinical error, according to a new report. The MIT Technology Review and GE Healthcare surveyed more than 900 healthcare professionals in the U ..."
     publishedDateTime: 2019-12-16T22:10:00Z
@@ -76,6 +91,32 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
         width: 400
         height: 300
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
+        width: 400
+        height: 518
+  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
+    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
+    images:
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
   - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
     excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
     publishedDateTime: 2019-12-24T15:18:00Z

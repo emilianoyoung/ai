@@ -24,21 +24,6 @@ images:
     title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
 
 related:
-  - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
-    excerpt: "The federal government on Monday announced it will invest AU$7.5 million for research into the use of artificial intelligence (AI) in healthcare. \"Artificial intelligence will be critical in transforming the future of healthcare through improved preventive, diagnostic, and treatment approaches,\" a statement from acting Minister for Health Anne ..."
-    publishedDateTime: 2019-12-16T05:04:00Z
-    sourceUrl: https://www.zdnet.com/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
-    ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
-        width: 700
-        height: 525
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-16T14:00:00Z
@@ -48,36 +33,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "2020 predictions for healthcare IT from six industry experts"
-    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
-    publishedDateTime: 2019-12-19T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
+  - title: "New report highlights AI's potential to revolutionize health care"
+    excerpt: "The role of artificial intelligence, or machine learning, will be pivotal as the industry wrestles with a gargantuan amount of data that could improve -- or muddle -- health and cost priorities, according to a National Academy of Medicine Special Publication on the use of AI in health care. Yet, the current explosion of investment and ..."
+    publishedDateTime: 2019-12-20T05:30:00Z
+    sourceUrl: https://www.news-medical.net/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
+      name: News Medical
+      domain: news-medical.net
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
-        width: 700
-        height: 393
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
-    publishedDateTime: 2019-12-20T08:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
-    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+      - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
+        width: 620
+        height: 480
+  - title: "NAM: Healthcare must proceed with caution in adopting AI"
+    excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
+    publishedDateTime: 2019-12-19T05:40:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/nam-healthcare-must-proceed-with-caution-in-adopting-ai
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 54
     images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
-        width: 400
-        height: 518
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/a3cf187/2147483647/strip/true/crop/800x420+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F7e%2F22%2Fd9f681e54ee3ab9f3b04613abee3%2Fthe-keck-center-of-the-national-academies-crop.jpg
+        width: 1200
+        height: 630
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-17T05:34:00Z
@@ -102,32 +85,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 50
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
-    publishedDateTime: 2019-12-19T20:50:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
+  - title: "New technologies to transform healthcare in 2020"
+    excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
+    publishedDateTime: 2019-12-16T09:00:36Z
+    sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Gulf News on MSN.com
+      domain: msn.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
-        width: 400
-        height: 518
-  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
-    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
-    images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
+      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
+        width: 540
+        height: 405
   - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
     excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
     publishedDateTime: 2019-12-17T08:02:00Z
@@ -150,6 +120,19 @@ related:
       - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
         width: 640
         height: 423
+  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
+    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
+    publishedDateTime: 2019-12-18T13:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 4
+    images:
+      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
+        width: 2699
+        height: 1414
 
 secured: "Jd/E7wtjQkEjFLo1lCSzNS2EzfKESi2HGrgjIteXimdR0O/qnOnVOwAlA4r54MKlLBUzAWXe1cVL3UaRGXNywV0tIvA6kqTuQikIQzuxjN53WBk4T+vKXBKc1YqD/TUq9wLoUE0rwYCMNM27IrSdeS5TOUJhUmFnjUVSkIavw4giVSoUgnZOzmkHgKUNwVN7bqgffcOv1sQjE7Bc9zs2cL71TxAyPSkGGqzTfx5nricsg+NnIW7lMDR/EgCfxyMHYk9lqlBd+fkM+bOyB2dPLA==;6xbVdOrVqsTi2XoNy4lz7w=="
 ---

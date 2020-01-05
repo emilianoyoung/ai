@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AI in Healthcare
 
 images:
@@ -84,6 +83,6 @@ related:
         width: 615
         height: 384
 
-secured: "Nlw+udXLN3KiXAeoPMb2yxrx6ODvdqO/9zKzyCV1dYaaAw7qJbOZgsJCbeszw5Nf9T03XgWyC8Mhu7L8FnW2Z6VdPV3HV2EP3gkt3C7L/KQV7NJ0u3lDdlTkSW94epIxg94gKcq6dDJotMNCCG6MK4OHMqNNqqZdqjBxoBXGWp2rNz9Xy0L/X/9WCUQySzxXe0Wd9bfIi3eoAOHKkNlCMZnSWJKJtj13t/FtuKteVhYUTiAyw8Wp3ld69ipSoA0UoP/jVdB8cNlyPMcITKbksQ==;XZeGw7w6nrlUC42eyLmYcA=="
+secured: "GjB/45xR3/lrP66IgVsVkxmsETF7gIVfxVQHfF+jSZKcyLutaWMYsqb6z8ZXjhtkqptFkbKdcvG6pUAMmctue4hbm/A5nxkhfMpbHGlue3rA5Iv4QRsPJQLc26UvXTWHOrptwLuG2wj64L5t8nE+n9aM4ZS/VhBG0NFtXgYHGcB87Z/jgtTua5cLp7UlR9lgUopWUT1aTXn/C4v6jULgzAxr+a61WFD0MMBDJQGQ4eIOhz2I9oNVPSfLNJMTTorWS+QBU7EsihBgU41B3+6hOw==;aTFXsQOftRE+LykDyAwcXA=="
 ---
 

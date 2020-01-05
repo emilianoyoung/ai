@@ -174,21 +174,6 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
-  - title: "UAE belts up for self-driving journey"
-    excerpt: "A significant portion of these investments will be on next-generation “smart mobility”, which could take the form of self-driving vehicles, and even those of the flying kind. “The RTA (Roads and Transport Authority) in Dubai has successfully tested driverless shuttles as well as pilotless flying taxis, whose deployment is expected to ..."
-    publishedDateTime: 2019-12-16T04:33:00Z
-    sourceUrl: https://gulfnews.com/business/uae-belts-up-for-self-driving-journey-1.68507284
-    ampUrl: https://gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    cdnAmpUrl: https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-belts-up-for-self-driving-journey-1.68507284
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.CDC644DD6FA94ADDBA8A4A739BB6C12C
-        width: 540
-        height: 405
   - title: "Ring partnerships with police: Solving crimes or invading privacy?"
     excerpt: "Both Leawood and Kansas City police said they were not approached about that. A 2016 promotional video for Amazon Rekognition says it delivers \"high quality person tracking.\" It's a concept the ACLU finds extremely disturbing. \"Facial recognition has the potential to basically allow the police to follow everybody everywhere they go, because it ..."
     publishedDateTime: 2019-12-22T22:09:00Z

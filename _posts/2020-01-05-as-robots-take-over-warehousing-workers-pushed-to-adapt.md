@@ -1,29 +1,27 @@
 ---
 category: news
-title: "As robots invade warehouses for Amazon and others, workers forced to adapt"
+title: "As robots take over warehousing, workers pushed to adapt"
 excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-publishedDateTime: 2020-01-02T00:15:00Z
-sourceUrl: https://www.usatoday.com/story/money/business/2020/01/01/amazon-and-rivals-deploy-robots-warehouses-and-workers-must-adapt/2776000001/
-ampUrl: https://amp.usatoday.com/amp/2776000001
-cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2776000001
+publishedDateTime: 2020-01-05T04:00:00Z
+sourceUrl: https://www.herald-dispatch.com/business/as-robots-take-over-warehousing-workers-pushed-to-adapt/article_bc5d23c0-75e6-5323-a895-d2fc9fae4935.html
 type: article
-quality: 57
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Herald-Dispatch
+  domain: herald-dispatch.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.3E2DB878EDD7E900C47B7CD5F290321A
+  - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
     width: 700
-    height: 393
-    title: "As robots invade warehouses for Amazon and others, workers forced to adapt"
+    height: 466
+    title: "As robots take over warehousing, workers pushed to adapt"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -116,6 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0A180902D952262DF8F4176AC0E5E56E
         width: 700
         height: 466
+  - title: "As robots invade warehouses for Amazon and others, workers forced to adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2020-01-02T00:15:00Z
+    sourceUrl: https://www.usatoday.com/story/money/business/2020/01/01/amazon-and-rivals-deploy-robots-warehouses-and-workers-must-adapt/2776000001/
+    ampUrl: https://amp.usatoday.com/amp/2776000001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2776000001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.3E2DB878EDD7E900C47B7CD5F290321A
+        width: 700
+        height: 393
   - title: "At Amazon warehouse in North Haven, workers do their jobs side-by-side with robots"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-30T15:16:00Z
@@ -235,19 +248,6 @@ related:
       - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
         width: 700
         height: 446
-  - title: "As robots take over warehousing, workers pushed to adapt"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-    publishedDateTime: 2020-01-05T04:00:00Z
-    sourceUrl: https://www.herald-dispatch.com/business/as-robots-take-over-warehousing-workers-pushed-to-adapt/article_bc5d23c0-75e6-5323-a895-d2fc9fae4935.html
-    type: article
-    provider:
-      name: The Herald-Dispatch
-      domain: herald-dispatch.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
-        width: 700
-        height: 466
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z
@@ -258,6 +258,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "ecWjWBuCl8JuBzBjswd/nSDQLOlN6B1cj/D84z8hk0LYj6H0Vl+wa59bLXudUkuT72LgAcWqICEE50Om8kW0uSCWAUdQaIzybrUAx/sjGH1HJKQiNpkuJ2PppA4Pq6f5AZDdmoKSPjIVFtJpZtHN63nh2NK69tuvGwUlWGXzM4NjQmMwFgUr1u16Njmo12BgkTFWaV2+SjAe3xOCglWTJsY8pTmds0+bPHneCP9fABwni6ZeedFjU2pJ/avpsY1TJQwt2mCrPduhu5CaSoKt+A==;VtV31Aw9AF3EdTYQlPEtdg=="
+secured: "egJvXl/Z/9rLT+PFu+ji1k3OT8I+hrUsPM/0E4cTzPDw5qHa76r2mnR8gUI6hggf4P0i6C3gY2QKvGa0pgM9M4eui//W7BfNMHhZFQv5bNnslkw0zmEvGrDqrAfXP0C3+PxjJDjAz78T47xpfTs6yPTKFk4FWFfTFobjA4xY+a/YhnDz2UfMj13SZ8syw+FNzsldgdpjt7OM04vX4+JwDmH/ldCaE2QZVAlpvywmcAMQ2z91l5oKMPpVcEKe8d+byGd7hf/hAs590IwPMPIvEg==;5EGFdycDVhVYPJP/lk/ipA=="
 ---
 

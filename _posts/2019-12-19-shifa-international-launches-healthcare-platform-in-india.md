@@ -19,6 +19,19 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Why this Dallas company launched an index focused on health care technology"
+    excerpt: "Precision medicine includes companies that provide custom therapy solutions based on a person’s genetic content, environment and other key factors. ROBO's best performing subsector includes companies that are dealing with logistics automation, which use artificial intelligence to make goods faster and cheaper and has helped the boom of the e ..."
+    publishedDateTime: 2019-12-17T13:12:00Z
+    sourceUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.html
+    ampUrl: https://www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/dallas/news/2019/12/17/robo-global-htec-etf.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
+
 secured: "nMKrYNxw46WvB38xjDrM3X/U4ONe8P6794+5drrzuMh4CVtzh6cLpjW2ummZIHWMbOrLdiFFnqCkiFkyiCWvjBLZXitizdvCj6QOIXEL6Xfg7Wp0GZP8WaaBs5ylrRcW1LAnVcf97zZgBm4MbA+VwEewVYiSsVYfysX+qPEh8E2upJAKaMh8TI14ApD33aEJ7l++7Eq8UyMMRf0NEe3ATG/R3vfYcs2uGGhXmb+EbaBygNfFvWG8GrF/8HUl7QzoVBwNvlZubwJsZneactW16g==;SpR4yHimtJvBOASIzKZ9fw=="
 ---
 

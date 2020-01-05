@@ -242,6 +242,19 @@ related:
       - url: https://www.bing.com/th?id=ON.88959E9145188047253D11A3D05C8973
         width: 700
         height: 446
+  - title: "As robots take over warehousing, workers pushed to adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2020-01-05T04:00:00Z
+    sourceUrl: https://www.herald-dispatch.com/business/as-robots-take-over-warehousing-workers-pushed-to-adapt/article_bc5d23c0-75e6-5323-a895-d2fc9fae4935.html
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
+        width: 700
+        height: 466
 
 secured: "/awT0WqWr9/eHfsRC3UWNWfHf/GleUUMr5oXr4z0VKT9hd91eOB7+Ud/yY3mc9GMMxOmUnuyNbSPJfSyDF3P3kNAfeG2o53xwdcM/h2Tj6gZPLgiqIcd9ANyy73+1Kze2HvNcPGJljDZCxuX4CzHA6LXkcMDKApAzh/UHYoq5sdyvpB9FWaDmv0lriCpJpUHBqLFBs6+PjtLnTLOAMCOnL+2X1Xl3IdSYi3SietQDj+O5wIAuHAxAH7qXHq949REv6BVhrLPRLNxgIFwEtaqwg==;tiVBVk3e4RGWjZSvAtykfQ=="
 ---

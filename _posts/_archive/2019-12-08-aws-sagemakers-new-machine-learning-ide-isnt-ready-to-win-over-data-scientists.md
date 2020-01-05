@@ -42,6 +42,6 @@ related:
       domain: infoworld.com
     quality: 86
 
-secured: "DRp5H5P29gXWIHYLRZbwu/XhzS+Ag7JFEguNwgBECfPJRpY3ByIyoFKBb63hffJETXAKQQbeuQs8zypZpkRJ5/iXKepY8JqQ60zH6VNZBeIx5hroHtkXk9gO5W2RB7cejfQlLLnZML8lquuMwBvbJyMFnIp58oXHi2ysLuoiH99wuaP6K6AodN9Jpi9tE22V3zplKHgaF7+iLYzTBPZtwIyZIrudYcwWF3mDfVMkXkmPV9t3UW+L7f8UxX2EAgNkWTYaA1vXJC1jKcGW4NUp7Q==;eNXykmVhCfSXD53j6kD9mg=="
+secured: "6yE25Afv37kqpiQwsXYsDbvTuHAE61/CONRrWQfJEnpAEv/5fGxboRAFU8eAhj1KbwsTmW0/6CSpjv8AanzJsZJYpO4zuT2Y0nLRz82ez345PeD8bDeeY/BtdGSdvUTocEqFM2r4dnERdqFsdS93E01gN/zlTCicOEcUrEzDjZMqkLkKa8PZ0ZHpiXce8dzwQD6MaE0wuEZeTjsGntmiUYWLelsh4G8e/Z5NUyLwH5wOdLFm5ZfIv55xRrsiY0WVkDPYpkq5027iNGd7UN1doQ==;F/WpuR2sqxlzpfTASYJJ6g=="
 ---
 

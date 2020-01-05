@@ -26,130 +26,131 @@ images:
     title: "2020 predictions for healthcare IT from six industry experts"
 
 related:
-  - title: "AU$7.5m stumped up by Australian government for research into healthcare AI"
-    excerpt: "The federal government on Monday announced it will invest AU$7.5 million for research into the use of artificial intelligence (AI) in healthcare. \"Artificial intelligence will be critical in transforming the future of healthcare through improved preventive, diagnostic, and treatment approaches,\" a statement from acting Minister for Health Anne ..."
-    publishedDateTime: 2019-12-16T05:04:00Z
-    sourceUrl: https://www.zdnet.com/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
-    ampUrl: https://www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/au7-5m-stumped-up-by-australian-government-for-research-into-healthcare-ai/
+  - title: "2020 Predictions For AI, DL, And ML"
+    excerpt: "I wanted to share some predictions on what will shape the industry landscape and the work I do at Determined AI. In November 2019, we saw Graphcore make an exclusive deal with Microsoft - in many ways, the first of its kind. This deal provided Azure cloud customers exclusive access to Graphcore's Intelligence Processing Units (IPUs)."
+    publishedDateTime: 2019-12-19T19:20:00Z
+    sourceUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/
+    ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.1FE0750417574D436B98A1D465DDA5C2
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
+        width: 1200
+        height: 675
+  - title: "10 mobility predictions for 2020: AI, 5G, foldable phones, and more"
+    excerpt: "Won't you join me? If the Google Pixel 4 proved one thing, it's that Artificial Intelligence (AI) is not only here to stay, it's going to continue to lead the mobility charge. I'm fairly confident that Google will push to weave AI deeper into the fabric of Android, leading to improved photos, better Assistant interaction, and drastically ..."
+    publishedDateTime: 2019-12-16T19:57:00Z
+    sourceUrl: https://www.techrepublic.com/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
+    ampUrl: https://www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/10-mobility-predictions-for-2020-ai-5g-foldable-phones-and-more/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.D47948FBEC0F4295BDDB869435474BFA
         width: 700
         height: 525
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
+  - title: "Gartner, Splunk & McKinsey – IT Infrastructure & Operations Predictions For 2020"
+    excerpt: "Good advice. DevOps is still popular. Everybody loves IOT and, though to a slightly lesser extent, AI/machine learning and natural language processing. Obviously. The emphasis on cloud development platforms – Infrastructure as a Service (IaaS) – is growing – as it should. The very definition of infrastructure provisioning and management ..."
+    publishedDateTime: 2019-12-16T14:12:00Z
+    sourceUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/
+    ampUrl: https://www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2019/12/16/gartner-splunk--mckinsey--it-infrastructure--operations-------------predictions-for-2020/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
-    publishedDateTime: 2019-12-20T08:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
-    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
-        width: 400
-        height: 518
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-17T05:34:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 53
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+      - url: https://www.bing.com/th?id=ON.451A448F9BA32B07B1886B80C67F7FF6
         width: 600
         height: 315
-  - title: "AI in Healthcare Market Worth $31.3 Billion by 2025: Grand View Research, Inc."
-    excerpt: "SAN FRANCISCO, Dec. 16, 2019 /PRNewswire/ -- The global artificial intelligence in healthcare market size is expected to reach USD 31.3 billion by 2025, growing at a CAGR of 41.5% over a forecast period, according to a new report by Grand View Research, Inc. The rising demand to reduce healthcare costs, increasing adoption of precision medicine ..."
-    publishedDateTime: 2019-12-16T09:09:00Z
-    sourceUrl: https://finance.yahoo.com/news/ai-healthcare-market-worth-31-090500748.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/ai-healthcare-market-worth-31-090500748.html
+  - title: "Artificial intelligence predictions for 2020"
+    excerpt: "Artificial intelligence (AI) has become integral to practically every segment of the technology industry. It’s having an impact on applications, development tools, computing platforms, database management systems, middleware, management and monitoring tools—almost everything in IT. AI is even being used to improve AI. What changes in core ..."
+    publishedDateTime: 2019-12-23T11:01:00Z
+    sourceUrl: https://www.infoworld.com/article/3509465/artificial-intelligence-predictions-for-2020.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 50
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
-    publishedDateTime: 2019-12-19T20:50:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
-        width: 400
-        height: 518
-  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
-    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
+      - url: https://www.bing.com/th?id=ON.04FCF9A19F1AEB542FA11CC50E34B3C6
+        width: 116
+        height: 116
+  - title: "Software predictions for 2020 from around the industry"
+    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
     type: article
     provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
     images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
-  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
-    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
-    publishedDateTime: 2019-12-17T08:02:00Z
-    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "$7.5 million for artificial intelligence research has potential to transform health care"
-    excerpt: "The Morrison Government is investing $7.5 million for research into the use of artificial intelligence in health care. Artificial intelligence (AI) will be critical in transforming the future of health care through improved preventive, diagnostic and treatment approaches. Research into the use of AI is likely to provide significant benefits ..."
-    publishedDateTime: 2019-12-16T05:07:00Z
-    sourceUrl: https://www.miragenews.com/75-million-for-artificial-intelligence-research-has-potential-to-transform-health-care/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 30
-    images:
-      - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
+      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
         width: 640
-        height: 423
-  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
-    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
-    publishedDateTime: 2019-12-16T14:13:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
+        height: 426
+  - title: "Top tech and data predictions for 2020"
+    excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
+    publishedDateTime: 2019-12-26T11:30:00Z
+    sourceUrl: https://www.itproportal.com/features/top-tech-and-data-predictions-for-2020/
+    ampUrl: https://www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
     images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+      - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
+        width: 700
+        height: 467
+  - title: "IBM Research AI Predictions for 2020"
+    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
+    publishedDateTime: 2019-12-17T17:08:00Z
+    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 43
+    images:
+      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
+        width: 1010
+        height: 1003
+  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
+    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
+    publishedDateTime: 2019-12-19T13:42:00Z
+    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
+        width: 116
+        height: 116
+  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
+    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
+    publishedDateTime: 2019-12-17T08:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 448
+        height: 630
 
 secured: "LJkcDwQxl9Tv+XYq//C2u6sJ9r5jpTwFODome13naRuDORMSF+MoObRNeUZ6USRT7vzBrt5c2Vq0IJ2zXQJJcH+QtofrhlGGyg43byXjnDFewku6QVQMFXsQimMYYbn5MHJqtlD75R2I9mdA8SK8hfreBU+uxx8Q+Z5QJd8tla+MyXSLH7pSL8XHui+FXJ7ZnPeIvpxra9oGpvZiBFfOwnY9CsnT2P9a7JTVYCayQiahZveydRPImiIziipaSqXp9U6f3PuXgKQsubBb5hectA==;HJzbMkUosD6cAcm0B581ew=="
 ---
