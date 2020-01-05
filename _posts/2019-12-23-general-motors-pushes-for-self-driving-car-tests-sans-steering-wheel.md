@@ -60,21 +60,6 @@ related:
       - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
         width: 1275
         height: 781
-  - title: "Let’s Not Butter Up Those Self-Driving Truck Highway Stunts"
-    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
-    publishedDateTime: 2019-12-16T17:29:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
-        width: 600
-        height: 315
   - title: "GM requests green light to ditch steering wheel in its self-driving cars"
     excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
     publishedDateTime: 2019-12-24T04:40:00Z

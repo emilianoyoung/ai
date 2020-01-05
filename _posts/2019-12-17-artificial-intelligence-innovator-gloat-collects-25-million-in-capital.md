@@ -45,19 +45,6 @@ related:
       - url: https://www.jewishpress.com/wp-content/uploads/AI-Robot-Forklift.jpg
         width: 880
         height: 495
-  - title: "The Introduction of Collaborative Robots"
-    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
-    publishedDateTime: 2019-12-16T17:10:00Z
-    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
-        width: 700
-        height: 425
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation, rising demand for vision-guided robotic systems and high adoption of 3d computer ..."
     publishedDateTime: 2019-12-16T18:09:00Z

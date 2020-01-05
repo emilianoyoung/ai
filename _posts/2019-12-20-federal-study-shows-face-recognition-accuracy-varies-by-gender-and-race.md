@@ -605,21 +605,6 @@ related:
       - url: https://www.bing.com/th?id=ON.463A47C8289510F92A84A2000F0BE7D7
         width: 700
         height: 466
-  - title: "Serie A to tackle racism in Italy with facial recognition, says CEO Luigi De Siervo"
-    excerpt: "Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behaviour with racist chants aimed at Romelu Lukaku, Franck Kessie, Dalbert Henrique ..."
-    publishedDateTime: 2019-12-16T17:34:00Z
-    sourceUrl: https://www.skysports.com/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    ampUrl: https://www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    cdnAmpUrl: https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11854/11888412/serie-a-to-tackle-racism-in-italy-with-facial-recognition-says-ceo-luigi-de-siervo
-    type: article
-    provider:
-      name: Sky Sports
-      domain: skysports.com
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.5727B12614FDFAC2E7FBE963E7045D39
-        width: 700
-        height: 393
   - title: "Tea, buses and elections: 7 uses of facial recognition that sparked debate in 2019"
     excerpt: "TBILISI, Dec 23 (Thomson Reuters Foundation) – From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year, fueling concerns over misuse. There has been growing global debate over the technology ..."
     publishedDateTime: 2019-12-23T04:01:00Z

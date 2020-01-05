@@ -44,19 +44,6 @@ related:
       - url: https://www.jewishpress.com/wp-content/uploads/AI-Robot-Forklift.jpg
         width: 880
         height: 495
-  - title: "The Introduction of Collaborative Robots"
-    excerpt: "Programming also restricts the cobot’s speed to a standard and safe limit standardized by organizations like the American National Standards Institute (ANSI), International Standards Organization (ISO), and the Robotics Industries Association (RIA). Artificial Intelligence (AI) is also being used with cobots to allow it to understand ..."
-    publishedDateTime: 2019-12-16T17:10:00Z
-    sourceUrl: https://www.automationworld.com/factory/robotics/blog/21106484/the-introduction-of-collaborative-robots
-    type: article
-    provider:
-      name: Automation World
-      domain: automationworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.0600C373C0B0114D60CA874A2FF73FE7
-        width: 700
-        height: 425
   - title: "Artificial intelligence innovator Gloat collects $25 million in capital"
     excerpt: "Career development company Gloat is tapping its new round of funding to expand its New York and Tel Aviv offices. The startup, which uses artificial intelligence (AI) to help companies evaluate their workforces, raised $25 million in Series B capital. The round was led by Eight Roads Ventures, the proprietary investment firm backed by Fidelity ..."
     publishedDateTime: 2019-12-17T19:29:00Z

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate 3, with deep learning neural networks leading many achievements. IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - AI in Healthcare
 
 images:
@@ -84,6 +83,6 @@ related:
         width: 615
         height: 384
 
-secured: "JorYF0XWNdv2SsUAGRSbnr6zqS26oDRk9FiZR2Nlg4k2GvBxWFo0H9+d/wwi4NnXsG9XEnx3HVct4NinZsRoyScRHNVQWIJOjqOG5m3NK8jg++Tj5rSxz82LCefwapw+CExKm3reQV96AQq9+XTtjwqcRPVWPdzhsJy/B7sYyytfs/et2nlya15Crgnh4hEYAesdQec210rbKoUT8nyi/afzH4DSZ1RDsNUot41qht97PqKhJEHihLZehzioNCqMuFu3hiNXlHwRKjSUsohUGA==;I61w+ZYI71PGLa+yNW+bzA=="
+secured: "lT+o7uRg5F6v1C+t53DMGgxPUH6JmABpVKaeiScytL5EUDW6O5/8sUEbNVdkRqCIZp+KSdK/xdkVDHqL9bHNwMBGSprERXPHEBtcuXO2/wfLIgrU9PyhAomvUBhtazgGa6BnW4KunGWtkEbwpwIsNw0yOqUAy1XHDJKvOEz4vy3/8ub2RzxWop2oakMwzc0wokOHhKBI1gg0/4pfW2c1MQqqvPwKo/AbibOOdipsbxtbRTP6S/X8PbwGfNpKY+yKFmIurkz3THFryBiChidRWg==;I3rTdCuyHbebBnCwQ0Cp/g=="
 ---
 

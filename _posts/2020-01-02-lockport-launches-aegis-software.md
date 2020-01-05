@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
         width: 700
         height: 366
+  - title: "US announces AI software export restrictions"
+    excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA."
+    publishedDateTime: 2020-01-05T17:43:53Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions/ar-BBYDgGx
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.FC2C336E811149EF64B59D62A6B5D659
+        width: 700
+        height: 367
 
 secured: "uojYFfQB+z5VGCPmcqB7SfyHUEZzaNcSXrGB5cqbyiXDsC17niNafFZX+ud48VT6007Rwieva8FH9ofogdKYh9pIKUjj1FtSBby/GQDpotA0xGQlBjGUiNFE8yD76crCp4g/f8oDeVjJEjmOWhErDQnOXSO0QzKfguX9AO/cYbCxTPWEzx4GsjNx2b9UYfidM3v+OpsjaoCh6LcfpdOxt22fXEogcN76LsBNwxLPUKmOintK9XD+CUhLjNROEzbmuYoffb448UOQRN02S3seSA==;3ypDw8FGRZOhM7wDL7y96g=="
 ---
