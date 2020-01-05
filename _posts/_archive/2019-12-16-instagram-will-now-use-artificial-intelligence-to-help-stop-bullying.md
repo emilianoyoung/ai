@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
-excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
-publishedDateTime: 2019-12-16T21:36:00Z
-sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
+title: "Instagram will now use artificial intelligence to help stop bullying"
+excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. How It Works If a user writes a caption on a photo or video that the AI deems offensive, that user will ..."
+publishedDateTime: 2019-12-16T13:16:00Z
+sourceUrl: https://abcnews.go.com/GMA/Living/instagram-now-artificial-intelligence-stop-bullying/story?id=67751631
+ampUrl: https://goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+cdnAmpUrl: https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: ABCNews
+  domain: go.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
-    width: 583
-    height: 700
-    title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
+  - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
+    width: 700
+    height: 393
+    title: "Instagram will now use artificial intelligence to help stop bullying"
 
 related:
   - title: "Are You Being a Jerk on Instagram? AI Will Let You Know"
@@ -53,22 +55,20 @@ related:
       - url: https://www.bing.com/th?id=ON.DC5E66B6ABDA8BB44C15691D5A9E5872
         width: 700
         height: 393
-  - title: "Instagram will now use artificial intelligence to help stop bullying"
-    excerpt: "Instagram has a new feature that will use artificial intelligence to help combat bullying. The photo-sharing social media app announced exclusively on \"Good Morning America\" that it will begin the roll-out to its billions of users on Monday. How It Works If a user writes a caption on a photo or video that the AI deems offensive, that user will ..."
-    publishedDateTime: 2019-12-16T13:16:00Z
-    sourceUrl: https://abcnews.go.com/GMA/Living/instagram-now-artificial-intelligence-stop-bullying/story?id=67751631
-    ampUrl: https://goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
-    cdnAmpUrl: https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/instagram-now-artificial-intelligence-stop-bullying-67751631
+  - title: "Instagram Will Start Using Artificial Intelligence To Combat Bullying"
+    excerpt: "Instagram is trying to change that. Earlier this year, Instagram rolled out a feature powered by artificial intelligence that warns users when their comments may be considered harmful or offensive and gives them a chance to delete or reword the remark (or leave it unchanged). Now, the app is expanding this feature to include warnings for in ..."
+    publishedDateTime: 2019-12-16T21:36:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/instagram-start-using-artificial-intelligence-200257944.html
     type: article
     provider:
-      name: ABCNews
-      domain: go.com
-    quality: 57
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.0CE4AB23FCF95A53F7BE7506F70B3661
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.839E58ED686E90DB535FC33BC4B517D5
+        width: 583
+        height: 700
 
-secured: "EjKO4s1XScDrgu7eT12l6DT0TSlo8+GE3BNGXNJQQZhYAm4ZEdBg1y47VBy7piZoJt0z6WSsjzcjcdPtzXRIwuBXUb79e0wT+EVhhFS5+c+J3pzQOieg3YvJXRiih1Rar5yfnFNP9h7HiWOZWDAqVFvBUL7CB1OIGwRpu2TwT1Mc6Ror6Woezga7IuvT8MTD/YYTLQeXFCJlfVxgwCxpYVxEq3x5HQxCjlyc6GPwTxljVAZnPFJHEU0LZYY4NnltaGVoQVCT7/y5vCFkyxUp7g==;I6vLjRIO+pZbvSsPo84PKQ=="
+secured: "yo6pTEfRY5l8K/tUvahzuhyxo66fyZJlDcwSVRlnlMemFSOVr4ll55L+ENnjp3WeTDxDK1+r/45LejahaLZOhuKg/vSoXSd5jjOdIJUNMSqWMogJrVi68QqScsmxouKnfvGugMVwcBIXT5aJ1/nnj7PLw7DJCgbCu5L6SqK6lHOSUgrVhV/PaTbjZDR8dB5X8TMDumH0kCxEJD0uQdeCdS/Fq7GUnTPjOp6cdCjkPlLMW4jTems+/gQHYIhTEhp+kNHkpdlNcbS33+XBzBkH0A==;W5TPelM5jO7sFw8lrKVakA=="
 ---
 

@@ -22,19 +22,6 @@ topics:
 related:
   - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
     excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
-    publishedDateTime: 2019-12-16T12:56:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
-        width: 700
-        height: 365
-  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
-    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
     publishedDateTime: 2019-12-17T00:07:00Z
     sourceUrl: https://finance.yahoo.com/news/2019-huawei-ai-analytics-software-135600856.html
     ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
@@ -96,6 +83,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "/VfopfeTOMY2j4XAsgfxZqylQXJYeUtoTN7YdrgRFyW7o66IeY4dWu/fpW1fGeJqGVwN2HYDwkYPqCsamTX+w4Qri6g+fhXTvifSeZA6Ut3bOTkvsEfoss3hJpheC5sCrKf6R6sCGGlHCsfpqr3Q5+FiDFw+MmLRse/xT1yWWg1kqSJfJSybDfSkqNi8ZcY7iV6THnOrztKCya+vcIgKlzj8oPGzEjqCy9zxtTV1PNe4l2814hlgXRbkwxNC3obZ2J+NyUdKQ2bcgVV/Zd7jdg==;29weSEjRacSygGNpCGGWKg=="
+secured: "mt8dDuDX6a9CvR2a8KRM59CJTqd82aoj3B2sirvYzFgr5YqlNQkagTo1kjViOJ8cdg+aRNQKfOQnAnGStq4dDAOB0lGXmuavkEo6IlBoCtU4u34pFMTeEqI6HrU9XTv7vJvhTiWbfhd6IXrA2vZOBBvhNDkTrWJLwkFO89wZd8XOtAlaHk4df5oLhURcAzybm585H+D0Up3pp7e9FRU6Ug8OytztDbpQcZ8jDUqpfaaRGWQMiTs7VLFAQiHf7sz9BfPNy7DgjrMvAlIs0efxPg==;1ov59E8OR6D23F43EyHaDg=="
 ---
 

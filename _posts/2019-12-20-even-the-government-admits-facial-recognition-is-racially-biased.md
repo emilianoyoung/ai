@@ -1073,19 +1073,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
-    excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
-    publishedDateTime: 2019-12-16T12:36:00Z
-    sourceUrl: https://www.ibtimes.com/microsoft-preps-apple-face-id-rival-more-advanced-facial-recognition-2886277
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.72B09EB6E5DCB0EE8B8662AAD8D53666
-        width: 700
-        height: 466
   - title: "Human Rights Commission wants moratorium on expanding facial recognition"
     excerpt: "Australia’s human rights watchdog has taken a bite out of the rapidly expanding facial recognition and biometric matching market, proposing the government institute an interim ban on using the controversial technology for decision making because it is flaky and struggles with people of colour. In a sharply critical assessment of unregulated ..."
     publishedDateTime: 2019-12-17T02:42:00Z

@@ -18,37 +18,19 @@ topics:
   - AWS AI
 
 related:
-  - title: "Global Artificial Intelligence in Retail Market Prognosticated to surpass USD 27.23 Billion at a Staggering 51.2% CAGR by 2025"
-    excerpt: "Inception of exponential technologies such as sensors, robotics, virtual reality, and artificial intelligence in the retail industry has enabled the retailers to enhance their interactions with consumers and transformed the way retail operations were performed. This change in the industry is prominently driven by the seismic shift in the ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-prognosticated-to-surpass-usd-2723-billion-at-a-staggering-512-cagr-by-2025-2019-12-16
+  - title: "Explosive growth of AI Products Market by 2020-25 focuses on major key players Open AI, IBM, NEC, Nuance s, Google, Microsoft and More"
+    excerpt: "Fingenius Ltd The AI Products market report then split by types like Computer/GPU Chip Hardware, Cloud Hardware, Others and by Applications like Media and Advertising, Healthcare, Automotive and Transportation, Others Major Points from Table of Contents Ask your queries or custom requirements about this report at https://inforgrowth.com/enquiry ..."
+    publishedDateTime: 2019-12-18T09:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/explosive-growth-of-ai-products-market-by-2020-25-focuses-on-major-key-players-open-ai-ibm-nec-nuance-s-google-microsoft-and-more-2019-12-18
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 37
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
-    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
-    publishedDateTime: 2019-12-18T11:01:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 1
-  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
-    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
-    publishedDateTime: 2019-12-19T14:18:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
 secured: "0IEvgnkM4TlaUOeG+oQPY6OO/Yy7rO0bddaDI97cVnWBbQ6HV7pXO9ycRYAmYb9REjHvYdXxxtD67Q+n3f5yyB/Jr7UFRR0C1z1NM62UWoh7xEDtY61MIFivf3VR3O/umsDY9o81ZWHfyq3DnjMx08RutevT6vWtVV9atjPcP5HRyyHb01sS5rxA+HTX3S6blcsRalWTf/ng7+zCqgw9FXo9IL8SLXDqkJkD56OTBCTYOefI+syzmH35Xctiur0UaKNZz754aN2b9/h2P8v0UQ==;+Wlqx5jsQy5vqHtkJZExyw=="
 ---

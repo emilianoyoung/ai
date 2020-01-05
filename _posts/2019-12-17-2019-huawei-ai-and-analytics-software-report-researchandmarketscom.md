@@ -8,7 +8,7 @@ ampUrl: https://finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/2019-huawei-ai-analytics-software-135600856.html
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -20,19 +20,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "2019 Huawei AI and Analytics Software Report - ResearchAndMarkets.com"
-    excerpt: "Huawei's full stack' solution for AI and analytics enables its customers to have a 100% Huawei-made hardware stack, including chip-level components, big data platforms, a development tool for generating insights and a governance framework for the delivery of AI for data insights into applications and processes. Key Topics Covered: For more ..."
-    publishedDateTime: 2019-12-16T12:56:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191216005435/en/2019-Huawei-AI-Analytics-Software-Report--
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CA7F50377DBDD58832DC9AD27363E3C3
-        width: 700
-        height: 365
   - title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
     publishedDateTime: 2019-12-16T09:06:00Z

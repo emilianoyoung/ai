@@ -452,19 +452,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/differential-1576697206.jpg?crop=0.998xw:1.00xh;0.00321xw,0&amp;resize=1200:*
         width: 2495
         height: 1250
-  - title: "62% of Brits would trial retina recognition identification - Equifax"
-    excerpt: "The survey, conducted online with OnePoll, also revealed fingerprint was currently the most widespread form of biometric verification, regularly used or tried by 54% of respondents, followed by facial (32%) and voice (29%) recognition. Unsurprisingly ..."
-    publishedDateTime: 2019-12-16T12:14:00Z
-    sourceUrl: https://www.finextra.com/pressarticle/80951/62-of-brits-would-trial-retina-recognition-identification---equifax
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
-        width: 480
-        height: 270
   - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
     excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
     publishedDateTime: 2019-12-17T17:56:00Z
@@ -629,6 +616,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Q5K6xDxMabFR6TWwkg8X7JoF0eE11vYQtMzkZzqRJZ34CA75bkMdDWWVi7XA5XmqyyBMOAcj5v5Mckxt4tZJKlsGXEMa7Cj62Zc2Dick/5jpd8Q3bY+LcsfFmBH2hzi499ORaQePrKi9f6w/WSgSH7GAaIvQxRoOCGDCmc6ck+piNuTRbwSKnYcqYN2WjnaUfoOCe+7Ssqt/+uWCnqDXst5GzEE1PMWJPTOr4kmK/vMrtBlZVfbMBsSbK14axsy31ac7paH8gYWHndYzYUYcmQ==;zC592RAr89fqKLxzK3WDuw=="
+secured: "phm+u3nsiTYbE0OvePn9mzaAIZRMXe8KzBLGfsfz7Y9k8y4ImB6E1s3gMSeIWQD18B8Eb941g+Y4QEh7VnVBK6gGYUZMA8Eyu6SwjOJ7MmNvwJI+HSLzhfMz5lSevlz3hUbh5+vZBAvH+pLyEDGZvDkIgpgku6e0QkWpo700AcQchsREGrHXEF5i/1QdimN3K8HECPa8e1WALziErM50ZcviYKzq2H7+Z0w2at8bsqWtUa/jIrFFC7hIhV41iG71PfD9wch//Yp0peX9+lTUkA==;DMmGQhXMgTaODbZhosJQzQ=="
 ---
 

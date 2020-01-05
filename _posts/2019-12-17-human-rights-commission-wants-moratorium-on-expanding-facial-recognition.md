@@ -1082,19 +1082,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "Microsoft Preps Apple Face ID Rival With More Advanced Facial Recognition"
-    excerpt: "Microsoft is working on facial recognition technology to rival Apple's Face ID The new technology might even be better than Face ID in terms of range The new facial recognition tech might make its debut on the upcoming Microsoft Surface Duo foldable Apple surprised the smartphone world when it introduced Face ID on the iPhone X years ago."
-    publishedDateTime: 2019-12-16T12:36:00Z
-    sourceUrl: https://www.ibtimes.com/microsoft-preps-apple-face-id-rival-more-advanced-facial-recognition-2886277
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.72B09EB6E5DCB0EE8B8662AAD8D53666
-        width: 700
-        height: 466
   - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
     excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
     publishedDateTime: 2019-12-20T01:31:00Z

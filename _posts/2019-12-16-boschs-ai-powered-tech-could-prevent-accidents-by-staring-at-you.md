@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/cars/bosch-developing-artificial-intellige
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-developing-artificial-intelligence-powered-in-car-monitoring-system/?amp
 type: article
 quality: 172
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 700
     height: 366
     title: "Bosch’s A.I.-powered tech could prevent accidents by staring at you"
-
-related:
-  - title: "How self-driving car tech could help drones monitor power lines to prevent wildfires"
-    excerpt: "So far, the (very inconvenient) solution has been to just shut off electricity entirely during days with high wind. But a Bay Area company says they have another answer, and it uses the same technology that lets self-driving cars “see” their surroundings. Quanergy is most well known for building the LiDAR sensors that help power autonomous ..."
-    publishedDateTime: 2019-12-16T13:00:00Z
-    sourceUrl: https://www.fastcompany.com/90442316/how-self-driving-car-tech-could-help-drones-monitor-power-lines-to-prevent-wildfires?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 17
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-90442316-the-same-tech-that-helps-self-driving-cars-see-could-help-prevent-wildfires.jpg
-        width: 1280
-        height: 720
 
 secured: "UKjcZUjT6lEpjiZczNeZFJ6kdKQLVXh+FkKFGx92EceIdoxo8jMcBu0jzt4v3CuEVn8RlvcDlJnY/QsPqoIQklCZGd/BuDb4hUmt7EOkAtGclT9deCDUU8aos9mmxABYbIVjqjcqdolrdj1zr6kAD288zKSduhWVrO2ILYyN/BAjsYrsO33yIZglT0CsmijGvWHmaJZyBWz2Wpr1aBPNWDSuiIig9cDbU8aUJwQKd6/r1BmqjQn0PmjnheKbc9tz7VepKpbhXJClUhV5Wv+Rsw==;RdOB1u90Xgg5fEOUcyFIHA=="
 ---
