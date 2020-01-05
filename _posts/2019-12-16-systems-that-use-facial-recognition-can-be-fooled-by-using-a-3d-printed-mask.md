@@ -190,21 +190,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
   - title: "Narita, Haneda and Kansai to allow facial recognition boarding"
     excerpt: "TOKYO -- Japan's three main international airports will start using facial recognition to streamline security checks and the boarding process starting in 2020, cutting wait times ahead of the ..."
     publishedDateTime: 2019-12-16T20:00:00Z

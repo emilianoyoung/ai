@@ -34,19 +34,10 @@ related:
       domain: telegraph.co.uk
     quality: 32
     images:
-      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Dentist-vid1-AEM.jpg
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-critizr-AEM.jpg
         width: 1960
         height: 1226
-  - title: "Speech and Voice Recognition Market Is Booming Globally"
-    excerpt: "Speech and Voice Recognition Market report is a comprehensive study in the Speech and Voice Recognition Market it tells about what the market status in the forecast period of 2018-2025. The report provides with CAGR value fluctuation during the forecast ..."
-    publishedDateTime: 2019-12-13T07:11:00Z
-    sourceUrl: https://www.openpr.com/news/1879011/speech-and-voice-recognition-market-is-booming-globally-with
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 4
 
-secured: "I/1sxuTydz7Q4EBGe0agNCdnHj0rTdGTXtZjnpds4vE7eQSHRvXNeVtrsMX1fUgTn9y2nlyO1VtlWrquIt6F+x6zwMoodL2AWFYTsdy0XmQ+uYOLhEtzJ7YdG+K/igUOU1dihnvpzXw42xeMfJ2OaS3dVX+Vgc/2swQryo63p8i7C6jQu6yjAPAntf4gnoD9k49ZxSo/4mCpysxmBMLz7NZXjJTHgtEHbR5uvjx8tk8lbl0aCloI7Urv6NzamS7mBzyNVQIZixr/2wCAdbP9sw==;09AQXaDH18Qg7aHvIKUX6w=="
+secured: "PjaaQfuadgD1unDRWodZTLujG5YcbPqvB7hfCh0xj5sNv+PYiGpmK2XMBWdqKqcunu3+Mnro/VnQEZulYnTL8BoZzmSCw2LcBrcpdJYH/m4BfufSfXNf88o45PVqzYAjIEHtczxFyMBIjIiL8SrFfK5ejeJN6UWsNlaixuY0cbRX3W/rs1rRhwLH9eWcexASl5lrH/aRz+w+hR1b77oBmqxPFK1j7t5MA389ycptXCYc5ynvleJw/rXUTGWvI8wNN+uycC4OjeDr0i21rMOS5A==;Md+O65Oa+S7lXWrKAaPM/Q=="
 ---
 

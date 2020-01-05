@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Artificial-intelligence-c
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Artificial-intelligence-can-detect-AML-with-high-reliability.aspx
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -26,6 +26,21 @@ images:
     title: "Artificial intelligence can detect AML with high reliability"
 
 related:
+  - title: "AI can detect blood cancer with high reliability"
+    excerpt: "IANS | December 21, 2019, 17:32 IST London: Artificial Intelligence can help detect one of the most ... could support conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience."
+    publishedDateTime: 2019-12-21T11:54:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/ai-can-detect-blood-cancer-with-high-reliability/72916009
+    type: article
+    provider:
+      name: ETHealthworld.com
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://etimg.etb2bimg.com/thumb/msid-72916009,imgsize-104312,width-800,height-434,overlay-ethealthworld/ai-can-detect-blood-cancer-with-high-reliability.jpg
+        width: 800
+        height: 434
   - title: "Artificial Intelligence can help detect blood cancer: Study"
     excerpt: "Possibly, the diagnosis would then happen earlier than it does now and therapy could start earlier,” added Schultze ... We therefore wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say trainable algorithms,” said Schultze. Data from more than 12,000 blood samples – these ..."
     publishedDateTime: 2019-12-22T05:24:00Z
@@ -41,15 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8527B0B2E6466C345509C302DBF0B50D
         width: 655
         height: 353
-  - title: "AI can detect blood cancer with high reliability"
-    excerpt: "London, Dec 21 : Artificial Intelligence can help detect one of the most common ... could support conventional diagnostics and possibly accelerate the beginning of therapy, said the study published in the journal iScience. In the early stages the symptoms ..."
-    publishedDateTime: 2019-12-21T20:53:00Z
-    sourceUrl: https://www.newkerala.com/news/read/267954/ai-can-detect-blood-cancer-with-high-reliability.html
-    type: article
-    provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
 
 secured: "/ojpma/za2WukkxljKHUUVPxHMo66gInyz3/ghfO2CTVW3llsTZxYkfd7VzT96TsRJH4jGtQfToGL5PlXYSKih8ysp0tMutv7jJmABm2Yr+po/Aq4aF1tTO0h8NvFaOL8xl/42X5mj93yaCGAJ03D9r5qHA+cAF06eI5XQmn6cVIYKMey8xVX/klhJozVXG82dgrcWJ+muQ8BOXIGaWzw21dru5px1+ktogQhwiajjYekx6fHpcHcWhNwkUoolr7TehJi2qUK8xVW2Froup4ow==;a0olAVS+VNVXIC/5oGGQZA=="
 ---

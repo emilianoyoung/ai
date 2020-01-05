@@ -59,19 +59,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 50
-  - title: "New technologies to transform healthcare in 2020"
-    excerpt: "Artificial intelligence and machine learning have further helped genomic medicine with producing ... It can assist a doctor in understanding the possibilities for a successful outcome of a procedure, help make therapy decisions, and manage chronic diseases. They can help improve patient experience through effective, patient-centric care."
-    publishedDateTime: 2019-12-16T09:00:36Z
-    sourceUrl: https://www.msn.com/en-ae/news/other/new-technologies-to-transform-healthcare-in-2020/ar-AAKamG5
-    type: article
-    provider:
-      name: Gulf News on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.69367A7BE8E73E991B2BEDC8A49D8AF1
-        width: 540
-        height: 405
   - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
     excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
     publishedDateTime: 2019-12-17T08:02:00Z

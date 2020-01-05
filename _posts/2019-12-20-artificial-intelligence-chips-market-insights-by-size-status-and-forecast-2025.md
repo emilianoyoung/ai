@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T12:07:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
 type: article
 quality: 80
-heat: 360
+heat: 350
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 77
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market To Make Great Impact In Near Future By 2029"
-    excerpt: "Dec 16, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
-    publishedDateTime: 2019-12-16T08:24:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-to-make-great-impact-in-near-future-by-2029-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

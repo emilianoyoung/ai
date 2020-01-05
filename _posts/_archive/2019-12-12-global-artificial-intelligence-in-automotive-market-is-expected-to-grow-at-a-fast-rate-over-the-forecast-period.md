@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
 
-secured: "hku4N90zkR+7J6//2jbWvFKoQd7OAqP8QkbhsgJc8F480Vsy+yUtpf1uTOYQSbOBsFH34iRHqp2HontahOYq8v46+K1aALFVXixnEiLR7kNKaX0IUAUCV84KFxnVdvYIH1Rc3h+1FfOkCnLjfVX/l+iVB4SNBloKuiTs/oTp2rXiOpE3v3Lfsi4NZxhsD1DokSHSNPrdAdr70IBtXLxfJUewyFv9rLSzYvqgib9m8/rxmJN9D7UhAJYXzRJ09s8ruHyEvpRE40Jn1GmmwM1NgA==;S/nf/7jOam3e6uFQIo1tGQ=="
+secured: "z/fZVqk7YjgR/r/EyiL3h2HfY10MmYJDXSfrt3afrtEDAsjufDti2d4Tpy2wKggxh5N4sU3Ln8vKEUEF6NMWl2fee0G+Zmu7OWd2Y3qZxrIeZyO7LnnaDtffkXOnQEO3o5gn7+ddU8Adbs4pykVe03mJuBXRuimNJeISWlNIUW9DdyOKkts7AurbbiqU32uiBOf39lycxArctkLun4ZnOwfbkWyxVkCsv/GNgWUI5dSzll6EHOSonH2Kh6AUswrUKdiUbOo21CnS5in83WqdXQ==;FEbCNahh2ekoY5TS3LqGdw=="
 ---
 

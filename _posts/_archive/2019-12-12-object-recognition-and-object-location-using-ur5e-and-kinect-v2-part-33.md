@@ -179,21 +179,6 @@ related:
       - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
         width: 4030
         height: 2498
-  - title: "Fintech: How innovation is dragging the region's banks into the 21st century"
-    excerpt: "“Fintech stands for financial technology companies and these are companies that provide ... Artificial intelligence: More than just robots replacing jobs, many companies are using AI to reduce mundane work practices. Electric vehicles: While the region has a high percentage of car usage, it has been slow to embrace electric models."
-    publishedDateTime: 2019-12-16T08:56:00Z
-    sourceUrl: https://www.arabianbusiness.com/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    ampUrl: https://amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    cdnAmpUrl: https://amp-arabianbusiness-com.cdn.ampproject.org/c/s/amp.arabianbusiness.com/amp/article_listing/aben/435509-fintech-how-innovation-is-dragging-the-regions-banks-into-the-21st-century
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.2CB447FE5BB7602904C4E9C2F3BE966B
-        width: 700
-        height: 367
   - title: "Systems that use facial recognition can be fooled by using a 3D-printed mask"
     excerpt: "Facial recognition may not be as secure as previously thought. Researchers found that the technology can be fooled by using a 3D-printed mask depicting a different person's face. The mask was able to trick payment a system at a border checkpoint in China a passport-control gate in Amsterdam. The security flaw was discovered by researchers with ..."
     publishedDateTime: 2019-12-16T16:50:00Z
@@ -644,6 +629,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "OnAFTGZORW1IQ2lzy8oqm/l+fOusgEgiF641Fb4TUi4WyEP8vA9yTQNrDlFzL5t0gCxXZi7mX3RC12ZocxktXwiVTU5SSMvj64yTCkWF2x8Z1ZKXFPrwrTXj/XQU0gmbV3EqsbJcDGUHNZ5JBfo2AKXDBEjZ51utHMPrPOMZUryO7O57Ie6NbHMAfozd7/V0d4YsS+pbNf6FYJoFQLxO3UpcAZDq9R9ipRV/fnVBaP3Uo1x8e3IwgFuwqrWb4Q/S/6rfWJoa5cIxsEQ6hBJqAg==;xDybzm4gMJaq0zYlq/pdOA=="
+secured: "qdFbc7/kiFMbN+htJvP9/DcLx93dq+MeFhdf+ELBNo4PRqtXEwJ8I9LmwJZXGDxrUUZMmjZDp4QT+obBEmgXxBefSzMyRX4/CBfmeaeCGTZ9F6ZgXjmLo0W5X6ThqLm0v+moBAr0Gu/slKF1LK2p90PQkGkRxvbvdOkqpkZ9Iv901m1mqLdDXDpZ0L7evFa6i8xIevTfqiPSOXHBh7TByqywv9f7xPy3AmfTEYMpVW4zgj/NIom9I1jUyNhvKv2gmBXoGjD18orEXa6FEKXeTQ==;1a4JW1H96ar60h6Ee6oeSg=="
 ---
 

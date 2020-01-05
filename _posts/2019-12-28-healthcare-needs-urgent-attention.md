@@ -77,7 +77,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 61
+    quality: 59
     images:
       - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
         width: 639

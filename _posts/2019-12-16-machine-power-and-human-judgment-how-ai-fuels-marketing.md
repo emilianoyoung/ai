@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/acoustic/2019/12/16/machine-power-and-human-judgment-how-ai-fuels-marketing/amp/
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 600
     height: 315
     title: "Machine Power And Human Judgment: How AI Fuels Marketing"
-
-related:
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024. This market report is related to globe report, Market Share, Size, and Trends, and forecast data ..."
-    publishedDateTime: 2019-12-16T09:02:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
 
 secured: "jiIjPyj+qIjwwWgCvc9HV1jki3RaJ6dQLNRBSo+COgF3nfmzcp7fxtVHIRBbu68l2E+GYnXjvus7XXzdUuJPi08uCFehdjNwtV0wKg4rLm5n54sCFFeFsAp6KzfdgejuYtGrPbCbePZdvHOdt526e171NXro0+lL9ZjRLqwzu9Gm8rSjBrYQiiLZosux931wXl5URALk/yVUQKukNz8uHyHftAEQtd5y631Kd7b4IT++2RRCzISdJgvPXG7owZ2rdNTYJ2t5uc7LCw+Rh9lwGg==;Q+Vr3apZBMYKsAG/dDCeoA=="
 ---
