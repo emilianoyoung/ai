@@ -346,21 +346,6 @@ related:
       - url: https://video-images.vice.com/articles/5dfcf649db0e93009a997763/lede/1576860263454-GettyImages-1080070086.jpeg?crop=1xw:0.8458646616541353xh;center,center&amp;resize=1200:*
         width: 4000
         height: 2250
-  - title: "'Very worrying': Call for AI, facial recognition reforms to prevent discrimination"
-    excerpt: "The Australian Human Rights Commission has unveiled draft proposals to prevent discrimination driven by artificial intelligence (AI) and intrusive facial recognition. Human Rights Commissioner Edward Santow said there were concerning developments in Australia and abroad that underscored the need for reform in the digital space. Human Rights ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://www.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    ampUrl: https://amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/very-worrying-call-for-ai-facial-recognition-reforms-to-prevent-discrimination-20191216-p53kih.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.EB0DC1FD4206C54F35193FC26C181EE6
-        width: 700
-        height: 393
   - title: "Federal study finds racial and gender bias in facial recognition algorithms"
     excerpt: "A new study from the Department of Commerce says that facial recognition technology may have more trouble recognizing people of color and women. NBC News’ investigates the potential downfalls of this new technology.Dec. 20, 2019"
     publishedDateTime: 2019-12-21T01:02:00Z

@@ -27,21 +27,6 @@ images:
     height: 454
     title: "Toyota to Deploy Advanced Self-Driving Capabilities in Mobility Service Vehicles First"
 
-related:
-  - title: "Abu Dhabi airport completes self-driving wheelchair trial"
-    excerpt: "Dozens of passengers took part in a trial using self-driving wheelchairs at Abu Dhabi airport. Personal electric mobility vehicles made by Japanese company Whill helped users with disabilities to navigate crowded areas, lounges and gates during the five-day pilot. The devices are fitted with sensors that detect obstructions and have an ..."
-    publishedDateTime: 2019-12-16T13:20:00Z
-    sourceUrl: https://www.thenational.ae/uae/transport/abu-dhabi-airport-completes-self-driving-wheelchair-trial-1.952319
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E09F33C15A1798249D52672D7D22B3A5
-        width: 700
-        height: 393
-
 secured: "BhtipMZ+A4IAp1v0+OAigwvHM6P2gTGaX61wmHZ2QPeY19mNdorI1+ExpL0Q/p5GwvnL1HTCrBw0yk4eVDdVTR4aQJ7Op4mjv8sq2ZDhFqLfgasp/b1sUcgaq5+5QFfkaicEUnQqaMH0VQcMCyMRjIrLXBJIAzrVmxRFEh8LPQWbVNFjRQWaTfG8u4Pdyd30i6ou/TqcAAnZM2agm0Ligl2rNCbjB7mOznP1MFDrSdFWD7CnK7Zl28YdciEdaymJjwsv/qyJu4ht2NY8NFgTCw==;GFAa2RuhpyoLfNiJQT5UDg=="
 ---
 

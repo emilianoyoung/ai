@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investiga
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
 type: article
 quality: 88
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -146,21 +146,6 @@ related:
       - url: https://cdn.betakit.com/wp-content/uploads/2019/12/GettyImages-547501564-1024x682.jpg
         width: 1024
         height: 682
-  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
-    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
-    publishedDateTime: 2019-12-14T18:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
-    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
-        width: 700
-        height: 350
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
     publishedDateTime: 2019-12-17T18:15:00Z

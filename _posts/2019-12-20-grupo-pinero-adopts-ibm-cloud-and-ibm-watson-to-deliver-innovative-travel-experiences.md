@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DEAFCD1A72D2F7231888F683F51FE564
         width: 700
         height: 347
-  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
-    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Clear standards required for development and use of AI in healthcare"
     excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
     publishedDateTime: 2019-12-16T16:03:00Z
@@ -67,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
         width: 700
         height: 525
+  - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
+    excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
+    publishedDateTime: 2019-12-16T14:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-growth-demand-and-developments-by-2025-2019-12-16
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "wzuqUHUUrXgja2zttacDEms7sWe4YGiGZT/uz+9ugZefEpfhNW07bxNmqrF8ssR//zxE2GPb8dvAQynzD/8hV+M5Gspzt8BeN3cqSmR5XyyMz7oGnO2igOGOREbHmslGvN/4HfZK17WFcLsctzNBffVhy3b2IR9QqtEaycURD4tFS3NTpPQnWB7+0pJz64L94b0WUWw9t33XVvsPfKvhMrRKq6l3tlxZji5PEdxW5Au+iO8fXk9xvv4Pin3VI3gxWv4uELJfYhPq8DhE+STCiQ==;Yu35cSNOyHzPzRNx9aLRAg=="
 ---

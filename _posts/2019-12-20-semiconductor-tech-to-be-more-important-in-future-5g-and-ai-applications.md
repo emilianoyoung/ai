@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T02:14:00Z
 sourceUrl: https://www.digitimes.com/news/a20191219PD213.html
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -16,21 +16,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "The AI Eye: Increased AI-Related Patent Applications and IP Portfolios"
-    excerpt: "As Artificial Intelligence (AI) becomes increasingly visible in the popular imagination through applications such as virtual assistants, computer vision, natural language processing and self-driving cars, companies are unsurprisingly ... Chinese multinational tech and internet firm Baidu (NasdaqGS:BIDU) recently revealed that it has filed ..."
-    publishedDateTime: 2019-12-16T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-increased-ai-related-patent-applications-and-ip-portfolios-2019-12-16
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "NdfcC255nsHr3J9KX2/6lX3OWtoqPx2XP+ftzBf7T7j4ti/df7KFrCT2GgbpcIuq4+pDDXBJtImxwJPl2AdMukuAZFgJA8vBQl5xU/1H1RvHYMIuSisxuGk3Gic38KsWcXIIZ7oH2jHKiC5heofLUSOsh+5OG1HoMZGaiWtF6KTgv704/zWXrC+7axGWGLXIJqd6m6+MPguSXgwJdkPb0zDJ89jY7eU4t9YIG53aHjoeFrwHc47RlvEz6iUPtIVqSf8A2bRVnMg0fYrVOaIRrQ==;dtyi8qNJKVkFFTY87nr3dw=="
 ---

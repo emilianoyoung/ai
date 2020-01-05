@@ -18,6 +18,21 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Human Rights Commission calls for regulation of artificial intelligence"
+    excerpt: "Australia's Human Rights Commission is calling for a moratorium on the introduction of some new artificial intelligence technologies, until the rights of humans can be safeguarded. And many of those inside the industry agree that the technology is taking off too fast for our legal system to keep up. The commission wants to better regulate ..."
+    publishedDateTime: 2019-12-17T03:28:00Z
+    sourceUrl: https://www.abc.net.au/radio/programs/worldtoday/human-rights-commission-calls-for-regulation-of-ai/11806290
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.859EEE6355F70AAE16A5A33CD2C8DC86
+        width: 700
+        height: 394
+
 secured: "9aL+WshmW+hZjzcZVGYQZBEtWpvxcSPHx4i9VK1YylUWYsj9oA+Py+N1g3Cr53nOkbifrOhw01BoFIJx7t06FPEbYwDIYP7genhopDr1gA/wJ45gzX+VfhEebv/P8eceTve0I3brrV0YD0tNdQkkqQmFoBQNISxGf3o//iCnq/FE5nATQEf4CzkjIYWe7/9DBoUjOap+rm720LUHCX2Sre2R8bsNs3EtZQ196HdqMDQP84EKetHokx0U0S+97aH5uhLzpr41cCaUMX1L8KS03w==;sKQCFkOyB4H4sEpIFnRBgA=="
 ---
 

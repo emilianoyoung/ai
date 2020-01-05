@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How this engineer from Chennai built AWS’ ML practice while nursing jet lag in India"
-excerpt: "That's how AWS came about. Today, we have millions of active customers. Now, they want to know the power of AI,\" Swami says. It was on a trip back home that got Swami started on SageMaker. In 2015, ‘artificial intelligence’ did not appear even in the ..."
+excerpt: "Many believe SageMaker, the machine learning (ML) service from Amazon Web Services, has truly democratised the adoption of artificial intelligence (AI) and data science by making it available for developers, corporations, and laymen alike. What you may not ..."
 publishedDateTime: 2019-12-09T00:09:00Z
 sourceUrl: https://yourstory.com/2019/12/aws-machine-learning-sagemaker-reinvent-2019-swami-sivasubramanian
 ampUrl: https://yourstory.com/2019/12/aws-machine-learning-sagemaker-reinvent-2019-swami-sivasubramanian/amp
@@ -19,6 +19,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "DZRFn6o+rAlrULCU+997+gCtt08DdGpOu9XQX1BAWyooJ7x9OLq4z/Hjj3Q87ruMvfiA+gTEF0uZc9Mr/+6r/+AHSFDMdXayDPYxosDNuF3HUwpXM6Nbfp4RcQJWNwlQBkpSAqIkeGkgijD8DkVySyMmNSkokXhCtv/uYFfkRgZ1fzrWee1tvkScCseDCAhjDpprZSpxElwc+A6lPolcQFWS6IDPuz4BCr45OqhmWh9zaGJclu3ZHAVV2rQMvn6z5cqGi8QieVR2hS4BIBXc1w==;Y9akzV/eGoNeYvf2taFxcA=="
+secured: "mcgSUcdj7H0soF0fDSen9huBGWJkl3NjpNgFfocLNDiwZLC5sQsyF2wFJb5/YKqTBQ+7FhHwQv2dVLgFieUsj44wR7HJRTcisiu6B5vukOz6T7sFCOodSlh7X5gBiiDSAkTvpxMmFuR91T/Q5AFrJlUvVaXqR0gT7/AjnVuB/0yzncgd3ivnql40ZnL5+JdYe6oNdcnFa8NSpSElHYdNSL9tYZrRWiyOSaIzNiY8c32llz9wFM4eYFTiDqH+OBIldEliwhKnZ/GH99WWu6/SUg==;1lRp79cuvZkLHlNA3HON1Q=="
 ---
 

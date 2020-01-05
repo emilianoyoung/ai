@@ -621,6 +621,19 @@ related:
       - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
         width: 700
         height: 393
+  - title: "Facial recognition system leads to arrest in theft at Fla. hardware store"
+    excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested in Tampa along with a program used by the Seminole County Sheriff’s Office led ..."
+    publishedDateTime: 2020-01-02T22:13:00Z
+    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21119808/facial-recognition-system-leads-to-arrest-in-theft-at-fla-hardware-store
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.B1BFF327D2B3B25E87C36F7530B8388C
+        width: 700
+        height: 466
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -729,6 +742,19 @@ related:
       - url: https://www.bing.com/th?id=ON.26F422EF1167D5C12D88091CB793DDD9
         width: 700
         height: 458
+  - title: "Former acting Lockport police chief hired to monitor school facial recognition system"
+    excerpt: "Douglas E. Haak Jr., who served as acting Lockport police chief for a few weeks last fall, said Friday he will retire from the department as of Jan. 30 to take a job monitoring the Lockport City School District's new facial recognition security system. \"It's an easy fit for me,\" said Haak, a captain who has been a Lockport police officer for ..."
+    publishedDateTime: 2020-01-05T14:13:00Z
+    sourceUrl: https://buffalonews.com/2020/01/05/former-acting-lockport-police-chief-hired-to-monitor-facial-recognition-system/
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.11BF46342BF08BB2CC098AFBA711E1DE
+        width: 700
+        height: 495
   - title: "Facial recognition for cows: how the search for tech unicorns is revolutionising India's farms"
     excerpt: "Hundreds of start-up tech firms are offering everything from wearable health monitors for livestock to real-time agriscience data The boom has excited investors and raised hopes of solutions to the industry’s more intractable problems – if the government is willing to help In India,"
     publishedDateTime: 2020-01-03T07:01:22Z

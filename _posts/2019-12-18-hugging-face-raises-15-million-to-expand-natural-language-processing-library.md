@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A71FB55C06FEA039E9164A36327AC063
         width: 700
         height: 525
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/nikon-announces-artificial-intelligence-ai-for-predictive-imaging-image-segmentation-and-processing-1028766022
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.6D72C1A3636802FC871FD7DEB92851B4
-        width: 400
-        height: 142
   - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
     excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
     publishedDateTime: 2019-12-18T00:07:00Z

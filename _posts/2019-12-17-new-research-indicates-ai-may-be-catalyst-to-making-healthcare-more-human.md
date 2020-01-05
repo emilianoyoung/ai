@@ -24,15 +24,6 @@ images:
     title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
 
 related:
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "New report highlights AI's potential to revolutionize health care"
     excerpt: "The role of artificial intelligence, or machine learning, will be pivotal as the industry wrestles with a gargantuan amount of data that could improve -- or muddle -- health and cost priorities, according to a National Academy of Medicine Special Publication on the use of AI in health care. Yet, the current explosion of investment and ..."
     publishedDateTime: 2019-12-20T05:30:00Z
@@ -48,41 +39,32 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
-    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
-    publishedDateTime: 2019-12-17T08:02:00Z
-    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
+  - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
+    excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
+    publishedDateTime: 2019-12-18T08:15:00Z
+    sourceUrl: https://www.euractiv.com/section/health-consumers/news/health-professor-ai-has-huge-potential-provided-ethical-issues-can-be-solved/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
-    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
-    publishedDateTime: 2019-12-16T14:13:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 50
     images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
-  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
+      - url: https://www.bing.com/th?id=ON.7B3971CF721659CC92F54BF6A05F432C
+        width: 700
+        height: 525
+  - title: "Regenstrief VP co-authors National Academy report on AI's potential to improve health"
+    excerpt: "Eneida Mendonca, M.D., PhD, an expert in natural language processing, machine learning, predictive analytics and AI adoption, is a co-author of \"Artificial Intelligence in Health Care: The Hope, The Hype, The Promise, and The Peril,\" a National Academy of Medicine (NAM) Special Publication. Other authors are from Harvard University, the Mayo ..."
+    publishedDateTime: 2019-12-17T18:45:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/ri-rvc121719.php
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
     images:
-      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
-        width: 2699
-        height: 1414
+      - url: https://eurekalert.org/multimedia/pub/web/219961_web.jpg
+        width: 720
+        height: 445
 
 secured: "4yK7d49ZnoZPHdYlNoVZDXQdDjM/ncOfvoiJGmC0JriV/sH6JMrydm/OFJ7zz0GNqEKqymHuXHxd81o+WVIhfDLC/ClQHQspGIhtBOmdD7kxGChUNVK2fRJQjlsnxxFl8fDLYewoTLdy0KVOyJaCbx8y2XzBRyL0RjM16Lx/9CZoBw2S7sUqermPMidTk0PjYNX9JKMXrh5VhRRsueflilNWem5Ax7XYiylHLy4M+qBf3siedTqSFrO2E2P6IDkvb/vbzqd/jYHlbNg43VXC+w==;NcrH37Ojy3pM36oIoWt3pA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/voximplant-raises-10-million-to-autom
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/voximplant-raises-10-million-to-automate-call-campaigns-with-ai/amp/
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Voximplant raises $10 million to automate call campaigns with AI"
 
 related:
-  - title: "CallMiner raises $75 million to derive insights from phone calls with AI"
-    excerpt: "“We are revolutionizing the way brands and people interact and conduct business — and it all starts with AI-driven customer insights and intelligence,” he said in a statement. Above: CallMiner’s analytics dashboard. CallMiner’s marquee product is Eureka, an analytics suite delivering speech and text analytics for customer call center"
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/
-    ampUrl: https://venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/callminer-raises-75-million-to-derive-insights-from-phone-calls-with-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.5CE6062B44EE7E9FF8DB259E9B533E2F
-        width: 700
-        height: 367
   - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
     excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
     publishedDateTime: 2019-12-17T14:00:00Z

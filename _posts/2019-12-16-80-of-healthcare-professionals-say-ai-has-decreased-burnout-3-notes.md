@@ -117,6 +117,15 @@ related:
       - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
         width: 874
         height: 355
+  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
+    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
+    publishedDateTime: 2019-12-17T16:23:00Z
+    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
   - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
     excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
     publishedDateTime: 2019-12-24T15:18:00Z
@@ -139,19 +148,6 @@ related:
       name: HealthITOUTCOMES
       domain: healthitoutcomes.com
     quality: 18
-  - title: "H1 Continues Momentum With Record Customer Growth and Expansion of Healthcare Machine Learning Analytics Platforms"
-    excerpt: "H1, a New York-based healthcare data-driven solutions provider, today announced continued momentum and record customer growth and expansion of its global healthcare analytics platforms. The company has grown to an impressive customer base with more than 35 pharma clients, with record revenue growth by 350% in the last year. “4 out of the top ..."
-    publishedDateTime: 2019-12-16T13:07:00Z
-    sourceUrl: https://apnews.com/Business Wire/abecb690e39a45d2b8f226a94bc5510a
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
 
 secured: "aYZ9CINVndUA57qvwPl4IML9iTXiZDcZn8t7vwx6lKh46ZnDkaYOR+qOtp2vrD9kgGTq8Jhmx+7g8EO9Fnk+guVpCvY38bV/y6t2zbKVWuJSQyeSfR7Cbag+a2eQZMqHL/xEk7bBNFIAZ92seEyJbWE5Vw6Iu8nVVWLaxRHInHbtV/gv/9HqoYqCmCfeh05BjU7gjetwA4LwSB7rc0yzKsJTwq21BBBx9WBbOgLMEFo3MhAo2nVICNicmdDaU97bfFvwK4O/ik4YSrLc9CFGNg==;k3ILheSF0cXVRQEPqsXc2w=="
 ---

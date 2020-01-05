@@ -1,32 +1,20 @@
 ---
 category: news
-title: "Intel's latest acquisition is a $2 billion push into AI"
-excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
-publishedDateTime: 2019-12-16T14:39:00Z
-sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
-ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+title: "BRIEF-Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
+excerpt: "Intel Corp: * INTEL ACQUIRES ARTIFICIAL INTELLIGENCE CHIPMAKER HABANA LABS * INTEL CORP - DEAL FOR APPROXIMATELY $2 BILLION * INTEL CORP - HABANA WILL REMAIN AN INDEPENDENT BUSINESS UNIT AND WILL CONT"
+publishedDateTime: 2019-12-16T14:29:12Z
+sourceUrl: https://www.msn.com/en-us/news/technology/brief-intel-acquires-artificial-intelligence-chipmaker-habana-labs/ar-BBY2ZML
 type: article
-quality: 87
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Reuters on MSN.com
+  domain: msn.com
 
 topics:
   - AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
-    width: 700
-    height: 367
-    title: "Intel's latest acquisition is a $2 billion push into AI"
 
 related:
   - title: "Intel acquires AI chip startup Habana Labs for $2 billion"
@@ -104,6 +92,21 @@ related:
       - url: https://www.bing.com/th?id=ON.889CB21B27B3087FB18454F0E742D40C
         width: 700
         height: 466
+  - title: "Intel's latest acquisition is a $2 billion push into AI"
+    excerpt: "Intel purchased Israel-based Habana Labs to ‘turbo-charge’ its AI offerings. Intel just spent approximately $2 billion to acquire Israel-based AI firm Habana Labs. The partnership will \"turbo-charge\" Intel's AI offerings for data centers, Intel said in a press release. Habana Labs makes programmable deep learning accelerators. Its Gaudi AI ..."
+    publishedDateTime: 2019-12-16T14:39:00Z
+    sourceUrl: https://www.engadget.com/2019/12/16/intel-ai-acquires-habana-labs/
+    ampUrl: https://www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/16/intel-ai-acquires-habana-labs/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.10476CF17F41599179BACA6F2776FBD7
+        width: 700
+        height: 367
   - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
     excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
     publishedDateTime: 2019-12-17T00:32:00Z
@@ -481,15 +484,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
         width: 700
         height: 350
-  - title: "Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2019-12-16T14:03:00Z
-    sourceUrl: https://www.bloomberg.com/press-releases/2019-12-16/intel-acquires-artificial-intelligence-chipmaker-habana-labs
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
   - title: "The AI Eye: Intel Acquires Habana Labs, Accenture to Acquire Clarity Insights and Honeywell Acquires Rebellion Photonics"
     excerpt: "Another highlight from the research is the finding that \"AI in industrial machines will reach $415M globally by 2024 with collaborative ... brand of Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
     publishedDateTime: 2019-12-17T17:58:00Z
@@ -686,16 +680,7 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 19
-  - title: "BRIEF-Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
-    excerpt: "Intel Corp: * INTEL ACQUIRES ARTIFICIAL INTELLIGENCE CHIPMAKER HABANA LABS * INTEL CORP - DEAL FOR APPROXIMATELY $2 BILLION * INTEL CORP - HABANA WILL REMAIN AN INDEPENDENT BUSINESS UNIT AND WILL CONT"
-    publishedDateTime: 2019-12-16T14:29:12Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/brief-intel-acquires-artificial-intelligence-chipmaker-habana-labs/ar-BBY2ZML
-    type: article
-    provider:
-      name: Reuters on MSN.com
-      domain: msn.com
-    quality: 17
 
-secured: "9SdS2jDF/Q3Pyb5V1rbmcGDb14tqqPNcKC9rbjA6hLvsgdbwkDJtwzWpsT3kGhB8IyvKKO/lneulz8XXd1bamdvkcV5WTi0aJ/5yhYwXbaLEjqTKsjAT3tzb6kJnX7OlG74HrjBP0CUH2ECfAJ8eKE8X8xydezKxDLXBwqZBotECbXBrnLjYgBDKWOzdYt17RDVmIzgV3r/ISqhh2SfdsOvpTJP87oOQU8sqQxaABHJyPrucs+R0CyEeLy7VODRRBnGC25XdGYkefspcWyj8sQ==;MjS+KcoFY5xT00g+TQ0QWA=="
+secured: "hh74WzV8zRZ58jG2Q8G5p5v3I1E5cI3W/3uglK/cV2YAjFKXQE3g2jkJYFiNpaxfX4z9sIyjwjHKy8AoCAA+NL8OCrnKF1Yc3hKxpNka+Umhm8+R1VZZT7qMp0MiM0KT27TkxM/E5Lc5to8i6098FndpX1P8Mw7qG0jl5WbnR1ON2R3zXCNpva09zmMmN213QPmlH17koEoKJevp/1MimGgvDwl8Nhr4p2C+LSYOOeX7KUT50KffDnT6y5H3ksOIUGVbkmnl8rntHBRLhn0yXg==;mn2SsRYJUFX+Qp3uqBXkew=="
 ---
 

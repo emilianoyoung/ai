@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: News Medical
@@ -28,15 +28,6 @@ images:
 related:
   - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
     excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-16T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-1028765994
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
     publishedDateTime: 2019-12-17T05:34:00Z
     sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
     type: article
@@ -48,41 +39,32 @@ related:
       - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
         width: 600
         height: 315
-  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
-    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
-    publishedDateTime: 2019-12-17T08:02:00Z
-    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
+  - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
+    excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
+    publishedDateTime: 2019-12-18T08:15:00Z
+    sourceUrl: https://www.euractiv.com/section/health-consumers/news/health-professor-ai-has-huge-potential-provided-ethical-issues-can-be-solved/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Research report explores the Artificial Intelligence in Healthcare Market: industry analysis by 2027"
-    excerpt: "Demand for deep learning is expected to increase in artificial intelligence in healthcare market with rising ... globe is expected to create lucrative opportunities for manufacturers in artificial intelligence in healthcare market with surging demand for robot-assisted surgery. IBM Corporation: The artificial intelligence in healthcare market ..."
-    publishedDateTime: 2019-12-16T14:13:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-16/research-report-explores-the-artificial-intelligence-in-healthcare-market-industry-analysis-by-202
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 24
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 50
     images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
-  - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
-    excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/real-world-outcomes--technology-company-om1-closes-50-million-series-c-financing-to-make-healthcare-more-measured-precise-and-pre-emptive-300976837.html
+      - url: https://www.bing.com/th?id=ON.7B3971CF721659CC92F54BF6A05F432C
+        width: 700
+        height: 525
+  - title: "Regenstrief VP co-authors National Academy report on AI's potential to improve health"
+    excerpt: "Eneida Mendonca, M.D., PhD, an expert in natural language processing, machine learning, predictive analytics and AI adoption, is a co-author of \"Artificial Intelligence in Health Care: The Hope, The Hype, The Promise, and The Peril,\" a National Academy of Medicine (NAM) Special Publication. Other authors are from Harvard University, the Mayo ..."
+    publishedDateTime: 2019-12-17T18:45:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/ri-rvc121719.php
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 4
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
     images:
-      - url: https://mma.prnewswire.com/media/1056540/OM1_Door.jpg?p=facebook
-        width: 2699
-        height: 1414
+      - url: https://eurekalert.org/multimedia/pub/web/219961_web.jpg
+        width: 720
+        height: 445
 
 secured: "geNAZYHTC+M50FRmmNnwgJEqEWtAqtUmOtDKmO6MEqsORcbKp5Un9mK6flhB9IVsBJ38VwIYDTvo5hOaaF6aYWR5J8/qKc66DBK8ZCzqZkgRiSRSJW80mrN7oWr7I2rvA1vYQU6hJng8PWJgmqtuzLK59IP2YUwY2p96TioBf/Uy7tHpyXz1+1iSvBXeasdSvk2/zFb8v33/lZ25tBtvyq08Zrei8+SI/cUtDr6/WqSyZH2LciMI8G2DFTaPZO1g2Ts/fQS9vjnP35TOqn7thg==;Ds1+51tuW0v2bYyLqMm7jg=="
 ---

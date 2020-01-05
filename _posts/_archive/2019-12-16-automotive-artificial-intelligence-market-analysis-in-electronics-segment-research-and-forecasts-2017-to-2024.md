@@ -34,6 +34,6 @@ related:
       domain: globenewswire.com
     quality: 16
 
-secured: "Y0c7A058OqUclAAW4g8Jthl3MQ5hn0In4E0NMfYSKo4EZL4vuM1iF643kJ0Ek1B3fwCRAO8oHGN5q/sJxkz0sfpij/SCuGcAt9RjajnDrogCbfTHcFFHH8dqg52+6vML+I9u67ZnA4b3w+VJFXQT7z+92ia1jpezXfAAFXi3MA8x4bn9Nsm+m+TlmM1DHzS+PkGc6ShZBjD6dmfJM3scFk71BfzwVCPeyPcohFyZeKy1LuV8AHkpB9Oz76xbCI/vNZQBvHkVa4aqd/ULjcW3iw==;7ywrkkqjFHVqf0yisQbTOg=="
+secured: "BQ0tlgomblP2ms/n6UXTDrqsoLssRHtNaGkueuloKNZkCHtt58s+sKwU25vnqihvpO3Gb+2JubKRxcMKP+JWP1K/qMeQ7n2MfplZZgiKeuzMEhp3DkP+jLpLWeismUlsI9idVcEFyW2Bs0KMhwDmX1EM+Xv5bWdSriyw93l25vCWcoCYlGMaWFJfltHehPhXgdTu79en3VWJDpkorMKGYTepLOuGVgdYLJQZveJkC9zzpc2RPOBK0rVj5W6gjm8kVlCrK3g7UxyGvwzaI+TjWQ==;Ct71y0NXuRYhd9a6hsRZiA=="
 ---
 

@@ -495,15 +495,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
         width: 700
         height: 350
-  - title: "Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2019-12-16T14:03:00Z
-    sourceUrl: https://www.bloomberg.com/press-releases/2019-12-16/intel-acquires-artificial-intelligence-chipmaker-habana-labs
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
   - title: "Intel acquires Habana Labs for $2 billion to boost AI business"
     excerpt: "The AI chip market has been growing significantly over the years and all of the big tech giants are looking to score a piece of the pie. Intel is making some big moves in this space right now, announcing the acquisition of Habana Labs in a deal worth $2 billion. Habana Labs is based in Israel, specialising in deep learning acceleration hardware."
     publishedDateTime: 2019-12-16T15:27:00Z

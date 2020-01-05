@@ -476,15 +476,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
         width: 700
         height: 350
-  - title: "Intel Acquires Artificial Intelligence Chipmaker Habana Labs"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2019-12-16T14:03:00Z
-    sourceUrl: https://www.bloomberg.com/press-releases/2019-12-16/intel-acquires-artificial-intelligence-chipmaker-habana-labs
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
   - title: "The AI Eye: Intel Acquires Habana Labs, Accenture to Acquire Clarity Insights and Honeywell Acquires Rebellion Photonics"
     excerpt: "Another highlight from the research is the finding that \"AI in industrial machines will reach $415M globally by 2024 with collaborative ... brand of Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
     publishedDateTime: 2019-12-17T17:58:00Z
@@ -691,6 +682,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "Em2T1kZxUjyoef1knaIg9BBP37O4xl7kSRYSjW7CbW3vYPR6j3Uw4xnDksEKjZUMjx8D06gm1dqI0OBecTzVR/kuo7Or1c/cHEEyW06f1UpVMWMFvHpt3rd2UMhZLZowJe8yGD1wuHaXqNL5by1DW1PyhdhvhbzZZOj0FfLeS1eUbrz0yFzUUxvQ6Ef9puB+XT4wpY8145Myqu8geKnSJENo6R7ARsh46z60YdRqI5lsnDqx54B4X7FJqYfq4IM5unfJylE9pVlpgPSG+BJr1g==;2dXLy+lRdbGxmrxaOuV+gA=="
+secured: "Wnvm25GaVcY6rRid0kQPzMzo4mfPNFnpFwUGB92xkmN+myI4/HhNW0jH+61/hChHNOhJefsC9r1qOpYqMVqdUAMYvb1lHXYS2lNgsQgTS20xGNOeMDWXl0XLHvhaGglZEFwqur8jguXinKlEKpc1LWCFdDNXH9+v0NIK+XPeHn1/iBFB3ZZjcXFQe3JWa6f/rgphOSLON4txLxNTzTLvVz7HxK6gPYuZ1z99Y07Ws6nSX33+HTlKL0hMyMW/oRPWYMVNpaqw5q/3TkQFye1eMA==;MF/MNS0QV3kQ1rRSfeheoQ=="
 ---
 
