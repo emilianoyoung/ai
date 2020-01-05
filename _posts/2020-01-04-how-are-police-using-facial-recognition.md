@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
-excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
-publishedDateTime: 2019-12-29T11:40:00Z
-sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
-ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
-cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+title: "How are police using facial recognition?"
+excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
+publishedDateTime: 2020-01-04T11:00:00Z
+sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
 type: article
-quality: 52
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Wire
-  domain: thewire.in
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+  - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
     width: 700
-    height: 350
-    title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    height: 393
+    title: "How are police using facial recognition?"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -406,6 +404,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3ECF68BA024FDA3E4DB70D460F852C6D
         width: 700
         height: 393
+  - title: "Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'"
+    excerpt: "Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where the Automated Facial Recognition System was used to screen the crowd."
+    publishedDateTime: 2019-12-29T11:40:00Z
+    sourceUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors
+    ampUrl: https://thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    cdnAmpUrl: https://thewire-in.cdn.ampproject.org/c/s/thewire.in/government/delhi-police-is-now-using-facial-recognition-software-to-screen-habitual-protestors/amp/
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.4D64C21AC9559C2B05B10FFF22953422
+        width: 700
+        height: 350
   - title: "State civil liberties union trying to put a stop to facial recognition system in Lockport"
     excerpt: "LOCKPORT, N.Y. (WIVB)–The New York Civil Liberties Union is now trying to put a stop to the facial recognition system in Lockport City Schools. After months of preparation, the school district finally began using the system yesterday in the hopes it will recognize the faces of sex offenders or red-flag certain adults who are not allowed in ..."
     publishedDateTime: 2020-01-03T22:41:00Z
@@ -757,19 +770,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
         width: 700
         height: 525
-  - title: "How are police using facial recognition?"
-    excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
-    publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.060F6FC2A67A63045FD021E95777CCD8
-        width: 700
-        height: 393
   - title: "Indian police are using facial recognition to identify protesters in Delhi"
     excerpt: "Police in Delhi used facial recognition software to screen the crowd at Prime Minister Narendra Modi’s recent rally, in which he spoke about a new Indian citizenship law that has sparked protests across the country, the Indian Express reports. Protests erupted around India after the country’s parliament passed the Citizenship Amendment Act ..."
     publishedDateTime: 2019-12-30T21:20:00Z
@@ -1018,6 +1018,6 @@ related:
         width: 336
         height: 254
 
-secured: "jevN3FQLRew0pDNt2DR98b5OJDH8VTgLIhlnRs1MxrFUo7zHsqZfBY4epxW/qAkt4BTuQjrjKYZdmWkWMbcrw5U4TFmKrOB0lbSnAoASrVQYT7lr6YfKH3FkfM8z6dTji9HDIq00qEtg1pB1JV0iVvxMJM1FdbB9sm51aZ2DSfuNgWXwrfaHhw00x/9r/ECCLNOGEFiNq+4Xq0kKXy+wsxAwtUrn2c8H23s5VVQ8fWqdTCW+gaiMeTQJiPP1IoUBZOMFuLeeCUN+/5RzCRqJTw==;JWWFFQp3QdD2LZoijIKuSw=="
+secured: "ew38/DxxuuMW3UEvhMCuq/oH+BKPjg0eVx5a6zM5+z4IaDZF7ckIQ7bqWqb8s1GiP2kJ/8QqeSiuyITH34RcVBF77KfBuJzOtFrQPWyrU24U/rUuyJhwhNXRZNTY1aNS9WDpQi04mnoc2aSXPE4C6ZT7wET6hCbgwKeOqjQqKM/EtrFzuMAIWPSlBt3x4lZLPZQPhuLHMYN+0CE0b6rZv1AcPtuJBaPcvJ1waW26jBIBs7cfWGZ4//L1xjf9Qz62AT5zD9o3Gp/OgczKjo/viQ==;LV1Yyi7Z3K2YO1ka3ABt6Q=="
 ---
 

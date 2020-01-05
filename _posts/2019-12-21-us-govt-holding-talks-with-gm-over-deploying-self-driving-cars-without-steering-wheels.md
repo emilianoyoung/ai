@@ -78,21 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
-    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
-    publishedDateTime: 2019-12-16T01:08:00Z
-    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
-    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
-        width: 700
-        height: 367
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:36:00Z

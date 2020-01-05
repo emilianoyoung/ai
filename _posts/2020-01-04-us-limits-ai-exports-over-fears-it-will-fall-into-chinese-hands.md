@@ -3,7 +3,7 @@ category: news
 title: "US limits AI exports over fears it will fall into Chinese hands"
 excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
 publishedDateTime: 2020-01-04T20:40:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYCoos
+sourceUrl: https://www.msn.com/en-gb/news/world/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYClUE
 type: article
 quality: 37
 heat: -1
@@ -108,6 +108,6 @@ related:
         width: 700
         height: 367
 
-secured: "+SlZPwWZLwke/IVk93ctWeZ/UIrZDLaSYmZHcX2IqQtHnNTmudn4QUT//ptoJW5nlgpBUjVXbCw0xGmwGnlld700tPYpv1EQicelEX7eTzejCN88B45mihIHOVtrq0xFNFMdvcuPwEdAWVxmjNRf2g9WrQ7Z2OCoAbvdkGsHTdmkgpSBc8HWgn0TDKp+usii7FA1ltDBNRDUEkFjKC+M7COjFtYzR2DHc1n0dzSF1YQ0j+w1Ea69sONQTvrl+C89bPfwad7qo/wLEKyb8/EynA==;WICXjfKvajk7eAJUKoalCg=="
+secured: "I+aX2o2oTHq86sG1zcOOAZ7niDcGB9/5Y19OKkNh6PRUtOqeXkxXYgIh2r9/fDZFBPYWAUPUPC09WjbobP2qgdpHamYu69f6NKtx1kU7tvRCqO98tiA5QtfZj4t2sVynjlrcqBFim80LqXFkHChcWXRxjiBIgzjY8vwQZnIZ1AI5/i46cG+YxZ3ONM2G8xa4VRW4gq4KmGHjlt3CcgsK4OjDfpfIJ1GF/dT4iWYfxsfRkvQcIWE1JQrxf/SGNtG6GdTWqnqHw6eYhuq4Bx0SLw==;+5i6HGj8deTZ0EAz58nfQA=="
 ---
 

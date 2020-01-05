@@ -90,21 +90,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
         width: 600
         height: 315
-  - title: "VW partners with Qatar to deploy self-driving electric Kombis in 2022"
-    excerpt: "Volkswagen hinted at some degree of self-driving capability when announcing a production version of its ID. Buzz electric Kombi van two years ago, and it now appears the Qatari capital of Doha will be among the first locales to experience these skills in full fight. The automaker has entered an agreement with the local government to deploy a ..."
-    publishedDateTime: 2019-12-16T01:08:00Z
-    sourceUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/
-    ampUrl: https://newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    cdnAmpUrl: https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/vw-qatar-self-driving-electric-kombis-2022/?amp=true
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.754E3F225806761C1C77CD7FEB6BC6F4
-        width: 700
-        height: 367
   - title: "GM requests green light to ditch steering wheel in its self-driving cars"
     excerpt: "Climb into a self-driving car today and there’ll be a steering wheel right there where you’d expect, and probably a back-up driver, too, ready to step in should something go awry during the journey. But General Motors’ (GM) autonomous-car unit — Cruise — wants to start testing its self-driving cars sans steering wheel. Indeed ..."
     publishedDateTime: 2019-12-24T04:40:00Z

@@ -53,6 +53,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "2HkF2hrAwYXorMLHujdHIHj6Le5iqB4bE4/9VAUjagATltDKW9UZvcmffkyKmwyTprshDYAH1HUiBnYN+5vKIIOzLCZ+dyFW3Yh6Wffrj/nPJHKxnTcS1dcpkqQiDo623Y8khi8WHx2BMUAi2w6KKWD6GM2g0094/vAinjE0Q9NVb7j+KkDrQiISFwW3I6Jra59XDOm+Tk+8kw3mJtOjqA5PjqEARMdRgk5xFj8+u2eWbZULjj0XAkfIXC/DK6D1af5iQ/JOgI1umKeA+gO0mA==;rYz9gvVqf+9OYC0XK5urzQ=="
+secured: "kbp1yn1zhmal0Y/6uir9P37YLqiwoJeUCXhIWhmUwPQtRrlI4uONlmgr/149dnhEHFsV1U+28a69FpuhmNjQBsg6/yzCnRIpPJ69DPNCRtayyqkUUBQwg7GjGWMG9AGW0pRYD8jXkoIXmQ5QxYg/vgIYOHwGCLbu+GbkT3XHax6oCr09Cp3jqYzFV7HnzSJRopkvhmKp4Vx2TmKnudVr5TjUl9LKUal9O/05VKfYK8xA6zB13FuRYLYvqFbAMgJsqmXFt9pW1oyxntSKXRpEQg==;shEqj7yRwAnH05GfnCTIxA=="
 ---
 
