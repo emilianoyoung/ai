@@ -107,19 +107,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "$7.5 million for artificial intelligence research has potential to transform health care"
-    excerpt: "The Morrison Government is investing $7.5 million for research into the use of artificial intelligence in health care. Artificial intelligence (AI) will be critical in transforming the future of health care through improved preventive, diagnostic and treatment approaches. Research into the use of AI is likely to provide significant benefits ..."
-    publishedDateTime: 2019-12-16T05:07:00Z
-    sourceUrl: https://www.miragenews.com/75-million-for-artificial-intelligence-research-has-potential-to-transform-health-care/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 30
-    images:
-      - url: https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg
-        width: 640
-        height: 423
   - title: "Real-World Outcomes & Technology Company OM1 Closes $50 Million Series C Financing To Make Healthcare More Measured, Precise, And Pre-Emptive"
     excerpt: "Increasingly healthcare stakeholders, including regulators, payer and providers, are seeking real-world evidence for supporting outcomes-based decision making. By organizing health information and applying artificial intelligence (AI) technology ..."
     publishedDateTime: 2019-12-18T13:00:00Z

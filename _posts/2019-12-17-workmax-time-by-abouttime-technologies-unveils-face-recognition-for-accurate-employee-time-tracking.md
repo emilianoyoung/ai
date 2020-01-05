@@ -48,6 +48,15 @@ related:
       name: Field Technologies Online
       domain: fieldtechnologiesonline.com
     quality: 5
+  - title: "ID R&D Achieves Strong Results in 2019 NIST Speaker Recognition Evaluation"
+    excerpt: "and behavioral biometrics and voice and face anti-spoofing products, today announces its accuracy results in the 2019 Speaker Recognition Evaluation (SRE): Conversation Telephone Speech (CTS) Challenge (*1) from the U.S. National Institute of Standards and Technology (NIST). The NIST 2019 SRE CTS Evaluation is the latest in the ongoing series ..."
+    publishedDateTime: 2019-12-18T18:26:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962426/0/en/ID-R-D-Achieves-Strong-Results-in-2019-NIST-Speaker-Recognition-Evaluation.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 2
 
 secured: "tZQEMqf2xiEyd1fAHrT0mKX/1L6IZtXOCoNDsNh30zpCrQwJ1n3PwZzFf7TjQfkWhhQUh35e7Omd1pqLyHPSYfl1a1BGbPVXwLF5knvzdMGrEfEYdSekF38HvJ+IPFHewdRk3k/wR6xra2yQMsYuZWocFRT44zor+ou5XSDctdRFc2FXdEry7WYKdw9U9qkydiiK4Fc7q0WOljFVLfwa7jkU37PJnce7XqjMD1qPUUlbeVm0aB3k+AK0JNyUbGtaYtn34BxVI5NA0lmuznzwWA==;26C0ESg+XSivob4eaGYs7g=="
 ---
