@@ -294,19 +294,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
-  - title: "Intel Acquires AI Chip Startup Habana Labs For $2B"
-    excerpt: "By Dylan Martin December 16, 2019, 09:46 AM EST Intel announced Monday it has acquired artificial intelligence chip startup Habana Labs for approximately $2 billion, expanding its arsenal of AI accelerator products for the data center market. The Santa Clara, Calif.-based company's announcement came nearly two weeks after multiple reports ..."
-    publishedDateTime: 2019-12-16T15:07:00Z
-    sourceUrl: https://www.crn.com/news/components-peripherals/intel-acquires-ai-chip-startup-habana-labs-for-2b
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.03977ED0EC57239E3EFDF638BD728A58
-        width: 610
-        height: 457
   - title: "Intel Buys Israeli AI Chip Startup for $2B"
     excerpt: "The combination strengthens Intel's artificial intelligence (AI) portfolio and accelerates its efforts in the nascent, fast-growing AI silicon market, which Intel expects to be greater than $25 billion by 2024. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need – from the ..."
     publishedDateTime: 2019-12-16T17:04:00Z
@@ -409,19 +396,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intel acquires Habana Labs for $2 billion to boost AI business"
-    excerpt: "The AI chip market has been growing significantly over the years and all of the big tech giants are looking to score a piece of the pie. Intel is making some big moves in this space right now, announcing the acquisition of Habana Labs in a deal worth $2 billion. Habana Labs is based in Israel, specialising in deep learning acceleration hardware."
-    publishedDateTime: 2019-12-16T15:27:00Z
-    sourceUrl: https://www.kitguru.net/components/matthew-wilson/intel-acquires-habana-labs-for-2-billion-to-boost-ai-business/
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9E2D36C83B05EC92E469E3EAC0C49217
-        width: 700
-        height: 315
   - title: "Intel buys Israeli AI firm for US$2 billion"
     excerpt: "U.S. leading chip manufacturer Intel Corporation has acquired Israeli artificial intelligence (AI) company Habana Labs for about 2 billion U.S. dollars, both companies announced Monday. Habana Labs is an AI processor company founded in 2016 and headquartered in the coastal city of Tel Aviv. After the acquisition, Habana will remain an ..."
     publishedDateTime: 2019-12-16T18:01:00Z
@@ -435,19 +409,6 @@ related:
       - url: https://www.bing.com/th?id=ON.33540327B7FE00A05AE0EBC3249DEF4E
         width: 540
         height: 394
-  - title: "Intel snaps up deep learning accelerator firm for $2bn"
-    excerpt: "Intel has acquired Habana Labs, an Israel-based developer of deep learning AI accelerators. Rumours about the possible deal, which has just been officially confirmed, were swirling at the start of the month. The $2bn deal is Intel's largest since its acquisition of MobilEye in 2017 (for the sum of $15.3bn). Bolstered by the absorption of Habana ..."
-    publishedDateTime: 2019-12-16T15:41:00Z
-    sourceUrl: https://hexus.net/business/news/general-business/137903-intel-snaps-deep-learning-accelerator-firm-2bn/
-    type: article
-    provider:
-      name: Hexus
-      domain: hexus.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7F805FCEAF027FB4A989557B8D8D6FDB
-        width: 515
-        height: 221
   - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
     excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
     publishedDateTime: 2019-12-17T16:05:00Z

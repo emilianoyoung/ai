@@ -219,6 +219,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
         width: 700
         height: 393
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-05T16:05:00Z
+    sourceUrl: https://www.autoblog.com/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    ampUrl: https://www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
+        width: 700
+        height: 393
   - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
     excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
     publishedDateTime: 2019-12-31T10:34:00Z

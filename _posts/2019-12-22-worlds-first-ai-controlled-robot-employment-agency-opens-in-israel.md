@@ -52,32 +52,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
         width: 1200
         height: 630
-  - title: "Japanese-Israeli partnership launches 'employment agency for robots'"
-    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
-        width: 700
-        height: 457
-  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
-    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
-        width: 700
-        height: 457
 
 secured: "ZjpS4JClCY8zAYsmQ5Tg82TDQbmiYejys8HtQPSieaWPeBhSc4H80rLg5R3OGK7hmsx3tbJXrgz5jI8T60DtN3NWUvrU3J9ihzS+rXxC3+Q140GpSMeZvMabKinTb0SO0GW47AqUpNmWaEBOeoJ8H9OdtOga/NLQFmlzT2mwb+2B09BF5z47AnHhqepeW7QcDxMppdU5qWnaqL8oRscWqPQzAtSYeBww94fYO7jMzZUkCgm2kOBrp5/X0qPECXIlkMrqht9dNKeETTjdttiK+Q==;lZkVNQIvuM9tJyXRo3A+Hw=="
 ---

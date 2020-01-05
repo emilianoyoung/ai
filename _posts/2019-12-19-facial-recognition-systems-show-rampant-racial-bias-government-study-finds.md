@@ -373,21 +373,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
-  - title: "Serie A developing facial recognition tech to combat racism"
-    excerpt: "ROME (AP) — Italian league officials are developing a system of facial recognition technology to identify fans responsible for racist chants, Serie A CEO Luigi De Siervo announced on Monday. The announcement comes amid an Italian season marred by discriminatory behavior. “We’re working on facial recognition software to use inside the ..."
-    publishedDateTime: 2019-12-16T15:43:00Z
-    sourceUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/
-    ampUrl: https://www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/serie-a-developing-facial-recognition-tech-to-combat-racism/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.74EA539C8EBFA774D13081B189556A0A
-        width: 700
-        height: 367
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-17T19:56:00Z
@@ -1414,15 +1399,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Research: Students of color at greatest risk for facial recognition errors"
-    excerpt: "As more schools adopt or test facial recognition software, an MIT Media Lab study calls the technology's accuracy into question, finding only 35% accuracy when scanning females with darker skin, District Administration reports. The schools using and testing the technology include Lockport City School District in New York, which uses the systems ..."
-    publishedDateTime: 2019-12-16T15:15:00Z
-    sourceUrl: https://www.educationdive.com/news/research-students-of-color-at-greatest-risk-for-facial-recognition-errors/569115/
-    type: article
-    provider:
-      name: Education Dive
-      domain: educationdive.com
-    quality: 17
 
 secured: "3w2WMVGRrw9ZRqFQU9R9zZ+xsa8vfDzNZYBL1ONfWKysFgEhjR67dLiOxYGVo/akqT15PMKAL83MS2N5RwIakubagn4Iafl3ISXsAitGmwnctZbFNpPE+FSvjVMszSXyRfiBQSNCqiS07J76EdJ02H14fZ3RA79NopvNyZYH3IPr45T9NAr0vEJH81A5eU19yH7l2Lyf4VLRGJTtifbkmN7g7JlBSWpf4tIzp4Qy6qtYbDmzsHXy6whEPehfLCrTM7phx379UNahNjvcg/XwuQ==;Jff8KPphNJq4tw2bl1G10g=="
 ---

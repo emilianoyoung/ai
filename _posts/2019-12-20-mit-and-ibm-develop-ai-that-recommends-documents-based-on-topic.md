@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommend
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/mit-and-ibm-develop-ai-that-recommends-documents-based-on-topic/amp/
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.571D6FA20253300D6486FB7A5D08E4CA
         width: 400
         height: 209
-  - title: "Clear standards required for development and use of AI in healthcare"
-    excerpt: "The new von der Leyen Commission is expected to deliver a report on AI and ethics in its first 100 days, which could be oriented toward an ‘ethics-by-design’ approach according to Legal Affairs Commissioner Didier Reynders. And, in terms of data protection, all EU AI stakeholders must comply with the GDPR regulation in safeguarding the ..."
-    publishedDateTime: 2019-12-16T16:03:00Z
-    sourceUrl: https://www.euractiv.com/section/health-consumers/news/clear-standards-required-for-development-and-use-of-ai-in-healthcare/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.24B2900981FACFF8F7D52E224C39E594
-        width: 700
-        height: 525
   - title: "Data Science And Machine Learning Service Market Enhancement, Growth, Demand and Developments by 2025"
     excerpt: "Data Science And Machine Learning Service is the latest innovation that seeks to compete in the delivery of financial services with traditional economic techniques. This report segments the market on the basis ofTypesare: Consulting, Management Solution and Other. On The basis Of Application, the market is segmented into: Banking, Insurance ..."
     publishedDateTime: 2019-12-16T14:00:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/03/probeat-ai-startups-raised-fewer-fund
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/probeat-ai-startups-raised-fewer-funding-rounds-in-2019/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Li Ka-shing leads funding round for Hong Kong fintech startup"
+    excerpt: "MioTech also offers AI-driven screening of prospective wealth management clients for money laundering and other concerns. Li retired in 2018 as chairman of CK Hutchison, a sprawling global empire of property, infrastructure, retail, telecommunications and energy businesses."
+    publishedDateTime: 2020-01-05T16:12:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Technology/Li-Ka-shing-leads-funding-round-for-Hong-Kong-fintech-startup
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AE4BC91F983FEA362027D0F2023D9C63
+        width: 700
+        height: 350
 
 secured: "1rw4aphLnxdJ7GADa+ZDKeV8iS9D+c7whiX9T0gwgpujz838ws1+94QasmmbV6AzTz+TmdgtgjMXNi9mBYELiCqfN4g6Qww9pxDAjHP93sBtgcGtBZT9edg7gCGyyCqfi2Kg/ZiVy3tA52Bd2vw6VlI0+chnS5zGSOWYq1cDKp2ggS5KKFv1Qiof8oarb2fkBdevl6CJHqodcHwYC60153JZRmG0LWdSw1ZVhDxXW3/6S6oa2RCa2N5y9WJmrmZx/QIJXCicEvQ8/pgowjgTHw==;hR8kFK6LU0NJ+vRrBCD02w=="
 ---

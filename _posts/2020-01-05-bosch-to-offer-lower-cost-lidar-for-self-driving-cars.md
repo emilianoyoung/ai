@@ -1,33 +1,29 @@
 ---
 category: news
-title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
-excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
-publishedDateTime: 2020-01-02T13:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/
-ampUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+title: "Bosch to offer lower-cost lidar for self-driving cars"
+excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+publishedDateTime: 2020-01-05T16:05:00Z
+sourceUrl: https://www.autoblog.com/2020/01/05/bosch-introducing-cheaper-lidar-system/
+ampUrl: https://www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
+cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
 type: article
-quality: 67
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.D13A615E8E9333CE6C73625F6F01EA00
+  - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
     width: 700
-    height: 350
-    title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
+    height: 393
+    title: "Bosch to offer lower-cost lidar for self-driving cars"
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
@@ -135,6 +131,21 @@ related:
       - url: https://www.bing.com/th?id=ON.970CBABFFC89A672594B4944739CF1B6
         width: 700
         height: 367
+  - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
+    excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
+    publishedDateTime: 2020-01-02T13:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/
+    ampUrl: https://venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/trieye-partners-with-porsche-to-put-infrared-sensors-in-adas-and-self-driving-systems/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.D13A615E8E9333CE6C73625F6F01EA00
+        width: 700
+        height: 350
   - title: "Baidu can now test its self-driving cars with passengers in Beijing"
     excerpt: "Beijing is starting to allow test drives of self-driving cars with passengers, and Baidu just became the first company to get the permit. 40 Baidu self-driving cars, which have completed more than 100,000 kilometers of road tests, can now carry passengers in a designated area. Earlier in September, the company rolled out its robotaxi services ..."
     publishedDateTime: 2019-12-31T09:47:00Z
@@ -204,21 +215,6 @@ related:
     quality: 44
     images:
       - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
-        width: 700
-        height: 393
-  - title: "Bosch to offer lower-cost lidar for self-driving cars"
-    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-05T16:05:00Z
-    sourceUrl: https://www.autoblog.com/2020/01/05/bosch-introducing-cheaper-lidar-system/
-    ampUrl: https://www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/05/bosch-introducing-cheaper-lidar-system/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
         width: 700
         height: 393
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
@@ -381,6 +377,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "SQgxYgwsclD/Y1EjC3PZNJJ9moXKVsn13rmHV2tvF5Ki5Z43pt61S+gG7l+JsZ+jEfOsenXd/VRH1uttXo6TdP21Y0aT+3OBr+vJFHUw+OQ7Is5rapHLtD9YJP/hPQLNEX7fX9CqyQC3IAKJg2bT/egmEMpSqAEqKnrCmUZKUG6OvAdvUwBezLIZozvWw9hO9U2sYvaYCGFABqQEiBzTnChI7tt3KxxHS/TqDvXH9AvtqWPMXIjFVNuCAvADQ1WswwjVCxrB+f/7jtg1OrKSDA==;eeRjxxNLihgbM+MWna/4oA=="
+secured: "m2CVJ4ZzTqlwZHLScFvXgujCP2ThxlVlHaf28F8nLP0oWmZIhEBl7hJs8riW2o/vSU6kI1rqQ9u7sIlYRaNj8nmr9ukD3pFMtGUm0XFaqDUtuJNHM8SOKBVR+SLiXloFqedRXeeCZstWRr9YeAcYq5EGbTz60JoCyaR8k34Rll5o9HGGRZoOliYBeEEGYgw02U4OTA9aoC4Lh+kjfOryA7T1QZydn+C4IR1Nuzy24ELUo6i5BH2M9CFPyte72fgDKB+RZViPZy1hluuF3Odb5Q==;+3CVw/5tEFQOD3FEzz+L8w=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.albawaba.com/amp/editors-choice/israel-launches-worlds-first
 cdnAmpUrl: https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/israel-launches-worlds-first-employment-agency-run-robots-1328125
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -52,32 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.788425A97290F854C1AADC8ECFBEEBC1
         width: 700
         height: 350
-  - title: "Japanese-Israeli partnership launches 'employment agency for robots'"
-    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
-        width: 700
-        height: 457
-  - title: "Japanese-Israeli partnership launches 'job agency for robots'"
-    excerpt: "... Musashi Seimitsu to launch the world’s “first employment agency” for autonomous robots, the companies said on Monday. The joint venture of the companies, MusashiAI, will enable businesses to hire fully-autonomous artificial intelligence robots designed by SixAI to work alongside humans in industrial workplaces, according to their needs."
-    publishedDateTime: 2019-12-16T15:16:00Z
-    sourceUrl: https://www.jpost.com/Jpost-Tech/Japanese-Israeli-partnership-launches-employment-agency-for-robots-611096
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D439C5555CCE3A64DB088400C2607FB3
-        width: 700
-        height: 457
 
 secured: "1JlGlUP7OrEPeyrtRmBRA0NC5GTTWnCJXdqWVTCULV4KK2yCCaCfWOdUuvG5BZf+PzcOLcqKeF2RjlEjvmhjEgTNji0dDfWBxfGKw7hHM6d4WsYB5+7iHbUtjascEBd9uVGh5RQ/6Fqo7ft1uTFlkLjS1y1qk+O1D2QKrP57FlsYZ2Lyl6b9JeOnsiKCbbWNJ6do7fiHbIFHTWvCBF0G2cPFeymvp+vMkp3Cv1WMnhLJ/QiIj2HaWCWQU8p8WYPzrVmRzvRPM0mPF4PoJkTjUA==;C5dAnvRfhtIzNcH/cwPn6g=="
 ---

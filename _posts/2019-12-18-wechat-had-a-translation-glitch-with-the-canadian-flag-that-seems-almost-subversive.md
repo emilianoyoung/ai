@@ -41,28 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
         width: 700
         height: 395
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
-    images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
 
 secured: "Mf7gpxPHWxOCL/8tb8Y6HRAxhPdSHgaw4gK1jPvgzbdS7iA4cK87kizDyHxb5vounBDj46WL2xvtq5dKZdniuWZ5O3u5xXPk6abVKvINf74MIFfA853muLcwbSJyecXRWs/xasQp9bL2+RfBaK4ZngpLRIZ6JeRKvWKwjjCMay9bv6hZqvqanZ3P39UomsUTIKFKzr26mAIhdf5S7ZEsW7cenKQMpY8kV/rxt1Y+JF5UgAYzPBYttSLzc7F3zW8gk8wdt/vhRBu15jagJJGLAg==;G42q1GnnjoY69qCX+Xpa3w=="
 ---

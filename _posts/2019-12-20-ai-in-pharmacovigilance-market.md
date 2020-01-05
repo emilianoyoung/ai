@@ -27,6 +27,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 32
+  - title: "Becky Partida, research specialist, supply chain management, APQC"
+    excerpt: "We already know that AI and IoT at the edge are key to the acceleration of factory transformation ... and maintenance of the technologies within those four walls. Our research found that while there is a big appetite for digital transformation—83% of companies say they plan to make investments in smart factory technologies in the next ..."
+    publishedDateTime: 2019-12-21T02:55:00Z
+    sourceUrl: https://www.industryweek.com/home/contact/22031279/becky-partida-research-specialist-supply-chain-management-apqc
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 19
   - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
     excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
     publishedDateTime: 2019-12-19T14:18:00Z

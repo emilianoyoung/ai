@@ -54,6 +54,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Li Ka-shing leads funding round for Hong Kong fintech startup"
+    excerpt: "MioTech also offers AI-driven screening of prospective wealth management clients for money laundering and other concerns. Li retired in 2018 as chairman of CK Hutchison, a sprawling global empire of property, infrastructure, retail, telecommunications and energy businesses."
+    publishedDateTime: 2020-01-05T16:12:00Z
+    sourceUrl: https://asia.nikkei.com/Business/Technology/Li-Ka-shing-leads-funding-round-for-Hong-Kong-fintech-startup
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.AE4BC91F983FEA362027D0F2023D9C63
+        width: 700
+        height: 350
 
 secured: "WaO7ypz6fjiGjTQMdSe89ds/g9jGUwOuFH+bGrdE8rqk9/J3msNXVKrdNxiGsS6N8QgL7oHpsiH1MYw4Kw3+9tsxxpIPDH7fsYqyY4uXPuL6SrYAOKWYLzY5JCFa6OVIvMj22v6KMJVkEy9P8uRdxrego/LKCIwnFKLyV4cArt8Lc4RZ4pFwFTn/urCCIhxljH4gV6vRrZ8Z/hzecSDAeHaXpi+eM7yf65gWxR4Lq8Qsk8WcELs/Ups3Xy+bjc4sOp6zfzZ69chUgZ5h1G1GuQ==;Webf+lyU34WNJExaoDxrpw=="
 ---

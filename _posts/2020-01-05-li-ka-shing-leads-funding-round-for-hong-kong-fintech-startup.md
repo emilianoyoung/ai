@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Home security robot vacuum maker Trifo raises $15M in funding round"
-excerpt: "And the company said the Lucy can operate for up to 120 minutes between charges. “Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang said. Trifo said it ..."
-publishedDateTime: 2020-01-03T00:04:00Z
-sourceUrl: https://finance.yahoo.com/news/home-security-robot-vacuum-maker-201900349.html
+title: "Li Ka-shing leads funding round for Hong Kong fintech startup"
+excerpt: "MioTech also offers AI-driven screening of prospective wealth management clients for money laundering and other concerns. Li retired in 2018 as chairman of CK Hutchison, a sprawling global empire of property, infrastructure, retail, telecommunications and energy businesses."
+publishedDateTime: 2020-01-05T16:12:00Z
+sourceUrl: https://asia.nikkei.com/Business/Technology/Li-Ka-shing-leads-funding-round-for-Hong-Kong-fintech-startup
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
   - AI
-  - AI in Robotics
+  - AI in Finance
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-    width: 500
-    height: 500
-    title: "Home security robot vacuum maker Trifo raises $15M in funding round"
+  - url: https://www.bing.com/th?id=ON.AE4BC91F983FEA362027D0F2023D9C63
+    width: 700
+    height: 350
+    title: "Li Ka-shing leads funding round for Hong Kong fintech startup"
 
 related:
   - title: "ProBeat: AI startups raised fewer funding rounds in 2019"
@@ -54,20 +54,20 @@ related:
       - url: https://www.bing.com/th?id=ON.3318593B1E323AC332B53222101E666F
         width: 700
         height: 394
-  - title: "Li Ka-shing leads funding round for Hong Kong fintech startup"
-    excerpt: "MioTech also offers AI-driven screening of prospective wealth management clients for money laundering and other concerns. Li retired in 2018 as chairman of CK Hutchison, a sprawling global empire of property, infrastructure, retail, telecommunications and energy businesses."
-    publishedDateTime: 2020-01-05T16:12:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Technology/Li-Ka-shing-leads-funding-round-for-Hong-Kong-fintech-startup
+  - title: "Home security robot vacuum maker Trifo raises $15M in funding round"
+    excerpt: "And the company said the Lucy can operate for up to 120 minutes between charges. “Lucy reflects the evolution of our products from robot vacuums to AIoT-enabled (Artificial Intelligence/Internet of Things) home robots that can assist with a wide range of features that help people with their life and work,” CEO Zhe Zhang said. Trifo said it ..."
+    publishedDateTime: 2020-01-03T00:04:00Z
+    sourceUrl: https://finance.yahoo.com/news/home-security-robot-vacuum-maker-201900349.html
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.AE4BC91F983FEA362027D0F2023D9C63
-        width: 700
-        height: 350
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
-secured: "qAs0BbeKX5AvVp5rJqn2XgnruOvbGyjA1oygdmFUQ6teFVYByjTY1DSuKrvxMrWSta9z72RSlR+219E9wjyj19GIPkRhtVkDLT5Ox2B8ObZk9MfnBdthxUPqmVhCn0GrHcaH1Ic3GVQNbfL1zP/YXa5aXL1ufQJK6Ar1WpH1U95MB/6oy5qx2onu0kEDHF2foDvHUBv+TSwgwe+g6nt4WHHF2w1GpxqyA3vCCPmEEwQ0coiROA/2JkVrtsUR6HnSE2M9PE9GqPI0bA3T3x2/tA==;VxBjvwiNEjfiBY54QrZDQA=="
+secured: "o/etH1zEwJJZiPEeoPZCGnUpeGU6bOV9ckSNVecPvTZtEL3Lh6IXFDrCXGy9xeDoNAaPRGMz62qI7niPEVRV8YIquyx1GFI3utrLmpXzWwH9PEjLyQKAD2E/bJWHoIPY80TY6yGYywfaCeYREKbIJAzdMGd21lQGY1mBk0HpT7P7HKe7VFfN8YE0eP4cedgqE1npLiIyva2IcFFtb6t9yudKkb1IDWbVEqDk7UBFICPuscehHokAN7brm5OepZ7iepM8rEVrSQAKIOFk6P9kxQ==;777NotjS2o+k/uzgSZ4snQ=="
 ---
 
