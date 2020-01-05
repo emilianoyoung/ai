@@ -26,21 +26,6 @@ images:
     title: "Artificial intelligence and the future of insurance"
 
 related:
-  - title: "What Machine Learning Means For The Future Of SEO"
-    excerpt: "With the advent of the subset of artificial intelligence called machine learning (ML), the next big sea change for digital marketing is already on the horizon. Depending on who you ask, ML will either bring about a revolutionary simplification of SEO or usher in the next generation of complex, multi-tiered strategies. Where does the truth lie?"
-    publishedDateTime: 2019-12-16T11:05:00Z
-    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/
-    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/16/what-machine-learning-means-for-the-future-of-seo/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.B1F66B9152AC7DE419C41982BC3B9C58
-        width: 600
-        height: 315
   - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
     excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
     publishedDateTime: 2019-12-17T12:16:00Z
@@ -56,88 +41,122 @@ related:
       - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
         width: 600
         height: 315
-  - title: "Who is Hikari-chan? She is the mind-blowing future of AI in your home"
-    excerpt: "She is designed to be your friend. I visited Gatebox’s futuristic offices in Tokyo’s tech paradise Akihabara, where I spoke to the company’s CEO Minori Takechi about the product that’s breaking new ground in artificial intelligence (AI) in the home. Azuma Hikari is the name of the character who lives inside the Gatebox enclosure."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/
-    ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
+  - title: "Computer simulation enters the AI age: the Altair story"
+    excerpt: "That dialectic of design and simulation is pervading the world thanks to AI, Scapa believes. \"We are at a moment in time where for many things that we do, the algorithms are driving decisions,\" is the way Scapa broadly views the landscape of society, not just engineering. \"For me it's all about how algorithms are assisting humans to make deci ..."
+    publishedDateTime: 2019-12-21T20:22:00Z
+    sourceUrl: https://www.zdnet.com/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
+      - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
         width: 700
-        height: 366
-  - title: "Tesla and rivals like Waymo and GM are locked in a battle over the future of self-driving cars"
-    excerpt: "The widening gap between Tesla and the rest of the self-driving-vehicle industry has created two distinct visions for the future of the technology."
-    publishedDateTime: 2019-12-21T14:38:00Z
-    sourceUrl: https://www.businessinsider.com/tesla-rivals-waymo-locked-in-battle-over-self-driving-cars-2019-12
+        height: 525
+  - title: "NHS is leading the way in AI adoption"
+    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
+    publishedDateTime: 2019-12-17T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
+    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.5EA178336D98F02A7F00A5888E2F18ED
+      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
         width: 700
-        height: 350
-  - title: "How VDO.AI is building the future of Internet advertising"
-    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
-    publishedDateTime: 2019-12-23T11:03:00Z
-    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
-    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+        height: 466
+  - title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
+    excerpt: "Artificial intelligence and machine learning help Internet search ... Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve ..."
+    publishedDateTime: 2019-12-17T09:48:00Z
+    sourceUrl: https://www.statnews.com/2019/12/17/ai-machine-learning-drug-launch-playbook/
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
+      name: STAT
+      domain: statnews.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+      - url: https://www.bing.com/th?id=ON.6A5248FC7645CBA00A8AE9E357981A2F
         width: 700
         height: 393
-  - title: "Duet at TREC 2019 Deep Learning Track"
-    excerpt: "This report discusses three submissions based on the Duet architecture to the Deep Learning track at TREC 2019. For the document retrieval task, we adapt the Duet model to ingest a “multiple field” view of documents—we refer to the new architecture as Duet with Multiple Fields (DuetMF). A second submission combines the DuetMF model with ..."
-    publishedDateTime: 2019-12-16T18:33:00Z
-    sourceUrl: https://www.microsoft.com/en-us/research/publication/duet-at-trec-2019-deep-learning-track/
+  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
+    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
+    publishedDateTime: 2019-12-17T18:32:00Z
+    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
+    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
+    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
+      name: Credit Union Times
+      domain: cutimes.com
+    quality: 44
     images:
-      - url: https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png
-        width: 1200
-        height: 627
-  - title: "How Artificial Intelligence Is Reshaping the Future of Stock Picking"
-    excerpt: "Computers aren’t new to Wall Street, but for most of their lives, their function has been primarily quantitative. That, says Forbes‘ William Baldwin, is about to change thanks to the rise of artificial intelligence. Created by a trio of former MBA classmates at at UC Berkeley, EquBot is the answer to its creators’ dream of producing a ..."
-    publishedDateTime: 2019-12-17T18:23:00Z
-    sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
+      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
+        width: 620
+        height: 349
+  - title: "What does the next decade have in store for UK fintech?"
+    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
+    publishedDateTime: 2019-12-20T05:14:00Z
+    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
+    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
     type: article
     provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 39
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
     images:
-      - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
-        width: 1200
-        height: 800
-  - title: "The future of banking is basically robots running everything"
-    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
-    publishedDateTime: 2019-12-23T06:04:00Z
-    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
+      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
+        width: 960
+        height: 640
+  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
+    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
+    publishedDateTime: 2019-12-17T12:58:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
+      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
         width: 700
-        height: 366
+        height: 367
+  - title: "F|T: The FinTech Times – Bank on a comeback"
+    excerpt: "Toronto-based FinTech Borrowell has launched Borrowell Boost ... Montréal-based FlexPay, which is using AI to help e-commerce and subscription companies reduce credit card declines, has received a $6 million late seed round. The round, which comes a year after the company raised £1.3 million in seed investment, is led by Redalpine (an ..."
+    publishedDateTime: 2019-12-19T11:22:00Z
+    sourceUrl: https://betakit.com/ft-the-fintech-times-bank-on-a-comeback/
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 39
+    images:
+      - url: https://cdn.betakit.com/wp-content/uploads/2019/12/GettyImages-547501564-1024x682.jpg
+        width: 1024
+        height: 682
+  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
+    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
+    publishedDateTime: 2019-12-14T18:27:00Z
+    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
+    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
+        width: 700
+        height: 350
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
     publishedDateTime: 2019-12-17T18:15:00Z
@@ -151,54 +170,6 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
-  - title: "Featurization for Transfer Learning"
-    excerpt: "This article demonstrates how to compute features for transfer learning using a pre-trained Keras model, using the following workflow: The following notebook uses pandas UDFs to perform the featurization step. pandas UDFs, and their newer variant Scalar Iterator pandas UDFs, offer flexible APIs, support any deep learning library, and give high ..."
-    publishedDateTime: 2019-12-18T20:31:00Z
-    sourceUrl: https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/featurization/transfer-learning-keras
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png
-        width: 400
-        height: 400
-  - title: "Bochum team wins second place in machine-learning competition"
-    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
-    publishedDateTime: 2019-12-19T15:35:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
-        width: 1440
-        height: 960
-  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
-    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
-    publishedDateTime: 2019-12-19T10:40:00Z
-    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
-        width: 685
-        height: 416
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
 
 secured: "lYK+YlblHu64eMUBneb2XJXLzQAfYPqUR+vSv6/r8Vqr58H9nYntVdqkwII6f3WjvtJ6Dl806SVAHXPzQurjc9/AtUDVMq+0GopC/MquIvHE6EARRWwSVF1tPDmZKq+eMCaSK+GE1IhBEJN8ERf9npuT0uB5/6mZ7ospUtD5GphmNJT6RC2MLNLJ0m2Ron6GNDZ1bgN/OTogTvf9xXGxIPf81NSwhSb0O2jsTgGm1Yko5g2+GjtmfcmYCRTzxznisnjf+Cu51VjhoM24109VJA==;OCd7lbZFagkQYk3p7zIYMg=="
 ---

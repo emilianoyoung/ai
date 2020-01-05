@@ -44,19 +44,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D142%26cropY2%3D2842
         width: 1200
         height: 675
-  - title: "4 Trends of Artificial Intelligence (AI) to Expect in 2020"
-    excerpt: "Over the last five years, India has seen an exceptional drive in the number of platforms, applications, and tools based on Artificial Intelligence technologies. In the beginning, AI was associated with the robots and now things have changed quite drastically over the last few years. Driven by the huge changes in the mechanism and capitalism ..."
-    publishedDateTime: 2019-12-16T10:49:00Z
-    sourceUrl: https://news.siliconindia.com/technology/4-Trends-of-Artificial-Intelligence-AI-to-Expect-in-2020-nid-211499-cid-2.html
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D36CE4AE1A252DE2639CC972C6AFA057
-        width: 570
-        height: 367
   - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
     excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
     publishedDateTime: 2019-12-18T11:16:00Z

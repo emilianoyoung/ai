@@ -117,19 +117,6 @@ related:
       name: Hypebeast
       domain: hypebeast.com
     quality: 24
-  - title: "Beijing Is China's Third City to Set Rules for Self-Driving Vehicle Tests"
-    excerpt: "Since February last year, the capital has made available 44 roads with a total length of 123 kilometers for self-driving trials in its Haidian, Daxing and Yizhuang districts. So far the city has issued permits to 13 companies including internet giant Baidu. Under its new regulations, drivers must be at least 18 years old with a good record of ..."
-    publishedDateTime: 2019-12-16T10:37:00Z
-    sourceUrl: https://yicaiglobal.com/news/beijing-is-china-third-city-to-set-rules-for-self-driving-vehicle-tests
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.711CF66A3F29AF8AEAD58323AD7CA957
-        width: 700
-        height: 466
   - title: "Global Self-driving Car Market, Forecast to 2030"
     excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
     publishedDateTime: 2019-12-19T00:27:00Z

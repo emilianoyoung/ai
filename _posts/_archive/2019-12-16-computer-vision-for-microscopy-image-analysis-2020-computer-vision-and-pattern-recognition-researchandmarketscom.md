@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands ..."
-publishedDateTime: 2019-12-16T10:09:00Z
+excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands of images automatically over a short time, making it possible to conduct large-scale ..."
+publishedDateTime: 2019-12-16T09:06:00Z
 sourceUrl: https://www.benzinga.com/node/14993434
 ampUrl: https://amp.benzinga.com/amp/content/14993434
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/14993434
@@ -12,7 +12,7 @@ heat: -1
 published: false
 
 provider:
-  name: benzinga.com
+  name: Benzinga.com
   domain: benzinga.com
 
 topics:
@@ -96,6 +96,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "lKNvpx+baGV2Y+U+2eC23f4rFMbAOBTV7jdAHieHgCcD2wHxh3cxs/tCMr/7YE27l6jPUhMk3MeDo/SyPtmh6wgsilsZ9CrzY4l3kWNGtx8P4RMMXjsKiz+BaJLbT5Sz0224GICVsSySZ/bAcdrBvAXk6G1XAKI5v4PbaM47ZORLH2IZRXbHdPW3M0k+NER+OuAa2N32tmiT3Rk7TSC9Fs247MtNonI9R4NU1fYzu/vPeQpKP12lV8pSQADOfpgufSNogd1wmlzoq7Smf1jpGA==;ROfdcr5AZMS3QzXh/R+Zmw=="
+secured: "WEc/QfTMLQWgg/zdnOfDfi0JgVQFXt9QjfeHrf7Z18Exk2Ho4XAafW5D/C7+MTCVZSnK9/lXShbemWgorJwuwZFTj8crxTZq90vyIKPAP99Ld6UlwrshC2NF0hlGx/WLgC37iGnHzfHnKEKC5pNHqDuZUkvTceBe5CYeJvWOB98U4Y2HH+Za3k80u3KQdbKrl2DGkHjV4QxFRP6SEbOxxKhSxN2YjLANkJnV3+Dkkvk8r9Obtdb81Pbg39JV4HstP7cMKvr9owyA1BgVBgA8tA==;r4xLkQLjis/tj03m8pyBHw=="
 ---
 

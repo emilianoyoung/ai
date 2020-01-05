@@ -41,36 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.54A407CEE59E268C7863BBB3C7BFCC40
         width: 700
         height: 395
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
-        width: 700
-        height: 367
-  - title: "WATCH: The week that was - From a candid conversation with Ratan Tata to behind the scenes with AWS’ SageMaker and fintech startup Lendingkart"
-    excerpt: "Chennai is a SaaS hub, and it’s also the place where the idea of Amazon's Web Services ML model was born. Swami Sivasubramanian, the VP, Machine Learning, at AWS, conceptualised the SageMaker while dealing with jet lag. Swami Sivasubramanian, VP, Machine Learning, AWS, is considered a pioneer in cloud computing. The 41-year-old joined Amazon ..."
-    publishedDateTime: 2019-12-14T18:27:00Z
-    sourceUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart
-    ampUrl: https://yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2019/12/weekly-wrap-startup-entrepreneurs-ratan-tata-amazon-sagemaker-lendingkart/amp
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.48EEAC0E8EBFA400ED74D602B09B0568
-        width: 700
-        height: 350
   - title: "University of Tartu developing translation programme with Mozilla Firefox"
     excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
     publishedDateTime: 2019-12-19T08:45:00Z
@@ -97,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C28D28E4D8C2C563DC5DBB1C809AC06D
         width: 700
         height: 493
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
 
 secured: "Mf7gpxPHWxOCL/8tb8Y6HRAxhPdSHgaw4gK1jPvgzbdS7iA4cK87kizDyHxb5vounBDj46WL2xvtq5dKZdniuWZ5O3u5xXPk6abVKvINf74MIFfA853muLcwbSJyecXRWs/xasQp9bL2+RfBaK4ZngpLRIZ6JeRKvWKwjjCMay9bv6hZqvqanZ3P39UomsUTIKFKzr26mAIhdf5S7ZEsW7cenKQMpY8kV/rxt1Y+JF5UgAYzPBYttSLzc7F3zW8gk8wdt/vhRBu15jagJJGLAg==;G42q1GnnjoY69qCX+Xpa3w=="
 ---

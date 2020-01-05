@@ -1,28 +1,45 @@
 ---
 category: news
 title: "AWS beefs up SageMaker machine learning"
-excerpt: "As CEO Andy Jassy presents it, AWS—like rivals Google Cloud and Microsoft Azure—wants to become the leading, full-service environment for data scientists, data engineers, and non-specialist developers to run all of their machine learning workloads."
+excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
 publishedDateTime: 2019-12-06T00:00:00Z
-sourceUrl: https://www.arnnet.com.au/article/669480/aws-beefs-up-sagemaker-machine-learning/
+sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - AI
-  - Microsoft AI
+  - AWS AI
 
 images:
-  - url: https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+  - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
     width: 800
     height: 500
     title: "AWS beefs up SageMaker machine learning"
 
-secured: "ppKLt/3IacBWtsaspBDbtcJOsB6MihEPj6osjv49okSEsvs+0gfHuP25ju5BZq0Pm9yjcCTFKR7mfa5ChyM5uvJs3tIAagGEzcbmyOgsFLRk+FfFPGRpLV4a1jz/6Ok+x7T+mFVVacSNtMSppBPU3ncvK5eu/IBAekQw8Fm8IGl6Gg/ha8I4cb809DKjXrgBOqfEXw5nw/GIwfKJWJbNedh8w7ZzVJRxBbC1JXfWMxkgZGFrSV1JlcjtX/qucZg67ykyNvnI5p/nbdpHJXwqSA==;Rru7Qn1IWU31tdTl+MHfyw=="
+related:
+  - title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
+    excerpt: "AWS SageMaker, the machine learning brand of AWS, announced the release of SageMaker Studio, branded an “IDE for ML,” on Tuesday. Machine-learning has been gaining traction and, with its compute-heavy training workloads, could prove a decisive factor ..."
+    publishedDateTime: 2019-12-08T16:49:00Z
+    sourceUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/
+    ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 99
+    images:
+      - url: https://venturebeat.com/wp-content/uploads/2019/12/SageMaker-Studio.jpg?fit=1679%2C1005&amp;strip=all
+        width: 1679
+        height: 1005
+
+secured: "FKbBRFm4AY0ueDq/FgW2EyIphqKeS5WKsuiIgcCA3t+DR+GyWmY67IQZxnjgOmqVkjlmKhco+RB0J/CxB3oW3iEsaB51EDmcVeKPvz85GMUVO2+09qZ7fty/DS/a+JFecltB2dbAPTgRDprkjclGwQ96W6lLB1hM9IXIw0IQ+ClHAJERqpgrnMB3W0RGwhO+APTRVgx2yZakVYeEozE0agPvFl296+3Q3B9IozWa29tcB+1b2eK4YwQQS8mQ2TA1YDSz8SPIkjmmV4b6iYiWVw==;PDT4ikMCBYmCpoA0iOUyMA=="
 ---
 

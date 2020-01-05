@@ -50,19 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D118584CC2AADF6794F55247C27D847
         width: 600
         height: 315
-  - title: "4 Trends of Artificial Intelligence (AI) to Expect in 2020"
-    excerpt: "Over the last five years, India has seen an exceptional drive in the number of platforms, applications, and tools based on Artificial Intelligence technologies. In the beginning, AI was associated with the robots and now things have changed quite drastically over the last few years. Driven by the huge changes in the mechanism and capitalism ..."
-    publishedDateTime: 2019-12-16T10:49:00Z
-    sourceUrl: https://news.siliconindia.com/technology/4-Trends-of-Artificial-Intelligence-AI-to-Expect-in-2020-nid-211499-cid-2.html
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.D36CE4AE1A252DE2639CC972C6AFA057
-        width: 570
-        height: 367
 
 secured: "ve72oW9wErUmbDKL9X7JPA/jyh9WAYCBV1k6OmjaOdgAPmEpvvZZy4WqbPs9FFZ90pmaE9Weu8NZlqeSxX3denpHf2uw+sl6fMJjbFYlepuz6y9s+6CFBynjC5D/z7BTZPONxW0SH0lPoBk/3dRGerfn+8eDMQ/2rZOto7LSv+/6cfOI6CxR0hWSGbjmIvXakzg+alwGEZ4BEm46RMNIjp40i00QEwpC6NbC1oc8iZ5FlH9ZypQljzWSxx1uVwMgksOGHnVtJEy0GWPuzd0alQ==;J+mJIz+IDPlWswL6wvz0cA=="
 ---

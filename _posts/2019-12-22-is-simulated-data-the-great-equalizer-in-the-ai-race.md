@@ -99,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
         width: 700
         height: 373
+  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
+    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
+    publishedDateTime: 2019-12-17T07:41:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
+        width: 400
+        height: 300
   - title: "2019: The Year of the Face"
     excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
     publishedDateTime: 2019-12-28T16:45:00Z

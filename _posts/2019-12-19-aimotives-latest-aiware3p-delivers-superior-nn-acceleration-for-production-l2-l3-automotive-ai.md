@@ -79,6 +79,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
         width: 405
         height: 228
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
 
 secured: "KsHXbGSZmqiOeYJrGZnppe26qbqyMOz4xtvnSmucYImK8vqcsK/8x+Uq3U7ISDlaDNQd1QSdRUP8SFu+fY+nDRJjhsqQY3L5/Y6ZRsxkFnmIGIOPoyIhXUWhHUgJO5+bpGTzq2U7QaUVi+UDsoMODM9JJePvXcLsnrFDkpQrPJTTDYWplzhFE4+zX/p8MZvwJn0ObLDpCFTUW62dS1rW99OywDN4UBR6NxblNPis/sXHUdlnRDyQlmQ3xZ8LU00sJwjWOu0iPR1SaSpOoUGkUA==;wwPaJUWmtZ+sEcbfLoYM8A=="
 ---

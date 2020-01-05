@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-i
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/08/aws-sagemakers-new-machine-learning-ide-isnt-ready-to-win-over-data-scientists/amp/
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 1005
     title: "AWS SageMaker’s new machine learning IDE isn’t ready to win over data scientists"
 
-secured: "YpLrB5QIKbUPwvWLtzQH/9qBopvoLFwZ8ImIoLuDmM5iCohmTp4Yrd9WRVAt2rpToz9MNAO3XSKttUf/9D2JOxZz9o6Gpn6IIzR5reFIqxAH7dJHH9A+hGqPvh8VXEb0RBGRsxSFm2dNXLm4lP/ewZBaly0QsHK+jGO+epede5E+iNHSI9zva2yHn1VH5fimuAHmvcIQXpks4q8smIAKC7nWQIXR9Kisk1IyJp+RtMMD34xE08sedZ6ZwfQTUwr7sRUOC9jRQvMmRDRejeWGmA==;EwwFWMQNGwI1YOpVJSG5PA=="
+related:
+  - title: "AWS beefs up SageMaker machine learning"
+    excerpt: "Amazon Web Services (AWS) has expanded the capabilities of its Amazon SageMaker machine learning toolkit to address a number of challenges that enterprises confront when trying to operationalise machine learning, from model organisation, training ..."
+    publishedDateTime: 2019-12-06T00:00:00Z
+    sourceUrl: https://www.reseller.co.nz/article/669480/aws-beefs-up-sagemaker-machine-learning/
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/amazon_web_services_aws_2.jpg
+        width: 800
+        height: 500
+
+secured: "k7xUn5l7eIoWgHAk43B4M2E6gz+Fx4Sf0yO1JwyimxoO1Th8/5syDuK1Ys1Rv7hgd/49rU4GLa34dDB/5BJ6DI5LajZOqMrEjnEniYa0s3GXYLLG3+mAvcO5z+F1uLPQcHrAhl6A0RG9QtPz1jLytqU6H330MyanSdglInmdG/wcKUdT2btbKwH4pqUDRPdGbJY+VWB8eRXBDFFRwOA2IhgbNPebrzcG93eQgXUiJwBDvU1QLL1buswZWILxIN3+qLBtMTr4ll4KvsQVLTczAA==;KN6WO1d7k1bnvC7i8z0LaA=="
 ---
 
