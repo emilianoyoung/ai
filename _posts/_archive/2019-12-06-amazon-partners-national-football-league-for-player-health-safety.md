@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-06T15:41:00Z
 sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 64
+published: true
 
 provider:
   name: Nasdaq
@@ -23,6 +23,19 @@ images:
     height: 512
     title: "Amazon Partners National Football League For Player Health, Safety"
 
-secured: "eabYNWnPlZNXKSz/SrqY2XUppjc3sIIMC+nChpGTSWUkux3JbAXH+AsIOAnRAptFNU9r58HW3TuGTZX8CRkAGOBqagbIYTlNBJSDGoXAO3eaD0iwtum71C+E5XfRMXW5TZ+vCyMqJfAbluMAirrYfQq9nlmGT/ZIluDLgjh8HLCVGesS0HL35ZfmW1lSGq+hLPcv9l/esdjXDlNE8686hYLxhwai8lYTIdbXTcMKKA4QGkhodZVSgs9P/10Foq6w53fWpWQ03it0N480MDKAXw==;pCYPLRiMTudtP070fkAWLg=="
+related:
+  - title: "NFL turns to Amazon for help addressing player injuries"
+    excerpt: "Amazon Rekognition, Amazon ML Solutions Lab and Amazon SageMaker will be used by the NFL's data scientists, developers and doctors to develop a platform called \"Digital Athlete.\" With \"Digital Athlete,\" the league can create a simulated model of an NFL ..."
+    publishedDateTime: 2019-12-06T15:42:00Z
+    sourceUrl: https://www.techrepublic.com/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    ampUrl: https://www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nfl-turns-to-amazon-for-help-addressing-player-injuries/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+
+secured: "NFnSnTORYiqpEZn0UlwQ/qpnCN9DACbZ9oB4m4mo5XPozAE+8glV+xe29xNfeLSQZWNzk+pNfdw92XhzGHfKmje2koIxWz5whRbFaC227kLm95AxpcJTjm38bKOCzzCfs0plpOO1u2Aj2PdqHDIutVwlo2ADewdnOo2d3ckHqNMdlX9Xtngrd+oHvG/dJ10WbnUlCx51hpMBFg8M3PCwmCcARtsxCN9y8E1cPVyqPskAAXABMHGQOtHP6teczAhvkIqj+mPN+HFmgpJ6Q6/5Zw==;wlSH2EkPjm6wajul5V395A=="
 ---
 

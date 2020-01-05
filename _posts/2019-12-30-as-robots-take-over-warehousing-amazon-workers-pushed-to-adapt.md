@@ -248,6 +248,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
         width: 700
         height: 466
+  - title: "Robots' rise pressures workers"
+    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and artificial intelligence software are leading to human burnout ..."
+    publishedDateTime: 2020-01-05T06:49:00Z
+    sourceUrl: https://www.arkansasonline.com/news/2020/jan/05/robots-rise-pressures-workers-20200105/?business
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DAA4224602D4D42DDDD11F142FD16155
+        width: 600
+        height: 399
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z

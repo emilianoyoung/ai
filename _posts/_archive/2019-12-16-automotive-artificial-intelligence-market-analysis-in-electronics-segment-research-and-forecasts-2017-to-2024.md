@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
-excerpt: "Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation, Micron Technology, Otto Motors, BMW, Tesla Inc., and Toyota. This report provides an extensive analysis of the current & emerging trends along with dynamics in the global automotive artificial intelligence market. In-depth analysis is conducted by constructing market estimations ..."
-publishedDateTime: 2019-12-16T06:43:00Z
+excerpt: "Artificial Intelligence uses various computer functions such as reasoning ... A comprehensive competitive analysis and profiles of the major market players such as NVIDIA Corporation, Waymo, Intel Corporation, IBM Corporation, Microsoft Corporation ..."
+publishedDateTime: 2019-12-16T06:04:00Z
 sourceUrl: https://www.cso.com.au/mediareleases/36956/automotive-artificial-intelligence-market/
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -24,20 +24,16 @@ images:
     title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
 related:
-  - title: "Global Artificial Intelligence in Automotive Market is Expected To Grow At A Fast Rate Over The Forecast Period"
-    excerpt: "where artificial intelligence is incorporated, which in turn, is expected to drive growth of the market in the near future. For instance, Volkswagen is expected to launch self-driving cars by 2019 and BMW is expected to launch autonomous iNext by 2021."
-    publishedDateTime: 2019-12-12T21:39:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-is-expected-to-grow-at-a-fast-rate-over-the-forecast-period-2019-12-12
+  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
+    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
+    publishedDateTime: 2019-12-17T15:53:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 16
 
-secured: "pPF+w7ShGgdyQj6BvHP/5jyDfznrMlVsCuWl1OB4Dj4LfiuB4ccDi6ey0k6JbwiA5BnArS3y8QAWVGUFVKXV3oFEivKJnUEdUL6kkIqPuJM1IBlY7U4KJB9zfyqiJbfa4DgfleKOJ3k0LBe5CHJIedqYXc/1a61E65rEntnpiJiqsiRKpB+Tyxy6yJ2lwjfopZl3370v8ssW4l7k9fV93mj/oC0mMydYMzIh0Ftps0qlKa0fV9y2rOMXod+x9r0pN3kkRKt5719XAqZ0/kkaKw==;gLnXqH0EI8w1qXU91LnGZA=="
+secured: "Ta6vy6QeWmfUZVGNz4prlhOKvNl7a9+urUGtM0URuDhgC3KkflKt8ri6/+5G1Kq4ni6VVxQ3YAaVsQ3Z4jZsE4wzsWgZVHmvfFGSDKBoIU7dYLkRehriu8KEKHUUbljjx+ZiZqvdODLLh1HV3qA396arc6vx/F/jNERCT1+yidehRLYwGLqymFLxj2b6CAN3LsxIX2ypNl4DWXsgcvTuC05GxyiqG9AUAwwoF4/QJ/DDyz7/04KWIvf/R7DgyFazcJ1fOgLaV+NVwFRNXO4HLA==;cn6SkutbcQVE90+gg/Ei4Q=="
 ---
 

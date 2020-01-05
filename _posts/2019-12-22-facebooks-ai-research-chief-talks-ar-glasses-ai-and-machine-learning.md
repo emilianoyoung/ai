@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Facebook’s AI Research Chief Talks AR Glasses, AI, And Machine Learning"
-excerpt: "Facebook AI Research chief AI scientist Yann LeCun believes augmented reality glasses are an ideal challenge for machine learning (ML) practitioners — a “killer app” — because they involve a confluence of unsolved problems. This is a companion discussion topic for the original entry at https://uploadvr.com/facebooks-ai-research-chief-ar ..."
-publishedDateTime: 2019-12-22T17:37:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/facebook-s-ai-research-chief-talks-ar-glasses-ai-and-machine-learning/214037
+excerpt: "Facebook AI Research chief AI scientist Yann LeCun believes augmented reality glasses are an ideal challenge for machine learning (ML) practitioners — a “killer app” — because they involve a confluence of unsolved problems. Perfect AR glasses will ..."
+publishedDateTime: 2019-12-22T00:00:00Z
+sourceUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/
+ampUrl: https://uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
+cdnAmpUrl: https://uploadvr-com.cdn.ampproject.org/c/s/uploadvr.com/facebooks-ai-research-chief-ar-glasses-ai-machine-learning/?amp
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: UploadVR
+  domain: uploadvr.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://mk0uploadvrcom4bcwhj.kinstacdn.com/wp-content/uploads/2019/12/facebook-zuckerberg-ar-glasses-on-stage-screenshot-livestream.jpg
+    width: 1000
+    height: 532
     title: "Facebook’s AI Research Chief Talks AR Glasses, AI, And Machine Learning"
 
-secured: "zvzfwRonk4/XNmWmZR95Zcm3UP1TzUzhS1q2HkIyDzY08wk+v+Jg5+7fpauZzaL3Jb7SP/I3UqRdUNmxDNGK253fiNOjLn84a/BNVtvjdv839au5v9A7ViVzep/DJGzLT2YrN8ZyHgxJ3V4gWtvRuQ5smvO2tlfx1Di5jRF03BhGRNKwU7NM2gSeYPGeXS9C+hBmNLA1LT4BtNPXDMAnP3IfEjETEyXnDPBpAjYI3s4caaqVi+6N4DOI8FvIhnFAs3/YVpl+ivLsU+SaRc/jXQ==;a4wrjlB0KX/umIxTctE3dg=="
+secured: "OtJF//Ttncp8c7UKgpEaJQ32QO/O9fo3KaC1x+G2pfa3WxDrtdxryE5TLnclrZF3V4KPOBXd0ZFDbkG84x2481zFjdtibRUxYNLcX89dw9yDI8UpB4VBo7jfH80Jqt3jwT+CDxd2S9xASqvL6Fw3cEeHXwVZGYPEPanss3l3A7JLVgEWWaSMKcAndxv92yX8LKmVQ4ofCF8HEHifqQ63mR3NEN18ZR0UkTg4OUb/L9Y18v+lfPZxpmf1nSAeOHff3i2gJvDagUUwsaXv6m2Vyw==;2FLGWNs36kz3XluBdmrdSw=="
 ---
 

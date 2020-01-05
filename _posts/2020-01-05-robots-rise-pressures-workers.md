@@ -1,27 +1,27 @@
 ---
 category: news
-title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
-excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-publishedDateTime: 2019-12-30T15:45:00Z
-sourceUrl: https://www.ttnews.com/articles/robots-introduced-warehousing-workers-have-adapt
+title: "Robots' rise pressures workers"
+excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and artificial intelligence software are leading to human burnout ..."
+publishedDateTime: 2020-01-05T06:49:00Z
+sourceUrl: https://www.arkansasonline.com/news/2020/jan/05/robots-rise-pressures-workers-20200105/?business
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Transport Topics
-  domain: ttnews.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
-    width: 470
-    height: 246
-    title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
+  - url: https://www.bing.com/th?id=ON.DAA4224602D4D42DDDD11F142FD16155
+    width: 600
+    height: 399
+    title: "Robots' rise pressures workers"
 
 related:
   - title: "As robots, AI take over warehousing, Amazon workers pushed to adapt"
@@ -159,6 +159,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6C74F3BB6700452257816387AD3DD375
         width: 636
         height: 382
+  - title: "As Robots Introduced to Warehousing, Workers Have to Adapt"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T15:45:00Z
+    sourceUrl: https://www.ttnews.com/articles/robots-introduced-warehousing-workers-have-adapt
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C53A6E03DC4F76F6618842892305851F
+        width: 470
+        height: 246
   - title: "Proliferation of robots tests warehouse workers"
     excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
     publishedDateTime: 2019-12-30T06:32:00Z
@@ -248,19 +261,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D675FCF098464A222AA7165D833951BD
         width: 700
         height: 466
-  - title: "Robots' rise pressures workers"
-    excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and artificial intelligence software are leading to human burnout ..."
-    publishedDateTime: 2020-01-05T06:49:00Z
-    sourceUrl: https://www.arkansasonline.com/news/2020/jan/05/robots-rise-pressures-workers-20200105/?business
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DAA4224602D4D42DDDD11F142FD16155
-        width: 600
-        height: 399
   - title: "Robots Take Over Warehousing"
     excerpt: "Warehouses powered by robotics and artificial intelligence software are leading to human burnout by adding more work and upping the pressure on workers to speed up their performance, said Beth Gutelius, who studies urban economic development at the University of Illinois at Chicago and has interviewed warehouse operators around the U.S. Much of ..."
     publishedDateTime: 2019-12-31T11:57:00Z
@@ -271,6 +271,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "cGJ1+EGYmNTO8Vmu169AIYbraNwJfZTOF9VQ2rPDQ4pu3zmQ/aFv787Yk0AF4VfGDVXCoLDtzojaakLSEMsSJvH1b5QCeFStYz3sl6RQS71hT0xiU3b5So8v1NnRbQ4dznDCZu9kALq9cCRRKUduJL1QyX4mtIrLQ8u0F2P8ojNVzKgXmS6rS+BZJN37GsgM/KychOkg7mC4d9lrFABXVpKLqeQL6anlYQkEmMJ2iJAuRch2LjrsT4yco/KhrMnUDnZzOb1OGRjNRtsAUqPjZw==;+rp+fvmRGDik0AMT6/P4bw=="
+secured: "ZIKP6nu9ZkzZ6+mkYS39qqTz2WSQhWHFDqgCQmMFqVaQAfsJmzQSHHGaLwyIXwfuh2nCsjYF8yID+LV0r5eKGP1hGjqY+O0kVf6qe9fgT0V06US40nU6B+mLPMSgEaUvwLr1q27QwEDeKdowz7tpzMUVsa4YyK/YhkmiEcTL+mAY0Kn3/FE1B1CVKEoGzcAc22vsnWdM4XC7z0wioIOyCWolmWUzfZ0OUFpR9PjWH2Sm3qHRmfB7iSu2ZHNcGWf0G1s9/M9+HC2AIsmceWVX9w==;3TPT04meJ4poFz+9FadmDQ=="
 ---
 

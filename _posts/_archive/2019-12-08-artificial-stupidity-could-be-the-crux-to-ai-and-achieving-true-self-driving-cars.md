@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,20 +43,7 @@ related:
       - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
         width: 1200
         height: 799
-  - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
-    excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
-    publishedDateTime: 2019-12-05T21:21:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191205005673/en/National-Football-League-Amazon-Web-Services-Team
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: https://mms.businesswire.com/media/20191205005673/en/760774/23/AWS_logo_RGB.jpg
-        width: 1200
-        height: 627
 
-secured: "1mhKp0WTvIszGRY5XYBJ7f7x9/UsT1TSeYDTeEysRZIOT8ULLYwlqkG5PMEXSSjZB/cWoaQImXKQjmHT2B3FG3NfDjuji5HXdn8ZgqeZSfglzdHgKbBrLtfhE9HKOqvdDP1UsV72CaDN5CcqrtWqgnR6XRQEXsEc5vxdL7JeugEZKY4pdl49dYAep9jP4EWeopWmOPCkaJi8Ssu3Lr+7kOxPkCl3pKI3G/TVAUpD0S87qFi5b4Jk8HlGzJ8nrrXdVTODqG4CAq1O8eDdxmOg5Q==;k02oGuaVShtUijibJ3T82Q=="
+secured: "kkyrorImmJqxCeOuU6ya3Stga2Dm67ocaehBupCxE5AdicrTSt9ZiQpi60efwjtxkJi4EWSssAPuuF8kyaSZ84aInloyOMMHZGKDOFE9JcrlWTj+YR4w4E/sm6W4wJBbSpBmSGzdFUxORiXKsXk24f+IGWFmfAs0TySbjugV4/SFlieVGNV8bbgu5QavZnugm9BLJ2OnxSeedbJzvaTIheRq01/sm8N7YVjB6ui1xDV1KE7c099Gbfiz5bW4y0hGuZvkacltFNhnbOeSlKLgFw==;0b3XyAehItiOu+0LAYSOTw=="
 ---
 

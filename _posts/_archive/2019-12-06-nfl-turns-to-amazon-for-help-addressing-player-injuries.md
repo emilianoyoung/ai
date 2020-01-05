@@ -24,20 +24,20 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon and the NFL plan virtual games to understand real injuries"
-    excerpt: "The system could also be used to create new rules for the game. The Digital Athlete platform uses AWS technology, including Amazon Rekognition, to tap into the NFL’s already massive data set and video feeds. “By leveraging the breadth and depth of ..."
-    publishedDateTime: 2019-12-05T22:16:00Z
-    sourceUrl: https://www.digitaltrends.com/news/amazon-aws-nfl-player-injury-simulation/
+  - title: "Amazon Partners National Football League For Player Health, Safety"
+    excerpt: "The Digital Athlete will apply AWS's AI, machine learning and computer vision technologies, including Amazon Rekognition, to the NFL's data sets from various sources such as historical and current video feeds, player position, the choice of equipment and ..."
+    publishedDateTime: 2019-12-06T15:41:00Z
+    sourceUrl: https://www.nasdaq.com/articles/amazon-partners-national-football-league-for-player-health-safety-2019-12-06
     type: article
     provider:
-      name: digitaltrends.com
-      domain: digitaltrends.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
     images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/nfl-football-oakland-raiders-kansas-city-chiefs-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
 
-secured: "B5jaHFo710xttyoI3m7qpJun+w3GoireIocW+yh9tmmO3iGICendumhOGJvldcmKIbUmUubqNovR8IFCufrND/uM5dPAsQ4USRG1IX5rIsuxXOjilWsJbmIV5yXwfUBDR3zLFK+XN55FPV+ZgW+cnYLudXxyQbMlt7OflRu+5mjd77XCYLUcoXzBDLGrRwDwgULZPCZrKq87ug5HbbKJn2yge27dgZBMc1n8PhIYKeCBw8KYXqFOd4z5QgOLH00S51Zi/k4mUO56fwSNEvhyMQ==;8w7Y/0UQ35tQxnvzFY9QWg=="
+secured: "22hpUI1l7MHBzu8tbQD5KSkhKIcSagwXEAmBRrE/+2N1Y6BQ7YvK83JfrFwubImDGDhonBa/uAJCD3vbp4rdDCuuYkujmeSx4bFGsA43bLklHM5RctD0tUP8Tm/pG1GVvH9+EboiQiHG0bLlzxlDF/jMM016DgIwi/41T6Yt6cVxlsma3t5mhfUtMZsDuVKr4mBqLESOrCvg7nH6F4Z+N/XqE09thhG/82QzWPlK/LvvrQIZHWUbvOebQ9q9V2lQ0dg+UdpfDEsUESJ1FlTU8A==;DS6fEJCLfkLcreFI1m8SmA=="
 ---
 
