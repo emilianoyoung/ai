@@ -52,6 +52,21 @@ related:
       - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
         width: 450
         height: 700
+  - title: "NHS is leading the way in AI adoption"
+    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
+    publishedDateTime: 2019-12-17T12:30:00Z
+    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
+    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+        width: 700
+        height: 466
   - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
     excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
     publishedDateTime: 2019-12-17T12:58:00Z

@@ -39,19 +39,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F970161266%2F0x0.jpg
         width: 1199
         height: 763
-  - title: "China’s self-driving RoboTaxi hits the road"
-    excerpt: "Companies developing artificial intelligence (AI) technology are racing to put autonomous taxis on the streets of China. One of the competitors in the potentially lucrative self-driving cab business is the WeRide RoboTaxi service based in the southern city ..."
-    publishedDateTime: 2019-12-07T22:20:00Z
-    sourceUrl: https://finance.yahoo.com/video/china-self-driving-robotaxi-hits-220013356.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/4H3Iq908QyEvJ91Xhs_k3g--~B/aD0xMDgwO3c9MTkyMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/video/south_china_morning_post_us_228/9bff1304d25156d6d5503ce59fcabfac
-        width: 1920
-        height: 1080
   - title: "National Football League and Amazon Web Services Team Up to Transform Player Health and Safety Using Cloud Computing and Artificial Intelligence"
     excerpt: "The partnership aims to leverage AWS’s artificial intelligence (AI) and machine learning (ML) services to provide a deeper and more profound understanding of the game than ever before, making transformational change possible in football, other sports ..."
     publishedDateTime: 2019-12-05T21:21:00Z
@@ -66,6 +53,6 @@ related:
         width: 1200
         height: 627
 
-secured: "F/FT/X7WjmH1ieuvEFDt1NLY5JmivebMKat0eT/yR78Ctj4B6d3/NFeBQAreHEB8e1N2qzJ6dIy9pV7Q9YhMDxH3nPT6gYTMrjy7KPXyj2FRKKEGDkFwzC5ilOJpky/CIaftD9yB7LfuUqfpQGhqtZlk1bQjVOm/jnaQdXMHIwwLbkswRWDxhN4UuBDxqi000AUwgR4FQm20+XaDngeB3m+5DlZIc79nlaHSCz9STX6WV19Nufbib+Xa/54V5pE6Dpr8MpKsoQ8zpzqEAewJBQ==;zm6AHzfagdikNZePVO2cEg=="
+secured: "nZ5Ig2WUFu3Y4pQvaru7Nar/uCPJADZd2MPB+lGgNmOnKJd5CvZSABVyb9IEl4NTZVhkhlVkMgN1N2F26yH3HHwyUhj1UN3Xsmv9UZk0uM9JB8QaQREd28PFW9M2v3mMav5i7rjxVGy2v2k2lRfd2gijiW3DjUnrcdj2rDLLW/0GkfAYNd316M/kq9x/CWUmHEqb5W8Fia/HdWQwyJ9lhcjSugzxD3Sa6sMu7gTeAc0OQEC+u8u987CeAMe0ypaEanisPdgKsiIawBeCGbO3qQ==;kriPyRVgOveCQNmurs6PaA=="
 ---
 

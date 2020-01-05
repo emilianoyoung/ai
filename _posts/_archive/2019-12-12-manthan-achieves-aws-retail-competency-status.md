@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Manthan Achieves AWS Retail Competency Status"
 
-secured: "uDGrSoUZQ3XgQIIgHyf/uJISnB8RxURfmH2unQVL2H/zKQWj67ibKKs9f66TsAoWYiqa3HxrtFJkEhI2j5LEGOXow5bqbAfzmJFthYcOPG3pbtnIczk0n9UQUv1DtBeQISvQz0qHDns53BI0C4VMoZXeoRa9eWhjsheOidYBNHt9zSOF9DEoqjelemXGGOfbgjSi/fKj6Anq04Trmic52wNQEG12/Fox3HMGURTcrzkbbor3S4BTe4m5pE8oVGModtopqhxxmudo81zqXvI5WQ==;Y3KrCYqVSX5bXQw9Q4tnWw=="
+secured: "oFdB7grzctxKZGbzCw/gYIOMF2+5xcGNL2Ms8xuo2e0LEwzBz8gPtf6cKKsQmR+sa6c4UyRL0/QgSMv40AXNeDJX4AMMGQ+FEFkbEsiXnAV1WiLt2CYg9zmZTxhLULYq8huaRA7uCt9898Wl4jvW6YQfjIlZGvQlttRk+Bk7sj0/DH/rcZ8ysNDlS1cMXcA3LYt6riTYHpdGwKp0JA1dwelNi15OycyKxrPtqL5aROCOG7BxdwmkO2xf4rPIbBPXjC5SXS6TfXyU84e6xgjKQQ==;QbnU0YCgXdN75MP9VXh53Q=="
 ---
 
