@@ -151,6 +151,19 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
+  - title: "AI Chatbot Technology Predictions for 2020"
+    excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
+    publishedDateTime: 2020-01-05T03:18:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
+        width: 300
+        height: 300
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
     publishedDateTime: 2019-12-30T17:05:00Z

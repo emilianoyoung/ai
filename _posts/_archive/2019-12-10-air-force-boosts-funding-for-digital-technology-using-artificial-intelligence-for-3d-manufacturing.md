@@ -23,6 +23,6 @@ images:
     height: 534
     title: "Air Force boosts funding for digital technology using artificial intelligence for 3D manufacturing"
 
-secured: "7Mf8Vk9aU7YU2OavyqB4e9NW1KyBx02qtQK6HVrO6QcrSpBeEoO3hp+X+9Ek/HUeodKVZ72OjiJL+gjcIrxH37l1y+odtqNBWEBPnsQL6mYBFnr6VZGaQJ5EdgHPHepoStPEBNKshYgtBXlN5tnczg0j9sekb8zwZi+lGCoR5EO5SssjgWRsVOJlHEVpd5nZvpWZEPuVffCD3RDN39KV24Fn1f1FTPhMM1E2Os1knku6RCjt9SqKE1RVWUoujvqzLMQge3fT/5teRw33F+MlBQ==;p/WjDA4yrlPtG/lDcS0q+Q=="
+secured: "mBW5566xOyaqpnLu5ZwzvbXMU14IiZUlDCLQKpzqR3LssZOtqzlxYw7hL/6c0aIHs9EaEBKB2oBlZGo6NDJDTfduvr4zwkMjAST6KZpGnE++uuOChOZFjgtAl+bAA3bEIsdaifYLfQ/QgTZyqBa9CCsBBLFY2w/sHniU/p7qzWCUCvewMzFi6ujgW78CalTvHZhm7u/Bd4OrXb9Ot/+0KvLrJ+jJwLAmcvvfYndHPNpd1kA4AUjqgfqeo4ZvdYvlNI9Oj1oaCl57Q+IlcdATow==;Ub1xB9Yu4uwDkWL0BVzw6g=="
 ---
 

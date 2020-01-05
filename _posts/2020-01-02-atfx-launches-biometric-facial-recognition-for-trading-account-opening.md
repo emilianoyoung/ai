@@ -24,6 +24,19 @@ images:
     title: "ATFX launches biometric facial recognition for trading account opening"
 
 related:
+  - title: "Facial recognition 5G-powered glasses, enhanced biometric passports, and Interpol: border updates from Asia"
+    excerpt: "Customs officers in Shenzhen now have biometric facial recognition 5G-powered glasses to scrutinize people crossing the border, following test pilots conducted for two weeks at Shenzhen Bay Port, reports The Standard. The biometric gadgets identify travelers’ faces and flag anyone who appears suspicious or labeled as high-risk, and are very ..."
+    publishedDateTime: 2019-12-31T17:51:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/facial-recognition-5g-powered-glasses-enhanced-biometric-passports-and-interpol-border-updates-from-asia
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.01FE99FAA648F0450CA290AA99A25ECC
+        width: 700
+        height: 490
   - title: "Sogou Launches AI-powered Simultaneous Interpretation 3.0, Opening a New Era of Multimodal Cognition Capacity"
     excerpt: "The latest upgrade significantly enhances the efficiency and accuracy of machine translation by integrating computer vision capacity and AI self-learning capacity that instantly captures and understands multimodal information presented by the speaker. Sogou Simultaneous Interpretation 3.0 is the first of its kind that can \"see\" and \"think\" in ..."
     publishedDateTime: 2020-01-03T03:01:00Z

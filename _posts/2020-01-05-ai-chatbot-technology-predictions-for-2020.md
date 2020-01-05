@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-publishedDateTime: 2019-12-30T21:04:00Z
-sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+title: "AI Chatbot Technology Predictions for 2020"
+excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
+publishedDateTime: 2020-01-05T03:18:00Z
+sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
 type: article
-quality: 74
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: /assets/images/organizations/techcrunch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
-    width: 700
-    height: 381
-    title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
+  - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
+    width: 300
+    height: 300
+    title: "AI Chatbot Technology Predictions for 2020"
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -44,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
         height: 525
+  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
+    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
+    publishedDateTime: 2019-12-30T21:04:00Z
+    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
+        width: 700
+        height: 381
   - title: "Top five projections in Artificial Intelligence for 2020"
     excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
     publishedDateTime: 2020-01-04T17:46:00Z
@@ -141,19 +151,6 @@ related:
       - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
         width: 300
         height: 231
-  - title: "AI Chatbot Technology Predictions for 2020"
-    excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
-    publishedDateTime: 2020-01-05T03:18:00Z
-    sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
-        width: 300
-        height: 300
   - title: "5 Innovations That Will Dominate CES 2020"
     excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
     publishedDateTime: 2019-12-30T17:05:00Z
@@ -231,6 +228,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "A0acnhBHFvuzRm5jXj8lLYkUyhdTLVY7Lbvp9xqfVq3kwywSTWsqUUAeB/BO/EgX/1XuBfsueGg7QMyphdAdPBQ3w6PKGU1qzuVfs3nWlUYoEmKiDiTmmbh+wrunNdn2FAHZmKC85D6QG+1ydwUHcG9DN/0m5W3argWkLCKdfMANpu+bviQt3E8ZVg80I2pr2yzHdt1047MEj4W0sjUnQm0G37oHJUh4nqryAce2jnEuWtfZ+KmnaUAJKW5+AktOn4OBAj59x+7sez5mECETjg==;v1QXrppA0nr4hc2/knZ0tw=="
+secured: "lqZzHJYHeDvmRO3OTK+fWy0zshovKapftcc61WyXAYAwSdupqb/UZQu/j1t2o76+ExA0x21UApymiiOz79t047Kj4gdSfM3kFkuV3YWOWMTbMjia54jY+nutMLYyLdscdJxfO5J1H/AoIzW5BqumqeKdBB+eBM8KTIJV5sMxHfR46EnW+bMYeMnh+zOuyAHzG6llIJKKDFq8gM71rqPpsAfm1f64GWSDZ2dqbmt0q1UGoEPc1AmW/QE41/eqVIzq5SbiOKh57G1jtFOq5sptbQ==;daQLBRoghaz+lWZvSIZaZg=="
 ---
 

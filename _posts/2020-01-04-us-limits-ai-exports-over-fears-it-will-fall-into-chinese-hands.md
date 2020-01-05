@@ -1,9 +1,9 @@
 ---
 category: news
 title: "US limits AI exports over fears it will fall into Chinese hands"
-excerpt: "Companies will need a license to send certain software abroad. The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery ..."
+excerpt: "The US government's concerns about Chinese involvement in tech are leading to significant restrictions on AI. The Commerce Department is instituting a rule on January 6th that will require companies to obtain a license if they want to export certain AI-powered geospatial imagery software to other countries besides Canada."
 publishedDateTime: 2020-01-04T20:40:00Z
-sourceUrl: https://www.msn.com/en-gb/news/world/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYClUE
+sourceUrl: https://www.msn.com/en-us/news/technology/us-limits-ai-exports-over-fears-it-will-fall-into-chinese-hands/ar-BBYCoos
 type: article
 quality: 37
 heat: -1
@@ -17,7 +17,7 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.94C4B7CA941113295B99CABB7F1DA5E3
+  - url: https://www.bing.com/th?id=ON.5FBEBC3EE19E29AB717EE2EC12596E92
     width: 700
     height: 367
     title: "US limits AI exports over fears it will fall into Chinese hands"
@@ -108,6 +108,6 @@ related:
         width: 700
         height: 367
 
-secured: "I+aX2o2oTHq86sG1zcOOAZ7niDcGB9/5Y19OKkNh6PRUtOqeXkxXYgIh2r9/fDZFBPYWAUPUPC09WjbobP2qgdpHamYu69f6NKtx1kU7tvRCqO98tiA5QtfZj4t2sVynjlrcqBFim80LqXFkHChcWXRxjiBIgzjY8vwQZnIZ1AI5/i46cG+YxZ3ONM2G8xa4VRW4gq4KmGHjlt3CcgsK4OjDfpfIJ1GF/dT4iWYfxsfRkvQcIWE1JQrxf/SGNtG6GdTWqnqHw6eYhuq4Bx0SLw==;+5i6HGj8deTZ0EAz58nfQA=="
+secured: "gtAbh4aPrEDBBu5RtMeKHhxao3cm0wadUnS1GyPJ6lqgJeRBBNfTlXjp+eY123+D7oHwCqhbY+DdVZ39e1kkDqaQp33OVhghisYASxayKM07a4cnw3F6Gkf6D+/I/0II4in95+H41aCqC0P3rOEANImSW25BhRMOigWwCL3EqESDjd8fIFR/6aLpKmdLUaj7nDUjsA24UHOvQHNFtQ9cLTP2F6J+gVu/efZo9ZGSROJc7mbZ9ByU3yteaSiVofwJFzcwAtbvlfiPNpQyDEA+NQ==;ayZakGdYS6V7rJf8As6k6Q=="
 ---
 

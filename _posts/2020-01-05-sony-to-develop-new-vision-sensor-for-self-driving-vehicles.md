@@ -1,35 +1,44 @@
 ---
 category: news
-title: "Bosch is finally making LiDAR sensors for autonomous cars"
-excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
-publishedDateTime: 2020-01-02T07:00:00Z
-sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
+excerpt: "Sony Corp (OTC: SNEJF) is working on developing a new, more affordable lidar vision-sensing technology for self-driving cars, the Financial Times reports. What Happened In an attempt to dominate the market for image sensors in the nascent autonomous-vehicles industry, Sony is developing a new silicon-based vision sensor that is lower in cost ..."
+publishedDateTime: 2020-01-05T03:02:00Z
+sourceUrl: https://finance.yahoo.com/news/sony-develop-vision-sensor-self-125137914.html
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.A70535DB790916403AD7C22D17E063CA
-    width: 700
-    height: 367
-    title: "Bosch is finally making LiDAR sensors for autonomous cars"
+  - url: https://www.bing.com/th?id=ON.F1BD168D02DF69E38C4C3C5E336B1064
+    width: 600
+    height: 400
+    title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
 
 related:
+  - title: "Bosch is finally making LiDAR sensors for autonomous cars"
+    excerpt: "It plans to produce them at scale to keep self-driving costs down. Bosch says it's developed production-ready LiDAR sensors for use in vehicles. It's hoping to keep costs down by making them at scale. That way, it might be able to offer them at a lower price and bolster more widespread adoption of autonomous driving systems. LiDAR is the final ..."
+    publishedDateTime: 2020-01-02T07:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+    ampUrl: https://www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/bosch-lidar-sensors-autonomous-vehicles/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A70535DB790916403AD7C22D17E063CA
+        width: 700
+        height: 367
   - title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
     excerpt: "Sony Corp (OTC: SNEJF) is working on developing a new, more affordable lidar vision-sensing technology for self-driving cars, the Financial Times reports. In an attempt to dominate the market for image sensors in the nascent autonomous-vehicles industry, Sony is developing a new silicon-based vision sensor that is lower in cost, compact ..."
     publishedDateTime: 2020-01-03T11:51:00Z
@@ -60,20 +69,7 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/02/11/22906690-0-image-a-2_1577964086135.jpg
         width: 636
         height: 382
-  - title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
-    excerpt: "Sony Corp (OTC: SNEJF) is working on developing a new, more affordable lidar vision-sensing technology for self-driving cars, the Financial Times reports. What Happened In an attempt to dominate the market for image sensors in the nascent autonomous-vehicles industry, Sony is developing a new silicon-based vision sensor that is lower in cost ..."
-    publishedDateTime: 2020-01-05T03:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/sony-develop-vision-sensor-self-125137914.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.F1BD168D02DF69E38C4C3C5E336B1064
-        width: 600
-        height: 400
 
-secured: "5A2FzD8NMDsEQnaOoKqwB6rxLBzCUji9CYIwN59Cdz95L9yLyryDSW/sWW2fsvFO/ZFxwVUmvsMxlPD9A65QtWki1hg38NhPposhwDfcE5f5QpxG4SKH0u9qbeI63IGeOWM1YFMvZGOfxQJ/hejWpDT7zBm+PVqvoU+hYyI4TY9Cw/v0wqMsg+8H3uZOYKPr8rcsArosDGx6wIDSM15hjBwsSWjxv6psLmZne/CIJiAZ15+ANak0ubtouW/ufMFPFWHqS/F59Y170fAqJ/eZ0w==;Z+0YKNJhZUJ4shskTK2RRg=="
+secured: "1YSgfPRleLQKcCndJJ0JKzc/8JhLiz/afgo8GNVn/SruCq1LVNt60uXVRMvjuq5byrx/SGPHoPoaPWe0FEuDRSqEXY7ySYJfUivRbJ4Km36vbVLUOxceLsR9pjQ2q62qTgs893WrXS2hpsDGWS5Vz7JiZzhxDy9rWjxqArb19mX41xnA7htpCh0dt9/vsi1kcqiQNDJJfTQ0fGrblAezh9vNiGxlIKBmwI3sWq3qNcYLNQdmPVfN3PR8yvXk4Of1SI+97+tsCoN7K/oeVJ+gjA==;56Y8flfh7eSp+enENB065Q=="
 ---
 

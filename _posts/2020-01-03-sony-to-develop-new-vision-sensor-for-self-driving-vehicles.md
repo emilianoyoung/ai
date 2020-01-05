@@ -56,6 +56,19 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/02/11/22906690-0-image-a-2_1577964086135.jpg
         width: 636
         height: 382
+  - title: "Sony To Develop New Vision Sensor For Self-Driving Vehicles"
+    excerpt: "Sony Corp (OTC: SNEJF) is working on developing a new, more affordable lidar vision-sensing technology for self-driving cars, the Financial Times reports. What Happened In an attempt to dominate the market for image sensors in the nascent autonomous-vehicles industry, Sony is developing a new silicon-based vision sensor that is lower in cost ..."
+    publishedDateTime: 2020-01-05T03:02:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-develop-vision-sensor-self-125137914.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.F1BD168D02DF69E38C4C3C5E336B1064
+        width: 600
+        height: 400
 
 secured: "6YBzKTOZGorwd1yFBUJ4SXe71l9SKPhnTtVJHNJB7yjXWVioAyZnIlswkHCg7r9s8k7gTJQiq/h0B+qOLtwyg+OrmsmXDCANqhPMQrTIYoqGds1s4YCvAkpDXDdcBWcjQfYbZ02BatqRGZA1D5YFIiqvDQP8H130aUuhDceK5AI1RDrybzC2clFkXDHmbo3VQ3cm4d/n+vPlWu5zuGMOI/zaeF5j210ShHpMsQYxZ6t+wsocYNrAUo3pADntZABjTgjDhg4TW7WCxXnajHec5A==;bLDVYfTwD2a4hAUSMDllPw=="
 ---

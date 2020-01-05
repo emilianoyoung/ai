@@ -25,14 +25,29 @@ images:
 
 related:
   - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
-    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving ..."
-    publishedDateTime: 2019-12-23T15:04:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-1028782617
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
+    publishedDateTime: 2019-12-23T16:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/foresight-selects-cognata-simulation-partner-160400161.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/foresight-selects-cognata-simulation-partner-160400161.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+  - title: "The Washington Post: Why Congress needs to regulate facial-recognition systems"
+    excerpt: "This editorial appeared in the Washington Post. A massive government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often ..."
+    publishedDateTime: 2019-12-24T05:45:00Z
+    sourceUrl: https://www.omaha.com/opinion/the-washington-post-why-congress-needs-to-regulate-facial-recognition/article_ce508f4a-06f4-5607-885d-7e6c9b6c8283.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
+        width: 700
+        height: 393
 
 secured: "yAcHsXq9Ob0kwPfCPLkQ69q0lKxKO53VTRp0Iyk4I4/SC+QMAKR/EJIXO65nXgnMsyfsMV9QuEAhreDyBZYed1rvhjvf78cCCjrY4c9zLRdS4DZhD+G8MBJNCo6qJRcIIqZKScGpk0xpEE2f5frJ0wosPS0Xt1k7SLyNalot+Bjpj6ixQNCBvOoUOev5VHaVh4Cmkwugsv3Nqs/g5QLvrRPE/kvQw/lRZEnovbIqVSbX8/VFtH6gmltqW6yOxXr3far1RSuZpu53ubBHbMUsdA==;plx9sn4Rzmxno/Ej+Q/mFg=="
 ---

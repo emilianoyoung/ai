@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate 3, with deep learning neural networks leading many achievements. IBM’s deep blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
+quality: 57
 heat: -1
 published: false
 
@@ -17,8 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -84,6 +82,6 @@ related:
         width: 615
         height: 384
 
-secured: "0gGzXtxlLavQ2aV8hkFHPqMS4yUt/MQ1CC8uLIZt6fdXXMBDNJiEf//eAA2T2fvCGK4HNudFFFbi3vRt7RQxgLVUOJxITPbwMe4OzxA/HTlX4nkdd3dbs9FiLBwYugKFelfkCxlnMH4rWsVEHfYY0uAeD1cvcUY29yfHnvmE7ONyDFsMgc2jnC6e1mJvndB1FtFBjzFHkF14jfmLglyfSizPrHrFCNd+pE2XzEsV7j7zFszGGHG6mPjcGTR1lwAJa8A/7SxSXmeBVQVbyGOePg==;I2l0zdlVvm7Tl4cBvC60zQ=="
+secured: "Pr0iP977XPNVSGINEQc4LhzRI17M1Eu/ZH17q8DTQR3DFQJOv/3JV6KihhPu6wIb+whXIl4Y9IYjeFtHMpNGPmDTxKZoTn9U7X6XxTfxCFYEasy2lqxGL0e7TWrolH6P4FyyIKLpXxszptLLgtX6NF1A+d0/bqUBNo5MBX8CF2DO1gs1IpG77TSo+oXGLSS6NsleSOwQ8kivmW9F3BA+aYbB+S1UAsdj9c21hcpyxs1xa1DO1eyNXxlyKQiVVCKsC/MVIo7tbYqsDCbTbvgWhw==;KbgdIvbx+5qCHR3PbMh8/g=="
 ---
 
