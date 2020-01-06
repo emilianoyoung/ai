@@ -24,62 +24,77 @@ images:
     title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
 
 related:
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-17T16:50:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
-    ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
+    publishedDateTime: 2019-12-18T18:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 194
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.769C305653CA13B312F02236D6DDAEA7
-        width: 533
-        height: 399
-  - title: "Hugging Face Raises $15M For its Open-Source Natural Language Processing Platform"
-    excerpt: "Natural language processing (NLP) is at the core of breakthrough, AI technologies and has powered apps like SignAll, which is used to translated sign language into text. Hugging Face brings NLP to the mainstream through its open-source framework Transformers that has over 1M installations. Hugging Face’s NLP platform has led to the launch of ..."
-    publishedDateTime: 2019-12-19T17:27:00Z
-    sourceUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/
-    ampUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
-    cdnAmpUrl: https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
     type: article
     provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.A71FB55C06FEA039E9164A36327AC063
-        width: 700
-        height: 525
-  - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
-    excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
-    publishedDateTime: 2019-12-18T16:18:00Z
-    sourceUrl: https://mobileidworld.com/hugging-face-raises-15-million-expand-natural-language-processing-library-121803/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
-        width: 700
-        height: 490
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-18T00:07:00Z
-    sourceUrl: https://www.yahoo.com/now/hugging-face-raises-15-million-162619121.html
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
+    publishedDateTime: 2019-12-18T15:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 4
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
+    publishedDateTime: 2019-12-19T00:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
-        width: 700
-        height: 525
+    quality: 4
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "21.0% Growth Rate for Natural Language Processing Market by 2024 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report, Natural Language Processing Market 2019 provides a comprehensive analysis of the Natural Language Processing Market segments, including their dynamics, size, growth, regulatory req`uirements, competitive landscape, and emerging opportunities of global industry. This report also provides market landscape and ..."
+    publishedDateTime: 2019-12-20T11:02:00Z
+    sourceUrl: https://www.openpr.com/news/1882222/21-0-growth-rate-for-natural-language-processing-market-by-2024
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "/3ugwip6oItIWn0cLKnXi68HQ/CKM6hFpbRkucupVfXLRNkK4N7ypCZm5FAVVCU9qhvb0Z4hQ5Rk7tzNIKMx4HpRjmsbqTqG8PruY4TUnEAgx4k927m1YcPpLxFKFR3GtSIU0YKyj1fcpXeIsJmQbKUYmeUNf2lh1x3xtPIISbA69BY+wNM2Wm+/4we63VV2aSN2yFvxSbYq8iv3DbZLjbFJY2j/qw8cLkuHD89gTvz8U7vgmxdNNP/fA2NqNMS4FnYgT6m6m/r9uuXFxgzOgQ==;gyQfyrguyt+AeZ1a0ylj8A=="
 ---

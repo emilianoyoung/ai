@@ -18,88 +18,81 @@ topics:
   - AI in Autos
 
 related:
-  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-    publishedDateTime: 2019-12-17T16:43:00Z
-    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+  - title: "Cloud Natural Language Processing Market Rising Trends and Technology 2019 to 2025"
+    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- The Cloud Natural Language Processing Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2025. The Cloud Natural Language Processing market report is a valuable source of data for business strategists. It provides the industry overview with market growth ..."
+    publishedDateTime: 2019-12-18T18:48:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-rising-trends-and-technology-2019-to-2025-2019-12-18
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
-        width: 700
-        height: 349
-  - title: "Stanford engineers teach self-driving DeLorean to drift"
-    excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
-    publishedDateTime: 2019-12-21T04:45:00Z
-    sourceUrl: https://www.kcra.com/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
-    ampUrl: https://www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
-    cdnAmpUrl: https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/stanford-engineers-teach-self-driving-delorean-to-drift/30301978
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
     type: article
     provider:
-      name: KCRA
-      domain: kcra.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
-        width: 1253
-        height: 705
-  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
-    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
-    publishedDateTime: 2019-12-17T16:54:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
-    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
+    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
+    publishedDateTime: 2019-12-20T19:09:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 43
     images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
-        width: 1987
-        height: 996
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
         width: 700
-        height: 467
-  - title: "Stanford Engineers Taught a Self-Driving DeLorean to Drift"
-    excerpt: "Since then, mechanical engineer Chris Gerdes and his students developed the self-driving car to drift through a multi-turn, kilometer-long track in just a matter of minutes at a level that’s nearly as good as real professionals. The DeLorean uses GPS coordinates and the algorithms on Jonathan Goh’s laptop to chart its path, meaning those ..."
-    publishedDateTime: 2019-12-24T13:04:00Z
-    sourceUrl: https://hypebeast.com/?post=4844035
-    ampUrl: https://hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
-    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/standford-self-driving-delorean-drifting-info?amp=1
+        height: 388
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-18T17:30:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-natural-language-processing-nlp-market-set-to-reach-26-4-billion-by-2024-rising-at-a-cagr-of-21-from-2019-1028773451
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 24
-  - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
-    excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
-    publishedDateTime: 2019-12-22T14:51:00Z
-    sourceUrl: https://www.thedrive.com/news/31594/these-stanford-engineers-taught-a-self-driving-delorean-to-drift-like-a-professional
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
+    publishedDateTime: 2019-12-18T15:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
     type: article
     provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
-        width: 700
-        height: 393
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 4
+  - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2019-12-19T00:47:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-natural-language-processing-nlp-183000034.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "21.0% Growth Rate for Natural Language Processing Market by 2024 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "According to Market Study Report, Natural Language Processing Market 2019 provides a comprehensive analysis of the Natural Language Processing Market segments, including their dynamics, size, growth, regulatory req`uirements, competitive landscape, and emerging opportunities of global industry. This report also provides market landscape and ..."
+    publishedDateTime: 2019-12-20T11:02:00Z
+    sourceUrl: https://www.openpr.com/news/1882222/21-0-growth-rate-for-natural-language-processing-market-by-2024
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "u+Jy/xhxmXPPuLS/tetwd49HJry94Sg6K3+bnfSkKGJmEHDO46isxL2x7EoSrS0wDfgPILeMRcTlN+a3WqMUvQnRc/UZ+4YQ2VerYwlmL0MYxstMdkW4K29i4R1HI7GjRiINFQEPPSpiQYgwD1iFGk4DjdIY1BQRTe9h/L6ScO3/XylDSUs5nESYQtv4ALESjBCLEPGHqqUB3Qg8cCDU8B9fTUbxkGnMLm/kbNjPixmO+4L4DeNdblXgPby37TURli7LWRIkKet6B5vtqAk5AQ==;tAH9+wfRDoDPb4MRL5i1Rw=="
 ---

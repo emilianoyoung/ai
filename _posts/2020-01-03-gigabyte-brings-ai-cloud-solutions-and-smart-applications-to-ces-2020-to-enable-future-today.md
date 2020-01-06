@@ -55,6 +55,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62B46E9FC2DBA70056CA813F5A056AE6
         width: 300
         height: 300
+  - title: "GIGABYTE Brings AI and Cloud Solutions to CES 2020"
+    excerpt: "Cloud Fusion: A hybrid cloud management platform that integrates sophisticated container management and software-defined storage, allowing your organization to achieve the possibility of an on-premises self-built AI cloud. Liquid Cooling: A showcase of modularized direct-to-chip liquid cooling solutions for increased performance possibilities ..."
+    publishedDateTime: 2020-01-06T17:20:00Z
+    sourceUrl: https://insidehpc.com/2020/01/gigabyte-brings-ai-and-cloud-solutions-to-ces-2020/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6004B6B0EAE950B9A79CA6464680DE0C
+        width: 700
+        height: 457
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
     publishedDateTime: 2020-01-02T18:00:00Z

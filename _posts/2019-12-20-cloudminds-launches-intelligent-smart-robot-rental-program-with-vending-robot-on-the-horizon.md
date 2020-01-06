@@ -37,15 +37,6 @@ related:
       - url: https://www.vendingtimes.com/Uploads/Public/Images/Articles/201912/12202019-CloudMinds%20Launches%20Intelligent%20Smart%20Robot%20Rental%20Program.jpg
         width: 1440
         height: 1080
-  - title: "UBTECH launches portable social robot with ‘loving AI’"
-    excerpt: "UBTECH has launched a portable social robot with what the company describes as “loving” artificial intelligence. AlphaMini, a portable humanoid robot, which is is said to be able to chat, read, sing and dance, made its debut today in South Korea. Built by UBTECH robotics, a manufacturer of intelligent humanoid robotics and AI technologies ..."
-    publishedDateTime: 2019-12-17T16:10:00Z
-    sourceUrl: https://roboticsandautomationnews.com/2019/12/17/ubtech-launches-portable-social-robot-with-loving-ai/27604/
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 34
   - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
     excerpt: "CloudMinds Technology Inc. - a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity - has launched an innovative Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. From natural language processing (NLP ..."
     publishedDateTime: 2019-12-19T05:58:00Z

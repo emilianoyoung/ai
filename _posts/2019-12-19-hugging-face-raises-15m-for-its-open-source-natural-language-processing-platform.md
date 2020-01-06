@@ -8,8 +8,8 @@ ampUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-process
 cdnAmpUrl: https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: alleywatch.com
@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-17T16:50:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/
-    ampUrl: https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/amp/
+    excerpt: "More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and others are also participating in ..."
+    publishedDateTime: 2019-12-25T14:38:00Z
+    sourceUrl: https://uk.news.yahoo.com/hugging-face-raises-15-million-162619121.html
+    ampUrl: https://uk.news.yahoo.com/amphtml/hugging-face-raises-15-million-162619121.html
+    cdnAmpUrl: https://uk-news-yahoo-com.cdn.ampproject.org/c/s/uk.news.yahoo.com/amphtml/hugging-face-raises-15-million-162619121.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 194
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 64
     images:
-      - url: https://www.bing.com/th?id=ON.769C305653CA13B312F02236D6DDAEA7
-        width: 533
-        height: 399
+      - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
+        width: 700
+        height: 525
   - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
     excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
     publishedDateTime: 2019-12-18T16:18:00Z
@@ -67,19 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
         width: 700
         height: 525
-  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
-    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
-    publishedDateTime: 2019-12-20T19:09:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
-        width: 700
-        height: 388
 
 secured: "33tCq9vNR32L85p71lLOXpuF295b+2UtTKf8mBlRV3hPl/p6bB2dRhlnjBVfAZPE2WdwhDywPmQD0kcANGox5v4AKEoTrQPCuxEwxNBYSdAzkEKDvAvCrN7QabV8b7tP1P+E9jmVhNZxJXpPO/At0QUC6k6U63WyENBXJnj9B6WBj2WgJBqucUNqGuyRdBJkaTyz5fy7eJTo/7B5JERvVCiHSSVfNqcWCnE/xv/FiAMjR3V/m2cvCYR+pdrgNA+MuQKnX8vw+EI/m6xqfEArfQ==;Rrc9+V/fmfD+Z+SrG/ze3A=="
 ---

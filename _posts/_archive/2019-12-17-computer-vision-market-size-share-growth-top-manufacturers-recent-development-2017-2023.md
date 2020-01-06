@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
+excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and ..."
 publishedDateTime: 2019-12-17T13:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
 type: article
@@ -38,6 +38,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "9Oj5N52z8b3cnNWppNfxSNcnqS+1P4y0cJnMf6GWG+2hkf9URS7Lp7xP+bguN+lfiIAa8p8/bOMrcg2envHNr1Ox+UUYYN2zWLSoFziZ6UvkQqlTr7qLXmNpq7miwNtkt7yR+LCTwIVqjcxRVzTjjGYQyUrevVBaHJePhv6Q2qWWx3puLHZP13tCZzGaz5cxA7C6IQID9A0nS0/k+ajVZdhZhad6ubDb41np8aFuCHN3t1ZNuItxdyuXnzhiveLCd71wMI47j2fIBrFP+DhBKg==;AW5ljDxAluWTWLXsiR2qGQ=="
+secured: "bC7SrtRxvzObe2u2DsGOAHTf1XrLbjRNzSwgYfBWTABCrm2zEyNY4vwAz05hYTSw+HMMaXpbtJ5dNwF27lbAg0VfKY7axBtBbcaq/9WBEP1TnQ5Sydcppuq/WwDg2GA+DiNGDiZJg4PJ5muiNM3gIM9w62TLUVu8lS8tPT3S95iQ3cFRfPaCjXLkmAcoWBLNUJ+BsERydRv00omMvS4klwnuwK0gfg4C2dvZnxWJfqNta411QmVEEgS9oVyIdndb5Wx42s5Er9vkrle/X6v1gQ==;8cDLe9vyXxXXnzbR7ZGwyg=="
 ---
 

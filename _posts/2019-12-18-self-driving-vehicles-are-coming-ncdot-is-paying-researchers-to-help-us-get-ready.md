@@ -157,19 +157,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
         width: 700
         height: 393
-  - title: "Russia's Yandex making its own self-driving sensors"
-    excerpt: "Another prominent self-driving vehicle program is building its own sensors rather than buy them from outside suppliers. Yandex said Monday it has developed two separate lidar sensors, which enable cars to perceive objects at up to 200 meters. Beyond lidar, the Russian company, which will offer rides at the revamped Detroit auto show in June ..."
-    publishedDateTime: 2019-12-17T16:11:00Z
-    sourceUrl: https://europe.autonews.com/suppliers/russias-yandex-making-its-own-self-driving-sensors
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
-        width: 800
-        height: 600
 
 secured: "GiwCt+O4eTvd6XpTuLQW3M0xOTSqkbGlV7Gm6AxhqbSaNujzANbRvyWQd25h5jEgTux+joDdIYYgEjnSsuU4dXQh376nQAf1eR8/r48i93vTef/EAlVPV7fAhehp5ngqY+4V3uJ8V/jedv3oOsuSMzRcgGMn68stG7orevvBE2+9ED1psi6xIKkoMkN2bH3Np+vzZLEMd90QSBjKTvuImQFnWv93iXHkCfLIW5QgxRU/zerEh9b/sYufp9b5IsqIAWmr0KYS5xZ/fvZDvq0Qog==;52rfjzkRw4L/KfHvku8dNw=="
 ---

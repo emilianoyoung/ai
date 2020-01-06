@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/googlecloudaisolutions/2020/12/31/4-steps-t
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloudaisolutions/2020/12/31/4-steps-to-shape-your-business-with-ai/amp/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -56,6 +56,19 @@ related:
     quality: 50
     images:
       - url: https://www.bing.com/th?id=ON.7ED5BB814546D042B02818C1B3F87F9A
+        width: 700
+        height: 457
+  - title: "GIGABYTE Brings AI and Cloud Solutions to CES 2020"
+    excerpt: "Cloud Fusion: A hybrid cloud management platform that integrates sophisticated container management and software-defined storage, allowing your organization to achieve the possibility of an on-premises self-built AI cloud. Liquid Cooling: A showcase of modularized direct-to-chip liquid cooling solutions for increased performance possibilities ..."
+    publishedDateTime: 2020-01-06T17:20:00Z
+    sourceUrl: https://insidehpc.com/2020/01/gigabyte-brings-ai-and-cloud-solutions-to-ces-2020/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6004B6B0EAE950B9A79CA6464680DE0C
         width: 700
         height: 457
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"

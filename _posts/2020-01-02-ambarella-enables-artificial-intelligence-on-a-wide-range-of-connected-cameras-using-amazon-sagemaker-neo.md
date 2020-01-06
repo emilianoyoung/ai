@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-excerpt: "LAS VEGAS--(BUSINESS WIRE)--Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI ..."
-publishedDateTime: 2020-01-02T10:10:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200102005052/en/Ambarella-Enables-Artificial-Intelligence-Wide-Range-Connected
+excerpt: "Ambarella, Inc. AMBA, +0.02%, an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI vision system on chip (SoC)."
+publishedDateTime: 2020-01-02T09:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo-2020-01-02
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AWS AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.FE7F6A00B0215F804A1F6FDE87E72069
-    width: 700
-    height: 365
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
 related:
@@ -38,6 +42,6 @@ related:
         width: 800
         height: 600
 
-secured: "0PVEvb+cDxUsurApz1Agsr0646kZ+hksc/XDtyS1OtE8Wos4OXD5DusNrCeLoNvffOsNDdxZRr/im4tC1bs2Xtj9nqdmCgyPz2cQgGQOCYyJ9dzbzwxWJaffBTljARyzBa3535SJgpiszUJgHMo8FuNEktxr03X8zYFPkGlqKhVWv0fvwwJpec3qt+Aid1MTKxajQMBRE/VvsUYJ6RJ/SAioKSjXxNmVSIsbrTCiOP7SAtJN6mkuUy8hF6Lz/nvl6ly13Rdoeovs7L6ENJiTLQ==;BBa1UntambZJIysRDAoqJg=="
+secured: "Fgqo8JzIn+aAdmq1LGDiEEI9eoQznD9YeHh06Ls+oPiI9rLbmcWL+UUUT5RFARBPgpQFqTcfGKC9AzcoZ6Gsepb2s9S72RVMuIPcjBkD34nprkMVu4RNxB+cTNBk/u7BVDnXl5GE6jXrVxw1aICVA48Ht7U2KlmFo1+5R4X+EoYwHvtULcuS5TLi5AX/QrfKgL+k1R9wyD3fwx08gqvx7SuUM8bxuf+I4/i2m1XnBU8Ypl3PWro98GwR/zRdudYQfd/vYuQHySZyouuVj3GnmQ==;WZ05+eXV60n08+qrWCw0EA=="
 ---
 

@@ -106,15 +106,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
         width: 400
         height: 518
-  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
-    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
-    publishedDateTime: 2019-12-17T16:23:00Z
-    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 36
   - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
     excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
     publishedDateTime: 2019-12-24T15:18:00Z

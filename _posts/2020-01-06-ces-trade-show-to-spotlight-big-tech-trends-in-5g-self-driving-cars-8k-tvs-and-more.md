@@ -388,6 +388,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "CES 2020: Inside the race to stop self-driving cars from being hacked and turned into weapons"
+    excerpt: "On a long, straight road in Las Vegas, near the famous Strip, a self-driving car lurches to a sudden stop. It has detected a pair of pedestrians who had not yet finished crossing the road, on the far side of the opposite lane. They were far enough away that any human driver would not have considered stopping, but the car, powered by technology ..."
+    publishedDateTime: 2020-01-06T17:44:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-inside-race-stop-self-driving-cars-hacked-turned-weapons/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.07B2622797B5A36ED072BE70E0FC362F
+        width: 700
+        height: 436
   - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
     excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
     publishedDateTime: 2019-12-31T14:29:00Z
@@ -411,6 +424,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "nqcce/X8aTDUQWLJrjX72wsKMEFnrFUrQYl0FNpmDVjK88jxblBqHUIgF3VYdKTXKTosYf2/JCS/u68kbvzew0sTPGrjPL5KL8KBI9nSMO9SFKXTUj3+CEsLLhv+EBIIKkrXwWdVDLjkr2dpuTyYNLwAjhuCZjgZF3n/+U8tTvV62pP4OWetAPCblM8AfrJLNpQOMn5qH+Jkd4+Qqu0jkRyAX9CPne7VtFrtha4WYfNZbmRJe0bR1ZCJBWtquPKzGjcr8cJB2fBKpDl97lUkHg==;udfjMmnSbvdUzpwxhJeHxA=="
+secured: "7qREPY2nvftOFC4ZZc8eJ7rG9zSt55ldt0v5A7UY1y7ufHEiJ5F6mXXzIBq30kHEYgrtLomLtkBiKcDr9e2GDLnULH0aQUCSEuUKnUUSqfh0IOGQZ3HiYVN6S146/dE4OJytzdjE5A4W3bVJ8YFjxHKl/x6XG0ZOpTagv6PjyaB6fDn+GYreOP2NgjUViOi+jddxQ5I6S7nY6Y47LifcVQfkuCQfbNd9o5eury5r7hWqS+wv5yIevJ/5TCj8DQxLomjOhhpsgSP+yJeXAfDBaQ==;uoV+R70WVBgi8BTp7bFETQ=="
 ---
 

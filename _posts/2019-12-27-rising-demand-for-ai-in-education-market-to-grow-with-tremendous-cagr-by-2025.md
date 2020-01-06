@@ -105,6 +105,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
+    publishedDateTime: 2020-01-06T17:45:00Z
+    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
   - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
     excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
     publishedDateTime: 2019-12-26T09:56:00Z

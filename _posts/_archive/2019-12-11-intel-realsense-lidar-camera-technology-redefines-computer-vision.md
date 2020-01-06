@@ -23,21 +23,6 @@ images:
     height: 500
     title: "Intel RealSense Lidar Camera Technology Redefines Computer Vision"
 
-related:
-  - title: "Images: Intel RealSense Lidar Camera Technology Redefines Computer Vision"
-    excerpt: "Photo 1: Captured by the Intel RealSense lidar camera L515, the depth image (right) and corresponding RGB image (left) of a grouping of flowers showcases how the L515 enables applications like high-quality object and environment scanning in a device ..."
-    publishedDateTime: 2019-12-11T21:15:00Z
-    sourceUrl: https://newsroom.intel.com/image-archive/images-intel-realsense-lidar-camera-technology-redefines-computer-vision/
-    type: article
-    provider:
-      name: newsroom.intel.com
-      domain: intel.com
-    quality: 38
-    images:
-      - url: https://simplecore.intel.com/newsroom/wp-content/uploads/sites/11/2019/12/realsense-2x1.jpg
-        width: 1000
-        height: 500
-
-secured: "pow3R87EbxJW4Z97XkzQ+ulS9VNGGQQi97OGVJ4zp80uo+bMCbaKMGUPYcgmuDEYn2fU+qcu8mWBgTiQyxY8jd5C1eLbXJc4OBj0fgVNpX1gVBTABdVQTm6NsBpZy60e3Lei2rcWLWBJPaLBoczY8z9M16T/Z2QzkMV1HWenU+nw1A/mZKpCeYt5018VXQ7S7+YN9T+QPTfHPcVZvf3qCQPDM4DxxDF3XWzMG2lz0TBV6ggzuLlKuysG59nZIHEc8FybXoT+6PRmBlAtmYofrg==;rMZ9uUgnGj3BSHBz2nD+Tw=="
+secured: "ipxgoObYmf4vvZ7Lb3TNZCgtGog/0BsO+Imwpy0OF9VWgYMabpSSYkv7aK/aSLNSSb+UJ9WWCacpaJLEzW6Rcm8M3snUY3Y3FG9ETnksx9L1T4Hfze2X6QKDPPci75f748kxO8kMiIghskWDUezpE/LnqqBMIYWprJrnq/Q3MjY6Lgd1ZRZe/wFuLhzDuDTy+jX7g3eYZlT1zn5RFwCMk7WAvqqOLev242+Tk94H6QcTNqYpsYy5px2DSJYfurDATTOm16urh/YqwaOk7NFdwg==;+lf6QZuFJ88MrVkj2cnz8A=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-
 cdnAmpUrl: https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,23 +25,6 @@ images:
     height: 366
     title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
 
-related:
-  - title: "Anyscale raises $20.6 million to simplify writing AI and ML applications with Ray"
-    excerpt: "The amount of compute for the largest AI applications has doubled every three to four months since 2012 ... Companies have to hire specialized engineers to build this architecture, linking things like AWS or Azure cloud instances with Spark and distribution management tools like Kubernetes. “The tools required for this have been kind of ..."
-    publishedDateTime: 2019-12-17T14:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/
-    ampUrl: https://venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/anyscale-raises-20-6-million-to-simplify-writing-ai-and-ml-applications-with-ray/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/Anyscale-founders.jpg?fit=1100%2C550&amp;strip=all
-        width: 1100
-        height: 550
-
-secured: "MVGdWTExGrj3RNwwoKlc+3nHr109m89iiA15TRjrzU/WlbkdkBRiMZwHbWJN966XL55rK5J4BACSwSXcLAAZZHL2wS+vSohLDAva0VS+rGvAYvNxp/9Cx65c/YNHT2tejZoIBQMo81QFzBrFlMhuXhUFf48L6mEEyc6nw8EVd0ZJFGEup7LLu1jfAB98xTzZ4eTEGUrz7h/vY7jiQt651bcm9mq7xjclXa33gFsUwdyquQXGPTeJZgcjEJAU5P9qMzvKCwXIRBfWjI9XYTGRtQ==;sHSzafwwM7cD2joIBf5W2A=="
+secured: "MyThMsPmDxCV9NuHlsR90Q/6oG0zvf5a4+LZ4Z1esavQ1ccLED/TK0JGBdw4TG/wmNL8z2MTBWPc+XCfrPMb6hgGTA0kSlZzkgA4NPn2/ldaJ75JYrIUAsfM5ySwppfvKJrTeL9gP1QmR4855BTLZqdH6gmvsvgVdetX/hr51cM4/rvSevArBl5S/rfZ4jEoyqArUNpvkbJP1Lgq3/u6XZkk3foJ7jAoCeW5phqKFoFl1feeHyF4JKZoMFi97cvieis7rBNjZEbgkKhd8EpNnw==;01D49eF9SxTH4ntBXAq3Qg=="
 ---
 

@@ -31,6 +31,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
+    excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a single web-based interface. In a blog post, AI and ML evangelist Julien Simon gave an overview ..."
+    publishedDateTime: 2019-12-17T14:22:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.37C7FE7FE3AA5C9E0E2FE207F9D839E1
+        width: 700
+        height: 367
   - title: "Natural Language Processing for the Identification of Surgical Site Infections in Orthopaedics"
     excerpt: "The objective of this study was to determine whether automating the abstraction process with natural language processing (NLP)-based models that analyze the free-text notes of the medical record can identify surgical site infections with predictive ..."
     publishedDateTime: 2019-12-18T00:00:00Z

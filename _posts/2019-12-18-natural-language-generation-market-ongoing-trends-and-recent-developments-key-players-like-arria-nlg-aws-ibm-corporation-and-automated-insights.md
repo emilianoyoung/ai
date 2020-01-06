@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T14:23:00Z
 sourceUrl: https://www.openpr.com/news/1880811/natural-language-generation-market-ongoing-trends-and-recent
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
 secured: "Y3/q4rRfQfglj9iilnkURTvM+LRM27cERtvFw06A3TDIKqAOgJ5r+RLskCiA4t758FPfaGoJrJShlqt8jFNtp+WM4ZcgBJBXnJ6l6yFB5kqKpcwpzD+QsssJ/JV0CxMPNJZvsbwOGmbsEWx81ORQJ4Wu7HCOcY+wXjMIiX1AoOhV1DcGQIUYHt7WfU1E01tat/OBZQPFgx9ca8A7T7yepn8Bb1AwybcPjtH3XOQhdPs8c6GYrIlzmT1usABjRN8fwDYUgB2UkpdUBouxhh+V9w==;b48dCrYytuuv27qhiib7cA=="
 ---

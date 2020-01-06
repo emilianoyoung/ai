@@ -20,21 +20,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "GM CEO: Yes to self-driving EVs, no to plug-in hybrids"
-    excerpt: "Barra expressed a desire to leapfrog interim technology solutions and move quickly toward electric and self-driving cars. The quicker you get to our goal of zero emissions, the better, and EVs get you there faster. So why dedicate a lot of capital and engineering into a segment that doesn’t get you to the end game when we know how to do the ..."
-    publishedDateTime: 2019-12-17T16:43:00Z
-    sourceUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/
-    ampUrl: https://electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/17/gm-ceo-yes-to-self-driving-evs-no-to-plug-in-hybrids/amp/
+  - title: "Marty is a self-driving, electric DeLorean that drifts like a pro"
+    excerpt: "Stanford University engineers successfully made a converted 1981 DMC DeLorean (yes, the Back to the Future car) drift, twist, turn, and crush a kilometer-long obstacle course — without a driver ..."
+    publishedDateTime: 2019-12-23T21:20:00Z
+    sourceUrl: https://mashable.com/video/marty-delorean/
+    ampUrl: https://mashable.com/video/marty-delorean.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/marty-delorean.amp
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
+      name: Mashable
+      domain: mashable.com
     quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.0EE723E89A504077C050A9BF0E2F17B9
+      - url: https://www.bing.com/th?id=ON.AB07B4C9CECB31BB38411BA921230ACA
         width: 700
-        height: 349
+        height: 367
   - title: "Stanford engineers teach self-driving DeLorean to drift"
     excerpt: "The mathematics involved in the code have been made open access and could allow self-driving systems to maneuver a car in emergencies with the skill of a professional drift racer. STANFORD, Calif. — Engineers at Stanford have taught a driverless DeLorean to drift through a racecourse, the university said Friday. The DeLorean, named MARTY ..."
     publishedDateTime: 2019-12-21T04:45:00Z
@@ -50,34 +50,21 @@ related:
       - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
         width: 1253
         height: 705
-  - title: "VW Picks Qatar to Roll Out I.D. Buzz EV Microbus as Self-Driving Shuttle"
-    excerpt: "A self-driving prototype of VW's I.D. Buzz will become a public-transit option in Doha, the capital of Qatar. The service is expected to reach the public starting in 2022, the same year that Qatar is hosting the World Cup. This is the latest example of VW ramping up its self-driving and electrification efforts. The latter half of this year has ..."
-    publishedDateTime: 2019-12-17T16:54:00Z
-    sourceUrl: https://www.caranddriver.com/news/a30246664/vw-id-buzz-microbus-self-driving-qatar/
-    ampUrl: https://www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
-    cdnAmpUrl: https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30246664/vw-id-buzz-microbus-self-driving-qatar/
+  - title: "Marty, the self-driving DeLorean engineered to dominate test courses"
+    excerpt: "Imagine if Marty McFly never actually had to drive the DeLorean in Back to the Future, imagine if the DeLorean just drove itself at 88mph. Standford Unversity engineers perhaps thought of the same thing and decided to make a 1981 DMC DeLorean be independent of its human driver. In the above video released onto the Stanford YouTube Channel ..."
+    publishedDateTime: 2019-12-24T07:51:00Z
+    sourceUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/index.html
+    ampUrl: https://www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/69450/marty-self-driving-delorean-engineered-dominate-test-courses/amp.html
     type: article
     provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 43
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
     images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1-1-1576529989.jpeg?crop=0.736xw:0.644xh;0.0930xw,0.217xh&amp;resize=1200:*
-        width: 1987
-        height: 996
-  - title: "Argo takes different road to skirt self-driving challenges"
-    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
-    publishedDateTime: 2019-12-18T07:49:00Z
-    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 24
-    images:
-      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+      - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
         width: 700
-        height: 467
+        height: 356
   - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
     excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
     publishedDateTime: 2019-12-22T14:51:00Z
@@ -91,15 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9876AC8A8A76F218BE3D135F79ACEE25
         width: 700
         height: 393
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
-    publishedDateTime: 2019-12-19T00:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+  - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
+    excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
+    publishedDateTime: 2019-12-23T23:35:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/great-scott-engineers-redesign-a-1981-delorean-with-self-driving-and-drifting-capabilities-using-onboard-computers-and-custom-made-suspension/ar-BBYhK3c?li=AA4Zoy
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
+      name: Daily Mail on MSN.com
+      domain: msn.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.4012467D0FEB633EBEB0E8665762DFEA
+        width: 599
+        height: 289
 
 secured: "RJHo3Jssa+7Hg/wy8GkgYdTSR0uzYOFoBLHzoQaJCY3HRjdht28Z9eFLO+D+uP5nU9fAd6Le7ibATRd/7/fNcOHBeegGJpCK2kA9bZokTF9IKZaFFDQAMyIZ/smDvHAAFsQsB4bFD39a95hMvbv51Q5iSl6M0z8pYyf1LZ72ElLxhhEDFlw3AMOx7ZCeKhoucOqv7iCq/AKP74FoJpynr6a8G/Yhj+coPhE/CdcBbbyPOda3hQ4MuB5upAAOWxw72Ozrpj8WF8+epAD0zZpgoA==;hxy6nwBndhlTuuof4qNOuA=="
 ---

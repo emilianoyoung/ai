@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "5 open source innovation predictions for the 2020s"
 
 related:
-  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-    publishedDateTime: 2019-12-30T21:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
-        width: 700
-        height: 381
   - title: "Top five projections in Artificial Intelligence for 2020"
     excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
     publishedDateTime: 2020-01-04T17:46:00Z

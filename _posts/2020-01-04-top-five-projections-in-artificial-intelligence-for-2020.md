@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
         width: 700
         height: 525
-  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-    publishedDateTime: 2019-12-30T21:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
-        width: 700
-        height: 381
   - title: "Healthcare in 2020: the era of digitization"
     excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
     publishedDateTime: 2019-12-31T10:38:00Z

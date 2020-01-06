@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15022616
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15022616
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,19 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence bolsters breast cancer risk prediction"
-    excerpt: "Swedish scientists have developed a sophisticated new artificial intelligence model that may greatly improve radiologists’ ability to predict breast cancer risk when compared to traditional methods. This deep neural network was able to extract vast ..."
-    publishedDateTime: 2019-12-17T17:00:00Z
-    sourceUrl: https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-bolsters-breast-cancer-risk-prediction
+  - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
+    excerpt: "Koios DS Breast 2.0 can be used in conjunction and integrated directly into most major viewing workstation platforms and is directly available on the LOGIQ TM E10, GE Healthcare's next generation digital ultrasound system that integrates artificial intelligence, cloud connectivity, and advanced algorithms. Artificial intelligence software ..."
+    publishedDateTime: 2019-12-20T01:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/findings-show-artificial-intelligence-software-004500787.html
     type: article
     provider:
-      name: Radiology Business
-      domain: radiologybusiness.com
-    quality: 39
-    images:
-      - url: https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2019-12/breast-cancer-960504232.jpg?itok=e2a-vhaR
-        width: 1200
-        height: 630
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 1
 
 secured: "u6FlDRV3TA1Iiqa+i2uqSKG/CV2tPB6a2UvWjvJ/3ku1YJ+BSlTieD+4FojPl1vAN0iG39QlBVZ+nVqDlJ85Q7BFXx/t393/ZHfNMVw3Y8UU1VTy9HQc9eYtQhTLhUJqpFOowaOVf/8sP2XzE4V5tl73X/J4ex2LJWMO+HJpCfe3/TqvsOI+GJMH8sgXyT1t3oGDAWNJG8wroO51eH2jV7RcZnEsEpnucQuZ6cf3lvq8rW+nh+/8gXQOsyiPPbioiqDER9HK4L4Pv65ArNPtgQ==;LIZpVpcJL5cTZOVc0/fZOw=="
 ---

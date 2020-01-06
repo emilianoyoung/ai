@@ -57,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.87921F4CD1CB65B68584D424DA7546CB
         width: 696
         height: 465
+  - title: "CES 2020: The 10 best new technologies coming out of Las Vegas"
+    excerpt: "uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing difficulties to understand them. OrCam’s founders, Amnon Shashua and Mr. Ziv Aviram, previously launched Mobileye, a driverless car company that was sold to ..."
+    publishedDateTime: 2020-01-06T16:39:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-ten-best-new-technologies-coming-las-vegas/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
+        width: 700
+        height: 436
   - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
     excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
     publishedDateTime: 2020-01-02T15:20:00Z
