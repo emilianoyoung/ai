@@ -118,19 +118,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
-        width: 700
-        height: 365
   - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
     excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
     publishedDateTime: 2019-12-19T09:28:00Z

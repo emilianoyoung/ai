@@ -95,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
         width: 700
         height: 467
-  - title: "IBM Research AI Predictions for 2020"
-    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
-    publishedDateTime: 2019-12-17T17:08:00Z
-    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
-    images:
-      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
-        width: 1010
-        height: 1003
 
 secured: "MGE4b6DzgP/44MjITCNbkw3NDM1Dnqi+JCX6Li9HNIukN5NmrMtk4kHO/O6p5D6wDSqfH1JTpsquOaRYYBYkmUN+HibaLvsB/Kk8f+c4VhjFFZSuYAIkKf2OFqQr/7ehhlUWQHkJUAKaYgI1bVXhzz45pRuT8jmIqbMBp/98uFYVOtS20YrBuuqoy2ELLS+j6XD4fqImLC+SxthI9AG75l4CBTYHV7jj4TLDg0t/il2fLzfCmgPxhQbOUWPHbCNVComiK2oq0KZkgw32Aq42OA==;lltzoUrc+IFPanwhbx9aSA=="
 ---

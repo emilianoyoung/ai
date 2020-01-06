@@ -5,8 +5,8 @@ excerpt: "\"Like fire & electricity, AI is neither good nor bad. Those writing A
 publishedDateTime: 2020-01-06T16:15:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/a-moral-argument-for-killer-robots-why-americas-military-needs-to-continue-development-of-lethal-ai-300981812.html
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg

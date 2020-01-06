@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.91FD19403DA1D8F96C8AEB8086367201
         width: 600
         height: 315
+  - title: "2020 Outlook for AI in B2B Marketing"
+    excerpt: "Artificial Intelligence (AI) is one of the most promising, but misunderstood and underutilized technologies in B2B marketing. That’s despite the fact that there are real, practical ways modern marketers are using AI in their account-based marketing programs. From hypertargeting to personalization and creative optimization, AI is making its wa ..."
+    publishedDateTime: 2020-01-06T18:32:00Z
+    sourceUrl: https://searchengineland.com/2020-outlook-for-ai-in-b2b-marketing-327222
+    ampUrl: https://searchengineland.com/2020-outlook-for-ai-in-b2b-marketing-327222/amp
+    cdnAmpUrl: https://searchengineland-com.cdn.ampproject.org/c/s/searchengineland.com/2020-outlook-for-ai-in-b2b-marketing-327222/amp
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.5ADAE49DA40D547BE1893779DDD5E4F1
+        width: 700
+        height: 393
   - title: "Two Ugandan Fintech Companies to Watch Out for This Year"
     excerpt: "The fintech space is growing much faster than any other industry based on external funding ... Teheca at the Kampala pitch... 6 Steps to Building Your Own AI Model: Are You Patient Enough to Make... Businesses have begun to harness the potential of artificial intelligence (AI) and machine learning to drive secure positive outcomes."
     publishedDateTime: 2020-01-04T10:38:00Z

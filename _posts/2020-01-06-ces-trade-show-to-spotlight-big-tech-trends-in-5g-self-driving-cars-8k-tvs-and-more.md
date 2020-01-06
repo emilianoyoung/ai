@@ -366,6 +366,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
         width: 300
         height: 169
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-06T18:16:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/bosch-offer-lower-cost-lidar-160000894.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
+        width: 700
+        height: 393
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z
@@ -424,6 +437,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "7qREPY2nvftOFC4ZZc8eJ7rG9zSt55ldt0v5A7UY1y7ufHEiJ5F6mXXzIBq30kHEYgrtLomLtkBiKcDr9e2GDLnULH0aQUCSEuUKnUUSqfh0IOGQZ3HiYVN6S146/dE4OJytzdjE5A4W3bVJ8YFjxHKl/x6XG0ZOpTagv6PjyaB6fDn+GYreOP2NgjUViOi+jddxQ5I6S7nY6Y47LifcVQfkuCQfbNd9o5eury5r7hWqS+wv5yIevJ/5TCj8DQxLomjOhhpsgSP+yJeXAfDBaQ==;uoV+R70WVBgi8BTp7bFETQ=="
+secured: "dytR5gCZg3OuKKivDwSIliu0+vS0xD4w9/3qgB2SPzcUGnvj96X21/sWu0hJxf7XdZqxSUoo7hHM5Sw8J0NQ2U3iUX0wM/CH2zj4e89kYwI91kmCg6HBiGCM8FYfVoVjJ+MFZdAu9LyJp7UiDvMNuUFjkbNqrtnIiXw6WUkULFdlQJtyU//XtoT+5uxKL/O1pCC4MuaiuTHRP6UEmJaJoeWcdfV4/E+Osk6eYuJUxznMwq/gInxA7tNRaTCA7TgVSMiQvu+3a8F21wkebG1a8Q==;IT6oJcX/MV8HXqwKKlyMEg=="
 ---
 

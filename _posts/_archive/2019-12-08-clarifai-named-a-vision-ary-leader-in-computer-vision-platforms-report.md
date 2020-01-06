@@ -18,11 +18,11 @@ topics:
   - Computer Vision
 
 images:
-  - url: https://www.newkerala.com/news/pics/r/ani-deepika-padukone-142429.jpg
-    width: 550
-    height: 550
+  - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
+    width: 500
+    height: 333
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
-secured: "T8YDANGNhx0xrUqVzR3D/p2EjpGsR1abFEMKNXHEzpiflXXkUTXZ0GkvMn+kmDSuin04rWvkXnC7GxSQLLxXm3AnxZO37VaBcBPehnkVaYuOefJLbaGSf0EzQ0vqRLtDB3d3dk2JRY6pnm5VugJVLB/9rI0/QyfXIhLRSX90Hm23NkmLDkrA7YdqFshLCSXPd/lJ9AZ3ho+MFE9eo+N+Cs5t6epZ0EtVAqliKVT3n9GTu0jJJ/K5yLVPjjM0xQOySOtAW79q2Wvz1SfKQni4CA==;3gj2sApPp6URKeE5VMlRXw=="
+secured: "a9P4CgYEG9fz6yQveYd44jHnaDHwjlz5UX4Nft/YANxB+Lbp6ilJLuR4hBfcJrMUfJY9D1qRG5ti9Wa+Lf5ZIBbmuI66vyjRaCWWw1llSz3DU+uE985dUYWTlKeI9H2+n18ssoESHAx27o+QFrLgWTFYayrwD/Nh/BKG8ZqkT3RbcuMlpSwUjP2aE0A5tvhtIOqtW4nUgkC42r+KcFhrWsELRECsKZzoaaL5qn5LznzTnp8MIYOZALj+WQ+/hNLl9O25v/JnPO3PvXJ1pMgwUg==;jQ04wHA3H8eT1pL8M/ZIjw=="
 ---
 

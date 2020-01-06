@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recogni
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
         width: 700
         height: 393
+  - title: "School district’s launch of facial recognition program sparks outcry"
+    excerpt: "A western New York school district has decided to begin using a facial recognition system, a move that is facing criticism from civil rights groups. The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
+    publishedDateTime: 2020-01-06T17:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/
+    ampUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
+        width: 700
+        height: 350
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
     excerpt: "An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education officials, including that no ..."
     publishedDateTime: 2020-01-04T03:46:00Z

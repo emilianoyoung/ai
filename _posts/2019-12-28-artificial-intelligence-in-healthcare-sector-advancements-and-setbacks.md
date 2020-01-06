@@ -2,34 +2,45 @@
 category: news
 title: "Artificial intelligence in healthcare sector: advancements and setbacks"
 excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
-publishedDateTime: 2019-12-28T09:08:00Z
-sourceUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/
-ampUrl: https://www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
-cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-in-healthcare-sector-advancements-and-setbacks/1806217/lite/
+publishedDateTime: 2019-12-28T09:17:00Z
+sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-healthcare-sector-advancements-090148569.html
 type: article
-quality: 74
-heat: 114
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.86C95C1D9BE7039838DAFB2F7DF99FEF
+  - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
     width: 660
     height: 440
     title: "Artificial intelligence in healthcare sector: advancements and setbacks"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market Analysis, Clinical Advancement and Precise Outlook - 2025"
-    excerpt: "This report also includes the overall and comprehensive study of the Artificial Intelligence in Healthcare Market with all its aspects influencing the growth of the market. This report is exhaustive quantitative analyses of the Artificial Intelligence in Healthcare Market industry and provides data for making strategies to increase the market ..."
-    publishedDateTime: 2019-12-23T10:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-clinical-advancement-and-precise-outlook---2025-2019-12-23
+  - title: "Artificial Intelligence in Pharmacy and Healthcare"
+    excerpt: "Their product based on artificial intelligence (AI) combines data from a multitude ... to offer guidance on drug-drug interactions, monitoring of drug therapy and selection of drug formulary. AI uses the ability of the system to learn from patient history ..."
+    publishedDateTime: 2019-12-23T17:08:00Z
+    sourceUrl: https://medium.com/@ypg.publication/artificial-intelligence-in-pharmacy-and-healthcare-9029bdbcbeb6
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 84
+    images:
+      - url: https://miro.medium.com/max/960/1*bBtkBQY6fVx_JUm8lmdoYQ.png
+        width: 960
+        height: 640
+  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
+    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
+    publishedDateTime: 2019-12-20T07:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
     type: article
     provider:
       name: MarketWatch
@@ -39,50 +50,31 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
-    publishedDateTime: 2019-12-31T09:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
+  - title: "Shifa International launches healthcare platform in India"
+    excerpt: "\"Starting with India, we aim to build an inclusive healthcare system, based on new-age technology, where there is no discrimination on the basis of caste, colour, creed or gender,\" Chhabra said. Shifa Care's ecosystem utilises Al (artificial intelligence), epidemiology and genetic sequence, all at one go driven by prediction, mitigation and Al ..."
+    publishedDateTime: 2019-12-19T11:47:00Z
+    sourceUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/articleshow/72886745.cms
+    ampUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
+    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 39
+  - title: "Progenics Pharmaceuticals Announces Phase 3 CONDOR Trial of PyL(TM) in Prostate Cancer Achieved Primary Endpoint"
+    excerpt: "About PROGENICS Progenics is an oncology company focused on the development and commercialization of innovative targeted medicines and artificial intelligence to find ... who require systemic anticancer therapy; and oral and subcutaneous formulations of RELISTOR [(R)] (methylnaltrexone bromide) for the treatment of opioid-induced constipation ..."
+    publishedDateTime: 2019-12-23T11:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/progenics-pharmaceuticals-announces-phase-3-condor-trial-of-pyltm-in-prostate-cancer-achieved-primary-endpoint-2019-12-23-7184024
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 33
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "‘Healthcare needs urgent attention’"
-    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
-    publishedDateTime: 2019-12-28T18:57:00Z
-    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
-    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
-        width: 615
-        height: 384
-  - title: "Artificial Intelligence, Psychology, and the Health Sector"
-    excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
-    publishedDateTime: 2020-01-03T12:36:00Z
-    sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-    ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-    cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
-        width: 639
-        height: 413
 
-secured: "h87St4n6ihFaTg9b3pQkojXOzvo+kAiNWcMt9oMRbxZ3legQOhLfbJYdoWXlF7tVneGkZgY5Lo9RLTf0asJNxkmVK7QoJLouxSbMpEADXDhXYihHtlULBoVnspbEjwii4q1OO0mN6VXNUCDqt6UbBDd4O7/lvo3Fek3UzK3rpBxQRj9YY10AQHU5k1e7PzbvBmUI/3HQkny/OBWWCzFslF7lq+hSiao98YeeSx9sFtoMMOEPeeebmvySR/FoisXc+5FlEHNGC0tSkD6cu3dYig==;QhKUIfV33wIT+fBmJm1f5A=="
+secured: "LIv/JZm6f12NbTtctokRv30rV588AgxWxa4fuhsIM2Ns8SCx+Rkj/vLC1AJEckv4nsB3wac/1ohhl/xqGPmG0qtbzIayBBiXjlVKmaidGArv60sm+dyYVzDiNpxVh0XJOE1VwVx5TgdlPtvykFMTgwjc2r5LP4kDvsj+wnSJ/P7yUe4X1sAgEhuGtppGZT+aFmCSbvbUC+bK8UwvQyN4pnIfIbMtyOV964ozZigRdLbsIUbj86ynppOZETCjwDYwQ+0I/6dnl8h9Zf8DlCsLAg==;7d98TKinOVD1RJ3jktPCUQ=="
 ---
 

@@ -357,17 +357,6 @@ related:
       - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/differential-1576697206.jpg?crop=0.998xw:1.00xh;0.00321xw,0&amp;resize=1200:*
         width: 2495
         height: 1250
-  - title: "25 Staff Appreciation and Recognition Ideas That Won’t Break the Bank"
-    excerpt: "Although you pay your employees, it’s often the thought that counts in employee recognition. If you know an employee is into rock climbing, for instance, you could give them a book on this topic with an inscription of your thanks. Or perhaps you’ll Photoshop a million-dollar bill with the employee’s face on it, as a way of saying ..."
-    publishedDateTime: 2019-12-17T17:56:00Z
-    sourceUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393
-    ampUrl: https://www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/25-staff-appreciation-and-recognition-ideas-that-wont-break-the-bank-02268393/amp
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 24
   - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
     excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
     publishedDateTime: 2019-12-20T22:24:00Z
@@ -499,6 +488,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "+z6NzyDvGYMi1DIiIzL/hV8wf4QlYDHG+87MnWb8T6mYY02wtQ0uAN7f9u4vAyEFsVyI7HIrhuse8+AVy4wnLbYmr66sdEphNvVZnZYXoiEhdxQrdHHLyYsLSgtmIDfvWBiXddiqm2hLcMS93QWv+OOfhxJ0BOKggT3HqZv11bX5gPnHG3I3fgMhUXWLJ/mNBfNgNrXe/fOi02SnAKTjbdD3KlRSrgsgah4ca/bgiHBJchEwq/ME0BGfSaS7F4SBn+zQQmBksvho78ID4COdIA==;UunbVMIm9YUx/BGrTHPfQQ=="
+secured: "EsGMJmZSlFEq/b8t26MoGmdf5K4201rL14RA4hZo8Rt6xIz0mdSPNbrqAt3z1d3RpDXRcrQGvN53FRPUXMqlSqXEaoig1DVK6I1rMZarYSISVS0i8KiT7W3qZInN/BHBSh/FqFnzMG5S7fLKzTfHqAY8AEx3xpCRYc74c9ri6A+xt6EpkNcu78cNLlNpk4vcJGPygJmdut+VkOBh6yd4o68C9w9EXn5Ggr/0cvcx1z8x2CwC8x1MVkn5Or8wBkMuLH08JQGL6iipO+Hz8lnIjg==;YGet23vRqX2mBmvdBoaccQ=="
 ---
 

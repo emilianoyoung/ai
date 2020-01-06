@@ -62,19 +62,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2019-12-20T07:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Challenges, Threats, Development and Global Trend Analysis till 2029"
     excerpt: "Dec 26, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Artificial Intelligence in Healthcare Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Artificial Intelligence in Healthcare marketers and clients to ..."
     publishedDateTime: 2019-12-26T06:40:00Z

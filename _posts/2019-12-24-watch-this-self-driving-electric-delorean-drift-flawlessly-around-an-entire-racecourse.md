@@ -56,21 +56,6 @@ related:
       - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
         width: 1200
         height: 630
-  - title: "This tech can retrofit helicopters to turn them into self-driving flying taxis"
-    excerpt: "There is no shortage of companies working on building their own proprietary VTOL (vertical takeoff and landing) vehicles in the quest to make flying, self-driving taxis a real thing. But in an age of upcycling, why build entirely new VTOL vehicles when it would be possible to just retrofit existing ones? That’s what the startup Skyryse is ..."
-    publishedDateTime: 2019-12-17T17:32:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/
-    ampUrl: https://www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/skyryse-self-driving-helicopter/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 70
-    images:
-      - url: https://icdn3.digitaltrends.com/image/digitaltrends/mu_stills_luna-cockpit-handsfree-1-1200x630-c-ar1.91.jpg
-        width: 1200
-        height: 628
   - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
     excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
     publishedDateTime: 2019-12-22T16:21:00Z
@@ -86,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
         width: 600
         height: 315
-  - title: "Toyota Will First Deploy Advanced Self-Driving Tech In Commercial Vehicles"
-    excerpt: "He continued, “Level 4 is really what we’re striving for to first appear in mobility as a service.” Toyota and its suppliers are taking a longer view when it comes to cars that have artificial intelligence (AI) and self-driving technology in comparison to rivals that market vehicles that can drive themselves on the freeway. Toyota ..."
-    publishedDateTime: 2019-12-17T17:09:00Z
-    sourceUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/
-    ampUrl: https://www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2019/toyota-will-first-deploy-advanced-self-driving-tech-in-commercial-vehicles/amp/
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: https://www.pymnts.com/wp-content/uploads/2019/12/Toyota-self-driving-commercial-vehicles-AI-457x274.jpg
-        width: 457
-        height: 274
   - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
     excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
     publishedDateTime: 2019-12-18T07:51:00Z

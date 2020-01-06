@@ -86,19 +86,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
         width: 700
         height: 467
-  - title: "IBM Research AI Predictions for 2020"
-    excerpt: "and launched the AI Hardware Center to further exploration of next-generation AI hardware. The MIT-IBM Watson AI Lab, now in its second year, flourished — welcoming Boston Scientific, Nexplore, Refinitiv and Samsung as inaugural members of its new Membership Program. In another big step toward the goal of mastering language, IBM Project ..."
-    publishedDateTime: 2019-12-17T17:08:00Z
-    sourceUrl: https://insidehpc.com/2019/12/ibm-research-ai-predictions-for-2020/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 43
-    images:
-      - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
-        width: 1010
-        height: 1003
   - title: "Healthcare’s digital transformation: 5 predictions for 2020"
     excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
     publishedDateTime: 2019-12-19T13:42:00Z

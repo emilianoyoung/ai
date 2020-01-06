@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
         width: 700
         height: 393
+  - title: "School district’s launch of facial recognition program sparks outcry"
+    excerpt: "A western New York school district has decided to begin using a facial recognition system, a move that is facing criticism from civil rights groups. The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
+    publishedDateTime: 2020-01-06T17:30:00Z
+    sourceUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/
+    ampUrl: https://www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
+    cdnAmpUrl: https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/school-districts-launch-of-facial-recognition-program-sparks-outcry/?amp
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
+        width: 700
+        height: 350
   - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
     excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
     publishedDateTime: 2020-01-01T12:40:00Z

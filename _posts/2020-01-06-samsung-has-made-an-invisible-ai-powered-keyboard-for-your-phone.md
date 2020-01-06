@@ -3,7 +3,7 @@ category: news
 title: "Samsung has made an invisible AI-powered keyboard for your phone"
 excerpt: "We all work from our phones more than ever, but typing out emails and long messages is still slow compared to using a keyboard. Samsung has a solution: use AI and your phone’s camera to track your hands as they type on an invisible keyboard right in front of you."
 publishedDateTime: 2020-01-06T15:43:00Z
-sourceUrl: https://www.msn.com/en-us/finance/other/samsung-has-made-an-invisible-ai-powered-keyboard-for-your-phone/ar-BBYFD2l
+sourceUrl: https://www.msn.com/en-us/finance/other/samsung-has-made-an-invisible-ai-powered-keyboard-for-your-phone/ar-BBYFAwL
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 315
     title: "Samsung has made an invisible AI-powered keyboard for your phone"
 
-secured: "bwjTn4+KEMtPOcpw/q5BBBOcMJMa6yUqttH5e5qaaiRYjya8+JNq62SblUJ9Z7D1GorvFUyQR0/wreb8EFo5IP/Z6iOM6lSTrAFn9k/gXsEtmlmyOckuAva6l7PfKtp1U/Y3rho1kO3rzli9FAJ9w2jer25Tu+5U4g6fX+dvSO7m0empYxcySP9Q9qwzvLKNUyG7lzMDloNOPPmGBi/IdR2MN4vaNDf2q6UD+Mgb+WIPWBmMglgGbjPaoat5tAUef67z7R7Y1G1mSoqEUGE4mQ==;AxwTq5aAeQ6ypgTclE1vjw=="
+secured: "Ij7A1x1hOLEAoziVY19BzZKLQ/ntEHiCNhQ0N/0Kmo5+imxuIAPfhQ0dy+TWY7LhNEugWo39q3hUm7ubEIRfZbRoPmfAh/zXJ4L5SB7V0duLtgHNv16SYCMCAXm7iJF7GO1TwBVKafwNbdhHu8Axa+MDkP5QUaq5VVpHwuAHPvO3iEZahNUGWTeqpqvnrgA55zE/JfHWNX2eTkbUA4BEd5PHt71YV4XuUi+TrscyVH1l7X/uuBQQHXNblW+b2rRv+HgLX03xSxu/DXkvkM9E9w==;c3nBQg5yf3j5dPDFincbWQ=="
 ---
 

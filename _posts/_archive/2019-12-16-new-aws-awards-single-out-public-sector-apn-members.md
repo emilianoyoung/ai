@@ -23,6 +23,6 @@ images:
     height: 600
     title: "New AWS Awards Single Out Public Sector APN Members"
 
-secured: "YXVOJYRv9a1Kqu5wos8D9n1i0BnteIlqKBGnfr3ZRKGUPwlTW60fkqwN/P7n/CA2gyZfW4FO5cEk1XJfMjkAdKPpHx/qsfr5W4WOUvo4mpd6sQrmtHMKJhNrI0S/0T9OZs9vpFRHRcjwcqnr4Aogu8/LmlEnzlWBR7X/clq87ERFyFDlmlsWvVBWmYuYoAmvA9AI7fFK0iyW+obZGkd1NxesLAc8Vwh0M9dKOK8ujwoeNBntWsGu2XkudRdUQjS6vobYnDVQ8GUQrgNIwKqrkg==;DxWRaImVkzukQ4d2BxCUag=="
+secured: "T/vqxkkLGnubGyJuh11CQ6W3PUZfebI+GmEPCf8AKbJqxkD6+uPCM4okOJ7vTOc0KZVGQwmGvr64IIrbgUnvg8bw/W8zFvvl+E8tJ7VGrdX/PCUZwEEli2LeLrImuO+B97pRx1AcdU1HMqYIntPpoTXsMKJ3CSgzt77mzfVJCEtkcwdX5VcS/WBxIzY921BVwbcCAoQm1HMKqccGz7UBA1JNj5xFk+Dozz/Q2VxbdF42os09WpwkfNeTpZ4i/YQ3zBFvCbHwempbrLNv59b59A==;k0P9oosYR4X6uSNzUBk68A=="
 ---
 

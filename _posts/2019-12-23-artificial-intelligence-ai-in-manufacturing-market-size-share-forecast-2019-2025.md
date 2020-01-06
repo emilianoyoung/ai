@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2019-12-20T07:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Auto Insurance Market to 2027 - Global Analysis and Forecasts by Offerings; Application"
     excerpt: "NEW YORK, Dec. 24, 2019 /PRNewswire/ -- The global AI in Auto Insurance market was valued at US$ 1.0 Bn in 2018 and is expected to reach US$ 5.5 Bn by 2027 with a CAGR growth rate of 20.5% in the forecast period from 2019 to 2027. Read the full report: https://www.reportlinker.com/p05833582/?utm_source=PRN With the increasing adoption of AI in ..."
     publishedDateTime: 2019-12-24T12:05:00Z

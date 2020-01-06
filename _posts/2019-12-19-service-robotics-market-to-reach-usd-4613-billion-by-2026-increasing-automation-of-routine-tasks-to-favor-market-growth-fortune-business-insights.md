@@ -122,19 +122,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global AI Solutions & Market Opportunities Analysis, 2019-2024 - ResearchAndMarkets.com"
-    excerpt: "Whereas most current AI solutions are limited in terms of the type and variety of problems that may be solved, AGI may be employed to solve many different problems including machine translation, natural language processing, logical reasoning, knowledge representation, social intelligence, and numerous others. Unlike many early AI solutions that ..."
-    publishedDateTime: 2019-12-17T17:44:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005762/en/Global-AI-Solutions-Market-Opportunities-Analysis-2019-2024
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4B6DF8D96064440C09E1B687A0EBBBF1
-        width: 700
-        height: 365
 
 secured: "lgZIIXqG1F7DP5GKLc5cR+ryi/++qqK1fiZctQtPEh5PrG3qiDAc1vRAAwNAN24kE6Tal9LQ1CSiu2b8CAkyJZTQHmFJyoINeX3cZ4AqM3Y8J+aIFSagRkvLjfxXrU/WAIc0cKRJWfintCBe7XJU3xMez0uBwoFW5T3ccbf0A+szMn9MsK2c+njkguzyh3HuAxGKke4hcbb0LlWPDc8TYs3sXCGdBWDWJZuDoZEesLBsqhqql2G/m1MsFZJQrjzwJespi8a6D9i7TVol6rz1/Q==;6Yrkq38pC+TlhVhcUkajzA=="
 ---

@@ -370,6 +370,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
         width: 300
         height: 169
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-06T18:16:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/bosch-offer-lower-cost-lidar-160000894.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
+        width: 700
+        height: 393
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z

@@ -70,21 +70,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B53B85AF52AA6EDE18B67B22B6DE5DA7
         width: 700
         height: 466
-  - title: "Tech News: Finland Offers Free Artificial Intelligence Course To All EU Citizens"
-    excerpt: "with Finland hoping that 5 million EU citizens will take the course by 2021 Finland is hoping to become a major AI powerhouse within Europe The Finnish government is offering a free online course on artificial intelligence to all citizens of the European Union to educate Europeans about how AI is used and can transform society. The course is ..."
-    publishedDateTime: 2019-12-17T17:52:00Z
-    sourceUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316
-    ampUrl: https://www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-finland-offers-free-artificial-intelligence-course-all-eu-citizens-2887316?amp=1
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/30/flag-finland-2011751920.jpg
-        width: 1200
-        height: 674
   - title: "Finland is offering a free crash course in AI to everyone in the EU"
     excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
     publishedDateTime: 2019-12-18T11:38:00Z

@@ -78,21 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4CBCC1DED872190B27485DF30F060EC2
         width: 700
         height: 393
-  - title: "Intel Hedges Its AI Bets With Habana Labs Buy"
-    excerpt: "First a little historical context. Habana was one of the first AI chip startups to make its silicon available to datacenter customers. Goya, the inference chip, was released in January 2018, followed by Gaudi, the training processor, in June 2019. The Gaudi training chip is currently sampling with unnamed hyperscale customers. Goya is also ..."
-    publishedDateTime: 2019-12-17T17:34:00Z
-    sourceUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/
-    ampUrl: https://www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2019/12/17/intel-hedges-its-ai-bets-with-habana-labs-buy/amp/
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D5A8039508FDA88DED2E706254450A95
-        width: 326
-        height: 245
   - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
     excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
     publishedDateTime: 2019-12-17T22:45:00Z
@@ -106,19 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
         width: 700
         height: 350
-  - title: "The AI Eye: Intel Acquires Habana Labs, Accenture to Acquire Clarity Insights and Honeywell Acquires Rebellion Photonics"
-    excerpt: "Another highlight from the research is the finding that \"AI in industrial machines will reach $415M globally by 2024 with collaborative ... brand of Investorideas.com Follow us on Twitter https://twitter.com/Investorideas Follow us on Facebook https://www.facebook.com/Investorideas"
-    publishedDateTime: 2019-12-17T17:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-intel-acquires-habana-labs-accenture-to-acquire-clarity-insights-and-honeywell-acquires-rebellion-photonics-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
     excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
     publishedDateTime: 2019-12-20T02:01:00Z
@@ -168,6 +140,6 @@ related:
         width: 1200
         height: 630
 
-secured: "XAm4vRIWUhiABGL01ETwJmeboaxFif9XeiJlCRX2hMe1CSNPQxjWW7KzNEfW1dZJh+OOBH86rppr2ehGS0LUkNn3B1zUsz3t4M7ZXNamT/BzfTkDeouVunGCtcHlk/YxIOqrWCfkbZq0liQkQNM+9EKBQi8hOChzBWXCIs7rRNkLzwBtO0iEdQVlQOQu6IQEgIrxdITa1UcS1d+VgvuPpdadWbK8jDwcXPvcj39ieXgP4KimYSx6LfKjbTwHWi2JVwYCyLuzKe3+x8QfQlM2ZA==;npEJ81K6yI9tDhGlWAC4lA=="
+secured: "MpIZRaTliHLN9bCRobQSEAkjX5KcgaFeFer3mYoTu22/2fVuqXjRNfekTJLyuw9KSVqtfTSEBKhw1kxMAtkYo5Fja/ygZwa51uoaTmuD6p94nZAsMvjQdsDufn06q4S+k2GOo/LGk0dW1ZOrCEt0r8GIpuhPm79sl1XBOVYbbcTX6nRRBLB9XbS2VLoYbNjnhWPIriEiLI4nufNpwBKRipf7AkXrkCw09LhRS05oWTksTZLqS5R5m4BbF8qGCUH65/xjjAa+DURwqLBIcNzOmg==;on+SjaURyOe2BHkEVT2cUQ=="
 ---
 
