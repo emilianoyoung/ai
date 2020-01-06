@@ -8,7 +8,7 @@ ampUrl: https://markets.businessinsider.com/amp/news/roybi-showcases-revolutiona
 cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roybi-showcases-revolutionary-language-learning-robot-for-children-at-ces-2020-1028787838
 type: article
 quality: 50
-heat: 70
+heat: 60
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6700B8CDD4EC3BA1CD6C66D7BB29D308
         width: 686
         height: 396
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "k14o2E36mYHldV8ocffZXPPAKQ8KELZkgsx9vALZ1ySuKkPIH9SrQC9eg2goEPtJu+9/mAUD+dd1vH/C05hZ+7UYPAZq/cjoLJq5fooGxEYGuRN22wgjpOMxAqlLr8X7mbGKb8uYqq01oQinkumi46En7P6Y+EpMG4qS++YTb5l0DJyWx93J9SRUHxhxittngc4OqNV79zotAtHq4d013l1opGyX6cyZH1jw/At/n40jP7207lIXo6HQOQ6WrwNtqvqC8wR6gBHBw8Omi40p0g==;+Oh7M7+lhWQW6XHASNIu7Q=="
 ---

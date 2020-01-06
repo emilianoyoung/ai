@@ -25,6 +25,6 @@ images:
     height: 366
     title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
 
-secured: "DhNzZT0XdfloChckxU6IXoloK7IzlJFzKLde1nFABPQi7NRhZcooyr/Hd0yhP+AKbsoZreOj+cCgiW+JOPtmDicT2Bj7guV5Ecyvairo3hTpVsu4zSG/Z+agJoO9oAXXPV0O9RkzCsVVMjvJxJBMRXVmIKKMR9fIg8dMHNWsThgUYXjiyyTPu4iTpN2vxu0pJjcWL8bhfQaBM2SwdqWzkvmxfriPQb+eOex/3yBhOcdsbgS0flr0h0KPHzhUH4j6HV3CAx9Jx0L71SK+ZEySng==;51mRKbCPoJpboA+M0JJXUg=="
+secured: "aWIljBQ1n9bYfg/TU7tqwBf5E1n6P3VMKzdevbqafEdtRsptelNE0bsL6Y2kN8uZxM6miRf/FO3XQgCuvM2VtkD1QnmDJX/4sKik7+bRSNVO9Tz/56bEEp1d//uxbPgNDcOdLmv3N4JLT/b6NypkscfTFmoiR3KWm8XcxC2ziF18jxD4+GJKYFA4ZSU3lQlUdEOV3FK2Le2V839Tq0Lh8lYFUaPp8oNhv2thW+UB3tLH0ZumxLkzUMKRjG+UrJnO762Fiqrs+232r2C0myc5vQ==;+o4caFc0Ll2y52RpkTPqRg=="
 ---
 

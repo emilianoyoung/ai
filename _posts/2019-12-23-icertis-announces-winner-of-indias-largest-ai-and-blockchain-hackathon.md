@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-excerpt: "develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"I would like to thank all the 10,000 participants in the Hackathon,\" said Monish Darda, CTO & Co-Founder, Icertis."
+excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
 publishedDateTime: 2019-12-23T13:54:00Z
 sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
 type: article
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 393
 
-secured: "eBNl9QBqU/CTE3a2NVl18nrhzVvnOj+M272Lk1wYqqDgk16GEApRdiv/Vo68Tk8B6Srox5C5bnLaL65ilk8tV8z/cqe1ear+z91cgyaINAUq7vT4YVomWA38SLi/gdaDdkAlXnyvFKZ5VyonuLcklWhX5PBNZPS8bilPbJUnGM63NfPffCkAP/Z+gv0MjckFzO0k+C+s97gJ8Wg3HyhhwgUukmE8Co8cGKAhYAw0GlMRdxr5ZMzJ+KrHBpTd60CWJ0MVHkDNHTni473ROKs04g==;/++4VyhxCpEKfCdD+f6tiA=="
+secured: "aGm2oTTcbP/C2W4aEcCI+XD5c004oOpOkuWjeaS5h3XV3Nj8PAy5bcRq+vs0Xxl/lCSNoQhUW2vxQ3qfkVelmAm2KNdMZ11smE+F2nbKW1n/1eq6dwnbxvTvTZNSYrqkAKpLqcrMuETdOVRQhP1EfmO0OmYhpZcMA69ot7kkuYnksU2+cCwkuZ6fc1tINBX+cxsxYoEMtosbHGe49KXFKHEYKYmI/yi68XnYd6y5NWi2UdwZbCLyE9DDRFHmGbqoHrviCgFzcbvz+/3H81C+dQ==;SxvVTkuGKArMbruncvu7Zg=="
 ---
 

@@ -84,21 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
         width: 700
         height: 393
-  - title: "Intel spends $2 billion for Israeli AI chipmaker"
-    excerpt: "Intel is putting its money where its mouth is when its comes to the market for artificial intelligence by saying its has reached a deal to acquire AI chip technology developer Habana Labs for $2 billion. Intel announced the acquisition early Monday morning, saying that Habana will help it make progress in the market for AI chips used in cloud ..."
-    publishedDateTime: 2019-12-17T01:10:00Z
-    sourceUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/
-    ampUrl: https://www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
-    cdnAmpUrl: https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2019/12/16/intel-spends-2-billion-for-israeli-ai-chipmaker/amp/
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.DEE1B6087BBA23E82C690C475DDE05AE
-        width: 700
-        height: 466
   - title: "5 Machine Intelligence Trends Of 2019"
     excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -159,21 +144,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D5A8039508FDA88DED2E706254450A95
         width: 326
         height: 245
-  - title: "Intel Beefs Up AI Portfolio With $2B Purchase Of Israeli Startup Habana Labs"
-    excerpt: "Intel Corporation (NASDAQ: INTC) announced the strategic acquisition Monday of an Israeli startup company that makes AI chips. The Intel, Habana Deal Terms The Santa Clara, California-based chipmaker said it has acquired Israel-based Habana Labs for $2 billion. Habana Labs is a developer of programmable deep learning accelerators for the data ..."
-    publishedDateTime: 2019-12-17T01:45:00Z
-    sourceUrl: https://finance.yahoo.com/news/intel-beefs-ai-portfolio-2b-215129001.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/intel-beefs-ai-portfolio-2b-215129001.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/intel-beefs-ai-portfolio-2b-215129001.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
-        width: 600
-        height: 400
   - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
     excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
     publishedDateTime: 2019-12-17T22:45:00Z

@@ -35,19 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "FMiywuxB9bUQvJJ5Yn7RWvbhMjziUdsZLt+Tt9v54/bt5lRtb1YH6kEl3TwOi9FnVg0A8aFH6txo8c9lSW2oRHv3ssk9DHUvnlCPoIb8JF+nSX/uCfN4/JD+pLvdx0OjmGKgNGvCkMZJwLSReDVdDhTQZJ0Q+VSR+moCkD7/ENdih9Qjnm4GhPhqRVQr1NQQTieZPxghiZ/xGqm7lsy76CyY4iD1/0XkUT2r2ZZ4R90CW34szZkzpvLSo5qALAokxxj7Z4/lHgB3fhpA2/Iw7g==;RuzvdhG0S7aQFB+lSWRohw=="
 ---

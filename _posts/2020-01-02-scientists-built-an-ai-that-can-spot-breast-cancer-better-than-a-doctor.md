@@ -43,7 +43,7 @@ related:
   - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
     excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
     publishedDateTime: 2020-01-05T23:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDKpW
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDNnJ
     type: article
     provider:
       name: Engadget on MSN.com

@@ -172,6 +172,19 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Even The US Government Admits Facial Recognition Is Racially Biased"
+    excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
+    publishedDateTime: 2020-01-06T01:09:00Z
+    sourceUrl: https://www.vice.com/en_au/article/n7jwx7/even-the-us-government-admits-facial-recognition-is-racially-biased
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.3C6A6E3A327EE61A854A5220D80582FB
+        width: 700
+        height: 393
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-27T18:59:00Z
@@ -275,6 +288,21 @@ related:
       - url: https://www.bing.com/th?id=ON.57E336D173C64D0E8B8F509B0293A5EC
         width: 600
         height: 338
+  - title: "Weekly output: FOIAing for facial-recognition software"
+    excerpt: "Whoops. I If you’d like to know more about my agenda for this week in Vegas, I outlined all that for Patreon subscribers earlier today. 1/4/2020: To learn how police use facial recognition, we must ask the right questions, Fast Company A presentation a few weeks ago at the Cato Surveillance Conference in D.C. got me interested in this ..."
+    publishedDateTime: 2020-01-06T02:46:00Z
+    sourceUrl: https://robpegoraro.com/2020/01/05/weekly-output-foiaing-for-facial-recognition-software/
+    ampUrl: https://robpegoraro.com/2020/01/05/weekly-output-foiaing-for-facial-recognition-software/amp/
+    cdnAmpUrl: https://robpegoraro-com.cdn.ampproject.org/c/s/robpegoraro.com/2020/01/05/weekly-output-foiaing-for-facial-recognition-software/amp/
+    type: article
+    provider:
+      name: Rob Pegoraro
+      domain: robpegoraro.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.BCB987D9737A053CBC755F779067C1E9
+        width: 340
+        height: 700
   - title: "Facial recognition programs lead to arrest in Clermont hardware store theft"
     excerpt: "A woman accused of stealing two grills from a Clermont hardware store was caught through facial recognition programs that analyzed security footage from a bulletin posted on social media, according to an arrest report. A new facial recognition program being tested by the Tampa Police Department along with a program used by the Seminole County ..."
     publishedDateTime: 2019-12-27T18:45:00Z
@@ -650,7 +678,7 @@ related:
   - title: "To learn how police use facial recognition, we must ask the right questions"
     excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
     publishedDateTime: 2020-01-04T11:00:00Z
-    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=rss
+    sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
     type: article
     provider:
       name: Fast Company
