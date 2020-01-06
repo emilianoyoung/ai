@@ -8,7 +8,7 @@ ampUrl: https://www.newscientist.com/article/2228399-facebooks-ai-mathematician-
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2228399-facebooks-ai-mathematician-can-solve-university-calculus-problems/amp/
 type: article
 quality: 141
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -19,23 +19,6 @@ topics:
   - AI
   - Facebook AI
   - Natural Language Processing
-
-related:
-  - title: "Facebook has a neural network that can do advanced math"
-    excerpt: "And yet today, Guillaume Lample and François Charton, at Facebook AI Research in Paris, say they have developed an algorithm that does the job with just a moment’s thought. These guys have trained a neural network to perform the necessary symbolic reasoning to differentiate and integrate mathematical expressions for the first time."
-    publishedDateTime: 2019-12-17T09:15:00Z
-    sourceUrl: https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/
-    ampUrl: https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
-    images:
-      - url: https://www.bing.com/th?id=ON.BDBDE3DD2EEACAF09C20D3B7AD07312E
-        width: 700
-        height: 393
 
 secured: "JW8X6gO+ecXxJ7nxMC9S8hmgoV9pntFV0fK1s/b+h2LVx1ODv6VxrOGc9I8ktwKSkixn1Ky+VVfTPoXIA9L7/jRB+Gvm05tZPnxJ4OBbuRStAhZgZaJznDObSaCJ9a7nW1RTtbQe+EICnbVXfOTFCAXl7jWZRTMjHcocHkbGIUGxKs1OiE5OyhAk8f+54Ic1o/1xHltXg3LYFtbABnX0GO5jjFh+9eajXHip2s0R4E6IvhwVSu4/kSLvzThjZXBIJSt19PTCyn9pgWkort9L1j5pGkr244iT2twM6BeJEmE=;8x6OKbLLLFpci6cWlFITlw=="
 ---

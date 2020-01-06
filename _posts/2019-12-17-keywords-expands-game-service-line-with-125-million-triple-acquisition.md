@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T16:41:00Z
 sourceUrl: https://www.gamasutra.com/view/news/355842/Keywords_expands_game_service_line_with_125_million_triple_acquisition.php
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 600
     height: 600
     title: "Keywords expands game service line with $12.5 million triple acquisition"
-
-related:
-  - title: "Keywords Studios makes fresh batch of acquisitions"
-    excerpt: "The Dublin-headquartered company has purchased Kantan, giving it machine translation technology; Ichi, expanding the group's marketing services; and Syllabes, giving the company a games and film/TV audio recording studio. Keywords acquired Kantan, which employs nine people and is based at Dublin City University's ADAPT Centre for a potential ..."
-    publishedDateTime: 2019-12-17T09:41:00Z
-    sourceUrl: https://www.insidermedia.com/news/ireland/keywords-studios-with-fresh-batch-of-acquisitions
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D9649CC772F591E305372838CCA6849D
-        width: 700
-        height: 393
 
 secured: "ADC1LUsYHb+fn545e5PXp+3VqIIpABMaBu0MmM5d4aHtBn0GJaV8F70ZkI5HXLlJqGMR+RwOzFHnSn0RKajUV4NUQVDoHhfwVpt1nzlGyYj+chQuRnH9kOE8vX+V/rH2W3n1/qnLkMUFyHDPD5FFi2BlATUdPYrMfg72Jbgv/OsKoreAQaKgCoJsVZm1EcMo0zUaBq4wTUIvR1EYOul/1mUQdEXsRqfoi7dRarQE9Iuthqc+WYB8CvlFqOqL0Ss0xe9d3nPnYRXkMQoYY7ZhCw==;Mcfe9w3UlSGDIVF9xeFHYQ=="
 ---

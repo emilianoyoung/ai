@@ -71,19 +71,6 @@ related:
       - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
         width: 620
         height: 372
-  - title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
-    excerpt: "Artificial intelligence and machine learning help Internet search ... Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.statnews.com/2019/12/17/ai-machine-learning-drug-launch-playbook/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.6A5248FC7645CBA00A8AE9E357981A2F
-        width: 700
-        height: 393
   - title: "What does the next decade have in store for UK fintech?"
     excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
     publishedDateTime: 2019-12-20T05:14:00Z

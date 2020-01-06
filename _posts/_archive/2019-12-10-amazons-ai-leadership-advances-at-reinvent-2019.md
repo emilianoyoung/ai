@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-adv
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,38 +19,6 @@ topics:
   - AI
   - AWS AI
 
-related:
-  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
-    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object recognition. Amazon Rekognition will help users train their machine learning models more ..."
-    publishedDateTime: 2019-12-17T09:49:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
-        width: 600
-        height: 315
-  - title: "Amazon Makes Machine Learning More Accessible To Developers"
-    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
-    publishedDateTime: 2019-12-24T09:02:00Z
-    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
-    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
-        width: 600
-        height: 315
-
-secured: "1UKuFWxpi0NNCVj5klaefuATdrgpFX/6+lfLrCkuOaEPIRl2h1czZI1Ewj42JqbsUMMmymRRlmcaIpdkiloEnveOZ72GvBDjwp6F463BMh6HdEVSnRAbvS+squccIo/eR4fLGcnsG+VO6/C468F45GfokFoVQbifjc/oHLvuG8o0fLIBhLyk4GWoY2GU397XvB6CJji7pegQAly5hi2xisvFIBJyxEnLaftz2iKm90qRVID8qR9c6F15fOUyh0RLqto7OnTXTB9aazMnP0/T1Q==;nHPa0lifDCoFj99dFhuRig=="
+secured: "tKdGXiNSC/Q3Ss8Rgs5IoP4BcLuBlu49POIsBCAMswHk5bz0Y8W16lweNqnzQ77SGF0oGvpuam/WX3BIa+/OH3wcS1G/IIQAQT2AX/znZhKiOIFComKfU76b8GzxfTKXtBr9ouz26WQ0owEx8PtYA74zexpTO1Y44bYRCU8febxEhJwiKNchnwdT0vtqnEXt5F7k5FiGDL8UkCvCRrzgmTcBItirTTO5PQ1vm/Y9zpWow/feUOjf39bujLdFxg6nJkDQtOLQK+cwJCl6hjbmOw==;6Btte+F6jqsJqOjDfckwqw=="
 ---
 

@@ -24,36 +24,69 @@ images:
     title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
 
 related:
-  - title: "Predicting How AI Will Improve Talent Management In 2020"
-    excerpt: "47% of U.S.-based enterprises are using AI today for recruitment, leading all countries in the ... [+] survey. U.S.-based enterprises’’ adoption of AI for recruitment soared in the last year, jumping from 22% in 2018 to 47% this year based on last years’ Harris Interactive Talent Intelligence and Management Report 2018. 73% of U.S. CEOs ..."
-    publishedDateTime: 2019-12-24T19:56:00Z
-    sourceUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/
-    ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
         width: 600
         height: 315
-  - title: "10 Ways AI Will Impact Talent Mobility in 2020"
-    excerpt: "At the same time, they would be satisfying the career progression aspiration of their employees. Research says that AI can help optimize this process. AI technologies can overcome the mobility challenges that are holding an organization back. This technology can help the HR team find better skill matches, tap a larger pool of internal talent ..."
-    publishedDateTime: 2019-12-27T20:33:00Z
-    sourceUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289
-    ampUrl: https://www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/human-resources/10-ways-ai-will-impact-talent-mobility-in-2020-02271289/amp
+  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453
+        width: 1199
+        height: 675
+  - title: "What is Deep Learning? Everything you need to know"
+    excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
+    publishedDateTime: 2019-12-20T10:00:00Z
+    sourceUrl: https://www.techradar.com/in/news/what-is-deep-learning
+    ampUrl: https://www.techradar.com/in/amp/news/what-is-deep-learning
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/what-is-deep-learning
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+  - title: "AWS Takes Machine Learning Global, Makes It More Accessible & Easy"
+    excerpt: "“This announcement is a ball about making it easier for developers to add machine learning predictions to their products and their processes by integrating those predictions directly with their databases,” said Matt Wood, VP of artificial intelligence at AWS. It won’t be long until all applications have machine learning and artificial ..."
+    publishedDateTime: 2019-12-26T09:34:00Z
+    sourceUrl: https://analyticsindiamag.com/aws-takes-machine-learning-global-makes-it-more-accessible-easy/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
         width: 700
-        height: 420
+        height: 393
+  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
+    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
+    publishedDateTime: 2019-12-23T08:20:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "73VEyJ6YDSYCJYkTpE5MRFudGy2QeTknQVoWq9FLrskld2QdGxdlgfNWKJHebTvvZCUKTLT8aF4mXbm2DrZ0Bs9Z8HEab7P4leidctr4HQCMmRljl4wn7eeVEqBrTjMU2xcjYilN+tRo2AObt1czByb266lip2RitJop8uNCTGPewX/O3/IfmHPHKE7QDuJK9xsuS0xDqSUpnXISdocISJJM9fWgYGyduNVyYFBXgRc8xYAE3yFGoOIaxaiP2/1IXZZAZahFFFdKb54YYWLvdA==;71qUnqZupFbSIrlw7FPBvw=="
 ---

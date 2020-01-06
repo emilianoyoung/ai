@@ -8,7 +8,7 @@ ampUrl: https://www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-r
 cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2019/whats-best-way-measure-smarts-ai-systems-researchers-developing-iq-test/amp/
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 700
     height: 465
     title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
-
-related:
-  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
-    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
-    publishedDateTime: 2019-12-23T08:20:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
 
 secured: "N39cTotVc0IQ58j8NWh7hzKdGBl4VUXHkvFdZoMrNm/4hdWPz6wsokq7+i+xEwSFzFz2iD+j+IsdeGtPwHVKwwo0QD55za7GvJhXumX63YukfElX6+8oySXKT+ocH3sFlSX4dRHFjPiEDsUBHh0lmxqbelm1UhuQRG10a0O/xv1Q1d6uSeSv7DHaBpEcGfw9g0dbKoI8wNJTyB5X4w/xteLDgLuDVUhHDt9rnsoOac0/HjMHN8bky7IxfrFbobtsN0dJoSF7GrQcASpxIF4YVQ==;BR+3F9ZL0f/EKq1KGMQddg=="
 ---

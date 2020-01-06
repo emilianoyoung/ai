@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3A803E1448A89C3A2C774D05EA2C7473
         width: 700
         height: 376
+  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
+    excerpt: "Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training machine-learning models — at CES 2020, the big tech trade show in Las Vegas this week. The company, which went public in 2011, started out as a maker of low-power chips for video cameras."
+    publishedDateTime: 2020-01-06T10:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
+    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.EDBD7A4EE6358C880A2C35C88E4EA9B6
+        width: 700
+        height: 382
 
 secured: "VKEl35t5Ygufx9N3UwgLk5XTun8AAjQNY3Yid2kObkMFYp1s+lieObFCncGjlpjH7YKg0xtEK3v9tjtwOKsUz1/IVzXTIl2MLaTAILKO5ridj0lIYD7zNKnDyDXh2tUiPlLnoOwZaMfF6xqIA/JSCZNsHAomWWBTTSXTQTnQq8DUPC+BRC60OAGPHlJcXA9kK1n38I3b2/6SKI8p2nnc+9BuzSn3qG9I1fsfoKdyZeJPUBzSJQhRrzzRRxSob1Cuga6XWUvVcHtkQkAmf1PBoA==;5ed/xCy4Bw6rFS6VZo7HIg=="
 ---

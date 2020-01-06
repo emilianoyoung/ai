@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-plat
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/
 type: article
 quality: 240
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -33,6 +33,21 @@ images:
     title: "Ambarella shows off new robotics platform and AWS AI programming deal"
 
 related:
+  - title: "Ambarella unveils new AI chips for automotive cameras and driver assistance"
+    excerpt: "Ambarella will also demo applications with its existing chips — as well as a robotics platform and Amazon SageMaker Neo technology for training machine-learning models — at CES 2020, the big tech trade show in Las Vegas this week. The company, which went public in 2011, started out as a maker of low-power chips for video cameras."
+    publishedDateTime: 2020-01-06T10:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/
+    ampUrl: https://venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/ambarella-unveils-new-ai-chips-for-automotive-cameras-and-driver-assistance/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.EDBD7A4EE6358C880A2C35C88E4EA9B6
+        width: 700
+        height: 382
   - title: "Alabama Robotics Technology Park to launch new robotics program"
     excerpt: "The smart factory manufacturing experience is focused on transformative technical areas, including automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics and 3D printing. “Launching RTP 2.0 is exciting for Alabama companies as they gain access to some of the most revolutionary ..."
     publishedDateTime: 2019-12-31T19:39:00Z

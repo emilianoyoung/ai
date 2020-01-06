@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
         width: 700
         height: 466
-  - title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
-    excerpt: "Artificial intelligence and machine learning help Internet search ... Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.statnews.com/2019/12/17/ai-machine-learning-drug-launch-playbook/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.6A5248FC7645CBA00A8AE9E357981A2F
-        width: 700
-        height: 393
   - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
     excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
     publishedDateTime: 2019-12-17T18:32:00Z

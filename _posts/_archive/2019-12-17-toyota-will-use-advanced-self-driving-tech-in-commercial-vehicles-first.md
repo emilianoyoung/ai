@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
-excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
-publishedDateTime: 2019-12-17T11:00:00Z
-sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
+title: "Toyota will use advanced self-driving tech in commercial vehicles first"
+excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
+publishedDateTime: 2019-12-17T10:27:00Z
+sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Motor Authority
-  domain: motorauthority.com
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
+  - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
     width: 700
-    height: 466
-    title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    height: 525
+    title: "Toyota will use advanced self-driving tech in commercial vehicles first"
 
 related:
   - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
@@ -170,30 +170,19 @@ related:
       - url: https://europe.autonews.com/s3/files/styles/800x600/public/YANDEX-MAIN_i.png
         width: 800
         height: 600
-  - title: "Toyota will use advanced self-driving tech in commercial vehicles first"
-    excerpt: "TOKYO -- Toyota plans to first deploy advanced self-driving features in commercial vehicles before adding them to passenger cars meant for personal use, a senior official at the automaker said on Tuesday. It will be easier to apply self-driving technology that does not require constant and direct human-monitoring to taxis and non-passenger ..."
-    publishedDateTime: 2019-12-17T10:27:00Z
-    sourceUrl: https://www.autonews.com/mobility-report/toyota-will-use-advanced-self-driving-tech-commercial-vehicles-first
+  - title: "Self-driving VW vans to shuttle guests during 2022 FIFA World Cup"
+    excerpt: "A fleet of self-driving Volkswagen Group vehicles will hit the streets of Doha, Qatar, during the next FIFA World Cup, which is scheduled to run from November 21 to December 18, 2022. The fleet will be made up of 35 electric vehicles including buses from VW Group-owned Scania and minivans based on 2017's Volkswagen ID Buzz concept, which is ..."
+    publishedDateTime: 2019-12-17T11:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1112737_self-driving-vw-vans-to-shuttle-guests-during-2022-fifa-world-cup
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Motor Authority
+      domain: motorauthority.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.8790FE1F3E9245230540C8D2A25F5B90
+      - url: https://www.bing.com/th?id=ON.8CEFB8E60044E32DA12C9286B7C348E5
         width: 700
-        height: 525
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to its personal ..."
-    publishedDateTime: 2019-12-17T09:39:00Z
-    sourceUrl: https://www.benzinga.com/news/19/12/15000614/toyota-to-add-advanced-self-driving-features-in-mobility-service-vehicles-first
-    ampUrl: https://amp.benzinga.com/amp/content/15000614
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15000614
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+        height: 466
   - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
     excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
     publishedDateTime: 2019-12-18T03:26:56Z
@@ -208,6 +197,6 @@ related:
         width: 700
         height: 393
 
-secured: "5uPmT6gJPXnsZDpozfoFaDFWqC9FVdENjJDsMwM/v73Gq0KD0tUD4K/Mey7pH3UEI0nlV1HLfxUOzqXVTZRSWjJoH2xn95hKEjPUo6Y0H388AQkLCHsBsbDV4c+yJNeaDmI7kw4ve/jzo42+yR8RotXzMcCh7sSfP32YcL2f2YeGEa9Uyku7OucvG6UQnTu+jVHb9yruLq8ZM1kUK6rQb8s8VnLMeRwfUI1QMTUooAXlGhxQ5mnSD1rQYHLIqP1mRuCKbB1TK9lF1sxpQWA+DQ==;W8jRWmQHdiCsVevf0qb+vw=="
+secured: "vGc12pIekWL/kfoE1YqKoPtnCkMzbAB/t9I5xzpVoY6nS6T4UJqHPI9QkN4ELQvWWM9I0ZKupWMuUEFHrmxDA5/al68CSOJx47IaA0I3LphGIgcNlknYGg6/FFv5E5B/i9ZUbc3jX5d8WiqnXceqq2Wa535Og4ltnZ/pWZacrN04znn8ZGC159gKyIk1UagZ60V8JrdrNdQlu+7OCubytFyntUeqeS1zdjWG7DLaGfFiuqVt+vOmBo+dC8NOxw4HsFOEcDbQaZpkrn8N31CqrQ==;WNXu8Yxo58y9GHBuCv8Osg=="
 ---
 

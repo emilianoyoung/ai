@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
         width: 457
         height: 261
+  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
+    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
+    publishedDateTime: 2019-12-19T07:18:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 32
+    images:
+      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
+        width: 940
+        height: 430
   - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
     excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
     publishedDateTime: 2019-12-18T18:08:00Z

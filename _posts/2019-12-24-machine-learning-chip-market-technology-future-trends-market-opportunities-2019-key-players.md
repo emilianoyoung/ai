@@ -163,15 +163,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3B27C049A1B4D1B4F546725F336605B9
         width: 600
         height: 315
-  - title: "Wearable Artificial Intelligence (AI) Competitive Market Status,Outlook, Trend and Forecast to 2026"
-    excerpt: "In the global report, the wearable artificial intelligence (AI) competitive market outlook section mainly ... 915 4157 The key drivers for development will be increased demand for AI assistants, increased operations in the Healthcare industry, the emergence of IoT and the integration of wireless technologies and the growth of wearable component ..."
-    publishedDateTime: 2019-12-17T09:58:00Z
-    sourceUrl: https://www.arnnet.com.au/mediareleases/36992/wearable-artificial-intelligence-ai-competitive/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 20
 
 secured: "T6djFAgOnzEIKZ4daT2R9aFSbozU1Y9GEUPCFXSA+C/DIciFsBcNyZbCjzl2Tgn6z2qDjIdUUxZeKMmxPY6sK7vdyE9hd8jk1CHVbiCXAQ5MoVnDnHixIB4CkjvW/Mb+iM5C4V44AgWslFujk6TmeUW+Tc0xJqu+oZSn9BCqAeyULNq+hhtmOY+/RB245DDBs2jZ86afPceGvJYyB+QSN3U4/gU1/dW0w6u39R38LQbwNNeqLEIoyBv0y9tODYkK29DTxKkDLW9M9qpuQhFDdA==;Ni7EwEx0qwkf+V12DjnKcw=="
 ---

@@ -23,19 +23,6 @@ images:
     height: 799
     title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
 
-related:
-  - title: "Why Silicon Valley has its sights set on the UK as its European driverless car hub"
-    excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field - building sufficiently intelligent ‘brains’ for driverless cars so they are smart enough to make ..."
-    publishedDateTime: 2019-12-17T07:07:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/
-    ampUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
-    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 33
-
-secured: "CuQVUM9evSQX/ITJND7hZ4Pr5DZBnEzSnejPbR+g12Hk4UZ5c+jD7jmH4iRNIGrPnujFJDg5xdRIctZuk3MNKGTdGvl+K+oD+Sxrp8sM5o5lxwSmWIeQGtnIDRSAL0+A6pznTpU8EbleYY0AIDjJoBaV5uSIFCBawxsfIIqAfmXc6RxdB/8m7eoqeQvMx91RWWJMzh/12JAlyoO9XeJt2z+L52KhVbvlo6rl+kc1iZNQksp2skQOyVCYr5aQNzHOB/j5foqt9o97nf/2F8JZGw==;7pvZU4+xiRQjTiU00DjUMQ=="
+secured: "wJ1UwQ4bkdsB+GleWE7lKtGjtN25CPLI8EK/8pXx5ZnkJu+p01N5diIEqUQsZgBDj3OCoZB4eL37ByUuIWD+d9yjWGymQnwQBZZldTWVtSla5ihN0yG3K0WJRGabGhcsTHqwqXjUgnQdAM1kx0UpTfkPX+gx7KOdM31fHOVnTE1IFotZwLxofjix84DZ0NkYHX0YguhFdAesIwBnFQm7/QE61Ejqb/KAF7zw/agvgvTWkHgfWiYsEy1/ae9sXJgxP8AwcPXJlvD5MazIva6fkg==;uRbgpKO2IXCyM2HMTxarpA=="
 ---
 

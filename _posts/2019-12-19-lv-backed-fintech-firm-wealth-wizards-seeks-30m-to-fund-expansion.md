@@ -8,7 +8,7 @@ ampUrl: https://news.sky.com/story/amp/lv-backed-fintech-firm-seeks-30m-to-fund-
 cdnAmpUrl: https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/lv-backed-fintech-firm-seeks-30m-to-fund-expansion-11888129
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,47 +24,6 @@ images:
     width: 700
     height: 393
     title: "LV-backed fintech firm Wealth Wizards seeks £30m to fund expansion"
-
-related:
-  - title: "Alibaba-backed fintech firm WeLab secures $156m in series C round"
-    excerpt: "Hong Kong fintech unicorn WeLab today announced it has raised US$156 million in a series C ... Founded in 2013, WeLab is a virtual bank that uses risk management technology and AI to analyze unstructured mobile big data within seconds and provide financial services. It operates in Hong Kong, China, and Indonesia under different brands."
-    publishedDateTime: 2019-12-17T09:19:00Z
-    sourceUrl: https://www.techinasia.com/welab-secures-156m
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.93C52664F635A7C18ECD64E74E8E8F12
-        width: 700
-        height: 428
-  - title: "Montreal Fintech FlexPay Raises $6M from Impression Ventures and BMO Capital Partners"
-    excerpt: "Using AI and machine-learning, FlexPay analyzes billions of transaction records to reverse ... About Impression Ventures Impression Ventures is a VC firm focused on investing and leading deals in firms disrupting financial services (Fintech), raising late seed to early Series A round. Impression was founded in 2013 by entrepreneur Christian ..."
-    publishedDateTime: 2019-12-18T18:53:00Z
-    sourceUrl: https://apnews.com/d4ab5fd6df009f3b89d10e4ceb56cdeb
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
-  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
-    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
-    publishedDateTime: 2019-12-19T07:18:00Z
-    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 32
-    images:
-      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
-        width: 940
-        height: 430
 
 secured: "/TeP2kmlb5ISFgIoXTo0vjJ53ZT7LMziLjCBtXcXunjDxn25wBvgta6e/Ligc30pNcfq2yGvH7+Cs7CELpS+G1Zdo2cdl8qmDLO7gXli+tFhDCmqvvnz06o/L9/SE+/V7rroEvGtKkoyX7DKuy9kfG/KCXia4B+RGfwLShFX+f+myX4lFtPiigPdPt2EPIiVitpBm7LE5/0hVHWynT0x3QC340lRvTIxkkPYbJt7ZMB6bpAKuINE8UIefEoFkuAGOKZA4ibrx+XYD40CPG0s4g==;flYtv4FLwwL06cw85qg6OA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2019/12/24/predicting-how-ai-will-improve-talent-management-in-2020/amp/
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A6A1E8945C48FD23877449F0F485D227
         width: 700
         height: 420
-  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
-    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
-    publishedDateTime: 2019-12-24T16:25:00Z
-    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
-        width: 700
-        height: 288
 
 secured: "dvotTl7xkmZpDVrXSavM7lKSLHVsK8J8VhpifZYi2H9vtxYG4FXRurhf2S8rRtR5+XK+0AIpwaWgPpDJ1Mo19Hpf2hRv04uq/HqyEXc/olVWNSU4nbjf9Ts/B/qZP3Tv4L4UVuT9S4b1E59bjbDq7b7XooLCpCkgdxIYo3/Kq2TbQtp1hSHquqimkiwfL8/u2p74lZiXPv6gM2+KVMNE1O602bsNWTserxPQDrc20qUBdLuPMxNY/o3WhNgIwYLIXELFgr3k2ia+5Dn/5ch5yg==;LdmT9FP8OKUqCAyFs/sm9A=="
 ---

@@ -27,6 +27,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 26
+  - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
+    excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be ..."
+    publishedDateTime: 2019-12-19T15:00:00Z
+    sourceUrl: https://www.financialbuzz.com/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy/
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 11
   - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
     excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
     publishedDateTime: 2019-12-19T13:30:00Z

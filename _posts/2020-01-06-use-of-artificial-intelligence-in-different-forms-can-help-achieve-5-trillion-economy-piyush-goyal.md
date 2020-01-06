@@ -1,0 +1,46 @@
+---
+category: news
+title: "Use of artificial intelligence in different forms can help achieve $5 trillion economy: Piyush Goyal"
+excerpt: "NEW DELHI: Use of artificial intelligence (AI) in different forms can help achieve the target of making India a USD 5 trillion economy in the coming years, Commerce and Industry Minister Piyush Goyal said on Monday. He said various departments are working to see how AI, space technology and other modern tools can be used to push economic growth ..."
+publishedDateTime: 2020-01-06T10:21:00Z
+sourceUrl: https://www.newindianexpress.com/business/2020/jan/06/use-of-artificial-intelligence-in-different-forms-can-help-achieve-5-trillion-economy-piyush-goyal-2085831.html
+ampUrl: https://www.newindianexpress.com/business/2020/jan/06/use-of-artificial-intelligence-in-different-forms-can-help-achieve-5-trillion-economy-piyush-goyal-2085831.amp
+cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/jan/06/use-of-artificial-intelligence-in-different-forms-can-help-achieve-5-trillion-economy-piyush-goyal-2085831.amp
+type: article
+quality: 42
+heat: -1
+published: false
+
+provider:
+  name: The New Indian Express
+  domain: newindianexpress.com
+
+topics:
+  - AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.94D1191605E77E360DD7A4B0677728AD
+    width: 600
+    height: 390
+    title: "Use of artificial intelligence in different forms can help achieve $5 trillion economy: Piyush Goyal"
+
+related:
+  - title: "Artificial intelligence, machine learning will contribute $1 trillion to Indian economy: Piyush Goyal"
+    excerpt: "Artificial intelligence and machine learning will contribute USD 1 trillion by 2035 and this is a good beginning ... Hub by NSE will strengthen and empower those working in the BFSI sector and will benefit investors and the financial services to give world class services through knowledge, innovation and value-addition."
+    publishedDateTime: 2020-01-06T10:16:00Z
+    sourceUrl: https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/
+    ampUrl: https://www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/
+    cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.9B62906FC591C3816F157EBAF979BD42
+        width: 700
+        height: 394
+
+secured: "6vDInU3Rn27b6LJgnkJnYmq3b6nH6j7xm0evMq06tJasGlbHvD+eHvmpJUz0YrYqdpx4JXvbvxHDt4ONa3dqS2HnuOSuuZzAEivn6bLnMbcxvhr8tygQ9CzdRnJxsDHpq9wTNT/d0ym9RaRaMveaQM4NvMXIYcxm0cn3Tkgzn14HjfBqFYxljbYzGZ4JBD3ghQYaXzUdZTPMCNfELTQxcShKy+EOcRAbzcbf56ItygmdIux1lAj0F4/7OJjolfVVvswVkbjyqP4jmI134NENJQ==;1eKsd/uHjlszKOy0j0jicQ=="
+---
+

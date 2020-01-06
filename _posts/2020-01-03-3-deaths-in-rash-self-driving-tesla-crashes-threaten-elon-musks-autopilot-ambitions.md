@@ -187,6 +187,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A23690DECED0605C78EC9FC43CEC5B47
         width: 700
         height: 394
+  - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
+    excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
+    publishedDateTime: 2020-01-06T10:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/deadly-tesla-car-crashes-raise-questions-on-self-driving-cars/ar-BBYEXqP
+    type: article
+    provider:
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
+        width: 600
+        height: 315
   - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
     publishedDateTime: 2019-12-28T11:12:00Z

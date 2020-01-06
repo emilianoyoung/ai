@@ -79,19 +79,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Vision Screeners Market to Witness a Healthy Growth during 2017-2027"
-    excerpt: "In addition to some of the most commonplace vision disorders, newly establishing problems such as digital eye strain (more popularly, computer vision syndrome) are strongly necessitating the demand for efficient vision screening tests, particularly among the younger population. This, according to FMI's analysis, will drive sales of vision ..."
-    publishedDateTime: 2019-12-17T09:48:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/vision-screeners-market-to-witness-a-healthy-growth-during-2017-2027-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence Robots Market 2019 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025 – Market Research Engine"
     excerpt: "Company profile includes assign such as company summary, financial summary, business strategy and planning, SWOT analysis and current developments. The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here: https ..."
     publishedDateTime: 2019-12-30T05:17:00Z

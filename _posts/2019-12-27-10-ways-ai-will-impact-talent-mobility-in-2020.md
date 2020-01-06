@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0C4D17432DE326C675D06CCFEA474473
         width: 600
         height: 315
-  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
-    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
-    publishedDateTime: 2019-12-24T16:25:00Z
-    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 17
-    images:
-      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
-        width: 700
-        height: 288
 
 secured: "BuiTX98JHqNwZ55tDn14GDtcIwBA7QknTLyFXGM/AIPUbwxLCW4PUnftQ6QVPVGXrwiOVNrIfsvMSF+5quSQnZ3hwTJnQYIW995/kuGZ/BJBIAyHa2IH6PS6Zu/97EQxyfH9OyplqIvkMRhnlh/dpZsF1HuzSbhN6Bjrjm/SuSm9bTmESDmEcDdBC/WIcHsESvAzC7gqcmYtrpVn8cC7/TAKgjNTLFfiwMX9hc483y1vH4iH8MZc4M9PYxZU5unASj10uOOu6uTotmDbfxuqbw==;J0c/RsYON5YfQYLmVIQ/yw=="
 ---

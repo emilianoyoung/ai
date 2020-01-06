@@ -39,6 +39,17 @@ related:
         height: 300
   - title: "Gridlock solutions envisioned with driverless cars, flying taxis, and delivery drones"
     excerpt: "“The challenge is that AV and AI (artificial intelligence) is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in programming the computers. If I only provide a picture of a German shepherd, the vehicle won’t run over the German shepherd but it will run over the ..."
+    publishedDateTime: 2020-01-03T23:26:00Z
+    sourceUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones
+    ampUrl: https://www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+    cdnAmpUrl: https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-news/2020/01/03/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/amp
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 32
+  - title: "Gridlock solutions envisioned with driverless cars, flying taxis, and delivery drones"
+    excerpt: "“The challenge is that AV and AI (artificial intelligence) is complicated to implement in urban environments,” said Bernard Schmidt of the authority’s AV division. “There is human bias in programming the computers. If I only provide a picture of a German shepherd, the vehicle won’t run over the German shepherd but it will run over the ..."
     publishedDateTime: 2020-01-04T00:26:17Z
     sourceUrl: https://www.msn.com/en-us/news/technology/gridlock-solutions-envisioned-with-driverless-cars-flying-taxis-and-delivery-drones/ar-BBYCEgJ
     type: article

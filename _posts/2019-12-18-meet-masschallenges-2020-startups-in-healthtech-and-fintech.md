@@ -46,6 +46,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A45056957FBE9079CF7CB112012DE043
         width: 457
         height: 261
+  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
+    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
+    publishedDateTime: 2019-12-19T07:18:00Z
+    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 32
+    images:
+      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
+        width: 940
+        height: 430
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
     excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
     publishedDateTime: 2019-12-20T00:05:00Z

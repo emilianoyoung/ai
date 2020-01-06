@@ -2,16 +2,22 @@
 category: news
 title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
 excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
-publishedDateTime: 2020-01-05T23:00:00Z
-sourceUrl: https://www.msn.com/en-gb/news/offbeat/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDNnJ
+publishedDateTime: 2020-01-05T22:00:00Z
+sourceUrl: https://www.engadget.com/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 86
+heat: 136
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -53,7 +59,48 @@ related:
       - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
         width: 700
         height: 350
+  - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-01T20:56:00Z
+    sourceUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254
+    ampUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
+    cdnAmpUrl: https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
+    type: article
+    provider:
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.D3A2DCD6DE08CC3B8F57B44FF391B6A4
+        width: 620
+        height: 413
+  - title: "AI system can detect breast cancer better than clinical experts – study"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
+    publishedDateTime: 2020-01-01T20:45:00Z
+    sourceUrl: https://www.shropshirestar.com/news/uk-news/2020/01/01/ai-system-can-detect-breast-cancer-better-than-clinical-experts-study/
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
+        width: 700
+        height: 525
+  - title: "AI system found to detect breast cancer better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-02T11:05:00Z
+    sourceUrl: https://www.irishtimes.com/news/health/ai-system-found-to-detect-breast-cancer-better-than-experts-1.4128713
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
+        width: 700
+        height: 367
 
-secured: "usSzZ2v+F8ZVGS9j3blaTfC2ObkWtU1duPytvoKsZvUyf8Kejf4iUIdtsrtcZSryG1ewQdckOIQxDbzyKrEv+OQcqWWG3VxResbzL2zy3ArIB0ZzLtFtz7myDELkMWKSvQc1ls0EkUtIvtqJKv/YvVEyHuhARyBB8qLKzWd2HKF/ABJIHp316xYQepf1eor0VBzNALMjzRhpfQqqvtXOqofGdVyzj+pJGMgmwXSfwfV5SdAy8ya0IcLf0ks92wS/jaPkBpHAAayv6CdnRSx7Xg==;bPFuqfXFxYrXF3nI23tsUw=="
+secured: "CD5n5NKGW5uwUT/ACBz0vlCYMmpBeQbknk5xj0i4bF+pgMf/jI4L2UDfs1wLJT4ydX/Vd56/wF59YU6oARJ5z4QOVwA96GHSEo7h5pvo/T+gH/+U/ErrSWq4cRJ+CltG4OYGFGxMX4sV+1MKHrDwBEUN48fU/Oy3V05QCA9wMx5R+X6nJV43qglAIpFdcQIf+iDE3gGUwE6/ORJe7JrNco7YLTXnB/sUZeGv+m7IhRQv9mjmwPUx0xsh7oOEPzbOUiqZeahr2PWdpi3Jc9zPVQ==;pdImnXtsPuqwqaiRukixXg=="
 ---
 

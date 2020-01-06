@@ -8,7 +8,7 @@ ampUrl: https://www.adweek.com/digital/sharing-data-could-save-lives-as-healthca
 cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/sharing-data-could-save-lives-as-healthcare-tech-booms-in-2020/amp/
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -41,30 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6EF9317A035CD1AB4EB4BA730B8A052A
         width: 620
         height: 348
-  - title: "How AI is making healthcare ‘more human’"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
-    publishedDateTime: 2020-01-02T07:25:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
   - title: "From Apple upping its healthcare ambitions to Walmart acquiring a health insurer, VCs shared the biggest surprises they're watching out for in 2020"
     excerpt: "The 'surprises' aren't predictions, exactly, but if the events do occur, they could have big implications for investors and patients."
     publishedDateTime: 2020-01-03T20:18:00Z

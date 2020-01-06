@@ -8,8 +8,8 @@ ampUrl: https://www.thehansindia.com/amp/telangana/telangana-government-bets-big
 cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Hans India
@@ -26,21 +26,6 @@ images:
     title: "Telangana Government bets big on Artificial Intelligence"
 
 related:
-  - title: "Telangana government set to use AI to provide better healthcare services"
-    excerpt: "HYDERABAD: In an effort to introduce Artificial Intelligence (AI) in public healthcare, the State government along with Intel, Public Healthcare Foundation of India (PHFI) and International Institute of Information Technology-Hyderabad (IIIT-H) will work in the field of diagnostics, proactive public healthcare, health services optimisation ..."
-    publishedDateTime: 2020-01-06T04:19:00Z
-    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.html
-    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
-        width: 600
-        height: 390
   - title: "Telangana government takes help of artificial intelligence projects"
     excerpt: "Hyderabad: The Telangana government, as part of its ‘Year of AI’ initiative, launched two new projects which use artificial intelligence (AI). Both projects are part of the state government’s efforts to make government services more efficient with emerging technologies such as AI and blockchain. The first project was a “crowd estimation ..."
     publishedDateTime: 2020-01-02T19:41:00Z
@@ -56,30 +41,34 @@ related:
       - url: https://www.bing.com/th?id=ON.D2369BBAAC7B18090643359360946AE8
         width: 700
         height: 392
-  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-    publishedDateTime: 2019-12-31T02:10:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15054874/brainehealth-leveraging-digital-technologies-to-revolutionize-healthcare
-    ampUrl: https://amp.benzinga.com/amp/content/15054874
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15054874
+  - title: "Telangana targets to become artificial intelligence hub; targets to attract 200 startups"
+    excerpt: "The Tata Consultancy Services has announced that it will make investments in the AI domain in Hyderabad. This comes after it had announced 2020 as the Year of AII and its decision to make Hyderabad the hub for Artificial Intelligence (AI). At a meet organised to announce the Year of 2020, Telangana Information Technology Minister K T Rama Rao ..."
+    publishedDateTime: 2020-01-02T10:02:00Z
+    sourceUrl: https://www.thehindubusinessline.com/info-tech/telangana-targets-to-become-artificial-intelligence-hub-targets-to-attract-200-startups/article30459275.ece
+    ampUrl: https://www.thehindubusinessline.com/info-tech/telangana-targets-to-become-artificial-intelligence-hub-targets-to-attract-200-startups/article30459275.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/telangana-targets-to-become-artificial-intelligence-hub-targets-to-attract-200-startups/article30459275.ece/amp/
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-    publishedDateTime: 2020-01-01T00:34:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 52
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 50
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      - url: https://www.thehindubusinessline.com/opinion/editorial/hu9m17/article29946451.ece/ALTERNATES/LANDSCAPE_615/BL12THINKSTARTUP
+        width: 615
+        height: 384
+  - title: "IIT Hyderabad to collaborate with Telangana government on artificial intelligence"
+    excerpt: "IIT Hyderabad and Telangana government will also work on education and training to prepare and deliver content and curriculum on AI courses to be delivered to college students along with industry participants."
+    publishedDateTime: 2020-01-04T08:47:51Z
+    sourceUrl: https://www.msn.com/en-in/news/other/iit-hyderabad-to-collaborate-with-telangana-government-on-artificial-intelligence/ar-BBYByLf
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.D64513B76F9402A94FFE8EE2E5EC6262
+        width: 600
+        height: 315
 
 secured: "lq5zac2a5mv/pYooygF/lyKvnJJl230+OMMGQ2+zE0s0EWSPIp60lJhrP6iwIh/HnBFgwA4q/so9rBCPMaU6hgxlZ+PuiKcgIRKr8PTmSiRY4lonlqoBSRwV3d2NjDuz/F2Zwmoy26dqaAD/VLdYi76WkzLUirmHxJyscsgdriPRqBll0HAmblfPcciZqf+bO1tlW4/ADwnjo9FQyV5yOTjLzfThb7GWEUT+E/N51o9Po8qRmugldcsZJjmMGXQ/NyCLS+SyEhykO6+J8ksDAg==;eHofq8QV9yb7Y5XMsv74mQ=="
 ---

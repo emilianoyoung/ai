@@ -181,19 +181,6 @@ related:
       - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
         width: 635
         height: 400
-  - title: "Intel snaps up Israeli AI startup Habana Labs for $2bn"
-    excerpt: "Intel has bought Habana Labs in a bid to expand its AI portfolio on the data centre arm of its business, likely by making use of the startup's programmable deep learning accelerators. \"This acquisition advances our AI strategy, which is to provide customers with solutions to fit every performance need - from the intelligent edge to the data ..."
-    publishedDateTime: 2019-12-17T09:20:00Z
-    sourceUrl: https://www.theinquirer.net/inquirer/news/3084713/intel-buys-habana-labs
-    type: article
-    provider:
-      name: The Inquirer
-      domain: theinquirer.net
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4783444E224D5482BE728CF6C0AAAB00
-        width: 580
-        height: 358
   - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
     excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
     publishedDateTime: 2019-12-20T02:01:00Z

@@ -26,21 +26,51 @@ images:
     title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
 
 related:
-  - title: "Study claims Google AI is more successful at breast cancer screenings than experts"
-    excerpt: "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ..."
-    publishedDateTime: 2020-01-02T17:11:00Z
-    sourceUrl: https://mashable.com/video/google-ai-breast-cancer-screenings/
-    ampUrl: https://mashable.com/video/google-ai-breast-cancer-screenings.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/google-ai-breast-cancer-screenings.amp
+  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
+    excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
+    publishedDateTime: 2020-01-05T22:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+    ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 81
+      name: Engadget
+      domain: engadget.com
+    quality: 86
     images:
-      - url: https://www.bing.com/th?id=ON.09B844C8EBF9672CDB5A73AD7FA2C5EC
+      - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
         width: 700
         height: 367
+  - title: "Scientists built an AI that can spot breast cancer better than a doctor"
+    excerpt: "Artificial intelligence is already invading many aspects of our daily lives, but while “smart” virtual assistants like Apple’s Siri and Amazon’s Alexa can be helpful, more powerful AI might actually save your life. In a new study published in the journal Nature explains, cancer-detecting algorithms are becoming so adept at spotting ..."
+    publishedDateTime: 2020-01-02T23:38:00Z
+    sourceUrl: https://bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/
+    ampUrl: https://bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.0964E0C007B9ECE04A7042B9F23311CB
+        width: 700
+        height: 462
+  - title: "AI Is Getting Better Than Humans at Catching Cancer"
+    excerpt: "This would save a vast majority of the time and save money and time for healthcare systems that are more and more burdened. Hopefully, a medical system infused with human critical thinking and AI-powered analysis can better battle one of the most deadliest forms of cancer in human history."
+    publishedDateTime: 2020-01-03T20:53:00Z
+    sourceUrl: https://www.popularmechanics.com/science/health/a30391960/ai-diagnosing-cancer/
+    ampUrl: https://www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
+        width: 700
+        height: 350
   - title: "AI system can detect breast cancer better than clinical experts – study"
     excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
     publishedDateTime: 2020-01-01T20:45:00Z
@@ -67,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
         width: 700
         height: 367
-  - title: "Artificial intelligence programme detects breast cancer better than experts, study finds"
-    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
-    publishedDateTime: 2020-01-01T20:34:00Z
-    sourceUrl: https://www.telegraph.co.uk/news/2020/01/01/artificial-intelligence-programme-detects-breast-cancer-better/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.11DDE710EA7D48FB01638CB05C23A7BB
-        width: 700
-        height: 437
 
 secured: "pXfGX945joEbMH7Nc9vM87cgMj+NhzqoUl2/K4DRwxzBkxtPZY7zybrLE25usF4fhCoGR1+b5FWA532qZoY6V0v2Mqr7ekc++3d5zlAX0n4zV88jSStsRURbhDfehqLHD0CC/msOUPpU1jNz0yQz2dMnC+avOq4E/uRsOFq9MuRl7gQYURgji5bQGjtlMuu+lj9d51ANZ5VWpdnLP7tou4lyhYU1H4m4HA67LPXtgxW/3PzsL1qpt06lw7DBIhTuld24OBcUoDyb6ed4XP3Lug==;4nsGg7kMBF9PNwIleyAlmQ=="
 ---

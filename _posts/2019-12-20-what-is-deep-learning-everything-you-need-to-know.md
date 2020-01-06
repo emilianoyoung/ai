@@ -8,8 +8,8 @@ ampUrl: https://www.techradar.com/in/amp/news/what-is-deep-learning
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/what-is-deep-learning
 type: article
 quality: 69
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -24,80 +24,71 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Arthur announces $3.3M seed to monitor machine learning model performance"
-    excerpt: "Machine learning is a complex process. You build a model, test it in laboratory conditions, then put it out in the world. After that, how do you monitor how well it's tracking what you designed it to do? Arthur wants to help, and today it emerged from stealth with a new platform to help you monitor machine learning models in production."
-    publishedDateTime: 2019-12-19T16:43:00Z
-    sourceUrl: https://ca.news.yahoo.com/arthur-announces-3-3m-seed-151129105.html
-    ampUrl: https://ca.news.yahoo.com/amphtml/arthur-announces-3-3m-seed-151129105.html
-    cdnAmpUrl: https://ca-news-yahoo-com.cdn.ampproject.org/c/s/ca.news.yahoo.com/amphtml/arthur-announces-3-3m-seed-151129105.html
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.A92E414A9FFBD3A07B9D260084153A6E
-        width: 700
-        height: 489
-  - title: "Would You Want a Personal AI That Knows Everything About You?"
-    excerpt: "But what it would actually look like, in practice, for us to have artificially intelligent versions of ourselves? Author and alternative medicine advocate Deepak Chopra was happy to be the Foundation’s guinea pig: an AI version of him, in the form of an app, will go live in early 2020. Users will be able to talk to digital Deepak and get ..."
-    publishedDateTime: 2019-12-22T14:00:00Z
-    sourceUrl: https://singularityhub.com/2019/12/22/would-you-want-a-personal-ai-that-knows-everything-about-you/
-    ampUrl: https://singularityhub.com/2019/12/22/would-you-want-a-personal-ai-that-knows-everything-about-you/amp/
-    cdnAmpUrl: https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2019/12/22/would-you-want-a-personal-ai-that-knows-everything-about-you/amp/
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
+        width: 600
+        height: 315
+  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object ..."
+    publishedDateTime: 2019-12-17T09:39:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.0EE4F887E504E8E6BD2163432BC4F077
-        width: 700
-        height: 393
-  - title: "AI, IoT and Machine Learning To Challenge Traditional Networking"
-    excerpt: "The next phase of networking will depend on IT learning to wrangle modern technologies in ways that simplify operations and help humans make decisions. That's the upshot of a new report by Cisco, which specifically called out technologies like machine learning, machine reasoning and automation. According to the report, \"2020 Global Networking ..."
-    publishedDateTime: 2019-12-24T16:16:00Z
-    sourceUrl: https://redmondmag.com/articles/2019/12/24/ai-iot-vs-traditional-networking.aspx
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453
+        width: 1199
+        height: 675
+  - title: "AWS Takes Machine Learning Global, Makes It More Accessible & Easy"
+    excerpt: "“This announcement is a ball about making it easier for developers to add machine learning predictions to their products and their processes by integrating those predictions directly with their databases,” said Matt Wood, VP of artificial intelligence at AWS. It won’t be long until all applications have machine learning and artificial ..."
+    publishedDateTime: 2019-12-26T09:34:00Z
+    sourceUrl: https://analyticsindiamag.com/aws-takes-machine-learning-global-makes-it-more-accessible-easy/
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.875E2F51343E45F03F9635EE0FCBF9E1
-        width: 647
-        height: 450
-  - title: "This 'lemon' could help machine learning create better drugs"
-    excerpt: "Drug discovery researchers have created a new framework for mining data for training machine learning models. One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to ..."
-    publishedDateTime: 2019-12-20T22:57:00Z
-    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191220074256.htm
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "Why machine learning is important to society"
-    excerpt: "Machine learning is not an alien term anymore. One of the biggest boons that technology has given the world today is that of the machine learning techniques. Right from reducing human interactions to reducing the number of time/efforts consumed in doing a certain job, the list of machine learning benefits is never-ending. The fact that machine ..."
-    publishedDateTime: 2019-12-20T07:50:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/why-machine-learning-is-important-to-society.html
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: India
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: https://www.dailypioneer.com/uploads/2019/story/images/big/why-machine-learning-is-important-to-society-2019-12-20.jpg
-        width: 1000
-        height: 800
-  - title: "Nuclear Networking Implements AI and Machine Learning Into Digital Advertising Strategy"
-    excerpt: "Of course, Nuclear Networking is always looking for ways to differentiate itself and continues to offer the best services around. “If somehow accessibility to the top 10% of employees and machine learning + AI becomes more prevalent, be sure we will be ..."
-    publishedDateTime: 2019-12-19T15:00:00Z
-    sourceUrl: https://www.financialbuzz.com/nuclear-networking-implements-ai-and-machine-learning-into-digital-advertising-strategy/
+      - url: https://www.bing.com/th?id=ON.BBFD8C2D66BEFFA5DFC7ED3FE0E23DDD
+        width: 700
+        height: 393
+  - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
+    excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
+    publishedDateTime: 2019-12-23T08:20:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191223VL200.html
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 11
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
+  - title: "This Area of Game Theory can Help Reinforcement Learning to Scale to Infinite Agents"
+    excerpt: "Reinforcement learning is one of the most popular areas of research in deep learning nowadays. Part of the popularity of reinforcement learning is due to the fact that is one of the learning methods that resembles human cognition the closets. In reinforcement learning scenarios and agent learns organically by taking actions on an environment ..."
+    publishedDateTime: 2019-12-24T16:25:00Z
+    sourceUrl: https://towardsdatascience.com/this-area-of-game-theory-can-help-reinforcement-learning-to-scale-to-infinite-agents-7c775a528726
+    type: article
+    provider:
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.C2B89F543D6FD361DF8446E3E4B8654D
+        width: 700
+        height: 288
 
 secured: "rJBqVnIwkpj1Dqr+7vfqdnKKESDq3hGSZwOhxfi9Zl3Fx5Xgrfpn3F9TZDr/2PPyUXvKDssqS1OrVHr5ktqGRFvdpNQ5Q893u0c7776sSD7wVLMuFkcOQgo1+dCkz7Rb39daLJAjnGtxSGgco2RWLnKvE8HEqqKno44DInu4MV2CIwGlsNhEbPa/5OJBOcNEpL97e8jiEPsX5qP5lZmT6fvuZKc2X/OSwoE+xuMpyjQEKYA2db8b6cHP26Xv2EUqEwfNAP4lZj+8ieuVmyLbAw==;SKMQE/5kdKW8bqUgX19Ezg=="
 ---
