@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T11:00:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/novatek-adopts-ceva-audiovoice-dsp-and-software-for-smart-tv-socs-300981295.html
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     title: "Novatek Adopts CEVA Audio/Voice DSP and Software for Smart TV SoCs"
 
 related:
-  - title: "Fluent.ai and Ambiq Micro Announce Partnership to Expand Voice Interface Use Cases Across a Variety of Smart Devices"
-    excerpt: "The unique and patented speech-to-intent approach allows development of speech recognition models in any existing language and offers unmatched multilingual capabilities. Ambiq Micro is leading the world in energy-efficient semiconductor design, redefining \"ultra-low power\" with its unique and proprietary Subthreshold Power-Optimized Technology ..."
-    publishedDateTime: 2020-01-06T14:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966550/0/en/Fluent-ai-and-Ambiq-Micro-Announce-Partnership-to-Expand-Voice-Interface-Use-Cases-Across-a-Variety-of-Smart-Devices.html
+  - title: "Vogtec Selects DSP Group’s SmartVoice SoC With HDClear™ For Cybic AI Bicycles With Built-In Voice User Interface"
+    excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- DSP Group ® (NASDAQ: DSPG), a global leader in wireless and voice processing solutions, announced that Vogtec has chosen its SmartVoice system-on-chip (SoC) with HDClear™ voice processing algorithms for its Cybic artificial-intelligence (AI) enabled bicycle with a built-in voice user interface (VUI)."
+    publishedDateTime: 2020-01-06T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/vogtec-selects-dsp-group-s-smartvoice-soc-with-hdclear-for-cybic-ai-bicycles-with-built-in-voice-user-interface-1028796472
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "0QhxkhbL+BPpWat338/+Sr1fe5GH4G/djK4NkErpGDbRzmHGhDjj+uJUk6sBJzoevEPZzS2zPCIH+G9fd3jZOOHGe42KlCERJ9pm7E7aVxfmg9r4TagxkZxtHKhOTILzbsE/l1Aa2NOxOEq0oIAk1ezHTFiSyUeQ+pDAMEAUycTBBBtEfr2YVct1uXiQnqC+vcVBV9f4LupGwDnua0L3Svtav5Ywr70NJs4phEH+UF20e3b9HOT7fZt3ED7/0NvjKWc2TYw/ECpDJ+cMHWqXqA==;xZQUgHGU5JiGjLEiF9Xqjg=="
 ---

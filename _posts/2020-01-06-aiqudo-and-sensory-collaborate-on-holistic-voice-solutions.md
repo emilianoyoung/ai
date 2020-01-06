@@ -2,25 +2,25 @@
 category: news
 title: "Aiqudo and Sensory Collaborate on Holistic Voice Solutions"
 excerpt: "With their technologies combined, Aiqudo and Sensory will deliver a fully integrated end-to-end solution that combines Sensory’s wake word, voice biometrics and natural language recognition technologies with Aiqudo’s multilingual intent understanding ..."
-publishedDateTime: 2020-01-06T13:01:00Z
-sourceUrl: https://www.bakersfield.com/ap/news/aiqudo-and-sensory-collaborate-on-holistic-voice-solutions/article_2fc19d10-9895-5f09-aa56-404fc475df23.html
+publishedDateTime: 2020-01-06T15:02:00Z
+sourceUrl: https://www.businesswire.com/news/home/20200106005065/en/Aiqudo-Sensory-Collaborate-Holistic-Voice-Solutions
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.8D40839B4AD8F0F2A2A1469CE0CAB450
+    width: 700
+    height: 365
     title: "Aiqudo and Sensory Collaborate on Holistic Voice Solutions"
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "PvXoz6GR8hOxArr79j4ogzICUOJRhFj9mlADs6im1oj0I1kJk6HlYng26NtGyRG8LewYiRD0EdOQE5KG1x7hAJiz3z/eXW7XmsLDsIcVgt/DxVPxCjZjbIJNCzhmRd0stwjpAoIGZ/13yBHaGNd4hGmovBzJOF7WaiCadx9RukESRaLRKAceNT647XSCTYvFhwTloY7/it2dDGEml85P9taAcHem8ey+EZnsyrOH5HjlOq9taBGpclPZuLKZthwMRhs8IgQdb1eIGa4sjssaxA==;9wYYpFhXFOR+C03or3Z8Hw=="
+secured: "iHAODzkkGz76K7AwMgy7UIhPN65QMDXpT6fhtgTXDTns5eXH18a93/7KUqS/TpN02BThN1T6ZCVotils7N/lhbMNFT3Z00R5Q/S0xTrroIgo6kivpQj3fLHLkCnNd0pD5DgmQ+PwwCHDjz1GFD+tXIARbLyQ8Vv+leRec8GSrsiSnzW9jNlJzeuA0yAl4BZPv5PS4DU+XUYriCPOnRwUxaI6gZLua4/VKrFFV1melgi0W+l8h2Hm9TW2fxXA0+zMk12UhaVVOY606f3hm5WtDw==;/7snbnwy8hO3wvVPbDdSOw=="
 ---
 

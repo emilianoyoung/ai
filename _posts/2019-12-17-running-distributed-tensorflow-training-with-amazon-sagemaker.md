@@ -36,11 +36,11 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 56
+    quality: 39
     images:
-      - url: https://res.infoq.com/news/2019/12/aws-sagemaker-studio-ide/en/headerimage/aws-sagemaker-studio-ide-1576565037621.jpg
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.37C7FE7FE3AA5C9E0E2FE207F9D839E1
+        width: 700
+        height: 367
 
 secured: "hMk2CxkA+QIkmC2db4TAt06ic3MtZDnpzcWVY0b+vqHE8kbOFUAAalQg6JYJVItDJ6mE7nu+HLuiynZ1UB6IOYiToc9Ndw7B7qzwojyG3rrX6GbVEH0nrL5zSHkSwvj/YsxwboVrseaEoZRXSl7nIyj+xEoKMQz/V1DKxXlpJa8rB0qxOjGdSIap3XiA5rMmoorJ/mDSDv4XvIMRZZC/4ATOYgRrGq6TLtoEyhJf7Pes2HLFYLdLWtKdoPnPNfi14EHBLkW+/Gg3b9EJCzoyqw==;sRomaygBkFqCA/ny4d5jjw=="
 ---

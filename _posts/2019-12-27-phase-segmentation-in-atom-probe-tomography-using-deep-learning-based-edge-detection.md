@@ -37,15 +37,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-13680-7/MediaObjects/41467_2019_13680_Fig1_HTML.png
         width: 685
         height: 495
-  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
-    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
-    publishedDateTime: 2020-01-01T11:23:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 0
   - title: "A deep-learning technique for phase identification in multiphase inorganic compounds using synthetic XRD powder patterns"
     excerpt: "Here we report a facile, prompt protocol based on deep-learning techniques to sort out intricate phase identification and quantification problems in complex multiphase inorganic compounds. We simulate plausible powder X-ray powder diffraction (XRD) patterns for 170 inorganic compounds in the Sr-Li-Al-O quaternary compositional pool, wherein ..."
     publishedDateTime: 2020-01-03T10:15:00Z

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Bosch to offer lower-cost sensors for self-driving cars"
-excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
-publishedDateTime: 2020-01-02T15:03:00Z
-sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately held Bosch said the internally developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+publishedDateTime: 2020-01-02T15:23:00Z
+sourceUrl: https://europe.autonews.com/automakers/bosch-offer-lower-cost-sensors-self-driving-cars
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+  - url: https://www.bing.com/th?id=ON.AF3F93ACC38BE79CF6038D80599602DC
     width: 700
     height: 525
     title: "Bosch to offer lower-cost sensors for self-driving cars"
@@ -429,6 +429,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "kpE/azUUM9GQrYf6M0sKDt8NuPDYyVSo6fpy3mFjOooRhWpcHiaL4GvHYMh5qLSudo/pVlrbJO5+xsstFqRBK4urBNL3SKGXpSSa6DAASqiRbyZ1tMFoWsvYrNoPWP1GqAQhvzTcYi0q0gdWraRxqeBzf4xCatPlD0Ef9rvHDq2Dm9Pg5pgENSBwJdjwS80RT/ZUKIIGVEjz4D8ycsnFXhPqfURAmhMR68tW1e/JaWgq2oAWCwJgFTV0PlkTVWLVSFcTrO/uDBc5IkQ3FJqilQ==;YUvmA02IdtRx5h9ra/5aHA=="
+secured: "4Ly51wnP0fGwIy9DOka9z+FdbvOT02MAuXtcPD353hqLKcRRL/P30BO0QNj/AQrcWIM4n+v6Tox7jdaOrctoFyAnYfONs78CUIWd7GQ16U+7BPSjPJd/CBRyfdO+FfnsfYnc7AcckbL98PNOplNIwkbh63E2IKEFkal1yp0uCDjTzpB6snr8g3KliK8pLwq77tHhxgois00amV6rokFtrjK53kBXK4cESkuolpzEnUokmM5eXRZV8PfGO38adQZJU+WLJAswvLFdvcJJyqvf/g==;2NiLaJ3cj56v9XS5tghL7Q=="
 ---
 

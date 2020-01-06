@@ -24,34 +24,47 @@ images:
     title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
 
 related:
-  - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
-    excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
-    publishedDateTime: 2019-12-30T16:04:00Z
-    sourceUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/
-    ampUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
-    cdnAmpUrl: https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
-    type: article
-    provider:
-      name: altdriver.com
-      domain: altdriver.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
-        width: 700
-        height: 365
-  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
-    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
-    publishedDateTime: 2020-01-03T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
+  - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
+    excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
+    publishedDateTime: 2020-01-06T15:57:00Z
+    sourceUrl: https://finance.yahoo.com/news/yandex-ante-self-driving-demonstrations-130201069.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 24
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+      - url: https://s.yimg.com/ny/api/res/1.2/1mxmv6tPCtJzA5hXpHp7og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/8U8IJw2s1hwNkJ.7fSivPw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cd9ed8cf63fa5a7bc41c5e977c67cccb
         width: 635
         height: 400
+  - title: "Taking AI to the edge with HCI"
+    excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
+    publishedDateTime: 2020-01-02T09:46:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/taking-ai-edge-hci/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
+        width: 580
+        height: 305
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2020-01-02T16:51:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+        width: 700
+        height: 459
 
 secured: "3m3kNRzCL5xBTW/Wc3s4Nu3n5RcYVEFzCuI382DUoezHw8HGe7/q4LnTW+7n2x9lks+8bC9iRUEtOIZQqcAi8/0O9Opip6fu8GAfCTVS9IZILUgEJ7LNIqk/lH2DEbCziHLqwOKHb/d3OcUQ8oMMswruYhDjZ5oYh04iLyclQkiMi7QjxXegjNs0nG1gkGJqZfQilFp+3r43VhW1Xd1AzOuf0TZ3lyWEMMpiTbySzLOFXTDeabTRYHxRqNWTAQFgZQxETkofX0NMfnqTTBwBZw==;2JSJEzjlfAXXIOUqvB0Xqg=="
 ---

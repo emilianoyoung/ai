@@ -8,7 +8,7 @@ ampUrl: https://www.thestar.com/amp/news/canada/2020/01/02/automation-climate-ch
 cdnAmpUrl: https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/01/02/automation-climate-change-ai-schools-prepping-students-for-jobs-of-the-future.html
 type: article
 quality: 54
-heat: 74
+heat: 64
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.37135C28DA99B703AC3B245AB4EF2013
         width: 650
         height: 433
-  - title: "4 Predictions for the First Year of the Ambient Computing Decade"
-    excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
-    publishedDateTime: 2020-01-03T21:54:00Z
-    sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
-        width: 700
-        height: 363
 
 secured: "5dAuNU/m/Dd30yHQ2KEbjdxkF3k2DHl9Jxy77EKqNip5zrPIMygpURae6mCcpYGteBSkCF6bB7jvjLBWtipKH7vUT9PIE5JsA1ckksjwQxAfxtH9VunXVuN0SN+OOEfH4mWoIDZpMA+WXTH668vCo9/vOWMOnQBqKy9j2cPM5chCN14zy5FGZ3KMNhaRkxYD1vvE2dxyn53dGQ31Ote3S6oSFumzXnxtMFg126zA+V6dXxwMAMIiE6SFSgepaN4dRECh0Tkby7nyeBtGG9RrRg==;5slKkiHmSTcwArFRsPzp6g=="
 ---

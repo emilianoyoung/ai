@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T12:00:00Z
 sourceUrl: https://www.fastcompany.com/90374432/here-are-the-top-tech-trends-of-2020-according-to-top-experts
 type: article
 quality: 124
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Here are the top tech trends of 2020, according to top experts"
 
 related:
-  - title: "8 biggest AI trends of 2020, according to experts"
-    excerpt: "Artificial intelligence is one of the fastest moving and least predictable industries. Just think about all the things that were inconceivable a few years back: deepfakes, AI-powered machine translation, bots that can master the most complicated games, etc. But it never hurts to try our chances at predicting the future of AI. We asked ..."
-    publishedDateTime: 2019-12-17T14:18:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/17/8-biggest-ai-trends-of-2020-according-to-experts/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 71
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design-77-796x417.jpg
-        width: 796
-        height: 417
   - title: "Rise of the machines: 2020 will be a good year for India to teach AI some ethics"
     excerpt: "According to Musk, the ethics are already being disregarded as ‘advance AI’ manipulates social media. He implied that the technology is being to make basic spambots more convincing and effective. And that’s already started to come true in the form of deep-fakes and robotic calls. There shouldn’t be an ‘oops’ moment when it comes to ..."
     publishedDateTime: 2019-12-23T07:33:00Z

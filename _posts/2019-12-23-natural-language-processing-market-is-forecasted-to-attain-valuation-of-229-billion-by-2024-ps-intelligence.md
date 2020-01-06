@@ -190,6 +190,6 @@ related:
       domain: channele2e.com
     quality: 19
 
-secured: "RPlqvoia1z2ybvEDIvpr6bUXPsLgNsnc16afcJy/TzzZJMexuimls+0Y4aADFEhj9Rb6zT9eQZkzea6uYRoY09FuzbDd09DqIPEUgD1iQ4KwSz8B0kak2MJfOUoLhTF3p0kBUh8/q1D6O21Sp+PfTsqNSJIstcrjzLw6zZqw/mwIp4maIrdB472TbQpusdEIt5ucQ/TbJYJTC17Ql4YRnZ406JksTMJq6lOmCqaQURY/F6vqupYllC2JfHZJcOMqYVy6a8bO3uqx+ZuG20mP3w==;W78rsD4ArNm/8UyKZTzEGw=="
+secured: "kPhAstorUPwctjPXClSIbCJ/CfTrGIbVfF+GbhzalTz3spQPWm+b4LAisQLHVLMtvr4XGGJoLNsIEkAWN5z7OJIcz/FfFI5a9J0xJa0t5nuuwvTY4VvEWh/m0TzS/OlRVkwHtq1k1ewVH0PeE8VZW9heBdT1fXDxzFBLoC4PCxC/I1Vg3u6skq4FdU7OSgBUt+TtPbpiL8drp0srTqwvJ7G3G6sl9WX+3vMQ+iN5XeL/M2eVPdJ9zecGB7FjUTINdC6fQwy/u+qd6TewWhCzlQ==;LvJdVKNIt1uSMB0m3i32XA=="
 ---
 

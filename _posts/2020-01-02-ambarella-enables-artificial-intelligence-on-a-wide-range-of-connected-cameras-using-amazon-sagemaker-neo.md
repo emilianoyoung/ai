@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-excerpt: "LAS VEGAS--(BUSINESS WIRE)--Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI ..."
-publishedDateTime: 2020-01-02T10:10:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200102005052/en/Ambarella-Enables-Artificial-Intelligence-Wide-Range-Connected
+excerpt: "They can choose CV25, CV22, or CV2 as the compilation target. Amazon SageMaker Neo compiles the trained model into an executable that is optimized for Ambarella's CVflow neural network accelerator. The compiler applies a series of optimizations that can ..."
+publishedDateTime: 2020-01-02T10:06:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-ambarella-enables-artificial-intelligence-a-wide-range-connected-/2020/01/02/9075180.htm
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
-  - AWS AI
+  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.FE7F6A00B0215F804A1F6FDE87E72069
-    width: 700
-    height: 365
+  - url: https://www.bing.com/th?id=ON.7EB60B054642779B0DC2A74D6884695E
+    width: 480
+    height: 272
     title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
 
-secured: "VCVvYDISMWNGlKijAEcE9ogxL9jXAlslm4e/sFvdJavb0NynjXgC7EPXLoKC/yPGv01TugYA+3MJtFu1k2U+6Mwt/7JZbQcqTbnr7SU8G6QCB8TpJQXCOXRZFaKXPCcdIquiR2yud9Rl/5YnqQnd1bPo23DCznF7xyF16dRXSleTuRIRDKVfYGIWXPcEav8CcshHUd0uydiraWOjZL+xa5ZWwFWY2GUfHSZbykfCQ1YtWxaMF5P6odMssnds3CZ7cY19FhkH0puvMVToNS6IlQ==;RLFQAX2DFBRhFUhE6lreGQ=="
+secured: "HmnkmQ0Zcz+5OwxuUufVmttWmZks5EeiXxAc1gOnrSfmt96HohsfyW0eFMoOeiv7MiuZtfOsRktwROxSyg4hgYKlIOo0pjZEn32O502WuJcwn/V7y9GrQzxlBPgonYPts+CYziiObyVzDqMrWl7pMvzZRx86HyZ+sBBD2zWJKS9k+JogL6eix9Tm0Qv43deICX4tIVcKNTUQzYtz1lb+H5JZYV448BggnEAfXDHvQEz6QDrBfpa9qFi+Vj8wKA3aH5vY8knIIu7P/AHzqW7T4A==;2NAzi1Pk+sHb/YT5KQc40A=="
 ---
 

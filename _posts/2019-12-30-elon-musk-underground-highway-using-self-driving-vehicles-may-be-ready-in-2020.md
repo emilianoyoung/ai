@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
         width: 635
         height: 400
-  - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
-    excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
-    publishedDateTime: 2019-12-31T08:09:00Z
-    sourceUrl: https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-1352167
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.D53B1FDA7388E179F26C13E4763E704E
-        width: 700
-        height: 490
 
 secured: "jmP1MHOKLMG7Xfzax+P5J3MQlKJ3Y5Rn8LuE+cOYaSmtaanqzE6zQEbToaOD3vSA2t9Lcb2rBwtzYdRJS4Of9WiCB84Y3ulmIrZ49Pi8yPz50byw98Y+pLn5VunWdrZpsqTUnpKqLUfsfbB8AmCvof3RYYC9q/v6P3Zlxah2Kft+mzAo51NqyOTjGu/HoAAZJocHwyUcTBhWXJ4Fl61ANknvIxNNTM65K7RjXbZR0OQ64sa530EC9slT+iVyhKD92C/EvMFb9JnAYD/pkoVi3A==;e1pnhFTCQsjgb6kV+tE2sw=="
 ---

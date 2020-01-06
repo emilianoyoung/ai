@@ -5,7 +5,7 @@ excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announce
 publishedDateTime: 2019-12-17T14:22:00Z
 sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
 type: article
-quality: 56
+quality: 39
 heat: -1
 published: false
 
@@ -16,12 +16,11 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: https://res.infoq.com/news/2019/12/aws-sagemaker-studio-ide/en/headerimage/aws-sagemaker-studio-ide-1576565037621.jpg
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.37C7FE7FE3AA5C9E0E2FE207F9D839E1
+    width: 700
+    height: 367
     title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
 
 related:
@@ -39,6 +38,6 @@ related:
         width: 800
         height: 530
 
-secured: "/xv6arQ42Ai59VKSnYvYA0GZvobvlw4efrHhFRFPCnft3Fim9Ibn9DrkBhgwJiQKjoSiE6PiNMnC7Q1cYIGPbTeT1A1F90F/LoXzvbDMLNv3x+wD4kesAqSEO7UG2Qy8OrToaDsGahDpIn1gEO4WbAgF9gqghdWUXgXSTvtWaiauChwRkwHLDllfUtIktEiDwh5XLuRlwmxpfJJuhL56GmvDroXKXSZ1ZT9+26vqcHlZZoWEyUFSCVVXExdv6O1U+qlmhRqQor6aLSp3+HOJHA==;5v9KysGTXwaCTclMLDfY3Q=="
+secured: "H9pmf3+DhSMCERtUFEnftxxX+7FF11iY6xabjZjKA+OPGuk8oo2m818eS+Bn7HuBhddAvRwnrydsuamEbdBiQeMa0ID8SzwJOB6uA/20FRb3El5UJr7h55D6D90MAWBMGKNqgUkEWguYhZQroyGvNjy9k+oouOWo9bNL0WRR7/hL0VbASoi1DiSB1NYCbRwMO+51TL6ia6do/+ebti11WPgeF3iGeoSPZIYB7XIaOBG2olgxEQwMbgTaq55AuzRVyGCmiGI1hwnLwODw24ACwQ==;wEdtcbhUipynOcd+pSmOLQ=="
 ---
 

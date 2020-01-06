@@ -8,8 +8,8 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: India Times
@@ -25,36 +25,47 @@ images:
     title: "Automation, AI continue to offer rich promises to Indian cos"
 
 related:
-  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-    publishedDateTime: 2019-12-30T21:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+  - title: "New Delhi: Automation, Artificial intelligence continue to offer rich promises to Indian cautiously optimistic"
+    excerpt: "The industry is focussing on new-age technologies like robotics, artificial intelligence (AI) and machine leaning to not just help customers stay ahead in the game but also remain competitive themselves. The advent of new technology paradigms like robotics, AI, blockchain and IoT is changing how companies and individuals consume technology and ..."
+    publishedDateTime: 2019-12-31T19:07:00Z
+    sourceUrl: https://www.thehansindia.com/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    ampUrl: https://www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
+    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/young-hans/new-delhi-automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-cautiously-optimistic-594195
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
+      - url: https://www.bing.com/th?id=ON.28463CC873CCE513F02C5E5E6AA8DBD5
         width: 700
-        height: 381
-  - title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
-    excerpt: "Is there time for a better way? Robotic process automation (RPA) uses artificial intelligence (AI) and machine learning capabilities to handle high-volume, repeatable tasks. The benefits of RPA are compelling, including reduced human error and labor, improved data security, integrated data management and higher employee satisfaction."
-    publishedDateTime: 2020-01-01T11:00:00Z
-    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge
-    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
-    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
+        height: 420
+  - title: "Automation, Artificial Intelligence continue to offer rich promises to Indian companies"
+    excerpt: "In a departure from the past, industry body Nasscom discontinued providing its annual growth forecast for the industry -- an important tool to gauge the sentiment of the sector."
+    publishedDateTime: 2019-12-31T07:42:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/automation-artificial-intelligence-continue-to-offer-rich-promises-to-indian-companies/ar-BBYuevM
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 44
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 31
     images:
-      - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
-        width: 900
-        height: 531
+      - url: https://www.bing.com/th?id=ON.1FA51D884B78D31D5C4CB02F1FDAE27B
+        width: 600
+        height: 315
+  - title: "Europe's colocation boom set to continue in 2020"
+    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
+    publishedDateTime: 2020-01-06T09:50:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
+        width: 580
+        height: 305
 
 secured: "ECGyF7jNM0TVXajQyq616pY+HHgxoSdS1+Ktg1/Cf8S16XNQ2boXQerqN0/Dz+pr+4kuQDumZzX+GzGZD4y53ksufxVkLIzp4vgqKlgdhJm1sMnEviIV1vovBAkM/0+TSXvF0iKTgVWZPAZ6M+7Kjc2Q1pHFcusM1l+rnUygCeoVJ6Q+3p72jeMcj0GjTJDitruTK31+KWRA8FSQE/QN5D1kbO4jUi3SVTfDmc8YZ2APB+S0K6bt1S3JSroNsVK8r3RdOEG4kOLVpakj4phv/g==;/JqmoSD1xQMs8wnWWsUYOA=="
 ---

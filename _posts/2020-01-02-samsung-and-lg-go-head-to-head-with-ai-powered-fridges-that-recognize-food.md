@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart-fridge-family-hub-instaview-thinq-ai-ces-2020
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     width: 700
     height: 366
     title: "Samsung and LG go head to head with AI-powered fridges that recognize food"
+
+related:
+  - title: "Samsung and LG are set to unveil AI-equipped smart fridges with food-identification capabilities"
+    excerpt: "LG and Samsung both plan to unveil smart fridge software updates featuring food-detecting artificial intelligence capabilities."
+    publishedDateTime: 2020-01-06T15:41:00Z
+    sourceUrl: https://www.businessinsider.com/samsung-lg-unveil-artificial-intelligence-equipped-smart-fridges-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.4AE77FBDB151ECE004630163A3BF5889
+        width: 700
+        height: 350
 
 secured: "60lQEjsfsS8aO0MdNzXiSaUWEsJUGCAkbDLsfoOH950Q7gcqCiU6WilqVBLUlfGrnrKbv4xoyJ1kBUxnWP5DacUXmwQ2g2GbintuCWQn/gEf99757gwHXHZyEFLtFVQP60WkUahKAZD8A1j9zsFC4RUZbS5Lc1hAV16jx+Cp60Xb9BrnOVO7z1O6b1c6VXqNq4oz4La9a0fkf6KYB2W2W6LVmEdEzAjrJXsZO+PlGw5ZpnVpstBMcXnqnthmMYpYOZPev8SZrsrcoyD+lw3X9w==;JXSh8h9wu6q1PpbixJjlFw=="
 ---

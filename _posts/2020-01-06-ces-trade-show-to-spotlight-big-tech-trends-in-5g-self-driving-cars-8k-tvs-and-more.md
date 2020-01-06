@@ -341,16 +341,16 @@ related:
         width: 600
         height: 315
   - title: "Bosch to offer lower-cost sensors for self-driving cars"
-    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
-    publishedDateTime: 2020-01-02T15:03:00Z
-    sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
+    excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately held Bosch said the internally developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+    publishedDateTime: 2020-01-02T15:23:00Z
+    sourceUrl: https://europe.autonews.com/automakers/bosch-offer-lower-cost-sensors-self-driving-cars
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
+      - url: https://www.bing.com/th?id=ON.AF3F93ACC38BE79CF6038D80599602DC
         width: 700
         height: 525
   - title: "Bosch teases low-cost lidar sensors for self-driving vehicles"
@@ -429,6 +429,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "/k3VXI9+iB0ruteIs/iqyJuX4+3VD5EP6RmdL3yjmBkzHXqTvTWiWF/ZEjWFWmuIlyj54SrarMUM0jYEX9rnH6qeY3HpyAJMHloXSTL/MFl/F9PUOTc82UqwL+NYwKUVuWopqtpaEUYLrPtqgJAhpP+EG1Ms8SnOsKd8RNHqhJqUmqn60tmfSvqfHVs0ECcPVo9tDXYCFIse4FyTihjUYZVTSBK8Z8gkRBly2wIBiQ1qj0Fm4xIWKB0I/a7eCZ7kelzbG6a0yQykAhBQiAy6eQ==;89sJO4h7Oy95eKDwjE/txw=="
+secured: "wHguXciUPWS4i23A0Kdnqr85kkTj7t+Ht/FsjdKP9+8O5pz6mn+BF3s3y/Ys5jEHLxCSjSDHj6jHWEjhKxf5QvNHOemArx67Mprlb7mj0M1zpktan6Q5Z8+XBEb7bAo+lTJT3CUg2BFqjtI6xHkZqRpG9x/dbYtXLss5AqUoV22y6Ny7RtD0SdD23C2M8sWi2rdF9HqX72A5mujlVNMdAXt8RMXFvCbyb0O00jnfbo0Z+3ePWomAhSElTETJg4Y+qYuy3Ol/WcWSz8mp3jl/0Q==;i4mLLnsxEfLcCZjXo3cKbQ=="
 ---
 

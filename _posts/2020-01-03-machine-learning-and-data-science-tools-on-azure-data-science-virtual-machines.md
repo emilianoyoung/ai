@@ -27,6 +27,21 @@ images:
     height: 400
     title: "Machine learning and data science tools on Azure Data Science Virtual Machines"
 
+related:
+  - title: "Predictive Data Science for Physical Systems: From Model Reduction to Scientific Machine Learning"
+    excerpt: "In this Invited Talk from SC19, Karen Willcox from the University of Texas presents: Predictive Data Science for Physical Systems: From Model Reduction to Scientific Machine Learning. Achieving predictive data science for physical systems requires a synergistic combination of data and physics-based models, as well as a critical need to quantify ..."
+    publishedDateTime: 2020-01-06T15:34:00Z
+    sourceUrl: https://insidehpc.com/2020/01/predictive-data-science-for-physical-systems-from-model-reduction-to-scientific-machine-learning/
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 26
+    images:
+      - url: https://www.bing.com/th?id=ON.F624BAA4EF040038CC2160A90B2E5D07
+        width: 700
+        height: 576
+
 secured: "BARQQsRuTaRtQNERy+aNPoIeqddSn2mjcrPlmrf6UBo0xzDpRN/prLSsJhUz4PW+FYZOdqC7jzTGTGbPnH9pZmKdjM7y0dvHQiJOcYC303GfMRBpXYh1UmyfL1AuFY/DpiDCT4x7EapvaBCCiugVamDn92chQF3/5kVrg50pNooezoD31SKFw0SRZQEaRjuYMc+9m/9A7t1g/QDY1/9WMs7+7XYdLpcenzZxZt5/iFEbsEABNb7a59CeMrVX4mVnlLusAfEc4GaLj8DiJuSr7w==;xhmrdKLnOynlxsUWfo6bfA=="
 ---
 

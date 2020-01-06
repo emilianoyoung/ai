@@ -18,45 +18,30 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Phase Segmentation in Atom-Probe Tomography Using Deep Learning-Based Edge Detection"
-    excerpt: "Alternatively, edge (contour) detection has been significantly improved with deep learning approaches 18. A supervised learning approach is used for edge detection, wherein each pixel is labeled as either edge or nonedge. This approach is slightly different from semantic segmentation in that there are only two classes (edge and noedge ..."
-    publishedDateTime: 2019-12-27T10:16:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56649-8
+  - title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
+    excerpt: "Is there time for a better way? Robotic process automation (RPA) uses artificial intelligence (AI) and machine learning capabilities to handle high-volume, repeatable tasks. The benefits of RPA are compelling, including reduced human error and labor, improved data security, integrated data management and higher employee satisfaction."
+    publishedDateTime: 2020-01-01T11:00:00Z
+    sourceUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge
+    ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
+    cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.D3A8A5347AA02C88AC781956FC1C507A
-        width: 685
-        height: 325
-  - title: "The METLIN small molecule dataset for machine learning-based retention time prediction"
-    excerpt: "To demonstrate the utility of this dataset, we deployed a deep learning model for retention time prediction applied to small molecule annotation. Results showed that in 70\\(\\%\\) of the cases, the correct molecular identity was ranked among the top 3 candidates based on their predicted retention time. We anticipate that this dataset will enable ..."
-    publishedDateTime: 2019-12-20T10:33:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13680-7
+      - url: https://www.retailtouchpoints.com/media/k2/items/cache/9d938d8abba7a40b7e0a8e884db372b2_L.jpg
+        width: 900
+        height: 531
+  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
+    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
+    publishedDateTime: 2020-01-02T07:03:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 31
-    images:
-      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-13680-7/MediaObjects/41467_2019_13680_Fig1_HTML.png
-        width: 685
-        height: 495
-  - title: "A deep-learning technique for phase identification in multiphase inorganic compounds using synthetic XRD powder patterns"
-    excerpt: "Here we report a facile, prompt protocol based on deep-learning techniques to sort out intricate phase identification and quantification problems in complex multiphase inorganic compounds. We simulate plausible powder X-ray powder diffraction (XRD) patterns for 170 inorganic compounds in the Sr-Li-Al-O quaternary compositional pool, wherein ..."
-    publishedDateTime: 2020-01-03T10:15:00Z
-    sourceUrl: https://www.nature.com/articles/s41467-019-13749-3
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
+      name: Australian Techworld
+      domain: techworld.com.au
     quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.A785F07930421FDB9513533F79FC4DAF
-        width: 685
-        height: 336
 
 secured: "5fXNJkD7kkKAAkIn46TlKtCZn3IRW47DcgpaNiGO+6/of9VfWmZJxCJcapoKJ4IGk8raXf913GeTYHthQkFItqtVO04zXzgl7IsNkWMMuN5pGABVKoJ+Jnk62FyigcVEF79LAJYQnCsCv0s5+Io9e2jnWfPfVPqlTxOVANC1dssXMTjYeJF/e74acBIEscJLiilCJoMMUFgivv1EUJ9qHOn7ILCqy9oHejOEjKHpOeEBGiDW0zdklQYeAoanUiSLASJtm1X51av3MdBdotPU3g==;MY70IKd3pmu0+TB0/a2uXA=="
 ---

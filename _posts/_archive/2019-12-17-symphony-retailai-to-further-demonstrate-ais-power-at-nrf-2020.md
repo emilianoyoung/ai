@@ -28,6 +28,6 @@ related:
       domain: yahoo.com
     quality: 19
 
-secured: "yUlJTWG3h3Zyiw0dHSq+heszceJevK9oOO6x9gF6xPiJ9epixrVBu80m+RISUAv+fjMjDqpj2xrqSeBCm9bMr1eIPLjlBmybfe2uvCCjaYu9fqwfo9Vo135FLX1UH8gqAy4jR3uGU4XshUKG6FpR9AXFtqeRFnhH25vrzxZaD9z+OatE5YhS858dgYG2nq3Q3ceMOO/DSW9NACfezanFwy4a4JRHTFB5ugVzkFYVWPsXNG+vLjLYhTyJ2N+0HA5QptszIESN/7czpUy2Vvv1dA==;a4GqR6GqEXcwuuzkME/4ng=="
+secured: "PXnzPw2dXT/XeKxJKECaTANBHBKlEKBctm4eXsb/X3NYfbN/p9FYci/1YWf3NGRUJw4QOGFps62GyeyM8RmLbRhk2ygxewFH46wNM9xZPZSpxwBhmebtf0IsgkWEEiYW6uEkjpcGVJOERdpb6fJdQav0LJuEe6bsQpccRsrsZDXPRgxJTQC6dIqN+NWRlml4ZAbjMbn0jsMhn6tTph8SsVGmqaCYZcZJXBIr6GCh9OaCrDP4HWammxRc33ljLDlkpZcsLxv0lBrNRlZZTrmlpA==;j4BCEXjDhA/DLtmZWZszIA=="
 ---
 

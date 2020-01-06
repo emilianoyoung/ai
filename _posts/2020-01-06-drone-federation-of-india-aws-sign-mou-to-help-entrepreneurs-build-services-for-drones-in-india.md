@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
         width: 700
         height: 393
-  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
-    publishedDateTime: 2020-01-06T13:56:00Z
-    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
-    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
-        width: 600
-        height: 338
   - title: "Amazon’s Cloud Arm to Accelerate India’s Drone Ecosystem: DFI"
     excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
     publishedDateTime: 2020-01-06T11:42:00Z
@@ -71,21 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B037A958CDA8419711760C36ED81C656
         width: 700
         height: 518
-  - title: "Amazon’s Cloud arm to speed up drone innovation in India"
-    excerpt: "“AWS was a natural choice for us, which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, said. The industry body signed an MoU with AWS at the ‘Drone Festival of India 2020 ..."
-    publishedDateTime: 2020-01-06T10:21:00Z
-    sourceUrl: https://www.thehindu.com/sci-tech/technology/amazons-cloud-arm-to-speed-up-drone-innovation-in-india/article30493408.ece
-    ampUrl: https://www.thehindu.com/sci-tech/technology/amazons-cloud-arm-to-speed-up-drone-innovation-in-india/article30493408.ece/amp/
-    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/amazons-cloud-arm-to-speed-up-drone-innovation-in-india/article30493408.ece/amp/
+  - title: "Amazon's Cloud arm to speed up drone innovation in India"
+    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+    publishedDateTime: 2020-01-06T10:54:00Z
+    sourceUrl: https://www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india-11578306083845.html
+    ampUrl: https://www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india/amp-11578306083845.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india/amp-11578306083845.html
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Mint
+      domain: livemint.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.57107AB449ED20CC8EAC258797FD8C57
-        width: 615
-        height: 384
+      - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
+        width: 600
+        height: 337
   - title: "Amazon’s Cloud arm to drive drone innovation in India (Lead)"
     excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
     publishedDateTime: 2020-01-06T10:43:00Z

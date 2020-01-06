@@ -50,15 +50,6 @@ related:
       - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-019-13680-7/MediaObjects/41467_2019_13680_Fig1_HTML.png
         width: 685
         height: 495
-  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
-    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
-    publishedDateTime: 2020-01-01T11:23:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
-    type: article
-    provider:
-      name: C&EN
-      domain: acs.org
-    quality: 0
 
 secured: "RCiYg3xGK8dJ9jCTXzOv+t8DsLLP9P80aK2VZ1HAL9PpzOs4Gb0mNGGVmuM74sJWsxPD6K72MU+L3oZSRtUk6syQUli/0+1kdgzaBkh6yBksL2QWrixON10M5sZXxVN4vU+4a+LFWl/x2HIL2ijNw11d6689RXEGl0v04CtPhPdZnBlvLxVlJszmWd7FnVaKTL9l4m6vhPWa2c4YdYKdCnZUSIfj7fs1mcpXw/fTC/OacM5Ei6+WDnsYjrpHfyq//karJWSDcOrzThbPBKpktA==;WQBpiwGktc0qOvsUXXy1xQ=="
 ---

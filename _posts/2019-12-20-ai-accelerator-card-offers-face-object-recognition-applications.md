@@ -46,21 +46,6 @@ related:
       name: BuzzFeed
       domain: buzzfeed.com
     quality: 106
-  - title: "Oto raises $5.3 million to improve speech recognition with intonation data"
-    excerpt: "Partly responsibly for the adoption is the increasing sophistication of automatic speech recognition systems, the best of which recognize speech with accuracy matching or exceeding that of humans. But in spite of this, there’s been comparatively little work in intonation classification, which by one measure could reveal 5 times as much ..."
-    publishedDateTime: 2019-12-17T15:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/
-    ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/5c900944d6de5e1a803719c3_SoundBars-e1575343764738.png?fit=1198%2C599&amp;strip=all
-        width: 1198
-        height: 599
   - title: "Is Valley Fair mall’s security robot using facial recognition?"
     excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
     publishedDateTime: 2019-12-20T18:55:00Z
@@ -491,15 +476,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 2
-  - title: "Acuant on Track for Record Year, Citing Double-Digit Revenue Growth and Continued Industry Recognition"
-    excerpt: "2019 saw the launch of new products including Acuant Face™, which offers three classes of biometric facial recognition to catch even the most sophisticated fraud when it comes to image spoofing and video replay; Acuant Review™, manual review when you need 100% certainty in real time; and InfinitID™, the plug and play solution with scanner ..."
-    publishedDateTime: 2019-12-17T14:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/acuant-track-record-citing-double-140000237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
     excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
     publishedDateTime: 2019-12-24T14:37:00Z
@@ -519,6 +495,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "x4hwv1+SM1frAHMDCWdH3lGaioEL0+pTDDPuOupDOsMfe9cfNhyFVgYCyZGMDn78ujl9G65gH5u2QC7sdRyyhV8zHuG0pNqEKGMTc/bzBPyx+VYrZc+ALx09m6zxo4+jaQzwv9eFyHzHqC06FysFoE6zKS0ujLXjq/PSKEgQwXaDqz6fyqGGUS8QeNQ9q6lQRbL1ecG0m/fP+OybvMJLSccVyC40VuRpbKc4i7XbBWmvcjo42n0qXHEjGU+lelGAr8Qe3oSo+mqHS4H7kaZ2Ng==;sJq+0/znbckvG/RJbVIFWw=="
+secured: "ZqYDcTAxzeETTQkWy24phk2Usy8YVS0ZjX0iwnlPylX2qLPZRPObxrzPQCKDDM6ASU0GhbisZbdpM39UhyQg5BYs8LBQVnpRUkF1VLWydaRHQK9fT2BWbnRT2mTZelHJuynxvEoRZNm6c+D7TaosJW9N6pThZDgd07Wm8LcMbkpIMtfK17sHT4uxdCPUH9HjEMMCOkWQx9sLMrjRdJphgy/A+nfrLJiQlvw9lfyVW9uH2SJF4PFHnEH0aVMqhu2qXR3O8njNC51FzAL0m/DvfA==;HXEHVSWhEsKCBthoUXnzyQ=="
 ---
 

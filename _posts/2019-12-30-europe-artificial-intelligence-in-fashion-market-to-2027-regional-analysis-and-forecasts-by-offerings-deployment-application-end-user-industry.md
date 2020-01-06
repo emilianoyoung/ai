@@ -19,193 +19,276 @@ topics:
   - AI
 
 related:
-  - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
-    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
-    publishedDateTime: 2019-12-30T02:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
+  - title: "5 open source innovation predictions for the 2020s"
+    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
+    publishedDateTime: 2019-12-30T17:24:00Z
+    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / News, Demand And Opportunity"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2020-01-03T11:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-news-demand-and-opportunity-2020-01-03
+      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
+        width: 700
+        height: 525
+  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
+    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
+    publishedDateTime: 2019-12-30T21:04:00Z
+    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
+        width: 700
+        height: 381
+  - title: "Top five projections in Artificial Intelligence for 2020"
+    excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
+    publishedDateTime: 2020-01-04T17:46:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
     quality: 61
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-27T09:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
+      - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
+        width: 414
+        height: 364
+  - title: "Healthcare in 2020: the era of digitization"
+    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+    publishedDateTime: 2019-12-31T10:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+        width: 700
+        height: 379
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
+        width: 600
+        height: 338
+  - title: "5 top tech predictions for 2020 and beyond"
+    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
+    publishedDateTime: 2019-12-31T11:04:00Z
+    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
+    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
+        width: 640
+        height: 427
+  - title: "The Top Ten Fintech Predictions for 2020"
+    excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
+    publishedDateTime: 2020-01-02T21:47:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/
+    ampUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
+        width: 700
+        height: 525
+  - title: "How the cloud fits into the future of healthcare innovation"
+    excerpt: "At the same time, cloud providers, such as industry leader Amazon Web Services (AWS), continue to invest in industry-specific infrastructure ... push us to think like for-profit companies and embrace innovations such as machine learning, artificial intelligence, augmented reality, and others. This is the future of healthcare."
+    publishedDateTime: 2020-01-03T20:49:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/how-the-cloud-fits-into-the-future-of-healthcare-innovation
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 41
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
         width: 1200
         height: 630
-  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 Size, Growth, Trends And Forecast"
-    excerpt: "Dec 30, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
-    publishedDateTime: 2019-12-30T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-size-growth-trends-and-forecast-2019-12-30
+  - title: "Legal Tech's Predictions for Artificial Intelligence in 2020"
+    excerpt: "My mental picture of C3PO projecting a hologram of a case file has not yet come true, and I must confess that I’m a bit disappointed. OK, I know that’s not what artificial intelligence is all about. In the past decade, we have seen AI’s legal applications grow from primarily technology-assisted review in e-discovery to encompass ..."
+    publishedDateTime: 2020-01-06T12:19:00Z
+    sourceUrl: https://www.law.com/legaltechnews/2020/01/06/legal-techs-predictions-for-artificial-intelligence-in-2020/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
-    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
+      - url: https://www.bing.com/th?id=ON.B5C2FB48FB9B0EB28D7CCB1F0774F2B6
+        width: 620
+        height: 372
+  - title: "UK data science and AI predictions for 2020"
+    excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
+    publishedDateTime: 2019-12-30T08:06:00Z
+    sourceUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 39
+  - title: "20 AI Predictions for 2020"
+    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
+    publishedDateTime: 2019-12-31T01:31:00Z
+    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
-    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
-    publishedDateTime: 2019-12-31T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
+      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
+        width: 300
+        height: 231
+  - title: "AI Chatbot Technology Predictions for 2020"
+    excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
+    publishedDateTime: 2020-01-05T03:18:00Z
+    sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
-    excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
-    publishedDateTime: 2019-12-26T12:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-in-education-market-2024-outlook-analysis-major-company-profile-analysis-google-ibm-pearson-microsoft-aws-2019-12-26
+      - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
+        width: 300
+        height: 300
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-23T07:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
+      - url: https://www.bing.com/th?id=ON.73B20EFAAA42242C57DF92986FB9B9D7
+        width: 700
+        height: 379
+  - title: "5 Innovations That Will Dominate CES 2020"
+    excerpt: "Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 will be smarter ..."
+    publishedDateTime: 2019-12-30T17:05:00Z
+    sourceUrl: https://www.stamfordadvocate.com/business/article/5-Innovations-That-Will-Dominate-CES-2020-14939244.php
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
-    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
-    publishedDateTime: 2020-01-03T10:02:00Z
-    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
-    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
-    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+      - url: https://www.bing.com/th?id=ON.7EF7248F8532344F8063650971365353
+        width: 700
+        height: 466
+  - title: "The predictions for 2020 we got horribly wrong"
+    excerpt: "You're late for work because you forgot to set the alarm clock embedded in your forearm. Rushing out of bed, you give your family members, located thousands of miles away, a quick virtual hug, and hop into the car -- ordering your ape chauffeur to step on it."
+    publishedDateTime: 2020-01-01T11:20:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/the-predictions-for-2020-we-got-horribly-wrong/ar-BBYw4g7?li=BBnbfcL
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 34
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 24
     images:
-      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
-        width: 1000
-        height: 667
-  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
-    publishedDateTime: 2019-12-31T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
-    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+      - url: https://www.bing.com/th?id=ON.2D468252FD1CFBCA0AE851774E06041A
+        width: 600
+        height: 315
+  - title: "4 Predictions for the First Year of the Ambient Computing Decade"
+    excerpt: "Here are the four emerging developments I think will have the biggest impact: 1. Edge processors with artificial-intelligence engines Putting processors with powerful neural-network compute accelerators in smart speakers, smart displays, security cameras, and other Internet of Things (IoT) devices will make them faster, more reliable ..."
+    publishedDateTime: 2020-01-03T21:54:00Z
+    sourceUrl: https://www.electronicdesign.com/industrial-automation/article/21119718/4-predictions-for-the-first-year-of-the-ambient-computing-decade
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
-  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-27T09:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
-    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
-    publishedDateTime: 2019-12-24T06:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
+      - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
+        width: 700
+        height: 363
+  - title: "Cloud computing predictions for 2020"
+    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
+    publishedDateTime: 2020-01-06T08:52:00Z
+    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
+      name: Computerworld
+      domain: computerworld.com
+    quality: 24
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
-    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
-    publishedDateTime: 2019-12-24T11:27:00Z
-    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
+  - title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
+    excerpt: "Despite global investment in fintech dropping in 2019, investment in the UK nearly doubled to approximately ... Companies on this year’s list of innovative start-ups span security, wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems."
+    publishedDateTime: 2020-01-06T11:04:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The global NLP ..."
-    publishedDateTime: 2019-12-30T13:19:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191230005197/en/Global-Natural-Language-Processing-NLP-Market-Size
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
+    publishedDateTime: 2020-01-03T14:44:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Electronic Engineering Journal
+      domain: eejournal.com
     quality: 9
     images:
-      - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
-        width: 700
-        height: 365
-  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
-    publishedDateTime: 2020-01-01T00:08:00Z
-    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
+        width: 512
+        height: 512
 
 secured: "okyAOKfexh2rMyvrctEuY3sAqDaxHc9I6vBmRB9Nave+AqOJVJpQYcX+uE1+6GGsjCvCshiTC1j0Q6qd/yVG4Nr/ECJYi+wIXhWyfdEIA73+C08mOEe6tCb6t/Tc8qlG8Cozzud1KDB3B6wR+L4NotqhFi5nRP/pM4Nrp7YPQxvaQcMWV7vxEFB/3SSespfBhRRxqwyKDRcCsiN6w8yCtiMN8mT8m89BM0ohu+kWiawnGq41o1JJaVcBodSdK8ZLQOKsg7cl5G8Vldj/LnXzNg==;w85+wrscUdDytR96OGNHCg=="
 ---

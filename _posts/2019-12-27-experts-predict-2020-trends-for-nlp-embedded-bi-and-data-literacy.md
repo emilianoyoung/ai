@@ -52,43 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D656BD9E1815D67532F7B9303D12D58
         width: 700
         height: 367
-  - title: "UK data science and AI predictions for 2020"
-    excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
-    publishedDateTime: 2019-12-30T08:06:00Z
-    sourceUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3505822/uk-data-science-and-ai-predictions-for-2020.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 39
-  - title: "20 AI Predictions for 2020"
-    excerpt: "The machine learning ecosystem grew quickly in 2019, with an abundance of tools to help data scientists create AI applications. In 2020, we’ll see AIOps grow to help manage this tooling explosion, predicts Wilson Pang, CTO of Appen. “Large companies, like AWS, GCP, and Microsoft Azure already have good tools to support AIOps, but many ..."
-    publishedDateTime: 2019-12-31T01:31:00Z
-    sourceUrl: https://www.datanami.com/2019/12/30/20-ai-predictions-for-2020/
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.538075A9B4AA9BF2A45D51FB93A6DE57
-        width: 300
-        height: 231
-  - title: "AI Chatbot Technology Predictions for 2020"
-    excerpt: "“This is possible because of AI-driven technology that helps machines understand and interpret human language as it is spoken. Natural Language Processing (NLP) is component of artificial intelligence that aide in the analysis of human language. 2020 will usher in the practice of voice-support platforms using NLP and AI-based conversational ..."
-    publishedDateTime: 2020-01-05T03:18:00Z
-    sourceUrl: https://insidebigdata.com/2020/01/04/ai-chatbot-technology-predictions-for-2020/
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E815690EB1E676D2F3673D901D41966B
-        width: 300
-        height: 300
   - title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
     excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
     publishedDateTime: 2020-01-03T01:31:00Z
