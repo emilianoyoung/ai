@@ -448,19 +448,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T08:07:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z

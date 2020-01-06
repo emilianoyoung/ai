@@ -63,21 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
         width: 700
         height: 393
-  - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
-    excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
-    publishedDateTime: 2019-12-17T08:15:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL.html
-    ampUrl: https://m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
-        width: 700
-        height: 393
   - title: "5 Machine Intelligence Trends Of 2019"
     excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -252,13 +237,13 @@ related:
         width: 1200
         height: 630
   - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-    publishedDateTime: 2019-12-23T12:02:00Z
-    sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
+    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
+    publishedDateTime: 2019-12-23T08:43:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 14
 
 secured: "sSnSi8IurbH9nGuDpLh+QEa+Dx+iOe/zyJq/xJrYI0XYxOAY+zTnV57xBJsAb86Fy2DQar42m5ydUxs9wB3o4QfHZYnf3VoP2JGIL4qlGlKMNOKoJMV0aPdRKdAQJr8e8Z6vwhaw3/uKy7mpGh8MlZHLm3m6tTRvhitBFolvH3quYfXz+OM941J7T4wfTwePaCwd99Pke5iw3RJG7FowKdyqTdZoekJfAFuCQ++CmUJQX6SP8vJRBTn/vF4jjF3+ia+pad5iYUAg/uoN+XsKMA==;wJSzhuseeo9FcQJZ8vD2Hw=="

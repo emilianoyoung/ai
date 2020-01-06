@@ -108,19 +108,6 @@ related:
       - url: https://insidehpc.com/wp-content/uploads/2019/12/sriram.jpg
         width: 1010
         height: 1003
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market: Key Facts and Forecast Predictions Presented In 2020"
-    excerpt: "Dec 17, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-17T08:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-key-facts-and-forecast-predictions-presented-in-2020-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "MGE4b6DzgP/44MjITCNbkw3NDM1Dnqi+JCX6Li9HNIukN5NmrMtk4kHO/O6p5D6wDSqfH1JTpsquOaRYYBYkmUN+HibaLvsB/Kk8f+c4VhjFFZSuYAIkKf2OFqQr/7ehhlUWQHkJUAKaYgI1bVXhzz45pRuT8jmIqbMBp/98uFYVOtS20YrBuuqoy2ELLS+j6XD4fqImLC+SxthI9AG75l4CBTYHV7jj4TLDg0t/il2fLzfCmgPxhQbOUWPHbCNVComiK2oq0KZkgw32Aq42OA==;lltzoUrc+IFPanwhbx9aSA=="
 ---

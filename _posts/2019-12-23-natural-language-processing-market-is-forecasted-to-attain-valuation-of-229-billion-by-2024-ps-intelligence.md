@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024, exhibiting a CAGR of 19.7% during the forecast period (2019–2024). The BFSI industry ..."
-publishedDateTime: 2019-12-23T12:02:00Z
-sourceUrl: https://finance.yahoo.com/news/natural-language-processing-market-forecasted-084010631.html
+excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
+publishedDateTime: 2019-12-23T08:43:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -61,21 +61,6 @@ related:
     quality: 74
     images:
       - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
-        width: 700
-        height: 393
-  - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
-    excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
-    publishedDateTime: 2019-12-17T08:15:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL.html
-    ampUrl: https://m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/intel-buys-israeli-startup-habana-labs-that-makes-chips-for-ai-apps/story-hTBKPH3SCg3vW42Tt6LiTL_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.6257571D4925C083503B6E8A8918AD25
         width: 700
         height: 393
   - title: "5 Machine Intelligence Trends Of 2019"
@@ -261,6 +246,6 @@ related:
       domain: channele2e.com
     quality: 19
 
-secured: "B32zH3ihpdqHfbIH+DrfQh3CJAnf/CKB4rp/qdvejNXxrXJgCtHMX5HZLhpdwqJJThT873fC8orE8DXrT1dfog01b0IVlupHnKuS/zT6ZTBp4Nv6Mau3w6iS2bqDOO/MEB1L5LrWJEs9cZd5OwPffdjGFAWsN1cVcjEiheC5IrxDMh5B41AAXfOCOYv1GMAZNQFE+EcC2rFM0R7kqsiWPuwqysV9b9i8iuJP1iq8yZlTg/a2bAgJEm0ge4MFgA+9CBGC0yMPPxkhcbP0msXhKw==;oFGO53ZClNgnFNYSRYr/nw=="
+secured: "xfCAyw56d11V5nCqCK5i9TNkmS845EcUOP1FLG2Aap1tqcHdS1pzhhKQ0boh85RtzK19/FwtGIOKIqc8+Oah+/GEbQ2hXTTpY6AYsSEjfvIOqDevPq6FiWrfnq8ZjArYSJ3jj3OUJrWEwNrzEk++MlGZjzj1+7z9YM6eqmGsZ0Xm1BdpXbk1GW7GcVwO7HH1X/5g+dlX22t9eHztjhkDQ9/OPOpy3Ag/OdK7DFObfFnpievk/OW/7yi11mgm7qWdHkF8bRg6dFTXICzBcAagLA==;dJ8d4w0PvebsiXAvmnsulA=="
 ---
 

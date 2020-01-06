@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
         width: 700
         height: 466
-  - title: "The Perils and Promise of Artificial Conscientiousness"
-    excerpt: "Some within the AI community are already addressing these concerns. One of the founders of DeepMind cofounded the Partnership on AI, which aims to direct “attention and effort on harnessing AI to contribute to solutions for some of humanity’s most challenging problems.” On December 4, PAI announced the release of SafeLife, a proof-of ..."
-    publishedDateTime: 2019-12-17T09:00:00Z
-    sourceUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/
-    ampUrl: https://www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-the-perils-and-promise-of-artificial-conscientiousness/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: https://media.wired.com/photos/5df7f84da6a5350008a5619f/master/pass/OpEd-DOTA-1162864293.jpg
-        width: 2400
-        height: 1800
   - title: "Making best use of Big Data and AI: There’s nothing artificial about people’s health needs"
     excerpt: "A new EPHA Reflection Paper explores the potential of Artificial Intelligence (AI ... The paper proposes to look beyond the hype by taking a level-headed, public health friendly approach to AI’s expansion into the healthcare sector. It is key that AI and related technologies serve the needs of their end users first and foremost ..."
     publishedDateTime: 2019-12-20T13:52:00Z

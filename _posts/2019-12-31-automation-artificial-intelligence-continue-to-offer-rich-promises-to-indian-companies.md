@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.28463CC873CCE513F02C5E5E6AA8DBD5
         width: 700
         height: 420
+  - title: "Europe's colocation boom set to continue in 2020"
+    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
+    publishedDateTime: 2020-01-06T09:50:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
+        width: 580
+        height: 305
 
 secured: "3bhdLYs//NXVGnJ24iUPE0gv3+GIngT8qY9J/jNL5tp3WmM2nDLKx/yHbWrqfQyrwLRIRwShzzPBxqhp5caOfEHW5GNWrcmw63HZKpW8H7/UF+oZZTbFX8GLlNw/MYmqKy4SKYfZz61GcDsy+pbiTxlPZs3r35yRs0SuBDs2Elqh6PPMd1M2e7swyIalEeTKCoLUhst173oMgXSOcNdxFTmsemfJ4vFgXXH0nr4pVrVArGM52UnYtNaF3OE+bvOiDg26aCxsxZj2cLHXaCP6XA==;JbBuF7nEWQoM+qxWBw0wpQ=="
 ---

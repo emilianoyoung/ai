@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8F999134A63886244BA20E4244726174
         width: 600
         height: 400
-  - title: "Keywords Studios Buys Machine Translation Provider KantanMT for Up to EUR 7 Million"
-    excerpt: "Keywords Studios, the Ireland-based, London-listed technical services provider to the video games industry (including game localization), on December 17, 2019, announced the acquisition of fellow Dublin-headquartered machine translation company KantanMT, which trades under the name Xcelerator Machine Translations Ltd. Keywords is paying a total ..."
-    publishedDateTime: 2019-12-17T09:04:00Z
-    sourceUrl: https://slator.com/ma-and-funding/keywords-studios-buys-machine-translation-provider-kantanmt-for-up-to-eur-7-million/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 33
-    images:
-      - url: https://www.bing.com/th?id=ON.20F5B3C4753B3B877BF87B9755739721
-        width: 210
-        height: 297
 
 secured: "2XruhmFBBeA4tyg3y8O6ExjZnuwidKhwOn91c5T7KjnMVv693+kRTnzIWEycfGqXYQfWqpDspzxInE37JT4lVPqfUPPMNbO4Ztz6ifb5o8sJw7WHsdFT0Vq/uFF7RpacmyktcP+I/RL3YtLgqSd6UyeUvWTQmvEiKVY0pk2g229AF9yPQw7VshtpFd4oN18MIlGjcQbzMqoFbyPb6qMD+m8BU+7vBa1Nsiz+M/y7O09J3n+I78Coz98Mq0siXq811qIwPp23Js2k2B7/85P3QQ==;e/C2tmwuEmqUnh+qn/KvgQ=="
 ---

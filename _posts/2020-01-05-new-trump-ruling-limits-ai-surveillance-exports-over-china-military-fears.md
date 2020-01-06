@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/zakdoffman/2020/01/05/new-trump-ruling-limi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/01/05/new-trump-ruling-limits-ai-surveillance-exports-over-china-military-fears/amp/
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -68,6 +68,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
         width: 700
         height: 366
+  - title: "US restricts exports of AI for analyzing satellite images"
+    excerpt: "U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere."
+    publishedDateTime: 2020-01-05T19:45:22Z
+    sourceUrl: https://www.msn.com/en-xl/finance/topstories/us-restricts-exports-of-ai-for-analyzing-satellite-images/ar-BBYEmGP
+    type: article
+    provider:
+      name: Associated Press on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8D5C5FC9836659E3FB10945D52CD5671
+        width: 700
+        height: 367
 
 secured: "coLViHuysnxV0gFOfNuwHzY00+dnt6toPUUw5XGdFH1A6i4qkexR2S0PBbXumzG9hpzVbx5uHD8Skbe82jbFsp1GsCAImh6gSn94cGXtrmIJSYX7NothYBVqfZ2tTsaY1BCIZSOkjLhM2W/1SoaOpse5Jy9ggwj6xXlIeRj1PUZGT8px3mGCMScVp6cYMLnmgvNuuS4oIshfr6oMbxUEyduMP/F4Msz76IUg8s+uk1IVMmfmdGxnGyUKBuvrcD7ui3RGuTIRYFMdIcVMRIkBxg==;oTt53UMfSLM3Qh/eM02iNQ=="
 ---

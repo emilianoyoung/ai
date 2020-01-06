@@ -437,19 +437,6 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
-    excerpt: "Squirrel AI Learning uses more than ten algorithms, deep learning and other technologies. It has MCM ability training system (Model of Thinking, Capacity and Methodology), cause-of-mistakes knowledge map reconstruction, nanoscale knowledge point decomposition, association probability of non-associated knowledge points, MIBA and other global ..."
-    publishedDateTime: 2019-12-17T08:07:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-attends-web-summit-talk-the-/2019/12/17/9070514.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.4EEEEECD98DA615D5E83D2B2B89B9497
-        width: 400
-        height: 267
-  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
     excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
     publishedDateTime: 2019-12-18T18:14:00Z
     sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
@@ -541,6 +528,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "sOS77lx78vZs1Q3Bfx0VKmAucOYgWR0b2KUIRdnVu0Pr7ee2Ud/FQ+CgcxMY5CSjqjA7Zsran0XFt7q+G+3gdDCaih9m/YY+FYjyFV2kCNcrgCvsUdyDEsTydWFmSQo7s2RQkaM611cZUxg21S4BsrmWGvzIITs6cFAzXnVr1Vfz1/EHT+0wFCq9jAdnL3zcOgkeyrYE0L23RJsqi2BGcnswXAwj6Uik3efK+HlhGkQXopMBxpITwTt/pzCQ6eDtiUBICaYSLHU7RcC5egd5jA==;c5IbthKKGTKWNAoOqqo1Nw=="
+secured: "A6q4+zu3g++opvVjDwkUSVZRMwYxJM0aG6gzoyymokLT9pdb2pnvdhwb3vTcQeEtgj1mDny2khPooKQYxOhoXqg0sWhYj4FMAImq5igvx62xqf+gniL2FexL8AsDTPB84WnvyBv+brhIPF3hwUvaQOEEhue7NosqlRM2f97G62+OGxsU+6dq6l7GkxGesNFaHrPh0cHat0YvJcl7YiQYc4BIzTNFwlnzch3z91WPMnfQsD/Ssoz9uWNPj/QRj9ySkMRh4rv2gJZ4NBv8IGjrOQ==;5Mz8DApJL7SDzBw0vqJaSw=="
 ---
 

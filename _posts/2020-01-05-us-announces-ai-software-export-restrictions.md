@@ -64,6 +64,19 @@ related:
       - url: https://www.bing.com/th?id=ON.FC2C336E811149EF64B59D62A6B5D659
         width: 700
         height: 367
+  - title: "US restricts exports of AI for analyzing satellite images"
+    excerpt: "U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere."
+    publishedDateTime: 2020-01-05T19:45:22Z
+    sourceUrl: https://www.msn.com/en-xl/finance/topstories/us-restricts-exports-of-ai-for-analyzing-satellite-images/ar-BBYEmGP
+    type: article
+    provider:
+      name: Associated Press on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8D5C5FC9836659E3FB10945D52CD5671
+        width: 700
+        height: 367
 
 secured: "R2opUzQIkseVVNkF1a0kDIe7Tn6Yh76GQI4H7bvBFv9MiDFEC6PTj8bAT3G97Lclw2kOQESUtlJORUxuyGg7lI6jrI//YacGhMaD/x21xIIfFp+j1rvoiSHnPug0OsBRL/1UoExLS9PP1vhjOS+DWmFh8+K2DY9JLhnMxcj1+oIGGSc95XpCo4nh2Pi1ezxPNCuVBZ0xSC8BJuQTeg971qrQobcWFfOi20bBz82Nn6UWdhwuZgrYZ2Wn0cV6wHuTsyj/BjF7E27kBViMaaItDQ==;MyYP0Y7o3bDO83HvlNEBtw=="
 ---
