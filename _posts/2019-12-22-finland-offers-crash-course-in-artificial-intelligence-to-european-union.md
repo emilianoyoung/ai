@@ -25,21 +25,6 @@ images:
     title: "Finland offers crash course in artificial intelligence to European Union"
 
 related:
-  - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "Finland is offering a techy Christmas gift to all European Union citizens — a free-of-charge online course in artificial intelligence in their own language, officials said Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
-    publishedDateTime: 2019-12-17T18:42:00Z
-    sourceUrl: https://www.charlotteobserver.com/news/business/national-business/article238458693.html
-    ampUrl: https://amp.charlotteobserver.com/news/business/national-business/article238458693.html
-    cdnAmpUrl: https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/business/national-business/article238458693.html
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.1953ABAEF49D953D3FC72866DA239A90
-        width: 700
-        height: 393
   - title: "Finland offers Artificial Intelligence course as 'Christmas gift'"
     excerpt: "Finland is offering a hi-tech Christmas gift to all European Union citizens - a free-of-charge online course in artificial intelligence, in their own language, officials said on Tuesday. The tech-savvy Nordic nation, led by the 34-year-old Prime Minister Sanna Marin, is marking the end of its rotating presidency of the EU at the end of the year ..."
     publishedDateTime: 2019-12-18T02:13:00Z
@@ -83,32 +68,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
         width: 207
         height: 155
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 24
-    images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
-  - title: "Fintech offers an opportunity to Indian start-ups to turn unicorns, here’s how"
-    excerpt: "First it was the convergence in the financial services business, and now we are witnessing the advent of AI, ML, blockchain, data-driven insights and analytics. Several start-ups have emerged with path-breaking ideas that make fintech one of the fastest growing areas within the broader banking and financial services sector. The financial ..."
-    publishedDateTime: 2019-12-17T21:59:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/fintech-offers-opportunity-indian-start-213533823.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 20
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/PxVYIrc4c2W_2sBqXHkaSg--~B/aD00MTM7dz02MjA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/financial_express_832/bbeb7632a8fbae5123a7402921d6a329
-        width: 620
-        height: 413
 
 secured: "P03nfWl9aA/D0EAaPMfc75cPjY1f93Lc7cZbkkZo5aMOMfQgDciXQHUpReFC4Oae6MFsJXHAIsZgRU9erVKs719Oy4In8kjkd5PGEhGugKkx1jz1ztOq3xnjSX018VV4Hv2GgV/m1RWGgg6prYclWbyqDb54fJPPanS240BxxTZwW/J0QKLIfS9nlixXUKvC1bE5lfO4Hw0Lduh06k8/x/d8pQUKWMprhqWtyKLtEmRD46yFAr4/2lXkYEKMAJURkThELqIimROGb5bQsCKdZA==;OJTMDdW+q4qA2iV5/TWfgQ=="
 ---

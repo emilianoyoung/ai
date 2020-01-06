@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-publishedDateTime: 2019-12-20T23:50:00Z
-sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+publishedDateTime: 2019-12-20T00:00:00Z
+sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: BCW
-  domain: businesscomputingworld.co.uk
+  name: SecuriMetrics HIIDE
+  domain: findbiometrics.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-    width: 512
-    height: 512
+  - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+    width: 400
+    height: 258
     title: "AI Accelerator Card Offers Face, Object Recognition Applications"
 
 related:
@@ -314,19 +314,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
-    excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
-    publishedDateTime: 2019-12-17T19:04:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/ipvm-opens-dedicated-video-testing-facility-to-research-facial-recognition-and-other-technologies
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
-        width: 960
-        height: 520
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z
@@ -484,6 +471,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "8nPBYZiElVcopX2n20BisSb/1BimxxL2bXvxLHBCFX//1YkfUkyaYvnCB4iVq9B+IL23+yHt4xVyecy/WfFZj0sptxePoV4yeU1MhEuwrgfE9Ii6frOQ0o/9GMcBO+YGZkzlOFQMfUOLtrJeZSE6HGWYsH3ChjSXGZ+1oRCAuMqPQ3ZyCEjl5dqooerrjL5MAUfVMh+YMw5JWqdF+ipcdtFTun6kaTouHqSU5bHASD6s/2OEB4ymhiTSIptKoa8reSJ8+BwSt9AsmzU9AKFm2A==;rdKU2Cksytw4K92d45DInA=="
+secured: "sIUOAdd2+sZZzkf2i/CYHOhAgnMc/RkyFbbPYKREYXMAQG6yurBW8ewzBtMoQgHtMUVKu6p9ZX7zkMX/Ebh6TZWUUxOztkO/Ha6XQcaNA7GS4xleAbLslNKMwqkqsRRRUN53Rnbx9OW5rjxklqzHFs3Zo93v/e6dPN2RR7TffHgwpSXmyrzy1s/yIDh041nxTGJPSVVzNkPWV81fBwY7rcuNxBq3z290+iu6u/AINKLHx98vIG5jMuz08CgG1UCl+noGaFENXe8SBeCUUMjF1w==;wztcch/YYKB6r53BtzRgfg=="
 ---
 

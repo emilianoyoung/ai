@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-tra
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -62,7 +62,7 @@ related:
         height: 465
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T18:15:00Z
+    publishedDateTime: 2019-12-17T19:26:00Z
     sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
     type: article
     provider:
@@ -97,19 +97,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
-    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
-    publishedDateTime: 2019-12-17T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "University of Tartu developing translation programme with Mozilla Firefox"
     excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
     publishedDateTime: 2019-12-19T08:45:00Z

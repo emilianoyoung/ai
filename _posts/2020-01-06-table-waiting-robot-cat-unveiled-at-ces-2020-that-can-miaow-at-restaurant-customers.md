@@ -71,6 +71,36 @@ related:
       - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
         width: 700
         height: 398
+  - title: "Snapdragon Ride is Qualcomm’s autonomous shortcut to self-driving cars"
+    excerpt: "Qualcomm has built a modular autonomous car system offering automakers a shortcut to self-driving vehicles, as the chip-maker attempts to extend its footprint outside smartphones and modems. The Qualcomm Snapdragon Ride platform includes multiple chips and accelerators for things like computer vision, packaged into a car-friendly form factor ..."
+    publishedDateTime: 2020-01-06T18:30:00Z
+    sourceUrl: https://www.slashgear.com/snapdragon-ride-self-driving-car-platform-is-qualcomms-autonomous-shortcut-06605602/
+    ampUrl: https://www.slashgear.com/snapdragon-ride-self-driving-car-platform-is-qualcomms-autonomous-shortcut-06605602/amp/
+    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/snapdragon-ride-self-driving-car-platform-is-qualcomms-autonomous-shortcut-06605602/amp/
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.2077A703B7FB1571BBE6931ED462A44C
+        width: 700
+        height: 318
+  - title: "Qualcomm eyes self-driving cars with Snapdragon Ride Platform at CES 2020"
+    excerpt: "Qualcomm is making a bigger play for automotive, with the aim to do to everything from providing a 5G connection to powering self-driving cars. And it has signed an expanded partnership with General Motors for infotainment and advanced driver-assistance systems. The San Diego wireless chip giant at CES in Las Vegas unveiled its first ..."
+    publishedDateTime: 2020-01-06T19:41:00Z
+    sourceUrl: https://www.cnet.com/news/qualcomm-eyes-self-driving-cars-with-snapdragon-ride-platform-at-ces-2020/
+    ampUrl: https://www.cnet.com/google-amp/news/qualcomm-eyes-self-driving-cars-with-snapdragon-ride-platform-at-ces-2020/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomm-eyes-self-driving-cars-with-snapdragon-ride-platform-at-ces-2020/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.48F65D6FA0C0D4DCBAC9DAF75829521F
+        width: 700
+        height: 525
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -86,6 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F32B5AAC7D31C0B4E9A46D590400D734
         width: 700
         height: 388
+  - title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
+    excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
+    publishedDateTime: 2020-01-06T19:56:00Z
+    sourceUrl: https://edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59
+    ampUrl: https://edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp
+    cdnAmpUrl: https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp
+    type: article
+    provider:
+      name: Edmonton Journal
+      domain: edmontonjournal.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.69DFBFAD071A295B6AF2229CC9052DBF
+        width: 700
+        height: 525
   - title: "Meet the robots coming to CES 2020"
     excerpt: "It is unknown if Samsung is developing artificial intelligence (AI) for robots or an actual robot is being designed for a specific industry. More will obviously be revealed in just a few days when CES starts. Kiwibot is a delivery robot that has already been deployed on a few campuses around the U.S. The company is currently working on a new ..."
     publishedDateTime: 2020-01-02T13:51:00Z

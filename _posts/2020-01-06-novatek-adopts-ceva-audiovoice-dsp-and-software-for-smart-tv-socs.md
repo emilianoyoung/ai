@@ -33,6 +33,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Vogtec picks DSP's SmartVoice SoC with HDClear for Cybic AI bicycles with built-in voice user interface"
+    excerpt: "DSP announced that Vogtec chose its SmartVoice system-on-chip (SoC) with HDClear voice processing algorithms for its Cybic artificial-intelligence (AI) enabled bicycle with a built-in voice user interface (VUI). The bicycle is being presented at CES 2020. The combination of low-power voice processing hardware and algorithms enabled far-field ..."
+    publishedDateTime: 2020-01-06T19:04:00Z
+    sourceUrl: https://www.telecompaper.com/news/vogtec-picks-dsps-smartvoice-soc-with-hdclearfor-cybic-ai-bicycles-with-built-in-voice-user-interface--1321785
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 3
 
 secured: "0QhxkhbL+BPpWat338/+Sr1fe5GH4G/djK4NkErpGDbRzmHGhDjj+uJUk6sBJzoevEPZzS2zPCIH+G9fd3jZOOHGe42KlCERJ9pm7E7aVxfmg9r4TagxkZxtHKhOTILzbsE/l1Aa2NOxOEq0oIAk1ezHTFiSyUeQ+pDAMEAUycTBBBtEfr2YVct1uXiQnqC+vcVBV9f4LupGwDnua0L3Svtav5Ywr70NJs4phEH+UF20e3b9HOT7fZt3ED7/0NvjKWc2TYw/ECpDJ+cMHWqXqA==;xZQUgHGU5JiGjLEiF9Xqjg=="
 ---

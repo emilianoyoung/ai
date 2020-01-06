@@ -178,18 +178,18 @@ related:
         width: 1200
         height: 630
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Church of England questions ethics of investment in Artificial intelligence"
     excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
     publishedDateTime: 2019-12-24T06:31:00Z
@@ -318,19 +318,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
         width: 900
         height: 499
-  - title: "IPVM opens dedicated video testing facility to research facial recognition and other technologies"
-    excerpt: "The company says it is the first dedicated facility of its kind. The facility in Bethlehem, Pennsylvania features three large testing bays, which will support increased video analytics testing, and the company provides the example of low-light facial recognition as the kind of testing it plans to conduct. A fabrication workshop on site provides ..."
-    publishedDateTime: 2019-12-17T19:04:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/ipvm-opens-dedicated-video-testing-facility-to-research-facial-recognition-and-other-technologies
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
-        width: 960
-        height: 520
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z
@@ -488,6 +475,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "EsGMJmZSlFEq/b8t26MoGmdf5K4201rL14RA4hZo8Rt6xIz0mdSPNbrqAt3z1d3RpDXRcrQGvN53FRPUXMqlSqXEaoig1DVK6I1rMZarYSISVS0i8KiT7W3qZInN/BHBSh/FqFnzMG5S7fLKzTfHqAY8AEx3xpCRYc74c9ri6A+xt6EpkNcu78cNLlNpk4vcJGPygJmdut+VkOBh6yd4o68C9w9EXn5Ggr/0cvcx1z8x2CwC8x1MVkn5Or8wBkMuLH08JQGL6iipO+Hz8lnIjg==;YGet23vRqX2mBmvdBoaccQ=="
+secured: "Zn/xAq2XHo7SsaDLpvCHZzpe44uFbhRLhcyaQ9/QuTACWSOPQ+KVlirW6d4wOceBJEwj9WavHJs4vtD2T27JJwAp/JMw2IJ0t0IG6H98WLMZViwWY4fL9VR+G51XCDlcTFuk7iYKahe5vPzOhlS+1kShtW5B4HHjxOPycyylfBnCPljz8Pz/zZMQn90VDQpScu8NxnMn/iXVqlHKegA/pUvn+rMsugRKx3GIJnbvgkVuVTCc47RRTRaskOBRbcX9gAc172OBCC5WKPEoipjr4Q==;X/J6beKUyekqxcPUu2OPdQ=="
 ---
 

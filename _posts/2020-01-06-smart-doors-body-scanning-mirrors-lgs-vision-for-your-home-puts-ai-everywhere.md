@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/smart-doors-body-scanning-mirrors-l
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/smart-doors-body-scanning-mirrors-lgs-vision-for-your-home-puts-ai-everywhere/
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 525
     title: "Smart doors, body-scanning mirrors: LG's vision for your home puts AI everywhere"
 
-secured: "EP9nqmbKN0hMzfLAuHyoq7JLzOsAZD6W4hB8CJhYiuaCgim0LKDAvGOd167rZkPihR3cnlMmlp99f1Uq94s7ssKT9pgbPKNDLL+85fl9HNh+niSKx7m4lUM78/9RBPyr8MwxAUGXYUsh5D9ogF7Ft4jhQMxBISf5RoLyvMk0QwhDXrZp1/6L4j+xyg3T9sss89IaU2LKTOYF2SQCo6stHuqCd/8K+0Nl4mqlN9CtUcNbVoNQAt1ML1nZCme/U85VOsVAGPUpJx46qmmz6YH7Pw==;rErAe04jqRTopoAb3zgKIg=="
+secured: "rYbKHwlJVeFrpFdI+0NCAGQRniKUdFR1kvvLrTIZ/gIoTQ4vumD1TPBUS/deOneguv1AJnlaIGfKDaxvz7U5zLfPYuO+pGJ9SsesFDJ5+cwhy3oo0LYVcUeBuQWcwUP7X7D7hHbLLsrYwt12wB7uBxiLan8kkrIEa7masqwLEVt5TPMrE/x6wCToAFXyxdM4s2w06YpDlDAKmnq8cNWXU5ELyz0hVc+LHfTOpaVkTcLh0+tlGvY6zzAWRnCtdmtd+ykgNHx+SFLY23EbsCtn2g==;z3nwRJ9ZBgKjcZe6+97asA=="
 ---
 

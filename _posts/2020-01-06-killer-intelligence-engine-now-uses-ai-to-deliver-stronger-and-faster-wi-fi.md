@@ -8,7 +8,7 @@ ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-del
 cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
         height: 373
+  - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
+    excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
+    publishedDateTime: 2020-01-06T19:00:00Z
+    sourceUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/index.html
+    ampUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "F6LmLHRReHQEMyOEVMLC3ts3b5fhIMw5iqtvLwZf4Lb3JWXKJUVTQArl30J7byvJAItgzCjsXjD2aWzt0oHy8xOsl9ESiDzQuoJEQwWC8XjzesY8AbqKYtcDHuCLllCdEa/QHcmpUugvvRqMcHIcGrgyxKS4TwSbQmFFGwBUJz7slRrsywFtpwvIVh9iqJu8dv/i+TUJZZpfI5Bot9Zv2OmL0+ZHFShTDOBL/XnR76bCOZLe95rsvNG+XOqE/aRv2al3wmN5Zx5CWc1gbM0TcA==;0iCD5KZSDvARV2OTSLSGMA=="
 ---

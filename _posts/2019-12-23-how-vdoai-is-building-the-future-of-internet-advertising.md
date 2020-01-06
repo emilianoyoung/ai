@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
         width: 700
         height: 366
-  - title: "How Artificial Intelligence Is Reshaping the Future of Stock Picking"
-    excerpt: "Computers aren’t new to Wall Street, but for most of their lives, their function has been primarily quantitative. That, says Forbes‘ William Baldwin, is about to change thanks to the rise of artificial intelligence. Created by a trio of former MBA classmates at at UC Berkeley, EquBot is the answer to its creators’ dream of producing a ..."
-    publishedDateTime: 2019-12-17T18:23:00Z
-    sourceUrl: https://www.insidehook.com/daily_brief/news-opinion/how-artificial-intelligence-is-reshaping-the-future-of-stock-picking
-    type: article
-    provider:
-      name: InsideHook
-      domain: insidehook.com
-    quality: 39
-    images:
-      - url: https://www.insidehook.com/wp-content/uploads/2019/12/AI_Wall_Street.jpg?fit=1200%2C800
-        width: 1200
-        height: 800
   - title: "The Birth Of The Modern Robot"
     excerpt: "While they may have originated as a facet of fiction, they have become incorporated into the study of the ethics of artificial intelligence as well. As the study of robotics has matured and ..."
     publishedDateTime: 2019-12-19T15:12:00Z

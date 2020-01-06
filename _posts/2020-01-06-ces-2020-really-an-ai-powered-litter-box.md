@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-really-an-ai-powered-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-really-an-ai-powered-litter-box/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "CES 2020: Really, an AI-powered litter box?"
 
 related:
+  - title: "LG shows off AI-powered 'smart' washer for dumb people"
+    excerpt: "The ThinQ Washer with AI, which CNET reports should be available for purchase in the U.S. sometime within the first two quarters of this year, purports to change the laundry game with its artificial intelligence system. And just what does this system do, you ask? It determines what kind of cycle to run based on what type of materials are placed ..."
+    publishedDateTime: 2020-01-06T19:41:00Z
+    sourceUrl: https://mashable.com/article/lg-smart-washer-ai-thinq-ces-2020/
+    ampUrl: https://mashable.com/article/lg-smart-washer-ai-thinq-ces-2020.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lg-smart-washer-ai-thinq-ces-2020.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.05F22DE5941DC43D1EC9C3251C390C60
+        width: 700
+        height: 367
   - title: "Samsung unveils its AI-powered 8K TVs for 2020"
     excerpt: "Samsung revealed its new QLED 8K TV last night in Korea, and now the US unveiling is under way. We already heard about interesting features like its \"digital butler\" that will control other devices, including older stuff that can't connect to networks using an IR blaster,"
     publishedDateTime: 2020-01-06T02:40:00Z

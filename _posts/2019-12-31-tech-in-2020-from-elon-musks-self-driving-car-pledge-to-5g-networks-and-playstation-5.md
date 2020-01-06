@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
+    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
+    publishedDateTime: 2020-01-06T19:42:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    ampUrl: https://www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
+        width: 700
+        height: 367
   - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
     excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
     publishedDateTime: 2020-01-06T15:57:00Z

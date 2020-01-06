@@ -2,7 +2,7 @@
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-publishedDateTime: 2019-12-17T18:15:00Z
+publishedDateTime: 2019-12-17T19:26:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
 quality: 31
@@ -93,19 +93,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
-    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
-    publishedDateTime: 2019-12-17T19:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "University of Tartu developing translation programme with Mozilla Firefox"
     excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
     publishedDateTime: 2019-12-19T08:45:00Z
@@ -173,6 +160,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "mh+IewLiZL2lJSSFuqH6lFtzDq0SiydKOUT+ofDKhqyqWtS56CGLc4D72O3maE4XjnrtNI6cCqUqFxZZJrDWVSEz0r3MY6dk4wvxYDd7KX6BQJX12RdWt2Su5TlT7FP+mzO0AD5bsKMLxKF2C/IcfCHjK2spqTE9KG2NiH/kajMMN9Zmvb9B6QAm/QnvUio6+cnf+sAp26zrrkikFrwGNETWdYdqRB/+HogbtaZOPBOmuVAYbBQ7eV3mjzhI2DF9ahtsDO/1Gfgb0IVFH6DRwQ==;LRao5EU073xxFACRc6JvBg=="
+secured: "Rio6RJNg5i1peuvdbuOXvHuowflhm1Xvsy3wc6RMWUiFm371QtMXTG/3UY+OyYlhC6X2gl6XR0JTkF6yJG/Aibf7bkdAnIgZErC+xQMuToCVo8svGE65LU54YGpQWBpBrUAPZ/5lSClJvKerI19uOBTzxNKu7uYP6a1/0JFBnV5Uo07govEdZBrf4G5zgr1xNdWwBpbF35fKysTo9OWieP9wX9AZBf1TE+UsLykP2LpNvRyPf8QvfRzeQdsjyx+bXYI5Iys3601/xCXnq0079w==;jVkm+o+ev64i/ljbuUNQRQ=="
 ---
 

@@ -131,6 +131,34 @@ related:
       - url: https://www.bing.com/th?id=ON.970CBABFFC89A672594B4944739CF1B6
         width: 700
         height: 367
+  - title: "Qualcomm announces chips for self-driving cars that could be in cars by 2023"
+    excerpt: "The system will support features like lane-keeping as well as the development of full self-driving applications like robo-taxis. Qualcomm silicon is the processor at the heart of millions of smartphones, but soon, you might buy a car with a Qualcomm system-on-chip inside, too. Qualcomm announced on Monday a new series of chips and ..."
+    publishedDateTime: 2020-01-06T19:56:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/06/qualcomm-snapdragon-ride-system-announced-for-self-driving-cars.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.A296AC3EDD1A132891C7F07CC85691CD
+        width: 700
+        height: 466
+  - title: "Qualcomm Ride platform aims to make self-driving cars simpler"
+    excerpt: "From a tech perspective, modern cars have become Frankensteinish monstrosities, as carmakers pile on sensors and cameras and features to support the conveniences today’s drivers have come to expect. Things like adaptive cruise control, backup and parking ..."
+    publishedDateTime: 2020-01-06T18:30:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/qualcomm-ride-ces-2020-autonomous-driving/
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+    images:
+      - url: https://icdn3.digitaltrends.com/image/digitaltrends/qualcomm-snapdragon-drive-autonomous-driving_traffic-1200x630-c-ar1.91.jpg
+        width: 1200
+        height: 628
   - title: "TriEye partners with Porsche to put infrared sensors in ADAS and self-driving systems"
     excerpt: "It’s collaborating with Porsche to improve the performance of the German sports car manufacturer’s advanced driver assistance systems (ADAS) and self-driving systems, with the goal of improving those systems’ ability to accurately detect objects on the road in situations with limited visibility. Porsche previously contributed $2 million ..."
     publishedDateTime: 2020-01-02T13:00:00Z
@@ -228,6 +256,21 @@ related:
     quality: 44
     images:
       - url: https://www.bing.com/th?id=ON.0BC1E014E4B67BBE0EAE7FE497FD6430
+        width: 700
+        height: 393
+  - title: "Qualcomm Ride technology should bring us self-driving cars sooner"
+    excerpt: "LAS VEGAS — Qualcomm silicon powers the bulk of the world's smartphones, and now the company is trying to do the same for assisted and self-driving cars. Today (Jan. 6) at CES 2020, the chipmaker unveiled its Snapdragon Ride platform — a singular package comprised of multiple processors and an autonomous driving accelerator. Ride is built ..."
+    publishedDateTime: 2020-01-06T19:41:00Z
+    sourceUrl: https://www.tomsguide.com/news/qualcomm-ride-self-driving-platform
+    ampUrl: https://www.tomsguide.com/amp/news/qualcomm-ride-self-driving-platform
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/qualcomm-ride-self-driving-platform
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.54978A2CA7BC4E26E555C8787B020BBA
         width: 700
         height: 393
   - title: "SA road users embracing technology 'but are wary of self-driving cars'"

@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
         width: 700
         height: 525
+  - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
+    excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
+    publishedDateTime: 2020-01-06T19:34:54Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/samsungs-mysterious-artificial-human-project-neon-creates-lifelike-ai/ar-BBYFJaT
+    type: article
+    provider:
+      name: The Independent on MSN.com
+      domain: msn.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.511EBB3BB07179881AFD68C3FECED71D
+        width: 700
+        height: 367
 
 secured: "R/EPbNlOgUJPM6+KntJS+7VnQsstZcDsSk0N1cWb4Pb7lPJ5lQdtKH6nYWDi42/mid7urkFdtazdrMif4jIEbbuBMWbEyoH+W8F9RRDEiZLmgzAUhW76SeIJWtjKHu9W/7ymHAFQiRHKnK7RkdE7HIAHdNMpkg8zXg7bdeu/e9m8SgEW9B00tIymtRV2IEqM6TQj3prxrSvU4ocTB65B2DzFE9Kx4StBcZZ3oef2PE0V5rihp5G1PjitUVDT8TrE4j0LhkXrewn7S/iRBgQHbQ==;E6LcE3f82RQD5/XjLKtt2Q=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recogni
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -129,6 +129,19 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
+  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
+    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
+    publishedDateTime: 2020-01-06T19:18:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
+        width: 700
+        height: 394
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z

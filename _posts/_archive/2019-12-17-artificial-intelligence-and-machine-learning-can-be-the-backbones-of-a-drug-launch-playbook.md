@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
-excerpt: "Artificial intelligence and machine learning help Internet search ... Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve ..."
+excerpt: "Once a patient starts the treatment, keeping them on the therapy according to the regimen improves the patients’ outcome. Our algorithm identifies candidate patient profiles to improve patient persistence and compliance which are sent to nurse educators or other patient engagement programs. Artificial intelligence and machine learning can be ..."
 publishedDateTime: 2019-12-17T09:59:00Z
 sourceUrl: https://www.statnews.com/2019/12/17/ai-machine-learning-drug-launch-playbook/
 type: article
@@ -23,6 +23,6 @@ images:
     height: 393
     title: "Artificial intelligence and machine learning can be the backbones of a drug launch playbook"
 
-secured: "Fo1KARwv8BuqkAebWdxM1mhoxKbdPu/OoMgBET41XbZtzh65boIlig+wzGWCAZJ1zMTrqXB35a5jy6Qg2vsLOEDaADqQ5ILd2rym42b1HKmOeDhkGa1mYE35ODMQJ83Fr/lxxKbRC2/lyDQvaWg1KxDuBPZqzLq41DrWFGhIXcXUMKToyLfxy5ZQwfQ5WkLt37M+nc8UAnFtNQRNO3LxZaAXew6rvlrpGDhjzPme35oPRWKA1OPgSKIcLCxdCaXXqlBftI0/H2s+GfGRxHfDaw==;CNyud2KUEy6p5jj8/CEvxw=="
+secured: "qy6b3YLLFfTX9+YBSl7VKA9HObnJocijRzkp6Ka5hGDhM0HwsAmY25HDwxsCHbmux05JbZ9k+mkqrS7bFpYJQx5nu7pkX8HOXP7njOA26z5tq8iDaFqtnsDCuzvICZ8SokxeCl5iS4ROW6U+NStUFKwRJF5gYgF74Vo5o8RnnXrNqUbry6OmIey2aUO6bkLG1bHGe33CD+4UnsG73oAwLmiBC5mP9EhfBbz/A5JJvCEYy76oS+QcxSbo47hqS9YmqhgODUPYOX60/ANBBOc1Bw==;nIDy+dfl4q6sCjqD/G60BA=="
 ---
 

@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B0519701A0F5A0B0AD3221EA2B7866F9
         width: 700
         height: 525
+  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity, revitalize the customer experience ..."
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.102EF75724DEE538DD0EDC04A7723F2E
+        width: 600
+        height: 315
   - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
     excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
     publishedDateTime: 2020-01-03T14:00:00Z

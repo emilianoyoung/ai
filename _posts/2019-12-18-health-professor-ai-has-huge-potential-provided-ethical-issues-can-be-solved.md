@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "Regenstrief VP co-authors National Academy report on AI's potential to improve health"
-    excerpt: "Eneida Mendonca, M.D., PhD, an expert in natural language processing, machine learning, predictive analytics and AI adoption, is a co-author of \"Artificial Intelligence in Health Care: The Hope, The Hype, The Promise, and The Peril,\" a National Academy of Medicine (NAM) Special Publication. Other authors are from Harvard University, the Mayo ..."
-    publishedDateTime: 2019-12-17T18:45:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/ri-rvc121719.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: https://eurekalert.org/multimedia/pub/web/219961_web.jpg
-        width: 720
-        height: 445
 
 secured: "Y2GSScgX8znEEDFx5DgDtQRDONMcnGbDPYygjR5PA8c1yz2c2SZkjccR6RMID4OHrQXg0uHXc/ru8hzjqR78fBEXezaYyUWqlt6uEZ6av9QE4GTYqeM8lGFA2QOUYoBKyf75PKEkLwVog4v4vHMeUkvPOF3F0hhxIDj5RwgrQvI/g5vv6Jz1mv/j8XgPNxhtdQS8osDytkMhyvR56bjVGbZcwvKABaFS2sEKWSTgfwK/9RVanvYotBQSjD8gTLVh3fb4Vk2wgcbUCgr7g5Y8Ww==;UnKvQTlTfvovGitnbLpezQ=="
 ---

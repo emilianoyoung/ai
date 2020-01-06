@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.78F478030ABED50E8EF700545C43C653
         width: 700
         height: 525
+  - title: "LG shows off AI-powered 'smart' washer for dumb people"
+    excerpt: "The ThinQ Washer with AI, which CNET reports should be available for purchase in the U.S. sometime within the first two quarters of this year, purports to change the laundry game with its artificial intelligence system. And just what does this system do, you ask? It determines what kind of cycle to run based on what type of materials are placed ..."
+    publishedDateTime: 2020-01-06T19:41:00Z
+    sourceUrl: https://mashable.com/article/lg-smart-washer-ai-thinq-ces-2020/
+    ampUrl: https://mashable.com/article/lg-smart-washer-ai-thinq-ces-2020.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/lg-smart-washer-ai-thinq-ces-2020.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.05F22DE5941DC43D1EC9C3251C390C60
+        width: 700
+        height: 367
 
 secured: "B6T1dPN1uzaj1FWsaHR/bWR/o2Y8h65mAp/4s3zjgyIjMsRYIX2/mz3nzHFDvI2vzrlo4u2NE5kiENfxaIuodpNVa9rZUyFDPNjyRfZZCGat+EUmm9IIBBaSY7mH5fQxJ8AXQxfuP6EX7tTyskK6COzy4S/NQyOSz6jBqjA9UPCiDmSw8NCs3TsSIwfgd06YHRGAhuhITpdEr8eqBGlxhRugZm+jdQW0K+4VzrVW87oT3BmPGwWGUaT0R/aMiwBaeHJJ4ODi+d4Isrdal/Etyg==;OXImm1zof4ze7Bq7cm01PQ=="
 ---
