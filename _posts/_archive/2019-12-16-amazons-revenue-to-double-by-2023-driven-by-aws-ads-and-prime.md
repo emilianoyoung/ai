@@ -23,6 +23,6 @@ images:
     height: 316
     title: "Amazon's Revenue To Double By 2023 Driven By AWS, Ads, And Prime."
 
-secured: "EwiwMo2tz0LzdJl8jusUthypFrcJd1AYv/mt148pXKFMnBTvzn1HzGfFxr2gLmbqijOcssYVe4ApFh7eW6E2dyb7OQT7yZT/lOL0QfxPJR7I+PHGMakMgFfPTSkiqrIFt2UNSg0O3PGb5J9vEBmrdL/RKriHfJRg0b1j3dKGxA7IOKDt+lU79H9BU/TWp75QL/a8DRrDrYQHN3EJbKz6kGiPZqOTJmgwt7DyC1qxytCpMCoxhTKWAgo+DYcT49SDnxLkuu2B7v9L6jYiZ1nmIA==;o/ORq19eGUb0sN4XXNkn+g=="
+secured: "sbfSxXrpWYNGpQQ8jGo8QdYxCxdAffEbB+tvmSaLfXFmhJ2d3cgQZuUaEC5urLVDvYeb1WDSjmIGLC9ipmk1dDSLecbTqEWer/iNWl12ALsY7hkq48vQbgWATXkc8Eg769Nkge2x+Y+xUunOZUtRQxX1E3ROd1+KSJclUr71AHRRqmH7kxxNJOMyrnzKECFSvXORxmqCYE9z9hdNoyok6II4FYXUnntnPvroDO4yqEL0rax9wd72dQuzXTu+ZLAK99EkuwVDs2fmg8ogFDNZEA==;2fLUt6eBqiWY5E9cjjdibQ=="
 ---
 

@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
+  - title: "Table-waiting robot CAT unveiled at CES 2020 that can miaow at restaurant customers"
+    excerpt: "Scroll down for video BellaBot — which can navigate around obstacles and its fellow robots — is the brainchild of the Chinese robotics and artificial intelligence firm PuduTech. It features four shelves in the centre of its tower-like body to carry plates. Having been loaded up with meals by its human colleagues, the cat-themed ..."
+    publishedDateTime: 2020-01-06T11:18:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7856189/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7856189/amp/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7856189/amp/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 68
+    images:
+      - url: https://www.bing.com/th?id=ON.7D498D70695C902821F82115539CFC3A
+        width: 636
+        height: 382
   - title: "Sony joins race to develop vision sensor for self-driving vehicles"
     excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
     publishedDateTime: 2020-01-03T04:00:00Z

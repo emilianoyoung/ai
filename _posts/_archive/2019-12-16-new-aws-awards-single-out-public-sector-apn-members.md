@@ -1,7 +1,7 @@
 ---
 category: news
 title: "New AWS Awards Single Out Public Sector APN Members"
-excerpt: "Amazon Web Services honored partners with its inaugural AWS Public Sector Competency and Region Awards at AWS re ... Smarttronix Migration Public Sector Technology Partner Award: New Relic Artificial Intelligence & Machine Learning Public Sector Consulting Partner Award: Novetta Artificial Intelligence & Machine Learning Public Sector ..."
+excerpt: "Amazon Web Services honored partners with its inaugural AWS Public Sector Competency and Region Awards ... Smarttronix Migration Public Sector Technology Partner Award: New Relic Artificial Intelligence & Machine Learning Public Sector Consulting Partner ..."
 publishedDateTime: 2019-12-16T15:09:00Z
 sourceUrl: https://www.crn.com/news/cloud/new-aws-awards-single-out-public-sector-apn-members
 type: article
@@ -23,6 +23,6 @@ images:
     height: 600
     title: "New AWS Awards Single Out Public Sector APN Members"
 
-secured: "IQFpCDkFND5AwRjatGQe8cPl31IfiS53wpO5QNDhyAKA3Z/KmVXamMty1/Xs5HFAwXN5RS2x4qr/3tq+34SarOTbXWdQgcMjbMoStSD2dbLeVzx1CeQH5MpmU/Y3axaMNkK57qYJX89pw75DDwHjRhz8T5y4+vslkRQhKONYINYGdn+B3PTV0BzWFGqyznUtzCZ50J6JQ3sIV2wlsFJfJlSwzytQMSF1wFl1gLCIMzcfnZN8JpN3Rm/4fciRlyzHSG9u5EgJyLTqB1H70O7sTw==;NtPUPUYXoC7Pal4exEZ6gQ=="
+secured: "Fr2aoX+lIwsclri50frSzomun5h86lWGI3l6169EVMKS2k/WCYek/umY0MEIDrYT9aSbrZX3kERgjNAVyA6vLkFUW2URQ9WY3RFGVyyzsYZBn6kTOE5Hbv/gM28UGxw8c23Pwlo9JNslW6QWVCk2h+Am5N38kD6WKCFO6ZHnA0vxwKeedD19OPQnQN5EaEjc7NVF8AphnR6D6zThILLuvWOa0G5kM2hOd+OcPhVJkMHdtPTmqUATTVpHWZOX/IA0boIq6I/mtl27voV8ne1hhQ==;IxIz1vjXPbUrJVU9NGymOw=="
 ---
 

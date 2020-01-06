@@ -82,21 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DEC596C15F8687A66FDA8A83EDA3FBBE
         width: 680
         height: 583
-  - title: "The Australian Centre for Robotic Vision is finding ways robots can help around the house"
-    excerpt: "Factory robots perform specific tasks repetitively, while social robots are trained to interact in conversation. Getting a robot to be a generalist, to walk into a new environment and make sense of it using computer vision, and work out how to pick up and handle new objects is complex. To that end, The Australian Centre for Robotic Vision has ..."
-    publishedDateTime: 2019-12-17T10:09:00Z
-    sourceUrl: https://www.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    ampUrl: https://amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    cdnAmpUrl: https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/the-australian-centre-for-robotic-vision-is-finding-ways-robots-can-help-around-the-house/news-story/65cccadb01038d30a1acc00d52dd62e3
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.B1C5456AC2F838283A5BFD8F6308754F
-        width: 700
-        height: 393
 
 secured: "iDd/qjK3TlXZjAxKq98H4LG3cS2SsRHVDp8/LmqzIK2PQlojKwopIZ9/wwmhb4SOpOACX2vhqpV8aYd6hDL4CQjEk4j/0mYWW5tBJb7oU9jeYXjQs/tdN55w/AU0n2CqFL7Nwn4zQsslqNQhRN3HdioSYcK6q8hw+pPgynnBOvc5cZjDZ4Z1Q/09SC4JTG2A8GS3P0EN0rdM/tMnVtexfom1Ir6KBhFJNBXhOfyNRtQLLzgRNznoONij8tXO4y5WwRCDENdogw1v15J37JzfyQ==;WH5b/Pq2UUrnl/P9+OdzfA=="
 ---

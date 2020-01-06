@@ -227,6 +227,19 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 24
+  - title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
+    excerpt: "Despite global investment in fintech dropping in 2019, investment in the UK nearly doubled to approximately ... Companies on this year’s list of innovative start-ups span security, wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems."
+    publishedDateTime: 2020-01-06T11:04:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
     publishedDateTime: 2020-01-03T14:44:00Z

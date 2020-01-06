@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T11:13:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-to-gain-impetus-as-demand-for-smarter-devices-rises-2019-12-23
 type: article
 quality: 82
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -117,19 +117,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Marketing Market Scope, Growth Overview and Development Forecast 2019 to 2025"
-    excerpt: "Dec 17, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Marketing Market 2019 by Manufacturers, Regions, Type and Application, Forecast to 2025 Artificial Intelligence in Marketing Market report contains a forecast of the next 5 years, starting 2019 and ending 2025 with a host of metrics like supply-demand ratio, Artificial ..."
-    publishedDateTime: 2019-12-17T10:33:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-scope-growth-overview-and-development-forecast-2019-to-2025-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

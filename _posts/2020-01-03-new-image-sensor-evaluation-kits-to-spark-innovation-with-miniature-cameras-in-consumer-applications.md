@@ -240,6 +240,19 @@ related:
       - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
         width: 685
         height: 386
+  - title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
+    excerpt: "Despite global investment in fintech dropping in 2019, investment in the UK nearly doubled to approximately ... Companies on this year’s list of innovative start-ups span security, wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems."
+    publishedDateTime: 2020-01-06T11:04:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

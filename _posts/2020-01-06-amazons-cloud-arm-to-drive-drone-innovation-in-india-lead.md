@@ -20,6 +20,36 @@ topics:
   - AWS AI
 
 related:
+  - title: "Amazon Web Services to boost drone innovation in India: Here's how"
+    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+    publishedDateTime: 2020-01-06T11:21:00Z
+    sourceUrl: https://www.indiatvnews.com/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    ampUrl: https://www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    cdnAmpUrl: https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
+        width: 700
+        height: 393
+  - title: "Amazon’s Cloud Arm to Accelerate India’s Drone Ecosystem: DFI"
+    excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
+    publishedDateTime: 2020-01-06T11:42:00Z
+    sourceUrl: https://www.india.com/technology/amazons-cloud-arm-to-accelerate-indias-drone-ecosystem-dfi-3900923/
+    ampUrl: https://www.india.com/technology/amazons-cloud-arm-to-accelerate-indias-drone-ecosystem-dfi-3900923/amp/
+    cdnAmpUrl: https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/amazons-cloud-arm-to-accelerate-indias-drone-ecosystem-dfi-3900923/amp/
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.B037A958CDA8419711760C36ED81C656
+        width: 700
+        height: 518
   - title: "Amazon’s Cloud arm to speed up drone innovation in India"
     excerpt: "“AWS was a natural choice for us, which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, said. The industry body signed an MoU with AWS at the ‘Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T10:21:00Z
