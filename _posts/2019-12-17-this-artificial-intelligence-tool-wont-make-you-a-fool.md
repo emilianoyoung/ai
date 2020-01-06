@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T16:11:00Z
 sourceUrl: https://in.finance.yahoo.com/news/artificial-intelligence-tool-won-t-153834169.html
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -16,23 +16,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-
-related:
-  - title: "This Artificial Intelligence Tool Can Identify Fake News!"
-    excerpt: "The development of artificial intelligence technologies has brought forth the era of autonomous cars, realistic robots, intelligent chatbots, and AI YouTubers. And now, researchers have created an artificial intelligence tool that utilizes language models to identify ‘fake news’. This tool has been developed to stop the spread of ..."
-    publishedDateTime: 2019-12-17T13:18:00Z
-    sourceUrl: https://in.mashable.com/science/9532/this-artificial-intelligence-tool-can-identify-fake-news
-    ampUrl: https://in.mashable.com/science/9532/this-artificial-intelligence-tool-can-identify-fake-news?amp=1
-    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9532/this-artificial-intelligence-tool-can-identify-fake-news?amp=1
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.5CA269BD2208DC3D25B9393D951A04F5
-        width: 90
-        height: 120
 
 secured: "4vh1oSn2KmdjRi69q6/rNfKemOrml5QxYJ4PCdzn4920VOVpDSKgj5TzRTGQsLIjzXv+lhK102p5+T0XBf3KR4WxKY4CH3m3dhb1+hzZ0E6ACty9aDOKV/BA/e+AN91Kj8eSFKG12JioVKOZ8IPXz0cEJ7dX+m7McXgPu+IxeHmXq+70ukySQvqChNXDMKRnSSlH7oVG9nUipwxlDjNf7Omyx4/d55MAiWOTmMh0dUfIMgaPv/PiiF9Tfjkct72OdT70r9zb46y/cHLNYVpq4Q==;Mg+/Hl+Hd3TDr18OoIG2SA=="
 ---

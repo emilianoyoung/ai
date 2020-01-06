@@ -67,19 +67,21 @@ related:
       - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
         width: 700
         height: 424
-  - title: "How to Cash in on Conversational AI"
-    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
-    publishedDateTime: 2019-12-24T16:19:00Z
-    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
+  - title: "AI used for creation of novel, unconventional artworks"
+    excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
+    publishedDateTime: 2019-12-23T06:49:00Z
+    sourceUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038
+    ampUrl: https://www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/online/news/ai-used-creation-novel-unconventional-artworks-1844038?amp
     type: article
     provider:
-      name: Channel Partners
-      domain: channelpartnersonline.com
-    quality: 39
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
-        width: 700
-        height: 259
+      - url: https://www.bing.com/th?id=ON.5B94862F708E73388F33EDCAD8005302
+        width: 560
+        height: 292
   - title: "Artificial Neural Network Model (image)"
     excerpt: "A mathematical thermodynamic model for gene regulation (top, left) is formulated as an artificial neural network (ANN) (bottom, left). Large DNA datasets are fed through the new ANN (right). The pattern of connections is presented in a way that is easy for biologists to interpret. Disclaimer: AAAS and EurekAlert! are not responsible for the ..."
     publishedDateTime: 2019-12-26T14:59:00Z

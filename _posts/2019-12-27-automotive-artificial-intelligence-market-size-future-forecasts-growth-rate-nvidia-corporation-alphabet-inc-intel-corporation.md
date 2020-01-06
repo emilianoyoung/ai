@@ -247,15 +247,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 6
-  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
-    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
-    publishedDateTime: 2019-12-17T13:21:00Z
-    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market ..."
     publishedDateTime: 2019-12-21T00:42:00Z

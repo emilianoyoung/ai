@@ -8,7 +8,7 @@ ampUrl: https://www.retailtouchpoints.com/features/executive-viewpoints/pricing-
 cdnAmpUrl: https://www-retailtouchpoints-com.cdn.ampproject.org/c/s/www.retailtouchpoints.com/features/executive-viewpoints/pricing-intelligence-fuels-food-company-growth-use-robotic-process-automation-to-gain-a-new-edge/amp
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,24 +25,36 @@ images:
     title: "Pricing Intelligence Fuels Food Company Growth: Use Robotic Process Automation To Gain A New Edge"
 
 related:
-  - title: "Generating Energy and Greenhouse Gas Inventory Data of Activated Carbon Production Using Machine Learning and Kinetic Based Process Simulation"
-    excerpt: "This study addresses these knowledge gaps by developing a modeling framework that integrates artificial neural network (ANN), a machine learning approach, and kinetic-based process simulation. The integrated framework is able to generate Life Cycle Inventory data of AC produced from 73 different types of woody biomass with 250 characterization ..."
-    publishedDateTime: 2020-01-01T11:23:00Z
-    sourceUrl: https://pubs.acs.org/doi/full/10.1021/acssuschemeng.9b06522
+  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
+    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
+    publishedDateTime: 2019-12-30T21:04:00Z
+    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
+    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
     type: article
     provider:
-      name: C&EN
-      domain: acs.org
-    quality: 0
-  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
-    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
-    publishedDateTime: 2020-01-02T07:03:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
+        width: 700
+        height: 381
+  - title: "Automation, AI continue to offer rich promises to Indian cos"
+    excerpt: "Automation and AI continued to log in multi-million dollar prospects for Indian IT companies despite slower overall growth and visa concerns in an eventful year that was marked by high-drama of a hostile takeover at Mindtree, change of guard at Wipro, and whistleblower allegations against Infosys top leadership. In a departure from the past ..."
+    publishedDateTime: 2019-12-31T06:15:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
     type: article
     provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.62E99D0914BC1F34BB27045DECDEBB95
+        width: 700
+        height: 379
 
 secured: "4CyN/u8ANLQQi8iNDWafHISd3foU8v87JxMK4zzC/9LgTCne25VRq8wgwZeZfWTl70ElpVwxkioc5pFqz23+4pilR98x0ak4/6IqiXzTDv1CIrEb/usjtnZFkWGOZ+znzTiJeWzVKH7g3VWYvQwY/ZCYD41RNTYUUVSOWbCIDvkmKID6dg+ZyywDh4adVv5VR06XknHBrcc/xN1GQlfP1fbr79inZJHv3l+zEvW+nYcAShG5g5AXUe2okJLbsPhuozglvo46w8fm6YbYqr/nMA==;I3l/XZ2uTho/x7NsUfNnlw=="
 ---

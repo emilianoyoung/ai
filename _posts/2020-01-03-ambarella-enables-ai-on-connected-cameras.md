@@ -24,21 +24,6 @@ images:
     title: "Ambarella Enables AI on Connected Cameras"
 
 related:
-  - title: "Ambarella Enables Artificial Intelligence on a Wide Range of Connected Cameras Using Amazon SageMaker Neo"
-    excerpt: "LAS VEGAS — Ambarella, Inc. (Nasdaq: AMBA), an artificial intelligence (AI) vision silicon company, today announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow®-powered AI vision system on ..."
-    publishedDateTime: 2020-01-02T10:02:00Z
-    sourceUrl: https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4
-    ampUrl: https://calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    cdnAmpUrl: https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/ambarella-enables-artificial-intelligence-on-a-wide-range-of-connected-cameras-using-amazon-sagemaker-neo/wcm/f8d91c0d-7432-4360-997f-331ad29ec7e4/amp
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.78AE867809153B8BF0D0FB3F7A7871DA
-        width: 700
-        height: 525
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z

@@ -26,19 +26,34 @@ images:
     title: "CES 2020 – Weirdest gadgets at Las Vegas tech show from hands-free breast pumps to a robot that delivers loo roll"
 
 related:
-  - title: "South Korean tech giants to showcase more AI robots"
-    excerpt: "At the Consumer Electronics Show kicking off on Tuesday (Jan 7) in Las Vegas, South Korean tech leaders will demonstrate how their robots can live together with humans and what roles they will play, blending artificial intelligence into people’s everyday life at their exhibition booths in the Las Vegas Convention Center (LVCC). Samsung ..."
-    publishedDateTime: 2020-01-06T09:30:00Z
-    sourceUrl: https://www.thestar.com.my/news/regional/2020/01/06/south-korean-tech-giants-to-showcase-more-ai-robots
+  - title: "Smart toothbrush to robot, all that P&G unveiled at CES 2020"
+    excerpt: "It also supports artificial intelligence tracking via the Oral-B iO app that provides real-time individual ... RollBot that is claimed to be a first-of-its-kind robot, when controlled with a smartphone using Bluetooth, delivers a fresh roll of toilet paper. SmellSense, on the other hand, is an electronic sensor monitoring system that will ..."
+    publishedDateTime: 2020-01-06T14:29:00Z
+    sourceUrl: https://www.businesstoday.in/technology/news/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/story/393255.html
+    ampUrl: https://m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: Business Today
+      domain: businesstoday.in
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.7481BF46AE86BA133DCA0C4735251096
+      - url: https://www.bing.com/th?id=ON.434B7A017001E9150ED5D238C4A23A7B
+        width: 505
+        height: 264
+  - title: "Meet the robots coming to CES 2020"
+    excerpt: "It is unknown if Samsung is developing artificial intelligence (AI) for robots or an actual robot is being designed for a specific industry. More will obviously be revealed in just a few days when CES starts. Kiwibot is a delivery robot that has already been deployed on a few campuses around the U.S. The company is currently working on a new ..."
+    publishedDateTime: 2020-01-02T13:51:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14458/meet-the-robots-coming-to-ces-2020
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767
         width: 700
-        height: 519
+        height: 393
 
 secured: "kNV+olf1Ns3t+0yLPQgJ5nePyjde5JxRkWrHG7BGsK74K29v/x6of4KR8ki5zMRgpVL3SA7wmvyLsGv325EnbJ9ppwMRGnzj+uE03I5qHVOjetzR8Xi6Hy6066J2cSTR//cd/mpsvz07sQdWUBHrJk11zs6CnAjFa0Sjt0q7D5Si46R3Agd9R+zUhHjQuUDypqNQP0+HcfrMkSuGA75A9a7n24DxHtNz94WSEmmC5y8b7fJjUf8lvphCBMVBEBSAXJlv2KJ07xtD3nCbaNl0+w==;9h6fjB5f+zSiDJkcrOjvtg=="
 ---

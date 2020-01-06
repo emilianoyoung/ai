@@ -34,21 +34,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
         width: 876
         height: 548
-  - title: "Intel spends $2bn on Habana Labs in AI data centre push"
-    excerpt: "Habana Labs builds AI accelerators, which are a type of processor designed specifically for AI applications, such as machine learning or computer vision — they're what a GPU is for graphics, but for AI. Habana will remain independent from Intel with the current management team remaining in place, and continue to be based out of Israel."
-    publishedDateTime: 2019-12-17T13:16:00Z
-    sourceUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push
-    ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push?amp
-    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354382/intel-spends-2bn-on-habana-labs-in-ai-data-centre-push?amp
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
-        width: 700
-        height: 447
   - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
     excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
     publishedDateTime: 2019-12-17T20:44:00Z

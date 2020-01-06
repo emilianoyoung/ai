@@ -23,6 +23,17 @@ images:
     height: 366
     title: "Novatek Adopts CEVA Audio/Voice DSP and Software for Smart TV SoCs"
 
+related:
+  - title: "Fluent.ai and Ambiq Micro Announce Partnership to Expand Voice Interface Use Cases Across a Variety of Smart Devices"
+    excerpt: "The unique and patented speech-to-intent approach allows development of speech recognition models in any existing language and offers unmatched multilingual capabilities. Ambiq Micro is leading the world in energy-efficient semiconductor design, redefining \"ultra-low power\" with its unique and proprietary Subthreshold Power-Optimized Technology ..."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966550/0/en/Fluent-ai-and-Ambiq-Micro-Announce-Partnership-to-Expand-Voice-Interface-Use-Cases-Across-a-Variety-of-Smart-Devices.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "0QhxkhbL+BPpWat338/+Sr1fe5GH4G/djK4NkErpGDbRzmHGhDjj+uJUk6sBJzoevEPZzS2zPCIH+G9fd3jZOOHGe42KlCERJ9pm7E7aVxfmg9r4TagxkZxtHKhOTILzbsE/l1Aa2NOxOEq0oIAk1ezHTFiSyUeQ+pDAMEAUycTBBBtEfr2YVct1uXiQnqC+vcVBV9f4LupGwDnua0L3Svtav5Ywr70NJs4phEH+UF20e3b9HOT7fZt3ED7/0NvjKWc2TYw/ECpDJ+cMHWqXqA==;xZQUgHGU5JiGjLEiF9Xqjg=="
 ---
 

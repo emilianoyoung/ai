@@ -29,6 +29,6 @@ images:
     height: 525
     title: "Cloudera tackles machine learning \"ops,\" governance"
 
-secured: "hWC47qcwrt+tLX6AnSxlQCZWWcXnWhZVWiHWZG2ozDAnB5tPGnQfHevIGhfKvl9/LtB6J0JmzYlBvz8UbK32L0iHAThKnGYrvyNyz+0sacDveqpADgrZ4qf4ccrCCD1LiXROpH+/cy29LE95XeNT+mhLQsPulwJvlTWRW79bj9rHviNT0oAp7uzWJlM83pP6/GhT58ybqN6iJnFHTsoPurA3/5jN2CowQIONWX3KZ2HCWMEk17YfRLiM+jKTy87BzV2mIjVMtb7NN2Fd6EDjog==;CAA2h7JpY2CYXmajpiwCag=="
+secured: "hhEIDxtj5FbcPefXU4C+SIpTEDrRprhH0wxGrkZbZ4T+jCuxMhe2JBLPuL9DWWpy4HwJWKfypXcJEP6Z163MCcog2+lkcXXo++h8v2+62tQtK7dHCpnVZzrEnGCthZ40U2UzSP9lcPcGrbrUbIh1U7NNjiIUNTYBakXRH2UrsB9bV/6nvKREYDnkzJIHu+Y5slyAlvfW5QCD8iRyfRyYDxDD98/8kwCtUnww+umKXWPZ73nb1FkyXs4v6Szuhsy12cvPQsNOJBFvWPSLEyCevA==;RItLeQ/js+Cd1T65GBBKWw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
 quality: 93
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -43,33 +43,7 @@ related:
       - url: https://etimg.etb2bimg.com/thumb/msid-72864503,imgsize-62446,width-800,height-434,overlay-etcio/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider.jpg
         width: 800
         height: 434
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-17T12:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-        width: 700
-        height: 365
-  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
-    publishedDateTime: 2019-12-17T13:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
-secured: "EH/qnVlSRkVV35jWWGRN+qSpTjc3mWa/+5W/9lc9jm2Up3dLikUqJEpmlhrhfQy3ILt9EXd7mD2vl290b/sgO1EKrR6oD6HrsJutKuy/vcEI7KZzFacNPEPJQhc2HRSTAwkB1BXPccd7lVX6IFv9zTTYh8YRwJ3YhZLk4ZtAetJod5jknYsWFykWeiYM8K0wLO5aOqFBdVnoIzmXnZ+YSz1klYr2Y/a7bFs0BU579z5I5HDdTeYIzcdn6WvUjax41QBuP6516LyfGRSa5+ac3A==;bs/pwkGQiNcRau9TKmkkXQ=="
+secured: "WoTrvIXKUFVzkim63gXof7JtgZhI5bOVQ+BGCpFK8ooTZ6tbFwLT9xZEnyAUL9e9ULeexqgGsUK7VRImlH4XkRtbebDWEV6TP13JF4EtOu44+I8U4GYzptpNnNDIUwlkb/pw/ct9+JvcWuwKbs+/CE5VUeCk66NF28knBIdO9S5Vli9Tieac+12dPcyrE1kktNqaiMWAsdP50pDLbU3ySq4gGI8FGC5eQdpjcQHPvTRzxm4jtWR075seR4VklM7X1emmVaZ4XB/d8mf5sMcJMg==;XZ4AMn5/qQn+VL2ukn+g2w=="
 ---
 

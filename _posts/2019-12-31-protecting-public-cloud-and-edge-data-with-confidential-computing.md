@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data-with-confidential-computing/amp/
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: VentureBeat
@@ -30,21 +30,21 @@ images:
     title: "Protecting public cloud and edge data with confidential computing"
 
 related:
-  - title: "Protecting data on public clouds and edges with confidential computing"
-    excerpt: "One big draw: seemingly bottomless trenches of data to help develop and train machine learning systems. While placing and processing intellectual ... computing is already impacting the cloud and application development, look to Microsoft’s Azure confidential computing efforts. Even before the Confidential Computing Consortium kicked off ..."
-    publishedDateTime: 2019-12-31T22:21:00Z
-    sourceUrl: https://venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data-with-confidential-computing/
-    ampUrl: https://venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data-with-confidential-computing/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data-with-confidential-computing/amp/
+  - title: "Processors re-imagined: Will cloud and AI lead mean all change in the datacentre?"
+    excerpt: "This will be followed by Ice Lake, which is set to be Intel’s first server chip family manufactured using a 10nm (nanometre) process. Ice Lake features a redesigned core with wider and deeper instruction pipelines, and will also implement more instructions targeting artificial intelligence (AI) and machine learning. Coming in 2021 is a major ..."
+    publishedDateTime: 2020-01-02T14:25:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre
+    ampUrl: https://www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Processors-re-imagined-Will-cloud-and-AI-lead-mean-all-change-in-the-datacentre?amp=1
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.D57852237CBAC8808C2F7D502008D71B
+      - url: https://www.bing.com/th?id=ON.2D1D8CC86698CDF91426608B7629FA07
         width: 700
-        height: 588
+        height: 233
   - title: "Cloud computing finally became mainstream in 2019 and there is much to look forward to"
     excerpt: "Amazon has already become one of the top players with AWS and Microsoft has transitioned into a prominent cloud player ... In 2020, we’re probably going to see a deeper integration of cloud with automation, artificial intelligence and others. However, having said this, Cloud’s growth will not be without challenges. “One of the classic ..."
     publishedDateTime: 2019-12-31T12:32:00Z
@@ -60,6 +60,17 @@ related:
       - url: https://www.bing.com/th?id=ON.008FC4D01114ACF33AFFAC47BA460C8A
         width: 700
         height: 393
+  - title: "Cloud computing predictions for 2020"
+    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
+    publishedDateTime: 2020-01-06T08:52:00Z
+    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 24
 
 secured: "/QB/uJ2HiZfPvanamjgCRo6kos4PTl3dk1Y52bu6//AScdFJJ968MR/bkdbjS5Jobm6K8hTEyCeORXjHgPRMBozMiLtuSRbNzj+se60ro4D1Atq1zJr2wQBKyS4NCANRSvA3oB/OSxryKMgUk9OakYHSQrLKfEg+QMFQlhjsS8AauteBlRGClesQOV5twKiZXfzRpN4CaPrp42bm/cpmEQQm5EU6NfS60z18nbKRVAJ313U1wAcykco49v+hkITBKGBDIM5cdQCFCZ9qrylnLQ==;bsbEfTe3evUlN38TVL4WcA=="
 ---

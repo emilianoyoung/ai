@@ -257,15 +257,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 6
-  - title: "Artificial Intelligence in Retail Market 2019 Size, Share, Growth, Trends, Top Players, Regional Demand, Key Drivers and Opportunities by"
-    excerpt: "Global Artificial Intelligence in Retail industry market professional research 2014-2024, is a report which provides the details about industry overview, industry chain, market size (sales, revenue, and growth rate), gross margin, major manufacturers, development trends and forecast. Get Sample Copy of this Report @ https://www.orianresearch ..."
-    publishedDateTime: 2019-12-17T13:21:00Z
-    sourceUrl: https://www.openpr.com/news/1880315/artificial-intelligence-in-retail-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Enterprise Artificial Intelligence (AI) Market Manufacturers, Industry Size, Challenges, Drivers, Countries, and Technology Forecast to 2026"
     excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent ... Depending on industry vertical, the market is segmented into media & advertising, BFSI, IT & telecom, retail, healthcare, automotive & transportation, and others. Based on region, the market is analyzed across North America, Europe, Asia-Pacific, and LAMEA."
     publishedDateTime: 2019-12-24T10:14:00Z

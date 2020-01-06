@@ -24,21 +24,6 @@ images:
     height: 365
     title: "Artificial intelligence for the benefit of all"
 
-related:
-  - title: "9 Benefits of Artificial Intelligence on Customer Service"
-    excerpt: "Artificial intelligence is all around us at this point, and the benefits of the technology are only just starting to become obvious. Many companies have successfully integrated AI into their own work in various ways, and one of the fields that have benefitted from this the most is customer service. There are many ways to provide a better ..."
-    publishedDateTime: 2019-12-17T13:12:00Z
-    sourceUrl: https://www.business.com/articles/artificial-intelligence-customer-service/
-    type: article
-    provider:
-      name: Business.com
-      domain: business.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.587A16044C5443E9C1AE34EB80C780F2
-        width: 700
-        height: 467
-
 secured: "sJK/70Xcb8cvlRXwbNhNDvqvXzjUiIV5Qr56lE1mOSJGPKIIlnpqHeoJzG9Q6tDywtqwRz19zFxDXZPxPC4lRfW1N2ndE0vfR/t4BczF7Dt4+i3JEDEDIN+6pkQOJ1u/Df9hG8xm3J5dyGcVCBkgq7aFHO0AdCY+xrvFB+2X++/MD257HNBJslzidQUlBcnCZJyrwBWTeVMBrJv1g2YlXFMiLYrWb6mHGDHzMC97oqtpANj9jVwQTmw/IHgsFRCDC6Pd6jTG/JnPmP5A5m5X0A==;CyxeY3rjOWMDDUA92XUbWw=="
 ---
 

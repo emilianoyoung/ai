@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T20:10:00Z
 sourceUrl: https://www.medscape.com/viewarticle/923353
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "The Week That Wasn't: Cancer in Space, AI Predicts Intelligence, Curing Blindness"
 
 related:
-  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
-    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
-        width: 700
-        height: 373
   - title: "10 Leading tech trends: How artificial intelligence will evolve in the coming year"
     excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
     publishedDateTime: 2020-01-06T06:52:00Z

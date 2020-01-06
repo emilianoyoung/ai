@@ -8,8 +8,8 @@ ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unve
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Digital Trends
@@ -29,21 +29,6 @@ images:
     title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
 
 related:
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
-        width: 700
-        height: 357
   - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
     excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
     publishedDateTime: 2019-12-30T22:30:00Z

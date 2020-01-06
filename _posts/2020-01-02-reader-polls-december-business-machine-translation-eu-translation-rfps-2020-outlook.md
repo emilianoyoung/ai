@@ -115,6 +115,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
 
 secured: "8tMXN1QJ3EOmfF2BjD+14tQPMLJNhMNQQnc6J5ulgj7chN4eZO5nc2jOfhhwnd3X4TzhDRSdiZN4z6fTEw/wcmIrw3KOqSc0RvRKAxzbREgmzF6T04vZTtILGiubMA8/0XMIWhRkAH2sSBavycdXAEUVpW7/JgCd/ByBCEU2p7RTdI6i2L++GGKt/FZA53UG/gDeDQIY3C/Xdcr+X2VRkCGidvktc3Z8EuiaBjVO3dbiA6c6TXZBzWX67cUTBclW7WUJWDJ0jR8ovCL4E39jzQ==;doqs/kTvNZ5PyWD4wJBPxA=="
 ---

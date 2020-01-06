@@ -8,7 +8,7 @@ ampUrl: https://www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image
 cdnAmpUrl: https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -20,21 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "AI super resolution lets you ‘zoom and enhance’ in Pixelmator Pro"
-    excerpt: "The “zoom and enhance” trope is a TV cliché, but advances in AI are ... MacBook Pro), it’s fast enough to be a boon to designers and image editors of all stripes. There are some examples below from Pixelmator, with a zoomed-in low resolution image on the left, and the processed ML Super Resolution image on the right: You can see more ..."
-    publishedDateTime: 2019-12-17T14:00:00Z
-    sourceUrl: https://www.theverge.com/2019/12/17/21025811/ai-super-resolution-zoom-enhance-pixelmator-pro
-    ampUrl: https://www.theverge.com/platform/amp/2019/12/17/21025811/ai-super-resolution-zoom-enhance-pixelmator-pro
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/17/21025811/ai-super-resolution-zoom-enhance-pixelmator-pro
+  - title: "Detection of anaemia from retinal fundus images via deep learning"
+    excerpt: "Owing to the invasiveness of diagnostic tests for anaemia and the costs associated with screening for it, the condition is often undetected. Here, we show that anaemia can be detected via machine-learning algorithms trained using retinal fundus images, study participant metadata (including race or ethnicity, age, sex and blood pressure ..."
+    publishedDateTime: 2019-12-23T16:15:00Z
+    sourceUrl: https://www.nature.com/articles/s41551-019-0487-z?error=cookies_not_supported&code=e89ff1a0-d8f9-42f7-b965-6e899f5b659f
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 187
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: https://cdn.vox-cdn.com/thumbor/jF8pc0B-qpGBIoLxT9azcYDtAew=/0x0:600x375/1400x933/filters:focal(252x140:348x236):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65922117/pixelmator_ml_super_resolution_gif.0.gif
-        width: 600
-        height: 375
+      - url: https://www.bing.com/th?id=ON.19C51A1405BE85B8D7B18A025EF1CA5A
+        width: 685
+        height: 657
 
 secured: "QFSYFnqYkzKu3157I6b3w2SJwA+6yCZ/GR8IYTzOQCfCOI7na8MuDZzHtBIhlKON5tQYs2cFDEEatv72uTgv7Wc/LCbOjZcCkjVCTuEIdmCdHigA1aMdkE7batkwEK1fCeqIsPoyWiMeySg28LC8+J9qjinSBG1r+taW1rdo/nCsqjYzTaoipqkM5BnNSJUxnbUbrPCyMpbjds3bL0XB9vfplUGbnobg/aoP3uEJiNjCQe2dAoigUfMC8YQbU7kcl3ASSa4mTyfZMVlwRcgpOw==;BPgnr8USTidblqZOAeZQUA=="
 ---

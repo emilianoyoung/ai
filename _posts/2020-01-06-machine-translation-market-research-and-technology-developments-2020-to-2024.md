@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T08:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
 type: article
 quality: 68
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -120,6 +120,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
         width: 400
         height: 400
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
 
 secured: "KVSjCVEhA6P0RaQQsSxyXsv49arA8tZ+okmHaYPflIgFEtP6/eHHWWw5jleBK4tPV2Ake61QEnlo8+qaD9hqUKV8tDdTHzP9NzA+SS7PU78GunyrgHsk9WtEAnKLYoxNwtJaaZv1HjgGWhuFFR5ot2AJeI3cK6Z2qou2KBSvQHW6HrV7x4zu8Nn7hDtp3CNtvaZbGX5Q227b8mVvtdIckd5Oxw929e6O6GYVE2MBzUCVIFllH2xcX1SzZy3eCbGvxZBcYGBiHDK/Z/vCRDm4GA==;EhUOa9Tvr+AbHw37x/raWQ=="
 ---

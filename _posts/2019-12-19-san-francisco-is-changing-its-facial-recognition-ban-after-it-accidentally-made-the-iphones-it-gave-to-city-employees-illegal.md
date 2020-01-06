@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
         width: 700
         height: 392
-  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition for Accurate Employee Time Tracking"
-    excerpt: "PAYSON, Utah, Dec. 17, 2019 /PRNewswire-PRWeb/ -- AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME's face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify ..."
-    publishedDateTime: 2019-12-17T13:17:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/workmax-time-by-abouttime-technologies-unveils-face-recognition-for-accurate-employee-time-tracking-8332180
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 25
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
   - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition For Accurate Employee Time Tracking"
     excerpt: "Payson, UT (PRWEB) - AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME’s face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify the employee’s identity ..."
     publishedDateTime: 2019-12-19T06:52:00Z

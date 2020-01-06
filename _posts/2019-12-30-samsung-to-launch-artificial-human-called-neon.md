@@ -25,21 +25,6 @@ images:
     title: "Samsung To Launch ‘Artificial Human’ Called Neon"
 
 related:
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
-        width: 700
-        height: 357
   - title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
     excerpt: "Samsung is set to unveil a new artificial intelligence product named Neon at CES 2020, and apparently, it will be nothing like the company’s A.I.-powered digital assistant Bixby. Not much is known about Neon so far, aside from what has been posted so far on the product’s social media pages. The pinned tweet for Neon’s official Twitter ..."
     publishedDateTime: 2019-12-29T15:30:00Z

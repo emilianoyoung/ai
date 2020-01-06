@@ -39,32 +39,6 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
         width: 1575
         height: 847
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-17T12:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-        width: 700
-        height: 365
-  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
-    publishedDateTime: 2019-12-17T13:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "P17KFQ9YOz6NrbnrQkUqS+4mzVE5REpZn1wthOooA8xzSB+m7X/cTwzQcpS+80psgtpLQr46dElsrn9yYIcFIMZXKyddKtVpyvLxtCEyr/goFFcmVmJTa5XhXtVjfaVRM7eYQ+qDxzFg2Qr9EX5FfS7K9mfOrKwAlRXJKx2bYQtg490EddRg9TJXAfztNSnpAP2lF0VINLR/8u18d/HOz5JHFwxlk7o/rUcKfBM7mQlCI6axe0+ndASO68r8uADCR6GGgP88lfG0BkAGAFPkoA==;oxik7kbPdIFk/VNTe7ctig=="
 ---

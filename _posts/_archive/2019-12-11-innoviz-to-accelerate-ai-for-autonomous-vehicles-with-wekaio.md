@@ -23,6 +23,6 @@ images:
     height: 1068
     title: "Innoviz to Accelerate AI for Autonomous Vehicles with WekaIO"
 
-secured: "/ktC80nD9VFLOXJNoN6FvMtMzc2CnnKxEEa6Rrb9bQ5qQhUUaa1bSytNE/umU53BEha4t2yqxmIv+nQX+ZT4B3zgXgF/hDSXMzyZWm+hDT7T0lVrrU69GOknEisJ6s5zyrnG7P4hoVU3mOkkgWhowzI/l7Y190WVw5FnZ4J4N6bQUtsilripB2NgLi/io8Ahs97O9dwQhj4GMQyMENbYwNu6o564l+piOQhHAj0/QcQofWCq2fJQ8aoV16skWoLrB80I18YM2Z4dAY4eA2k8JA==;yhXN7N8n4TMRJDSOhluFHA=="
+secured: "LRi/N49zZQ0TZNeGqIJdWM6oLBCnI6iSym7RBKiLt+qkL1U9EzaLDRwl6y5aMDYHB9cTI/2+suBbxGuz3BQQH+R5pnNYNHH+6etvM1MxDrd9Nayqd5ENbsqc5OTeWOo73K7Ah2YaCSNtJR9rX/gkM1LVLijvRxUXxDjI2OwbxApX2QitQwXzYGnoxlNEjGtO5LdAXCGkGwytPC2anQQ0UnIZzFcwiHZuX13y1tvPoVjp3vrT8IO9oQq5Oad7ZnvFTTARM+T03xw6MMTsU3XbTQ==;GVKLEpKly0AFdGLae60IuQ=="
 ---
 

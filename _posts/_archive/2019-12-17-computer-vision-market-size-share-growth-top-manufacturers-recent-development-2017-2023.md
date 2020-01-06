@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T13:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
 
 related:
-  - title: "Artificial Intelligence Service Market 2019 Size, Share, Growth, Trends, Demand, Manufacturer Analysis and Region with CARG"
-    excerpt: "Verticals in the AI as a service market include Banking, Financial Services, and Insurance (BFSI), healthcare and life sciences ... and gross margin Artificial Intelligence Service by regions like North America, Europe, Japan, China and other countries."
-    publishedDateTime: 2019-12-17T13:26:00Z
-    sourceUrl: https://www.openpr.com/news/1880317/artificial-intelligence-service-market-2019-size-share
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Smart Speaker Market Top Manufacturers, Consumption, Sales, Revenue & Trend For Next 5 Years"
     excerpt: "Get Access to Sample Pages @ https://www.marketgrowthinsight.com/sample/38718 Advancement in microphones, automated speech recognition technology, and natural language processing (NLP) help the smart speakers to identify and process the voice command of ..."
     publishedDateTime: 2019-12-19T09:50:00Z
@@ -47,6 +38,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "KiWiL0MqiUXGYaxgUb8hhRGr8cQo8jItlzLbs5eDASAVHlFNIeOgg1HJgH+V+T9MiFxGYzAXO7BZs0cEWrpZOItxXT9HXdLD2+RRlEY5j9MkZsCPPd5+Glk1xuD1opl2asyPZa49g8gS/2Vcn2eJiWBlBPApXrZ1KDz7cNJ3kI0+qYEujXHk0+66sBTh/DUetL4V98wkLegOrZ708/+LhaggyrcWkk6447jVDCvLgG5QR3IvdUkk8wNPgTY7RcY2fhCTMKTnItye/KdjjTapjw==;OZyMZO8AbEYTgvP71akzVQ=="
+secured: "HdOLeb0G+Ucs9VlQ7VtHsT6QcXzWocYIri7c0TLqpkr/tgRkZIdmB5VxBt92WfpPH2rQ6mHmUarmo4aDN73zgHW27HhVpVcBHoiL2GqlcyWWtnwTEpTEc7OLC+q4ykZA2/29q6cNxaGtYayxAXUYaOeym9GOgwNMeP19nPmTTOlzXBQMOLUmnv8KGFPdtnRxOn0Equ7bJfDkULilhaxgClg4aV50uQXIAq2dsmbY2k6oYK2570HS/gezSHO4uUKw5UhINbCeFFIu0SmWD0WFrQ==;TLDxwOXCbSTsoBGtHxC6rA=="
 ---
 

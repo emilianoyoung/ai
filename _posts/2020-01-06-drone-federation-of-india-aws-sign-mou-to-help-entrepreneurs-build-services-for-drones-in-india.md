@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
         width: 700
         height: 393
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
+        width: 600
+        height: 338
   - title: "Amazon’s Cloud Arm to Accelerate India’s Drone Ecosystem: DFI"
     excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
     publishedDateTime: 2020-01-06T11:42:00Z
