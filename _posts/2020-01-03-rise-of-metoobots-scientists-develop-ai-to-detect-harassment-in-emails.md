@@ -2,16 +2,18 @@
 category: news
 title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 excerpt: "City firms experimenting with tech that flags harassment but critics question effectiveness"
-publishedDateTime: 2020-01-03T21:42:00Z
-sourceUrl: https://www.msn.com/en-nz/news/offbeat/rise-of-23metoobots-scientists-develop-ai-to-detect-harassment-in-emails/ar-BBYAWCi
+publishedDateTime: 2020-01-03T07:00:00Z
+sourceUrl: https://www.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+ampUrl: https://amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
+cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/03/metoobots-scientists-develop-ai-detect-harassment
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
-  name: The Guardian on MSN.com
-  domain: msn.com
+  name: The Guardian
+  domain: theguardian.com
 
 topics:
   - AI
@@ -22,6 +24,6 @@ images:
     height: 367
     title: "Rise of #MeTooBots: scientists develop AI to detect harassment in emails"
 
-secured: "jS9wSllEATDz1K2syKWsaOO5wVrLBalckadHHmU7Vp0z37yYhSvLThOHrWAD6lel/l5aB5By/Rsf8xOXMs0bZ0dYvoGCrVpuA06eazGvHZvpWI8soOSrFPj5HptWKsZrbPXaQoyWhXzEIZEUbDiyyq2g2Qb2Bjdrp1Ho+uoSip/pagi/AHIuGEaiQjfRWSt0RNlCZwgqyGppl/LZusTz9TGbLGbyrV0U+O/tNLdtdKlfEDVKZ+9AuBKnn7TPeRevpj8crTGnXFiXwFifdRtRCQ==;bBmf1giByKnITmkbyR8DhQ=="
+secured: "lkj1F6C0Vt6zvq2p4S7CvVYrVnvOiXo8s4NGnsEZwaJ3AKRrdWbqgvZTSNfwT78r13L74Bx5+jg3zlHFGcFEwn60sUnog9KXpWiMzyuKmjmHwv/eII1B3IJvsa4RdwmOKEjrmImf/GAZIfkxyeT7Bv2y9DdSYwsXvBSgJHwL9PTFKI7wB/Eaf6S78hh3oi8iBLzBvWkWjzpMhti72U20kTe5HH9d7crIc2gk1XU3j7/gqlnr8VfumO1KVZpYtQxUSy2vypyz6rIK31B9fbdxdw==;mGjYrsUjrqfn9oRiFe6jmA=="
 ---
 

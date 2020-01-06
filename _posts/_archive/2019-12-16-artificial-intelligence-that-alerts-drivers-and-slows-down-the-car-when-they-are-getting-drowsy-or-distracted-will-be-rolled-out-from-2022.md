@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence that alerts drivers and slows down the car when they are getting drowsy or distracted will be rolled out from 2022"
-excerpt: "Scroll down for video 'If the car knows what its driver and occupants are doing, driving will become safer and more convenient,' said Bosch ... A facial recognition system used by officials in China connects to millions of CCTV cameras and uses artificial intelligence to pick out targets. Experts believe that facial recognition technology ..."
+excerpt: "Scroll down for video 'If the car knows what its driver and occupants are doing, driving will become safer and more ... in China connects to millions of CCTV cameras and uses artificial intelligence to pick out targets. Experts believe that facial ..."
 publishedDateTime: 2019-12-16T11:04:00Z
 sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7796651/AI-alerts-drivers-getting-drowsy-distracted-rolled-2022.html
 ampUrl: https://www.dailymail.co.uk/sciencetech/article-7796651/amp/AI-alerts-drivers-getting-drowsy-distracted-rolled-2022.html
@@ -25,6 +25,6 @@ images:
     height: 382
     title: "Artificial intelligence that alerts drivers and slows down the car when they are getting drowsy or distracted will be rolled out from 2022"
 
-secured: "JJZQ91SBlC77wV8de1XMoqttdUf24LdBwAM3PRVUY44LEgpHs2G/j5i244M7WpWWe4GIlVrq3H4TRr3xZ7eS2QsXijh/buD2qTGWE30XD2VcF1C9JZp/hYqsRJUI3dkakR6dALjAZCKCSsYSSnMnMRtj8Z35qaeILVzXu5WNYiCopOpMIRiRJ9x9iuyO9hOHGcYhba10v2jQyTLadxdk1IBCPuPJVfDRAoUydlawCo1/iJGeZM0vNaZ0fGAP+AAGCRBHYVvWnLeYcVYWK2oeTQ==;TtOCgAjKcjdunU63ShJuzg=="
+secured: "bHNwfwp4mQgQ/9k5zMXsT/qpdn13rCDg0BDBmhx1ed3sl/nhZ1WXATuNX2HakSRA41vEyIcN/W/GUTALzda76DgUyFEUajO0UA5npSFVBRR+FNrXpeu4ogoNsnJz3O4ajMSS4hYDHP7rqopXxUlTlRdVsww0CGpd0eLEcRF7lF9ANaudiJwsaaLejGsy1sivCO2KEUyBhQ6rF1td1qerimqlRTGdy+3q/5vAoWboWSIBMAbMlW4n5qpDZCjsn7X+y1tjR6A8xGR3jnZV26ZxWw==;v5CocI/rLj4KMv55rXekFA=="
 ---
 

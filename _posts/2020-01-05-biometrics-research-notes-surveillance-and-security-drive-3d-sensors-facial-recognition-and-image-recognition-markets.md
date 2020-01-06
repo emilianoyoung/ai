@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Lockport schools activate facial recognition system"
-excerpt: "A new year also marked the start of a new era for security efforts in Lockport's public schools. The district announced on its website Thursday that it has activated its $1.4 million facial recognition system in all schools. The Lockport Board of Education has yet to approve policy changes the State Education Department requested in late November."
-publishedDateTime: 2020-01-03T17:28:00Z
-sourceUrl: https://buffalonews.com/2020/01/03/lockport-schools-activate-facial-recognition-system/
+title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
+excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
+publishedDateTime: 2020-01-05T23:01:00Z
+sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
 type: article
-quality: 39
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Biometric Companies
+  domain: biometricupdate.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
+  - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
     width: 700
-    height: 525
-    title: "Lockport schools activate facial recognition system"
+    height: 344
+    title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -595,6 +595,19 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 39
+  - title: "Lockport schools activate facial recognition system"
+    excerpt: "A new year also marked the start of a new era for security efforts in Lockport's public schools. The district announced on its website Thursday that it has activated its $1.4 million facial recognition system in all schools. The Lockport Board of Education has yet to approve policy changes the State Education Department requested in late November."
+    publishedDateTime: 2020-01-03T17:28:00Z
+    sourceUrl: https://buffalonews.com/2020/01/03/lockport-schools-activate-facial-recognition-system/
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BF3A55BCEC1C727C51A62B48C905EE47
+        width: 700
+        height: 525
   - title: "How are police using facial recognition?"
     excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
     publishedDateTime: 2020-01-04T11:00:00Z
@@ -820,19 +833,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
-  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
-    excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
-    publishedDateTime: 2020-01-05T23:01:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
-        width: 700
-        height: 344
   - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
     excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
     publishedDateTime: 2019-12-24T06:57:00Z
@@ -847,6 +847,6 @@ related:
         width: 336
         height: 254
 
-secured: "KqCRP90GiudvxxrCyQ0HkKf+0gHWaeSG/+TZ1WgcIazgTZrd2lQr8mNW44n7hGVV/NM6cMglbrTE+JfrhRES6+8qF8Y7zd2EOAfC7dGC2hmkixJAuTJgkzD+pZdZnwWwfsM2rH2oNIKVLGIkwOEdq0NJXF5ziAgrM6YLu8KjAb9ztPw+JNCWIZWZVeP5E1rIDleLHp6jr3lstGoajUfcQ2z4NIPehFouH8lAyS69eN4IVhByZCegy5loJ5ezFwXpr+3qwqKtWUVfeXp8WBHKzQ==;QXJzc2n/oWm6z9pIeKXJ4A=="
+secured: "OBf+h9Vmwm9U7n3d9aq6Db0kwOIhkr9fY96d7+4jQuIU7hwA9NN59hmc5sB1pfPFcf3bjWcz710K7UNgKnJTYWS49RRI7HNSQ9cyvp9YVsgrekZQfVAzdvBBGoQcWdNEQxdIPoYotXLBIdqZVXBqor91B1C6d4RPrDudEeaIMyfGKL9ujtAf633Mdl9hmm72b5WodblJ9ZCj0DEYsBAK/UnDCnKQCJRH4h2kSPHaGxG1z27rrd7+p6kFNvT4fPtiHp4pCXJT+UQ3DnBgM/cp6g==;BrEDyIORK1cKcYSOgEshug=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diag
 cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/amp/
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
         width: 700
         height: 350
+  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
+    excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
+    publishedDateTime: 2020-01-05T23:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDKpW
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
+        width: 700
+        height: 367
 
 secured: "orDdjyW3cXAmIzH8n7hMLy+n2H0pX8s+K/mPGP303n7e2q13qsBqtiwggv6aBhW+46ofHCQ8gsihBqhXBFnXCDurxDOZ/LQyzUAEOCPu3sWTUcHKjrb1TwEJlf2FoBsAuyx15F6h5mgLTecq2Evwi6OOADqzzQUIl6KKunn6E11il0HN00cc3sEWUi6JwwwI1MIXB2XbfRFmmk9TaE2ZDCDfh7guwS+UR92GwL9Cj4j/6BwAJxFl0tiamXBuz3xIQSHvtYOrPZizDvefIQoWnA==;OFqyyB81X/e2a0WHdJj9jQ=="
 ---

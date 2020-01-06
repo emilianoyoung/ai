@@ -8,7 +8,7 @@ ampUrl: https://www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-fa
 cdnAmpUrl: https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2019/12/privacy-fears-india-police-facial-recognition-rally-191230120123892.html
 type: article
 quality: 159
-heat: 739
+heat: 759
 published: true
 
 provider:
@@ -807,6 +807,32 @@ related:
       - url: https://www.bing.com/th?id=ON.0A09DE6F4F3BF7B103A0452F38C31A04
         width: 700
         height: 366
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, image and facial recognition markets"
+    excerpt: "The wide range of product applications for image recognition is expected to boost market growth. The “Image recognition market…” report covers facial recognition, object recognition, pattern recognition, and optical character recognition, and predicts a 19.6 percent CAGR from $20.19 billion in 2018. An increasing number of products in the ..."
+    publishedDateTime: 2020-01-05T23:14:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-image-and-facial-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
+        width: 700
+        height: 344
+  - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
+    excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
+    publishedDateTime: 2020-01-05T23:01:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/biometrics-research-notes-surveillance-and-security-drive-3d-sensors-facial-recognition-and-image-recognition-markets
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
+        width: 700
+        height: 344
   - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
     excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
     publishedDateTime: 2019-12-24T06:57:00Z

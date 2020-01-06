@@ -65,19 +65,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
         width: 600
         height: 390
-  - title: "80% of healthcare professionals say AI has decreased burnout: 3 notes"
-    excerpt: "In contrast to fears that the widespread use of artificial intelligence will dehumanize healthcare, the vast majority of medical professionals who regularly use AI say it improves workflows and reduces clinical error, according to a new report. The MIT Technology Review and GE Healthcare surveyed more than 900 healthcare professionals in the U ..."
-    publishedDateTime: 2019-12-16T22:10:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/80-of-healthcare-professionals-say-ai-has-decreased-burnout-3-notes.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg
-        width: 400
-        height: 300
   - title: "How can healthcare achieve real technology driven transformation?"
     excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
     publishedDateTime: 2019-12-19T20:50:00Z

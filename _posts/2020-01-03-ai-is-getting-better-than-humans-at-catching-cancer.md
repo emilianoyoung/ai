@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0964E0C007B9ECE04A7042B9F23311CB
         width: 700
         height: 462
+  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
+    excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
+    publishedDateTime: 2020-01-05T23:00:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDKpW
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
+        width: 700
+        height: 367
 
 secured: "QepzAQHmqnrTzGR0yQN9/+ZBT9MiGpmdCpfcn/waVsqg7EfS0MuYbmfgZ/hAIFbav/p2iHCn4PSaF3GSWT2boCFFWRJzkFQmrSvj7oqehKDF75f1oJrhMOY0LqD/i3SFGSfD8R7uULCmfooiKKOECBkDkxywvsSlGvwcujuc6YtwYYwP+OWrfN0U+RegKCwLNmyq6LQFYz4lUJse1rU5PwNq+rz6u77RleXOoZ29cy2+coQ6MU9iGLYE1hmkmvnY52qFGFlIaqpw4fd2t/ZyTQ==;tFKlCXEuVkwABOa/k9ql0A=="
 ---
