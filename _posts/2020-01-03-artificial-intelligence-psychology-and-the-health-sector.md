@@ -7,7 +7,7 @@ sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -83,6 +84,6 @@ related:
         width: 615
         height: 384
 
-secured: "v9GJV7Gn6iIVj9czwYXYoVr0G4ryKmRU1eYlrFJBD0kgW9Qukcuc21H3ugf+F4L/zOGoI8kRTRZfzOYCnUVETAru9R1sZ1hnPsF9XpQsjloVPxA21GDrRGz31r1eEi1Es8GsRi1j0vq8osPYZV+Jev6GRZNPNu9U2UMB5EPYBb5iiu5ELHNusWoMaFlSODjtCYmt3P1ENJ7tRNqxvFwHU0DsDpjvD7Gc/rIu7xLe8MwFtP4QzSGa2DCK9aA0z0YBpXB9SobGIkgPFvwMYfcImg==;8umt/FrCOcYzPk/TvOJfzw=="
+secured: "I51CGkfjCancv4nqNCyUs3km3drNsual5AA7ySipj87rAFwYY1wzrwcSIilThVIOwC/8H6e6L3kh8/cwcKhXzZjPl1+SczKJ7BZc/U2JKXHUvhIMnIFsWsMVGLy5S1Rrp4wPDLuNkO8uLswMtv8tXE2xiMyBcVpzciOx+UI3+oq2iA9/ye4ZNwzyeIItnPsF3L6hvHuc2obTQD5KMHBRYurg3IbTFRuzwFzvbLf6bFvh68JYaSh6mbgmtFe/OcLMZRaKydDSAwzZq+9oPiI6yg==;dvoYZ9VLS2xwSyjtFb2saA=="
 ---
 

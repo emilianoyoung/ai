@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.670ABF7F727E210FE1A8F102125D473F
         width: 700
         height: 394
+  - title: "As securities services go digital, will robots replace brokers?"
+    excerpt: "Big securities companies are trying to catch up with the technological revolution in the financial industry by employing robots and artificial intelligence (AI) to provide services for their clients. Many securities firms that have invested heavily in technological platforms to provide services for their clients. – Photo tinnhanhchungkhoan.vn ..."
+    publishedDateTime: 2020-01-06T05:53:00Z
+    sourceUrl: https://vietnamnet.vn/en/business/as-securities-services-go-digital-will-robots-replace-brokers-606651.html
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8E00A1F8A1FA3036AEF458F46919C6CC
+        width: 480
+        height: 339
 
 secured: "qciTN42qDZ1njD4hQ0clrjsx6D6rkzpYZq25Vlbxz6BYUIUM17NqV2FKaBZIXukuUpW0IYzRlrVTnP96mjvROhMHY/mxFlRdjGFKyTVY4337RuOZhkhEbevmt4aDha9DIsDVxeFM+xVzcWUjMGQOSlhuPwDArM2Q7xy1YAGo3H4aV9q55lHAk6ohKVwpX/GTDKv7LhxF+I+cic7BKVHFb4xJNzC2/seH1qZPthdSKdIYFGH43YWH67ar4KL4Pi+zlj8KE8XQLaxWXhIqq/Ov4g==;9JF/rWeAR4naI0/mX7t2lg=="
 ---

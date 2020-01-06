@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Indian Police have started using face-recognition software to screen large crowds at protests"
-excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
-publishedDateTime: 2019-12-28T11:42:00Z
-sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
-ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
-cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+title: "New York school district now utilizing facial recognition system"
+excerpt: "After months of controversy, phase one of the Aegis Facial Recognition System in the schools is complete. Those in favor of the system say the technology can identify guns and weapons, while the facial recognition portion identifies people not allowed in school buildings."
+publishedDateTime: 2020-01-06T05:13:00Z
+sourceUrl: https://districtadministration.com/new-york-school-district-now-utilizing-facial-recognition-system/
 type: article
-quality: 33
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: District Administration Magazine
+  domain: districtadministration.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
-    width: 700
-    height: 411
-    title: "Indian Police have started using face-recognition software to screen large crowds at protests"
 
 related:
   - title: "Privacy fears as India police use facial recognition at rally"
@@ -731,6 +723,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1E50C9D0ADFE54506EA8BBD4CD65AF98
         width: 280
         height: 187
+  - title: "Indian Police have started using face-recognition software to screen large crowds at protests"
+    excerpt: "Indian police have started using facial-recognition software to screen large crowds as protests over a new religion-based citizenship law intensify, the Indian Express newspaper reported, citing people it didn’t identify.(Getty Images/iStockphoto) Indian police have started using facial-recognition software to screen large crowds as protests ..."
+    publishedDateTime: 2019-12-28T11:42:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK.html
+    ampUrl: https://m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/indian-police-have-started-using-face-recognition-software-to-screen-large-crowds-at-protests/story-1HoXTC2n6hvmFa0m7hncpK_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.55A301A80E8DA589935FAFFB2E8AB282
+        width: 700
+        height: 411
   - title: "New trials and rollouts of biometric facial recognition to prevent underage gambling"
     excerpt: "We’ve just got to make sure that whatever we do doesn’t compromise our privacy obligations,” he says. The technology, which SMH refers to as facial recognition software, will not operate at TAB retail terminals in pubs and clubs. During the trial, Tabcorp worked with Australian machine learning and AI company Eliiza and three facial ..."
     publishedDateTime: 2020-01-03T18:11:00Z
@@ -848,15 +855,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
-  - title: "New York school district now utilizing facial recognition system"
-    excerpt: "After months of controversy, phase one of the Aegis Facial Recognition System in the schools is complete. Those in favor of the system say the technology can identify guns and weapons, while the facial recognition portion identifies people not allowed in school buildings."
-    publishedDateTime: 2020-01-06T05:13:00Z
-    sourceUrl: https://districtadministration.com/new-york-school-district-now-utilizing-facial-recognition-system/
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 19
   - title: "Biometrics research notes: surveillance and security drive 3D sensors, facial recognition and image recognition markets"
     excerpt: "Biometric facial recognition generated $4.51 billion in 2018, and will grow at a 12.5 percent CAGR to reach a market value of $9.06 billion by 2024, according to a new Mordor Intelligence report, with surveillance and security systems and plans like Biometric Entry/Exit contributing significantly. The report notes that governments, including ..."
     publishedDateTime: 2020-01-05T23:01:00Z
@@ -884,6 +882,6 @@ related:
         width: 336
         height: 254
 
-secured: "nxKLyQE5YbIaVTCbD4mc7hHFDR4imPVkFS50VcX0M+e9D85RHfyESAw+PMnJ3QhGlK8k1Zt/fXmfP5drJEdv/gkCXBxzFz3X9hlpba7KTc2tBP7kXHGvq+TG9QOZaPdv4GCU7fgZ0lHpXj+0elG0iJZ6HmIzt5A9/aOBoaGKXHrr++K9Rt0hFZ5b2sRNwHgrVNe9R6BIjm04f5ojMZ83/433g4Tf1FivQ1bnjjWZAhoCcD/PZ5NScbJfARa5UQC7wssjq70o6r1rLOPy91/DlQ==;hAhw+Pg5EGnHLmZ9dU4t0Q=="
+secured: "EPa2cCFvVQFrhB2U/4uNTNCGf2Ndz4mxUHnO9s2icn449n1VvdejofJzFnVXaTqx+/P3VvY66elMkFFovH1YI4F6oWIMlw/jrlOfZk1+ftW0HJxnm/oljiiT5gm/q58xfOd6PTxq/JCpCMaG6EBrdTIffm4GaXp0V+3vrpJrcdl+aScpdE7OXRup9U0s+MZ8CFYUfgEVZXajCdBtXAcm+rokZdclLQPOlYHYFM9R3OclYaRxdmDVve3uujajLQA2xT8/e9FnmkD+KlTh+FEVlA==;ycnmQQUsHILhdUr0UPYmKw=="
 ---
 

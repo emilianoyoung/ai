@@ -193,18 +193,18 @@ related:
         width: 1200
         height: 630
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Church of England questions ethics of investment in Artificial intelligence"
     excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
     publishedDateTime: 2019-12-24T06:31:00Z
@@ -545,6 +545,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "zHCbwA39KGYVDGavqZwBPkEU5Vol+NrFSqbbczgd/u1D5uvrvXqb2PLTWZ1MCWgyW7F3BKh0hN9V7I43hUuYuOmkpSBK7+3RnIYx0VRV+NsjnMkMqEnXJ2/WVxgeruekt10g3erZZIG1F+cYpcL+InrLqgY9hsGM0+jO0/mzwCJ3p8b2YlZXqnZK53feIjZxng4hbuyIvZWNIo3Bv6RnrUJ4kNG+BX7KDZGJ4oOGlCmKPyZMlBt8eNkKpwrV4q0Z/E51r4ERdHcH9O+VrU1lFA==;KcHa2bPlZuVeCuG0J1BcHw=="
+secured: "9elK1+ideIavACql4O+edK2rxWbXzfQsENwXXHCPHXAqojXE5wvcXK5k6UyJnXELP68dv1iU/aWgFQLn3/Y29QpylsWjN8Wa56HHVUXP28oKHBvW3aOkb4z3+fzAFiwkkLzwoMvycLaRm13utZLiqWUJZijbbHFo+X8K3ulfXpA5yU6eqo4lnir7Mt4WxEkEW9fYCp/hKeUIZ8LrRk1gScqioX/w+lEp2mJIwGZ7+102sgAcacYSt9fNMQWKNNq0G3RU3ZWevx0oaEzAn1sv7g==;0shbLimRCkXQ1Sz7hqtB7Q=="
 ---
 

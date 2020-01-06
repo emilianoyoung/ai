@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
 quality: 210
-heat: 360
+heat: 370
 published: true
 
 provider:
@@ -91,6 +91,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.B265F47C96A4B73FD370972370A03C46
+        width: 600
+        height: 315
+  - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+    excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
+    publishedDateTime: 2020-01-06T05:32:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.4A9D62B51C6279FDFAAF61456676CE9D
         width: 600
         height: 315
   - title: "Start The Year By Learning These Essential AI Self-Driving Car Industry Acronyms"

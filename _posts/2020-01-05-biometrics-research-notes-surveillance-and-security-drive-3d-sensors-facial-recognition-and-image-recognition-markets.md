@@ -861,6 +861,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E3508BC0409E1463CA79E4B36F75E426
         width: 700
         height: 344
+  - title: "New York school district now utilizing facial recognition system"
+    excerpt: "After months of controversy, phase one of the Aegis Facial Recognition System in the schools is complete. Those in favor of the system say the technology can identify guns and weapons, while the facial recognition portion identifies people not allowed in school buildings."
+    publishedDateTime: 2020-01-06T05:13:00Z
+    sourceUrl: https://districtadministration.com/new-york-school-district-now-utilizing-facial-recognition-system/
+    type: article
+    provider:
+      name: District Administration Magazine
+      domain: districtadministration.com
+    quality: 19
   - title: "Voice recognition offers big potential for medical sector says Microsoft Research Asia executive"
     excerpt: "Medical application of voice recognition has large potential but must be integrated into medical practitioners' work flows, according to Eric Chang, senior director of technology strategy at Microsoft Research Asia. Doctors have to record patients' conditions and search for their medical records while doing diagnoses, and radiological and ..."
     publishedDateTime: 2019-12-24T06:57:00Z

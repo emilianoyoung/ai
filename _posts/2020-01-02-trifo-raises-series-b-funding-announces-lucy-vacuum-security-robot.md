@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T19:27:00Z
 sourceUrl: https://www.therobotreport.com/trifo-raises-series-b-funding-announces-lucy-robot-vacuum/
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.345D35FDE5A1FB844B68FF4F5F0C6720
         width: 700
         height: 366
+  - title: "As securities services go digital, will robots replace brokers?"
+    excerpt: "Big securities companies are trying to catch up with the technological revolution in the financial industry by employing robots and artificial intelligence (AI) to provide services for their clients. Many securities firms that have invested heavily in technological platforms to provide services for their clients. – Photo tinnhanhchungkhoan.vn ..."
+    publishedDateTime: 2020-01-06T05:53:00Z
+    sourceUrl: https://vietnamnet.vn/en/business/as-securities-services-go-digital-will-robots-replace-brokers-606651.html
+    type: article
+    provider:
+      name: Vietnamnet
+      domain: vietnamnet.vn
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8E00A1F8A1FA3036AEF458F46919C6CC
+        width: 480
+        height: 339
 
 secured: "Uq5DgDLqEVTrMfFxQ2t3CpdM6YEuOpasKw+3irK8XM8vf2TZtvm/MWuXWsSPXlohl2+tvHVYDuCm2a+jaZ+gQrLpVx3hhrHE48SoAUiF7rpYnnvVOARfTXiQAaqR/oerXiCXROokp3nPpQxFvnWr5RGZnANkvvXJ8/shFz2MQqyy/LAiJnxpPXaCiW//rz98z4qF20v1bjjmfNT01hgZ++TLPTKC48mGUsQY8sYZoF/AH+88j2aOd01N8bbUHb2slcl9rUflAYL4+2eULIQ+9A==;K9ZdN9czPZVDiu8kq7cm4w=="
 ---

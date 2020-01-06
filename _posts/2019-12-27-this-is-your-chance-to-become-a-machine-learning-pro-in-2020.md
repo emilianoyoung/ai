@@ -90,6 +90,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B265F47C96A4B73FD370972370A03C46
         width: 600
         height: 315
+  - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+    excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
+    publishedDateTime: 2020-01-06T05:32:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.4A9D62B51C6279FDFAAF61456676CE9D
+        width: 600
+        height: 315
   - title: "Start The Year By Learning These Essential AI Self-Driving Car Industry Acronyms"
     excerpt: "The self-driving car industry is replete with numerous acronyms and specialized lingo. Here’s a taste of some of the oft used acronyms: ADS, ODD, DDT, OEDR, OTA, V2X, ADAS, etc. If you know what each of those means, kudos! If you think maybe you know what each of those means, tip of the hat for your awareness. If you don’t know what they ..."
     publishedDateTime: 2020-01-02T10:49:00Z

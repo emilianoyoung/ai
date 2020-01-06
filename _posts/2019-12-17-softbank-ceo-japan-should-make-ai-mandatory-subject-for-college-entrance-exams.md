@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-man
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/16/softbank-ceo-japan-should-make-ai-mandatory-subject-for-college-entrance-exams/amp/
 type: article
 quality: 183
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 700
     height: 393
     title: "SoftBank CEO: Japan should make AI mandatory subject for college entrance exams"
-
-related:
-  - title: "SoftBank’s Son Makes a Pitch for Japan-Led Asia AI Superpower"
-    excerpt: "Not surprisingly, it involves artificial intelligence. Japan can boost growth by joining with India and Southeast Asian countries in creating a common AI platform, Son told scientists and government bureaucrats who gathered in Tokyo on Tuesday for the government’s Moonshot symposium. He envisions Japan taking a leading role and believes the ..."
-    publishedDateTime: 2019-12-17T04:51:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    ampUrl: https://www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2019-12-17/softbank-s-son-makes-a-pitch-for-japan-led-asia-ai-superpower
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.E9AFEE1B5FF7EA63E66E4F711A4E4866
-        width: 700
-        height: 466
 
 secured: "1cTFc2N8421IxMbZ7Us/CQVKnktWN//PfiTz/mxWH+5PDlliMm5lLaHaSF2bT3J/mPC4Cw25mopqauUXZB/PSWe+KHW9A4MRNSt5o9rnC3XR11TMvW2BtkbIL5DOnrCxt3c7EgnbmxxJBhLjH7JCqOSlitAshHV2E/Bq1T/EyYHOhZ6wrPHJ6fwWusAhQQQgAnfk8ECvpLHy0gOOrUI5mAeHwv0dfAMgZpwk3TJ7jnadwkAp5zE6BZtHH/3oh/eyV1wESJN6FqvxP96G8TSNCbMqHW5DIjBn0vYH0JT0HYU=;VEIGVpkT7BCODqBUrb9JkQ=="
 ---

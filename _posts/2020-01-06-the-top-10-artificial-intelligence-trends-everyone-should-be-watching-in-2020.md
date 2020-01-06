@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Nine AI Marketing Trends Set To Explode In 2020"
-excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
-publishedDateTime: 2019-12-30T13:14:00Z
-sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
-ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
+excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
+publishedDateTime: 2020-01-06T05:32:00Z
+sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/
+ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
 type: article
-quality: 89
+quality: 86
 heat: -1
 published: false
 
@@ -21,13 +21,13 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
+  - AI in Robotics
 
 images:
-  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
-    width: 1200
-    height: 580
-    title: "Nine AI Marketing Trends Set To Explode In 2020"
+  - url: https://www.bing.com/th?id=ON.4A9D62B51C6279FDFAAF61456676CE9D
+    width: 600
+    height: 315
+    title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.92F73D31A9969FE16B011AD5F72E2899
         width: 600
         height: 315
+  - title: "Nine AI Marketing Trends Set To Explode In 2020"
+    excerpt: "Share to facebook Share to twitter Share to linkedin Using artificial intelligence in marketing has made the lives of agency professionals ... A Personalized Approach When it comes to customer engagement, timing is everything. According to our recent research, 65% of consumers expect that within five years marketing emails will be fully ..."
+    publishedDateTime: 2019-12-30T13:14:00Z
+    sourceUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/
+    ampUrl: https://www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2019/12/30/nine-ai-marketing-trends-set-to-explode-in-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
+        width: 1200
+        height: 580
   - title: "AI Specialist Is The Top Emerging Job In 2020 According To LinkedIn"
     excerpt: "AI and data science skills are proliferating across industries as businesses look to improve their ... [+] competitiveness and also create more patents. Data science is booming and starting to replace legacy engineering roles across U.S. organizations today. More than 50% of this year’s list was made up of roles related to engineering or ..."
     publishedDateTime: 2020-01-05T20:01:00Z
@@ -88,21 +103,6 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.B265F47C96A4B73FD370972370A03C46
-        width: 600
-        height: 315
-  - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
-    excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
-    publishedDateTime: 2020-01-06T05:32:00Z
-    sourceUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/
-    ampUrl: https://www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/06/the-top-10-artificial-intelligence-trends-everyone-should-be-watching-in-2020/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.4A9D62B51C6279FDFAAF61456676CE9D
         width: 600
         height: 315
   - title: "Start The Year By Learning These Essential AI Self-Driving Car Industry Acronyms"
@@ -267,6 +267,6 @@ related:
         width: 592
         height: 568
 
-secured: "dyEXkuUwPwtmm5SNvkt/XNxduJDY24Y9RoQh0k0HbJJKZcKMqQGNxJ6H1m0xez7nu96YTarT+jw2veH10OgdBSGTi8czNoKf11E3UynZPVQYKMuyl4xAsGjkwBUZxvB/anFUhmpw0SvZ4c9KL7lMa3Kb4+ACF3UVk5l723eyP5VnQYs09M/bu05LZUT3vaz/lA+j/E0yklphgO9bwv6n6lQswfXLHlPlZPdsgTeLM6brNMeLO56e9TgoTn4a/2W4D5d2RnW3NKy5BNwXj+8uKg==;XPRr75OJhnIfG1r8FQIaIg=="
+secured: "VQ7Hmb6cMA+mkO17BShaHLTgxm7wbsmaEPGgq2gt9cOrWPdEX1VI1UcRVuhagrpNfSop99e/Jf4xGb60u3+I4/lzEt9vn1RDqGYcIBpS1nPjOWo9GnmYpfkRF+nNzrnebH3z73U/0uBSStMv4tRW0Egx0aE8096zeeXYdwT4BbEbXy8dbvBh/36W3O3NAMo7ZzJhw9WuurorD6WNQf5BSknzUOB/DK2E9D224YyDZ8xC6HkxuvE7JcfHrLn4bh4mE6vXEewPrYAQvIorfOe5pA==;I5Wy7ArBmyIaKPLibio1zQ=="
 ---
 
