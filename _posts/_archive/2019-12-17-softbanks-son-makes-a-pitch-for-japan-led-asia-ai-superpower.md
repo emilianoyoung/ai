@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E481515479160FBD353FE671CA8A8FCD
         width: 700
         height: 393
-  - title: "SoftBank's Son says Japan should make AI mandatory subject for college students"
-    excerpt: "SoftBank Group Corp ( 9984.T) Chief Executive Masayoshi Son said on Tuesday Japan should make artificial intelligence (AI) a mandatory subject for college entrance exams, to counter the yawning gap with the United States and China in the nascent field."
-    publishedDateTime: 2019-12-17T03:50:00Z
-    sourceUrl: https://www.reuters.com/article/us-softbank-group-son-idUSKBN1YL09I
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YL09I
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YL09I
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: https://www.bing.com/th?id=ON.A75A23974770BA343270554A877C5426
-        width: 700
-        height: 490
 
 secured: "2JJDfpOI6IGt600RhHKJqfH1dcXEIvEU1utDS82PB4AXwCPwaQY0C4i3vTwE3N/z3dmlupImkGQuKB7KF/7c5CmwTt3iR/AgOfjSYhD91SUHcBkdqp+HOav8l0VYl4yA+/erfpWxykbz4mSeueggjN5+LpKvksRe7jy8Lghrj9RgrIPyVIFjjRrtMzN+TwFVjyUE2ZjGPonooWMNiAohwF1KEo1UDUmOomK3A7xMwYOxU1JEd1/nQDwxPEIYegpxQd51v3m4WCe0ZXRhaRlYHQ==;R3Yueb68VT8SP9+B6wEgEQ=="
 ---

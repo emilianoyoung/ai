@@ -43,21 +43,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
         width: 1200
         height: 675
-  - title: "AI is breathing new life into artificial limbs for India’s amputees"
-    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
-    publishedDateTime: 2019-12-17T03:54:00Z
-    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
-    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
-        width: 700
-        height: 393
 
 secured: "uMSbuX5gnYM6AOCebEZH2PR/8I1lqB3uUtKXBfO/1I5gO1T7A2D77o+3WS7L9l8EXuCB3P7K27E3CTyB+4Cc/Yi5pWh5z25EvkFtcIHHaCuItXZFAz0suqo7tBwxdJRtWe+cx0LfrOxHZh2OFq9qUGkT0UPpnf0/NIR3ZLq9jfWdSIYSFf8trn9HFBqUIB4XN4geNihrnLbFx5xkn9tmjYWVYdBVPMrb19B5l8qprZnQnrcSBIC2dZHPdwTvbnuTsJGDb12QnmOI8cx98popsQ==;k+73c0AGyVAjj6nYfg17Lw=="
 ---

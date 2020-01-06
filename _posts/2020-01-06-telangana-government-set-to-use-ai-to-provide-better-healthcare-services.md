@@ -1,44 +1,31 @@
 ---
 category: news
-title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-publishedDateTime: 2020-01-01T00:34:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
+title: "Telangana government set to use AI to provide better healthcare services"
+excerpt: "HYDERABAD: In an effort to introduce Artificial Intelligence (AI) in public healthcare, the State government along with Intel, Public Healthcare Foundation of India (PHFI) and International Institute of Information Technology-Hyderabad (IIIT-H) will work in the field of diagnostics, proactive public healthcare, health services optimisation ..."
+publishedDateTime: 2020-01-06T04:19:00Z
+sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.html
+ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
+cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 73
+heat: 113
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-    width: 1280
-    height: 720
-    title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
+  - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
+    width: 600
+    height: 390
+    title: "Telangana government set to use AI to provide better healthcare services"
 
 related:
-  - title: "Telangana government set to use AI to provide better healthcare services"
-    excerpt: "HYDERABAD: In an effort to introduce Artificial Intelligence (AI) in public healthcare, the State government along with Intel, Public Healthcare Foundation of India (PHFI) and International Institute of Information Technology-Hyderabad (IIIT-H) will work in the field of diagnostics, proactive public healthcare, health services optimisation ..."
-    publishedDateTime: 2020-01-06T04:19:00Z
-    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.html
-    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
-        width: 600
-        height: 390
   - title: "Telangana Government bets big on Artificial Intelligence"
     excerpt: "Hyderabad: The Telangana government on Thursday made a big push towards tapping the ever-growing opportunities in Artificial Intelligence (AI ... IIIT-H will set up a research centre in applied AI in healthcare and smart mobility. \"In line with our vision and our approach, AI will be our focus for the coming year and beyond."
     publishedDateTime: 2020-01-03T00:50:00Z
@@ -80,7 +67,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
+    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
+    publishedDateTime: 2020-01-01T00:34:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 52
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
-secured: "1d0H98VaVpKesRKQYZg5vQFAWMcCqYZ0/LL6pooSxrO6pWQhDlMQgIZFdvbVxbBlrNTRG9+d14fnN2Yrzy30PYfrSMJ/PdE5kykAdmPErO2g8fZiduS+5d5lMMTD9zjOCdj/f1nY4UjMfOjxnNWUGerWt8iUbQnBq7NJ2/EWqizRaZtgrN8LbGsNN5elVk4lZBIWaLJX+J5OfezKOW0e/z6yvkGyzydDz7tXNvprPJm7td4KVFeMiJEyqxvGkCOX4Sd7BAxTRMwQENFuMS9OKg==;QL86vqkI0BcASRFILcHGsw=="
+secured: "uUScqc5FK4Tl1ppuuHCgVu0M601EtYh+j+M6TWaRbjmHRlj0QEyEHj44vf2u/RuoGiUZygScm6u/Kn5bamxg3L0360RJYm5mRdg4j1N3n+70pnG7h7Q71d3HuBwyp2TNYYL6Nt1v8UD7qfb40Ok5IV6z9kuU3QUXP4U34rEIsCADBM3vFxIKLR7pHt+Z7LC+O/qboZwuw8I8cwL2AYFioFC+Vl4SQH1117/nr1BtCYRAMTa7GTAOFZKY+20gzbLLyaGLu1s2heJ8I+ktjUEcMQ==;XR8SW7eF37GSwMtHlLLFlw=="
 ---
 

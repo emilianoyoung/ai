@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artifi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -32,21 +32,6 @@ images:
     title: "Empathy in Artificial Intelligence"
 
 related:
-  - title: "AI is breathing new life into artificial limbs for India’s amputees"
-    excerpt: "“We set out to create a wrist connector that was easy to fit, comfortable to use but was also durable and affordable for, say, a disabled farmer,” says Kumar. “We turned to AI and came up with the Avocado, a small mechanical adapter and device which could provide an upgrade to the existing user of a prosthesis while conserving battery ..."
-    publishedDateTime: 2019-12-17T03:54:00Z
-    sourceUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/
-    ampUrl: https://qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1769396/ai-is-bringing-new-life-to-artificial-limbs-for-indias-amputees/amp/
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.F7A40E854BA53C7976875A853E915DA5
-        width: 700
-        height: 393
   - title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
     excerpt: "Moreover, companies like Waymo, Rolls-Royce are coming up with driverless vehicles such as trucks ... Increasing investments of companies in artificial intelligence enabled logistics and supply chain is driving the AI in logistics and supply chain ecosystem Market growth in region. For instance, Chinese company Alibaba invested $248 billion ..."
     publishedDateTime: 2019-12-17T15:02:00Z
