@@ -256,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "Creating Together Opens a New Future of Self-Driving Cars"
-    excerpt: "SINGAPORE, Dec. 17, 2019 /PRNewswire/ -- Demand for self-driving cars and the safety it brings is rising, particularly in Japan, where a super-aging society has upped the stakes considerably in recent years. Learn how Toshiba's image recognition technology, Visconti™, developed and refined over half a century, provides a myriad of ..."
-    publishedDateTime: 2019-12-17T02:13:00Z
-    sourceUrl: https://finance.yahoo.com/news/creating-together-opens-future-self-020000062.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.B7FE6EBDC3D09EA0E2271B97BFDBB314
-        width: 600
-        height: 301
   - title: "Self-driving DeLorean learns how to drift"
     excerpt: "Researchers are teaching a driverless DeLorean to steer with the agility and precision of a human driver to improve how autonomous cars handle hazardous conditions. As the DeLorean rolled to a stop and the cloud of tire smoke cleared, Jon Goh peeked out the sliver of the passenger-side window to see dozens of gathered spectators cheering and ..."
     publishedDateTime: 2019-12-23T20:44:00Z

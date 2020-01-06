@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T12:20:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
 type: article
 quality: 50
-heat: 60
+heat: 70
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
 
 related:
+  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
+    publishedDateTime: 2019-12-24T20:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
     excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
     publishedDateTime: 2019-12-18T11:01:00Z

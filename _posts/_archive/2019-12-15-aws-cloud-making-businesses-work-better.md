@@ -25,6 +25,6 @@ images:
     height: 440
     title: "AWS Cloud: Making businesses work better"
 
-secured: "8OPOfW3O3i8bne3cqCvcrM7G+LnIXsA5SIv7t0pVSnOGzcD4/Ld0xTQYxlW0xIWaSwrWgaS4BYy8epQTJnyLppvm8j2A88h4jk45BfOdLfHaSfoOnYbU2k0ctJnLFdJUjewFojv423TlJVqdpE+ShQZ9mlJ8+EagG1H3/vcW3nl4FvK+eGgzEKYJSrF7NQYDZZMF4F48cG1C6eyWSIyGCy5Q81gqykhhsH1meREzZuVFBgwwCmR9m7VBRAHDGv355YbJ4bAjdpkaqSgizc9VsA==;s297R88vi2XpvC2kJuuDFA=="
+secured: "FLMxo7Xds8k+oT0fISud9TLZaEYU7w+U2zrlFE+xi0CZBzSKztYQQivYY4mBVWzRSR/q48Amo7mVqSKO87gWlIZu8fw13gy3AtHvxOmDZToW6FE9+UxONvjMvHGZX7Sbhon3Y1yUn/6uSpvfy8X9gw1Rs682YNOg8ko4sIFJaRfWctWlFM0m7v/Hws147R2gT+xQp/mdRcokvqB7DoMwam/UKpVvwiZga48BfU86a2y2IZLuaJnBzCDgRp7UcfCiyJ2tM+11q3t/oC98RVAfBg==;S1XWNXNw6xbEMwAT9wUutg=="
 ---
 

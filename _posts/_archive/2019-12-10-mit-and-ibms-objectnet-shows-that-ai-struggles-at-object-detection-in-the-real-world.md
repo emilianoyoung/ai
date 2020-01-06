@@ -29,6 +29,6 @@ images:
     height: 600
     title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
 
-secured: "TuFtFw2nAQf8cdsaPbB4IcYd+cvZXoT7WRjwCiAQUdOUFFpFJYhiXdQXvkRcRR0JxZnNoKOvbbGojDZrLDN3K4PoDmJ79CgT7GKWfDmlrnJX6NCsYegXYmlcmBXvFjZ+PTtja4O29lKl9iSeNTQi5KODzMLmr5pfdN6ucNbSIEV2hfj5fTX4i5l53pbtNh0NCDxh1tkc8ji06ebpZbYMUOBVZu/9wXoSbk/dBNsF35qLLmZF/DSGMPgWci/oaMkMhOpgRRSfZ9OD04DGdlcctw==;wGswZYbjYFiqiAAiZ5anGQ=="
+secured: "zkI9aFkI++laLT/Z8fdb/qcAo2l/LxQDNCaRb5vTRxCOuEl3tVX/SmcSDvGmfCPvzX86JR1+AUkBtnjm7gbYObwJP+oc08Lbbw2tzCjLCMccyjT2MfE5s6DDKYWGWee+jeK1tWFLVkwe2TDFGEmAgPK7xwe5zsbJ0UIVq+JrGoUo1EkbeYr6AemCz0wwbVKFt3vjI6udMocBCLJJ3JegdiphFI8kV6kiWxG49ij/nLssifM4O2vq2MssF4UQXesQzDZGjY+pzxkDFpWHuqy72g==;QxP73/59dzR74zT4NhYM6Q=="
 ---
 

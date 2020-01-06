@@ -58,18 +58,18 @@ related:
         width: 700
         height: 457
   - title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
-    publishedDateTime: 2020-01-02T18:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
+    excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
+    publishedDateTime: 2020-01-02T19:25:00Z
+    sourceUrl: https://www.oaoa.com/news/business/article_c7a4aee5-9503-59f4-8ff0-64d23caa2479.html
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 28
     images:
-      - url: https://www.bing.com/th?id=ON.675CCCB63BD23B8051BD242965EE03A6
+      - url: https://www.bing.com/th?id=ON.26787288CA51D2F3B31505AEF86117C6
         width: 700
-        height: 365
+        height: 393
 
 secured: "4xEdesVBxSashb8CWAVE1I2YbTMaBcoGOxE+zHAIPe+DBvPeJPNj++qhmQ91gfXMcfROaJFEnrE9tVykIKUtLp6Q1mIA6k0z4v3zRfphmK/vHvyeDxHNY0iSc4mRD6b7ypW9LtKt6jPB6fKi+im8p0lk9D2A72pkJRjwZwab8UHzMtysuKSyudUqC8mxSwanhc1dVij7NmlnGxqMxM0BrA5s7X0K6roqoof5B4AxdnzXgGmPBMd1A4QnT9d5oglKhT390KnSCmWK06wQrxTOGw==;rU1KnnNlaKe+8181/ANiKw=="
 ---

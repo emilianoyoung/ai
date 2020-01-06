@@ -27,32 +27,28 @@ images:
     title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
 
 related:
-  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
-    publishedDateTime: 2019-12-31T04:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+  - title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
+    excerpt: "Dec 23, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Automotive Artificial Intelligence Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Automotive Artificial Intelligence marketers and clients to ..."
+    publishedDateTime: 2019-12-23T12:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
+    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
+    publishedDateTime: 2019-12-18T11:01:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
 
 secured: "E7UOusYBCcs0615KvA1VFurGbt2lsntOlKsL7uiiFrYn46WkSFGv/kEhxfDtWYUbzVebe2losu8RDtwWuBxvloEXEhoeXSepIHSxqOQ8ORW9FdznZNXfirABLk0/dgkNQQFCjt4rFcZZwoNPoQYxd4UvaS5foJSXbjUFJbz7h6FIxTxnwIMQz0rv/NXWhFpf9foPpiZ7cDm4535dl61M0+2RNMvA1/IYobaFZn5ZGo/PZowJ7giuExTDnJF1yodMVLZHwC0EJuh6C4MpExcfNw==;BlkN1ETOJqIQQSTyZTttMg=="
 ---

@@ -956,19 +956,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "Human Rights Commission wants moratorium on expanding facial recognition"
-    excerpt: "Australia’s human rights watchdog has taken a bite out of the rapidly expanding facial recognition and biometric matching market, proposing the government institute an interim ban on using the controversial technology for decision making because it is flaky and struggles with people of colour. In a sharply critical assessment of unregulated ..."
-    publishedDateTime: 2019-12-17T02:42:00Z
-    sourceUrl: https://www.itnews.com.au/news/human-rights-commission-wants-moratorium-on-expanding-facial-recognition-535684
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.1FA6849529092323AC8C641DF9BAD140
-        width: 700
-        height: 437
   - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
     excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
     publishedDateTime: 2019-12-20T01:31:00Z

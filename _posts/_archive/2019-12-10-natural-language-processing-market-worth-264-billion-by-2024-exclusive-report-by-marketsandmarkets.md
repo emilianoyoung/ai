@@ -17,6 +17,6 @@ topics:
   - AI
   - Natural Language Processing
 
-secured: "CJ1E0fQVJeqLP75UvT+MEUjMycQn5ZBNjWPR670ksNz6/yxYVEkACgY8e95qmkftro98FbGvJ4QPJYx2y/mTPMvY4ulAISKBLWfUVegf+TmxrATlpAO33s1RrKrgH6cZBhoD1JfyZ1jlZqNX9iHOaR/yFqSHB3u6OdkCfLap9rGrRkX3NoCXUFFW3xyu294f3O7tEBAEUKdOhTx/OHfne5NwDmVdGknEDH6FXRBFWpni0XL/crws4FpHw/gsXvL7b2gndg+QPDTN2JhYYTyMlw==;c9V6WCYX9toFcXsEQ7fEyg=="
+secured: "fyS2g4YaLicWzb6Wb8oaKVefaSqv8Q1k7KJRH5GtaEzC9Gp3hmxiVd5wAfh8XjHZHAetywxKIOoHYtHocvHzM0Bq4MUXMndUc1Yf1YmTLC7DtAnkfinHRKsysj9pUnH1H5YUNTH57QuPulKixiBAOSufNk1sy53b7sEmos68j5pfyaZkzTvBpy93SumxJS4BYRKt8QnqOMpnoJnDDAMWglLaTA+Q8JnsPB6vO3uXMFCdLr5s5gnp0ajrYpbeCNy73WIY9T+ulEWV5z3meSh+2w==;fDdYfbWxoPf3U98rPC/XHw=="
 ---
 
