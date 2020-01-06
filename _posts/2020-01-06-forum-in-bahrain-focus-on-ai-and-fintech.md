@@ -19,6 +19,21 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "Accenture’s FinTech Innovation Lab London includes 50% more female founders for 2020 cohort"
+    excerpt: "Despite global investment in fintech dropping in 2019, investment in the UK nearly doubled to approximately ... Companies on this year’s list of innovative start-ups span security, wealth-management platforms, synthetic data, uses of AI, deep learning and more, working to solve a myriad of business and societal problems."
+    publishedDateTime: 2020-01-06T11:04:00Z
+    sourceUrl: https://www.finextra.com/pressarticle/81039/accentures-fintech-innovation-lab-london-includes-50-more-female-founders-for-2020-cohort
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 14
+    images:
+      - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
+        width: 480
+        height: 270
+
 secured: "Y7J/O4oWTX5xTQ0c8wxu+nOm/mexmyFfYutyV3bZK2YiaOs9p7mtYCSN9+lrs4HR/1oMRbxSex0HXANtZPrC2ycAnMln4MOqntSc/rsHNgs2s5L/m/0fOybx0BRr/H5SKHKn+s2hszX2sLf92RVnjZgV32AUnDFA2gWmmOqbbr4nJWkWAovHueKmrO5fxz5/eUzIKybt6AepBbRqTjxyQZtXpL7LVo+J5xmx6aVWck0Ta5EjkSXIV7BvB/mOfb6EpWQWlfgdq1wcmtdy6feU4A==;qK2q4KhsKbVKuSwe0CTHwA=="
 ---
 

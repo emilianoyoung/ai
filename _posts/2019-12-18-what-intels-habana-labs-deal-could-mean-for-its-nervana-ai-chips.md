@@ -34,21 +34,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
         width: 876
         height: 548
-  - title: "Intel Buys Israeli AI Chip Startup Habana for $2B"
-    excerpt: "Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel’s broader strategy to strengthen its AI business."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/
-    ampUrl: https://www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/tech/intel-buys-israeli-ai-chip-startup-habana-for-2b/2198543/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.FA6A72767CC1E2CAA741434AD2DED492
-        width: 700
-        height: 393
   - title: "5 Machine Intelligence Trends Of 2019"
     excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
     publishedDateTime: 2019-12-20T02:16:00Z

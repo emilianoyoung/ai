@@ -26,19 +26,36 @@ images:
     title: "CES 2020 – Weirdest gadgets at Las Vegas tech show from hands-free breast pumps to a robot that delivers loo roll"
 
 related:
-  - title: "South Korean tech giants to showcase more AI robots"
-    excerpt: "At the Consumer Electronics Show kicking off on Tuesday (Jan 7) in Las Vegas, South Korean tech leaders will demonstrate how their robots can live together with humans and what roles they will play, blending artificial intelligence into people’s everyday life at their exhibition booths in the Las Vegas Convention Center (LVCC). Samsung ..."
-    publishedDateTime: 2020-01-06T09:30:00Z
-    sourceUrl: https://www.thestar.com.my/news/regional/2020/01/06/south-korean-tech-giants-to-showcase-more-ai-robots
+  - title: "CES Gadget Show: Toilet paper robot and tracking the elderly"
+    excerpt: "The robot, around 6-inches tall, has the face of a bear — like the cartoon ones ... The annual showcase is where big companies and startups unveil and promote their latest gadgets, many of them infused with microphones, cameras and artificial intelligence. Though weighted toward the consumer market, much of what’s on display may also ..."
+    publishedDateTime: 2020-01-06T20:36:00Z
+    sourceUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/
+    ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
+    cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.7735648E75DAA46E1E33E1F0DFAA3C2D
+        width: 700
+        height: 468
+  - title: "A Café In Tokyo Is Holding Weekly Play Dates And Birthday Parties For Robot Dogs"
+    excerpt: "It seems the Aibo can provide companionship and joy to its owner without the complexities that come with having a live doggo in the house. The robot uses artificial intelligence to tailor itself to its owner. “As aibo learns its environment and develops relationships with people, its identity takes on more and more layers,” reads the Aibo ..."
+    publishedDateTime: 2020-01-06T11:31:00Z
+    sourceUrl: https://www.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
+    ampUrl: https://amp.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
+    cdnAmpUrl: https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
     quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.7481BF46AE86BA133DCA0C4735251096
+      - url: https://www.bing.com/th?id=ON.2B8518971C36376823319B3AFCA779FB
         width: 700
-        height: 519
+        height: 393
 
 secured: "kNV+olf1Ns3t+0yLPQgJ5nePyjde5JxRkWrHG7BGsK74K29v/x6of4KR8ki5zMRgpVL3SA7wmvyLsGv325EnbJ9ppwMRGnzj+uE03I5qHVOjetzR8Xi6Hy6066J2cSTR//cd/mpsvz07sQdWUBHrJk11zs6CnAjFa0Sjt0q7D5Si46R3Agd9R+zUhHjQuUDypqNQP0+HcfrMkSuGA75A9a7n24DxHtNz94WSEmmC5y8b7fJjUf8lvphCBMVBEBSAXJlv2KJ07xtD3nCbaNl0+w==;9h6fjB5f+zSiDJkcrOjvtg=="
 ---

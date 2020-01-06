@@ -38,6 +38,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "QQu1FRB1WnlXdJgjqYPc1i70UQGZ+fjNXTKCkDgER9xblJJ/C26lFASzFY2ftDdnAdRwBfPliZVwjAROkOBNahI8oB75qU5Ng3wcPU76cD8sTsd/+uUGhB8R9G/LcfZsqQcNKobYHUlhBTh0Ipug0z7jNtnF1jxE8lCFB8hueJC1PfMGyV+bC80LemkFdmlJkhm+IAyHzwOmk/HbnCF3jcsvIO8ioHKiKxZKh1D/e32Je+IFRYhy7aL+td2ZAwJA3fUEqx49JOZBzH1HlLf3NA==;qogKRJh6eveVzIdB6qJdwA=="
+secured: "OhTPRhFQ+mpePJufxLhACR0BTCdtyD24UsteKlmtLUg4zMvIADx2cD/1kVGmCDOJ2dV+ifbiy/0W+Yezenaw/YS555WG/++usEsbwFQZPd9mvBsHt2mZPBXzMJvdAl4YZuImgqzp9zD3Mw+IAinVY5DxC6D+5sowA4hUkq2Y2xbKprP8rCsBNg2wk6zqGy57lkoBfABgQhmkPDba7qSnVnaSok/gCaJakQWNN8lrpi0dK8dBG9u6jAnQ0rr1+3wsRBOysE4nSTXHkfahnAcHHA==;Kd3navv2S/7XEoSgQZkjZw=="
 ---
 

@@ -24,6 +24,19 @@ images:
     title: "Aiqudo and Sensory Collaborate on Holistic Voice Solutions"
 
 related:
+  - title: "Sensory and Aiqudo Team Up to Deliver Comprehensive Voice Assistant"
+    excerpt: "For Sensory, the demo will help round out a robust CES 2020 lineup that already includes a new speech recognition platform designed for smart appliances. The solution will appear in a smart microwave from Midea MCA. Sensory has also released an updated ..."
+    publishedDateTime: 2020-01-06T21:03:00Z
+    sourceUrl: https://mobileidworld.com/sensory-aiqudo-team-deliver-comprehensive-voice-assistant-010608/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
+        width: 700
+        height: 490
   - title: "Syntiant and Sensory to Deliver First Ultra-Low-Power Multi-Language Voice Solution at the Edge"
     excerpt: "Sensory is focused on improving user experiences through embedded machine learning technologies such as voice, vision and natural language processing. The company pioneered the use of neural network approaches for embedded speech recognition for consumer electronics with a well-engineered and patented codebase that has shipped in over 2 billion ..."
     publishedDateTime: 2020-01-06T13:03:00Z

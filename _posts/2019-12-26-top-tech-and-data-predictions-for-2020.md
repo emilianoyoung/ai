@@ -69,19 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
         width: 700
         height: 393
-  - title: "Software predictions for 2020 from around the industry"
-    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
-        width: 640
-        height: 426
   - title: "Healthcare’s digital transformation: 5 predictions for 2020"
     excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
     publishedDateTime: 2019-12-19T13:42:00Z

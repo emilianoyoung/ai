@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/amp/
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
         width: 700
         height: 367
+  - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
+    excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
+    publishedDateTime: 2020-01-06T21:43:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.AC98FF1EDD8FF3CA36805AAB71F0A24F
+        width: 700
+        height: 436
   - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
     excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
     publishedDateTime: 2020-01-06T15:57:00Z

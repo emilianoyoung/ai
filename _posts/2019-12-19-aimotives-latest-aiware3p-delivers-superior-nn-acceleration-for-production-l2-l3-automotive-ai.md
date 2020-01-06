@@ -31,19 +31,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
-    excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a single web-based interface. In a blog post, AI and ML evangelist Julien Simon gave an overview ..."
-    publishedDateTime: 2019-12-17T14:22:00Z
-    sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.37C7FE7FE3AA5C9E0E2FE207F9D839E1
-        width: 700
-        height: 367
   - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
     publishedDateTime: 2019-12-18T09:48:00Z

@@ -54,19 +54,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning System Market is Booming Worldwide with CAGR of 40.79%"
-    excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global Deep Learning System Marketstudy with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. Deep Learning System Market explores effective study on varied sections of Industry like ..."
-    publishedDateTime: 2019-12-17T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-system-market-is-booming-worldwide-with-cagr-of-4079-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Drivers, Restraints, Market Demands And Forecast"
     excerpt: "Dec 20, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
     publishedDateTime: 2019-12-20T05:49:00Z

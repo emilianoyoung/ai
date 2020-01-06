@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-tra
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -154,15 +154,6 @@ related:
       name: IndustryWeek
       domain: industryweek.com
     quality: 4
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "RarR29z/AprmiEe0x1jXRC0t/kRlUejJOoYQ+5Y4wP/uNCWmrPMadO7jv3AUdxhRm146TCMKhz5YdQqPylyXYnX6tpW4warPJPeLXm4ZIiIbC6wp45EFRFCZFtL2KMn1Q0ZhyHZME7jHIVDk2rN+WXA5aJOHGp3Uhas3uJ4kvp776fr99tzaN+aTJpag7KSyXVQUMvnKikxRliZuUF84DWcj5TFVgejrJA12oZXnyQg6o9h7CZ6uwRB3Nx6nWqjj73NEaEWd7kOEpbZksZRIHQ==;RcRaJs6rbT8k7tTT089f1Q=="
 ---

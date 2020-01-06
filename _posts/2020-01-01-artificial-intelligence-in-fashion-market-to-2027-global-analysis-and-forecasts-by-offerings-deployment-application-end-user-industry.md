@@ -208,6 +208,17 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
+  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
+    publishedDateTime: 2019-12-30T13:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "f8vdloDUKkDSv1w1x6sFfbfLU+jy4qMexRxARq4EF5Jmyabekee51JBFilmK01IRXR6oZ3rE3Pt7mJ71tTDsJr8Mu/Fv5KIoWX90UMOZ1A96lFhvrD5ggsMTfkhGODOUlaKWl8CnGSLMSalKYzR+GtHiWe950M2AoPWaGnjvLHdPKZMr61yCK4Kohh/BEIdpCj4duFa/znXFEXVpBpIe8chHw/Flsz5TgW1eDC4epN6ymOLMLR8RCNrmJkEKawbvLvqOhGmDnoffFsHfIWDl0Q==;Y5FNFnNT2R+oy8Dh6HHqRw=="
 ---

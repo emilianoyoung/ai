@@ -24,21 +24,19 @@ images:
     title: "Taking AI to the edge with HCI"
 
 related:
-  - title: "iPhone 12 Seemingly Confirmed Housing This Powerful Hardware With AI Integration"
-    excerpt: "Moreover, the transistors are a lot closer to each other because of the chip’s size. One of the many benefits of the 5nm A14 Bionic processor includes 5G and Artificial Intelligence ( AI) integration. Earlier last year, several sites reported that some of the models releasing under the iPhone 12 lineup would feature 5G support. Based on the ..."
-    publishedDateTime: 2020-01-03T09:19:00Z
-    sourceUrl: https://www.ibtimes.com/iphone-12-seemingly-confirmed-housing-powerful-hardware-ai-integration-2895732
-    ampUrl: https://www.ibtimes.com/iphone-12-seemingly-confirmed-housing-powerful-hardware-ai-integration-2895732?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/iphone-12-seemingly-confirmed-housing-powerful-hardware-ai-integration-2895732?amp=1
+  - title: "Neuromorphic Chips: Boosting AI at the Edge"
+    excerpt: "functions and application of neuromorphic chips and discussion on how neuromorphic chips can be implemented in components and systems of AI - Knowledge about robotic process automation (RPA), predictive analytics, machine learning (ML), and other emerging technologies - Information on data interface, memory interface, pixel-spike converter ..."
+    publishedDateTime: 2020-01-06T20:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neuromorphic-chips-boosting-ai-at-the-edge-2020-01-06
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.5A5CDC1E960DF86B95E1CE468339788F
-        width: 700
-        height: 466
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "ecj9wq/x+v+lXm0eyXLmzIhJFMWRKPJ4blKgng2KAZ3rjf3teQcbp3AdFfwS0Iu0logI94Ub2+OIOi2AOq6y0Ko5iJLfcp1AggEKIGiDFm+tvtvA+uq2JNVeoEo3baKd9QfmHuFKwZsTeTgZojagcgQP017n8Y36z17TVD+F3QSADB3qWNZNmM67P12Pq4QOQWa333H9jRX79dBc4DhUVcKwS9GR8Cc8FtitmXBY/ocFI7hSmnIsUOKRWPb9qvMIk7ljH58jFbDQ2BYKCtxOJg==;Q2MIBBm8AOpziMiKNCWOWQ=="
 ---

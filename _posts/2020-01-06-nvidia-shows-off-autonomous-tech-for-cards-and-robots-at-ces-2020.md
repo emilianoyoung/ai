@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/nvidia-shows-off-autonom
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-shows-off-autonomous-tech-for-cards-and-robots-at-ces-2020/
 type: article
 quality: 91
-heat: 211
+heat: 221
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "NVIDIA shows off autonomous tech for cards and robots at CES 2020"
 
 related:
+  - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
+    excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
+    publishedDateTime: 2020-01-06T17:53:00Z
+    sourceUrl: https://www.cnet.com/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
+        width: 700
+        height: 525
   - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
     excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
     publishedDateTime: 2020-01-06T16:30:00Z
@@ -41,7 +56,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 83
+    quality: 85
     images:
       - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
         width: 700
@@ -121,17 +136,17 @@ related:
         height: 388
   - title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
     excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
-    publishedDateTime: 2020-01-06T19:56:00Z
-    sourceUrl: https://edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59
-    ampUrl: https://edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp
-    cdnAmpUrl: https://edmontonjournal-com.cdn.ampproject.org/c/s/edmontonjournal.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/c975d97f-4643-4725-8b5d-d483c0fffa59/amp
+    publishedDateTime: 2020-01-06T21:01:00Z
+    sourceUrl: https://calgaryherald.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/cc793009-27e1-4ac4-bfe0-7f7930c7c23f
+    ampUrl: https://calgaryherald.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/cc793009-27e1-4ac4-bfe0-7f7930c7c23f/amp
+    cdnAmpUrl: https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/technology/personal-tech/five-things-creating-buzz-at-ces-weird-tvs-robots-that-refill-toilet-paper-and-serving-cyber-cats/wcm/cc793009-27e1-4ac4-bfe0-7f7930c7c23f/amp
     type: article
     provider:
-      name: Edmonton Journal
-      domain: edmontonjournal.com
+      name: Calgary Herald
+      domain: calgaryherald.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.69DFBFAD071A295B6AF2229CC9052DBF
+      - url: https://www.bing.com/th?id=ON.53FE26A30274C8597693F60CF8484C09
         width: 700
         height: 525
   - title: "Meet the robots coming to CES 2020"

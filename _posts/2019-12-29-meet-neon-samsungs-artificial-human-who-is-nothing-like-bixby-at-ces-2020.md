@@ -8,8 +8,8 @@ ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unve
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Digital Trends
@@ -29,36 +29,6 @@ images:
     title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
 
 related:
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
-        width: 700
-        height: 357
-  - title: "Smart toothbrush to robot, all that P&G unveiled at CES 2020"
-    excerpt: "It also supports artificial intelligence tracking via the Oral-B iO app that provides real-time individual ... RollBot that is claimed to be a first-of-its-kind robot, when controlled with a smartphone using Bluetooth, delivers a fresh roll of toilet paper. SmellSense, on the other hand, is an electronic sensor monitoring system that will ..."
-    publishedDateTime: 2020-01-06T14:29:00Z
-    sourceUrl: https://www.businesstoday.in/technology/news/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/story/393255.html
-    ampUrl: https://m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
-    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.434B7A017001E9150ED5D238C4A23A7B
-        width: 505
-        height: 264
   - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
     excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
     publishedDateTime: 2019-12-30T22:30:00Z

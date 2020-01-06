@@ -148,15 +148,6 @@ related:
       name: IndustryWeek
       domain: industryweek.com
     quality: 4
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "vp6/m4mdaYGw2dAPDAplaV9p+QzsuKAP8InvGKJQE0HyDV5Ts0k8X1C6gjbzwxtwLJiX4tnhQiXQ3376ZNSDF1vJnTzPhAnxXMjpw4HqU5ZWdNQ5jMqTncqr+DwxqLJzD49ZqDYK5rCfQ9RZqihbKe4Is6lUEN0nZPDMgiVO0FamUa+QzIcfqWsh6H8JGyxRJHLHrEnNpNDlv2zmvSvyPzTp32FC5f2TL6C6sjdbCoP9GVyVNsGj6sjeNPajYosuSLzfeFQEbzNu5t/yavPiFA==;1dZfBkjT7GCStmnUDh6hhQ=="
 ---

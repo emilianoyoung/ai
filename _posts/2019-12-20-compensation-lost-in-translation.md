@@ -148,15 +148,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 11
-  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
-    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "vcA3x8vdBBCz2F020fI4d6lVS2F8yMwry1JsQiMNQjUtJBDzNl1bLGesl2mOzF1ztRxM+FjeGAKFJuE/bpArD5uzhOFz6qSfIJ0PB39lEe7cHokRGbZqbKr/T3e8OVk02FgpkHy2d0/pxu+R4rxWDq35N88gBlKDnW7nGF7n87jwjTEhoNE4LhH2amd2CkUJmyIC7Yu+WhhTeNPjrfCCypqY8k5KrUlxdRNAQbqS1pGowiIJo67WGouNwVtbp/JNI28xzwiOU+Ges5xUZ4y8Fg==;+ohUNHkzjwP3ec4y9KwkCQ=="
 ---

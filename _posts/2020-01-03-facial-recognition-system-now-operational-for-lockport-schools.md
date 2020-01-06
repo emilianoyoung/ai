@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
         width: 700
         height: 350
+  - title: "NYCLU blasts 'premature' approval for school facial recognition system"
+    excerpt: "Lockport City School District, in Niagara County, activated facial recognition cameras in all of its buildings last Thursday, becoming the first public school in the state to use the software designed to prevent intruders. The New York branch of the civil liberties union, in a letter to state education officials, wrote that the approval was ..."
+    publishedDateTime: 2020-01-06T21:36:00Z
+    sourceUrl: https://www.timesunion.com/news/article/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
+    ampUrl: https://www.timesunion.com/news/amp/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
+    cdnAmpUrl: https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/NYCLU-calls-on-SED-rescind-approval-for-facial-14953124.php
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0F5FF790D763395C76008D1D47B4F6EA
+        width: 301
+        height: 247
   - title: "School district’s launch of facial recognition program sparks outcry"
     excerpt: "A western New York school district has decided to begin using a facial recognition system, a move that is facing criticism from civil rights groups. The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
     publishedDateTime: 2020-01-06T17:30:00Z
@@ -140,6 +155,19 @@ related:
       - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
         width: 640
         height: 260
+  - title: "N.Y. school district to push forward with facial recognition software despite privacy concerns"
+    excerpt: "A New York school district has announced it will begin using controversial facial recognition software for school safety purposes, over the strenuous objections of civil liberties advocates. Beginning this month, the Lockport School District, near the ..."
+    publishedDateTime: 2020-01-06T21:00:00Z
+    sourceUrl: https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21120136/ny-district-will-use-facial-recognition-software-despite-big-privacy-concerns
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.00AFEDC34DBA4C43F97EBFF7991DB63D
+        width: 700
+        height: 470
   - title: "JB school using facial scanner for attendance"
     excerpt: "JOHOR BARU: SK Taman Perling here has taken a different approach in recording the attendance of its pupils, teachers and staff by using a facial recognition system. Headmaster Zamri Abd Wahab said the use of the system, introduced this year, was to smoothen the school’s daily operations. “We are always open to the use of the latest ..."
     publishedDateTime: 2020-01-02T08:59:00Z

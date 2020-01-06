@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
         width: 700
         height: 525
-  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
-    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
-        width: 700
-        height: 373
   - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
     excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
     publishedDateTime: 2020-01-06T19:00:00Z

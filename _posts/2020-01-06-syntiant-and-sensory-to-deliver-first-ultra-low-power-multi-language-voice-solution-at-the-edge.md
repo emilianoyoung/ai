@@ -32,6 +32,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8D40839B4AD8F0F2A2A1469CE0CAB450
         width: 700
         height: 365
+  - title: "Sensory and Aiqudo Team Up to Deliver Comprehensive Voice Assistant"
+    excerpt: "For Sensory, the demo will help round out a robust CES 2020 lineup that already includes a new speech recognition platform designed for smart appliances. The solution will appear in a smart microwave from Midea MCA. Sensory has also released an updated ..."
+    publishedDateTime: 2020-01-06T21:03:00Z
+    sourceUrl: https://mobileidworld.com/sensory-aiqudo-team-deliver-comprehensive-voice-assistant-010608/
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
+        width: 700
+        height: 490
 
 secured: "X+MC80tNM9S3yib0DHMTR2S783yTeRnS/DUjRGrrBvGXF7t9en1MH6VUums1vFxrOVJvZAwfP0U4tS6sQfO+JZGzUyc8cAwGQfB4mrNWqZUdS8VuGpz6ARgKBqS0pJE/wVvHupsc3Ud81mjuTlf8HSnNmwzIVDcz00x9v0St9lL7+calDK4HsOgvTRAN989ehkXojN4ORN5hRvNzLHyWaPoSIscSx5YKbKlWtZDE4WhBCJqeeMn2kH1PNKmR1lhGi3RP22oWJubsfVxKcQOR7A==;sQfdJUm6cFWiq9zkBvclwg=="
 ---

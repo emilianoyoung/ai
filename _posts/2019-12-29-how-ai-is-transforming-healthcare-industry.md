@@ -63,6 +63,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Healthcare in 2020: the era of digitization"
+    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+    publishedDateTime: 2019-12-31T10:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+        width: 700
+        height: 379
   - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
     excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
     publishedDateTime: 2020-01-06T12:26:00Z

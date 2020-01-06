@@ -28,19 +28,19 @@ images:
     title: "Featurization for Transfer Learning"
 
 related:
-  - title: "DOT harnesses machine learning for regulations"
-    excerpt: "The Department of Transportation has built a machine-learning and data analytics-backed dashboard that helps its legal staff manage its vast field of regulatory data, the agency's chief data officer said. In one of its latest projects leveraging big data, DOT turned machine learning and big data analytics on regulatory data, CDO Daniel Morgan ..."
-    publishedDateTime: 2019-12-19T19:59:00Z
-    sourceUrl: https://fcw.com/articles/2019/12/19/dot-machine-learning-regulations-rockwell.aspx
+  - title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
+    excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a ..."
+    publishedDateTime: 2019-12-17T00:00:00Z
+    sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
     type: article
     provider:
-      name: Federal Computer Week
-      domain: fcw.com
+      name: InfoQ
+      domain: infoq.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.697B1510372DA8D1403ECEA8C8A3B0D0
-        width: 620
-        height: 300
+      - url: https://res.infoq.com/news/2019/12/aws-sagemaker-studio-ide/en/headerimage/aws-sagemaker-studio-ide-1576565037621.jpg
+        width: 1200
+        height: 630
 
 secured: "QemNHdM5qsV1QrV9mEokaZQsnoVbGNQs4SD5uqbNCD6dRFkdg0sJhI0uSxc6OJj7tiHzobSgbBkkAID21jqZOmwlC12U4Op9o9hXH8swBOUUXw8W0MVmdjtjUMpfGHf4oC2111RrjYNd7ee8ZPvCLQ4lufnacKJ10WirAhf3RP1THLemDFlwGmpOBWwqeKKxNLVfpCRmrDnWApL3PsLX21qhpObogwOzZFwa/CnEQXWCHVsl2MPoO+nfPAxmaQ9456ngb+1ItxjZXTOleYOdpg==;YAlxu1/hlAs7Q0+5EdulTA=="
 ---

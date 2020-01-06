@@ -53,19 +53,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning System Market is Booming Worldwide with CAGR of 40.79%"
-    excerpt: "Dec 17, 2019 (HTF Market Intelligence via COMTEX) -- Advance Market Analytics recently introduced Global Deep Learning System Marketstudy with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. Deep Learning System Market explores effective study on varied sections of Industry like ..."
-    publishedDateTime: 2019-12-17T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-system-market-is-booming-worldwide-with-cagr-of-4079-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning Market In-deep Analysis And Experts Review Report 2019-2025"
     excerpt: "Dec 27, 2019 (Market Insight Reports via COMTEX) -- The report presents an in-depth assessment of the Deep Learning including enabling technologies, key trends, market drivers, challenges, standardization, regulatory landscape, deployment models, operator case studies, opportunities, future roadmap, value chain, ecosystem player profiles and ..."
     publishedDateTime: 2019-12-27T15:16:00Z

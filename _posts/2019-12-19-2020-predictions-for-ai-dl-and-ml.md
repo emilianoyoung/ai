@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -59,19 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
         width: 700
         height: 393
-  - title: "Software predictions for 2020 from around the industry"
-    excerpt: "2019 revealed that highly specialized applications of AI geared toward industry-specific problems are hot commodities. Tesla acquired a company that focuses exclusively on object recognition, and McDonalds acquired a speech recognition company focused on languages. In the coming year, we’ll see even greater competition to improve performance ..."
-    publishedDateTime: 2019-12-17T20:44:00Z
-    sourceUrl: https://sdtimes.com/softwaredev/software-predictions-for-2020-from-around-the-industry/
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
-    images:
-      - url: https://sdtimes.com/wp-content/uploads/2019/12/tarot-2414239_640.jpg
-        width: 640
-        height: 426
   - title: "Top tech and data predictions for 2020"
     excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
     publishedDateTime: 2019-12-26T11:30:00Z

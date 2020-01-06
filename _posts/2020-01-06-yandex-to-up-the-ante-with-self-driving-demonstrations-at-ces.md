@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
         width: 700
         height: 367
+  - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
+    excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
+    publishedDateTime: 2020-01-06T21:43:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/06/driverless-air-taxis-will-come-self-driving-cars-says-uber-air/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.AC98FF1EDD8FF3CA36805AAB71F0A24F
+        width: 700
+        height: 436
   - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
     excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
     publishedDateTime: 2020-01-02T17:44:00Z
