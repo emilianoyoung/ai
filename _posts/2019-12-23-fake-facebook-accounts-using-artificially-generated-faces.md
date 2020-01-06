@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Fake Facebook accounts using artificially-generated faces"
-excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts, 89 pages, 90 groups, and 72 Instagram accounts. About 55 million accounts followed one or more ..."
-publishedDateTime: 2019-12-23T12:21:00Z
-sourceUrl: https://www.thedenverchannel.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
+excerpt: "Further research is needed to find ways to identify AI-generated profile pictures reliably and at scale, so that platforms and researchers can automate their detection.\" In all, Facebook said Friday, it had removed a network of 610 Facebook accounts ..."
+publishedDateTime: 2019-12-23T14:26:00Z
+sourceUrl: https://www.fox17online.com/news/national/fake-facebook-accounts-using-artificially-generated-faces
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: FOX 17
+  domain: fox17online.com
 
 topics:
   - AI
   - Facebook AI
 
 images:
-  - url: https://ewscripps.brightspotcdn.com/dims4/default/3449689/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fee%2F1c%2F7792315845418ce71c225b7a822e%2Fgettyimages-586113560.jpg
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.30402A7EFACEA8F6697E21A15B79453E
+    width: 700
+    height: 367
     title: "Fake Facebook accounts using artificially-generated faces"
 
 related:
@@ -294,6 +294,6 @@ related:
         width: 594
         height: 397
 
-secured: "txGfgu8zHZYResHFOtIz2Y24td3v2ZdqeSQSYuYpko6IZ2kdgNwbKFyiLozySup70e6C2JSdgEOerspAEfnQ0AL6Q/Bjx3icwrUC/yplKXSHKWl+cfHgMxGjTB0o/t85W88rfNxPzvaz/8oINM2mpZgGzDxJtF9z2kTCyt96Ho7H6GiKS5FYelr2IFg1uiAf2NwS6oUoJ+uQox10cNIZq9lSh96gVRjvJCR33i+D++415wttHIQnuSdEniJ+0+GZrJGRewwcNun0d901hGnUNg==;fTvMElNxfDJ4qOf4La2g5g=="
+secured: "5w4Jj8Y7XMFr9DrURNtxEnrwZ3/vIDgvWQwm5czv1IqrQSTxCLmX/8jrWAzsifY2pTqYpPGJ0W6IZS59rZd+z5ij6Ln7LI0OSuzPcFpp1ebIYimltAYPEk99AoISfap046i5sujWrAugsbGE2P+L823QWPjpNBYNaP+NUMQxqXM52BruXnHaO2xnCPYukCfpQZ+YNGrbJw0tviAx6e1/rN8ksphpiHRC3pUuiYRxtTFM5nklSZunSHdlWdYrsFyB1jzG14p8sqcRdeX0x0aNUw==;xK0rRQ75JzKmjZalVknPbg=="
 ---
 

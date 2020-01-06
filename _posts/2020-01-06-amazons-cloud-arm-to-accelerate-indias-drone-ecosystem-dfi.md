@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
         width: 700
         height: 393
+  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
+    publishedDateTime: 2020-01-06T12:36:00Z
+    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
+    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.1512D292C42B406DB2497BFEA6EA3AFC
+        width: 700
+        height: 350
   - title: "Amazon’s Cloud arm to speed up drone innovation in India"
     excerpt: "“AWS was a natural choice for us, which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, said. The industry body signed an MoU with AWS at the ‘Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T10:21:00Z

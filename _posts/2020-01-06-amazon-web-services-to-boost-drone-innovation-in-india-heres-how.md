@@ -8,7 +8,7 @@ ampUrl: https://www.indiatvnews.com/amp/technology/news-amazon-web-services-to-b
 cdnAmpUrl: https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Amazon Web Services to boost drone innovation in India: Here's how"
 
 related:
+  - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
+    excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
+    publishedDateTime: 2020-01-06T12:36:00Z
+    sourceUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services
+    ampUrl: https://yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/drone-federation-india-aws-mou-cloud-services/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.1512D292C42B406DB2497BFEA6EA3AFC
+        width: 700
+        height: 350
   - title: "Amazon’s Cloud Arm to Accelerate India’s Drone Ecosystem: DFI"
     excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
     publishedDateTime: 2020-01-06T11:42:00Z

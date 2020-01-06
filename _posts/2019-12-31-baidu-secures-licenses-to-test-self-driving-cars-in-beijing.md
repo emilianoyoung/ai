@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -234,6 +234,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
         width: 700
         height: 393
+  - title: "SA road users embracing technology 'but are wary of self-driving cars'"
+    excerpt: "The study noted that among SA consumers, the advent of self-driving vehicles is still far off. Very few people among those surveyed had experienced an autonomous vehicle (AV) first-hand, although 78% said they were \"somewhat interested\" in giving it a try. Many said they remained \"somewhat apprehensive\" of AVs, with more than half of consumers ..."
+    publishedDateTime: 2020-01-06T12:41:00Z
+    sourceUrl: https://www.timeslive.co.za/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    ampUrl: https://www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    cdnAmpUrl: https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.2F4197E4DE1382692AB37B89FD5DC1F7
+        width: 512
+        height: 323
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
     excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
     publishedDateTime: 2019-12-26T20:43:00Z

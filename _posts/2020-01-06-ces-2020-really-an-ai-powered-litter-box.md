@@ -1,0 +1,48 @@
+---
+category: news
+title: "CES 2020: Really, an AI-powered litter box?"
+excerpt: "That point was driven home by my recent run in with a smart, self-cleaning litter box from iKuddle. The company, which develops pet-centric AI Internet of Things (AIoT) smart devices, is following up the litter box by announcing the launch of its AI-powered iKuddle Water Fountain and iKuddle Auto Feeder, and is unveiling the first health and ..."
+publishedDateTime: 2020-01-06T12:00:00Z
+sourceUrl: https://www.zdnet.com/article/ces-2020-really-an-ai-powered-litter-box/
+ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-really-an-ai-powered-litter-box/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-really-an-ai-powered-litter-box/
+type: article
+quality: 87
+heat: 97
+published: true
+
+provider:
+  name: ZDNet
+  domain: zdnet.com
+  images:
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.78F478030ABED50E8EF700545C43C653
+    width: 700
+    height: 525
+    title: "CES 2020: Really, an AI-powered litter box?"
+
+related:
+  - title: "Samsung unveils its AI-powered 8K TVs for 2020"
+    excerpt: "Samsung revealed its new QLED 8K TV last night in Korea, and now the US unveiling is under way. We already heard about interesting features like its \"digital butler\" that will control other devices, including older stuff that can't connect to networks using an IR blaster,"
+    publishedDateTime: 2020-01-06T02:40:00Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-unveils-its-ai-powered-8k-tvs-for-2020/ar-BBYE2TB
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.3A83742863E62DFF8E87E717073FF70F
+        width: 700
+        height: 367
+
+secured: "TG5eSpwJD32NedneJcXrimjB8/8br7K0wbGoge/ebM/1bRaGpoH4UsncTgyPXDPE/3rP1vZ9pzvO3TrFVsv+fbZNLIctoscTwvw3KjAuN2mE9x6M/QnW20qDIvLxsDoo/3Cw3MIjquACM9cxrdLlG0HTUj3TksaeCoCwj/ePU/JTgDwv9rcUwm1gekYzpgRjwuSv0GOXIhlGng5DVwGf8IjY3qrYU5554mUugXVOE5hP8B69Zm55rji+Uq2WEs0wbVV1fdEV2etZ+F+Jcbg/NQ==;bSMhOXMhfaqF2GAIUjaDOw=="
+---
+

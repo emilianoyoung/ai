@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Tachyum Executives Excited About Company Future After Success of 2019"
-    excerpt: "One key milestone reached in the past year was the successful deployment of Linux OS and Tensorflow on the Prodigy Universal Processor architecture. Running Linux on a simulated Prodigy platform signaled that the chip can be used for all compute tasks ..."
+    excerpt: "One key milestone reached in the past year was the successful deployment of Linux OS and Tensorflow on the Prodigy Universal Processor architecture. Running Linux on a simulated Prodigy platform signaled that the chip can be used for all compute tasks, as opposed to current special-purpose chips or accelerators with limited applications and ..."
     publishedDateTime: 2019-12-17T12:00:00Z
     sourceUrl: https://www.businesswire.com/news/home/20191217005259/en/Tachyum-Executives-Excited-Company-Future-Success-2019
     type: article

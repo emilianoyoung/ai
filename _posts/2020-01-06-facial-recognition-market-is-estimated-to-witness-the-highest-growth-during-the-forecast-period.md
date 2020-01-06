@@ -18,138 +18,116 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
-    publishedDateTime: 2020-01-02T11:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
+  - title: "Facial Recognition: Friend Or Foe?"
+    excerpt: "The growing trend toward more accurate facial recognition is on the rise. It is clear that advances in research — specifically, with more accurate, complex algorithms — are creating an environment of extremely accurate solutions that use the complex and individual characteristics of a person's face for identity purposes. As the former ..."
+    publishedDateTime: 2020-01-06T12:52:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2020-01-03T08:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
+      - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
+        width: 600
+        height: 315
+  - title: "Facial recognition system now 'operational' for Lockport Schools"
+    excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
+    publishedDateTime: 2020-01-03T02:12:00Z
+    sourceUrl: https://www.wgrz.com/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
+    ampUrl: https://www.wgrz.com/amp/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
+    cdnAmpUrl: https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/facial-recognition-system-now-operational-for-lockport-schools/71-e0245658-0e8f-4cf9-8d18-bfc4976554c2
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: WGRZ
+      domain: wgrz.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
-        width: 700
-        height: 494
-  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
-    publishedDateTime: 2020-01-02T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+      - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
         width: 700
         height: 393
-  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
-    publishedDateTime: 2019-12-30T03:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+  - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
+    excerpt: "An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education officials, including that no ..."
+    publishedDateTime: 2020-01-04T03:46:00Z
+    sourceUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/
+    ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.09025C93BACA87948898EA1D02F9A079
+        width: 700
+        height: 393
+  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
+    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
+    publishedDateTime: 2020-01-01T12:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 48
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
+  - title: "ATFX launches biometric facial recognition for trading account opening"
+    excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
+    publishedDateTime: 2020-01-02T12:52:00Z
+    sourceUrl: https://www.leaprate.com/financial-services/fintech/atfx-launches-biometric-facial-recognition-for-trading-account-opening/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Leaprate
+      domain: leaprate.com
     quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-03T11:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
+      - url: https://www.bing.com/th?id=ON.B94DC8B0BC687B17C625DC409A4F7E5D
+        width: 700
+        height: 421
+  - title: "Facial recognition system now 'operational' for Lockport Schools"
+    excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website,"
+    publishedDateTime: 2020-01-02T21:09:39Z
+    sourceUrl: https://www.msn.com/en-us/news/us/facial-recognition-system-now-operational-for-lockport-schools/ar-BBYyKFn
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: WGRZ-TV Buffalo on MSN.com
+      domain: msn.com
     quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
-    excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
-    publishedDateTime: 2020-01-02T11:52:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/02/goodbye-2019-hello-2020-year-cloud-reviewed-and-what-horizon/
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 21
-    images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
+      - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
-        height: 450
+        height: 315
+  - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
+    excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
+    publishedDateTime: 2020-01-03T16:49:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/facial-recognition-gun-detection-system-implemented-in-lockport-schools-despite-controversy
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
+        width: 640
+        height: 260
+  - title: "Carlo Ratti's Eyes of the City exhibition in Shenzhen tracks visitors with facial-recognition tech"
+    excerpt: "Architect and MIT professor Carlo Ratti stokes the surveillance debate with his biennale exhibition, which is set in a working train station in China and actively uses facial-recognition technology. A part of the the Bi-City Biennale of Urbanism\\Architecture in Shenzhen, The Eyes of the City exhibition is now open at Futian station. Ratti is an ..."
+    publishedDateTime: 2020-01-06T12:30:24Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/carlo-rattis-eyes-of-the-city-exhibition-in-shenzhen-tracks-visitors-with-facial-recognition-tech/ar-BBYF9qs
+    type: article
+    provider:
+      name: Dezeen on MSN.com
+      domain: msn.com
+    quality: 10
+    images:
+      - url: https://www.bing.com/th?id=ON.0471FD6FC31D188E8C23D3C00278374E
+        width: 700
+        height: 404
 
 secured: "RMg5aEMoqEUSKbyjlgwrqVZIAt3e0zkowjST1JlkRi7WrxbypqVv1DguXt/Ek6E5gDXmEdiBZ3D04akDetW1y0BEHlL0exePIU8egYs/S/RFNjDTLQpzfn6LYC2+uoe8uXg58kMmxLZW3IaoifVlyNiluy4ibqCusu3nsDIB17GqFcH9Mht3S4+bavxEKxQWQEMQZ+DBOb8xWzSrFaQZ76P72aJBhUxDTcD7REGAUmGwQo4ikkA//bb0LU+oa7bZK1GeVce+fp+syDWHnv3qmA==;H7OM+45sz9MDlkz7lhj1Xg=="
 ---

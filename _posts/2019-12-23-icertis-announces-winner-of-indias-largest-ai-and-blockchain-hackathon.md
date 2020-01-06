@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology ... appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"I would like to thank ..."
-publishedDateTime: 2019-12-23T23:17:00Z
-sourceUrl: https://www.prnewswire.com/in/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
+excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
+publishedDateTime: 2019-12-23T13:54:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
 type: article
 quality: 39
 heat: -1
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 393
 
-secured: "ijr6xPWQzgo2HvAT1J3p55C1e3ZLLzAb578+v/gqGW/BYK1F5uv/z+ToWpDuMhCRggeBTrLIvn4aZgEgu8exi73UT297fUuwgi2wUdqbQrx3/KTwq6gAYzRU/MlJmPjvPLG4evIvRKicq5JuWRrFHJu7oO4xKY/OKkg0EvXn2KYFq5Bt7qwz4k+c9Ca03ZCnqWffWGyyzy1o+YhxL9s5vBRb16U243kMW2vQyvj++YXJ3ihqobv2CZWXjOQol3Gw5bWSr168SWo+sv4OEHmsYw==;TKAsQFORLRkJ8jo5jnxeXw=="
+secured: "jhJtLIBT3rauS6ORbQJg5pwk4Bm0nVnD5nPo4FPhUsxKB1bCHsyDyv7tbaCWHFB3HhFgnTqju7W+oCXNdkCAWdGES0mrSzXFiRnsF55Sw8YCqGMHN1uF3lSayJn06D7/Wkqx79DM7wfsrcFAHuMoxV1IheqQv1hGFhIcSIqq8ZaQ907KkKattJU1DnsFGZq8UupZB3xXbF1ahTJ+964n2eWdrOhQAFbmzGLYPUm4+s0QCkH3IkUxXEOdXhO6qs1M9xdDqPf11W7VA3Zft278NA==;IcCCBedksCzKkRX7rd2jLA=="
 ---
 

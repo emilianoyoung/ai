@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Tachyum Executives Excited About Company Future After Success of 2019"
-excerpt: "One key milestone reached in the past year was the successful deployment of Linux OS and Tensorflow on the Prodigy Universal Processor architecture. Running Linux on a simulated Prodigy platform signaled that the chip can be used for all compute tasks ..."
+excerpt: "One key milestone reached in the past year was the successful deployment of Linux OS and Tensorflow on the Prodigy Universal Processor architecture. Running Linux on a simulated Prodigy platform signaled that the chip can be used for all compute tasks, as opposed to current special-purpose chips or accelerators with limited applications and ..."
 publishedDateTime: 2019-12-17T12:00:00Z
 sourceUrl: https://www.businesswire.com/news/home/20191217005259/en/Tachyum-Executives-Excited-Company-Future-Success-2019
 type: article
@@ -34,6 +34,6 @@ related:
       domain: yahoo.com
     quality: 4
 
-secured: "a3Snnf0JIa9N+W+tdtLRsNGNhBMjO1f8AXiQ6z8Z/+ts6fY3gloCNgIp0PAiQlLTuAtKZHVredLjbKTxybncO8f24c54QQ7/9p20AU04jPKzTLxM+Git6pd/d4H/E689ubamOpwQA4uN/ffPgNmsUuyquYQogpdN2rn/K3/5A7nH6o/zT+7wi+33OTHMhlnCi5Yxgyz9EQpARD7bdJ5P7L0B+xCR6+Lts75+Pr0BpAx4EQtycyENQhhWuBEDuhwm5zKTRtiqm2nQb3UQVALXfw==;mVRb2IQt7Uho+BbM0ErwkQ=="
+secured: "/4t+4Sbo5ZPhzMoZfivT6hlZ6V9ihy4hD7nOh/LSixGWmqiFOK6gu5RRTWeFb4/yGl9qrQyDK72ztXTYfY9q1sS7lVL3eEdwlHrnVXqJx4FhRc2ddalJW1je6IeFJxOtL2wT2wF85GwmevNNM0AZLLQwfo0tKY+r1cLX7AY2KCjVaJ1NKWCO5x2qdSpYIifQbqmOupnEcOKyU/MTQsf1oqEPYOKLIAvdO3yR1pH3p8DlxoLhrSCb2eBFdyvlufxMwVJgezEpj9DPLNdFc0I/sQ==;WGN9aaTZ5iog6orVXq8cSQ=="
 ---
 

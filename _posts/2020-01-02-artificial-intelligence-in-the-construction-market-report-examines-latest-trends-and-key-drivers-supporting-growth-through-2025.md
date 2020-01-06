@@ -146,15 +146,6 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
         width: 600
         height: 450
-  - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
-    excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
-    publishedDateTime: 2020-01-06T07:54:00Z
-    sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "F7keV9dFnMVMXrhFPdzMseSyJYcgnUQR2vq3uJT1DIgCUkBnMxrpZI/jwIchaCKZUqdmEPHcGoZVlGwOjk2LI4C+LpGKit/JIR6HQy5fK+Vzx73eZJjZMmEc/wfBH3CQrw9nAZiRoTYsiYRVCHIp3F+nm6Zsam16XtMR0/iKXtDdr6aeu7XyXKEhKOXTP+1bIGxiM+i9+L2RPLXDJKWXrP37+QSU2bw0A/L2cg29+TemVRmLDmAn41koeHFXrwbn2N5fjws8ODOdXPZA7msCoQ==;WuX73yOnlyvobpwUZu6VnQ=="
 ---

@@ -144,15 +144,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
-    excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
-    publishedDateTime: 2020-01-06T07:54:00Z
-    sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
 secured: "hl+7V4tvfkO9q7NkcHGQSUY6LFtnIc6GTQ960hnfUuenWPpRZhB67ELWFLlNz4Sm1pWzq3VpZV0tymAsM22h465clBf56o8ZBGjpOuuWB/R0ceZlOSw7XU/QHqT6dria1jA/2BasHqKFP0PvAHK3lPPXJip3WLnw+WO5uZOh8PHnFX4AY0vuv9tntChxXdxVYb0LVB6E3kWbF8ToIPgnfbEz1cn4aK2ZdgyVl6rjfuWhopNzU9JGC026LOCgdSuHJexv1WDAf+hvw7B4xGOY1w==;rniQZ10BRzhHbn4+inD+mQ=="
 ---

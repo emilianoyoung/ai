@@ -247,6 +247,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FDC4B6D802C3BB2AA283FFAA82BC6B60
         width: 700
         height: 393
+  - title: "SA road users embracing technology 'but are wary of self-driving cars'"
+    excerpt: "The study noted that among SA consumers, the advent of self-driving vehicles is still far off. Very few people among those surveyed had experienced an autonomous vehicle (AV) first-hand, although 78% said they were \"somewhat interested\" in giving it a try. Many said they remained \"somewhat apprehensive\" of AVs, with more than half of consumers ..."
+    publishedDateTime: 2020-01-06T12:41:00Z
+    sourceUrl: https://www.timeslive.co.za/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    ampUrl: https://www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    cdnAmpUrl: https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-01-06-sa-road-users-embracing-technology-but-are-wary-of-self-driving-cars/
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.2F4197E4DE1382692AB37B89FD5DC1F7
+        width: 512
+        height: 323
   - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
     excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
     publishedDateTime: 2019-12-31T10:34:00Z

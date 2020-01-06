@@ -65,6 +65,19 @@ related:
       - url: https://www.bing.com/th?id=ON.754AC2277E2C3ED7651F882F68DF09B5
         width: 700
         height: 350
+  - title: "Robots and AI get top billing at Vegas tech show"
+    excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. As David Pollard reports, AI and 5G are two of the show's big themes for 2020."
+    publishedDateTime: 2020-01-06T12:21:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idOVBV1J8UJ
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.5EC99D88341136B1584B4C9A9B92D6EC
+        width: 700
+        height: 393
   - title: "A Rocking Robotics ETF For 2020"
     excerpt: "Robotics and artificial intelligence (AI) investments regained their leadership roles in 2019. Just look at the Indxx Global Robotics and Artificial Intelligence Thematic Index, which gained almost 32% last year. Data points augur well for continued bullishness in these segments in 2020. What Happened Tactical traders looking to take advantage ..."
     publishedDateTime: 2020-01-03T23:56:00Z

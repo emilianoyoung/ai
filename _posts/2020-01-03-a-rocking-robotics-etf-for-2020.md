@@ -78,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.754AC2277E2C3ED7651F882F68DF09B5
         width: 700
         height: 350
+  - title: "Robots and AI get top billing at Vegas tech show"
+    excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. As David Pollard reports, AI and 5G are two of the show's big themes for 2020."
+    publishedDateTime: 2020-01-06T12:21:00Z
+    sourceUrl: https://www.reuters.com/video/watch/idOVBV1J8UJ
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.5EC99D88341136B1584B4C9A9B92D6EC
+        width: 700
+        height: 393
   - title: "A Look-back at Tech 2019"
     excerpt: "It takes a few seconds. That’s the speed with which an algorithm can pick one sound pattern from among millions and serve it up to you. With the same speed if not faster, AI and Natural Language Processing have shown how they can combine to translate languages to become almost real-time. Translators are right to worry about their jobs."
     publishedDateTime: 2019-12-26T02:56:00Z

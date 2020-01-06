@@ -122,6 +122,19 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
         width: 1200
         height: 630
+  - title: "Legal Tech's Predictions for Artificial Intelligence in 2020"
+    excerpt: "My mental picture of C3PO projecting a hologram of a case file has not yet come true, and I must confess that I’m a bit disappointed. OK, I know that’s not what artificial intelligence is all about. In the past decade, we have seen AI’s legal applications grow from primarily technology-assisted review in e-discovery to encompass ..."
+    publishedDateTime: 2020-01-06T12:19:00Z
+    sourceUrl: https://www.law.com/legaltechnews/2020/01/06/legal-techs-predictions-for-artificial-intelligence-in-2020/
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.B5C2FB48FB9B0EB28D7CCB1F0774F2B6
+        width: 620
+        height: 372
   - title: "UK data science and AI predictions for 2020"
     excerpt: "The growing demand from both consumers and governments for greater scrutiny of AI and data-driven technologies leads Genpact chief digital officer Sanjay Srivastava to predict the rise of digital ethics officers. \"These officers will be responsible for implementing ethical frameworks to make appropriate decisions about the use of new ..."
     publishedDateTime: 2019-12-30T08:06:00Z

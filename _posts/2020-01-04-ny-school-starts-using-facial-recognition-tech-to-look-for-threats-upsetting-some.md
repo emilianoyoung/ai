@@ -26,6 +26,21 @@ images:
     title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
 
 related:
+  - title: "Facial Recognition: Friend Or Foe?"
+    excerpt: "The growing trend toward more accurate facial recognition is on the rise. It is clear that advances in research — specifically, with more accurate, complex algorithms — are creating an environment of extremely accurate solutions that use the complex and individual characteristics of a person's face for identity purposes. As the former ..."
+    publishedDateTime: 2020-01-06T12:52:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/facial-recognition-friend-or-foe/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
+        width: 600
+        height: 315
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
@@ -41,6 +56,32 @@ related:
       - url: https://www.bing.com/th?id=ON.47FFBB4E1FF27CBBD8D505EC69AC5155
         width: 700
         height: 393
+  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
+    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
+    publishedDateTime: 2020-01-01T12:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "ATFX launches biometric facial recognition for trading account opening"
+    excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
+    publishedDateTime: 2020-01-02T12:52:00Z
+    sourceUrl: https://www.leaprate.com/financial-services/fintech/atfx-launches-biometric-facial-recognition-for-trading-account-opening/
+    type: article
+    provider:
+      name: Leaprate
+      domain: leaprate.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B94DC8B0BC687B17C625DC409A4F7E5D
+        width: 700
+        height: 421
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website,"
     publishedDateTime: 2020-01-02T21:09:39Z
@@ -67,19 +108,28 @@ related:
       - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
         width: 640
         height: 260
-  - title: "JB school using facial scanner for attendance"
-    excerpt: "JOHOR BARU: SK Taman Perling here has taken a different approach in recording the attendance of its pupils, teachers and staff by using a facial recognition system. Headmaster Zamri Abd Wahab said the use of the system, introduced this year, was to smoothen the school’s daily operations. “We are always open to the use of the latest ..."
-    publishedDateTime: 2020-01-02T08:59:00Z
-    sourceUrl: https://www.msn.com/en-my/news/national/jb-school-using-facial-scanner-for-attendance/ar-BBYwJMq?li=AAAHftF
+  - title: "Carlo Ratti's Eyes of the City exhibition in Shenzhen tracks visitors with facial-recognition tech"
+    excerpt: "Architect and MIT professor Carlo Ratti stokes the surveillance debate with his biennale exhibition, which is set in a working train station in China and actively uses facial-recognition technology. A part of the the Bi-City Biennale of Urbanism\\Architecture in Shenzhen, The Eyes of the City exhibition is now open at Futian station. Ratti is an ..."
+    publishedDateTime: 2020-01-06T12:30:24Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/carlo-rattis-eyes-of-the-city-exhibition-in-shenzhen-tracks-visitors-with-facial-recognition-tech/ar-BBYF9qs
     type: article
     provider:
-      name: MSN
+      name: Dezeen on MSN.com
       domain: msn.com
-    quality: 24
+    quality: 10
     images:
-      - url: https://www.bing.com/th?id=ON.8D0FBBC08D69777EF7537F93F8D2B50A
+      - url: https://www.bing.com/th?id=ON.0471FD6FC31D188E8C23D3C00278374E
         width: 700
-        height: 367
+        height: 404
+  - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
+    excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
+    publishedDateTime: 2020-01-06T07:54:00Z
+    sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
 
 secured: "LaoO0N01u7hVlZxOS+hGpMLCp+BrxkyExXuHimWpK+Pe4LOsSRdPTpGhVZN7JjUtoImiJZ5bRNiSw4X9jJjy2tj5NNbdoLFEhPEqN6PdeyhTeOA6E7eU1UAR6R2/6I/uYR2xMXUSiucFdyxcRVFc8NmfEFQd27S3EKC/uLKmS1hHNkKF+iREm+fkdpL+IswrtEsR9YmzosO4vtYs/3OKWYrJSMq3IxEIno1WKnlpsBxC6/zPXWNzLpLY+ONTtpfSqBmGI2cKHaAnYyo91mdRmg==;f1bI4QylG/cQ5KvE0U8eRw=="
 ---
