@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-17T05:34:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 53
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
   - title: "Regenstrief VP co-authors National Academy report on AI's potential to improve health"
     excerpt: "Eneida Mendonca, M.D., PhD, an expert in natural language processing, machine learning, predictive analytics and AI adoption, is a co-author of \"Artificial Intelligence in Health Care: The Hope, The Hype, The Promise, and The Peril,\" a National Academy of Medicine (NAM) Special Publication. Other authors are from Harvard University, the Mayo ..."
     publishedDateTime: 2019-12-17T18:45:00Z

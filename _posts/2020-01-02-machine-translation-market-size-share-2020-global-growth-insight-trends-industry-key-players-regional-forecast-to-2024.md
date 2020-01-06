@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Advisory Service Market 2020 Business Insights - IBM, SAP, Google, Amazon, Salesforce, Intel, Baidu"
+    excerpt: "Global Artificial Intelligence Advisory Service Market Report 2020-2026 provides insightful data ... MarketInsightsReports provides syndicated market research on industry verticals including Healthcare, Information and Communication Technology (ICT), Technology and Media, Chemicals, Materials, Energy, Heavy Industry, etc. MarketInsightsReports ..."
+    publishedDateTime: 2020-01-06T04:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-advisory-service-market-2020-business-insights---ibm-sap-google-amazon-salesforce-intel-baidu-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
     excerpt: "Dec 30, 2019 (Global QYResearch via COMTEX) -- The fresh industrial research report Global Self-driving Cars and Trucks Market Research Report 2019 published and promoted by Ameco Research.com studies industry trends, market gains, Market development aspects, growth speed, and industry situation during the forecast period (2019-2026)."
     publishedDateTime: 2019-12-30T06:46:00Z

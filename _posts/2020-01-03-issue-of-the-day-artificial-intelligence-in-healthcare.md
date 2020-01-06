@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B23E65F75E23EE2E5215B250614867AA
         width: 700
         height: 393
-  - title: "What is artificial intelligence’s future in healthcare"
-    excerpt: "She also needed no opioids as a result. This is just one example of how artificial intelligence is transforming lives in the field of healthcare. We now have mobile applications and devices that are making preliminary diagnosis of life-threatening diseases easier, cheaper and far more convenient. Miiskin, UMSkinCheck, for instance, help in ..."
-    publishedDateTime: 2020-01-04T19:37:00Z
-    sourceUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/
-    ampUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00
-        width: 660
-        height: 440
   - title: "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?"
     excerpt: "Health products powered by artificial intelligence, or AI, are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will make radiologists obsolete. “There’s nothing that I’ve seen in my 30-plus years ..."
     publishedDateTime: 2019-12-30T15:07:00Z
@@ -106,6 +91,19 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
         width: 1903
         height: 836
+  - title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
+    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+    publishedDateTime: 2020-01-06T06:37:00Z
+    sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
+        width: 700
+        height: 494
   - title: "Issue of the day: Artificial intelligence in healtncare"
     excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
     publishedDateTime: 2020-01-03T05:50:00Z

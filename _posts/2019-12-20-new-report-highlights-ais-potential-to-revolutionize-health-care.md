@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "New report highlights AI's potential to revolutionize health care"
 
 related:
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-17T05:34:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 53
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
   - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
     excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
     publishedDateTime: 2019-12-18T08:15:00Z

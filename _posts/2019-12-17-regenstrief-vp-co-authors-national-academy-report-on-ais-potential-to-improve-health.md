@@ -39,19 +39,6 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg
         width: 620
         height: 480
-  - title: "New Research Indicates AI May Be Catalyst to Making Healthcare More Human"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health ... As a leading provider of medical imaging, monitoring, biomanufacturing, and cell and gene therapy technologies, GE Healthcare enables precision health in diagnostics, therapeutics and monitoring through intelligent devices, data analytics ..."
-    publishedDateTime: 2019-12-17T05:34:00Z
-    sourceUrl: https://www.finanzen.net/nachricht/aktien/new-research-indicates-ai-may-be-catalyst-to-making-healthcare-more-human-8328587
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 53
-    images:
-      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
-        width: 600
-        height: 315
   - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
     excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
     publishedDateTime: 2019-12-18T08:15:00Z

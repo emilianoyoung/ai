@@ -44,6 +44,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Advisory Service Market 2020 Business Insights - IBM, SAP, Google, Amazon, Salesforce, Intel, Baidu"
+    excerpt: "Global Artificial Intelligence Advisory Service Market Report 2020-2026 provides insightful data ... MarketInsightsReports provides syndicated market research on industry verticals including Healthcare, Information and Communication Technology (ICT), Technology and Media, Chemicals, Materials, Energy, Heavy Industry, etc. MarketInsightsReports ..."
+    publishedDateTime: 2020-01-06T04:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-advisory-service-market-2020-business-insights---ibm-sap-google-amazon-salesforce-intel-baidu-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
     excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
     publishedDateTime: 2020-01-02T06:16:00Z

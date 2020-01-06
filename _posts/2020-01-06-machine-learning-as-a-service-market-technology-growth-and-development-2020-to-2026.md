@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T02:52:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -32,6 +32,19 @@ related:
     excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
     publishedDateTime: 2019-12-31T04:34:00Z
     sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Advisory Service Market 2020 Business Insights - IBM, SAP, Google, Amazon, Salesforce, Intel, Baidu"
+    excerpt: "Global Artificial Intelligence Advisory Service Market Report 2020-2026 provides insightful data ... MarketInsightsReports provides syndicated market research on industry verticals including Healthcare, Information and Communication Technology (ICT), Technology and Media, Chemicals, Materials, Energy, Heavy Industry, etc. MarketInsightsReports ..."
+    publishedDateTime: 2020-01-06T04:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-advisory-service-market-2020-business-insights---ibm-sap-google-amazon-salesforce-intel-baidu-2020-01-06
     type: article
     provider:
       name: MarketWatch

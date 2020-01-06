@@ -25,6 +25,21 @@ images:
     title: "AI Is Getting Better Than Humans at Catching Cancer"
 
 related:
+  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
+    excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
+    publishedDateTime: 2020-01-05T22:00:00Z
+    sourceUrl: https://www.engadget.com/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+    ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
+        width: 700
+        height: 367
   - title: "Scientists built an AI that can spot breast cancer better than a doctor"
     excerpt: "Artificial intelligence is already invading many aspects of our daily lives, but while “smart” virtual assistants like Apple’s Siri and Amazon’s Alexa can be helpful, more powerful AI might actually save your life. In a new study published in the journal Nature explains, cancer-detecting algorithms are becoming so adept at spotting ..."
     publishedDateTime: 2020-01-02T23:38:00Z
@@ -40,17 +55,45 @@ related:
       - url: https://www.bing.com/th?id=ON.0964E0C007B9ECE04A7042B9F23311CB
         width: 700
         height: 462
-  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
-    excerpt: "Oral-B, a giant of the tooth-brushing industry, has been making electric toothbrushes for years, incorporating consumer tech trends like smartphone apps and Bluetooth. Every few years, the company takes advantage of the scrum of CES to announce its latest power toothbrush,"
-    publishedDateTime: 2020-01-05T23:00:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/oral-b-thinks-its-ai-toothbrush-can-clean-your-teeth-better-than-you-can/ar-BBYDKpW
+  - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-01T20:56:00Z
+    sourceUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254
+    ampUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
+    cdnAmpUrl: https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 36
+      name: The Scotsman
+      domain: scotsman.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.76DA95B4F089AD1DB51FFD6E83BDA77A
+      - url: https://www.bing.com/th?id=ON.D3A2DCD6DE08CC3B8F57B44FF391B6A4
+        width: 620
+        height: 413
+  - title: "AI system can detect breast cancer better than clinical experts – study"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
+    publishedDateTime: 2020-01-01T20:45:00Z
+    sourceUrl: https://www.shropshirestar.com/news/uk-news/2020/01/01/ai-system-can-detect-breast-cancer-better-than-clinical-experts-study/
+    type: article
+    provider:
+      name: Shropshire Star
+      domain: shropshirestar.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
+        width: 700
+        height: 525
+  - title: "AI system found to detect breast cancer better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-02T11:05:00Z
+    sourceUrl: https://www.irishtimes.com/news/health/ai-system-found-to-detect-breast-cancer-better-than-experts-1.4128713
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
         width: 700
         height: 367
 

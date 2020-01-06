@@ -25,6 +25,6 @@ images:
     height: 382
     title: "Artificial intelligence that alerts drivers and slows down the car when they are getting drowsy or distracted will be rolled out from 2022"
 
-secured: "EydG2ylPrvb9i3Ej2btqkcOPCOqRzcUBpfv41ro0vrGKNq/N3rPlRma5/esVLKBnDpJfqkLNAyFhAUgZbP6JD2J8Arz/QJtAjwJTleQqO4tY3W9+A/qivdpflNErvQGUwAWhZCnbez+yyxTBXHQJRLURLnXoGBUttcv7S04DFQ2Q53YQ/I9dYW1ZZYpc+Phhj/ZbSIxcNFKMDJ6VUQiZoG5C8KpZdnlbTOjUxooDFAUpan53SYjxCGOsY+qpDxjRfqLz+qf0MS1L5dxe0aIWSg==;zR1iS0GOkbYwfb+vqGU5RQ=="
+secured: "WOHMeFpgguW/+mKgrdfuP7uwtNFzjr7DNx52f/qd6YkviXgDpAz57FDq83MR3X5Y3FMEsyhlwJxl+5pYgPjnO+lhWgWgrT/Q4wlUstsf9thw8MdjXEV/abGoj5zbDvFlfuqC0gMfnXW/AyWZZKBHDRkCkKT9qf+qN23Y13jzaknr6KVSLHI3Zf6hYbYgW+A7H+tIY/ZQE6X/kvxCUnF/ybn8PEqcd7hMymGiJh+QtoY2MK5SAP8T0lZxxzSayEAKcGdAOSqEhn1UY4Ee9TByvQ==;aHlIE8qtqFHmL1Y9+ans2A=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence and health care: The revolution has not yet come"
-excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
-publishedDateTime: 2019-12-31T15:14:00Z
-sourceUrl: https://www.benefitspro.com/2019/12/31/artificial-intelligence-and-health-care-the-revolution-has-not-yet-come/
+title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
+excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
+publishedDateTime: 2020-01-06T06:37:00Z
+sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
 type: article
-quality: 38
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: Benefits Pro
-  domain: benefitspro.com
+  name: MedCity News
+  domain: medcitynews.com
 
 topics:
   - AI
-  - AI in Healthcare
+  - AI Ethics
 
 images:
-  - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
-    width: 600
-    height: 400
-    title: "Artificial intelligence and health care: The revolution has not yet come"
+  - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
+    width: 700
+    height: 494
+    title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
 
 related:
   - title: "Are health care claims overblown about artificial intelligence?"
@@ -97,19 +97,6 @@ related:
       - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/shutterstock_575352721-1_1.jpg?itok=uUx7C0Pe
         width: 1903
         height: 836
-  - title: "A reality check on Artificial Intelligence: Are healthcare claims overblown?"
-    excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
-    publishedDateTime: 2020-01-06T06:37:00Z
-    sourceUrl: https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.A8E762E20898E18F39F4A26FE2C580E9
-        width: 700
-        height: 494
   - title: "Issue of the day: Artificial intelligence in healtncare"
     excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. AI in healthcare? Complex algorithms and software are used to emulate human behaviour in the ..."
     publishedDateTime: 2020-01-03T05:50:00Z
@@ -123,6 +110,19 @@ related:
       - url: https://www.heraldscotland.com/resources/images/10859006/
         width: 2400
         height: 1800
+  - title: "Artificial intelligence and health care: The revolution has not yet come"
+    excerpt: "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. (Lynne Shallcross/KHN ..."
+    publishedDateTime: 2019-12-31T15:14:00Z
+    sourceUrl: https://www.benefitspro.com/2019/12/31/artificial-intelligence-and-health-care-the-revolution-has-not-yet-come/
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.AC2FAC96D0EB7D0D7A60C6FFF1CB0F31
+        width: 600
+        height: 400
   - title: "Issue of the day: Artificial intelligence in healthcare"
     excerpt: "NEW research has suggested artificial intelligence can diagnose breast cancer more accurately than trained doctors as AI seems set to revolutionise healthcare. Complex algorithms and software are used to emulate human behaviour in the analysis of complex ..."
     publishedDateTime: 2020-01-03T15:43:00Z
@@ -146,6 +146,6 @@ related:
         width: 700
         height: 350
 
-secured: "Ga9jijQWVY8ESkeQS2KS3wLQcPUNH+A8FY3J0ZikarcYXHVFSVnFHdKhGhBA8S4JtgqH73cszGVtLLlzp3/un9ZWHoVnoi29MedCdXCOzdTuiRQxtYgjARIyLgxpiv5QkZsu0jj+t9WZjaHo8nfjEzdczE2Z7VEAQ1eqgTvJSA1KsW+O/5IymNldZEZp19DfpHfPvXF0WN/o/ksIZUYvHncihPeHHQRroNzXqJA9B7UpIB+0tfF2ga1yeRaigFQLZiQuDw0AKP67jLEK8iT78Q==;CeTF/OmBacQI5USkzBwOBA=="
+secured: "bE0PcvAUU6Hzqa7hfah0Iq2q8UPSEYK9SZUTyH6+j2oJlqaufcMNczrR7vZ04/Ve/OSQ2YJjM3BGDDEDD9i7rbtX5giXoi5a8+bP7ZeKOswrYuOqiWy2KZztYim9+pYW94YT2H7vbBtSIUb2/I7HgHy/Josnv3+PrFFicyJavqnxCdNbT1Bx3IJHkM1n4FfPVkoFjzg/oQhZg67aaR3mNGZAoS07vE+eucdZMNq2S7xixRLCMg9iMhAQQ8KruBA+2HwsaXHjUHceJB6salQPbw==;7tYH5SIFrc4XQhNQN2/lQQ=="
 ---
 
