@@ -7,8 +7,8 @@ sourceUrl: https://www.dw.com/en/skeptical-germany-lags-behind-on-artificial-int
 ampUrl: https://amp.dw.com/en/skeptical-germany-lags-behind-on-artificial-intelligence/a-51828604
 cdnAmpUrl: https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/skeptical-germany-lags-behind-on-artificial-intelligence/a-51828604
 type: article
-quality: 61
-heat: 61
+quality: 161
+heat: 171
 published: true
 
 provider:
@@ -26,6 +26,23 @@ images:
     height: 393
     title: "Skeptical Germany lags behind on artificial intelligence"
 
-secured: "AaHkssdYkmuQCZrKTOieUehycsq+I0r2BJtk96EvhkQ1SY5QCXzkm0F0JPNKUd99m00QIZUnsIf6+f7uc+hI1o5f4x925s4wDMpAUor/Eu0TJdq3faQk2XmrDkS/o3HDsa+YIsaaqcK50HUVaSBJtW4hUlqTyy5F2UOspMNaKIqBTpohDRHSe+RuM5NVEJHOg+yZRHLMWHm/FiJ1xT/UniRxxEZBnzLRJ4KZVOCfqBBcmQG/vqeSUhxl6hiHf1VMuxf08EDOc1ZFxBij0S+Slg==;1ZwOtHXnqlcCiCcyNlLBXA=="
+related:
+  - title: "Predictions for ArtificiaI Intelligence and Fintech for 2020"
+    excerpt: "Globally, the Fintech revolution offers solutions to all manner of issues, and as we see in so many sectors, algorithms and AI can locate data and highlight trends. In doing so, such technologies operate automatically – and therefore can carry out functions much quicker than by human effort – and at a reduced financial cost as technology ..."
+    publishedDateTime: 2019-12-30T00:00:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/
+    ampUrl: https://www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155692-predictions-for-artificiai-intelligence-and-fintech-for-2020/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.9B97F0D704C8841E2DFB0A466ECF3E34
+        width: 700
+        height: 589
+
+secured: "NfTKXVtEu1VZ9TysAM0IWwszkH58oPvI2ed6lDp+X9Hs4oudpKjzekkccuFYF8LtzjAmOID5dmyCaWVFQ/Vw16II9kjHr1qV6WKPyZ0DMKMcOgsJrnm5UnqSJ2ngEmK5vc1BLNuyhHMlB7y6KVZ2IuIvV1QV40HIARjn1PhxKbcUaFIdgrln9+6cYy6oCLHSeEOcQLnYVf2ac2BJ2G8/NlEnaiJXqUAh26yMdFHQ6aBQrhsXLf3ElbzJrsYLaYiPOlTpy7GEghBDwa+Yaa/Jybv+Ylh9ZQGmyaEt81tCh1w=;MBt9b0ZJmHxRBA4s6T/W0Q=="
 ---
 

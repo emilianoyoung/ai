@@ -1,27 +1,33 @@
 ---
 category: news
 title: "See how Bosch's futuristic AI-powered LCD sun visor will end squinting"
-excerpt: "Debuting at CES, this high-tech Virtual Visor promises to digitally fix a glaring problem that's been blinding drivers for nearly a century."
-publishedDateTime: 2020-01-06T10:43:07Z
-sourceUrl: https://www.msn.com/en-us/news/technology/see-how-boschs-futuristic-ai-powered-lcd-sun-visor-will-end-squinting/ar-BBYDTgN
+excerpt: "Debuting at CES, this high-tech Virtual Visor promises to digitally fix a glaring problem that's been blinding drivers for nearly a century. Since the dawn of driving, there's been an annoying constant: sun glare. Early motorists squinted and used gloved hands to block the sun's blinding rays, at least until around 95 years ago, when some ..."
+publishedDateTime: 2020-01-06T01:05:00Z
+sourceUrl: https://www.cnet.com/roadshow/news/bosch-virtual-sun-visor-ces/
+ampUrl: https://www.cnet.com/google-amp/news/bosch-virtual-sun-visor-ces/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bosch-virtual-sun-visor-ces/
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Roadshow on MSN.com
-  domain: msn.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.532129F084F5872B5D2CA25A554DD536
+  - url: https://www.bing.com/th?id=ON.2B6F53E9CE0F7687FF12D71F5EC36B4F
     width: 700
     height: 367
     title: "See how Bosch's futuristic AI-powered LCD sun visor will end squinting"
 
-secured: "1wOOwVtYsfBDAmSx+42DUXcno3B/mc3ub45WIzVBNNYstRxoC5gzHn3J4ysPHxjCa/wY2pr6XxVEsczeYXuiZOp/zXlcxNvhIfiPxgiP8Yl6ggBopqxOkr0ujfWdMluvaL39CZNTuG9JoEDp/v28khFdtvrDOzyuSQ4y0GIBRjiiUOoiXOXX9MI0qSUKkkrhz8n3cZuYOEcFmtYx5zvNa4fB/NLq3VHcxkfjXM1VnA75X0FLu1dXtsEsCkpGvpZ96o5RGGMFKMbBWJaXR2mL+Q==;0vCwmWGTqtGobDBTKf4upQ=="
+secured: "OjCqfsj89SxLtrAJHdH0jR4ghQ4HQs1ejHdaSW+upbTYBoDJDoGRtRQBMuACOzW4Z4nzAaUQMnot+BtArtpMQ8ejfYc9Qs6NciOYrVJ0y3/X1hsX20Qxv6F8kz+gOBA+NT1jTSo1heFnW06gDk1RX8jWuWizCX3sOBWCh5wOFnJcxhhL/s1eIqY0Is1/aXoTOOKWPXy+mudmMBFpWYDNFlXE0FdkW8c08KBZ7ZgfZcgzoF22olXk3w1Vz5xcxW26pNZ4yvNYvTawio1jgSCYEw==;MbZswfnFqW7AZ9g80o08Kw=="
 ---
 

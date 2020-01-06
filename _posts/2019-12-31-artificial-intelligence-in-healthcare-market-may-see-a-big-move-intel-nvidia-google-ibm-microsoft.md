@@ -28,75 +28,91 @@ images:
     title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
 
 related:
-  - title: "Telangana government set to use AI to provide better healthcare services"
-    excerpt: "HYDERABAD: In an effort to introduce Artificial Intelligence (AI) in public healthcare, the State government along with Intel, Public Healthcare Foundation of India (PHFI) and International Institute of Information Technology-Hyderabad (IIIT-H) will work in the field of diagnostics, proactive public healthcare, health services optimisation ..."
-    publishedDateTime: 2020-01-06T04:19:00Z
-    sourceUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.html
-    ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
+  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
+    excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
+    publishedDateTime: 2020-01-06T20:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 73
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
     images:
-      - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
-        width: 600
-        height: 390
-  - title: "Telangana Government bets big on Artificial Intelligence"
-    excerpt: "Hyderabad: The Telangana government on Thursday made a big push towards tapping the ever-growing opportunities in Artificial Intelligence (AI ... IIIT-H will set up a research centre in applied AI in healthcare and smart mobility. \"In line with our vision and our approach, AI will be our focus for the coming year and beyond."
-    publishedDateTime: 2020-01-03T00:50:00Z
-    sourceUrl: https://www.thehansindia.com/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
-    ampUrl: https://www.thehansindia.com/amp/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
-    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
+    publishedDateTime: 2019-12-31T04:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-gain-impetus-due-to-the-growing-demand-over-2025-2019-12-31
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity, revitalize the customer experience ..."
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.102EF75724DEE538DD0EDC04A7723F2E
+        width: 600
+        height: 315
+  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
+    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
+    publishedDateTime: 2019-12-31T08:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.7B543747CB917105C574FA5C3D658A02
-        width: 700
-        height: 420
-  - title: "Telangana government takes help of artificial intelligence projects"
-    excerpt: "Hyderabad: The Telangana government, as part of its ‘Year of AI’ initiative, launched two new projects which use artificial intelligence (AI). Both projects are part of the state government’s efforts to make government services more efficient with emerging technologies such as AI and blockchain. The first project was a “crowd estimation ..."
-    publishedDateTime: 2020-01-02T19:41:00Z
-    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
-    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
+    publishedDateTime: 2020-01-06T17:45:00Z
+    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 57
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+  - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
+    excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
+    publishedDateTime: 2020-01-06T16:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-ai-in-fashion-market-is-booming-worldwide-with-cagr-of-3891-microsoft-ibm-google-aws-sap-facebook-adobe-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.D2369BBAAC7B18090643359360946AE8
-        width: 700
-        height: 392
-  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-    publishedDateTime: 2019-12-31T02:10:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15054874/brainehealth-leveraging-digital-technologies-to-revolutionize-healthcare
-    ampUrl: https://amp.benzinga.com/amp/content/15054874
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15054874
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "CES points to age of “Intelligence of Things”"
+    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
+    publishedDateTime: 2020-01-06T07:04:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-  - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
-    excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
-    publishedDateTime: 2020-01-01T00:34:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/brainehealth---leveraging-digital-technologies-to-revolutionize-healthcare/article_94a7204e-0ded-5119-bcb1-8d2cd4aa1436.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 52
-    images:
-      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
-        width: 1280
-        height: 720
+      name: Warc
+      domain: warc.com
+    quality: 2
 
 secured: "nE5zFYTbDCfCoibXv7waDY9t5yTsf5l0SKc+JKbyCu+HhiYK2Mf2lPP6w+Uan6GECLwHiMZ/PZqk+fPr0ShRqzAVcOoVgSqDaYSya/RT6xoWYXFUkXYJDKHRLCSrHJwiYaUqXsV84NtlDCkzKXo0uqZ8/f+Hh6XVQ9YwK1s5Ry+rodpQQd79De+X3GiWe+HvUZ0sJ6ilBcxduX7thpt6FuP+PiwVpT9GIG30eKxzsc7ghn3q7ZazHQY0qT9GJMVgyudtuRcIvyG3XfpH6Ify0w==;B3X+yAAOMqEjXytLKl2BbA=="
 ---

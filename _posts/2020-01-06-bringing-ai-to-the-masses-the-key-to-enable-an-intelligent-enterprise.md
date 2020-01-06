@@ -29,68 +29,71 @@ images:
     title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
 
 related:
-  - title: "New eBay platform using AI to enable image search and internal innovation"
-    excerpt: "Krylov has allowed the e-commerce site to reimagine internal processes and give users new tools. Many of the biggest tech companies like Google, Facebook and Amazon have realized the value of creating their own AI platforms for both internal and customer-facing services. Facebook's FBLearner Flow helps the social media site filter out ..."
-    publishedDateTime: 2020-01-02T17:49:00Z
-    sourceUrl: https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    ampUrl: https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.B0519701A0F5A0B0AD3221EA2B7866F9
-        width: 700
-        height: 525
-  - title: "How AI And Machine Learning Can Make Forecasting Intelligent"
-    excerpt: "Companies have dealt with inaccuracies and blamed their bad data. However, things are starting to change thanks to artificial intelligence (AI), machine learning (ML) and predictive analytics. According to Salesforce, only a quarter of companies use predictive analytics. Of those using it, 86% have already seen a positive return. Predictive ..."
-    publishedDateTime: 2020-01-02T16:59:00Z
-    sourceUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent
-    ampUrl: https://www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
-    cdnAmpUrl: https://www-demandgenreport-com.cdn.ampproject.org/c/s/www.demandgenreport.com/features/demanding-views/how-ai-and-machine-learning-can-make-forecasting-intelligent/amp
-    type: article
-    provider:
-      name: Demand Gen Report
-      domain: demandgenreport.com
-    quality: 74
-    images:
-      - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
-        width: 1280
-        height: 1280
-  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
-    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
-    publishedDateTime: 2020-01-03T14:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
-    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
-        width: 700
-        height: 350
-  - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
-    excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
-    publishedDateTime: 2019-12-26T18:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-may-see-new-emerging-trends-2019-12-26
+  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
+    excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
+    publishedDateTime: 2020-01-06T20:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 94
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
-    publishedDateTime: 2019-12-30T02:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+  - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
+    publishedDateTime: 2019-12-31T04:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-gain-impetus-due-to-the-growing-demand-over-2025-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 89
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+    publishedDateTime: 2019-12-31T09:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
+    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
+    publishedDateTime: 2019-12-31T08:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
+    publishedDateTime: 2020-01-06T17:45:00Z
+    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+  - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
+    excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
+    publishedDateTime: 2020-01-06T16:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-ai-in-fashion-market-is-booming-worldwide-with-cagr-of-3891-microsoft-ibm-google-aws-sap-facebook-adobe-2020-01-06
     type: article
     provider:
       name: MarketWatch
@@ -100,19 +103,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
-    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+  - title: "CES points to age of “Intelligence of Things”"
+    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
+    publishedDateTime: 2020-01-06T07:04:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
-        width: 700
-        height: 490
+      name: Warc
+      domain: warc.com
+    quality: 2
 
 secured: "526xYSj26ZcxiUHja9+jTbar2NeshnDIrMFyq9/oMc1vzcrER62zziDvZaVMeyF25O7cGXl25HcH1hOt4r2Q7WaIu+Bn2sIo7bwANlK0nx14nP1h27m9B9oHuatLAdKPRH145/tQzX0HsZFC+u/zAUEinxCIgoDOC3ywZjHwqzre+CTcKEH/zSd8GOa2jrigFeEc6+7FBfdQvChkj9eJbQgfiEpcqyvx8VK2vRzMwfU0DXilyB/MQg/0bV/KiJ+R/VVK7A3ZEKDVKXh8q4hQMg==;DCRaVjGE8xDiCvvUvR/yXg=="
 ---

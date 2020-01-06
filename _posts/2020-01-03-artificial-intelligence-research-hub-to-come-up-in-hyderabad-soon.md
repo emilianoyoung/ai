@@ -7,9 +7,9 @@ sourceUrl: https://www.hindustantimes.com/tech/artificial-intelligence-research-
 ampUrl: https://m.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM_amp.html
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM_amp.html
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 137
+heat: 157
+published: true
 
 provider:
   name: Hindustan Times
@@ -50,6 +50,6 @@ related:
         width: 700
         height: 415
 
-secured: "U4IWP9ZwIExOOKDnF+rrNsMOGmn3Z+cPsq/7oYFCqFOin9yPaMlttRtf9DVmafQB3IoSM76cBVzOVRyx9xxfBjqc13Z3OXKaaod6j3+wl6Kncmu3kGhCE8gkI3G8odhm/tGfQquuiLU4uTD6jEMMJkd6PkJuEFCF0stLOsLxgGduCfTAw3lgQBKGvmBr+YIr54g2BZQeviWYRmER30IYfwwCqsUSWr4yl7oGwH3J1RAbhjCwez3LZ769DRis2FBP19XZG2xc8uXwftZe/ObOkA==;gqsneKfhcNT3kgm+K5HqoA=="
+secured: "Pwe9Ramxh2w9W03spLQOOIN9JkDzdysCZYC565twuzytFaDoJSiTg8Qaoa/mmE+teqxqNhMCood7JQEdvNhDYN4n8pZUVtxhdPJMjbjgskxCeeR1hqgA3MC/sYdVA1J6M1SjVJcYZ8BdNlls2Ew5sIGrzxBeI9WR4VT2C3SDdo0wJzDbYcDuf/tspNbcdv5q8vG55KrmE4IrSIUN4hoNLwksAYZVugaO6x8T18HAsHN1q0XYdh7kDEsbH+DxOHqFLGEZCWxumf9RUGZhKhoEN5btZZWMpgm5kribur/fgII=;2mPAHgK0hwkCJ4rvfQOE1w=="
 ---
 

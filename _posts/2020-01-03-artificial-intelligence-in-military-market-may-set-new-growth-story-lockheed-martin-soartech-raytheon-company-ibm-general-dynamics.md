@@ -27,10 +27,10 @@ images:
     title: "Artificial Intelligence In Military Market May Set New Growth Story | Lockheed Martin, Soartech, Raytheon Company, IBM, General Dynamics"
 
 related:
-  - title: "Artificial Intelligence in Security Market Is Likely to Experience a Tremendous Growth in near Future"
-    excerpt: "Jan 01, 2020 (HTF Market Intelligence via COMTEX) -- Artificial Intelligence in Security study will help you investigate a detailed division of the market by the end user/industry, by best in class product type and by geography with creation, income, utilization, export & import data in these areas, crunching historical data along with ..."
-    publishedDateTime: 2020-01-01T20:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-is-likely-to-experience-a-tremendous-growth-in-near-future-2020-01-01
+  - title: "Artificial Intelligence Based Personalization Market Overview, Segmentation, Top Key Companies, Value Chain, Market Size and Trends"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Based Personalization Market Report is highly intended to offer robust acumen considering Artificial Intelligence Based Personalization Market industry to aid a market contender with insightful analysis for Artificial Intelligence Based Personalization Market size, share ..."
+    publishedDateTime: 2019-12-31T04:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-overview-segmentation-top-key-companies-value-chain-market-size-and-trends-2019-12-31
     type: article
     provider:
       name: MarketWatch

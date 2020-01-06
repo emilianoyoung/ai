@@ -108,19 +108,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
         width: 1199
         height: 600
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Artificial Intelligence (AI) in Education Market Latest Trends and Growing Business Opportunities 2019 to 2025"
     excerpt: "Dec 23, 2019 (Xherald via COMTEX) -- The information mentioned in the Global Artificial Intelligence (AI) in Education market research report presents an overview of the latest trends observed in the global market. Besides, this intelligence study focuses on the latest events such as the developments and the product launches and their ..."
     publishedDateTime: 2019-12-24T03:41:00Z
@@ -178,18 +165,18 @@ related:
         width: 1200
         height: 630
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Church of England questions ethics of investment in Artificial intelligence"
     excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
     publishedDateTime: 2019-12-24T06:31:00Z
@@ -475,6 +462,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "Zn/xAq2XHo7SsaDLpvCHZzpe44uFbhRLhcyaQ9/QuTACWSOPQ+KVlirW6d4wOceBJEwj9WavHJs4vtD2T27JJwAp/JMw2IJ0t0IG6H98WLMZViwWY4fL9VR+G51XCDlcTFuk7iYKahe5vPzOhlS+1kShtW5B4HHjxOPycyylfBnCPljz8Pz/zZMQn90VDQpScu8NxnMn/iXVqlHKegA/pUvn+rMsugRKx3GIJnbvgkVuVTCc47RRTRaskOBRbcX9gAc172OBCC5WKPEoipjr4Q==;X/J6beKUyekqxcPUu2OPdQ=="
+secured: "H1SiFhMQ+gBZFHHp/gamZ1+VJf2s10a1woEFXSNjleaROX7MRJxUECtvSAmV/13P1si3Nl5S83uA3O28X1gjuzqNQSZ96lBPKthS+T8FVObNxe458g4wxJOM6rMl+D0xc1LLsrdPAiNY6sRowhpWF2Z380xrm4PLt9zI9HZ3O3oJepJZt7w52J2DrOEYnL7EZfxMdYdUmvbMkMh7N+o3nfxLKf7d65DMJAIkFGO73dG4eFD0anG62QiBT0OjSwqFtcGou/62/fAuTQx9Iqy8mg==;DdLrdLgNyUNVU5HJ91yA2g=="
 ---
 

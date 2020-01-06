@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T16:29:00Z
 sourceUrl: https://winbuzzer.com/2019/12/18/microsoft-details-sql-server-2019-machine-learning-improvements-xcxwbn/
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 1304
     height: 613
     title: "Microsoft Details SQL Server 2019 Machine Learning Improvements"
-
-related:
-  - title: "Microsoft further details the enhanced machine learning capabilities in SQL Server 2019"
-    excerpt: "With the announcement, the firm also discussed the improved data intelligence and built-in machine learning aspects being brought with this release at length. Soon after that, SQL Server Management Studio 18.4 was released with full support for SQL Server 2019. Today, Microsoft has provided further details in regards to the improved machine ..."
-    publishedDateTime: 2019-12-17T19:46:00Z
-    sourceUrl: https://www.neowin.net/news/microsoft-further-details-the-enhanced-machine-learning-capabilities-in-sql-server-2019
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 76
-    images:
-      - url: https://cdn.neow.in/news/images/uploaded/2019/09/1568899333_sql-server-nw_story.jpg
-        width: 760
-        height: 428
 
 secured: "+qpMsNpOwsw/oNPENu+OxJHM1sa5VbQeSBVp2VZQGFwknT2nbhDyRiQkJ9y7uHjnQ44yBYklp+x5sTuaLAJ0155XdC16VI4rR0Fk6SK0mTlb3FjXJw1WdmBczJb4hSgudzMmViaAqtBlkOlWmGGIup4lZt5TsfwiaueUp0swHlOmxYhgymrZ7XdeOBMlVave0pg8EP8JzawmKvcGvvOA9yD8ya+h5Z7Q95b4TjLh6CaWw39xl9CMesliWgpnkhnzjC43gPHPw704/C/PqgaQ4w==;WosLwpwBjt6hMZyQGB0HdA=="
 ---

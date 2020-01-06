@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B76148E129273B96EA3FA6E97D4D2ABB
         width: 700
         height: 393
+  - title: "Top trends to expect in cybersecurity and artificial intelligence"
+    excerpt: "As a cybersecurity and artificial intelligence innovator, we are often asked about our predictions for the year to come. AI, in all its flavors, is a hot technology and it is being applied in many fascinating and powerful ways. Our focus, of course, is on using deep learning to advance the standards in malware detection (and we see a lot of ..."
+    publishedDateTime: 2020-01-06T20:56:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/top-trends-to-expect-in-cybersecurity-and-artificial-intelligence
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
+        width: 700
+        height: 367
 
 secured: "J/PuUI9hbJ05VoWJgzuMkarSn/xIRo2ZS4JshxUE+yRVbCDqI84DocU530dledqldorcH2XYeaTg8T/ETrgAV4soXndeO9lk+PPw3a/ocNlgoKmlXx0ipxl/1Vdv3dmXnAlgNdgTkBURsQhiuEpuGEDjIQCitKuOpqak1xJgUgsErv/Gx89GfLp5CEzM/Z0KLD5QAito/+rpdTp9vwOddlT8ANCGHmutJCs3Wrd9i22ICWc2FdgmvKRHapY4vr7nMBwBkXs8Xu9yZSkRxDs6eA==;r3Rlh5ficeVE36Q+8uS1Dw=="
 ---

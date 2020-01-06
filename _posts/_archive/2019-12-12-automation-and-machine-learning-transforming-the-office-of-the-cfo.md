@@ -95,19 +95,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
         width: 700
         height: 466
-  - title: "The impact of artificial intelligence in the banking sector & how AI is being used in 2020"
-    excerpt: "The applications of AI in banking are a $450B opportunity for the banks that take advantage of the digital transformation. See how banks are using AI for cost savings and improved service."
-    publishedDateTime: 2019-12-17T19:43:00Z
-    sourceUrl: https://www.businessinsider.com/ai-in-banking-report
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: https://image.businessinsider.com/5d109757e3ecba50df3bb473?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
     excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
     publishedDateTime: 2019-12-12T11:12:00Z
@@ -178,18 +165,18 @@ related:
         width: 1200
         height: 630
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
+      name: BCW
+      domain: businesscomputingworld.co.uk
     quality: 54
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "Church of England questions ethics of investment in Artificial intelligence"
     excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
     publishedDateTime: 2019-12-24T06:31:00Z
@@ -475,6 +462,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "YLsGeZLWJzW4sjjdnL2zuHKoUm3LL+TUgKnldnoZcLC7YLGosuLHfFR24mJqBm9sNIWqTMSj2mF1u/sw3d6lYjkDEl0ElkKAlIsIxYE2K1dYjggiw+sa2tWHaXbOjRnK4QUO8u6vBj4jNP0ov7zwk51jnxlbqnu0XLJ7u13A6gqiEwp2bFZmSWJqCk8jQpkuAxC+oTDKz1Tdwj3fgTFnIq9RSoC8YTzrE4QMnRRLAuVhQD8bj8kqjpJ2HOBp58F8Ot+Umg07G5YKSNVorKq/Hg==;dQsyHF3bdWpFwcVKkOR4EQ=="
+secured: "8k3zxLmEajkskEcCuY9vv9NpJlGT8JLmrbiUsBOx3ajRnIblDoNoF/Uy6n14bTOZfp4LnD1Ga9Q+XWrxZ1byXrhs1xDrfaDde1MK/O9YObN7GQAIOU1O7d67bzHr/UgfoTFKGM27IYwg0ok+jlVh5VZJwGeZ3iHhCltPDFbrRNjZWfbrfVtL8LrVuCpEl2RQOxi/Ik17jEGxng1So32QhvURrQBH0DkZN+8OP5BakwRE/Im1cnP0yj5MjFb1aalYxys3WMpzffDYiG1O8McAAg==;D6cTcHs+I9r7BnBU3XK1GQ=="
 ---
 

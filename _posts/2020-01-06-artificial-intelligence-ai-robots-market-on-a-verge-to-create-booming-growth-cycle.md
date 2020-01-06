@@ -18,6 +18,19 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
+    excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
+    publishedDateTime: 2020-01-06T20:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 94
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
     excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
     publishedDateTime: 2019-12-31T04:30:00Z
@@ -31,93 +44,69 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
-    excerpt: "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ..."
-    publishedDateTime: 2019-12-24T13:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
+  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
+    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity, revitalize the customer experience ..."
+    publishedDateTime: 2020-01-06T19:54:00Z
+    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
+    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.102EF75724DEE538DD0EDC04A7723F2E
+        width: 600
+        height: 315
+  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
+    publishedDateTime: 2019-12-31T09:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 80
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
-    excerpt: "Dec 27, 2019 (Xherald via COMTEX) -- According to Verified Market Research, The Global AI in education market was valued at USD 521.04 Million in 2018 and is projected to reach USD 10.38 Billion by 2026, growing at a CAGR of 45.12% from 2019 to 2026. The report presents an in-depth assessment of the Ai In Education Market including enabling ..."
-    publishedDateTime: 2019-12-27T08:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/rising-demand-for-ai-in-education-market-to-grow-with-tremendous-cagr-by-2025-2019-12-27
+  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
+    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
+    publishedDateTime: 2019-12-31T08:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive new year offer:Upto 35% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market ..."
-    publishedDateTime: 2020-01-01T17:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+  - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
+    excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
+    publishedDateTime: 2020-01-06T16:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-ai-in-fashion-market-is-booming-worldwide-with-cagr-of-3891-microsoft-ibm-google-aws-sap-facebook-adobe-2020-01-06
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 40
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
-    publishedDateTime: 2019-12-27T05:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-size-share-growth-and-opportunity-assessment-till-2025-2019-12-27
+  - title: "CES points to age of “Intelligence of Things”"
+    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
+    publishedDateTime: 2020-01-06T07:04:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Based Personalization Market Overview, Segmentation, Top Key Companies, Value Chain, Market Size and Trends"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Based Personalization Market Report is highly intended to offer robust acumen considering Artificial Intelligence Based Personalization Market industry to aid a market contender with insightful analysis for Artificial Intelligence Based Personalization Market size, share ..."
-    publishedDateTime: 2019-12-31T04:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-overview-segmentation-top-key-companies-value-chain-market-size-and-trends-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
-    publishedDateTime: 2020-01-01T14:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
-    excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
-    publishedDateTime: 2019-12-26T09:56:00Z
-    sourceUrl: https://www.openpr.com/news/1885808/artificial-intelligence-ai-in-manufacturing-market-size
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
+      name: Warc
+      domain: warc.com
+    quality: 2
 
 secured: "5wpr/lB5InLkP0FXmthaa9Lm39cbu8BsH+VDGlWhnce0XyJNZqKwqwYYvswOWJzf6lUuIbaDuU1Glc8Hki8PoLUyeR3ncgLDkH02gPcmgnVwmQXoA74/Qf3KV9AWWkvtbuQWAKaBkBNAK/ankpcfVGJuV/X+i6BnSds5HbRUHiaT76YjwqOz9psumqeg7J/uyB7aqw3HpXCz1NBVi3W25NzoJyiQPIOPzYmqKWK4jF/ZUrpqVmHnFMnHWLELxrdQ3XBS+2tDhkHDmyokF2I/Cg==;MwQh24MoqJhLrsBMGC8NIA=="
 ---

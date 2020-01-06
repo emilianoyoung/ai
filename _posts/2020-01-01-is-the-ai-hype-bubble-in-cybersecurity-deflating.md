@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D82D514BD309752666837662F41D8810
         width: 600
         height: 315
+  - title: "Top trends to expect in cybersecurity and artificial intelligence"
+    excerpt: "As a cybersecurity and artificial intelligence innovator, we are often asked about our predictions for the year to come. AI, in all its flavors, is a hot technology and it is being applied in many fascinating and powerful ways. Our focus, of course, is on using deep learning to advance the standards in malware detection (and we see a lot of ..."
+    publishedDateTime: 2020-01-06T20:56:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/top-trends-to-expect-in-cybersecurity-and-artificial-intelligence
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
+        width: 700
+        height: 367
 
 secured: "4NBbBJJQme0LKxOw/wbcaZGYtjzHoZIWsWqn9lbUXh+O8V3wBLXsCMLk9H/PSjO2bxjD87FMWyg95dMBkl4ijN+yVHzep5x7EOolmxAu9/lRb2xyhpbjxVu2/95YT8vWHi3pJr1j2bGz40VtnrdCf+Vx+4oIp9cLI5hgPK9mT5ciS7tFhaPpRz+e99g1JOZtXHN5jCWfXmh7bu/0vRlI68B73+ytDQoJy4xZYktW0lzoZokwxr8qO3ZdFIWJODYXEaIqOvzQrXp26iCWDR/e3g==;d8D7x9p1eIPIw085DezLIw=="
 ---

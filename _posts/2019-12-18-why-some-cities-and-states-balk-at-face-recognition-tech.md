@@ -351,21 +351,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-17T19:56:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
-    ampUrl: https://www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
-        width: 700
-        height: 433
   - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
     excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
     publishedDateTime: 2019-12-19T22:25:00Z

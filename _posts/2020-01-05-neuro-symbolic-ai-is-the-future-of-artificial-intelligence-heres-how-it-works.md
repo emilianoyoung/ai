@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
         width: 592
         height: 445
-  - title: "CES points to age of “Intelligence of Things”"
-    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
-    publishedDateTime: 2020-01-06T07:04:00Z
-    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
-    type: article
-    provider:
-      name: Warc
-      domain: warc.com
-    quality: 2
 
 secured: "6t7TflOw+tH6N16rFQsnRRFjC3n3teIbrKKghql2JFz5AQpcTMtauZLxupCXwZ/3BYxqEGjFS8/SOT+gV/ugORoxe13wtJEIXR9PE25554azty5xMxQ4lk4tVMsFCQ4JTI/Dl+VEFjnuEsIZqcRej45SMWdI95YZyfEEr6xfm2UJlcWW4mSW5KQcdadxJ05LcIM3VD1KXYogSpRG4NqhJY3PJmnOayopWJBwVqnydfhF93bM3D8AS1KQTG9qurVtzWmCDmkrwbm1PHhaL3Idvg==;Stx8TPfb2suIFndK3YxkXA=="
 ---

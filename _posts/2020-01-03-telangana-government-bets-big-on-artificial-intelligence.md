@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
         width: 600
         height: 390
-  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
-    publishedDateTime: 2019-12-31T09:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Telangana government takes help of artificial intelligence projects"
     excerpt: "Hyderabad: The Telangana government, as part of its ‘Year of AI’ initiative, launched two new projects which use artificial intelligence (AI). Both projects are part of the state government’s efforts to make government services more efficient with emerging technologies such as AI and blockchain. The first project was a “crowd estimation ..."
     publishedDateTime: 2020-01-02T19:41:00Z

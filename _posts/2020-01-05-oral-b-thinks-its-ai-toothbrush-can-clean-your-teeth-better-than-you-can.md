@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
 type: article
 quality: 86
-heat: 146
+heat: 147
 published: true
 
 provider:
@@ -116,6 +116,6 @@ related:
         width: 700
         height: 367
 
-secured: "CD5n5NKGW5uwUT/ACBz0vlCYMmpBeQbknk5xj0i4bF+pgMf/jI4L2UDfs1wLJT4ydX/Vd56/wF59YU6oARJ5z4QOVwA96GHSEo7h5pvo/T+gH/+U/ErrSWq4cRJ+CltG4OYGFGxMX4sV+1MKHrDwBEUN48fU/Oy3V05QCA9wMx5R+X6nJV43qglAIpFdcQIf+iDE3gGUwE6/ORJe7JrNco7YLTXnB/sUZeGv+m7IhRQv9mjmwPUx0xsh7oOEPzbOUiqZeahr2PWdpi3Jc9zPVQ==;pdImnXtsPuqwqaiRukixXg=="
+secured: "h5BcqcxFmhNjMl0wuCrgar3ycMNw2hqGwsuE7cD2S0khxjuH4v35yu/Au+QJjdC1H6s2IDYtfne4Vl7oaSnpee0F22HsCD1RGxVfc2OIwBWIBMqF/yfViFEb9Qw5Z9w2i8TG5VOS2QVDp80Qq6M6HY6gdmDLVRJ2giSHpleberld2zIC2QQvOebKCr0yOR0H+iBebvHv3VL7q36o+6AMwigVBn/1dkBp4aqG+oNE3f2qdy093BTHtTAGZxn9SMgpaBzeGgYjf8RVFjOAcvPXVQ==;Fx82p/Q85+eMy6VZqShK+w=="
 ---
 

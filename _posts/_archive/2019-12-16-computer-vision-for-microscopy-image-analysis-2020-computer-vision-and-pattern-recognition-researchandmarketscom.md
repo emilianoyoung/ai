@@ -30,6 +30,6 @@ related:
       domain: oaoa.com
     quality: 7
 
-secured: "SyGWQQaXiF4V7dT79xTVq5owx47ZQzXuNklO4A3T+q0c4+ptzXzlhI/VphmUk8dSEn7GWPxSZ5kEsM8spxE2hqGr0spHjOf5NqyOlB0M3bEEs03iG79gdWNK5Y56TUssBZYcljIAz1H69Zm6e7kn/5BxU9m/0lOZZYZA3JDCmLfJHA7SHvHduXBFGf98T/UjU+mPaoxd05zpSQYLleLaIWC3yDsT2TwHPZtluJ87fq1WwVfpZmSvmd6xfWj5DwuPRMp+Rzj9G9plZgBtDoYx0A==;l8gg2aBaBDZcl9QM6+s6kw=="
+secured: "0OHJ2IzLQlz/ZNvzihSoqvE04WLrwo6vpsKstclW/450snk88Ks0spaQdgDlmThde4MuVett7OWoRd1fo6BWpkpJuvSrpMbwk7gud30WSQ+J9c9IrHhlP1gDFYKuR3RNko8nPh8lU3QtIHxYvUw/4Oe9erCscDxHXUAUfE66nthLTUrE0bC52V81A3lS1XVkyEClWnONO6pMvnOAhNQ44DYQJvLQ9J2/DmySu4zuGvXS7WsC6dmUSGIXwfpH6gJPIcRMVWIT1D7FUBFsyzsSsw==;UUqilcOIX5WapEfC50Q/Dw=="
 ---
 

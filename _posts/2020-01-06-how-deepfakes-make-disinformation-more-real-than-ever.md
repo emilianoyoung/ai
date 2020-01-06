@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T05:01:00Z
 sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
 type: article
 quality: 54
-heat: 64
+heat: 65
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 467
 
-secured: "9wubOOn9NjPonwoPqCBd40ZOp6pB3Opok2V84jmyKi7xFwaAlMe/gzDu6Ybi+IG1guJ3hSZR3SYp3fuBr3nzv3PYfeUnFdWfp6ecTkAzIpev0qt1yRu/4wQCZmzbK5kC4ouO9xAYZ/c37fU51OxZdMRsL1LCR8dAAUyXtzowso6Tw3sf2K1f53s60EICLL9Lrq0WoHb9YgfmYP/tqQ/uc5WszFJfKAGXSLhdQSzXZ/Er9sYfGCtZI3jpaVjWgD4sMlfA2YWwkMfYwQB+sM3rcw==;p+QUsIItz9aMrkUzRMb2wg=="
+secured: "CtmBb//dFYkCwccKPpWLiXhJw4j2hMSQzH/Zz5J++pOgUzjfKWMfiETYC16GfNkgfXFF8gGGJuX2EDRPhNqALdvX5irvMIrB0dkwzVdWnkyBcs1qJLQ96+eH3fY/iEXRkrknn1WjqhJyBEF4RDsxd7SskzQ5rG1pyHBPtCzUG6XaQaflicPWMDJYACd9qH79xgAwarYLEVmdW/GKphWmJ9WaFXSiUTp9GKK43IBG0viXABT7TZPtfHeEtFDOFNZQCtW9Vy65tvhGTRyzBgtaBQ==;wLVtT+aY4z9GJmcsCxKSXA=="
 ---
 

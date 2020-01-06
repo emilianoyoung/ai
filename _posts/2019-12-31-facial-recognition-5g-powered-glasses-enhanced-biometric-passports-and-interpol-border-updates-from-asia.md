@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-31T17:51:00Z
 sourceUrl: https://www.biometricupdate.com/201912/facial-recognition-5g-powered-glasses-enhanced-biometric-passports-and-interpol-border-updates-from-asia
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,21 @@ images:
     width: 700
     height: 490
     title: "Facial recognition 5G-powered glasses, enhanced biometric passports, and Interpol: border updates from Asia"
+
+related:
+  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
+    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
+    publishedDateTime: 2020-01-06T19:18:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
+        width: 700
+        height: 394
 
 secured: "6WWQ2764vZONxX/5xLXx82m3E+vPq77PZVlThu+rg2bsFWykVD/Fc0ewue6zd4SJbjr+ElS0MIHwHbvNqePEJUCAMVAyx2gz+6eovYqONkWbBylNSFsudY7lLvoYe70eS2+Cn2g5WESeOot1PWveYOyVoiCnfMvVy5JDHXMge8dG3ccdcsWa3RatcvmQR76YAt8/8Wr7LD9QPwWjKLInB3+8zdkK8yXUGzPlpcYh5zVlr6H+xfW+sUIlYC/ZHdVBg8gjQJTfCE4Nq6gU3znC4w==;OClWs5h9XBMdH3tLNr9/xg=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-wha
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-not-a-strategy-what-companies-need-to-know-to-overcome-tech-obstacles-in-their-business/
 type: article
 quality: 75
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -87,19 +87,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E3326AB31A6590FD9296CDC4A5ACD388
         width: 670
         height: 352
-  - title: "Taiwan businesses urged to create extra values for clients in 5G, AI era"
-    excerpt: "In the era of 5G and AI, Taiwan businesses must sharpen their capabilities of creating more added-value for clients so as to boost their profiles in the global electronics supply chain that is undergoing a rapid shakeup amid the impacts of US-China trade tensions and the Brexit issue, according to speakers at a recent seminar. This is a ..."
-    publishedDateTime: 2019-12-26T07:29:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191226PD203.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.735EFC875397328BE7295FA2D9BDBDA7
-        width: 336
-        height: 224
   - title: "What Is the COPE Strategy to Manage Trauma Triggers?"
     excerpt: "Artificial Intelligence is a branch of computer science where computers are trained to mimic ... Practice COPE to manage triggers as they arise. You may also want to try aroma therapy such as lavender or eucalyptus oil to quickly reduce a stress response. The smell goes to the olfactory nerve which is located in the mid-brain which processes ..."
     publishedDateTime: 2019-12-31T06:59:00Z

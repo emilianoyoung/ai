@@ -27,49 +27,23 @@ images:
     title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
-    publishedDateTime: 2019-12-31T04:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-gain-impetus-due-to-the-growing-demand-over-2025-2019-12-31
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 89
+    quality: 68
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Robots market statistical analysis 2020|CAGR growth of 2020 and forecast to 2023"
-    excerpt: "Dec 24, 2019 (The Expresswire) -- Artificial Intelligence (AI) Robots Market 2019 report focuses on the budding trends of market, market share, its segmentation, regional outlook and have explored different segments of the market. The Artificial ..."
-    publishedDateTime: 2019-12-24T13:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-statistical-analysis-2020cagr-growth-of-2020-and-forecast-to-2023-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 80
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
-    excerpt: "Dec 27, 2019 (Xherald via COMTEX) -- According to Verified Market Research, The Global AI in education market was valued at USD 521.04 Million in 2018 and is projected to reach USD 10.38 Billion by 2026, growing at a CAGR of 45.12% from 2019 to 2026. The report presents an in-depth assessment of the Ai In Education Market including enabling ..."
-    publishedDateTime: 2019-12-27T08:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/rising-demand-for-ai-in-education-market-to-grow-with-tremendous-cagr-by-2025-2019-12-27
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive new year offer:Upto 35% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market ..."
-    publishedDateTime: 2020-01-01T17:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+  - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
+    excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
+    publishedDateTime: 2020-01-06T02:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
     type: article
     provider:
       name: MarketWatch
@@ -79,10 +53,10 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
-    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
-    publishedDateTime: 2019-12-27T05:37:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-analysis-size-share-growth-and-opportunity-assessment-till-2025-2019-12-27
+  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
+    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
+    publishedDateTime: 2020-01-03T07:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
     type: article
     provider:
       name: MarketWatch
@@ -92,10 +66,23 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Based Personalization Market Overview, Segmentation, Top Key Companies, Value Chain, Market Size and Trends"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Based Personalization Market Report is highly intended to offer robust acumen considering Artificial Intelligence Based Personalization Market industry to aid a market contender with insightful analysis for Artificial Intelligence Based Personalization Market size, share ..."
-    publishedDateTime: 2019-12-31T04:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-overview-segmentation-top-key-companies-value-chain-market-size-and-trends-2019-12-31
+  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
+    publishedDateTime: 2019-12-31T04:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
     type: article
     provider:
       name: MarketWatch
@@ -105,24 +92,45 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
-    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
-    publishedDateTime: 2020-01-06T17:45:00Z
-    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-  - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
-    excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
-    publishedDateTime: 2019-12-26T09:56:00Z
-    sourceUrl: https://www.openpr.com/news/1885808/artificial-intelligence-ai-in-manufacturing-market-size
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
+    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
+    publishedDateTime: 2020-01-06T06:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
+    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
+    publishedDateTime: 2020-01-02T07:45:00Z
+    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
+        width: 400
+        height: 400
 
 secured: "pWz1Dd3sdPyI7R1DMV7iaQtnMwqlmcIHCp6Q7RAlCDfaAvoV2grNI2SrST3YBq7evbmBuhhMcwZhdE+qOCd8cYvlgZlAFb/+FoFWAkFggiiU20FukxaNXV447m0GOXm0vSJWyN2WQaGh/6wsFYFWA9MLmu40fRFuT8RTuYA0n1a4QuD6hf67j3NqNw4cIjOrubHdmT0ZEzuIAtEHThufWKsrpr+BQ6aFtUb8PjCUD5dGtVUQzWXABK/wARIf7/1eBDuJtBlj/zocJKX+BMDoFQ==;i4Dze4VMFzuXpulEH9IlUg=="
 ---

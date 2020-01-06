@@ -92,6 +92,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Rising Demand for AI in Education Market to Grow with Tremendous CAGR by 2025"
+    excerpt: "Dec 27, 2019 (Xherald via COMTEX) -- According to Verified Market Research, The Global AI in education market was valued at USD 521.04 Million in 2018 and is projected to reach USD 10.38 Billion by 2026, growing at a CAGR of 45.12% from 2019 to 2026. The report presents an in-depth assessment of the Ai In Education Market including enabling ..."
+    publishedDateTime: 2019-12-27T08:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/rising-demand-for-ai-in-education-market-to-grow-with-tremendous-cagr-by-2025-2019-12-27
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Vivo eyes AI-driven 5G devices for Indian market in 2020"
     excerpt: "New Delhi: Beyond Xiaomi and Realme, one Chinese smartphone brand that has seen amazing growth in India is Vivo which will double down on its efforts to develop Artificial Intelligence (AI)-enabled 5G devices in 2020 to match the fast-paced lifestyle of consumers, a top company executive said on Wednesday. The brand took a big leap with ..."
     publishedDateTime: 2019-12-25T07:21:00Z

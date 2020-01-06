@@ -31,19 +31,17 @@ images:
     title: "Tech trade ban: Exporting AI is going to get harder, says US"
 
 related:
-  - title: "The U.S. Is Restricting Exports of AI for Analyzing Satellite Images"
-    excerpt: "WASHINGTON (AP) — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military ..."
-    publishedDateTime: 2020-01-06T01:57:00Z
-    sourceUrl: https://time.com/5759228/us-ai-satellite-images-exports/
+  - title: "Portland, Maine, Leaders Cite Benefits of Face-Scanning Tech"
+    excerpt: "(TNS) — The leaders of four city departments are extolling the potential benefits of facial recognition technology and downplaying threats to privacy ahead of a scheduled vote Monday on a proposal to ban use of the technology by city officials in Portland, Maine. Officials say the technology is not being used in the city at the moment."
+    publishedDateTime: 2020-01-06T20:38:00Z
+    sourceUrl: https://www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html
+    ampUrl: https://www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html?AMP
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
-        width: 700
-        height: 366
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "Is There A Global Tech War? US To Implement Export Restrictions On Sensitive AI Technologies To Russia, China"
     excerpt: "U.S. companies that want to export the software to other countries will have to apply for a license from the U.S. government. “They want to keep American companies from helping the Chinese make better AI products that can help their military,” Center for Strategic and International Studies tech expert James Lewis said about the Trump ..."
     publishedDateTime: 2020-01-05T22:05:00Z

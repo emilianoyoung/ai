@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-31T14:20:00Z
 sourceUrl: https://www.investorideas.com/CO/GOPH/news/2019/12311CommunicationMicrochipPatent.asp
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,19 +24,15 @@ images:
     title: "AI Stock News: GBT (OTCPINK: GTCH) Files Continuation For Its Communication Microchip Patent"
 
 related:
-  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
-    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
-    publishedDateTime: 2019-12-31T08:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
+  - title: "The AI Eye: GBT Files (OTCPINK: $GTCH) Continuation Application for Microchip Patent, NTT Partners with Mitsubishi for AI-Powered Food Distribution"
+    excerpt: "Danny Rittman, GBT's CTO, explained: \"The microchip is targeted to be implemented as an independent IP unit on an existing chip or on device's micro SIM/Board ... IoT industry in order to create new technological advancements.\" NTT has been working on AI research in a groupwide effort. By teaming up with Mitsubishi, which has domestic food ..."
+    publishedDateTime: 2019-12-31T18:22:00Z
+    sourceUrl: https://www.investorideas.com/news/2019/artificial-intelligence/12311AIEye-GTCH-NTT-Mitsubishi.asp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 0
 
 secured: "L6MICv2K0oagOMBafwEDhxS+HQ/pgdXPsvFD01nmI0KmdcssLxNfbicFZQ3QEwrG+E3rXqpY8YISsJzE6CaTJU85uZM6ajTXZnnpgeqLToQyIHh154xxxAs/VPT1YDoRWuURdcQB35vw7NGOUKdi7RUcQClT4cOsWz5HvjVV5kT1nQPNTVuGZKwf3N8LO8SYK83VUWGCzDPKTjmpsLKP4ZUU7Rn+9qkjK85WZd45gH+Ep1gJNdgr5V0Y2MGNi7C6OIor27n9h5VFgB35h0RNRw==;tfxsjmSMfq/YxWAzC0v2nA=="
 ---

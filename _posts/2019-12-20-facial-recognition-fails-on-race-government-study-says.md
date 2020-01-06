@@ -8,7 +8,7 @@ ampUrl: https://www.bbc.co.uk/news/amp/technology-50865437
 cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50865437
 type: article
 quality: 174
-heat: 1144
+heat: 1134
 published: true
 
 provider:
@@ -336,21 +336,6 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
-  - title: "Why some cities and states balk at face recognition tech"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-17T19:56:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/Why-some-cities-and-states-balk-at-face-14913387.php
-    ampUrl: https://www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/Why-some-cities-and-states-balk-at-face-14913387.php
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.88687BDAF1D77003E48F994843D47211
-        width: 700
-        height: 433
   - title: "Why some cities and states balk at face recognition tech"
     excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
     publishedDateTime: 2019-12-18T06:06:00Z

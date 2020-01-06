@@ -40,19 +40,17 @@ related:
       - url: https://www.bing.com/th?id=ON.4491F3082D7B0E17F050348067DB4804
         width: 700
         height: 525
-  - title: "The U.S. Is Restricting Exports of AI for Analyzing Satellite Images"
-    excerpt: "WASHINGTON (AP) — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military ..."
-    publishedDateTime: 2020-01-06T01:57:00Z
-    sourceUrl: https://time.com/5759228/us-ai-satellite-images-exports/
+  - title: "Portland, Maine, Leaders Cite Benefits of Face-Scanning Tech"
+    excerpt: "(TNS) — The leaders of four city departments are extolling the potential benefits of facial recognition technology and downplaying threats to privacy ahead of a scheduled vote Monday on a proposal to ban use of the technology by city officials in Portland, Maine. Officials say the technology is not being used in the city at the moment."
+    publishedDateTime: 2020-01-06T20:38:00Z
+    sourceUrl: https://www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html
+    ampUrl: https://www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Portland-Maine-Leaders-Cite-Benefits-of-Face-Scanning-Tech.html?AMP
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
-        width: 700
-        height: 366
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
 
 secured: "KF3P+1PaAi043WglO/JvnVSPcep/eMa0agd6x5kZaNIabSSMEute1A/hTH9W1RSWkC8YaHNRsTUIR0ApBcsF4/NZ36OujDB/7CJmxp6qwlxUrSAaUNe34wpsCJM4inr5W8ozc9a2dIIN/cf8LlVgp+duea0gInIR6RvkhaejGOXq71qjWNoaqSGOHdYsLVbJgaLnWbo3WyoUz9hzlFuZihVcWbQlU4n8MkOprcWMSn8cEgqmFgqtrmu4pkyfOszJuudCIgVAurd3FJ3/I7Y9dg==;Xed+nDbsEbMnO0ASgqiwVA=="
 ---

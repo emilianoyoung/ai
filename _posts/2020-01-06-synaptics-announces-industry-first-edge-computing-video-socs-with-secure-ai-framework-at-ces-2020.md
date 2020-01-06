@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T15:14:00Z
 sourceUrl: https://finance.yahoo.com/news/synaptics-announces-industry-first-edge-130010072.html
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -18,15 +18,30 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Synaptics to Showcase New Human Machine Interface Innovations at CES 2020"
-    excerpt: "integrated AI, voice, active noise cancellation (ANC) and much more. High-performance USB-C wired solutions will also be on display. In the AR/VR space, Synaptics will demonstrate a complete end-to-end GPU to display pixel VR experience. This will include an LG V50S smartphone (powered by our OLED touch & display ICs), tethered via USB-C to a ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966408/0/en/Synaptics-to-Showcase-New-Human-Machine-Interface-Innovations-at-CES-2020.html
+  - title: "Synaptics unveils edge computing video SoCs within an AI framework at CES 2020"
+    excerpt: "Synaptics has rolled out an AI-embedded platform at CES called the VideoSmart VS600 family of multimedia system on a chip (SoC) offerings with a CPU, NPU, and GPU. The VS600 family is designed with what Synaptics calls \"human perceptive intelligence for a new generation of smart displays, smart cameras, video soundbars, set-top-boxes ..."
+    publishedDateTime: 2020-01-06T19:49:00Z
+    sourceUrl: https://www.techrepublic.com/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 3
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.6615953D0A2C6FC7C6D0B72E39B9E6A9
+        width: 700
+        height: 525
+  - title: "Kalray Unveils Coolidge™ at CES 2020"
+    excerpt: "Coolidge is a compelling choice versus FPGA, which are expensive and difficult to program; GPU, which are tailored for mathematical algorithms; and AI processors, designed for AI only. Coolidge-based cards can be configured to deliver specialized acceleration performance in a wide set of demanding functions such as vision, signal processing ..."
+    publishedDateTime: 2020-01-06T17:08:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-kalray-unveils-coolidgetrade-ces-2020-/2020/01/06/9076659.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "RM/rvDw9IwIH+/b4RB3rRNZ3rdyUmCsLQJ7PCwurhxZcUfeyi8ZmlPzCnM2yEAOHpjZkpxM3NXVhYiG4ObTLs2Mm9HzCHxUZAaylKOBvC3cY3Kkgt/c7j0uXJ65FkxzmjaToq4vedqMi6SZszJkacqSJpHvlzn0nll0hws1ZBx18EB1b+KlIuOO7ia4TNG7lesT7Ckqvp9RfjsGSE7QkOLZsojUdmqic81YhOn4gNd7a34ryJ0DzCpSdLneAaCcWnKnIPtuw0bJvt/ok8ygCkA==;14rB/EEoFWCOhBd9Ipf20w=="
 ---

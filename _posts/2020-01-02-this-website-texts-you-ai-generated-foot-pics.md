@@ -8,7 +8,7 @@ ampUrl: https://www.vice.com/amp/en_au/article/dyg8xz/this-website-texts-you-ai-
 cdnAmpUrl: https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/dyg8xz/this-website-texts-you-ai-generated-foot-pics
 type: article
 quality: 187
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 700
     height: 392
     title: "This Website Texts You AI-Generated Foot Pics"
+
+related:
+  - title: "Get AI-generated foot pics sent to your phone, if that's your thing"
+    excerpt: "I did, and was treated to a particularly sassy bot back: It appears that the AI only knows to send foot pics when \"foot\" or \"feet\" are in the text. The actual website, however, has more information — including an explanation of how GANs work and why foot photos are such a commodity (and why they have then become a meme). The website then goes ..."
+    publishedDateTime: 2020-01-06T20:33:00Z
+    sourceUrl: https://mashable.com/article/feet-pics-ai-thisfootdoesnotexist/
+    ampUrl: https://mashable.com/article/feet-pics-ai-thisfootdoesnotexist.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/feet-pics-ai-thisfootdoesnotexist.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.362EC0958C8F6ABAE9296317A909EDB1
+        width: 700
+        height: 367
 
 secured: "4iOT7oHetkpHmFxLv4RPVVT+aQ01TmTxhIOyPYJSinppyUwf3zqqwERYA4whJme3evb+wvH7m8R+ZElcWaNWW0o2zHd44MvGZunwnmq3821x2hUBrzegTtaGrXBE7egt1JmKUP+wEUliBOL2HfsTEy/Fd4y3aYenZGg2NBIXUek3DRn8LU2OQpkjqF8lM/uEbdjMcVCEuNaWaQ27mHxVlLqHH8BuOppuUICYgMqIypTj7gHGcRv8OcOAWCphlsv3vTcNsj31zR7Pf+YTMhKc+A==;Z4p1w7t/w88W/KazoF5hsA=="
 ---

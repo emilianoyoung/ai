@@ -8,7 +8,7 @@ ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-
 cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
 type: article
 quality: 73
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Telangana government set to use AI to provide better healthcare services"
 
 related:
-  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
-    publishedDateTime: 2019-12-31T09:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Telangana Government bets big on Artificial Intelligence"
     excerpt: "Hyderabad: The Telangana government on Thursday made a big push towards tapping the ever-growing opportunities in Artificial Intelligence (AI ... IIIT-H will set up a research centre in applied AI in healthcare and smart mobility. \"In line with our vision and our approach, AI will be our focus for the coming year and beyond."
     publishedDateTime: 2020-01-03T00:50:00Z

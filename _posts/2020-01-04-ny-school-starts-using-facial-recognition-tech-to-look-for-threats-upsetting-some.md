@@ -7,9 +7,9 @@ sourceUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-r
 ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 153
+heat: 253
+published: true
 
 provider:
   name: NBC New York
@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
         width: 700
         height: 393
+  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
+    publishedDateTime: 2020-01-03T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
+    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+        width: 700
+        height: 350
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
@@ -86,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
         height: 350
-  - title: "2D Gesture Recognition For Consumer Electronics Market Status and Outlook 2019 to 2025"
-    excerpt: "Gesture recognition is the mathematical interpretation of a human being through computing device. It involves voice recognition, facial recognition, lip movement, eye tracking, and others. Thalmic Labs Inc, Microchip Technology Inc, and Advanced Micro Devices, Inc, are some of the key players in the 2D gesture recognition market. Get a free ..."
-    publishedDateTime: 2020-01-01T12:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/2d-gesture-recognition-for-consumer-electronics-market-status-and-outlook-2019-to-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "ATFX launches biometric facial recognition for trading account opening"
     excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
     publishedDateTime: 2020-01-02T12:52:00Z
@@ -125,19 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
-  - title: "Worldline presents biometric facial recognition payment solution at NRF 2020"
-    excerpt: "Worldline has developed in partnership with OneVisage, winners of Worldline’s e-Payments Challenge, a biometric facial recognition payment solution which will be showcased next week at NRF Retail’s big show 2020, the company announced. The first of its kind, the company claims, the pay-with-your-face solution leverages 3D facial biometrics ..."
-    publishedDateTime: 2020-01-06T19:18:00Z
-    sourceUrl: https://www.biometricupdate.com/202001/worldline-presents-biometric-facial-recognition-payment-solution-at-nrf-2020
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
-        width: 700
-        height: 394
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z
@@ -151,19 +140,19 @@ related:
       - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
         width: 640
         height: 260
-  - title: "Carlo Ratti's Eyes of the City exhibition in Shenzhen tracks visitors with facial-recognition tech"
-    excerpt: "Architect and MIT professor Carlo Ratti stokes the surveillance debate with his biennale exhibition, which is set in a working train station in China and actively uses facial-recognition technology. A part of the the Bi-City Biennale of Urbanism\\Architecture in Shenzhen, The Eyes of the City exhibition is now open at Futian station. Ratti is an ..."
-    publishedDateTime: 2020-01-06T12:30:24Z
-    sourceUrl: https://www.msn.com/en-gb/finance/technology/carlo-rattis-eyes-of-the-city-exhibition-in-shenzhen-tracks-visitors-with-facial-recognition-tech/ar-BBYF9qs
+  - title: "JB school using facial scanner for attendance"
+    excerpt: "JOHOR BARU: SK Taman Perling here has taken a different approach in recording the attendance of its pupils, teachers and staff by using a facial recognition system. Headmaster Zamri Abd Wahab said the use of the system, introduced this year, was to smoothen the school’s daily operations. “We are always open to the use of the latest ..."
+    publishedDateTime: 2020-01-02T08:59:00Z
+    sourceUrl: https://www.msn.com/en-my/news/national/jb-school-using-facial-scanner-for-attendance/ar-BBYwJMq?li=AAAHftF
     type: article
     provider:
-      name: Dezeen on MSN.com
+      name: MSN
       domain: msn.com
-    quality: 10
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.0471FD6FC31D188E8C23D3C00278374E
+      - url: https://www.bing.com/th?id=ON.8D0FBBC08D69777EF7537F93F8D2B50A
         width: 700
-        height: 404
+        height: 367
   - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
     excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
     publishedDateTime: 2020-01-06T07:54:00Z
@@ -174,6 +163,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "LaoO0N01u7hVlZxOS+hGpMLCp+BrxkyExXuHimWpK+Pe4LOsSRdPTpGhVZN7JjUtoImiJZ5bRNiSw4X9jJjy2tj5NNbdoLFEhPEqN6PdeyhTeOA6E7eU1UAR6R2/6I/uYR2xMXUSiucFdyxcRVFc8NmfEFQd27S3EKC/uLKmS1hHNkKF+iREm+fkdpL+IswrtEsR9YmzosO4vtYs/3OKWYrJSMq3IxEIno1WKnlpsBxC6/zPXWNzLpLY+ONTtpfSqBmGI2cKHaAnYyo91mdRmg==;f1bI4QylG/cQ5KvE0U8eRw=="
+secured: "fFrcqvyBItQmZsJiGYY8N2sWH0DtGZIJhoIdsyr8Rl8AQVbnNbgwUMz3JWIBUU8v/Jx/mPGcpvY2uQ9VhyBbX+X7JaLT1PnF66GY6A7mxlf2K2NBl+1W1MK9CCDL0mIuhEfZ2nLsbmM6uMl1/B7M5C87XGn1TplPdjyYzXPZao07r94ONI/+lomVaHcVWfGKPfCqkBDKkmcMn0wn3VeHMbgoelS9zQ1Vwuba1c62BGs1H3qFO/f2tGu3y5oGK/y70LxH6+JQXoUw//tMbaLb8h/VJ/yWVpZ5rtzLcZqXj7g=;tVKPJNpbJM2k8EY6aC7N5w=="
 ---
 

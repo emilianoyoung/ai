@@ -31,21 +31,6 @@ images:
     title: "NVIDIA shows off autonomous tech for cards and robots at CES 2020"
 
 related:
-  - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
-    excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
-    publishedDateTime: 2020-01-06T17:53:00Z
-    sourceUrl: https://www.cnet.com/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
-        width: 700
-        height: 525
   - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
     excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
     publishedDateTime: 2020-01-06T16:30:00Z
@@ -106,6 +91,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7D498D70695C902821F82115539CFC3A
         width: 636
         height: 382
+  - title: "Hitching a ride in Audi’s AI:Me, the autonomous city car of the future"
+    excerpt: "“We can design everything inside the car differently if the driver becomes a passenger,” explained Immo Redeker, one of Audi’s interior designers, as the autonomous AI:Me concept carefully parked itself under an awning on the sidelines of CES 2020. The technology packed into the AI:Me corresponds to level four on the autonomy scal"
+    publishedDateTime: 2020-01-06T19:00:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/riding-in-audis-autonomous-electric-ai-me-concept-car-at-ces-2020/
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.798B6813ED339120CDB4E2EEE1288840
+        width: 640
+        height: 427
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z

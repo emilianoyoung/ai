@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
 type: article
 quality: 88
-heat: 148
+heat: 128
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "New eBay platform using AI to enable image search and internal innovation"
 
 related:
-  - title: "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise"
-    excerpt: "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity, revitalize the customer experience ..."
-    publishedDateTime: 2020-01-06T19:54:00Z
-    sourceUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/
-    ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.102EF75724DEE538DD0EDC04A7723F2E
-        width: 600
-        height: 315
   - title: "How AI And Machine Learning Can Make Forecasting Intelligent"
     excerpt: "Companies have dealt with inaccuracies and blamed their bad data. However, things are starting to change thanks to artificial intelligence (AI), machine learning (ML) and predictive analytics. According to Salesforce, only a quarter of companies use predictive analytics. Of those using it, 86% have already seen a positive return. Predictive ..."
     publishedDateTime: 2020-01-02T16:59:00Z
@@ -60,21 +45,6 @@ related:
       - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
         width: 1280
         height: 1280
-  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
-    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
-    publishedDateTime: 2020-01-03T14:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
-    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
-        width: 700
-        height: 350
   - title: "Artificial Intelligence Platforms Market May See New Emerging Trends"
     excerpt: "Dec 26, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence Platforms market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling and ..."
     publishedDateTime: 2019-12-26T18:41:00Z

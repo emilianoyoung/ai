@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/03/clearcover-raises-50-million-to-fi
 ampUrl: https://venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-you-a-vehicle-insurance-policy-with-ai/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-you-a-vehicle-insurance-policy-with-ai/amp/
 type: article
-quality: 84
-heat: 84
+quality: 184
+heat: 184
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Clearcover raises $50 million to find you a vehicle insurance policy with AI"
 
-secured: "v6Mk5jBt7UcksiJl/30HdQ6fdOrvTpWmfQkVZkYigVLZkbe6FL9Lwv+SBtUXGT4WtvpU99tm4ERkSo+owdQfLoC5zc1cJA6p9lau1+17f4uxA4XC8/vkMX9ZPKJDDkr0HLi7pQi1Qvinx1xoSPamOMJ/6TnHbVAgGosQ9mZj/491ouVrvSoQRT1rTyh2QZfbojHEI/wpfwmviBua2h8WE53PmYU9ddbpQGa2UX2I9eLnjEMlldrk8/3o/UHvuLQ0c3FUdqqztMJFQ01b0VkNng==;cdgQAr2bIEUT4loNQxJAZw=="
+secured: "tZs9PIEYZXhaU2OKqnlnfVG/Wdo95+KtyzqtCOZ2LMiGkrN5PyD3BxuowZ8YepF6mucrp8YLzDDJZLz6GcA3ngvLzgkq9SxB92ACbOX+IX7ygS4DOrrZoz/4MQmdiHP5w3SSI2br6fu4i0eyZEP0/FcAt7oGsLNb3DhvB5P10Yv4j9f43/iZWLatFvYENtTC8xeqjskhI4By62/h4JSDxo00wnYD8NQ3cFjHonHOy5uTe+TKerhgPmjaHvG875pXtimVqwJcpwKfi8CQXPhRgZkrIeCg+u4QQc1RQSC4Daw=;qYzA363ZXhpvGRLKLCwdVw=="
 ---
 
