@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylat
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,17 +26,32 @@ images:
     title: "Using a machine learning algorithm with cancer methylation signatures to diagnose colorectal cancer"
 
 related:
-  - title: "New Machine Learning to Identify Patients with Colorectal Cancer"
-    excerpt: "platform can identify patients with colorectal cancer and helps predict their disease severity and survival, finds a new study. The non-invasive method adds to recent advances in technologies that analyse circulating tumour DNA (ctDNA) and could help spot colorectal cancers in at-risk patients at earlier stages."
-    publishedDateTime: 2020-01-04T06:21:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/new-machine-learning-to-identify-patients-with-colorectal-cancer/ar-BBYBtqf
+  - title: "Artificial Intelligence matches human brain cancer diagnosis: study"
+    excerpt: "PARIS, France - An Artificial Intelligence (AI) computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. More than 15 million people worldwide are diagnosed with cancer every year, and 80 percent of those will undergo surgery. In the United States ..."
+    publishedDateTime: 2020-01-06T22:21:00Z
+    sourceUrl: https://www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/
+    ampUrl: https://www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/?amp
+    cdnAmpUrl: https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/?amp
     type: article
     provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 39
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.9468D04E556FD488F47B409631CF584E
+      - url: https://www.bing.com/th?id=ON.6533D55D50A34A2D3C5B34802284D39B
+        width: 700
+        height: 393
+  - title: "AI matches human brain cancer diagnosis: study"
+    excerpt: "An AI computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. They found that the computer was able to diagnose common cancers in under three minutes -- more than 10 times faster than a human expert."
+    publishedDateTime: 2020-01-06T16:00:44Z
+    sourceUrl: https://www.msn.com/en-us/health/medical/ai-matches-human-brain-cancer-diagnosis-study/ar-BBYFt2i
+    type: article
+    provider:
+      name: AFP on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.E7ABCE6EBC33B9B75B8EA1BCF7361E0D
         width: 600
         height: 315
 

@@ -8,8 +8,8 @@ ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: CNET
@@ -30,107 +30,45 @@ images:
     title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
 
 related:
-  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
-    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
-    publishedDateTime: 2019-12-17T21:32:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+  - title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
+    excerpt: "Shipping containers are also stacked up to emulate how high rises could potentially block satellite signals to self-driving machines. The CETRAN centre, run by Nanyang Technological University (NTU), even has a rain-making machine that can simulate the frequent tropical downpours in the Southeast Asian city-state of 5.7 million people."
+    publishedDateTime: 2019-12-22T03:16:00Z
+    sourceUrl: https://www.ibtimes.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-centre-2890262
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
-        width: 1200
-        height: 630
-  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
-    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
-    publishedDateTime: 2019-12-22T16:21:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
-        width: 600
-        height: 315
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
-    publishedDateTime: 2019-12-18T07:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
-        width: 600
-        height: 400
-  - title: "Hungarian self-driving developer wins AI competition"
-    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
-    publishedDateTime: 2019-12-18T07:00:00Z
-    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
-    type: article
-    provider:
-      name: Budapest Business Journal
-      domain: bbj.hu
+      name: International Business Times
+      domain: ibtimes.com
     quality: 39
     images:
-      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
-        width: 1200
-        height: 800
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-23T22:33:00Z
-    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
-    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+      - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
+        width: 700
+        height: 466
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
     type: article
     provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 36
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
         width: 700
-        height: 393
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-24T00:06:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+        height: 467
+  - title: "BYU offers 'crash course' in self-driving car technology"
+    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
+    publishedDateTime: 2019-12-19T16:47:00Z
+    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
+      name: The Digital Universe
+      domain: byu.edu
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
-        width: 700
-        height: 393
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
-    type: article
-    provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
+      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
+        width: 400
+        height: 300
 
 secured: "Lc31LBGkKDodyrD6rq1ekcijNGft++PEWhY35APDyBtf2zyoOP4RY7Em6bzWOA8pXm6wyXKyFSIM8EGKJetqw2fDLtYSrh+3o0k369gYWI7RlxBVS9bHKtZeoSGHnd9aZnxl8NKhNfknv3Q5sy8C6ekyvAcHzS/Q076eU0WjTxnkvkMhLONLGxfKMiAShzUKjEIEKQfzAq5smLh5PXLQXl1Cjdtx2R262H8emSy53ikfkg1g12RT3LBQB7VeE9nOrey3RORXm03E/hU1ELN8Ug==;/4/Ajr3eyurvzGBBYZtEuQ=="
 ---

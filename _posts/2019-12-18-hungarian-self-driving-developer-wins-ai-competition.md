@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T07:00:00Z
 sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,109 +24,19 @@ images:
     title: "Hungarian self-driving developer wins AI competition"
 
 related:
-  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
-    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
-    publishedDateTime: 2019-12-17T21:32:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+  - title: "Bochum team wins second place in machine-learning competition"
+    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
+    publishedDateTime: 2019-12-19T15:35:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
-        width: 1200
-        height: 630
-  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
-    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
-    publishedDateTime: 2019-12-20T16:47:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
-        width: 1200
-        height: 630
-  - title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
-    excerpt: "Wait a minute, maybe Santa has something for us that can help. Here’s a question to ponder: Will the advent of true self-driving cars provide some relief from the holiday angst and aid in making the season as wonderful as it should be? I say yes. Let’s unpack the matter (and make sure to put a bow on it too). It is important to clarify what ..."
-    publishedDateTime: 2019-12-22T16:21:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: https://www.bing.com/th?id=ON.536F264715424A84F2440744CB3D1F45
-        width: 600
-        height: 315
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
-    publishedDateTime: 2019-12-18T07:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
-        width: 600
-        height: 400
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-23T22:33:00Z
-    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
-    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
-        width: 700
-        height: 393
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-24T00:06:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
-        width: 700
-        height: 393
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
-    type: article
-    provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
+      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
+        width: 1440
+        height: 960
 
 secured: "mB9Reo6zwluS0wXXqtzEp2sUYJ5JOHgCqNjB/CVVvS1jxte/14zyfEIKEmsHjFqAGZxDKClUDpwGm7vMcJW9IiXJJV87ZLW/oBZDf5RN0YlAEHaLxXtGghy+OpAxO3VLHQBC/YZigpINaji8L5dqEU/OfErtydnGkjvpDoHM35WQOAKm8ux68ZKu/7thDT9S/UtJDnWWPiVH6jrd1/kb9I4bxApobZ5754/er8/jFhWw3zLYda2sl35EiEtvIyaGuE3DneEvZTFFoMMxTwFm1w==;W3lmNGv1v/5F+JAF3Q/ksg=="
 ---

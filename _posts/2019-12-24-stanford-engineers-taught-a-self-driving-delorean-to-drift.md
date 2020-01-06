@@ -65,6 +65,36 @@ related:
       - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
         width: 700
         height: 356
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-23T22:33:00Z
+    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
+    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
+        width: 700
+        height: 393
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-24T00:06:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
+        width: 700
+        height: 393
   - title: "These Stanford Engineers Taught a Self-Driving DeLorean to Drift Like a Professional"
     excerpt: "The nearly three-minute-long video shows the all-electric, self-driving 1981 DeLorean DMC-12, named MARTY, performing donuts and figure eights in a smooth and masterful form that’d make you think Block himself, or perhaps a champion Formula D driver, was behind the wheel. But instead, MARTY had Goh and Goel in the passenger and driver seat ..."
     publishedDateTime: 2019-12-22T14:51:00Z

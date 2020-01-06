@@ -2,16 +2,16 @@
 category: news
 title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
 excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
-publishedDateTime: 2020-01-06T16:00:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966657/0/en/ON-Semiconductor-and-Pony-ai-Collaboration-on-Next-Gen-Image-Sensing-and-Processing-Technologies-for-Autonomous-Vehicles.html
+publishedDateTime: 2020-01-06T22:32:00Z
+sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
@@ -121,6 +121,19 @@ related:
       - url: https://www.bing.com/th?id=ON.798B6813ED339120CDB4E2EEE1288840
         width: 640
         height: 427
+  - title: "Toyota’s high-tech will be filled with autonomous cars, smart homes, robots"
+    excerpt: "The goal of the project is to test a number of different technologies, including autonomous cars, smart homes, robots, and artificial intelligence together, in a real-world environment, Toyoda said. CES is chock-full of companies pitching tech that can connect cars to their environment, but the Woven City will be built from the ground up to ..."
+    publishedDateTime: 2020-01-06T21:26:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/toyota-woven-city-will-demonstrate-new-tech-ces-2020/
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
+        width: 640
+        height: 427
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -192,6 +205,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "+wWS44kjpTXfgXsmYXGFPvszxrpii2xmWOf9Ut6d+8M88gu4BrgHNcKZ6HKfzFcYem7/nMI30NCBjWt6k60GJqOxAD5K31LZSdxXE+nXhE3Yl0EDuwKOzHxlK+HSfWlagMf8FaLDIusAs9/YEDy9AEaSQafnrh+kuz4H1hRJXqpBDFcFQE3jV7knWKta6MOPPc2aJdsRHoqmYLKVpA4Ex2LJKWuXwURfjlD6AbAFNwXfMoIK4sjQzpMsqydV5a2+TqmxkKWl4SMVlH2aeH3t6Q==;ZdTkaBLde/S/LlJn51ExzA=="
+secured: "NV+BNTT3CdX/kicU8w5zVuU/S70FExgA8dBvsjwh4LeSFWUe4ZDyns2zkIjdmGOdEH/FzCMN9NGHKMhugHvZDShKtUlp6gewEB8Rb5IN7Jfgs3r8Yk2E+n0bUHEvpjJvYY5pkM0q0wdFJfoRKELohzbIN2NKRN8pD0rxjy8t76Z1ZEy6GEfY477XtPPqAyX5OTw9UfPS2/LWDTQFbi22SBoolB+EBuOgBlx5kzZclw/CXPFI5O6fW3T3IavhIz0SXtgEMMjKEgFb4jxIAOxkOg==;4VD3q6EkGAx0ZFZKSuCbSQ=="
 ---
 

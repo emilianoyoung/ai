@@ -24,19 +24,47 @@ images:
     title: "BYU offers 'crash course' in self-driving car technology"
 
 related:
-  - title: "Finland offers crash course in artificial intelligence to EU"
-    excerpt: "HELSINKI (AP) — Finland is offering a free-of-charge online course in artificial intelligence for European Union citizens in their own language, officials said Tuesday. The Nordic nation, headed by the world's youngest head of government, will mark the end of its rotating presidency of the EU with a highly ambitious goal. Finland is aiming to ..."
-    publishedDateTime: 2019-12-25T16:12:00Z
-    sourceUrl: https://www.journalnow.com/news/national/finland-offers-crash-course-in-artificial-intelligence-to-eu/article_6d100937-7a50-5fa8-9c53-4f45981608e4.html
+  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
+    publishedDateTime: 2019-12-20T16:47:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 37
+      name: CNET
+      domain: cnet.com
+    quality: 71
     images:
-      - url: https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/6/07/6074d466-fb45-5826-8e34-80d6ab33a836/5defc8287bb7d.image.jpg?crop=1762%2C991%2C0%2C92&amp;resize=1120%2C630&amp;order=crop%2Cresize
-        width: 1120
+      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
+        width: 1200
         height: 630
+  - title: "Mock Skyscrapers, Simulated Rain At Singapore Self-driving Test Centre"
+    excerpt: "Shipping containers are also stacked up to emulate how high rises could potentially block satellite signals to self-driving machines. The CETRAN centre, run by Nanyang Technological University (NTU), even has a rain-making machine that can simulate the frequent tropical downpours in the Southeast Asian city-state of 5.7 million people."
+    publishedDateTime: 2019-12-22T03:16:00Z
+    sourceUrl: https://www.ibtimes.com/mock-skyscrapers-simulated-rain-singapore-self-driving-test-centre-2890262
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
+        width: 700
+        height: 466
+  - title: "Argo takes different road to skirt self-driving challenges"
+    excerpt: "PITTSBURGH/DETROIT: Sky's the limit optimism about self-driving cars is giving way to tougher questions about how expensive automotive artificial intelligence will ever make a profit. Those are questions the founders of Argo AI -- and automaker partners Ford Motor Co and Volkswagen AG -- are betting they can answer by taking a different road ..."
+    publishedDateTime: 2019-12-18T07:49:00Z
+    sourceUrl: https://www.bangkokpost.com/business/1818569/argo-takes-different-road-to-skirt-self-driving-challenges
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 24
+    images:
+      - url: https://static.bangkokpost.com/media/content/dcx/2019/12/18/3453329_700.jpg
+        width: 700
+        height: 467
 
 secured: "b3AZYrgGiXVKRMp/yawFxiqmZ9TZo+b07HavKVt39fORbIV+nK029OEEStVMi93UkjoYG+vNgPFeiH7o9jgUFA29STf988yAgfGYrxPf+IfyEKDwgC2T4n0xUdbP6SBW245Xvc4zrCCJveO5KQlvvD57vQUTOk5hUgxjTxl1LmUhbZYy79kBt/l8DNnoJGdjQh9Re6NtToS7DITcNEF8puRDRJTclJFwPQ4MHlxHMWLel5b4Cj1w+wl9SDo1c1Ls+wuRNE3QPrznjOUeSa1KjQ==;93WEcQ01hUv/lOmiYFGBMg=="
 ---

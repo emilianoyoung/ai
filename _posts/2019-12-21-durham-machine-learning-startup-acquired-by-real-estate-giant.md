@@ -8,7 +8,7 @@ ampUrl: https://amp.newsobserver.com/news/business/article238583293.html
 cdnAmpUrl: https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article238583293.html
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -37,6 +37,19 @@ related:
       name: Leftlane
       domain: leftlanenews.com
     quality: 54
+  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
+    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
+    publishedDateTime: 2019-12-23T20:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
+        width: 700
+        height: 466
 
 secured: "datSe0JyYXwhy7zuwmaLeJ3L3vw+JNnkvOrCakYzXWyPYmR69gq2d0R4XhdfUy3byEKqVKSy1DMA1vSG1LX5TCQ5v8j8gtss/iM67F+riWQmwzICI+Y1qL6uwAoihuOW+dhIghq59loJlMwxzjmPfJuBq1/KKoBmcPjNz17r8oFNHE/EM8K9NBdRG2DYrn01dr6NoFolcg9DrIrViEKP6RSFMErX/+0p74kUCbGNh5hFlCqoUfvwO5tXXyARwccJAQ1j/gwz9LZpiOEvWRId6g==;v/UHaCaXIna4swzzqgPczg=="
 ---

@@ -44,6 +44,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc59fd4e29170007838c30%2F0x0.jpg
         width: 1200
         height: 675
+  - title: "5 Machine Intelligence Trends Of 2019"
+    excerpt: "Machine Intelligence brings a potent combination of AI and IoT to businesses. This domain includes industrial automation, application of deep learning to sensor telemetry, edge computing, intelligent video analytics and cognitive computing. 2019 saw the convergence of industrial IoT (IIoT) and AI. First-generation IoT platforms and solutions ..."
+    publishedDateTime: 2019-12-20T02:16:00Z
+    sourceUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/
+    ampUrl: https://www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2019/12/19/5-machine-intelligence-trends-of-2019/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc29a5e961e100073989a2%2F0x0.jpg
+        width: 960
+        height: 640
   - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
     excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
     publishedDateTime: 2019-12-19T14:00:00Z
@@ -57,6 +72,19 @@ related:
       - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
         width: 800
         height: 450
+  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
+    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
+    publishedDateTime: 2019-12-17T23:15:00Z
+    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 20
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
+        width: 1200
+        height: 630
 
 secured: "SdnDSCyhGhq50O18d0z0v3v4NcENY/Y8DmduAWEz2ZVIjO4s/7xbAteuImsUDOi4UlSPjsgYFZNT4Qy6uC05UCSYaX/zcEZzPJhJ1E9kElrriLzvFc7BfkPnXUZM8mucy7QeMMf+v1lufQy+s0eoNWn4JvsledidWT+j9gL1VVNS6G/WxK7YF/bLncbqlBtBoRYV3ED2CTNB4w+bif3skraNYsTjTYMcAg7nAVLC+KJGT1ekhEwNdx2/AJ/yYKzYA+dXm6f6/Mj2JzxO6l5Wpg==;dcF/AQHIDKdkcXawgrYKGA=="
 ---

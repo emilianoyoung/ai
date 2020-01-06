@@ -30,84 +30,49 @@ images:
     title: "5 Machine Intelligence Trends Of 2019"
 
 related:
-  - title: "Intel Acquires Artificial Intelligence Chip Maker Habana for $2 Billion"
-    excerpt: "Intel has announced the acquisition of Israeli chip startup Habana for approximately $2 billion. As Intel’s press release states, the focus is on accelerating data center inference. That is a large market and Intel is still trying to figure out how to play. While much is being discussed about moving some artificial intelligence (AI ..."
-    publishedDateTime: 2019-12-17T21:36:00Z
-    sourceUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/
-    ampUrl: https://www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2019/12/17/intel-acquires-artificial-intelligence-chip-maker-habana-for-2-billion/amp/
+  - title: "What Is The Artificial Intelligence Of Things? When AI Meets IoT"
+    excerpt: "Artificial intelligence is when a system can complete a set of tasks or learn from data ... and then an AI system to make decisions about the data the internet of things devices are gathering. Autonomous Delivery Robots Similar to how AIoT is used with autonomous vehicles, autonomous delivery robots are another example of AIoT in action."
+    publishedDateTime: 2019-12-20T05:45:00Z
+    sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/
+    ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/amp/
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 104
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df93d7ae961e10007394ce4%2F0x0.jpg
-        width: 876
-        height: 548
-  - title: "Intel buys Israeli AI chip startup Habana for $2B"
-    excerpt: "(AP) — Intel is paying $2 billion to buy an Israeli startup that specializes in processing chips for artificial intelligence. The California-based chipmaker said Monday that the purchase will help it speed up computing power and improve efficiency at data centers. The move is part of Intel's broader strategy to strengthen its AI business."
-    publishedDateTime: 2019-12-24T08:45:00Z
-    sourceUrl: https://www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.html
-    ampUrl: https://www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.amp.html
-    cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.amp.html
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfc59fd4e29170007838c30%2F0x0.jpg
+        width: 1200
+        height: 675
+  - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
+    excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
+    publishedDateTime: 2019-12-24T01:19:00Z
+    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
     type: article
     provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.4CBCC1DED872190B27485DF30F060EC2
-        width: 700
-        height: 393
-  - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
-    excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
-    publishedDateTime: 2019-12-17T22:45:00Z
-    sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
+        width: 1199
+        height: 675
+  - title: "How Internet of Things and Artificial Intelligence pave the way to climate neutrality"
+    excerpt: "Hanno Schoklitsch is the CEO and founder of Kaiserwetter Energy Asset Management. Communication makes the right points when they promise to accelerate the energy transition and clearly state that Artificial Intelligence, Internet of Things and Cloud Computing can have an important impact on tackling environmental challenges. However ..."
+    publishedDateTime: 2019-12-19T14:00:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/opinion/how-internet-of-things-and-artificial-intelligence-pave-the-way-to-climate-neutrality/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 30
     images:
-      - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
-        width: 700
-        height: 350
-  - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
-    excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
-    publishedDateTime: 2019-12-20T02:01:00Z
-    sourceUrl: https://www.hpcwire.com/2019/12/17/intel-acquires-habana-ai-inferencing-edge/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
-        width: 405
-        height: 228
-  - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
-    excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
-    publishedDateTime: 2019-12-18T22:23:00Z
-    sourceUrl: https://www.crn.com/news/components-peripherals/what-intel-s-habana-labs-deal-could-mean-for-its-nervana-ai-chips
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 36
-  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
-    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
-    publishedDateTime: 2019-12-23T20:16:00Z
-    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
-        width: 700
-        height: 466
+      - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
+        width: 800
+        height: 450
   - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
     excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
     publishedDateTime: 2019-12-17T23:15:00Z
@@ -121,15 +86,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
         width: 1200
         height: 630
-  - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
-    excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
-    publishedDateTime: 2019-12-23T08:43:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 14
 
 secured: "dMXh1K6ypqjKbUZIHT6lkootM1C4NxFKdXPXQge8+6CWG7GCGAsAu89cm7HQXgpSUK7DfJfNwsVhfI1PSSpEYtx52dcfHga85TrQBieGrMU4NFV7kcfp7iS21t3ODt5xmwE4A4qmXeGYkGwDbn0+hFczrw64KVztAWvb4Fyz/2vvQ4WaSbqM4FWOgh3lX7q0SJhF1rfrbxFb776uUOSrufjc+C0dnNa/7z0qvHj3t3IWpN/v2zwS5SfsblLYr1gwWmKxSQoQMPRL3ySNRwrhVQ==;gUY/A4G4i40csqjcN603Zw=="
 ---

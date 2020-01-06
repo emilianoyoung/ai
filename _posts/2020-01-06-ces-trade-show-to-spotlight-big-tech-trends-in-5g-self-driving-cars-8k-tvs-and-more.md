@@ -480,6 +480,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "EW1Ut2gh/ZGZUyrV5MHqBzcRRshFVIf7EcNsZK8ogXJWfPGYwEGndnxeLm0o5SVkbad+aDrutzb8PR2u9tA/9bnbUHQTKGgs+J+BnGfRUJpg0x6FxPlJ+d9MgppJcgp12Plisq231Ed4UIxpOjaNhThZY4Atz5J5cv0fGeMJAeXVZJV5sr8oRD1Hrp3QNPFUxnFwk6Jv93DjgLY7fUmzm1xWDmn/PVYD3wS1C79v1KwCN1an6R2SgGDphhwbfAuqIRlQJL85Azbg8OExTc5HVA==;vtVhzQatGJL9Npi3iEyNkg=="
+secured: "LImqMeSZNtVEdUUgUpew1wtK+krPO+EWu8NgcaINmsqkzAnMiz0T05dy2kIkuDQxwchxzSs3STiCryujoYgBtTtmVGTHP2I0cqztopJUejoQQJan2SVfJyEJK/0VIxMMRY3+Nlgu01mxdzcSd39YGO/7vOwzxQnE60UOhihAQ5ZDwZtfgNGCjTTHdYDV3otyAykeIpuTMrsJo9ORgiTp0yVW2EACu4ogkWROTdKGoedV39r2WHdvuNgfMCZUvEUYT4wGeRrbfbV8jDGieTKATA==;N+VHM/2n8NoBHTbMeemYEg=="
 ---
 

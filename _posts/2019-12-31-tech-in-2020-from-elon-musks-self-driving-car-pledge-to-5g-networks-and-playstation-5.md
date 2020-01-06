@@ -114,6 +114,19 @@ related:
       - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
         width: 700
         height: 233
+  - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
+    excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
+    publishedDateTime: 2020-01-06T22:23:00Z
+    sourceUrl: https://finance.yahoo.com/news/aptiv-self-driving-vehicles-now-220900015.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
+        width: 400
+        height: 286
 
 secured: "3m3kNRzCL5xBTW/Wc3s4Nu3n5RcYVEFzCuI382DUoezHw8HGe7/q4LnTW+7n2x9lks+8bC9iRUEtOIZQqcAi8/0O9Opip6fu8GAfCTVS9IZILUgEJ7LNIqk/lH2DEbCziHLqwOKHb/d3OcUQ8oMMswruYhDjZ5oYh04iLyclQkiMi7QjxXegjNs0nG1gkGJqZfQilFp+3r43VhW1Xd1AzOuf0TZ3lyWEMMpiTbySzLOFXTDeabTRYHxRqNWTAQFgZQxETkofX0NMfnqTTBwBZw==;2JSJEzjlfAXXIOUqvB0Xqg=="
 ---

@@ -101,6 +101,19 @@ related:
       - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
         width: 700
         height: 233
+  - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
+    excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
+    publishedDateTime: 2020-01-06T22:23:00Z
+    sourceUrl: https://finance.yahoo.com/news/aptiv-self-driving-vehicles-now-220900015.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
+        width: 400
+        height: 286
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

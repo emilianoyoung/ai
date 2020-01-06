@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T16:00:44Z
 sourceUrl: https://www.msn.com/en-us/health/medical/ai-matches-human-brain-cancer-diagnosis-study/ar-BBYFt2i
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,38 @@ images:
     width: 600
     height: 315
     title: "AI matches human brain cancer diagnosis: study"
+
+related:
+  - title: "Artificial Intelligence matches human brain cancer diagnosis: study"
+    excerpt: "PARIS, France - An Artificial Intelligence (AI) computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. More than 15 million people worldwide are diagnosed with cancer every year, and 80 percent of those will undergo surgery. In the United States ..."
+    publishedDateTime: 2020-01-06T22:21:00Z
+    sourceUrl: https://www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/
+    ampUrl: https://www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/?amp
+    cdnAmpUrl: https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/?amp
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.6533D55D50A34A2D3C5B34802284D39B
+        width: 700
+        height: 393
+  - title: "Using a machine learning algorithm with cancer methylation signatures to diagnose colorectal cancer"
+    excerpt: "A team of researchers affiliated with a large number of institutions in China has used a machine-learning algorithm with cancer methylation signatures to diagnose colorectal cancer. In their paper published in the journal Science Translational Medicine, the group describes their new approach to diagnosis and prognostication of colorectal cancer ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.html
+    ampUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.602086B245707C0266331BDF54270E11
+        width: 700
+        height: 527
 
 secured: "J3eCLL51Qu2YU8eVkhAJASdu6vz29snz7E2sgoxae2g6huKCqRw0fJ+tKEvfXu0grxjcs3DS1GlXQwcYzvzCg89tkz1v2CXd+/n2QRv/c1AKvRe0t5NCZfkJmLGwSKXhAQW0jXwagNQnoZadqPW/IGsgonh1F7eQq2jv0liYMYDUGT2wva8+HzdzelzYUxzkxiT2dPp9eBa4MSj/HV8jaAIpuuXy79Sh8VXA3x/8nV+NMRp9guqeBCrOb5WqVpzEQUaIRPpGMgJaK9fGMZq8VA==;TIUTND/F8RzsVgrHqWZhrA=="
 ---

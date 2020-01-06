@@ -35,7 +35,20 @@ related:
       - url: https://www.bing.com/th?id=ON.A01710FAF60066FDCC03D3AB50A79CB7
         width: 700
         height: 393
+  - title: "Security intelligence startup RiskRecon acquired by Mastercard"
+    excerpt: "Mastercard Inc. today said that it has acquired RiskRecon Inc., the startup behind an artificial intelligence service for identifying indirect cybersecurity ... will continue to be available for organizations in industries outside finance such as healthcare and manufacturing. RiskRecon Chief Executive Officer Kelly White added that “by ..."
+    publishedDateTime: 2019-12-23T20:16:00Z
+    sourceUrl: https://siliconangle.com/2019/12/23/accel-backed-security-intelligence-startup-riskrecon-acquired-mastercard/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.63D92D5CDDFFDAEABEFACE63F1E42DB4
+        width: 700
+        height: 466
 
-secured: "/IxZjwO0128t1i+JKwfarV9suyimNTvLvp4EyLdVtc+Xi4njKXpv+I21gxvKMqUoHOUwJgCGqQV0QN3Tb+sPdMiX3LzHZ+uvX5IWe9p6gMcQSEFlr3C8j/usAIjDx7FoaMB2g+IEV1Mj0Kw4wzlMGmpjx5B35VNL3omSUAVsENfQLgUsSr68KLXEzzsCdLmEQ8d+K+O74G18hJ/5unp3K4zSUdAZVsetrsZL1ypF1VaXZDsf+uyXKPiQ2is/yPQq15srHQm3F3mrq/WUGgQ0uw==;8X2Gdlws8jlTaDl0pFB5Yg=="
+secured: "pNbRCnF/AswvN96o2ZY/okSk7y1y1x0ea9XdESK9SXE2LwsA5aZTKYZFPwST4MyHd7KXGua5pUolCNMGYeGfezoal0ynQk5+ugBnFUTRJliWMzlg4wyTh5awiRa0Of0k85do/qYkQP0x0pXcK8nu3iV65PEDqe4z/rBxcLGVX/X7kp/sqPvI0cbrXD4JWCQ+a2tzRh/i1HAeinjGmLvlxXqCbA1JfJqogt+SIMqzaIX1MEE/GEDjGi/tX1azTXx1JBzAxuUovm8+iLHDxnH79w==;ahY7FFVNTFU/rY0gTYPyew=="
 ---
 

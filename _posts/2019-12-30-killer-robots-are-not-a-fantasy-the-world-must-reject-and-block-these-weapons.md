@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
         height: 393
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
+        width: 700
+        height: 393
   - title: "The Best Tech of the Decade (Page 13)"
     excerpt: "Intel entering the GPU space means we'll have a 3rd player -- something that hasn't happened since ... You thought I was going to finish this article without mentioning AI, didn't you? We all know artificial intelligence is littered throughout our lives, but I don't think (even most of us) really know just how much. It's not just \"OK Google ..."
     publishedDateTime: 2019-12-30T03:49:00Z

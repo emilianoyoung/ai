@@ -22,21 +22,6 @@ images:
     height: 630
     title: "Finland offers crash course in artificial intelligence to EU"
 
-related:
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 24
-    images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
-
 secured: "rsgw2Ohg/mEEQxiyYrVym7sEN0nyNOL3jhPdIuMYYGrJN0wGr7iV4lyMUf2+U/0N0pEkhRqi/YrDHJTy9wM2YjZYFyiQ5SIUkdz/JpcxAV0TYMMgj7GGgjyYPjzpSn53BEa/XgRBjjLabLYyLci6ak7nsnchKahO+lwRT0xX+iMow11glskhAkyYu1RjZSzAlnrl8G+cthznwlB6X/EskNOH2AD4wqD/TOSUMM8lF2EYtmXDYHlQP5yexalk895NI3ta4RKwZufxRG7Cz2XDwA==;q/u0cOiUGyqmhb0hTV37jw=="
 ---
 

@@ -56,6 +56,36 @@ related:
       - url: https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/stanford-marty-005-remasted-banner-1576901211.jpg?crop=0.783xw:1.00xh;0.0472xw,0&amp;resize=1200:*
         width: 1253
         height: 705
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-23T22:33:00Z
+    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
+    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
+        width: 700
+        height: 393
+  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
+    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
+    publishedDateTime: 2019-12-24T00:06:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
+        width: 700
+        height: 393
   - title: "Stanford Engineers Taught a Self-Driving DeLorean to Drift"
     excerpt: "Since then, mechanical engineer Chris Gerdes and his students developed the self-driving car to drift through a multi-turn, kilometer-long track in just a matter of minutes at a level that’s nearly as good as real professionals. The DeLorean uses GPS coordinates and the algorithms on Jonathan Goh’s laptop to chart its path, meaning those ..."
     publishedDateTime: 2019-12-24T13:04:00Z

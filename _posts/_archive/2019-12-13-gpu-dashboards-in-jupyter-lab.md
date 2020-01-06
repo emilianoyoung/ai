@@ -27,6 +27,6 @@ images:
     height: 662
     title: "GPU Dashboards in Jupyter Lab"
 
-secured: "hqAggaAeQM+sHg52Co4HnAj2cLKt6DeQ2KTCVop5rCbvZZzCRwxT/fk/jTQrAj0evWeCNu6Ezgxt7S8gs6g4Xucyziz97PGTgUU/ru5pUibmXvSs2g4wuCq2a3W41ldwH8R1JRyTF/qz8RRXmhF5IVVoYuwp4tU9Soe9sAubKCxzSy/zS1X42uQHJ2ZOz2U8AexjxC4krbJu3Sfnaim0xS9sKwo31CW4geeKUG1f1sbvUJ7AjWSSe/Lwpqfsss6K/D369mciicn2KDvOiESFZw==;kLFJiSkNQR4Y1o2VPqeVhw=="
+secured: "G3BZSiSx5cQJ9p5JD2p6Jh4/uO+Tdr5EcBG4BHJdjvCgiDoeydX0NWS3IlEfLKcQgZJp+w8oXU5vuExT/MEKkOgxJfIm8t1ppyhIvNScU2QcHT6/2Kwa7TPqJrJiWN0bIjM/h7cLsAAtnDzrjrOGJSOuf1jHWwLY87Zl8c7LjdavMdlD5tsZaK7xWlvccRlVsNIaxw7J2IrYo0R9FpZcrMhBN2OAqBSsErQiQupZH7cg57Ja6MZydmTaL1sxUY5wwN5e2FIQfOqNOzJlK1Pq/g==;iNUe91DGlGwn/v20eZgYFw=="
 ---
 

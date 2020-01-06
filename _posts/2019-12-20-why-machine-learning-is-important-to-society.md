@@ -37,19 +37,6 @@ related:
       - url: https://miro.medium.com/max/1154/1*re0bxx28N6QNXZu_PIfDgw.png
         width: 1154
         height: 636
-  - title: "Why Machine Learning Is Still Dumb (And How We Might Fix It)"
-    excerpt: "Researchers at MIT and IBM have teamed up to create a repository of images that challenge the weaknesses inherent in computer vision systems. Part of the problem with machine learning is that it has no basis of knowledge to fall back on,"
-    publishedDateTime: 2019-12-17T21:28:42Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/why-machine-learning-is-still-dumb-and-how-we-might-fix-it/ar-BBY62Yg
-    type: article
-    provider:
-      name: Popular Mechanics on MSN.com
-      domain: msn.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8C61A0B50DB0395BF9CBC13803E5401F
-        width: 700
-        height: 349
 
 secured: "gWTtOnjT4UFrzryKAHKYTeaK/wEJfxtLm/jJnjqfLCJgSjaRkm2IItJh8G7U0W+OOGfmi8mS3OXWQJ2kschHfq4pQl6kJdRfX3V7jjOyuVxX3r/SBz/TEawFv04IwAMS1cu/NlaWcq2kb0yNKiky6+mbbqnrvOf6GQy8E+Tuu58UJQzhjyJCIe5JIJ6GWs67LSJN9uFJk61B41MOa1eS/JSSrQjniIyJM4z6u8Yd+0e43q4UeQf5FcOElWtA8gQH6OXUjbwpEbKUoSihmCWnOw==;mm3taCKFwPlBXZY+2mc54g=="
 ---

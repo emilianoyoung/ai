@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
         width: 700
         height: 350
+  - title: "CES trying facial recognition for badge pickup at some venues"
+    excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
+    publishedDateTime: 2020-01-06T22:53:00Z
+    sourceUrl: https://www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/
+    ampUrl: https://www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/ces/ces-trying-facial-recognition-for-badge-pickup-at-some-venues-1929469/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0180BA3AFB221AA27AC61BC7F1323725
+        width: 700
+        height: 466
   - title: "NYCLU blasts 'premature' approval for school facial recognition system"
     excerpt: "Lockport City School District, in Niagara County, activated facial recognition cameras in all of its buildings last Thursday, becoming the first public school in the state to use the software designed to prevent intruders. The New York branch of the civil liberties union, in a letter to state education officials, wrote that the approval was ..."
     publishedDateTime: 2020-01-06T21:36:00Z

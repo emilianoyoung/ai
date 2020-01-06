@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holiday
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/22/the-christmas-holidays-will-be-even-more-wonderful-due-to-the-advent-of-self-driving-cars/amp/
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Forbes
@@ -30,107 +30,34 @@ images:
     title: "The Christmas Holidays Will Be Even More Wonderful Due To The Advent Of Self-Driving Cars"
 
 related:
-  - title: "2022 FIFA World Cup will feature self-driving Volkswagen electric cars"
-    excerpt: "The self-driving Volkswagens are coming, but not to the US. At least not yet. VW said on Monday that it plans to put a fleet of self-driving electric vehicles on the road in Qatar in 2022. That, not coincidentally, is the year the Arab country will host the FIFA World Cup. Just like Toyota plans to flex its technology muscles during the 2020 ..."
-    publishedDateTime: 2019-12-17T21:32:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    ampUrl: https://www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fifa-world-cup-qatar-self-driving-volkswagen-electric-cars/
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-26T23:10:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
+    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 28
     images:
-      - url: https://cnet4.cbsistatic.com/img/s0eFt4SrH4I_Bp8JWvfzp0LIc_s=/2018/11/14/203a60a1-38b4-4a28-9662-539d90ff5b1b/vw-i-d-buzz-ogi.jpg
-        width: 1200
-        height: 630
-  - title: "Cutesy Honda CES concept shows self-driving cars don't mean giving up control"
-    excerpt: "The Augmented Driving Concept could be a \"just right\" approach to future technology. Honda told Roadshow that this concept is meant to address the technological and cultural transition self-driving car will inevitably bring. Honda plans to have a simulated demo available at CES next month where we'll learn more about the concept car."
-    publishedDateTime: 2019-12-20T16:47:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 71
-    images:
-      - url: https://cnet2.cbsistatic.com/img/yVZOvD43gOyzAr-ouqg5ecH1DiA=/2019/12/20/601afd59-12c5-4f4c-9b5a-53c1d7559499/ogi-honda.jpg
-        width: 1200
-        height: 630
-  - title: "Toyota To Add Advanced Self-Driving Features In Mobility Service Vehicles First"
-    excerpt: "Toyota Motor Corp (NYSE: TM) is planning to deploy advanced self-driving features in its mobility service vehicles, Reuters reports. What Happened Toyota’s automated driving R&D unit announced on Tuesday that they are planning to first deploy advanced self-driving capabilities in mobility service vehicles, before adding the same features to ..."
-    publishedDateTime: 2019-12-18T07:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/toyota-add-advanced-self-driving-103915278.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/toyota-add-advanced-self-driving-103915278.html
-    type: article
-    provider:
-      name: YAHOO!News
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.C51FFAA1DD45CB8E1700B7409C4E5493
-        width: 600
-        height: 400
-  - title: "Hungarian self-driving developer wins AI competition"
-    excerpt: "He improved on his second-place finish at the Vancouver event last year. Görög’s performance highlights that Hungarian researchers are at the forefront of the development of artificial intelligence. In professional circles, Budapest has the ABC of self-driving, forbes.hu says: in addition to Aimotive, German Bosch and Continental teach the ..."
-    publishedDateTime: 2019-12-18T07:00:00Z
-    sourceUrl: https://bbj.hu/business/hungarian-self-driving-developer-wins-ai-competition_175874
-    type: article
-    provider:
-      name: Budapest Business Journal
-      domain: bbj.hu
-    quality: 39
-    images:
-      - url: https://bbj.hu/images2/201912/15765638553629rw40t9ZqiDzT_L.jpg
-        width: 1200
-        height: 800
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-23T22:33:00Z
-    sourceUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/
-    ampUrl: https://robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
-    cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/self-driving-electric-delorean-stanford-2889351/amp/
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.238FE27109445CCA8985867726C3668C
+      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
         width: 700
-        height: 393
-  - title: "Watch This Self-Driving Electric DeLorean Drift Flawlessly Around an Entire Racecourse"
-    excerpt: "Forget going back to the future; we are well and truly in it. A group of brainiac engineers at Stanford University just built an all-electric, self-driving drifting machine and sent it power sliding like a pro around an entire racecourse. And it wasn’t just any old car, but the undisputed star of the Back to the Future series: the iconic ..."
-    publishedDateTime: 2019-12-24T00:06:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    ampUrl: https://www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
-    cdnAmpUrl: https://www-yahoo-com.cdn.ampproject.org/c/s/www.yahoo.com/amphtml/lifestyle/watch-self-driving-electric-delorean-223001612.html
+        height: 466
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 36
+    quality: 8
     images:
-      - url: https://www.bing.com/th?id=ON.1A874031DC788C3E3218824DEA098329
+      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
         width: 700
-        height: 393
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
-    type: article
-    provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
+        height: 472
 
 secured: "uzqKtL8zZIpHkGJ+HHERhZU0Uke00VoJkgntekav/5en3nkfPkvcPtXXzRaLdj+kbocvGx+EXU3ygV6CEruvKsWKsb3e9mRUqqE5GLQGNTfkvMT5yYoBJ05rwzzHgG70BCY9VqYDTy8cak3sFukf6FU3lvbj2UHcrzb+Qkbs57cx1OSF8UiWY5+dj6lk8vYLnlbeYAROkcMWV0D5k9bNH7w2+rZaqizLooza4rMuCHTsLYWtqnPQJeCJXk3T7NidGqh+RGM4Pnt4vmFSpXYbFA==;c38yKlFQTknm8133lz3KGw=="
 ---

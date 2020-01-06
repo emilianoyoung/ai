@@ -1,13 +1,11 @@
 ---
 category: news
 title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
-excerpt: "The solution demo aims to improve accuracy of ADAS using Deep Learning models LAS VEGAS and BANGALORE, India, Jan. 2, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle ..."
+excerpt: "The solution demo aims to improve accuracy of ADAS using Deep Learning models LAS VEGAS and BANGALORE, India, Jan. 2, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will demonstrate Deep Learning driven Advanced Driver Assistance Systems (ADAS) at CES (Consumer Electronic Show) 2020. The deep ..."
 publishedDateTime: 2020-01-01T23:18:00Z
-sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-070000056.html
-ampUrl: https://finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
+sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-230000378.html
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
@@ -20,9 +18,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-    width: 1200
-    height: 1200
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 
 related:
@@ -70,6 +68,6 @@ related:
         width: 500
         height: 500
 
-secured: "QlHWJ/IGMC+pJCVNdLylWy/phQEjpECEezn0NwnbfOLrpHyD3i/5B6uTUxaWFPabgTB1kje4QdDNLWqjm3Y+upQO/4A8sLJjp8jT36rnmxZYBmlgQiFSKZ9anwlzDgXCcXQDxPWwf7M276W1oJqnAU9ePD7DXmUTYSbDDfSM68N1drZlaXmicCHieYj9iTUHMvQ6DxQTBwek/w8xNwEggn3XtA7z3MsXeRjokL4UC0ytfuOOFQDV/tNhMgBcvelf6YEAqX17zrz4dN2aapn2/w==;dZbDXVRzy0WNPVPDkGBKmA=="
+secured: "8V6oYCVegqAJ1IPR9FL3MRfpwldgZFbzmjSWVY3ZLpmxi5yKECneUunGuJtcSTcmX03hxCukonyC4wksVHd4IciyfAia3R9taCGrz1iCLaxJKdqH95uIPbSEL+EWhynBvI5OZp/iCI+pjC/FdjAV5L69YVq7xrRlhVoDlDYE6jdj+tEAz1rTquG2cFwlnFEXd5xEn2w1GBTWn4T7mhOeWKSY0eGvFgHrOHQX3apIoDAiKG1wenqjRUkDenXu0TpBbHcC/BtzSo7JjzdaDFPk8g==;RrfeA/dIf8/Xqa2tteqPfw=="
 ---
 

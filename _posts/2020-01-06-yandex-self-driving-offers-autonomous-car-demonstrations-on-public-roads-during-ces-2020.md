@@ -121,6 +121,19 @@ related:
       - url: https://www.bing.com/th?id=ON.798B6813ED339120CDB4E2EEE1288840
         width: 640
         height: 427
+  - title: "Toyota’s high-tech will be filled with autonomous cars, smart homes, robots"
+    excerpt: "The goal of the project is to test a number of different technologies, including autonomous cars, smart homes, robots, and artificial intelligence together, in a real-world environment, Toyoda said. CES is chock-full of companies pitching tech that can connect cars to their environment, but the Woven City will be built from the ground up to ..."
+    publishedDateTime: 2020-01-06T21:26:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/toyota-woven-city-will-demonstrate-new-tech-ces-2020/
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
+        width: 640
+        height: 427
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -184,12 +197,12 @@ related:
     quality: 0
   - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
     excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
-    publishedDateTime: 2020-01-06T16:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966657/0/en/ON-Semiconductor-and-Pony-ai-Collaboration-on-Next-Gen-Image-Sensing-and-Processing-Technologies-for-Autonomous-Vehicles.html
+    publishedDateTime: 2020-01-06T22:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "AE3Wv1WhFZSp44GWIuFOux+1FRZmgXij8DRMoTStSoBlC3gdnMGo4iNUgZkVeV4Wzx5Tqd3v3SqJW6xinUgVUt4FiF5/A7ljQJ7hR4sLEa310neRkqkrn8E9pi88KmM6VdscW9aWIMJZKvleUAneQNe+gEVEN0cJLT9c73G4wFSsjPuYLx8xobmelRRgOw+rfqzXdkuzyZkgBRsrcSnLbR2pwQitD3kOG41AJ83X4CZaQXGqGu5dN3FJu3EZx0qwjJXXwvUmvn+OD6+d0SLBTg==;JNYfh9PP6JScizgJCsZOrA=="
