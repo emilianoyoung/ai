@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/zakdoffman/2020/01/05/new-trump-ruling-limi
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/01/05/new-trump-ruling-limits-ai-surveillance-exports-over-china-military-fears/amp/
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "New Trump Ruling Limits AI Surveillance Exports Over China Military Fears"
 
 related:
+  - title: "The U.S. Is Restricting Exports of AI for Analyzing Satellite Images"
+    excerpt: "WASHINGTON (AP) — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military ..."
+    publishedDateTime: 2020-01-06T01:57:00Z
+    sourceUrl: https://time.com/5759228/us-ai-satellite-images-exports/
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
+        width: 700
+        height: 366
   - title: "US announces AI software export restrictions"
     excerpt: "some in the tech industry feared it would harm the field of artificial intelligence, which benefits greatly from the exchange of research and commercial programs across borders. Although the US is generally considered to be the world leader in AI, China is a strong second place and gaining fast. But the new export ban is extremely narrow."
     publishedDateTime: 2020-01-05T17:43:53Z

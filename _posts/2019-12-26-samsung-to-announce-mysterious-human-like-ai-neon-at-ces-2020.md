@@ -38,6 +38,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
+    excerpt: "Two years ago, Samsung said it would spend $22 billion on AI by 2020 and would employ 1,000 AI specialists by the same time frame. It has opened AI centers around the globe to work on solving problems for making technology smarter. The company at last year's CES showed off several robots that could do things like monitor health and help with ..."
+    publishedDateTime: 2020-01-06T01:41:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
+        width: 700
+        height: 525
 
 secured: "R/EPbNlOgUJPM6+KntJS+7VnQsstZcDsSk0N1cWb4Pb7lPJ5lQdtKH6nYWDi42/mid7urkFdtazdrMif4jIEbbuBMWbEyoH+W8F9RRDEiZLmgzAUhW76SeIJWtjKHu9W/7ymHAFQiRHKnK7RkdE7HIAHdNMpkg8zXg7bdeu/e9m8SgEW9B00tIymtRV2IEqM6TQj3prxrSvU4ocTB65B2DzFE9Kx4StBcZZ3oef2PE0V5rihp5G1PjitUVDT8TrE4j0LhkXrewn7S/iRBgQHbQ==;E6LcE3f82RQD5/XjLKtt2Q=="
 ---

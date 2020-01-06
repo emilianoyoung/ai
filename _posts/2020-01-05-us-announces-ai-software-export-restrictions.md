@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F40303CC6509A7EF468FA24C42350E12
         width: 600
         height: 315
+  - title: "The U.S. Is Restricting Exports of AI for Analyzing Satellite Images"
+    excerpt: "WASHINGTON (AP) — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military ..."
+    publishedDateTime: 2020-01-06T01:57:00Z
+    sourceUrl: https://time.com/5759228/us-ai-satellite-images-exports/
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
+        width: 700
+        height: 366
   - title: "US announces AI software export restrictions for China"
     excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA."
     publishedDateTime: 2020-01-05T17:50:00Z
@@ -53,6 +66,6 @@ related:
         width: 700
         height: 367
 
-secured: "W+dFffamFpSnpm8OgVVqPENR5ThTpk+7oLffE7XWv/+g2Zw2lkHSWXlO1/4BRPtDIFBwFaBrsGlx1oIQDKZORTcIjfDbbK9tHFeSZKxZTZf/CrIAE18oiA0fOwyQVkYC4mhlIT/EsYsPuWHhIMN0F2U0sIXPfCarsu/ZSEJW375KL/JaTIrPW85MH19M65jatFTCQAhNstuxQxwy4BuMeayjmUV5jC+DQFdBIA8+xmFmA/NXp4uB5VM6k06JbbaQncgBnCN9VfkBIK/AS8hc7w==;W4JHuG9Cleh+iEP6tabApg=="
+secured: "F3wCK8C4gNYndrTajBlXX3D373OQqJk79D4bq0zbFy7RZ/AqyIhvr5VPo1LF//GLVcL7kj0zAWoFWv5gPsUTkTQzUpCIzVVMyWQscsAnbEHPhMn9VppUVB1HilfUQKJovxFn3e6xX6nrftsbCCP9/xxRUnZdf8SaEUPir6NbKuyRKgKz5865/mXYC+Emnwlnj55m30TD/UjC5SRLS1zpOIbllJwEFw2P2iKIC1dTJ+1jOwm3SdTy4IHzPYTBmZboCReORaSOlz5P6r8UTAURmQ==;plG7r241NS5neCH3zbEbZQ=="
 ---
 

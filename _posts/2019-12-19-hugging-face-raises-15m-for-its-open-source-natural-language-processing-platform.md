@@ -80,19 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
         width: 700
         height: 388
-  - title: "Nikon Announces Artificial Intelligence (AI) for Predictive Imaging, Image Segmentation and Processing"
-    excerpt: "a powerful image analysis and processing module for NIS-Elements that leverages Deep Learning and Artificial Intelligence. NIS.ai is a suite of new AI-based processing tools that utilizes convolutional neural networks to learn from small training datasets supplied by the user. The training results can then be easily applied to process and ..."
-    publishedDateTime: 2019-12-17T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/nikon-announces-artificial-intelligence-ai-150000482.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.8B4262B73D262D18F6BFA1B2C41F7239
-        width: 400
-        height: 142
 
 secured: "33tCq9vNR32L85p71lLOXpuF295b+2UtTKf8mBlRV3hPl/p6bB2dRhlnjBVfAZPE2WdwhDywPmQD0kcANGox5v4AKEoTrQPCuxEwxNBYSdAzkEKDvAvCrN7QabV8b7tP1P+E9jmVhNZxJXpPO/At0QUC6k6U63WyENBXJnj9B6WBj2WgJBqucUNqGuyRdBJkaTyz5fy7eJTo/7B5JERvVCiHSSVfNqcWCnE/xv/FiAMjR3V/m2cvCYR+pdrgNA+MuQKnX8vw+EI/m6xqfEArfQ==;Rrc9+V/fmfD+Z+SrG/ze3A=="
 ---

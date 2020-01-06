@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42CBD84CFDB264845F1A5319C01AF9C0
         width: 700
         height: 447
-  - title: "Intel acquires Israel-based Habana Labs for $2B to \"turbo-charge\" AI efforts"
-    excerpt: "What just happened? Intel is bolstering its AI efforts with the purchase of the Israeli-based startup for $2 billion. The bold move goes in line with the company's new strategy of looking for growth outside the CPU space. Intel has been struggling to hold its chip dominance as of late, so much so that it even asked rival Samsung to make some of ..."
-    publishedDateTime: 2019-12-17T00:32:00Z
-    sourceUrl: https://www.techspot.com/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
-    ampUrl: https://www.techspot.com/amp/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83217-intel-acquires-israel-based-habana-labs-2b-turbo.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.FF4F4333963CB32FB5BEF5A21F138A64
-        width: 700
-        height: 490
   - title: "Intel buys Israeli startup Habana Labs that makes chips for AI apps"
     excerpt: "Intel bought Habana Labs, an Israeli startup that develops chips for artificial intelligence applications, for about $2 billion to bolster its efforts in the fast-growing market for AI silicon. The purchase is the latest in a string of acquisitions aimed at making Intel’s offerings essential to some of the biggest buyers of silicon and ..."
     publishedDateTime: 2019-12-17T08:15:00Z

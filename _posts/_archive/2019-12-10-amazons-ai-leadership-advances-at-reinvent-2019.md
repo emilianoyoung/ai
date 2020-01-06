@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Amazon's AI Leadership Advances at re:Invent 2019"
-excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
+excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
 publishedDateTime: 2019-12-10T15:29:00Z
 sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
 ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,38 @@ topics:
   - AI
   - AWS AI
 
-secured: "x96vgm/vzGOGLAZnfq9rlRRTjbBU4HRksiUcdaw6paly4a8nyLk4KlHKtOljFtwG5JXL+OZITWq7t4uvNpCodKY7+ZEVw8wcXD+Qgev6aC3dCq4OsQjxnW2Op73Ekbjdr1FWax3by/e1rkPovZC04hj12kKvcAGo1BCFZMZ4YTjoNMobryDYyf/kw8R5hV8tOtliAG1/Dziq0no1tvHX7B3ef7jSLWSOM2AGXl+F6RSJxv+y4UbE+blmWvgr6rM3bWyzujf9amqDc4wrfMGq0Q==;DIG3uHhdlgUX7l+kGgvBZA=="
+related:
+  - title: "Amazon Releases A New Tool To Improve Machine Learning Processes"
+    excerpt: "One of Amazon’s most recent announcements was the release of their new tool called Amazon Rekognition Custom Labels. This advanced tool has the capability to improve machine learning on a whole new scale, allowing for better data analysis and object recognition. Amazon Rekognition will help users train their machine learning models more ..."
+    publishedDateTime: 2019-12-17T09:49:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/17/amazon-releases-a-new-tool-to-improve-machine-learning-processes/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 93
+    images:
+      - url: https://www.bing.com/th?id=ON.EF2A7E68393C36D9BA3EF865974415FB
+        width: 600
+        height: 315
+  - title: "Amazon Makes Machine Learning More Accessible To Developers"
+    excerpt: "Amazon has recently announced that they have reached a new milestone in machine learning improvement. The company has proudly announced a brand new approach that will bring machine learning technology closer to developers across the globe. Besides their already impressive collection of tools for the development of machine learning models ..."
+    publishedDateTime: 2019-12-24T09:02:00Z
+    sourceUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/
+    ampUrl: https://www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2019/12/24/amazon-makes-machine-learning-more-accessible-to-developers/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
+        width: 600
+        height: 315
+
+secured: "IfQBrj18MqU/+DdWzI3+51LgsC0q12eyX1pdBz1S3wWWSdohwlac7xLG/rUJU/4v9pQK9H3DqEyoQwz1LL8NccAmZ0ka94S9zD41kC7QCyMmRqwqwSKv/LUMMhBZanFBc42942aw1o0kkN9+9Af+PMSOH+CxOLXNTCGn1mPHj3RywybvwGBRo8u8xGHlNCP9o2ib4E6/+dAa6dq9ogCHdX9Rxwx9gQ3B9mXvRifw5cCIqAnz7rd45dkgTcKVki8RDyyum65LI01DatgNsiIpqg==;Xw9/v9FoDkp04kdbfzujkw=="
 ---
 

@@ -236,21 +236,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
         width: 700
         height: 366
-  - title: "Backlash against facial recognition in Beijing"
-    excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
-    publishedDateTime: 2019-12-17T00:54:00Z
-    sourceUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/
-    ampUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
-    cdnAmpUrl: https://supchina-com.cdn.ampproject.org/c/s/supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
-    type: article
-    provider:
-      name: SupChina
-      domain: supchina.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
-        width: 700
-        height: 525
   - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
     excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
     publishedDateTime: 2019-12-26T11:34:00Z

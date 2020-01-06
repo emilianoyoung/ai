@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-t
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M"
 
 related:
+  - title: "Snap Acquires AI Factory Computer Vision Startup for $166M"
+    excerpt: "Snap, the parent company of Snapchat, has acquired a Ukraine-based company called AI Factory, to help the social media app provide a new type of video service that uses a person’s face to play short clips, according to a report by TechCrunch. Snap made the acquisition for around $166 million. The video feature is called Cameos, and it lets ..."
+    publishedDateTime: 2020-01-06T01:27:00Z
+    sourceUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/
+    ampUrl: https://www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/snap-acquires-ai-factory-computer-vision-startup/amp/
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.15A45E750D74322C3B93EA91332C6711
+        width: 457
+        height: 305
   - title: "Snap acquires computer vision startup AI Factory for a reported $166M"
     excerpt: "Snap Inc. has acquired AI Factory Inc., a two-year-old startup that makes computer vision and video analysis software, for a reported $166 million. The acquisition became public this morning via media reports that were later confirmed by a Snap spokesperson. The company didn’t comment on the reported $166 million price tag, but the figure is ..."
     publishedDateTime: 2020-01-03T21:28:00Z

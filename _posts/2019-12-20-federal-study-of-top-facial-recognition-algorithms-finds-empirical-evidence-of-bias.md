@@ -221,21 +221,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
         width: 700
         height: 366
-  - title: "Backlash against facial recognition in Beijing"
-    excerpt: "A security check at a Beijing subway station. Photo via China Daily. Facial recognition technology is coming to the Beijing subway system, and not everyone is okay with that. Jeff Ding of the ChinAI Newsletter has translated an essay by Professor Láo Dōngyàn 劳东燕 of Tsinghua University, originally posted to WeChat (in Chinese), in ..."
-    publishedDateTime: 2019-12-17T00:54:00Z
-    sourceUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/
-    ampUrl: https://supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
-    cdnAmpUrl: https://supchina-com.cdn.ampproject.org/c/s/supchina.com/2019/12/16/backlash-against-facial-recognition-in-beijing/amp/
-    type: article
-    provider:
-      name: SupChina
-      domain: supchina.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.AC148B96B729702412F5BA39D46F890D
-        width: 700
-        height: 525
   - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
     excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
     publishedDateTime: 2019-12-20T02:24:00Z
