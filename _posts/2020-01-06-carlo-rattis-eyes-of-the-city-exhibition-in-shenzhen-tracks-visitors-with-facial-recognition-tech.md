@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
         width: 600
         height: 315
+  - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
+    excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Steven Bellavia couldn’t find the astrophotography setup he wanted, so he built his own. The… Image recognition is a technology that already ..."
+    publishedDateTime: 2020-01-06T13:05:00Z
+    sourceUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300
+    ampUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 78
+    images:
+      - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
+        width: 700
+        height: 393
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z

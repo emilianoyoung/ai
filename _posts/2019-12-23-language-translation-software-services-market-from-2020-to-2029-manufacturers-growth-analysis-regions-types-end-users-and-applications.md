@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Is Professional Translation Service Necessary?"
     excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
     publishedDateTime: 2019-12-18T17:59:00Z
@@ -123,15 +136,6 @@ related:
       - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
         width: 672
         height: 475
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
     excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
     publishedDateTime: 2019-12-18T11:32:00Z

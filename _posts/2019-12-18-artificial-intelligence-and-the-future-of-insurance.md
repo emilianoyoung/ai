@@ -26,122 +26,117 @@ images:
     title: "Artificial intelligence and the future of insurance"
 
 related:
-  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
-    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
-    publishedDateTime: 2019-12-17T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
-    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+  - title: "Mediaplanet and Dr. Mike Discuss the Future of Healthcare"
+    excerpt: "healthcare will be connected more than ever before in the past. Innovations that utilize everything from artificial intelligence, data, and analytics to virtual reality are creating better health outcomes for the population as whole. Doctors and health systems have been slow to adopt these crucial technologies, but it is key to improving the ..."
+    publishedDateTime: 2019-12-20T14:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+    ampUrl: https://markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
-        width: 600
-        height: 315
-  - title: "Computer simulation enters the AI age: the Altair story"
-    excerpt: "That dialectic of design and simulation is pervading the world thanks to AI, Scapa believes. \"We are at a moment in time where for many things that we do, the algorithms are driving decisions,\" is the way Scapa broadly views the landscape of society, not just engineering. \"For me it's all about how algorithms are assisting humans to make deci ..."
-    publishedDateTime: 2019-12-21T20:22:00Z
-    sourceUrl: https://www.zdnet.com/article/computer-simulation-enters-the-ai-age-the-altair-story/
-    ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T08:04:00Z
+    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
+    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
-        width: 700
-        height: 525
-  - title: "NHS is leading the way in AI adoption"
-    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
-    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
-        width: 700
-        height: 466
-  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
-    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
-    publishedDateTime: 2019-12-17T18:32:00Z
-    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
-    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
-    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
+      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
+        width: 400
+        height: 518
+  - title: "Healthcare start-up Qure.ai develops software to provide fast and accurate diagnosis of Tuberculosis"
+    excerpt: "Founded in 2016, Qure.ai uses deep learning and Artificial Intelligence (AI) to bring access to quality healthcare, especially in remote areas. “We work closely with NITI Aayog and the Piramal Foundation’s Piramal Swasthya initiative, to leverage AI to enable faster diagnosis of TB in remote areas,” Warier said. To fulfill the vision of ..."
+    publishedDateTime: 2019-12-26T07:57:00Z
+    sourceUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.html
+    ampUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
     type: article
     provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 44
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
     images:
-      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
-        width: 620
-        height: 349
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+      - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
+        width: 600
+        height: 390
+  - title: "NAM report: The success of healthcare AI depends on building consensus"
+    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
+    publishedDateTime: 2019-12-20T18:23:00Z
+    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
+      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
+        width: 400
+        height: 300
+  - title: "How can healthcare achieve real technology driven transformation?"
+    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
-        width: 700
-        height: 367
-  - title: "F|T: The FinTech Times – Bank on a comeback"
-    excerpt: "Toronto-based FinTech Borrowell has launched Borrowell Boost ... Montréal-based FlexPay, which is using AI to help e-commerce and subscription companies reduce credit card declines, has received a $6 million late seed round. The round, which comes a year after the company raised £1.3 million in seed investment, is led by Redalpine (an ..."
-    publishedDateTime: 2019-12-19T11:22:00Z
-    sourceUrl: https://betakit.com/ft-the-fintech-times-bank-on-a-comeback/
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: https://cdn.betakit.com/wp-content/uploads/2019/12/GettyImages-547501564-1024x682.jpg
-        width: 1024
-        height: 682
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T18:15:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
+        width: 400
+        height: 518
+  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
+    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 39
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
+  - title: "How Artificial Intelligence Is Humanizing the Healthcare Industry"
+    excerpt: "December 17, 2019 - Seventy-nine percent of healthcare professionals indicate that artificial intelligence tools have helped mitigate clinician burnout, suggesting that the technology enables providers to deliver more engaging, patient-centered care, according to a survey conducted by MIT Technology Review and GE Healthcare. As artificial ..."
+    publishedDateTime: 2019-12-17T16:23:00Z
+    sourceUrl: https://healthitanalytics.com/news/how-artificial-intelligence-is-humanizing-the-healthcare-industry
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 36
+  - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
+    excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
+    publishedDateTime: 2019-12-24T15:18:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/td-ameritrade-institutional-innovation-director-on-artificial-intelligence-voice-tech-2019-12-1028783981
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9F530980463CA01C2AD7F3BD7567CA79
+        width: 700
+        height: 350
+  - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
+    excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
+    publishedDateTime: 2019-12-20T14:03:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/imagia-partners-with-top-facilitate-ai-accelerated-healthcare-discoveries-0001
+    type: article
+    provider:
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 18
 
 secured: "lYK+YlblHu64eMUBneb2XJXLzQAfYPqUR+vSv6/r8Vqr58H9nYntVdqkwII6f3WjvtJ6Dl806SVAHXPzQurjc9/AtUDVMq+0GopC/MquIvHE6EARRWwSVF1tPDmZKq+eMCaSK+GE1IhBEJN8ERf9npuT0uB5/6mZ7ospUtD5GphmNJT6RC2MLNLJ0m2Ron6GNDZ1bgN/OTogTvf9xXGxIPf81NSwhSb0O2jsTgGm1Yko5g2+GjtmfcmYCRTzxznisnjf+Cu51VjhoM24109VJA==;OCd7lbZFagkQYk3p7zIYMg=="
 ---

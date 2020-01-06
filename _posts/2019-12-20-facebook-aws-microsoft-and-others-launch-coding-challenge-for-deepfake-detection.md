@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T20:37:00Z
 sourceUrl: https://jaxenter.com/facebook-aws-microsoft-deepfake-detection-challenge-165930.html
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 550
     height: 214
     title: "Facebook, AWS, Microsoft and others launch coding challenge for deepfake detection"
-
-related:
-  - title: "Resemble AI launches voice synthesis platform and deepfake detection tool"
-    excerpt: "AI and machine learning are powerful tools for the synthesis of speech. As countless studies have demonstrated, only a few minutes — and in the case of state-of-the-art models, a few seconds — are required to imitate a subject’s prosody and intonation with precision. Baidu’s latest Deep Voice service can clone a voice with just 3.7 ..."
-    publishedDateTime: 2019-12-17T13:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/
-    ampUrl: https://venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/resemble-ai-launches-voice-synthesis-platform-and-deepfake-detection-tool/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: https://www.bing.com/th?id=ON.EB3C3B1774FDCC76E6F0ABC58F35821B
-        width: 700
-        height: 350
 
 secured: "Xy7zaRrxhRCNnVx9rMxmdOG38+YEwAjg2IuvtEmGgUkczpSPH8kWVhtQ3//U5lcUoP7c9cSC+4TOu8VXusGahvTbHnBJbXaTH9umlud7gNy1YkH/31JMHwdik3O8Fw28NHAv1WWZ9TdiR8Fwp9tc7/A0/sj7YRo750xQWod8arPt7Z5t8Q5IQ/Z5BmbgVxFszwIzLo9KZL9sWOHj+T/eY7+OY/CBY6B1+y54lMKxXr0jgWOoU5ebritsUaeEysubpWdGP4YB3sLvUgHpknqdBA==;XcxUr0O54DI89NH7b8/M4Q=="
 ---

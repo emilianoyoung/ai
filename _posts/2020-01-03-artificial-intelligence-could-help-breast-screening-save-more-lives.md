@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.35E40D1A0B3C43B75925783E59B18328
         width: 700
         height: 393
+  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
+    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
+    publishedDateTime: 2019-12-30T21:02:00Z
+    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
+        width: 1903
+        height: 836
   - title: "From Apple upping its healthcare ambitions to Walmart acquiring a health insurer, VCs shared the biggest surprises they're watching out for in 2020"
     excerpt: "The 'surprises' aren't predictions, exactly, but if the events do occur, they could have big implications for investors and patients."
     publishedDateTime: 2020-01-03T20:18:00Z

@@ -25,26 +25,34 @@ images:
     title: "Is There A Global Tech War? US To Implement Export Restrictions On Sensitive AI Technologies To Russia, China"
 
 related:
-  - title: "U.S. to restrict exports of artificial intelligence used for analyzing satellite images"
-    excerpt: "WASHINGTON — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military or ..."
-    publishedDateTime: 2020-01-05T23:16:00Z
-    sourceUrl: https://www.marketwatch.com/story/us-to-restrict-exports-of-artificial-intelligence-used-for-analyzing-satellite-images-2020-01-05
-    ampUrl: https://www.marketwatch.com/amp/story/guid/6BD58E8C-3019-11EA-AEE1-7A786F5E9765
-    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/6BD58E8C-3019-11EA-AEE1-7A786F5E9765
+  - title: "Tech trade ban: Exporting AI is going to get harder, says US"
+    excerpt: "The US government is making it harder for US companies to export artificial-intelligence software that helps organizations automate object recognition from geospatial imagery. The export restrictions, first reported by Reuters, are part of an attempt by the US to keep key technologies away from rival powers like China. The restrictions come ..."
+    publishedDateTime: 2020-01-06T13:11:00Z
+    sourceUrl: https://www.zdnet.com/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/
+    ampUrl: https://www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-  - title: "U.S. to restrict exports of artificial intelligence used for analyzing satellite images"
-    excerpt: "WASHINGTON — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military or ..."
-    publishedDateTime: 2020-01-06T00:23:42Z
-    sourceUrl: https://www.msn.com/en-us/finance/markets/us-to-restrict-exports-of-artificial-intelligence-used-for-analyzing-satellite-images/ar-BBYDQAc
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
+    images:
+      - url: https://www.bing.com/th?id=ON.4491F3082D7B0E17F050348067DB4804
+        width: 700
+        height: 525
+  - title: "The U.S. Is Restricting Exports of AI for Analyzing Satellite Images"
+    excerpt: "WASHINGTON (AP) — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military ..."
+    publishedDateTime: 2020-01-06T01:57:00Z
+    sourceUrl: https://time.com/5759228/us-ai-satellite-images-exports/
     type: article
     provider:
-      name: MarketWatch on MSN.com
-      domain: msn.com
-    quality: 9
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
+        width: 700
+        height: 366
 
 secured: "KF3P+1PaAi043WglO/JvnVSPcep/eMa0agd6x5kZaNIabSSMEute1A/hTH9W1RSWkC8YaHNRsTUIR0ApBcsF4/NZ36OujDB/7CJmxp6qwlxUrSAaUNe34wpsCJM4inr5W8ozc9a2dIIN/cf8LlVgp+duea0gInIR6RvkhaejGOXq71qjWNoaqSGOHdYsLVbJgaLnWbo3WyoUz9hzlFuZihVcWbQlU4n8MkOprcWMSn8cEgqmFgqtrmu4pkyfOszJuudCIgVAurd3FJ3/I7Y9dg==;Xed+nDbsEbMnO0ASgqiwVA=="
 ---

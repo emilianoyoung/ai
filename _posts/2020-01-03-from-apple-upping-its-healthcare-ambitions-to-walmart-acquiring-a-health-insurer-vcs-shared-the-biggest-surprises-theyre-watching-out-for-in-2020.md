@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6EF9317A035CD1AB4EB4BA730B8A052A
         width: 620
         height: 348
+  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
+    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
+    publishedDateTime: 2019-12-30T21:02:00Z
+    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 39
+    images:
+      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
+        width: 1903
+        height: 836
 
 secured: "vjsIQqr4S9p2Q0OamojiFc0/V/qlamODWHcRyJp81K0YVxEN6vRZGn1aF/q1jU8KbzaXk5rn50ZdaEvkNNydyXe6sfN3+IpxLgukgzvWLRCI//PD9+twAxo8/2shrgRR7hGa2oA99po3U+BP/4Bxt0ftIFJgptxAgPxVRzAUdV4goVLdSltdRX0BUvHdyIQ8h3IrKbzvVPBq7VZIBL4y2PMCMqxVs9P2jzUSkIEQ5jVIQSetMmOS6Br+/XfDyUXNxrrlwo6MuD0uiLXgIdOgIQ==;H/gqAwY/nLLrhdYqwHdOeA=="
 ---

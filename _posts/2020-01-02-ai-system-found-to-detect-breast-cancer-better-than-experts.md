@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
         width: 700
         height: 367
+  - title: "AI Is Not Just for Big Tech Companies -- You Can Use AI To Transform Your Organization, Too"
+    excerpt: "The top five companies by market cap — Microsoft, Amazon, Apple, Alphabet and Facebook — are the heaviest users of artificial intelligence (AI). But AI is not the exclusive purview of these organizations. Just about any business (even your own) can adopt and benefit from AI. AI can enable your company to: • Increase the value of its ..."
+    publishedDateTime: 2020-01-06T13:08:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: https://www.bing.com/th?id=ON.E2BF7D35D547222F26DA4707A1070E4B
+        width: 600
+        height: 315
   - title: "Scientists built an AI that can spot breast cancer better than a doctor"
     excerpt: "Artificial intelligence is already invading many aspects of our daily lives, but while “smart” virtual assistants like Apple’s Siri and Amazon’s Alexa can be helpful, more powerful AI might actually save your life. In a new study published in the journal Nature explains, cancer-detecting algorithms are becoming so adept at spotting ..."
     publishedDateTime: 2020-01-02T23:38:00Z

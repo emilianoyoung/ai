@@ -24,21 +24,6 @@ images:
     title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
 
 related:
-  - title: "India bullish on AI in healthcare without EHR"
-    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
-    publishedDateTime: 2020-01-06T08:26:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.287B3969A67EEFFEF2C95AADDD19FB98
-        width: 700
-        height: 379
   - title: "Telangana government set to use AI to provide better healthcare services"
     excerpt: "HYDERABAD: In an effort to introduce Artificial Intelligence (AI) in public healthcare, the State government along with Intel, Public Healthcare Foundation of India (PHFI) and International Institute of Information Technology-Hyderabad (IIIT-H) will work in the field of diagnostics, proactive public healthcare, health services optimisation ..."
     publishedDateTime: 2020-01-06T04:19:00Z
@@ -54,32 +39,36 @@ related:
       - url: https://www.bing.com/th?id=ON.A7DB8E7FC77371BE60DC23A198E69E1A
         width: 600
         height: 390
-  - title: "Hashtag Trending – LG’s rollable TV, Google AI helps in healthcare, new privacy law"
-    excerpt: "AI is rapidly changing the world of work across all sectors, including the healthcare sector. Google Health has developed an artificial intelligence program that is said to outperform the expert radiologists at spotting breast cancer in mammograms. The software, which is gaining traction across social media, detects cancers that Google says ..."
-    publishedDateTime: 2020-01-03T10:11:00Z
-    sourceUrl: https://www.itworldcanada.com/article/hashtag-trending-lgs-rollable-tv-google-ai-helps-in-healthcare-new-privacy-law/425555
-    ampUrl: https://www.itworldcanada.com/article/hashtag-trending-lgs-rollable-tv-google-ai-helps-in-healthcare-new-privacy-law/425555?amp=1
-    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-lgs-rollable-tv-google-ai-helps-in-healthcare-new-privacy-law/425555?amp=1
+  - title: "Telangana Government bets big on Artificial Intelligence"
+    excerpt: "Hyderabad: The Telangana government on Thursday made a big push towards tapping the ever-growing opportunities in Artificial Intelligence (AI ... IIIT-H will set up a research centre in applied AI in healthcare and smart mobility. \"In line with our vision and our approach, AI will be our focus for the coming year and beyond."
+    publishedDateTime: 2020-01-03T00:50:00Z
+    sourceUrl: https://www.thehansindia.com/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
+    ampUrl: https://www.thehansindia.com/amp/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
+    cdnAmpUrl: https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-government-bets-big-on-artificial-intelligence-594715
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 68
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.2EA3F77F858DE7FF88384EC7A20418C1
-        width: 620
-        height: 251
-  - title: "How AI is making healthcare ‘more human’"
-    excerpt: "Artificial Intelligence (AI) is widely expected to drive important benefits across the health system, from increasing efficiency to improving patient outcomes, but it also may be key to making healthcare more human, a report said. Benefits range from increasing the amount of time clinicians can spend with patients and on cross-care team ..."
-    publishedDateTime: 2020-01-02T07:25:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/How_AI_is_making_healthcare_more_human-SNG_163543227/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_163543227/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_163543227/
+      - url: https://www.bing.com/th?id=ON.7B543747CB917105C574FA5C3D658A02
+        width: 700
+        height: 420
+  - title: "Telangana government takes help of artificial intelligence projects"
+    excerpt: "Hyderabad: The Telangana government, as part of its ‘Year of AI’ initiative, launched two new projects which use artificial intelligence (AI). Both projects are part of the state government’s efforts to make government services more efficient with emerging technologies such as AI and blockchain. The first project was a “crowd estimation ..."
+    publishedDateTime: 2020-01-02T19:41:00Z
+    sourceUrl: https://www.deccanchronicle.com/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
+    ampUrl: https://www.deccanchronicle.com/amp/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/030120/telangana-government-takes-help-of-artificial-intelligence-projects.html
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 54
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.D2369BBAAC7B18090643359360946AE8
+        width: 700
+        height: 392
   - title: "BraineHealth - Leveraging Digital Technologies to Revolutionize Healthcare"
     excerpt: "Namely, in 2020, the company aims to revolutionize and democratize healthcare by incorporating artificial intelligence and robotics into it. BraineHealth is already working on a slew of digital health solutions, covering different medical areas from primary and elderly healthcare to mental health. The company's primary goal is to connect expert ..."
     publishedDateTime: 2019-12-31T02:10:00Z
@@ -91,19 +80,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
-  - title: "Healthcare Leaders Reflect on Major Trends in 2019"
-    excerpt: "Leaders pointed to the rise of consumerism, particularly the growing expectations from patients about various aspects of the healthcare experience, as a major factor that drove change this year. The increasing interest in technological services, such as machine learning and artificial intelligence (AI), also made a sizable impact on ..."
-    publishedDateTime: 2019-12-30T21:02:00Z
-    sourceUrl: https://www.healthleadersmedia.com/finance/healthcare-leaders-reflect-major-trends-2019
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 39
-    images:
-      - url: https://www.healthleadersmedia.com/sites/hlmp/files/styles/article_banner/public/2019healthcare_0.jpg?itok=gjoChzGW
-        width: 1903
-        height: 836
 
 secured: "1d0H98VaVpKesRKQYZg5vQFAWMcCqYZ0/LL6pooSxrO6pWQhDlMQgIZFdvbVxbBlrNTRG9+d14fnN2Yrzy30PYfrSMJ/PdE5kykAdmPErO2g8fZiduS+5d5lMMTD9zjOCdj/f1nY4UjMfOjxnNWUGerWt8iUbQnBq7NJ2/EWqizRaZtgrN8LbGsNN5elVk4lZBIWaLJX+J5OfezKOW0e/z6yvkGyzydDz7tXNvprPJm7td4KVFeMiJEyqxvGkCOX4Sd7BAxTRMwQENFuMS9OKg==;QL86vqkI0BcASRFILcHGsw=="
 ---

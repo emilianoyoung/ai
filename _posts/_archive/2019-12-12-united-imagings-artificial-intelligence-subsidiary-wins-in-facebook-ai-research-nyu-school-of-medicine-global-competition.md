@@ -23,6 +23,6 @@ images:
     height: 315
     title: "United Imaging's Artificial Intelligence Subsidiary Wins in Facebook AI Research & NYU School of Medicine Global Competition"
 
-secured: "mIws2+Tik7TtBOgTichp9ZOe/Z5pD7SnOaibWISmO1h/4h1O0GuPS5jWrHEnPEEZxSEXybxEg3KZ893MeE856y8jA+hBfz5R7Y5nkqZWU93AJVGZF3AVMhu5MkLsKumY3rEFDdzbNN4/jBhzrdHw454hbnVm07Ghfzfxfo1B3WzFssFf3MHkL5B+WyPIHpgEYPezrQp4lt82i9IOjcb+p5AkXAS0/C20joSiYb1a23VpWj4ZVU1qq8E3e4NC6akid0w82NcImVZRdgOPPqOaNg==;KTy8EclG6sjQWRFUvzZrrw=="
+secured: "i3+IeY9ykABrPEqzi0NfxVSAddUqV2fV8CZGbu2MSs2wLsv6UkbPCDSG+mSyzcmRuxqq5xQihwpXg9LdkqfIJ0Il2uUUpC7bn8l0VfRbCAKSRfZuJpHNd2DcHdCHRZAdxHNq8omAy076dvchB9jQGqA2lk3xqL/HQDOSpPp25GrwKB5WVWmjLd/h89j4Mgz/bRqcFVweRMx455+lo4tY8++bd22IZQLU2R/xzzTsj3eX/gOYMyEtVftMzAgz9JAr1yl0cAgcZ+1OCfBkvXvlwQ==;gyvPG1XmdDqy9F8ZPLy4HQ=="
 ---
 

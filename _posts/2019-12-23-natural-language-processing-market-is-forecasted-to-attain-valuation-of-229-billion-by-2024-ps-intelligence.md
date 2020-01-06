@@ -93,21 +93,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4CBCC1DED872190B27485DF30F060EC2
         width: 700
         height: 393
-  - title: "Intel bolsters AI push with $2B acquisition"
-    excerpt: "Navin Shenoy, Intel EVP and data platforms group general manager, told Reuters Intel’s AI chips will be used in self-driving cars as well as training machine-learning algorithms in data centres. Habana Labs will remain an independent company run by the same management team, reporting to Intel’s Data Platform Groups division. The newly ..."
-    publishedDateTime: 2019-12-17T12:33:00Z
-    sourceUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/
-    ampUrl: https://www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
-    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/intel-bolsters-ai-push-with-2b-acquisition/amp/
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.7D11C39C2DD185398ECE525FE4B34311
-        width: 650
-        height: 399
   - title: "Intel Hedges Its AI Bets With Habana Labs Buy"
     excerpt: "First a little historical context. Habana was one of the first AI chip startups to make its silicon available to datacenter customers. Goya, the inference chip, was released in January 2018, followed by Gaudi, the training processor, in June 2019. The Gaudi training chip is currently sampling with unnamed hyperscale customers. Goya is also ..."
     publishedDateTime: 2019-12-17T17:34:00Z
@@ -123,19 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D5A8039508FDA88DED2E706254450A95
         width: 326
         height: 245
-  - title: "Intel buys Israeli AI chip firm Habana Labs for $2bn"
-    excerpt: "Habana Labs, a developer of deep-learning accelerators for data centers, has been bought by Intel for around $2bn. The acquisition comes as Intel tries to build up its portfolio of AI chips, which the company expects to be greater than $25 billion by 2024. Intel has said it expects to generate over $3.5 billion in AI-driven revenue this year."
-    publishedDateTime: 2019-12-17T13:00:00Z
-    sourceUrl: https://www.datacenterdynamics.com/news/intel-buys-israeli-ai-chip-firm-habana-labs-2bn/
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.94F3A0BED7881E3BA4BA0A0C1A5520B4
-        width: 700
-        height: 368
   - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
     excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
     publishedDateTime: 2019-12-17T22:45:00Z
@@ -233,6 +205,6 @@ related:
       domain: channele2e.com
     quality: 19
 
-secured: "wEbKcNtQsw8MXpPFileG7OpnqljoBusgChqWiCxRInocYBlB7uU9fQyvPAiXJcWidXfaCQnPtvt8qh5bD3bOHhd7SCsh110BaDCCvioxL840x72/Vaj5ZHh6wdC8dIs2fl2yv6076gJFpNoC1mND/g6NiIlipSvLrotEK/AI0NdZQKSuwAE+GL1wYTTVDMcExJHaq2FucXTUGWvKEVl0xz5O6ZguzxCExSIVIqDB98QajIxxpuS3fya/UL75hhWXYylZ8fFJE+F6bSDlNYZgww==;l/7ps9OmEm781U0QlnI5Og=="
+secured: "RPlqvoia1z2ybvEDIvpr6bUXPsLgNsnc16afcJy/TzzZJMexuimls+0Y4aADFEhj9Rb6zT9eQZkzea6uYRoY09FuzbDd09DqIPEUgD1iQ4KwSz8B0kak2MJfOUoLhTF3p0kBUh8/q1D6O21Sp+PfTsqNSJIstcrjzLw6zZqw/mwIp4maIrdB472TbQpusdEIt5ucQ/TbJYJTC17Ql4YRnZ406JksTMJq6lOmCqaQURY/F6vqupYllC2JfHZJcOMqYVy6a8bO3uqx+ZuG20mP3w==;W78rsD4ArNm/8UyKZTzEGw=="
 ---
 

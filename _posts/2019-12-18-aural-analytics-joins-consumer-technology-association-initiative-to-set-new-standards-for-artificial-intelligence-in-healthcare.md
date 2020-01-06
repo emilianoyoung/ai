@@ -355,15 +355,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
         width: 960
         height: 520
-  - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
-    excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
-    publishedDateTime: 2019-12-17T13:06:00Z
-    sourceUrl: https://www.telecompaper.com/news/swedish-law-would-have-to-change-to-allow-facial-recognition-testing-at-skavsta-airport--1320265
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
   - title: "Facebook's Neural Net Can Solve This Differential Equation in One Second"
     excerpt: "This is how we learn to recognize patterns. Similarly, neural networks rely on layers and layers of artificial \"neurons\" that mirror the ones in our own brain—only these so-called neurons perform basic calculations. With enough of these working together, the entire network has the power to solve more complex problems, even though individual ..."
     publishedDateTime: 2019-12-18T20:43:00Z

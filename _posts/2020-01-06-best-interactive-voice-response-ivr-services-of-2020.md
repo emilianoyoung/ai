@@ -23,6 +23,17 @@ images:
     height: 315
     title: "Best interactive voice response (IVR) services of 2020"
 
+related:
+  - title: "ML in the Browser: Interactive Experiences with Tensorflow.js"
+    excerpt: "Victor Dibia provides a friendly introduction to machine learning, covers concrete steps on how front-end developers can create their own ML models and deploy them as part of web applications. He discusses his experience building Handtrack.js - a library for prototyping real time hand tracking interactions in the browser."
+    publishedDateTime: 2020-01-06T13:34:00Z
+    sourceUrl: https://www.infoq.com/presentations/ml-browser-tensorflow-js/
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 19
+
 secured: "JUQCur8IpX1GpvUxqhviZj9hZVpIhSIJGPasMAH50N0PWRnfjEBvrPYF6QfPPpkou1L6BZ0iI0XShzupOa1gsRRrHJ+8Hcn5oIdChbITsi4meSq8ym6YFj98SZILkTZ9rcQC8BNHZP0mKUu68EEZIvcCoqxyHkCN4Wk6cKMIeZoZKIVgs+5ZGPskZILHuFS4n52403vuPHf+SW586mDSwUBR/0tW5mZN8bgjp0dII3nAZ9iRYANaUYRvl9Vj2XCnwIzegGAUUqJC4JaoIQiFdg==;988Ov5wF+CX7MwzgSnmWmQ=="
 ---
 

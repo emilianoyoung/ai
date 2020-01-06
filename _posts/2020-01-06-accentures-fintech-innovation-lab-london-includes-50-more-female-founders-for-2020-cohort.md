@@ -84,6 +84,21 @@ related:
       - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
         width: 700
         height: 379
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
+        width: 600
+        height: 338
   - title: "5 top tech predictions for 2020 and beyond"
     excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
     publishedDateTime: 2019-12-31T11:04:00Z

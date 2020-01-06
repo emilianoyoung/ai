@@ -24,6 +24,21 @@ images:
     height: 1536
     title: "Why DataRobot Acquired Paxata"
 
+related:
+  - title: "Why DataRobot Is Buying Paxata"
+    excerpt: "DataRobot, a company that is known for creating automated machine learning models known as AutoML, announced it is buying Paxata. These are the details about the deal. DataRobot — a company that is best known for creating automated machine learning ..."
+    publishedDateTime: 2019-12-16T20:49:00Z
+    sourceUrl: https://pulse2.com/why-datarobot-is-buying-paxata/
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 24
+    images:
+      - url: https://cdn.pulse2.com/cdn/2019/12/DataRobot-Paxata.jpg
+        width: 1200
+        height: 743
+
 secured: "XcTpgtWcre0QJnLIR738+bswqKrbjiqpXgPqQc/lih5d9jLyUoTWwli4005nJsMg8uQFaHK9bgMdNBGSrluzXb7d3WWOENtvjjo54sapdgE+tiMkPRN0eJAkUXFHVWy1x4SaSC2mbfzi933K0L/z7W0ZpvbTdtb5pmGe6Jg48K07nduiZ5M6NwlXSL+vpinz1Zh01QPzkOb2YZ2As6fgRfdCQsgrUVh8QkVuTEl2M3zVHNVbGVMis0oXnGzSvxJ5RqmDQaR2BpSi9iHQvdX3qg==;TacewSQLaIjGZ8yZWaY8vw=="
 ---
 

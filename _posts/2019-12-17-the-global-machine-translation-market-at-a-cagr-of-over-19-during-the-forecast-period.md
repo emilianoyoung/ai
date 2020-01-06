@@ -24,124 +24,154 @@ images:
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
-  - title: "The Forbes Investigation: Inside the Secret Bank Behind the Fintech Boom"
-    excerpt: "Gade is being modest about Cross River’s role in the fintech revolution. State-chartered banks like his have the regulatory ... Once you get beyond the slick iPhone apps and inflated tales of big-data mining and AI-generated lending decisions, you realize that many fintechs are nothing more than aggressive lending outfits for little-known ..."
-    publishedDateTime: 2019-12-17T12:16:00Z
-    sourceUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/
-    ampUrl: https://www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/antoinegara/2019/12/17/the-forbes-investigation-inside-the-secret-bank-behind-the-fintech-boom/amp/
+  - title: "Google Translate improves offline translation quality by up to 20%"
+    excerpt: "Bound for a foreign country where you don’t speak the language? Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases. Across the 59 ..."
+    publishedDateTime: 2019-12-19T17:39:00Z
+    sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
+    ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1A19C124624630EF3CEE7F8BDDD7E352
-        width: 600
-        height: 315
-  - title: "Computer simulation enters the AI age: the Altair story"
-    excerpt: "That dialectic of design and simulation is pervading the world thanks to AI, Scapa believes. \"We are at a moment in time where for many things that we do, the algorithms are driving decisions,\" is the way Scapa broadly views the landscape of society, not just engineering. \"For me it's all about how algorithms are assisting humans to make deci ..."
-    publishedDateTime: 2019-12-21T20:22:00Z
-    sourceUrl: https://www.zdnet.com/article/computer-simulation-enters-the-ai-age-the-altair-story/
-    ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
+      - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
         width: 700
-        height: 525
-  - title: "NHS is leading the way in AI adoption"
-    excerpt: "The Trusts are also worried about ethics and patient data security, which is why more than half (59 per cent) have already reviewed, or plan to review, the governance policies for patient data. “Artificial intelligence has limitless potential in healthcare services and it’s encouraging to see the technology being used in half of NHS Trusts ..."
-    publishedDateTime: 2019-12-17T12:30:00Z
-    sourceUrl: https://www.itproportal.com/news/nhs-is-leading-the-way-in-ai-adoption/
-    ampUrl: https://www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/nhs-is-leading-the-way-in-ai-adoption/
+        height: 350
+  - title: "Jarvisen Translator Review: A translator for serious travel"
+    excerpt: "However, it’s not so much the hardware, but rather the software that will really determine how far it goes. Language translation, especially when there’s some element of machine learning involved, needs constant refinement. So far, it looks like Jarvisen is serious about improving on what it has here, and that’s good news. The company ..."
+    publishedDateTime: 2019-12-24T15:45:00Z
+    sourceUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/
+    ampUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
     type: article
     provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.3E89360A0828143549FB48945B5A744D
+      - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
-        height: 466
-  - title: "Artificial intelligence and the future of insurance"
-    excerpt: "The insurance industry should think of AI as a set of exciting tools to learn about, use and improve business processes. (Photo: Shutterstock) Artificial intelligence (AI) is changing the world. From game shows — where IBM Watson wins at Jeopardy — to medical advances and business decisions, the implications are staggering. Due to the ..."
-    publishedDateTime: 2019-12-18T05:23:00Z
-    sourceUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/
-    ampUrl: https://www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
-    cdnAmpUrl: https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2019/12/18/artificial-intelligence-and-the-future-of-insurance/?amp=1
+        height: 366
+  - title: "After eBay improved its translation software, international commerce increased sharply"
+    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
+    publishedDateTime: 2019-12-23T13:13:00Z
+    sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
+    ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
+    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
     type: article
     provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 36
     images:
-      - url: https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2019/12/AI-Shutterstock.jpg
-        width: 620
-        height: 372
-  - title: "Fintech Experts Ponder the End of a Transformative Decade & Look Ahead"
-    excerpt: "The industry will see AI and machine learning aid in proactive credit risk management. 2020 will be a year where digital innovation improves the blocking and tackling of credit union operations, delivering process management improvements that unlock savings and support efficient member servicing and growth. Beyond using digital to provide self ..."
-    publishedDateTime: 2019-12-17T18:32:00Z
-    sourceUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/
-    ampUrl: https://www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
-    cdnAmpUrl: https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2019/12/17/fintech-experts-ponder-the-end-of-a-transformative-decade-look-ahead/?amp=1
-    type: article
-    provider:
-      name: Credit Union Times
-      domain: cutimes.com
-    quality: 44
-    images:
-      - url: https://images.cutimes.com/contrib/content/uploads/sites/413/2019/12/fintech-evolution-e1576527665526.jpg
-        width: 620
-        height: 349
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
-    images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
-  - title: "Why is WeChat translating the Canadian flag emoji into “He’s in prison”?"
-    excerpt: "WeChat also apologized in 2017 when it was discovered that “black foreigner” in Chinese was translated as a racial slur With machine learning, a system learns by reading a large amount of text in one language and comparing it with the corresponding translation in another language. Since the system is trained on full sentences rather than ..."
-    publishedDateTime: 2019-12-17T12:58:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042490/why-wechat-translating-canadian-flag-emoji-hes-prison
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.0DB927EFFA9131306E6352DD0B4316A0
+      - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
-        height: 367
-  - title: "F|T: The FinTech Times – Bank on a comeback"
-    excerpt: "Toronto-based FinTech Borrowell has launched Borrowell Boost ... Montréal-based FlexPay, which is using AI to help e-commerce and subscription companies reduce credit card declines, has received a $6 million late seed round. The round, which comes a year after the company raised £1.3 million in seed investment, is led by Redalpine (an ..."
-    publishedDateTime: 2019-12-19T11:22:00Z
-    sourceUrl: https://betakit.com/ft-the-fintech-times-bank-on-a-comeback/
+        height: 465
+  - title: "Is Professional Translation Service Necessary?"
+    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
+    publishedDateTime: 2019-12-18T17:59:00Z
+    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 39
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 24
     images:
-      - url: https://cdn.betakit.com/wp-content/uploads/2019/12/GettyImages-547501564-1024x682.jpg
-        width: 1024
-        height: 682
+      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
+        width: 711
+        height: 310
+  - title: "Invoke introduces real-time translation"
+    excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
+    publishedDateTime: 2019-12-23T10:10:00Z
+    sourceUrl: https://www.research-live.com/article/news/invoke-introduces-realtime-translation/id/5063282
+    ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
+    cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 24
+  - title: "Language Translation Software Market 2019 Growing Demands and Precise Outlook - Bigword Group Ltd, Lionbridge, LanguageLine Solutions"
+    excerpt: "Source=xd&Mode=47 Product Segments of the Language Translation Software Market on the basis ofTypesare: Rule-Based Machine Translation Statistical-Based Machine Translation Hybrid Machine Translation Others The Middle East and Africa (GCC Countries and Egypt.) North America (the United States, Mexico, and Canada.) South America (Brazil etc.)"
+    publishedDateTime: 2019-12-17T19:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market-2019-growing-demands-and-precise-outlook---bigword-group-ltd-lionbridge-languageline-solutions-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "University of Tartu developing translation programme with Mozilla Firefox"
+    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
+    publishedDateTime: 2019-12-19T08:45:00Z
+    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
+    type: article
+    provider:
+      name: ERR News
+      domain: news.err.ee
+    quality: 23
+    images:
+      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
+        width: 672
+        height: 475
+  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
+    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
+    publishedDateTime: 2019-12-23T11:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
+    excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
+    publishedDateTime: 2019-12-18T11:32:00Z
+    sourceUrl: https://www.baltictimes.com/tilde_s_ai-powered_eu_presidency_translator_has_provided_more_than_1_4_million_translations_for_the_eu_council_presidencies/
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 13
+    images:
+      - url: https://www.baltictimes.com/media/photos/146888_15356388205dfa082d396cb_big.jpg
+        width: 855
+        height: 570
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
+    publishedDateTime: 2019-12-18T18:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 11
+  - title: "Compensation: Lost In Translation"
+    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
+    publishedDateTime: 2019-12-20T22:05:00Z
+    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 4
+  - title: "Translation Services Market Opportunities, Emerging Trends, Size, Share and Forecast 2022"
+    excerpt: "Global Translation Service Market Research by Service Type (Written Translation Services, Interpretation Service), By Operation Type (Technical Translation, Machine Translation), By Component (Hardware and Software) Application - Forecast to 2022 Translation Service Global Market - Overview The global translation services market is projected an ..."
+    publishedDateTime: 2019-12-17T20:44:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-translation-services-market-opportunities-emerging-trends-size-share-/2019/12/17/9071025.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mh+IewLiZL2lJSSFuqH6lFtzDq0SiydKOUT+ofDKhqyqWtS56CGLc4D72O3maE4XjnrtNI6cCqUqFxZZJrDWVSEz0r3MY6dk4wvxYDd7KX6BQJX12RdWt2Su5TlT7FP+mzO0AD5bsKMLxKF2C/IcfCHjK2spqTE9KG2NiH/kajMMN9Zmvb9B6QAm/QnvUio6+cnf+sAp26zrrkikFrwGNETWdYdqRB/+HogbtaZOPBOmuVAYbBQ7eV3mjzhI2DF9ahtsDO/1Gfgb0IVFH6DRwQ==;LRao5EU073xxFACRc6JvBg=="
 ---

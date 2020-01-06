@@ -342,15 +342,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
         width: 960
         height: 520
-  - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
-    excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
-    publishedDateTime: 2019-12-17T13:06:00Z
-    sourceUrl: https://www.telecompaper.com/news/swedish-law-would-have-to-change-to-allow-facial-recognition-testing-at-skavsta-airport--1320265
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z
@@ -528,6 +519,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "/yAfUCL9BZMPcgXxwJJByuqWSKRUlLWv0oWfuZOANdtYZxAR92t9q5u62oDiUmskwJSpQSkxkzzZDVv6LB6OmpnKxe5tUBPpYQmhkcdxTmiHtVNL8y8mgvbh48YwB6AI4awtfooa/3yDcPSIv6YsAK4coFTlSmCvcgnCjMhQTzeWJXj/KRYtHTwt+26SJrCReL5JTnmVC10P/99fxCFNSoUdMjvmMe5fmsAevIo46JqqQINsujlwHwYMWyeOEDMLvwYfdgA1QWhOqBOmbY/WPA==;OADA2/Kl8yEkMyU/gHcV1g=="
+secured: "s9IbYiCtdKgs5a9ApX4F85nuNNWDJFXleeL72EFi85BIssBc/qO89G088iw2oyQyOdbi7kxzZpcaO87YjfDRrtv3a8p7CPfQLfngypjO3Npa3+QcVvkxKokacaVfRiYKamh59AqaCFaZZ07tW84YaVtWOQlG363vrxCHp/FrTMjEz401WZUIhGLPPJEXs31SuAcPdCsP8KK+Iqs7iNP3eX1ssDXGsg6FtMDfepueDwu8+HMd0oI/1GSW5Rf2SY7epJ4d86NZC2ZT6FU/hdRrWA==;CykPmS2jn/E7y+Psw28oDg=="
 ---
 

@@ -80,6 +80,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
         width: 700
         height: 494
+  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
+    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
+    publishedDateTime: 2020-01-06T12:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Tech will drive change in health care throughout next decade"
     excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
     publishedDateTime: 2019-12-26T16:47:00Z

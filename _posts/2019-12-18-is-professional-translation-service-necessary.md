@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
         width: 700
         height: 465
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T18:15:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -106,15 +119,6 @@ related:
       - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
         width: 672
         height: 475
-  - title: "Machine Translation Software Market 2019-2024"
-    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
-    publishedDateTime: 2019-12-16T08:39:00Z
-    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
   - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
     excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
     publishedDateTime: 2019-12-23T11:50:00Z

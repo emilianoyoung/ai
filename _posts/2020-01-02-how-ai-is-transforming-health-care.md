@@ -24,47 +24,36 @@ images:
     title: "How AI is Transforming Health Care"
 
 related:
-  - title: "How deep learning can transform your marketing results"
-    excerpt: "Whether you outsource a deep learning solution to a vendor or bring that expertise in-house, here’s what marketers need to do to make deep learning work. Technology continues to push the boundaries of what’s possible for marketers. While most marketing executives understand that software can drive growth, not everyone is familiar with the ..."
-    publishedDateTime: 2020-01-02T15:14:00Z
-    sourceUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/
-    ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
-    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+  - title: "How AI could Dramatically Improve your Healthcare"
+    excerpt: "Further developments will come, thanks to innovation, and the rise of artificial intelligence (AI) in particular is predicted to have a massive effect on healthcare, as it has on many other industries. For example, AI is predicted to take over the call centre industry with chatbots, and it is already having an impact on industries with labour ..."
+    publishedDateTime: 2020-01-06T13:47:00Z
+    sourceUrl: https://thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/
+    ampUrl: https://thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/amp/
+    cdnAmpUrl: https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/amp/
     type: article
     provider:
-      name: Smart Insights
-      domain: smartinsights.com
-    quality: 59
+      name: Cancer
+      domain: thefutureofthings.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.0113C3EFA92A9C277EF0AB9E8873C445
+      - url: https://www.bing.com/th?id=ON.476979A0A91FA0BF15C5EA616D55C2D8
         width: 700
-        height: 292
-  - title: "Logistic Regression in Machine Learning using Python"
-    excerpt: "Find the sum across all the values in training data. Now that we have the error, we need to update the values of our parameters to minimize this error. This is where the “learning” actually happens, since our model is updating itself based on it’s previous output to obtain a more accurate output in the next step. Hence with each iteration ..."
-    publishedDateTime: 2019-12-27T21:34:00Z
-    sourceUrl: https://towardsdatascience.com/logistic-regression-explained-and-implemented-in-python-880955306060
+        height: 466
+  - title: "India bullish on AI in healthcare without EHR"
+    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
+    publishedDateTime: 2020-01-06T08:26:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
     type: article
     provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.1FE5C96CBFAFC7DD79276C871476C9BC
+      - url: https://www.bing.com/th?id=ON.287B3969A67EEFFEF2C95AADDD19FB98
         width: 700
-        height: 420
-  - title: "Practical Lessons for Scaling Machine Learning Solutions in the Real World"
-    excerpt: "Instead of thinking about flashy milestones, my wish is that in this new year we make progress streamlining the end to end lifecycle of large scale machine learning solutions. Despite all the progress in machine learning stacks, the implementations of large scale solutions remains a difficult challenge for most organizations. My company ..."
-    publishedDateTime: 2020-01-02T14:28:00Z
-    sourceUrl: https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
-        width: 700
-        height: 467
+        height: 379
 
 secured: "V5ku/uYb17MzxSmIBPkKFhPlB6bcUjRJHSbZoUAh3QQPGg8fi+cBsKhRXwykKszj9ujkyQSa3iPhkoX7G6yR9Ggmx/OtXMOeegwaRHzjnV49xQci3aqdh3B0Swq3LShxTKndOhzP5hYxJzV7xmksGnsPTytH4tnPEY7GgOxKNAaEXxMwBpzmbd+tC+/Ps0lMvLuUTvNZpAfOM5vtq7GhsU+k6lZsSW1rQddH//LXdJr24wrH3rp7PjURUomSMYMgipcIohkMgdrD1aGpdvUmNA==;mBLHOcaXTRLWIEzSpgEgmg=="
 ---

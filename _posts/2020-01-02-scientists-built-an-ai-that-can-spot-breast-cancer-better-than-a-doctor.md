@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
         width: 700
         height: 367
+  - title: "AI Is Not Just for Big Tech Companies -- You Can Use AI To Transform Your Organization, Too"
+    excerpt: "The top five companies by market cap — Microsoft, Amazon, Apple, Alphabet and Facebook — are the heaviest users of artificial intelligence (AI). But AI is not the exclusive purview of these organizations. Just about any business (even your own) can adopt and benefit from AI. AI can enable your company to: • Increase the value of its ..."
+    publishedDateTime: 2020-01-06T13:08:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: https://www.bing.com/th?id=ON.E2BF7D35D547222F26DA4707A1070E4B
+        width: 600
+        height: 315
   - title: "AI Is Getting Better Than Humans at Catching Cancer"
     excerpt: "This would save a vast majority of the time and save money and time for healthcare systems that are more and more burdened. Hopefully, a medical system infused with human critical thinking and AI-powered analysis can better battle one of the most deadliest forms of cancer in human history."
     publishedDateTime: 2020-01-03T20:53:00Z

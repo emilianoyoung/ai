@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google launches AutoML Natural Language with improved text classification and model training"
-excerpt: "Earlier this year, Google took the wraps off of AutoML Natural Language, an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for ..."
+excerpt: "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for customers globally, with support for tasks like classification, sentiment ..."
 publishedDateTime: 2019-12-12T17:57:00Z
 sourceUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/
 ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
-quality: 95
-heat: 105
+quality: 78
+heat: 88
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - Natural Language Processing
 
 images:
@@ -47,6 +46,6 @@ related:
         width: 345
         height: 400
 
-secured: "lNcW04CfiVl1zQ5ARDG0mIsdVCqoWCJJ7ozRe7nBdFVZ2w+R4y3sZhgzX8Fv7LvUBVgkOyqNnJ5C85u5X69nPTjKwb7JNgWHUeAeymDZz0+pmEKft0OV7rNSDhz+hnLk9YoWhueH6yO1K9LP7ttmXsXpUWK7xeaAopytqMgBjuZFxvGqS6B7YOXJNbG8+997JoFUafpG14y9sfQiUbQ19cNC+Jw/HlsL66VDLVzGBQl8Q0nXmqhI3r5ZAi96kR1GxKTMKgBE9/CBwmk9+amVtQ==;ng1Wb1BKT2UtD7GTPNex/Q=="
+secured: "MyNN2KTUatsfSTR82okmwBiqO/eS7HKTEIaY1JAkt3ae/WTb3UKkazcEDZ+CaLq03enKUXbSATo3QTxS8gdo8GZ2Y6SCVf9unXrMmmX4x3076HGe3jTufwQuhAZB4yoqzIpJelDJQGTGh7pvGk/WKk3C1IHpzHNM6l5fLEhY7bDauKrVopX6NpzoUtfhPDK81I3FT7wzY4xESrIv5X+Jm8g5Bp3F3bWcBhU2i+Fe3Qz2uAM924U9XtDciuAf8pQ4oPtL/FS6+XWiQwsobMhGFw==;ldZ23b48yF4kbY1bHa949A=="
 ---
 

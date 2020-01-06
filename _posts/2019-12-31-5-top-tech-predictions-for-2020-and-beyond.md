@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
         width: 700
         height: 379
+  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
+    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
+    publishedDateTime: 2020-01-06T13:56:00Z
+    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
+    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
+        width: 600
+        height: 338
   - title: "The Top Ten Fintech Predictions for 2020"
     excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
     publishedDateTime: 2020-01-02T21:47:00Z

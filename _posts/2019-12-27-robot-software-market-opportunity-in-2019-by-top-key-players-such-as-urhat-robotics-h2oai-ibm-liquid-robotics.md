@@ -70,16 +70,16 @@ related:
         width: 700
         height: 350
   - title: "Robots and AI get top billing at Vegas tech show"
-    excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. As David Pollard reports, AI and 5G are two of the show's big themes for 2020."
+    excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. AI and 5G are two of the show's big themes for 2020."
     publishedDateTime: 2020-01-06T12:21:00Z
-    sourceUrl: https://www.reuters.com/video/watch/idOVBV1J8UJ
+    sourceUrl: https://www.reuters.com/video/watch/idPd3n?now=true
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.5EC99D88341136B1584B4C9A9B92D6EC
+      - url: https://www.bing.com/th?id=ON.0B5C711DBC0782590EB027BFD2BE7A39
         width: 700
         height: 393
   - title: "A Rocking Robotics ETF For 2020"

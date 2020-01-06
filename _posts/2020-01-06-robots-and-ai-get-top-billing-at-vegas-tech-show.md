@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Robots and AI get top billing at Vegas tech show"
-excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. As David Pollard reports, AI and 5G are two of the show's big themes for 2020."
+excerpt: "Thousands of innovators are showcasing their latest gadgets, apps and cutting-edge products at the CES consumer electronics show in Las Vegas. AI and 5G are two of the show's big themes for 2020."
 publishedDateTime: 2020-01-06T12:21:00Z
-sourceUrl: https://www.reuters.com/video/watch/idOVBV1J8UJ
+sourceUrl: https://www.reuters.com/video/watch/idPd3n?now=true
 type: article
 quality: 67
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.5EC99D88341136B1584B4C9A9B92D6EC
+  - url: https://www.bing.com/th?id=ON.0B5C711DBC0782590EB027BFD2BE7A39
     width: 700
     height: 393
     title: "Robots and AI get top billing at Vegas tech show"
@@ -119,6 +119,6 @@ related:
       domain: plantservices.com
     quality: 34
 
-secured: "F+w0I3AXrIq95EAx/SR7aCePly2VvAGexGiYdr9DHSqlAEnC2dkqpvP8d2aANRT2QEBCfEfp6/UYARqTIAFdd7chigJAzGGIsPFhXJyxKuGvjiV5rIWzwnu+nWC4Zghcy7gwMgY1do6QgrRT8/KKTZCmKrZW8NsoHbmq0FgXp3vpCISu3v7olN53+mrpMcns27KB9q91bdTvcEOafZVPD8UzXNF7MEpxG2ykwDdtzcW8ihA135SoG6D2DhfGr8+IaJOK6sKzGwztgCMKgjR07A==;w89GOteTKaOgIwBt5Ou+3Q=="
+secured: "Vvk3tpI5c9DneHzDbT86jLJE9lo/Ump5P5A08hjC97HGgf9nue631SIK1c0lTDDZnY4keBzPFYKcR8GNVwcWnfb8lnB/ifpNxgVux5VEqTy830Gz1LHUNqjihNHFBK+vclkaf9uq2vbRDn7KSrg+o9ok5DpHgUbKnSj9clPGhA7NUNQf4XBPXB6RbVTVoh60zOc50/ro6Fv+GtqV9lu6RCpeztZwsRIUTUyzAPLxz/3YLYq4gmAQGaLCtJ3dguLoaaVNdzS+ysECQcj8id2VaA==;aw+jpubT/jHCBlQskj1AkA=="
 ---
 

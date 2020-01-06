@@ -356,15 +356,6 @@ related:
       - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2016/06/25183331/video-analytics.jpg
         width: 960
         height: 520
-  - title: "Swedish law would have to change to allow facial recognition testing at Skavsta airport"
-    excerpt: "The Swedish Data Inspection Authority said it has responded to police query by saying there would need to be a change in legislation if the force were to test facial recognition at Skavsta airport, which serves Stockholm. The idea is to set up a pcamera at border control to take photographs of passengers. This would be compared with the one on ..."
-    publishedDateTime: 2019-12-17T13:06:00Z
-    sourceUrl: https://www.telecompaper.com/news/swedish-law-would-have-to-change-to-allow-facial-recognition-testing-at-skavsta-airport--1320265
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 26
   - title: "Aural Analytics Joins Consumer Technology Association Initiative to Set New Standards for Artificial Intelligence in Healthcare"
     excerpt: "Aural Analytics, Inc., a privately held digital health company developing the world’s most advanced speech analytics platform, today announced its participation in the Consumer Technology Association (CTA)® initiative to develop new standards and best practices for the use of artificial intelligence (AI) in healthcare. The CTA AI in ..."
     publishedDateTime: 2019-12-18T18:48:00Z

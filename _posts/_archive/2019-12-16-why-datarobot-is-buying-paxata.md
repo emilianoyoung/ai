@@ -18,9 +18,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.A9EB8F61682C36C4E9305ECF7123C85F
-    width: 700
-    height: 433
+  - url: https://cdn.pulse2.com/cdn/2019/12/DataRobot-Paxata.jpg
+    width: 1200
+    height: 743
     title: "Why DataRobot Is Buying Paxata"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 2048
         height: 1536
 
-secured: "D/Pbpa2lx5zuvCK6nR6XttD+POOdmoK6U1iQfeSXFlX0NiPB0vCoKCYmSxMCkriVA7OENFpqUI3aogVFa/0kHRage7CskLkwu3BZdca41yLSMzBBkeYoxtlFOSt2Dq9NaxGalVYIX8j+s9WqbCli13PU/QWoN5HusnnZ6t1B5BiJC2ahYiPlscMTioUSXbBC2QIF2LazituesLsvC5oLRCIzcZR53hreg/Isa3xESGH9NoDH5UhvFx6IqdAaYmqYlcbUbeZvd9jw0mbJmwTDGQ==;AOQs9lKItxSMDKtR4ZEEPg=="
+secured: "D282jZr1NqnDyMbamMqqzT4C53Xiutcozy1se5Z+rApMQ7jXHFgDu/iq+MLtomv3n12NxQ96V1/d2FgWK88vPcMuLcGdtKwWLOlsKTmQI+A1DUZ5PO5AUcgioLMHOHTS91ObeR7HtMCFXlKkN0tlRgX+cCdFQUBhmZhSU4umdhsKEz4EzFtKYXINTtwUXRoq4xNo4rg3diW18VnlVc3no8gKNERvxYnM0FTAMMukVt6M+dtyHpItRU+z4sZPVBj81hNTEvNrdlPwPdrbdO+UEA==;YZ4fIqgLwTz5mMWz11IO0w=="
 ---
 
