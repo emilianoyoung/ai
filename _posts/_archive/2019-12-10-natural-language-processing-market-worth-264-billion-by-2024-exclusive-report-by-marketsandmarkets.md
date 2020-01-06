@@ -2,8 +2,8 @@
 category: news
 title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 excerpt: "CHICAGO, Dec. 10, 2019 /PRNewswire/ -- According to a new market research report \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and ..."
-publishedDateTime: 2019-12-10T13:32:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/natural-language-processing-market-worth-26-4-billion-by-2024---exclusive-report-by-marketsandmarkets-300972124.html
+publishedDateTime: 2019-12-10T13:35:00Z
+sourceUrl: https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-26-4-billion-by-2024-exclusive-report-by-marketsandmarkets-tm--847717966.html
 type: article
 quality: 23
 heat: 23
@@ -11,7 +11,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 350
     title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
-secured: "lCMh/h3mFQ/iGt0kqD5wKulk/ezWi7A4ZO+e15ZpqHQWgxt9vEmSoIxy8P7DoX9+q9qsOHir1HL5LOumitkE7Ydwilmh0Ip83WjPa9k1x2M/62KsIcP9ebVfF9iZAbxImrzO3f16yoc3ARZt6/sYEPPEPI0x9+CqGvOjKMWgNYWv4Z1QyNC7ORvkukuXeENn6/hHzUvTb/5Pjm6DtS9MEqA5gBudoEZxdAwS0u9vrsV815ZTD2tN+JScz5Uy9qHEtnqwLILZ1D+kMeuEDyCnZQ==;yMwhe4i7Q7e36y7EwSYzVA=="
+secured: "aBAYaM47D/BusHmUMS4uK2SlxP2z2aiE4tl1KmNUiSpnuHaGTAz5g4UFYuYKJyYYL/FRxcSrVyDCsHowH9B7T1YN7h2h2Ws/dtYrxFU0tzjgDIpPQNcXf/COgoFYxaRnU8iIo5vqI+Uv0HhuXfwRQTWNIRjFIkAVqu7kBFMjF+yqIQSuTRdwFP1Q7YV+8DFumLRU3dkbYr3hyA6OZiInMs7h20uA/8gyVhtrolzM5qVGKGR2ObqSZv/f4J9g7T43yI/7ob0QxdMOS/IY6fwnyA==;wmlMCZsWvG/Q8BwWvlZCDA=="
 ---
 

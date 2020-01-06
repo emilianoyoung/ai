@@ -8,8 +8,8 @@ ampUrl: https://www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/2/21046822/samsung-lg-smart-fridge-family-hub-instaview-thinq-ai-ces-2020
 type: article
 quality: 85
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,17 +29,19 @@ images:
     title: "Samsung and LG go head to head with AI-powered fridges that recognize food"
 
 related:
-  - title: "Samsung and LG are set to unveil AI-equipped smart fridges with food-identification capabilities"
-    excerpt: "LG and Samsung both plan to unveil smart fridge software updates featuring food-detecting artificial intelligence capabilities."
-    publishedDateTime: 2020-01-06T15:41:00Z
-    sourceUrl: https://www.businessinsider.com/samsung-lg-unveil-artificial-intelligence-equipped-smart-fridges-2020-1
+  - title: "Abode’s Smart Camera uses AI to recognize and respond to known visitors"
+    excerpt: "Today, Abode Systems is taking the next step forward with the $199 Outdoor/Indoor Smart Camera, which has the AI-assisted ability to remember and recognize different people, treating authorized users differently from unauthorized ones. While Abode notes that the facial recognition feature is optional — activated at the user’s sole ..."
+    publishedDateTime: 2020-01-06T16:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/
+    ampUrl: https://venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/amp/
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.4AE77FBDB151ECE004630163A3BF5889
+      - url: https://www.bing.com/th?id=ON.C3D3532850A8B5FEABB42C69B09B4A9E
         width: 700
         height: 350
 

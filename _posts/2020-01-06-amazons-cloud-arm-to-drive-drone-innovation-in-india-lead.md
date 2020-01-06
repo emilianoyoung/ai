@@ -1,19 +1,17 @@
 ---
 category: news
-title: "Amazon’s Cloud arm to drive drone innovation in India (Lead)"
-excerpt: "“AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,” Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the ‘Drone Festival of India ..."
-publishedDateTime: 2020-01-06T10:43:00Z
-sourceUrl: https://newsd.in/amazon-s-cloud-arm-to-drive-drone-innovation-in-india-lead/
-ampUrl: https://newsd.in/amazon-s-cloud-arm-to-drive-drone-innovation-in-india-lead/amp/
-cdnAmpUrl: https://newsd-in.cdn.ampproject.org/c/s/newsd.in/amazon-s-cloud-arm-to-drive-drone-innovation-in-india-lead/amp/
+title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
+excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+publishedDateTime: 2020-01-06T16:58:00Z
+sourceUrl: https://news.webindia123.com/news/articles/India/20200106/3485042.html
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -81,6 +79,6 @@ related:
         width: 600
         height: 337
 
-secured: "3KshxjPYVvT8t1H4TIuqFLRR2/McTbtf6spg8uGMn09b4+mcENUOx9LcVbRr+0QjdcWBBNBdYB2NIHLC+rrkqUloYvIMO8GYpSmfHNdnCt36mSBcylHBDMTmMZuUoEszQeLE2Fi9KoEJKma6iUfl9yoeO9s3LC7OJFSP9a8fT3tnAdxDLCgD2IG57aDwN/sHiCMzI1QS9xjYPbJQmsqtPTWlKBPyt2IF5x+bl7soD4Y2fBNi/tpSGSKzAAwUged0/jjhkuFWAG0T7p0EjUN+cQ==;oyY8UrOGFa96lBCZg500qQ=="
+secured: "EGPMEpsRdSdZoiKP4jnM8fyCC3zmrAAJ6JhGs2n9pusooSTJweBx2HAtzQnoJxzeRpqnVliQimAMZszaOXfbLUeGN89L5fMKs12z9cLlPLTj+5g+cYx7ZZwpftvaqWrolkrIZBOEP7Miui6etvN2w8X1vqYWLxEMqyag9C16Z0ynwoE3NbMPkyyGxF2iKEAX/tyPZM5yoNn4RACgRbAElPM6BTHf2B5OjH16EjYebNGETbOmHDVgCqm6YoZwtDTfd4TbnmD93KrMrh7U+Ei29w==;MJWhFf1uJJXA1SMWiF8u6Q=="
 ---
 

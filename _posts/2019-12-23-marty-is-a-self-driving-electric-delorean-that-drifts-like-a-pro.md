@@ -8,7 +8,7 @@ ampUrl: https://mashable.com/video/marty-delorean.amp
 cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/marty-delorean.amp
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.52F5E43386CCA5D2216A99B854F84F0B
         width: 700
         height: 356
-  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
-    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
-    publishedDateTime: 2019-12-26T03:36:00Z
-    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
-    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
-    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
-    type: article
-    provider:
-      name: Syfy
-      domain: syfy.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
-        width: 700
-        height: 396
   - title: "Great Scott! Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities using onboard computers and custom made suspension"
     excerpt: "Engineers redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn't think of -self-driving capabilities - and they successfully tested its drifting skills on an obstacle."
     publishedDateTime: 2019-12-23T23:35:00Z

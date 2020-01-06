@@ -71,15 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DB6C9CC8CE6D3582721018F11564E76B
         width: 600
         height: 337
-  - title: "Recession, robots and rockets: another roaring 20s for world markets?"
-    excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
-    publishedDateTime: 2019-12-30T21:52:00Z
-    sourceUrl: https://japantoday.com/category/features/opinions/analysis-recession-robots-and-rockets-another-roaring-20s-for-world-markets
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
 secured: "UwSwdMCV07p8DbMOzQypsyTlMwntuiDr3xU2spOqt0xbFj8Jq7UuTM9B7FwhedjWYEMmYNlVEmke5ald/i5+qsOFJkqr4kD1OS9P625dWwDO6ZcYAGOkq9GYkImDwxIkPYb2jLFtYv/W9wcT2V2CCIdOQWn0GLrju8Zhd1dYKadDDlgc6Y+rMiWdi9MnJ42CaBXu79hIX0gc3wFXMT1zZSqYBTXEd0McBZRWquB+rYZpii5yVmvXZZ51GUITPexxr+kq5uEalqxg9rpOzsb63w==;uPr7EARb/NbumN7D0ilRgg=="
 ---

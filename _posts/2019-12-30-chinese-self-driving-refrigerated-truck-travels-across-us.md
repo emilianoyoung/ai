@@ -24,21 +24,6 @@ images:
     title: "Chinese self-driving, refrigerated truck travels across US"
 
 related:
-  - title: "Honda’s Self-Driving Concept Car Being Unveiled At CES Renews Feud Over Levels Of AI Autonomy"
-    excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
-    publishedDateTime: 2020-01-02T12:07:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/30/self-driving-concept-car-being-unveiled-at-ces-triggers-anew-the-feud-over-levels-of-ai-autonomy/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
-        width: 600
-        height: 315
   - title: "Self-Driving Concept Car Being Unveiled At CES Triggers Anew The Feud Over Levels Of AI Autonomy"
     excerpt: "There is a similar type of debate in the self-driving car industry regarding how many levels of autonomy can be best delineated. Currently, the existing standard that is accepted by-and-large by self-driving car pros is that there are six levels of autonomy, which have been defined and promulgated by the Society of Automotive Engineers (SAE ..."
     publishedDateTime: 2019-12-30T14:49:00Z
@@ -54,66 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
-  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
-    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
-    publishedDateTime: 2020-01-02T13:48:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+  - title: "Great Scott! Back to the Future needed this self-driving DeLorean"
+    excerpt: "It isn’t just a Back to the Future stunt. Marty McFly’s namesake ride could be the breakthrough we’re looking for when it comes to the safety factor of self-driving cars. “We’re trying to develop automated vehicles that can handle emergency maneuvers or slippery surfaces like ice or snow,” Stanford University mechanical engineer ..."
+    publishedDateTime: 2019-12-26T03:36:00Z
+    sourceUrl: https://www.syfy.com/syfywire/self-driving-delorean
+    ampUrl: https://www.syfy.com/syfywire/self-driving-delorean?amp
+    cdnAmpUrl: https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/self-driving-delorean?amp
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
-        width: 700
-        height: 366
-  - title: "Table-waiting robot CAT unveiled at CES 2020 that can miaow at restaurant customers"
-    excerpt: "Scroll down for video BellaBot — which can navigate around obstacles and its fellow robots — is the brainchild of the Chinese robotics and artificial intelligence firm PuduTech. It features four shelves in the centre of its tower-like body to carry plates. Having been loaded up with meals by its human colleagues, the cat-themed ..."
-    publishedDateTime: 2020-01-06T11:18:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7856189/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7856189/amp/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7856189/amp/Table-waiting-robot-CAT-unveiled-CES-2020-miaow-restaurant-customers.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.7D498D70695C902821F82115539CFC3A
-        width: 636
-        height: 382
-  - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
-    excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
-    publishedDateTime: 2020-01-02T17:44:00Z
-    sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
-    ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Syfy
+      domain: syfy.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
+      - url: https://www.bing.com/th?id=ON.B7E0E5E938A9A7F3E8CFB6FFFCEEDF6D
         width: 700
-        height: 233
-  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
-    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
-    publishedDateTime: 2020-01-03T04:00:00Z
-    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
-        width: 700
-        height: 393
+        height: 396
   - title: "U.S. talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co on the automaker’s petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
     publishedDateTime: 2019-12-28T10:49:00Z
@@ -155,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2D464A2FA762D8540DCB772135C0407C
         width: 700
         height: 393
+  - title: "Uber Buys Parcel Near Pittsburgh For Self-Driving Track"
+    excerpt: "Uber is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud has confirmed the purchase to the Pittsburgh Tribune-Review but says she can’t yet share details of the plan. The San Francisco ride-hailing giant bought the ..."
+    publishedDateTime: 2019-12-30T15:48:00Z
+    sourceUrl: https://www.wesa.fm/post/uber-buys-parcel-near-pittsburgh-self-driving-track
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.25F3FBA30E1C8827DF8EF206AA9612FD
+        width: 700
+        height: 466
   - title: "Engineers redesign a 1981 DeLorean with self-driving and drifting capabilities"
     excerpt: "Stanford engineers have redesigned an iconic 1981 DeLorean with a futuristic feature that Dr. Emmett Brown didn’t think of –self-driving capabilities. The vehicle, referred to as MARTY, has been converted into an all-electric, self-driving machine that boasts custom suspension and onboard computers. The team designed the vintage car to also ..."
     publishedDateTime: 2019-12-28T00:56:00Z

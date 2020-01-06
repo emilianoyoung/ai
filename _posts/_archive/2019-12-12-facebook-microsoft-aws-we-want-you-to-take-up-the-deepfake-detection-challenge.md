@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Facebook, Microsoft, AWS: We want you to take up the deepfake detection challenge"
-excerpt: "Facebook has announced the launch of the Deepfake Detection Challenge, an effort backed by several universities, AWS, and Microsoft. The organizations announced the challenge in September, committing $10m in grants and rewards for research that could help create detection systems for AI-generated deepfake videos. Facebook said at the time ..."
+excerpt: "The organizations announced the challenge in September, committing $10m in grants and rewards for research that could help create detection systems for AI-generated deepfake videos. Facebook said at the time it would help create a dataset of deepfake ..."
 publishedDateTime: 2019-12-12T13:41:00Z
 sourceUrl: https://www.zdnet.com/article/facebook-microsoft-aws-we-want-you-to-take-up-the-deepfake-detection-challenge/
 ampUrl: https://www.zdnet.com/google-amp/article/facebook-microsoft-aws-we-want-you-to-take-up-the-deepfake-detection-challenge/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-microsoft-aws-we-want-you-to-take-up-the-deepfake-detection-challenge/
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: ZDNet
@@ -23,27 +23,6 @@ topics:
   - AI
   - Facebook AI
 
-images:
-  - url: https://www.bing.com/th?id=ON.FE032007284DC4E0B3071E06F8E10AA6
-    width: 700
-    height: 525
-    title: "Facebook, Microsoft, AWS: We want you to take up the deepfake detection challenge"
-
-related:
-  - title: "Microsoft Joins Facebook’s Deepfake Detection Challenge"
-    excerpt: "While the organizations originally announced the challenge back in September, Facebook has now provided a data set to build research on deepfakes. The Deepfake Detection Challenge involves $10 million in grants and rewards. With grant money, researchers can develop detection systems for AI deepfake videos. Facebook’s dataset includes 100,000 ..."
-    publishedDateTime: 2019-12-13T16:51:00Z
-    sourceUrl: https://winbuzzer.com/2019/12/13/microsoft-joins-facebooks-deepfake-detection-challenge-xcxwbn/
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.FF07251C779C539AC5C1183EAFAAF17C
-        width: 700
-        height: 393
-
-secured: "maij73wNbuuUxKf5UIvHPXcgQYvVAdRMf32klTbxUszY3xC8nXcl4+e+PwktVWrG31BdXmYX+eBY0MuN2vi8T1Sjn3DdOM1lfMwczyBV/FOUuzlqtwf7f3StfY5kkXk1W2eq7TkWzM3k4hrje/w2usoTNL90XV4jl6tTQO4gDwEs0LiB3gPZoVPq2TrXVfJTbxfIY5iFW0VU/ZstAO7Px2nSMBFJFGctYN1PqB8QGiL/md9V+MTSQ7RBo0E72nIQLykLnuFI6g86Ese92PU60A==;hFAg4GJwFsKalXTYDC4KkA=="
+secured: "4gOR5gEu8nKTZLsiKBMVh/jhcVEhd0Id7pOjX1BsyeruNLfSmAnNg4vhdPN2RechptNveuTK+muzeOtEaMZH6NGB/kIaRUqb+fjyHOoExGJ4Mu80ffIE4oiGNTsKePxVC7w/0Fe3xmih9H4O5eR47LutVXWwBDyNVYCiUJ0RcjBHyEYA1nVKR9cWD01umFjyGeiljKfhdF0UyWTxdWFmHW+HVO5X9RO60di9wIN7+NQsgjNlUkw9gqMUeRNtszcZLohYLgAH/JBT3bs2wtiK7A==;oVrxVTguBHIYIMvvgrmVXw=="
 ---
 

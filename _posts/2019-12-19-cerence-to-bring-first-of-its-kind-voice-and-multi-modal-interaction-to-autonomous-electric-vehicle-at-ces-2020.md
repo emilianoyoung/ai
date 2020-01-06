@@ -22,21 +22,32 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Oto snags $5.3M seed to use AI to understand voice intonation"
-    excerpt: "Oto, a startup spun off from research at SRI International to help customer service operations understand voice intonation, announced a $5.3 million seed round today. Participants in the round included Firstminute Capital, Fusion Fund, Interlace Ventures, SAP.iO and SRI International . The total includes a previous $1 million seed round ..."
-    publishedDateTime: 2019-12-17T15:14:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/
-    ampUrl: https://techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/oto-snags-5-3m-seed-to-use-ai-to-understand-voice-intonation/amp/
+  - title: "Luminance and Omnius are bringing AI to legacy industries"
+    excerpt: "The companies’ founders, Emily Foges and Sofie Quidenus-Wahlforss, spoke with great insight on this on stage at Disrupt Berlin. Luminance uses AI and natural language processing to help law firms process documents more quickly, not replacing the lawyer but providing additional intelligence and analysis of what may be hundreds or thousands of ..."
+    publishedDateTime: 2019-12-21T17:51:00Z
+    sourceUrl: https://techcrunch.com/2019/12/21/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.CD442411B56928EB5B28447FF20D6635
-        width: 599
-        height: 399
+      - url: https://www.bing.com/th?id=ON.3E2B5984655C8E72A8B0BC1BF0A09232
+        width: 602
+        height: 400
+  - title: "Why China's AI players are struggling to evolve beyond surveillance"
+    excerpt: "Cases like this show the progress China has made in protecting consumer data and privacy, according to Yi Zeng, head of AI ethics and safety at the Chinese Academy of Sciences. He added that a stipulation on \"the proper use of citizens' data\" was also written into China's national AI strategy. However, while the Chinese private sector is under ..."
+    publishedDateTime: 2019-12-18T06:07:00Z
+    sourceUrl: https://asia.nikkei.com/Spotlight/Cover-Story/Why-China-s-AI-players-are-struggling-to-evolve-beyond-surveillance
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F8%2F5%2F9%2F23999582-4-eng-GB%2F20191219-CHINA-AI-Main.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
+        width: 1024
+        height: 512
 
 secured: "6Z5LmIq7cKfJ28xuc17YCiywmH1yiKLGWTOOz6NPJC/9eGolTvmHfCPxJjlXgszstlduS4vht+o6/eo0ZxynO+Wmr2drNpehQ9RabUIC+hd3NdZxmzt/Pe0LHV5lml8eUFj1RDyMuP3wboAkM5Tpq3yEMq6ecNPH/ByWzjJdmexp2ftYNtCIlzWniCjFfJyvDMw2i4KvhRh3Kp/feuIXVh+XMMk4Qm73taH6N3jS6YGZV7Uc6gWDLxobMnM/kgWCJMisPE8G+JIwCjbMe28JhQ==;jSomP9O9Bq+HhrH7mt5FIw=="
 ---

@@ -8,8 +8,8 @@ ampUrl: https://finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-1700
 cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/jewelers-mutual-teams-h2o-ai-170000852.html
 type: article
 quality: 51
-heat: 61
-published: true
+heat: 51
+published: false
 
 provider:
   name: YAHOO!
@@ -25,21 +25,6 @@ images:
     width: 400
     height: 400
     title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
-
-related:
-  - title: "Jewelers Mutual Teams with H2O.ai to Drive AI Innovation in the Jewelry Insurance Business"
-    excerpt: "Dec. 17, 2019 /PRNewswire/ -- H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced ... Jewelers Mutual is using H2O-3 open source and H2O Driverless AI to deliver exceptional customer experiences, prevent losses, and provide better protection and policies for both jewelers and customers."
-    publishedDateTime: 2019-12-17T16:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/jewelers-mutual-teams-with-h2oai-to-drive-ai-innovation-in-the-jewelry-insurance-business-300976217.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.AF677FDFAB5223D9162073F0FA0E1714
-        width: 700
-        height: 366
 
 secured: "ZEP+68xcnRz5KYNx9EAOs6th90yPMmDoK/tBZR4uSeIZZ9WUBXUskj/ojDROLz6JSmutuJ8lOZipPlsCXISUL77l4joaV4m6sulLadRAuGSd3LqraRElJI6UhjH31sE92SUq7qXf96+h65vcpjv3tIP+YnlkIQYXL34zTApPgrWJDa/F1vgjlYwHKhSOYqqN8YvrigG8nfKIqJFV8IB5YOrHY120EPypxhd3+u6MT55sZsyigzVLgsIlh3ZycBatm84WBJqzJ7LS7l79J4o6Nw==;4WREmGBho6RDyIhZg05TDw=="
 ---

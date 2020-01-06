@@ -8,7 +8,7 @@ ampUrl: https://thefutureofthings.com/13914-how-ai-could-dramatically-improve-yo
 cdnAmpUrl: https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/amp/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
         width: 700
         height: 466
+  - title: "15 things to know about Amazon's healthcare strategy heading into 2020"
+    excerpt: "He also reported the company aims to use the cloud and artificial intelligence to improve healthcare. 3. In March, Amazon made a $2 million investment in Boston-based Beth Israel Deaconess Medical Center to test artificial intelligence tools. The two have partnered since 2016 when Beth Israel bought AWS's cloud software and reported significant ..."
+    publishedDateTime: 2020-01-06T16:24:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/15-things-to-know-about-amazon-s-healthcare-strategy-heading-into-2020.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
+        width: 400
+        height: 300
 
 secured: "/m6+WZ/SVlyptcK3kwvX1TjtbeuIi24+aI3Nqbz2IOjJ8IEOS44lyQJQIMw/tJLN08IsmWCE2vh7U5ExB4HE9QIClG+a88BfMRjZki7ttcvjOjchQQNInAIg5xreG0PnKhLif4BCk0C+gQOQPbqn3sSSVsrDI0sRUE6TkioYNaMehwthRyFXwrH0e0Zbw0NRY0STHozT8GjhuP1u3k3c9BdM9AdVraRpv/2O4Lt8+ryKs0H2DjMAlWTbdrpWgzmPRDY4wwxXccxpIWRFjC1dPw==;mbxRnpTN68rVfz/18BHYcQ=="
 ---

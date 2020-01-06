@@ -45,21 +45,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "Why eBay believes in open-sourcing Krylov, its AI platform"
-    excerpt: "It’s a multi-tenant, cloud-based platform that involves technologies like computer vision and natural language processing (NLP); techniques including distributed training and hyper-parameter tuning; and tools germane to eBay’s services like merchandising recommendations, buyer personalization, seller price guidance, and shipping estimates."
-    publishedDateTime: 2019-12-17T15:42:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/
-    ampUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2016/07/eBay-sign-Mike-Knell-Flickr.jpg?fit=3580%2C1979&amp;strip=all
-        width: 3580
-        height: 1979
   - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
     excerpt: "Nvidia is looking to extend its lead as an AI company by improving its image recognition, language recognition, and decision-making platforms, as well as a new chip for autonomous vehicles. The GPU Technology Conference is one of the biggest conferences around AI each year. At the ongoing GTC 2019 China, Nvidia held a keynote to emphasize the ..."
     publishedDateTime: 2019-12-18T07:28:00Z

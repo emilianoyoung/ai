@@ -119,19 +119,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
-    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
-    publishedDateTime: 2019-12-17T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
-        width: 635
-        height: 400
   - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
     excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
     publishedDateTime: 2019-12-20T02:01:00Z
@@ -180,16 +167,7 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
         width: 1200
         height: 630
-  - title: "Intel Acquires Artificial Intelligence, ML Chip Specialist Habana Labs"
-    excerpt: "Intel acquires Habana Labs, an artificial intelligence and machine learning (AI and ML) chipmaker in Israel ... Intel faces potential competition and market disruptions as massive cloud customers like Microsoft Azure, Amazon Web Services and Facebook explore ways to leverage their own home-grown technologies or third-party processor technology ..."
-    publishedDateTime: 2019-12-17T15:45:00Z
-    sourceUrl: https://www.channele2e.com/business/enterprise/intel-buys-habana-labs/
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
 
-secured: "kPhAstorUPwctjPXClSIbCJ/CfTrGIbVfF+GbhzalTz3spQPWm+b4LAisQLHVLMtvr4XGGJoLNsIEkAWN5z7OJIcz/FfFI5a9J0xJa0t5nuuwvTY4VvEWh/m0TzS/OlRVkwHtq1k1ewVH0PeE8VZW9heBdT1fXDxzFBLoC4PCxC/I1Vg3u6skq4FdU7OSgBUt+TtPbpiL8drp0srTqwvJ7G3G6sl9WX+3vMQ+iN5XeL/M2eVPdJ9zecGB7FjUTINdC6fQwy/u+qd6TewWhCzlQ==;LvJdVKNIt1uSMB0m3i32XA=="
+secured: "N2KID5LPYrI1vIjovE9ep1h8LW7fUsmZbYYphr9+R1eqoGarurANKXHF8rU6ji2r6PkudIyFtzjvf2klR1IZmpiiuGW4cb5GxhijT1al+/fVFuJnbMqAkOgWpZ5GFBgzY114w9G4LsLVKovZRG2YKFYa+HR8osGX7Zi6ndF02wKXusuxOoYty0K4iNTxixBjKp/3z2VKBchsMiQX11Oyp4JpC0aORH96hfrCo4kzj6qOXW3yq1YejTwVJhY5puz4z444QXZTsGrz2Zqippt1Aw==;qVOUZJmYm0ljwMZ3te7BWA=="
 ---
 

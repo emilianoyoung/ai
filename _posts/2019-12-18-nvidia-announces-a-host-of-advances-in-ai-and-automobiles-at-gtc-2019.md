@@ -40,21 +40,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "Why eBay believes in open-sourcing Krylov, its AI platform"
-    excerpt: "It’s a multi-tenant, cloud-based platform that involves technologies like computer vision and natural language processing (NLP); techniques including distributed training and hyper-parameter tuning; and tools germane to eBay’s services like merchandising recommendations, buyer personalization, seller price guidance, and shipping estimates."
-    publishedDateTime: 2019-12-17T15:42:00Z
-    sourceUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/
-    ampUrl: https://venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/why-ebay-believes-in-open-sourcing-krylov-its-ai-platform/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2016/07/eBay-sign-Mike-Knell-Flickr.jpg?fit=3580%2C1979&amp;strip=all
-        width: 3580
-        height: 1979
   - title: "Nvidia Announces New Orin Auto AI Processor"
     excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
     publishedDateTime: 2019-12-18T17:04:00Z

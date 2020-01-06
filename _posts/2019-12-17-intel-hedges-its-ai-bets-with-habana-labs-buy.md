@@ -112,19 +112,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intel (INTC) Boosts AI Portfolio With Habana Labs Acquisition"
-    excerpt: "Intel INTC announced that it has completed the acquisition of Habana Labs — an Israel-based fabless semiconductor company that specializes in AI chip development. The deal, worth almost $2 billion is likely to aid bolstering Intel’s portfolio of AI Accelerators in its data center business. Per a report from Reuters, Habana has raised funds ..."
-    publishedDateTime: 2019-12-17T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/intel-intc-boosts-ai-portfolio-141202127.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.ABFD42A37E5136680F97FC2ACFF91AEA
-        width: 635
-        height: 400
   - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
     excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
     publishedDateTime: 2019-12-20T02:01:00Z
@@ -173,15 +160,6 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
         width: 1200
         height: 630
-  - title: "Intel Acquires Artificial Intelligence, ML Chip Specialist Habana Labs"
-    excerpt: "Intel acquires Habana Labs, an artificial intelligence and machine learning (AI and ML) chipmaker in Israel ... Intel faces potential competition and market disruptions as massive cloud customers like Microsoft Azure, Amazon Web Services and Facebook explore ways to leverage their own home-grown technologies or third-party processor technology ..."
-    publishedDateTime: 2019-12-17T15:45:00Z
-    sourceUrl: https://www.channele2e.com/business/enterprise/intel-buys-habana-labs/
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 19
   - title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
     excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
     publishedDateTime: 2019-12-23T08:43:00Z

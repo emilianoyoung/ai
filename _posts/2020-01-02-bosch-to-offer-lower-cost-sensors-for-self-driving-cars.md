@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Bosch to offer lower-cost sensors for self-driving cars"
-excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately held Bosch said the internally developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
-publishedDateTime: 2020-01-02T15:23:00Z
-sourceUrl: https://europe.autonews.com/automakers/bosch-offer-lower-cost-sensors-self-driving-cars
+excerpt: "German auto supplier Robert Bosch said it developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the CES in Las Vegas next week ..."
+publishedDateTime: 2020-01-02T15:03:00Z
+sourceUrl: https://www.autonews.com/ces/bosch-offer-lower-cost-sensors-self-driving-cars
 type: article
 quality: 24
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.AF3F93ACC38BE79CF6038D80599602DC
+  - url: https://www.bing.com/th?id=ON.A7B72EBC4C8AE1E3782989DBB36940FA
     width: 700
     height: 525
     title: "Bosch to offer lower-cost sensors for self-driving cars"
@@ -410,25 +410,7 @@ related:
       name: Seattle Daily Journal of Commerce
       domain: djc.com
     quality: 4
-  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-    publishedDateTime: 2020-01-05T15:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-    publishedDateTime: 2020-01-06T00:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "4Ly51wnP0fGwIy9DOka9z+FdbvOT02MAuXtcPD353hqLKcRRL/P30BO0QNj/AQrcWIM4n+v6Tox7jdaOrctoFyAnYfONs78CUIWd7GQ16U+7BPSjPJd/CBRyfdO+FfnsfYnc7AcckbL98PNOplNIwkbh63E2IKEFkal1yp0uCDjTzpB6snr8g3KliK8pLwq77tHhxgois00amV6rokFtrjK53kBXK4cESkuolpzEnUokmM5eXRZV8PfGO38adQZJU+WLJAswvLFdvcJJyqvf/g==;2NiLaJ3cj56v9XS5tghL7Q=="
+secured: "8TSMF5EcL2PYfBhxQ5dtpvXd1ubCrz8y168J86qFU1xGL0oDTz50eRRpELALpr/sylDRro8FDNqbw2Z+ap/4+dJjB17HqhK1AlQMCngZBPu1Q+/L6bGrsRGjThz0pjmvVOgezlq0prusWCJ8QP/SuEnGnX5TkaGIHHmCmT2eQd4mH0emdPYIfVqmnlMlFSRTWLUeWK9CtofDaiL6UJRmrC95IxhytGq/yMlBy6OTo6CdchV5OLX4HjFdDwddFbXkd9fwZlBPKYEwsyfVm1LejA==;GwIDw3SOiJBwQlKec/AsSA=="
 ---
 

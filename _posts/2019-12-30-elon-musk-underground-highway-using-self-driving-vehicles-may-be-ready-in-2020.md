@@ -25,21 +25,6 @@ images:
     height: 365
     title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
 
-related:
-  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
-    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
-    publishedDateTime: 2020-01-03T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
-        width: 635
-        height: 400
-
 secured: "jmP1MHOKLMG7Xfzax+P5J3MQlKJ3Y5Rn8LuE+cOYaSmtaanqzE6zQEbToaOD3vSA2t9Lcb2rBwtzYdRJS4Of9WiCB84Y3ulmIrZ49Pi8yPz50byw98Y+pLn5VunWdrZpsqTUnpKqLUfsfbB8AmCvof3RYYC9q/v6P3Zlxah2Kft+mzAo51NqyOTjGu/HoAAZJocHwyUcTBhWXJ4Fl61ANknvIxNNTM65K7RjXbZR0OQ64sa530EC9slT+iVyhKD92C/EvMFb9JnAYD/pkoVi3A==;e1pnhFTCQsjgb6kV+tE2sw=="
 ---
 

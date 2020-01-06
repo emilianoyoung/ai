@@ -24,47 +24,34 @@ images:
     title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
-  - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
-    excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
-    publishedDateTime: 2020-01-06T15:57:00Z
-    sourceUrl: https://finance.yahoo.com/news/yandex-ante-self-driving-demonstrations-130201069.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/yandex-ante-self-driving-demonstrations-130201069.html
+  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
+    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
+    publishedDateTime: 2020-01-03T04:00:00Z
+    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
+        width: 700
+        height: 393
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 59
+    quality: 24
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/1mxmv6tPCtJzA5hXpHp7og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/8U8IJw2s1hwNkJ.7fSivPw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cd9ed8cf63fa5a7bc41c5e977c67cccb
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
         width: 635
         height: 400
-  - title: "Taking AI to the edge with HCI"
-    excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
-    publishedDateTime: 2020-01-02T09:46:00Z
-    sourceUrl: https://www.datacenterdynamics.com/opinions/taking-ai-edge-hci/
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
-        width: 580
-        height: 305
-  - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
-    excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
-    publishedDateTime: 2019-12-31T08:09:00Z
-    sourceUrl: https://inews.co.uk/news/technology/tech-in-2020-predictions-analysis-elon-musk-tesla-self-driving-cars-5g-playstation-5-1352167
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 16
-    images:
-      - url: https://www.bing.com/th?id=ON.D53B1FDA7388E179F26C13E4763E704E
-        width: 700
-        height: 490
 
 secured: "+Dd8nk2ZtFJ4m/atUkHreGh8TRnAt4ePIDL7F9c0tlZltoqkCTk4STRIQrSEj5+7YPImRH40evhH/4/32G6+0DtLdSM0tWWHOyPJJsqOvetuXamKXcDWC0dSAhctfVdjON3tyMDY13DhLDZgvjb1BpFefATB1zWZ1mLzc276t6p4atGY85jjGz0H6TlYZJvdvq5W08oQ4GxRAPZn7+P0MMdX8Y4iBQroiIOLcLjokM3L6+s+Okv0bspwfCfTTLP8IfilOg8pFk+FWhXsT9BIew==;+cjIaiiYLtwVP30sfvGyCQ=="
 ---

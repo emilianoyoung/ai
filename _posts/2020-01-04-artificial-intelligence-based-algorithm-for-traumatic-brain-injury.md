@@ -8,7 +8,7 @@ ampUrl: https://ifpnews.com/artificial-intelligence-based-algorithm-for-traumati
 cdnAmpUrl: https://ifpnews-com.cdn.ampproject.org/c/s/ifpnews.com/artificial-intelligence-based-algorithm-for-traumatic-brain-injury/amp
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 686
     height: 441
     title: "Artificial Intelligence-Based Algorithm for Traumatic Brain Injury"
+
+related:
+  - title: "New Laser-Based Imaging System & Artificial Intelligence Algorithm, Used in Conjunction, Accurately Identify Brain Tumors"
+    excerpt: "To build the artificial intelligence tool used in the study, researchers trained a deep convolutional neural network (CNN) with more than 2.5 million samples from 415 patients to classify tissue into 13 histologic categories that represent the most common brain tumors, including malignant glioma, lymphoma, metastatic tumors, and meningioma."
+    publishedDateTime: 2020-01-06T15:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/new-laser-based-imaging-system--artificial-intelligence-algorithm-used-in-conjunction--accurately-identify-brain-tumors-300981059.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.1B5AE976C32097F26ECA8CF71E772AB6
+        width: 700
+        height: 366
 
 secured: "yABWhInbjiNl8GjK3pA4Budu9YHN8Fpfzv5UQQhrFUDdT1olAyTU6THPf77jKetHVgdJ3g/3clxd4MwUk9Lq6tVQj6j+KT04Q4Eh/TONPaSf121TzxjU+gNQsDFSRfnLCQYXxqogGaEOQiTrxSPyqRq/ErTEZ+F1DOlkO6JQgT5J/9ocM0iAVg3G5xR6YjKex1ecmjSYeMM/XnmCyqff9Y1UbV/OdBVsC0SXwAvoPYNrSKrpYp8dC9tkNiqnRhaqi3/uQ1KJlzb6PUmGZ482zQ==;rBCOVtBSairI1zGqEKJylA=="
 ---

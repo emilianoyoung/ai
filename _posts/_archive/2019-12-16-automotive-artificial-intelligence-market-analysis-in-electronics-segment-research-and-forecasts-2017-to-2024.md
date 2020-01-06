@@ -23,17 +23,6 @@ images:
     height: 300
     title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
-related:
-  - title: "Artificial Intelligence (AI) Solutions and Market Opportunities to 2024: A Comprehensive 10-Report Research Bundle"
-    excerpt: "This is the most comprehensive research available covering artificial intelligence in telecommunications ... securing public facility and personnel, financial trading, healthcare solution, highly personalized target marketing, detecting fraud, recommendation engines, autonomous vehicles and smart mobility, online search, and many other areas."
-    publishedDateTime: 2019-12-17T15:53:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/17/1961705/0/en/Artificial-Intelligence-AI-Solutions-and-Market-Opportunities-to-2024-A-Comprehensive-10-Report-Research-Bundle.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 16
-
-secured: "lCp8kjdFDpfADHT1Ze0EION8jf+UxjRKWKioc1ECgxldRZYa2+W69tLOyEIU1iRmYCKVf1yOZP00XKnR/LUo8FizU+eRIKHLTv25vNrY7b8rs8mM9FnuwycwQv45YPEKmku0R4GzHTCnlI0IjPNJ6tdU0UekLZOizSdnMkpTl31Dar/+K94jy5StEkjVVRge2cn8V1b1fNnBUGCqguQIIMx4c5bLySM4YBRDqhhVQr/svsSHHank2i4mL4/B9vR7/KHVIBaUF4dpqxtUcdd7FA==;IQRdxCJJRCn6FxEt0Nxjcg=="
+secured: "KFFHThWO77yKetKXhGJ4HylfDhcn1XHNzfGYfXYxMONrcX8lo1CjfNXagsH/oy3GDB0bRACGP8L2YT611U2DrKTYWvNeMBFiVBtYGO0MKteyPN03sx1gHUmxFEcjfwYEfxACNk8PH9YVx0dBUfsIMaVzqr8ovE+M7JbQqLXgCVt9Bmu5+b2oFtj5gNn2Uj5qI4WNbWUEry5zdRvauOorHakuvJwg+0/EX3KeTsxMN4WqjJrHx0zCQByCj2ecQiLUWFzWDmwVFU1Lc/RNRi3DXw==;GhfLghevYWKOE3MLMgn7HA=="
 ---
 

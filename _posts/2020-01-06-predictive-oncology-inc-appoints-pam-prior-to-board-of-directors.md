@@ -2,25 +2,23 @@
 category: news
 title: "Predictive Oncology Inc. Appoints Pam Prior to Board of Directors"
 excerpt: "Helomics applies artificial intelligence to its rich data gathered from patient tumors to both personalize ... by providing an evidence-based roadmap for therapy. In addition to its proprietary precision oncology platform, Helomics offers boutique CRO services that leverage its TruTumor™, patient-derived tumor models coupled to a wide range ..."
-publishedDateTime: 2020-01-06T13:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/predictive-oncology-inc-appoints-pam-prior-to-board-of-directors-1028796181
+publishedDateTime: 2020-01-06T14:41:00Z
+sourceUrl: https://finance.yahoo.com/news/predictive-oncology-inc-appoints-pam-140010226.html
+ampUrl: https://finance.yahoo.com/amphtml/news/predictive-oncology-inc-appoints-pam-140010226.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/predictive-oncology-inc-appoints-pam-140010226.html
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "anUtMJoWPRLggsw7pUhdxBxcoPLLoYZMC37vMO1QEwbzUhjGIaQFzw7Lp1x1LFvpQtNpWvV8XevGb0Z8bCZfvX9TjCoCBjjEatrX391T6yqzV+MZRDGrMXv9rxcXLM2art5i8U3SsDoPffPm+dW1HMInIQnmeXx2cE0/x9VRWuLdWZIolwwfmFrPoVdI2zFevqw9/eiv9olwP3JOm0SIQBKKS6iOR9NntMVR6sW2iF3LMRAPpdkSRnRskOoy0LacrXQHaB1TUljWxydGC66JKg==;olpe6ZFC73NlvGwse7jrlg=="
+secured: "jo8dYgGg2hHVAEajcU50QJHKvkLXXtCuocdBKziFCQUcSuvYqe+2ZNBi2fkGeWc14nxE0skMMrEvLuGD5CpT4e6ZZ+VluGLyckAv9CJmY9CswdAJyUHY8MT8Dw3XTjhQn7EY0TgK46qS8nU3Q/d+6z4shwdYZ0vfrcVo5saDDswD+hjiGtC/IaMVTdaAjqi2dD25W5l1dVqiw+2k2pk7X8ypVrXE0aPL5mO5Q0FPenkUPWxtui9YBeql3NkloRAqr6+HEkSEUB5szvdQ3OQWrQ==;zfDsqY1EWtEGE4o4SBp/qw=="
 ---
 
