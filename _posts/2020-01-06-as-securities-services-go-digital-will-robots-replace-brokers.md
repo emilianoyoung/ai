@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.345D35FDE5A1FB844B68FF4F5F0C6720
         width: 700
         height: 366
+  - title: "Fintech startup MioTech closes Series A+ funding round led by Horizons Ventures"
+    excerpt: "MioTech, a Hong Kong-based provider of financial data and analytics leveraging the capabilities of AI, today announces that it has closed its Series A+ funding round led by Li Ka-shing’s investment company Horizons Ventures. This is a companion discussion topic for the original entry at https://financefeeds.com/fintech-startup-miotech-closes ..."
+    publishedDateTime: 2020-01-06T08:18:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/fintech-startup-miotech-closes-series-a-funding-round-led-by-horizons-ventures/222028
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 20
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "kCN1LuLX8CITZ1YkRwOCgbrzx7B+iTWy4j39/+3k2dfnMVlPSqhEj32XUbSjeIHttiesh8QbeDy2cVoo5TA+8+wVaRb45+862I2FymNoB7Pvp7iUrzgqBtvCnrWSLvJy0gKauT5ZvdYwlpum49ZiHFnGfrEXbbYuKxKYsTXXcT8p3jk7Y/Eh30PF57TnF6OsMKemUxt0YnJzXLG/eix5exP4nvzbHt6dU4Oci6FZ7oDIgNDK/Nadx014NC6BwxH0fD+GPx361PhjK9p8d1dcCg==;YnGQmCm+3ClT5SMuDxUFeQ=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
-publishedDateTime: 2020-01-02T18:00:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
+excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
+publishedDateTime: 2020-01-02T19:25:00Z
+sourceUrl: https://www.oaoa.com/news/business/article_c7a4aee5-9503-59f4-8ff0-64d23caa2479.html
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.675CCCB63BD23B8051BD242965EE03A6
+  - url: https://www.bing.com/th?id=ON.26787288CA51D2F3B31505AEF86117C6
     width: 700
-    height: 365
+    height: 393
     title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
 
 related:
@@ -68,6 +68,6 @@ related:
         width: 700
         height: 457
 
-secured: "9ctqYp1O31ovaQlkBgO+0IleM2kWcy6iNqyWpUPpX1U+4erD0L5Dv4i1WtUxoQZ2feWD5g52oUEXx5WMqEZ2UmAgSfQELcM/II95FzFnbkfaSQXf/ItqvE9NVh9Un3tG8QH1xY9KTL/2s78cjDM4Ia+Re7hmwl6EmTgE1us/DwgKiPctZrUdpshzW0X17HqaIFmm1ala5WQlRRpGcG9fDyniwwLj0q/RJMbJmr83Dg1v2/SeCzmQC4ufQUvFGGz/QGMvhNbcq43jsy75bfVm0A==;syWHQL8aQ0Ijvl/5b1rTOw=="
+secured: "K9FBAt6mTSejG2mYnXDGY+8k1JxxPxskUECDPlaPLPQ67/QxaRTZB9bvhmIXasuHpRMD9uAzWl8nrZK77uRyWSmDJEpef7NCigT2O6shRwmoxiCiqKS2jlUsNrsMLezcuWI9mABfvTHpwC6yICtvmL0U28CAgspx6uxraD1v6jBBa7d6CE0uNro/ci1Fhvnkn8nRcHwZPwKDUkOFKYuf/AGRuICOHpmqIKDdXbsvqrDRt7OZ7+cl4wD6+ST0ldNL9pAfpz8P356bhlLEdorJ+g==;Zg3yjV8stf2nmFWW5MQwhA=="
 ---
 

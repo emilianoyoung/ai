@@ -36,6 +36,6 @@ related:
       domain: telegraph.co.uk
     quality: 33
 
-secured: "5DxSPimtPRjhDti131AMpn6dxlE3AMEh25em3BG9Ujlem1tW54ZEvhnX8wWJe3SjQjwEvE6GALjgaboaYIfl+KrgtnZCaThiL8Eqn0yi0oN3lshAEHgg1FfYXZnNMDPB47ymEcq8aHhrUHd0vd69he4rVrUcSa+K2PUoDxnDak157vxKcbsJDkSGpApQwwDRPEBJppi0F8bNLozkesmD+vivBDKwL6NyMhpL8Y30o8Sl9w3Tq97p28TxN4UXIka0opQ7bPFPWJN9c+oo551pYw==;kTo9awNITu8u9G71iQj42Q=="
+secured: "1RnJ7ED8dgigR6x+X7qe4tAKBCzN9VQMuAZ4yDYB/k9bvSM6prjLOKE1W3cfUXJFQdvYbdqDdWzicxFoUDRE+hO8NvVpIpSxrYMlR/Nz7SSPKUF54IaONeWrpwDWAKwv3mjCQUs5XFQHha0wdsSuIoErH/rak83M1ePfSfKO0yulVkWSL7Sss6+LX3bpKpvRhQCBMwS0fpKseaS02YOb6WHCQH07oMBGJEGoLbWpy+qCi0B9ApNj43D8nTTnHgIlHTDqbx494ZZamGk+g5DGeQ==;mzP9R9Bg7bDmt97cYqkc3Q=="
 ---
 

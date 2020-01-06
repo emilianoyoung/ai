@@ -20,15 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
-    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
-    publishedDateTime: 2019-12-17T08:02:00Z
-    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Why this Dallas company launched an index focused on health care technology"
     excerpt: "Precision medicine includes companies that provide custom therapy solutions based on a person’s genetic content, environment and other key factors. ROBO's best performing subsector includes companies that are dealing with logistics automation, which use artificial intelligence to make goods faster and cheaper and has helped the boom of the e ..."
     publishedDateTime: 2019-12-17T13:12:00Z

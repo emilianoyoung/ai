@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T19:27:00Z
 sourceUrl: https://www.therobotreport.com/trifo-raises-series-b-funding-announces-lucy-robot-vacuum/
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8E00A1F8A1FA3036AEF458F46919C6CC
         width: 480
         height: 339
+  - title: "Fintech startup MioTech closes Series A+ funding round led by Horizons Ventures"
+    excerpt: "MioTech, a Hong Kong-based provider of financial data and analytics leveraging the capabilities of AI, today announces that it has closed its Series A+ funding round led by Li Ka-shing’s investment company Horizons Ventures. This is a companion discussion topic for the original entry at https://financefeeds.com/fintech-startup-miotech-closes ..."
+    publishedDateTime: 2020-01-06T08:18:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/fintech-startup-miotech-closes-series-a-funding-round-led-by-horizons-ventures/222028
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 20
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
 
 secured: "Uq5DgDLqEVTrMfFxQ2t3CpdM6YEuOpasKw+3irK8XM8vf2TZtvm/MWuXWsSPXlohl2+tvHVYDuCm2a+jaZ+gQrLpVx3hhrHE48SoAUiF7rpYnnvVOARfTXiQAaqR/oerXiCXROokp3nPpQxFvnWr5RGZnANkvvXJ8/shFz2MQqyy/LAiJnxpPXaCiW//rz98z4qF20v1bjjmfNT01hgZ++TLPTKC48mGUsQY8sYZoF/AH+88j2aOd01N8bbUHb2slcl9rUflAYL4+2eULIQ+9A==;K9ZdN9czPZVDiu8kq7cm4w=="
 ---

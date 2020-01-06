@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -86,6 +86,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
+        width: 700
+        height: 490
 
 secured: "hynAAflamdH0W8tp40sY+jMnvPVeFuA+AfAl0VqfLd+Ta/PtNo/7KOgMrM0LXchDRnfWdjBIBv4OTBBvYW0oqtjAIvhE6n7AHQvfLaBXoI/fITznC2Yk9kNnHePXL7KkVv4mKzsWIUDtzX4CfI8FJIvvrMw9h9e/bF5WjWDqhuztiuWgDoif17A0dZP7ocbsQOHg75ev1chJKDf//JQKDURiSiny8Z3JETV2TWMi6zX6qESipo2KSu92fNc6b3hREGcMsrDYmkfh2Q3OEdrx3Q==;G5eqXJt6s1vUOc+4BPFXKg=="
 ---

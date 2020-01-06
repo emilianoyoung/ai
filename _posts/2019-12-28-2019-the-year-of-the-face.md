@@ -108,19 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7196AFEF04D13BE48B658F6A4F28ED83
         width: 700
         height: 373
-  - title: "Squirrel AI Learning Shines at the IEEE/IROS 2019 Conference: The Era of AI + Education has Arrived"
-    excerpt: "Speakers on the same stage also included Toshio Fukuda, General Chairman of IEEE2020, Founder of IROS, Kristen Grauman, AI Research Scientist of Facebook, Professor of Computer Science Department at the University of Texas at Austin, etc. At the conference, he shared with the top scholars all over the world the technical advantages and ..."
-    publishedDateTime: 2019-12-17T07:41:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-squirrel-ai-learning-shines-the-ieeeiros-2019-conference-/2019/12/17/9070510.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.C84582B39B93D85671E1890C65A462F4
-        width: 400
-        height: 300
 
 secured: "eG3zL5hsmnAWzq8IDZTEnvWuLEEQ7f2PN6k08SZwZYtz67HKlPcCJP7yTGGXBj08m5JqtWTWP5gJ6Ic/A+6DP8gE710dNgybTTjPBj1RYZ97sYoQPd3OfbaxgXCwSaFkRdbbgR/C5QmY0pbejvf3KOgdBE+y6GLZyB8IXyUmpSndriJUqGaGM8VRUALDKTiTIiuMB0/ppCL6f3UaKnNQ59Ps5uhhI1IgXCxCPBuSA1Z2/JIJ3Xc9mUDmhAx9Sw30QqFfcr/ra6ryJFdpFrzfNQ==;sLslvlW3oRAvMVVbU0Frpw=="
 ---

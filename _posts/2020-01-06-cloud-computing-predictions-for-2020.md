@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
-excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
-publishedDateTime: 2019-12-30T11:48:00Z
-sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
+title: "Cloud computing predictions for 2020"
+excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
+publishedDateTime: 2020-01-06T08:52:00Z
+sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
+ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
 type: article
-quality: 14
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
-    width: 685
-    height: 386
-    title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+  - Microsoft AI
 
 related:
   - title: "5 open source innovation predictions for the 2020s"
@@ -216,17 +212,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
         width: 700
         height: 363
-  - title: "Cloud computing predictions for 2020"
-    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
-    publishedDateTime: 2020-01-06T08:52:00Z
-    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+  - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
+    excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
+    publishedDateTime: 2019-12-30T11:48:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56776-2
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
+        width: 685
+        height: 386
   - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
     excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
     publishedDateTime: 2020-01-03T14:44:00Z
@@ -252,6 +250,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "eFccUVR3fI+fcj1tnNcj3OWqObFP2fw1qd0x06yMwObvyaSklvDCupiNLZzZQzlK6qJGXRJC0i1twW6LWFfOE3atvOXNGKqWTO1NQ5p4ei00Du5QKf50m6M3mpj6GNoSJEmF2JMsQtDhxVTQ7SRFqkC4jjiOdP7mdTIx3/WQn1ZDMWGNdDCvpLLHmJ6lgeqAeWFWyxyO0HPpl1qlVonU+zYwSbxpuI4AESBRAMN1WoyuB5t2XWjVEVUsTMeHvEO2XEQBfA2hsK0mpp8MLKjtrA==;1PBlzj0l+ZUaYnHp10zIIA=="
+secured: "PwjYZpVqL9SqmSZST7HVmAXkHtob0NPVj+hwY1LWsSZZei1Kx1MBSIjUlFcX2jm4G9CX8ONyyVp8/23+Hx8Y1VNYWnKTrlod3Hg97HGviw4Yw+Yn6Xw/5bfGjQCGbXle7mtt0IIVSCZOVjkdcR30wQSod4sftIcbD5qjxfa3HNefltSzuoXVhNfUldJGKizxPa1VxO3PQv+naaSzAoSdp9o35PEoYweZlxqI7tITQDTvPus2m+coiZu2HWTiUJfEiORxLPKNpujPoaUmvHfckw==;wLcM7GmtyhVSVe8Kl0uAAQ=="
 ---
 

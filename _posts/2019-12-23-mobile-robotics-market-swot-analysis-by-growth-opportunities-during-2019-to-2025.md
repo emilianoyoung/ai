@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T20:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
 type: article
 quality: 79
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Mobile Robotics Market SWOT analysis by Growth Opportunities during 2019 to 2025"
 
 related:
-  - title: "AI Platform Market to Witness an Outstanding Growth During 2018-2028"
-    excerpt: "Market Participants Examples of some of the market participants in the global AI platform market identified across the value chain include Microsoft Corporation, Google, Amazon Web Services, Infosys, Wipro, Premonition, Rainbird Technologies, Ayasdi, Inc., Mindmeld (Cisco Systems), Facebook, Vital AI, LLC, Kasisto, Receptiviti, Locl Interactive ..."
-    publishedDateTime: 2019-12-17T07:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-platform-market-to-witness-an-outstanding-growth-during-2018-2028-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (AI) Market Analysis, Evolving Opportunities Studied for the Period Until 2025"
     excerpt: "Particularly in healthcare, Artificial Intelligence (AI), is expected to bring revolutionary changes in terms of reduction in terms of healthcare cost reduction and quality treatment in the region. This report defines, describe, and forecast the overall market segmented on the basis of components, technologies, end-use industries, and regions."
     publishedDateTime: 2019-12-27T06:08:00Z

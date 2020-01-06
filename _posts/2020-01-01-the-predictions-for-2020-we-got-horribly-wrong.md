@@ -203,6 +203,17 @@ related:
       - url: https://www.bing.com/th?id=ON.2B8F14A2708571FB5A00AE6B89DA69A0
         width: 700
         height: 363
+  - title: "Cloud computing predictions for 2020"
+    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
+    publishedDateTime: 2020-01-06T08:52:00Z
+    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
+    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 24
   - title: "Design and Development of Lubricating Material Database and Research on Performance Prediction Method of Machine Learning"
     excerpt: "It further explores preliminarily the likely relationship between calculated physical parameters of lubricating oil and its respectively tribological and anti-oxidative performance as predicted by lubricant machine learning model. Success of the method facilitates in instructing the obtainment of optimal design, preparation and application for ..."
     publishedDateTime: 2019-12-30T11:48:00Z

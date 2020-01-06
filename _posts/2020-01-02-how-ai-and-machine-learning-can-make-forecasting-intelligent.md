@@ -82,6 +82,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
+        width: 700
+        height: 490
 
 secured: "AvbBbVtSFtCICizIpdcMvV5glyOy+AV+MLERZJZqIOqtMYHBbpRJ4XUT8lMfa41JuD9T2oaySDrz6tYZQAkMtOVMcw4F0vK8O1IMtmqzDEM4800BJAq/+GL7D+eZvNWNV1SQWLtCdCJtdf7iwoX+PPeirwnzvKkC5m71nrJ2uZP0aDY/00M3GMFU81m9l6eRiGpKIhCtRTuB7NuAZlcIHuI1ju5lTFwAWqC0egQNRQ9TgxajPaK4e1Kav/r23RMv6+JT1i+X44/cqyq63mBJQA==;zurEprwknS3Oqvn7ZOcsxQ=="
 ---

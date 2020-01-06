@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
         width: 700
         height: 381
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
     excerpt: "Why GM is developing technology for self-driving vehicles for the US military GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense. Check out this story on azcentral.com: https://www.usatoday.com/story/money/cars/2019/12/22/gm-military-vehicles-self ..."
     publishedDateTime: 2019-12-22T12:03:00Z

@@ -31,15 +31,6 @@ related:
       name: Business Insider India
       domain: businessinsider.in
     quality: 39
-  - title: "Artificial Intelligence (AI) In Healthcare Market: Pin-Point Analysis For Changing Competitive Dynamics"
-    excerpt: "therapy planning, Information retrieval and image interpretation. However, glitches in communication and technical infrastructure are amongst the barriers to the growth of AI in health care. According to Infoholic Research, the “Artificial Intelligence in Healthcare Market” is expected to reach $ 1,139.2 million by 2022, growing at a CAGR ..."
-    publishedDateTime: 2019-12-17T08:02:00Z
-    sourceUrl: https://www.openpr.com/news/1880144/artificial-intelligence-ai-in-healthcare-market-pin-point
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
 
 secured: "04u4o4uCAwW6QQ8TE4uhO7GoMkE1emH9mYBGgvEBg0qeYR27FUB0tsCeU3vaeoQ6TXFy1rPapOopAsNky3cO53GS5+OyxaXZywLRLRjOnSBzTo3hKu3QslfPS/VzBLQDIe4BcdTqfLNGdhxHI2CiElFPSQz3OlhmwNk+put+oViMXzkPNP1Ux7a/8oCZQcO62Jm5f0M6SXwV+dgPgx6ZnrIydYQBarzQsebVMk9jrXDm4ADtV9KP1IOI3ZvMJrDuKCKFZXS5jIDSSDAq+bNrHQ==;eRbz4CsdkWzOrzoI9Ylk3A=="
 ---

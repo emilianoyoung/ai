@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9649CC772F591E305372838CCA6849D
         width: 700
         height: 393
-  - title: "Keywords Studios makes three acquisitions for €11.2m"
-    excerpt: "Keywords, which provides technical and creative services to the global video games industry, said the acquisition of machine translation technology company Kantan, marketing services company Ichi and audio recording studio Syllabes were in line with the Group’s strategy. Kantan was acquired for a potential consideration of up to €7 million ..."
-    publishedDateTime: 2019-12-17T07:47:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/keywords-studios-makes-three-acquisitions-for-11-2m-1.4117865
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.CF8662A8F677A4AB30A30B4AF47D5F8A
-        width: 300
-        height: 160
 
 secured: "ADC1LUsYHb+fn545e5PXp+3VqIIpABMaBu0MmM5d4aHtBn0GJaV8F70ZkI5HXLlJqGMR+RwOzFHnSn0RKajUV4NUQVDoHhfwVpt1nzlGyYj+chQuRnH9kOE8vX+V/rH2W3n1/qnLkMUFyHDPD5FFi2BlATUdPYrMfg72Jbgv/OsKoreAQaKgCoJsVZm1EcMo0zUaBq4wTUIvR1EYOul/1mUQdEXsRqfoi7dRarQE9Iuthqc+WYB8CvlFqOqL0Ss0xe9d3nPnYRXkMQoYY7ZhCw==;Mcfe9w3UlSGDIVF9xeFHYQ=="
 ---

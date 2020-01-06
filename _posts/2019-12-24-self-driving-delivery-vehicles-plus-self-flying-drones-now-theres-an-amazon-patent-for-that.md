@@ -45,19 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
         width: 600
         height: 315
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Expect to see a flood of autonomous grocery and cargo vehicles. Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary ..."
     publishedDateTime: 2019-12-18T18:35:00Z
