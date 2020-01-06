@@ -24,6 +24,17 @@ images:
     height: 468
     title: "Is There A Global Tech War? US To Implement Export Restrictions On Sensitive AI Technologies To Russia, China"
 
+related:
+  - title: "U.S. to restrict exports of artificial intelligence used for analyzing satellite images"
+    excerpt: "WASHINGTON — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military or ..."
+    publishedDateTime: 2020-01-06T00:23:42Z
+    sourceUrl: https://www.msn.com/en-us/finance/markets/us-to-restrict-exports-of-artificial-intelligence-used-for-analyzing-satellite-images/ar-BBYDQAc
+    type: article
+    provider:
+      name: MarketWatch on MSN.com
+      domain: msn.com
+    quality: 9
+
 secured: "KF3P+1PaAi043WglO/JvnVSPcep/eMa0agd6x5kZaNIabSSMEute1A/hTH9W1RSWkC8YaHNRsTUIR0ApBcsF4/NZ36OujDB/7CJmxp6qwlxUrSAaUNe34wpsCJM4inr5W8ozc9a2dIIN/cf8LlVgp+duea0gInIR6RvkhaejGOXq71qjWNoaqSGOHdYsLVbJgaLnWbo3WyoUz9hzlFuZihVcWbQlU4n8MkOprcWMSn8cEgqmFgqtrmu4pkyfOszJuudCIgVAurd3FJ3/I7Y9dg==;Xed+nDbsEbMnO0ASgqiwVA=="
 ---
 

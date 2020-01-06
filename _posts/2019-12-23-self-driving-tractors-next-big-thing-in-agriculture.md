@@ -8,7 +8,7 @@ ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-drivi
 cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,34 +26,58 @@ images:
     title: "Self-driving tractors: Next big thing in agriculture"
 
 related:
-  - title: "Let’s Not Get Too Excited By Self-Driving Truck Highway Stunts"
-    excerpt: "I like a feel-good story as much as the next person. There has been a recent spate of media gushing about self-driving semi-trailer trucks, heralding the vaunted arrival of driverless big trucks due to one or another automaker or tech firm having made a publicity related stunt involving a highway journey debut, including usually carrying along ..."
-    publishedDateTime: 2019-12-17T00:05:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/16/lets-not-butter-up-those-self-driving-truck-highway-stunts/amp/
+  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
+    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
+    publishedDateTime: 2019-12-23T10:19:00Z
+    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Arab News
+      domain: arabnews.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.6BD674A53F1931EA3AF93E9542E212F9
-        width: 600
+      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
+        width: 480
         height: 315
-  - title: "Toyota to use advanced self-driving tech in commercial vehicles first"
-    excerpt: "Toyota Motor Corp plans to first deploy advanced self-driving features in commercial vehicles before adding them to cars meant for personal use, a senior official at the Japanese auto major said on Tuesday. Adds details, automated driving background TOKYO, Dec 17 (Reuters) - Toyota Motor Corp 7203.T plans to first deploy advanced self-driving ..."
-    publishedDateTime: 2019-12-17T07:29:00Z
-    sourceUrl: https://www.nasdaq.com/articles/toyota-to-use-advanced-self-driving-tech-in-commercial-vehicles-first-2019-12-17
+  - title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
+    excerpt: "IBM has started a pilot study to use AI-based technology and satellite technology to monitor the agriculture sector of the country. The pilot study will be conducted in states like Madhya Pradesh, Gujarat and Maharashtra. Post the pilot study, IBM’s Watson decision platform will provide a farm-level solution for improving the agriculture sector."
+    publishedDateTime: 2019-12-27T05:35:00Z
+    sourceUrl: https://analyticsindiamag.com/top-ai-powered-projects-in-indian-agriculture-sector-2019/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: India
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.5F46C763F713559B6C80F4AFAAF375D9
-        width: 450
-        height: 274
+      - url: https://www.bing.com/th?id=ON.1FB3CE77C754CB40F64E4C5200BFBE95
+        width: 700
+        height: 393
+  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
+    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
+    publishedDateTime: 2019-12-27T15:39:00Z
+    sourceUrl: https://www.kansas.com/news/business/article238754273.html
+    ampUrl: https://amp.kansas.com/news/business/article238754273.html
+    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
+  - title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
+    excerpt: "Earlier this month, Silicon Valley startup Plus.ai was the first company ever to have a self-driving truck make a coast-to-coast commercial freight trip. The autonomous truck, along with a supervising driver and mechanic, drove for three days from Tulare, California to Quakertown with over 40,000 pounds of butter in tow. While Plus.ai’s ..."
+    publishedDateTime: 2019-12-24T08:19:00Z
+    sourceUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/
+    ampUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.CF7C35B7A65627242C2C100171186D4E
+        width: 630
+        height: 354
 
 secured: "OndvV58nEjIgNPgFha99bc/MP3Svc7GvTJRhpYubUa9Ts1lwj6nhkh6ZeUDsHXSuSKTk3u+Vtcq/C1B4wgpiSPhHuwK3kPMFbtvUJGG7JIC1zQRcg3FuoZu6iFj1g51j831GzbIKhAxQ49UOXz4gxefKp6QXDApjq8/MHlgtSFO5PnJZzQ2rZjQmPXxugo9RdsZgFIDrP3iOnMMrWAMv1xA1377LbPNWoJTvhqpmiP6G1Ifac1yuWSfmDK6qMlzDmfM+SdyG/u8uU9WTJSN6DA==;xXJslq20he9YQbtHwY76vw=="
 ---

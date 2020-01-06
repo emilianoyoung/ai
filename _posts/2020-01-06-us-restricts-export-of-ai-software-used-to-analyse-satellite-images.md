@@ -1,28 +1,27 @@
 ---
 category: news
-title: "United States limits exports of artificial intelligence software to rival powers like China"
-excerpt: "The rule was likely to be welcomed by the industry, which had feared a much broader crackdown on exports of most artificial intelligence hardware and software, he said. The rule covered software that could be used by sensors, drones and satellites to automate the process of identifying targets for both military and civilian ends, he said."
-publishedDateTime: 2020-01-04T06:31:00Z
-sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
-ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
-cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+title: "U.S. restricts export of AI software used to analyse satellite images"
+excerpt: "The United States government says it will limit the export of certain types of artificial intelligence software that’s used to analyze images ... It applies specifically to software that uses neural networks, a component of machine learning, to discover “points of interest” in geospatial images created by satellites."
+publishedDateTime: 2020-01-06T00:12:00Z
+sourceUrl: https://siliconangle.com/2020/01/05/u-s-restricts-export-ai-software-used-analyse-satellite-images/
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: South China Morning Post
-  domain: scmp.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
   - AI
+  - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
+  - url: https://www.bing.com/th?id=ON.B44021FB8F59D1EC2ACEF2FD0CBACC98
     width: 700
-    height: 367
-    title: "United States limits exports of artificial intelligence software to rival powers like China"
+    height: 466
+    title: "U.S. restricts export of AI software used to analyse satellite images"
 
 related:
   - title: "U.S. government limits exports of artificial intelligence software"
@@ -109,20 +108,22 @@ related:
       - url: https://www.bing.com/th?id=ON.85B9A169A7E1DBA112F845924755F8F9
         width: 700
         height: 466
-  - title: "U.S. restricts export of AI software used to analyse satellite images"
-    excerpt: "The United States government says it will limit the export of certain types of artificial intelligence software that’s used to analyze images ... It applies specifically to software that uses neural networks, a component of machine learning, to discover “points of interest” in geospatial images created by satellites."
-    publishedDateTime: 2020-01-06T00:12:00Z
-    sourceUrl: https://siliconangle.com/2020/01/05/u-s-restricts-export-ai-software-used-analyse-satellite-images/
+  - title: "United States limits exports of artificial intelligence software to rival powers like China"
+    excerpt: "The rule was likely to be welcomed by the industry, which had feared a much broader crackdown on exports of most artificial intelligence hardware and software, he said. The rule covered software that could be used by sensors, drones and satellites to automate the process of identifying targets for both military and civilian ends, he said."
+    publishedDateTime: 2020-01-04T06:31:00Z
+    sourceUrl: https://www.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+    ampUrl: https://amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/diplomacy/article/3044665/united-states-limits-exports-artificial-intelligence-software
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 47
     images:
-      - url: https://www.bing.com/th?id=ON.B44021FB8F59D1EC2ACEF2FD0CBACC98
+      - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
         width: 700
-        height: 466
+        height: 367
 
-secured: "EWR9z4eG90kXGsMH5keZPMBWMAXg6zgSI7F7lZXgiOjeXIVqdJEcWDe3BSDC8hrGE62BTqncSKje2scqoKljnit/vvqOFwbPyWdGrct5sP1fzmcmUpqdf2SHiww+GxGNjH5CZKOkDNWCTyruW654c7/yunOTP68CYa2R96YYGFaFE6xm4g7DzfguFmGGGz73oqip6h87loEqsEq/AN4Oxboj7qxDdrXSWrDz7c/JQD7y7+7OIxfA6e7cI0w1B9quWLwqa9GlnEYepu0QP/cCDw==;Y1ObnwI9sXgG0j6HkMqp1Q=="
+secured: "ioTaZZlpviggtMwfIpvMYkpr05otIxW5dOrYuVS9nOx41LBVzN47PBTGtffXI2EOJe/U7x8ZX1MCWgoohzqLKrj7VJFoBLAyKjxZJF36ejCn0of/Ynx32RwG9++6GGe/ICRPxlgqXts6csirctrxX+IvbLy4mZ9Nyy3uNeYyPO+UQuIDjtVmganGuXdPeLWBIvs44GzrRkdWCJGEfuCqVqqbgTA7RHIk5POR53HNHAqCFx5DyPpjxgD2TPOyZguYvFaXTD1LeQry5nI9kR9Dfg==;E65ny9i0BkRqKmmlW9KbHg=="
 ---
 

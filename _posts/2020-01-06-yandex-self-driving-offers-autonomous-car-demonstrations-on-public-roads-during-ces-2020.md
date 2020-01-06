@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
-excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
-publishedDateTime: 2020-01-04T15:15:00Z
-sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/?ss=ai
-ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
-cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+publishedDateTime: 2020-01-06T00:37:00Z
+sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
 type: article
-quality: 84
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: /assets/images/organizations/forbes.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
-    width: 600
-    height: 315
-    title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
@@ -60,6 +48,21 @@ related:
       - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
         width: 700
         height: 393
+  - title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
+    excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
+    publishedDateTime: 2020-01-04T15:15:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/?ss=ai
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
+        width: 600
+        height: 315
   - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
     excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
     publishedDateTime: 2019-12-28T14:13:00Z
@@ -380,16 +383,7 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
-  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-    publishedDateTime: 2020-01-06T00:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
-secured: "Ao9HgojGu07L3QnFlbHCDUFnGso5LT+azNVGD+yha+/3hSoRVOv0vLqXStk97tmycbLvg4HOctPe0DyqJpyZV+LNKGJxm6+uRbb4KS0lt4ELLZZv35L7LZdmZj/Edtg0fsY0i9Wo9dTZIVAH+ah1WtMAnurQv6jPuek1XrzpSAjnYTP67fjWTTIY2gEkplx4GAQ7qT1KhUlloiN/zRW++i3o1wxc15/Gqsp7PaAIi2+aXyfC383UMvjYUACCpg25axZz84819Nl4GCn/inUazg==;ObYYJbaTq890I5iFo1mI0w=="
+secured: "AE3Wv1WhFZSp44GWIuFOux+1FRZmgXij8DRMoTStSoBlC3gdnMGo4iNUgZkVeV4Wzx5Tqd3v3SqJW6xinUgVUt4FiF5/A7ljQJ7hR4sLEa310neRkqkrn8E9pi88KmM6VdscW9aWIMJZKvleUAneQNe+gEVEN0cJLT9c73G4wFSsjPuYLx8xobmelRRgOw+rfqzXdkuzyZkgBRsrcSnLbR2pwQitD3kOG41AJ83X4CZaQXGqGu5dN3FJu3EZx0qwjJXXwvUmvn+OD6+d0SLBTg==;JNYfh9PP6JScizgJCsZOrA=="
 ---
 

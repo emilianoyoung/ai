@@ -189,19 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.FEC6C7027D2F50A8C063D25DDE44B8B7
         width: 600
         height: 400
-  - title: "Intel forks out $2B for Habana Labs to bolster AI chip standing"
-    excerpt: "Intel has bought artificial intelligence (AI) firm Habana Labs for about US$2 billion, with the chip-maker seeking to expand its AI portfolio to bolster its data-center business. Intel expects the fast-growing AI chip market to exceed US$25 billion by 2024, with its own AI-driven revenues this year seen rising 20 per cent from 2018 to more than ..."
-    publishedDateTime: 2019-12-16T23:18:00Z
-    sourceUrl: https://www.arnnet.com.au/article/669744/intel-forks-2b-habana-labs-bolster-ai-chip-standing/
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.50C095F2A6A4E6BD6EC74F4A23A28F35
-        width: 700
-        height: 466
   - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
     excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
     publishedDateTime: 2019-12-17T22:45:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T05:35:00Z
 sourceUrl: https://analyticsindiamag.com/top-ai-powered-projects-in-indian-agriculture-sector-2019/
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,60 @@ images:
     title: "Top AI-Powered Projects In Indian Agriculture Sector: 2019"
 
 related:
-  - title: "Huge push in artificial intelligence projects across all sectors"
-    excerpt: "Artificial intelligence, or AI, was the buzz term across every sector in Singapore this year, and for good reason - the technology of using machines to simulate human intelligence has immense potential to transform lives for the better. In the private sector, AI was used to improve workflow processes in businesses as varied as e-commerce and ..."
-    publishedDateTime: 2019-12-23T21:51:00Z
-    sourceUrl: https://www.straitstimes.com/tech/huge-push-in-artificial-intelligence-projects-across-all-sectors
+  - title: "Self-driving tractors: Next big thing in agriculture"
+    excerpt: "If the change from manual or animal assisted agricultural operations to tractors, was a revolution, another huge change is in the offing. Farmers will soon be able to till the soil, sow seeds and harvest crops, using a driver-less tractor. Indian companies are among the world's early movers in developing a driverless tractor. The Mahindra group ..."
+    publishedDateTime: 2019-12-23T06:01:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/gadgets/231219/self-driving-tractors-next-big-thing-in-agriculture.html
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 37
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.74C45FB1F2081F24F6E78117DAAF4521
+      - url: https://www.bing.com/th?id=ON.5B8F2F737F968F63005D876C555B2E0B
         width: 700
-        height: 466
+        height: 392
+  - title: "Mock skyscrapers, rain at Singapore self-driving test centre"
+    excerpt: "The road sweeper and a golf buggy move around the track with ease, jamming their brakes on when a pedestrian steps out and negotiating sharp turns."
+    publishedDateTime: 2019-12-23T10:19:00Z
+    sourceUrl: https://www.arabnews.com/node/1602926/mock-skyscrapers-rain-singapore-self-driving-test-centre
+    type: article
+    provider:
+      name: Arab News
+      domain: arabnews.com
+    quality: 39
+    images:
+      - url: https://www.arabnews.com/sites/default/files/default_images/place-holder1_0.jpg
+        width: 480
+        height: 315
+  - title: "Uber buys parcel near Pittsburgh for self-driving test track"
+    excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
+    publishedDateTime: 2019-12-27T15:39:00Z
+    sourceUrl: https://www.kansas.com/news/business/article238754273.html
+    ampUrl: https://amp.kansas.com/news/business/article238754273.html
+    cdnAmpUrl: https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article238754273.html
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 24
+  - title: "The First Commercial Freight Cross-Country Trip was Performed by a Self-Driving Truck: What This Means for the Trucking Industry"
+    excerpt: "Earlier this month, Silicon Valley startup Plus.ai was the first company ever to have a self-driving truck make a coast-to-coast commercial freight trip. The autonomous truck, along with a supervising driver and mechanic, drove for three days from Tulare, California to Quakertown with over 40,000 pounds of butter in tow. While Plus.ai’s ..."
+    publishedDateTime: 2019-12-24T08:19:00Z
+    sourceUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/
+    ampUrl: https://techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
+    cdnAmpUrl: https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-first-commercial-freight-cross-country-trip-was-performed-by-a-self-driving-truck-what-this-means-for-the-trucking-industry/amp/
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.CF7C35B7A65627242C2C100171186D4E
+        width: 630
+        height: 354
 
 secured: "1Gxr0HRVeSNN6tDzy4hVdzmJI/uiFqsCOmLp4qLa45nZvEUzZqzg5b/NQ009XCeEbMfDw3YOUgwVJeCkOnM7KCa6XQldOP65gsZKrwFbwqiTlHXUn272ZvJJemQo/a6Fjm7D35SJwhm+ylIF2dgxe/aPqscYyxsMrCKM9Q7hnyirXsINsgPrbq/5s+TvQvRfVrSMvWzA+oPIIvSnVe8atycmsdWXBlxnqaPTMJVXcE7zGxCcCtZyahx7q542sz5O6SRE5s89n6n8jyGYyRYwaw==;y68gTwAInj/V/TZjKp37nw=="
 ---

@@ -259,21 +259,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
         width: 1904
         height: 1428
-  - title: "Women in SF police department face barriers in assignments, recognition"
-    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
-    publishedDateTime: 2019-12-16T23:52:00Z
-    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
-    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
-        width: 700
-        height: 632
   - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
     excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
     publishedDateTime: 2019-12-18T14:57:00Z

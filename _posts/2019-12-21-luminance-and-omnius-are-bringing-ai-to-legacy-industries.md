@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-21T17:51:00Z
 sourceUrl: https://techcrunch.com/2019/12/21/how-to-bring-ai-to-a-legacy-industry-according-to-the-founders-of-luminance-and-omnius/
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F8%2F5%2F9%2F23999582-4-eng-GB%2F20191219-CHINA-AI-Main.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces
         width: 1024
         height: 512
-  - title: "AI and Compliance Offerings Power Insightful Engineering at Enterprise Scale"
-    excerpt: "with Watson for IBM Engineering Requirements Management DOORS to help engineering teams improve the quality of their requirements, minimize risk and improve time to market – while they’re being written—by using the power of artificial intelligence to evaluate requirements against industry standards. After all, a product is only as strong ..."
-    publishedDateTime: 2019-12-16T23:08:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21118617/ai-and-compliance-offerings-power-insightful-engineering-at-enterprise-scale
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.C1DBEEE1F6ACAB124B794E2E7377E122
-        width: 700
-        height: 363
 
 secured: "gyN35shSJW+Tv1MOe7I/IrQ3I5JK2ZXe9sUyO8O8qiAdNifqksL4VHX04j1ggsSRCzZ+e60DSsS6t/NgQmcG2lXXbPVoPOdpu9JgP8vQm/+M/bl9PnMcYb2OjdGwUTpaHY26uBUPV/ENTqUzHpd0YvkAOv156MXpJ0uGoZELHNqODjRJ0pFoFE+bfGWxwLITy1IN1a1IEUK1Yyeo8L6YbLJKsb6pdYLMLOcdwlXSMed9kM9jCG00DlHxdhe0ZB7RdXdMrN4y2tkWe/oKufubKQ==;EqZDf0Iw/ENIiUcquAo1zg=="
 ---

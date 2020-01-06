@@ -113,6 +113,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
         width: 700
         height: 367
+  - title: "U.S. restricts export of AI software used to analyse satellite images"
+    excerpt: "The United States government says it will limit the export of certain types of artificial intelligence software that’s used to analyze images ... It applies specifically to software that uses neural networks, a component of machine learning, to discover “points of interest” in geospatial images created by satellites."
+    publishedDateTime: 2020-01-06T00:12:00Z
+    sourceUrl: https://siliconangle.com/2020/01/05/u-s-restricts-export-ai-software-used-analyse-satellite-images/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B44021FB8F59D1EC2ACEF2FD0CBACC98
+        width: 700
+        height: 466
 
 secured: "xKditazVGkiMyQKDWn04rUbjkBOI0Yf/jDydm1l58JKdzTayr4sB3/yvIUIpMFfX3vvFXgaSr95VKk9Hui2X6xR93Ofs1XcdF0WTzQRjLxIOYH06qu0402CVOws+Qg8SR1W82t35l0DoQv6L80NbZfF1d/xaD3iU9CHLCUZH7Wzv8UEIMqKmGMuJ1LauxDO4HUpIXjMKqtL10BDGNCWFOmdLftYfklyK7WEhf/laSahBWTDpnhtSlWmw/f2ZOj3tBKQ+ekMxL61XSOh2peL4zw==;VPbbLLfdFO6VrCRtdgE3fw=="
 ---

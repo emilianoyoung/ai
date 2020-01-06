@@ -49,17 +49,6 @@ related:
       name: YAHOO!News
       domain: yahoo.com
     quality: 0
-  - title: "Global Event-Based Vision Systems Patent Trend Analysis & Competitive Intelligence Report 2019 - ResearchAndMarkets.com"
-    excerpt: "Latest AI-driven advancements in computer vision focus on emulating the characteristics of the human eye in a vision sensor system. Also known as a neuromorphic or event-based vision system, or dynamic vision sensor (DVS) camera, the system can potentially transform the computer vision landscape by ensuring reduced latency and lower power ..."
-    publishedDateTime: 2019-12-17T00:01:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-event-based-vision-systems-105600748.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-event-based-vision-systems-105600748.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
   - title: "Latest Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics, 2019 Research Report - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in Wound Care, Ophthalmic Devices, and Artificial Intelligence-enabled Diagnostics\" report has been ... interventional cardiology and image guided surgery and healthcare IT related areas such as PACS, medical information storage, and disaster recovery/business continuance will also be covered."
     publishedDateTime: 2019-12-18T12:30:00Z
@@ -83,6 +72,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "wF+hP5jpgvKdGkhkToLXaFAojagBIwjN/88/KbYq0dCzHsrjZOIDukkJEkjfwZCgTjPk7xXKxLG8H4SsNkU76t+68MgJG7b7/mSQHpptmUcOFMw/6Ssc2NIT9vztwRR8XdVQ6GsEoolzuyYz5aYUT8mJIhc6I7/mBn6OmHpfLE2S6AYoHEFFTOj2NjstVs4DaHaXcBD+bCEabfqfaBXiI41zCNib+F1N/tlqT0PNC2XLiEwvVTflyYW/m0XkD0ZXmD+uvmJ1NV48mftVZXTelw==;T9ypiA3R11KwVTB3HCYKGg=="
+secured: "h0DOwe04Q5fZkAr7q7lQl3CKfUSsGcLzO+ASPinY39WmiHVjq6cn3hVoz/itQBAI1IAtO1mgGflF6dAZvsU5rauJapliOaknQB0OztrQE0tmQU7Lpv1K3/Xvf7ginLDNmSrhEY31WFpD/nG7iACX53mWRHTIuqRRLNtrQ0DK9wnviIyGq7fLaiqr+lExzrhxiOk7U+z2zg4jDhAlz188DbdAemDBFG896OPhyYkdPg0DF0G0Ml+n8GtKU9nb+PCK5p1zkjGVtiXBsIR+ddSq+Q==;sICXykVWc8RmV3A7Veffxw=="
 ---
 

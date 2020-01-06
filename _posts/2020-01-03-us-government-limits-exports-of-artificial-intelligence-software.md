@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z21PT
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z21PT
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -113,6 +113,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4ED62E3EB471338BB7660EA83CECAD44
         width: 700
         height: 367
+  - title: "U.S. restricts export of AI software used to analyse satellite images"
+    excerpt: "The United States government says it will limit the export of certain types of artificial intelligence software that’s used to analyze images ... It applies specifically to software that uses neural networks, a component of machine learning, to discover “points of interest” in geospatial images created by satellites."
+    publishedDateTime: 2020-01-06T00:12:00Z
+    sourceUrl: https://siliconangle.com/2020/01/05/u-s-restricts-export-ai-software-used-analyse-satellite-images/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.B44021FB8F59D1EC2ACEF2FD0CBACC98
+        width: 700
+        height: 466
 
 secured: "Ii7r45S07ndmKo693f6D0N4VXDRWA6VQu+ZcpZY/pSyQQbttayDZlKJC426+BQHA6Yr8v02/2lobE/IWg1J0r0dGU2tokWBynYUJqBacB8S+00lUqDxOsXB9T8M2U/Sikgp0+phtjUhvaOKo+XCFzOy9ZWBvtLwGa4G8A8u3o6MoeluJlYhANPS7f8Yr+7wqR3YBDOYjcA6I/MM6ammuj6kiHtfi4Qph3q7HW9+jYfbaJNkuEPbG/7QJvqkVWWVGl110p6U2VubdCuQowmtWXQ==;D6grPpiDlXNwfOl6HsJGGg=="
 ---

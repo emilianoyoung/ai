@@ -61,7 +61,7 @@ related:
   - title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
     excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
     publishedDateTime: 2020-01-04T15:15:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/?ss=ai
     ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
     cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
     type: article
@@ -379,6 +379,15 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
+    quality: 0
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-06T00:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "Z5L9DbljeXTfVUU1fxO1uxuti/5c1Jcx+c1RlajtyAuG7aFtv8gDdO+i29CTrxlBw4fLolViALGOpusLsEsHhnH3ESHr3x8HBEC+0uPmyuKYus+CPF60dktfLFkZtTz2Zobqt72GjVTFEVnGk8uXO0FP4F4Tz97bpp8JH8aUqy7CGf5LMQK+zAwmh8it1uAAYgZBRKt7pL/vq99PmLeHx0GuKNI5EkZfFrhrxr6e34I8jLW7Z0YMs4zc2MO7BGaCW0fFxxSnmc2+aTLyc8WYWw==;xXteDtvAr/dL83TGEnpXGQ=="

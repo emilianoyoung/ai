@@ -259,21 +259,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Women in SF police department face barriers in assignments, recognition"
-    excerpt: "Women in the San Francisco Police Department were equally promoted, but more often confined to administrative roles that lack recognition than men, according to a new report. The city’s Department on the Status of Women reviewed police department data from 2015 to 2018, interviewed 45 sworn female officers and held focus groups as part of a ..."
-    publishedDateTime: 2019-12-16T23:52:00Z
-    sourceUrl: https://www.sfchronicle.com/bayarea/article/Women-in-SF-police-department-face-barriers-in-14911116.php
-    ampUrl: https://www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    cdnAmpUrl: https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/amp/Women-in-SF-police-department-face-barriers-in-14911116.php
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.296B707CC95C0FA0798C2CE0240364E3
-        width: 700
-        height: 632
   - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
     excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
     publishedDateTime: 2019-12-18T14:57:00Z
@@ -560,6 +545,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "oQzPLB3z7C5WB+gn40RNv9HotrOHkCzj2YEkhB2P7N/D6w1ZTDk51Unus+WyfmGHXgPW/GFvnb9J2Ybvw7HOUaTOerifBsmBLY9LRiKYP5/soOYdQRoncWFYIEyqQ3n+WunQX73aDllOwgdKHe7DLA34UINhLBc89o6joVWgUiRmGfUz0Dy84hR/dAXZAxfGbRzbgLzggn57uIXxWZ+6J9Y1YVHS7r7tzPIsCnMIqA5gSfQQskN1qjFx9D06ttyrerzJEKmbvr9/Zhq2gybL2w==;rNSW/hIXjdLRpgBF67SPjg=="
+secured: "Sw3iZZ1DePgC0y84dgV3V592hEj+7jG6+1Tz5jcnbCUkqwN0C8xUTRYPa26ADQAZX11CFCQZSiUfYkt3asx/ljdqXvX0TwagJ3mu9wB7GQrxDF9KXhBuIJA39OpO+PH81R6hE+fH6gtE8/8QFrwe1iai+M+IwPFUk2ecgzkC87yPrsZdnNU+ZLTd1sW2crekqck6++f8vivlQd4dyOGd8k3vNqiFVNJw3oRZRxKK6O/BDDtaofR+5MOYjBRtCpnoqCrdji4rB5H5Cw5m3c4f1A==;rR1aRhn7kx3v+/fqzYsYWg=="
 ---
 

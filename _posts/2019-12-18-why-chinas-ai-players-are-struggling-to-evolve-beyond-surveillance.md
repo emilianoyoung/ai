@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3E2B5984655C8E72A8B0BC1BF0A09232
         width: 602
         height: 400
-  - title: "AI and Compliance Offerings Power Insightful Engineering at Enterprise Scale"
-    excerpt: "with Watson for IBM Engineering Requirements Management DOORS to help engineering teams improve the quality of their requirements, minimize risk and improve time to market – while they’re being written—by using the power of artificial intelligence to evaluate requirements against industry standards. After all, a product is only as strong ..."
-    publishedDateTime: 2019-12-16T23:08:00Z
-    sourceUrl: https://www.electronicdesign.com/technologies/iot/article/21118617/ai-and-compliance-offerings-power-insightful-engineering-at-enterprise-scale
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.C1DBEEE1F6ACAB124B794E2E7377E122
-        width: 700
-        height: 363
 
 secured: "IVj7fD5MVARff3IQB8jmSGmGd7HRKwclsP4L6ZzdsS1+gS5vorre9w0ec3fTDBeuq0XrzhbPaAXIefZTreMp4zN+bznMYxlB8MGM0oKHR8YtJ+5Lbe8dWYA956IMSoZj2vbwvGECOAwKm5IzjXuqO0elnd4UEPEX93hOXprrxoiguD4YyGqqc0fRlIF3gWQsMzEFOxHrZ3mPuwy15OE0VT7K3u0iwNgn32DyLoq/xDp6EQkaHWJxWnZyuFmVkciX9FG49jTb3t+DLEJjaUmyZQ==;vchlz9UfmaJi2x5pMMbEUQ=="
 ---
