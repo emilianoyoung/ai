@@ -1,29 +1,21 @@
 ---
 category: news
-title: "Tech will drive change in health care throughout next decade"
-excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-publishedDateTime: 2019-12-26T16:47:00Z
-sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
+excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
+publishedDateTime: 2020-01-06T07:54:00Z
+sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
 type: article
-quality: 44
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
   - AI
-  - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
-    width: 700
-    height: 393
-    title: "Tech will drive change in health care throughout next decade"
+  - Computer Vision
 
 related:
   - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
@@ -91,6 +83,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Tech will drive change in health care throughout next decade"
+    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
+    publishedDateTime: 2019-12-26T16:47:00Z
+    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
+    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+        width: 700
+        height: 393
   - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
     publishedDateTime: 2019-12-30T03:03:00Z
@@ -143,16 +150,7 @@ related:
       - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
         width: 600
         height: 450
-  - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
-    excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
-    publishedDateTime: 2020-01-06T07:54:00Z
-    sourceUrl: https://www.openpr.com/news/1889914/facial-recognition-market-is-estimated-to-witness-the-highest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
 
-secured: "2uoukiDImjPloIf1UDjWyD5RhYxVsDPFjr8rEXCjmID6wSPrN+MMGagjhWh5SKymB8kudxz+dS61cIyhyi/yJpVO4hQsFN7HjkNzifdYGKaY9zYuJ0PNIAdX/dqo5tp98LeVPFy0F67F6zIE8nle26WpvCWFBS8lQ63DuOtLdhnI664cUxFzKV45ZMcqBqnJzo4FlrWnekkKsO7RF/M2IPAOBGIbeLQbcyAjZ4TTQ/iEy5P+1It+NjSX2N4ahxKi8CX0aSN4bnd5haj1fnZdVg==;Awd1Xim9dPy6duPBoCp7EQ=="
+secured: "RMg5aEMoqEUSKbyjlgwrqVZIAt3e0zkowjST1JlkRi7WrxbypqVv1DguXt/Ek6E5gDXmEdiBZ3D04akDetW1y0BEHlL0exePIU8egYs/S/RFNjDTLQpzfn6LYC2+uoe8uXg58kMmxLZW3IaoifVlyNiluy4ibqCusu3nsDIB17GqFcH9Mht3S4+bavxEKxQWQEMQZ+DBOb8xWzSrFaQZ76P72aJBhUxDTcD7REGAUmGwQo4ikkA//bb0LU+oa7bZK1GeVce+fp+syDWHnv3qmA==;H7OM+45sz9MDlkz7lhj1Xg=="
 ---
 

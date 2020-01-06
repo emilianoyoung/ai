@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-12T14:05:00Z
 sourceUrl: https://www.telegraph.co.uk/technology/2019/12/12/googles-waymo-chooses-oxford-first-european-driverless-car-hub/
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,8 +25,8 @@ images:
 
 related:
   - title: "Why Silicon Valley has its sights set on the UK as its European driverless car hub"
-    excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field - building sufficiently intelligent ‘brains’ for driverless cars so they are smart enough to make decisions on their own - where Britain has been quietly proving..."
-    publishedDateTime: 2019-12-17T07:00:00Z
+    excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field - building sufficiently intelligent ‘brains’ for driverless cars so they are smart enough to make ..."
+    publishedDateTime: 2019-12-17T07:07:00Z
     sourceUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/
     ampUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
     cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
@@ -34,12 +34,8 @@ related:
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.CD259D4068B2D6781860AAC33722A53C
-        width: 700
-        height: 437
+    quality: 33
 
-secured: "FR36JvntULIc5Q+9fq7GnNYoTG1eL/Ckt/ARobyjED0aFH/10vXlOSstJNO9jWcE4fmiTNoYF06LDbSYMQqElz4NCZVkxWXTY6KzKNftKm0zJyp0mwYhmonNUHu29Rg5+9ZX9X5XlRr1waBxIxGxdFsercYVk3KiUMaU6sXQPuqNX5dy+6LW6JDxTuVbIJrovBXAnouUSwFMMHA9fF1ZIUsucOCb++nJshMvgiMWevdim65RwBtHzQm+V2cOPthDVGXnxxS5OLeKrSSvuoI9jg==;OJhNSFPm+ZaeeqgoprIeKg=="
+secured: "5DxSPimtPRjhDti131AMpn6dxlE3AMEh25em3BG9Ujlem1tW54ZEvhnX8wWJe3SjQjwEvE6GALjgaboaYIfl+KrgtnZCaThiL8Eqn0yi0oN3lshAEHgg1FfYXZnNMDPB47ymEcq8aHhrUHd0vd69he4rVrUcSa+K2PUoDxnDak157vxKcbsJDkSGpApQwwDRPEBJppi0F8bNLozkesmD+vivBDKwL6NyMhpL8Y30o8Sl9w3Tq97p28TxN4UXIka0opQ7bPFPWJN9c+oo551pYw==;kTo9awNITu8u9G71iQj42Q=="
 ---
 

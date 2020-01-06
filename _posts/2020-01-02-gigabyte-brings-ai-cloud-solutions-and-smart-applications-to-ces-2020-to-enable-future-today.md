@@ -1,26 +1,26 @@
 ---
 category: news
 title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and GPU from industry leaders Intel and Nvidia, AERO series continues to set standards ..."
-publishedDateTime: 2020-01-02T19:25:00Z
-sourceUrl: https://www.oaoa.com/news/business/article_c7a4aee5-9503-59f4-8ff0-64d23caa2479.html
+excerpt: "Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU ..."
+publishedDateTime: 2020-01-02T18:00:00Z
+sourceUrl: https://www.businesswire.com/news/home/20200102005179/en/GIGABYTE-Brings-AI-Cloud-Solutions-Smart-Applications
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Microsoft AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.26787288CA51D2F3B31505AEF86117C6
+  - url: https://www.bing.com/th?id=ON.675CCCB63BD23B8051BD242965EE03A6
     width: 700
-    height: 393
+    height: 365
     title: "GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
 
 related:
@@ -68,6 +68,6 @@ related:
         width: 700
         height: 457
 
-secured: "QMpoBQ9fMuoqf0yd3kUz3YlP8Kqfhc9PPG6rTyGACs//+q+6fI2PwgcmoTKSM/NdSKCypKVnpySX22hMwkMRZUCBhzxrtQ9dyzz0oCCXf82Cmaas4m5OQnICV0ixrABpSMA4zmGYdxruTjMUlM5gv4OOZVF1iUFfs4aQYJq17U7oQ/+IownjzmapFL0d7rKsPWyqW4Xy2mHrdtjl/p7Cw2uOBD8PWUOGDF5enfsIQN4uqBbhGq44bOv/gvCj0DyAj8hd78vP+xOC1cpAb/RnNw==;7zDFBfKTKpcw7u47ms/ebg=="
+secured: "9ctqYp1O31ovaQlkBgO+0IleM2kWcy6iNqyWpUPpX1U+4erD0L5Dv4i1WtUxoQZ2feWD5g52oUEXx5WMqEZ2UmAgSfQELcM/II95FzFnbkfaSQXf/ItqvE9NVh9Un3tG8QH1xY9KTL/2s78cjDM4Ia+Re7hmwl6EmTgE1us/DwgKiPctZrUdpshzW0X17HqaIFmm1ala5WQlRRpGcG9fDyniwwLj0q/RJMbJmr83Dg1v2/SeCzmQC4ufQUvFGGz/QGMvhNbcq43jsy75bfVm0A==;syWHQL8aQ0Ijvl/5b1rTOw=="
 ---
 

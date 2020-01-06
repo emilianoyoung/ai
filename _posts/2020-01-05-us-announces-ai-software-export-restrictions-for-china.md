@@ -23,21 +23,6 @@ images:
     title: "US announces AI software export restrictions for China"
 
 related:
-  - title: "US announces AI software export restrictions"
-    excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA. This requires the government to examine how it can restrict the export of “emerging” technologies ..."
-    publishedDateTime: 2020-01-05T17:43:00Z
-    sourceUrl: https://www.theverge.com/2020/1/5/21050508/us-export-ban-ai-software-china-geospatial-analysis
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/5/21050508/us-export-ban-ai-software-china-geospatial-analysis
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/5/21050508/us-export-ban-ai-software-china-geospatial-analysis
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
-        width: 700
-        height: 366
   - title: "New Trump Ruling Limits AI Surveillance Exports Over China Military Fears"
     excerpt: "Essentially, the U.S. does not want these technologies in enemy hands. The restrictions cover U.S. exports to all countries bar Canada, but the primary target is of course China and its world-leading AI surveillance industry. Some three months ago, Washington barred U.S. companies from trading with China’s leading AI surveillance unicorns ..."
     publishedDateTime: 2020-01-05T23:34:00Z
@@ -66,45 +51,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1CF007BA2D26D639C20EE900F14040A7
         width: 700
         height: 366
-  - title: "Lockport launches Aegis software"
-    excerpt: "The Lockport City School District announced the launch of its controversial facial and object recognition software on Thursday. The message on the district's website comes as a surprise, as district administrators had previously said they did not have a set timetable for launching the system. \"I am pleased to report that the district has ..."
-    publishedDateTime: 2020-01-02T21:17:00Z
-    sourceUrl: https://www.niagara-gazette.com/news/local_news/lockport-launches-aegis-software/article_6349e1e6-2da3-11ea-aa5a-973b4a2d5967.html
-    ampUrl: https://www.niagara-gazette.com/news/local_news/lockport-launches-aegis-software/article_6349e1e6-2da3-11ea-aa5a-973b4a2d5967.amp.html
-    cdnAmpUrl: https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/lockport-launches-aegis-software/article_6349e1e6-2da3-11ea-aa5a-973b4a2d5967.amp.html
+  - title: "US announces AI software export restrictions"
+    excerpt: "The US will impose new restrictions on the export of certain AI programs overseas, including to rival China. The ban, which comes into force on Monday, is the first to be applied under a 2018 law known as the Export Control Reform Act or ECRA. This requires the government to examine how it can restrict the export of “emerging” technologies ..."
+    publishedDateTime: 2020-01-05T17:43:53Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/us-announces-ai-software-export-restrictions/ar-BBYDgGx
     type: article
     provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.D1E5FE15CA6D74427917172265DBD566
-        width: 700
-        height: 467
-  - title: "Is There A Global Tech War? US To Implement Export Restrictions On Sensitive AI Technologies To Russia, China"
-    excerpt: "U.S. companies that want to export the software to other countries will have to apply for a license from the U.S. government. “They want to keep American companies from helping the Chinese make better AI products that can help their military,” Center for Strategic and International Studies tech expert James Lewis said about the Trump ..."
-    publishedDateTime: 2020-01-05T22:05:00Z
-    sourceUrl: https://www.ibtimes.com/there-global-tech-war-us-implement-export-restrictions-sensitive-ai-technologies-2896682
-    ampUrl: https://www.ibtimes.com/there-global-tech-war-us-implement-export-restrictions-sensitive-ai-technologies-2896682?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/there-global-tech-war-us-implement-export-restrictions-sensitive-ai-technologies-2896682?amp=1
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.E28EEB0DD1D35A11F43BB4D529140BA8
-        width: 700
-        height: 468
-  - title: "U.S. to restrict exports of artificial intelligence used for analyzing satellite images"
-    excerpt: "WASHINGTON — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military or ..."
-    publishedDateTime: 2020-01-06T00:23:42Z
-    sourceUrl: https://www.msn.com/en-us/finance/markets/us-to-restrict-exports-of-artificial-intelligence-used-for-analyzing-satellite-images/ar-BBYDQAc
-    type: article
-    provider:
-      name: MarketWatch on MSN.com
+      name: The Verge on MSN.com
       domain: msn.com
-    quality: 9
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.9F7FA5FF0D4FA7840538D8CB5C3AD22B
+        width: 700
+        height: 366
 
 secured: "x+DIt4H/dUFijmhED41qEULlrAeXWjhZI01IOGeWurhKG4PxDcVJPiDaypII++kMs4wziMu4VaPytiLuPNqZFdIiJhFbIIBxKM0W/kemuR+ctut/CCT3VMad5ZP393QHF3IHWjscatwoypw1RCrUTtsGg/Bg+z/FyMR/k/0Y1uLHOPypYb0Nqfp92VN2HKtQm8Ouqt+tIwLcEQJwGhI4YEGlPUy2q3Mu/WqeHB9Qlki4IqqL0iHZj5ZsRf/MYjXEmey1NF2qlUjdSGbmT4x9Gg==;k9eL+lYBxY9+kWN5h7Wf9A=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Xiaomi's $7.2-billion AI investment plan could bolster its declining smartphone segment"
 excerpt: "Xiaomi plans to invest more than $7 billion over a five-year period in an \"All in AIoT\" strategy – hoping to bolster its declining smartphone segment."
 publishedDateTime: 2020-01-03T15:00:00Z
-sourceUrl: https://www.businessinsider.com/xiaomi-reinvests-in-artificial-intelligence-powered-device-ecosystem-2020-1
+sourceUrl: https://www.businessinsider.com/xiaomi-reinvests-in-artificial-intelligence-powered-device-ecosystem-2020-1/
 type: article
 quality: 59
 heat: -1
@@ -97,6 +97,6 @@ related:
         width: 600
         height: 400
 
-secured: "J/LaBOhlPKotoeFXQy7fvX3fkcOFaptI44ZcoMh9eKG7t6y45l3ebmNywn1BSIElqEEYMuQjMLyaKky4LSgJ5v2hsCMnRLQO5PbNtZy4NcftgsiTwWIjXwApydjyK1vwypOYgrMaTTKPqCqHoaAMBiDwJw7b6O/ueNz94QPUebbCmf2Z5TYJYsVYTkPR2jsILa091/6Y7iIr7iuy/IC61572YSncImZpF0oxLymlZ1I7jaI3wsGlrJRUtR4oZT52Hk9djXBK4G7746le1kFZ1Q==;hkhfOEplA/seB5crL7SH8A=="
+secured: "Yy1ewW1CperM0frfLTBUMJA6LkMLdElmHa1qlEDly2kAPeIyXs5/xtr6KtF5GiFVLgMJHQybwWl51ZjYGz5hIksqaVgIPGu7QoAGSU0SOo8uTC+cO8204RUJVHlBHgs9Q7t19PsktugIxCg4GHK0zzRdI8byM80zAIZFWAq0nOrcWaUL4aBtyyAHI+g4ICebMtkjOClsc6bQL1gbEfa18m9xSnbreQe2dgGavfH30RmYNaXMIf+aeehsjVSscWPv564r+6iqJL933xIzcmAXlQ==;tb5fLorGmgmUqvkQ0qr8HA=="
 ---
 

@@ -42,6 +42,21 @@ related:
       - url: https://www.bing.com/th?id=ON.B23E65F75E23EE2E5215B250614867AA
         width: 700
         height: 393
+  - title: "What is artificial intelligence’s future in healthcare"
+    excerpt: "She also needed no opioids as a result. This is just one example of how artificial intelligence is transforming lives in the field of healthcare. We now have mobile applications and devices that are making preliminary diagnosis of life-threatening diseases easier, cheaper and far more convenient. Miiskin, UMSkinCheck, for instance, help in ..."
+    publishedDateTime: 2020-01-04T19:37:00Z
+    sourceUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/
+    ampUrl: https://www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/what-is-artificial-intelligences-future-in-healthcare/1813184/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00
+        width: 660
+        height: 440
   - title: "A reality check on artificial intelligence: Are health care claims overblown?"
     excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
     publishedDateTime: 2020-01-02T11:41:00Z

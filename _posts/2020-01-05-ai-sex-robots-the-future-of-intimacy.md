@@ -39,6 +39,15 @@ related:
       - url: https://www.bing.com/th?id=ON.961E3FCE6E591C206347B4E12B0DB6FC
         width: 700
         height: 366
+  - title: "CES points to age of “Intelligence of Things”"
+    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
+    publishedDateTime: 2020-01-06T07:04:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 2
 
 secured: "fxzBt1QXaehgJUdj1Ftk8unZNbljHNis0WuW5yGjO8+eyCwpVTBYjqylM0nNsriAJ7/Anfpy6T72l86gxuoYsl0o5RkMWacLUB/TF4QKGA7khkz+6PRNhbrpEi0lMWChY6QnYFaAAnIaAqeFe//ea4cmb5i4Qnn/hQ331hgMoGMhGIZUJ1SYGXZDderaqIqcG+BQhrnJS8bpGnzOniVkAKICNjcoE54HtvVmNIjMAihi8HKM8mSEzId64LgqK2ifgWdV8lDx4xEFSHS561UOHA==;jONbE3BomLZsTbIa53+BXA=="
 ---

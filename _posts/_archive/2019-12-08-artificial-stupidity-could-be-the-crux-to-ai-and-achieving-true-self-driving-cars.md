@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2019/12/08/artificial-stupidity-could-be-the-crux-to-ai-and-achieving-true-self-driving-cars/amp/
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     height: 763
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
-related:
-  - title: "Artificial intelligence changing IT game, fuelling age of self-driving networks"
-    excerpt: "AI-driven networking equipment provider Juniper Networks said it is ready to address the challenge and the inherent complexity that comes with networking in the multicloud era at a time when artificial ... fuelling the age of self-driving networks."
-    publishedDateTime: 2019-12-06T18:05:00Z
-    sourceUrl: https://www.khaleejtimes.com/technology/artificial-intelligence-changing-it-game-fuelling-age-of-self-driving-networks
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 35
-    images:
-      - url: https://images.khaleejtimes.com/storyimage/KT/20191206/ARTICLE/191209471/AR/0/AR-191209471.jpg&NCS_modified=&exif=.jpg
-        width: 1200
-        height: 799
-
-secured: "NLb3XMPPmj8aS7FBQPops0x/ajr9+e2/8S4LWvrDrEdghsYNn4tFeBbFJxgDJYjkxV6mMCtbUKoscV9xvFhnkLhmRzzalb8+KsrbAisLLzIxYkqt6FRfUc6g7tdEnvE6TS2hsItMZs3DqLdHXLRKqiUhJ3oQO0/J9ONzaJPOoqcF0CE08t3SgiF3tPuuALq3umIJ4A7ocx1I1JkSg/WPD9Rpe31tfvJPkBjiQrddvVrOnR5nJqKgZwbau5MpXbzfNejWgl0W25g/JAlG2KdlYg==;eqekwBVQR8N+qZoPMft/CA=="
+secured: "fo+fthqW+16YWBNNOIKETMbr57V7Zhoe+rumeDWNh8R4GQn3Wl3Jzzb5dNBgxs2wTu9BABlr/daFIiaTIK4ML2ZaGh38iIA0zbpaDOiGTKEFZKMT3cCGE4sE5XyAO/zxdRy6obbYuhfshuJx+fSm87EgquFNhDBW0dubW2hZhE7OxeTwmn91+Yvn1h/thhqfT9ZvFmOqHZq0P5bLesyjpsjPkpZhv3W4KSNUgwx+lpbjpLzygFwhfp8VXZ0HU2CxASqnE+48pWI81whB9M3T1w==;z+2rfw9rF2b+/1fJu4KoFA=="
 ---
 

@@ -123,6 +123,15 @@ related:
       - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
         width: 672
         height: 475
+  - title: "Machine Translation Software Market 2019-2024"
+    excerpt: "Machine Translation Software Market 2019 Research Report is expected to witness growth in the forecast period. Rising demand for these products across large-scale industries. The Machine Translation Software Market having demand, supply up to 2024."
+    publishedDateTime: 2019-12-16T08:39:00Z
+    sourceUrl: https://www.openpr.com/news/1879652/machine-translation-software-market-size-2019-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
   - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
     excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
     publishedDateTime: 2019-12-18T11:32:00Z

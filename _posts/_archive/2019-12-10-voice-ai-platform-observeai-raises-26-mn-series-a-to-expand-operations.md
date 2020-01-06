@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
-excerpt: "Related Article: Funding Galore: Indian Startup Funding Of The Week [Dec 9-14] In addition to the funding announcement, the company has also announced a partnership with US-based tech giant Microsoft to bring AI-powered coaching and conversational insights to clients of both the companies through Microsoft’s Azure marketplace. Swapnil Jain ..."
+excerpt: "With the recently raised funding, Observe.AI will expand its team in both the ... to clients of both the companies through Microsoft’s Azure marketplace. Swapnil Jain, CEO and cofounder of ..."
 publishedDateTime: 2019-12-10T15:38:00Z
 sourceUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/
 ampUrl: https://inc42.com/buzz/voice-ai-platform-observe-ai-raises-26-mn-series-a-to-expand-operations/amp/
@@ -25,6 +25,6 @@ images:
     height: 366
     title: "Voice AI Platform Observe.AI Raises $26 Mn Series A To Expand Operations"
 
-secured: "aWIljBQ1n9bYfg/TU7tqwBf5E1n6P3VMKzdevbqafEdtRsptelNE0bsL6Y2kN8uZxM6miRf/FO3XQgCuvM2VtkD1QnmDJX/4sKik7+bRSNVO9Tz/56bEEp1d//uxbPgNDcOdLmv3N4JLT/b6NypkscfTFmoiR3KWm8XcxC2ziF18jxD4+GJKYFA4ZSU3lQlUdEOV3FK2Le2V839Tq0Lh8lYFUaPp8oNhv2thW+UB3tLH0ZumxLkzUMKRjG+UrJnO762Fiqrs+232r2C0myc5vQ==;+o4caFc0Ll2y52RpkTPqRg=="
+secured: "9mutg9uUQQ/+u8lhTxDCZA6CCFhV/qFIiM/pvnfE8JWoe/T+RPVhsqz9Wu91H4X/VQN9C02mjf5gIJuTitD6N0eNgPudDQNVFFTG9TLnXtzRtINUzxtNZmaqaifAtYdBZewS0Nuye5mN5ZuBaojqc0WV4jEwvpHYhBAOB0r9Jp4AYDuTWXba8bwcqwau/D5gqOUNeY3FbPxaT838e2aRvqoQHGOi4I24njLCFQdewJRMhFQUgOotlu9jvVZJGQzjk4TF0BLHxEbpXrc1bC0rpA==;ytqB4s7DvUb3xaxC9n5X9g=="
 ---
 
