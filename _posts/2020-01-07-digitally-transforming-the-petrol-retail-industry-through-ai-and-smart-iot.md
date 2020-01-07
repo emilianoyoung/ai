@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-tran
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/07/digitally-transforming-the-petrol-retail-industry-through-ai-and-smart-iot/amp/
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B117FBA51EF921F1BAECED5D8455AC64
         width: 700
         height: 466
+  - title: "Challenging the barriers to High Performance Computing in the Cloud"
+    excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
+    publishedDateTime: 2020-01-07T21:03:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
+        width: 700
+        height: 612
 
 secured: "12/cK2cxLlUnffbHM1DE79B2Zj4haQOb4bY4UKl/gmTrY0YCBamRdWtjUQAkeQdDEGDsklMB5A1gvUVD9rpqk3ok5s7CzBYjnKq0/e/AZchUQs6v22VX0Q7RXO3vC83ayZHIaLpPKrDD/WCPBsErqw6y6XGDnhLmEbB5rR8SwDmivNJu42153qOnKx3VsUVvrI0ZkHnyqyyZbj/yHl4PxU42/sTnBMkvGoYFza7PSc8OtEDunJKIQOgXGBUPyNnAZI827VgVE5ncv5Gox09LSw==;FNKMpFD+bhR0G1EtdusV6g=="
 ---

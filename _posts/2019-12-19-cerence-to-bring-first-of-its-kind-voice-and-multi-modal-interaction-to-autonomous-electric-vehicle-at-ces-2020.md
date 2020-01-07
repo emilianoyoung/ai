@@ -128,19 +128,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 18
-  - title: "Computer algorithm helps doctors understand conversations about life threatening diseases"
-    excerpt: "Researchers from the University of Vermont Conversation Lab used machine learning and natural language processing to understand what a conversation about the treatment of life-threatening medical illnesses looks like. This research could eventually help ..."
-    publishedDateTime: 2019-12-18T20:08:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14420/computer-algorithm-helps-doctors-understand-conversations-about-life-threatening-diseases
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 15
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/420/14420/218860_web.jpg
-        width: 1440
-        height: 959
 
 secured: "6Z5LmIq7cKfJ28xuc17YCiywmH1yiKLGWTOOz6NPJC/9eGolTvmHfCPxJjlXgszstlduS4vht+o6/eo0ZxynO+Wmr2drNpehQ9RabUIC+hd3NdZxmzt/Pe0LHV5lml8eUFj1RDyMuP3wboAkM5Tpq3yEMq6ecNPH/ByWzjJdmexp2ftYNtCIlzWniCjFfJyvDMw2i4KvhRh3Kp/feuIXVh+XMMk4Qm73taH6N3jS6YGZV7Uc6gWDLxobMnM/kgWCJMisPE8G+JIwCjbMe28JhQ==;jSomP9O9Bq+HhrH7mt5FIw=="
 ---

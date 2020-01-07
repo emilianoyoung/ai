@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning models. Machine learning algorithms are often divided into supervised (the training data ..."
-publishedDateTime: 2020-01-06T11:06:00Z
-sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+excerpt: "Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression, K-Nearest Neighbors, and Support Vector Machine (SVM). You can also use ensemble methods (combinations of models), such as Random Forest, other Bagging methods ..."
+publishedDateTime: 2020-01-06T11:03:00Z
+sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
+ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 104
+heat: 105
+published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: /assets/images/organizations/infoworld.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
@@ -25,6 +29,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "+18gr8vqhU2BJG805b8P9qrJ34nA7hSsnahBeSDVqElR4bXNkdBHeaPEYJo3rR8e+1DIAIpuRqISHhHW1G2wo6T+weYGCTy2Ygt2Jrc73vYB900S1E6I6sUufQheFgpAwe3FYAk3+T/WOp+rHTafvp56diy874NavPOcTSHQU7LyiKxqc0jnjVWcoQW5qikp/pWdUbZ1fIQ8UUrBFGBjL6G00M1nZ4y8rJLvzpcMRul6M9Xw0+g+0oF0Dc4cWhSwUCq5kH0flgx9itmShYTILA==;E8+aAQCki8+QfH0XB1YC2g=="
+secured: "YiptnQkq2S+QQJaNFQN/McmQG084nJnrVzZHVApD+/5dsPOqTIk2ruxVUf50Hy3Gr6jS8JPqrfs/5yiJXJpTGe1aSyKqxipaPy6CdtVhvoFKF2m3oDVw4L1OnFHI6w++sg9w+FaO72qX7EMcjy1EeDAg2UljjTl79yXvKPF9HQM09Ww7rKFWykosYHNHknQlZIXNNFy+wXt+rzYSrXHNU2LHiWDn5nNhvFXucwGTuwUTUPvRgvbVG5J//pT/j97+/H6vSavatuan8h/Th8SYnQ==;ZXmJWnMhLA8hZf3r/H289g=="
 ---
 

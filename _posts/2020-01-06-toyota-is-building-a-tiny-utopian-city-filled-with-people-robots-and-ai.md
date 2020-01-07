@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
         width: 700
         height: 393
+  - title: "Toyota Building a City Japan That Hates Human-Driven Cars"
+    excerpt: "A traditional closed test track can't replicate the unpredictability of real life on the streets and sidewalks of America, and few of us normal people are eager to share our morning commute with experimental driverless vehicles ... The structures on-site will have sensor-based artificial intelligence to check occupants' health and in-home ..."
+    publishedDateTime: 2020-01-07T21:20:00Z
+    sourceUrl: https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/
+    type: article
+    provider:
+      name: Automobile
+      domain: automobilemag.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.806E7E58AFB6D280F90A3F0D8D677319
+        width: 700
+        height: 367
 
 secured: "cgUDZSAi6lhRRbNrxVMeyXeoChd+9HNMpSDoOQvFLOjVnOPZVh0ocAzteEfOLdTqgxye8WAs3AckRAqPV6WgiqIfjA+ax/DCPSDLSqCJMEkHeBJyArtDeFRZY0IX4jNLFmsnfHBTjGTJfPyPCO34URgpt9aJFU4W7WplyqCsg0SOtj1fklMgxLDAOTRd6bGTt8T4vOU1xorbROgoTjlzzyrPma/CoMh3SDt1CY8rsfH0Z6/k1E3avHIXaQfZbuTrti9xcxP4M9LiAf8oSj9e9w==;KN67eR1QqX83LRsSwwiG4g=="
 ---

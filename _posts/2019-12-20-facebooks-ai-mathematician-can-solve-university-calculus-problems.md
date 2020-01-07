@@ -8,7 +8,7 @@ ampUrl: https://www.newscientist.com/article/2228399-facebooks-ai-mathematician-
 cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2228399-facebooks-ai-mathematician-can-solve-university-calculus-problems/amp/
 type: article
 quality: 141
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -19,21 +19,6 @@ topics:
   - AI
   - Facebook AI
   - Natural Language Processing
-
-related:
-  - title: "Facebook's Neural Net Can Solve This Differential Equation in One Second"
-    excerpt: "This is how we learn to recognize patterns. Similarly, neural networks rely on layers and layers of artificial \"neurons\" that mirror the ones in our own brain—only these so-called neurons perform basic calculations. With enough of these working together, the entire network has the power to solve more complex problems, even though individual ..."
-    publishedDateTime: 2019-12-18T20:43:00Z
-    sourceUrl: https://www.popularmechanics.com/science/math/a30259699/facebook-neural-net-math/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 25
-    images:
-      - url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/differential-1576697206.jpg?crop=0.998xw:1.00xh;0.00321xw,0&amp;resize=1200:*
-        width: 2495
-        height: 1250
 
 secured: "JW8X6gO+ecXxJ7nxMC9S8hmgoV9pntFV0fK1s/b+h2LVx1ODv6VxrOGc9I8ktwKSkixn1Ky+VVfTPoXIA9L7/jRB+Gvm05tZPnxJ4OBbuRStAhZgZaJznDObSaCJ9a7nW1RTtbQe+EICnbVXfOTFCAXl7jWZRTMjHcocHkbGIUGxKs1OiE5OyhAk8f+54Ic1o/1xHltXg3LYFtbABnX0GO5jjFh+9eajXHip2s0R4E6IvhwVSu4/kSLvzThjZXBIJSt19PTCyn9pgWkort9L1j5pGkr244iT2twM6BeJEmE=;8x6OKbLLLFpci6cWlFITlw=="
 ---

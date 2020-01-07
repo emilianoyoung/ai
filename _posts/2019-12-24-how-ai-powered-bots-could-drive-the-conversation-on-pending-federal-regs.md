@@ -116,19 +116,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 18
-  - title: "Computer algorithm helps doctors understand conversations about life threatening diseases"
-    excerpt: "Researchers from the University of Vermont Conversation Lab used machine learning and natural language processing to understand what a conversation about the treatment of life-threatening medical illnesses looks like. This research could eventually help ..."
-    publishedDateTime: 2019-12-18T20:08:00Z
-    sourceUrl: https://electronics360.globalspec.com/article/14420/computer-algorithm-helps-doctors-understand-conversations-about-life-threatening-diseases
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 15
-    images:
-      - url: https://electronics360.globalspec.com/images/assets/420/14420/218860_web.jpg
-        width: 1440
-        height: 959
   - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
     excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
     publishedDateTime: 2019-12-19T12:00:00Z

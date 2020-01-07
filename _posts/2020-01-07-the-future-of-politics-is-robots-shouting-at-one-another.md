@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -73,7 +73,20 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
+  - title: "CES: Toyota's building a city where the future full of robots and AI"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
 
-secured: "K85/9VuYRUmqTkurkjMh2Q9PBK/iroiSsiPC+vCXBtt6ad3XvF8lJ/j7BLFl3drN4yjkAPNmyhF7Za8AsjayjAGrgX1mT2VliIwDDq3sxBObAEgCZ1KSQ5ufsF6T93lhvizRuicEOneospwl+Rb3I60IiGfkyXyBJFOr7+wTZWAqiMbEAFOYCh5N/xUYx97zInoDxPcQb3T4BM5tWlfxdta38520x8TIINQuuDEexs3nyMLEjjQnn6CJ3mjje6vXSEg96S8OFM7tWtpduWRFIQ==;4ztw90N3vKz1j9VEamec8g=="
+secured: "XAmWdRhEEdc7bofOJmKWvqdUwZ1i9pXcS2XcVkP/Y7j8SIEhkqqVMolOYup87Y2Ald8mz9gEV511e3u30IKK+i++01KyVb68JbpCmXWpsJ/r9r75JoewuYzHcpp+ILTKSSGIM3MzNcgq57d9gOBjk+DtzVUCTX3NEF4WEIOh4YhFrHwSMDPpleSnNnDYofKkm3AdB3WuzcK6mF/5+qfNmz+JytpDguhLV1I8C/mvadaaIxWalGtYCy1Z6OPHSo85EnaVn/UAn4pTcqX7EtbsqA==;J65Y3hDPKdlzJ40cFnsRTw=="
 ---
 

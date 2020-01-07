@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-12T11:12:00Z
 sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 67
+published: true
 
 provider:
   name: Medium
@@ -27,23 +27,6 @@ images:
     height: 567
     title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
 
-related:
-  - title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
-    excerpt: "Object recognition models have improved by leaps and bounds over the past decade, but they’ve got a long way to go where accuracy is concerned. That’s the conclusion of a joint team from the Massachusetts Institute of Technology and IBM, which recently ..."
-    publishedDateTime: 2019-12-10T18:44:00Z
-    sourceUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/
-    ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/e89af8af-a332-438e-8a53-204977c43520-e1576002264880.png?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
-
-secured: "iRrz9hg8RgfXpJ3zFnI4jg9RnPG+cYRNIwCHwKXcrIGG7LuwRyx/VG7z6uAkZptF/jqS/me5bKLtLkiRiPhmoS7i8kIjQ/eqFIiAJrhl/t2NzKQyV7hwqqZLUIJdhhF2mScUhu4z6uyoAL00uDDFNLGa8/OFe4dtt98UX+e5YdWQ9aZUt6f3M60P63KJa5ZTJ8IQz/s5Z5vWAMn0NChTIv11wyyVGHgRQdwLCB58ki/N2lWIZbysnmAhVyr+naGBdZAOgc73Ldj3mQXyatj4Pg==;HeHKcFQOwJCoiuz10h2oeA=="
+secured: "etFn/9fSflpK34WJBng7RhEdPnk4fhHU8hL7SHh71kx2atXCPwd5g39hEZq/h/mRPwwLXN6LI7mMUi3xj/VuuJMTTFGpMvCl8x5WuYuJ+kyDXbpirK4dj6cOvnc+xGy9HA+ygUIViRLPbeyi+j8GMCh5qqvECwnaQvP3vaSZsfbq1/NcqeMx7uBBsGN2eng2kk09GvpEDH7eKBFXXtEOwJnTFzWaZVGqlZI7aZKWbG5rgg+nvUt6DsvCUfR1Gpf6VOAshHF5e8KStDSTucG4WA==;teQa88KIjlygoJ5kiSgR/g=="
 ---
 

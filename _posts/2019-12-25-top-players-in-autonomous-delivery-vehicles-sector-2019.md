@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
         width: 600
         height: 315
-  - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
-    excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
-    publishedDateTime: 2019-12-18T20:48:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/49995-nvidia-announces-new-orin-soc-with-arm-hercules-cpu-cores-and-next-gen-gpu
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
-        width: 620
-        height: 465
 
 secured: "JDs731FFOJe/AiGVriW0pRWJfKaLXLtsMa+ekP5TmLE3zbD08F019QXLAObLvOvZMKMEy+H7FIB0HI/BRmNcVFqMkZRHPT4IGvoS6ucAH115je0oMCFzpayBbTMh/3k5/hmeDkhU1R0odE1SsajoGGI/P044RYfwKgJEdWrhzge06/JiP3MYcxiaMWlakEbvRp0WgkYOPJtEC53/mEX/nDTKd9WK6BqSd6omqLG/f61SDH0pqUeIZFwyRcJGJVkzMnzxhnHEbYxq1V1WqTKLHg==;7GEYAXSFwJ94BNkDDfch1g=="
 ---

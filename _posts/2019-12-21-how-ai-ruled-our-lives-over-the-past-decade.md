@@ -25,7 +25,7 @@ images:
 
 related:
   - title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
-    excerpt: "The car you drive to work might have driver-assist technology, and in places such as Mountain View, California, you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our ..."
+    excerpt: "you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our transactions and to detect fraud."
     publishedDateTime: 2019-12-16T05:17:00Z
     sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/
     ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/

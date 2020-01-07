@@ -29,6 +29,6 @@ images:
     height: 3500
     title: "How the driverless vehicles dilemma highlights wider system safety issues"
 
-secured: "9HLtKtQTtgZYpRTFUTUT3eBKHh42xhepjkhCHRpr/Do4sJaVLZtw+Ie2/Z9Eifj7CUqj0NyA2Rj6+0pnv4x1LBPGdZIGsj59Ue6aHidj/y5QPUGWKpZVz6JBbpPX6gc0TvJvq5owGN/YxN8mTjMqtcw1foPLRepx0/dbG5I1E+9KPGI1h00OZU1a0qwEwXQNWZQH60YwiZOnLf3jGO8L77EoK8j9sZ0USMTrQhNc87i35OZu6u+sFAqJcPT7oVBlkfuuv4/kBTBcNkKP5B6LWg==;RJVe+R1ZiXZ2ndSInshkHQ=="
+secured: "vCSj0aleEyeSKkUjsa4zUQLYw4Ts81IBZBUNzqsaLLlPWf1/zn6RMjACzDb5x+R1Ww7d8xHIiUEFox+msvn0dVkwYxXQU1aSNUY61NwYVs3ybhdGLuS2uLvX92R8r9pLTOmqYElXm0hGrz+LF7pF2CDu0kC1PxEzlryfc4KjcmYRu+HiDhbsUckpQvqxAvI5GTMrMg6H2cVcrH1qHXO2j7m+7NqhwB+79LfBgd42d1sAZvVv23TUofXR21/iZkq+z/ZSzp9F/ohpEvt/yNlz8w==;K9COzF/b0FOKRGX+jgYK5g=="
 ---
 

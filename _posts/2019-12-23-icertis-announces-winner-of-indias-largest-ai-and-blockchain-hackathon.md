@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8CF4C4AFCA9D86B6870DBC94E3D0C75D
         width: 700
         height: 393
-  - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
-    excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
-    publishedDateTime: 2019-12-18T20:48:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/49995-nvidia-announces-new-orin-soc-with-arm-hercules-cpu-cores-and-next-gen-gpu
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
-        width: 620
-        height: 465
   - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
     excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
     publishedDateTime: 2019-12-25T06:38:00Z

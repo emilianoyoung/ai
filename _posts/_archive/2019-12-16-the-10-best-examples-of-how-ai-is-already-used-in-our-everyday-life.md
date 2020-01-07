@@ -1,7 +1,7 @@
 ---
 category: news
 title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
-excerpt: "The car you drive to work might have driver-assist technology, and in places such as Mountain View, California, you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our ..."
+excerpt: "you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our transactions and to detect fraud."
 publishedDateTime: 2019-12-16T05:17:00Z
 sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/
 ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
@@ -44,6 +44,6 @@ related:
         width: 600
         height: 315
 
-secured: "dOEGRYnEzaqlNwTqLY7LMNcsW5BjEKDtW9BQgplsHBLDTdXs6AAXffqoAAuuAhG3QFRGnodQm37z+InsgzdgnjVn/zylP1RZG+jW6RWNtzH3GbBJ8LkyG69JxD2s5NNJ2xp2ekfyuldZIt5ooJBGZk8bBd3y0gmlT2GuYzppRfrdqAU1w7TZZwgbwy8dKaw0gtLlhxFX6OVF1ZTokxFP+yhmKsoqjdsvFR8WTMxiOEvwC1vZThE13cogioVi9Z/kxgOMJdqCOqhcdJfF02/Bdw==;JF5KsF7/G/FgaqpNI+t+1A=="
+secured: "Y+1GsOml0eE/HjJVHKHzBy9hMQ9Zh0LE7o0+AJMF+/OfJSfOdtOJCa/aTHIig0dGnOjmtMSdOj0epKd1Dh+eE3vsdacDjeK66kgjB17XEFNTdXSVoXEYpG8Uy8SQGJpLt+PrJHrch9pDtD66dNkKyDW1aWjMQ+wnWPmamNVChPh8dvk6ZoMIqknmKpFDC+u31XJpnAN15l8KTZIx2sj0hhWB/t+BHu4SDvAmVUNWudWUJMEePvCGbJvVdNSJAXhMkitWd7wjn7IVsSU/eOC9Qg==;jogL6fE86MpuNwBo/dtmUA=="
 ---
 

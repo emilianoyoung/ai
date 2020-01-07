@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D7E872AB31C6CBA3BBE8155071BCD622
         width: 700
         height: 525
+  - title: "The 8 coolest robots spotted at CES 2020"
+    excerpt: "Ballie is a small, round, rolling robot that is designed to support, understand, and react to the needs of its owner, specifically in households. With on-device artificial intelligence (AI) capabilities, Ballie uses sensors and data within the home to create immersive experiences for the user. Ballie can connect with and control other smart ..."
+    publishedDateTime: 2020-01-07T19:49:00Z
+    sourceUrl: https://www.techrepublic.com/article/the-8-coolest-robots-spotted-at-ces-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.BC9F8F12A87F2C390C6AB20644FDD5EF
+        width: 700
+        height: 525
   - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
     excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
     publishedDateTime: 2020-01-06T17:53:00Z
@@ -89,6 +104,21 @@ related:
       - url: https://www.bing.com/th?id=ON.22B0AB343C2308B0EAAA625D7CFD1F4D
         width: 700
         height: 525
+  - title: "Toyota plans to build 'city of the future' with housing, robots and autonomous vehicles in Japan"
+    excerpt: "Fuji in Japan. The \"Woven City\" will include thousands of residents and will test autonomous vehicles, robotics, personal mobility, smart homes and artificial intelligence. Toyota plans to build a \"prototype city of the future\" on a 175-acre site at the base of Mt. Fuji in Japan to test and develop new emerging technologies such as autonomous ..."
+    publishedDateTime: 2020-01-07T21:04:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.4F90164C92A9255588318DED4308E670
+        width: 700
+        height: 393
   - title: "Snapdragon Ride is Qualcomm’s autonomous shortcut to self-driving cars"
     excerpt: "Qualcomm has built a modular autonomous car system offering automakers a shortcut to self-driving vehicles, as the chip-maker attempts to extend its footprint outside smartphones and modems. The Qualcomm Snapdragon Ride platform includes multiple chips and accelerators for things like computer vision, packaged into a car-friendly form factor ..."
     publishedDateTime: 2020-01-06T18:30:00Z
@@ -221,7 +251,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

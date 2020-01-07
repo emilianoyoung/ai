@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.301EF59C680A7AF40C7EB5F7BE657899
         width: 600
         height: 315
+  - title: "Challenging the barriers to High Performance Computing in the Cloud"
+    excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
+    publishedDateTime: 2020-01-07T21:03:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
+        width: 700
+        height: 612
 
 secured: "5+W501/2uZn5keePWBPTrCT8xvqv4NQdDtilfSlRPmy7i5G+0UJmsaRtWAPz1sVUA8G1kJuK23/HLogCF1KHA7/E3hMTlb36bDkU0y2HxGdz4btu+1GrqaVq0D3+Ncmi44UV/an58CPJM9KP/lYarMZfaKkEtOBmv13oGyyiMvvbvs1Q+ntFvcuL/itpChfZugIg79TYF6GGZw80BAorQiLShcbBiI3RM5jE70ZJPOUOD/1PMsh8zWerKpYR3HJAe9e8WfWxagSE4vW4nObflQ==;BfGs5ljDD9Ohd5bIiRh0Pg=="
 ---

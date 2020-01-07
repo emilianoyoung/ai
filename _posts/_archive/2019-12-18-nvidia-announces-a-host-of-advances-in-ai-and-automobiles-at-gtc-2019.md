@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advance
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
         width: 600
         height: 315
-  - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
-    excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
-    publishedDateTime: 2019-12-18T20:48:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/49995-nvidia-announces-new-orin-soc-with-arm-hercules-cpu-cores-and-next-gen-gpu
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
-        width: 620
-        height: 465
   - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
     excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
     publishedDateTime: 2019-12-25T06:38:00Z
@@ -70,6 +57,6 @@ related:
         width: 700
         height: 393
 
-secured: "gV1e+qFEESwtOaGtU60uISahRIBhdOvcjyzHXF+DK6oipftYA7pUnWyip1g8ZXqTVB1mhHhQ9kYlQiIo7/0MgSsvGo12g/34+HvhvVbB28nnhOpKsUBR3ktsQRRXZV239F0PpluGDSH1jNRsKPFREH+MD9zxX9l/1QGcBzCfAXYYLGVGs509LjeX0GM2PPGSQ4toXJUIed6QGL3Fhj47qkDJzNjjMJws7sUADHzsRrvvk4jiMFqYXeimS64erDwlBMcVY00BrrX6r6BSCknX7g==;cmxsGOQ8BWZRzyt5rAjMTQ=="
+secured: "drku3YArrKvSoEgKWDWzSYkbPPN+RZfTqokdzPIB1Jdm7hdYqkjYgKbDZ8lklxr8uLPRsgYmFVB2WqYEHuaZ7d4d/3mSJFHzQjp8Mu6FldAc3Go2kYjhdJjrUgU7bmVKdX1AkXKugMoFG++GQbVRmma7kEixF1ttiVyiidAdKB7yWjbrxV5wnz2UcvwThQUIgwFqOhqjkcdgVbOe7USDCOsQQ84KsFGwjoZma2Op3iPTmgdsueToSXbjFebLJBueyK1mpK2XHemHU6kNOMG77g==;Ie4aoPmx/s/c/SjY67UXCg=="
 ---
 

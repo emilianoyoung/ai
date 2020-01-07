@@ -1,25 +1,25 @@
 ---
 category: news
 title: "White House proposes guidelines for regulating the use of AI"
-excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. A document from the White House said that in deciding regulatory ..."
-publishedDateTime: 2020-01-07T13:01:00Z
-sourceUrl: https://www.sfgate.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
-ampUrl: https://www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. The White House said that in deciding regulatory action, U.S. agencies ..."
+publishedDateTime: 2020-01-07T05:13:00Z
+sourceUrl: https://www.chron.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
+ampUrl: https://www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
+  - url: https://www.bing.com/th?id=ON.67BED75E2849E6C0060128EB70502258
     width: 700
     height: 474
     title: "White House proposes guidelines for regulating the use of AI"
@@ -115,6 +115,21 @@ related:
       - url: https://www.bing.com/th?id=ON.27448045530E1CD3A90C14E3A1F68054
         width: 700
         height: 466
+  - title: "The US just released 10 principles that it hopes will make AI safer"
+    excerpt: "The White House has released 10 principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI. It is also part of an ongoing effort to ..."
+    publishedDateTime: 2020-01-07T15:51:00Z
+    sourceUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/
+    ampUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.ABBCC1F1D08102D8F757250C4EE3A51C
+        width: 700
+        height: 393
   - title: "The US just released ten principles that it hopes will make AI safer"
     excerpt: "The White House has released ten principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI research and advancement. It is also ..."
     publishedDateTime: 2020-01-07T15:51:00Z
@@ -198,6 +213,6 @@ related:
         width: 400
         height: 400
 
-secured: "iqJZIqTMc9p0yox1Y1uz3kOuKIVYbbvDVSYKLhPaVNmbTmOKneGHSKaGkFzMxD2aSW488zAfHuGd1Ho2m/2f7Hwgk7lrbf0PfFkPwAWRKkuP3QtGSbaE51OBkkaM948p72WG00eOQ2J3Wat47X0bANOW+dCRby169Uwm2U0IQ/zjSx2/VoyuoTrrvhSKaxyt754h6Sa0UDn9Kmu16kudd3P2+973npwWFaYvgQUBh+SpOTAoXxnwNMqtZLRFAf+zN0NFYJOi1X1ym53BJjl99Q==;DkelIc2G/G9+gWVw/P6nVg=="
+secured: "q4dbY/GiFUR/ZOugAm2FgbwFASt5Wtc3gy/uIdy19T8AxqUInmn67ssq3IybwFd3NMmkpeyowbUX1vj/KBoVbD4eWbV1Fv1CQP8diidEVgDemkTM+letPJYygHyXjTjIJ5MBNNR8qWnaLw00yjtyUGFHCGiYTgEbGimZdYKmmVFjvp1m1AJM+m7CsmFxzMytmE4atAEihzR5W2WZY6H4LfyDhjjQe2KOtU1ISs+KJyFqoKhKXIlaO1gYf3nwAepsPSzV51NcHPbhT3GFiXtISw==;2ElPN1RSDEYMU6qhnGImaw=="
 ---
 

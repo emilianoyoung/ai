@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-07T15:10:00Z
 sourceUrl: https://www.waff.com/2020/01/07/al-robotics-technology-park-launching-next-phase-robotics-training/
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: WAFF
@@ -24,36 +24,19 @@ images:
     title: "WATCH LIVE: AL Robotics Technology Park launching next phase in robotics training"
 
 related:
-  - title: "Maxar’s space robotics head Lucy Condakchian is coming to TC Sessions: Robotics+AI"
-    excerpt: "TC Sessions: Robotics+AI is creeping closer by the day and the agenda is packed. Today we’re announcing that Lucy Condakchian, general manager of robotics at Maxar Technologies will be joining us on stage to talk about the company’s work in space, and in particular NASA’s Mars 2020 rover. For decades, Maxar Technologies has been an ..."
-    publishedDateTime: 2020-01-06T17:05:00Z
-    sourceUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/maxars-space-robotics-head-lucy-condakchian-is-coming-to-tc-sessions-roboticsai/amp/
+  - title: "How the Growth of Robotics Market in India Affect the Economy?"
+    excerpt: "Being an interdisciplinary branch of artificial intelligence (AI), robotics engages different fields of electrical and mechanical engineering and computer science. Robots mean multifunctional, automatic and re-programmable industrial machines that are embedded with a variety of high-tech devices like visual, tactile and audio sensors."
+    publishedDateTime: 2020-01-07T13:01:00Z
+    sourceUrl: https://news.siliconindia.com/technology/How-the-Growth-of-Robotics-Market-in-India-Affect-the-Economy-nid-211739-cid-2.html
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.545008940EB86145C6D73F7D03BE9001
-        width: 700
-        height: 381
-  - title: "Listen to top VCs discuss the next generation of automation startups at TC Sessions: Robotics+AI"
-    excerpt: "Robotics, AI and automation have long been one of the hottest categories for tech investments. After years and decades of talk, however, those big payouts are starting to payoff. Robotics are beginning to dominate nearly every aspect of work, from warehouse fulfillment, to agriculture to retail and construction. Our annual TC Sessions ..."
-    publishedDateTime: 2019-12-30T21:04:00Z
-    sourceUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/
-    ampUrl: https://techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/30/listen-to-top-vcs-discuss-the-next-generation-of-automation-startups-at-tc-sessions-roboticsai/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.E09B6D594F2D7BA527756CB20425CB42
-        width: 700
-        height: 381
+      - url: https://www.bing.com/th?id=ON.BB515B9CA86A7C3A85077B97E2462234
+        width: 570
+        height: 367
 
 secured: "YdyvrpUJSMjIeNiSn4jF++dbsLG39glvUWAiCkcHFffkWjjCdze9buyY/IAlK5aQbZIxYw9eOfwDxkRltF6YJenFVXD7piCKLPOp6lcf51xV4cFeGn88Rf2hO0w5EJharIZVoFjU6MqvfVVxAq8ZYGr8QjTH5Y2M31+K01DpTl2ZSayCZtwXzH/ugskxtwh35T8qw8uDQmmknTH3fh8Eh330fQEaO3XhHkf1dpFupgt4AywZcVKnEy4x/Dpw9ILPPjDA7eceNp7We6n/jgqJog==;RO4o64SyxoNzPeDdGorMLw=="
 ---

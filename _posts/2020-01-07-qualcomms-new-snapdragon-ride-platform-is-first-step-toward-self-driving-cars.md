@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-excerpt: "Eventually, the company believes its new Snapdragon Ride platform can serve as a foundation for full-fledged self-driving cars. Qualcomm announced Snapdragon Ride Monday at CES, the massive consumer electronics show in Las Vegas. Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo ..."
-publishedDateTime: 2020-01-07T02:46:00Z
-sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+publishedDateTime: 2020-01-07T04:02:33Z
+sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: San Diego Union-Tribune on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -41,36 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
         width: 600
         height: 315
-  - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
-    excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
-    publishedDateTime: 2020-01-07T16:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
-        width: 635
-        height: 400
-  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
-    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
-    publishedDateTime: 2020-01-07T06:11:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
-    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
-        width: 700
-        height: 393
   - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
     excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
     publishedDateTime: 2020-01-07T06:29:00Z
@@ -84,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.62C8ECE3C4CC2D22FC0A0E3AAA928DA1
         width: 569
         height: 325
-  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
-    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
-    publishedDateTime: 2020-01-07T12:13:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
-        width: 580
-        height: 358
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
     publishedDateTime: 2020-01-07T19:22:26Z
@@ -111,6 +66,6 @@ related:
         width: 700
         height: 367
 
-secured: "zHtIDY2dqkbU7byBtI9rmmi9zPC8cBPAGdyBTluH8Dv9ED+j/VUDAfhKbAzUk7BswuwALFAwGt3ytAFQyEOGyYKyDASxofTtQoX1XPbCXkD+X/eKk6ERNRZN2cLF/9AL8cTIPx6akn74g5BtbI9FP08KElCS5xJmfMyGqAy2E9RV7F9hFNNvzbSb/4IBfsc3nBlfpLMRDmSJcP+6S1j4PHkUyJBYCtQgH7sX5s6MgKnyugTS8XpBSgoOaZU1YZA84ZQ9yzCVY6rlYMPn3fXiuw==;gZ8a2btzcWqLDO713Ix9fQ=="
+secured: "M5i+Mct3kzDPtVYCX9m7O2ZkZWMPKIOj5jTSUv7naiMb00wlUOqJyfhNingWwtU9ngj3z7OlPolK7kt+t8Y+8SLd5eQuNSpRZX8dN6sZ5O9KoOaJ7eoGp5e38SHFe7uLpCl9RNYOVNvXmOHZomU8Zk6KneLML0Raikr5TWB3JireacTjgowcJ36wEL1MPQYJk1DODj5ZxMl6uirrYPBtGrYX2+LB4GwS7WKlb/+tZN6x5Acvj6QE+XrL6KnASwY+dOHVXOoCfyBqk2+qODq7TQ==;d8VvmN4xQPmmiKoRKeIGOA=="
 ---
 

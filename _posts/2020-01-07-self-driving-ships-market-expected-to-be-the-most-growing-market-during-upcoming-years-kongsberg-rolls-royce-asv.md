@@ -28,93 +28,170 @@ images:
     title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
 
 related:
-  - title: "Machine Learning Market Size will reach 39.98 billion USD by 2025"
-    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has added a new report on Machine Learning market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size. Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the ..."
-    publishedDateTime: 2020-01-07T13:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-3998-billion-usd-by-2025-2020-01-07
+  - title: "Lidar laser-sensing technology - from self-driving cars to dance contests"
+    excerpt: "DETROIT/LAS VEGAS (Reuters) - Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronise dance ..."
+    publishedDateTime: 2020-01-07T21:37:00Z
+    sourceUrl: https://uk.reuters.com/article/uk-tech-ces-lidar/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contests-idUKKBN1Z62AX?feedType=RSS&feedName=businessNews&rpc=979
+    ampUrl: https://uk.mobile.reuters.com/article/amp/idUKKBN1Z62AX
+    cdnAmpUrl: https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN1Z62AX
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Reuters
+      domain: reuters.com
+    quality: 73
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+      - url: https://www.bing.com/th?id=ON.3CEDB96799BBDB195B3FFDC3082DFC2D
+        width: 700
+        height: 466
+  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
+    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
+    publishedDateTime: 2020-01-02T13:48:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 72
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
-    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
-    publishedDateTime: 2020-01-03T07:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
+      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
+        width: 700
+        height: 366
+  - title: "AdaptiLab, A Techstars Software Hiring Startup, Helps Tech Companies Acquire The Best Machine Learning Talent"
+    excerpt: "In the war for top software talent, hiring high-quality machine learning engineers is a challenging technical problem in of itself. Early-stage startups have to spend precious working hours sorting through candidates' resumes. The problem isn't any easier at larger tech companies. Still, at least there's a dedicated segment of the company ..."
+    publishedDateTime: 2020-01-07T13:51:00Z
+    sourceUrl: https://www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/
+    ampUrl: https://www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: https://www.bing.com/th?id=ON.7FFD647D0D54183705E192F2E9FC3417
+        width: 600
+        height: 315
+  - title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
+    excerpt: "The Consumer Electronics Show has seen big announcements in self-driving car technology in recent years ... Closely held Velodyne counts Ford, China’s Baidu and camera maker Nikon as investors and partners, and is also working with automotive supplier Hyundai Mobis to get its sensors into more vehicles."
+    publishedDateTime: 2020-01-07T19:05:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 61
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
-    publishedDateTime: 2020-01-02T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
+        width: 1069
+        height: 589
+  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
+    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
+    publishedDateTime: 2020-01-03T04:00:00Z
+    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-01-07T05:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
+      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
+        width: 700
+        height: 393
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
-    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Artificial intelligence (AI) within the consumer, enterprise, government, and defense sectors is migrating from a conceptual “nice to have” to an essential technology driving improvements in quality, efficiency, and speed. According to a new report from Tractica, the top industry sectors where AI is likely ..."
-    publishedDateTime: 2020-01-06T12:53:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106005317/en/Artificial-Intelligence-Software-Market-Reach-126.0-Billion
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
+        width: 700
+        height: 393
+  - title: "Sports Organizations Using Machine Learning Technology to Drive Sponsorship Revenues"
+    excerpt: "Using machine learning technology (think: natural language processing, computer vision), B6A's proprietary sponsorship model translates traditional fit and engagement benchmarks into probabilistic revenue growth metrics. Over the last 10 months, more than a dozen pro sports organizations have begun using Block Six technology - as opposed to ..."
+    publishedDateTime: 2020-01-03T00:02:00Z
+    sourceUrl: https://www.si.com/johnwallstreet/sports-business/sports-sponsorship-revenue
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
+      name: Sports Illustrated
+      domain: si.com
+    quality: 32
     images:
-      - url: https://www.bing.com/th?id=ON.A171C80FE097121EEC593918254B3198
-        width: 150
-        height: 150
-  - title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
-    excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
-    publishedDateTime: 2019-12-31T21:50:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-automotive-detection-ranging-sensor-214500040.html
+      - url: https://www.bing.com/th?id=ON.D62F157AE5836B95713B3EE093681B3E
+        width: 700
+        height: 466
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 0
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+        width: 635
+        height: 400
+  - title: "CES 2020: The ten best new technologies coming out of Las Vegas"
+    excerpt: "uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing difficulties to understand them. OrCam’s founders, Amnon Shashua and Mr. Ziv Aviram, previously founded Mobileye, a driverless car company that was sold to ..."
+    publishedDateTime: 2020-01-06T10:35:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-ten-best-new-technologies-coming-las-vegas/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
+        width: 700
+        height: 436
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2020-01-02T16:51:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+        width: 700
+        height: 459
+  - title: "Self-driving moves closer with new LiDar innovation"
+    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
+    publishedDateTime: 2020-01-05T19:10:00Z
+    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 4
 
 secured: "xATw4vAoDjB+TF9tYMfguMr52/ShDT7TaojIWqsAiZYzxOMl2E/In9Dvccrw8WD05pN1+n6SYnqQ0iQmN8glQD90tueY6a+sUVr9s2EhJ/37+JnnxJjsNzdtR1hEK1tEne1HwgogYee8mAGYAzd2fBQNcYCUfW/SeANLnToyEZMUN4SfjEy2s4spTbM4f6mg4CGl/BfWhf3FkLTwKcpPm0ICc9/FoC98FM6NItpBYcaEtdXtFB/BU07lPlBzarAQbidgvy01uJwuIJelVoQw8Q==;8HGd/eUU2wPwaWUv0h4JMA=="
 ---

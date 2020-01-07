@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
+  - title: "CES: Toyota's building a city where the future full of robots and AI"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
 
 secured: "UKfsjnCX3h7MsolEDwd8FUvX8LZ+lfOML4bubkgVqr+/d/9dEii2YMVGqZvfQhnTS5Zan1IkV2JfIvAXAtOQtDG5wKJqyjB2PUS6SJHYAJ57SsiDpcBotNbAdpUVZoHlSsLpa1gHPjPr9yMdcZ6IVHG2/w59DaDrhT4ylqk7byqh1QmkWgT1rRA1e4a8g+i9kIh0A+lCx3FpuXY2lZKWUHAKqq3P5PXapycrq5lvTa5KcWX/M+rlEGdi2YQhYhuJ4ZysIDnnkwxsx9xC8/k1vw==;UEoxiDXHkFtl30wmCU3C0Q=="
 ---

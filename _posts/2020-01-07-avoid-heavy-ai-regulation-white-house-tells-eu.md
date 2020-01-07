@@ -114,6 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.27448045530E1CD3A90C14E3A1F68054
         width: 700
         height: 466
+  - title: "The US just released 10 principles that it hopes will make AI safer"
+    excerpt: "The White House has released 10 principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI. It is also part of an ongoing effort to ..."
+    publishedDateTime: 2020-01-07T15:51:00Z
+    sourceUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/
+    ampUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.ABBCC1F1D08102D8F757250C4EE3A51C
+        width: 700
+        height: 393
   - title: "The US just released ten principles that it hopes will make AI safer"
     excerpt: "The White House has released ten principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI research and advancement. It is also ..."
     publishedDateTime: 2020-01-07T15:51:00Z
@@ -130,18 +145,18 @@ related:
         width: 700
         height: 393
   - title: "White House proposes guidelines for regulating the use of AI"
-    excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. A document from the White House said that in deciding regulatory ..."
-    publishedDateTime: 2020-01-07T13:01:00Z
-    sourceUrl: https://www.sfgate.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
-    ampUrl: https://www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
-    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+    excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. The White House said that in deciding regulatory action, U.S. agencies ..."
+    publishedDateTime: 2020-01-07T05:13:00Z
+    sourceUrl: https://www.chron.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
+    ampUrl: https://www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
     type: article
     provider:
-      name: SFGate
-      domain: sfgate.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 57
     images:
-      - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
+      - url: https://www.bing.com/th?id=ON.67BED75E2849E6C0060128EB70502258
         width: 700
         height: 474
   - title: "White House proposes guidelines for regulating the use of artificial intelligence"
