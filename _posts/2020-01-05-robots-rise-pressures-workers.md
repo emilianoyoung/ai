@@ -3,7 +3,7 @@ category: news
 title: "Robots' rise pressures workers"
 excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and artificial intelligence software are leading to human burnout ..."
 publishedDateTime: 2020-01-05T06:49:00Z
-sourceUrl: https://www.arkansasonline.com/news/2020/jan/05/robots-rise-pressures-workers-20200105/
+sourceUrl: https://www.arkansasonline.com/news/2020/jan/05/robots-rise-pressures-workers-20200105/?latest
 type: article
 quality: 39
 heat: -1
@@ -256,6 +256,6 @@ related:
       domain: dtnpf.com
     quality: 19
 
-secured: "1HGK5RH+4twEabBiyeaQo71YVIHSA7BqeQfb/80Hw5/5geLFmxNRWY2uJuADop5JhflqW9D95QjVOD279ztdz8JjzzuQCLUGX/iQO9FB+WcY270PqjNIk4Ax7xsI7PKF9aS70yCrDQOzoX/SWc7s5zxQ4IBmMiMj3jVanKI0YLNn0V6WS6JcOguaZQOaiEdeEYXcaL4qkeoUeBe2jYx5oeXPMqKi1MYFqjZAPgsF04/F6Tz1ko2zTd1ruRBomvNAMUo2g/f36IG/AexNfINJhw==;dUYxpHQqGwLTBq9eupW8vw=="
+secured: "pLe1yJZn/19WL5fkP5ZaBXapPoF3KLJPnkUxa/SACtElg7pr3RO1gM3g1wFmAMHipa1xfbhcGVFniVfuMGYE/HG61pi6pqhP2059sLpkcZp/1JC1wdD5w1basuX4teceFo7LRolVLEuak7TW/LJWDdFK2HFY8vk/PQMR7lC6S7fRWEyeu/9/ifxYWLhDGml753O5HFNqjL2B2eTzA6Iegel2A3jSpox6KqyyaewS7ncQarmbKGWTW6ehjP1+fHlbi7rElV4u+0WFVQHvyoSgKQ==;6KeYGdAh05UZNsiIHrBSEA=="
 ---
 

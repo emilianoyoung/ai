@@ -361,6 +361,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg
         width: 400
         height: 300
+  - title: "New Google AI tool detects breast cancer better than radiologists, study suggests"
+    excerpt: "(FOX NEWS) -- A new Google artificial intelligence model appears capable of more accurately spotting breast ... wrote in their abstract that they had aimed to \"identify breast cancer before symptoms appear, enabling earlier therapy for [a] more treatable disease.\" \"Despite the existence of screening programs worldwide, interpretation of these ..."
+    publishedDateTime: 2020-01-03T11:23:00Z
+    sourceUrl: https://www.wdrb.com/news/national/new-google-ai-tool-detects-breast-cancer-better-than-radiologists/article_dd3d5f70-2e23-11ea-aa90-9f781f6eedd6.html
+    type: article
+    provider:
+      name: WDRB
+      domain: wdrb.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.24587CDCEE59F17E6F6F5AC220BF54B2
+        width: 700
+        height: 483
   - title: "Google’s AI breast cancer screening tool is learning to generalize across countries"
     excerpt: "In a preliminary test, a model trained only on data from UK women still performed better than experts on US patients. The news: DeepMind and Google Health have developed a new AI system to help doctors detect breast cancer early. The researchers trained an algorithm on mammogram images from female patients in the US and UK, and it performed ..."
     publishedDateTime: 2020-01-03T09:28:00Z

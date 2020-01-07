@@ -43,6 +43,36 @@ related:
       - url: https://www.bing.com/th?id=ON.D7E872AB31C6CBA3BBE8155071BCD622
         width: 700
         height: 525
+  - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
+    excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
+    publishedDateTime: 2020-01-06T17:53:00Z
+    sourceUrl: https://www.cnet.com/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
+        width: 700
+        height: 525
+  - title: "CES 2020: LG pushes AI future with 8K TVs and home appliances"
+    excerpt: "As the Consumer Electronics Show (CES) prepares to open up its showrooms on Tuesday, LG has made clear that artificial intelligence (AI) will be its core focus for 2020. During its CES press conference on Monday evening, LG chief technology officer, I P Park, and founder of Element AI, Jean-Francois Gagné, introduced the company's new tenets ..."
+    publishedDateTime: 2020-01-07T02:44:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.1B06B352EE7EE82D99CF7B4F396925E3
+        width: 700
+        height: 525
   - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
     excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
     publishedDateTime: 2020-01-06T16:30:00Z

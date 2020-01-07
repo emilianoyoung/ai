@@ -24,6 +24,19 @@ images:
     title: "Performance of deep learning-based algorithm for detection of ileocolic intussusception on abdominal radiographs of young children"
 
 related:
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
   - title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
     excerpt: "The identified urinary biomarkers could be used to develop a point of care test for UTI but require further validation. This is one of the first studies to use machine learning methods to select clinical features and urinary immunological markers to predict culture results for uncomplicated UTI in primary care. We found that cloudiness of urine ..."
     publishedDateTime: 2019-12-23T10:18:00Z
@@ -37,6 +50,33 @@ related:
       - url: https://www.bing.com/th?id=ON.7029E9AE32C9202E1A022036C6534D37
         width: 685
         height: 514
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-medical-linear-accelerators-markets-2020-2025-leading-vendors-are-varian-medical-systems-elekta-and-accuray-1028776392
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
+  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market."
+    publishedDateTime: 2019-12-20T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-medical-linear-accelerators-market-141901932.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-medical-linear-accelerators-markets-154500499.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "QzBNQviv6ktHCMCl8tNrjluNp5/gtWlRyqMA/YGuGlS2X3Zjy0slCfwFTHPT7Vv2JWCQ6zlW8KwexQl5JJ10jHXJI8J9hr8dQlLKABwn1lUz94D9dTsBXfUUV8th2yuUqtigzHu1csgRMY1CbicDRVYkd+v9bEqk/MYmquiOPrMyF8xvuUw8FUjpRlhPqogadW7gGEJh8aNsxOHY4bPEfVZ4CsZZlopVadv5whPXR8bai4IaPe4c/VRiZqlgM5fEl5d9FfIHOLIxVcYwCUL0SA==;YBj8eJW682HD9eTjPar/ww=="
 ---

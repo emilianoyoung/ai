@@ -301,21 +301,6 @@ related:
       - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
         width: 700
         height: 350
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.1CB45A5F7A38E242BB1D7BAE767695C2
-        width: 700
-        height: 524
   - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
     excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
     publishedDateTime: 2019-12-31T10:34:00Z
@@ -422,6 +407,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
         width: 700
         height: 393
+  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
+    excerpt: "Announced at the Consumer Electronics Show today, Qualcomm’s Snapdragon Ride Platform is designed to make it easier for automakers to transform their vehicles into self-driving cars. The platform includes everything needs to run an autonomous vehicle, including the artificial intelligence software needed to avoid collisions, and compact ..."
+    publishedDateTime: 2020-01-07T02:02:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.C9C863A0E809D53731CBE6BE42B6B0DE
+        width: 700
+        height: 499
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z
@@ -444,6 +442,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T15:06:52Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more/ar-BBYFcAp
+    type: article
+    provider:
+      name: San Diego Union-Tribune on MSN.com
+      domain: msn.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.1CB45A5F7A38E242BB1D7BAE767695C2
+        width: 700
+        height: 524
   - title: "CES 2020: Inside the race to stop self-driving cars from being hacked and turned into weapons"
     excerpt: "On a long, straight road in Las Vegas, near the famous Strip, a self-driving car lurches to a sudden stop. It has detected a pair of pedestrians who had not yet finished crossing the road, on the far side of the opposite lane. They were far enough away that any human driver would not have considered stopping, but the car, powered by technology ..."
     publishedDateTime: 2020-01-06T17:44:00Z

@@ -2,18 +2,16 @@
 category: news
 title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
 excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-publishedDateTime: 2020-01-06T14:06:00Z
-sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+publishedDateTime: 2020-01-06T15:06:52Z
+sourceUrl: https://www.msn.com/en-us/news/technology/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more/ar-BBYFcAp
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: San Diego Union-Tribune on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -422,6 +420,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
         width: 700
         height: 393
+  - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
+    excerpt: "Announced at the Consumer Electronics Show today, Qualcomm’s Snapdragon Ride Platform is designed to make it easier for automakers to transform their vehicles into self-driving cars. The platform includes everything needs to run an autonomous vehicle, including the artificial intelligence software needed to avoid collisions, and compact ..."
+    publishedDateTime: 2020-01-07T02:02:00Z
+    sourceUrl: https://siliconangle.com/2020/01/06/qualcomm-pushes-self-driving-cars-snapdragon-ride-platform/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.C9C863A0E809D53731CBE6BE42B6B0DE
+        width: 700
+        height: 499
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z
@@ -480,6 +491,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "EIHBxsqxog0x2S86pIIb8RCA5h81ZadNX3b1Bx+1ufsIT4nQQRm1PPkyGE+YGjfkfhpNpAf1zSe6vv/QnlvaVOqVkvYi1u2Ax1gxugnNQWxexLnkMYNrs1AeV7rpKNMKYSQG2Lkorbe2ADFw9+2UwyL55At5lvbHye0+gp5A/SKTf7FtSLnHEW7V8cDNocr+iuobWjaGpeeJWlWcvYrrFNwSUBWoUttLCWbsJJQ23iWG7/eFCFa0Hvay9g+IUydM/auwotc7nhvniEODoUo5eQ==;xJRETC8U5L3yRIfEo2UtOA=="
+secured: "I2OFmZ3WQyYULOqumniO7vRjRsuWODuGzm8vphcyqffZQmxNtvcRbdlr+oQOAtRqMeLWjIMPuCbjOVxnQ+gbur53cOjzcTxtg86WQvqqlagkV8CaEdmL76ehUVnqh9kEpSyyMVp+cnwCnhVNNLN1aclYx96/MfnJHIiTQjcLwg6NLS/KIavyv2y6lzh/t6KOeHCVoDDPFufaRkCZ/DMgkLxSZIGXRRcBVyCpATR/DTvh9fcSsGD6GZHrx4Gg2aDIsxaQ1tdwufdrYp12T1M42w==;XrTxtcQkNhxwLRO3FcoUPA=="
 ---
 

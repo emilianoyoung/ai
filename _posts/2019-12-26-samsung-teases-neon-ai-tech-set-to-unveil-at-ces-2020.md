@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F26AEB03F21064A332F7FFF3D69E6437
         width: 700
         height: 393
+  - title: "Samsung and Baidu to start production of an AI chip next year"
+    excerpt: "It is a leading Chinese-language Internet search provider with massive cloud and server infrastructures and services. Baidu KUNLUN is the name of the company's new AI chip, built on its advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI. Thanks to Samsung's 14nm process as well as I-Cube (Interposer-Cube ..."
+    publishedDateTime: 2019-12-18T19:36:00Z
+    sourceUrl: https://www.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-news-40640.php
+    ampUrl: https://m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
+    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 74
+    images:
+      - url: https://fdn.gsmarena.com/imgroot/news/19/12/samsung-baidu-kutlin-server-ai-chip/-1220x526/gsmarena_001.jpg
+        width: 1220
+        height: 526
   - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
     excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
     publishedDateTime: 2019-12-18T09:00:00Z
@@ -68,6 +83,28 @@ related:
       - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
         width: 700
         height: 700
+  - title: "Samsung and Baidu will start production of new AI Chip in 2020"
+    excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
+    publishedDateTime: 2019-12-19T11:05:00Z
+    sourceUrl: https://www.geeky-gadgets.com/samsung-and-baidu-will-start-production-of-new-ai-chip-in-2020-19-12-2019/
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
+        width: 700
+        height: 429
+  - title: "Baidu, Samsung team up for AI chips"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-19T03:42:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
   - title: "Samsung Neon May Herald the Next Generation of Cognitive, Advanced AI Assistants"
     excerpt: "Samsung has stated that Samsung Neon will premiere at the upcoming CES 2020, and left mysterious teasers on the internet to decode from."
     publishedDateTime: 2019-12-26T08:13:00Z

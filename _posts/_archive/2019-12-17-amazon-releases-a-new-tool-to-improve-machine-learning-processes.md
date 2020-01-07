@@ -47,10 +47,10 @@ related:
         height: 315
   - title: "What is Deep Learning? Everything you need to know"
     excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
-    publishedDateTime: 2019-12-20T10:00:00Z
-    sourceUrl: https://www.techradar.com/in/news/what-is-deep-learning
-    ampUrl: https://www.techradar.com/in/amp/news/what-is-deep-learning
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/what-is-deep-learning
+    publishedDateTime: 2019-12-20T10:06:00Z
+    sourceUrl: https://www.techradar.com/news/what-is-deep-learning
+    ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
     type: article
     provider:
       name: TechRadar
@@ -92,6 +92,6 @@ related:
         width: 700
         height: 288
 
-secured: "3IlNw4S50ewyTa+eGslcxo/kd60wGpj7U0txbuRQkbeosFGBtLbpwm4rs9ZIYkXkj7qlvdteQOtNlQXCN6SaH2qbox4eKVyKWOxDU6kywU5PU71GfrvLFgG1WZXPSYzCaqmwDsf0Budmrydr9qB9AQ44RZx6mRlUu+NYf5EfFxJXdZJeWgAzg5DVpQaj75ONGRosaySTf4S01RffORzftSbQtVLhSarzz76zhC+BxSHMe12Kh3WhJQ8Y93CGwRVM+RspMYRY/o1ud4Cs87EI8w==;bXIWeLJ3ekX9uvVS2GBBNw=="
+secured: "NTLDLNSR8ekytD4YHhOkT0yajOmIh8ac3wYcc1n4iRxM91E9QZ5MeNtW6luC/RjIJf4Ehi9ZlgwDdkW5kgNd4QKgsbZ3hNB81Sgau62hNVh0j3anlNa39xfje/tHRYIhIph1juERLbTUkODOq+FXL0jAtizu0thZ4WdSVsLk/xYtyM3ayXe/RKh7OfmaOAkko46XJkqCoO8deZAXAENIg5ta9k5VC/oLExNqvflR5APLFyWrWkIVwN6Gri14Y9HF3wp2FtsQDMdhbuyUm/HM1Q==;4Bq7p5VLPLrYWH+btbkNrg=="
 ---
 

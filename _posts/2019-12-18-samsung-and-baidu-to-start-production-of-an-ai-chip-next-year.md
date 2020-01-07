@@ -26,71 +26,64 @@ images:
     title: "Samsung and Baidu to start production of an AI chip next year"
 
 related:
-  - title: "Samsung to make Baidu's new AI chips"
-    excerpt: "Samsung Electronics has partnered up with Baidu to produce its new cloud-to-edge artificial intelligence (AI) chip, Kunlun, with mass production slated for early next year, the companies announced. It is the first such partnership between the South Korean tech giant and Chinese search behemoth. Kunlun will be built on Baidu's own XPU neural ..."
-    publishedDateTime: 2019-12-18T01:27:00Z
-    sourceUrl: https://www.zdnet.com/article/samsung-to-make-baidus-new-ai-chips/
-    ampUrl: https://www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-make-baidus-new-ai-chips/
+  - title: "Samsung Prepares Neon AI For CES Debut"
+    excerpt: "Samsung's research division has been doing a lot of work on AI, with a webpage spotlighting the company's work \"to secure cutting-edge AI core technologies and platforms—human-level AI with the ability to speak, recognize, and think—to provide new AI-driven experiences and value to its customers.\" At the heart of the AI matrix on that ..."
+    publishedDateTime: 2019-12-23T19:57:00Z
+    sourceUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
+    ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 184
-  - title: "Samsung to mass produce Kunlun AI chip from 2020"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year.IANS | December 18, 2019, 18:16 IST NEW DELHI: Samsung has joined hands with Chinese-language Internet search company Baidu ..."
-    publishedDateTime: 2019-12-18T12:46:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
     images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
-        width: 800
-        height: 434
-  - title: "Samsung teams up with Baidu to start production of an AI chip next year"
-    excerpt: "Samsung announced that development for the Baidu KUNLUN, the search engine giant’s first cloud-to-edge AI accelerator, has been finalized. Designed based on Samsung’s 14nm process and I-Cube TM package technology, the chip will enter mass production early next year. Baidu KUNLUN is a very challenging project since it requires not only a ..."
-    publishedDateTime: 2019-12-19T15:22:00Z
-    sourceUrl: https://pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year
-    ampUrl: https://pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year/amp
-    cdnAmpUrl: https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year/amp
+      - url: https://www.bing.com/th?id=ON.F26AEB03F21064A332F7FFF3D69E6437
+        width: 700
+        height: 393
+  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
+    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
+    publishedDateTime: 2019-12-18T09:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
-      - url: https://www.bing.com/th?id=ON.26EB2D6CBB2F393EC87E12B41928667B
-        width: 260
-        height: 140
-  - title: "Baidu and Samsung Move New AI Chip Into Mass Production"
-    excerpt: "The Baidu KUNLUN is a 150-watt component, and can be deployed for a wide range of AI ... However, the tech can just as easily be used for speech recognition, image processing, or self-driving vehicles. “We’re expanding our business beyond mobile to datacenter applications by developing and mass-producing AI chips,” said Samsung Foundry ..."
-    publishedDateTime: 2019-12-20T22:27:00Z
-    sourceUrl: https://mobileidworld.com/baidu-samsung-move-new-ai-chip-into-mass-production-122005/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Samsung teases a new HER-like AI assistant called NEON"
+    excerpt: "Samsung is however looking to have another go, and has been teasing a new AI product called NEON with tweets and Instagram posts. While the teasers and NEON.Life website do not give much away, the project comes from Samsung STAR Labs, who’s remit is ..."
+    publishedDateTime: 2019-12-24T20:30:00Z
+    sourceUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/
+    ampUrl: https://mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
+    cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/samsung-teases-a-new-her-like-ai-assistant-called-neon/amp/
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 56
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 57
     images:
-      - url: https://mobileidworld.com/assets/AIchip.jpeg
-        width: 400
-        height: 298
-  - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
-    publishedDateTime: 2019-12-18T14:36:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK.html
-    ampUrl: https://m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
+      - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
+        width: 700
+        height: 700
+  - title: "Samsung Teases ‘Neon’ AI Tech: Set To Unveil At CES 2020"
+    excerpt: "However, Bixby is more popular in its home base with the South Korean language. In comparison, the Samsung Neon seems like a new offering with AI to further enhance its presence in the consumer base across the globe. Samsung has also announced that it would unveil the Neon product at CES 2020 in Las Vegas. The company has begun popularizing ..."
+    publishedDateTime: 2019-12-26T05:59:00Z
+    sourceUrl: https://www.gizbot.com/news/samsung-neon-under-works-what-is-it-064572.html
+    ampUrl: https://www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
+    cdnAmpUrl: https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/news/samsung-neon-under-works-what-is-it-064572.html
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 54
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
+        width: 600
+        height: 337
   - title: "Samsung and Baidu will start production of new AI Chip in 2020"
     excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
     publishedDateTime: 2019-12-19T11:05:00Z
@@ -104,41 +97,6 @@ related:
       - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
         width: 700
         height: 429
-  - title: "Baidu and Samsung team up for mass production of AI chip"
-    excerpt: "Baidu will provide advanced AI platforms to maximize the performance of AI, while Samsung will apply its foundry manufacturing technologies to high-performance computing chips, which are dedicated to edge computing as well as cloud computing, an area in which Baidu has been trying to catch up with its local rivals including Alibaba and Tencent."
-    publishedDateTime: 2019-12-20T03:06:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Baidu-and-Samsung-team-up-for-mass-production-of-AI-chip
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F8%2F8%2F0%2F1%2F24031088-2-eng-GB%2FCropped-1576660829RTS2038J.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces
-        width: 1600
-        height: 900
-  - title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
-    excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
-    publishedDateTime: 2019-12-18T15:00:00Z
-    sourceUrl: https://www.anandtech.com/show/15247/samsung-kicks-off-mass-production-of-ai-chip-for-baidu-260-tops-at-150-w
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 53
-    images:
-      - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
-        width: 678
-        height: 364
-  - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://news.webindia123.com/news/articles/Science/20191218/3475847.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
   - title: "Baidu, Samsung team up for AI chips"
     excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
     publishedDateTime: 2019-12-19T03:42:00Z
@@ -148,15 +106,45 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
-  - title: "Samsung, Baidu to Start Production of New Leading-Edge AI Chip Early Next Year"
-    excerpt: "Baidu and Samsung Electronics announced that Baidu’s first cloud-to-edge AI accelerator, Baidu KUNLUN, has completed its development and will be mass-produced early next year. Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm ..."
-    publishedDateTime: 2019-12-20T01:29:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16114-samsung-baidu-to-start-production-of-new-leading-edge-ai-chip-early-next-year
+  - title: "Samsung Neon May Herald the Next Generation of Cognitive, Advanced AI Assistants"
+    excerpt: "Samsung has stated that Samsung Neon will premiere at the upcoming CES 2020, and left mysterious teasers on the internet to decode from."
+    publishedDateTime: 2019-12-26T08:13:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-neon-may-herald-the-next-generation-of-cognitive-advanced-ai-assistants/ar-BBYlt6r
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.B948D8C1439D856C4855CA791911F8E4
+        width: 600
+        height: 315
+  - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
+    excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
+    publishedDateTime: 2019-12-26T04:09:41Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-to-unveil-neon-at-ces-2020-teased-to-be-a-human-like-ai-assistant-with-support-for-hindi/ar-BBYlz8Z
+    type: article
+    provider:
+      name: India Today on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.374F61F40B85003F4DB6B809EA1AC8AC
+        width: 600
+        height: 315
+  - title: "Samsung wants to Kick Start 2020 at CES by introducing their Next-Gen Artificial Human-Like Assistant Platform Dubbed 'Neon'"
+    excerpt: "Perhaps more importantly, Samsung will be introducing a new artificial intelligence platform next week that they're calling 'Neon ... Humans' designed to a combination of devices and software that is designed for companionship, robots and digital pets. Samsung has their Neon website ready to host the live event with a countdown to the keynote ..."
+    publishedDateTime: 2019-12-30T17:23:00Z
+    sourceUrl: https://www.patentlyapple.com/patently-apple/2019/12/samsung-wants-to-kick-start-2020-at-ces-by-introducing-their-next-gen-artificial-human-like-assistant-platform-dubbed-neon.html
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.8B743AFB5B5589D1A5672C18C18FE83A
+        width: 700
+        height: 390
 
 secured: "2G7xAoNrie+c0vLU7Ck9bJ2SYdggjFB6Lhx0KAwnHk8o7CA4uh6qflY7x2QRJuENykrrJgxuU0VtiWC2kRtXYFgtOXwjs4kjHu4KQAojM4znxz/KqTMuy4ShcAERE6OjRWFD9ZUMO1Szew5bhzGieWV3VM+EvzAG9wY3/X5W6NeFxvM0U99xY7xXLkLsW32Ce7z3o+FKKu9wf9jj7/rSK+Aq79vbFzu3F2b8ZIgO7FA6i4Ey2KjYL1CbZpbEgpS3M2cbAqsVYhPej0uiJU2TBw==;iNCY09cjFcRrH3mw+qtwBA=="
 ---

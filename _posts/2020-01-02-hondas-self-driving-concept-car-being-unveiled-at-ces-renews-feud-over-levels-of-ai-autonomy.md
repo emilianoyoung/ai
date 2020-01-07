@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
+  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
+    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
+    publishedDateTime: 2020-01-06T19:42:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    ampUrl: https://www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
+        width: 700
+        height: 367
   - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
     excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
     publishedDateTime: 2020-01-06T21:43:00Z
@@ -90,6 +105,21 @@ related:
       - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
         width: 700
         height: 233
+  - title: "Cameron Roberts: Self-driving cars will not fix our transportation woes"
+    excerpt: "This future of autonomous, on-demand electric vehicles is tantalizing. It promises a hands-free solution to various transportation woes. The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits."
+    publishedDateTime: 2020-01-07T02:14:00Z
+    sourceUrl: https://vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes
+    ampUrl: https://vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes/amp
+    cdnAmpUrl: https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/opinion/op-ed/cameron-roberts-self-driving-cars-will-not-fix-our-transportation-woes/amp
+    type: article
+    provider:
+      name: The Vancouver Sun
+      domain: vancouversun.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
+        width: 700
+        height: 525
   - title: "Audi announces a new 'empathetic' self-driving car at CES nicknamed 'Amy'"
     excerpt: "This week at CES in Las Vegas, Audi gave hands-on demonstrations of its newest concept car, a self-driving vehicle called AI:Me, or ‘Amy.’ The German luxury car manufacturer describes AI:Me as an ‘empathetic mobility partner’ that will transport passengers into ‘an oasis of calm’ while the car’s autonomous navigation system cuts ..."
     publishedDateTime: 2020-01-07T01:24:00Z

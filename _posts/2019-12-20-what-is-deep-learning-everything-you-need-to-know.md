@@ -2,10 +2,10 @@
 category: news
 title: "What is Deep Learning? Everything you need to know"
 excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
-publishedDateTime: 2019-12-20T10:00:00Z
-sourceUrl: https://www.techradar.com/in/news/what-is-deep-learning
-ampUrl: https://www.techradar.com/in/amp/news/what-is-deep-learning
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/what-is-deep-learning
+publishedDateTime: 2019-12-20T10:06:00Z
+sourceUrl: https://www.techradar.com/news/what-is-deep-learning
+ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
 type: article
 quality: 69
 heat: -1
@@ -90,6 +90,6 @@ related:
         width: 700
         height: 288
 
-secured: "rJBqVnIwkpj1Dqr+7vfqdnKKESDq3hGSZwOhxfi9Zl3Fx5Xgrfpn3F9TZDr/2PPyUXvKDssqS1OrVHr5ktqGRFvdpNQ5Q893u0c7776sSD7wVLMuFkcOQgo1+dCkz7Rb39daLJAjnGtxSGgco2RWLnKvE8HEqqKno44DInu4MV2CIwGlsNhEbPa/5OJBOcNEpL97e8jiEPsX5qP5lZmT6fvuZKc2X/OSwoE+xuMpyjQEKYA2db8b6cHP26Xv2EUqEwfNAP4lZj+8ieuVmyLbAw==;SKMQE/5kdKW8bqUgX19Ezg=="
+secured: "kcw4LhwxV2z6zGbxCI2ieRB3kiGIAWzjJ7Twxx+1H5jxncFwdN1/ASE4A7kr50RWMFJPvaROFlpj0k5Rcko/WhgZq6dmxufggydKU/tiTUHbInRsdijwZ4KhCcW0BCQfojv9NswRBHTtsPow8DYDifu0D1mg7E/+gtgHRjpTKIunfEQYo1x0jW0MZ62BYY7+qSktLhCPkVpY4eLD2WiWmcv/db7r/dyaWUuTvFJHE8mNcWI09tbhPm9jpLSkbgWT5SAZUDhsiJIHbHYIZytHkQ==;Uu5S1Hse88hsfThE7IOx3w=="
 ---
 

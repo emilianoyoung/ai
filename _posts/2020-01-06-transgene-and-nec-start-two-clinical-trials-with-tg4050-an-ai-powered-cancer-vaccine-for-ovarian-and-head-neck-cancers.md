@@ -19,6 +19,19 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
+    excerpt: "“As each patient’s cancer is unique, we have developed a therapy that turns their solid tumor’s genetic signature into ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow ..."
+    publishedDateTime: 2020-01-07T00:10:00Z
+    sourceUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-ai-powered-cancer-vaccine-for-ovarian-and-head-neck-cancers/wcm/6351875c-17fd-4563-9d64-3ce3bdd5f661
+    ampUrl: https://montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-ai-powered-cancer-vaccine-for-ovarian-and-head-neck-cancers/wcm/6351875c-17fd-4563-9d64-3ce3bdd5f661/amp
+    cdnAmpUrl: https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-ai-powered-cancer-vaccine-for-ovarian-and-head-neck-cancers/wcm/6351875c-17fd-4563-9d64-3ce3bdd5f661/amp
+    type: article
+    provider:
+      name: Montreal News
+      domain: montrealgazette.com
+    quality: 14
+
 secured: "8nqKD0dysOYiQwp1oUzBcQXucya5baIp5OxiSocg778vmNOq76IMHaBTntUUaBCNjbWnPL9iDfYy8shTfHGCmwGhjXJ+/tleB6UqeKI3DNc12q/MhvblEdWIJyrQ0YTkDfXpYrECTz4FnRz/q+k1jHybr3DSbmcqpJkRh99SamvOFyBDe5ehVRUNMl6uxtB9fidbV7DSimSOcNQNilhCZRo0xblEvGufoDvxo6rfN4h3SOZJG7ZvuNZwdZE0+7AFx4+cuJ1eGrxfe86CWRmT4Q==;pXS1avKASrCGqRf1aUxZAw=="
 ---
 
