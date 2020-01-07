@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
 type: article
 quality: 93
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
         width: 700
         height: 394
+  - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
+    excerpt: "IBM (NYSE:IBM) announced the launch of Advertising Accelerator with Watson at the 2020 Consumer Electronics Show (CES). Advertising Accelerator is described in the press release as \"a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and ..."
+    publishedDateTime: 2020-01-07T16:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-vsblty-partners-with-news-america-marketing-ibm-announces-advertising-accelerator-with-watson-and-ceva-partners-with-sifive-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
     excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
     publishedDateTime: 2020-01-07T03:47:00Z

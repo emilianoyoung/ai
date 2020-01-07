@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
 related:
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-17T12:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-        width: 700
-        height: 365
   - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
     excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
     publishedDateTime: 2019-12-17T13:38:00Z
@@ -55,6 +42,6 @@ related:
         width: 1200
         height: 630
 
-secured: "Qi36K51YKJSTNoirw4kGKd9OKlJkcHOisARsaOSFOon1WOnaoPEDIT/9Pttje10M0F4gTufgflerKGKBddYk5PRLlEm2AvjroyYtHdlXjOuGKt5L8axUFGcj8FRi3Z726dzlI69aqcBDqICNi6XNyv14Q9OTp/qTvjetFKg03I0sw1f8YHk6CUvS3gbJLP+GzPhjUH6T6Vh/9X7cce4sWkhd3yEV4glnueDYn8TROeX1UU2L+LPlkb8NjsenuhZYjZp2e+O+tnkxOPO+6E+oJw==;9zjAvBwPIzrH9I38QI2/vg=="
+secured: "Jq1cplefnVjs2G98rCDDOBosL61a3+YURYXvQW0E3z8S5PG78NU9Ov8nnLOfhjn7WJUCYejzN+mlhJKyEqMNgO1AvqE4GxEF9RpeDudR3XcvGWwp6M8TDlBBg7+ewtyBdMN74cmRyNZ4XdGPvg1sfFFDszisREIfVGC5o3rxxGVVjIFC4KiAcm9NdXUaRS6b0bJ/qM+PWkXpULEbqlTckh4VqRPbY6f+e3V1JX/0RODik8DqsrBEd4nwdZTguSraeAh79DIumdaahe3NQH0bXQ==;GpZhd7BSrIMPcHY9itM2pw=="
 ---
 

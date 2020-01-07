@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-excerpt: "Eventually, the company believes its new Snapdragon Ride platform can serve as a foundation for full-fledged self-driving cars. Qualcomm announced Snapdragon Ride Monday at CES, the massive consumer electronics show in Las Vegas. Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo ..."
-publishedDateTime: 2020-01-07T02:46:00Z
-sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+publishedDateTime: 2020-01-07T04:02:33Z
+sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: San Diego Union-Tribune on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -98,6 +96,6 @@ related:
         width: 580
         height: 358
 
-secured: "JniY0/hmDPSkdEIR3j5DOWk0SCToGRsJCykclQ0WGrXZlN0cPcxDNfkZhv/dXXIP561L7suyfvjWsFxIlaWEAbPH5nF6TzSbwoE+2Vl/yIAXWClBPpGUJorjON8SUz+rmPDV9oSMvM49RDNAekbDrIc+9EcWy61Czxi11NhZqsC6RJc7C5se+DCtf2VPMxyxRAyUt+IVpEpQ8th9H3pAM3815esG8zbOoRH9M8j2Ql5BD1QRItblkyKBwLwO7LCZqvszD0i/pEEfv342LLPInQ==;iu1svHVxAEeJLE79NqtXQQ=="
+secured: "RQdAsYxsFNmSsncSXuL4e40KvQP9FgPJkSZPWjsHq1zEFxfw/hLnIbV7kFPjYRXEcfsfIoZj6VmC82iBiD8j9k3TUe9AzXizqc7Vm49lo+/Q+5V3F0DvdTgiCnGh57TCfJhVRmFnGoG3Ju+AJzgazegBHC6BEsv76Cbsqji+jxGOCKP4akFItsS1HXnCePLe+qT7/KfYAiel+uwTDJGqLBUQccSsGWFpIXZvxKOXxxnFPy7mVZIcm/6dYz63nR4wTaZ55ke3EhwHW+/IjJRUjw==;MFSvi8NRxivJCzFKUf5Scg=="
 ---
 

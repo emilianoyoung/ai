@@ -45,17 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E4F8C9326C8747F20B688E213B4E9E7F
         width: 700
         height: 366
-  - title: "White House Proposes Regulatory Principles to Govern AI Use"
-    excerpt: "LAS VEGAS (Reuters) - The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities' \"overreach\", and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should \"conduct risk ..."
-    publishedDateTime: 2020-01-07T07:04:00Z
-    sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/white-house-proposes-regulatory-principles-to-govern-ai-use
+  - title: "White House proposes regulatory principles to govern AI use"
+    excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach”, and said it wants European officials to likewise avoid aggressive approaches."
+    publishedDateTime: 2020-01-07T05:56:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-ai-white-house-idUSKBN1Z60GL
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 67
+      name: Reuters
+      domain: reuters.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.4D077A9BC62CB65BD38EBFEE9073CE9C
+      - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
         width: 700
         height: 466
   - title: "White House proposes guidelines for regulating the use of AI"

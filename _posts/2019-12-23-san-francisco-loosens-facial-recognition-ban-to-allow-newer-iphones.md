@@ -667,19 +667,6 @@ related:
       - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
         width: 620
         height: 300
-  - title: "Wyden urges HUD review use of facial recognition"
-    excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
-    publishedDateTime: 2019-12-18T17:58:00Z
-    sourceUrl: https://ktvz.com/news/oregon-northwest/2019/12/18/wyden-urges-hud-review-use-of-facial-recognition/
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
-        width: 700
-        height: 393
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
     publishedDateTime: 2019-12-19T21:53:00Z

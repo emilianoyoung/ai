@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.05F22DE5941DC43D1EC9C3251C390C60
         width: 700
         height: 367
+  - title: "This AI kitty litter box will analyze your cat’s poops for some reason"
+    excerpt: "Sometimes you read about all the new gadgets at CES and have FOMO because you’re not there, and other times you read about an AI cat litter box. LuluPet says that it has the world’s first litter box with “built-in stool and urine image recognition” to analyze cats’... deposits. The goal of the Taiwan-based company’s gadget is to ..."
+    publishedDateTime: 2020-01-07T15:25:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.BD5E2FC7F86E62CAC780B82D68AACCC0
+        width: 700
+        height: 366
   - title: "Samsung unveils its AI-powered 8K TVs for 2020"
     excerpt: "Samsung revealed its new QLED 8K TV last night in Korea, and now the US unveiling is under way. We already heard about interesting features like its \"digital butler\" that will control other devices, including older stuff that can't connect to networks using an IR blaster,"
     publishedDateTime: 2020-01-06T02:40:00Z
@@ -57,19 +72,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A83742863E62DFF8E87E717073FF70F
         width: 700
         height: 367
-  - title: "This AI kitty litter box will analyze your cat’s poops for some reason"
-    excerpt: "Sometimes you read about all the new gadgets at CES and have FOMO because you’re not there, and other times you read about an AI cat litter box. LuluPet says that it has the world’s first litter box with “built-in stool and urine image recognition” to analyze cats’... deposits. The goal of the Taiwan-based company’s gadget is to ..."
-    publishedDateTime: 2020-01-07T15:25:28Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/this-ai-kitty-litter-box-will-analyze-your-cat-e2-80-99s-poops-for-some-reason/ar-BBYHOmW
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.BD5E2FC7F86E62CAC780B82D68AACCC0
-        width: 700
-        height: 366
 
 secured: "TG5eSpwJD32NedneJcXrimjB8/8br7K0wbGoge/ebM/1bRaGpoH4UsncTgyPXDPE/3rP1vZ9pzvO3TrFVsv+fbZNLIctoscTwvw3KjAuN2mE9x6M/QnW20qDIvLxsDoo/3Cw3MIjquACM9cxrdLlG0HTUj3TksaeCoCwj/ePU/JTgDwv9rcUwm1gekYzpgRjwuSv0GOXIhlGng5DVwGf8IjY3qrYU5554mUugXVOE5hP8B69Zm55rji+Uq2WEs0wbVV1fdEV2etZ+F+Jcbg/NQ==;bSMhOXMhfaqF2GAIUjaDOw=="
 ---

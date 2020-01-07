@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
-    publishedDateTime: 2020-01-07T16:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
-        width: 700
-        height: 525
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -172,6 +157,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
         width: 700
         height: 525
+  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
+    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
+    publishedDateTime: 2020-01-07T16:59:18Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/aptivs-self-driving-bmws-can-now-take-people-to-and-from-the-las-vegas-airport/ar-BBYIgL0
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
+        width: 700
+        height: 525
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z
@@ -185,6 +183,19 @@ related:
       - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
         width: 1120
         height: 629
+  - title: "Behind the Scenes Wtih Aptiv’s Self-Driving Car Nerve Center at CES 2020"
+    excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
+    publishedDateTime: 2020-01-07T17:21:00Z
+    sourceUrl: https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
+        width: 700
+        height: 386
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

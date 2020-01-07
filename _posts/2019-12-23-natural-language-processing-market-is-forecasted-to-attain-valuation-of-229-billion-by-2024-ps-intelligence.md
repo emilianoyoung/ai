@@ -2,18 +2,16 @@
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
-publishedDateTime: 2019-12-23T08:49:00Z
-sourceUrl: https://www.benzinga.com/pressreleases/19/12/g15031466/natural-language-processing-market-is-forecasted-to-attain-valuation-of-22-9-billion-by-2024-p-s-i
-ampUrl: https://amp.benzinga.com/amp/content/15031466
-cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15031466
+publishedDateTime: 2019-12-23T08:43:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
 type: article
-quality: 34
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -261,6 +259,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "W4k2kLwo4+swtWaZxxXu3brp/pu4TBxDvYqo+lemtsDv94DZ0hJjsbT1HX4SGoP/yFf7TOIz7TYv4k0V9726ASWAi3msUqGb9Gk/CFGdct5aQTh1TaMnOyB5IhH5kaCez1m4mVwXujOQuX76SY5iudwcJAIPl75AoylNKJVP8nFkCzC9UTw2SWqK/lFgmji4wOYJzpkqV+VGXIatOzeVOFbqCmBvvaW1yDv8UzBuqgVwFpHhFaiGpWBNy+wPNg0vriIn7asYsT0N9Bns6IWVmQ==;1uTawDIbcjUsnASnGGI/Ig=="
+secured: "i9M4UieG/vRwQxgPLiqRL3moT03cDHJ6ux/cMowvEfN4zzi6KzyiMhXzR9PCaZCyE3Uq/L4GHQkN+yUwIBWvXPQ06xsotE0XfeZSjRNU/aMc3nRZ+8x3ltAC1tC5wRzhedhaNj7Iqr7e6vgWEKBrovnw/aY7k3T1EsIqu+X80KUosAEszKPuY5+5Yl5uOrrX1iTD0TdxifFjwzSEEs/pgOXtrs6FUV5Zan3VsJIWkFjKJ45COpFUUZnl8bjM5CpWTUYhUoPuvx6O3xPJswzJuQ==;V3TPz9eZy46Q+WuL78LMfQ=="
 ---
 

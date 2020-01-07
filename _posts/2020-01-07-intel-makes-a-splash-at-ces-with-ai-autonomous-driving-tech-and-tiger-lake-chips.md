@@ -67,6 +67,19 @@ related:
       - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
         width: 700
         height: 394
+  - title: "The AI Eye: VSBLTY Partners with News America Marketing, IBM Announces Advertising Accelerator with Watson and CEVA Partners with SiFive"
+    excerpt: "IBM (NYSE:IBM) announced the launch of Advertising Accelerator with Watson at the 2020 Consumer Electronics Show (CES). Advertising Accelerator is described in the press release as \"a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and ..."
+    publishedDateTime: 2020-01-07T16:57:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/the-ai-eye-vsblty-partners-with-news-america-marketing-ibm-announces-advertising-accelerator-with-watson-and-ceva-partners-with-sifive-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "On the road to AI adoption, execs grapple with expertise and data"
     excerpt: "Amid a landscape marked by augmented workers and redefined business models, companies that fail to overcome the knowledge, data and tool barriers to AI adoption are at risk of ceding ground to the competition. It's a trend IBM hopes to capitalize on, with tools like IBM Watson promising to address real-world problems. \"While there is still work ..."
     publishedDateTime: 2020-01-03T16:25:00Z

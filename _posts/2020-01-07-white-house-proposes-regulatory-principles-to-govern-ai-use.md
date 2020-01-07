@@ -1,19 +1,21 @@
 ---
 category: news
-title: "White House Proposes Regulatory Principles to Govern AI Use"
-excerpt: "LAS VEGAS (Reuters) - The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities' \"overreach\", and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should \"conduct risk ..."
-publishedDateTime: 2020-01-07T07:04:00Z
-sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/white-house-proposes-regulatory-principles-to-govern-ai-use
+title: "White House proposes regulatory principles to govern AI use"
+excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach”, and said it wants European officials to likewise avoid aggressive approaches."
+publishedDateTime: 2020-01-07T05:56:00Z
+sourceUrl: https://www.reuters.com/article/us-tech-ces-ai-white-house-idUSKBN1Z60GL
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -21,10 +23,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D077A9BC62CB65BD38EBFEE9073CE9C
+  - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
     width: 700
     height: 466
-    title: "White House Proposes Regulatory Principles to Govern AI Use"
+    title: "White House proposes regulatory principles to govern AI use"
 
 related:
   - title: "White House Favors a Light Touch in Regulating AI"
@@ -112,6 +114,6 @@ related:
         width: 700
         height: 367
 
-secured: "854YRlxqn2rSt7g/fh8MXJ7K9KyBQ31tvx7kixa9ZuBmXYJe6ePaBthOzYKzAzVI6kSH0/X8sJCqqmEVKDXcCUq/g7uX8Db22Ypwybf9TtAwVWxZZjO0NAGtPpEEAr8av5fPTVk9gqTuvszMicI9csWEcUNgH520Gkz5c5GsXkOkrmitH3CKea1wU10/VFse1mnqABamPItPwThTprl2Ua1CMQdOmFwB6WNN5XyJqlmalj3dX6OwW+ECgtmDAm/UFVoOMZQ6gt2UMaxNTwipXA==;+MDh66Xa7We1awnrD55Uiw=="
+secured: "tmoWjTjV8B2kMsLJuTO74Bn1WSQfPT9VEfjqbiQIAtCdX1/Qf8g+BmdIJ0x556vl7kdaBcaHx5O0DqUGS3xcaEDzi1lUWKQfRxMUIz378gE+Y06hizd0qUkvuQ3WIvSiOW44GHiYLK5xM0Tk32nc9baqZ8PuU/4naNkU3p8T5jYHbyYST1nTpESgNa7eFFcktHHfM6ZD2HfaWSW/CP0BHU/GqfDHLRUbekvPC4Wbum6VPcH/jIG6BSz3IK0qN2LAzITIUm7fsau8/CbukVwiJQ==;wPAnNjg5jN+dvYP1yxNWrA=="
 ---
 

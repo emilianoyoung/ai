@@ -673,19 +673,6 @@ related:
       - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
         width: 620
         height: 300
-  - title: "Wyden urges HUD review use of facial recognition"
-    excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
-    publishedDateTime: 2019-12-18T17:58:00Z
-    sourceUrl: https://ktvz.com/news/oregon-northwest/2019/12/18/wyden-urges-hud-review-use-of-facial-recognition/
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.9ACFDA38504C563322D52643336C439C
-        width: 700
-        height: 393
   - title: "New docs: facial recognition confirmed ON"
     excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
     publishedDateTime: 2019-12-19T01:18:00Z

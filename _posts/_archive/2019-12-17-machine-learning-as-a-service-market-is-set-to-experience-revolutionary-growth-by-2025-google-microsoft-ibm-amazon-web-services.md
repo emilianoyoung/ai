@@ -41,20 +41,7 @@ related:
       - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
         width: 1575
         height: 847
-  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-17T12:35:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
-        width: 700
-        height: 365
 
-secured: "dwXao+Kt/OyBo7GTI57Bx52KfU61VzgFe0vtB78/AMw9ucUgYjWZR0rFQQdu9W91zP0K4a/xehm+FceFBFpt7ItkZJfuh3YdlBHY8L1Plm29U4KFc9/yBOOV/DQ1B+GD47czd5PGJBE82Z8cw8G33LWJkVToIf9+dBxUC5tdGB/CCrJOEjOnmUQDqRSF+v1bxJYY6zCJPYfZ356Q9cvoFlKVOD2cF2/fM1t7slXrqlOcCQUTlkQmTcxGk3KGEQ0psnKV1HmK1jpplG+7z/XK0Q==;6WQlusaLK7tR5wFODlvxGw=="
+secured: "FGxMM1g3k91sZYZBSIrH8VPDAYG730ayoEd19eu5qtJgWU1EViASyng9Po8klc78/1JCLU1De0qtbdV3NPQangb8lspTP2C63zg526HldX5vItQgYLbB4NrJjog5dcNyCJfMVemsVZ3kiR+thW9BIh7pMWf8MkTGyx+33K/zfi5wFoKj7VJLiz5kT+3ZO9lPodNWMAFuP9u1KqSFlTtz89NxbUMo4BCbPsWDt5UWSdETP3UcGwmAllMMPDeQ+le6PdmFt3ux3mvfwi3mScBuRw==;tDMMSYngO39Xelod+1gArg=="
 ---
 

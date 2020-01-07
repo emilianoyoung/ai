@@ -1,31 +1,27 @@
 ---
 category: news
 title: "A New IDC MarketScape Assesses Ten General-Purpose Artificial Intelligence Software Platform Providers"
-excerpt: "International Data Corporation (IDC) today published a new assessment of ten companies that provide general-purpose artificial intelligence (AI) software platforms. The IDC MarketScape report uses a comprehensive framework to assess these vendors relative to a set of criteria that explain both short-term and long-term success in the AI software ..."
+excerpt: "FRAMINGHAM, Mass.--(BUSINESS WIRE)--International Data Corporation (IDC) today published a new assessment of ten companies that provide general-purpose artificial intelligence (AI) software platforms. The IDC MarketScape report uses a comprehensive framework to assess these vendors relative to a set of criteria that explain both short-term and ..."
 publishedDateTime: 2020-01-07T12:30:00Z
-sourceUrl: https://www.marketwatch.com/press-release/a-new-idc-marketscape-assesses-ten-general-purpose-artificial-intelligence-software-platform-providers-2020-01-07
+sourceUrl: https://www.businesswire.com/news/home/20200107005140/en/New-IDC-MarketScape-Assesses-Ten-General-Purpose-Artificial
 type: article
-quality: 51
-heat: 51
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.5017895FE86835A4FC1E3E803028EB5F
+    width: 700
+    height: 365
     title: "A New IDC MarketScape Assesses Ten General-Purpose Artificial Intelligence Software Platform Providers"
 
-secured: "WJV+c1m1UP+ncp3H72aEMuVgEEwlLJDMzK22PpLGw7fHxX3z972Xu5/gCoaHbio2BQwakIImNChDjmmPMO+GzxXR/AGHJWpmrsbDLCC3ET3SI29wNMFoXMCCAJMw2OoLdLrQfjrnCGTgnOgcyFQJl6+Z5lv4rF3BiI63V3fxNcFcJmv8ioLTZWJTHS4+4/Pp4J31ygAY+kki0gYfEWtn27Sh6KrtnevFgPevcLNOPJLwYaQlgZtFhIG1Jj27NTGM3D1SA3yHZJ5kzj/JSbQJjQ==;bOcLSaHnFGs6+PZ61i8KWQ=="
+secured: "S86mwdTCb93YNXF7DTAvoDUOC0UMMUcTpRERpA4tKcLLjWj343o8j1ui+RP7yUbV5TjHmTqk1Lt5qkg9f1fe/7w6aClBNnzwY4S5nVIOUqtDDjd89NZTLvL2mPRFx07RYx8KA+as1pfyHkLqbpGmUs51GHphztym66H8oMiNU5Ub8Rfwke5lwtmPsWKQbCZucllBLlVsDWjeJKZfgIUvsyO97Gk0CPSa2JHSR9TFcp1gRia3mDiey18n15AHEs6GJjOFZHNIemPtpC72Cd7wUQ==;VbdFxVkwwKJiQubgdURFxQ=="
 ---
 

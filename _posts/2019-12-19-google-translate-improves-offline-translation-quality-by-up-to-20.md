@@ -45,19 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
         height: 366
-  - title: "Is Professional Translation Service Necessary?"
-    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
     type: article
     provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 24
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
     images:
-      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
-        width: 711
-        height: 310
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z

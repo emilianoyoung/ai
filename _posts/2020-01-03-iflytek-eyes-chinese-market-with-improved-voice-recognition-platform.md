@@ -23,6 +23,21 @@ images:
     height: 512
     title: "iFlytek Eyes Chinese Market with Improved Voice Recognition Platform"
 
+related:
+  - title: "iFLyTek develops voice recognition for law enforcement; moves forward with AI innovation despite U.S. ban"
+    excerpt: "Chinese startup iFlyTek boasts it has created for law enforcement AI technology that leverages voice biometrics to identify a person, writes Nikkei Asian Review. In upcoming years, iFlyTek aims to use it in fighting phone scams after rolling out the voiceprint recognition system across the country. iFlyTek uses AI to analyze big data to improve ..."
+    publishedDateTime: 2020-01-07T18:08:00Z
+    sourceUrl: https://www.biometricupdate.com/202001/iflytek-develops-voice-recognition-for-law-enforcement-moves-forward-with-ai-innovation-despite-u-s-ban
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
+        width: 700
+        height: 388
+
 secured: "FpSx4lIyJ52fjRox/ico4EAebGwHdM+AGKhKO4zwjysM8RT1Irs3vkb0aR8gI5oRhhG3jmDULWf3N8qhbanyETgXXfqOQtKPbNcOZwdmT1Mvsu+AIW+DH8G6jcLVN6zm9lavFic0mp3ldpzNXdkitLRGINVT9oISQFdBtC5eO/aaa/8VY16EICPeHhGiPr+nmMTjpmKy0z8dJIUxwheBdTtkgHgDIBI9eCMDqjIjHOhayvw56VaoIvsNO9GhOLl/4fE6OYlLguHng3LM9oddew==;pnP4+Tnx6WF1b79/OujQeg=="
 ---
 

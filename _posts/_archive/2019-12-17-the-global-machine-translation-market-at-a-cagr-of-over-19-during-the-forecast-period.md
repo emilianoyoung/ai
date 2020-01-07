@@ -54,34 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
         height: 366
-  - title: "After eBay improved its translation software, international commerce increased sharply"
-    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
-    publishedDateTime: 2019-12-23T13:13:00Z
-    sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
-    ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
-        width: 700
-        height: 465
-  - title: "Is Professional Translation Service Necessary?"
-    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 24
-    images:
-      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
-        width: 711
-        height: 310
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -138,6 +110,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "RnR1dqtVpEHKgIGTJtf1+vi1tXVFt4njzvx8fwr2/TG51zbt+7LVxRUaupCpJfi/fL8F1GMU0FG0lnkdItEXbEc1tu03H98IQN2g5XQhmMFK7DeF+xNkcEDMjDXahObwgAiR+KPuXvsttNH8rXHQz1wQmLlEHd5+TuRNUFUYGhnSTofdhH+/MmIqyy+9Ir5dP/Xfglz/knEQwmhRHLxC16SyZ/7oZxwPK8eT2jLe3n+tQvhIWNrBhBgkS6/nF+CFnyQdgaWbLDW1vt1lMY0Hfw==;jNmpEPPT9o55/oSsUd6G2Q=="
+secured: "VFmQlnWQxu4CzoYL3tUamF0tQeX7uZIEPbHR4VRoyXLLzdlT3RQpiSzaTJtUs2DBX69rMsmr98xa2jU5jx1ve0oHUhxgouePeuKF7Vs7RT/HwrMuIOWPuvriTX8JgqZHPFQD2If/+fGhJEEzn/dkcjmloCVQ6DGH0wPzmLkGkg1Fvx3D1NZSmk7ghZeNyt1oOZ30B3snWDt91YW6n12DhWfrX6KzsB5vbXH9VHybLHU7wIkepTJ565JVEVLKNwPegILWd+inxy9CiujI8/qFoA==;U/bXIRmaANFfBylZT6jWhw=="
 ---
 

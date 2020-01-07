@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-03T14:32:00Z
 sourceUrl: https://towardsdatascience.com/how-artificial-intelligence-will-fuel-consumerism-in-2020-946c67240dfa
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,49 @@ images:
     title: "How AI will fuel consumerism in 2020"
 
 related:
-  - title: "How AI and Cybersecurity Will Intersect in 2020"
-    excerpt: "So much of the discussion about cybersecurity's relationship with artificial intelligence and machine learning (AI/ML) revolves around how AI and ML can improve security product functionality. However, that is actually only one dimension of a much broader collision between cybersecurity and AI. As applied use of AI/ML starts to advance and ..."
-    publishedDateTime: 2019-12-30T19:32:00Z
-    sourceUrl: https://www.darkreading.com/application-security/how-ai-and-cybersecurity-will-intersect-in-2020/d/d-id/1336621
+  - title: "Why AI As A Service Will Take off In 2020"
+    excerpt: "The combination of the SaaS business model and AI services could help bring AI to the masses without a heavy price tag. Could 2020 be the year AI as a Service takes off? I hope so—and to some extent it already has—but my excitement isn’t only because of how AI can lead to greater efficiencies and better customer insights for businesses in ..."
+    publishedDateTime: 2020-01-07T18:10:00Z
+    sourceUrl: https://www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service-will-take-off-in-2020/
+    ampUrl: https://www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service-will-take-off-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service-will-take-off-in-2020/amp/
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.7B320A7BD46F819F9E41A0DEC0FF95BE
-        width: 480
-        height: 270
+      - url: https://www.bing.com/th?id=ON.D582512C09D9815C6DC3379A7068B5B7
+        width: 600
+        height: 315
+  - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
+    excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
+    publishedDateTime: 2020-01-06T02:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "What impact will voice search have on SEO in 2020?"
+    excerpt: "The introduction of IBM’s Watson in 2010 paved the way for voice technology devices. Watson is a powerful voice recognition question-answer computer system that stunned the world as a super-intelligent, thinking, and speaking robot that was able to beat Trivia grandmasters on the TV quiz show, ‘Jeopardy’. In the following year ..."
+    publishedDateTime: 2020-01-03T20:06:00Z
+    sourceUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/
+    ampUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
+    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
+    type: article
+    provider:
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.86AF3E2BF73DA0D28E2AC70D2742037E
+        width: 360
+        height: 240
 
 secured: "bqrA32OUm5Ly1h7Y+fJIfzekhNOeogW/ttaeHWkBzLkVjE868EL1BRsAzUYXTYO2Bu2ZkJYPoSb9HbFib31b1SpfgDg0sdGQ1VVPWkwMf+tCqiIsbHPK7brEiB8lNJbbXrzg9eOEpGq5iC6bu+3K0mI3l5KwPuo6r7Njp0ECD87oPWl2S+iLWvxpArNOWCx8+CCb5srhbZUDdpRT63ESpBHxI/iBo7wvEPV/fV8rPWnQQjWPHdt7smzKupbTFueNIgUnwxlrRIFpFUDU2oKjjw==;RfOr7V8lZB/LBVKasAV5Sw=="
 ---
