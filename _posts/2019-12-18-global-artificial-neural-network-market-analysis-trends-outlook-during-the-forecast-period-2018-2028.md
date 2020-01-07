@@ -117,19 +117,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
-    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
-    publishedDateTime: 2019-12-18T08:52:00Z
-    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
-        width: 680
-        height: 350
   - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
     excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
     publishedDateTime: 2019-12-18T18:45:00Z

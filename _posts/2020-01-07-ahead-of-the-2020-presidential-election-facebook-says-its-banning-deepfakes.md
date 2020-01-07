@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/social-media/facebook-deepfake-ban/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-deepfake-ban/?amp
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ACBA67A17373E642316ED1B0777A68B
         width: 490
         height: 490
+  - title: "Facebook toughens its stance on deepfakes"
+    excerpt: "Last September, Facebook launched the Deep Fake Detection Challenge, designed to encourage people from all over the world to produce more research and open source tools to detect deepfakes. The project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI, Cornell Tech ..."
+    publishedDateTime: 2020-01-07T07:47:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/facebook-toughens-its-stance-on-deepfakes
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.244CE3BF978B190073F9C0C86D12559A
+        width: 620
+        height: 500
 
 secured: "f20d2Cwoi7vTEOmQSBsq/uOcaBA7w+q0Wq+kn3xzNXDuLT007fjekBOL1YuNLIO+bff6VQxxnC/beBtockbXAISnUDOnDHvjQrey9eYWowq/CBUg2CX398V/N51phW8ozXfXPf3XA5msmz5lbFNEgi0eqZmfSsemn2JX4TDuPzPSeB0jWb+i+3QAuLenbRqDUPxQhGm7VyQQxOUb1Jo057DsPVLapPt9aU6mBNPTv0ruJn6nigKLXREFrWdnoVRa+10kHiOCzqpX31CeeTyoKw==;msrTxwrMhOCK61N00ER4FA=="
 ---

@@ -18,7 +18,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Google AI
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -26,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "wt+uzzHLtOQBbvRa3hkH/3NDD9AM/S7J1ktUgMReZLXajQDgTPDImjBXrOK27rSjHH6fzKytZ+SWjWratYhAQv63XoUIJLqQktaVg7134QWyfgNWA8Uk4c1dWAQJAjMeLMdYweqQ4yktoQAOfLMLswLg1obEpnSK5br9lXFbT+V2goTL7VdZNmNln3+zogF3hFNKE7atTLGy7MsFYsl+9D06KhBsIOkHA8Uo5T1AocLgFXK07UAwH1kIh6b30McTD44BwfzVzd5Tjqg0pTVfhw==;mrl0p9Kcgnwy5cE6CorZYw=="
+secured: "DC6QfoDW2ZjkCUzKhanb4+WDa8Pv2WU7IDeFMIP6CQQNOKlWta8KbHle0FWInXcmPzdzqzIg6qhv+oVa394vtQluYGinYdwCc3CwdUcg5vQSyZy2hZJhwZ8hNI2yFuIOkiGC5lDrEFZ3O95npJsAuz4JcuZSb/1OSKGTZk68YkfKJBibbhz31eAa87odd3c8I48MvijdnHJjVcrF9prDTmU+SkVAK0X2fTccqqse/jO8Q6h9IveYhPWtxjT5Ky/iqvWoRxNi75N0KgS/8hDj7Q==;nNpa+eJFAbxMxl7QouLrMw=="
 ---
 

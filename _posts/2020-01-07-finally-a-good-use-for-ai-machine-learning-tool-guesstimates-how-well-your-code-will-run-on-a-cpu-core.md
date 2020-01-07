@@ -2,8 +2,8 @@
 category: news
 title: "Finally, a good use for AI: Machine-learning tool guesstimates how well your code will run on a CPU core"
 excerpt: "In three papers released over the past seven months, ten computer scientists describe Ithemal (Instruction THroughput Estimator using MAchine Learning), a tool for predicting the number processor clock cycles necessary to execute an instruction sequence when looped in steady state, and include a supporting benchmark and algorithm. Throughput ..."
-publishedDateTime: 2020-01-07T08:25:00Z
-sourceUrl: https://go.theregister.co.uk/feed/www.theregister.co.uk/2020/01/07/predictive_model_design/
+publishedDateTime: 2020-01-07T09:01:00Z
+sourceUrl: https://www.theregister.co.uk/2020/01/07/predictive_model_design/
 ampUrl: https://www.theregister.co.uk/AMP/2020/01/07/predictive_model_design/
 cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/07/predictive_model_design/
 type: article
@@ -25,6 +25,6 @@ images:
     height: 473
     title: "Finally, a good use for AI: Machine-learning tool guesstimates how well your code will run on a CPU core"
 
-secured: "ZVG9bLbjGwnmMA3gfok2A1N+f2OEhlWn+L/GhXSyOPrYU0GvSuWTuFfGAxMBGe86E6B+IatwzgB0jAq2DyuAvg2qbaF4J4RuBd5cnavjtP28lP1jsnwnuin3TYFVlOzJM2f0tRxsMxZRwhy0pycSRbEC4Q7K3/OLyGc9ZOz9AtyaEy3cGvxxFXNBJxwcGB2JsExGElzS1MGFI2VSoRZrnF3FkSXBL/YDKDiiUy+7JLvP1udlwFUpvK+tTcj+brO1SFcRfpT6c4s6bBrHcCsCnA==;mZzALX2iZ80NK+k638gTqQ=="
+secured: "c6ZI5BTWD9PwoP9QQZqvhaW35mZsbyNTsi0DKCivMWePu/b1JsNV/jsUYrx+6IwI9Kc6o1o5N2GhaRLzd108yuqUA02wfeCCfRLg6yNioP17Xl6UbHlogEBh7pU0y2BQ24vYWxOMlabkAOiJjUIYFXpC7CEm+dZJBXUuJhbXheren0W74rdBRjvB6rpWRAUdCQJsFFg4qLfHTG4KtOuiRZlj5Hxfdw8C9BnaVbRVvlr5GcAszeUluqMf7N3grl98JMeB9kaslXlYCf3Uso2EUw==;8WsZsw3PLrX5LrOSLV0ZEw=="
 ---
 

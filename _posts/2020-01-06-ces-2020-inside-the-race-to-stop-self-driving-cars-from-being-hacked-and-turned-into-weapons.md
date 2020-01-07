@@ -329,21 +329,6 @@ related:
       - url: https://www.bing.com/th?id=ON.44FC8F1287E9A5196ECF2A552962D2FA
         width: 700
         height: 350
-  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
-    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-    publishedDateTime: 2020-01-06T14:06:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.1CB45A5F7A38E242BB1D7BAE767695C2
-        width: 700
-        height: 524
   - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
     excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
     publishedDateTime: 2019-12-31T10:34:00Z
@@ -359,6 +344,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
         width: 700
         height: 393
+  - title: "DJI’s Livox launches sensors for self-driving cars as Chinese drone maker faces US regulatory challenges"
+    excerpt: "Media reports in recent years have suggested several times that the drone maker is secretly exploring self-driving technologies, although it has never confirmed this. US report highlights reasons for military ban on DJI drones Livox was formed in 2016 by a group of engineers within DJI’s Open Innovation Program, with the aim of ..."
+    publishedDateTime: 2020-01-07T09:49:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.CED3E1DF7C89160B742E361348914221
+        width: 700
+        height: 367
   - title: "Tourists in Tokyo have chance to try self-driving taxis"
     excerpt: "TOKYO >> A consortium of companies is offering foreign visitors to Tokyo a taste of autonomous transportation. A project using airport shuttle buses and self-driving taxis will seamlessly transport tourists from two airports to the Marunouchi shopping district near Tokyo Station. The Mobility as a Service experiment, to run Jan. 20 to Feb. 1 ..."
     publishedDateTime: 2019-12-26T10:12:00Z
@@ -498,6 +498,19 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T15:06:52Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more/ar-BBYFcAp
+    type: article
+    provider:
+      name: San Diego Union-Tribune on MSN.com
+      domain: msn.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.1CB45A5F7A38E242BB1D7BAE767695C2
+        width: 700
+        height: 524
   - title: "From streaming to self-driving cars: How technology has changed our lives over the past 10 years"
     excerpt: "A 2019 study from Oxford Economics predicts that in the next decade, nearly 14 million robots could be put to work in China alone. From drones to self driving cars, robots and artificial intelligence are popping up everywhere. According to a report from Voicebot.ai and Voicify, smart speaker owners in the U.S. grew 40 percent in 2018 ..."
     publishedDateTime: 2019-12-31T14:29:00Z

@@ -1,21 +1,22 @@
 ---
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-publishedDateTime: 2020-01-06T16:19:26Z
-sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
+publishedDateTime: 2020-01-06T16:19:00Z
+sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
 type: article
-quality: 54
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace on MSN.com
-  domain: msn.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
@@ -107,6 +108,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "EasaxsJV/msPQr0R/1T53uOEA+y5j5j0r46wwJgPu404MnR5SakHjtHliBn07o6FXaO22RxlxCjw9BTJZMO0y5pJoFKksMbv2VxnV3DVD22Uem7GwNVLDNMHgXVnSkSbMClVWDtPnql7jT+Af2WIkflkFFxDDdhvow9gHmEyXx5vECals50HtrIdkMjjz14KA8O8ob+Z9swNjx6r4dnTp2fazTcRD1YKcbiP4gYFoao5VMmhTfvxL+/LH0sQJh04Xu91/cH0OZTgUTOFRK4meA==;6YrhJEjq1yp/tckBBThsBw=="
+secured: "n1Erm5JXyeGowBtZQ39yjHtFQY21Rqox6xqF6pQ9ihO9REsrwwf3SbPw4z1RqMDi3KDTBufBK4taC6Wy+AzpgjowU80B3YUAbE+eHGkjPZNcIZRcQlhd657OvDmy0et0mGVDytnuNwkSiVMLNRVCygNnLqMEYH/PCxRzVZdAIXG3SreEacYLVYJW7anZx+6mYHIGeXyDrEMCSmnKaiG8hfx5jOYWfiYFFSRGCdsEuuR9YgeDtfeR46YPAVIOcXvoAVT0kODuWNdukGVWUhQ8Dg==;mSQE4A9RJBeNQ2RFF9y6kw=="
 ---
 

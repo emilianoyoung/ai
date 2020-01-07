@@ -55,19 +55,6 @@ related:
       - url: https://fdn.gsmarena.com/imgroot/news/19/12/samsung-baidu-kutlin-server-ai-chip/-1220x526/gsmarena_001.jpg
         width: 1220
         height: 526
-  - title: "Baidu and Samsung Electronics Ready for Production of Leading-Edge AI Chip for Early Next Year"
-    excerpt: "to inference at a three times faster rate than that of conventional GPU/FPGA-accelerating models. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads, such as search ranking, speech recognition, image processing, natural language ..."
-    publishedDateTime: 2019-12-18T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/baidu-and-samsung-electronics-ready-for-production-of-leading-edge-ai-chip-for-early-next-year-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Samsung teases a new HER-like AI assistant called NEON"
     excerpt: "Samsung is however looking to have another go, and has been teasing a new AI product called NEON with tweets and Instagram posts. While the teasers and NEON.Life website do not give much away, the project comes from Samsung STAR Labs, who’s remit is ..."
     publishedDateTime: 2019-12-24T20:30:00Z

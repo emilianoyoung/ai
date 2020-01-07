@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: News Medical
@@ -24,21 +24,6 @@ images:
     width: 620
     height: 480
     title: "New report highlights AI's potential to revolutionize health care"
-
-related:
-  - title: "Health professor: AI has huge potential, provided ethical issues can be solved"
-    excerpt: "Despite all the enthusiasm for AI, plenty of questions remain when it comes to the link between AI and ethics in the field of healthcare. This is particularly the case with regards to patients’ protection of privacy and data. Among those is the use of patient data for commercial purposes, Brkljačić says, as some AI products will eventually ..."
-    publishedDateTime: 2019-12-18T08:15:00Z
-    sourceUrl: https://www.euractiv.com/section/health-consumers/news/health-professor-ai-has-huge-potential-provided-ethical-issues-can-be-solved/
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.7B3971CF721659CC92F54BF6A05F432C
-        width: 700
-        height: 525
 
 secured: "geNAZYHTC+M50FRmmNnwgJEqEWtAqtUmOtDKmO6MEqsORcbKp5Un9mK6flhB9IVsBJ38VwIYDTvo5hOaaF6aYWR5J8/qKc66DBK8ZCzqZkgRiSRSJW80mrN7oWr7I2rvA1vYQU6hJng8PWJgmqtuzLK59IP2YUwY2p96TioBf/Uy7tHpyXz1+1iSvBXeasdSvk2/zFb8v33/lZ25tBtvyq08Zrei8+SI/cUtDr6/WqSyZH2LciMI8G2DFTaPZO1g2Ts/fQS9vjnP35TOqn7thg==;Ds1+51tuW0v2bYyLqMm7jg=="
 ---

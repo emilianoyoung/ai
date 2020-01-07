@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
+  - title: "5 top tech predictions for 2020 and beyond"
+    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
+    publishedDateTime: 2019-12-31T11:04:00Z
+    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
+    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
+        width: 640
+        height: 427
 
 secured: "dWquW5vXWa5Klm3S6zOP9AxcgpwW15AI13lyrkmNzVoeKTEzNjFhtEA27ez/l93Hz6HtIpT6wtXpjstAT0HzezeR6sc+BEKtyuADrjMueO/KfdGJm51DReAO9Qb4jM93ungeg0/GVC3thSsyOt0R70duvmq2H9+uGwS9870HErPpDAHhV0f7pHTtEP3oyKgkrn+Mkq1/kii8tSg1D+wZjJh3z8rg1GFrttci9HqvnRUeVlxYnjDUbhnSsqUORl39NE68JAabziR4S6q9MCozyg==;elaISxPE8+oPZ2/wQ8Hu7A=="
 ---

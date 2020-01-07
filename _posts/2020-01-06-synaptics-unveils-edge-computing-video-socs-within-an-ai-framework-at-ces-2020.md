@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/synaptics-unveils-edge-c
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/synaptics-unveils-edge-computing-video-socs-within-an-ai-framework-at-ces-2020/
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     title: "Synaptics unveils edge computing video SoCs within an AI framework at CES 2020"
 
 related:
+  - title: "Synaptics releases edge computing video SoCs with AI framework at CES 2020"
+    excerpt: "Synaptics announced a new Smart Edge AI platform, the VideoSmart VS600 family of multimedia system on a chip (SoC) products that combines a CPU, NPU, and GPU into a single software-enriched SoC. The VS600 family is designed specifically with human ..."
+    publishedDateTime: 2020-01-07T09:14:00Z
+    sourceUrl: https://www.telecompaper.com/news/synaptics-releases-edge-computing-video-socs-with-ai-framework-at-ces-2020--1321832
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Synaptics Announces Industry-First Edge Computing Video SoCs with Secure AI Framework at CES 2020"
     excerpt: "Jan. 06, 2020 (GLOBE NEWSWIRE) -- CES 2020 - Synaptics® Incorporated (NASDAQ: SYNA), the leading developer of human interface solutions, today announced a new Smart Edge AI™ platform, the VideoSmart™ VS600 family of high-performance multimedia System on a Chip (SoC) solutions that combines a CPU, NPU, and GPU into a single software ..."
     publishedDateTime: 2020-01-06T15:14:00Z

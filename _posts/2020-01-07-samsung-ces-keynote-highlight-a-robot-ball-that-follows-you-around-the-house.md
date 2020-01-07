@@ -54,15 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
         width: 700
         height: 393
-  - title: "Samsung Looks Beyond AI With Artificial Humans"
-    excerpt: "Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real world -- would ..."
-    publishedDateTime: 2020-01-07T07:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-07/samsung-looks-beyond-ai-with-neon-artificial-humans
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
   - title: "Samsung unveils AI-powered digital avatar"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
     publishedDateTime: 2020-01-07T07:46:00Z

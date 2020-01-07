@@ -26,47 +26,62 @@ images:
     title: "Cognitive intelligence, in-memory-computing and more in 2020"
 
 related:
-  - title: "Killer Intelligence Engine now uses AI to deliver stronger and faster Wi-Fi"
-    excerpt: "Artificial intelligence is being incorporated into the Killer Intelligence Engine to produce stronger and faster Wi-Fi. AI will detect and move to the best access point, which can reduce latency by up to 50 percent. The AI incorporation is available now for supported devices. The Killer Intelligence Engine now incorporates artificial ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi
-    ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
-    cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
+  - title: "Top five projections in Artificial Intelligence for 2020"
+    excerpt: "In the good news we have seen innovative Healthcare related applications being deployed in Hospitals ... Advancements in the study of human intelligence also show that our species is very effective in adapting to unseen situations which contrasts with the current capabilities of AI. In the past year, there has been a significant activity ..."
+    publishedDateTime: 2020-01-04T17:46:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    ampUrl: https://timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
+    cdnAmpUrl: https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/top-five-projections-in-artificial-intelligence-for-2020/
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
+      name: India Times
+      domain: indiatimes.com
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
+      - url: https://www.bing.com/th?id=ON.4AD0EBE9E9919E10E590A3228C963710
+        width: 414
+        height: 364
+  - title: "Artificial Intelligence in Medicine Market Projections & Future Opportunities Recorded for the Period until 2025"
+    excerpt: "SWOT analysis of Artificial Intelligence in Medicine Market: Strength: Ability of AI to Improve Medicine and Healthcare Facilities Increased Adoption of Ai in the Market and Emphasis on Cost Saving Weakness: High cost of technology Lack of Awareness of Artificial Intelligence in Medicine Technology and Skilled Personnel Opportunities ..."
+    publishedDateTime: 2020-01-02T11:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-projections-future-opportunities-recorded-for-the-period-until-2025-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "The Top Ten Fintech Predictions for 2020"
+    excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
+    publishedDateTime: 2020-01-02T21:47:00Z
+    sourceUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/
+    ampUrl: https://www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/155888-the-top-ten-fintech-predictions-for-2020/amp/
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E56E5DB4E50283C044BD885D09C73150
         width: 700
         height: 525
-  - title: "Rivet Networks's Killer Intelligence Engine Taps AI Power To Strengthen Your Wi-Fi Connection"
-    excerpt: "River Networks is injecting a bit of artificial intelligence (AI) into is Killer Intelligence Engine to bolster wireless connections. The general idea behind this is to constantly monitor and \"score\" Wi-Fi access points in order to ensure a user is connected to the best available one, thereby resulting in a stronger, faster, and more reliable ..."
-    publishedDateTime: 2020-01-06T15:02:00Z
-    sourceUrl: https://hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    ampUrl: https://amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
+  - title: "Legal Tech's Predictions for Artificial Intelligence in 2020"
+    excerpt: "My mental picture of C3PO projecting a hologram of a case file has not yet come true, and I must confess that I’m a bit disappointed. OK, I know that’s not what artificial intelligence is all about. In the past decade, we have seen AI’s legal applications grow from primarily technology-assisted review in e-discovery to encompass ..."
+    publishedDateTime: 2020-01-06T12:19:00Z
+    sourceUrl: https://www.law.com/legaltechnews/2020/01/06/legal-techs-predictions-for-artificial-intelligence-in-2020/
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 46
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: https://www.bing.com/th?id=ON.24C60AA77046AE81EC288BDBF714CF7E
-        width: 700
-        height: 336
-  - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
-    excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
-    publishedDateTime: 2020-01-06T19:00:00Z
-    sourceUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/index.html
-    ampUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
+      - url: https://www.bing.com/th?id=ON.B5C2FB48FB9B0EB28D7CCB1F0774F2B6
+        width: 620
+        height: 372
 
 secured: "BPkNwHSH3upEOJVzEh2jasanIS0uCTOi7AW/jRPRnL6Y6nFSpbZYidkj/dTQN4uwR3CDD+EZ+KRCu7hioKxW2b/ad92fz/NuiIkLWO5kQAP11158aA1SPkJtHtdmFzfxLu5OmJnDb2bhfQ3/2ytfl3Zzs257xXAZLwgeFzsVd84kK+B8YqE6UgNvxl+OI0yJShNYmMjTscndff2rK82VJUyD9laD60aIZ3s57/ykm0+jZin6+7rt2dBz4ynHYc5jKwZh+vXj2Yb6J7WmJCQlIQ==;uzJ5xN510UfPKdA0UJF6jg=="
 ---

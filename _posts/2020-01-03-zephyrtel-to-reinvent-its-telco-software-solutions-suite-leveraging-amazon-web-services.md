@@ -2,26 +2,20 @@
 category: news
 title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
-publishedDateTime: 2020-01-03T11:18:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/zephyrtel-to-reinvent-its-telco-software-solutions-suite-leveraging-amazon-web-services-300980824.html
+publishedDateTime: 2020-01-03T12:27:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-zephyrtel-reinvent-its-telco-software-solutions-suite-leveraging-/2020/01/03/9075699.htm
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 
 related:
   - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
@@ -37,6 +31,19 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/bb66Tva8FEJkyNSwnJ0QtA--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cebb9d6f35cfe34562f36d3a78800bca
         width: 635
         height: 400
+  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
+    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
+    publishedDateTime: 2020-01-06T02:34:00Z
+    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.73B20EFAAA42242C57DF92986FB9B9D7
+        width: 700
+        height: 379
   - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
     publishedDateTime: 2020-01-02T17:08:00Z
@@ -51,6 +58,6 @@ related:
         width: 700
         height: 457
 
-secured: "WW/YujLMKeFCoNFH4WEQLM+H8/XpoUc6+XimUPoAD+951pNkTOLtUbVIARpsU59RrY6Err6eL1LGAosuWXDry9e08MVm/hXk6W9+x/HSnqxrn5gwjNboZLa3/DqeMe570G4y3RZf63Tk9TYIQRYl5b8SMt9GiXtLxiyPor+Xt8kERAEPmpKZBRxgLP7zvX3b2u5fSdmm77Srbdcha0YTMRQ2xNjKYk9PXNJlmSb1OU8C2ITHDwQJ53gSYHJCbOpEBGM0g1QY/FmppNT5EIYIqw==;6RhaLB2p5FEU7UR/LKvFMQ=="
+secured: "0H3GpSU23zuLrMq4RRPYOq+Dlp46zARwyarTqrviA62rRRQoCdyBtT7rnYFJfWCGmEGElVJsYPYFip1HyzAe0/tUVML55ACiF5+ML6+IibvmTXQmD4B4mXoJVDWONhqbjo66jTzRSZEcPiWWrnaAjgBfcRnF944MilIQ0QQE3BGfaPZTAfupUZxttlSOslfVm+xwmvR3sRMKsK7WJVcD1v5EPTGDu1hQ5uxWu7Vgfb/Uy/hWdpa5eQ8Txj6Pc3dTzO0VaaMh6zqt5ujxjntapw==;e4irlfPhb0ls2yMezyfPYw=="
 ---
 

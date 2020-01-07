@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ACBA67A17373E642316ED1B0777A68B
         width: 490
         height: 490
+  - title: "Facebook toughens its stance on deepfakes"
+    excerpt: "Last September, Facebook launched the Deep Fake Detection Challenge, designed to encourage people from all over the world to produce more research and open source tools to detect deepfakes. The project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI, Cornell Tech ..."
+    publishedDateTime: 2020-01-07T07:47:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/facebook-toughens-its-stance-on-deepfakes
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.244CE3BF978B190073F9C0C86D12559A
+        width: 620
+        height: 500
 
 secured: "PLCSR3+4Nu3O/YRShBq1RlsS7+9RR8GqJrrNqIKPgXub5G9Jy26ndzoUv0M2gKvM0TCuOLWwgkTUJ/pDWpe6pJniG2iZBkImZiVckCm9BRu95CLba+15Afpp4fyhiMf6o9pWCkmZgPFHFPRgM7Lz+/IEvnU/PpQip2z9Yr9M8XIqhQXP9e/DTUQ4LwD9v6Lcw2M/ufAC42WKEzdxWZtTSpYOuier344AKbfK9STvW+ImGyiiri1LzD5s+kLX0HVxVH4RiZrX81zQAkTtvLbwiA==;JfvHt+f1nhH6OwV+jtR2/Q=="
 ---

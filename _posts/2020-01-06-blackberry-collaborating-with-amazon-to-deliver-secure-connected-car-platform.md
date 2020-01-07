@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D85CEFD3C3E7A09DF788010540FD3E18
         width: 700
         height: 367
+  - title: "BlackBerry teams up with AWS for new connected vehicle software platform"
+    excerpt: "The AWS-powered BlackBerry platform combines the two companies’ edge and cloud ... speed product development and ultimately to provide owners with leading cyber-security resources and predictive maintenance information via the latest artificial intelligence applications. “The result is enhanced VVIP treatment for our discerning luxury ..."
+    publishedDateTime: 2020-01-07T09:29:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/blackberry-amazon-web-services/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.42DFD5A04C4DB960AC944CDD1E89A573
+        width: 700
+        height: 446
 
 secured: "jYQDB41Z/BMo3RSn2nfHEPTN34ZMT7tBvE2PrAlspkQIYhS08xL01hoA1OBwV0IRfRorV7ljDCHx7f/iv3UR1FTEgU3ZArOIibBmeGLSS744/aNhXis/7kpQjAqJIobBy1hHYGR6D82/o4MGA0b70kGVqwwb58+B8sckOw76N8paFREDJXOcRuqK0ZO0KozDIk8ZjUWdZjNnPT2xjZUjUqXUnBjinzpvfsl3Pm8JoRkuJeXpWxc7rOIMyNC8HW9F1WRuOfcjVI/T48iUi0Engg==;ZnueFK2nmZhI0SeI78T4/g=="
 ---

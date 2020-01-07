@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T15:43:00Z
 sourceUrl: https://www.msn.com/en-us/finance/other/samsung-has-made-an-invisible-ai-powered-keyboard-for-your-phone/ar-BBYFAwL
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,17 @@ images:
 related:
   - title: "Samsung created an invisible keyboard that uses AI to track your finger movements"
     excerpt: "SelfieType will use a front-facing camera to track your fingers and turn any empty surface into a virtual keyboard."
-    publishedDateTime: 2020-01-06T23:34:03Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-created-an-invisible-keyboard-that-uses-ai-to-track-your-finger-movements/ar-BBYGbtw
+    publishedDateTime: 2020-01-06T17:48:00Z
+    sourceUrl: https://www.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1
     type: article
     provider:
-      name: Business Insider on MSN.com
-      domain: msn.com
-    quality: 32
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
     images:
-      - url: https://www.bing.com/th?id=ON.50E1834FBC6704DB4CC4ECF9E2BBBD2B
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.067F1A31603E42FC731FD83441B7F40E
+        width: 700
+        height: 350
 
 secured: "Ij7A1x1hOLEAoziVY19BzZKLQ/ntEHiCNhQ0N/0Kmo5+imxuIAPfhQ0dy+TWY7LhNEugWo39q3hUm7ubEIRfZbRoPmfAh/zXJ4L5SB7V0duLtgHNv16SYCMCAXm7iJF7GO1TwBVKafwNbdhHu8Axa+MDkP5QUaq5VVpHwuAHPvO3iEZahNUGWTeqpqvnrgA55zE/JfHWNX2eTkbUA4BEd5PHt71YV4XuUi+TrscyVH1l7X/uuBQQHXNblW+b2rRv+HgLX03xSxu/DXkvkM9E9w==;c3nBQg5yf3j5dPDFincbWQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T12:07:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
 type: article
 quality: 80
-heat: 300
+heat: 290
 published: true
 
 provider:
@@ -104,19 +104,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Consumer Robotics Market 2019 World Analysis and Forecast to 2023"
-    excerpt: "With the huge requirement of high speed internet connectivity, which is propelling market growth of the consumer robotics market to the large extent. With the advancement in technologies, such as artificial intelligence and machine learning which is integrated with consumer robotics are widely used among users. Flat 20% off on Single User PDF ..."
-    publishedDateTime: 2019-12-18T08:52:00Z
-    sourceUrl: https://www.dcvelocity.com/products/Business_Management/20191218-consumer-robotics-market-2019-world-analysis-and-forecast-to-2023/
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.8395DE0254885946C6175BAD49EBCBD5
-        width: 680
-        height: 350
   - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
     excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
     publishedDateTime: 2019-12-18T16:58:00Z

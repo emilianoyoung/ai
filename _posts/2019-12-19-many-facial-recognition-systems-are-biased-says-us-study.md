@@ -993,19 +993,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
-    excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
-    publishedDateTime: 2019-12-18T08:11:00Z
-    sourceUrl: https://www.sporttechie.com/italian-soccer-league-serie-a-facial-recognition-technology-fans-racist-chants-taunts
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 33
-    images:
-      - url: https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png
-        width: 1200
-        height: 675
   - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
     excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
     publishedDateTime: 2019-12-23T16:32:00Z

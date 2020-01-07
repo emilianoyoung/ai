@@ -55,17 +55,17 @@ related:
       - url: https://www.bing.com/th?id=ON.AC0992C8097CCAE7A53014F1E742798D
         width: 700
         height: 367
-  - title: "White House proposes regulatory principles to govern AI use"
-    excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
-    publishedDateTime: 2020-01-07T04:50:00Z
-    sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
+  - title: "White House Proposes Regulatory Principles to Govern AI Use"
+    excerpt: "LAS VEGAS (Reuters) - The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities' \"overreach\", and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should \"conduct risk ..."
+    publishedDateTime: 2020-01-07T07:04:00Z
+    sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/white-house-proposes-regulatory-principles-to-govern-ai-use
     type: article
     provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 39
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
+      - url: https://www.bing.com/th?id=ON.4D077A9BC62CB65BD38EBFEE9073CE9C
         width: 700
         height: 466
 

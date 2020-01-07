@@ -33,6 +33,15 @@ related:
       - url: https://www.bing.com/th?id=ON.6615953D0A2C6FC7C6D0B72E39B9E6A9
         width: 700
         height: 525
+  - title: "Synaptics releases edge computing video SoCs with AI framework at CES 2020"
+    excerpt: "Synaptics announced a new Smart Edge AI platform, the VideoSmart VS600 family of multimedia system on a chip (SoC) products that combines a CPU, NPU, and GPU into a single software-enriched SoC. The VS600 family is designed specifically with human ..."
+    publishedDateTime: 2020-01-07T09:14:00Z
+    sourceUrl: https://www.telecompaper.com/news/synaptics-releases-edge-computing-video-socs-with-ai-framework-at-ces-2020--1321832
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
   - title: "Kalray Unveils Coolidge™ at CES 2020"
     excerpt: "Coolidge is a compelling choice versus FPGA, which are expensive and difficult to program; GPU, which are tailored for mathematical algorithms; and AI processors, designed for AI only. Coolidge-based cards can be configured to deliver specialized acceleration performance in a wide set of demanding functions such as vision, signal processing ..."
     publishedDateTime: 2020-01-06T17:08:00Z

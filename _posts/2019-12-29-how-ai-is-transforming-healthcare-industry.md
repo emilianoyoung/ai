@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
+  - title: "Healthcare in 2020: the era of digitization"
+    excerpt: "ETHealthWorld | December 31, 2019, 16:08 IST By Anjali Jha The Year 2019 has seen the influx of Artificial Intelligence, Telemedicine ... With the introduction of schemes like Modicare and Ayushman Bharat Yojna, healthcare is expecting more numbers of initiatives and development in the upcoming year. It all aims toward the acceleration in ..."
+    publishedDateTime: 2019-12-31T10:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/healthcare-in-2020-the-era-of-digitization/73045907
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.589EDDB9FB3E7B1CB39F0D4572F786B1
+        width: 700
+        height: 379
   - title: "How to Ensure Your Health Care Innovation Doesn’t Flop"
     excerpt: "These days, everyone working in health care is chasing innovation to thrive in this era of increased accountability ... Many organizations define innovation as novel technologies, processes, and business models. They may regard artificial intelligence, just-in-time supply chain, or bitcoin as innovations. These things, at least in their early ..."
     publishedDateTime: 2019-12-28T16:43:00Z

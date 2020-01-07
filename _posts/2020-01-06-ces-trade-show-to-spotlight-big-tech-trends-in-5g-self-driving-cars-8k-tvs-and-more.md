@@ -2,18 +2,16 @@
 category: news
 title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
 excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-publishedDateTime: 2020-01-06T14:06:00Z
-sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
-ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
-cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+publishedDateTime: 2020-01-06T15:06:52Z
+sourceUrl: https://www.msn.com/en-us/news/technology/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more/ar-BBYFcAp
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: San Diego Union-Tribune on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -346,6 +344,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DD2ADF41A96647580B303277690638D3
         width: 700
         height: 393
+  - title: "DJI’s Livox launches sensors for self-driving cars as Chinese drone maker faces US regulatory challenges"
+    excerpt: "Media reports in recent years have suggested several times that the drone maker is secretly exploring self-driving technologies, although it has never confirmed this. US report highlights reasons for military ban on DJI drones Livox was formed in 2016 by a group of engineers within DJI’s Open Innovation Program, with the aim of ..."
+    publishedDateTime: 2020-01-07T09:49:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3044981/djis-livox-launches-sensors-self-driving-cars-chinese-drone-maker
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.CED3E1DF7C89160B742E361348914221
+        width: 700
+        height: 367
   - title: "Tourists in Tokyo have chance to try self-driving taxis"
     excerpt: "TOKYO >> A consortium of companies is offering foreign visitors to Tokyo a taste of autonomous transportation. A project using airport shuttle buses and self-driving taxis will seamlessly transport tourists from two airports to the Marunouchi shopping district near Tokyo Station. The Mobility as a Service experiment, to run Jan. 20 to Feb. 1 ..."
     publishedDateTime: 2019-12-26T10:12:00Z
@@ -521,6 +534,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "55pd7oG/A6+IqUOJdJNqERwvkGE5xCMzUEh48bkqXo+p/jg/LNouWQOjCf3sNm1N8C5FSzocAG9jEGb2N6AddR5ae05NmdXVHpMutly+QZv/bLTZ+TQWTVAIanhs+0dyIoja9KDkV2WTsgrhUHYhoU+Dol4mOsmf1x1mma2Huh+s5IDcAJN+TznhD/LTMtlFQy9yJfonrI09DunRXzfmkVCSpHlfU7ro+Vj+xgceRWSlvtTCiLSBxUfgXmbSwoYWyhS+i1CFbNd+V/KqxWzeag==;oVxFhxXTFfjGXAv34bjsug=="
+secured: "9aQlvUIB/zYDV+z5Oma3C9wcT4Kp3VvuUJnVVVhV24wlvDzW/IwxhN2l6P0zX7ntl7mr9yy1fKUZ/nmhlKAtTNaf4QFQQBD3kf2KEVAf6QtKeFg2EQnLRzhqiYiFTdz4nvEQrUX2VfSYhITy8kVqrxpgr7ct3wL4aI1MkWxeb6f+3rXZ5/AehflUbCRDVQVv7V16A+1K/sQBp9nWsyaHA5kG44YDEL/i5sFPgk6hykV63+yNVgAfgU2TEg6GF1I67eK40JWk831hjhqiy69QSg==;U/ERsdyMRnmR81EWU1mE7Q=="
 ---
 
