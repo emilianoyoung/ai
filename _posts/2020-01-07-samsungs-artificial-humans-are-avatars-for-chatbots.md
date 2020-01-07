@@ -8,7 +8,7 @@ ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354475/sam
 cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots?amp
 type: article
 quality: 74
-heat: 124
+heat: 126
 published: true
 
 provider:
@@ -100,6 +100,6 @@ related:
         width: 700
         height: 367
 
-secured: "bwRQX/hbpZk+iyJpeHwFpblrpBO/uJGd3RMgvmB7FdSIlICwtT1mWD84FOsmzgmrY2uWfeZFL9nsi8d5RD55TQLPz940IU7+pxEf+S/W+7pLNLmYwc/J+affpu5FiV7oAYKLvjiZUl+Smk/cJY0sVMZz1WzfVRAMizyp4vQtvkIxonso3yvywOm8TvmsPzZpnKAdiaq5p8TDWH6b9TQvEjFpU1KIBULBGyx3G5wGSzqyM6KgTT90WYMLLQ9RLEwY1sgsRR6yMAPKHp2jalNoNg==;TGizKrPrlibdNk2wL+jB4Q=="
+secured: "vvRrboM5ZbrpVpq96BEsKke8n+iR8UU3vZQ8Ti/YOyzx/fCpeD8qVMf3xvOhbhFXEn5YgeOXxPUwj7YgiHJ8HdyO/01Un2PItseS24c/7fYaM1OCqMx8xTrg32zRJ8hvhfUV3N4i/O/O4MmJp4VV0SsQzTV3WcDYlBRuOYF79GJ4IDKOQfNABzzkTgh4IhoQnEzx5I3uzT6c0vcbaRgBkkDlR81DojZRSSQ74ZyWvcGr4uhuEWmlV5P72ms7ay0G6FdySGyMBqco84EYHLjPrQ==;g3K2PiaqYk9KWy8PfnvAHA=="
 ---
 

@@ -91,15 +91,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
   - title: "Compensation: Lost In Translation"
     excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
     publishedDateTime: 2019-12-20T22:05:00Z
@@ -110,6 +101,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "VFmQlnWQxu4CzoYL3tUamF0tQeX7uZIEPbHR4VRoyXLLzdlT3RQpiSzaTJtUs2DBX69rMsmr98xa2jU5jx1ve0oHUhxgouePeuKF7Vs7RT/HwrMuIOWPuvriTX8JgqZHPFQD2If/+fGhJEEzn/dkcjmloCVQ6DGH0wPzmLkGkg1Fvx3D1NZSmk7ghZeNyt1oOZ30B3snWDt91YW6n12DhWfrX6KzsB5vbXH9VHybLHU7wIkepTJ565JVEVLKNwPegILWd+inxy9CiujI8/qFoA==;U/bXIRmaANFfBylZT6jWhw=="
+secured: "UqdbrEpU2NKO0pJrEWoY9p1T+1pqnn36MLfTqhqAj6wds/lJQQo7I3FnAH5ltLuHC/apgT1hFgL7U+JP3fr4uEOfgKVfrzRzPbIWSQep2qL4pQsvUHrAPe1T1Qak+7G1IZwJLtKnZE4U+4/A+mZIA2s8bUB2h7/W5FjTimbIwmNZmxhaehnKDRLBRtTTFAZp5/uYHGVvRCnyUxcOx6AyRcdD0Yml+ussLZThj+Sa7LiCVysNZoStxUKpyTscFzKDOMDK5+FrgmqHlBMTc6QXuQ==;b2JoJiACW7kFMK5QzAiKZA=="
 ---
 

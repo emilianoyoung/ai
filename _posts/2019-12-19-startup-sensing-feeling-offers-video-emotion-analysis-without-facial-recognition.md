@@ -80,19 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
         width: 700
         height: 469
-  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
-    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
-    publishedDateTime: 2019-12-18T18:52:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
-        width: 1024
-        height: 768
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z

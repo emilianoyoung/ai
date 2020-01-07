@@ -98,15 +98,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
 
 secured: "vcA3x8vdBBCz2F020fI4d6lVS2F8yMwry1JsQiMNQjUtJBDzNl1bLGesl2mOzF1ztRxM+FjeGAKFJuE/bpArD5uzhOFz6qSfIJ0PB39lEe7cHokRGbZqbKr/T3e8OVk02FgpkHy2d0/pxu+R4rxWDq35N88gBlKDnW7nGF7n87jwjTEhoNE4LhH2amd2CkUJmyIC7Yu+WhhTeNPjrfCCypqY8k5KrUlxdRNAQbqS1pGowiIJo67WGouNwVtbp/JNI28xzwiOU+Ges5xUZ4y8Fg==;+ohUNHkzjwP3ec4y9KwkCQ=="
 ---

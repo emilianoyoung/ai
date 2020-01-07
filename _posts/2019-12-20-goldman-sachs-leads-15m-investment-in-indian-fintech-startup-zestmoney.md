@@ -74,17 +74,6 @@ related:
       - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
         width: 940
         height: 430
-  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
-    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
-    publishedDateTime: 2019-12-18T18:08:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
-    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
     excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
     publishedDateTime: 2019-12-19T04:24:00Z

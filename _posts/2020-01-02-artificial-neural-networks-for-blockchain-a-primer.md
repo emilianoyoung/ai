@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neu
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.295886AD34BC8493ECF12C621151B63E
         width: 700
         height: 421
+  - title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural ... of spared neural networks and facilitate functional ..."
+    publishedDateTime: 2020-01-07T19:57:00Z
+    sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 34
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
+        width: 620
+        height: 480
 
 secured: "np5ASn1vd1Ra/pkzeD79+l62WCf8+3SeV+mV3cslWTASNDDHxKu19/M3DW623I1b9H3UiSY5GkzCWgd8vTtrq4R0UB/Z6wjDheMdZ0/kW1S+AYeuzreoID8vtK5Mm9KSUgMrK+goEPMsOXzU6iqCWEraBOoyFxRYLIBoVPxVevvzXdsw5TC4M69we0Lk0nCNPK+gvDCITxsZ8apal7YYGXMzMa/0H1oUu7af7xM4H+QzEl2olbcylBJJrqMDl7x2U/psVH4jn+Tkj++R/TzrBA==;bQJORVSvtlb0zfL7+oGJRQ=="
 ---

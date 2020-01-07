@@ -104,19 +104,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
     excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
     publishedDateTime: 2019-12-27T03:02:00Z

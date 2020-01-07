@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
+    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
+    publishedDateTime: 2020-01-07T19:00:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
+        width: 700
+        height: 366
   - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
     excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
     publishedDateTime: 2020-01-06T21:43:00Z

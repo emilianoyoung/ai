@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         width: 700
         height: 365
 
-secured: "uQ185xlS1fioYQKJo+bUeBBgRHikZUhQL8IRDz7XVT2BCdlUsEeUOjf0KZZ+D+/zce4tuzYhPUzWL0RhDS0pGfxwsbMvYAUDdyhNAiaSVNQ+fnJqxhUqLdUI24nbCWLUCnpsNXHX9a4t83EFaK+pabPsbM52RX3leQyMuv2zd/PkZ0lMuVMlwVvET2PQ6fHOO1jQoqa3pSsmxLdKfCJyoUKO0uhZPk1IbWAGYeO6RBj2NB6TdOmkrfCTcq6i85NU2ojHKiw25vgl/f6boVkSfA==;iuCtBMGbFypoL8kzdaszXA=="
+secured: "tJKpChKUr33zCls9BHviTTs42CXgb5ma8lKC26VRvzdowJXF8Cwqqye/xHSJcBRQufRwaodlnLD+wMpgFkSgRomMvlY+wWcB0XdrNAvg9HOkCT9v1XV+jGejHkvxcUtliQ6oXpRjWo9YFNAZA8ocICMGmTNmlaOmHceUuYkScqNCLWyNEX8/qoFM/t6fsbBqfblnS4l/KQI2XdYW2YaNfpQnsoy/G8gh4GZzENIPkMbDKWbKfhn9+YnyHY6HvwLDgPF+pK4ZbgsOoRpAsNeV8A==;yMcxy4/jbqELzr4oBV2PZw=="
 ---
 

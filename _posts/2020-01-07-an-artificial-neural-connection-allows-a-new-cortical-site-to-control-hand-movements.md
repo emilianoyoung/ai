@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A5196F9943E35D03102A90A99BD5C85A
         width: 600
         height: 315
+  - title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural ... of spared neural networks and facilitate functional ..."
+    publishedDateTime: 2020-01-07T19:57:00Z
+    sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 34
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
+        width: 620
+        height: 480
 
 secured: "w7GazM2lo9n96/HYE4NSUII5dJ85rw8AJOP7MUwdEPyHgQrwRjyKlxCJcq0fAjoGXKpMjvGzGalPWGK7x1yrjBbnM1wmjxorspqExr9d9HfxRQqhgmrqT6hguxqJfDpcE0tjb8+S2n5qmv8UhNTkV914NjMX9RPsNP1ra5/lp4aUeP+vC78ubHmJewSfYcH2CUbMIiUQp4zoO5NtFWwKnn0NXyUEZeXVC1BXhbSEZbnF8ohMyAUaj3POXUBKQ9KujarjXbquw8SxwCGFF8zO+Q==;RnEyDUP8Z0+nDxKAd+ZdWg=="
 ---

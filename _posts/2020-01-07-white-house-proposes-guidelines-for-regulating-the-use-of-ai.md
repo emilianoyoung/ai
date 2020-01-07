@@ -1,30 +1,45 @@
 ---
 category: news
 title: "White House proposes guidelines for regulating the use of AI"
-excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. A document from the White House said that in deciding regulatory ..."
-publishedDateTime: 2020-01-07T13:01:00Z
-sourceUrl: https://www.sfgate.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
-ampUrl: https://www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. The White House said that in deciding regulatory action, U.S. agencies ..."
+publishedDateTime: 2020-01-07T05:13:00Z
+sourceUrl: https://www.chron.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
+ampUrl: https://www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
+  - url: https://www.bing.com/th?id=ON.67BED75E2849E6C0060128EB70502258
     width: 700
     height: 474
     title: "White House proposes guidelines for regulating the use of AI"
 
 related:
+  - title: "White House encourages hands-off approach to AI regulation"
+    excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector ..."
+    publishedDateTime: 2020-01-07T14:18:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21054653/america-us-ai-regulation-principles-federal-agencies-ostp-principles
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.7CEDDF64BEBEFA75B6DED66AD1F13061
+        width: 700
+        height: 366
   - title: "White House Favors a Light Touch in Regulating AI"
     excerpt: "In fact, the principles might deter regulation of AI at a time when many think it is increasingly needed. Michael Kratsios, chief technology officer of the United States, is set to announce the principles on Wednesday at CES in Las Vegas. They arrive at a ..."
     publishedDateTime: 2020-01-07T00:00:00Z
@@ -96,20 +111,7 @@ related:
       - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
         width: 700
         height: 367
-  - title: "White House encourages hands-off approach to AI regulation"
-    excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector,"
-    publishedDateTime: 2020-01-07T14:18:06Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/white-house-encourages-hands-off-approach-to-ai-regulation/ar-BBYHict
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8CBF2F5C2522985B38B7B47080DCC660
-        width: 700
-        height: 367
 
-secured: "DiRLJGq6A2ioi0QQMyp91pyaGJt/ueyrjmVqHrWQrsl7GhmjUs74dkjz2YT5urgwLPBxB33YqszYm4olEG8htD/4nKDhoSFSzH7AHZFkJVBfV+rrJBbNbKEN1dgHt1YEhNDhcoAoOBPXOeJRBIBbAG2/OMoG+KiGUhAHCq45JYIxK9Ic3qar6hm1ggbYckg82ACi6Vcer0H/Yos1QeO5n/7BBTiVVgi2A0S3zOHAnFE3ESnTZV6rVTwa3tK69X2YsD6se23LdIV9xBpDp7uvTw==;mbah64SZbThNYuGikGN1Wg=="
+secured: "XLvHMSSpx5tM05VbTxcpqD2fnhHFbQ9UXmt/UovRddFjNwwxIT4u3KiHTxZocGDQDvsXFcTFcXcD2Q+MJl9BhZlXVDsrLjbL26kO8EYD5m1Qt3DDz+2/QB1A8cz1TxPLeAOOfly1WaQFkaDhFav4cwdhWuqwxdMYQF+ojeMziczVPv3jQYrY1HJdXW7yfc3NjZpyRH3PDb9jkJyWQI3KaPnT49kEE81IkklHERjDj+yZqNrQi1tPH9KTFFVvvLBgM72AYsJYIKNZDOLPJgpuYQ==;F1ONQH/Zr/rJbspyl/g7Vg=="
 ---
 

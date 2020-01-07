@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-pe
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
 
 related:
-  - title: "Self-driving cars: A decade of hype, but what's the reality?"
-    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
-    publishedDateTime: 2019-12-18T18:18:00Z
-    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
-    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 44
-    images:
-      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
-        width: 620
-        height: 348
   - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
     excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
     publishedDateTime: 2019-12-22T13:06:00Z

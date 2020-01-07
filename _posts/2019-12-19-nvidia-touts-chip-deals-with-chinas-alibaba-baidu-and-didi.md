@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/corporate-news/nvidia-
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/nvidia-touts-chip-deals-with-chinas-alibaba-baidu-and-didi/72879688
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 800
     height: 434
     title: "Nvidia touts chip deals with China's Alibaba, Baidu and Didi"
-
-related:
-  - title: "NVIDIA CEO unveils new slate of AI partnerships at Chinese conference"
-    excerpt: "During his keynote address during the GPU Technology Conference in Suzhou ... Alibaba's director of heterogeneous computing, Lingjie Xu, said: \"We deploy state-of-the-art AI technology at massive scale using the NVIDIA accelerated computing platform. The platform's intuitive search capabilities and reliable recommendations allow us to support ..."
-    publishedDateTime: 2019-12-18T18:39:00Z
-    sourceUrl: https://www.techrepublic.com/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
-    ampUrl: https://www.techrepublic.com/google-amp/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-ceo-unveils-new-slate-of-ai-partnerships-at-chinese-conference/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
 
 secured: "s4jn9cyghARG0yRYn4LMPgviaV3P82o8M8NKvnIz6TzVU3XAizbewyUP5QpEYDlMO+LgCv9FzsQxV3tBYi79fZDXz6JNQWmMpzVb2u+9fkcunjDDeBurFmQSjIrkATjK6pxAkLzh+n2slzP7nWG0pBUKru8OnxhtF8KDDd2b9AI+Z3uHTHUKipt1oTj3K/yivVTWSwQ6nuLv9Q0Ylh/Aqp3d+XXYFEx3bHyANPM9JvMK1pGMdYS0+pELWnsxmK6gBpn/9F7sJEMttO4EhoqB4w==;4jEAWMdkINtyTQvrV0pi/A=="
 ---

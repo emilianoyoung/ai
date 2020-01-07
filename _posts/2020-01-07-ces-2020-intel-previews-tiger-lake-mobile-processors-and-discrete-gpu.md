@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:
@@ -147,6 +147,6 @@ related:
         width: 280
         height: 158
 
-secured: "eIwxe5vw53jgNc9DcEZMNG78AYLzLBJBdHaWU0gu8lKqg1WUe9zDniihesZyXOamo7llRItsKSHai9dHeoLeK2hosQT+QhUdVlde8jyb3NzGwDp8cDJPJz/qqo0Mj2SvFRZ3LRcxquT/DaRtjJkzLD0bnqwFtUGR4E4cagEn/NQeZbN03GikCxx5m8SpLhbh3IRP00krEv4QxCGRMSagw57KQjVE3U+QjOg4XA51QEfrqoCf6vEYeLeI5JWnvXC5Ddafx684KVOKHIoe1hq7Ng==;ff8Sk5IafWt+c105mZy7VA=="
+secured: "oZk3eRFSvW6QvkBgCbVTzETNg22+DV6wDTW3FcPub7dTMhXSEitAOTbbiQ00nJkoV966caNuZD/wCxHjMgaoXWt2gg1qbUIfwKnJ2yhdQ4vF9xsQuSd5W4tpyQgubgw7y/FDH2OWmnNGiKx3YESX9KhPe/kNqABRFhlZuIVh2cm8fJXXCwTjYB0EvM/2W1cpGVCuFGNuO5QVBAKxMgk1wRZPdkc6abnHK50qepdp4Vsldqt8amdSk4gtwez5rA7nZKMhFltmWd0d/K2mEW6RGA==;zEZknWgz8qp4mWysUtdLrA=="
 ---
 

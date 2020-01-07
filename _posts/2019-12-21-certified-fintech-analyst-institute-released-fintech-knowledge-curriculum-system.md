@@ -91,19 +91,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4878103E8DAE3EE7582E436DF88723BF
         width: 700
         height: 365
-  - title: "Tencent's Insurance Platform, WeSure, Featured in Fintech Power 50 for 2020"
-    excerpt: "For example, WeSure's AI technology has assisted insurance providers in 34% of suspected identity fraud cases, resulting in a 30% increase in payment speed for premium holders. Backed by the well-developed product experiences and strong fintech capabilities, WeSure has handled 280,000 claims worth RMB680 million since November 2017. WeSure ..."
-    publishedDateTime: 2019-12-18T18:34:00Z
-    sourceUrl: https://finance.yahoo.com/news/tencents-insurance-platform-wesure-featured-150000028.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://s.yimg.com/uu/api/res/1.2/e_QxvPsGApEgVseDnUEKrQ--~B/aD00MDA7dz02MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/f8054b0295bd46f72f0985f81de55adc
-        width: 600
-        height: 400
   - title: "360 Finance selected in KPMG China's Top 50 Fintech companies"
     excerpt: "In the award ceremony, senior managements of the selected enterprises along with scholars in the fintech area launched discussions regarding the application and impact of AI in fintech, worldwide fintech innovation and cooperation, and tech-driven innovation in fintech. Mr. Haisheng Wu, CEO of 360 Finance commented: \"The top 50 leading fintech ..."
     publishedDateTime: 2019-12-24T00:02:00Z

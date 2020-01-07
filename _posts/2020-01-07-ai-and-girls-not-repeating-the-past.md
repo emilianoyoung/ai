@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/07/ai-and-girls-not-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/07/ai-and-girls-not-repeating-the-past/amp/
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 315
     title: "AI and Girls: Not Repeating the Past"
 
-secured: "3Y/vx3s8IHWotr7NTZrPhuVpiysuvgGWhIZianbygSy340/8DaX3ugkPYmdBvDq6Q+6lk5M5fLKqaNzTz5t/ofYyVWy1AqR/QCSoxr8UtHXlBwUMl1wgC+scBPi5fG7dtLp4ueAykLumqB2n+3RC1VM/dhID9lFopWy+w3U/E5as1BSlMtdabiJjSQl/27zuMpbwBBvAYmbFMfjGtT3sxu+PzhI02YLVR9Bs/CbFvL5/xQo9W+ob7WOLyP6cUV85S4iWZ7r7x7r4E7EcQ3VjUA==;xlqim2MLPka1D7NTWOAvQQ=="
+secured: "lPsCBXdjrWQ/Pd5Pk77AIMwral+IU1cuSPTvany3udwE9TyTo2auQGpKaOpZkQlsE9niAp7OHXEigWnxy0EUqgp3ITxkUTOKdPaSRPQM1li9TVVWrQLoOLY+B9CIA5S+9W0BuuhMfwYH3HsnaVAWVHZv6v3/1HHh/i/w/ewFym8AeLP0z8kbNsHZkkf6l9AMvrszEVrXAtCj0Ux5xzfgy3HFBTtTuw7Gj/3UdDfsOYvzwajJhpp1FWe3caKzcXgqxun9og1JNPJgHh+hVVDYhA==;bJpzouIVP531E2q+nM1iKA=="
 ---
 

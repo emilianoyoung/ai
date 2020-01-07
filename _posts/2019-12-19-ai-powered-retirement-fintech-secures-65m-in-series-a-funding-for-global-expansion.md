@@ -61,17 +61,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
-    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
-    publishedDateTime: 2019-12-18T18:08:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
-    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
     excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
     publishedDateTime: 2019-12-20T00:05:00Z

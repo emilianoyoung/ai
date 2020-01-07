@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
         width: 580
         height: 358
+  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
+    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
+    publishedDateTime: 2020-01-07T19:22:26Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
+        width: 700
+        height: 367
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
     publishedDateTime: 2020-01-07T04:02:33Z

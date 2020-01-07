@@ -2,25 +2,21 @@
 category: news
 title: "IntelAgree Recognized for Microsoft's Intelligent Cloud Awards 2019"
 excerpt: "TAMPA, Fla., Jan. 7, 2020 /PRNewswire/ -- IntelAgree, a software-as-a-service contract management platform, and AgileThought were named as a 2019 AI and Machine Learning Partner of the Year Award finalist. IntelAgree used Microsoft's Azure AI Services with AgileThought's deep learning and natural language processing expertise to build its ..."
-publishedDateTime: 2020-01-07T16:49:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/intelagree-recognized-for-microsoft-s-intelligent-cloud-awards-2019-1028800654
+publishedDateTime: 2020-01-07T18:02:00Z
+sourceUrl: https://finance.yahoo.com/news/intelagree-recognized-microsofts-intelligent-cloud-174900039.html
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Microsoft AI
 
-secured: "8k9MWd6JwSE/n4j78NqLwtulmNtjMK93D1aY9uzAKFL26apXm7MKvICdjY+59ognQ19eH8UV8QJWZQloqqThydtGIPw2SnKooqh7NmdEGUPd+/VYqT1DOwSpPk1RUN09D/BxVvwPQn7LhCqaRAW7VCJoHaPdMQ50JL2ZNhdx9hIFdOTjxs3cphJyFvuyfppY09DxAK5sbCShAy4owiol4Oqq0jvpsXdtoBqglQ+/EojP6yq0pfNJLndGGRWoF6AaEo4ugKGxENO2VFZKE9gtsw==;f4LNe8+tEfiSk6nFQxuAZQ=="
+secured: "JKZCEVNNZp8/KpCPtTiIqLF0M196TU9dwBjsgBaGK1REVLAV5A0jO8UDcO5Lz3XJJmQI0za9Rhh5WNQp31kqpd8MyZn2lZUTTkKh2oNlEdoZdtbsxNVbEUtDSDyhoJyQEYd5qStsAHptmLH7LXNK0bXgbwLfI45oPSMB7Kh0vkoC9oG2DylWu9jDKQi9BHY1J6MvKSoD8CExwjtmwG9YxrXehv1nviOVu5QZVVFxWr+vVEnnPI5kk7oJVEb/evbA3HEpqhpF2Rmia/LdPlKUiA==;o5OQlBTa0ifM1nHg/CsaNw=="
 ---
 

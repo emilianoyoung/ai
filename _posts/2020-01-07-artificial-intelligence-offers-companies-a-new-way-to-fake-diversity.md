@@ -7,8 +7,8 @@ sourceUrl: https://jezebel.com/artificial-intelligence-offers-companies-a-new-wa
 ampUrl: https://jezebel.com/artificial-intelligence-offers-companies-a-new-way-to-f-1840854005/amp
 cdnAmpUrl: https://jezebel-com.cdn.ampproject.org/c/s/jezebel.com/artificial-intelligence-offers-companies-a-new-way-to-f-1840854005/amp
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 secured: "xMezWRsE4tr1GXl6SzzUCu+6g2m74Y3/u/zMAGzAdVArNhVm4KPFugDljZrT5UsL6cvGV+dAgJenkbIMoQvIzWn1M/c22ng6eLfvluFFmN8K5Rfm96CZYcld5w+FwG7LbiT54x70XOi82AyF+pgyQtvg2BLla+FpX57RacdoUV/bBUJUYqwKTrqoiJZNyDsHXVT/Hv6lKZFTtrhvv7JlNU7v/ySxZqXhxap3cFponNMhKevnR0BPXV0UwBNu35J0obOPsBOcH0CotHSC9ko4BQ==;uo+O3S75Xfi1R7kMwFOopg=="
 ---

@@ -30,18 +30,16 @@ images:
 
 related:
   - title: "Watch Bosch's futuristic AI-powered LCD sun visor end squinting"
-    excerpt: "Debuting at CES, this high-tech Virtual Visor promises to digitally fix a glaring problem that's been blinding drivers for nearly a century. Since the dawn of driving, there's been an annoying constant: sun glare. Early motorists squinted and used gloved ..."
-    publishedDateTime: 2020-01-07T15:57:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/bosch-virtual-car-sun-visor-ces-2020/
-    ampUrl: https://www.cnet.com/google-amp/news/bosch-virtual-car-sun-visor-ces-2020/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bosch-virtual-car-sun-visor-ces-2020/
+    excerpt: "Debuting at CES, this high-tech Virtual Visor promises to digitally fix a glaring problem that's been blinding drivers for nearly a century."
+    publishedDateTime: 2020-01-07T19:12:44Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/watch-boschs-futuristic-ai-powered-lcd-sun-visor-end-squinting/ar-BBYI4La
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.2B6F53E9CE0F7687FF12D71F5EC36B4F
+      - url: https://www.bing.com/th?id=ON.532129F084F5872B5D2CA25A554DD536
         width: 700
         height: 367
 

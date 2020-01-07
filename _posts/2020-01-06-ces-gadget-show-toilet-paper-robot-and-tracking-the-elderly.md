@@ -8,7 +8,7 @@ ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot
 cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

@@ -56,17 +56,17 @@ related:
         height: 393
   - title: "Samsung unveils AI-powered digital avatar"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
-    publishedDateTime: 2020-01-07T07:46:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/other/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
+    publishedDateTime: 2020-01-07T07:18:09Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
     type: article
     provider:
       name: AFP on MSN.com
       domain: msn.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.E8B467430191CBA82C49541613AA4DBE
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.2A50C1218F3C3F1FFC389BFE0595640E
+        width: 700
+        height: 525
 
 secured: "83dhmVfiC0MRoABvMw6k2zhPrsvk0Xp2vAeRNvmQ2PWfWyTuYwdVLpqsIbq/DldXu4cRQ/TIneYOl7Iaw4gT8jjwU2pPFzfTk1HbuprXncxr17EtrDzz/GQCeiNiPS2AFA8kkLx492Ypfagz+snMIy/4wHatEm17RQwchYuu2jiG7lO81gLv/LFyFrsQUg+n44FPLIu/jFTZG1mNEKTht/gBsfTpaJpE7XrAwiKtSJh3QTI6Ipj8Gq11EG5u/UWw+lHmfsHwabjv7TsP0iZ8LA==;EAywC74KsnH0ueUsoi8jJw=="
 ---

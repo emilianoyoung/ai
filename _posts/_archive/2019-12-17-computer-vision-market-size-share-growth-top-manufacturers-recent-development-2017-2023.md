@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T13:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
 
 related:
+  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
+    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
+    publishedDateTime: 2019-12-19T10:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Smart Speaker Market Top Manufacturers, Consumption, Sales, Revenue & Trend For Next 5 Years"
     excerpt: "Get Access to Sample Pages @ https://www.marketgrowthinsight.com/sample/38718 Advancement in microphones, automated speech recognition technology, and natural language processing (NLP) help the smart speakers to identify and process the voice command of ..."
     publishedDateTime: 2019-12-19T09:50:00Z
@@ -38,6 +51,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "CjVB/LGWCPs09mMdt5gLp7Q7Vm8C1msuJqU4uucJBPlaJC73WtRgSlPhaE30tKyT0rYQreBEQiUakzWs9M+q2i7lodAUQvlR8fY6QaL82kg/cYg+fySFTU9ahAJzNoUzkm1cRGToNh16xzOGKS+Nhxq4LFWRhZEc1p6LJhdWKrA1KjvOiZOMEeP8vQWSOMbJmH3pM/lnZOe6y/CBJbXqKH8uP73PutdPdMoovUx7l+6trF80KlEiSEPcPPdYB1MQB1GEdKMDmFwxj/lmh5r8EQ==;KHABMmS7/wljaCpRCLNqlw=="
+secured: "FHbDEpExIC2XpvCBT45JcTMnrP9+354ystCGrGvLyCKOG9ASc/OzkHmW91xsXbQL8sZAkyZFNjJs/hMYSSWOyTqb0t77HFKxMINANbs92c7kNeebIqoGYu1+nHxGrxKk7A5eydlkFoBOuY8itikx+9te/0QyveIswSdZCieyqIAUiYePNeLnAEj5N9J/nHeC1HYKNSZMs3gi8EkNpck+3vtP2mXZRh4j2mwwbsqy08PjIH8cNOPCHLbnYz9nV0B+VtSeY3zlmFo8IyINwmlFLA==;C+BnYpZNZHR2qqHksaOLQw=="
 ---
 

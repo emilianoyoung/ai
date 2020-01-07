@@ -47,7 +47,7 @@ related:
   - title: "Samsung's new Neon project is finally unveiled: It's a humanoid AI chatbot"
     excerpt: "They can't tell you the weather or how old Abraham Lincoln was when he died. \"Neons are not AI assistants,\" the company said. \"Neons are more like us, an independent but virtual living being, who can show emotions and learn from experiences. Unlike AI assistants, Neons do not know it all, and they are not an interface to the internet to ask ..."
     publishedDateTime: 2020-01-07T17:54:00Z
-    sourceUrl: https://www.cnet.com/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
+    sourceUrl: https://www.cnet.com/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/?adTargeting_campaign=5g
     ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
     cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
     type: article

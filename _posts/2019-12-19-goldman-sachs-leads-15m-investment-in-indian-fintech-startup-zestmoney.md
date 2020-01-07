@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
       - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
         width: 940
         height: 430
-  - title: "Meet MassChallenge’s 2020 startups in healthtech and fintech"
-    excerpt: "And from January to June, the fintech startups will work with partners to tackle specific challenges facing ... We capture patient’s data prior to their visit from our platform and populate a structured note. ianacare is an AI-powered, personalized and interactive gateway to all non-clinical layers of home care guidance and caregiving support."
-    publishedDateTime: 2019-12-18T18:08:00Z
-    sourceUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.html
-    ampUrl: https://www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2019/12/18/meet-masschallenge-s-2020-startups-in-healthtech.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
     excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
     publishedDateTime: 2019-12-20T00:05:00Z

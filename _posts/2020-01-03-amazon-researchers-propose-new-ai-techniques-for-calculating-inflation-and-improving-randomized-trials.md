@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
         width: 600
         height: 315
+  - title: "How to set up facial recognition to sign into Windows 10"
+    excerpt: "You can adopt a PIN, a physical security key, your fingerprint, or facial recognition. The facial recognition option can be handy as all you need do is glance at your computer's camera to authenticate yourself. But, only certain cameras support Windows Hello facial recognition, and you have to set up the feature for it to scan and recognize ..."
+    publishedDateTime: 2020-01-07T17:54:00Z
+    sourceUrl: https://www.techrepublic.com/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    ampUrl: https://www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-set-up-facial-recognition-to-sign-into-windows-10/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.BB67FFF39EEB9CF42BA57B614F8764BD
+        width: 700
+        height: 525
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z

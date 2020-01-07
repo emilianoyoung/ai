@@ -33,6 +33,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
+  - title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
+    excerpt: "The Consumer Electronics Show has seen big announcements in self-driving car technology in recent years ... Closely held Velodyne counts Ford, China’s Baidu and camera maker Nikon as investors and partners, and is also working with automotive supplier Hyundai Mobis to get its sensors into more vehicles."
+    publishedDateTime: 2020-01-07T19:05:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 61
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
+        width: 1069
+        height: 589
 
 secured: "nTdD3X/7Q8lRmVAhyQ+Vg919hu+dBq42JJgidc+ads3APEJUMsQQmGxxavPcgaD6737xXAFUtPKBOSMBWPR48ML+y73nnDSEpdv9FP1syvpnZXfGPIX+BEu26Dqtjtex9dLfDoHgrb4hbn4zHtBXiyaczjBjBpsw+JqHtEM6aa3u1vO8dfLGzSZYA/18KKaf1x4dmSpmN+o5RiPvkJruJhnpKh03mIu34BMZbvMiNwGDZXI9cfadMIgo1001zBCMEGy7BqM0LEQBypQ/+RTSzg==;NBrDQBPDTinLaZCOU+w5Eg=="
 ---

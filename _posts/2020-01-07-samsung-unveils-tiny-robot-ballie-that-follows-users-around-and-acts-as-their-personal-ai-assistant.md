@@ -43,17 +43,17 @@ related:
         height: 393
   - title: "Samsung unveils AI-powered digital avatar"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
-    publishedDateTime: 2020-01-07T07:46:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/other/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
+    publishedDateTime: 2020-01-07T07:18:09Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
     type: article
     provider:
       name: AFP on MSN.com
       domain: msn.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.E8B467430191CBA82C49541613AA4DBE
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.2A50C1218F3C3F1FFC389BFE0595640E
+        width: 700
+        height: 525
   - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
     excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
     publishedDateTime: 2020-01-07T05:08:41Z

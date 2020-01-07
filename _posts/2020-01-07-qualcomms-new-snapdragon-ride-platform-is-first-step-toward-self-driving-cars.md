@@ -95,6 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
         width: 580
         height: 358
+  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
+    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
+    publishedDateTime: 2020-01-07T19:22:26Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
+        width: 700
+        height: 367
 
 secured: "RQdAsYxsFNmSsncSXuL4e40KvQP9FgPJkSZPWjsHq1zEFxfw/hLnIbV7kFPjYRXEcfsfIoZj6VmC82iBiD8j9k3TUe9AzXizqc7Vm49lo+/Q+5V3F0DvdTgiCnGh57TCfJhVRmFnGoG3Ju+AJzgazegBHC6BEsv76Cbsqji+jxGOCKP4akFItsS1HXnCePLe+qT7/KfYAiel+uwTDJGqLBUQccSsGWFpIXZvxKOXxxnFPy7mVZIcm/6dYz63nR4wTaZ55ke3EhwHW+/IjJRUjw==;MFSvi8NRxivJCzFKUf5Scg=="
 ---

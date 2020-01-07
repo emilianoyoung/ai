@@ -1,0 +1,62 @@
+---
+category: news
+title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural ... of spared neural networks and facilitate functional ..."
+publishedDateTime: 2020-01-07T19:57:00Z
+sourceUrl: https://www.news-medical.net/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+ampUrl: https://www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Researchers-impart-new-ability-to-control-paralyzed-hands-via-artificial-neural-connection.aspx
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: News Medical
+  domain: news-medical.net
+
+topics:
+  - AI
+  - Machine Learning
+
+images:
+  - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
+    width: 620
+    height: 480
+    title: "Researchers impart new ability to control paralyzed hands via artificial neural connection"
+
+related:
+  - title: "Artificial Neural Networks For Blockchain: A Primer"
+    excerpt: "Artificial intelligence -- and especially neural networks -- poses a solution to these problems by using them in a new, energy-saving protocol called proof of artificial intelligence (PoAI). Proposed by J. Chen et al. (2018), the proof of artificial intelligence protocol uses a pretrained CNN to determine the average transaction number (AVN ..."
+    publishedDateTime: 2020-01-02T12:48:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: https://www.bing.com/th?id=ON.A5196F9943E35D03102A90A99BD5C85A
+        width: 600
+        height: 315
+  - title: "An artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science, showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+    publishedDateTime: 2020-01-07T15:39:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
+    ampUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.295886AD34BC8493ECF12C621151B63E
+        width: 700
+        height: 421
+
+secured: "iJUIago13LhLicH5NqZ7gGtVFZb8lThq1eBELhW7/riQykcTFU2jeO4g4BCUJlnklaA5nB0GaIhSmYPVhEaEpHQMddnXp9ihvCAI00XWhXJz8fY70n0ll2yq7WLtzO4krLQcqTUeCrfxa+4b0GrZBn1yrpzk78WmC3KG8S+iOQ8LpqrvZAZuZsjv0VVazeNnJXcnQ9CY0u7W95bEGqOqGUo5BFsunW5LGJGgsNx3UZduOBP/nfISBieaDkW5BP/i071v4Z/RdlFmlcmoffXesQ==;KgYBlxVoZkzNzT2rINkTVg=="
+---
+

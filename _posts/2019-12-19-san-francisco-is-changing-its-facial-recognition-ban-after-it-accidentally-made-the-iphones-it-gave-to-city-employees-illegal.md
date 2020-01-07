@@ -71,19 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
         width: 700
         height: 469
-  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
-    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
-    publishedDateTime: 2019-12-18T18:52:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
-        width: 1024
-        height: 768
   - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
     excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
     publishedDateTime: 2019-12-19T16:14:00Z

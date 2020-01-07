@@ -25,19 +25,21 @@ images:
     title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
 
 related:
-  - title: "Paige raises $45M more to map the pathology of cancer using AI"
-    excerpt: "One of the more notable startups using artificial intelligence ... and inch closer to commercialising its work. Paige-- which applies AI-based methods such as machine learning to better map the pathology of cancer, an essential component of understanding ..."
-    publishedDateTime: 2019-12-18T18:06:00Z
-    sourceUrl: https://news.yahoo.com/paige-raises-45m-more-map-180601977.html
+  - title: "Samsung teams up with Baidu to start production of an AI chip next year"
+    excerpt: "Samsung announced that development for the Baidu KUNLUN, the search engine giant’s first cloud-to-edge AI accelerator, has been finalized. Designed based on Samsung’s 14nm process and I-Cube TM package technology, the chip will enter mass production early next year. Baidu KUNLUN is a very challenging project since it requires not only a ..."
+    publishedDateTime: 2019-12-19T15:22:00Z
+    sourceUrl: https://pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year
+    ampUrl: https://pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year/amp
+    cdnAmpUrl: https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year/amp
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 137
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 74
     images:
-      - url: https://s.yimg.com/ny/api/res/1.2/VY4rxYG.uINvvqCjNFlDpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuMg--/https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
-        width: 1278
-        height: 851
+      - url: https://www.bing.com/th?id=ON.26EB2D6CBB2F393EC87E12B41928667B
+        width: 260
+        height: 140
 
 secured: "H77SY0AIgcclJPtQmVHT8gw4/LqK39s0806oVCuYBubupft+iBE6J2kDSZ8QXk20GMEe0lqh00pds1rQyNyb/XRiGRDH+U/UuLO65TQf16WoLwNjS80cJ3vHhhLkdTJcRVRFHkNNpk3Xltw8avD514PiA6XRo1vIPe0jJgEvjlGzi4Zb+Fqm8FHvRsrH4oyRiVT1YOuAEc4cmMd1azgo+zdgjOYNn/KCxqb2Y4ZI4CypQHEfc3WiTVvKV6hQfFklEz9RHhxk52Ut5/xXK1JqSA==;7D7TJ1n+0fhjtf/nWJ7sjQ=="
 ---

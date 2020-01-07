@@ -323,6 +323,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2F4197E4DE1382692AB37B89FD5DC1F7
         width: 512
         height: 323
+  - title: "The race to own the media experience in self-driving cars"
+    excerpt: "One of the big themes at CES this year has been the race to own the media experience when cars go driverless. Driving the news: Amazon announced a slew of deals to get its Fire TV software built into more televisions, soundbars and even the back seats of cars, Axios' Ina Fried reports. BMW and Fiat Chrysler Automotive will be among the first to ..."
+    publishedDateTime: 2020-01-07T13:36:00Z
+    sourceUrl: https://www.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    ampUrl: https://amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
+        width: 700
+        height: 393
   - title: "Uber just quietly bought 600 acres of land to build a new test track for self-driving cars in Pittsburgh"
     excerpt: "Uber is expanding its self-driving car efforts in Pittsburgh with a new 600 acre test track as it seeks to keep up with rivals like Waymo and Tesla."
     publishedDateTime: 2019-12-26T20:43:00Z

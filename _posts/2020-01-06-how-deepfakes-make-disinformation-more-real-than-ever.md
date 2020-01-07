@@ -153,7 +153,16 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/ce3b1b48-2e8a-11e7-9b31-dbe46a2a163d.jpg
         width: 1368
         height: 576
+  - title: "Facebook bans deepface ahead of US presidential election"
+    excerpt: "No news or research item is a personal recommendation to deal. Hargreaves Lansdown may not share ShareCast's (powered by Digital Look) views. (Sharecast News) - Facebook announced a new policy that bans AI-manipulated videos known as 'deepfakes' that could ..."
+    publishedDateTime: 2020-01-07T15:16:00Z
+    sourceUrl: https://www.hl.co.uk/shares/stock-market-news/company--news/facebook-bans-deepface-ahead-of-us-presidential-election
+    type: article
+    provider:
+      name: Hargreaves Lansdown
+      domain: hl.co.uk
+    quality: 4
 
-secured: "edNZV9CjabrG/2FFp0ApUFoKUdEcWbdIBRGVWpN7maF181QFM0s0jKGtPnQYW8DzkR/QEDD5clIrOHGVIN2IATGXpkA0AbT9495aanDE/dJEf40+GeK+IEWlmCZv1vxQ3IGsIWQ/wNnzhZ2X/gMREL3GMXP8oVX2rT/8F0EknarjRJxh2K6RIIIBuG7zCq7OUeoUyhmoSmW7EXweVra65kfQqcovm21s7Hf84DjMC++5jAS1w+JFcUYqwrbtikHpXxrMWcJp9HgNx1GklA4rOw==;tgA1AxLrHoUL2P7wOPlTLg=="
+secured: "ma3runXiuCSK5vrKoC7fo5qY/I3kubzmXU/HUTgBSyWn+O/KfrAAFBHWQ+K9G64ahF9zXirykonzbKM1FGMojesr1Cn+ee72ZXHgTCkCQM+xIA2WCKoarDy9UYQRVQ4bb+9AFUHeN1Rq+TJ4/W15GemKsG+Zz3vkPN674Uz2D+6ie2jk+d8dv38k2370BdvwLZ+zgpbPRjBJrMzzGjE3ZEVeeqk8UudCQ3M0DgRAitwQNCltgU/7cSygl5X9dJhamV6Qygjvz+8Qf6A7BCcHdQ==;nvHZZrFsFj+/4jdUkiEFyg=="
 ---
 

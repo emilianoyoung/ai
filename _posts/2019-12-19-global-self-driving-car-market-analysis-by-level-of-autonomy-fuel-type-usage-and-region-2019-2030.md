@@ -57,6 +57,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Self-driving Car Market, Forecast to 2030"
+    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its ..."
+    publishedDateTime: 2019-12-19T00:27:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-150357363.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 4
 
 secured: "ThpWmwI2UKLBPBcnW3x64t4eRLJgOzoXknmn9juQKeV2I9NM/kcQSwNH5bWn6EJDrn2uqRsCnW6VGaFRKZB+M4Wtu5B86bHyFGdlmXafpheyVAe1pEfl4yyZe2uritQ6HqXg5/suWachT0/s7Fv9PvO7asacCyYcfzEpl3y1Fy+IAH3lUR1ryb447pIRneTQ/BPn6qecpmZZrUN9dm+nSC4WSXngn+jdw+MWCNQaRb2k1X9iUpykQjltlyw9wqzvvIZrhJ/1+Wypk6NeQjV2IA==;uNiriTO/3SZ7nvsUkuKC8g=="
 ---

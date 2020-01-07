@@ -333,6 +333,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2F4197E4DE1382692AB37B89FD5DC1F7
         width: 512
         height: 323
+  - title: "The race to own the media experience in self-driving cars"
+    excerpt: "One of the big themes at CES this year has been the race to own the media experience when cars go driverless. Driving the news: Amazon announced a slew of deals to get its Fire TV software built into more televisions, soundbars and even the back seats of cars, Axios' Ina Fried reports. BMW and Fiat Chrysler Automotive will be among the first to ..."
+    publishedDateTime: 2020-01-07T13:36:00Z
+    sourceUrl: https://www.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    ampUrl: https://amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/self-driving-cars-media-television-amazon-sony-3cbdf146-1a32-44e4-b394-40e9b306830b.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.065059412540771F371E70B52C3876A7
+        width: 700
+        height: 393
   - title: "2020 in foresight: Flying taxis, self-driving tech consolidation and other predictions"
     excerpt: "Sebastian Thrun of Kitty Hawk, a Larry Page-backed flying car startup, has made the bold assertion that fully self-flying vehicles will happen before self-driving cars. His company is one of several flying taxi pioneers are based in the Bay Area. Others include Santa Cruz-based Joby Aviation and Uber, which plans to launch its service by 2023 ..."
     publishedDateTime: 2019-12-31T10:34:00Z

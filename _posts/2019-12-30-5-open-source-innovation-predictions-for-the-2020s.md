@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -272,19 +272,6 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
-  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
-    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
-    publishedDateTime: 2020-01-03T14:44:00Z
-    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 9
-    images:
-      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
-        width: 512
-        height: 512
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -153,6 +153,15 @@ related:
       - url: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/ce3b1b48-2e8a-11e7-9b31-dbe46a2a163d.jpg
         width: 1368
         height: 576
+  - title: "Facebook bans deepface ahead of US presidential election"
+    excerpt: "No news or research item is a personal recommendation to deal. Hargreaves Lansdown may not share ShareCast's (powered by Digital Look) views. (Sharecast News) - Facebook announced a new policy that bans AI-manipulated videos known as 'deepfakes' that could ..."
+    publishedDateTime: 2020-01-07T15:16:00Z
+    sourceUrl: https://www.hl.co.uk/shares/stock-market-news/company--news/facebook-bans-deepface-ahead-of-us-presidential-election
+    type: article
+    provider:
+      name: Hargreaves Lansdown
+      domain: hl.co.uk
+    quality: 4
 
 secured: "+VM33u0ZAQzhCSG8K/x1Yp0EcM/GNAwRlb+0fmuo8QmuHIz3/98lzY7tnm/CutQSaEUG7ZtWJDAxGcNTujbW6lwtlMiUnWKvbobY9k/PH2fCHmfOrAXxDCwVB+9M6BEp5sHmXC4+Gbs3c/X96OzmJ+3LSma1ti+jUs0MRZdLG7pUdWfXw3DMLr+rA1uz9/pAf/aMB0VUdFbJUh6RBGP0PfzSyFljPrHPalZni9R00fWwM9jSn9quU7mp6kJhBCY0Pr2EmpvJ3aWrtVelgEob0w==;GtKmmwljMjNIjMMZf3lWZQ=="
 ---

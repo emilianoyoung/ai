@@ -8,8 +8,8 @@ ampUrl: https://techcresendo.com/best-books-to-start-with-artificial-intelligenc
 cdnAmpUrl: https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/best-books-to-start-with-artificial-intelligence/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: techcresendo.com
@@ -24,6 +24,17 @@ images:
     width: 700
     height: 525
     title: "Best books to start with artificial intelligence"
+
+related:
+  - title: "Artificial Solutions Integrates with Vonage"
+    excerpt: "Artificial Solutions, a provider of conversational artificial intelligence solutions, has partnered with Vonage and introduced a new connector that integrates Teneo into Vonage's API Platform. Teneo users can now deploy conversational AI applications into new channels by leveraging the Vonage cloud-based communications API platform, which makes ..."
+    publishedDateTime: 2020-01-07T19:22:00Z
+    sourceUrl: https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=135930
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 2
 
 secured: "RjImQeNqarmheLCQb+YIfKRzebilIMfYWGhI2kjq5knHSuzCagEHuedSIhX0XK3cCiOM7E/BU5w26Y0VLgcgsrrjW/PAD2UqEb0zwxNlhsjfD/2uamN3DGsl8yrThItbqtpnZN5YF5TY7WDRlJoxFUyzu+fTZfV6UFiWC+wQBkOLWTF8AsS2T882bemU/IeNV4skdoDBR67ID6by8ZQaLJFgTmh2Z54k5m4YK0DNvHMypnh/FPB5RNZR4B2P0/isqyFuPENPLe/hRB/Ip91iWg==;AXl4I8AFdVj9oIt2u8U/SA=="
 ---

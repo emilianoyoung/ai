@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/automation-ai-continue-to-offer-rich-promises-to-indian-cos/73041883
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,19 +53,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1FA51D884B78D31D5C4CB02F1FDAE27B
         width: 600
         height: 315
-  - title: "Europe's colocation boom set to continue in 2020"
-    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
-    publishedDateTime: 2020-01-06T09:50:00Z
-    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
-        width: 580
-        height: 305
 
 secured: "ECGyF7jNM0TVXajQyq616pY+HHgxoSdS1+Ktg1/Cf8S16XNQ2boXQerqN0/Dz+pr+4kuQDumZzX+GzGZD4y53ksufxVkLIzp4vgqKlgdhJm1sMnEviIV1vovBAkM/0+TSXvF0iKTgVWZPAZ6M+7Kjc2Q1pHFcusM1l+rnUygCeoVJ6Q+3p72jeMcj0GjTJDitruTK31+KWRA8FSQE/QN5D1kbO4jUi3SVTfDmc8YZ2APB+S0K6bt1S3JSroNsVK8r3RdOEG4kOLVpakj4phv/g==;/JqmoSD1xQMs8wnWWsUYOA=="
 ---

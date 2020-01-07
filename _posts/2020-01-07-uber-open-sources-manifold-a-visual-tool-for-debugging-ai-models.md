@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-t
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -27,6 +27,38 @@ images:
     width: 700
     height: 341
     title: "Uber open-sources Manifold, a visual tool for debugging AI models"
+
+related:
+  - title: "Lyft releases Flyte, a platform for maintaining AI workflows"
+    excerpt: "Hot on the heels of Uber’s open-sourcing of an AI debugging tool this morning, Lyft announced the release of Flyte, which it describes as a structured and distributed platform for concurrent, scalable, and maintainable machine learning workflows. The company says that Flyte has been serving AI model training and data processing internally for ..."
+    publishedDateTime: 2020-01-07T19:14:00Z
+    sourceUrl: https://venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/
+    ampUrl: https://venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.68772F950A8A4933EE79F85D3AE88FAF
+        width: 700
+        height: 350
+  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
+    excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
+    publishedDateTime: 2020-01-07T14:38:00Z
+    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
+        width: 400
+        height: 145
 
 secured: "NEO5GVlrsoC5HICZxgD/QyRUDHZvP8NAmiOVBIoYlPXcxxV2njY/Fp8Ld4LJm3Be5hEXGIGR1SL2xNSNeruWsmMYIVP5GKEA1mlP5qiSC5jc1Sk0dK3WOZokB2zdnceLitKGog0Z6xsJJvcjGKkeT2AK2VOfwmEgzUMRz6LjEl+SPEqH5AmS9jQ09vADsCrEB4RpYjscHmJJ/+Zbvby5F2I10/VElZw79BksXnosc0DUvUvzYXp5Vm21De0pV4/H55KL2QnK9eIrbzkcjq1P9A==;HS7EjYkQNxTiLozJL8D4NA=="
 ---

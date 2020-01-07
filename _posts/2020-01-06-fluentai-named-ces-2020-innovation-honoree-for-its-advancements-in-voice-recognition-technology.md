@@ -18,49 +18,60 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
-    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
-    publishedDateTime: 2020-01-04T15:32:00Z
-    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
+  - title: "AI in 2020: From Experimentation to Adoption"
+    excerpt: "and 40% are using pre-built AI applications, such as chatbots and virtual agents. I see the excitement building with clients every day. Consider just a couple of recent examples. Legal software developer LegalMation has leveraged IBM Watson and our natural language processing technology to help attorneys automate some of the most mundane ..."
+    publishedDateTime: 2020-01-07T19:15:00Z
+    sourceUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/
+    ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
     type: article
     provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://cdn.newsserve.net/newsR256.png
-        width: 256
-        height: 256
-  - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
-    excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
-    publishedDateTime: 2020-01-04T15:09:00Z
-    sourceUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html
-    ampUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+      - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
+        width: 600
+        height: 315
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 45
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
     images:
-      - url: https://www.bing.com/th?id=ON.64C5F7517B64B206DDE538B1FA446189
-        width: 700
-        height: 467
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
+      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
         width: 700
         height: 490
+  - title: "Europe's colocation boom set to continue in 2020"
+    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
+    publishedDateTime: 2020-01-06T09:50:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
+        width: 580
+        height: 305
+  - title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
+    excerpt: "Raspberry Pi and Arduino based NanEyeC evaluation kits support implementation of eye tracking, presence detection and object recognition in products such as virtual reality headsets, smart lighting and Home and Building Automation Premstaetten, Austria (December 19, 2019) — ams (SIX: AMS), a leading worldwide supplier of high-performance ..."
+    publishedDateTime: 2020-01-03T14:44:00Z
+    sourceUrl: https://www.eejournal.com/industry_news/new-image-sensor-evaluation-kits-to-spark-innovation-with-miniature-cameras-in-consumer-applications/
+    type: article
+    provider:
+      name: Electronic Engineering Journal
+      domain: eejournal.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4C33366C80293E97B4C37F3186E9A535
+        width: 512
+        height: 512
 
 secured: "EecjopnNce5m2G0vpCVPYTuafxelfoQlmd2GyGcQ/KJbbiiPt+JmsBdBRM6W0uDWvejoNKFnbXwxkOp05ptk7rmTb1qo8r1X5PU8nEQ5pbfafr6TWm1hNTFor6lbRg/xkHCHd0fETgo04jVw82mnJvta/1FRHKha+OJveW0Tu1yR+pM5GRMMUbyzfJiRwxpl1yPJ0zjIjELvfqTLWgndNCK4IvZXe3qEEW6r0TWGKLD6iIhWYY5ifyHtmL4/32HP8bGH1VgV/gAOs5Ri1egHfQ==;tNvGnXfkb9YYwznbx0DHoQ=="
 ---
