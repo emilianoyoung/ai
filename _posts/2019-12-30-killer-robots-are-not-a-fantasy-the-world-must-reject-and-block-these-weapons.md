@@ -43,13 +43,15 @@ related:
         height: 393
   - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
     excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
-    publishedDateTime: 2020-01-06T16:19:26Z
-    sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
     type: article
     provider:
-      name: InvestorPlace on MSN.com
-      domain: msn.com
-    quality: 54
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 72
     images:
       - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
@@ -106,6 +108,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Major tech trend of new decade: 'Intelligence of things'"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-07T22:00:00Z
+    sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.38794999FB710421434E83B08CDB6E50
+        width: 700
+        height: 466
 
 secured: "xDrvGVBh/SNRLfFuVXyGnajiWdIbQ95h9i93j4CCF3ECHaiVbLUoK9wOxxZI/839riIDyn8c4QVrIlN7IU7Rd7Q+4l416GlMJWkvVw0ST0Jpujex8dE66Ywqbpes0l5g0ACT7tMgwQd1Hd+598Ffp6ii0h//G/l8ylVshFPkCzzV84tObTpp2h7Z5C9PZB80jbD/lX9QQ0e2+gDjAIi7C8XCSg5NIMDXdx59oPOWw6N1z7AZ0Dqf/0u8oY1I93XiPpDradfnknEPp4csZ4T6xw==;5iPvVr/ByKPwQt4X8LZiNw=="
 ---

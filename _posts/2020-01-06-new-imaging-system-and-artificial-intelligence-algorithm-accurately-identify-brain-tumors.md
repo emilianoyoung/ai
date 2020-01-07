@@ -2,22 +2,24 @@
 category: news
 title: "New imaging system and artificial intelligence algorithm accurately identify brain tumors"
 excerpt: "A novel method of combining advanced optical imaging with an artificial intelligence algorithm produces accurate, real-time intraoperative diagnosis of brain tumors, a new study finds. Published in Nature Medicine on January 6, the study examined the diagnostic accuracy of brain tumor image classification through machine learning, compared with ..."
-publishedDateTime: 2020-01-06T16:21:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/nlh-nis010320.php
+publishedDateTime: 2020-01-06T16:04:00Z
+sourceUrl: https://medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.html
+ampUrl: https://medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.amp
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.CB0DFA91721A0166CFABFE321D29D425
+  - url: https://www.bing.com/th?id=ON.76F892DEBFB7FFD0E84139B9767E16D7
     width: 700
     height: 393
     title: "New imaging system and artificial intelligence algorithm accurately identify brain tumors"
@@ -37,6 +39,6 @@ related:
         width: 700
         height: 367
 
-secured: "YVv/OSrTFWBXJY4h1d+U55IF8thaUojMYwuJ9rDYMGL84lmGyC95WSsrcUESi8GA9pbwcgoV205gY7NqCAtffNpqaspcRxa22PSUSnO2y6jWUUWOxjB/oLl2tADn6wGKZ1NrIPa/zDSU2C6Q5L61IRJSvJCv/wGZqEDhbH5Wbj1hu5a7HOQSzRD33heET/xR/2e4Qkk1OaMzmUBk3z+J6wFmdfn4TSqK8wKo1e0jqJqazBCFuYQO5UlggAJJj/AStWVeaQzkVqPPgrf3Iy8Dpg==;UvJbWUTJx8VTAZTfanhPuw=="
+secured: "0ypmeI9fwlJikPukZQQJE4KCXU9cn9Kq2yWvGR2fJ7NSG3aQmWFAfs6izozs1cFkzVjumrx81XXAksFeTFZoWiWCAd8mZqQMA4zj/IQhCVkimCARUz9HUGhLfhKr/Pq2gZZDzt/8Czo7B1qcRgEMM/IssIlal1uavnGkBMMp86NQqJb7oJLpZ9d7RD+GQlXdAGre5JSfU3ZhFZZqHkPFpaisClykxs9JFkYzJgGdTVeGkselJH4miyccmjdUJ09zhk1V3I4YOQoENLdCWd1k6w==;WyP5BFjKNb++JJFomQBHrw=="
 ---
 

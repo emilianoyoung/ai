@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
 related:
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
+        width: 700
+        height: 393
   - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
     excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
     publishedDateTime: 2019-12-30T09:07:00Z
@@ -43,19 +58,6 @@ related:
     quality: 55
     images:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
-        width: 700
-        height: 393
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
-    publishedDateTime: 2020-01-06T16:19:26Z
-    sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
-    type: article
-    provider:
-      name: InvestorPlace on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
   - title: "The Best Tech of the Decade (Page 13)"
@@ -110,6 +112,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Major tech trend of new decade: 'Intelligence of things'"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-07T22:00:00Z
+    sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.38794999FB710421434E83B08CDB6E50
+        width: 700
+        height: 466
 
 secured: "Hg8PVTHD/2HiVUuUAnm5sqN8BDlQ0T4Cr/rY4vaLrUkg9uSDY7i+BIAUKQzNC5Fn5oUpEecbzkafIHQJjNaTAJ7Yf7+DK1Ztqmg7Cj5cOaPQ52L7PFrHD2+pQCf/V0UElJBrHecZqCKY10ZviY309mJ4jNPSF6dxpJgUUopp0ZGtlIqt6WWphBcHdDVhR8ewlKXYGiE27xf5z7PQEp4SPDz2D6rgY+iyZQHXzRTw2umC6bGP1FVA81FA1WlVdB9omvASrjvrH5VZ/Sskh0KCOQ==;24PTO9Ut6qjLYugJofb/Pg=="
 ---

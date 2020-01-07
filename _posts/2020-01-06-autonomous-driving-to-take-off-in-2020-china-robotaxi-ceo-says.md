@@ -258,6 +258,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767
         width: 700
         height: 393
+  - title: "The Rise of Robots at CES 2020"
+    excerpt: "“Futurists and technology experts say robots and artificial intelligence of various sorts will become an accepted part of daily life by the year 2020 and will almost completely take over physical work.” That's a quote from Elon University, from way back in 2006. Needless to say, the robot revolution hasn't quite manifested. But you'd be ..."
+    publishedDateTime: 2020-01-07T22:49:00Z
+    sourceUrl: https://tech.co/news/rise-robots-ces-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7BFB340A60772DB7DED80DF2CF43355B
+        width: 660
+        height: 371
   - title: "Audi's self-driving car goes for a spin at CES"
     excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
     publishedDateTime: 2020-01-07T13:56:00Z

@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/amp/
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     title: "Whisk’s AI-powered recipe app lets you send the ingredients to your door"
 
 related:
-  - title: "Get a robot to analyse your tweets and match you to a job"
-    excerpt: "Then, using a tool available through IBM’s cloud-based artificial intelligence engine Watson, and its Personality Insights service, we gave each profile a score across ten personality-related characteristics, based on the language in their posts. We used a variety of data analytics and machine learning techniques to explore the personality of ..."
-    publishedDateTime: 2019-12-18T21:20:00Z
-    sourceUrl: https://www.adnews.com.au/news/get-a-robot-to-analyse-your-tweets-and-match-you-to-a-job
-    type: article
-    provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.09BA549210C3D8C37EF20AEF7BEE53F3
-        width: 700
-        height: 338
   - title: "Service Robots Are Coming To Your Door"
     excerpt: "The development of robotic technology and artificial intelligence (AI) is increasing at a rapid pace. Where once, robots were experimental lab-based creations that were a little shaky on their feet. They are now ready to come into our home to ‘help’ us with our lives. Don’t think that you will never need a robot in your home or life?"
     publishedDateTime: 2019-12-24T12:20:00Z

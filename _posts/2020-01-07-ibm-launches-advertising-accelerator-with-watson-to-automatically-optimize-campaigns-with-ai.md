@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/ibm-launches-advertising-accelerator-with-watson-to-automatically-optimize-campaigns-with-ai/amp/
 type: article
 quality: 93
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -135,6 +135,19 @@ related:
     images:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
+        height: 315
+  - title: "IBM launches creative assessment tool"
+    excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
+    publishedDateTime: 2020-01-07T22:30:00Z
+    sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
+    type: article
+    provider:
+      name: campaignasia.com
+      domain: campaignasia.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.737DC3B3BC3AEC50D8D0FF8485873B43
+        width: 472
         height: 315
   - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
     excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."

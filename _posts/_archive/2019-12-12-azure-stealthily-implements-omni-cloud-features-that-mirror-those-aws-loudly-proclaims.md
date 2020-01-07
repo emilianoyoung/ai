@@ -25,6 +25,6 @@ images:
     height: 450
     title: "Azure stealthily implements omni-cloud features that mirror those AWS loudly proclaims"
 
-secured: "oZsk2d4rahYTzD/BSb4z2F4/lEb5raqKRZQ9yRDQTKa3WGD7Zy2IYL+DQLUlqaFDQ0bT670ji8Nxwk3+Y8GUwGkvOKBgnvfJWjAwzeLam2PPTKjRpTf58XbWIx/6gyWFl3XKCyy4Bggnmy7Nm07B0Q5ihZwRT8Zy0wj8YmhBGE3zFHD9YhEO8sA/s1+Ttlnxhtwwmw/6beWLFidekb9SJV/hKJHrPd3c0utsW//hWjKcWBluwzO6Y6rdCggM3AZoqI/uVK1/76S3sD2LxLoQHQ==;IgjSpzThyunH1gscJrD2vg=="
+secured: "mG/gh5+F06EVWkBlRzBnmjz/VLK/uWoYDdwnsaEH1owRMxf2iDv7/LLk3RoAnE1ey1P+ox6kYTZeWawLqVMj6wruX+y3rLDmxYzSKXMnSUbesEPbrmF9HG984Nq2Q0RRyVXKWfvVHPYQ4ndRa7ztgqI0BbuXEm23U6WW5yGaqrXLJpNyRo2JodPI3vaxgZjr/4xz9Em89wVeEdKhJEYnG+z+gB0VwSkW5SZhMn07DrOjE8CrLLD5ZwhBAU4AbsMZHoG+LdEmbLDLPHq+hgyzUg==;1ZAmsu3J/lnpnixdDhEe2g=="
 ---
 

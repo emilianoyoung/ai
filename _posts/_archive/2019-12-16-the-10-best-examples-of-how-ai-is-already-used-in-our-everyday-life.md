@@ -2,7 +2,7 @@
 category: news
 title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 excerpt: "you can request a self-driving car through Google's sister company Waymo to drive you to and from work. There are many ways artificial intelligence is deployed in our banking system. It's highly involved in the security of our transactions and to detect fraud."
-publishedDateTime: 2019-12-16T05:17:00Z
+publishedDateTime: 2019-12-16T05:15:00Z
 sourceUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/
 ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/16/the-10-best-examples-of-how-ai-is-already-used-in-our-everyday-life/amp/
@@ -24,9 +24,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.716F8E7333EE8AD06F53EC459A70C261
-    width: 600
-    height: 315
+  - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df6aaf825ab5d0007ce77d2%2F0x0.jpg
+    width: 1200
+    height: 800
     title: "The 10 Best Examples Of How AI Is Already Used In Our Everyday Life"
 
 related:
@@ -44,6 +44,6 @@ related:
         width: 600
         height: 315
 
-secured: "Y+1GsOml0eE/HjJVHKHzBy9hMQ9Zh0LE7o0+AJMF+/OfJSfOdtOJCa/aTHIig0dGnOjmtMSdOj0epKd1Dh+eE3vsdacDjeK66kgjB17XEFNTdXSVoXEYpG8Uy8SQGJpLt+PrJHrch9pDtD66dNkKyDW1aWjMQ+wnWPmamNVChPh8dvk6ZoMIqknmKpFDC+u31XJpnAN15l8KTZIx2sj0hhWB/t+BHu4SDvAmVUNWudWUJMEePvCGbJvVdNSJAXhMkitWd7wjn7IVsSU/eOC9Qg==;jogL6fE86MpuNwBo/dtmUA=="
+secured: "9LuX875c0F8sFzG4aZ9vlnW1ByKdwic2iiYG5SGWiFd2suZ0nmEN+qq62Ut8Cyvj2NfXH+tqNJi44CsxE0MdTIWzouaKLoT49TvIyD3U0FBm+zfljZSv3l7oigzMfp8+Mz3sX+WzXgV5ZE2iZ/BLODWHyKBqbC83bhWhfNIl18183DCZEYE1CLopOjkoKLgzxm5YVUylsReNJxTkf7l9OkXcR0qCvK2rcelazZ0IyHbkwQ/JNFGXrBxZGTH/IxNmlDEugWqqty2+edsr2r3fPA==;Np42Dy0HNHIB2AJL7BUNYA=="
 ---
 

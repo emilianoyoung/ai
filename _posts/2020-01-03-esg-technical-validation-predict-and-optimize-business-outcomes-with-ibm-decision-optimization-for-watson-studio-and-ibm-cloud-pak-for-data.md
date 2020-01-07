@@ -139,6 +139,19 @@ related:
       - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
         width: 600
         height: 315
+  - title: "IBM launches creative assessment tool"
+    excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
+    publishedDateTime: 2020-01-07T22:30:00Z
+    sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
+    type: article
+    provider:
+      name: campaignasia.com
+      domain: campaignasia.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.737DC3B3BC3AEC50D8D0FF8485873B43
+        width: 472
+        height: 315
 
 secured: "j617CAiwW93h6+R/5VTSkf7c+AVPyoOnhbDB3dzm1rdbu5wUhXdOhq9lpH9YbIdGD+kIiz5hI9dtZF1/KBiGcHUsxlxtjNOEq1pKjlgGAlfyV50krRsTGRP8gDvtuZa02R9zrSgKCAfbP5wHinveRK3yF1FJwcIwnZ0Iq3CyIK+z4QQFtjMPYk4+I8ONGMuChcercq91kFnQ+h54aAVFbVjSvZ2SnSA15GnsB7/hmt4eeh5hiqQHdUsWnxs7MMXdWeyaYPluYjaldWr56dGahw==;nVRIvcMt9vHcCiP40TgqKA=="
 ---

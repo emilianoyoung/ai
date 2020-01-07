@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/proposed-nyc-law-would-reveal-surve
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/proposed-nyc-law-would-reveal-surveillance-secrets-of-us-largest-police-force/
 type: article
 quality: 168
-heat: 178
+heat: 168
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 700
     height: 525
     title: "Proposed NYC law would reveal surveillance secrets of US' largest police force"
-
-related:
-  - title: "Northampton City Council to address face surveillance systems"
-    excerpt: "A proposed ordinance before the City Council aims to prohibit it. “Prohibition on the Use of Face Recognition Systems by Municipal Agencies, Officers, and Employees” will be discussed for the first time by councilors on Thursday at their last ..."
-    publishedDateTime: 2019-12-18T21:45:00Z
-    sourceUrl: https://www.gazettenet.com/City-Council-to-take-on-facial-recognition-software-and-override-measure-31405894
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 24
-    images:
-      - url: http://www.gazettenet.com/getattachment/ad92d5f4-8932-47a3-a6fb-384b374aef33/03bebc5f71a747e0893badfb492fce3a.jpg
-        width: 499
-        height: 325
 
 secured: "zK621ScFxkTk76wx33p02oQ00/4AsudhjtsuAW3wRF2YKq/sVT/uKaSFie2CjikOnmM99J1EBRj3vO9nnyyDzP5E9ChknRos6+5crfosbo6sZKvU6s1i8ooIgxiJDtQpSEsbVfnpI74crNKeJ9ChZomHB/DsHxL54/+WHMyMjlWPzzMctLVGnU4XagLOU6TjER/lEXAC7C3OTbB2ctEF6LMVmQSqP2XgpsaNYpLYU03W2KiuOu6RTRuoE3I0M+0A5IOf4MxgU3dnlTsh9sc2fQ==;J4YtOI20zhf5Ij7zE/MMFA=="
 ---

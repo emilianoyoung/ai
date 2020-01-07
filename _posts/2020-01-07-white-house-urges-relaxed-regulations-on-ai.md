@@ -2,16 +2,22 @@
 category: news
 title: "White House urges relaxed regulations on AI"
 excerpt: "On Tuesday, the White House released 10 regulatory principles that aim to govern the development and use of AI technologies in the private sector. The White House directed federal regulators to consider \"fairness, non-discrimination, openness, transparency, safety, and security\" when weighing regulatory action related to AI, and to consider ..."
-publishedDateTime: 2020-01-07T20:25:29Z
-sourceUrl: https://www.msn.com/en-us/news/technology/white-house-urges-relaxed-regulations-on-ai/ar-BBYIdOZ
+publishedDateTime: 2020-01-07T20:25:00Z
+sourceUrl: https://www.cnet.com/news/white-house-urges-relaxed-regulations-on-ai/
+ampUrl: https://www.cnet.com/google-amp/news/white-house-urges-relaxed-regulations-on-ai/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-urges-relaxed-regulations-on-ai/
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: CNET on MSN.com
-  domain: msn.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -213,6 +219,6 @@ related:
         width: 400
         height: 400
 
-secured: "Qn4FFY0NJY/U7uWbxNddnmt2S0Y1tqbfCwePErUHCy6xBURL69h1FxGrBdNFwkIN71wYP74Vlc5ZeLBprUiuKMK5rOvNYo+jTbgnIYWaISU+FlhUQHKqIRn9B8xAxn4RKIB0ub63Jk4p8DBGTYWndaU4gygMGGxed9xbTRKAxBEi97be0eIO3SSXx4wdk1GO66mX8nM6vXjkT2EIvnBl269vZNinY0ZcbP+IkgbeMzjivZCJaRzH9yM2kUckjn3TNfBPDymo8LFLxMWT3YK34w==;lMC0Gjtabd0ur1TfRzkTxQ=="
+secured: "DOZF9t/fq4kEaepwrQEu0HIsFyO1HYISQyyxonOq4mWEONw65RgXVzAC6E000ODungB+VwhptIYXfnRUKYUxaarasFnNa1ZMwOvr3irjMyWroickfIMdW73vZlg/mjYMuPfM1Y6xI0pSgypL4WA2Fb2/QbyQJwdzquibMn8BkVpVveveIKy9BmzxRYeYEKKKgNmUuYTYZqAI7dhnOWkYFxBTD3FbVS6kb9mt3lN5qjHxToSgf91xsqKYLLuKTTqu2AStD4kAGUOk311A33+HpA==;L1FNptcyvWbY7rub0QtJbQ=="
 ---
 

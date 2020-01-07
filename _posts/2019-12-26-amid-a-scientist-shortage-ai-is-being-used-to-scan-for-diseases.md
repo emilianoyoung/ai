@@ -51,17 +51,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E0CD4311F8FEEA2F756C0530B4462E
         width: 500
         height: 367
-  - title: "Beaumont scientist gets closer to autism screening for newborns"
-    excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... \"We are always looking for new ways to make a difference in the lives of our patients,\" Dr. Warner said. \"Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
-    publishedDateTime: 2019-12-18T21:53:00Z
-    sourceUrl: https://patch.com/michigan/royaloak/beaumont-scientist-gets-closer-autism-screening-newborns
-    ampUrl: https://patch.com/michigan/royaloak/amp/28473667/beaumont-scientist-gets-closer-autism-screening-newborns
-    cdnAmpUrl: https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/royaloak/amp/28473667/beaumont-scientist-gets-closer-autism-screening-newborns
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 24
 
 secured: "woUlpNwfeFk9UQuqxOOrmPlPLqJNFkh5A5rMtrIjuTzPRv6+Wz1nyLka/8AIhJBp6VV6JQPf/rhSWtDqTa42kKpo6b5jWeLMQcLQWvx6gXrlO7iQObteO40dm79B+d6Nf1f341E/qRda002jtGFrUoTgKESDm1S8IbUVE72/AelcG25SxqS8Rio7hbtp0V6ySd5ajvTXrQxmRQIBQbsGrpVKTDCauER/pXJ4lwFYTXU4RSLlaO6FQPfdVAUxIOzVrpUjwMPCncmb+5EWNn7atw==;8UnfwJt5pg7PdV2jI2z3jQ=="
 ---

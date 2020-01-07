@@ -42,19 +42,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Latest Release: Robot Software Market Will Generate Massive Revenue in Coming Years"
-    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). This intelligence report provides a comprehensive analysis of the Global ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-release-robot-software-market-will-generate-massive-revenue-in-coming-years-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
     excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
     publishedDateTime: 2020-01-03T07:12:00Z
@@ -90,6 +77,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
+    excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-ships-market-expected-to-be-the-most-growing-market-during-upcoming-years-kongsberg-rolls-royce-asv-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

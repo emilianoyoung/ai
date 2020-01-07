@@ -81,19 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
         width: 700
         height: 393
-  - title: "Toyota Building a City Japan That Hates Human-Driven Cars"
-    excerpt: "A traditional closed test track can't replicate the unpredictability of real life on the streets and sidewalks of America, and few of us normal people are eager to share our morning commute with experimental driverless vehicles ... The structures on-site will have sensor-based artificial intelligence to check occupants' health and in-home ..."
-    publishedDateTime: 2020-01-07T21:20:00Z
-    sourceUrl: https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/
-    type: article
-    provider:
-      name: Automobile
-      domain: automobilemag.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.806E7E58AFB6D280F90A3F0D8D677319
-        width: 700
-        height: 367
 
 secured: "HQwSQmZTYaVD/9fQiYdZaqKx5dsFx6RuUxxSBdBvzujgLKeIpqCFP99vgdRDRsm7ejtnozzsfgNhPh36fWMt4Vkl3qK/LHUIwgd4VBqEmIBLLBv2H5E3Yp4u2tcZxiVWKXUJvpRzABEkolI32m0mDxQrno+/MbsHKsNKL0qpLFV0k/qa0/13pmhK38pBqknlJudNBmd8dXkbNQeKYte1Bo2vn+zx6SkpiFVq53tDnI1m8LtbAwscgk5AI/Ac9IFnslmE5jeCQHhtwKKcRNr2vQ==;bvcxKhZ0uJUweZQ5MHWIZA=="
 ---

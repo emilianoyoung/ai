@@ -8,7 +8,7 @@ ampUrl: https://www.itworldcanada.com/article/hashtag-trending-lgs-rollable-tv-g
 cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-lgs-rollable-tv-google-ai-helps-in-healthcare-new-privacy-law/425555?amp=1
 type: article
 quality: 68
-heat: 68
+heat: 78
 published: true
 
 provider:
@@ -24,6 +24,21 @@ images:
     width: 620
     height: 251
     title: "Hashtag Trending – LG’s rollable TV, Google AI helps in healthcare, new privacy law"
+
+related:
+  - title: "18 things to know about Google in healthcare for 2020"
+    excerpt: "6. In April, The Wall Street Journal reported Google was dismantling its AI advisory board, which reviewed its artificial intelligence solutions in healthcare. WSJ reported the board disbanded over disagreements about how to govern itself. The company also canceled its artificial intelligence global advisory council. 7. On June 26, a former ..."
+    publishedDateTime: 2020-01-07T22:17:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/18-things-to-know-about-google-in-healthcare-for-2020.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/4.jpg
+        width: 400
+        height: 300
 
 secured: "713bbnCmtTtDezNFnUGWKE/e9F91vALHYZbkbKfXifeHEnwIe54lBRGwo9Z2nn6szY9BG8WCqUQNObpkYutolxRZA8owZjoQpSUXAiiKZdmrHxfdPrMEOQrVJLCWgBSqBnio7vJzchUDIH7fCxTlSmB9qIbc1v6Gm8nhXddjPkr3w0P/N+xT74l8p/9beTKPPIhw/NQSLOnUkubS7kaIZcyTBrDjfvH5h7ebrMrOqJJP+1el35Qzox+OrTRTZ2g5JZa3um53tnN+0KUMLhYUMg==;nUxxV/XHY9ClIU0B+ITNjg=="
 ---

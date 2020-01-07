@@ -84,6 +84,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E4F8C9326C8747F20B688E213B4E9E7F
         width: 700
         height: 366
+  - title: "White House urges relaxed regulations on AI"
+    excerpt: "On Tuesday, the White House released 10 regulatory principles that aim to govern the development and use of AI technologies in the private sector. The White House directed federal regulators to consider \"fairness, non-discrimination, openness, transparency, safety, and security\" when weighing regulatory action related to AI, and to consider ..."
+    publishedDateTime: 2020-01-07T20:25:00Z
+    sourceUrl: https://www.cnet.com/news/white-house-urges-relaxed-regulations-on-ai/
+    ampUrl: https://www.cnet.com/google-amp/news/white-house-urges-relaxed-regulations-on-ai/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/white-house-urges-relaxed-regulations-on-ai/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.8A12904E595EB27CE997DEB4BFDFD80C
+        width: 700
+        height: 525
   - title: "White House urges federal agencies and European allies to avoid overregulation of AI"
     excerpt: "The White House is calling on U.S. lawmakers and businesses, as well as European nations and allies, to avoid overregulation of artificial intelligence. The announcement comes as part of AI regulatory principles introduced today by the Trump administration. “Europe and our allies should avoid heavy handed innovation-killing models ..."
     publishedDateTime: 2020-01-07T05:01:00Z
@@ -187,19 +202,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8CB727236E6075DD7CD107596BD1D2EA
         width: 600
         height: 315
-  - title: "White House urges relaxed regulations on AI"
-    excerpt: "On Tuesday, the White House released 10 regulatory principles that aim to govern the development and use of AI technologies in the private sector. The White House directed federal regulators to consider \"fairness, non-discrimination, openness, transparency, safety, and security\" when weighing regulatory action related to AI, and to consider ..."
-    publishedDateTime: 2020-01-07T20:25:29Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/white-house-urges-relaxed-regulations-on-ai/ar-BBYIdOZ
-    type: article
-    provider:
-      name: CNET on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8A12904E595EB27CE997DEB4BFDFD80C
-        width: 700
-        height: 525
   - title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
     excerpt: "Federal agencies will soon have to demonstrate that any proposed regulations for artificial intelligence technologies in the private sector abide by a new, “first-of-its-kind” series of 10 principles set forth by the Trump administration this week. “On its face, the guidance we describe provides agencies with a common sense, pro ..."
     publishedDateTime: 2020-01-07T18:49:00Z

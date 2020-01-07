@@ -22,6 +22,21 @@ images:
     height: 367
     title: "LG’s CES press conference tried to convince us of its AI future"
 
+related:
+  - title: "Samsung copied Apple’s Face ID logo in its CES keynote"
+    excerpt: "In this case, Samsung presented an icon for facial recognition that is almost indistinguishable from Apple’s Face ID icon. As iMore indicates, they’re not exactly the same — the lines all seem a bit thicker and closer together, and the corners are perhaps a touch less rounded — but we’re basically looking at Apple’s Face ID icon ..."
+    publishedDateTime: 2020-01-07T22:10:31Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-copied-apple-e2-80-99s-face-id-logo-in-its-ces-keynote/ar-BBYIySV
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1F01EB69BB3330BEF80CC94BBFD2CA7B
+        width: 700
+        height: 366
+
 secured: "LdRS+TdTj+BcpJ8Ge0M295HjaxdsGXsSnIl/WydFVxpeSEHv1GLYlfEeX7Zr9ORml6Beto5zdj/ONSW4J5P1hO875kp3+lQI+78gVMj7m0w87UN6r7bbqGMbX2O1epUl7ZtXbYwXWnDVuvsmoWnku8a7poGCmlv3lZ1jLDzamveZVEF3kx9+y9xoFPs1+e4+m3nMrhbnQc9/LErFwoOaNBfB6Fcl3JrpcNHlYE6tTS/mlA/VosYgpb7lzJBjdD5GoJVP8tRzB25IzxOtrFgDJA==;/y3GOqIb1zb7BHxR/LOB5w=="
 ---
 

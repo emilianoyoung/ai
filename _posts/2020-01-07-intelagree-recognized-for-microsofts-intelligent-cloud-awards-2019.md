@@ -1,22 +1,22 @@
 ---
 category: news
 title: "IntelAgree Recognized for Microsoft's Intelligent Cloud Awards 2019"
-excerpt: "IntelAgree used Microsoft's Azure AI Services with AgileThought's deep learning and natural language processing expertise to build its contract management platform. Now the platform can quickly interpret uploaded contracts and extract essential information—making contract management processes 90% more efficient. \"We are honored that Microsoft ..."
-publishedDateTime: 2020-01-07T17:57:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-intelagree-recognized-microsofts-intelligent-cloud-awards-2019-/2020/01/07/9077802.htm
+excerpt: "TAMPA, Fla., Jan. 7, 2020 /PRNewswire/ -- IntelAgree, a software-as-a-service contract management platform, and AgileThought were named as a 2019 AI and Machine Learning Partner of the Year Award finalist. IntelAgree used Microsoft's Azure AI Services with AgileThought's deep learning and natural language processing expertise to build its ..."
+publishedDateTime: 2020-01-07T18:02:00Z
+sourceUrl: https://finance.yahoo.com/news/intelagree-recognized-microsofts-intelligent-cloud-174900039.html
 type: article
-quality: 4
-heat: 4
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - Natural Language Processing
+  - Microsoft AI
 
-secured: "w+1gYHF8FmU3L8reZIxxcafykVGV3kY9JEskJKZbWUWNJYZAe4w3TEMLMssQP7QrwXTq3HRaezFVAAfVOZckYuSBq1MxOcF4pGDWav1sPoTi0k8UG8FysB4dKkhBW2N6TDOQA4KwL9WkEMh+0TQBhAMwCA3S4RA1eaEZYUfZwsSZQO79Y8+ZQfPWo2IijYwF1etqZY2OlCFMUFWvYANL1KfgaiP8FjqHBm+vSQ7czTVugJF+dFXR6TgfddFxy2ULr5a6ONCHrmJXhEIeliI1TQ==;PJ273t6P6GhrIrW8khqa7A=="
+secured: "VVxC/ermjEWIRcUY+Fn8PI/5bgHgkW+ukvH8WAdoX0zjZbyncIKpOhlvzM/8x6aI4DMQ9ov7r8Owy4rj3jS3KdCL2bEVe9ZsbDLr4d9F3Za9JjYmG/aD0h09V4r1bcWmeCofW6y+N8yiFg9qQJt3DcUg0UWHhx1xpPWi1f9fGDWRUhsdiFzILBjhBTKb+9l5LOiitcqvPa0r9VRHVEEjsthPcdzztWNEDh5Hu3oqE8wT9cxRYCf2IemXwCj5pVplEjAhMmk+leA+SyP0I/3WAg==;XIsEoSNLPNRSBbiNdpR1NA=="
 ---
 

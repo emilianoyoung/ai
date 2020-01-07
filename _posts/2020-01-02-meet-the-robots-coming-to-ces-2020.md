@@ -246,6 +246,19 @@ related:
       - url: https://www.bing.com/th?id=ON.53FE26A30274C8597693F60CF8484C09
         width: 700
         height: 525
+  - title: "The Rise of Robots at CES 2020"
+    excerpt: "“Futurists and technology experts say robots and artificial intelligence of various sorts will become an accepted part of daily life by the year 2020 and will almost completely take over physical work.” That's a quote from Elon University, from way back in 2006. Needless to say, the robot revolution hasn't quite manifested. But you'd be ..."
+    publishedDateTime: 2020-01-07T22:49:00Z
+    sourceUrl: https://tech.co/news/rise-robots-ces-2020-01
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7BFB340A60772DB7DED80DF2CF43355B
+        width: 660
+        height: 371
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z

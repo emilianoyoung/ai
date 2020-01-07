@@ -23,95 +23,112 @@ images:
     title: "Samsung Looks Beyond AI With Artificial Humans"
 
 related:
-  - title: "Human-focused tech drives Samsung with AI, 5G, and IoT solutions at CES 2020"
-    excerpt: "At CES 2020, Samsung introduces Ballie, an empathetic AI robot which respects privacy and encourages fitness. Samsung electronics kicked off their CES 2020 presentation emphasizing a focus on human-centric tech. Samsung CEO and president H.S. Kim described Samsung's vision of robots as \"life companions,\" and introduced \"Ballie,\" a small ..."
-    publishedDateTime: 2020-01-07T11:51:00Z
-    sourceUrl: https://www.techrepublic.com/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
+  - title: "Neon's CEO explains artificial humans to me and I'm more confused than ever"
+    excerpt: "But don't expect them to show up as physical robots, he said. That's not the plan for Neon ... Mistry envision Neons to be sort of a digital version of a \"dear diary\" or a close confidant. They're run by advanced artificial intelligence, and they're constantly learning and building memories from their interactions with you."
+    publishedDateTime: 2020-01-07T22:04:00Z
+    sourceUrl: https://www.cnet.com/news/neons-ceo-explains-artificial-humans-to-me-and-im-more-confused-than-ever/
+    ampUrl: https://www.cnet.com/google-amp/news/neons-ceo-explains-artificial-humans-to-me-and-im-more-confused-than-ever/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neons-ceo-explains-artificial-humans-to-me-and-im-more-confused-than-ever/
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C804938391BA753784698887DC8D5BC4
+      - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
-  - title: "CES 2020: Samsung looks beyond AI with artificial humans"
-    excerpt: "Using neural networks and other artificial intelligence techniques, CORE R3 has been trained up with information about how humans look, behave and interact and “can computationally create lifelike reality that is beyond normal perception to distinguish”, according to STAR Labs."
-    publishedDateTime: 2020-01-07T10:25:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/ces-2020-samsung-looks-beyond-ai-with-artificial-humans
+  - title: "Samsung's \"artificial humans\" are avatars for chatbots"
+    excerpt: "Samsung has finally revealed its AI-created \"artificial humans\" – and they're essentially clever fronts for chatbots ... “In the near future, one will be able to license or subscribe to a Neon as a service representative, a financial advisor, a healthcare provider, or a concierge,\" the company says. \"Over time, Neons will work as TV ..."
+    publishedDateTime: 2020-01-07T16:42:00Z
+    sourceUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots
+    ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots?amp
+    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots?amp
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
+        width: 700
+        height: 401
+  - title: "NEON showcases their first Artificial Human at CES 2020"
+    excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
+    publishedDateTime: 2020-01-07T07:27:00Z
+    sourceUrl: https://themrphone.com/tech/neon-artificial-human
+    ampUrl: https://themrphone.com/tech/neon-artificial-human/amp/
+    cdnAmpUrl: https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/neon-artificial-human/amp/
+    type: article
+    provider:
+      name: Mr. Phone
+      domain: themrphone.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
+        width: 700
+        height: 366
+  - title: "Samsung introduces AI-powered ‘artificial human’"
+    excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
+    publishedDateTime: 2020-01-07T08:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-introduces-ai-powered-e2-80-98artificial-human-e2-80-99/ar-BBYGTGd
+    type: article
+    provider:
+      name: The Statesman on MSN.com
+      domain: msn.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.98551653C9A22F554254D741F376E156
+      - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
         width: 700
-        height: 481
-  - title: "Samsung Ballie robot unveiled at CES"
-    excerpt: "The Ballie robot is a rolling robot which is designed to be helpful and reacts to you, it comes with Artificial Intelligence and has a range of functions. At the core of Samsung’s human-centered vision is personalized care, enhancing the health and well-being of consumers by satisfying their individual needs. During his opening remarks ..."
-    publishedDateTime: 2020-01-07T10:55:00Z
-    sourceUrl: https://www.geeky-gadgets.com/samsung-ballie-robot-unveiled-at-ces-07-01-2020/
+        height: 367
+  - title: "Samsung unveils new artificial human avatar"
+    excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
+    publishedDateTime: 2020-01-07T21:22:00Z
+    sourceUrl: https://www.khmertimeskh.com/50677524/samsung-unveils-new-artificial-human-avatar
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.9C842FA8060350DFB27B018185FCF187
+      - url: https://www.bing.com/th?id=ON.6AB13BA742F546ED158CD85A26B4653C
         width: 700
-        height: 467
-  - title: "Toyota’s ‘woven’ city, Samsung robot-ball: CES 2020 highlights"
-    excerpt: "The ankle-high robot was designed as a \"life companion\" and fits into the company's vision of \"human centered\" artificial intelligence. Sebastian Seung, chief research scientist at Samsung Electronics, described the tiny robot as a fitness assistant and a mobile interface to help people in various situations. \"It's a remote control that helps ..."
-    publishedDateTime: 2020-01-07T09:24:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/toyotas-woven-city-samsung-robot-ball-ces-2020-highlights
+        height: 410
+  - title: "How Samsung's 'Artificial Human' Could Eventually Take Your Job"
+    excerpt: "And as great as artificial intelligence might be, there's no guarantee that it'll work as well as a human being. But alas, Samsung is moving towards the concept. And soon enough, we might be seeing \"artificial humans\" transform the office. The opinions expressed here by Inc.com columnists are their own, not those of Inc.com."
+    publishedDateTime: 2020-01-06T18:14:00Z
+    sourceUrl: https://www.inc.com/don-reisinger/how-samsungs-artificial-human-could-eventually-take-your-job.html
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Inc
+      domain: inc.com
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.9B325A079686E7FF4BA506F5CA93CE02
+      - url: https://www.bing.com/th?id=ON.69838993CCC7549F75D91C50A1669986
         width: 700
-        height: 454
-  - title: "CES 2020: Samsung unveils 'Ballie' robot, AR glasses as it heralds a new decade it calls the ‘Age of Experience’"
-    excerpt: "At CES 2020 – the world’s largest consumer technology trade show – Samsung unveiled the electronics giant’s latest advances in robotics, artificial intelligence (AI), 5G, edge computing, and augmented reality (AR), as it laid out its vision for a new decade it termed the “Age of Experience.” In Samsung’s keynote address at CES ..."
-    publishedDateTime: 2020-01-07T11:36:00Z
-    sourceUrl: https://yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address
-    ampUrl: https://yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address/amp
-    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address/amp
+        height: 324
+  - title: "Ivanka Trump, artificial humans, Apple and maybe a PS5? What to expect from this year’s CES 2020"
+    excerpt: "CES 2020 is just a few days away with new developments expected in the realm of robotics, consumer electronics, 5G, artificial intelligence (AI) and autonomous driving. Also, Apple Inc. will be making a rare appearance at CES this year. The last time the company appeared at the annual tradeshow was way back in 1992. While the company won’t be ..."
+    publishedDateTime: 2020-01-03T14:37:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14465/ivanka-trump-artificial-humans-apple-and-maybe-a-ps5-what-to-expect-from-this-year-s-ces-2020
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 38
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 11
     images:
-      - url: https://www.bing.com/th?id=ON.524F1C3FDA92593BD9EA0C1B16B28030
+      - url: https://www.bing.com/th?id=ON.C605DAA99C66737BF9426AF4AFFCD1BF
         width: 700
-        height: 350
-  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
-    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
-    publishedDateTime: 2020-01-06T15:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/philips-expands-its-range-of-consumer-focused-digital-health-solutions-at-ces-2020-1028796711
+        height: 403
+  - title: "Study focuses on artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
+    publishedDateTime: 2020-01-07T17:58:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Science/20200107/3485716.html
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
-    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
-    publishedDateTime: 2020-01-07T13:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/philips-expands-range-consumer-focused-160000986.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 18
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "sEz9Qbe3vcjM4NRIPUU97m3hJx4GdZeTFTeB6VGAn9+FeM1Q7bnvaQzMuwDKDQzZZ9jJhhc3FAF2mU9O8wHHfD1Hyw8hsviVPlHRmyRG8wOGgaXHsFTqBhnqjRR8SBMfW9BgH7Egpuupb4YlNhTPm9yo4VV36DyxWLmGx2hy16PAhue7PlQcfTmAe9RO8IEd12tbPJQ7rTVhzwhvfyQZEH1mesI3xGoGXlg8IOfIDSSctDM0k4Sv1VBe7jCGVs28rA2bnrkZY7QhgfGWVEDn8w==;sE9sGYdtMdj1kqDTqnMulA=="
 ---

@@ -132,6 +132,19 @@ related:
       - url: https://www.bing.com/th?id=ON.59DFB387B5F8A0DF13EAC0CD6CB01852
         width: 300
         height: 161
+  - title: "IBM launches creative assessment tool"
+    excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
+    publishedDateTime: 2020-01-07T22:30:00Z
+    sourceUrl: https://www.campaignasia.com/article/ibm-launches-creative-assessment-tool/456463
+    type: article
+    provider:
+      name: campaignasia.com
+      domain: campaignasia.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.737DC3B3BC3AEC50D8D0FF8485873B43
+        width: 472
+        height: 315
   - title: "ESG Technical Validation: Predict and Optimize Business Outcomes with IBM Decision Optimization for Watson Studio and IBM Cloud Pak for Data"
     excerpt: "ESG recently completed testing of IBM Decision Optimization for Watson Studio, which is designed to enable organizations to accelerate the value they can extract from AI more easily. Testing examined how IBM Watson Studio with Decision Optimization collects data, organizes an analytics foundation, and analyzes insights at scale—with a focus ..."
     publishedDateTime: 2020-01-03T01:08:00Z

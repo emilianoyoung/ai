@@ -8,7 +8,7 @@ ampUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-l
 cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Aptiv self-driving program adds Las Vegas airport to destinations"
 
 related:
+  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
+    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
+    publishedDateTime: 2020-01-03T04:00:00Z
+    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
+        width: 700
+        height: 393
   - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
     excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
     publishedDateTime: 2020-01-07T16:03:00Z

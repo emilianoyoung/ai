@@ -80,19 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.524F1C3FDA92593BD9EA0C1B16B28030
         width: 700
         height: 350
-  - title: "Samsung Looks Beyond AI With Artificial Humans"
-    excerpt: "(Bloomberg) -- Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real ..."
-    publishedDateTime: 2020-01-07T08:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/samsung-looks-beyond-ai-artificial-070015061.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
   - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
     excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
     publishedDateTime: 2020-01-06T15:00:00Z

@@ -3,7 +3,7 @@ category: news
 title: "SoundHound Inc. Adds iHeartRadio Content To Hound App And Houndify Voice AI Platform"
 excerpt: "Houndify’s patented Speech-to-Meaning™ and Deep Meaning Understanding™ technologies deliver unprecedented speed and accuracy in voice recognition and responses, and an ability to understand context, such as the user's location or previous queries, to support natural interactions. Another key advantage of Houndify is its architecture for ..."
 publishedDateTime: 2020-01-07T21:17:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200107005946/en/ADDING-MULTIMEDIA-SoundHound-Adds-iHeartRadio-Content-Hound
+sourceUrl: https://www.businesswire.com/news/home/20200107005946/en/SoundHound-Adds-iHeartRadio-Content-Hound-App-Houndify
 type: article
 quality: 32
 heat: 32
@@ -38,6 +38,6 @@ related:
         width: 480
         height: 270
 
-secured: "3+xg+e1qt/tG9wQDCAPh0DT02Kewyu3N1ub1anTaSJ2Of+VUyRJ2SApQpMmXZyR9eG41DliPhJKd5yWPcjBaz8jBu1Oobv6aQVgOINlDBIfQRnLuj+NTz2mRefUNwAuIfqqIJZ+Agzi2SapE4aduW93IPYrE6VxX4EWU+FbND0TiEYquNBNRXroSLc+bLgK80WUS7qbg1VYO0oJbCUvlRjYE88HL+XYhlFFetN1VL2Bakf3hc9lkhzk+Ek8gsdnjHj2+xtAWCeDMWA873dvQTA==;33phVeBSzOLe9MMjy5g9Dg=="
+secured: "DiQLFz02449ws3FvSk9t7rZSgsqetQaDezfeZaXuoxNQDMRtaatpsWXgtO0HJSudyQvXTDFdHm9a5O3D/nc+YqrA36/LQnB3AnuN07isohqSfeBOCMXVHG7OOFYsWKPKjwf0C7eeZeZleKRd587G4jhX0oS51kEiTGwpbHXBsgx6BEaVM0IWM3KHZVHBIYKvxRKvjIOYD15mKoiNG85hSB9SgB7DSzmqi6QBU5rM9gT4D0doLkbvvE2eeHbEXxLP+80SgAjSj8gwjx+7vMultQ==;dLpOlwoukWCZiXG/ThVBzg=="
 ---
 
