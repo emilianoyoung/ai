@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.476979A0A91FA0BF15C5EA616D55C2D8
         width: 700
         height: 466
-  - title: "How the cloud fits into the future of healthcare innovation"
-    excerpt: "At the same time, cloud providers, such as industry leader Amazon Web Services (AWS), continue to invest in industry-specific infrastructure ... push us to think like for-profit companies and embrace innovations such as machine learning, artificial intelligence, augmented reality, and others. This is the future of healthcare."
-    publishedDateTime: 2020-01-03T20:49:00Z
-    sourceUrl: https://www.healthdatamanagement.com/opinion/how-the-cloud-fits-into-the-future-of-healthcare-innovation
-    type: article
-    provider:
-      name: Health Data Management
-      domain: healthdatamanagement.com
-    quality: 41
-    images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png
-        width: 1200
-        height: 630
   - title: "15 things to know about Amazon's healthcare strategy heading into 2020"
     excerpt: "He also reported the company aims to use the cloud and artificial intelligence to improve healthcare. 3. In March, Amazon made a $2 million investment in Boston-based Beth Israel Deaconess Medical Center to test artificial intelligence tools. The two have partnered since 2016 when Beth Israel bought AWS's cloud software and reported significant ..."
     publishedDateTime: 2020-01-06T16:24:00Z

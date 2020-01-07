@@ -53,6 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
         width: 700
         height: 525
+  - title: "Samsung reveal AI powered 'artificial human'"
+    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
+    publishedDateTime: 2020-01-07T10:34:00Z
+    sourceUrl: https://www.thenews.com.pk/latest/595002-samsung-reveal-ai-powered-artificial-human
+    ampUrl: https://www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.83478E6035271683E24F7BD8E4BE086D
+        width: 700
+        height: 390
   - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
     excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
     publishedDateTime: 2020-01-06T19:34:54Z

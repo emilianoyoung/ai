@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.35F4E75CC6DB73D5199877E3C6A74621
         width: 700
         height: 367
+  - title: "CES 2020: ASUS expands business and gaming laptop lineup, explores AI IoT market"
+    excerpt: "ASUS has showcased a variety of new business and gaming hardware at CES 2020, together with an interesting pivot to AI Internet of Things (AIoT) applications. In Las Vegas this year, the Taiwanese tech giant revealed a range of notebooks, desktops, and laptops, of which the 14-inch Chromebook Flip C436 comes with up to a 10th-generation Intel ..."
+    publishedDateTime: 2020-01-07T10:17:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.A264CB3BC87C5FF6195B7D5AD0C86F3F
+        width: 700
+        height: 525
 
 secured: "HWzvmRi7cIQgqiUnGz/ZpXfz3Ha7hnalBLwsBg00Qb2hUHB2iMoRl/jFZ1/xa57ukE3q8gsRMb1xzCqgrungQw5+8FgkAU0ODIi+gMg6Hm/MlEDq5z+HHZ+/BeMzoyZKoXkjcev97vPuDntstoq5hjFo8k3hS5ECWzBt3dfUx9jQoH9KvelBt43uLPVO+HonA3OP1KYab9I1XlrHnxS/8P5r7LaPj63enF3TCtGzmQ81jC+xvLKFa5+WflP3fnSq07vKY3kC72t54khqtWw+Aw==;JzosYec6PrOwl71KKhryzA=="
 ---

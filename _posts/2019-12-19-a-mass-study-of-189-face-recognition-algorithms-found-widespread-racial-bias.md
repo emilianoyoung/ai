@@ -1157,19 +1157,6 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
-  - title: "Scottish Government publishes consultation Gender Recognition Reform bill"
-    excerpt: "Lynn Welsh, Head of Legal at the Equality and Human Rights Commission Scotland, said: “This bill offers a welcome opportunity to remove unnecessary practical barriers trans people face in securing legal recognition of their gender identity. “Nothing in the bill will threaten the continued operation of the Equality Act provisions protecting ..."
-    publishedDateTime: 2019-12-18T09:18:00Z
-    sourceUrl: https://www.holyrood.com/news/view,scottish-government-publishes-consultation-gender-recognition-reform-bill_14887.htm
-    type: article
-    provider:
-      name: Holyrood
-      domain: holyrood.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.B2199886E8BFF6C20515FD3BBD18791F
-        width: 700
-        height: 466
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z

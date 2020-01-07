@@ -24,6 +24,19 @@ images:
     title: "Natural Language Processing for the Identification of Surgical Site Infections in Orthopaedics"
 
 related:
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
   - title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
     excerpt: "The identified urinary biomarkers could be used to develop a point of care test for UTI but require further validation. This is one of the first studies to use machine learning methods to select clinical features and urinary immunological markers to predict culture results for uncomplicated UTI in primary care. We found that cloudiness of urine ..."
     publishedDateTime: 2019-12-23T10:18:00Z
@@ -64,6 +77,6 @@ related:
         width: 480
         height: 469
 
-secured: "fUaDJjx/1q8jRA1bHmwYY04wCUlykbi+/XFhlKb2n003k1pHJozbnAfINj/T2fQPzd6TOh8VqJCXoBX2t87rd/d7TumYDzfADm/U+Z/HPc1ho9mcnCMkFpl2z2fiXvLXLpDxJrRzTT6iV8YFy4J0htuXUUzKVMTcSOyh56zW9XpV2raFlpg27Yz6gdTbhVtvhqUKIPC7mDq5ljVUp/Ah+hy/m79LvPEHsCcZpUOUm629bmaq2KFVNe8cGHI3oNDUiA28M+fosJ0Gdq5gjSbr4A==;2qJOc3rjvqsVO+gZqms89g=="
+secured: "phPJ3UVApj/ZtOCy9eQdntRoIQ21TOTm2b25FSNmvgxYovRRW8PB4mbI59mifITmnTpUfnmuOfsmqsjL0srjPZneckYqZx2Ne5kvO2zggGv2EoG0nONbfvthV/y1pukFUlBmGBx8qnbGAk0JsonORQ2EDVLtbqzv/TbIB5gskww47dRsvqnysjIHD5Tjx9Fe14HeZgExeKRj0btxT+C2hosip41eER0Eo+iwiPnARUB7M87+OOU3XCVWfYT9om+UxDrmTvP5EYU8fDvcnpGf4g==;f2RbfHssbNZukbKahMuKgg=="
 ---
 

@@ -49,6 +49,21 @@ related:
       - url: https://www.bing.com/th?id=ON.24C60AA77046AE81EC288BDBF714CF7E
         width: 700
         height: 336
+  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
+    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+        width: 700
+        height: 373
 
 secured: "CRu2zLy5+p9v8gcjzOBablc2iBr+X1tJMmwlf53agYQ3wl7nRbVGfXwTUZJ0QxYJvn7NfnY4i9RSKfion0gfDeaY4uYTDJygTFUit+xcwSDa+raFdMGEiOTb0wfnfOChC8aSxvcZkGxzKTOOgPVRXqrWqtEVQRln36LeePexJhZSvC6bXUZCo5gXvxljIVZSjFgmmm8rf8ZHybgtTN1Ihct2f5486sj2aGqahomlQXQTR7RioBbyy4fGJvsUOeQOcF9IUT9VDeSxwVND2XUhLA==;3SK3v+xmEcSjCKxwr6SuUA=="
 ---

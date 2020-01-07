@@ -1,30 +1,27 @@
 ---
 category: news
-title: "White House Proposes Regulatory Principles to Govern AI Use"
-excerpt: "LAS VEGAS (Reuters) - The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities' \"overreach\", and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should \"conduct risk ..."
-publishedDateTime: 2020-01-07T07:04:00Z
-sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/white-house-proposes-regulatory-principles-to-govern-ai-use
+title: "White House proposes regulatory principles to govern AI use"
+excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
+publishedDateTime: 2020-01-07T04:50:00Z
+sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
-      width: 50
-      height: 50
+  name: WSAY
+  domain: wsau.com
 
 topics:
   - AI
+  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.4D077A9BC62CB65BD38EBFEE9073CE9C
+  - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
     width: 700
     height: 466
-    title: "White House Proposes Regulatory Principles to Govern AI Use"
+    title: "White House proposes regulatory principles to govern AI use"
 
 related:
   - title: "White House Favors a Light Touch in Regulating AI"
@@ -72,7 +69,20 @@ related:
       - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
         width: 700
         height: 474
+  - title: "Avoid heavy AI regulation, White House tells EU"
+    excerpt: "In terms of how AI technologies could impact consumer rights, Justice Commissioner Didier Reynders told his parliamentary hearing in October he would advocate for an ‘ethics-by-design’ approach, whereby products and services using AI take into account ethical guidelines at the earliest possible stage in their development. For her part ..."
+    publishedDateTime: 2020-01-07T10:55:00Z
+    sourceUrl: https://www.euractiv.com/section/digital/news/avoid-heavy-ai-regulation-white-house-tells-eu/
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
+        width: 700
+        height: 393
 
-secured: "xLeYZ8BFBXcvf2e2F+slgep029H/eU+z3npSFNopjY/O84pmRGDYjbMvkVm8Z7AmbVflTKEsfFb82my1deIcwHlHdF/pSgayVHpAXkU8ccUmGwdcHYjBpjAReSJxI4z4zlIBjf84wEMqBNIIvE6D/bTdqxcEZOx4NlCZoOwXGlVLoBgalH+eCz9jfWWhv3J2lvCrv94x068I9Jic6H/RiNLd6L5rM6Sv7MwxEgck6XBaAN+ge0N1iusIjxxn/UPpUImTCwQQWUBw9OmGsE45pg==;HqoDCMDVdgjLWm6ZClZVBA=="
+secured: "1Gy+M1Q+jtiRoHzXQp3dFhy8x1DOqz4d0UcCzO8Ba9M2EpN9cZQWQ10VACfeo6P6cxCdYBfW+kq6pRG3tEpmdA+YsQJEf2btlMHLkNLvK83OV/a4jvg353lsjSEjwH74pgaWJ1tvTjvQJJVRaSUHljMQ9iQ6frZijNP5C7VQY5ratTZweAPZtv//iMc3McbscM/iXwDsmPUWQfZnZYnEz6WiXrn9DeRiGD6tnNe735q9wDEouGMUeH2fEiY1oTuA3niaXwRbKVueEq/U28N7MQ==;BkvL4wstT5+TjSfHlgcHHQ=="
 ---
 

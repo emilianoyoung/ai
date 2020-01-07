@@ -8,7 +8,7 @@ ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-pr
 cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
       - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
         width: 678
         height: 364
-  - title: "Baidu, Samsung Electronics ready production of AI chip for early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to inference at three times faster than that of conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI ..."
-    publishedDateTime: 2019-12-18T09:48:00Z
-    sourceUrl: https://www.telecompaper.com/news/baidu-samsung-electronics-ready-for-production-of-ai-chip-for-early-2020--1320411
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
   - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
     excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
     publishedDateTime: 2019-12-18T12:58:00Z

@@ -8,7 +8,7 @@ ampUrl: https://themrphone.com/tech/neon-artificial-human/amp/
 cdnAmpUrl: https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/neon-artificial-human/amp/
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,41 @@ images:
     title: "NEON showcases their first Artificial Human at CES 2020"
 
 related:
-  - title: "Smart toothbrush to robot, all that P&G unveiled at CES 2020"
-    excerpt: "It also supports artificial intelligence tracking via the Oral-B iO app that provides real-time individual ... RollBot that is claimed to be a first-of-its-kind robot, when controlled with a smartphone using Bluetooth, delivers a fresh roll of toilet paper. SmellSense, on the other hand, is an electronic sensor monitoring system that will ..."
-    publishedDateTime: 2020-01-06T14:29:00Z
-    sourceUrl: https://www.businesstoday.in/technology/news/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/story/393255.html
-    ampUrl: https://m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
-    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
+  - title: "Samsung introduces AI-powered ‘artificial human’"
+    excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
+    publishedDateTime: 2020-01-07T08:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-introduces-ai-powered-e2-80-98artificial-human-e2-80-99/ar-BBYGTGd
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 59
+      name: The Statesman on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.434B7A017001E9150ED5D238C4A23A7B
-        width: 505
-        height: 264
+      - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
+        width: 700
+        height: 367
+  - title: "Samsung demonstrates ‘world’s first artificial human’"
+    excerpt: "Samsung Electronics’ experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathises like a regular person. Each simulated human – which would exist only on screens, not in the real world – would be ..."
+    publishedDateTime: 2020-01-07T09:56:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/samsung-demonstrates-world-s-first-artificial-human-1.4132756
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.E22D72296DE1089BFD05A9D82E282C12
+        width: 700
+        height: 367
+  - title: "Synaptics to Showcase New Human Machine Interface Innovations at CES 2020"
+    excerpt: "integrated AI, voice, active noise cancellation (ANC) and much more. High-performance USB-C wired solutions will also be on display. In the AR/VR space, Synaptics will demonstrate a complete end-to-end GPU to display pixel VR experience. This will include an LG V50S smartphone (powered by our OLED touch & display ICs), tethered via USB-C to a ..."
+    publishedDateTime: 2020-01-06T13:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966408/0/en/Synaptics-to-Showcase-New-Human-Machine-Interface-Innovations-at-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 3
 
 secured: "l+gLIscO+eqW1kR6EB1xX89Tv7TFknF0cI8MTVngkrr+AOsHpcnCJF9xAgN/94PfrHsgETYwe87lAeLFKf/kZ625UVUwWRbNrGxWfbB+/uq7EaIvraIl3nL5ltK++sduKAci1j7A2mUqWIxsxO0VjhDjoAaugjweK44Uy2idptgEoqMZ/0L3fSXgCnpY2aBTm40kLuBKRQ18JobFw49B7RqIVpP6Zxb4j42rt/iYDoOUO0zKL7tvklE+NyKvjwbgLhN5ET0xYQob5BTc1KYwjA==;CAUY1F90aq4S8r02bVLstQ=="
 ---

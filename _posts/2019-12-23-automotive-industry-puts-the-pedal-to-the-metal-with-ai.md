@@ -81,19 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2A28CF672EF7C47EA35BBD8F97470294
         width: 600
         height: 338
-  - title: "Manufacturing: the next breakthrough in gene therapy"
-    excerpt: "While we certainly seek to standardize processes through enhanced analytics, automation, and even artificial intelligence, manufacturing each therapy will still require custom processes. And time is of the essence, because patients and their families are waiting for these therapies. Given that many of these diseases have limited or no treatment ..."
-    publishedDateTime: 2019-12-18T10:01:00Z
-    sourceUrl: https://www.statnews.com/2019/12/18/manufacturing-the-next-breakthrough-in-gene-therapy/
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.DAD49722D56BF247D98023D133EBCBA5
-        width: 700
-        height: 393
   - title: "2019: The Year of the Face"
     excerpt: "It has taken the same amount of time for visual recognition to understand how to read our faces. If anything, 2019 has been the year where faces have taken center stage of visual tech, for good and bad… The most frequent usage of our faces is facial recognition for surveillance and security. It is has been the most visible because it is the ..."
     publishedDateTime: 2019-12-28T16:45:00Z

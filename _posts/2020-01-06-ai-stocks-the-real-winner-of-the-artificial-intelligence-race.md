@@ -2,18 +2,16 @@
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
 excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
-publishedDateTime: 2020-01-06T16:19:00Z
-sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
-ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+publishedDateTime: 2020-01-06T16:19:26Z
+sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
 type: article
-quality: 72
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: InvestorPlace on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -108,6 +106,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "n1Erm5JXyeGowBtZQ39yjHtFQY21Rqox6xqF6pQ9ihO9REsrwwf3SbPw4z1RqMDi3KDTBufBK4taC6Wy+AzpgjowU80B3YUAbE+eHGkjPZNcIZRcQlhd657OvDmy0et0mGVDytnuNwkSiVMLNRVCygNnLqMEYH/PCxRzVZdAIXG3SreEacYLVYJW7anZx+6mYHIGeXyDrEMCSmnKaiG8hfx5jOYWfiYFFSRGCdsEuuR9YgeDtfeR46YPAVIOcXvoAVT0kODuWNdukGVWUhQ8Dg==;mSQE4A9RJBeNQ2RFF9y6kw=="
+secured: "9eObozWFZGrbHw8oAQid++5STRR0C2Q3z4GyyRkxKApQdVCTWVD6P9qgMZAqczbIrFfqMJ98rbTMm3fnj1BUoJ365lhk7+3OgtNDnAfz0JDmKRH+HfgGlqCYHQQ/X6ZOtebF/bvAsTRgO3nphijxNuqiOkNg6CpZTxZFIXW5bEq/mBUXcAy/EPlGsc/k55hfFwNC/o1tlFnHRp0/024CgHB2ggC5ManDA5PZA9voCnpRWCK8fia2/sC0wTu8K4F7FLEE8irVE1k6nEEx8TTlug==;MTsQJmZrULAI9/ZnSevbVw=="
 ---
 

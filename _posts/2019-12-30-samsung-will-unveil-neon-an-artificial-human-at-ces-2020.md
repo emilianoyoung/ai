@@ -8,8 +8,8 @@ ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
 cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Android Authority
@@ -29,73 +29,96 @@ images:
     title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
 
 related:
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
-    publishedDateTime: 2019-12-30T16:00:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344124
-    ampUrl: https://www.entrepreneur.com/amphtml/344124
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344124
+  - title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
+    excerpt: "Samsung is set to unveil a new artificial intelligence product named Neon at CES 2020, and apparently, it will be nothing like the company’s A.I.-powered digital assistant Bixby. Not much is known about Neon so far, aside from what has been posted so far on the product’s social media pages. The pinned tweet for Neon’s official Twitter ..."
+    publishedDateTime: 2019-12-29T15:30:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
     images:
-      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
+      - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
         width: 700
-        height: 466
-  - title: "5 open source innovation predictions for the 2020s"
-    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
-    publishedDateTime: 2019-12-30T17:24:00Z
-    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
-    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
+        height: 366
+  - title: "Smart toothbrush to robot, all that P&G unveiled at CES 2020"
+    excerpt: "It also supports artificial intelligence tracking via the Oral-B iO app that provides real-time individual ... RollBot that is claimed to be a first-of-its-kind robot, when controlled with a smartphone using Bluetooth, delivers a fresh roll of toilet paper. SmellSense, on the other hand, is an electronic sensor monitoring system that will ..."
+    publishedDateTime: 2020-01-06T14:29:00Z
+    sourceUrl: https://www.businesstoday.in/technology/news/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/story/393255.html
+    ampUrl: https://m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
+      name: Business Today
+      domain: businesstoday.in
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
-        width: 700
-        height: 525
-  - title: "What impact will voice search have on SEO in 2020?"
-    excerpt: "The introduction of IBM’s Watson in 2010 paved the way for voice technology devices. Watson is a powerful voice recognition question-answer computer system that stunned the world as a super-intelligent, thinking, and speaking robot that was able to beat Trivia grandmasters on the TV quiz show, ‘Jeopardy’. In the following year ..."
-    publishedDateTime: 2020-01-03T20:06:00Z
-    sourceUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/
-    ampUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
-    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
+      - url: https://www.bing.com/th?id=ON.434B7A017001E9150ED5D238C4A23A7B
+        width: 505
+        height: 264
+  - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
+    excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
+    publishedDateTime: 2019-12-30T22:30:00Z
+    sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
+    ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
+    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
     type: article
     provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
+      name: Android
+      domain: androidheadlines.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.86AF3E2BF73DA0D28E2AC70D2742037E
-        width: 360
-        height: 240
-  - title: "Artificial intelligence will dominate 2020, according to IBM"
-    excerpt: "The United States has been slow to adopt artificial intelligence technology, but according to a new study from IBM, this could change rapidly in 2020. IBM’s General Manager for Data and Artificial Intelligence, Beth Smith, joins The Final Round to discuss the results of the company’s study."
-    publishedDateTime: 2020-01-02T21:44:00Z
-    sourceUrl: https://finance.yahoo.com/video/artificial-intelligence-dominate-2020-according-214455756.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.9E6AEA0FC3AFE913115146EB091A20BD
+      - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
         width: 700
-        height: 525
-  - title: "Synaptics to Showcase New Human Machine Interface Innovations at CES 2020"
-    excerpt: "integrated AI, voice, active noise cancellation (ANC) and much more. High-performance USB-C wired solutions will also be on display. In the AR/VR space, Synaptics will demonstrate a complete end-to-end GPU to display pixel VR experience. This will include an LG V50S smartphone (powered by our OLED touch & display ICs), tethered via USB-C to a ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966408/0/en/Synaptics-to-Showcase-New-Human-Machine-Interface-Innovations-at-CES-2020.html
+        height: 393
+  - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
+    excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
+    publishedDateTime: 2019-12-30T05:54:00Z
+    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/
+    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
+    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 3
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
+        width: 457
+        height: 299
+  - title: "Samsung To Unveil An Artificial Human (AH) Called Neon At CES"
+    excerpt: "Samsung will be at CES 2020, and it will be unveiling something vastly different than what it has shown off before called Neon. Neon is said to be an artificial intelligence platform that was developed by Samsung Technology and Advanced Research Lab in the U.S. and is expected to be introduced as a new AI platform of Samsung. Neon has an ..."
+    publishedDateTime: 2019-12-30T21:34:00Z
+    sourceUrl: https://hothardware.com/news/samsung-neon-ai-platform
+    ampUrl: https://amp.hothardware.com/news/samsung-neon-ai-platform
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-ai-platform
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
+        width: 700
+        height: 643
+  - title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
+    excerpt: "Meet #NEON. January 2020. pic.twitter.com/iFkWVVyF6kDecember 17, 2019 Samsung has been mindful to not describe it as a voice assistant or artificial intelligence. Instead the company is using terms like ‘artificial human’ or ‘artificial intelligence being’ to market the project. Honored to have so much coverage even before we unveil."
+    publishedDateTime: 2020-01-02T19:16:00Z
+    sourceUrl: https://www.tomsguide.com/news/samsung-to-announce-neon-at-ces-2020
+    ampUrl: https://www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.3841CB3BCC57682224B20D4AD6BD9799
+        width: 700
+        height: 393
 
 secured: "xlKT10zcxJUmacBcJaJafpNEOVGg609ATxC7VSLhmBOzrsJOoacvZ45aJekNAvbufm7ozmsd+sFJ6iq9inqh+xfbosanGi8wT3rNu+ZByVntoPnUKJaSdrQ4pKUpkza7VOnCkjiAIOD8t/F1vGCcweyZnC1zbUmfhpfW1REkSsR8fjqjdihVyZsL00po8IZFOvxmjLRk5NF+BYEyxC3gEVQS6U+eTPLWb/V1hpvkvip2wsURl4LyHXMEBz5zFzakPbnFDeOZcnx+qENFZlDvpA==;7kRuCLGDSlj+yDp2urdG/g=="
 ---

@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6533D55D50A34A2D3C5B34802284D39B
         width: 700
         height: 393
+  - title: "Study suggests AI can help diagnose brain tumors"
+    excerpt: "What they did: The research team developed an AI model trained on more than 2.5 million images. They combined the algorithm with a laser-based optical imaging technique called stimulated Raman histology (SRH). They tested this combination on 278 brain tumor patients at three hospitals for the 10 most common types of brain cancer. What they ..."
+    publishedDateTime: 2020-01-07T10:37:00Z
+    sourceUrl: https://www.axios.com/artificial-intelligence-diagnose-brain-tumors-12c9ab7c-daee-413c-868a-e2862e00f28c.html
+    ampUrl: https://amp.axios.com/artificial-intelligence-diagnose-brain-tumors-12c9ab7c-daee-413c-868a-e2862e00f28c.html
+    cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/artificial-intelligence-diagnose-brain-tumors-12c9ab7c-daee-413c-868a-e2862e00f28c.html
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.3C7C440A35390427C0C0DE612832D3C2
+        width: 700
+        height: 393
   - title: "Using a machine learning algorithm with cancer methylation signatures to diagnose colorectal cancer"
     excerpt: "A team of researchers affiliated with a large number of institutions in China has used a machine-learning algorithm with cancer methylation signatures to diagnose colorectal cancer. In their paper published in the journal Science Translational Medicine, the group describes their new approach to diagnosis and prognostication of colorectal cancer ..."
     publishedDateTime: 2020-01-03T14:43:00Z

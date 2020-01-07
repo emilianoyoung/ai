@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.925CD75C592C3CC4E78FA81CF3555D6B
         width: 700
         height: 393
-  - title: "AWS collaborates with Drone Federation to boost drone innovation in India"
-    excerpt: "Ltd. “With the breadth and depth of AWS Cloud services across industry-leading compute, storage, database, IoT, artificial intelligence, and machine learning, drone developers and operators can now test new ideas quickly, and accelerate innovation in the application development that better serve citizens and impact society positively.\""
-    publishedDateTime: 2020-01-06T13:56:00Z
-    sourceUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india-11578317708207.html
-    ampUrl: https://www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/manufacturing/aws-collaborates-with-drone-federation-to-boost-drone-innovation-in-india/amp-11578317708207.html
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
-        width: 600
-        height: 338
   - title: "Drone Federation of India, AWS sign MoU to help entrepreneurs build services for drones in India"
     excerpt: "These use cases require a combination of ML and IoT-based workflows using Amazon SageMaker, AWS IoT Greengrass, and Amazon Rekognition services. “The collaboration will help us bring open data sets to the drone community in India. We run a lot of startup programmes in India, and this technology and research collaboration with DFI allows us to ..."
     publishedDateTime: 2020-01-06T12:36:00Z

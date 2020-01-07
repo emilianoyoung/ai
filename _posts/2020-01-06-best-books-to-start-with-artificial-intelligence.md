@@ -8,7 +8,7 @@ ampUrl: https://techcresendo.com/best-books-to-start-with-artificial-intelligenc
 cdnAmpUrl: https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/best-books-to-start-with-artificial-intelligence/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Best books to start with artificial intelligence"
 
 related:
+  - title: "CES 2020: Samsung looks beyond AI with artificial humans"
+    excerpt: "Using neural networks and other artificial intelligence techniques, CORE R3 has been trained up with information about how humans look, behave and interact and “can computationally create lifelike reality that is beyond normal perception to distinguish”, according to STAR Labs."
+    publishedDateTime: 2020-01-07T10:25:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/ces-2020-samsung-looks-beyond-ai-with-artificial-humans
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.98551653C9A22F554254D741F376E156
+        width: 700
+        height: 481
   - title: "Samsung Looks Beyond AI With Artificial Humans"
     excerpt: "(Bloomberg) -- Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real ..."
     publishedDateTime: 2020-01-07T08:37:00Z

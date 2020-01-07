@@ -3,11 +3,9 @@ category: news
 title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 excerpt: "The solution demo aims to improve accuracy of ADAS using Deep Learning models LAS VEGAS and BANGALORE, India, Jan. 2, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will demonstrate Deep Learning driven Advanced Driver Assistance Systems (ADAS) at CES (Consumer Electronic Show) 2020. The deep ..."
 publishedDateTime: 2020-01-01T23:18:00Z
-sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-070000056.html
-ampUrl: https://finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
+sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-230000378.html
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
@@ -20,9 +18,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-    width: 1200
-    height: 1200
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+    width: 500
+    height: 500
     title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
 
 related:
@@ -70,6 +68,6 @@ related:
         width: 500
         height: 500
 
-secured: "hYF9qbfJOYCk1AEjpxqlapIrfbPVwtKYohF7Bjcy/TjbhvHtJFJy/szFqWDD/dkZV6wFScOxTlZD/2aEoCBeJwtJ2bUpLIXQGfgvzOR04qSwSSzPpO4NATGZjuHXDh1yJYFOtmHNV9c6ddyHv9HN0g9nL6GBOVWzJgKkmJSQC4YXSntbIqczZzNO7EPYatQAot4h5apIJSqy/pZ2JDeWtYXrSwDdewBD6fyOJQTGwU/0oCjLPv7+IFsr20pkTRI2EVukePCDqT0D2wt4bRWuNg==;nlElaamfKHXfLEzs+YIkpA=="
+secured: "XmVurtVX3GdNTGL94vSEFJD55Pw8Q+4iec1VhnDelV+oP2X8dmWMTpn1zexzPNfzVFRvqJJr0/4OC+4bdGt+cj4pnZ2s750eVPw4lWm42T8WPxXGI6kJFH3GEWR0S5HwblGFZ/Isb04QFZT4mpSpI5AkOdhgqTt0458U8CfHnCkBQ74jzZlxF19wi8y9J74SvNaMVy5AtB91ttnMtcyieE5jxZG31eWMiW9cFjqVqlZdNWyfuoagua+/lKrW+ssXTWxybfu75SeqWrIKCHjpaA==;RslbpclKZbJV8gZliGALzw=="
 ---
 

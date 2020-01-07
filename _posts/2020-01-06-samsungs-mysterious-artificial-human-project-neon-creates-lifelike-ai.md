@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
         width: 700
         height: 525
+  - title: "Samsung reveal AI powered 'artificial human'"
+    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
+    publishedDateTime: 2020-01-07T10:34:00Z
+    sourceUrl: https://www.thenews.com.pk/latest/595002-samsung-reveal-ai-powered-artificial-human
+    ampUrl: https://www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.83478E6035271683E24F7BD8E4BE086D
+        width: 700
+        height: 390
   - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
     excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
     publishedDateTime: 2019-12-26T09:15:00Z

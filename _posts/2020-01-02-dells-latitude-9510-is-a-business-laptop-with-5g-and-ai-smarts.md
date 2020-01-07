@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-spec
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Dell's Latitude 9510 is a business laptop with 5G and AI smarts"
 
 related:
+  - title: "CES 2020: ASUS expands business and gaming laptop lineup, explores AI IoT market"
+    excerpt: "ASUS has showcased a variety of new business and gaming hardware at CES 2020, together with an interesting pivot to AI Internet of Things (AIoT) applications. In Las Vegas this year, the Taiwanese tech giant revealed a range of notebooks, desktops, and laptops, of which the 14-inch Chromebook Flip C436 comes with up to a 10th-generation Intel ..."
+    publishedDateTime: 2020-01-07T10:17:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-asus-expands-business-laptop-lineup-begins-to-explore-ai-iot-app-market/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.A264CB3BC87C5FF6195B7D5AD0C86F3F
+        width: 700
+        height: 525
   - title: "Dell targets the enterprise with new 5G, AI-enabled Latitude 9510 laptop"
     excerpt: "Another new AI feature adjusts Windows settings automatically to conserve electricity when the ... It features a compact 13.4-inch display, a 10-nanometer chip from Intel’s Ice Lake series and up to 32 gigabytes of RAM. Show your support for our mission by our 1-click subscribe to our YouTube Channel (below) — The more subscribers we ..."
     publishedDateTime: 2020-01-02T20:23:00Z

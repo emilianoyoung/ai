@@ -2,8 +2,8 @@
 category: news
 title: "Robots, artificial intelligence highlight CES expo"
 excerpt: "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)"
-publishedDateTime: 2020-01-06T20:36:00Z
-sourceUrl: https://uk.news.yahoo.com/robots-artificial-intelligence-highlight-ces-201446850.html
+publishedDateTime: 2020-01-06T20:14:00Z
+sourceUrl: https://sg.news.yahoo.com/robots-artificial-intelligence-highlight-ces-201446850.html
 type: article
 quality: 54
 heat: 54
@@ -23,6 +23,6 @@ images:
     height: 393
     title: "Robots, artificial intelligence highlight CES expo"
 
-secured: "etfAnoqoF+GstpJay7rVw7n2mKMsuldZRwzKLhnZlHshrMe36k3D4BMjH/4dSw8G8xU5349Ih5SzptHxAKhiZ/PH5z3xQE73mIhbLg335HAA61/7WP1NaI0jQlsjrH+LzqnraavOs1+rd+QmPTJh3jVG9eNnL0a4Fge46o7izPKdJin3vV4/Hlspjq+yfjreNUSk5oUVx/WxX0yDSwnr5WCPjc9Wl3mnTQg4vbDHGyQ1JctxTSD6YxiUyQdImOrxrzLsm7RVm9BkJmn01Km7MQ==;SQxfVztKAVrJiXWgY1+kjA=="
+secured: "5aKTM5WzHQ1BdwlR81s9/4EUD7f+mZDaQzKFvG1QDVtED07QY4Q29dnSuGrTBXd7A3IGH8D+4yFOcLwDRfuidhKmcCDdaAhr9sWOT/pWUvCLD8GX51PPEzTfIaPvF0YJhwiEtvcCOdBjEUYKIQapQ5arjkiz5pmY/tM5iQiezxFPic6hdxJfbUqmZNeiTAIdUAsGK1rpu5ZdRLHSLXX1v73YFDrw8JIxLDTmaRYQsODGhVxndU3IbPIbENNEfv1+6I89vPhCY8y+UHeaLi8WCw==;QRn7/20kBa+6TKTx85FGSQ=="
 ---
 
