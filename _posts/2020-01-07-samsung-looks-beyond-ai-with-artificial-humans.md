@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Ballie is Samsung's cute and creepy smart home robot"
-excerpt: "Artificial intelligence will be at the heart of a lot of Ballie's functionality, though Samsung executives stressed during the keynote that it's on-device AI that Ballie won't share with others. We still have a lot of questions about just what Samsung has planned for Ballie, including what this robot will cost and when it will be available."
-publishedDateTime: 2020-01-07T04:04:00Z
-sourceUrl: https://www.tomsguide.com/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
-ampUrl: https://www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
-cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
+title: "Samsung Looks Beyond AI With Artificial Humans"
+excerpt: "Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real world -- would ..."
+publishedDateTime: 2020-01-07T07:00:00Z
+sourceUrl: https://www.bloomberg.com/news/articles/2020-01-07/samsung-looks-beyond-ai-with-neon-artificial-humans
 type: article
-quality: 59
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Tom's Guide
-  domain: tomsguide.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: /assets/images/organizations/bloomberg.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Robotics
-
-images:
-  - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
-    width: 700
-    height: 393
-    title: "Ballie is Samsung's cute and creepy smart home robot"
 
 related:
   - title: "Samsung unveils tiny robot Ballie that follows users around and acts as their personal AI assistant"
@@ -41,15 +36,21 @@ related:
       - url: https://i.dailymail.co.uk/1s/2020/01/07/05/23089022-0-image-a-111_1578376235410.jpg
         width: 636
         height: 382
-  - title: "Samsung Looks Beyond AI With Artificial Humans"
-    excerpt: "Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real world -- would ..."
-    publishedDateTime: 2020-01-07T07:00:00Z
-    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-07/samsung-looks-beyond-ai-with-neon-artificial-humans
+  - title: "Ballie is Samsung's cute and creepy smart home robot"
+    excerpt: "Artificial intelligence will be at the heart of a lot of Ballie's functionality, though Samsung executives stressed during the keynote that it's on-device AI that Ballie won't share with others. We still have a lot of questions about just what Samsung has planned for Ballie, including what this robot will cost and when it will be available."
+    publishedDateTime: 2020-01-07T04:04:00Z
+    sourceUrl: https://www.tomsguide.com/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
+    ampUrl: https://www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 47
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
+        width: 700
+        height: 393
   - title: "Samsung unveils AI-powered digital avatar"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
     publishedDateTime: 2020-01-07T07:46:00Z
@@ -77,6 +78,6 @@ related:
         width: 700
         height: 367
 
-secured: "GdZ43YtGsACHizTCaHddz+Kc4AyScUE06OAyl4O3XUdQyOuBzEFNfN6VETswZTR6sy4m/S8/p5MI571U38uanOOR8Sfb+qH8G0Y7AbeMgOLuoiS/seubjyw+H9idM0KLtflvGgTt0KNTxPZEpiQyTmNDxhdDlHg7NfAJPHpJGUDXBdYog1ZfJHZX+FgQwR6jQmZlsYp/WFYZkym0YrbpkKQTbYRR0Haw0/9wg4Un9rtrkAP2MchpRo4z14sc2dZJBTz5ckgR9lhDqcDkW2L72g==;ny6EFssVbd2gcxU3pXyAqw=="
+secured: "rhsW8bPJdH3zjpB6hPpcuLRjwhl+UA6VqXQKpPtn8P9nuEotT8xgPnsGoOOFcYPv9Lthq9kIgKcpXR776PVFR+1OZICiM08rkoP3r5GauWOmPKYUXX7PbjpSKGxR+fQ3bZpEAe4DAvfCSoxrsXg1d8b6NucDGtV4u4LTMmHe3qTWEoVqc7cZL01SZvOmosXaRfjevOa3+Vzuby3ain/sYdrUI8cG28LgrwlErehdg1H7lBVgGUfJF3skW7crIosnrzqg8RBkTdul2SEAE4CXCg==;Dsq6Mn+nFahZRKUM0cQhyg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tin
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
 type: article
 quality: 60
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -41,6 +41,28 @@ related:
       - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
         width: 700
         height: 393
+  - title: "Samsung Looks Beyond AI With Artificial Humans"
+    excerpt: "Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real world -- would ..."
+    publishedDateTime: 2020-01-07T07:00:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-07/samsung-looks-beyond-ai-with-neon-artificial-humans
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 47
+  - title: "Samsung unveils AI-powered digital avatar"
+    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
+    publishedDateTime: 2020-01-07T07:46:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
+    type: article
+    provider:
+      name: AFP on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.E8B467430191CBA82C49541613AA4DBE
+        width: 600
+        height: 315
   - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
     excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
     publishedDateTime: 2020-01-07T05:08:41Z

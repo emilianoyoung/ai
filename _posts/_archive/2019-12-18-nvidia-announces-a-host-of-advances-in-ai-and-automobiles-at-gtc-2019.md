@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
-excerpt: "Nvidia is looking to extend its lead as an AI company by improving its image recognition, language recognition, and decision-making platforms, as well as a new chip for autonomous vehicles. The GPU Technology Conference is one of the biggest conferences around AI each year. At the ongoing GTC 2019 China, Nvidia held a keynote to emphasize the ..."
+excerpt: "Baidu, which is China’s most prominent company in the field of AI ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote. When asked about specific timelines around the public availability for autonomous vehicles ..."
 publishedDateTime: 2019-12-18T07:28:00Z
 sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
   name: TechRadar
@@ -21,8 +21,13 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.8CF4C4AFCA9D86B6870DBC94E3D0C75D
+    width: 700
+    height: 393
+    title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
 
 related:
   - title: "Nvidia Announces New Orin Auto AI Processor"
@@ -40,21 +45,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
         width: 950
         height: 536
-  - title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
-    excerpt: "NVIDIA’s Xavier chip was used in a multi-processor configuration and paired with GPUs in their DRIVE PX Pegasus self-driving computer, which NVIDIA claimed at the time would be able to offer level 5 autonomous driving. The Orin chip will be capable of scaling from level 2 to level 5 autonomous driving. It will be available to automakers ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/
-    ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
-        width: 2000
-        height: 1000
   - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
     excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
     publishedDateTime: 2019-12-18T14:49:00Z
@@ -70,6 +60,19 @@ related:
       - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
         width: 708
         height: 425
+  - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
+    excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
+    publishedDateTime: 2019-12-23T13:54:00Z
+    sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
+        width: 600
+        height: 315
   - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
     excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
     publishedDateTime: 2019-12-18T20:48:00Z
@@ -83,7 +86,20 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
         width: 620
         height: 465
+  - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
+    excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
+    publishedDateTime: 2019-12-25T06:38:00Z
+    sourceUrl: https://analyticsindiamag.com/top-players-autonomous-delivery-vehicles-sector-2019/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.ADF1C0D6AF294B0F9C2C687AC95AABB7
+        width: 700
+        height: 393
 
-secured: "JnjlzIKe+hvCwbXIn14AinsVneE0iXo3zjV8w8aDDUXV/BpznuBvLOC4hGQ025uVd1fYjKVer40HNTnJsE1ZWyF+Al9vz2+fjwjLNzCJdXIyT/6km3lX2OfgW511IBL3UTEmMuZw1lcoRvSRq5JJORx8wfCEyd1OtZ5nVQqVInH6gQQc+S/lPjRadMsWr/D/RIlLMG8tVuhclY9F0PbMYa8Nec5yTZY+Aih7DWkZZGxzsymKLV3RBc12uy2ogG8dqQjBB95JVft8FCkCTMsAMA==;JEs3z8dg1cRJ/MBFqL5NtA=="
+secured: "YKaLc3s+KZOml56yxjh+IcG3r/iSUsU34G2GxDKO/1mySWAWarg1R3mC5OXX8SYKySUWos+rl2ya2mJLdo7igXhjR/aTxVO9wYUcTf44PVp+Lij+AZBlmweD3iZTsRz9eEiAy1K5QI1HQhwL888cm4Fu5gbM1wAGMI/SSOwryMs79kq+jkGoWVRSKPiLXAHqkIxVC7L4k3oVh50uIh/VDgrc0QI86hFyGC0YNyxNngTDL2OZs6wynP8NavF/54ZHradRK73Oiu4MjdM5dpKvuw==;JwzOHc9rDJa6cYDhmHMkAg=="
 ---
 

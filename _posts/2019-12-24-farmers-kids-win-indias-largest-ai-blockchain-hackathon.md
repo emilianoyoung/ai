@@ -8,8 +8,8 @@ ampUrl: https://m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-bl
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP_amp.html
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: Hindustan Times
@@ -24,21 +24,6 @@ images:
     width: 700
     height: 393
     title: "Farmers’ kids win India’s largest AI, Blockchain hackathon"
-
-related:
-  - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-    excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
-    publishedDateTime: 2019-12-23T13:54:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
-        width: 600
-        height: 315
 
 secured: "iFrcp4GCcCb8gtNRpghHLkFSX86vMMLYrzUJoX3PFQMKzEHoh0yVrYDF48f156l2t0uuSmDOBvUZd6qZwdZym0n8292Q7U+rbgazydMx71ilMHgQvlZcbCZzpjBoiAhGR8NUC5QD8YZ+HjhIiRyeb+zuQbBxg6qzMhEJX4nD2hxPmVtopD1OVbdCqrtmrE7Lq5QIbPjxpc/4+sn91FtFX02PHk5/MTKUPzDw8govNSRpxDhxx4AACO4rwc8Src54bdJkvvrAMSwzkeBxo6jxkg==;FtjpLIK7BpxkiLJlnKh7lg=="
 ---

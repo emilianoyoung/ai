@@ -33,6 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
+  - title: "Samsung introduces AI-powered ‘artificial human’"
+    excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
+    publishedDateTime: 2020-01-07T08:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-introduces-ai-powered-e2-80-98artificial-human-e2-80-99/ar-BBYGTGd
+    type: article
+    provider:
+      name: The Statesman on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
+        width: 700
+        height: 367
 
 secured: "2+b6fhGgNRP36W9lIlkOtJcc5Y0JYDlT7ijqqsbnTjVjaz9Kh1NE2zSjU01RDJc+oHvLgNCfDG7yqQFTUy/qb6IWVs6UAb5p0rcOF812I9K84Z2am9tM2xPaGgP7Y6WGzlxnrE0FHf5Gz+woKcPompYxzkZRzE75q+Z6MtBjEhcA48nuLL53mY5ynr0j/oSSSjlSwzYg0Ds/GiUM4R2VsKw33O/yFDk2e4dGy15Sw8peX4PgSXKH2fuVHSWBxJxSkrXH6iKwDyJUCrlqTlOpuw==;88IPWGJoDYTXhFJTk6IGDQ=="
 ---

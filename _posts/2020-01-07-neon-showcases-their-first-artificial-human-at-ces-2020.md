@@ -26,6 +26,19 @@ images:
     title: "NEON showcases their first Artificial Human at CES 2020"
 
 related:
+  - title: "Samsung introduces AI-powered ‘artificial human’"
+    excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
+    publishedDateTime: 2020-01-07T08:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-introduces-ai-powered-e2-80-98artificial-human-e2-80-99/ar-BBYGTGd
+    type: article
+    provider:
+      name: The Statesman on MSN.com
+      domain: msn.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
+        width: 700
+        height: 367
   - title: "Synaptics to Showcase New Human Machine Interface Innovations at CES 2020"
     excerpt: "integrated AI, voice, active noise cancellation (ANC) and much more. High-performance USB-C wired solutions will also be on display. In the AR/VR space, Synaptics will demonstrate a complete end-to-end GPU to display pixel VR experience. This will include an LG V50S smartphone (powered by our OLED touch & display ICs), tethered via USB-C to a ..."
     publishedDateTime: 2020-01-06T13:00:00Z

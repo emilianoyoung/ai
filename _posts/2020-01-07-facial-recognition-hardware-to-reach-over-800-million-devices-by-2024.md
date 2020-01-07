@@ -1,32 +1,27 @@
 ---
 category: news
-title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
-excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
-publishedDateTime: 2020-01-03T14:00:00Z
-sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
-ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+title: "Facial recognition hardware to reach over 800 million devices by 2024"
+excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
+publishedDateTime: 2020-01-07T08:30:00Z
+sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
 type: article
-quality: 71
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Help Net Security
+  domain: helpnetsecurity.com
 
 topics:
   - AI
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+  - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
     width: 700
-    height: 350
-    title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    height: 401
+    title: "Facial recognition hardware to reach over 800 million devices by 2024"
 
 related:
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
@@ -59,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
         width: 600
         height: 315
+  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
+    publishedDateTime: 2020-01-03T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
+    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+        width: 700
+        height: 350
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
@@ -173,19 +183,6 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
-  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
-    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
-    publishedDateTime: 2020-01-07T08:30:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
-        width: 700
-        height: 401
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z
@@ -248,6 +245,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "65unP3iVoAA+Ls2vsAQsjfv+3EGGt1PL5XRFpcQPj7BzOngOGz/AE/dcxydxZF5p/4uld4loFQO2IUfxvrbfRHCUPHBzSLr+NGb2JV1pYf7D0vWvqae7rQ9WxyjjQGzIOMzSH3+OZ7T4H6zYrRdZliCVJtfvMvxk+c9hKdmQxUTvymCRAdL1/78uUxvzsQRpvdf8iAdKItFBeCkdsVhjpxG9ZKXbI2AsqvaETF7DZ2wRnJ5ava5zcMqXq1yj4mRd9Ae8mmfRX26aMk7t3jZetg==;N0a4+gaYeQw4eUounydUJw=="
+secured: "D75HQzXTJlGds0OMU0YqDsfBuwFm00pNOlcJSHB1JKp9SMDCmfsPwFaop/MzOs1iWXs3PQGW5skJqPJbjbor5zwzNWgtqrhKFVpjHaHLbrtggvEjDdte0OBz0trLATyrv1Z1LDXzz9tu5r30WPx8p2WvdLyxBUm4g5kTKr3qku/BLmk51PDtYelSsMDxn1duy6G4Xe9eaDX9KOvWZ4zD0OWcagcl4ZKPgzBs5ZjatDYmPv/5WHS6g9YU2ElDGDI8putb73lWGNeyUhG2NUqqKg==;VDCfFJi/JSFzDgqOtEZRow=="
 ---
 

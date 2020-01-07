@@ -24,43 +24,49 @@ images:
     title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
 
 related:
-  - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
-    excerpt: "Nvidia shares are set to open at a fresh all-time high Wednesday after unveiling three key chip deals with some of China's biggest tech giants. “Developing safe autonomous vehicles requires end-to-end AI, in the cloud and in the car,” said Nvidia's Rishi Dhall. “Nvidia AI will enable DiDi to develop safer, more efficient transportation ..."
-    publishedDateTime: 2019-12-18T11:51:00Z
-    sourceUrl: https://www.thestreet.com/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    ampUrl: https://www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
+  - title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
+    excerpt: "NVIDIA’s Xavier chip was used in a multi-processor configuration and paired with GPUs in their DRIVE PX Pegasus self-driving computer, which NVIDIA claimed at the time would be able to offer level 5 autonomous driving. The Orin chip will be capable of scaling from level 2 to level 5 autonomous driving. It will be available to automakers ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/
+    ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 46
-  - title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
-    excerpt: "To train these DNNs, DiDi will use NVIDIA GPU data center servers. For cloud computing, DiDi will also build an AI infrastructure and launch virtual GPU (vGPU) cloud servers for computing, rendering and gaming. DiDi Cloud will adopt a new vGPU license mode to provide users with better experiences, richer application scenarios and more efficient ..."
-    publishedDateTime: 2019-12-19T00:09:00Z
-    sourceUrl: https://www.autoconnectedcar.com/2019/12/nvidia-drives-agx-orin-opens-nvidia-gpu-cloud-teamss-with-didi/
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
+      name: Electrek
+      domain: electrek.co
+    quality: 86
     images:
-      - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/12/NVIDIAOrin-jpg.jpg
+      - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
         width: 2000
-        height: 1500
-  - title: "Nvidia secures chip deal with Didi Chuxing"
-    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
+        height: 1000
+  - title: "Self-driving cars: A decade of hype, but what's the reality?"
+    excerpt: "The calendar will soon turn to 2020, and you can be forgiven if you're wondering where your self-driving car is. A decade of hype and bold predictions is coming to a quiet end. Automakers and tech companies have promised a transportation utopia, and invested billions to try to make it so. Tesla's Elon Musk talked of autonomous cross-country ..."
+    publishedDateTime: 2019-12-18T18:18:00Z
+    sourceUrl: https://www.ctvnews.ca/autos/self-driving-cars-a-decade-of-hype-but-what-s-the-reality-1.4735578
+    ampUrl: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
+    cdnAmpUrl: https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2019/12/18/1_4735578.html
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: https://beta.ctvnews.ca/national/autos/2019/12/18/1_4735578/_jcr_content/root/responsivegrid/image.coreimg.jpg
+        width: 620
+        height: 348
+  - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
+    excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
+    publishedDateTime: 2019-12-22T13:06:00Z
+    sourceUrl: https://www.caradvice.com.au/815243/world-cup-volkswagen-self-driving-shuttles/
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
     quality: 24
     images:
-      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
-        width: 800
-        height: 600
+      - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
+        width: 700
+        height: 364
 
 secured: "tgIbJ9LOGKOSc60cGAe1W1qF8QrfIyILO5JWTy44WHPJujXKUbrbcygQSMXrtPb6lsFEdRjKL7j90r6/G5HfU0Ir2sqcoYBAez1VyKMSQ41ddo/rnor5EJrn4AwBy4X3rsliShdgC8JXSnUmHFLzueVQbAHDmU5mEhUhrcxHq0hAsdoF70wM9QJKCFdL13gOMEXwDibDcMROoY4Y2bJAw+q9AL3LswWOm9md01og47QF7SrsUxJDOcMesZ4mlUKzxV0/katWKfnZSO+C1t0cMw==;GysvpDD22G/NDr+o61J3eA=="
 ---

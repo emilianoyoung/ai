@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-reco
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 153
-heat: 303
+heat: 313
 published: true
 
 provider:
@@ -170,6 +170,19 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
+  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
+    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
+    publishedDateTime: 2020-01-07T08:30:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
+        width: 700
+        height: 401
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z

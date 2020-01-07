@@ -29,6 +29,6 @@ images:
     height: 763
     title: "Artificial Stupidity Could Be The Crux To AI And Achieving True Self-Driving Cars"
 
-secured: "lXqIuBkdXWtmSW9YXolaLo5Kt5nZ5+ADOUm+zraKwyQaPKe/446BbspnxL+5ILnp8vdrsEOE/ilQ6dVq6CwZp8RSM8ZiJ7yg/+ad/AFgSVt41EWaE/hJ2+emZugiVYlEnSBcG+GmoK4cBa5Xv/w0Gcophqid1hwrCo9d+Hs1+//1is1MrWqc4nDHeEbXKPgX2/kAu+V5wlDH5Nq9NhX3zR/89HpYy/IBSJuS0s+I8BemC+y4apk502tTpFVclpJt9bTS6rxDFEqcRxHzPjdnvQ==;1fTfc+jq5FOv958Tktpx6w=="
+secured: "lgD0em62jrFXevYCVWo1NdUQ5UeWz84gWQ6vpPL1UMPwzSzQehksY9jAHileBCldaKSuWvSF8FvSve4GXuZA9KzYTZMh2d2w8sdi8yIY42jxDHG+vgUSubrUea1xzvHZdrPWA/57uMMFejCsfue5HtUOQJj86/yvTC4quzj4Liuu+bhQ3dqRvNt45Vj7L5i3mwXl4LRgPDfs3wxjlUhd1H/OnsDgawR852xMDKIqvKX9gii2ueKgVEGPk/LhfkUdM9xw76dUrR0OkmhiGv4e1A==;W7zdXx8uyAkMSGdZ/oKqVw=="
 ---
 

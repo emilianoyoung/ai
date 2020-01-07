@@ -183,6 +183,19 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
+  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
+    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
+    publishedDateTime: 2020-01-07T08:30:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
+        width: 700
+        height: 401
   - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
     excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Photo: Celestron Image recognition is a technology that already powers multi-million dollar research observatories using telescopes that are able to ..."
     publishedDateTime: 2020-01-06T13:16:00Z
