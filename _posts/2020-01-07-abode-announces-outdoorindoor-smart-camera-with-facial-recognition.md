@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D05A8810DF759FE6D7EAC41012248B7E
         width: 700
         height: 350
+  - title: "Transmission System Operator Uses AI to Reduce Costs"
+    excerpt: "This type of energy is often produced far away from where it is eventually needed and has to travel long distances. An artificial neural network allows 50Hertz now to calculate the estimated grid losses for the next day. This calculation results in lower costs for the additional energy that 50Hertz has to purchase on the market. 50Hertz spent ..."
+    publishedDateTime: 2020-01-07T03:54:00Z
+    sourceUrl: https://www.tdworld.com/test-and-measurement/article/21119870/transmission-system-operator-uses-artificial-intelligence-to-reduce-costs
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C857DE4FBA6ED1C65EEF0D1DFAC71754
+        width: 700
+        height: 466
 
 secured: "QqpUggTlC8MBH/CJFHXVzSugNyPDN6a/ZbnNgHk/UPiybrYpWqno3sK4Z4KHPhKKcH0/TgkeCDNbjHFTz+crBqRxeoiGI6nF1+cuI+POfTkPc6excWrbyDyx6BY9HiNupo6+YauLQCQBt2eIBN29GhMIlhyUhFxH8tM0gjxQWpGvkotwNieSU9EQBn7/n0jIr1Nw0xsSyC7+RKznvhjHu6X+53wbRTFKEZxQMSXJmOqzs672SS/sYiDKgiIp2e6dnuJ1wIOSRfv5KRj5wGR+OA==;6zLzNbOVwHaYqVSBL3HQ2Q=="
 ---

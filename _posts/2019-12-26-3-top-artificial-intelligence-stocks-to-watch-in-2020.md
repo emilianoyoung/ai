@@ -8,7 +8,7 @@ ampUrl: https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-
 cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-watch-in-2020-2019-12-26?amp
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "3 Top Artificial Intelligence Stocks to Watch in 2020"
 
 related:
+  - title: "5 Artificial Intelligence Stocks to Consider"
+    excerpt: "The company’s Waymo unit could be worth as much as $175 billion ... That puts it at the top of the heap among artificial intelligence stocks. Nvidia (NASDAQ:NVDA) is the pioneer of GPUs (Graphics Processing Units), which are chips that process large ..."
+    publishedDateTime: 2019-12-23T15:02:00Z
+    sourceUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/
+    ampUrl: https://investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2019/12/5-artificial-intelligence-stocks-to-consider/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: https://investorplace.com/wp-content/uploads/2019/07/ai1600d.jpg
+        width: 1600
+        height: 900
   - title: "Five Things to Watch in European Health-Care Stocks for 2020"
     excerpt: "Health care has long been a key point of contention in U.S. elections and 2020’s ... R&D “remains paramount” with innovation -- driven by expansion in artificial intelligence, connectivity, and robotics -- becoming increasingly relevant, she said. Clive sees Royal Philips NV and Siemens Healthineers AG as leaders in artificial ..."
     publishedDateTime: 2019-12-23T07:30:00Z

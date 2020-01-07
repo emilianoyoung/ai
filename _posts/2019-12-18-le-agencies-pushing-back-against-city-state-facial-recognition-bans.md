@@ -529,19 +529,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
         width: 645
         height: 363
-  - title: "Wear a Mask, Bypass Facial Recognition at Airports!"
-    excerpt: "Then there was also the infamous story of how Google’s AI mistook a turtle for a rifle! With reports of how AI could reproduce another person’s fingerprints and reports of how scientists have been able to subvert voice recognition using laser rays, it appears as though biometrics too cannot secure our digital data. Does it mean that we go ..."
-    publishedDateTime: 2019-12-18T02:44:00Z
-    sourceUrl: https://www.techtree.com/content/news/13958/wear-mask-bypass-facial-recognition-airports.html
-    type: article
-    provider:
-      name: Techtree
-      domain: techtree.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.285F14C2C816FA3FE4F40A0FB258AAEB
-        width: 100
-        height: 100
   - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
     excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
     publishedDateTime: 2019-12-19T19:12:00Z
@@ -688,19 +675,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Facial recognition for hotel guests may suffer customer backlash"
-    excerpt: "Singapore recently launched a new initiative, the E-Visitor Authentication (EVA) System, to enable faster verification of guests’ stay validity, that will also facilitate a seamless hotel check-in experience for guests by using facial recognition technology. The system can be used on a mobile app or a kiosk in the hotel that will scan the ..."
-    publishedDateTime: 2019-12-18T02:53:00Z
-    sourceUrl: https://www.nyoooz.com/features/technology/facial-recognition-for-hotel-guests-may-suffer-customer-backlash.html/3023/
-    type: article
-    provider:
-      name: nyoooz.com
-      domain: nyoooz.com
-    quality: 39
-    images:
-      - url: https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Canva-Hotel-Reception-with-Bell.jpg
-        width: 530
-        height: 360
   - title: "Lawmakers seek answers on HUD's use of facial recognition"
     excerpt: "Eight Democratic lawmakers, including noted privacy hawk Sen. Ron Wyden (D-Ore.) are seeking answers from Housing and Urban Development Secretary Ben Carson about the use of facial recognition technology in public housing properties subsidized by HUD. In a Dec. 18 letter, the lawmakers are seeking a breakdown of public housing and subsidized ..."
     publishedDateTime: 2019-12-18T21:19:00Z

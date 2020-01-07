@@ -85,6 +85,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intel confirms 'Tiger Lake' is the next Intel Core processor you need to care about"
+    excerpt: "Melissa Riofrio/IDG Intel unveiled DG1, its first discrete GPU for consumers, at its press conference January 6 at CES in Las Vegas ... The theme was “Innovation through Intelligence,” representing the addition of AI from the edge to the cloud. Intel chief executive Bob Swan walked through a series of announcements focusing on the enterprise."
+    publishedDateTime: 2020-01-07T03:23:00Z
+    sourceUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.html
+    ampUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
+    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 48
   - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
     excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
     publishedDateTime: 2020-01-06T16:28:00Z

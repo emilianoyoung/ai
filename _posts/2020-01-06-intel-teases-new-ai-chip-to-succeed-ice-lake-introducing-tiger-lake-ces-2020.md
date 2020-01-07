@@ -26,21 +26,36 @@ images:
     title: "Intel teases new AI chip to succeed Ice Lake – introducing Tiger Lake | CES 2020"
 
 related:
-  - title: "Cooper Lake will deliver a 60% increase in AI inferencing and training performance"
-    excerpt: "(Bfloat16 was originally by Google and implemented in its third generation Tensor Processing Unit, a custom-designed AI accelerator chip.) By way of refresher, Cooper Lake features up to 56 processor cores per socket, or twice the processor core count of Intel’s second-gen Scalable Xeon chips. They’ll also have higher memory bandwidth ..."
-    publishedDateTime: 2020-01-07T00:55:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/cooper-lake-will-deliver-a-60-increase-in-ai-inferencing-and-training-performance/
-    ampUrl: https://venturebeat.com/2020/01/06/cooper-lake-will-deliver-a-60-increase-in-ai-inferencing-and-training-performance/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/cooper-lake-will-deliver-a-60-increase-in-ai-inferencing-and-training-performance/amp/
+  - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
+    excerpt: "Built on Intel's 10nm+ process, Tiger Lake boasts optimisations \"spanning the CPU, AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ..."
+    publishedDateTime: 2020-01-07T03:00:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.D92FF4C3A2D4254B2D26812CF1CE17F5
+      - url: https://www.bing.com/th?id=ON.10388434D2C71467F7152E6F748CE936
         width: 700
-        height: 350
+        height: 525
+  - title: "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing"
+    excerpt: "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 on a laptop. Other Tiger Lake laptops will include the next-generation \"Xe\" integrated ..."
+    publishedDateTime: 2020-01-07T03:58:00Z
+    sourceUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph
+    ampUrl: https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
+    cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.4288BE7E71AFA3E8A6D33EC8133362BE
+        width: 700
+        height: 393
   - title: "Intel teases new AI chip to succeed Ice Lake at CES 2020 – introducing Tiger Lake"
     excerpt: "Intel has teased its second-generation AI chip at CES 2020. The new chip is called Tiger Lake and is looking to take Intel’s AI chops to the next level. Tiger Lake improved AI engines for enhanced performance across the board. There’s DL Boost for managing complex AI workloads along with low power accelerators. Possibly the most notable ..."
     publishedDateTime: 2020-01-06T05:01:00Z
@@ -56,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.EDF352B768ED032229E32BF1C844E0AE
         width: 700
         height: 525
+  - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
+    excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
+    publishedDateTime: 2020-01-07T01:49:00Z
+    sourceUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance
+    ampUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
+    cdnAmpUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
+        width: 700
+        height: 393
 
 secured: "bb+2+45dxdATvMq0S8uapKwoqA3aj5to7MHeaSJS4ysUTuzE10Y2xOz0NrEicrVNWUJfskCPJ3hoRjTUO06HXxXC6LhzsK9A6qXcOH2xNnGHm2ehpEJjA6VCLf8hMq2Gk52LUCCPFl+VyIoLxQa6al/vrlGvEItPMFS36zDVJO8iVGJ7tciZaPjvXBzL8XcsmUlwF1JML2K6tRqVyLbTD13R+HzaoPE1CqA0eRgQd7k1kO9Eeke1wDujaGo0JHqNOPARQk6Pwf3Q7QqH8Sz5cA==;bDi2ADvk+RZl1F0MLfAEYQ=="
 ---

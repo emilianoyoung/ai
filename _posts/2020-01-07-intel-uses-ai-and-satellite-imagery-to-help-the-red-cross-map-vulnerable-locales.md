@@ -74,6 +74,19 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/abode-outdoor-indoor-smart-camera-hero.png
         width: 1919
         height: 920
+  - title: "Transmission System Operator Uses AI to Reduce Costs"
+    excerpt: "This type of energy is often produced far away from where it is eventually needed and has to travel long distances. An artificial neural network allows 50Hertz now to calculate the estimated grid losses for the next day. This calculation results in lower costs for the additional energy that 50Hertz has to purchase on the market. 50Hertz spent ..."
+    publishedDateTime: 2020-01-07T03:54:00Z
+    sourceUrl: https://www.tdworld.com/test-and-measurement/article/21119870/transmission-system-operator-uses-artificial-intelligence-to-reduce-costs
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C857DE4FBA6ED1C65EEF0D1DFAC71754
+        width: 700
+        height: 466
 
 secured: "0XM/5CYMVZ/PAxyybhuYknIwQSZ69TAif9ge7LKec+cL3Nu/XMVRLubD/PjyebBb4ain//7jlEDG9ShGce1qSA08rLaLGNjkgDEE3dVfMOrdgMdrvx4yAM9tdjRddMPFcjHqceSvDpyrMHptPP/xP4dB0ZJUKqYmBUrnvprE5ZL8IIWq/W0WaNQ+6nH/veYWEBBzaDf1UVd+CTwJNZHq5lYNQjbYUWhuUQyDFmwgFh6ZwoUMdi5u6Oajytcpw5mEjz6tDZpwqvnPDKAD++6FfA==;K1e2TepmzNKaHp7MJq+fbQ=="
 ---

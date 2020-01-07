@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Why Silicon Valley has its sights set on the UK as its European driverless car hub"
-excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field - building sufficiently intelligent ‘brains’ for driverless cars so they are smart enough to make ..."
+excerpt: "Software, simulations and artificial intelligence are seen as increasingly vital to the future of safer autonomous vehicles. And it is this field – building sufficiently intelligent \"brains\" for driverless cars so they are smart enough to make decisi ..."
 publishedDateTime: 2019-12-17T07:07:00Z
 sourceUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/
 ampUrl: https://www.telegraph.co.uk/technology/2019/12/17/silicon-valley-has-sights-set-uk-european-driverless-car-hub/amp/
@@ -34,6 +34,6 @@ related:
         width: 1280
         height: 799
 
-secured: "vIyLcVODwtlSf9nqie4AAive9AzbE82rKVDRdRupu5VvkP3N4Ara1oHR+YQs0EP4nxhMECl+xm8plQwXIh6jEa1Pd03DWyWBmWVOwuUXQy7lUdKbebieSqpvnX7i8aYamuBnLOc3VCUgQ9+4Wdpe8o+LS/7CJc5kF4aRTjrILPGVU+K+REoELBTb+YxDX3z+Blom6mMQGqdYM8qpFEnglEclCySP5tBMwOoUjeVqGPOBXQy7SflS2VeHCrblHM5pZktNAieflPuLUQ8ZO4boXw==;7aPSWxe7VdHwiNF6q9W7HQ=="
+secured: "ee0uEaYQgeTZz8ayGPzLBfLBZDLQdE0cgU+DyV5wL2M2tPmLvvHOGtJluHSVOZf2/iLp6Zi0zIei7+fxQosrzIGRZo9Ak2qZF9rWucba+WI/oPClnAoDsgz+YLRbSlJSWy2ucclZEa8B1ncexipoWKvnwF5dqaj4eQ6XHzuZLkX8ht+OZqXD8Y8EEB44SXqVf3APBNzq7MR6mmbF6c3US2rS8F0uit/S3hXxob5tqCIpoEAQQNXa7/pU8FjIoQv40XJskwlEFmlgz3LACFtyPQ==;DvBlIXllkGlOsAoJ8wb8/A=="
 ---
 

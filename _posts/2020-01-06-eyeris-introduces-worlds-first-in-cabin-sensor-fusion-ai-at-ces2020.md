@@ -2,27 +2,21 @@
 category: news
 title: "Eyeris Introduces World's First In-Cabin Sensor Fusion AI at CES2020"
 excerpt: "\"To increase understanding of the in-cabin space even further than we have achieved with vision, Eyeris has fused different sensor technologies and inferenced its DNNs on AI chips from multiple hardware partners. This provides real-time edge processing efficiently and effectively while keeping power at a minimum. Real-time in-cabin data ..."
-publishedDateTime: 2020-01-06T12:17:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/eyeris-introduces-worlds-first-in-cabin-sensor-fusion-ai-at-ces2020-300981567.html
+publishedDateTime: 2020-01-06T15:00:00Z
+sourceUrl: https://www.autoblog.com/press-releases/eyeris-introduces-worlds-first-in-cabin-sensor-fusion-ai-at-ces2020_21693/
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
   - AI Hardware
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Eyeris Introduces World's First In-Cabin Sensor Fusion AI at CES2020"
-
-secured: "pdZTwSNUTbl+nNfImEnaXMFwzXT4x/55CjdDdoDJos4FHe9LS2RJXcm/k79kFjHIN1wZudaHxiG4W5jJIKmNFiC1CTfuIWcqjNaq9h2eT9jpop3WjQDWUI7pKubpg+XPmh0edUHxJWQbHQq3CNsodKWJqy7p2jYO29cnK6+0wS3KXOvEbtairRLC0jj+hivTB3TfM9wRtz/UkMKP8EGxgHd59QYYXQ+lsEXIFfv+hFYUoeqDFsKULNzOiv8p/sgTUXLMQkW84nkUppWpCWF4/Q==;26sZHHaZ6ijw8O9v/sG1cw=="
+secured: "wXKJnHURx1gG07wj9Ws1D5J+t8u3MDmlCvxFDRUnKj1NAhL/4YvNgD2LENTv0byvldjc9a4N8dk2KyG9O6NaIC4wLewC2g4Bq89CQ0beKXnbvr5baB+/3UAqWsB5fSni7hEzLp9rZxNOAOfE9f164p7gI/q91dozKroqSWdzPWv2iOCirUqZ7kMxPYC5+L84+a2ApcUhKPRBViHx3g9UrCLJLTgXKLupKYGp8Udy476HVbqto4hq1ydLVhIrY3/AqcmEdxH89HTGSVuNL04cbg==;VqzM/KnwugBPzNwU1e//5g=="
 ---
 

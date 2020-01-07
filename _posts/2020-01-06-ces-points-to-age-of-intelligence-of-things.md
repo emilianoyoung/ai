@@ -84,6 +84,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intel confirms 'Tiger Lake' is the next Intel Core processor you need to care about"
+    excerpt: "Melissa Riofrio/IDG Intel unveiled DG1, its first discrete GPU for consumers, at its press conference January 6 at CES in Las Vegas ... The theme was “Innovation through Intelligence,” representing the addition of AI from the edge to the cloud. Intel chief executive Bob Swan walked through a series of announcements focusing on the enterprise."
+    publishedDateTime: 2020-01-07T03:23:00Z
+    sourceUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.html
+    ampUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
+    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 48
   - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
     publishedDateTime: 2020-01-06T17:45:00Z

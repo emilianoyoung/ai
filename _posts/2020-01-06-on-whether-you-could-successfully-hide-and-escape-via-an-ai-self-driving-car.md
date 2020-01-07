@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/06/on-whether-you-could-successfully-hide-and-escape-via-an-ai-self-driving-car/amp/
 type: article
 quality: 86
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -120,21 +120,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
         width: 700
         height: 525
-  - title: "Audi announces a new 'empathetic' self-driving car at CES nicknamed 'Amy'"
-    excerpt: "This week at CES in Las Vegas, Audi gave hands-on demonstrations of its newest concept car, a self-driving vehicle called AI:Me, or ‘Amy.’ The German luxury car manufacturer describes AI:Me as an ‘empathetic mobility partner’ that will transport passengers into ‘an oasis of calm’ while the car’s autonomous navigation system cuts ..."
-    publishedDateTime: 2020-01-07T01:24:00Z
-    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7858825/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
-    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7858825/amp/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7858825/amp/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.A71C2928872CF0B7FADF2360D145F93A
-        width: 636
-        height: 382
   - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
     excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
     publishedDateTime: 2020-01-06T22:23:00Z

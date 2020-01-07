@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recogn
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -74,6 +74,19 @@ related:
       - url: https://www.androidpolice.com/wp-content/uploads/2020/01/abode-outdoor-indoor-smart-camera-hero.png
         width: 1919
         height: 920
+  - title: "Transmission System Operator Uses AI to Reduce Costs"
+    excerpt: "This type of energy is often produced far away from where it is eventually needed and has to travel long distances. An artificial neural network allows 50Hertz now to calculate the estimated grid losses for the next day. This calculation results in lower costs for the additional energy that 50Hertz has to purchase on the market. 50Hertz spent ..."
+    publishedDateTime: 2020-01-07T03:54:00Z
+    sourceUrl: https://www.tdworld.com/test-and-measurement/article/21119870/transmission-system-operator-uses-artificial-intelligence-to-reduce-costs
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C857DE4FBA6ED1C65EEF0D1DFAC71754
+        width: 700
+        height: 466
 
 secured: "bp0qzoF9EGNUwAFEg/JR0AINlst98b8E6/V73CAsDoLj6mx978ASZkpfOAwj6rlyg1QiXLBQGKvhYs0YkyER/ifDmUsJLl8Fopp2r390CucBjtuc0TkoHsbNYV5oYo6OmpL+Sh5QfR89cqn7ZJM7yWdtGZJ2LO/YN8/NUSRuriUp8seSbeyRoFKrCymxsfnJMn4mDbzl9nsngzSxSjgi91+xhZcJ+xK9rhNk9lPlR7SGHXJXiNL/CYO4ble/zMiSe9aPdhXyZj/X60rIqY1yjg==;hKMPYuyoPBmJxjHTq6ktkw=="
 ---
