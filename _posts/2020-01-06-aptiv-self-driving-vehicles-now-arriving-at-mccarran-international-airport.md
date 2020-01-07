@@ -99,6 +99,21 @@ related:
       - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
         width: 700
         height: 233
+  - title: "Audi announces a new 'empathetic' self-driving car at CES nicknamed 'Amy'"
+    excerpt: "This week at CES in Las Vegas, Audi gave hands-on demonstrations of its newest concept car, a self-driving vehicle called AI:Me, or ‘Amy.’ The German luxury car manufacturer describes AI:Me as an ‘empathetic mobility partner’ that will transport passengers into ‘an oasis of calm’ while the car’s autonomous navigation system cuts ..."
+    publishedDateTime: 2020-01-07T01:24:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7858825/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7858825/amp/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7858825/amp/Audi-announces-new-empathetic-self-driving-car-CES-nicknamed-Amy.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.A71C2928872CF0B7FADF2360D145F93A
+        width: 636
+        height: 382
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

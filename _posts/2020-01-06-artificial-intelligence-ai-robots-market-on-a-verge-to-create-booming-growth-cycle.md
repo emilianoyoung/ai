@@ -98,6 +98,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
+    excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
+    publishedDateTime: 2020-01-07T00:24:00Z
+    sourceUrl: https://www.autonews.com/ces/intel-ceo-emphasizes-innovation-through-intelligence-ces
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
+        width: 700
+        height: 525
   - title: "CES points to age of “Intelligence of Things”"
     excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
     publishedDateTime: 2020-01-06T07:04:00Z

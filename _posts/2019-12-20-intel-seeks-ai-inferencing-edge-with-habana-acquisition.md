@@ -24,19 +24,17 @@ images:
     title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
 
 related:
-  - title: "Intel buys AI chipmaker Habana for $2 billion"
-    excerpt: "In July, Habana announced its Gaudi AI training processor, which the Tel Aviv startup promised was capable of beating GPU-based systems by 4x. The company has been rumored to be a target for an Intel acquisition for a while now, as Intel looks to get out ..."
-    publishedDateTime: 2019-12-16T21:41:00Z
-    sourceUrl: https://ca.news.yahoo.com/intel-buys-ai-chipmaker-habana-150356967.html
+  - title: "Deep Learning Software vs. Hardware: NVIDIA releases TensorRT 7 inference software, Intel acquires Habana Labs"
+    excerpt: "TensorRT is inference software developers can use to deliver applications utilizing trained deep learning models. In machine learning (which deep learning is a branch of), there are 2 key parts in developing applications. The first part is training a model based on existing data, which is the equivalent of developing software in traditional ..."
+    publishedDateTime: 2019-12-18T14:50:00Z
+    sourceUrl: https://www.zdnet.com/article/deep-learning-software-vs-hardware-nvidia-releases-tensorrt-7-inference-software-intel-acquires-habana-labs/
+    ampUrl: https://www.zdnet.com/google-amp/article/deep-learning-software-vs-hardware-nvidia-releases-tensorrt-7-inference-software-intel-acquires-habana-labs/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-software-vs-hardware-nvidia-releases-tensorrt-7-inference-software-intel-acquires-habana-labs/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.30CEE59DE2AB5E8A1223DFA4E6A587E9
-        width: 700
-        height: 466
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "2XUhVk6AaKLs/ZxDQlqVgt3eJL9roh9d7KQhOCqgLuqoOa5Z8R5pxiTyjPnwGUzKoQUq6k72PUumEyT1FF+POhzGImNA2mKCK7n7KgVRUjL3vE2GisZp2z4C1w8VbrlzlZCnVsvET8KG+FaxjpvHVPRTH9bs5S9HHy062H9HhNliFddAxeHoSzAT0wIbc9ZMtUZffZiwNB7r676rDJAy4t7TfHBEnwO+ic3FUCcqmyhdjjcozd2IJYqnPdeLa6UX+wP8FDR5s5c1Jo0QuCqAaQ==;RWVU/Z5x11dV3/pkOda4kg=="
 ---

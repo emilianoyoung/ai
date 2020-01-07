@@ -28,6 +28,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "pFsKoWi6rHvU2PyuHWL99mZNVgKCNAjI2mGbSudH9V/l3ySiStIhDFHxaLQvjfKqKPWEyXTEMt1xH2svKBh0XSyTfNNM5svCAQrBYMW0HYd+8HAbs+DkBBblbLLOY/5nJtrAh5RovdJhfpA0A5bSDj7AMM4cjyJrCSe0pCcl1+6hqVbJVTIjiaB36Tz27WKdjopG1IhI5DtIqRzCDNFuxOz22XrkmE5JHXxryfFKPHySMooy3BZVNJPFUtnUsSeVuu1d7u5opXNB1RjxNSYyoQ==;MgOG5poXsyaKCueSJxU0qw=="
+secured: "6rUbtCn0NkuOgZtreeKzEkdrRerCY7pRhz6xhfYNGXHDaZxEqZAo2xNrv6zzIu4LcOGpJaJLu3bUpPq49k52FYefLxDZC7UPmFMYDgyhz2owc00XPjrCi3OdhIk5oF/hmOCgiPNVi66F6gewLk73EL/7QpMvUwNG1MmZV9NGWJ3bOgq9JdquKl0lfIMNjOAc5TUEAh3IQ5wbUHvaSLFfv18sFjvIcLsxE52r5UR1vG7vI2VEBWvwKyhrbUFh+z2PhvTMAgEcfYcLx8536waqoQ==;LFHXyXa5yGVK4jOplnuvnA=="
 ---
 

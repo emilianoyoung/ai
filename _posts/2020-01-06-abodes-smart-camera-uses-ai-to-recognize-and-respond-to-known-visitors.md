@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recogn
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D05A8810DF759FE6D7EAC41012248B7E
         width: 700
         height: 350
+  - title: "Abode announces Outdoor/Indoor Smart Camera with facial recognition"
+    excerpt: "Indoors, the camera can also be placed on a wall, or it can sit on a shelf if you prefer a more subtle look for your security solutions. Facial recognition profiles can be set up for authorized visitors, alerting you when someone you know is at your door or in your home. Over time, the device will become better at recognizing the individuals ..."
+    publishedDateTime: 2020-01-07T01:34:00Z
+    sourceUrl: https://www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/
+    ampUrl: https://www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/?amp
+    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/?amp
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 59
+    images:
+      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/abode-outdoor-indoor-smart-camera-hero.png
+        width: 1919
+        height: 920
 
 secured: "bp0qzoF9EGNUwAFEg/JR0AINlst98b8E6/V73CAsDoLj6mx978ASZkpfOAwj6rlyg1QiXLBQGKvhYs0YkyER/ifDmUsJLl8Fopp2r390CucBjtuc0TkoHsbNYV5oYo6OmpL+Sh5QfR89cqn7ZJM7yWdtGZJ2LO/YN8/NUSRuriUp8seSbeyRoFKrCymxsfnJMn4mDbzl9nsngzSxSjgi91+xhZcJ+xK9rhNk9lPlR7SGHXJXiNL/CYO4ble/zMiSe9aPdhXyZj/X60rIqY1yjg==;hKMPYuyoPBmJxjHTq6ktkw=="
 ---

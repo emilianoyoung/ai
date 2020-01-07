@@ -8,7 +8,7 @@ ampUrl: https://www.indiatvnews.com/amp/technology/news-amazon-web-services-to-b
 cdnAmpUrl: https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-amazon-web-services-to-boost-drone-innovation-in-india-576809
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
         width: 600
         height: 337
+  - title: "Amazon's Cloud arm to drive drone innovation in India"
+    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+    publishedDateTime: 2020-01-07T01:10:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/2583.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 24
+    images:
+      - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
+        width: 500
+        height: 333
   - title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T16:58:00Z

@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
         width: 700
         height: 525
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-18T00:07:00Z
-    sourceUrl: https://www.yahoo.com/now/hugging-face-raises-15-million-162619121.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
-        width: 700
-        height: 525
 
 secured: "A+YkbokcLNXTpuhEAKihGuTrRdLmtLtm4hAORcBYnUckgAmzKT2VPtmMTL/lITKhFzFptb3dMVO0H1uNGDg9kro0HWgEBg59Mexf+wKGItwDwkXZ+mQpbD5suJUcVUEQziz3s2eyp/OgavduXeLTOgdwQMb2WfA2WHdXhRB+wymxcrPWVMZ9C2Lve0AxizZsQl5IJBZ1f24YPlmqlNYTJf26v4QtF6ZXUeUykIvAhZvdflv/xaDb+H2+NYajdH0caS3+QCtLBAshH5KDODmAPw==;eYideU7FC5q7ZxfXEgSfLQ=="
 ---

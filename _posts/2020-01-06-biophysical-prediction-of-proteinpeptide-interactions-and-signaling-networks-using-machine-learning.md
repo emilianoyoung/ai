@@ -37,6 +37,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
+    excerpt: "The i.MX 8M Plus combines a high-performance NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm® Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a high-performance 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors ..."
+    publishedDateTime: 2020-01-07T01:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/nxp-debuts-mx-applications-processor-170010859.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "e2vv3XME3YlnXVaX8yxRfD5dTUH0prZNO6SYZMj3bN9F/DYSuVnlJsRAabqYuwyHt0aVF4OvXG6kKJ6SIBCmk+WxzGAlF9pUfslTpd+FR/F6QStfb2dHeL/R+jmxJmSorXSTlXFCQeCpwb2SnIDHs4e9y215pLsD2oLqFZqgEjBPIl8q2Q/bi2FKhXf4uAj6zAPuEnGLRKJSZDGAsbGx92fTN4Yz7EJHnIvzbafMUGX8FVWLRjiz2alfvNTLTYeYQHSCNwWE+414eZ7s/Gcwfw==;pBVHM9+CWP2EFig91EOKmw=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-process
 cdnAmpUrl: https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
         width: 700
         height: 490
-  - title: "Hugging Face raises $15 million to build the definitive natural language processing library"
-    excerpt: "The company first built a mobile app that let you chat with an artificial BFF, a sort of chatbot for bored teenagers. More recently, the startup released an open-source library for natural language processing applications. And that library has been massively successful. A.Capital, Betaworks, Richard Socher, Greg Brockman, Kevin Durant and ..."
-    publishedDateTime: 2019-12-18T00:07:00Z
-    sourceUrl: https://www.yahoo.com/now/hugging-face-raises-15-million-162619121.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
-        width: 700
-        height: 525
 
 secured: "33tCq9vNR32L85p71lLOXpuF295b+2UtTKf8mBlRV3hPl/p6bB2dRhlnjBVfAZPE2WdwhDywPmQD0kcANGox5v4AKEoTrQPCuxEwxNBYSdAzkEKDvAvCrN7QabV8b7tP1P+E9jmVhNZxJXpPO/At0QUC6k6U63WyENBXJnj9B6WBj2WgJBqucUNqGuyRdBJkaTyz5fy7eJTo/7B5JERvVCiHSSVfNqcWCnE/xv/FiAMjR3V/m2cvCYR+pdrgNA+MuQKnX8vw+EI/m6xqfEArfQ==;Rrc9+V/fmfD+Z+SrG/ze3A=="
 ---

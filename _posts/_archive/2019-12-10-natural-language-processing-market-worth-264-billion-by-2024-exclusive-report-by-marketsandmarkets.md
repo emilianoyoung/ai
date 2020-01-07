@@ -23,6 +23,6 @@ images:
     height: 350
     title: "Natural Language Processing Market Worth $26.4 Billion by 2024 - Exclusive Report by MarketsandMarkets™"
 
-secured: "NvQbBQJHz8O5pnJoPVRxzevrtpy72dIxz0IsYD1XWVFCn0/q6DYQVxvOYwRCFWHOWcOQDILU3t+EtXvmzF96O0QoiyCL4K8LnMCfMuyBbNTX8qpasyTdxFD5Vua/YrDe4VLIM2BvwhUm7I3DpyFE4zrQ1eYQ7qs3XDeyL/HxrCvfzwPPMNFW+SLDh+ZKSAl70gTXkTTTu+HT404hQkGARGcHwU19Hgwq2srgDU+VvOZU2vTlRtW11o3sMOOHskEO2seN5g78W7yrKj869Bhm3A==;CG/e5AWytaJv0ZzrUeebNQ=="
+secured: "tTXSj5vlqPvmhD0z1AHhkG9CoM15DD3HcTbRr5kscPevXd5xQ43oLojps2MizIgiOJsoMsLEuCq+uwNsL0kDk/G6/wFkI6Unf3880p/LfCSWdnjpNo81WWYKJ2hqNK8hsIhnm2c9/ArgG0zdpsMotMMrxhGr4sainP0CdTdDHd1otHAilSo5FXX/ol6gTl2TWcIDAFeHUcA0Sp+SdIcPVgzdY3F7z+LTT/IsX0QwF2/kUYkfIjIOCIqtJZrkShlThI2IVsMD+BsdA8XXrG5RSw==;KmNCeMs4EVVfNhhosK3ydA=="
 ---
 

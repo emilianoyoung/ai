@@ -28,22 +28,42 @@ images:
     title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
 
 related:
-  - title: "Empathy in Artificial Intelligence"
-    excerpt: "In recent years, as AI systems are integrated into our businesses and homes, [people are increasingly concerned about the ethics of AI. Are we using artificial intelligence for the right purposes to bring out the best in humanity? How can we live side-by-side with our machine counterparts and use AI to enhance our human lives? Inside whether or ..."
-    publishedDateTime: 2019-12-18T00:33:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/17/empathy-in-artificial-intelligence/amp/
+  - title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
+    excerpt: "Dec 23, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Automotive Artificial Intelligence Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Automotive Artificial Intelligence marketers and clients to ..."
+    publishedDateTime: 2019-12-23T12:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1021670732%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3376
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
-        height: 675
+        height: 630
+  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
+    publishedDateTime: 2019-12-24T20:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
+    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
+    publishedDateTime: 2019-12-18T11:01:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 1
 
-secured: "VIoG0i8rVx2wLXvA7zbqaoU9cPBl/2zkeSAnzTuuIchkMm10E1R1kyiRA5+DPLx/uYof8prViOJpE3yrUWY9LQed3J/l91vlWyujSdhOXdIpd7VVclC4ypBQOFB8s1vrc5IhDSO2tKtGj363w8hr/EqkWGxEoXak5uGsDdvcyn8h0qmP1lAosjsYr8frvzOaGtjCrVaW13T7bL7egqHbJI4vSqZ8y3yFdnd3vXlttkSF/1XK9cplw6oA5nbaNI535jD3cczCTdBUre2zt4PicA==;AnDf8cvWdgHH/7lrR6pLgg=="
+secured: "SJOfREArlzMkjp/u/zNk3B4LIOSxg9DanS2xgvPeiTaXmoinVnQ8tPpynjnWm582dHhwVJkNlC+5GGn3mfcfRCOfuQzt0VhEHLlfu2u3qNpn8gSVqJswfhtBlrNDCNYgHY6cyXQLMI6PcWskmoDdpitwqKZk6BQ+wJrihrotUvJPEZjyouOKt4s2hAr3kGTeCPb1LZFZJHFX0vCUbxYASVQF5RK6/r8IRhziVr4QMXl3oshWSOam18aMknNUV3n0DzPryybhcxiZjrfjafoERw==;gpboocv+1D2H431HaxgLyQ=="
 ---
 

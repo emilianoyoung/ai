@@ -159,6 +159,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
         height: 350
+  - title: "Portland council again delays vote on facial recognition ban"
+    excerpt: "The Portland City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first proposed the ban in November."
+    publishedDateTime: 2020-01-07T01:21:00Z
+    sourceUrl: https://www.pressherald.com/2020/01/06/portland-council-again-delays-vote-on-facial-recognition-ban/
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
+        width: 700
+        height: 490
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website,"
     publishedDateTime: 2020-01-02T21:09:39Z

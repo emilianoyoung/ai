@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D7E872AB31C6CBA3BBE8155071BCD622
         width: 700
         height: 525
-  - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
-    excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
-    publishedDateTime: 2020-01-06T17:53:00Z
-    sourceUrl: https://www.cnet.com/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    ampUrl: https://www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2020-lg-talks-ai-oled-tvs-and-smart-home-appliances/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
-        width: 700
-        height: 525
   - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
     excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
     publishedDateTime: 2020-01-06T16:30:00Z
@@ -177,19 +162,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767
         width: 700
         height: 393
-  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
-    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
-    publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
-        width: 700
-        height: 350
   - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
     excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
     publishedDateTime: 2020-01-05T15:00:00Z

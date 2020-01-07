@@ -106,6 +106,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
+    excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
+    publishedDateTime: 2020-01-07T00:24:00Z
+    sourceUrl: https://www.autonews.com/ces/intel-ceo-emphasizes-innovation-through-intelligence-ces
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
+        width: 700
+        height: 525
 
 secured: "1TCBfEnCKxsnbnu3xiO+SyEZCLnSRoZT9/wj5h+PiMqlb2Vr/J2N80pNJAcnXPhGEm8LS7+HtJ0Wb/HsletqimuhAI6be8Tw8+I7gIYHzNs/K4nqa/mAFh9/0BazGJm05+0XrJYNNAKXvAHN821wQTmqdXVhe5T/HhJtFdM2zbn267CaWPx5MA+LD7XeQHjcCpdpGgxT6rRzCLLGsDwTU95jNcHmWMNw90TxADaJCTE2S/ZLMjEhodmKLlCecWqznt/hUgpVNCSLawZRL/LwOg==;Z82/BukrkkSdV65uf0MkRg=="
 ---

@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.00E7512FD1D87CB60C7B9B4FF6AD3439
         width: 700
         height: 366
+  - title: "Abode announces Outdoor/Indoor Smart Camera with facial recognition"
+    excerpt: "Indoors, the camera can also be placed on a wall, or it can sit on a shelf if you prefer a more subtle look for your security solutions. Facial recognition profiles can be set up for authorized visitors, alerting you when someone you know is at your door or in your home. Over time, the device will become better at recognizing the individuals ..."
+    publishedDateTime: 2020-01-07T01:34:00Z
+    sourceUrl: https://www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/
+    ampUrl: https://www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/?amp
+    cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/06/abode-announces-outdoor-indoor-smart-camera-with-facial-recognition/?amp
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 59
+    images:
+      - url: https://www.androidpolice.com/wp-content/uploads/2020/01/abode-outdoor-indoor-smart-camera-hero.png
+        width: 1919
+        height: 920
 
 secured: "0XM/5CYMVZ/PAxyybhuYknIwQSZ69TAif9ge7LKec+cL3Nu/XMVRLubD/PjyebBb4ain//7jlEDG9ShGce1qSA08rLaLGNjkgDEE3dVfMOrdgMdrvx4yAM9tdjRddMPFcjHqceSvDpyrMHptPP/xP4dB0ZJUKqYmBUrnvprE5ZL8IIWq/W0WaNQ+6nH/veYWEBBzaDf1UVd+CTwJNZHq5lYNQjbYUWhuUQyDFmwgFh6ZwoUMdi5u6Oajytcpw5mEjz6tDZpwqvnPDKAD++6FfA==;K1e2TepmzNKaHp7MJq+fbQ=="
 ---

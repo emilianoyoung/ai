@@ -63,21 +63,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
         width: 350
         height: 215
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
-    publishedDateTime: 2019-12-26T05:42:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9C13B679BC278E1F3C17F50F17153D41
-        width: 700
-        height: 392
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
     publishedDateTime: 2019-12-23T17:48:00Z
@@ -87,6 +72,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through. Thus, there is an enormous data pool. We have collected virtually everything that is currently ..."
+    publishedDateTime: 2019-12-26T05:42:00Z
+    sourceUrl: https://asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.AFC5BAD606C85D0FABC71CA45D521056
+        width: 700
+        height: 392
 
 secured: "ZpjEQD3AaQZR5OVEn9gVKJ+fFi72c8mwUUB6407+eEldKyBnM3aJpDDRpQkACFyWfjfvw4oc7Z0yXpeJdZpit11NEXusF0j5crVsomUWexrr0mmT92IgjR+/oa0f7XWOyifXEHlQVo8JdTviQgXaS5d8vszQ9EaVHsUZWY8ZuTg/tyNrCE/aoxUpjUASimyhso1XwZ61ad+hRo0dY+VQ7TjUcB4PRbpG1mkKpgIcd/1/FfqkkxIxH0ZWad+NZO+pmbL5/lqsb0iqKdXVoSV2uA==;jYtnTko4QYGtY91yUmSpBQ=="
 ---

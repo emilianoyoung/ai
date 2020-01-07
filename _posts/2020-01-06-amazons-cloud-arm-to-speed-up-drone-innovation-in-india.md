@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B037A958CDA8419711760C36ED81C656
         width: 700
         height: 518
+  - title: "Amazon's Cloud arm to drive drone innovation in India"
+    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
+    publishedDateTime: 2020-01-07T01:10:00Z
+    sourceUrl: https://www.newkerala.com/news/2020/2583.htm
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 24
+    images:
+      - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
+        width: 500
+        height: 333
   - title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
     excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
     publishedDateTime: 2020-01-06T16:58:00Z

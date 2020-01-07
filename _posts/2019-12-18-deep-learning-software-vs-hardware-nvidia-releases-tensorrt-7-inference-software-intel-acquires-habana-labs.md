@@ -23,6 +23,21 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Intel Seeks AI Inferencing Edge with Habana Acquisition"
+    excerpt: "The deal gives Intel access to Habana’s Gaudi AI training and its Goya AI inference processor technologies. The AI training chip is currently sampling with unidentified hyperscale customers. The Goya chip announced last summer is commercially available. Habana touts the chip combination as a development platform for deploying and ..."
+    publishedDateTime: 2019-12-20T02:01:00Z
+    sourceUrl: https://www.hpcwire.com/2019/12/17/intel-acquires-habana-ai-inferencing-edge/
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8C358CFD60484CA1DF664ECE21F24F24
+        width: 405
+        height: 228
+
 secured: "gpaC2giVFylnoJsMxGuJA5GIJoR6Xx4L2Dh2jlRXgpgOCjLbYTmcbOaRAERD5wr/ofD5j+Q14RqZ+4c7x74t4ArQD0E+YMhiItpVqCXEZzTIAHILO7uQ6JW/rZpV8cWssDCjTNn8hllM7OlcHsTJ4DFSGJ6FcTniTmjZLn2GhF7s5Oa3Yz2SPawOkjxn+qxm3pp3T5ZCws0ONIDfr14a5eXjbtTLAbZ149rTSU8uwfPUYrxh22/KrFodCSSt3wAt2ewaXAn+NLLP169+lvRsyA==;mm8VwjEM5QtFCTrMYoSg/Q=="
 ---
 

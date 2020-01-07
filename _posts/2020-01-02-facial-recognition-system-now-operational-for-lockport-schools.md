@@ -159,6 +159,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
         height: 350
+  - title: "Portland council again delays vote on facial recognition ban"
+    excerpt: "The Portland City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first proposed the ban in November."
+    publishedDateTime: 2020-01-07T01:21:00Z
+    sourceUrl: https://www.pressherald.com/2020/01/06/portland-council-again-delays-vote-on-facial-recognition-ban/
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
+        width: 700
+        height: 490
   - title: "ATFX launches biometric facial recognition for trading account opening"
     excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
     publishedDateTime: 2020-01-02T12:52:00Z
