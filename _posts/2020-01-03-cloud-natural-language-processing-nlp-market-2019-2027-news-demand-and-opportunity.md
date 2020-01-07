@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive new year offer:Upto 35% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market ..."
-    publishedDateTime: 2020-01-01T17:17:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
     excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
     publishedDateTime: 2019-12-27T09:45:00Z
@@ -93,15 +80,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Hardware Market Segmentation, Top Companies, Applications, Comprehensive Research Report and Forecast to 2026"
-    excerpt: "The recent report added by Verified Market Research gives a detailed account of the drivers and restraints in the Global Artificial Intelligence (AI) Hardware market. The research report, titled [Global Artificial Intelligence (AI) Hardware Market Size and Forecast to 2026] presents a comprehensive take on the overall market. Analysts have ..."
-    publishedDateTime: 2019-12-31T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-segmentation-top-companies-applications-comprehensive-research-report-and-forecast-to-2026-2019-12-31
+  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
+    publishedDateTime: 2020-01-02T12:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -128,6 +115,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
+    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
+    publishedDateTime: 2019-12-30T03:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

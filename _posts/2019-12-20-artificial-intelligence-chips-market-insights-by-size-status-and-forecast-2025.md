@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T12:07:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-insights-by-size-status-and-forecast-2025-2019-12-20
 type: article
 quality: 80
-heat: 310
+heat: 300
 published: true
 
 provider:
@@ -139,19 +139,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
-    publishedDateTime: 2019-12-18T06:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

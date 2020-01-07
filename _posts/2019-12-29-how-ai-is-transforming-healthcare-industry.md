@@ -24,151 +24,34 @@ images:
     title: "How AI is Transforming Healthcare Industry"
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
-    publishedDateTime: 2020-01-02T11:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
+  - title: "‘Healthcare needs urgent attention’"
+    excerpt: "The quality of healthcare in the country needs urgent attention ... and machine-to-man interfaces must improve patient safety. Artificial intelligence, machine learning, deep learning and big data are the future, and India should adapt to transformation in these areas, he said. Damodar Acharya, former chairman, All India Council for Technical ..."
+    publishedDateTime: 2019-12-28T18:57:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece
+    ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2020-01-03T08:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
+      - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
+        width: 615
+        height: 384
+  - title: "How to Ensure Your Health Care Innovation Doesn’t Flop"
+    excerpt: "These days, everyone working in health care is chasing innovation to thrive in this era of increased accountability ... Many organizations define innovation as novel technologies, processes, and business models. They may regard artificial intelligence, just-in-time supply chain, or bitcoin as innovations. These things, at least in their early ..."
+    publishedDateTime: 2019-12-28T16:43:00Z
+    sourceUrl: https://hbr.org/2019/12/how-to-ensure-your-health-care-innovation-doesnt-flop
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
-    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
-    publishedDateTime: 2020-01-06T12:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
-    publishedDateTime: 2020-01-02T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+      - url: https://www.bing.com/th?id=ON.E496DB13EF5DF5BD8C34E8D32AD33647
         width: 700
         height: 393
-  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
-    publishedDateTime: 2019-12-30T03:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-03T11:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-01-07T05:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
-    excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
-    publishedDateTime: 2020-01-02T11:52:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/02/goodbye-2019-hello-2020-year-cloud-reviewed-and-what-horizon/
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 21
-    images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
-        width: 600
-        height: 450
 
 secured: "QN0IJgDlYEFh9EGK/7le2lL1sSaS9FpaAeoetknCnVCykKCUHhnQpovsaRZ3bhGWzw9/+le3U//eAMy46b1uKyzJ23ydl5HNQonq53UFdkTb3ppN+IilU4ggMS2mLoS/XjPsTs/w6jyZDx18dPNHs0T/bkQoYVko7wQba8NmNxaZ1EYgDvEOkLzzMozXgdJPaoqamsxbJ14K2KFcWJbGy/h0OaCKsJQrztzCGy+RnVOn1KdgJ76YqA9KMxIufQIlVUh9mdbc5GkCnRtLEvmQ6Q==;yHKXusTp5lekR47UROtCcw=="
 ---

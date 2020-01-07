@@ -39,6 +39,21 @@ related:
       - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
         width: 960
         height: 640
+  - title: "Tech will drive change in health care throughout next decade"
+    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
+    publishedDateTime: 2019-12-26T16:47:00Z
+    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
+    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+        width: 700
+        height: 393
 
 secured: "hRbe/S8xK9l9MBVXYx5qDwtJcPR42MQgiUfUwGUsd9lD4h1rke19rSJEjnlMWXduWMfOo7qYjcGmDtC21RQgq+DXebIXAbi+UChIpQdNfuknzrP/njmYEmEtfGQ8ehSJXejBNcXqkGQVr6NqSvGH8khnqNX5WFAxLDDiVEt+DwZYLdTdpCJpzyYcga5p6mdm7fDDy+DS4/8JvjZnb7U1Q0j3ktgc4L98EcV5iuu3gKZGocEvLN8h4gqk5I7MMLCVLVX9B1/vtV3bpYkSFFORmQ==;a6vM0Oydl1cQRibqtA1keQ=="
 ---

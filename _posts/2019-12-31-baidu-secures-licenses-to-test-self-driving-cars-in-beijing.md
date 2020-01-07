@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 439
+heat: 449
 published: true
 
 provider:
@@ -105,6 +105,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
         width: 700
         height: 449
+  - title: "Sony to test self-driving cars to boost sensing, safety technologies"
+    excerpt: "Sony Corp said it would start testing self-driving cars as early as this year to beef up the company’s sensing and safety technologies, as the Japanese electronics and entertainment giant accelerates its automotive push."
+    publishedDateTime: 2020-01-07T07:35:00Z
+    sourceUrl: https://www.reuters.com/article/us-sony-autonomous-idUSKBN1Z60MF
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60MF
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60MF
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
+        width: 700
+        height: 466
   - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
     excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
     publishedDateTime: 2020-01-02T08:03:00Z

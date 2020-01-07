@@ -37,6 +37,19 @@ related:
       - url: https://www.bing.com/th?id=ON.01FE99FAA648F0450CA290AA99A25ECC
         width: 700
         height: 490
+  - title: "Juniper Research: Facial Recognition Hardware to Feature on over 800m Mobiles by 2024, but Software Will Win Out"
+    excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment ..."
+    publishedDateTime: 2020-01-07T07:20:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200106005813/en/Juniper-Research-Facial-Recognition-Hardware-Feature-800m
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 18
+    images:
+      - url: https://mms.businesswire.com/media/20200106005813/en/601531/23/JR_Logo_Final_RGB_300px.jpg
+        width: 1200
+        height: 627
 
 secured: "u3cc9js5tS2GEiUNHWZoYV1WEskctDvmz0bjqcRk2+OMxbHwlEfGPEjZ6QjekZsx4QRLHL0N5/w4+1zQx2HHsq3hglT5tPVvyt75JZ+K3wPMQ7AavGbv7/OT13/mqwUyE9MsgLpTmnf4Ej67K9SjKzSF6qFjmxkqdVyQE4lSJlT3ksHyBT+AJuEQzBHdAkJ/yMdSHp6kLbqGtfYc7PfC4orAfjugluW/t7apgbxGBohkKm3tC62hiVRFYiKTbZkyBP91PeALNvCW8eh7hRouxA==;yHk6P5SY0TExr/iigf9h7A=="
 ---

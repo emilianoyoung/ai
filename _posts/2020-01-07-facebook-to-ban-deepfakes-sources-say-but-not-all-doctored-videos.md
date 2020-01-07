@@ -39,6 +39,36 @@ related:
       - url: https://www.bing.com/th?id=ON.E746D7D1B304DF8D7B15333B207A09D8
         width: 700
         height: 366
+  - title: "Facebook moves to ban deepfakes"
+    excerpt: "Facebook appears to be of the same mind as the social network has announced it ... mislead someone into thinking that a subject of the video said words that they did not actually say It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
+    publishedDateTime: 2020-01-07T07:00:00Z
+    sourceUrl: https://www.htxt.co.za/2020/01/07/facebook-moves-to-ban-deepfakes/
+    ampUrl: https://www.htxt.co.za/2020/01/07/facebook-moves-to-ban-deepfakes/amp/
+    cdnAmpUrl: https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/01/07/facebook-moves-to-ban-deepfakes/amp/
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
+        width: 700
+        height: 393
+  - title: "Facebook to remove deepfake videos in run-up to 2020 US election"
+    excerpt: "The social media giant would also remove misleading media if it was a result of technologies like artificial intelligence (AI) that \"merges, replaces or superimposes content on to a video, making it appear to be authentic\", it said in a blogpost dated January 6. Last year, Facebook refused ... independent research and insights & analysis ..."
+    publishedDateTime: 2020-01-07T07:44:00Z
+    sourceUrl: https://www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html
+    ampUrl: https://www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html/amp
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.AB7310F35FB91CA6CD7DCD7B7218F558
+        width: 700
+        height: 393
   - title: "Facebook to ban deepfakes, sources say"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96% of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection challenge ..."
     publishedDateTime: 2020-01-07T05:10:00Z

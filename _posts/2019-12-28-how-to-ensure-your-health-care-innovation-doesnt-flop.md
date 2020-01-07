@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.12B542FF7C7BB09A51C4CD24BD9FFD17
         width: 615
         height: 384
+  - title: "How AI is Transforming Healthcare Industry"
+    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
+    publishedDateTime: 2019-12-29T12:06:00Z
+    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
+        width: 700
+        height: 494
 
 secured: "PdetXC+HSGhf5vlAyEgov6pE7cvGnEq8huREt+XNe1j//aY1THvfTkzc25rTpG/y1eXO7ibe7rIEeqpSTURAxnOV3/vMBO1RF6R+3+xBdFy2FXBbrasWvaHxdaschy0D9k93LFiOD5bX/ScIVkPaNc4JTTs16tdCJf794epatdOnwevEf4LADEiCL1FWrHdou6rDsYF4fBJOfbeaHZkQ1Hg9z2HcuOOOagrsAun0xgGHplEKf+UqMa8pRtZFfwDrty6FF5PtITeNFx9xt4C+WQ==;dFGyZmFcFeI10RZ4jbb9+A=="
 ---

@@ -25,151 +25,19 @@ images:
     title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
-    publishedDateTime: 2020-01-02T11:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
+  - title: "2010 – 2019: The rise of deep learning"
+    excerpt: "... of researchers including Geoffrey Hinton managed to come up with a back propagation-based training method that tickled at the beginnings of an unsupervised artificial neural network. Scant a few years later a young Yann LeCun would train an AI to recognize handwritten letters using similar techniques. Credit: Harvard Magazine But, as those ..."
+    publishedDateTime: 2020-01-02T16:10:00Z
+    sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2020-01-03T08:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
+      - url: https://www.bing.com/th?id=ON.29F42CF3E2263A308997BD78C2C68CC6
         width: 700
-        height: 494
-  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
-    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
-    publishedDateTime: 2020-01-06T12:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
-    publishedDateTime: 2020-01-02T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
-        width: 700
-        height: 393
-  - title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
-    excerpt: "Based on End User the global Enterprise Artificial Intelligence market is segmented in Automotive, Media and Entertainment, Healthcare, Retail, IT & Telecommunication, BFSI, and Aerospace. Browse Full Report: https://www.marketresearchengine.com/enterprise-artificial-intelligence-market The global Enterprise Artificial Intelligence market ..."
-    publishedDateTime: 2019-12-30T03:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-and-its-future-outlook-and-trend-during-the-period-of-2019---2025market-research-engine-2019-12-29
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-03T11:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-01-07T05:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+        height: 350
 
 secured: "hl+7V4tvfkO9q7NkcHGQSUY6LFtnIc6GTQ960hnfUuenWPpRZhB67ELWFLlNz4Sm1pWzq3VpZV0tymAsM22h465clBf56o8ZBGjpOuuWB/R0ceZlOSw7XU/QHqT6dria1jA/2BasHqKFP0PvAHK3lPPXJip3WLnw+WO5uZOh8PHnFX4AY0vuv9tntChxXdxVYb0LVB6E3kWbF8ToIPgnfbEz1cn4aK2ZdgyVl6rjfuWhopNzU9JGC026LOCgdSuHJexv1WDAf+hvw7B4xGOY1w==;rniQZ10BRzhHbn4+inD+mQ=="
 ---

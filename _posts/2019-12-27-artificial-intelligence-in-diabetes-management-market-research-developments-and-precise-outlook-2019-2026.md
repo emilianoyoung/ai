@@ -155,19 +155,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in the Education Sector Market Growth, Enhancements and Global Developments 2019"
-    excerpt: "Dec 18, 2019 (Market Insight Reports via COMTEX) -- Artificial Intelligence in the Education Sector Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter’s Five Forces Analysis."
-    publishedDateTime: 2019-12-18T06:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-growth-enhancements-and-global-developments-2019-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Voice Recognition Market Booming by Size, Revenue and Trend in 2020 Scrutinized in New Research"
     excerpt: "Dec 25, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Voice Recognition Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Voice Recognition marketers and clients to understand the market globally."
     publishedDateTime: 2019-12-25T11:17:00Z

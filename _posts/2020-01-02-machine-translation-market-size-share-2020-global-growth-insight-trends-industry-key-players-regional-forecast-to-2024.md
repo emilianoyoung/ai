@@ -28,110 +28,58 @@ images:
     title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
 
 related:
-  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
-    excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
-    publishedDateTime: 2020-01-06T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
+    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
+    publishedDateTime: 2020-01-02T11:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 62
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
-    excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
-    publishedDateTime: 2020-01-06T02:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share. Major industry players with significant revenue share include Pearson, IBM, AWS, Nuance Communications ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 42
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
-    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
-    publishedDateTime: 2020-01-03T07:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
-    publishedDateTime: 2019-12-31T04:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+  - title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2019-12-27T13:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2017-2023-growth-size-share-global-forecasts-analysis-company-profiles-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 40
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
-    publishedDateTime: 2019-12-31T10:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
-    publishedDateTime: 2020-01-01T14:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
-    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
-    publishedDateTime: 2020-01-06T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
-        width: 400
-        height: 400
 
 secured: "C18Dlxo6nMfHAW64EfjOxd+tEJU5p6tlWxUtbkgI/9IzJnJlBhZzKe3UMQepAFAA0Nf78gIAkgYlvCBdLLl0dybV/wSquPE//UTOgwCcj+BB43jRiBYubpENtxNIOaDX/4HdFT3boMdS/8OD6FC/k8986vg+tNgs9LrMM2RnxHUbTaUWg+YpnEjHO5ZyfGyFyO9ssTczG93JAZP2RJtzqDFmZqLSouQGZI+6mCqdWChV14MMhkosqpLwTDW7TMhPAoH7DJV2iiUvQ3Aazj2TYQ==;cVuD3ZWNccj8VrXjgVgYkQ=="
 ---

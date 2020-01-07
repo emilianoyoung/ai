@@ -26,6 +26,21 @@ images:
     title: "What does the next decade have in store for UK fintech?"
 
 related:
+  - title: "Tech will drive change in health care throughout next decade"
+    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
+    publishedDateTime: 2019-12-26T16:47:00Z
+    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
+    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+        width: 700
+        height: 393
   - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
     excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
     publishedDateTime: 2019-12-20T05:34:00Z

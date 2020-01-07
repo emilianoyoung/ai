@@ -2,20 +2,16 @@
 category: news
 title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
 excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- The Consumer Technology Association (CTA) is honoring Fluent.ai, a Canadian technology company, for its groundbreaking work with speech recognition technology and artificial intelligence (AI). Fluent.ai is one of several groundbreaking technology companies being recognized as an Innovation Awards ..."
-publishedDateTime: 2020-01-06T13:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/fluent-ai-named-ces-2020-innovation-honoree-for-its-advancements-in-voice-recognition-technology-1028796191
+publishedDateTime: 2020-01-06T14:04:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
 type: article
-quality: 36
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
@@ -66,6 +62,6 @@ related:
         width: 700
         height: 490
 
-secured: "iadDcqo7PK0Y7jmHLKoV8sC86AJQpQXwWW+KPZT1rCPFoJ8T+pwgRtT5bSjB4AXQBgIRoTr5U4r+UA48u59jrtAVcnOZIm3eRIVo32iGddFhUAmAvV5wQBJ0HFxLwQ/55ddMy6ULGOhQn196Q4CqNR7BJvQU4kGA4d8ZyT+pRJ+WrP9ngIan9kRThtFo7NogmP1t2+YytH8lq0VEGn24++zXRpBmggUi3LUZjp0EMrrA0b1tMQWYZKywDKPknFogJCv9wf46TsC+ZSJCkHwZBg==;MLp9aMYRP9QXotJ/ZpAcog=="
+secured: "LMWsteFFUF8TKWd+/ssQtuQWQrJZ4iYnSN7vqfBhG1+CtZpENbF+UleHGL1i63CSz6EpzL/67zwQtaFDQ/YnN2pR3NCtPi9SGbDnycRXDLPObHqqxJCDSznn/PmMMcCQLMS7C99kcEWV7RXZZLpsi//dHhZ/5K41HqrcQRIDcV1j45+wVJxp2wk6iXbeoiZha6di6iDE0//02TPFoe2pfdDZxXUiqUwax7eA2fDGyg4kzzSVjasFnoyiXe43DlRUtczK6AJomKeDlISu756tSA==;jqVtm7rI1r/v3LYON1YMkw=="
 ---
 

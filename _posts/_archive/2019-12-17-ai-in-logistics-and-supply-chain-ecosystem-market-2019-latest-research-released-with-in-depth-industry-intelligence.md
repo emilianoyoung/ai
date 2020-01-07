@@ -41,19 +41,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
-    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
-    publishedDateTime: 2019-12-24T20:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
     excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
     publishedDateTime: 2019-12-18T11:01:00Z
@@ -64,6 +51,6 @@ related:
       domain: globenewswire.com
     quality: 1
 
-secured: "c4q7BZ1g0Ze6V4KvWZjgKVoJVAYuN4Q1+EXoywP1sh6BJv5aTEtrkwpDSiglVTTEfu0prZ2lRdq8d82HYeoLoeY7fCdhlG3o+d0xBodgRE1T4NIST4ZYh9UXhD8wR/uqaRxx/TP6+jlB3asyal8PaR+aGBCuAEGQD9NfJiOIi3K4jWKBKvkLMY8wtyIMaSjgj8y9dyB91nFZwUV9SPHbE+yKXnzYsvKJMwGZg2K/5Y/9F2qDypghfUrDW+FMJVDgpQEKTRzwgJxBOLgyaZkM8w==;QgdZRqmuvDd9dV3DyQ0qZA=="
+secured: "SfY9PZKCFIy4MfYA89PfWyfioErR0+C2/Jrpl2nwviLgrhChM9wkZ0q5FSjuUbKUcWB2Le6naPJno4nVOKlGCIn9vIN42lXfuUGMwAAzgHbvB63qrUuR4mVP3G9jzkoYppIxJN+anlbsOlLizDqgRP6JAXAYtNkma4k40RIW0QsSFewJIYMznlqk1V/WccdpGgkOfnqrNAn5YckuFDfMK4AXlPmuyHSjDPV4kE18fdJOXPqhw4jR8BLD5UsrWNhPdxnE5qEpe7vaNl+goHigWA==;mfFvo26O1ma2LqM//PP2kw=="
 ---
 

@@ -61,6 +61,19 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
+  - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
+    excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
+    publishedDateTime: 2020-01-07T06:29:00Z
+    sourceUrl: https://www.autoconnectedcar.com/2020/01/qualcomm-drives-more-autonomous-and-automotive-platforms/
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.62C8ECE3C4CC2D22FC0A0E3AAA928DA1
+        width: 569
+        height: 325
 
 secured: "bUPkE7OsBW1/KAVOy2GouSTjF4E2lRbbvEX7SgY5z0Dg17qfJZvC1MZ0V+O17YbDVMxgw2x7ZQ/c1UztmhoN8C9287m/urYRZY/z3Rve6CTsS19m2E7TtQTLv+mn6U725ahY7NEFyr8+zqau2cAS8Vc64qjiPN5dWCX7Hbd9R6QivjCpPUs2SjoJRVe5sWvtWPfWj3L6cZVarTCSm+dWMZjl+avPrbpoIHp0tgNOXht9SP4yWV5YYrbIZqyfAC4E2+bd17wTedIfzinGCE+ueQ==;RWbqiK7TRTAjOPwl1CNvvg=="
 ---

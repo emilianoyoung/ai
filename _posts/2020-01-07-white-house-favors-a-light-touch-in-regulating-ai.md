@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/white-house-favors-light-touch-regulating-ai
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/white-house-favors-light-touch-regulating-ai/amp
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
         width: 700
         height: 474
+  - title: "White House proposes regulatory principles to govern AI use"
+    excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
+    publishedDateTime: 2020-01-07T04:50:00Z
+    sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
+        width: 700
+        height: 466
 
 secured: "WZ6rMg1I7Ix/91KcepsnxjLKq83ZA7HnwKEEuO8p0yPqpJa9W+/dIABh+vy7paX13x4hRipIl3VdPtXMcNE9PTWQAp0Thd/IHQqF1Ywd2eP5rQKVhHHDsTIhXuBKxslsvZ081x9olgcrFDJYtreE3iyj2Hc1dTRoFDlJS4z7OgNMIZjN5XR0sdTVsNyhbVC7ahz84TtynoCufl5l0X5BPjVqoxWejEXuiGH1wFpf3VXajh76WhE1RPZZ3xeyjxmbilwRPIg0hRdMsnCmr1gcLw==;IlmfaKcpNGUMLXi74mhMXg=="
 ---

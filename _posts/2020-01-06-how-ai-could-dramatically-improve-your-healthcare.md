@@ -8,7 +8,7 @@ ampUrl: https://thefutureofthings.com/13914-how-ai-could-dramatically-improve-yo
 cdnAmpUrl: https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/amp/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "How AI could Dramatically Improve your Healthcare"
 
 related:
-  - title: "India bullish on AI in healthcare without EHR"
-    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
-    publishedDateTime: 2020-01-06T08:26:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.287B3969A67EEFFEF2C95AADDD19FB98
-        width: 700
-        height: 379
   - title: "How AI is Transforming Health Care"
     excerpt: "“I think the average patient or future patient is already being touched by AI in health care. They’re just not necessarily aware of it,” says ... AI is much closer to a spreadsheet than to human intelligence, he says, laughing at the idea that it will rival a doctor or nurse’s abilities anytime soon: “You use a spreadsheet to help ..."
     publishedDateTime: 2020-01-02T16:26:00Z

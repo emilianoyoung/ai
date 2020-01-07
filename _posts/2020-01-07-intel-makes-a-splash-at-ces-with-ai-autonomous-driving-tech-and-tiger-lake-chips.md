@@ -170,6 +170,21 @@ related:
       - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
         width: 640
         height: 427
+  - title: "CES 2020: Samsung shows off ball-shaped ‘Ballie’ robot, new gaming monitor lineup"
+    excerpt: "One of the quirkiest technologies that Samsung showed off at CES 2020 is a robot butler. Ballie is a ball-shaped artificial intelligence (AI)-powered rolling robot that helps users around their house. The video shared by the company shows the extent of Ballie’s capabilities, which includes opening the smart curtains at a pre-defined time ..."
+    publishedDateTime: 2020-01-07T07:34:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM.html
+    ampUrl: https://m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.8CFF430863A1D77F8C64C27827616D63
+        width: 700
+        height: 393
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -216,7 +231,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

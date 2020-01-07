@@ -28,23 +28,10 @@ images:
     title: "Enterprise Artificial Intelligence Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
 
 related:
-  - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
-    publishedDateTime: 2020-01-02T11:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
-    publishedDateTime: 2020-01-03T08:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
+  - title: "Conversational AI Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Conversational AI market report provides geographic analysis covering regions ... A huge number of individuals use Kick, Facebook messenger, and WhatsApp other messaging platforms to talk with their adored ones consistently. Many others are attempting different things ..."
+    publishedDateTime: 2019-12-30T02:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
     type: article
     provider:
       name: MarketWatch
@@ -54,41 +41,54 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / News, Demand And Opportunity"
+    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2020-01-03T11:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-news-demand-and-opportunity-2020-01-03
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 61
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How AI is Transforming Healthcare Industry"
-    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
-    publishedDateTime: 2019-12-29T12:06:00Z
-    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
-        width: 700
-        height: 494
-  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
-    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
-    publishedDateTime: 2020-01-06T12:26:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
+  - title: "Cloud Natural Language Processing (NLP) Market Size, Growth, Trends And Forecast 2019-2027"
+    excerpt: "Dec 27, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-27T09:45:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-size-growth-trends-and-forecast-2019-2027-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Cloud Natural Language Processing (NLP) Market 2019-2027 Size, Growth, Trends And Forecast"
+    excerpt: "Dec 30, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the cloud ..."
+    publishedDateTime: 2019-12-30T06:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-size-growth-trends-and-forecast-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Automotive Artificial Intelligence Market 2019 Analysis Research and Development Forecast by 2025"
+    excerpt: "Dec 29, 2019 (Heraldkeepers) -- New York, December 30, 2019: The global Automotive Artificial Intelligence market is segregated on the basis of Component as Hardware, Software, and Services. Based on Technology the global Automotive Artificial Intelligence market is segmented in Machine Learning & Deep Learning, Computer Vision, and Natural ..."
+    publishedDateTime: 2019-12-30T02:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2019-analysis-research-and-development-forecast-by-2025-2019-12-29
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -106,73 +106,115 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
-        width: 700
-        height: 393
-  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
-    publishedDateTime: 2020-01-02T12:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
+  - title: "AI in Education Market 2024 Outlook Analysis, Major Company Profile Analysis | Google, IBM, Pearson, Microsoft, AWS"
+    excerpt: "Dec 26, 2019 (Reporthive Research via COMTEX) -- The global AI in Education market is estimated to gain immense momentum in the coming years owing to new technological developments. AI in Education market Analysis report is an up-to-date granular analysis of the present industry conditions, market demands, reveals facts on the AI in Education ..."
+    publishedDateTime: 2019-12-26T12:12:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-education-market-2024-outlook-analysis-major-company-profile-analysis-google-ibm-pearson-microsoft-aws-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 45
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-03T11:42:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
+  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-23T07:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 42
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-01-07T05:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
+  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
+    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
+    publishedDateTime: 2020-01-03T10:02:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2019-12-31T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    ampUrl: https://markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-fashion-market-to-2027-global-analysis-and-forecasts-by-offerings-deployment-application-end-user-industry-1028789346
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+  - title: "Image Recognition Market 2020-2029 | Modern Analysis of Worldwide Competition, Strategic Development and Progressive Approach"
+    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
+    publishedDateTime: 2019-12-27T09:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020-2029-modern-analysis-of-worldwide-competition-strategic-development-and-progressive-approach-2019-12-27
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 27
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
-    excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
-    publishedDateTime: 2020-01-02T11:52:00Z
-    sourceUrl: https://www.cloudcomputing-news.net/news/2020/jan/02/goodbye-2019-hello-2020-year-cloud-reviewed-and-what-horizon/
+  - title: "Global Automotive Voice Recognition System Market 2019: Analysis Report by Product Type, Industry Application and Future Technology 2025"
+    excerpt: "Dec 24, 2019 (Hitech News Daily via COMTEX) -- Get an extensive research offering detailed information and growth outlook of the Automotive Voice Recognition System market in the new research report added by ResearchBeam. The report presents a brief summary of the market by gathering data from various sources and industry experts prevalent in ..."
+    publishedDateTime: 2019-12-24T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-automotive-voice-recognition-system-market-2019-analysis-report-by-product-type-industry-application-and-future-technology-2025-2019-12-24
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 21
     images:
-      - url: https://www.cloudcomputing-news.net/media/img/news/abstract-2020-2019-new-year-countdown-design-concept-wood-blocks-on-picture-id1176676740.jpg.600x600_q96.png
-        width: 600
-        height: 450
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation(MT) System Market In-Depth Analysis Report 2019"
+    excerpt: "Los Angeles, United State,December 24th,2019 :QY Research offers an overarching research and analysis-based study on the global Machine Translation(MT) System Market , covering growth prospects, market development potential, profitability, supply and demand, and other important subjects. The report presented here comes out as a highly reliable ..."
+    publishedDateTime: 2019-12-24T11:27:00Z
+    sourceUrl: https://www.openpr.com/news/1884699/machine-translation-mt-system-market-in-depth-analysis
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "The Global Natural Language Processing (NLP) Market Size is Forecasted to Grow to USD 26.4 Billion by 2024 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering. The global NLP ..."
+    publishedDateTime: 2019-12-30T13:19:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191230005197/en/Global-Natural-Language-Processing-NLP-Market-Size
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
+        width: 700
+        height: 365
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "FlSqzcoZUjltlKXOdUYwOfHBuDGkMJSdMFh6SAS7aI6AbJ1rn61yxcnwlECHLzOTJUk9EAcrlDWQb5XlEDsoGpAcISToKSoxcHl0PBll0/8EbZyi6Kj8nxTprmHT4P492t4wBR1nkPzaq4G72lWXUCqp/WNRQ7C60JBAtMiULyoXl4ntCEbbjKQZy/v31/0nWkN9TDq9dRPxr/bsYBuVPTuxgPrPx/taEdOZLbjUzDeUP7zaz/f3AthQrYufQISwlvfQ+7JsCkbZOo6wJpzi+g==;9FffQ8PSyA9topbIvCCxBA=="
 ---

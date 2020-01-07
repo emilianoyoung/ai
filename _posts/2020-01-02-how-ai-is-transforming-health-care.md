@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.476979A0A91FA0BF15C5EA616D55C2D8
         width: 700
         height: 466
-  - title: "India bullish on AI in healthcare without EHR"
-    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
-    publishedDateTime: 2020-01-06T08:26:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.287B3969A67EEFFEF2C95AADDD19FB98
-        width: 700
-        height: 379
   - title: "15 things to know about Amazon's healthcare strategy heading into 2020"
     excerpt: "He also reported the company aims to use the cloud and artificial intelligence to improve healthcare. 3. In March, Amazon made a $2 million investment in Boston-based Beth Israel Deaconess Medical Center to test artificial intelligence tools. The two have partnered since 2016 when Beth Israel bought AWS's cloud software and reported significant ..."
     publishedDateTime: 2020-01-06T16:24:00Z

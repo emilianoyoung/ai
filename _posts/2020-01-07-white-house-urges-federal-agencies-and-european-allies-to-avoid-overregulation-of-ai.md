@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
         width: 700
         height: 474
+  - title: "White House proposes regulatory principles to govern AI use"
+    excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
+    publishedDateTime: 2020-01-07T04:50:00Z
+    sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
+        width: 700
+        height: 466
 
 secured: "vmAoM5MSonhZehOkU7Zl/UOtHYwu8xMPkM7pDChApE1XH1MixY3eOF/568yF6Yg2U2TjFRd/oFLkPu0op2Z8agz+b57CdEUVqcFBcINohQVPuDygBlzrjr6Q0KEp9WYwnwwg8Un7S1s7eh9TeX/FONiRBcPTY5ZlZMbQzcWaF+eAepwDZB1ewHtP9hP9FRHv6U+jafDfBvlTIgf1Vo0k1XJmM7baT1sRusLLbVNMBogsSOA0/Ru37ztVX6EnuxBVmHI6Y5G2aPWsoj1+4bvMxA==;2fUwVv8pzpQvwwKYXOcRZQ=="
 ---

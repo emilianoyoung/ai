@@ -8,7 +8,7 @@ ampUrl: https://www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-att
 cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/chennai/healthcare-needs-urgent-attention/article30422213.ece/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "‘Healthcare needs urgent attention’"
 
 related:
+  - title: "How AI is Transforming Healthcare Industry"
+    excerpt: "The landscape of the healthcare industry has evolved with the progress in disruptive technologies. It is no more a guess-game today, rather transformed into a space of precision and advancements. The peculiarity of artificial intelligence technology has brought new innovations in the medical world. From identification of disease to its ..."
+    publishedDateTime: 2019-12-29T12:06:00Z
+    sourceUrl: https://www.analyticsinsight.net/how-ai-is-transforming-healthcare-industry/
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.F0AAFA884E682461221159BD7AD74D4D
+        width: 700
+        height: 494
   - title: "How to Ensure Your Health Care Innovation Doesn’t Flop"
     excerpt: "These days, everyone working in health care is chasing innovation to thrive in this era of increased accountability ... Many organizations define innovation as novel technologies, processes, and business models. They may regard artificial intelligence, just-in-time supply chain, or bitcoin as innovations. These things, at least in their early ..."
     publishedDateTime: 2019-12-28T16:43:00Z
