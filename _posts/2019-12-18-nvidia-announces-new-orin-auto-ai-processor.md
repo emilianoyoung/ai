@@ -31,7 +31,7 @@ images:
 
 related:
   - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
-    excerpt: "Baidu, which is China’s most prominent company in the field of AI ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote. When asked about specific timelines around the public availability for autonomous vehicles ..."
+    excerpt: "Baidu, which is China’s most prominent company in the field ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote."
     publishedDateTime: 2019-12-18T07:28:00Z
     sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
     ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
@@ -86,19 +86,6 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
         width: 620
         height: 465
-  - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
-    excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
-    publishedDateTime: 2019-12-25T06:38:00Z
-    sourceUrl: https://analyticsindiamag.com/top-players-autonomous-delivery-vehicles-sector-2019/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.ADF1C0D6AF294B0F9C2C687AC95AABB7
-        width: 700
-        height: 393
 
 secured: "y7W8/k6DfbMNefAZZYbpVcWhJhZSDjCM1zso7auvgUbOe4tAOK1y0Z9vl8D50Zov5OM/eGh49eGM/2NZoiTyVtf3Q2RrG5GLQcuE/WivrSdiUaMewvexHiw1qQLfOeCbY/rmJYHJJvnis5cGL8d4GXU2Y6kOC0GKcNNd9BWC7KECCX7QI/sNEhKBGcyKnZkIZliG7HJYDvhhiK8B7bbf2ewgIT7QNjNMMnLlXv+WKK2o4YU8Ruw++iYr3V9kFlsdZgrHKqTCKYidpIyQvKoWSQ==;2CM07LzIb2995a76Kguv2A=="
 ---

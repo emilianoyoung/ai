@@ -119,19 +119,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Tilde’s AI-Powered EU Presidency Translator has provided more than 1.4 million translations for the EU Council Presidencies"
-    excerpt: "Finland's presidency of the Council of the EU has set new records using customised machine translation developed by the language technology company Tilde. In less than six months, Finland’s Presidency has used Presidency Translator more than 600 thousand times, translating over 12 million words. Tilde has already supported six Presidencies of ..."
-    publishedDateTime: 2019-12-18T11:32:00Z
-    sourceUrl: https://www.baltictimes.com/tilde_s_ai-powered_eu_presidency_translator_has_provided_more_than_1_4_million_translations_for_the_eu_council_presidencies/
-    type: article
-    provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 13
-    images:
-      - url: https://www.baltictimes.com/media/photos/146888_15356388205dfa082d396cb_big.jpg
-        width: 855
-        height: 570
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
     publishedDateTime: 2019-12-18T18:27:00Z
@@ -151,6 +138,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "kHWp2gT670h4hh/5c9UJoXJScYIza8/Ri6hsTh9+xitU2YuIvQJVCT62oC7TDI9vdvHTBwAhVA1TQEr2t+Kx3DmJe/VeboWY2i2MlkAFzbmRc4Ik/mQalacFkNKTe0m67JHSnkDmuBWEEnWz0/0ilNlpZItg7EGTu3XsfpgiCx257LVWJrEfhrRIBemhgjR54nPOmaKnRVvlwPtqBSeTkNx3xQgIvAwymz02gvkbiZBG2onFDvGl6GFzbNFQHRDeKYLR10QHDRxMOxor3m35zQ==;OTJS3gUscZUFbbwbDRTlug=="
+secured: "Q/d23oxgQY5rcwfQ/vFS6e9leM1if/qp5WAnMBmhEZ1Hoi1kxw5ki1muHD/N1O9yvlpoS1XmeZQMEBp1Xl7zxcn3toNDX86/MEswfYFsTp9piJq5XZmrEFgAzZj5dX2iyUMpBDRz4o21qCT7xv3/rE3NVAbJDeynvO0Ru59EEd/UMet1RDWv8ThN+iw/I9coFabMV5/p2wd8BY8bGUXPDwsybtl/YJmA/eUJkCLkBYGILyL2ZZwkAbNlKsw8abR29aHEHUhwOr5Zotf5Gx3Sug==;rfUR5lDRO2bDbUs0MdRZ7A=="
 ---
 

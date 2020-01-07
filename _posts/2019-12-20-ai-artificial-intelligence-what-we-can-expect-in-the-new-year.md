@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/tomtaulli/2019/12/20/ai-artificial-intellig
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2019/12/20/ai-artificial-intelligence--what-we-can-expect-in-the-new-year/amp/
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,17 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D118584CC2AADF6794F55247C27D847
         width: 600
         height: 315
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-18T11:16:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/18/tech-trends-2020-battery-power-ai-privacy/4360879002/
-    ampUrl: https://amp.usatoday.com/amp/4360879002
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4360879002
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 39
 
 secured: "vBbgOrY680Hd566FZkqt6CvUzbjn/cUC4rCEvIugCxNXiAv9UXwHXHlHCXnfPoHaXAxlBc6+tAnoMXzYJ8iJZMyTj8rhC3i6QN+dkf9Rnzlna5zKtBjAnPqKuKVFz7eTdVhzV+OOql4inGVrQcpCljIbDhH+Vb43NYWObLdUA7p8N1Jv29K0AFMeXU+TLdLZuASyixzgZpbtFLsipZa/8LQOJoXw/UAJ7fESawxNEq6U8Vrf7XZP85MUkSd5LqD1zpDtPWbYylBhV3sELFMOng==;fs0Jva1qctJxGwS2dkcTHw=="
 ---

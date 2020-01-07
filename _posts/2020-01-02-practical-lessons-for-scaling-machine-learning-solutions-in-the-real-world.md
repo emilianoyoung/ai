@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1FE5C96CBFAFC7DD79276C871476C9BC
         width: 700
         height: 420
+  - title: "Tiny Machine Learning On The Attiny85"
+    excerpt: "We tend to think that the lowest point of entry for machine learning (ML) is on a Raspberry Pi, which it definitely is not. [EloquentArduino] has been pushing the limits to the low end of the scale, and managed to get a basic classification model running on the ATtiny85. Using his experience of running ML models on an old Arduino Nano ..."
+    publishedDateTime: 2020-01-07T12:07:00Z
+    sourceUrl: https://hackaday.com/2020/01/07/tiny-machine-learning-on-the-attiny85/
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.C1F7A4F88456153D7C68C04023EB8F8A
+        width: 700
+        height: 316
 
 secured: "2Oo4VgRtsL7CRPr54pK64aQ4Upf+sXBWsuDPQkU7LE6iyJfC7JKSQKhMEtB+FOXtu1BZW0snBVKtODAjPDQkDyk3uuMf2OFiTN7JRs0DkJ3cEgviofD10zNHb2a7wPkr9XElXJd1dS2Erx+xvepNnbx2uk5I3LEGmDo5A/eufllVs+jOv/4eMyLuSYIwT8IVMkoJFLAaKBabSqKTmJy3vAyLFDdx5r2IEoOfP1nPcacIaX5y8f3xDHrgyfSGz7i0cJWvcuTA20XBtLxLO1Egkg==;Y15rFf5Y+JMYErcgThxQAg=="
 ---

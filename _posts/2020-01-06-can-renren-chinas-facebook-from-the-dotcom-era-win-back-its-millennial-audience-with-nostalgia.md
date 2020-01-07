@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/apps-social/article/3044869/can-renren-chinas-
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3044869/can-renren-chinas-facebook-dotcom-era-win-back-its-millennial
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Can Renren, ‘China’s Facebook’ from the dotcom era, win back its millennial audience with nostalgia?"
 
 related:
+  - title: "Facebook defies China headwinds with new ad sales push"
+    excerpt: "Facebook could also develop e-commerce tools for Chinese advertisers to organise influencers and set up storefronts, Paull said. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable ..."
+    publishedDateTime: 2020-01-07T12:37:00Z
+    sourceUrl: https://www.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+    ampUrl: https://amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3045061/facebook-defies-china-headwinds-new-ad-sales-push
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.120A91E7ACE6AA80D7A90A9A8F87DBBF
+        width: 700
+        height: 367
   - title: "Can Renren, ‘China’s Facebook’ from the dotcom era, win back its millennial audience with nostalgia?"
     excerpt: "Like Facebook, which it is often compared to ... Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand insights and analysis into the latest industry developments, and actionable and objective intelligence about China AI that you should be equipped with."
     publishedDateTime: 2020-01-07T03:52:00Z

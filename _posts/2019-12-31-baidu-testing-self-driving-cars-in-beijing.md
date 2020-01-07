@@ -108,6 +108,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
         width: 700
         height: 449
+  - title: "Sony to test self-driving cars to boost sensing, safety technologies"
+    excerpt: "Sony Corp said it would start testing self-driving cars as early as this year to beef up the company’s sensing and safety technologies, as the Japanese electronics and entertainment giant accelerates its automotive push."
+    publishedDateTime: 2020-01-07T07:35:00Z
+    sourceUrl: https://www.reuters.com/article/us-sony-autonomous-idUSKBN1Z60MF
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60MF
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60MF
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
+        width: 700
+        height: 466
   - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
     excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
     publishedDateTime: 2020-01-02T08:03:00Z
@@ -220,19 +235,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
         width: 600
         height: 315
-  - title: "Sony to Test Self-Driving Cars to Boost Sensing, Safety Technologies"
-    excerpt: "Sony to Test Self-Driving Cars to Boost Sensing, Safety Technologies Sony revealed the plan as it unveiled an electric concept car with 33 embedded sensors, including image sensors and solid state light detection and ranging (Lidar) sensors, at the Consumer Electronics Show (CES) in Las Vegas on Monday. The concept car, developed with the help ..."
-    publishedDateTime: 2020-01-07T07:59:00Z
-    sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/sony-to-test-self-driving-cars-to-boost-sensing-safety-technologies
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.082EC6CDF27236B9065DCD0E0882D193
-        width: 700
-        height: 466
   - title: "3 deaths in rash self-driving Tesla crashes threaten Elon Musk's autopilot ambitions"
     excerpt: "DETROIT (AP) — Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. Continue Reading Below On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed ..."
     publishedDateTime: 2020-01-03T11:26:00Z

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
+excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
 publishedDateTime: 2020-01-06T16:19:26Z
 sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
 type: article
@@ -107,6 +107,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "9eObozWFZGrbHw8oAQid++5STRR0C2Q3z4GyyRkxKApQdVCTWVD6P9qgMZAqczbIrFfqMJ98rbTMm3fnj1BUoJ365lhk7+3OgtNDnAfz0JDmKRH+HfgGlqCYHQQ/X6ZOtebF/bvAsTRgO3nphijxNuqiOkNg6CpZTxZFIXW5bEq/mBUXcAy/EPlGsc/k55hfFwNC/o1tlFnHRp0/024CgHB2ggC5ManDA5PZA9voCnpRWCK8fia2/sC0wTu8K4F7FLEE8irVE1k6nEEx8TTlug==;MTsQJmZrULAI9/ZnSevbVw=="
+secured: "xxyngEXgm/kcJQ3KWPs68NAdlsDlL2Fmvk0Wyyg4wTVSV5wBJKgsfQtrtrLbUAkeLk2nkSWqFa50sD5m3ydOzEl+r7B6eINQbPSbtEapS92GTW1b2vCwOZ84Jw5LMhxIYiD+U610/ovIypc0kaAUsMkNfbKseoTvHOPGzhoqfGe7L75nnCO0n+7LLSJfSAaY/v2ePH02RMqD1FboR4MiYLOv77h+4EhQMXiklpEGc3b47RmiT0A76mnjN2B1Ra0MmQQ+Wp+/zQRba3TwEuODsg==;GkwrO+eO0CNStZV/ljwkbA=="
 ---
 

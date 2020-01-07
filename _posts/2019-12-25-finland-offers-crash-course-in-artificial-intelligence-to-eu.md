@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F40504C83DDF82A7B0E16F20315D99
         width: 700
         height: 465
-  - title: "Finland is offering a free crash course in AI to everyone in the EU"
-    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
-    publishedDateTime: 2019-12-18T11:38:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
-        width: 207
-        height: 155
 
 secured: "rsgw2Ohg/mEEQxiyYrVym7sEN0nyNOL3jhPdIuMYYGrJN0wGr7iV4lyMUf2+U/0N0pEkhRqi/YrDHJTy9wM2YjZYFyiQ5SIUkdz/JpcxAV0TYMMgj7GGgjyYPjzpSn53BEa/XgRBjjLabLYyLci6ak7nsnchKahO+lwRT0xX+iMow11glskhAkyYu1RjZSzAlnrl8G+cthznwlB6X/EskNOH2AD4wqD/TOSUMM8lF2EYtmXDYHlQP5yexalk895NI3ta4RKwZufxRG7Cz2XDwA==;q/u0cOiUGyqmhb0hTV37jw=="
 ---

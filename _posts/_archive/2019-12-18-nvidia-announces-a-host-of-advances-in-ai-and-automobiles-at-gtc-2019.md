@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
-excerpt: "Baidu, which is China’s most prominent company in the field of AI ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote. When asked about specific timelines around the public availability for autonomous vehicles ..."
+excerpt: "Baidu, which is China’s most prominent company in the field ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote."
 publishedDateTime: 2019-12-18T07:28:00Z
 sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -86,20 +86,7 @@ related:
       - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
         width: 620
         height: 465
-  - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
-    excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
-    publishedDateTime: 2019-12-25T06:38:00Z
-    sourceUrl: https://analyticsindiamag.com/top-players-autonomous-delivery-vehicles-sector-2019/
-    type: article
-    provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.ADF1C0D6AF294B0F9C2C687AC95AABB7
-        width: 700
-        height: 393
 
-secured: "5+QqlXiIluxVby90APvXnRsiv34zTisSb7Yf/E9lJKS2TuBeqJaAAS5r5GGvKx9BS2MTPr6Wss22Nyz7fTn8qjpO7qA4dz5KB66uK94u7V77mOKtf/poxEWKnif7YGoG8tSJd5Fbi4GxfJO4kELLwfA4LQsd7wI5KPHgZ296Ly0QCML7W9b78DF1O0LSDSqqEittxfib5RgtLT+fM4ZOyJ7l7BhUnKaRDyLlaTVr1CcHqdAavI0vSg51dYfTyYyXJP0ug2i4wEmQHhSn0HhfZA==;4FoUK4N/613FxKI/nQ0eZA=="
+secured: "Ll/qCwWpVWv7hZkqn6SELngNnqrJamDx0CVKIfkCzOo/C0LxgHUtWWe9kHF8bSfD1Ca/IUwCWzY3R12+Ptm6pDWK8CFa75HS1ch0kD/x0C8oXJXxDoqXLnlytwMjmtg/xlmlWukrlEikDhq9HXQj/zb7nQhPH4072zUADCO3YKT4AO5Sb7VKPf7Vml79FuToET+1zH5mKqIGEuJMm0hWe8hwxAKzaXqLalGl4VoiJ1YTJbHpnc0/PdxpvXqxqjzRc2BtL4vjGvfv3dn1aDIing==;z0TohzgGiyiUuSwyINAhow=="
 ---
 

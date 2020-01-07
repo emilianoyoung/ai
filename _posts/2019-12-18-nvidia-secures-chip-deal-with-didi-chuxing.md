@@ -24,17 +24,6 @@ images:
     title: "Nvidia secures chip deal with Didi Chuxing"
 
 related:
-  - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
-    excerpt: "Nvidia shares are set to open at a fresh all-time high Wednesday after unveiling three key chip deals with some of China's biggest tech giants. “Developing safe autonomous vehicles requires end-to-end AI, in the cloud and in the car,” said Nvidia's Rishi Dhall. “Nvidia AI will enable DiDi to develop safer, more efficient transportation ..."
-    publishedDateTime: 2019-12-18T11:51:00Z
-    sourceUrl: https://www.thestreet.com/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    ampUrl: https://www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 46
   - title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
     excerpt: "To train these DNNs, DiDi will use NVIDIA GPU data center servers. For cloud computing, DiDi will also build an AI infrastructure and launch virtual GPU (vGPU) cloud servers for computing, rendering and gaming. DiDi Cloud will adopt a new vGPU license mode to provide users with better experiences, richer application scenarios and more efficient ..."
     publishedDateTime: 2019-12-19T00:09:00Z

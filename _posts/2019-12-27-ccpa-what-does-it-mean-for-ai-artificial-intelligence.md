@@ -44,17 +44,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D142%26cropY2%3D2842
         width: 1200
         height: 675
-  - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
-    excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
-    publishedDateTime: 2019-12-18T11:16:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/18/tech-trends-2020-battery-power-ai-privacy/4360879002/
-    ampUrl: https://amp.usatoday.com/amp/4360879002
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4360879002
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 39
 
 secured: "T6iNJ6k3ft7d3QpaLOnrbNmOfyD7qdfujVZcCqHcYyzMudRlHnhWLwwA6xg6k3ZvxWpdmRh1KjHQbzddfCGOTsu534jb/KQXvlPPCDvX3GP+8rL1mHuLBpvPx9eJJHXd7fn3vlrAXVz64j8e7mh58PRVRrPm+MgKL3m6ZG/igGfoIRSQFfXaaxhRxRHZ42IUz1qPwUlKW6y/9AiNy0Znm08A1fH/Cn66pwOWAJBifBAb1rTxWNPPgJYl922/a1my5Gjs7kf2O+SC6hiAt8MItg==;mH5211kbB0YrbIfrsoc0nQ=="
 ---

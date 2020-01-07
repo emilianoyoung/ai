@@ -8,7 +8,7 @@ ampUrl: https://www.denverpost.com/2019/12/22/finland-artificial-intelligence-eu
 cdnAmpUrl: https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2019/12/22/finland-artificial-intelligence-european-union/amp/
 type: article
 quality: 56
-heat: 76
+heat: 66
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "Finland offers crash course in artificial intelligence to European Union"
 
 related:
-  - title: "Finland is offering a free crash course in AI to everyone in the EU"
-    excerpt: "6 companies hiring in fintech right now 7 US companies hiring in Ireland right now The Finnish government is teaming up with the University of Helsinki and tech consultancy Reaktor to create an AI crash course suitable for all EU citizens, regardless of age, profession or education. Finland is offering a free-of-charge online course in ..."
-    publishedDateTime: 2019-12-18T11:38:00Z
-    sourceUrl: https://www.siliconrepublic.com/machines/finland-free-online-ai-crash-course-eu
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE3F1E437F1F0A994C6A8D0888CF3880
-        width: 207
-        height: 155
   - title: "Finland offers crash course in artificial intelligence to EU"
     excerpt: "HELSINKI (AP) — Finland is offering a free-of-charge online course in artificial intelligence for European Union citizens in their own language, officials said Tuesday. The Nordic nation, headed by the world's youngest head of government, will mark the end of its rotating presidency of the EU with a highly ambitious goal. Finland is aiming to ..."
     publishedDateTime: 2019-12-25T16:12:00Z

@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.102EF75724DEE538DD0EDC04A7723F2E
         width: 600
         height: 315
+  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
+    publishedDateTime: 2020-01-07T11:43:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
     excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
     publishedDateTime: 2019-12-31T08:59:00Z

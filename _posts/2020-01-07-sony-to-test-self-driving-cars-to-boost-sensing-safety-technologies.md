@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Sony to Test Self-Driving Cars to Boost Sensing, Safety Technologies"
-excerpt: "Sony to Test Self-Driving Cars to Boost Sensing, Safety Technologies Sony revealed the plan as it unveiled an electric concept car with 33 embedded sensors, including image sensors and solid state light detection and ranging (Lidar) sensors, at the Consumer Electronics Show (CES) in Las Vegas on Monday. The concept car, developed with the help ..."
-publishedDateTime: 2020-01-07T07:59:00Z
-sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/sony-to-test-self-driving-cars-to-boost-sensing-safety-technologies
+title: "Sony to test self-driving cars to boost sensing, safety technologies"
+excerpt: "Sony Corp said it would start testing self-driving cars as early as this year to beef up the company’s sensing and safety technologies, as the Japanese electronics and entertainment giant accelerates its automotive push."
+publishedDateTime: 2020-01-07T07:35:00Z
+sourceUrl: https://www.reuters.com/article/us-sony-autonomous-idUSKBN1Z60MF
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60MF
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60MF
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: /assets/images/organizations/usnews.com-50x50.jpg
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
       width: 50
       height: 50
 
@@ -22,10 +24,10 @@ topics:
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.082EC6CDF27236B9065DCD0E0882D193
+  - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
     width: 700
     height: 466
-    title: "Sony to Test Self-Driving Cars to Boost Sensing, Safety Technologies"
+    title: "Sony to test self-driving cars to boost sensing, safety technologies"
 
 related:
   - title: "Baidu secures licenses to test self-driving cars in Beijing"
@@ -536,6 +538,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "e5iMM/00Y/Qkhsklj61xZs66B39LJSIkkietREd2IfCOejawIk0+To1LoTTVFVbm6UwQ1F03ldR3JOMkXayvJZcsiP0X2L6PYAWOgOKEdNblxzch5h0cior6xkxuNerQmtIIeXp0ypNX3PR8bTj8ncq0XDPCJYihsxE10hQlxjZ3sNodnZVdBcIU4gA+TtKLoq8FOxLGOhQslUeMfa4o+MDLnZIXJbJmAbjOvUV566eyQPf4CI6z4BnD9g9wZJcDy3SaBsEk1N3CPJYE5CegSA==;fce2lupFYYOGiVX6/LRy3w=="
+secured: "AAgIZL7dhaHlHtN+CVwwxydr0gRJI6VzLuj0fOQIxu0NFZCp6uPA52Hxczrgixp36q6NIReAbSkW6m8Z22zP3AB+wdFVvEyvOVr+Vfu7DyWLeabomARl6sr4yAXi0CiyQl8qq7pAkEtuslhtxBIssc3T7UDoExIMiL0d9RVS0Yk2G/hsYCcv+m2gTU2jAZ+LUGb2OWoJxxDEJnKIGg08GLV0UgCWJt6I3mBaHD/cuFcCGrLSzBIRhSyinAYz6Dz+mECfp34UUpwO5X4o3LmygA==;qiZQV9AVmE+V7K9o6htU1g=="
 ---
 
