@@ -27,6 +27,6 @@ images:
     height: 360
     title: "Artificial Intelligence in Media"
 
-secured: "5C/3GyRqVQKQmjYVweNUdMnKwnoxtNCZdIJFfKZHeB3h04ISrp9/fnLeUz6t/GSbxVQz/6s0o5aHBrjdKv2rvQo1Isn36Gwnqs8sFyBijnBuo3lHD5z+JneLEc7Br1QUv07//nmQ2dBEqSB15izV3LBxsDkAPd79AJvyU1u/gsOaSnXFLiDksrdnPA2hZAhTC0o45H6/fA4iVMzLY8S/dwHFJj+UkJPtPRXxD0vOieYBJRXYPB+tab46E3b/B30gEk3IeHNeDG1vQICg9RtRqw==;25v5ygkwj8FCZMLIlnb++A=="
+secured: "MFdZfWEOfR0cTSkYGELYZmU3CDOOErcUjGGsRVYVgEYLrDKEPMuGNThb8h2FUGg1nUrh3Jf9+yTdpV8YFC5BDqw5oHvQomzDQd0jLOzDmxO48+IEd/oJDj1uVGcf0WyEHAO162MS5NsnBr8PEpdGXOu2QYBUheN1nAxgRa3CUT8wGtbkQg//tmzasFkv7XsjdWDbIX8uL1L0AEdsU9HQuaUhHWow9sfLWzt3rtz2+w8UAcf9vuW5DEn0/rPgGEpDGxADL9puIsedRl3jIAdEXA==;Ho/Lh+9Vdb0cOtO+mtYn/w=="
 ---
 

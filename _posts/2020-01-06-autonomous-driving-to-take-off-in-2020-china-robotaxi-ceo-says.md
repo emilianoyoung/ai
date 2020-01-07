@@ -1,21 +1,27 @@
 ---
 category: news
-title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-publishedDateTime: 2020-01-05T15:00:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
+publishedDateTime: 2020-01-06T23:01:00Z
+sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
 type: article
-quality: 0
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: NIKKEI
+  domain: nikkei.com
 
 topics:
   - AI
   - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
+    width: 700
+    height: 350
+    title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
 
 related:
   - title: "NVIDIA shows off autonomous tech for cards and robots at CES 2020"
@@ -177,19 +183,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767
         width: 700
         height: 393
-  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
-    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
-    publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
-        width: 700
-        height: 350
   - title: "Recession, robots and rockets: another roaring 20s for world markets?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
     publishedDateTime: 2019-12-30T21:52:00Z
@@ -199,6 +192,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-05T15:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
   - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
     excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
     publishedDateTime: 2020-01-06T22:32:00Z
@@ -218,6 +220,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "K9apTusHmie88GzQxp5mwN7M2bOaDH4EmmwowJ7cGk1PvGCbXViBBCV6XGjbDRJZmsdfrjgxBhfTp6HvXiw7hlfENhtfi+YB/0uekHgPe2m3JkGtkuO9mdkDY2vYTcPK1yT/Qwexllyqk8H0PHLjL3cCXsJZvu3UAnAtNlOijgNKHXD9v07kjftKZIOefDmalbbVXnzKnfftGV4NMVZMe7GXneg/7DfSPWP07D2klk6PoEHIJ6wNH1OjGa8g0M6NxRePEKMsoRWPV2spbGgEiA==;gMAK9LENraBGz+2m2cM/qg=="
+secured: "rH+GUYDG2JlHx8xYCh3RoamDTXICmBunvUD8LTubCkN9vj6j8XVkmQeJBfS+C3mzr7Y/tvWX5Xbv1dEsUXEP2UePEwUVXF/jdfH/Ip638fG0wwqg0SfYmxUgQodWS6u1DENQ2mmJD8bzLf5dlP3eu5oPCVtDy8rolZtIHsfYPSE/7oTdc/7yaEESaf+qeyX8YSiQgXXvjTK5jqIcyghIpc4Zw9Tr7YugwUpOpg74jBGQLhx3V13n9rhal8S55qCE+JEl4Rq2aYWUOMpiaqJpyA==;HL38cqpMVKNNIf731fICng=="
 ---
 

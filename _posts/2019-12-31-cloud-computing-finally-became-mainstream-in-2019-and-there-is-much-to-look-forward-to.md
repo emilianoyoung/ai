@@ -56,17 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2D1D8CC86698CDF91426608B7629FA07
         width: 700
         height: 233
-  - title: "Cloud computing predictions for 2020"
-    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
-    publishedDateTime: 2020-01-06T08:52:00Z
-    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 24
 
 secured: "uQNiQlXEOPzlx7Fpx/gFk9cEBi2/FEmHi317U6Zbgm6YAGlh+xYMa8svIGDC91AvoP3sjxamwtPV//kAByEXwkTlvRfhasp9JpNC3N19Uld0jVN9UbD6Kw/XPhHc9n6pYvu9FdEPgqJi7fTguJYVDstPUnNw4l+PvLUPBQ+IY+m6dSo+JGXFGdpt10s/S4bIilvTtedbMZEpHoOoQEQmTuhDKMuLWuxhaFXfaQKSrwVyuzxXXa6waEj8nnBTglpysPu7OEW2ifx4UFBikNhZvA==;SDWVgG7of+4sLl/oscw/yg=="
 ---

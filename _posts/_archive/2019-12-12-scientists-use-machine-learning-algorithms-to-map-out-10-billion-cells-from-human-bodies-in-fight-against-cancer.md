@@ -25,6 +25,6 @@ images:
     height: 498
     title: "Scientists use machine-learning algorithms to map out 10 billion cells from human bodies in fight against cancer"
 
-secured: "o7G3iqJO01mluL3SEjzpPPij4e3BNNAWC2sxdfZxh89/55BCQS7hl4KMtS2fOUOM0R4wCfrs+RD5MBh/l8Ic31MCFbqySi81H8Xp5/vdSw8RDS1oFWMjL39BfpEb9NVK4dMCh5qik7ixwFS2lIa0zh5X0okuueMZ+CkNp1177Oydi+3cQyJce3TzVIg4T1iW6kz0zKDs1CwnuOfYvKYwcpG3b0SFveGy7IIBL70v1rQY4jww5GtrI3VKR/BFKJx/zY+M4fusf26q6u2ab/pqGQ==;VclKlSq62mCmHpqv+uZW+A=="
+secured: "4e8ltvjicsxyYA3O8Xuy+PR5krD5K1enzAaVtm6Q6qn2m71BloLxLldfdkKFkkYkA15SL7287NWVOE0b48s+e5E51SHkF2kr5RdO+u5Y7heQMbmY8mbGl/9aDWECkx+DCGWnUe6hfujddeXGwuY5FSOn2dk3IKsCQbVMtH21KqjK6NViHBYroiTGmxBnmj+Cuhu2UDBKECmivSPGRs1o75YmIXOGzUlBkLj2DUBlt831HpZT5//7l1X9FPZ71NXMGy/rqCdRAhf4XZ/FPK9oOQ==;Z4rxVMbtRtcqhjp4rP4r8w=="
 ---
 

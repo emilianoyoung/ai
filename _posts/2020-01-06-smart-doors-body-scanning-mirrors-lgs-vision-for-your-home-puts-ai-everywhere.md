@@ -28,6 +28,6 @@ images:
     height: 525
     title: "Smart doors, body-scanning mirrors: LG's vision for your home puts AI everywhere"
 
-secured: "i76pe9vWlmvV454msQBu6awb6Taek6yBHca/OpNW660Vp5rjNn9x6kf9ol34FcHxwcTIAVN+PO+TpN13Tvb4g+nAfKipX4D1vbO1ddakF0ah/CdhIDwkzWdvi6bqUNNQs1s2KbeKmA9EPyCrIYcMs6Vxymie+3H5KvVBeKz1OfyKTuWPLIna0XwYk5637IHYB+6AfAPA+hudrdV+3lW7uqcIqIeeLjXX3RncAmDX1WKQR/oJYYsZ9ETWOyhhM0o9uRSs5fZT9DUEaYqGw/pkyQ==;aAnMoMj9eooPS0kckKFGYw=="
+secured: "Gm9SNes+AiwJZEMFJkVapR5rJtM23idZvHjEoVs4bhX8l9M9pb7cdCa9wVy0DV73jfidoRSuLgVpGkhOS/Ah+t8jY2DeNvjdXQeZczV6QjawomVOsXSQetB/0qYnLknJClImFyBWbalWazfjoYjO5ArpKktRawAkPF+ix8n11okJFM6O2Y/9ljttNhjocrFV19VZ1+88HHWIHncxJL/7dh0Mu504kyPr8gnkUwMxZvoP32k9rlogM7eTM68BCcVRZkTShmBAS/kiO695kQ4+ug==;T0LCF+kuvoXnV8dgBhaxcg=="
 ---
 

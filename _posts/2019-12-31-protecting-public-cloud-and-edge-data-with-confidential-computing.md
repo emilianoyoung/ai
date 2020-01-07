@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/protecting-public-cloud-and-edge-data-with-confidential-computing/amp/
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -60,17 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.008FC4D01114ACF33AFFAC47BA460C8A
         width: 700
         height: 393
-  - title: "Cloud computing predictions for 2020"
-    excerpt: "The actual figures can be hard to get at when it comes to the public cloud market as each vendor breaks out their numbers differently, but Synergy Research estimates that AWS is the clear market leader with around 40 percent market share, followed by Microsoft Azure at 30 percent ... VP and head of enterprise and AI research at CSS Insights ..."
-    publishedDateTime: 2020-01-06T08:52:00Z
-    sourceUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.html
-    ampUrl: https://www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    cdnAmpUrl: https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3511418/cloud-computing-trends-for-2020.amp.html
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 24
 
 secured: "/QB/uJ2HiZfPvanamjgCRo6kos4PTl3dk1Y52bu6//AScdFJJ968MR/bkdbjS5Jobm6K8hTEyCeORXjHgPRMBozMiLtuSRbNzj+se60ro4D1Atq1zJr2wQBKyS4NCANRSvA3oB/OSxryKMgUk9OakYHSQrLKfEg+QMFQlhjsS8AauteBlRGClesQOV5twKiZXfzRpN4CaPrp42bm/cpmEQQm5EU6NfS60z18nbKRVAJ313U1wAcykco49v+hkITBKGBDIM5cdQCFCZ9qrylnLQ==;bsbEfTe3evUlN38TVL4WcA=="
 ---

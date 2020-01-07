@@ -121,21 +121,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Some cities and states balk at face recognition tech, here’s why"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus ..."
-    publishedDateTime: 2019-12-17T22:20:00Z
-    sourceUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/
-    ampUrl: https://cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
-    cdnAmpUrl: https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/2019/12/17/some-cities-and-states-balk-at-face-recognition-tech-heres-why/amp/
-    type: article
-    provider:
-      name: WTTV
-      domain: cbs4indy.com
-    quality: 59
-    images:
-      - url: https://tribwttv.files.wordpress.com/2019/12/ap19290570512807.jpg?quality=85&amp;strip=all&amp;w=1200
-        width: 4030
-        height: 2498
   - title: "Democratic lawmakers call for HUD review of facial recognition in federal housing"
     excerpt: "A group of Democratic lawmakers on Wednesday asked the Department of Housing and Urban Development (HUD) to review the use of facial recognition in federally assisted housing amid concerns the technology amplifies existing biases. The lawmakers cited reports of public and federal housing administrators installing facial recognition technology ..."
     publishedDateTime: 2019-12-18T16:54:00Z
@@ -246,17 +231,6 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
         width: 1200
         height: 630
-  - title: "Why face recognition technology is making some cities nervous"
-    excerpt: "SPRINGFIELD, Mass. (AP) — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Continue Reading Below GET FOX BUSINESS ON THE GO BY CLICKING HERE Are fears ..."
-    publishedDateTime: 2019-12-17T22:07:00Z
-    sourceUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous
-    ampUrl: https://www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
-    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/why-face-recognition-technology-is-making-some-cities-nervous.amp
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
   - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
     excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
     publishedDateTime: 2019-12-19T06:39:00Z
@@ -462,6 +436,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "ppP64V2Tvq8iEv38CtpdNAPRBLSrXly6Ip2hzq0rQRYvLl22kFfI7q+1699JzRRJE1IPhhXHQfvBLPKwnqa048x7CTXUS3ucrniVQBfuwDcdHXjv2f/i5xTBiNAklY0WJkVcDeSrTVsPlXvfBxSUUiFMV3Gq/X80WOi7e/3ONuoxcMEjCKT8tOvfuhmwGxa4woVJZBxnPZ1HP4U2NaT7N3napaAXxf47wPEZeuTLS/McMDGjE6fu/bttTfMQOYqRfs2O2gutVoHZ/KWsQufMPw==;yUjXyOU36G7ZipKJRMTnDg=="
+secured: "jd/wkgMWbTHr1HVveUiYVZSjHFflMSlHJ/NenqtXri7YcJLLuc+S3i0UkNRIQjEhguKsJYSPF2QFjGJKuvz4cyoVYyxinN/zOwOT7rP71bpjtzbVVSs6vH9U+S0feECPDBsa3IKhvpednag/aNPFvz0K2ob0ZXIKlIzA8U9Gc5Bgg9kLuUK6va44gEcNUzoN1MklUfZH0HLgdchxMCczP3Ttee9zahmEcfu2CgMELM/xVibDR2ISUmMDWqp4Ut5yUIOFLNJdrX51f8zV2xZz2w==;jWGC3oOPTaNYAH+AUAci5Q=="
 ---
 

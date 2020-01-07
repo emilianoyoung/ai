@@ -1,47 +1,57 @@
 ---
 category: news
 title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
-excerpt: "\"The edge is the perfect destination to deploy machine learning applications, especially as technology advancements are enabling accurate localized decision-making,\" said Martyn Humphries, vice president and general manager of i.MX application processors for consumer and industrial markets at NXP. \"With the i.MX 8M Plus we are enabling leading ..."
-publishedDateTime: 2020-01-06T16:00:00Z
-sourceUrl: https://www.marketwatch.com/press-release/nxp-debuts-imx-applications-processor-with-dedicated-neural-processing-unit-for-advanced-machine-learning-at-the-edge-2020-01-06-12184034
+excerpt: "The range of applications made possible with the cost-effective i.MX 8M Plus spans people and object recognition for public safety, industrial machine vision, robotics, hand gesture, and emotion detection with natural language processing for seamless human-to-device interaction with ultra-fast response time and high accuracy. NXP USA ..."
+publishedDateTime: 2020-01-06T17:03:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966719/0/en/NXP-Debuts-i-MX-Applications-Processor-with-Dedicated-Neural-Processing-Unit-for-Advanced-Machine-Learning-at-the-Edge.html
 type: article
-quality: 45
-heat: 45
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
+  - Computer Vision
   - Machine Learning
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.FF66EB29416DCB31C9FEA4D8EA0D30CC
+    width: 150
+    height: 80
     title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
 
 related:
-  - title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
-    excerpt: "Here, we introduce a bespoke machine-learning approach, hierarchical statistical mechanical modeling (HSM), capable of accurately predicting the affinities of PBD–peptide interactions across multiple protein families. By synthesizing biophysical priors within a modern machine-learning framework, HSM outperforms existing computational methods ..."
-    publishedDateTime: 2020-01-06T16:07:00Z
-    sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
+  - title: "Neuromorphic Chips: Boosting AI at the Edge"
+    excerpt: "functions and application of neuromorphic chips and discussion on how neuromorphic chips can be implemented in components and systems of AI - Knowledge about robotic process automation (RPA), predictive analytics, machine learning (ML), and other emerging technologies - Information on data interface, memory interface, pixel-spike converter ..."
+    publishedDateTime: 2020-01-06T20:05:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neuromorphic-chips-boosting-ai-at-the-edge-2020-01-06
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: https://www.bing.com/th?id=ON.93A4A697ACE5D9FFA04E4637B2D5C989
-        width: 685
-        height: 468
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Taking AI to the edge with HCI"
+    excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
+    publishedDateTime: 2020-01-02T09:46:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/taking-ai-edge-hci/
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
+        width: 580
+        height: 305
 
-secured: "mDI2Xc3g8qF3REplbFoSVByjDsWtcUhFEQEgojYsilkkKN1EbNFR+ZqMo4nsE98cHGZWmAodQmaGGSk9Wb2wmKcsLgmenD42jSvfyICcmpkH2IVYvrXrqZnHsF9XILbE3kaf94y5r5fRPUbaoi6TeWOR6n9hGJkoaTUJoepR1mcuL5MgexfmtLRosiEMSX/bdhTjFeCJq2AvwW4rixilf+PwgwShHTzndI6Dno4DZYCyUt2I1Dtbf+K6EKnn+AvnifpYc4MP1znC7hQKgIP4sw==;FpKAmodynQ1sNA3ukASelw=="
+secured: "/fcMK/pzu5EGWNUnaQVZNpkRPckSW0j2SXsaWtqNLQ2+UbZyhLf+A6fCcWAq4Jc12dmuPR4hm+1SyFJrUwaKiC3lhySq+8RR97pYUKIjQvOaVqvvIxdDXlgLujnM3vo7/Y8AUMTLYBg67oslw1Qy45PIp5/sFIfFbizuqMKgxT9s+hERXuDkwU52FRuwV7ckT5XG4a413d7tZZOxYlZerczaQCrI88e466cYKkAL5Bg42Q4DMSNg9v3Sdu2FYMz4ZoXr0XhHNXa1Bi8hKtc1Vg==;BuE6dXU4P3Rtv5D/6mKmBg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.livemint.com/industry/banking/big-tech-is-coming-for-banking
 cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/big-tech-is-coming-for-banking-experts-predict-fintech-s-2020/amp-11577251234356.html
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
-  - title: "5 top tech predictions for 2020 and beyond"
-    excerpt: "Here are IBM’s top tech predictions for 2020 and beyond. 1. Meet Your Co-Workers. Their Initials Are A.I. Recent research on the future of work, from the MIT-IBM Watson AI Lab, shows that AI will increasingly help us with tasks that can be automated, such as scheduling. But it will have a less direct impact on jobs that require human skills ..."
-    publishedDateTime: 2019-12-31T11:04:00Z
-    sourceUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/
-    ampUrl: https://businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
-    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/cloud-hosting/363272/5-top-tech-predictions-for-2020-and-beyond/amp/
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F60622A5CFD3BBE31D7ED8F852E5B8F6
-        width: 640
-        height: 427
   - title: "Big Tech Is Coming for Banking: Experts Predict Fintech’s 2020"
     excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: “The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organizations’ offering their customers banking products."
     publishedDateTime: 2019-12-23T12:00:00Z

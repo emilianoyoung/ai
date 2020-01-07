@@ -8,7 +8,7 @@ ampUrl: https://www.journalnow.com/news/national/intel-buys-israeli-ai-chip-star
 cdnAmpUrl: https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/intel-buys-israeli-ai-chip-startup-habana-for-b/article_7a9b8114-30dc-535d-ab55-6327125097f6.amp.html
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     title: "Intel buys Israeli AI chip startup Habana for $2B"
 
 related:
-  - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
-    excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
-    publishedDateTime: 2019-12-17T22:45:00Z
-    sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
-        width: 700
-        height: 350
   - title: "What Intel's Habana Labs Deal Could Mean For Its Nervana AI Chips"
     excerpt: "To date, Intel has named Facebook and Chinese tech giant Baidu as early supporters of ... t and they're using their deep wallets to spend when they need to,\" Krewell, of Tirias Research, said. This strategy of providing CPUs, FPGAs, GPUs and AI accelerators like Nervana and Movidius is what Intel has begun publicly referring to as its \"XPU ..."
     publishedDateTime: 2019-12-18T22:23:00Z

@@ -37,19 +37,6 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.73B20EFAAA42242C57DF92986FB9B9D7
-        width: 700
-        height: 379
   - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
     excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
     publishedDateTime: 2020-01-02T17:08:00Z

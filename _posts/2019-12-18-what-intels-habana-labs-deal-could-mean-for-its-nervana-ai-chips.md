@@ -34,19 +34,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4CBCC1DED872190B27485DF30F060EC2
         width: 700
         height: 393
-  - title: "Intel spent $2 billion to buy another AI chip startup, and a Wall Street analyst says the deal suggests its AI master plan is struggling"
-    excerpt: "Intel bought an AI chip startup for $2 billion which a Wall Street analysts says raises questions on its AI game plan."
-    publishedDateTime: 2019-12-17T22:45:00Z
-    sourceUrl: https://www.businessinsider.com/habana-labsi-startup-intel-2-billion-ai-strategy-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.E0EDB9D786FF055BFE1DA1B37B74D94B
-        width: 700
-        height: 350
 
 secured: "Z7p4jlXh+EvVmX7mQucEmkDf1ju5zpwhMrt+dHiw0Dprfh1TGLbx3zq5TAZnUaQjESrFaH/moFcqhH50zSb/8G6WYOvPsz/SdKsL2dpsIDQH03iDB7/1I4W5ZcRJoDcKmcFVlp9/Zn6Xoc04tOK5Ao3BG4VwhdGeyOC1haaGrt3TNUJRw+KTmBbJgpXzcpBQl9m4aLL8bdUMvdXtybdz93rXOEkIURUCaLdBIcu6+R8iCrZ9rbnt1BG91fqicgglaQBXZ2m1BF0FyRuJjhk1sQ==;M6+q0drfVrNabL+7kaVCzw=="
 ---

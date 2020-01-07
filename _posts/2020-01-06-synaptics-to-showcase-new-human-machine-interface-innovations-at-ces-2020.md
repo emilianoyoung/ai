@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T13:00:00Z
 sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966408/0/en/Synaptics-to-Showcase-New-Human-Machine-Interface-Innovations-at-CES-2020.html
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -16,81 +16,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "5 Innovations That Will Dominate CES 2020"
-    excerpt: "But thanks to advances in computer vision, relatively inexpensive devices are now able to gauge health from afar. Earlier this year, researchers at the Massachusetts Institute of Technology’s IBM Watson AI Lab configured computer vision models to run on low-power devices. Thanks in part to that research, the health monitors shown at CES 2020 ..."
-    publishedDateTime: 2019-12-30T16:00:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344124
-    ampUrl: https://www.entrepreneur.com/amphtml/344124
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344124
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.8979E3C5F78BB1BDBA4520A7B422A7A2
-        width: 700
-        height: 466
-  - title: "5 open source innovation predictions for the 2020s"
-    excerpt: "IBM Watson made a huge splash when it appeared on \"Jeopardy!\" in 2011, bringing artificial intelligence into the mainstream. Now, Ferris noted, AI is part of our everyday lives and we interact with Siri and Alexa daily, talk with customer service chatbots regularly, use facial recognition to unlock our gadgets, and are nearing the advent of ..."
-    publishedDateTime: 2019-12-30T17:24:00Z
-    sourceUrl: https://www.techrepublic.com/article/5-open-source-innovation-predictions-for-the-2020s/
-    ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.330EA3C33B3FA5981080DE6041BBAEC6
-        width: 700
-        height: 525
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
-        width: 700
-        height: 357
-  - title: "What impact will voice search have on SEO in 2020?"
-    excerpt: "The introduction of IBM’s Watson in 2010 paved the way for voice technology devices. Watson is a powerful voice recognition question-answer computer system that stunned the world as a super-intelligent, thinking, and speaking robot that was able to beat Trivia grandmasters on the TV quiz show, ‘Jeopardy’. In the following year ..."
-    publishedDateTime: 2020-01-03T20:06:00Z
-    sourceUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/
-    ampUrl: https://www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
-    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2020/01/03/voice-search-impact-seo-in-2020/amp/
-    type: article
-    provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.86AF3E2BF73DA0D28E2AC70D2742037E
-        width: 360
-        height: 240
-  - title: "Artificial intelligence will dominate 2020, according to IBM"
-    excerpt: "The United States has been slow to adopt artificial intelligence technology, but according to a new study from IBM, this could change rapidly in 2020. IBM’s General Manager for Data and Artificial Intelligence, Beth Smith, joins The Final Round to discuss the results of the company’s study."
-    publishedDateTime: 2020-01-02T21:44:00Z
-    sourceUrl: https://finance.yahoo.com/video/artificial-intelligence-dominate-2020-according-214455756.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.9E6AEA0FC3AFE913115146EB091A20BD
-        width: 700
-        height: 525
 
 secured: "2+b6fhGgNRP36W9lIlkOtJcc5Y0JYDlT7ijqqsbnTjVjaz9Kh1NE2zSjU01RDJc+oHvLgNCfDG7yqQFTUy/qb6IWVs6UAb5p0rcOF812I9K84Z2am9tM2xPaGgP7Y6WGzlxnrE0FHf5Gz+woKcPompYxzkZRzE75q+Z6MtBjEhcA48nuLL53mY5ynr0j/oSSSjlSwzYg0Ds/GiUM4R2VsKw33O/yFDk2e4dGy15Sw8peX4PgSXKH2fuVHSWBxJxSkrXH6iKwDyJUCrlqTlOpuw==;88IPWGJoDYTXhFJTk6IGDQ=="
 ---
