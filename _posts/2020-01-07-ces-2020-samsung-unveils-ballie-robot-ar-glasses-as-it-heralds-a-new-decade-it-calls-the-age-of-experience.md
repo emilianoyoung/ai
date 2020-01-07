@@ -26,36 +26,34 @@ images:
     title: "CES 2020: Samsung unveils 'Ballie' robot, AR glasses as it heralds a new decade it calls the ‘Age of Experience’"
 
 related:
-  - title: "Samsung unveils tiny robot Ballie that follows users around and acts as their personal AI assistant"
-    excerpt: "Samsung have unveiled a tiny robot assistant in the shape of a ball ... Instead of calling it a virtual assistant or artificial intelligence, the company has used phrases like 'artificial human' or 'artificial intelligence being.'"
-    publishedDateTime: 2020-01-07T05:54:00Z
-    sourceUrl: https://www.dailymail.co.uk/news/article-7859615/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
-    ampUrl: https://www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
-    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
+  - title: "Human-focused tech drives Samsung with AI, 5G, and IoT solutions at CES 2020"
+    excerpt: "At CES 2020, Samsung introduces Ballie, an empathetic AI robot which respects privacy and encourages fitness. Samsung electronics kicked off their CES 2020 presentation emphasizing a focus on human-centric tech. Samsung CEO and president H.S. Kim described Samsung's vision of robots as \"life companions,\" and introduced \"Ballie,\" a small ..."
+    publishedDateTime: 2020-01-07T11:51:00Z
+    sourceUrl: https://www.techrepublic.com/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
     type: article
     provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 60
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
     images:
-      - url: https://i.dailymail.co.uk/1s/2020/01/07/05/23089022-0-image-a-111_1578376235410.jpg
-        width: 636
-        height: 382
-  - title: "Ballie is Samsung's cute and creepy smart home robot"
-    excerpt: "Artificial intelligence will be at the heart of a lot of Ballie's functionality, though Samsung executives stressed during the keynote that it's on-device AI that Ballie won't share with others. We still have a lot of questions about just what Samsung has planned for Ballie, including what this robot will cost and when it will be available."
-    publishedDateTime: 2020-01-07T04:04:00Z
-    sourceUrl: https://www.tomsguide.com/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
-    ampUrl: https://www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
+      - url: https://www.bing.com/th?id=ON.C804938391BA753784698887DC8D5BC4
         width: 700
-        height: 393
+        height: 525
+  - title: "CES 2020: Samsung looks beyond AI with artificial humans"
+    excerpt: "Using neural networks and other artificial intelligence techniques, CORE R3 has been trained up with information about how humans look, behave and interact and “can computationally create lifelike reality that is beyond normal perception to distinguish”, according to STAR Labs."
+    publishedDateTime: 2020-01-07T10:25:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/ces-2020-samsung-looks-beyond-ai-with-artificial-humans
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.98551653C9A22F554254D741F376E156
+        width: 700
+        height: 481
   - title: "Samsung Ballie robot unveiled at CES"
     excerpt: "The Ballie robot is a rolling robot which is designed to be helpful and reacts to you, it comes with Artificial Intelligence and has a range of functions. At the core of Samsung’s human-centered vision is personalized care, enhancing the health and well-being of consumers by satisfying their individual needs. During his opening remarks ..."
     publishedDateTime: 2020-01-07T10:55:00Z
@@ -69,32 +67,52 @@ related:
       - url: https://www.bing.com/th?id=ON.9C842FA8060350DFB27B018185FCF187
         width: 700
         height: 467
-  - title: "Samsung unveils AI-powered digital avatar"
-    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
-    publishedDateTime: 2020-01-07T07:46:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/other/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
+  - title: "Toyota’s ‘woven’ city, Samsung robot-ball: CES 2020 highlights"
+    excerpt: "The ankle-high robot was designed as a \"life companion\" and fits into the company's vision of \"human centered\" artificial intelligence. Sebastian Seung, chief research scientist at Samsung Electronics, described the tiny robot as a fitness assistant and a mobile interface to help people in various situations. \"It's a remote control that helps ..."
+    publishedDateTime: 2020-01-07T09:24:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/toyotas-woven-city-samsung-robot-ball-ces-2020-highlights
     type: article
     provider:
-      name: AFP on MSN.com
-      domain: msn.com
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9B325A079686E7FF4BA506F5CA93CE02
+        width: 700
+        height: 454
+  - title: "Samsung Looks Beyond AI With Artificial Humans"
+    excerpt: "(Bloomberg) -- Samsung Electronics Co.’s experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathizes like a regular person. Each simulated human -- which would exist only on screens, not in the real ..."
+    publishedDateTime: 2020-01-07T08:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/samsung-looks-beyond-ai-artificial-070015061.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.E8B467430191CBA82C49541613AA4DBE
-        width: 600
-        height: 315
-  - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
-    excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
-    publishedDateTime: 2020-01-07T05:08:41Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-ces-keynote-highlight-a-robot-ball-that-follows-you-around-the-house/ar-BBYGxq7
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
+  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
+    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
+    publishedDateTime: 2020-01-06T15:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/philips-expands-its-range-of-consumer-focused-digital-health-solutions-at-ces-2020-1028796711
     type: article
     provider:
-      name: TechRadar on MSN.com
-      domain: msn.com
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.8363229AA8A56F4ADE46E4C2E7AE9470
-        width: 700
-        height: 367
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
+  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
+    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
+    publishedDateTime: 2020-01-07T13:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/philips-expands-range-consumer-focused-160000986.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 18
 
 secured: "60lYGTtpZ1LXvZfVfhWk5jIiSmk94DQnxtDOUmNqcYlU6ZrRM1s9yFj2Ci9hs6kAKDWA3BsdgvBYo6RDxOH+7egCvzSIi8fwEDaKS4o9ufLMNJ0mXWiVSpiaAqme1v3SbN687bHnvOGfqxPM8tAVV+Z+/IuaCpbOVGnNuCanfI7fnNlcLuOZ7hQDlcY1fzMPtgOeMdQ3FZ2AclfjPbgX+g7qfn/yyz8IvsCUbeNfb3jW+IPz0zmqOIVZFOIDPmjXQrufiAjUPyGDNlVSiHO6TQ==;A4iTEitMEdA0CaU2x2MWvw=="
 ---

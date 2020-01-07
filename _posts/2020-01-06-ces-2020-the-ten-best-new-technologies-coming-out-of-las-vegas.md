@@ -24,21 +24,21 @@ images:
     title: "CES 2020: The ten best new technologies coming out of Las Vegas"
 
 related:
-  - title: "2020: A new chapter for AI technologies in customer experience?"
-    excerpt: "With your permission, your data will be used to create a better experience for you As we come through the trough of disillusionment with AI and move toward a cloud-first ecosystem, a new era will arise where industries and governing bodies will start to draw bolder lines around ethics and proper application of machine learning for problem solving."
-    publishedDateTime: 2019-12-31T10:08:00Z
-    sourceUrl: https://www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/
-    ampUrl: https://www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/amp/
-    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/2020-a-new-chapter-for-ai-technologies-in-customer-experience/259066/amp/
+  - title: "AdaptiLab, A Techstars Software Hiring Startup, Helps Tech Companies Acquire The Best Machine Learning Talent"
+    excerpt: "In the war for top software talent, hiring high-quality machine learning engineers is a challenging technical problem in of itself. Early-stage startups have to spend precious working hours sorting through candidates' resumes. The problem isn't any easier at larger tech companies. Still, at least there's a dedicated segment of the company ..."
+    publishedDateTime: 2020-01-07T13:51:00Z
+    sourceUrl: https://www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/
+    ampUrl: https://www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/01/07/adaptilab-a-techstars-software-hiring-startup-helps-tech-companies-acquire-the-best-machine-learning-talent/amp/
     type: article
     provider:
-      name: ClickZ
-      domain: clickz.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: https://www.bing.com/th?id=ON.A7FDDCE05C99B4898829F4FCFB60C3EE
-        width: 700
-        height: 247
+      - url: https://www.bing.com/th?id=ON.7FFD647D0D54183705E192F2E9FC3417
+        width: 600
+        height: 315
 
 secured: "yS1OLtWRWoqLXdr2kLamdrv7n6y6cIWGYTc0SRjYIuWwf0A3PzGLuoXGNHEQvV06KsTu1u97Xcije33NmQ7A7qsrH6u4ZIWRL725iSfaWjSw+iW1v/+Ndbaj2oajIuI22BGDaNT7PsTTRmh+1MN7RZ1+MmdMgi65q5HydFQHcGp34ThVWdxtD93+xOOuUPyiKDD0HCIG6nBO/K3nDN77/kRWVfeocxA6BC+YQKGchJ1skhhmK7di8RmNHuNDPJg4LTn6VGkjCSYvdJQGrI7htQ==;FEYobeVsi52S4c6wREK5ww=="
 ---

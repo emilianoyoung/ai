@@ -38,34 +38,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/VY4rxYG.uINvvqCjNFlDpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuMg--/https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
         width: 1278
         height: 851
-  - title: "Paige raises $45 million to detect cancer with computer vision"
-    excerpt: "Health care startup Paige has raised $45 million to diagnose cancer with the help of computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has now raised over $70 ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/
-    ampUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
-        width: 1200
-        height: 629
-  - title: "Using AI to understand spread of cancer"
-    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
-        width: 3143
-        height: 3805
   - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
     excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
     publishedDateTime: 2019-12-18T14:31:00Z

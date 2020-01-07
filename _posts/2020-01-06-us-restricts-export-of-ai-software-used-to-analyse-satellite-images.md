@@ -203,6 +203,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8D5C5FC9836659E3FB10945D52CD5671
         width: 700
         height: 367
+  - title: "US limits artificial intelligence software exports"
+    excerpt: "The Trump administration has taken measures to crimp exports of artificial intelligence software as part of a bid to keep sensitive technologies out of the hands of rival powers such as China. Under the new rule effected on Monday, firms that export certain types of geospatial imagery software from the US must apply for a licence to send it ..."
+    publishedDateTime: 2020-01-07T13:00:00Z
+    sourceUrl: https://www.standardmedia.co.ke/business/article/2001355609/us-limits-artificial-intelligence-software-exports
+    type: article
+    provider:
+      name: The Standard Digital
+      domain: standardmedia.co.ke
+    quality: 37
+    images:
+      - url: http://www.standardmedia.co.ke/images/tuesday/thumb_us_limits_artificial5e14576e89360.jpg
+        width: 800
+        height: 500
   - title: "U.S. to restrict exports of artificial intelligence used for analyzing satellite images"
     excerpt: "WASHINGTON — U.S. technology companies that build artificial intelligence software for analyzing satellite imagery will face new restrictions on exporting their products to China and elsewhere. The Commerce Department said new export rules take effect Monday that target emerging technology that could give the U.S. a significant military or ..."
     publishedDateTime: 2020-01-06T00:23:42Z

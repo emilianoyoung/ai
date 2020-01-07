@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     height: 847
     title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
-secured: "hySooWjR6BjG1/roalENqlYqBof0BeAjfKnnMmzQ1KPl2JQKDYohP4QV26sIgW6L5r7r2MW2eDP8/Ldl0ivIZ2Qd4LmDRq6l3NoNVxIsfugYEYoz5fO3/m/9+qMhT2tZqxLfFtP3lWugJFo/fCALpfHuQmOKM67fm8/T+qaVnvEaVVh7JLKfV8eM3HzV8wyUM4EFVqM4MkXsrXqoNcK42FOKrk5e8qO7/ICr4eee/TsIHyl/Cxfatk4hehrlcw25ovgm/+h33FZjgUovE8gOLA==;dNBXJFqSlJj8j9ie50xeFw=="
+related:
+  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
+    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
+    publishedDateTime: 2019-12-17T13:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+
+secured: "HQr2nLCILhNYBr9tFfanZQdWuZoiUAkipVT2dn21Y4zCq6hKmXkpJzqCk+7osNjMcd28jKovql3RrbiTrZLBd008CTE2A8RYQQGt2BcU/ov7OlnvjCbhy0Mxft5V8t5oNRDtDyFHU+H3keYyrPhVXNheXRPIFyy/sMkyILo7vDg8HLB2JT9QLs6qgP0o/irDSIz1WpDVy1g3fWAmzZi4VEWnV5tua9xXOm316YApvNOzxvS6F68luAiD8Ff1pmol1V28V6q/1Xlbj+XiMJ5llQ==;IABOEgrquWqGUKpe6P81/w=="
 ---
 

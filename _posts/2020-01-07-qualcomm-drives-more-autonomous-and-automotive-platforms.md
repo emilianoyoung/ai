@@ -69,6 +69,19 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
 
 secured: "dVaEYIjuHoxVjl2wFC8e7UiGz+4JShkvE6+WBsjONSeIUx3Iy9l3HCA9x2KmfmcS47Fz11jYH9jAhOC+ThM+4ZMSPB70PIpZD+FfEiotr0kA19h8rlNTo13zkZq/8xFm4eLxPP4OoPepgkFSsMcbNPcniPp0GoatuwCuyF0hTX1VS3+szMAdIvIoFzCKCiyrqO9XifHYOBfy5brJkIvABQ/F1VE/8tnOPiOckx+NKd8MSD27TcJi0KdAmzQAZ4wm/Uzs8pGHtYSDxZ6EtIXcoQ==;ofjrOhWqy3ilQaBr/T5ZCg=="
 ---

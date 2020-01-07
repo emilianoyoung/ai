@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-06T08:36:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
 type: article
 quality: 68
-heat: 158
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,19 @@ images:
     title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
 
 related:
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "Jan 07, 2020 (The Expresswire) -- The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power, the chip has become ..."
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
     excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
     publishedDateTime: 2020-01-06T02:52:00Z
@@ -55,23 +68,23 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
-    publishedDateTime: 2019-12-31T04:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-07T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
-    publishedDateTime: 2019-12-31T10:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
+  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
+    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
+    publishedDateTime: 2020-01-06T12:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
     type: article
     provider:
       name: MarketWatch
@@ -81,41 +94,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
-    publishedDateTime: 2020-01-01T14:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
+    publishedDateTime: 2020-01-02T12:03:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
-    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
-    publishedDateTime: 2020-01-06T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -133,19 +120,65 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
+  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
+    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
+    publishedDateTime: 2020-01-03T10:02:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
     type: article
     provider:
-      name: Slator
-      domain: slator.com
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
+    images:
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
+  - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
+    excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-ships-market-expected-to-be-the-most-growing-market-during-upcoming-years-kongsberg-rolls-royce-asv-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 31
     images:
-      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
-        width: 400
-        height: 400
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
+    excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
+    publishedDateTime: 2020-01-07T08:37:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-07/medical-bionic-implants-and-exoskeletons-market-to-raise-at-a-cagr-of-75-over-the-forecast-period
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Lirio Launches Research Lab to Advance Behavioral Reinforcement Learning and Appoints John Seely Brown as Scientific Advisor"
+    excerpt: "\"Lirio is actively creting some of the most interesting datasets on which to learn and improve machine learning techniques, and to take advantage of behavior change expertise. I am very excited to have some of the brightest minds in the world join us ..."
+    publishedDateTime: 2020-01-07T13:53:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-lirio-launches-research-lab-advance-behavioral-reinforcement-learning-/2020/01/07/9077370.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KVSjCVEhA6P0RaQQsSxyXsv49arA8tZ+okmHaYPflIgFEtP6/eHHWWw5jleBK4tPV2Ake61QEnlo8+qaD9hqUKV8tDdTHzP9NzA+SS7PU78GunyrgHsk9WtEAnKLYoxNwtJaaZv1HjgGWhuFFR5ot2AJeI3cK6Z2qou2KBSvQHW6HrV7x4zu8Nn7hDtp3CNtvaZbGX5Q227b8mVvtdIckd5Oxw929e6O6GYVE2MBzUCVIFllH2xcX1SzZy3eCbGvxZBcYGBiHDK/Z/vCRDm4GA==;EhUOa9Tvr+AbHw37x/raWQ=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "To learn how police use facial recognition, we must ask the right questions"
 excerpt: "If you simply ask your local police department if it uses facial recognition technology, you may or may not get a complete answer. But if you make that inquiry in the appropriate legal language and pinpoint the phrasing of your query, you just might improve your odds of discovering the details of their facial recognition tactics. A project ..."
 publishedDateTime: 2020-01-04T11:00:00Z
-sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions
+sourceUrl: https://www.fastcompany.com/90448284/to-learn-how-police-use-facial-recognition-we-must-ask-the-right-questions?partner=rss
 type: article
 quality: 37
 heat: -1
@@ -884,6 +884,6 @@ related:
         width: 336
         height: 254
 
-secured: "/zP3akhmCnj06XnyIuFFCezNhc3eE2RzvJwgzdCadgt97w0dLrMpRXWVacs70rlwAPVedYeJ1iaxrHkQDLB/8intSBcuuNvhokdc8ZL0ao6YXMHhQvY6NmWtLO1gu/01E7s/TDJGgm8sCMvITKT8LHeKfGK5eXH/O02JplFAwwnzm0VfEQT4ECrmGQawRZS2UY1rsSGe74Av3ONVWSVCkbNEZ81oT6MhqRwnWP7uCRX3A9yiBCgeruQmcgMN1huexyC67KGl5RZs26E4uy6/bQ==;cDKslMfrgSTlsMbUfIKAGg=="
+secured: "7NrcKA+e7gkv5G/PBpwWBER4XUnKEwXWa2FNCCnQDbopWghCfOl7TTMy96PJjIwjD2tjNvq/3A/MVrclUVST9GbDCOfzlVYsNHFVicgTztnibJjVNQL59sckbR35KEW/GouqL+4NLN4lVfeU0hvNfs9DwjkfEEx3Yw0PLZJCa/3Gdpfb2GdyRUE3hkbz7Dkvv1LarFu53Ia/Ma0BS8eafmnt2XmXiwIVqQJ/8Ph6PaiuLunGp4PfqgZcPH0b3/glGWmy08fqG2wRA2FniF9Euw==;HqyH2JiwHDbKhbYQ0kne/g=="
 ---
 

@@ -476,6 +476,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C9C863A0E809D53731CBE6BE42B6B0DE
         width: 700
         height: 499
+  - title: "LG’s connected self-driving car of 2030 is the coolest thing at CES 2020"
+    excerpt: "Picture this. You walk up to a self-driving electric car and it automatically recognizes you via face recognition. Then you enter and see four luxurious chairs, complete with their own speaker systems. You take a seat by your assigned color that flashes above your seat on a huge curved OLED screen. Then the real fun begins. Forged out of a ..."
+    publishedDateTime: 2020-01-07T13:15:00Z
+    sourceUrl: https://www.tomsguide.com/news/lgs-connected-self-driving-car-of-2030-is-the-coolest-thing-at-ces-2020
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.0D2C5D0BF6B3EAADD7A53C4713097ECB
+        width: 700
+        height: 525
   - title: "Baidu testing self-driving cars in Beijing"
     excerpt: "Baidu (BIDU-0.1%) has secured licenses to test self-driving vehicles carrying passengers on designated roads in Beijing, according to Venture Beat. The company's self-driving cars have traveled ..."
     publishedDateTime: 2019-12-31T18:39:00Z

@@ -1,21 +1,19 @@
 ---
 category: news
-title: "White House proposes regulatory principles to govern AI use"
-excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach”, and said it wants European officials to likewise avoid aggressive approaches."
-publishedDateTime: 2020-01-07T05:56:00Z
-sourceUrl: https://www.reuters.com/article/us-tech-ces-ai-white-house-idUSKBN1Z60GL
-ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
-cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
+title: "White House Proposes Regulatory Principles to Govern AI Use"
+excerpt: "LAS VEGAS (Reuters) - The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities' \"overreach\", and said it wants European officials to likewise avoid aggressive approaches. In a fact sheet, the White House said federal agencies should \"conduct risk ..."
+publishedDateTime: 2020-01-07T07:04:00Z
+sourceUrl: https://www.usnews.com/news/technology/articles/2020-01-07/white-house-proposes-regulatory-principles-to-govern-ai-use
 type: article
-quality: 87
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: /assets/images/organizations/reuters.com-50x50.jpg
+    - url: /assets/images/organizations/usnews.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,10 +21,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
+  - url: https://www.bing.com/th?id=ON.4D077A9BC62CB65BD38EBFEE9073CE9C
     width: 700
     height: 466
-    title: "White House proposes regulatory principles to govern AI use"
+    title: "White House Proposes Regulatory Principles to Govern AI Use"
 
 related:
   - title: "White House Favors a Light Touch in Regulating AI"
@@ -61,14 +59,14 @@ related:
         height: 367
   - title: "White House proposes guidelines for regulating the use of AI"
     excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. A document from the White House said that in deciding regulatory ..."
-    publishedDateTime: 2020-01-07T05:13:00Z
-    sourceUrl: https://www.chron.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
-    ampUrl: https://www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
-    cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+    publishedDateTime: 2020-01-07T13:01:00Z
+    sourceUrl: https://www.sfgate.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
+    ampUrl: https://www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+    cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: SFGate
+      domain: sfgate.com
     quality: 57
     images:
       - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
@@ -88,6 +86,6 @@ related:
         width: 700
         height: 393
 
-secured: "KOBAwzP9YGkdnfx369wlHWSIz9/6AUzFlqFLEnafpUsgId2rmkD9y9yZlz7WteYsYtNLGL+E1U1yLpJZXKVb9wEW2WZrAiCmSzSZjqavAVQlpWLoJ+UU73P0SwdWtHi31+4c2/thkExlaHoe+Sem/gRaSapy8L2gO1pHuUdB9lioc/9NkabfYkF7DbNB/muBSOtMCyZIjJkwwN/tF2qptyzhqRmYXzqm32atsCz62nJqcVxnjMpkgqfdoGp+R6quIOmw3FkNH0c/JQMmJJbPqA==;cwykaW1szbeDIDRYdBjqJQ=="
+secured: "854YRlxqn2rSt7g/fh8MXJ7K9KyBQ31tvx7kixa9ZuBmXYJe6ePaBthOzYKzAzVI6kSH0/X8sJCqqmEVKDXcCUq/g7uX8Db22Ypwybf9TtAwVWxZZjO0NAGtPpEEAr8av5fPTVk9gqTuvszMicI9csWEcUNgH520Gkz5c5GsXkOkrmitH3CKea1wU10/VFse1mnqABamPItPwThTprl2Ua1CMQdOmFwB6WNN5XyJqlmalj3dX6OwW+ECgtmDAm/UFVoOMZQ6gt2UMaxNTwipXA==;+MDh66Xa7We1awnrD55Uiw=="
 ---
 

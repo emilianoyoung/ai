@@ -20,21 +20,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Samsung to mass produce Kunlun AI chip from 2020"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year.IANS | December 18, 2019, 18:16 IST NEW DELHI: Samsung has joined hands with Chinese-language Internet search company Baidu ..."
-    publishedDateTime: 2019-12-18T12:46:00Z
-    sourceUrl: https://telecom.economictimes.indiatimes.com/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    ampUrl: https://telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    cdnAmpUrl: https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-to-mass-produce-kunlun-ai-chip-from-2020/72871309
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72871309,imgsize-159673,width-800,height-434,overlay-ettelecom/samsung-to-mass-produce-kunlun-ai-chip-from-2020.jpg
-        width: 800
-        height: 434
   - title: "Samsung teams up with Baidu to start production of an AI chip next year"
     excerpt: "Samsung announced that development for the Baidu KUNLUN, the search engine giant’s first cloud-to-edge AI accelerator, has been finalized. Designed based on Samsung’s 14nm process and I-Cube TM package technology, the chip will enter mass production early next year. Baidu KUNLUN is a very challenging project since it requires not only a ..."
     publishedDateTime: 2019-12-19T15:22:00Z
@@ -63,15 +48,19 @@ related:
       - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
         width: 678
         height: 364
-  - title: "Samsung to mass produce Baidu's AI chip Kunlum next year"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://news.webindia123.com/news/articles/Science/20191218/3475847.html
+  - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
+    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
+    publishedDateTime: 2019-12-18T16:27:00Z
+    sourceUrl: https://www.hpcwire.com/off-the-wire/baidu-samsung-electronics-announce-production-of-its-cloud-to-edge-ai-accelerator-to-start-early-2020/
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
+        width: 405
+        height: 228
 
 secured: "VGPsdYogn1lRAoUPZVnnDX/++V1dP0cGF+I4wkgUpM993TmyDCHLIywO3x2QAO1RNgnMcBa9tgA/o91AX+CcI2xXVEuHY8jhjPzoFEcqkz3a1MHbor8H9863Kf9DVxwVxzJvLahgHYojRDlbmTefdB1xOhWRkkJ8/OMmOQE9HxIQHfArq9r0DsTLPL9JbWPzfajzM8xYZ/maOhf6vImGNy+gG4/pHtVQsC+Ofs7RaRY7/J7yl382Tx6eAT9bPMhdm9xqMXGDJDmyKUYabREvtg==;L9UIEoZ5xTGCJR8d6/71XA=="
 ---

@@ -7,8 +7,8 @@ sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-lear
 ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 46
-heat: 46
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
   - Computer Vision
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "gKOBHeUUgb4PQ+tkWgsYQKq4U9ongezYjmRaYeAK7q3noNs42x85+fkv8wei7FyJQvqkXU1i/rDCoKoTaZXMJXOGnAy9mv6qKIrjC3x/jmzi8IA4ipHj3hw6PfcQTrrepnCSZ6RQx7d1wADFcXl5vphohZcR1iL5+KUMlweEDGRn/64hew+yTS/lifSs34uBOejL2Qc19Iy0exk6/0MrHRB1x1/UgHirvhcwvW9yK5fe8xypFZERcMG/z6gzANTz/ZJx448+eKE790CAqcVDxA==;fu71rWJQFqVKWQjn1FvCVg=="
+secured: "7V7qLzX/YNtMKCvFwuBm+ryHNfU+tfatp+N1omLnp4yL08SUnVzN4tSKeTQKG+DlnPa9iJEYwFfdiq4eQvqD5wW08iO1AIE+vO1cvPjnwtaFtnq9UxXZwhcg+9FJq+3S5FVnNeHGjTiB4wOdZ+CFTAv6eKBT0pJl7ymj7GIqv2m9konNhtYUvBzwPYHH1pTsBAz/bZCwYASkwmWlnxQLbtFWgT4yIBifmAtWPliV7H1gL6ECdSpIex8F1ISQ8ndm8Wjtj3vfKsP6Wy5ABzZ18w==;Ccla1CTIu3rZbuxVPpAfCw=="
 ---
 

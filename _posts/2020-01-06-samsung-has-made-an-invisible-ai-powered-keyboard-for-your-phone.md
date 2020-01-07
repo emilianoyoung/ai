@@ -25,6 +25,21 @@ images:
 related:
   - title: "Samsung created an invisible keyboard that uses AI to track your finger movements"
     excerpt: "SelfieType will use a front-facing camera to track your fingers and turn any empty surface into a virtual keyboard."
+    publishedDateTime: 2020-01-07T01:54:00Z
+    sourceUrl: https://www.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1/
+    ampUrl: https://amp.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1
+    cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.067F1A31603E42FC731FD83441B7F40E
+        width: 700
+        height: 350
+  - title: "Samsung created an invisible keyboard that uses AI to track your finger movements"
+    excerpt: "SelfieType will use a front-facing camera to track your fingers and turn any empty surface into a virtual keyboard."
     publishedDateTime: 2020-01-06T17:48:00Z
     sourceUrl: https://www.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1
     type: article

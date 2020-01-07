@@ -105,6 +105,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
         width: 700
         height: 393
+  - title: "Intel previews the first Xe-based discrete GPU"
+    excerpt: "Intel's presence at CES 2020 hasn't been a significant source of excitement among the PC community. Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E30C185FD48DE002307B9D94A44DD866
+        width: 515
+        height: 221
 
 secured: "/WW/QuhmR+J1JB9YlvBuaAwMa2pNb2wsOf211uw8h+7GIyGoqxUUZnuLwEZFnr7jRLSTQwjPpqtozHF1JemULbtIGPMN9GpWANkqtrfWc9h9NLSUgvlXYpoLTGGTjNVBEHPIRkjgLt81sm6PxH7ft8eJIA6Etkv+tvx4Qdt5NeZTsYnV9AXNxR3UTyJLDwux5whYxzdf7VC/iK5lX0EK/LvILENEKfmg5IlirzUVNoJdAryFcfISDv+5IZoke/y0laTi3pQ2zevNcvJXqWAkgA==;aaBlzfv1WIi+xmQvMcLRZg=="
 ---

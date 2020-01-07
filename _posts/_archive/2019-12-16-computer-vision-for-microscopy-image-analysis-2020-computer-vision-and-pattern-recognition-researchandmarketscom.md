@@ -19,17 +19,6 @@ topics:
   - AI
   - Computer Vision
 
-related:
-  - title: "Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics, 2019 Study - ResearchAndMarkets.com"
-    excerpt: "The \"Innovations in Artificial Intelligence, Natural Language Processing, IoT, and Analytics\" report has been added to ResearchAndMarkets.com's offering. This edition of IT, Computing and Communications (ITCC) TechVision Opportunity Engine (TOE ..."
-    publishedDateTime: 2019-12-18T12:38:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_ac774e7b-3ff9-596b-aa6b-3436f571c9b7.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 7
-
-secured: "mKhQBurL2ZqX91fvmbBixKfcy2SJMhxpS4YLXaAycAMUWSjanueKzXKRhXyif8r+1aOdfLmK+NA/HOLl+xGo7UW9Y5cVvWV4fdySBuz/yTh9pG4W3lvESIQfZrAyYEHJTQihnfBmaSBFLuSkfyZzom8DVsYMAicHRdp9UKBg2O4lW0tokiRuVYOQYYOvvfstU7syu+cl+hE8gbo0Z0bdkvI/KXZqEvD0N5OOYA/ElXwi+3medgKSe0ZPJWiGbD52BGAPeZNuBWm2015pNTHUmA==;FQWM9zdPwaj0QjAV4YHsMQ=="
+secured: "rb3DUhVODbx6gIQnba41I9DDZMiorbU+zNxiUEQD+ig9oIaC9NZqhGHYB9Hdk/nPLJjq9ui8vitAEJ0gNnAos8uD8vufmVHv/UZI8KtgCD4VhpxCw6URxY9YBITmKypvf69UpEvB6TcJ3hLSCOSBhQe5dTqqkFwE/vXDljJzNqKvsRta3hU23YJFy5pbFMWec4De5F2ZPr5ZdM7+MOuXj9zi6WzMUjBdNeSY4vvjtkPO/E4aeTAbq9BjqRFcuGhhtiiuHRclLR01jqQXmGgKIQ==;RzKbjYlyc3kIp71x/NBs/A=="
 ---
 

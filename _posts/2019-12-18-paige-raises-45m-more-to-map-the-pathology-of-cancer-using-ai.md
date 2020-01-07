@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T18:06:00Z
 sourceUrl: https://news.yahoo.com/paige-raises-45m-more-map-180601977.html
 type: article
 quality: 137
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -23,21 +23,6 @@ images:
     title: "Paige raises $45M more to map the pathology of cancer using AI"
 
 related:
-  - title: "Paige raises $45 million to detect cancer with computer vision"
-    excerpt: "Health care startup Paige has raised $45 million to diagnose cancer with the help of computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has now raised over $70 ..."
-    publishedDateTime: 2019-12-18T13:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/
-    ampUrl: https://venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/paige-raises-45-million-to-detect-cancer-with-computer-vision/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2019/12/paige-2.jpg?fit=1200%2C629&amp;strip=all
-        width: 1200
-        height: 629
   - title: "Cancer Treatment, Research Startup Raises $45M To Develop AI Diagnostic Products"
     excerpt: "Paige said on its Linkedin page that it will use its new capital to drive FDA and CE clearances for the products it is looking to bring to the market, which comes in a timely fashion since the company was the first to get FDA breakthrough designation for using AI in oncology pathology. The company also received a CE mark shortly after."
     publishedDateTime: 2019-12-19T11:30:00Z
@@ -53,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.097919B52904DD92D45B4BEB3FB95871
         width: 700
         height: 463
-  - title: "Using AI to understand spread of cancer"
-    excerpt: "The new technology uses artificial intelligence (AI) and even finds single disseminated ... which is a prerequisite for effective therapy. The vDISCO method, developed by a team led by Dr. Ali Ertürk, Director of the Institute for Tissue Engineering ..."
-    publishedDateTime: 2019-12-18T12:58:00Z
-    sourceUrl: https://www.miragenews.com/using-ai-to-understand-spread-of-cancer/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/191218_Ertu__rk_Cell_DeepMACT.jpg
-        width: 3143
-        height: 3805
   - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
     excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
     publishedDateTime: 2019-12-18T14:31:00Z

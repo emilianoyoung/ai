@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence in Accounting Market Major Technology Giants in Buzz Again | Google, Microsoft, AWS, Xero, Intuit"
 
-secured: "+kYRitobzlYodCuwCXs+SQneXvIwAlHKfUESXz1cSXWxlfm4LZw+/svtPe1Wv+mBKB2tkSoN0fiaAwAB+PMfmGz4V5zeJGCfKEjwCtfrNKaLxQTQ//AxF5Ya4jDeC6EgvoocljThFR/HWHlVcQMkMiaXJmD2sz2s5aqV9WwauqzjF9LpKNjvI9xoOEEM2GT93D9I4ZAOE24JVg61zanCz9wVNFTUm79+mxgPaGKT2TQ1s8hiby17Q2rPqOsifTG0w5KtFYQgIejSN5mUmruTWw==;4mkAXVSCZjsVT96qyauJhA=="
+secured: "CSKsLnX5SgL5usxP2rAhFkxH6iSPbNv3DpXs/KDgqXRpIGD+S6eFlF0S13lnZ4/ATL88Z+mTbXDrWQYC8a8dJAfMbDaBtxyoxAVCF3igFDmCyWVk+/ju9SR7nBM/WvBSScdKwdPCT7tNGl3uDCSpynXl78lk6zMszkUmqJrh29F/X5gHdmCv+pht1M1MbQNkczq/li4luB81gcCfNWNizvRKz6KlRhf1BJRYSDMOF4XJcbEN7/oRtM/wbmYHG4dSyVp6dRlVtYgXLDzrx9CYQw==;ffVI7QwwwU+a2Z+cZx1x0Q=="
 ---
 

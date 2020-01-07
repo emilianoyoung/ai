@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"
+    excerpt: "The technology is still being perfected, and Neon said it plans to beta launch the avatars later this year with certain partners. Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby ..."
+    publishedDateTime: 2020-01-07T13:28:00Z
+    sourceUrl: https://www.zdnet.com/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    ampUrl: https://www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
+        width: 700
+        height: 525
   - title: "Samsung reveal AI powered 'artificial human'"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
     publishedDateTime: 2020-01-07T10:34:00Z

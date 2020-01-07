@@ -248,6 +248,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
         width: 700
         height: 350
+  - title: "Audi's self-driving car goes for a spin at CES"
+    excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
+    publishedDateTime: 2020-01-07T13:56:00Z
+    sourceUrl: https://uk.news.yahoo.com/audis-self-driving-car-goes-134105818.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1CFD6318DB629CCB7C74CD9E39985599
+        width: 700
+        height: 393
   - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
     excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
     publishedDateTime: 2020-01-05T15:00:00Z

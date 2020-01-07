@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/nvidia-shows-off-autonom
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-shows-off-autonomous-tech-for-cards-and-robots-at-ces-2020/
 type: article
 quality: 91
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -246,6 +246,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
         width: 700
         height: 350
+  - title: "Audi's self-driving car goes for a spin at CES"
+    excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
+    publishedDateTime: 2020-01-07T13:56:00Z
+    sourceUrl: https://uk.news.yahoo.com/audis-self-driving-car-goes-134105818.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1CFD6318DB629CCB7C74CD9E39985599
+        width: 700
+        height: 393
   - title: "Recession, robots and rockets: another roaring 20s for world markets?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
     publishedDateTime: 2019-12-30T21:52:00Z

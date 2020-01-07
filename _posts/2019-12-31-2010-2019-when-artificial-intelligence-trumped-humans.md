@@ -5,8 +5,8 @@ excerpt: "Since the start of 2010, AI has beaten professional gamers, sparked a 
 publishedDateTime: 2019-12-31T05:39:00Z
 sourceUrl: https://www.cxotoday.com/news-analysis/2010-2019-when-artificial-intelligence-trumped-humans/
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - Machine Learning
   - Facebook AI
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.B42557F375E11CC0BFC5FE6C8555D489

@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -105,6 +105,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
         width: 700
         height: 393
+  - title: "Intel previews the first Xe-based discrete GPU"
+    excerpt: "Intel's presence at CES 2020 hasn't been a significant source of excitement among the PC community. Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
+    type: article
+    provider:
+      name: Hexus
+      domain: hexus.net
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E30C185FD48DE002307B9D94A44DD866
+        width: 515
+        height: 221
 
 secured: "eIwxe5vw53jgNc9DcEZMNG78AYLzLBJBdHaWU0gu8lKqg1WUe9zDniihesZyXOamo7llRItsKSHai9dHeoLeK2hosQT+QhUdVlde8jyb3NzGwDp8cDJPJz/qqo0Mj2SvFRZ3LRcxquT/DaRtjJkzLD0bnqwFtUGR4E4cagEn/NQeZbN03GikCxx5m8SpLhbh3IRP00krEv4QxCGRMSagw57KQjVE3U+QjOg4XA51QEfrqoCf6vEYeLeI5JWnvXC5Ddafx684KVOKHIoe1hq7Ng==;ff8Sk5IafWt+c105mZy7VA=="
 ---

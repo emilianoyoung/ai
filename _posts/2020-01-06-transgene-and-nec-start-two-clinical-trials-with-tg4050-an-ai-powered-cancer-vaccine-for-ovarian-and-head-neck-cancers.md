@@ -8,7 +8,7 @@ ampUrl: https://amp.benzinga.com/amp/content/15081336
 cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15081336
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,19 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Transgene starts trials of ‘digital’ cancer vaccine with NEC"
+    excerpt: "The French biotech is partnering with artificial intelligence (AI) specialist NEC on the new programme – called TG4050 ... who have a high risk of relapse after surgery and patients with ovarian cancer after surgery and adjuvant therapy. It was also given a green light for a trial in head and neck cancer by the UK Medicines and Healthcare ..."
+    publishedDateTime: 2020-01-07T13:20:00Z
+    sourceUrl: https://pharmaphorum.com/news/transgene-starts-trials-of-digital-cancer-vaccine-with-nec/
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.3E4F78E119EB7DDFC3E305E5A0A6A184
+        width: 700
+        height: 467
   - title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
     excerpt: "“As each patient’s cancer is unique, we have developed a therapy that turns their solid tumor’s genetic signature into ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow ..."
     publishedDateTime: 2020-01-07T00:35:00Z

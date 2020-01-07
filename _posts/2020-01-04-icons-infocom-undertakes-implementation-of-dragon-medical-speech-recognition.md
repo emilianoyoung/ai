@@ -8,7 +8,7 @@ ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertak
 cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
 
 related:
+  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
+    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
+    publishedDateTime: 2020-01-03T10:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
     excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
     publishedDateTime: 2020-01-04T15:09:00Z

@@ -467,6 +467,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C9C863A0E809D53731CBE6BE42B6B0DE
         width: 700
         height: 499
+  - title: "LG’s connected self-driving car of 2030 is the coolest thing at CES 2020"
+    excerpt: "Picture this. You walk up to a self-driving electric car and it automatically recognizes you via face recognition. Then you enter and see four luxurious chairs, complete with their own speaker systems. You take a seat by your assigned color that flashes above your seat on a huge curved OLED screen. Then the real fun begins. Forged out of a ..."
+    publishedDateTime: 2020-01-07T13:15:00Z
+    sourceUrl: https://www.tomsguide.com/news/lgs-connected-self-driving-car-of-2030-is-the-coolest-thing-at-ces-2020
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.0D2C5D0BF6B3EAADD7A53C4713097ECB
+        width: 700
+        height: 525
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z

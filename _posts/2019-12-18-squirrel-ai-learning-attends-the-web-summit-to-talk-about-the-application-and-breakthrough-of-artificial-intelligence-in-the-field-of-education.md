@@ -341,15 +341,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
         width: 700
         height: 495
-  - title: "Rostelecom to add facial recognition to video-surveillance service"
-    excerpt: "The companies will cooperate on introducing facial recognition technology in the video-surveillance service from Rostelecom. The option could used on outdoor video-cameras installed by the national operator in public locations. The algorithm FindFace from NtechLab has already been implemented on Rostelecom's video cameras in Tyumen."
-    publishedDateTime: 2019-12-18T12:55:00Z
-    sourceUrl: https://www.telecompaper.com/news/rostelecom-to-add-facial-recognition-to-video-surveillance-service--1320373
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z

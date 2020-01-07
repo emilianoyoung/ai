@@ -8,7 +8,7 @@ ampUrl: https://www.crowdfundinsider.com/2019/12/155829-ibm-teams-up-with-argent
 cdnAmpUrl: https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2019/12/155829-ibm-teams-up-with-argentine-chamber-of-fintech-to-support-digital-transformation-efforts-in-countrys-banking-sector/amp/
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -26,49 +26,19 @@ images:
     title: "IBM Teams Up with Argentine Chamber of Fintech to Support Digital Transformation Efforts in Country’s Banking Sector"
 
 related:
-  - title: "B2B Start-Ups In India Ride The Digital Transformation Wave"
-    excerpt: "For example, Domino's today is not merely a pizza company, but a technology company which is selling pizzas. From automated phone orders using artificial intelligence (AI) assistants to testing driverless cars with Ford, the rate of change has been much faster. It is evident that evolving constantly to leverage technological advancements is the ..."
-    publishedDateTime: 2020-01-03T09:28:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344481
-    ampUrl: https://www.entrepreneur.com/amphtml/344481
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344481
+  - title: "Meet 5 Women Leading India’s Fintech Sector with their Startups"
+    excerpt: "The platform claims to do this without any human intervention (by deploying AI and other technology tools), providing reliable comprehensive real-time inputs. It raised funding of $3.2 million in its Series A round, led by ARTIS Labs and Abstract Ventures. When Sayali Karanjkar decided to return to India from the US to start up in the fintech ..."
+    publishedDateTime: 2020-01-03T04:03:00Z
+    sourceUrl: https://in.news.yahoo.com/women-leading-indias-fintech-sector-startups-024518973.html
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.B117FBA51EF921F1BAECED5D8455AC64
+      - url: https://www.bing.com/th?id=ON.71FF15FDFB4D8558B6F8F96489DA055B
         width: 700
-        height: 466
-  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
-    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
-    publishedDateTime: 2020-01-03T10:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "New Greek Startup Twiddle Will Transform Your Videos"
-    excerpt: "To address this issue, Co-founder and CEO Christos Tsikoudas says: “Twiddle is a platform that uses Artificial Intelligence with a focus on sound, for content creators. We apply the most innovative AI technologies and advanced neural networks to automate the process of identifying, recommending and positioning the best matching sound effects ..."
-    publishedDateTime: 2020-01-01T09:22:00Z
-    sourceUrl: https://greece.greekreporter.com/2020/01/01/new-greek-startup-twiddle-will-transform-your-videos/
-    ampUrl: https://greece.greekreporter.com/2020/01/01/new-greek-startup-twiddle-will-transform-your-videos/amp/
-    cdnAmpUrl: https://greece-greekreporter-com.cdn.ampproject.org/c/s/greece.greekreporter.com/2020/01/01/new-greek-startup-twiddle-will-transform-your-videos/amp/
-    type: article
-    provider:
-      name: Greek Reporter
-      domain: greekreporter.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.B9EE67DE42954AF35F3449B60E655618
-        width: 700
-        height: 467
+        height: 350
 
 secured: "APSorU73IErM6iytDX7NKJSMFuuPToi78uS7NDYfvx0JAqkbGwu9wVCBNMh/t+rD3P8wsV2Wh+GJUU7yAB12dj8PuCCTnS86HAV4R5jdlCnAhy76vA8ee1qNVvNfE3e3cxH925N6IRHryvQBme6df6GNXUnRVAtZcE17R4ZXBk4FCyofdTzMVLT73cKFgpSFFlLUkO/Klyzq8zN0uc/VuG7IiIxAWskG+09irgs+FodTh46dm0DM8Fp34FZ9HTpg4FUUZATk1yzqYMyGvZ+vpQ==;Q5RQqCGdmJ/LCltv0a0bHg=="
 ---

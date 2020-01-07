@@ -105,15 +105,28 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
-    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
-    publishedDateTime: 2020-01-02T12:03:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-size-growth-forecast-poised-to-touch-usd-150-billion-by-2026-2020-01-02
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+    publishedDateTime: 2020-01-01T14:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -157,21 +170,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
-    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
-    publishedDateTime: 2020-01-03T10:02:00Z
-    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
-    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
-    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 34
-    images:
-      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
-        width: 1000
-        height: 667
   - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
     publishedDateTime: 2019-12-31T12:00:00Z
@@ -231,15 +229,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4A45322B7AF50049372FF245B3628D70
         width: 700
         height: 365
-  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
-    publishedDateTime: 2020-01-01T00:08:00Z
-    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "zN9xj79pyYI81F49xE6Grw/UNk7sPHLSzSqb317ZXNSgDZ2/CdBvT+b/JWX1OF/3+cva8XgkoCm8qvnUVVqokQ6tJdGii7qk19BPCpUtRNgjcZLKb4U4acjFqoIEQIcmS3rJkhJBV2BhCXg4LChU7oBPtYmNipH1b0y/BS2/dMw2K1mT61YP4nrFclJ2wtoVJr/Y/dkbs+dUoCbjh3BKrJipjoz55elQwavRbN94sJVZcTw4gSGvpd9rqUnSP3lDGyXpXxogprLEjyrGJKzXAg==;WOkjeJerrFwxn9Dd8Gn4xg=="
 ---

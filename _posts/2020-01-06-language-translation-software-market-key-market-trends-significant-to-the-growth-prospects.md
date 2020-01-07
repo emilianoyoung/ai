@@ -28,123 +28,37 @@ images:
     title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
 
 related:
-  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
-    excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
-    publishedDateTime: 2020-01-06T08:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+  - title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
+    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Global Health Care Natural Language Processing Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2020-01-07T10:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
-    excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
-    publishedDateTime: 2020-01-06T02:52:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
+  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
+    publishedDateTime: 2020-01-07T11:09:00Z
+    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Deep Learning Chipsets Market Recent Technology Analysis and Future Scope 2020 to 2026"
-    excerpt: "Jan 03, 2020 (Market Insight Reports via COMTEX) -- The Deep Learning Chipsets Market report provides a valuable source of insightful data for business strategists and competitive analysis of Deep Learning Chipsets Market. It provides the Deep Learning Chipsets industry overview with growth analysis and futuristic cost, revenue and many other ..."
-    publishedDateTime: 2020-01-03T07:12:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chipsets-market-recent-technology-analysis-and-future-scope-2020-to-2026-2020-01-03
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
+  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
+    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
+    publishedDateTime: 2020-01-02T07:03:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
-    publishedDateTime: 2019-12-31T04:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
-    publishedDateTime: 2019-12-31T10:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
-    publishedDateTime: 2020-01-01T14:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-01-07T05:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
-    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
-    publishedDateTime: 2020-01-02T07:45:00Z
-    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
-        width: 400
-        height: 400
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
 secured: "L1/5P04Ni2B7ud+ziNImnfbBPuWXcfihb4lDyVXbfv4NlSOiD8a4beJdPjU/Z3ewfeOfdj4EQ2l9BdQCgH5bf2ZUsVcjcH4SyJCf3pw23lpeSBUiNT0utKT16tzoiXKGuWkqJPo9X23o19yYC8b35zfO593rBfnbPtKCWv2+GOVSPHqrQWnnlTN+F1eckMsixdl1/Q8Iykbzl1dXU2ZNpsUV0OKl6WrjoyRowLENjnypPCdVcc1WOEH3NeI0oZvLBwNjg59VPX1Y/8ezUCJ7OA==;KfztrPSiOtgoHL+o/JN+Rw=="
 ---

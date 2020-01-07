@@ -1,69 +1,56 @@
 ---
 category: news
 title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
-excerpt: "The range of applications made possible with the cost-effective i.MX 8M Plus spans people and object recognition for public safety, industrial machine vision, robotics, hand gesture, and emotion detection with natural language processing for seamless human-to-device interaction with ultra-fast response time and high accuracy. NXP USA ..."
-publishedDateTime: 2020-01-06T17:03:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966719/0/en/NXP-Debuts-i-MX-Applications-Processor-with-Dedicated-Neural-Processing-Unit-for-Advanced-Machine-Learning-at-the-Edge.html
+excerpt: "\"The edge is the perfect destination to deploy machine learning applications, especially as technology advancements are enabling accurate localized decision-making,\" said Martyn Humphries, vice president and general manager of i.MX application processors for consumer and industrial markets at NXP. \"With the i.MX 8M Plus we are enabling leading ..."
+publishedDateTime: 2020-01-06T16:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/nxp-debuts-imx-applications-processor-with-dedicated-neural-processing-unit-for-advanced-machine-learning-at-the-edge-2020-01-06-12184034
 type: article
-quality: 19
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Computer Vision
   - Machine Learning
-  - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.FF66EB29416DCB31C9FEA4D8EA0D30CC
-    width: 150
-    height: 80
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
     title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
 
 related:
-  - title: "Neuromorphic Chips: Boosting AI at the Edge"
-    excerpt: "functions and application of neuromorphic chips and discussion on how neuromorphic chips can be implemented in components and systems of AI - Knowledge about robotic process automation (RPA), predictive analytics, machine learning (ML), and other emerging technologies - Information on data interface, memory interface, pixel-spike converter ..."
-    publishedDateTime: 2020-01-06T20:05:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neuromorphic-chips-boosting-ai-at-the-edge-2020-01-06
+  - title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
+    excerpt: "Here, we introduce a bespoke machine-learning approach, hierarchical statistical mechanical modeling (HSM), capable of accurately predicting the affinities of PBD–peptide interactions across multiple protein families. By synthesizing biophysical priors within a modern machine-learning framework, HSM outperforms existing computational methods ..."
+    publishedDateTime: 2020-01-06T16:07:00Z
+    sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Nature
+      domain: nature.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neuromorphic Chips: Boosting AI at the Edge"
-    excerpt: "functions and application of neuromorphic chips and discussion on how neuromorphic chips can be implemented in components and systems of AI - Knowledge about robotic process automation (RPA), predictive analytics, machine learning (ML), and other emerging technologies - Information on data interface, memory interface, pixel-spike converter ..."
-    publishedDateTime: 2020-01-07T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/neuromorphic-chips-boosting-ai-edge-210500776.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/neuromorphic-chips-boosting-ai-edge-210500776.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/neuromorphic-chips-boosting-ai-edge-210500776.html
+      - url: https://www.bing.com/th?id=ON.93A4A697ACE5D9FFA04E4637B2D5C989
+        width: 685
+        height: 468
+  - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
+    excerpt: "The i.MX 8M Plus combines a high-performance NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm® Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a high-performance 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors ..."
+    publishedDateTime: 2020-01-07T01:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/nxp-debuts-mx-applications-processor-170010859.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 54
-  - title: "Taking AI to the edge with HCI"
-    excerpt: "The best way for AI to be optimally used to generate these models is to make use of the data center or the cloud. One such example of this is the silicon chip company, Cerebras, which dedicates its work to accelerating deep learning. It has recently introduced its new “Wafer Scale Engine” which has been purposefully built for deep learning."
-    publishedDateTime: 2020-01-02T09:46:00Z
-    sourceUrl: https://www.datacenterdynamics.com/opinions/taking-ai-edge-hci/
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
-        width: 580
-        height: 305
+    quality: 0
 
-secured: "DiG5DiXYBW73LgdQtRmsKT+tcPtjnSlwkiz0/etLlJMctCDc61kAWNmbzpQj8J8mBrJcGVoLSqlRU1h7Mwzj/RDC1shzy14ASJRba3XUNDY8i3B5WADbaeMMQdBT5G6s9vL1rJLEAPCtlYudYcJ0SMtNlDVPvYaaLbL+K/b3CGZ1yUTlWyxY0rQ5KqGQQlb5KLr88j3H3dRCihghkc/olse9vGCMJt83bZ4OBfEChEhe0aPKhvBlBD7i46/11YjioeEozwlQQkGD0CTb7jngQw==;PnCNu+Da++mhZfSVUb+NJg=="
+secured: "KYAMNa1kufVOjXJkvpqBGsIhUcYg/ARYkomIULbw3BMRDFxlEPzU3pROV0na/Rpej4tmq5Rx8da1WHvQozmaA8e/Rn+j/vVCaDFSKYbOt/gPd4SpmXcBXyxnOdzNtPqRV3ufBlA8DInwHCmBxmVDp1pz5wVcN1ZqzsCaygTUsnfa7zPGGJcpgkHId0um+seuZf7S/Tn2cEmlJ/0u/SID7aih6k0pjqOrZ2RnxrHhIAOoylO3mGcNMrQk6r7K02rAizHca5tUIfFiblU/7wNusA==;Qm9VKrsZurP/LUIwZWEAEg=="
 ---
 

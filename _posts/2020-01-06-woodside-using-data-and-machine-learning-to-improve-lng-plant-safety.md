@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/woodside-using-data-and-machine
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
+    excerpt: "With the release of Trains Agent, the open-source solution suite now provides a full AI cluster solution, with resource control and autoML capabilities, bridging the gap between data science and DevOps. Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track ..."
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+        width: 700
+        height: 368
 
 secured: "srMzSL+hq8cliEEkQiTrZmP8qjmEv0nxBqKUYLPGkhxLro6Ws1Ls9qjxmEEhwTStOmJ26JhEdU1719xf/Dt2tRM+kDSyOzq/Fc2DGMn8mR2224wcGcCdCO5QGQpA0E7gXfG5PwKGc5ZnTwHKDnq+MNHZZ3xS1QZeRBCd4dQCGViHE5Up+rA7gCNwKIGIHDO/jKc1Mmv7gtnIUwcVT9XIijlLySDdUqZOEpeHiMyrW/Ot5fAcwzfJywNTFtyklR1ppsOoayanFezffcIc1q1MXA==;UlMaqFC+F0oFB7bq86BfOg=="
 ---

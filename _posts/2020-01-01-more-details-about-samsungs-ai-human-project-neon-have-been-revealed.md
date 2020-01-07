@@ -8,7 +8,7 @@ ampUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-pro
 cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
 type: article
 quality: 157
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -38,6 +38,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
+        width: 700
+        height: 525
+  - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"
+    excerpt: "The technology is still being perfected, and Neon said it plans to beta launch the avatars later this year with certain partners. Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby ..."
+    publishedDateTime: 2020-01-07T13:28:00Z
+    sourceUrl: https://www.zdnet.com/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    ampUrl: https://www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
         width: 700
         height: 525
   - title: "Samsung reveal AI powered 'artificial human'"
