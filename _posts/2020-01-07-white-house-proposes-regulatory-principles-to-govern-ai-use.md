@@ -1,24 +1,29 @@
 ---
 category: news
 title: "White House proposes regulatory principles to govern AI use"
-excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
-publishedDateTime: 2020-01-07T04:50:00Z
-sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
+excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach”, and said it wants European officials to likewise avoid aggressive approaches."
+publishedDateTime: 2020-01-07T05:56:00Z
+sourceUrl: https://www.reuters.com/article/us-tech-ces-ai-white-house-idUSKBN1Z60GL
+ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
+cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: /assets/images/organizations/reuters.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
+  - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
     width: 700
     height: 466
     title: "White House proposes regulatory principles to govern AI use"
@@ -83,6 +88,6 @@ related:
         width: 700
         height: 393
 
-secured: "1Gy+M1Q+jtiRoHzXQp3dFhy8x1DOqz4d0UcCzO8Ba9M2EpN9cZQWQ10VACfeo6P6cxCdYBfW+kq6pRG3tEpmdA+YsQJEf2btlMHLkNLvK83OV/a4jvg353lsjSEjwH74pgaWJ1tvTjvQJJVRaSUHljMQ9iQ6frZijNP5C7VQY5ratTZweAPZtv//iMc3McbscM/iXwDsmPUWQfZnZYnEz6WiXrn9DeRiGD6tnNe735q9wDEouGMUeH2fEiY1oTuA3niaXwRbKVueEq/U28N7MQ==;BkvL4wstT5+TjSfHlgcHHQ=="
+secured: "KOBAwzP9YGkdnfx369wlHWSIz9/6AUzFlqFLEnafpUsgId2rmkD9y9yZlz7WteYsYtNLGL+E1U1yLpJZXKVb9wEW2WZrAiCmSzSZjqavAVQlpWLoJ+UU73P0SwdWtHi31+4c2/thkExlaHoe+Sem/gRaSapy8L2gO1pHuUdB9lioc/9NkabfYkF7DbNB/muBSOtMCyZIjJkwwN/tF2qptyzhqRmYXzqm32atsCz62nJqcVxnjMpkgqfdoGp+R6quIOmw3FkNH0c/JQMmJJbPqA==;cwykaW1szbeDIDRYdBjqJQ=="
 ---
 

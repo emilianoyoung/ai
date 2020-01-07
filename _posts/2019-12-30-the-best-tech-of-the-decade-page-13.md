@@ -64,7 +64,7 @@ related:
     provider:
       name: InvestorPlace on MSN.com
       domain: msn.com
-    quality: 52
+    quality: 54
     images:
       - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700

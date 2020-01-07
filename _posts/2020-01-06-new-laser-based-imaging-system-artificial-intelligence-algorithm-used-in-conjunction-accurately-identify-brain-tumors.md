@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.663917561D8933F1B5B1A469D2FB9BBA
         width: 686
         height: 441
+  - title: "Novel Artificial Intelligence Algorithm Helps Detect Brain Tumor"
+    excerpt: "Early detection is crucial to improve patient prognosis, and thanks to a team of researchers, they developed a new imaging technique and artificial intelligence algorithm that can help doctors accurately identify brain tumors. Image Credit: create jobs 51 / Shutterstock.com Published in the journal Nature Medicine, the study reveals a new ..."
+    publishedDateTime: 2020-01-07T11:40:00Z
+    sourceUrl: https://www.news-medical.net/news/20200107/Novel-Artificial-Intelligence-Algorithm-Helps-Detect-Brain-Tumor.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20200107/Novel-Artificial-Intelligence-Algorithm-Helps-Detect-Brain-Tumor.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200107/Novel-Artificial-Intelligence-Algorithm-Helps-Detect-Brain-Tumor.aspx
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 72
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_565415560_cdc0415eea0045db956741af3021a3de-620x480.jpg
+        width: 620
+        height: 480
 
 secured: "Ent9XHAmxA+sAhXU4i13SDVeN4lwUSMr8sTHmcoRT0q4hOHyoC6Aysy6LRMA3w0HPmIvR9jghlkmofJowzD9w4eMyXlfxR86qCqNdkVzQvsUzbfZex54kLL4/Pm0RFE851tbfykak3A9sQgpVCK0FXy3QXVf9nlVvuipJNv6xkEp1tNNdJ7k6JP+x5eLZ/5+vXbQJkTdJdN9qB2lzat8U/OXyS3i4BIbb5nWEsyJfQwgRA9ywOi+jeCHEtF78QL9TY5bDzYm8tlEf1gptL2CsA==;sNprH2TvcDNbTj74cJjazw=="
 ---

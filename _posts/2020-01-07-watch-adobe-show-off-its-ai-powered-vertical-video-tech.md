@@ -24,14 +24,16 @@ images:
 
 related:
   - title: "Watch Adobe show off its impressive AI-powered vertical video tech"
-    excerpt: "The chipmaker's executive VP, Gregory Bryant, said he often gets asked why AI and machine learning are important on PC. He then brought Levine on stage to demonstrate the kind of creative experiences Ice Lake's integrated AI unlocked for creators -- and Levine did so with great panache. The Adobe evangelist showed how easy it is to erase ..."
-    publishedDateTime: 2020-01-07T10:16:00Z
-    sourceUrl: https://www.msn.com/en-gb/news/offbeat/watch-adobe-show-off-its-impressive-ai-powered-vertical-video-tech/ar-BBYH7ae
+    excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
+    publishedDateTime: 2020-01-07T09:16:00Z
+    sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
+    ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
     type: article
     provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 39
+      name: Engadget
+      domain: engadget.com
+    quality: 89
     images:
       - url: https://www.bing.com/th?id=ON.1BD6A0FE9119BCC2512B0EDD502357CD
         width: 700

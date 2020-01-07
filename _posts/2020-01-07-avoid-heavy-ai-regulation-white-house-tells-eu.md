@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E4F8C9326C8747F20B688E213B4E9E7F
         width: 700
         height: 366
+  - title: "White House proposes regulatory principles to govern AI use"
+    excerpt: "The White House on Tuesday proposed regulatory principles to govern the development and use of artificial intelligence (AI) aimed at limiting authorities’ “overreach”, and said it wants European officials to likewise avoid aggressive approaches."
+    publishedDateTime: 2020-01-07T05:56:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-ai-white-house-idUSKBN1Z60GL
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
+        width: 700
+        height: 466
   - title: "White House urges federal agencies and European allies to avoid overregulation of AI"
     excerpt: "The White House is calling on U.S. lawmakers and businesses, as well as European nations and allies, to avoid overregulation of artificial intelligence. The announcement comes as part of AI regulatory principles introduced today by the Trump administration. “Europe and our allies should avoid heavy handed innovation-killing models ..."
     publishedDateTime: 2020-01-07T05:01:00Z
@@ -69,19 +84,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15E1EEBC7EAE9309CCECA9AA36B3633F
         width: 700
         height: 474
-  - title: "White House proposes regulatory principles to govern AI use"
-    excerpt: "In February, U.S. President Donald Trump signed an executive order for federal government agencies to dedicate more resources and investment to AI-related research, promotion and training. A 2018 study from consultancy PwC said 30% of jobs around the world are at risk of automation by the mid-2030s, including 44% of workers with low education."
-    publishedDateTime: 2020-01-07T04:50:00Z
-    sourceUrl: https://wsau.com/news/articles/2020/jan/07/white-house-proposes-regulatory-principles-to-govern-ai-use/971986/?refer-section=technology
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.8BCDE75D1571B3221E8152244A4B582A
-        width: 700
-        height: 466
 
 secured: "QehygOdifqv1mrkdYk79+CfKaPm5/zx7/SnXRNswGTQPE25nxrfxmXXoC4EINorrjynrb83qZU6PDBUabbg0w2J+eFtrrK0OSvbV4ipotKF5e7pg8QN68SeXfd72rIv+fMYkXOPAFV+8g9jqkMHOcHahi2u/Ty/uwTKTgwrlCbTvYi04SwWzi4piC7ufiSHetCv9QIJs6Kut5B350M3J2ORC0yZuxTfg4UCoILR+eEb69k0u6+Cs2DYOi2xPlHn6uhzg5RMNcZJ35hSNx7FGYg==;0YimPKvi5C2xWfgZOigsog=="
 ---

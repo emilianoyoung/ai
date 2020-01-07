@@ -5,7 +5,7 @@ excerpt: "Many companies are vying to dominate the artificial intelligence (AI) 
 publishedDateTime: 2020-01-06T16:19:26Z
 sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D

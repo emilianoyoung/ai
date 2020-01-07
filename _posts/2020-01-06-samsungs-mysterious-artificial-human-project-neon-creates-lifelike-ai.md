@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.83478E6035271683E24F7BD8E4BE086D
         width: 700
         height: 390
+  - title: "Samsung’s artificial human isn’t the smart droid you’ve been looking for"
+    excerpt: "These devices are supposed to show “emotions and intelligence,” and should be able to respond to queries “with latency of less than a few milliseconds.” They should also guard your privacy. But Samsung doesn’t explain the underlying tech that would make all of that possible. Forget the physical appearance of these artificial humans ..."
+    publishedDateTime: 2020-01-07T11:56:00Z
+    sourceUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/
+    ampUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E045D65318003F289C30E761049DA334
+        width: 700
+        height: 414
   - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
     excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
     publishedDateTime: 2019-12-26T09:15:00Z

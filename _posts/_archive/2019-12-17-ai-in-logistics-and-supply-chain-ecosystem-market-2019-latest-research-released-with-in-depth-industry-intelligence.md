@@ -41,16 +41,20 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI in Automotive Market revenue to surpass USD 12 Bn by 2026, growing at over 35%: Global Market Insights, Inc."
-    excerpt: "According to latest report “Artificial Intelligence (AI) in Automotive Market by Component (Software, Hardware, Service), Technology (Computer Vision, Context Awareness, Deep Learning, Machine Learning, Natural language Processing (NLP)), Process (Data Mining, Image/Signal Recognition), Application (Semi-Autonomous Vehicles, Fully Autonomous ..."
-    publishedDateTime: 2019-12-18T11:01:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962067/0/en/AI-in-Automotive-Market-revenue-to-surpass-USD-12-Bn-by-2026-growing-at-over-35-Global-Market-Insights-Inc.html
+  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
+    publishedDateTime: 2019-12-24T20:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
-secured: "1r4sPFzS2HzCWTpPbj1QtZ2zalaZwtJO0YGBmEeN1pbocVVbtIn+dcNY+Xv9aF1OGnW5RYQodv4VtAkODqQ/6yjOIctalntZ0FemHzJlszNNJUC2N9pxTCzN/4QMRgesHSJF2O2lMoJU9C+kOGQ8g6yv0DaZ2alnX/C9g1O3Rf9e5G+WotQa0PodqWmSmy6IVsCvgJZoW6dTSveevEk3JD6wNhcsVEVHa/qi8UkwmNFYLS3e2CU1fR8Allx1pziDUruouGyOc0GOcY7NIJ/kPQ==;sbDL5vqdasBz05hsYq10cg=="
+secured: "BPoB2dmDNOJqMLVhzxD9z1u+HWtEOes/INfVvHpuHe2aL+2SKZZwhTMkpxs9dq+qCdf0bzoOror8Whr1I6RwbR8n57Jyif1d+KDDQOpKOp9eIC9ry7/6DO8uZukxHahsN2p4prx4I2bu2X/eeVXEjtNVy0LJ5wDy8zipwi67EinVEEpWEn/f/m6HVIn97WPomkJHrmwLbr0LThDhy2j9hfn4PXY87KqnOXkPv+7NW4xUYcx845AwRSaBI9Cm0pSDDzKJTb3UHDu0WlVwD74X9A==;FhN/raJNsdWzwQ92v+1MXw=="
 ---
 

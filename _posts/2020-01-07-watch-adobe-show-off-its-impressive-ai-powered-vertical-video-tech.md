@@ -1,17 +1,23 @@
 ---
 category: news
 title: "Watch Adobe show off its impressive AI-powered vertical video tech"
-excerpt: "The chipmaker's executive VP, Gregory Bryant, said he often gets asked why AI and machine learning are important on PC. He then brought Levine on stage to demonstrate the kind of creative experiences Ice Lake's integrated AI unlocked for creators -- and Levine did so with great panache. The Adobe evangelist showed how easy it is to erase ..."
-publishedDateTime: 2020-01-07T10:16:00Z
-sourceUrl: https://www.msn.com/en-gb/news/offbeat/watch-adobe-show-off-its-impressive-ai-powered-vertical-video-tech/ar-BBYH7ae
+excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
+publishedDateTime: 2020-01-07T09:16:00Z
+sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
+ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -38,6 +44,6 @@ related:
         width: 700
         height: 367
 
-secured: "CKDh/eourM+B5NzfTBo7FAKWOLFWcJm9DFn5ed/5HLKbnNU+o3qXJv/TSkCHbsstXDoV5LD7QRY4/rQPIiXIEeKvtk5sSZ3G5DvPR7y+V9fLiLbsVadlimflCeUSdRp7e8Dzi0jWJft3lBitY9Fzvl62kR3/LfrqUo6DaZS+ddF4n8726g5smVOEUDlAa4uhCYREsVU364FGpmn3Y5C52Y7PZEGVuJwep5LwujKG/WETWMVDDtbKBZCYXXmtvt+YKiJuW0qtCiUtVH9N1VyMBw==;GgZYS6NsoqHY39pXSK3C5Q=="
+secured: "tz7xWNXWsJCqbLN2kCjJoynDZ+LoL85GpTd1RTT6oPse+BwJsb36YVpBm9gyXwfmlv6SNLRuDjNNJhPTMWXYoraIveNv6Y6Mh7GxQtjQa6f8D0nxAdVdQHYGlGm3C5U60Kcgfu2t6abvUJfwDOLyieHEYfp6XA8CskP70aflilMA/LOkNpjUZSJjj7Rf93V1ZXf+9Kz+jc0RlgW7KPVRCkYh+3meMFdzdPAqf14YSqjzMuwhPgC1d3PHltrZPmBoCXLsIURMIQVBOD5gHVXPFg==;MfjQmd5tZB0AEYM7vKniOg=="
 ---
 

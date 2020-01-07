@@ -57,21 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3631F1DD7FB2AB80779127C0AD60AE00
         width: 660
         height: 440
-  - title: "India bullish on AI in healthcare without electronic health records"
-    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
-    publishedDateTime: 2020-01-06T09:38:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.DC2C83EE04CB69B4E09AA9C2144F2C3C
-        width: 700
-        height: 379
   - title: "A reality check on artificial intelligence: Are health care claims overblown?"
     excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford’s Center for Biomedical Ethics. “It’s only a matter of time before something like this leads to a serious health problem,” said Dr. Steven Nissen, chairman of cardiology at the Cleveland Clinic. Medical AI, which pulled in $1.6 ..."
     publishedDateTime: 2020-01-02T11:41:00Z

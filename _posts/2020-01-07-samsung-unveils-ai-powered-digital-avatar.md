@@ -53,6 +53,34 @@ related:
       - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
         width: 700
         height: 393
+  - title: "Samsung Ballie robot unveiled at CES"
+    excerpt: "The Ballie robot is a rolling robot which is designed to be helpful and reacts to you, it comes with Artificial Intelligence and has a range of functions. At the core of Samsung’s human-centered vision is personalized care, enhancing the health and well-being of consumers by satisfying their individual needs. During his opening remarks ..."
+    publishedDateTime: 2020-01-07T10:55:00Z
+    sourceUrl: https://www.geeky-gadgets.com/samsung-ballie-robot-unveiled-at-ces-07-01-2020/
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.9C842FA8060350DFB27B018185FCF187
+        width: 700
+        height: 467
+  - title: "CES 2020: Samsung unveils 'Ballie' robot, AR glasses as it heralds a new decade it calls the ‘Age of Experience’"
+    excerpt: "At CES 2020 – the world’s largest consumer technology trade show – Samsung unveiled the electronics giant’s latest advances in robotics, artificial intelligence (AI), 5G, edge computing, and augmented reality (AR), as it laid out its vision for a new decade it termed the “Age of Experience.” In Samsung’s keynote address at CES ..."
+    publishedDateTime: 2020-01-07T11:36:00Z
+    sourceUrl: https://yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address
+    ampUrl: https://yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address/amp
+    cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/ces-samsung-unveils-ballie-robot-ball-ar-glasses-keynote-address/amp
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.524F1C3FDA92593BD9EA0C1B16B28030
+        width: 700
+        height: 350
   - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
     excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
     publishedDateTime: 2020-01-07T05:08:41Z

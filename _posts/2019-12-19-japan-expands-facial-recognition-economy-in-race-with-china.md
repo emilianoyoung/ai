@@ -1092,19 +1092,6 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
-  - title: "Nets trials facial-recognition payments"
-    excerpt: "Under the tagline \"Hungry? Face it,\" Nets, a Nordic provider of digital payment services, has launched a pilot testing facial recognition as a payment method, the company announced via a press release Monday. Around 1,000 people — all working at Vibenshuset, an office community of 25 companies in Copenhagen — can sign up to participate in ..."
-    publishedDateTime: 2019-12-18T11:03:00Z
-    sourceUrl: https://www.retailcustomerexperience.com/news/nets-trials-facial-recognition-payments/
-    type: article
-    provider:
-      name: Retailcustomerexperience.com
-      domain: retailcustomerexperience.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BAF8E0C09CABB09C650896BE35960705
-        width: 300
-        height: 170
   - title: "Federal study finds race, gender affect face-scanning tech"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
     publishedDateTime: 2019-12-20T13:32:00Z

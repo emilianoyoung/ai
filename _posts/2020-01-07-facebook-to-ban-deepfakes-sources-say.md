@@ -24,6 +24,21 @@ images:
     title: "Facebook to ban deepfakes, sources say"
 
 related:
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to “merge ... a Deep Fake Detection Challenge which was announced last fall — “to produce more research and open source tools to detect deepfakes”. While says Facebook has been working with news agency Reuters to offer free online training courses ..."
+    publishedDateTime: 2020-01-07T11:04:00Z
+    sourceUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/
+    ampUrl: https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.97C41920550C8B58E952F5CFB7E05D95
+        width: 618
+        height: 400
   - title: "Ahead of the 2020 presidential election, Facebook says it’s banning deepfakes"
     excerpt: "In addition to keeping an eye on AI-generated content, Bickert says Facebook is also “partnering with academia ... Challenge which aims to catalyze the development in deepfake detection through large data sets, awards, and research grants."
     publishedDateTime: 2020-01-07T05:26:00Z
@@ -39,6 +54,32 @@ related:
       - url: https://www.bing.com/th?id=ON.E746D7D1B304DF8D7B15333B207A09D8
         width: 700
         height: 366
+  - title: "How Deepfakes Make Disinformation More Real Than Ever"
+    excerpt: "Originating with an early practitioner and Reddit user named “ deepfakes,” the name appears to give a nod to deep learning, a subset of machine learning that uses layers of artificial neural networks to train computers to perform a task. With deepfake videos, a program is typically fed high-quality images of a target’s face and then ..."
+    publishedDateTime: 2020-01-06T05:01:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2358710B03AE05FE1F303243B86B9599
+        width: 700
+        height: 505
+  - title: "Facebook vows to crack down on ‘misleading’ deepfakes"
+    excerpt: "Facebook today announced it will ban misleading manipulated media — including ... someone into thinking that a subject of the video said words that they did not actually say. It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
+    publishedDateTime: 2020-01-07T07:40:00Z
+    sourceUrl: https://thenextweb.com/facebook/2020/01/07/facebook-vows-to-crack-down-on-misleading-deepfakes/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2F0BD12721C8563744DCF8DBD3F4C263
+        width: 700
+        height: 350
   - title: "Facebook moves to ban deepfakes"
     excerpt: "Facebook appears to be of the same mind as the social network has announced it ... mislead someone into thinking that a subject of the video said words that they did not actually say It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
     publishedDateTime: 2020-01-07T07:00:00Z
@@ -54,21 +95,19 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
-  - title: "Facebook to remove deepfake videos in run-up to 2020 US election"
-    excerpt: "The social media giant would also remove misleading media if it was a result of technologies like artificial intelligence (AI) that \"merges, replaces or superimposes content on to a video, making it appear to be authentic\", it said in a blogpost dated January 6. Last year, Facebook refused ... independent research and insights & analysis ..."
-    publishedDateTime: 2020-01-07T07:44:00Z
-    sourceUrl: https://www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html
-    ampUrl: https://www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html/amp
-    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/facebook-to-remove-deepfake-videos-in-run-up-to-2020-us-election-4792561.html/amp
+  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
+    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
+    publishedDateTime: 2020-01-07T11:33:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.AB7310F35FB91CA6CD7DCD7B7218F558
-        width: 700
-        height: 393
+      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
+        width: 300
+        height: 300
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z

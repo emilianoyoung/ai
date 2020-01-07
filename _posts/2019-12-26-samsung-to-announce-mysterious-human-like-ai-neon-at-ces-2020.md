@@ -68,6 +68,21 @@ related:
       - url: https://www.bing.com/th?id=ON.83478E6035271683E24F7BD8E4BE086D
         width: 700
         height: 390
+  - title: "Samsung’s artificial human isn’t the smart droid you’ve been looking for"
+    excerpt: "These devices are supposed to show “emotions and intelligence,” and should be able to respond to queries “with latency of less than a few milliseconds.” They should also guard your privacy. But Samsung doesn’t explain the underlying tech that would make all of that possible. Forget the physical appearance of these artificial humans ..."
+    publishedDateTime: 2020-01-07T11:56:00Z
+    sourceUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/
+    ampUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E045D65318003F289C30E761049DA334
+        width: 700
+        height: 414
   - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
     excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
     publishedDateTime: 2020-01-06T19:34:54Z
