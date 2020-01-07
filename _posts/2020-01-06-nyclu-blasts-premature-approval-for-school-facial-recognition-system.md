@@ -116,6 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0180BA3AFB221AA27AC61BC7F1323725
         width: 700
         height: 466
+  - title: "Facial recognition finally activated at New York school district"
+    excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
+    publishedDateTime: 2020-01-06T23:16:00Z
+    sourceUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/
+    ampUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    cdnAmpUrl: https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.08234B047A974C258D9E9189AE65F456
+        width: 700
+        height: 466
   - title: "School district’s launch of facial recognition program sparks outcry"
     excerpt: "A western New York school district has decided to begin using a facial recognition system, a move that is facing criticism from civil rights groups. The Associated Press reports that Lockport Central School District activated its object and facial recognition system, called AEGIS, last week. The district recently said that the technology will ..."
     publishedDateTime: 2020-01-06T17:30:00Z

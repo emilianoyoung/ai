@@ -23,21 +23,6 @@ images:
     height: 315
     title: "Postdoctoral Fellow in Computer Vision"
 
-related:
-  - title: "How to train computers faster for 'extreme' datasets"
-    excerpt: "A new approach could make it easier to train computer for “extreme classification problems” like speech translation and answering general questions, researchers say. The divide-and-conquer approach to machine learning can slash the time and computational resources required. Online shoppers typically string together a few words to search ..."
-    publishedDateTime: 2019-12-17T19:49:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/17/machine-learning-extreme-classificaton.aspx
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2015/December/SANSnetworkthreats.png
-        width: 620
-        height: 300
-
-secured: "nXzrxiMQALQ4zFBs2m/pMMZiBw2fh7+93PqJnuU87KXc4aw91bqhYTDBmqOiPBVEZ/dCtllEFmLhpCBXei2ocDE5fwPwSXDaNo7Urxirm1IxnBFxAblc/iSa3MM7eD61IJ+n/dSft/b12zN7OgbjSDxUaWbOHsBqpaxbDKjYnzk+UJG9odskvrk5nPshpK5hMFnQtrzBvXpmb+djbkKFFDmwbDgjh2IFnuVbBnVMBTD6P3nnDpfxqid2HQNz7Mi5iyc5E/1UxXCmZdG/QdhVlA==;QnoKBAx3vLudf2CJOo9Fmw=="
+secured: "QIa2zwXhZlLmS2Prek/VSpA5LfqtHCioRIgmwBZ1cC1e5lpKvJf8gRkcHP7yEFh2LuuxSyYKF8610UXNkhcQVmg4YS1/wrferbVnqzJU+6UVMcId+bo7TZDiQDqdhSN2BFYsIhNnMb//9/gSk6lZIVGN+8nezhCIk2nBAU6QcPPM96pBA/kuNEDAXg3wK2CiafzZpL3NRwlKtg/y2gC0PTU6+QK7luzfk916n1f6IvlrlwzRs+ZmnamEDuSck36BOzxkBgxRILGG078ubiE8nQ==;IPz62ECHcp8phXBd5jWjgA=="
 ---
 

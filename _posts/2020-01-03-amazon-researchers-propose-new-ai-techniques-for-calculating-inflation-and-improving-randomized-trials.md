@@ -104,6 +104,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0180BA3AFB221AA27AC61BC7F1323725
         width: 700
         height: 466
+  - title: "Facial recognition finally activated at New York school district"
+    excerpt: "After receiving concerns over possible student privacy violations from students, civil rights activists and state officials, the Lockport City School District in Upstate New York on Thursday activated its facial recognition, which is designed to detect and preempt threats to campus safety. “I am pleased to report that the District has ..."
+    publishedDateTime: 2020-01-06T23:16:00Z
+    sourceUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/
+    ampUrl: https://edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    cdnAmpUrl: https://edscoop-com.cdn.ampproject.org/c/s/edscoop.com/lockport-city-facial-recognition-finally-activated-new-york-school-district/?amp
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.08234B047A974C258D9E9189AE65F456
+        width: 700
+        height: 466
   - title: "NYCLU blasts 'premature' approval for school facial recognition system"
     excerpt: "Lockport City School District, in Niagara County, activated facial recognition cameras in all of its buildings last Thursday, becoming the first public school in the state to use the software designed to prevent intruders. The New York branch of the civil liberties union, in a letter to state education officials, wrote that the approval was ..."
     publishedDateTime: 2020-01-06T21:36:00Z

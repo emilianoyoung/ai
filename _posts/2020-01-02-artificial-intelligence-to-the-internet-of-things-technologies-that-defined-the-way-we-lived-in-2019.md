@@ -95,6 +95,17 @@ related:
       - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
         width: 700
         height: 367
+  - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
+    excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
+    publishedDateTime: 2020-01-07T00:22:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html
+    ampUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "96bsPZq7edrTY0mnck59lyUmS4wdloGn19Fv+gS1AzK7kL4Py8G2/BeflBtR+dI+AFQmMik11uOVJ6wYNhuVTVQIBOgUPjRddLcKYKZ/U6HfOzqTG/w7PJYZKCFkASWprylZ207JuqKNIWJaNqhNwNPO/PY3ttS3L5cgKxTi/9QibPH5r43vUvvpUCdippWC+L341DgB3I/9d67F4HLklwsTikpveJV4eIOgxGSB+us6Hz3775dVJG26Ae+/nUVSIS12iIJ1BzWW+wfxhMTGjQ==;mMwlBSb+KM6QfJzKFfzsDQ=="
 ---

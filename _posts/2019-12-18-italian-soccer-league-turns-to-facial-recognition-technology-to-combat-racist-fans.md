@@ -1055,17 +1055,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
-    publishedDateTime: 2019-12-18T00:04:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
-    ampUrl: https://amp.usatoday.com/amp/2680483001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 34
   - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
     excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
     publishedDateTime: 2019-12-23T16:32:00Z

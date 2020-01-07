@@ -1046,17 +1046,6 @@ related:
       - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
         width: 700
         height: 340
-  - title: "Why some cities, states and lawmakers want to curb facial recognition technology"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
-    publishedDateTime: 2019-12-18T00:04:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/17/face-recognition-ban-some-cities-states-and-lawmakers-push-one/2680483001/
-    ampUrl: https://amp.usatoday.com/amp/2680483001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2680483001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 34
   - title: "Italian Soccer League Turns to Facial Recognition Technology to Combat Racist Fans"
     excerpt: "Italian soccer league Serie A is developing facial recognition technology in an effort to identify fans responsible for racist chants and taunts inside its stadiums. Stars such as Romelu Lukaku, Miralem Pjanic, Kalidou Koulibaly, and Mario Balotelli have all been targets of racism this season during games. “We’re working on facial ..."
     publishedDateTime: 2019-12-18T08:11:00Z

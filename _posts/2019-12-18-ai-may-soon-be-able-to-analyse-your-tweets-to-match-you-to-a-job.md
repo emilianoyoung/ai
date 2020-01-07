@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T02:33:00Z
 sourceUrl: https://www.gizmodo.com.au/2019/12/ai-may-soon-be-able-to-analyse-your-tweets-to-match-you-to-a-job/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "AI May Soon Be Able To Analyse Your Tweets To Match You To A Job"
 
 related:
-  - title: "Robot career guidance: AI may soon be able to analyse your tweets to match you to a job"
-    excerpt: "Then, using a tool available through IBM’s cloud-based artificial intelligence engine Watson, and its Personality Insights service, we gave each profile a score across ten personality-related characteristics, based on the language in their posts. We used a variety of data analytics and machine learning techniques to explore the personality of ..."
-    publishedDateTime: 2019-12-17T23:14:00Z
-    sourceUrl: https://www.themandarin.com.au/123196-robot-career-guidance-ai-may-soon-be-able-to-analyse-your-tweets-to-match-you-to-a-job/
-    type: article
-    provider:
-      name: The Mandarin
-      domain: themandarin.com.au
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.09BA549210C3D8C37EF20AEF7BEE53F3
-        width: 700
-        height: 338
   - title: "Get a robot to analyse your tweets and match you to a job"
     excerpt: "Then, using a tool available through IBM’s cloud-based artificial intelligence engine Watson, and its Personality Insights service, we gave each profile a score across ten personality-related characteristics, based on the language in their posts. We used a variety of data analytics and machine learning techniques to explore the personality of ..."
     publishedDateTime: 2019-12-18T21:20:00Z

@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/nvidias-tensorrt-7-improves-the-compi
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/nvidias-tensorrt-7-improves-the-compiler-for-conversational-ai-models/amp/
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Nvidia’s TensorRT 7 improves the compiler for conversational AI models"
 
 related:
-  - title: "NVIDIA Enables Era of Interactive Conversational AI with New Inference Software"
-    excerpt: "Accelerating Inference from Edge to Cloud TensorRT 7 can rapidly optimize, validate and deploy a trained neural network for inference by hyperscale data centers, embedded or automotive GPU platforms. NVIDIA’s inference platform — which includes TensorRT, as well as several NVIDIA CUDA-X AI™ libraries and NVIDIA GPUs — delivers low ..."
-    publishedDateTime: 2019-12-18T00:00:00Z
-    sourceUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
-    ampUrl: https://www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
-    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/nvidia-enables-era-of-interactive-conversational-ai-with-new-inference-software/
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 55
-    images:
-      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
-        width: 1000
-        height: 667
   - title: "How to Cash in on Conversational AI"
     excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
     publishedDateTime: 2019-12-24T16:19:00Z

@@ -21,6 +21,21 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
+    excerpt: "\"By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and home ..."
+    publishedDateTime: 2020-01-07T00:42:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/philips-expands-its-range-of-consumer-focused-digital-health-solutions-at-ces-2020-8367974
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 18
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
+
 secured: "pN7Co24UdyuIShwAFZ6Ag0zgUyghr/f7Drj6VxFtxhKbfwIz6nfIe1LtcKHMSE13/FOKR4rrVf1/brMRdg3gOW4AC3HIK9YLRS4r2sz7T1G5JI7U974TFLrIHpGdVvxYnU4kF3H9W8tw1AWZJqXDh/Ju289iP2RYuFDnS7dBYdD2xQIySjouMWYGcjf6V4GvoY1bWf4XvKEtmPEL6hkfEI4RUCLDzoIs5JMskpQr9OyBC+R14Kaj1cGCK57K0U6lc6ZDj1AnE86tTugnnz0UHA==;XkwBisCWl2gQIF+0PBYSlQ=="
 ---
 

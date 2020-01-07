@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6533D55D50A34A2D3C5B34802284D39B
         width: 700
         height: 393
+  - title: "Artificial intelligence can accurately diagnose brain tumours within minutes"
+    excerpt: "Sharing the full story, not just the headlines It is the latest study to show the benefits of machine-learning artificial intelligence in healthcare. Earlier this month researchers showed a Google-based AI was as good as humans at spotting incidences of breast cancer – and it was much better at avoiding false positives. Sir Simon Stevens ..."
+    publishedDateTime: 2020-01-06T16:09:00Z
+    sourceUrl: https://www.independent.co.uk/news/health/brain-cancer-surgery-tumour-artificial-intelligence-ai-health-a9272186.html
+    type: article
+    provider:
+      name: Independent
+      domain: independent.co.uk
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.47726BB1482AC34D48971D8BE4372758
+        width: 700
+        height: 525
   - title: "AI matches human brain cancer diagnosis: study"
     excerpt: "An AI computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. They found that the computer was able to diagnose common cancers in under three minutes -- more than 10 times faster than a human expert."
     publishedDateTime: 2020-01-06T16:00:44Z

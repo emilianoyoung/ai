@@ -242,17 +242,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Why more cities and states are fighting the spread of facial recognition"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
-    publishedDateTime: 2019-12-17T23:55:00Z
-    sourceUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition
-    ampUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 38
   - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
     excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
     publishedDateTime: 2019-12-18T18:52:00Z
@@ -436,6 +425,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "jd/wkgMWbTHr1HVveUiYVZSjHFflMSlHJ/NenqtXri7YcJLLuc+S3i0UkNRIQjEhguKsJYSPF2QFjGJKuvz4cyoVYyxinN/zOwOT7rP71bpjtzbVVSs6vH9U+S0feECPDBsa3IKhvpednag/aNPFvz0K2ob0ZXIKlIzA8U9Gc5Bgg9kLuUK6va44gEcNUzoN1MklUfZH0HLgdchxMCczP3Ttee9zahmEcfu2CgMELM/xVibDR2ISUmMDWqp4Ut5yUIOFLNJdrX51f8zV2xZz2w==;jWGC3oOPTaNYAH+AUAci5Q=="
+secured: "qwASRtPZdKEtOmVN4b89/QJvT63ch4BTcfa4ue2EIKlen+rdPrwLgZoKBYI2Ii00LHaYIy4Phy9fRMRedY7tgk06SvprulKe9nD9PQAljvoA1tBS68+iTfLy8xO+2W8ZFd8DGKK/R4yrM5DbwYfQSALgmHMYhXGlhYlfzlBuxEL13T6J3z5e+zJQJb7ruRK4MBbP9UD5m2yaeMEeP6QrkvayC9mqJ4DR+aTwJzozkLuOjtgFA6lyQ6326C3you2heBZPHTvuum+wi81Jjsg7NQ==;hB1OXjRIz6HeRcIfGIoa+g=="
 ---
 

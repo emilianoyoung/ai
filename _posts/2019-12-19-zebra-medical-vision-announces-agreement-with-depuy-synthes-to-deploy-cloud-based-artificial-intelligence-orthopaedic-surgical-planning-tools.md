@@ -24,32 +24,19 @@ images:
     title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
 
 related:
-  - title: "Natural Language Processing for the Identification of Surgical Site Infections in Orthopaedics"
-    excerpt: "The objective of this study was to determine whether automating the abstraction process with natural language processing (NLP)-based models that analyze the free-text notes of the medical record can identify surgical site infections with predictive ..."
-    publishedDateTime: 2019-12-18T00:00:00Z
-    sourceUrl: https://journals.lww.com/jbjsjournal/Abstract/2019/12180/Natural_Language_Processing_for_the_Identification.2.aspx
+  - title: "DePuy taps Zebra Medical to bring AI vision to its new Velys digital orthopedic surgery platform"
+    excerpt: "“We share a common vision surrounding the impact we can have on patients’ lives through the use of AI, and we are happy to initiate such a meaningful strategic partnership, leveraging the tools and knowledge we have built around bone health AI in the last five years,” Gura added."
+    publishedDateTime: 2019-12-25T18:32:00Z
+    sourceUrl: https://www.fiercebiotech.com/medtech/depuy-taps-zebra-medical-to-bring-ai-vision-to-its-new-velys-digital-orthopedic-surgery
     type: article
     provider:
-      name: LWW Journals
-      domain: lww.com
-    quality: 27
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 24
     images:
-      - url: http://jbjs.careers.adicio.com/files/cmsimages/userfiles/6917e4642a831d61f2c597ec4bb9090eb7628262/images/jbjsLogo.png
-        width: 1374
-        height: 568
-  - title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
-    excerpt: "The identified urinary biomarkers could be used to develop a point of care test for UTI but require further validation. This is one of the first studies to use machine learning methods to select clinical features and urinary immunological markers to predict culture results for uncomplicated UTI in primary care. We found that cloudiness of urine ..."
-    publishedDateTime: 2019-12-23T10:18:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-55523-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 13
-    images:
-      - url: https://www.bing.com/th?id=ON.7029E9AE32C9202E1A022036C6534D37
-        width: 685
-        height: 514
+      - url: https://www.bing.com/th?id=ON.AA9EC53D504DD5D3AA961655EAE41090
+        width: 700
+        height: 491
   - title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
     excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI) opportunities to orthopaedics, based on imaging data. This press release features multimedia. View the full release here: https ..."
     publishedDateTime: 2019-12-20T00:12:00Z

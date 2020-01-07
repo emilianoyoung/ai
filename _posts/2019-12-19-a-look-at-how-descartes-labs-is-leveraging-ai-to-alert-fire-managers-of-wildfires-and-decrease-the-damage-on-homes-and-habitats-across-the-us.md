@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T19:43:00Z
 sourceUrl: https://www.businessinsider.com/how-descartes-labs-leveraging-artificial-intelligence-fight-wildfires-2019-12
 type: article
 quality: 132
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -55,19 +55,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D96CCDD2095E85072C969F35286CC53
         width: 700
         height: 393
-  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
-    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
-    publishedDateTime: 2019-12-17T23:21:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
-    type: article
-    provider:
-      name: Geekwire on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
-        width: 700
-        height: 466
 
 secured: "uN/Y1La+ieqD8bVgmHBqJGmELEfSJoau//CW5O97gLWWO08NGchqqxvts9JKjkLZD495BECJSSO9RyRSgBHOPoFKcwteEpcc6pLNiMgCQ1muahxY9R1VHVMMTWWi/KxY8tu11WCIcYlxHY9nO45LSsmb1/yuXvcNdl2BxsE4ROWZkOKAnQWLzv7CseXVz+DYVTt3hEdiBcoeyKjUfufNKP1LHfdjsf5VeNrHMOPAJP3aJb12Tk8H6y4o8V+el8zz15xMhGit15vXEVjt5aqb4POykGDkTYJW3NHMbRPp+h8=;qjPckorKwOW+ix7UT/bImw=="
 ---

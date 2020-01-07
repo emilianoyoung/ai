@@ -19,6 +19,6 @@ topics:
   - AI
   - AI Hardware
 
-secured: "vJIxdue1qtJA1UwhI7Ai4163sHbFXVWu40UEEob1WjWVqb8Pq2JMoWl1GfpncANRUE2xU8xUE0omeh1bFCU6kZVutWCNaqh9zUzcXG6EYbqMPtzNH8DDRCljrzJE59kU6+vbjUuRNjbSmDAyIB03J+buIzRkdmDDTgv4feNR14DGWc/naJiL402ti8WHQ9GeksRU+RQ5BmWd/ywsC5V2TUZk7OAG4GnLzROH0IVfVUnI2jYAQPIth0U3XWBwmjzuNzgpsW558oGgV/y1rzhkNg==;wreMp8Dhk4LDVj4pPolUTQ=="
+secured: "lg0L99OvHAgRhOLNydrtmWNYlyE+dPy4T0GV9xprPNDOotRCfHimyRm78nP+Lajkr9ZYRBLYwhKZo9/0YSZffjFgAxcmjnpDX22iy8pR01R5+nNxzAzdXpnFMqkDcFptkMIhp8CNQxyioaI7i3vb0e4R0Wp53OkGK7wkewOmv7tK47YZ+xT0+X+zqsA4Mb2WspOp3Cq3Guw706NLOhk766Pecw01zDCcPgS4CehmEi1khsrEgDDUP0XekqW7DlcEHYmzoF21JmzrR2vd9JpbaQ==;uiXAuzC6iUWYsahQyShwsA=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -99,6 +99,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
         width: 660
         height: 440
+  - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
+    excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
+    publishedDateTime: 2020-01-07T00:22:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html
+    ampUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "XhMAg7WtDOs8/PMxh3sowCQclF/Nva7uBGCpRT8/5SldRdkvA9eHtzPICPPvXn7BTtEObWDhBnrrRE2Uz2Uvt237NykyxkkppQuRYM4Ru3rxhOF7iyfK+vdq1PqbWpFhsRVbp711EJw2Ss8qa54kCAOyjpsu8eTwWh+4/JwkIBFcTprGPBUFO2/6nXv8dXmhf4dKx+aNLFVc79mJlEcRFNa7lsRYUD++T+s8tBKo5boyclFGDM0jy5k1FowW/VOxkL1MboWV2d4a/gd+VFSEJQ==;KM40iY5YNijkreRoq0ielg=="
 ---

@@ -72,19 +72,6 @@ related:
       - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
         width: 800
         height: 450
-  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
-    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
-    publishedDateTime: 2019-12-17T23:15:00Z
-    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 20
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
-        width: 1200
-        height: 630
 
 secured: "SdnDSCyhGhq50O18d0z0v3v4NcENY/Y8DmduAWEz2ZVIjO4s/7xbAteuImsUDOi4UlSPjsgYFZNT4Qy6uC05UCSYaX/zcEZzPJhJ1E9kElrriLzvFc7BfkPnXUZM8mucy7QeMMf+v1lufQy+s0eoNWn4JvsledidWT+j9gL1VVNS6G/WxK7YF/bLncbqlBtBoRYV3ED2CTNB4w+bif3skraNYsTjTYMcAg7nAVLC+KJGT1ekhEwNdx2/AJ/yYKzYA+dXm6f6/Mj2JzxO6l5Wpg==;dcF/AQHIDKdkcXawgrYKGA=="
 ---

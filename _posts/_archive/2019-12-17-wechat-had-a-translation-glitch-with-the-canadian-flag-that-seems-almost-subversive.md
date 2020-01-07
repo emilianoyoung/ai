@@ -1,7 +1,7 @@
 ---
 category: news
 title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
-excerpt: "who identifies himself as a doctoral student of machine learning at the University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app would draw associations between the flag ..."
+excerpt: "who identifies himself as a doctoral student of machine learning at Canada’s University of Waterloo, could be because the underlying programming relies on neural networks, so-called because they use algorithms that try to pick up relationships in data, mimicking the human brain. So the translation app could be drawing associations between the ..."
 publishedDateTime: 2019-12-17T07:55:00Z
 sourceUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/
 ampUrl: https://qz.com/1770120/wechat-translates-canadian-flag-emoji-as-hes-in-prison/amp/
@@ -46,6 +46,6 @@ related:
         width: 620
         height: 350
 
-secured: "FVDeTTf0VJxbSWQGM+6Cw8fC0hiPJmvT4Lovp9yfMczXAUI4ITq9Ajwz1KYoNH0Hb48+XdkKtlkG7GyneeB0aMWTBXHdKUE14v38D1LR4QzbYyKu8u1XYcKZ5PWR5hhIsyK66uNM3q9lMc1lNWmZNLdHgOjLZ7BXWMqyOt9xwKvjYVXuVzxN15irQ7e//TUbPNbwlJRC3zRJRmKevqb4vWs0F7sj/eOp5tsP9N59dftcXTXbb0cvUtSh+/9yTaKEmmnE7356TT6guZ+XFeeC3g==;nEZ+O0TdQW3RwO5JUGzcLA=="
+secured: "L0N0z4fJP/IlvuuqismDmfWvQylCp/giuK84zjn+hLykqTUgBo0qJCyHJKc55v5/icLsZNXxClUNp9Eg/7X+VhzRVyUH+y5mklVG74LG0HV/6yza2fNnIjS+j3h/E5J9QrU4aUMx1+qtCTFuUiG4oxJqtGWFvqtU4upnCCsisTJaBhc59mLMBG+OpFW5eQ2b64m3Vk/Cysl5DFJtpRMbbo753smfNGUnkObmEQkKls6z782ioABN+5LfynP7Gx0ksJkGBoAui3kUj405O3yOZg==;t7UtF+k9gTonaDjwE1NUqw=="
 ---
 

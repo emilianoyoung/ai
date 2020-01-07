@@ -236,17 +236,6 @@ related:
       - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
         width: 1200
         height: 630
-  - title: "Why more cities and states are fighting the spread of facial recognition"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
-    publishedDateTime: 2019-12-17T23:55:00Z
-    sourceUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition
-    ampUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 38
   - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
     excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
     publishedDateTime: 2019-12-18T18:52:00Z

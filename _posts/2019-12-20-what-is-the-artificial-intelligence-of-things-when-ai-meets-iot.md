@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artifici
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2019/12/20/what-is-the-artificial-intelligence-of-things-when-ai-meets-iot/amp/
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -73,19 +73,6 @@ related:
       - url: https://www.euractiv.com/wp-content/uploads/sites/2/2019/12/iot-800x450.jpg
         width: 800
         height: 450
-  - title: "Intel buys Israeli artificial-intelligence firm Habana Labs for $2 billion"
-    excerpt: "Intel Corp purchased Israel-based artificial-intelligence processor firm Habana Labs for about $2 billion, the chipmaker announced on Monday. Habana, founded in 2016, will remain an independent business led by its current management team and report to Intel’s data platforms group, reported Reuters. Habana will continue to be based in Israel ..."
-    publishedDateTime: 2019-12-17T23:15:00Z
-    sourceUrl: https://www.clevelandjewishnews.com/jns/intel-buys-israeli-artificial-intelligence-firm-habana-labs-for-billion/article_d088ccb0-407c-5df3-af5a-59a04b7344e1.html
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 20
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
-        width: 1200
-        height: 630
 
 secured: "DrOFyr/2mtw+hYn3YQHDeEWGG4/rgIB5PHvCoL7cg4nKl8ECUuc+km3QcCLTFyqW4IOJuDF6r0le+8zRcUl5TJJpmEXNhssMkkhnlhaygF5mGz44jpHl5usUZhVpbZ/DRQlT5YJD+/4UN48WC0jqpI5CBht831Be5QNt8kILWWZadzXHPUgYHssU9SIgFg4dn6iUwVVieNC7lBpPrAKfwBGEeY6vBPnEYT2AAyI9+Xe+QZmE3O/R0p0JCO7EtfG5+11w6drDLpzjPC++4MwQ0w==;VOECAumy+9O5IAKP8SGULA=="
 ---

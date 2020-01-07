@@ -410,9 +410,9 @@ related:
         width: 300
         height: 169
   - title: "Bosch to offer lower-cost lidar for self-driving cars"
-    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said ..."
     publishedDateTime: 2020-01-06T18:16:00Z
-    sourceUrl: https://www.yahoo.com/lifestyle/bosch-offer-lower-cost-lidar-160000894.html
+    sourceUrl: https://www.yahoo.com/now/bosch-offer-lower-cost-lidar-160000894.html
     type: article
     provider:
       name: YAHOO!

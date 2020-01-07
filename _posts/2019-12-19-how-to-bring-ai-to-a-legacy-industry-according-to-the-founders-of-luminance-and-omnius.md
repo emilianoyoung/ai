@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4D96CCDD2095E85072C969F35286CC53
         width: 700
         height: 393
-  - title: "What’s the best way to measure the smarts of AI systems? Researchers are developing an IQ test"
-    excerpt: "Artificial intelligence can do a lot of impressive things, like find snow leopards among Himalayan grasses captured by remote cameras, maneuver self-driving cars through traffic, and defeat world-class opponents in the game Go."
-    publishedDateTime: 2019-12-17T23:21:56Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/whats-the-best-way-to-measure-the-smarts-of-ai-systems-researchers-are-developing-an-iq-test/ar-BBY5ZlH
-    type: article
-    provider:
-      name: Geekwire on MSN.com
-      domain: msn.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.2D0756FB6D65DC5606D5A6E3C86572AD
-        width: 700
-        height: 466
 
 secured: "8uOhMASOXSy0E5AzEMmdOEKr/mE+LNwbD5qxuteftPRsUJkjZ4h0M56MAAGKGD1ccHGKVbFXZvZqq8S/R/CgCEtRbJ/al/n3jCasRYgBsWyKYko2y/c/ZaLH8jpRQWiM3yaDzmKiX4qFPziNjbqfu8R0EQzUaZg5WhGTtkXopeu0yN+DY5iwm52pk8mFEZ7Vsm9djBBMMayWu7Wg7MPwmCSSKHSXX26M5iIgR1QVvd/R/Xmbu8o9awmnVKpdJKwZhbDRHzJu8COx7ybljVOiQA==;iTKBclu/WpML93OcTrrPTA=="
 ---

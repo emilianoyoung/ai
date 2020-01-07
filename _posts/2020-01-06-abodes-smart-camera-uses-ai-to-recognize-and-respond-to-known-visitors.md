@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recogn
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/abodes-smart-camera-uses-ai-to-recognize-and-respond-to-known-visitors/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.00E7512FD1D87CB60C7B9B4FF6AD3439
         width: 700
         height: 366
+  - title: "Intel uses AI and satellite imagery to help the Red Cross map vulnerable locales"
+    excerpt: "The organizations say that the AI model “significantly” augments volunteer mappers’ abilities to cover more ground and catch things difficult for the human eye to see. “[T]here are entire parts of the world that are unmapped, which makes planning and responding to disasters much more difficult,” said cofounder of Missing Maps and CEO ..."
+    publishedDateTime: 2020-01-07T00:45:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/intel-uses-ai-and-satellite-imagery-to-help-the-red-cross-map-vulnerable-locales/
+    ampUrl: https://venturebeat.com/2020/01/06/intel-uses-ai-and-satellite-imagery-to-help-the-red-cross-map-vulnerable-locales/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/intel-uses-ai-and-satellite-imagery-to-help-the-red-cross-map-vulnerable-locales/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: https://www.bing.com/th?id=ON.D05A8810DF759FE6D7EAC41012248B7E
+        width: 700
+        height: 350
 
 secured: "bp0qzoF9EGNUwAFEg/JR0AINlst98b8E6/V73CAsDoLj6mx978ASZkpfOAwj6rlyg1QiXLBQGKvhYs0YkyER/ifDmUsJLl8Fopp2r390CucBjtuc0TkoHsbNYV5oYo6OmpL+Sh5QfR89cqn7ZJM7yWdtGZJ2LO/YN8/NUSRuriUp8seSbeyRoFKrCymxsfnJMn4mDbzl9nsngzSxSjgi91+xhZcJ+xK9rhNk9lPlR7SGHXJXiNL/CYO4ble/zMiSe9aPdhXyZj/X60rIqY1yjg==;hKMPYuyoPBmJxjHTq6ktkw=="
 ---

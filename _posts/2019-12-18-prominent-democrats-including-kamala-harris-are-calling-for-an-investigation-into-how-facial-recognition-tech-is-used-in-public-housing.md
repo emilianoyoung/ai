@@ -255,17 +255,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Why more cities and states are fighting the spread of facial recognition"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown? Not if you look at ..."
-    publishedDateTime: 2019-12-17T23:55:00Z
-    sourceUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition
-    ampUrl: https://www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2019-12-17/why-more-cities-and-states-are-fighting-the-spread-of-facial-recognition?_amp=true
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 38
   - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
     excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
     publishedDateTime: 2019-12-19T16:14:00Z
