@@ -23,6 +23,6 @@ images:
     height: 260
     title: "TU Darmstadt: ERC Consolidator Grant for Research on deep neural networks in computer vision"
 
-secured: "dfIsb/MahsEx75SG06llp6fIRpgB0GEcFhm+CHSltwkRdmYQLv7QlDfA3jmPAxIKa3pxPyIegshqEaJpi3gianEwSWhRonnB2FL8BZtCIXmiQGlYdEH2wKPhK22AzkasiDphoH1MSj07OZRfvhCAhf6QPj4djbqAqQUR/xD6/1VyjtwajQK9/Rg22qhaepvt0xf44H86wnfvpy9gh0kFTBHm6BpH9SMQzWpKGfoQ+ut0N1jzrLxcRJ3qj11zuGcz0MLkb8hgut1WzLFsDQdlEw==;P/efc0Jv9H962c/T9Qah/w=="
+secured: "21fPFtWtXlcrXHn16DxLY4pqdhPW2D+AnijTK6znWHuqeEVNtUQ1xkBh0ac6YQUk8ihkbSp7QNTDeXXvzRVeFbycHTmhHZzQ93O0bTNd1ydP9/rqh5y4ZdegCtcz3gPYzhYVNJdRQz+xi/q0siSXiie6KNKN5KDFfpnfbnQTACtKXDnBN2qbPprI0MCTJz8QZtVCZae0TccMtjj4PqyG9wEYXK1M+ZI3RaHfA0yVe3PBgsgWn84g1aKdX+AyJPzgmeS0ZdZObDwrHgLJzVkMjw==;NJR9OsSFsaOwn3Gr65whUA=="
 ---
 

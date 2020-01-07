@@ -96,6 +96,19 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 48
+  - title: "Artificial Intelligence Chipset Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence Chipset market is segmented in Consumer Electronics, Automotive, BFSI, IT & Telecommunication, Media & Entertainment, Retail, and Healthcare. The global Artificial Intelligence Chipset Market is expected to exceed more than US$ 56 Billion by 2024 at a CAGR of 33.5% is the given ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
     excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
     publishedDateTime: 2020-01-06T16:28:00Z

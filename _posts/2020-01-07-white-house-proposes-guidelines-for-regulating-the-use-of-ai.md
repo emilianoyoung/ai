@@ -2,18 +2,18 @@
 category: news
 title: "White House proposes guidelines for regulating the use of AI"
 excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. A document from the White House said that in deciding regulatory ..."
-publishedDateTime: 2020-01-07T05:10:00Z
-sourceUrl: https://www.sfgate.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
-ampUrl: https://www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
-cdnAmpUrl: https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+publishedDateTime: 2020-01-07T05:13:00Z
+sourceUrl: https://www.chron.com/business/technology/article/White-House-proposes-guidelines-for-regulating-14954860.php
+ampUrl: https://www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
+cdnAmpUrl: https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/technology/amp/White-House-proposes-guidelines-for-regulating-14954860.php
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: SFGate
-  domain: sfgate.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
@@ -56,6 +56,6 @@ related:
         width: 700
         height: 367
 
-secured: "c9aI7XDBL5+ZlXo+qEEsIwP27Z45O0dyOKrmsdt9PVyjGr++JlKcsQPXkdv9ITGu29uAa+9gct5GGn/trfwZAnt8oNdPUQsHoqyMXOTHw6F9G2iHLqdleuGmFSPveCNbDbIwNNPkiZI3dCCd/wovNYWf5wBG0NVqQJmvft/8bPt+tulpi3aAFr4acl78UTpzr1PU3gSDGJTYNl/HAng8oCKec8pF9f9ZkRS8ZptI0p64GwaiHIBSwof8RZN5cSRH1maBbUUpl4HDJMD1vBcYiw==;ezVpNiXaZ0/26Of83naM6g=="
+secured: "4iZ0UGXF6mYvsjqtRL8QunDyduf3d1llVnmdZL9rO13eUqONaKVKwneJjR1mucOKYBb0uLyfAYeHupEtVusDXnzsuSKwmVcOSbkwRgT4mdcyOnB5bzt4yBwa5iXE1rpCRaBTSKxJL6MHjfY+buWD7SmSq0llsa806sOrh7j5cXjgKiUyja842MYQMwgTRHoxabxlA9O1RQ05apZn25FikCD8vcdxAe0hxR2Gi9y0DKvAj/BQFxgnJ1C3AtT8Xmg89Qx8IGwMF46GY1a6egOn6g==;KRaLuiFE+0PAlDpGC/aL2A=="
 ---
 

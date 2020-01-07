@@ -8,7 +8,7 @@ ampUrl: https://www.dqindia.com/artificial-intelligence-machine-learning-will-co
 cdnAmpUrl: https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-machine-learning-will-contribute-1-trillion-indian-economy-piyush-goyal/amp/
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     title: "Artificial intelligence, machine learning will contribute $1 trillion to Indian economy: Piyush Goyal"
 
 related:
+  - title: "AI, ML will contribute $1 trillion to Indian economy by 2035: Piyush Goyal"
+    excerpt: "an Artificial Intelligence (AI) powered learning ecosystem that will assist the banking, financial services, and insurance (BFSI) sector. Speaking on this occasion Commerce & Industry Minister said that although India is recognized as the second-largest fintech hub in the world, a lot of work still needs to be done in the BFSI sector."
+    publishedDateTime: 2020-01-07T06:29:00Z
+    sourceUrl: https://www.voicendata.com/ai-machine-learning-will-contribute-1-trillion-indian-economy-2035-piyush-goyal/
+    ampUrl: https://www.voicendata.com/ai-machine-learning-will-contribute-1-trillion-indian-economy-2035-piyush-goyal/amp/
+    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ai-machine-learning-will-contribute-1-trillion-indian-economy-2035-piyush-goyal/amp/
+    type: article
+    provider:
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.F88A2160E581DCC5F193F294E472A94B
+        width: 510
+        height: 340
   - title: "Use of artificial intelligence in different forms can help achieve $5 trillion economy: Piyush Goyal"
     excerpt: "NEW DELHI: Use of artificial intelligence (AI) in different forms can help achieve the target of making India a USD 5 trillion economy in the coming years, Commerce and Industry Minister Piyush Goyal said on Monday. He said various departments are working to see how AI, space technology and other modern tools can be used to push economic growth ..."
     publishedDateTime: 2020-01-06T10:21:00Z

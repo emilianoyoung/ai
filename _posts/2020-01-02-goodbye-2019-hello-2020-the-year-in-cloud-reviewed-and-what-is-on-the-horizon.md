@@ -157,6 +157,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
+    publishedDateTime: 2020-01-07T05:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-global-industry-analysis-segments-top-key-players-drivers-and-trends-by-2025-market-research-engine-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "hl+7V4tvfkO9q7NkcHGQSUY6LFtnIc6GTQ960hnfUuenWPpRZhB67ELWFLlNz4Sm1pWzq3VpZV0tymAsM22h465clBf56o8ZBGjpOuuWB/R0ceZlOSw7XU/QHqT6dria1jA/2BasHqKFP0PvAHK3lPPXJip3WLnw+WO5uZOh8PHnFX4AY0vuv9tntChxXdxVYb0LVB6E3kWbF8ToIPgnfbEz1cn4aK2ZdgyVl6rjfuWhopNzU9JGC026LOCgdSuHJexv1WDAf+hvw7B4xGOY1w==;rniQZ10BRzhHbn4+inD+mQ=="
 ---

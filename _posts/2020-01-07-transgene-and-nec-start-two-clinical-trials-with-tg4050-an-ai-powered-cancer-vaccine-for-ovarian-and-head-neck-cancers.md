@@ -35,6 +35,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 14
+  - title: "Transgene and NEC Start Two Clinical Trials with TG4050, an Individualized AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
+    excerpt: "\"As each patient's cancer is unique, we have developed a therapy that turns their solid tumor's genetic signature into a ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow this ..."
+    publishedDateTime: 2020-01-07T05:30:00Z
+    sourceUrl: https://www.benzinga.com/pressreleases/20/01/b15082025/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-individualized-ai-powered-cancer-vaccin
+    ampUrl: https://amp.benzinga.com/amp/content/15082025
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15082025
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "wp/pJqIJvzzuiLkupff2ItF5eO32j24xzzQ7ZYKP6mZopv1t5IpFcNz6qLjM9m9oV0mB8sRppE1/31UY88+TA+j275vuc/y1jDR28gKBzg58/4UFG3xSouio++0kJ7ykRx+o7cRoAumLW7Oc+oI3APXkZgzYD3K7yH1jFUHwesNtXF9YTdO28S2m6PRJm1utDDPAqv624/vGaaG8IptWr8eIxMPk+X7Y2icc3apWhXlOjCeBSu7LuZElnwDMTyIyIw0uNnS/wO3juPEwr/7zfQ==;m1LSEwOhHUTBWeoPU7WgjQ=="
 ---

@@ -407,6 +407,19 @@ related:
       - url: https://www.bing.com/th?id=ON.9DBD81AC86C85154B5B4AA9F6AEC5A28
         width: 300
         height: 169
+  - title: "Sony unveils self-driving car to be tested in fiscal 2020"
+    excerpt: "The system combines Sony technologies, including artificial intelligence and cloud ... but aims to use it to acquire self-driving-related technologies know-how by testing them on the prototype ..."
+    publishedDateTime: 2020-01-06T18:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/CES-2020/Sony-unveils-self-driving-car-to-be-tested-in-fiscal-2020
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.59BBCCB091A76D5C616F0D06E931803B
+        width: 700
+        height: 350
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Announced at the Consumer Electronics Show today, Qualcomm’s Snapdragon Ride Platform is designed to make it easier for automakers to transform their vehicles into self-driving cars. The platform includes everything needs to run an autonomous vehicle, including the artificial intelligence software needed to avoid collisions, and compact ..."
     publishedDateTime: 2020-01-07T02:02:00Z

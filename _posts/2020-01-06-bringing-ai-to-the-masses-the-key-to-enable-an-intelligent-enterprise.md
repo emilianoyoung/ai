@@ -92,6 +92,19 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 48
+  - title: "Artificial Intelligence Chipset Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence Chipset market is segmented in Consumer Electronics, Automotive, BFSI, IT & Telecommunication, Media & Entertainment, Retail, and Healthcare. The global Artificial Intelligence Chipset Market is expected to exceed more than US$ 56 Billion by 2024 at a CAGR of 33.5% is the given ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
     publishedDateTime: 2020-01-06T17:45:00Z

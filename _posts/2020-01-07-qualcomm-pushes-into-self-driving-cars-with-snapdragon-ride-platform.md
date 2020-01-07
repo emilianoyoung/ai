@@ -420,6 +420,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
         width: 700
         height: 393
+  - title: "Sony unveils self-driving car to be tested in fiscal 2020"
+    excerpt: "The system combines Sony technologies, including artificial intelligence and cloud ... but aims to use it to acquire self-driving-related technologies know-how by testing them on the prototype ..."
+    publishedDateTime: 2020-01-06T18:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/CES-2020/Sony-unveils-self-driving-car-to-be-tested-in-fiscal-2020
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.59BBCCB091A76D5C616F0D06E931803B
+        width: 700
+        height: 350
   - title: "Uber Purchases 600-Acre Land in Pittsburgh to Build Self-Driving Test Track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San Francisco ride-hailing giant bought the parcel through Uber affiliate 3 Rivers Holding LLC from real estate developer Imperial Land Corp."
     publishedDateTime: 2019-12-30T09:42:00Z

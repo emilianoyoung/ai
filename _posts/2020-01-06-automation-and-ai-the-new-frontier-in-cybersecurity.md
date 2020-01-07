@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/automation-and-ai-the-new-frontier-in-cybersecurity/amp/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
       - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
         width: 700
         height: 367
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size, Share, Development by 2025"
+    excerpt: "BFSI, government and IT & telecom segments occupied the largest market share, while healthcare, aerospace and defense and other industries are expected to grow at a steady speed in future. United States Artificial Intelligence (AI) in Cyber Security Market Growth 2019-2024 Asia-Pacific Artificial Intelligence (AI) in Cyber Security Market ..."
+    publishedDateTime: 2020-01-07T06:57:00Z
+    sourceUrl: https://www.openpr.com/news/1890638/artificial-intelligence-ai-in-cyber-security-market-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
 
 secured: "J/PuUI9hbJ05VoWJgzuMkarSn/xIRo2ZS4JshxUE+yRVbCDqI84DocU530dledqldorcH2XYeaTg8T/ETrgAV4soXndeO9lk+PPw3a/ocNlgoKmlXx0ipxl/1Vdv3dmXnAlgNdgTkBURsQhiuEpuGEDjIQCitKuOpqak1xJgUgsErv/Gx89GfLp5CEzM/Z0KLD5QAito/+rpdTp9vwOddlT8ANCGHmutJCs3Wrd9i22ICWc2FdgmvKRHapY4vr7nMBwBkXs8Xu9yZSkRxDs6eA==;r3Rlh5ficeVE36Q+8uS1Dw=="
 ---

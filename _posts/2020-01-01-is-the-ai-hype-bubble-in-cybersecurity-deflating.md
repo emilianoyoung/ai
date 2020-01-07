@@ -53,6 +53,15 @@ related:
       - url: https://www.bing.com/th?id=ON.8F18FCD06347581ECE78097AD32F16F2
         width: 700
         height: 367
+  - title: "Artificial Intelligence (AI) in Cyber Security Market Size, Share, Development by 2025"
+    excerpt: "BFSI, government and IT & telecom segments occupied the largest market share, while healthcare, aerospace and defense and other industries are expected to grow at a steady speed in future. United States Artificial Intelligence (AI) in Cyber Security Market Growth 2019-2024 Asia-Pacific Artificial Intelligence (AI) in Cyber Security Market ..."
+    publishedDateTime: 2020-01-07T06:57:00Z
+    sourceUrl: https://www.openpr.com/news/1890638/artificial-intelligence-ai-in-cyber-security-market-size
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
 
 secured: "4NBbBJJQme0LKxOw/wbcaZGYtjzHoZIWsWqn9lbUXh+O8V3wBLXsCMLk9H/PSjO2bxjD87FMWyg95dMBkl4ijN+yVHzep5x7EOolmxAu9/lRb2xyhpbjxVu2/95YT8vWHi3pJr1j2bGz40VtnrdCf+Vx+4oIp9cLI5hgPK9mT5ciS7tFhaPpRz+e99g1JOZtXHN5jCWfXmh7bu/0vRlI68B73+ytDQoJy4xZYktW0lzoZokwxr8qO3ZdFIWJODYXEaIqOvzQrXp26iCWDR/e3g==;d8D7x9p1eIPIw085DezLIw=="
 ---

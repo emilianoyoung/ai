@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     height: 847
     title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
-related:
-  - title: "Cloud4C recognized as Microsoft Azure expert managed service provider"
-    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
-    publishedDateTime: 2019-12-18T05:55:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/cloud-computing/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider/72864503
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: https://etimg.etb2bimg.com/thumb/msid-72864503,imgsize-62446,width-800,height-434,overlay-etcio/cloud4c-recognized-as-microsoft-azure-expert-managed-service-provider.jpg
-        width: 800
-        height: 434
-
-secured: "bOWd1OHjp5VCoNTS19sM879xzWyLC71NjI24SAQf9jiqbiFHLi5x+cCruGaSICtAAs4T+PmPFWvObOA80IjmsAQ2qgRP0dJEjdujwGztjp+KaToydx2/hjy1+EvQCOTYuek5ex59EMadztAHm5McqC36G3bmeDu9xNv2Xc6YMTqQgYe64ZymRUOHXZ2XN7wW/LOoix8+Ng1Y7M29apkhpbl0WpKV0a97QL3gy5RB5oliN2nLtCYa4WrJxqb549u2dlv663GgutGyMp7Jh0X8rQ==;5a3d34KiUxFkpvIkc2Fx5Q=="
+secured: "55Xnw3eKEg6wiIFAEfLpbjfyyDsqZZptItRzRm4K4XdY5Twnysys4oyuqei90MXt2w4AN9ssoRBawUlzSjTKhpXPUHXGnJ/OY+c1HMR1BRkll/DOoKAq5QPEJcTjLKP7m243m7v132XCVLg50AC0PaWuIqsNtT0CbuNCIJ7oKlA8iyIUhKBqS4/dNbYLMI5Bqjy/mc3MLILE4CJrYqOfdHm4VzZwjtZyCAcrku2Z2zc7UGyEyK7Yzo3pWYEacJy+serxuraYUK1Pqp+5IOlLBw==;iExObzkSCZikdoQXWkBCEQ=="
 ---
 

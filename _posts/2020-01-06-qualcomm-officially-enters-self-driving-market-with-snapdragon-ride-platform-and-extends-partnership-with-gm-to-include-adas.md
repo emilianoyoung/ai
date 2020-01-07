@@ -46,19 +46,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
         height: 367
-  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
-    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
-    publishedDateTime: 2020-01-06T23:44:46Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
     type: article
     provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 22
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
-        height: 367
+        height: 393
 
 secured: "bUPkE7OsBW1/KAVOy2GouSTjF4E2lRbbvEX7SgY5z0Dg17qfJZvC1MZ0V+O17YbDVMxgw2x7ZQ/c1UztmhoN8C9287m/urYRZY/z3Rve6CTsS19m2E7TtQTLv+mn6U725ahY7NEFyr8+zqau2cAS8Vc64qjiPN5dWCX7Hbd9R6QivjCpPUs2SjoJRVe5sWvtWPfWj3L6cZVarTCSm+dWMZjl+avPrbpoIHp0tgNOXht9SP4yWV5YYrbIZqyfAC4E2+bd17wTedIfzinGCE+ueQ==;RWbqiK7TRTAjOPwl1CNvvg=="
 ---

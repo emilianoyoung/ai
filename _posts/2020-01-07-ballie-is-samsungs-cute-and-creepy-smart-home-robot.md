@@ -8,7 +8,7 @@ ampUrl: https://www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-sm
 cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 700
     height: 393
     title: "Ballie is Samsung's cute and creepy smart home robot"
+
+related:
+  - title: "Samsung unveils tiny robot Ballie that follows users around and acts as their personal AI assistant"
+    excerpt: "Samsung have unveiled a tiny robot assistant in the shape of a ball ... Instead of calling it a virtual assistant or artificial intelligence, the company has used phrases like 'artificial human' or 'artificial intelligence being.'"
+    publishedDateTime: 2020-01-07T05:54:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7859615/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7859615/amp/Samsung-unveils-tiny-robot-Ballie-follows-users-acts-personal-AI-assistant.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 60
+    images:
+      - url: https://i.dailymail.co.uk/1s/2020/01/07/05/23089022-0-image-a-111_1578376235410.jpg
+        width: 636
+        height: 382
+  - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
+    excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
+    publishedDateTime: 2020-01-07T05:08:41Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-ces-keynote-highlight-a-robot-ball-that-follows-you-around-the-house/ar-BBYGxq7
+    type: article
+    provider:
+      name: TechRadar on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8363229AA8A56F4ADE46E4C2E7AE9470
+        width: 700
+        height: 367
 
 secured: "GdZ43YtGsACHizTCaHddz+Kc4AyScUE06OAyl4O3XUdQyOuBzEFNfN6VETswZTR6sy4m/S8/p5MI571U38uanOOR8Sfb+qH8G0Y7AbeMgOLuoiS/seubjyw+H9idM0KLtflvGgTt0KNTxPZEpiQyTmNDxhdDlHg7NfAJPHpJGUDXBdYog1ZfJHZX+FgQwR6jQmZlsYp/WFYZkym0YrbpkKQTbYRR0Haw0/9wg4Un9rtrkAP2MchpRo4z14sc2dZJBTz5ckgR9lhDqcDkW2L72g==;ny6EFssVbd2gcxU3pXyAqw=="
 ---
