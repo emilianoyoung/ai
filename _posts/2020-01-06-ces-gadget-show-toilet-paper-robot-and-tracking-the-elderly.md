@@ -8,7 +8,7 @@ ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot
 cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -56,7 +56,20 @@ related:
       - url: https://www.bing.com/th?id=ON.2FA3FB2FAC4618D514094F470BAEFAA2
         width: 700
         height: 466
+  - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
+    excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
+    publishedDateTime: 2020-01-07T05:08:41Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-ces-keynote-highlight-a-robot-ball-that-follows-you-around-the-house/ar-BBYGxq7
+    type: article
+    provider:
+      name: TechRadar on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8363229AA8A56F4ADE46E4C2E7AE9470
+        width: 700
+        height: 367
 
-secured: "rr7WKyLpoyib5kWMJwBK92zWWWRCo6olZW4JMRpKFUbFNBihD770IqKbQYKe3rmRLRQbcD1SqnURMzsCRj1OWWJhm4kkMwmbiZ6Pj95Zs0UNirTmpRQwfOe05Sr3rnhf9pxmonJpEkonys3mxHgGZMWbjRK7GuAK4u26KUWkdLsIUvnPyfOG1lL3vyUgxmeLhvtqYFKutynGIIc/v764qtdoBhr5cLQgdr5m69wmiCNoTtKKtkkCA3lhgDHMWUEilEzEEGa8575CC/f5i8qTtA==;/DFsNfR+PECII1ngrBVBhQ=="
+secured: "skAzP5ad2XKX3PXP5fHVHuwCp2W6+8PUnrYAXVEFsbtVIHrBsxlw+8IZRPVjWR+zKDyVK3uV6+kbX6w1bQjFsUfI9MwbVDOGI+IQgOUjmKl+4UiML8wQWADb62mIF2RXYHu83OOFksrfOg1QxOEPXs8yb53A3fJLGtXO6ZizgS0G3pkqHk653LuHL9pguY5HGTCPwCrJ7B2Tlww+lLP5xAK0c4CPO1NDCYQHa/EOnyYyA1JXDKl9JH3yUA9p4/Cuz9wV6RDimhI0OBqpvHdJIQ==;DNj5R4TBF5FZsLakTRPqIQ=="
 ---
 

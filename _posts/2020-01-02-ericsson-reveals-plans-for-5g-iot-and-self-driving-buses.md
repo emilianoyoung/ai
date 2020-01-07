@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
-  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
-    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
-    publishedDateTime: 2020-01-06T19:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/qualcomm-snapdragon-ride-self-driving-car-tech/
-    ampUrl: https://www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/qualcomm-snapdragon-ride-self-driving-car-tech/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.A307AB71E8D27EA9565902554C2672FE
-        width: 700
-        height: 367
   - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
     excerpt: "Driverless flying taxis will be here before self-driving cars, an Uber partner has predicted. At an event at CES in Las Vegas, Scott Drennan, head of innovation at Bell, said he thought air taxis could \"win\" the race to create self-driving vehicles. The aerospace company is one of six vehicle partners working with Uber to launch electric ..."
     publishedDateTime: 2020-01-06T21:43:00Z
@@ -101,6 +86,19 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/1mxmv6tPCtJzA5hXpHp7og--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNzA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/8U8IJw2s1hwNkJ.7fSivPw--~B/aD00MDA7dz02MzU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-us/zacks.com/cd9ed8cf63fa5a7bc41c5e977c67cccb
         width: 635
         height: 400
+  - title: "Self-driving car market is Rising at Cagr of 36.2% Through 2023 Globally"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-07T04:37:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-is-rising-at-cagr-of-362-through-2023-globally-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Cameron Roberts: Self-driving cars will not fix our transportation woes"
     excerpt: "This future of autonomous, on-demand electric vehicles is tantalizing. It promises a hands-free solution to various transportation woes. The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits."
     publishedDateTime: 2020-01-07T02:14:00Z

@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.09025C93BACA87948898EA1D02F9A079
         width: 700
         height: 393
-  - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
-    excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Steven Bellavia couldn’t find the astrophotography setup he wanted, so he built his own. The… Image recognition is a technology that already ..."
-    publishedDateTime: 2020-01-06T13:05:00Z
-    sourceUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300
-    ampUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
-    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 78
-    images:
-      - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
-        width: 700
-        height: 393
   - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
     excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
     publishedDateTime: 2020-01-03T14:00:00Z
@@ -202,6 +187,19 @@ related:
       - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
         width: 640
         height: 260
+  - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
+    excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Photo: Celestron Image recognition is a technology that already powers multi-million dollar research observatories using telescopes that are able to ..."
+    publishedDateTime: 2020-01-06T13:16:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/facial-recognition-for-stars-lets-this-telescope-automatically-find-objects-in-the-night-sky/
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.4DC723B68E02D8837120934BBC84B297
+        width: 700
+        height: 393
   - title: "N.Y. school district to push forward with facial recognition software despite privacy concerns"
     excerpt: "A New York school district has announced it will begin using controversial facial recognition software for school safety purposes, over the strenuous objections of civil liberties advocates. Beginning this month, the Lockport School District, near the ..."
     publishedDateTime: 2020-01-06T21:00:00Z

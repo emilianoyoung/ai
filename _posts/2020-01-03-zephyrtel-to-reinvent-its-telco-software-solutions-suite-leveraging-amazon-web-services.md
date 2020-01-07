@@ -2,26 +2,20 @@
 category: news
 title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
-publishedDateTime: 2020-01-03T11:18:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/zephyrtel-to-reinvent-its-telco-software-solutions-suite-leveraging-amazon-web-services-300980824.html
+publishedDateTime: 2020-01-03T12:27:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-zephyrtel-reinvent-its-telco-software-solutions-suite-leveraging-/2020/01/03/9075699.htm
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 
 related:
   - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
@@ -51,6 +45,6 @@ related:
         width: 700
         height: 457
 
-secured: "Kog5/k0WeXeda64R8RzYxpsRDkUBsYk0hSMbD/kF/ZftqAMP3YJg5l35Mvh24aMRF1toV7QH/V/nJ5jLzM6HIqDhMpOipp9woc5odIlVRM3qqY/fdwnTlopVba8kLuVQUKpPNgo0LUvDAE8laFmu0wSkfv2O4SAsE8ckTXTAKZ+PrqY6vzOg3smD4gflLoVPNqqlssgWYCHd6w63eKKvzWSwrCpdLAYWDRzuC9nJ+hLaqkU9h6w/6YTcMeRMItm/uvMYbIrvEubz6uuXYMbh6w==;6d2L5SBLaUInrlSjpt5EPQ=="
+secured: "v3uVMXXi6WddpN1MHzGP9dl1fPD2w9M4wkdHAmTospPTPzhzWpU+f9LJr9joJOsZvuKHXITfzNEO7HfVIs3QT/NYDQndKxKmZyZH7ZfHE+bt71TWYzPYvlfrhr3ITSCpWoyUnSqKUoRPi4gsVL6/mH9TKGb3yA+rg1TB05AWUvGdH1hfZ91Ry8jFbLYed5+ok50lQwlbX0Fl9k5beJ0U8119OjQQagiwt1HRit6SB0g/XlDw0kxplf3ZueuPqQgWpeW4RMvwgVBwvSjyUpxC6Q==;QyXFakR/uKrFUrkOuWiWEg=="
 ---
 

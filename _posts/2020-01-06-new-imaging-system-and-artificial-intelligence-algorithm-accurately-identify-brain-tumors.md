@@ -8,7 +8,7 @@ ampUrl: https://medicalxpress.com/news/2020-01-imaging-artificial-intelligence-a
 cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.amp
 type: article
 quality: 63
-heat: 63
+heat: 73
 published: true
 
 provider:
@@ -23,6 +23,21 @@ images:
     width: 700
     height: 393
     title: "New imaging system and artificial intelligence algorithm accurately identify brain tumors"
+
+related:
+  - title: "AI, imaging system able to accurately identify brain tumors"
+    excerpt: "A new laser-based imaging system combined with artificial intelligence is able to provide accurate ... comparable to the pathologist-based interpretation (94.6 percent and 93.9 percent, respectively). Convolutional neural networks (CNNs) “learned a hierarchy of recognizable histologic feature representations to classify the major ..."
+    publishedDateTime: 2020-01-07T05:35:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/ai-imaging-system-able-to-accurately-identify-brain-tumors
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.BB21CAE2601049737167DB6F1985AE66
+        width: 700
+        height: 367
 
 secured: "v79SDfXH03ScZJQBDz680Hl6EruMWrzh+SlO55M+/WYOJvzVI6QtFm2VFWmBwwGsEcNUQTzTCmcHQ2ylovT11BNSS5v1+k0cpO47ejmBosELrjnK8T7W13tSV5GrxQCCoXRJQVI+JmVRz6XsXVynPxz8FGArsgoj6IN7k9rVlqZ7CA0xP5VNjWUUrjfPU3LOpkXyqVj0nJmarLI6UBv/9FR3pB+o74eoByX0VIu7/EEWePbp21LAV9D1k4MAu9MVz4iIkpGkJt1SpiLuCWZwDA==;TJBgsWf6s5SoRBD5oAUx9g=="
 ---

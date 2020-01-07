@@ -220,6 +220,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F002EC58F5BB82A0D0CBEDA84F84C767
         width: 700
         height: 393
+  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
+    publishedDateTime: 2020-01-06T23:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
+        width: 700
+        height: 350
   - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
     excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
     publishedDateTime: 2020-01-05T15:00:00Z

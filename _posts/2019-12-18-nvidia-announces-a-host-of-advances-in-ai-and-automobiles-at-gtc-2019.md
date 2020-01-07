@@ -70,19 +70,6 @@ related:
       - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
         width: 708
         height: 425
-  - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
-    excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
-    publishedDateTime: 2019-12-18T04:34:00Z
-    sourceUrl: https://siliconangle.com/2019/12/17/nvidia-debuts-drive-agx-orin-platform-autonomous-cars-robots/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
-        width: 1138
-        height: 572
   - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
     excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
     publishedDateTime: 2019-12-18T20:48:00Z

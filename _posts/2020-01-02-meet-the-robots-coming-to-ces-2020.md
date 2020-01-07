@@ -214,6 +214,19 @@ related:
       - url: https://www.bing.com/th?id=ON.53FE26A30274C8597693F60CF8484C09
         width: 700
         height: 525
+  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
+    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
+    publishedDateTime: 2020-01-06T23:01:00Z
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
+        width: 700
+        height: 350
   - title: "Recession, robots and rockets: another roaring 20s for world markets?"
     excerpt: "They included 3D-printed cars, driverless vehicles and the first artificial-intelligence machine on a company's board. The '20s could be an era of smart cities, where big data and robotics ensure better governance, health and connectivity, UBS forecast. It expects annual spending to turn cities smart will reach $2 trillion in 2025 and internet ..."
     publishedDateTime: 2019-12-30T21:52:00Z

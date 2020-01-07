@@ -57,6 +57,21 @@ related:
       - url: https://www.demandgenreport.com/media/k2/items/cache/d38827786b710038b3eef005f2f9bea5_XL.jpg
         width: 1280
         height: 1280
+  - title: "Trump administration’s new AI principles seek to limit regulatory ‘overreach’ to promote innovation"
+    excerpt: "The White House is releasing the principles Tuesday at the behest of President Donald Trump, under the American AI Initiative. Future regulations on artificial intelligence could have an outsized impact on Amazon and Microsoft, two of the largest developers of AI technologies. Microsoft President Brad Smith has called for regulations to create ..."
+    publishedDateTime: 2020-01-07T05:03:00Z
+    sourceUrl: https://www.geekwire.com/2020/trump-administrations-new-ai-principles-seek-limit-regulatory-overreach-promote-innovation/
+    ampUrl: https://www.geekwire.com/2020/trump-administrations-new-ai-principles-seek-limit-regulatory-overreach-promote-innovation/amp/
+    cdnAmpUrl: https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/trump-administrations-new-ai-principles-seek-limit-regulatory-overreach-promote-innovation/amp/
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.27448045530E1CD3A90C14E3A1F68054
+        width: 700
+        height: 466
   - title: "Artificial Intelligence Platform Market and its Future Outlook and Trend During the Period of 2019 - 2025|Market Research Engine"
     excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market is expected to exceed more than US$ 10.8 Billion by 2024, at a CAGR of more than 28% in the ..."
     publishedDateTime: 2019-12-30T02:53:00Z

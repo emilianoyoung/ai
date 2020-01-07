@@ -78,6 +78,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
+    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
+    publishedDateTime: 2019-12-23T14:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/aylien-raises-5-million-identify-135600933.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 6
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
+  - title: "Aylien Raises EUR5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
+    excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
+    publishedDateTime: 2019-12-23T12:53:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aylien-raises-eur-million-to-identify-and-analyze-risk-events/article_e696c7ee-cdb7-55b3-9ba6-09309939308c.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 5
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "Z+KvlWH9xvgFscCV92SMWTnCg5AeySfDf5n9Ro+WTOGv38zFyoMN5Ml+fNNjW1WcjPwwtRuxn8VM7d7BrmKQw+4zzqa0LrQuJIRur0l8WJ0Gmk3fQAI+7rNooIUxAV186zvEZcf7orwgDLYn19Gq8g5p53LAdBhv36A8mPq7q68QYPOBfCq0KQ3P6wwoqqAoxzhri7PS/GyY7ba+afsu9UT5/VQzsEFOqgW5UCILxAS6Yp2kStqtUeESBoSZqumvjKX8uoLdUDuL+mSHc/wMew==;4PIHJaz69UYFGY4J0T/ftQ=="
 ---

@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.2FA3FB2FAC4618D514094F470BAEFAA2
         width: 700
         height: 466
+  - title: "Samsung CES keynote highlight? A robot ball that follows you around the house"
+    excerpt: "Samsung's CES 2020 keynote was odd - it wasn't about product at all. The future of the smart home, the smart city, the smart car... that was all covered, but nothing about TVs, phones or things we're used to seeing."
+    publishedDateTime: 2020-01-07T05:08:41Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-ces-keynote-highlight-a-robot-ball-that-follows-you-around-the-house/ar-BBYGxq7
+    type: article
+    provider:
+      name: TechRadar on MSN.com
+      domain: msn.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.8363229AA8A56F4ADE46E4C2E7AE9470
+        width: 700
+        height: 367
 
 secured: "xZY3M5c8m8ZwVoMuC3lDVERGO/eFcnNMZgMqMfAmjEe1w7ikLKd/trGpdRwVeLe5m4bAHoQnzbyCZ/KPAEY1qyZ0+6BYn+To8h/Si8vQVsc9kKXJHuKgZjFxzfEQpHAXssO1Rzm987XyctAi2H36K3Ln7DKsqMG5ywX1rwwppPUNLDxsuJv43EPPDrxFYa0XaVKH4wcnKBRChhHBcN9Yq4aEm1SgZwzlce9gd3yMHw5g/pbUoVLONUcXhynPfe9Yk8ejBiIT/3iEKGK5gPTETQ==;349wCTM/KaDjbOkqPHausQ=="
 ---

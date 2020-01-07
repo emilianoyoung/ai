@@ -25,6 +25,6 @@ images:
     height: 432
     title: "Missed AWS re:Invent in Las Vegas? Worry not: The mega-conference will be recapped in London next month"
 
-secured: "MoIxEatJKVoVxc0gXpBpua/Gc+UDS9p1MtXWsRnBu51PfPPGwOhib84g8NK+l47Hovh07PyA8JDjnkM3RXyqtbZGVdXVjkp1QcB0Y3mRGLh4qi7pxxdEotRulzXkvhCzceqYpRvm4Vasb7AvW59k903jqdK+yR31qH1J2PSt+HarI37uO4maWjyTSSVIZh3VMz4nuJ6rFEaNhuRiIPsJnQYAifZpaQCtGCCmzeI3HSGd32/KoIqcWZzm4AMA28PppNdjU8+jahq9OplCPXiaCw==;TcHJ/hCA2ntyOA+CitRkPw=="
+secured: "kt68L4z9nU9qknR+r1NFKPRf2WDXSEW4tj1kROynZ/jPqlxeryYnoajC4B7LlCWUDoq7ave0gqQWgX3QRCGouqwRcdTe/wn3q6TgebxsWxllmAwthobHfLITOfFhVuTC/ifbwCJBSix7W3+2cAQhR6wQpfL2NdeA0IR8pbBMdDgji0deal23w1ZYNLUE9MEO7H0pysjnX+hEIezdN6OsUWYe1D7JW6GN1XrHq7qwZyTfg+FpFq/DX7I58fTYktr1i4SuVhMQvyBMG8wuKjmeHg==;5lV5GLV4EkAkK/YUyrU8HQ=="
 ---
 

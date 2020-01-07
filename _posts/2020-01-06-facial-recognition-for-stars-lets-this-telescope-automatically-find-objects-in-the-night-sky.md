@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
-excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Steven Bellavia couldn’t find the astrophotography setup he wanted, so he built his own. The… Image recognition is a technology that already ..."
-publishedDateTime: 2020-01-06T13:05:00Z
-sourceUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300
-ampUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
-cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
+excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Photo: Celestron Image recognition is a technology that already powers multi-million dollar research observatories using telescopes that are able to ..."
+publishedDateTime: 2020-01-06T13:16:00Z
+sourceUrl: https://www.gizmodo.com.au/2020/01/facial-recognition-for-stars-lets-this-telescope-automatically-find-objects-in-the-night-sky/
 type: article
-quality: 78
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo
-  domain: gizmodo.com
-  images:
-    - url: /assets/images/organizations/gizmodo.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
+  - url: https://www.bing.com/th?id=ON.4DC723B68E02D8837120934BBC84B297
     width: 700
     height: 393
-    title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
+    title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
 
 related:
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
@@ -238,6 +232,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "VF8VQ/v/9etI5J0ZQ4SUdo3wxHLY6XZYcBjomWfN0fYzm25O23Vmu/hdDXcxxRxXlF0Be2wR8QeKF3MxJnqq9NZ0WAc8ASnlAn9OmF3WTbkxu1wQfkoxo678tKvrD924jH8gkiY2QNDWcTQJDZwwffhcQLyLuHfL7WHlI5W3O2PDLhMwe13wanx+bvsBpuucjTuiBvM1+xUSBrm5eagaagighfz80/tkt4/h3k5X1HSDTBYmHKXsF1D5LY/UTC8GIzE+Y10u2k+9X+Z1koBrjw==;h3/pDkT/HoXjQ2FCuRJSIQ=="
+secured: "jnWClYTax6LOA8etYJef5uPhQC+DSqML9qtKL9qzF9AHLglHi/UzulOYJUH64VyPaYt4ittCMKoJxtb8bq4t8a96d6PCYvENh3lvqs64dJjymimCQE0VFfQiRbo+QoP6dPa5OlB8nPVgqE9ndSc5Tw8Tghd2MwuaUxndIbg5+4JcBaQQsvLeqky4x/eYp81gHORQ8/0HONYMBTRMHqrkyQOnH9hu4wswsB2X377yzvfLdh516waCSAb6mmjy3R5GmVZCv0+JdG324kFRVVatxg==;o2C8vI15NhUV8YnIP12MuQ=="
 ---
 
