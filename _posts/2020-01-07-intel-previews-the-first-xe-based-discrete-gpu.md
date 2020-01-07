@@ -129,6 +129,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
         width: 700
         height: 393
+  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
+    excerpt: "Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance. According to Intel Executive Vice President Gregory Bryant, Tiger Lake is designed to bring ..."
+    publishedDateTime: 2020-01-07T15:39:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/intel-unveils-next-gen-mobile-151739651.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.5E65A5CF304BA7EDEB03E9DB8665944E
+        width: 280
+        height: 158
 
 secured: "1f6k8dEUNVZPnztG9HJvopfqbEHgk2xvUZNQyxbDX6xY+ISfF+54ejZ7MyBnzR+02DZDDpxO2JmOiMziGJpp2qzNsHkCpbh6p3KXFPKE0ytXY4jXU2E+iROVaKTemik22Yi9fKRN6YtymOR5ba9rNtceE2VsFddPgfw1YGzBJ1HSx+GowCfatJ3A6sABViy/pv3CD+Eojv4gu/x6a/HD19yVDhTqtfKXMUsO/eQdPeR8dqknqBlAr9SMcjpPfA6e0KW4ABny/+jJd6xqRKrX4Q==;LLnRagbTzgO4WQfBvoWISg=="
 ---

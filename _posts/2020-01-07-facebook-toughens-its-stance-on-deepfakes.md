@@ -80,6 +80,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2F0BD12721C8563744DCF8DBD3F4C263
         width: 700
         height: 350
+  - title: "Facebook Bans Deepfake Videos Ahead of 2020 US Elections"
+    excerpt: "The video wasn’t created by AI but was likely edited using readily available software ... civic and academic backgrounds to help in detecting deepfakes. Facebook had announced a Deep Fake Detection Challenge (DFDC) to produce more research and open source tools to detect deepfakes in September 2019. In the same month, Alphabet’s GOOGL ..."
+    publishedDateTime: 2020-01-07T15:34:00Z
+    sourceUrl: https://finance.yahoo.com/news/facebook-bans-deepfake-videos-ahead-143002598.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/facebook-bans-deepfake-videos-ahead-143002598.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/facebook-bans-deepfake-videos-ahead-143002598.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.313596040118BBB9526B70719F193F7B
+        width: 635
+        height: 400
   - title: "Facebook moves to ban deepfakes"
     excerpt: "Facebook appears to be of the same mind as the social network has announced it ... mislead someone into thinking that a subject of the video said words that they did not actually say It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
     publishedDateTime: 2020-01-07T07:00:00Z
@@ -134,6 +149,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ACBA67A17373E642316ED1B0777A68B
         width: 490
         height: 490
+  - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
+    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
+    publishedDateTime: 2020-01-07T15:02:00Z
+    sourceUrl: https://www.sentinelsource.com/news/national_world/facebook-to-ban-deepfakes-sources-say-but-new-policy-may/article_988ca207-de70-5863-a6ae-37a8871f7d24.html
+    type: article
+    provider:
+      name: The Keene Sentinel
+      domain: sentinelsource.com
+    quality: 12
+    images:
+      - url: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/ce3b1b48-2e8a-11e7-9b31-dbe46a2a163d.jpg
+        width: 1368
+        height: 576
 
 secured: "USx6kSvVr+hRmnBLutFxqRJcE8Ap59WqKLe9vfzT3f6rZUyx81VCkyYyn/h4fKB2oKDcwtEJy26bdioGEqFqludhWCZe/YsjbxqqzjYhS3g1tzC6k7ogonhO2EgOVXpsBk4kUEHbJW3z1S263pi6JlkBRZBCukFe94SWlA+CEUYuVlrTUqG0vplmmrJZj04gD2XeGTnoas4x+jWv+WtXrCtiasrGXGhcviV/SJomw4tKk2KhZRlrlJDYP1FYGx1KMnzeJmASMmhSQfuY4v94KQ==;OjQIX+Qomn2NB6dC1qC8sA=="
 ---

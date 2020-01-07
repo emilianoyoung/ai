@@ -171,6 +171,15 @@ related:
       - url: https://www.bing.com/th?id=ON.DEC19AEFCE64C02F9349BF8265F28615
         width: 700
         height: 366
+  - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
+    excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
+    publishedDateTime: 2020-01-07T12:51:00Z
+    sourceUrl: https://www.openpr.com/news/1891085/artificial-intelligence-in-accounting-market-to-drive-amazing
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "iqRWUEP7YMfAj37+uTNGBnXx6DOhrl0WH2yKNvFEdlghD0IhojQVYM4WMxGmUbuA6iGVhKrly5p6/bvZT+MrHJi/FfsHX4Q+cDif3AFS4cH2AzcOP8Q3wtYCoCTMjgHt5NZV9dyiGlNNCcMFEwGMcEE0CXV4ULtxZ3AmCdNJQUwdwxnUfnqe0jUMBXW20ED6jSeKR8JSaqjess/db6B0dndouZMNvvVP9tfp/L5YAhgCi9+Vt0rMgDIPov2n2yDhDMAFy9qg76sSRluo8DV4xQ==;IwN0bn5Wr5Rx9ciVwm6hOA=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advance
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
         width: 950
         height: 536
-  - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
-    excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
-    publishedDateTime: 2019-12-18T14:49:00Z
-    sourceUrl: https://hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    ampUrl: https://amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 56
-    images:
-      - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
-        width: 708
-        height: 425
   - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
     excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
     publishedDateTime: 2019-12-23T13:54:00Z
@@ -100,6 +85,6 @@ related:
         width: 700
         height: 393
 
-secured: "Diiden94HliMp7L3dKg4xh6i4QB3m7Z47nW9b/8l/BLcB5yGrt+CTTelGfHY84EbWyzi6J16ymvhPlf3M5meB4BxhLe4ghLI636vc9hmEYbJZvXDoH1u4Fn3BW3wrFsKrtbHylkyvTlI6NHIHTlD4gvd2W61WkC2iwbiYIdANhbrtWwYYpfhEGrQwB/bv3NALkfEJGuZ6Q8GoAvCwEzHhkM8zYMLjQ2UIkMwfG0g/JdAIQHBpaL32MD6MFq0c7PTQpLEq3KZRdTgCQbGMVGvJg==;yDlfJD01lsy1tbrZYYcBzQ=="
+secured: "XoUkCFdKCUvNryacKuUFyoL/BwUWrB+l1CFjQSI0pCsCEgDN0QLmX5zoEE+rEvGSXRNp+2urz5dcaev1mFZ3Bkuo+fDrmZLHNQo0ta3NZ2BMFePO0TkfwwsHiZgTmWN+2TLgLUHeJsHwrQYFh5g1WrcgRHHXU8MpfI8fXafloQaG+tRVZV693kLFj7z4VYq7tfMhiaXt5rVBsE1s1I3DBdNeNExOugZhTe4ZqB1Wzfa/Hy/ZFR/UJS6lnoYNbMTS169C5bG5xDCU4su2tceUcg==;W8TWzih83sj4Wq9Hs53wuA=="
 ---
 

@@ -66,15 +66,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
-  - title: "Global Self-driving Car Market, Forecast to 2030"
-    excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical ..."
-    publishedDateTime: 2019-12-18T15:03:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2019/12/18/1962309/0/en/Global-Self-driving-Car-Market-Forecast-to-2030.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 4
   - title: "Global Natural Language Processing (NLP) Market Set to Reach $26.4 Billion by 2024, Rising at a CAGR of 21% from 2019"
     excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Natural Language Processing Market by Component, Deployment Mode, Organization Size, Type, Application (Sentiment Analysis and Text Classification), Vertical (Healthcare and Life Sciences, and BFSI), and Region - Global Forecast to 2024\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2019-12-19T00:47:00Z

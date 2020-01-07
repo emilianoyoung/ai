@@ -216,21 +216,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
-    excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
-    publishedDateTime: 2019-12-18T14:57:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 44
-    images:
-      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
-        width: 1200
-        height: 630
   - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
     excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
     publishedDateTime: 2019-12-19T06:39:00Z
@@ -416,6 +401,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "FKXJxmztODGLUTOjVJpV0oLNt11+0h5yx1D35yvnCr5P/X0AWLHMYRATX0jbaCDWIVx9PjDWrYkdPdg1z7D09oTTcfdufvKkQPU/YY9Qvg4Kd4n9AHfSTHqm2Zd3Dd8oouzuVUp+ccweYwtLpWfe35f9dokspBd8hktuDxAyg5Ej4FZ5u+i8ZjfWqBcTVmgu/1ozeepF0vMHNfD+5Q3LtT5SuRVbloqz2cPtZKxcVCY20sVGZSn3uE23IoVV2R1R+OdO+cMaks1sCyjNBMlA0A==;LiCx5Bhm3poinBIpDsu6UQ=="
+secured: "C8OuJ0U3hheaz9HZX8QqQshP7OvHMUByObGRZaELW36dLN/I4PVN19M7m7EY2ZuLI5pu6Fhs0cQT83jkFjaEYgmWhX+VtLKrbLjAdE9qmRiTTMTO4OkxB+y+0ymlKUyBZvbdr8UyXXfNntvRiRZDCwmcDnkHRbrATjx5yd9rM5gWNqBsPRpVdKtropBLqruZiEpmO0dr5JIK4WNqMEVm84nLMV65JkTpDTI4W6QQawB6kI/JN06Vez8u6I/4qp5liNNU/wxQjfyu/XHGUG0W5g==;Xg1dDG+/wBFJ7tCbOV1w0w=="
 ---
 

@@ -27,16 +27,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 7
-  - title: "Natural Language Generation Market Ongoing Trends and Recent Developments | Key Players like Arria NLG, AWS, IBM Corporation and Automated Insights"
-    excerpt: "Enterprises are implementing Artificial Intelligence (AI) and semantics, so that IT systems can help in resolving ... Artificial Solutions (Spain), NarrativeWave (US), Narrative Science (US), Narrativa (UAE), Amazon Web Services (AWS) (US), Retresco (Germany), Phrasee (UK), Conversica (Conversica) (US), Linguastat (US), NewsRx (US), vPhrase ..."
-    publishedDateTime: 2019-12-18T14:23:00Z
-    sourceUrl: https://www.openpr.com/news/1880811/natural-language-generation-market-ongoing-trends-and-recent
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
-secured: "6OtyxLAzyXTW3uJwMS1nZDghKABGE9OXYvHTGtTD6BYC7z418TYKAr8TqJKYvWy0Q4Jr+BXgzE4DDRoXOC8rv1cFyf9HDPWwknR3uOfsRufncUjTpToHn5YY5Myq/LC/uJFSAzGuSK/ixfxQaU+ISSAEyw39oGGycF7MKnUFksOYlQnSl77W25Cc2fikV39WlH3BNH8D5D2GkFKOQR0E/Oxiq8TkJYHLV8ONFBpBhbrzOf0lVZ53n4EpSVHfMNtBqrz+io4OguJlz2mYTugMBw==;wDqqP41CTwXFgjg9K41nFw=="
+secured: "10pVJ6/ecKfvRZhIZT5U0aAIkjAx5caAnQ2+Fbpaj0AgsS01S6aZh6+X2mRdyOqrMTKAnxOCuimYaFHJwI8ZebDhkzYIk4wPT4HR20+hdzJOmJiDCYkajCyvWNft4/+UEUeRlu2SCAPTfJv2Knep2P1sVZMqsk/o0zZX7q8JVlEoHDV8Vx/RJpzAo8zHA0UEs2ZlJbIU5CWCdDizEdeEHt+G2YMnb0fbhxbwkdB+u5sIiLeVNzY6mFrOnEvigbNbPDxasy7hoyFx7pXMUpPwdg==;20F/8pB6VKz6d0UCTHjNGg=="
 ---
 

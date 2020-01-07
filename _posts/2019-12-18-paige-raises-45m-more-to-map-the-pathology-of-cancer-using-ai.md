@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T18:06:00Z
 sourceUrl: https://news.yahoo.com/paige-raises-45m-more-map-180601977.html
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.097919B52904DD92D45B4BEB3FB95871
         width: 700
         height: 463
-  - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
-    excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
-    publishedDateTime: 2019-12-18T14:31:00Z
-    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83936
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 3
 
 secured: "PjTzZlDaJrcWVtRIqafIIExLZ+fIdKZyeKpJ87ZF4/y5orBdecwCzVE2HbvdQwukiUvdZFFz47+3Sw5Q8tJITj3VSKD3+SkZjpsTjsMHuISVmFl+1BY/5NgVqR1p3yjtP13uL99gt5bRbCeLlorSbHFpGApnrW23+rdlF46IqQI0hKJ6RHDSnYRKbV36eVslfIYnExNBFRgdOBBzBZAfSgZgwAVMfxFskY8LRVORBAl1nTZSgiK4pN6oDStw9eUZGIyAtzOLZpyH0jjbkBW+Ww==;NAQ4qwq7huhpWJbjyd57Vg=="
 ---

@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.05F22DE5941DC43D1EC9C3251C390C60
         width: 700
         height: 367
+  - title: "This AI kitty litter box will analyze your cat’s poops for some reason"
+    excerpt: "Sometimes you read about all the new gadgets at CES and have FOMO because you’re not there, and other times you read about an AI cat litter box. LuluPet says that it has the world’s first litter box with “built-in stool and urine image recognition” to analyze cats’... deposits. The goal of the Taiwan-based company’s gadget is to ..."
+    publishedDateTime: 2020-01-07T15:25:28Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/this-ai-kitty-litter-box-will-analyze-your-cat-e2-80-99s-poops-for-some-reason/ar-BBYHOmW
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.BD5E2FC7F86E62CAC780B82D68AACCC0
+        width: 700
+        height: 366
 
 secured: "B6T1dPN1uzaj1FWsaHR/bWR/o2Y8h65mAp/4s3zjgyIjMsRYIX2/mz3nzHFDvI2vzrlo4u2NE5kiENfxaIuodpNVa9rZUyFDPNjyRfZZCGat+EUmm9IIBBaSY7mH5fQxJ8AXQxfuP6EX7tTyskK6COzy4S/NQyOSz6jBqjA9UPCiDmSw8NCs3TsSIwfgd06YHRGAhuhITpdEr8eqBGlxhRugZm+jdQW0K+4VzrVW87oT3BmPGwWGUaT0R/aMiwBaeHJJ4ODi+d4Isrdal/Etyg==;OXImm1zof4ze7Bq7cm01PQ=="
 ---

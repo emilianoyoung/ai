@@ -27,28 +27,28 @@ images:
     title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
 
 related:
-  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
-    publishedDateTime: 2019-12-31T04:34:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
+  - title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
+    excerpt: "Dec 23, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Automotive Artificial Intelligence Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Automotive Artificial Intelligence marketers and clients to ..."
+    publishedDateTime: 2019-12-23T12:20:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Based Personalization Market Overview, Segmentation, Top Key Companies, Value Chain, Market Size and Trends"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence Based Personalization Market Report is highly intended to offer robust acumen considering Artificial Intelligence Based Personalization Market industry to aid a market contender with insightful analysis for Artificial Intelligence Based Personalization Market size, share ..."
-    publishedDateTime: 2019-12-31T04:31:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-personalization-market-overview-segmentation-top-key-companies-value-chain-market-size-and-trends-2019-12-31
+  - title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
+    excerpt: "Moreover, companies like Waymo, Rolls-Royce are coming up with driverless vehicles such as trucks ... Increasing investments of companies in artificial intelligence enabled logistics and supply chain is driving the AI in logistics and supply chain ecosystem Market growth in region. For instance, Chinese company Alibaba invested $248 billion ..."
+    publishedDateTime: 2019-12-17T15:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-ecosystem-market-2019-latest-research-released-with-in-depth-industry-intelligence-2019-12-17
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

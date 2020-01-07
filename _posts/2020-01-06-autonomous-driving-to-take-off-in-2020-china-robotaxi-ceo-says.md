@@ -3,7 +3,7 @@ category: news
 title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
 excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
 publishedDateTime: 2020-01-06T23:01:00Z
-sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
 type: article
 quality: 24
 heat: -1
@@ -200,19 +200,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F32B5AAC7D31C0B4E9A46D590400D734
         width: 700
         height: 388
-  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
-    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
-    publishedDateTime: 2020-01-07T03:47:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.8DBAA785A813E02220BAA9C3A5277FA7
-        width: 690
-        height: 560
   - title: "Five things creating buzz at CES, including weird TVs, robots that refill toilet paper and cyber cats"
     excerpt: "The annual event had more than 175,000 attendees last year and 4,500 companies exhibiting all manner of cool, strange, silly and cutting-edge gadgets, including dozens of TVs, a robot made for cuddling and a flying ... Also, Bosch announced a car visor powered by artificial intelligence that blocks out the sun by beaming a shadow directly ..."
     publishedDateTime: 2020-01-06T21:01:00Z
@@ -291,6 +278,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "X0In2ocMFNaLWg0gBCu3jQK0WhBoasE7AI+5TNavLfJEkZBlikc5eyXW9ik7xDJwC7MEVXLPIGbcua7RNpc+gl9t3ikZ3+dpYM4GyO0hqELVSfQjq3T3D4OvmQB8UPNFFEcncEZyV7GUmLbd3UtKr16XPpKTx9YfoeKCxWN1arb4j487Jk4MsI8BVy36YNJfSaLtsvOmq9f0D5GTUlaoEHcLnnJm4pD2VevswP0d2huqxODWNOdoMx4vBnCazI+CQ4IzlmhT3+MFn6GselWcaA==;xvz5FRNsoLfsuxdOb+3lWA=="
+secured: "RnmPc9ZUTf4de42em+zKQTqBnNgtd3DpPY9b61i81ybDWkeIZPckdo91VbkXdyHzONBcwUwHIRuVfZus4G8RIptc4a4ruEPJpkzD4bsem8JDAAjNCMri+7gftnc2TuBlowWnCacfoEQF5eXK3GQNaPpRFqzM+qzA4rl1+GmTo8l71QxMS4reqMbEuMz/3NlXryM4NlV9j94SzRH0hzdvtv5UiR5Dr3E+tTwsKerfZPwg4p/EL9tLMhrTNPYQWeUpm79EkjTqEQVtaAqYTJYFCQ==;6vfyDcGpSNy4bCeojMZZIg=="
 ---
 

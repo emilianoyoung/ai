@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
+  - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
+    excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-ships-market-expected-to-be-the-most-growing-market-during-upcoming-years-kongsberg-rolls-royce-asv-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
     excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
     publishedDateTime: 2020-01-07T12:13:00Z
@@ -107,6 +120,6 @@ related:
       domain: motoring.com.au
     quality: 4
 
-secured: "yUgHcXB8FO9vNPx5peIkY6KsKzmdvLHqsbMbBp+NeQ3AhmG1gm8VWnL4JP1bhPX5nNeHqrMkLx/c7p1dgHmP2EhUz3Pff4gVuzlLv/Aa92Z+6WK2xpzHSBu/p+YjV+DitzyQhcTxYQCchh/zmMmb5UImYj7VcPw/1S+owHVtn1Sz9TA3TLjunyH1c1C81bSzfWBDmK3S3h3iZxChX4O3eiRtJ2r6Bt9UGoOMhI9oGcPM7+AOTonvaxWZsZlEhEiZ2KzIRZXuXfSRbT38v2Mn1g==;VUJ2JDh1nmBSIc38IYl5Wg=="
+secured: "GfFZ1BHAnaLkmco1Cchfy+dIdQS0ABspwrVi+SbO/sCxAXdFIegSW5HRdLHgcvJTRBu8vQbL45F7rsjAE6j9SwowxVfSvOiElDIPy7LQsCyUYE+H9LRVoE7QoHLkJYHzwzQ0TbHmkGHJP8dlJqSY08QCshzj5pR5TVgSc/IyYHwW4n6Cv5rJApUHL2wnbePOykM6lbAxAyPmdkJBYUOUo72wSzLi9mebKaZi5zAoZHYIRtVRzpuxk/yT1oL+ebAGPBJpcQCKhJjhFrdd/cI2wQ==;wpkGs/LwjTjky+ucIust6Q=="
 ---
 

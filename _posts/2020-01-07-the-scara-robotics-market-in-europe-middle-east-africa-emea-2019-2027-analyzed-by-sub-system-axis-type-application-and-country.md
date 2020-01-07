@@ -3,15 +3,19 @@ category: news
 title: "The SCARA Robotics Market in Europe, Middle East & Africa (EMEA) 2019-2027 - Analyzed by Sub-system, Axis Type, Application and Country"
 excerpt: "Companies in the Saudi Arabia has invested in the field of robotics and artificial intelligence. Around 41% of the activities in the country has become automated indicating the growth opportunities for the scara robotics market. Further, government in the UAE has added up to a leading shift in robotics and automation process inside industries."
 publishedDateTime: 2020-01-07T12:15:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/the-scara-robotics-market-in-europe-middle-east--africa-emea-2019-2027---analyzed-by-sub-system-axis-type-application-and-country-300982488.html
+sourceUrl: https://markets.businessinsider.com/news/stocks/the-scara-robotics-market-in-europe-middle-east-africa-emea-2019-2027-analyzed-by-sub-system-axis-type-application-and-country-1028799328
 type: article
-quality: 2
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,6 @@ related:
       domain: globenewswire.com
     quality: 26
 
-secured: "lfg4GvG/dl/c4leSO0iCLESc9aBfoIF3hmuJFjQhX2v4T6ab1w4jTDRRssZ0NL6yyQDMOUq5qCC+l/MqH9tNhAjffeIKkVzheC9nwB3Bhe9FJZWT/+UbfMiFFeh0YPl1Dtjkz1xCsY4vMCJzVYJLJYefINHwdQD/T0YnFU2So9MpHdB/75DKKHSOpY7mB0aHDhhTQNI0A7NsuDft3wNkdmcpuFZyIr3yQRoXBGrdhv8cJX0BY8aljlChVJO/JDSoFqT4jq8zqgwt08UpmtcmvQ==;jWC4XJFta6K8xiRmUat9rw=="
+secured: "deoYAC4feCeMhsmIwj2/bEXFywXbGUtRPI4CAYcFuCakoz5R6Zm67YIaZt3SliDdbAtKfKBhlMtGVKneuXmkhJNdZ56wmaobtvejdY0DvRbuziKnhqAHhEjAi48xhZw+LbPYuzbGpmB28enP0RPJNBsjcjJ+uce2v2xja4dOlzbOExpv2ARy96QgUVuE/+v8AIBXXF2XWVdA6L/TjN8kMlfEiJWqYOLO9zXteGrXsM+TAKlk5HPE8Yclj7y1APmIMYIs1q8GVe5V1xe5ygOsRg==;3bhhyceNlplLQtvRH+AQ8w=="
 ---
 

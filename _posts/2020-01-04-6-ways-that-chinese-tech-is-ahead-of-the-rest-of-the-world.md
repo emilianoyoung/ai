@@ -3,9 +3,9 @@ category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
 excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
 heat: 134
@@ -30,21 +30,6 @@ images:
     title: "6 ways that Chinese tech is ahead of the rest of the world"
 
 related:
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
-    publishedDateTime: 2020-01-06T16:19:00Z
-    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
-    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
-        width: 700
-        height: 393
   - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
     excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
     publishedDateTime: 2019-12-30T09:07:00Z
@@ -58,6 +43,19 @@ related:
     quality: 55
     images:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
+        width: 700
+        height: 393
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:26Z
+    sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+    type: article
+    provider:
+      name: InvestorPlace on MSN.com
+      domain: msn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
   - title: "The Best Tech of the Decade (Page 13)"
@@ -113,6 +111,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "BjB5EJ3ElHz3on0e0gczFSyknQNb+qN37UJw12nSVc3tdkPjzhGvoXU1KDvXf9iQEgO4vdUVaeN6fv365NtKrqP3zTR6K2cjZjVrLtXx7esFZVPGP7iferL7wCdOBBPgo8uduLtFNt0p0WpuLPQv1C56+VPJ4H3ECuZUsaYI5QES2iB456NklLULiH+AzmYRi+hJzDRT2uxv8G8KUy8bL/Vl9Ftsqr6pGV6iqwfhl7CeY9X0Ql1yQj7glquozK6Md/J89T55ED77cagBqyVo1Q==;mkMc6BD9xTAk7BaOMyzsgw=="
+secured: "wyPS2wngYqD19EJjK0DhDjU8SiCh6rh6QLtcPzjowzMQiSIkJrXbu1NwGlL2BsSW7/3wE5AuTS1vTJTn5TsmDSGlL/qDHc+PVEswEVwatCRCqosPuzU10LvooVobvRG2SjpqEJEHUBRGT2Ghw8c9OdxGAKOVJ4Z+jNjdy678MW5WVwyPYy2bmv7XNl6GT4xUk6UbV0NAaMqieWiZrAUVekBDxi1qjjaVibVyD3yEmqhNRjyjTfK7wMA4Zq66Qlj9FMg9tJPPdOrHay1rR+g+ZA==;v/hc/ZktNv3rAaAMUsLY2w=="
 ---
 

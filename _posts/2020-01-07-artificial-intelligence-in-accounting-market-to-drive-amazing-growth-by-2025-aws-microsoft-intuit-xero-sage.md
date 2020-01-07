@@ -18,60 +18,166 @@ topics:
   - AWS AI
 
 related:
-  - title: "IBM points Watson at the marketing world with Advertising Accelerator"
-    excerpt: "IBM's latest Watson-powered product is the Advertising Accelerator announced at CES 2020. The predictive audience tool uses artificial intelligence (AI) and machine learning to identify and recommend creative assets most likely to drive engagement in a target audience. The new tool helps media buyers and brands improve the effectiveness and ..."
-    publishedDateTime: 2020-01-07T11:28:00Z
-    sourceUrl: https://www.techrepublic.com/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    ampUrl: https://www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-points-watson-at-the-marketing-world-with-advertising-accelerator/
+  - title: "Artificial Intelligence in Healthcare Market Expected to Witness a Sustainable Growth over 2024"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Artificial Intelligence in Healthcare market revenue was xx.xx Million USD in 2014, grew to xx.xx Million USD in 2018, and will reach xx.xx Million USD in 2024, with a CAGR of x.x% during 2019-2024. Based on the Artificial Intelligence in Healthcare industrial chain, this report mainly elaborates the ..."
+    publishedDateTime: 2020-01-07T10:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-expected-to-witness-a-sustainable-growth-over-2024-2020-01-07
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
-        width: 700
-        height: 525
-  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
-    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
-    publishedDateTime: 2020-01-07T14:18:00Z
-    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence (AI) In Healthcare Market Recent Developments, Demand, Trends and Future Growth 2019 to 2026"
+    excerpt: "It is used in medical practices such as process diagnostics, personalized medicine, drug development and follow-up care of patients. The Artificial Intelligence (AI) In Healthcare Market Perspective, Comprehensive Analysis along with Major Segments and Forecast, 2019-2026. The Artificial Intelligence (AI) In Healthcare Market report is a ..."
+    publishedDateTime: 2020-01-07T06:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-recent-developments-demand-trends-and-future-growth-2019-to-2026-2020-01-07
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
     images:
-      - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
-        width: 700
-        height: 394
-  - title: "Podcast: Advancing Deep Learning with Custom-Built Accelerators"
-    excerpt: "Deep learning workloads have evolved considerably over the last few years. Today’s models are larger, deeper, and more complex than neural networks from even a few years ago, with an explosion in size in the number of parameters per model. The Intel Nervana Neural Network Processor for Training (NNP-T) is a purpose-built deep learning ..."
-    publishedDateTime: 2020-01-03T16:08:00Z
-    sourceUrl: https://insidehpc.com/2020/01/podcast-advancing-deep-learning-with-custom-built-accelerators/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "India bullish on AI in healthcare without EHR"
+    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
+    publishedDateTime: 2020-01-06T08:26:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.287B3969A67EEFFEF2C95AADDD19FB98
+        width: 700
+        height: 379
+  - title: "India bullish on AI in healthcare without electronic health records"
+    excerpt: "Interestingly, the NDHB also aims at “leveraging information systems already existing in the health sector.\" Fortunately today, healthcare experts and clinicians in India do understand the potential of artificial intelligence and big data, however, implementation of standardised electronic health records can only be seen in radiology ..."
+    publishedDateTime: 2020-01-06T09:38:00Z
+    sourceUrl: https://health.economictimes.indiatimes.com/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    ampUrl: https://health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/india-bullish-on-ai-in-healthcare-without-ehr/73118990
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.DC2C83EE04CB69B4E09AA9C2144F2C3C
+        width: 700
+        height: 379
+  - title: "Artificial Intelligence in the Healthcare Market Outlook and Growth Stance Forecasted Through 2025"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.8% from 2019 to reach USD 20,525.04 Million by the year 2025. North America region holds the ..."
+    publishedDateTime: 2020-01-02T11:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-outlook-and-growth-stance-forecasted-through-2025-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Retail Market Size is Expected to Exhibit USD 27,238.6 million by 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has released a new research study on Artificial Intelligence in Retail market Analysis 2018-2025 inclusive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the industry over the forecast timeframe. The report also ..."
+    publishedDateTime: 2020-01-07T13:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-is-expected-to-exhibit-usd-272386-million-by-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Supply Chain Market Study Reveals Growth Factors and Competitive Outlook for Future"
+    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in Supply Chain Industry is further estimated to grow at a CAGR of 45.6% from 2018 to 2025 to reach USD 10,111 Million. Growth in this industry is mainly driven by factors ..."
+    publishedDateTime: 2020-01-03T08:55:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-study-reveals-growth-factors-and-competitive-outlook-for-future-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Security Market Is Likely to Experience a Tremendous Growth in near Future"
+    excerpt: "Jan 01, 2020 (HTF Market Intelligence via COMTEX) -- Artificial Intelligence in Security study will help you investigate a detailed division of the market by the end user/industry, by best in class product type and by geography with creation, income, utilization, export & import data in these areas, crunching historical data along with ..."
+    publishedDateTime: 2020-01-01T20:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-is-likely-to-experience-a-tremendous-growth-in-near-future-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in the Construction Market Report Examines Latest Trends and Key Drivers Supporting Growth through 2025"
+    excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in the Construction Market was valued at USD 387 Million in the year 2017. Global Artificial Intelligence in the Construction Market is further estimated to grow at a CAGR of 33.3% from 2019 ..."
+    publishedDateTime: 2020-01-02T12:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-the-construction-market-report-examines-latest-trends-and-key-drivers-supporting-growth-through-2025-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.615F0B2E4527344CE7C9BB56E3E8B586
-        width: 533
-        height: 562
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-03T11:42:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-03
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
-        width: 400
-        height: 225
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
+    excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
+    publishedDateTime: 2020-01-07T12:57:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-for-healthcare-start-up-lumiata-expands-leadership-team-with-industry-standouts-to-head-up-platform-engineering-sales-and-marketing-300982377.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.DEC19AEFCE64C02F9349BF8265F28615
+        width: 700
+        height: 366
+  - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
+    excerpt: "Other factors attributable to the market growth are the potential impact of AI on speech and voice recognition accuracy, increasing need for better healthcare software, mobile banking, smart home automation applications, and increased demand for multifactor authentication voice-based biometric systems. The Global Speech Technology Market is ..."
+    publishedDateTime: 2020-01-07T11:07:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.AF3294DE263BA10F5DE18F6C9C94D65C
+        width: 700
+        height: 366
 
 secured: "nN7XfiOjQ68QuUkKDDQnoJeL0abMCRFHTSL/6jaoOUkAo2xd/m8U3E86kIdF+RBCsZS+Kb/VthQL2GQS+c41xVU0pbkCIKTvhbh1710CteLzPYxSSk0jjjlPXvh4NrS3cf2ivFVD0NQANq9IkiiXsPjAlnbCiZ/28C1UUri39JSfC++WoYDkwdxcmcar8A4JS49jzntEnrXAxWEzGy6vFAZ7RMN7X6eu6r8jCg6P2VNHbQdYhnGTXg85QBSMYSoBl5H0zsz0GQUcCS+FNY5U0A==;8f2liVBLnQF7pImYhkYtSQ=="
 ---

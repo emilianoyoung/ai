@@ -202,19 +202,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F32B5AAC7D31C0B4E9A46D590400D734
         width: 700
         height: 388
-  - title: "Intel makes a splash at CES with AI, autonomous driving tech and Tiger Lake chips"
-    excerpt: "The AI announcement was aimed straight at the current tech battlefield of autonomous-vehicle technology. After emerging during the 2010s, it’s now potentially set to deliver in the 2020s, with likely consolidation of companies along the way. Intel Chief Executive Officer Bob Swan started his CES conference with new from Mobileye NV ..."
-    publishedDateTime: 2020-01-07T03:47:00Z
-    sourceUrl: https://siliconangle.com/2020/01/06/intel-makes-splash-ces-autonomous-driving-tech-ai-tiger-lake/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.8DBAA785A813E02220BAA9C3A5277FA7
-        width: 690
-        height: 560
   - title: "Meet the robots coming to CES 2020"
     excerpt: "It is unknown if Samsung is developing artificial intelligence (AI) for robots or an actual robot is being designed for a specific industry. More will obviously be revealed in just a few days when CES starts. Kiwibot is a delivery robot that has already been deployed on a few campuses around the U.S. The company is currently working on a new ..."
     publishedDateTime: 2020-01-02T13:51:00Z
@@ -231,7 +218,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

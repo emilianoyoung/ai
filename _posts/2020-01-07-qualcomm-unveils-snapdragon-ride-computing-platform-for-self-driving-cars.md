@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
+  - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
+    excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
+    publishedDateTime: 2020-01-07T12:41:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-ships-market-expected-to-be-the-most-growing-market-during-upcoming-years-kongsberg-rolls-royce-asv-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
     excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
     publishedDateTime: 2020-01-02T16:51:00Z

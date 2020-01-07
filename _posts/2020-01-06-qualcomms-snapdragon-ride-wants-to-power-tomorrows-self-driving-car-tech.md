@@ -146,6 +146,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "The state of self-driving regulation"
+    excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
+    publishedDateTime: 2020-01-07T15:00:00Z
+    sourceUrl: https://www.politico.com/newsletters/morning-transportation/2020/01/07/the-state-of-self-driving-regulation-784107
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
+        width: 1120
+        height: 629
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

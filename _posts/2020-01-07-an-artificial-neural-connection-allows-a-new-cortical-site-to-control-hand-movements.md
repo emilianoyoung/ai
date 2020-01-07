@@ -1,21 +1,29 @@
 ---
 category: news
 title: "An artificial neural connection allows a new cortical site to control hand movements"
-excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
-publishedDateTime: 2020-01-07T14:39:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/tmio-aan010620.php
+excerpt: "However, new research published by a group led by Yukio Nishimura, the project leader of the Neural Prosthesis Project, Tokyo Metropolitan Institute of Medical Science, showed that an artificial neural connection (ANC ... use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients ..."
+publishedDateTime: 2020-01-07T15:39:00Z
+sourceUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.html
+ampUrl: https://medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-neural-cortical-site-movements.amp
 type: article
-quality: 0
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
   - Machine Learning
+
+images:
+  - url: https://www.bing.com/th?id=ON.295886AD34BC8493ECF12C621151B63E
+    width: 700
+    height: 421
+    title: "An artificial neural connection allows a new cortical site to control hand movements"
 
 related:
   - title: "Artificial Neural Networks For Blockchain: A Primer"
@@ -34,6 +42,6 @@ related:
         width: 600
         height: 315
 
-secured: "rNeSCw2FACK07m41SJxbjOoYeHjoZhc48egL3xFkJkdNX+4Q+vOAQT4/68/ojDuPVBuHFUoVeqwhYJCi5AC/zYWK2ePXeuS1VeP2jjItnFGERazd8zNRSdugwVkzzS48vJnWGnK2tP8EM1/59cnJO2PYEYaKFdSxUvt433yGNcmWSJhRV4sWl0eKM8nX1kXcNlDyGJUuHvFa+pc5P6pjNYML1P/9MrZ4Q6B7woNc01jV+dUyca/+aIoOvmRZRgDWkgeHM9O/31kea0j21Uwc1A==;g0KWJqu4Hg7lKN1QikysHw=="
+secured: "w7GazM2lo9n96/HYE4NSUII5dJ85rw8AJOP7MUwdEPyHgQrwRjyKlxCJcq0fAjoGXKpMjvGzGalPWGK7x1yrjBbnM1wmjxorspqExr9d9HfxRQqhgmrqT6hguxqJfDpcE0tjb8+S2n5qmv8UhNTkV914NjMX9RPsNP1ra5/lp4aUeP+vC78ubHmJewSfYcH2CUbMIiUQp4zoO5NtFWwKnn0NXyUEZeXVC1BXhbSEZbnF8ohMyAUaj3POXUBKQ9KujarjXbquw8SxwCGFF8zO+Q==;RnEyDUP8Z0+nDxKAd+ZdWg=="
 ---
 

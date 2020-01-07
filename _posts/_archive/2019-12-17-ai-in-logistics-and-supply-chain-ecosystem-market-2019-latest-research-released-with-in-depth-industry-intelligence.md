@@ -41,7 +41,20 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Software Market Growth Powered with Latest Development Scenario & Influencing Trends"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI Analyst have added a new research study on Title Global Automotive Artificial Intelligence Software Market Report 2019 - Market Size, Share, Price, Trend and Forecast with detailed information of Product Types [Automatic Drive, ADAS], Applications [Passanger Cars & Commercial Vehicles ..."
+    publishedDateTime: 2019-12-24T20:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-software-market-growth-powered-with-latest-development-scenario-influencing-trends-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
-secured: "pFdc5cHNKqgKhke0CuYCXhm+Y4yMmx6y4aBCjdRgWnKlwu1qUw/V8y2Ra+o9itdjnZ8pxPBsVe8IxSybr96uoFP08KBvZOngmFoT9agb+o1ju5oiw/RUhYiM+YtdoNSnkgIvzWSwi9F4YqYFLTngO9aUjMV993xcvbB/mGDxjkQmNdBQxQak5/TTtn7GTMFHKAy3+IH/yXQ2vJwaC+i5dnrgegkkVU846yGcKf0Rr9h8fXqSHZ/QMemqhZrteprjuskrJgaroz1rnN18jBmfBg==;qF0SxVFQcnEkex1ifHOuSQ=="
+secured: "XU5MjK4V/xfBNdKLfThLpBI6v0w6GbBxr17TPdPALpaOoyrb1/9QKZwqILNZnBL66PEF7rl+YRHxxwxLmu3rzR4J7df8lNIwQp7UCQGmNbDxcMIs9xMyQJUdSpWCvFh8Eumtp7bjo5gWSyVwqnVCZ9RPiesyUHp0RS6o3hIGfZ0sQjtc6CBGu0t/x/fyWvyAdbxwkoliPGQnhjO58ncG+OhTlZ65ECMFwSIzHW585VtgsDrVrnD0f1gJU9Hj5YGCwAq1FEZJRhnVhzKvZQOx+A==;jIRQKgkKXvRI9svisKZKqQ=="
 ---
 

@@ -60,7 +60,7 @@ related:
     provider:
       name: GlobeNewswire
       domain: globenewswire.com
-    quality: 0
+    quality: 17
     images:
       - url: https://www.bing.com/th?id=ON.FF66EB29416DCB31C9FEA4D8EA0D30CC
         width: 150

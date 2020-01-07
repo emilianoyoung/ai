@@ -221,21 +221,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "China dreams of becoming an AI utopia, pushing beyond surveillance and into education and health care"
-    excerpt: "For China, the advent of artificial intelligence is meant to be the silver bullet that unlocks further economic growth and helps solve deep-rooted social problems, such as the uneven distribution of resources in education and health care. The targets are ambitious – by 2025 China wants wide-scale adoption of AI in manufacturing, health care ..."
-    publishedDateTime: 2019-12-18T14:57:00Z
-    sourceUrl: https://www.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    ampUrl: https://amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3042451/china-dreams-becoming-ai-utopia-pushing-beyond-surveillance-and
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 44
-    images:
-      - url: https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2019/12/18/13fdb596-2177-11ea-acfb-1fd6c5cf20a4_image_hires_174108.jpg?itok=hjWAaTtC&amp;v=1576662081
-        width: 1200
-        height: 630
   - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
     excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
     publishedDateTime: 2019-12-18T18:52:00Z

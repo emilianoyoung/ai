@@ -41,19 +41,6 @@ related:
       - url: https://cdn.newsserve.net/newsR256.png
         width: 256
         height: 256
-  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
-    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
-    publishedDateTime: 2020-01-03T10:22:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
     excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
     publishedDateTime: 2020-01-02T21:47:00Z

@@ -155,6 +155,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "The state of self-driving regulation"
+    excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
+    publishedDateTime: 2020-01-07T15:00:00Z
+    sourceUrl: https://www.politico.com/newsletters/morning-transportation/2020/01/07/the-state-of-self-driving-regulation-784107
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 24
+    images:
+      - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
+        width: 1120
+        height: 629
 
 secured: "3m3kNRzCL5xBTW/Wc3s4Nu3n5RcYVEFzCuI382DUoezHw8HGe7/q4LnTW+7n2x9lks+8bC9iRUEtOIZQqcAi8/0O9Opip6fu8GAfCTVS9IZILUgEJ7LNIqk/lH2DEbCziHLqwOKHb/d3OcUQ8oMMswruYhDjZ5oYh04iLyclQkiMi7QjxXegjNs0nG1gkGJqZfQilFp+3r43VhW1Xd1AzOuf0TZ3lyWEMMpiTbySzLOFXTDeabTRYHxRqNWTAQFgZQxETkofX0NMfnqTTBwBZw==;2JSJEzjlfAXXIOUqvB0Xqg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-05T10:00:00Z
 sourceUrl: https://www.digitaltrends.com/cool-tech/neuro-symbolic-ai-the-future/
 type: article
 quality: 66
-heat: 76
+heat: 66
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 700
     height: 366
     title: "Neuro-symbolic A.I. is the future of artificial intelligence. Here’s how it works"
-
-related:
-  - title: "A.I. sex robots the future of intimacy?"
-    excerpt: "Matt McMullen, owner of RealDoll, says artificial intelligence could help make sex dolls indistinguishable from real people. “I would say probably within five to 10 years the appearance of a robot is going to drastically improve,” McMullen told the Star. “A.I. may start to approach something in the mammal category but I don’t see ..."
-    publishedDateTime: 2020-01-05T18:42:00Z
-    sourceUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy
-    ampUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    cdnAmpUrl: https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
-        width: 592
-        height: 445
 
 secured: "6t7TflOw+tH6N16rFQsnRRFjC3n3teIbrKKghql2JFz5AQpcTMtauZLxupCXwZ/3BYxqEGjFS8/SOT+gV/ugORoxe13wtJEIXR9PE25554azty5xMxQ4lk4tVMsFCQ4JTI/Dl+VEFjnuEsIZqcRej45SMWdI95YZyfEEr6xfm2UJlcWW4mSW5KQcdadxJ05LcIM3VD1KXYogSpRG4NqhJY3PJmnOayopWJBwVqnydfhF93bM3D8AS1KQTG9qurVtzWmCDmkrwbm1PHhaL3Idvg==;Stx8TPfb2suIFndK3YxkXA=="
 ---

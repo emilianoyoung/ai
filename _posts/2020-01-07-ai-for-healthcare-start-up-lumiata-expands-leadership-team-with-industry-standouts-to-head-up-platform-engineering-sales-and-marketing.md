@@ -158,6 +158,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
+    excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
+    publishedDateTime: 2020-01-07T12:51:00Z
+    sourceUrl: https://www.openpr.com/news/1891085/artificial-intelligence-in-accounting-market-to-drive-amazing
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
   - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
     excerpt: "Other factors attributable to the market growth are the potential impact of AI on speech and voice recognition accuracy, increasing need for better healthcare software, mobile banking, smart home automation applications, and increased demand for multifactor authentication voice-based biometric systems. The Global Speech Technology Market is ..."
     publishedDateTime: 2020-01-07T11:07:00Z

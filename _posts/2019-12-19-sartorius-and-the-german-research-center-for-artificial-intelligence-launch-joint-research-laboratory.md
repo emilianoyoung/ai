@@ -23,15 +23,6 @@ images:
     title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
 
 related:
-  - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
-    excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
-    publishedDateTime: 2019-12-18T14:30:00Z
-    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83937
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 4
   - title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
     excerpt: "The report is the most comprehensive assessment of today’s leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant™ solutions, part of its self-service cloud, surpassed ..."
     publishedDateTime: 2019-12-18T19:10:00Z

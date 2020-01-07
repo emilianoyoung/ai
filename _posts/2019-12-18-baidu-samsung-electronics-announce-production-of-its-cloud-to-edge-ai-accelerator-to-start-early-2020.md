@@ -40,30 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.26EB2D6CBB2F393EC87E12B41928667B
         width: 260
         height: 140
-  - title: "Samsung is going to mass produce Baidu’s AI chip Kunlun from next year"
-    excerpt: "Samsung has joined hands with Chinese-language Internet search company Baidu to produce its new Cloud-to-edge artificial intelligence (AI) chipset -- Kunlun. The mass production of the chip is scheduled for early next year. It is pertinent to note that this is the first such collaboration between the South Korean tech giant and the Chinese ..."
-    publishedDateTime: 2019-12-18T14:36:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK.html
-    ampUrl: https://m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/samsung-is-going-to-mass-produce-baidu-s-ai-chip-kunlun-from-next-year/story-pN6nEeFfSnaWklFoO1uYFK_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 54
-  - title: "Samsung Kicks Off Mass Production of AI Chip for Baidu: 260 TOPS at 150 W"
-    excerpt: "Samsung Foundry and Baidu this week said that the companies were about to start mass production of an AI accelerator chip early in 2020. Baidu’s Kunlun chip is to be made using Samsung’s proven 14 nm process technology, and make use of the company’s Interposer-Cube 2.5D packaging structure. The Baidu Kunlun AI accelerator is based on the ..."
-    publishedDateTime: 2019-12-18T15:00:00Z
-    sourceUrl: https://www.anandtech.com/show/15247/samsung-kicks-off-mass-production-of-ai-chip-for-baidu-260-tops-at-150-w
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 53
-    images:
-      - url: https://images.anandtech.com/doci/15247/baidu-kunlun_678x452.jpg
-        width: 678
-        height: 364
 
 secured: "b1IE0u3anmfBbTUW6Ndb5RZYwcuMm2NC7ImdDYG58+vIVert/F2c6c+vWdsHsdh86cQnTeHAbmLTsA8GYw75y/JBDSzUkCospwdlvHwFKdySdfxlRmO1rLrS1D91fNtNIMpo+1KC/LnNI1hpNZZRgwRnW8gFjvRbgVaNaaZktpL22ChfXwTgJ14NmMSHoSjGhCd2ATLQWAd8WuqQ0sIhfEtyOtBf3Ube0kpKm6ffVawRiczH7q6zAdkNnT/dguGGLylLfMa4Sr73QATeGypXIw==;G4K/OFzCHAD9h2x84QHexg=="
 ---

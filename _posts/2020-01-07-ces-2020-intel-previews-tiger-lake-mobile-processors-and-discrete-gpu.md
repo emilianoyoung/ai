@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -133,6 +133,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E30C185FD48DE002307B9D94A44DD866
         width: 515
         height: 221
+  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
+    excerpt: "Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance. According to Intel Executive Vice President Gregory Bryant, Tiger Lake is designed to bring ..."
+    publishedDateTime: 2020-01-07T15:39:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/intel-unveils-next-gen-mobile-151739651.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.5E65A5CF304BA7EDEB03E9DB8665944E
+        width: 280
+        height: 158
 
 secured: "eIwxe5vw53jgNc9DcEZMNG78AYLzLBJBdHaWU0gu8lKqg1WUe9zDniihesZyXOamo7llRItsKSHai9dHeoLeK2hosQT+QhUdVlde8jyb3NzGwDp8cDJPJz/qqo0Mj2SvFRZ3LRcxquT/DaRtjJkzLD0bnqwFtUGR4E4cagEn/NQeZbN03GikCxx5m8SpLhbh3IRP00krEv4QxCGRMSagw57KQjVE3U+QjOg4XA51QEfrqoCf6vEYeLeI5JWnvXC5Ddafx684KVOKHIoe1hq7Ng==;ff8Sk5IafWt+c105mZy7VA=="
 ---

@@ -38,15 +38,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/VY4rxYG.uINvvqCjNFlDpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTEuMg--/https://s.yimg.com/uu/api/res/1.2/VjvZwXqPR0RWb6eR0HrBYw--~B/aD0xNzMwO3c9MjYwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/techcrunch_350/b90680a4ca8e41634221b3433d82e022
         width: 1278
         height: 851
-  - title: "Natural Language Processing Approaches to Detect the Timeline of Metastatic Recurrence of Breast Cancer"
-    excerpt: "We developed a natural language processing (NLP) system to identify patient-specific timelines of metastatic breast cancer recurrence. Patients and Methods We used the OncoSHARE database, which includes merged data from the California Cancer Registry and EMRs of 8,956 women diagnosed with breast cancer in 2000 to 2018. We curated a ..."
-    publishedDateTime: 2019-12-18T14:31:00Z
-    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83936
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 3
 
 secured: "H77SY0AIgcclJPtQmVHT8gw4/LqK39s0806oVCuYBubupft+iBE6J2kDSZ8QXk20GMEe0lqh00pds1rQyNyb/XRiGRDH+U/UuLO65TQf16WoLwNjS80cJ3vHhhLkdTJcRVRFHkNNpk3Xltw8avD514PiA6XRo1vIPe0jJgEvjlGzi4Zb+Fqm8FHvRsrH4oyRiVT1YOuAEc4cmMd1azgo+zdgjOYNn/KCxqb2Y4ZI4CypQHEfc3WiTVvKV6hQfFklEz9RHhxk52Ut5/xXK1JqSA==;7D7TJ1n+0fhjtf/nWJ7sjQ=="
 ---

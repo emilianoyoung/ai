@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T16:07:00Z
 sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,19 @@ images:
     title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
 
 related:
-  - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
-    excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200107005204/en/
+  - title: "Practical Lessons for Scaling Machine Learning Solutions in the Real World"
+    excerpt: "Instead of thinking about flashy milestones, my wish is that in this new year we make progress streamlining the end to end lifecycle of large scale machine learning solutions. Despite all the progress in machine learning stacks, the implementations of large scale solutions remains a difficult challenge for most organizations. My company ..."
+    publishedDateTime: 2020-01-02T14:28:00Z
+    sourceUrl: https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
+        width: 700
+        height: 467
 
 secured: "e2vv3XME3YlnXVaX8yxRfD5dTUH0prZNO6SYZMj3bN9F/DYSuVnlJsRAabqYuwyHt0aVF4OvXG6kKJ6SIBCmk+WxzGAlF9pUfslTpd+FR/F6QStfb2dHeL/R+jmxJmSorXSTlXFCQeCpwb2SnIDHs4e9y215pLsD2oLqFZqgEjBPIl8q2Q/bi2FKhXf4uAj6zAPuEnGLRKJSZDGAsbGx92fTN4Yz7EJHnIvzbafMUGX8FVWLRjiz2alfvNTLTYeYQHSCNwWE+414eZ7s/Gcwfw==;pBVHM9+CWP2EFig91EOKmw=="
 ---

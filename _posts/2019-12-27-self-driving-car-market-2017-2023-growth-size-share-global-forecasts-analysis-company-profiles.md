@@ -28,62 +28,23 @@ images:
     title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
 
 related:
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
+    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
+    publishedDateTime: 2019-12-23T08:56:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 49
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Platform Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as North America, Europe ..."
-    publishedDateTime: 2020-01-07T06:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
-    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
-    publishedDateTime: 2020-01-02T06:16:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share. Major industry players with significant revenue share include Pearson, IBM, AWS, Nuance Communications ..."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
-    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
-    publishedDateTime: 2019-12-26T13:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
+  - title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
+    excerpt: "Dec 30, 2019 (Global QYResearch via COMTEX) -- The fresh industrial research report Global Self-driving Cars and Trucks Market Research Report 2019 published and promoted by Ameco Research.com studies industry trends, market gains, Market development aspects, growth speed, and industry situation during the forecast period (2019-2026)."
+    publishedDateTime: 2019-12-30T06:46:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-overview-industry-trends-and-growing-opportunities-till-2026-2019-12-30
     type: article
     provider:
       name: MarketWatch
@@ -93,6 +54,24 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
+    publishedDateTime: 2019-12-18T15:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
+    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
+    publishedDateTime: 2019-12-19T00:15:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-164500275.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "SO6EjQ0q+FRwncLk6RyO4/uZS4ftyYFFgIY8t47EIpLIY8HROQzvPvgGbmoiZ/mr6G89uAkhnZVzpneoCnSyIt8HfZfbkgMQNHzQkdaP/GHYJ43z1/akg0nF2NoyoBKYJNltc6emc76PVpKx+I6HGLF9jzrnc7YHyl+dnE4HG70381f0DNVOcP1ad/KPpA62K7or62CZ2YlNkXvPdIkchJwXQqNh46IBUSiax+Qn+BUrAbCQvDTrBZ3CnrlimuV7STlDbDAXTwto2ZqTAvwjlA==;SEcqyVoDn0H95w3781AExA=="
 ---

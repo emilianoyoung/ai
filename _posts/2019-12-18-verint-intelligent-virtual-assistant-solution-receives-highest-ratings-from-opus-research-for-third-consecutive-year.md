@@ -31,15 +31,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B1959BCAC16BB2ACBC617EFE9D7E9E0B
         width: 500
         height: 206
-  - title: "A Novel Strategy for Mining Medical Records: Recent Research Context"
-    excerpt: "Hence, the data mining process had low yield for the detection of metastatic disease. The new method is a natural language processing (NLP) model that detects the presence and timing of metastatic breast cancer recurrence using clinical notes from the EMR, which is used in several hospitals including Stanford Health Care. In addition ..."
-    publishedDateTime: 2019-12-18T14:30:00Z
-    sourceUrl: https://www.medpagetoday.com/reading-room/asco/breast-cancer/83937
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 4
 
 secured: "U5KQotYQfpB96ZiXgW4W3ky0rlXH/RiwKF1NA1RJi/11+ZqQZ+vlzv3Yc2f+33ExeWXwEBBlbiGnHIsUFn9salV/EicCykGCWjNUlBzXnObC90hNq17qxHIFkeWpfx4qmjzA+VbqFbqVsUCWreW2f7K+uHeRzF5L9zWdqV3nslIU+sAAZGc143m+HVlY18BryurknBwJX7NAxDrWE+suUVebqWNXEYqrvfVqdwDOZVOnaNbowvzOS6YRToQRTpNP+/aIqCUh/A+lXt1pgJ2G6Q==;xYhSoU21RrUEg+y2qjCwfg=="
 ---

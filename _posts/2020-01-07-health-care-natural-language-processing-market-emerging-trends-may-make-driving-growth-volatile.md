@@ -28,15 +28,15 @@ images:
     title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
 
 related:
-  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
-    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
-    publishedDateTime: 2020-01-06T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-07T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 55
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

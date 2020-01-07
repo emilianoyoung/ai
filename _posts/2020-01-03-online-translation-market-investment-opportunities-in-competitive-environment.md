@@ -28,58 +28,110 @@ images:
     title: "Online Translation Market - Investment Opportunities in Competitive Environment"
 
 related:
-  - title: "Icons Infocom undertakes implementation of Dragon Medical Speech Recognition"
-    excerpt: "Icons Infocom undertook the implementation of Dragon Medical Speech Recognition with Philips digital workflow solution for one of the leading hospitals in India. The client faced several challenges and was looking to eliminate them. Some of the major problems included lack of qualified medical stenos, high dependency on stenos even in critical ..."
-    publishedDateTime: 2020-01-04T15:32:00Z
-    sourceUrl: https://www.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    ampUrl: https://m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
-    cdnAmpUrl: https://m-newsr-in.cdn.ampproject.org/c/s/m.newsr.in/n/Computer+Industry/1zkl574ijr/Icons-Infocom-undertakes-implementation-of-Dragon-Medical-Speech.htm
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
     type: article
     provider:
-      name: newsr.in
-      domain: newsr.in
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: https://cdn.newsserve.net/newsR256.png
-        width: 256
-        height: 256
-  - title: "Venezuela’s opposition —and Juan Guaidó — face a critical test on Sunday in National Assembly vote."
-    excerpt: "CARACAS, Venezuela — Venezuela's opposition faces a critical test on Sunday, when its leader, Juan Guaidó, will seek reelection as head of the National Assembly — a title that forms the basis of his recognition as Venezuela's true head of state by nearly 60 countries around the globe. For Guaidó, the vote amounts to a do-or-die moment."
-    publishedDateTime: 2020-01-04T15:09:00Z
-    sourceUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html
-    ampUrl: https://www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/venezuelas-opposition-and-juan-guaido--face-a-critical-test-on-sunday-in-national-assembly-vote/2020/01/03/e246c3b8-2b20-11ea-bffe-020c88b3f120_story.html?outputType=amp
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
+    excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
+    publishedDateTime: 2020-01-06T02:52:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-technology-growth-and-development-2020-to-2026-2020-01-05
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 45
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
-      - url: https://www.bing.com/th?id=ON.64C5F7517B64B206DDE538B1FA446189
-        width: 700
-        height: 467
-  - title: "Sensory Brings Speech Recognition to Kitchen Appliances"
-    excerpt: "Sensory has released a new speech recognition platform designed for smart appliances like microwaves and refrigerators. The platform is essentially a modified version of the company’s TrulyNatural technology. According to Sensory, the new solution is noteworthy because it does not raise the privacy concerns of competing virtual assistants."
-    publishedDateTime: 2020-01-02T21:47:00Z
-    sourceUrl: https://mobileidworld.com/sensory-brings-speech-recognition-kitchen-appliances-010202/
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
+    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
+    publishedDateTime: 2019-12-31T04:34:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-development-status-technology-acquisitions-2019-12-31
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.3AF41186EDE4BEE8D6FCE417B434A477
-        width: 700
-        height: 490
-  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
-    excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- The Consumer Technology Association (CTA) is honoring Fluent.ai, a Canadian technology company, for its groundbreaking work with speech recognition technology and artificial intelligence (AI). Fluent.ai is one of several groundbreaking technology companies being recognized as an Innovation Awards ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/fluent-ai-named-ces-2020-innovation-honoree-for-its-advancements-in-voice-recognition-technology-1028796191
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
+    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
+    publishedDateTime: 2019-12-31T10:59:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-products-market-evolving-technology-analysis-and-future-outlook-2019-to-2025-2019-12-31
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+    publishedDateTime: 2020-01-01T14:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
+    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
+    publishedDateTime: 2020-01-06T06:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Reader Polls: December Business, Machine Translation, EU Translation RFPs, 2020 Outlook"
+    excerpt: "DeepL, used by 36.9% of respondents, proved most popular, followed by Google Translate (19.2%). SDL Machine Translation and ModernMT are the services of choice for 12.3% and 10% of respondents, respectively. The remaining 21.5% of respondents use some other MT service. “Unacceptable,” “annoying,” and “nightmarish.” These are just a ..."
+    publishedDateTime: 2020-01-02T07:45:00Z
+    sourceUrl: https://slator.com/features/reader-polls-december-business-machine-translation-eu-translation-rfps-2020-outlook/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.A58AA421615EEE94F6F0DB3BE79CFB3E
+        width: 400
+        height: 400
 
 secured: "A9d6mdj5nNWnyQ+iCUn1rUrbyTCYoBkAsABpDEfvQMEJS5pLNt+w8pNy2uDhxF440QDjSSTX71as+MM3yuguZwyYrImPaOGvH/w9oQ8jon0Pz1Zt5pBA4X7fWpm03yxj0HhrExbvPrScUcvYYTIoyv4TdVOfYJdIovTopg9rC+PuCjTLpcJc00t0k2TOWo+D+u5DtqK7t6ghcaQiOfiA3+DhcgdxxH3t/m+StmWR5xy5AMfaIp6Ml4k0M3u/fYd4fFdf9EUnEVb2V+fYzd4GcQ==;f4jqcifFZJ4gO4Zad/xHfg=="
 ---
