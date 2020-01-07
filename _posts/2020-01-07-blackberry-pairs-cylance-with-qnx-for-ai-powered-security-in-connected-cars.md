@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/07/blackberry-pairs-cylance-with-qnx-for
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/blackberry-pairs-cylance-with-qnx-for-ai-powered-security-in-connected-cars/amp/
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F461DFA17F9ECCC0418523BE1E718038
         width: 452
         height: 298
+  - title: "BlackBerry and Amazon are teaming up at CES to make cars smarter, more secure"
+    excerpt: "\"By working with AWS, we can provide automakers with a unique foundational software platform ... to provide drivers with leading cybersecurity resources and predictive maintenance information via the latest artificial intelligence applications.\""
+    publishedDateTime: 2020-01-07T19:22:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/blackberry-and-amazon-are-teaming-up-at-ces-to-make-cars-smarter-more-secure/ar-BBYFTu4
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.D85CEFD3C3E7A09DF788010540FD3E18
+        width: 700
+        height: 367
 
 secured: "SJ6VTt8ybXoaj3bXqosu9LP+rJMIsJr+hbzazWVwUqQhWZsXJHsKn3aN9Xs/3w07N042iR/H+mxqXrtt54Xnye7NRYiJQr8FyIM5F1IPCiSsb56AtgGGlYr0TtHY9h3qsVkeqt6vYHVeQoh/+yss4vU5eE43AT49x07aoJJaSN5Qp3KEvCsjsXq8OaZTESRZEryXT6asFbUJh5Ws1/2hihk52MG4rVMFv96mwWNlbv16UQYORVsn2ql9kRnX0Gs6KJBa/kR65VVSbogptnt8Yg==;EG92w07PSZpoqCXQjTjpQw=="
 ---

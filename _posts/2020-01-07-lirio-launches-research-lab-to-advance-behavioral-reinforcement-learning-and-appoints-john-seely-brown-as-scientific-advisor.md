@@ -18,19 +18,32 @@ topics:
   - Machine Learning
 
 related:
-  - title: "New Beaumont research puts scientists one step closer to newborn screening for autism"
-    excerpt: "The preliminary, collaborative study used Artificial Intelligence, a computer-based technology which scans a map of the ... “We are always looking for new ways to make a difference in the lives of our patients,” Warner said. “Getting them into therapy early on is a proven way to make their path, and that of their families, easier and ..."
-    publishedDateTime: 2020-01-02T20:14:00Z
-    sourceUrl: https://www.themorningsun.com/news/new-beaumont-research-puts-scientists-one-step-closer-to-newborn/article_0b918e2a-f2e0-5a36-aa41-a4c9bddaaad5.html
+  - title: "MIT School of Engineering and Takeda join to advance research"
+    excerpt: "A key part of J-Clinic, the MIT-Takeda Program will create educational opportunities and support cutting-edge research to positively impact human health. MIT’s School of Engineering and Takeda Pharmaceuticals Company Limited today announced the MIT-Takeda Program to fuel the development and application of artificial intelligence (AI ..."
+    publishedDateTime: 2020-01-06T12:33:00Z
+    sourceUrl: https://www.miragenews.com/mit-school-of-engineering-and-takeda-join-to-advance-research/
     type: article
     provider:
-      name: The Morning Sun
-      domain: themorningsun.com
-    quality: 17
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 122
     images:
-      - url: https://bloximages.chicago2.vip.townnews.com/themorningsun.com/content/tncms/custom/image/eff0330c-38fe-11e8-ab21-032ded45a81e.jpg?resize=600%2C600
-        width: 600
-        height: 600
+      - url: https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/MIT-Takeda%20Program%20Signing.jpg?itok=mxDh9L__
+        width: 639
+        height: 426
+  - title: "Bringing artificial intelligence and MIT to middle school classrooms"
+    excerpt: "The curriculum ran in three schools across six classrooms. The AI curriculum incorporates the work of Blakeley Hoffman Payne, a graduate research assistant in the Personal Robots Group, whose research focuses on the ethics of artificial intelligence and how to teach children to design, use, and think about AI. Students participated in ..."
+    publishedDateTime: 2019-12-30T15:56:00Z
+    sourceUrl: https://www.miragenews.com/bringing-artificial-intelligence-and-mit-to-middle-school-classrooms/
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.A9B50E791E2BEF569E3E1972F12433F9
+        width: 639
+        height: 426
 
 secured: "gXHm1mXUS48KlBk/eWSpy4o/fhcK/1USvHlbWbaBwcjEuRH5njdkGNSlwQr/JeBZsT5VBzN8GDx6EQZ1erT6ZpRHMdu6H7hf9+UkRQbN+U5cu4nGXRcWxQA5qEQpmNUn6Fdwnw6LCldfxNnYyD8Qhc9zqqQGZsj23Njahg1X9boktAucXx9pFr149woHHK9AQbBlcXcAlZQZTqIxTWIgMNK14OWCa9tIMl3ERA3qE7ov1nC9yEQsY6KCJjQZlUKPs4EvEv6fh5QiwPib83EwPg==;S+mWvwXSpXj3jH+5XAg6JA=="
 ---

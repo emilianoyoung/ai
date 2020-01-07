@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
         width: 700
         height: 364
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
+        width: 700
+        height: 269
   - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
     excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
     publishedDateTime: 2020-01-03T14:34:00Z

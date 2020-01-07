@@ -101,6 +101,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "UqdbrEpU2NKO0pJrEWoY9p1T+1pqnn36MLfTqhqAj6wds/lJQQo7I3FnAH5ltLuHC/apgT1hFgL7U+JP3fr4uEOfgKVfrzRzPbIWSQep2qL4pQsvUHrAPe1T1Qak+7G1IZwJLtKnZE4U+4/A+mZIA2s8bUB2h7/W5FjTimbIwmNZmxhaehnKDRLBRtTTFAZp5/uYHGVvRCnyUxcOx6AyRcdD0Yml+ussLZThj+Sa7LiCVysNZoStxUKpyTscFzKDOMDK5+FrgmqHlBMTc6QXuQ==;b2JoJiACW7kFMK5QzAiKZA=="
+secured: "Q7RwherUK6qMELHTYdjrjFDOsE46SDD05PkCOTDOxF+FtGRhcutP8xlzTFaZiopd/TUyx+lmWmMx3zxC8BeHXe292cKMg3GIw3vL75F/DcRM+ScAaSLL77oziEAJ+R2Cs5a2ifKOcBVv2b4SRakQsyiFfeX16v4UEgqN/IDF/3oxpGSHryf2GKFpEilbpLNSmIRSpM9TQQP6jyWTIMnEp9jXZCYT3w8AAW5ef3T7r17xiXlq3b0uqzXFLPG6jcQZHFDVzb4uB+tihL9yEpREkw==;fExgL1ThVxBbRWZ5wXY5Aw=="
 ---
 

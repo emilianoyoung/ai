@@ -8,7 +8,7 @@ ampUrl: https://www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut
 cdnAmpUrl: https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372695/samsung-prepares-neon-ai-for-ces-debut?amp=1
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Samsung Prepares Neon AI For CES Debut"
 
 related:
-  - title: "Samsung and Baidu to start production of an AI chip next year"
-    excerpt: "It is a leading Chinese-language Internet search provider with massive cloud and server infrastructures and services. Baidu KUNLUN is the name of the company's new AI chip, built on its advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI. Thanks to Samsung's 14nm process as well as I-Cube (Interposer-Cube ..."
-    publishedDateTime: 2019-12-18T19:36:00Z
-    sourceUrl: https://www.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-news-40640.php
-    ampUrl: https://m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
-    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 74
-    images:
-      - url: https://fdn.gsmarena.com/imgroot/news/19/12/samsung-baidu-kutlin-server-ai-chip/-1220x526/gsmarena_001.jpg
-        width: 1220
-        height: 526
   - title: "Samsung teases a new HER-like AI assistant called NEON"
     excerpt: "Samsung is however looking to have another go, and has been teasing a new AI product called NEON with tweets and Instagram posts. While the teasers and NEON.Life website do not give much away, the project comes from Samsung STAR Labs, who’s remit is ..."
     publishedDateTime: 2019-12-24T20:30:00Z

@@ -23,17 +23,6 @@ images:
     height: 600
     title: "New Beaumont research puts scientists one step closer to newborn screening for autism"
 
-related:
-  - title: "Lirio Launches Research Lab to Advance Behavioral Reinforcement Learning and Appoints John Seely Brown as Scientific Advisor"
-    excerpt: "\"Lirio is actively creting some of the most interesting datasets on which to learn and improve machine learning techniques, and to take advantage of behavior change expertise. I am very excited to have some of the brightest minds in the world join us ..."
-    publishedDateTime: 2020-01-07T13:53:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-lirio-launches-research-lab-advance-behavioral-reinforcement-learning-/2020/01/07/9077370.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "c3SWf0jVzCuKbTB/TEpyiE1Y0ym6PJpI57042vrWOaXvHbq6r3YfrAmz38VKuE9NljBgVNd+zDfIDoAed8jMbsnJpcrIaHXFwS3cBJfQGeundeyfSL/2dXT8KDzw//lK4SU6zmxIYRUvTchZi4ir1F842GC5nC6d6iZycE3y85GTW77Vzl+5r3AMNto1Vm5oM71X1XLwaKkpydNXUzk5LoOMgxsIpoZ6LdNIYTV37kTQR6RXkNLPYHSL32hWNvgxWoMHMSin4dNbrsQ0CyTEVw==;Zop4TQd7f6BwD3R9HOPJ9A=="
 ---
 

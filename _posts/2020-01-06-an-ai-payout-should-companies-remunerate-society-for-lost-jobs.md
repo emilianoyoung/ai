@@ -7,8 +7,8 @@ sourceUrl: https://www.zdnet.com/article/an-ai-payout-should-companies-remunerat
 ampUrl: https://www.zdnet.com/google-amp/article/an-ai-payout-should-companies-remunerate-society-for-lost-jobs/
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-payout-should-companies-remunerate-society-for-lost-jobs/
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 525
     title: "An AI payout? Should companies remunerate society for lost jobs?"
 
-secured: "ZnvlTfgtwZeLQsOC95SY5GyZMP103jqZEajcjTWcb0YkqTG0OTvRJPDC6Rbzgv5vvlXyc03sIb8CLNmABAt5cTVsosRswADQQk/EC7yzYLgQZ6+Ftltd+1EVMkXNDynRFg7EO+pnALP5yPswd8HnOkDtKKQhR97ptgfOpz0q4t6ATw3m9lDiFUCcsRoPjvjr0x/CMhh4IK87AyeSp2AJOx5BUgncNyDcxLv18f4YfC1BWxPJUHYdmfY7Kl9BEQvrL7vGRsrE5ZQ6UTWc85j+MQ==;ib6xkwTKpkeBKMPjumiMCg=="
+secured: "vZgkcVLVRwSWHF/VEJ/uxEyaZK4YO5IWFryBX0pN+O71daWQ0DquO8blJn5QysCQ64xyCi7cQ+hPnZY3Tb76faUzCKCoMhjpBFVf0S/TtxavGBnm9kcAZICak4htgHddYYxX084QUWhDYW2gP9tMtIPqqFg6Kz/mggojqdnghR6OWAIvA2U0qaqP0fiL3ekvkdLs1htVShLSK2GQk1HbUI2lIz89aISiQ0xUt0rvG+l+eTz9ZrJthGg18v3lbjZV4gUKEmQrERpfmqfnhLfKxC5BWqNWrQImFmUOm1yRLaA=;OU1JrbwWH/vbRWnvAAnzPw=="
 ---
 

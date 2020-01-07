@@ -8,7 +8,7 @@ ampUrl: https://www.androidpolice.com/2020/01/07/mediatek-hopes-its-new-chip-wil
 cdnAmpUrl: https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2020/01/07/mediatek-hopes-its-new-chip-will-bring-5g-to-the-masses/?amp
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "MediaTek hopes its new chip will bring 5G to the masses"
 
 related:
-  - title: "The US just released ten principles that it hopes will make AI safer"
-    excerpt: "The White House has released ten principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI research and advancement. It is also ..."
-    publishedDateTime: 2020-01-07T15:51:00Z
-    sourceUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/
-    ampUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.ABBCC1F1D08102D8F757250C4EE3A51C
-        width: 700
-        height: 393
   - title: "The Region’s Health Leaders on What’s New — and What the Next Decade Will Bring"
     excerpt: "Artificial intelligence (AI) is becoming more accurate for screening ... procedures with shorter recovery time will be developed for other heart-valve conditions in patients who otherwise could not receive therapy. During the last 10 years, neuroscientists have been researching the causes of Alzheimer’s disease. There has been much discussion ..."
     publishedDateTime: 2020-01-07T09:54:00Z

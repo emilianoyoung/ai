@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3970932474E73F47BBED2CF363BF7EA0
         width: 668
         height: 445
-  - title: "The US just released ten principles that it hopes will make AI safer"
-    excerpt: "The White House has released ten principles for government agencies to adhere to when proposing new AI regulations for the private sector. The move is the latest development of the American AI Initiative, launched via executive order by President Trump early last year to create a national strategy for AI research and advancement. It is also ..."
-    publishedDateTime: 2020-01-07T15:51:00Z
-    sourceUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/
-    ampUrl: https://www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
-    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615015/ai-regulatory-principles-us-white-house-american-ai-initiatve/amp/
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.ABBCC1F1D08102D8F757250C4EE3A51C
-        width: 700
-        height: 393
 
 secured: "meyIzPiJT0wMliMDC15g4IMsvSp0Q32QLLu+Pj0K0U5IaWHrS6hEEWK6wTsn0InBMCnrGF5gBL9I1zWIbc1qAlL1Q+d4VceJyCxB3DvOXGf+RzBqeJX5YWyi8MVvFaQXJukYmXCW+flWOaMsJ9OgdcVMGvnbJQCbx7myMP5ElzxG2eV4QGs7y2S/eACZeNVAyXTBPOAKw7T4vOXCkc/paSpbcjrh/p0PFMDz6uHuiQh1kDKSgHBUy4IshY17QtT1bqtA9ghsvS0nkl85puoWRg==;+fUSu7Tx88F90SU8rI083A=="
 ---

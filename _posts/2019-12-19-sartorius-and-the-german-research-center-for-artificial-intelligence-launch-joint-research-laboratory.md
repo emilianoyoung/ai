@@ -22,17 +22,6 @@ images:
     height: 206
     title: "Sartorius and the German Research Center for Artificial Intelligence launch joint research laboratory"
 
-related:
-  - title: "Verint Intelligent Virtual Assistant Solution Receives Highest Ratings from Opus Research for Third Consecutive Year"
-    excerpt: "The report is the most comprehensive assessment of today’s leading providers in natural language processing, machine learning, Artificial Intelligence (AI), and analytics that power automated virtual agents and digital self-service solutions. Verint’s Intelligent Virtual Assistant™ solutions, part of its self-service cloud, surpassed ..."
-    publishedDateTime: 2019-12-18T19:10:00Z
-    sourceUrl: https://www.newswiretoday.com/news/172013/
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
-
 secured: "ZHmIIrCdlg9bu30TGNDNCNHRgQty1rbmcA2tP8e8wdDSLFpTjVQJ3MAHiBByxAe9/LFaHfydcGUHA+JhXJy/YdNFFtbzlR/emS/tK1djygPxY8fh3qGl49+5XwOy++rl0AjeI9+ZpEjFYrr+WofHP6RO2UQKO71txBvYSRu2M577CnLWC9nV52E7ywhRGVeklD/4FAxvNY+vK5BM3GCeQ5JNW/7ow94T79HB2aXCeAI7O4MHvDd/CqrdQHKW86sD1dhPlmEnEI0iGrg6AbaWtg==;iTHqNdWnOjVnnryGapryJg=="
 ---
 

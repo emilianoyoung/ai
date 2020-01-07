@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face
 ampUrl: https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/
 type: article
-quality: 89
-heat: 99
+quality: 189
+heat: 209
 published: true
 
 provider:
@@ -45,7 +45,22 @@ related:
       - url: https://www.bing.com/th?id=ON.D7C2C493A83F67F2DC016360C53696AD
         width: 700
         height: 350
+  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
+    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
+    publishedDateTime: 2020-01-03T14:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
+    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
+        width: 700
+        height: 350
 
-secured: "fkA1LZpTAWiD7nu1yyK7rUUBTYdNpYWfTDOWFZqpcKCjVcF66mal56M7+vMqelJwJnW8gT5QBeRSco0Y6lyJ55hPSBEpxFwa8OTB3h2Hwnp/N3VRbCWCI+JtQtD4zbr3ni1tc3BJnuqxmQGJDCDHvFYjy9eeMALGuPNYPFQOvIrg3JMuoHWxA85n2ROCnZNGftbx+fNQfteLVvFMq6hvgr3D7JoNqHEV+xRPZEcLL1l8NxYhDmzR+AHpVJE1CehfP10SEJHxcwA61KUZ78Zj3A==;YiH3yJvXthxrOi88wB4vgA=="
+secured: "oz6wvpddrQzBRTLnQUsoQYipPSvAgS99A4rJh0JqLvSvMl+XjHtBg352fDBl0aWgHLKnJbiELNMG6nBJ0Mm6mSEd0kXf2YPFHySV0f/U4Ekn6BIL9xIvX8qAYjN9Fw1vysefh2ND8/643yj5Zyy9cXbedZiYmsGj7f3oRUYC5WFpdtFh2QvQNPHW+HAtwTppIJiO+d6H+b/zpXWwItF2UtqoB3UY6QaP2jikGuK6klIyJYNfVYIsyebW88cFBq4oFdYZ5t1QZeFqazig/caC6wzcYgn6ClhN6u32nY1bC14=;37xblWkuy5XSMVgHbBqSCg=="
 ---
 

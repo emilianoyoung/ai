@@ -39,21 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
         height: 393
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
-    publishedDateTime: 2020-01-06T16:19:00Z
-    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
-    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
-    type: article
-    provider:
-      name: InvestorPlace
-      domain: investorplace.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
-        width: 700
-        height: 393
   - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
     excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
     publishedDateTime: 2019-12-30T09:07:00Z
@@ -67,6 +52,19 @@ related:
     quality: 55
     images:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
+        width: 700
+        height: 393
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
+    publishedDateTime: 2020-01-06T16:19:26Z
+    sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+    type: article
+    provider:
+      name: InvestorPlace on MSN.com
+      domain: msn.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
   - title: "The Best Tech of the Decade (Page 13)"

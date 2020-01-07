@@ -63,6 +63,15 @@ related:
       - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
         width: 580
         height: 305
+  - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
+    excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: Neuromorphic Chip Producers Key Topics Covered Chapter 1 Neuromorphic Chips: Boosting AI at the Edge Chapter 2 References List of Tables Table 1: Global AI Hardware Market ..."
+    publishedDateTime: 2020-01-07T18:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-neuromorphic-chips-market-outlook-to-2024-featuring-brainchip-holdings-intel-corp-ibm-corp-and-samsung-advanced-institute-of-technology-1028800859
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "o28LNcEaPe/1U6QF/79eBiikoaXPEjxHn2+PGkwQxbeFMHrYpkVQQuH6lJwwnmR66GIyTSCz2GZEVh2A/XFxCTpFDR+jlfUHlpJ5Hk2BpIfQOPGF/Jfj3dOaDrUI+NWVdyKu1FA4vMv4YA/Qh/pxmStzBU+p0mZV3+2AxVIHP6pjiJwnzI3UeNjvsgI14gQF1ml2ga0T5Ymvuu2sB1eI8/gBsomcfOggrR47fVpyTEDpYDoHgSDu1dooAGlvDPBanqP5B4w0QVmAzrxZ8/XgBA==;CAn9lG+uxu/LAquai4UTXg=="
 ---

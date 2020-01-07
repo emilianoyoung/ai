@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "+a0Dpf4gFzAxVrlhN38GmK5udNjrvAUUAwU9TEmWsrQLuErP3j+pcZ69BkFEbUYW7zPGnPUzJUlMF3M/mdXSwFiG3wvcPYD3weKHvLqH3QO1XbpJyMPJT06NLDVlgVkkfDY+x+iyvD0eOVSfiQn898vhiEETVoSVLXcP8nC6vjWDeTBsrolzHAeoVH3cvu2sX+epkeDSrYQsgZJL/uA/TJ/vDnonaEyhayf+s35fFNZUzuupt4lNgeSuP76ARKDeSDPLyQrZ6sG52Pbe34R6Ww==;kBgustoVzDkNwoYAxr3Jcg=="
+secured: "OOb9tkpF6FJucw8pzGXAbdjlM5pA4W9oQbvRldiujIc6Npc/27/sMqCdnb1Wu/nKpf9yi5kwtlVgLvq/8y8L3FCTcAgoQLt+pOxQ4A/eW35m2LYgUKxBlwiPV7iateyGw5I7fVqN5sm4LrKzp7TezYCIogKll/oUiZMjTj7iRyuZDgGBmtPCuI+mUvWbzebJ8o0OZSiPM6BhJTrWDK8QN1lNy+6WSIjKh+GI/hVnPQfO/4lGt7SUTHVNlmu2OSwr2ipSm8DA5Tvyhz9wvGxFrQ==;kWhvZTbpGbxnSVA/Rhs/IQ=="
 ---
 

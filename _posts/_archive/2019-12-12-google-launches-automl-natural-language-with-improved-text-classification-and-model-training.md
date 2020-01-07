@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-lan
 ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
-quality: 95
-heat: 105
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -22,7 +22,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Natural Language Processing
 
 images:
   - url: https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&amp;strip=all
@@ -47,6 +46,6 @@ related:
         width: 345
         height: 400
 
-secured: "/R20+8ZolQZguJSKsmcp2Nhsw+xGI6glkg1HXuQqEGM1iuONF1916SepN9rGIaUGZbv3eMYRDU/0antykhgHsCI2RkbhOy8D6cV+8P29OeRP011t9kGov9C4ll/CcLnT/yzf8Rsv1RNaZDFi1jHrUsXWNf45CtR5PDix0/HpvjX5n9YNUUglt028ObOjCRA/O0oPvbjUnHY1EUCuVSzfKA4BHyX8oC38sqM/MWKTHEuuZuzaDWeRYHjvC2Ucp9LbgVtDYp0DPQiISSC22/pcsw==;BOlwkAAeEdgdUILGv3sDyg=="
+secured: "lWu/gWlr0F647BRA18x4WlJDsc5KzY2MUwOd6fAyTNLAdXWrQsgtD1WGo7aX8VKXbMUq52wcR6KXYO1yYbZt6vkMaqsfuHGUXvb+16w3Qz7wMMSwabygmjBXnrGHWzW/z/xc13Dft0O7KEWrX0IiAzoqJS1scbQZFfrKbpGvRtJyh1cxl/RUs65c/TZ+KHUYb/J3InZh0E2WWFEnUj/qBkORa8gBxqMtUZfud0l1/caKy5pECZv6Yk6PD8BRAa18O842FQXV0J46ZPMwVCTJWQ==;EKrAW3+0HoLYI+s3NV+XJA=="
 ---
 

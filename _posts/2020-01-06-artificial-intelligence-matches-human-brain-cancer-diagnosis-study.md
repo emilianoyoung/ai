@@ -8,8 +8,8 @@ ampUrl: https://www.gmanetwork.com/news/scitech/technology/721252/artificial-int
 cdnAmpUrl: https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/721252/artificial-intelligence-matches-human-brain-cancer-diagnosis-study/story/?amp
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: GMA Network
@@ -25,6 +25,34 @@ images:
     title: "Artificial Intelligence matches human brain cancer diagnosis: study"
 
 related:
+  - title: "AI Can Now Diagnose Tumor In Just 2 Minutes"
+    excerpt: "The complex, difficult and time-consuming task of diagnosing brain tumors from tissue samples extracted during surgery stands to become a relic of the past with the advent of a new technology based on artificial intelligence (AI) that can do this job in about two minutes with an ... intraoperative brain tumor diagnosis.\" Even more useful ..."
+    publishedDateTime: 2020-01-07T09:38:12Z
+    sourceUrl: https://www.msn.com/en-us/health/medical/ai-can-now-diagnose-tumor-in-just-2-minutes/ar-BBYH477
+    type: article
+    provider:
+      name: Medical Daily on MSN.com
+      domain: msn.com
+    quality: 137
+    images:
+      - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
+        width: 640
+        height: 463
+  - title: "Study Finds AI Tech Improves Diagnosis of Brain Tumors"
+    excerpt: "Hollon, the lead author, trained a convolutional neural network – a technology abbreviated as CNN that is better known for ... “This is the first prospective trial evaluating the use of artificial intelligence in the operating room,” Hollon said in a statement issued by the university. “We have executed clinical translation of an ..."
+    publishedDateTime: 2020-01-06T22:38:00Z
+    sourceUrl: https://www.courthousenews.com/study-finds-ai-tech-improves-diagnosis-of-brain-tumors/
+    ampUrl: https://www.courthousenews.com/study-finds-ai-tech-improves-diagnosis-of-brain-tumors/amp/
+    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-finds-ai-tech-improves-diagnosis-of-brain-tumors/amp/
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.D22A66C18A3470C4C6C10649907D822D
+        width: 700
+        height: 488
   - title: "Study suggests AI can help diagnose brain tumors"
     excerpt: "What they did: The research team developed an AI model trained on more than 2.5 million images. They combined the algorithm with a laser-based optical imaging technique called stimulated Raman histology (SRH). They tested this combination on 278 brain tumor patients at three hospitals for the 10 most common types of brain cancer. What they ..."
     publishedDateTime: 2020-01-07T10:37:00Z
@@ -53,21 +81,6 @@ related:
       - url: https://www.bing.com/th?id=ON.47726BB1482AC34D48971D8BE4372758
         width: 700
         height: 525
-  - title: "Using a machine learning algorithm with cancer methylation signatures to diagnose colorectal cancer"
-    excerpt: "A team of researchers affiliated with a large number of institutions in China has used a machine-learning algorithm with cancer methylation signatures to diagnose colorectal cancer. In their paper published in the journal Science Translational Medicine, the group describes their new approach to diagnosis and prognostication of colorectal cancer ..."
-    publishedDateTime: 2020-01-03T14:43:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.html
-    ampUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.602086B245707C0266331BDF54270E11
-        width: 700
-        height: 527
   - title: "AI matches human brain cancer diagnosis: study"
     excerpt: "An AI computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. They found that the computer was able to diagnose common cancers in under three minutes -- more than 10 times faster than a human expert."
     publishedDateTime: 2020-01-06T16:00:44Z

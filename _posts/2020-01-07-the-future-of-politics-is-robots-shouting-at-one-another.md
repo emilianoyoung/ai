@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
         width: 592
         height: 445
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
+        width: 700
+        height: 269
   - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
     excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
     publishedDateTime: 2020-01-03T14:34:00Z
@@ -59,6 +74,6 @@ related:
         width: 700
         height: 365
 
-secured: "tJKpChKUr33zCls9BHviTTs42CXgb5ma8lKC26VRvzdowJXF8Cwqqye/xHSJcBRQufRwaodlnLD+wMpgFkSgRomMvlY+wWcB0XdrNAvg9HOkCT9v1XV+jGejHkvxcUtliQ6oXpRjWo9YFNAZA8ocICMGmTNmlaOmHceUuYkScqNCLWyNEX8/qoFM/t6fsbBqfblnS4l/KQI2XdYW2YaNfpQnsoy/G8gh4GZzENIPkMbDKWbKfhn9+YnyHY6HvwLDgPF+pK4ZbgsOoRpAsNeV8A==;yMcxy4/jbqELzr4oBV2PZw=="
+secured: "K85/9VuYRUmqTkurkjMh2Q9PBK/iroiSsiPC+vCXBtt6ad3XvF8lJ/j7BLFl3drN4yjkAPNmyhF7Za8AsjayjAGrgX1mT2VliIwDDq3sxBObAEgCZ1KSQ5ufsF6T93lhvizRuicEOneospwl+Rb3I60IiGfkyXyBJFOr7+wTZWAqiMbEAFOYCh5N/xUYx97zInoDxPcQb3T4BM5tWlfxdta38520x8TIINQuuDEexs3nyMLEjjQnn6CJ3mjje6vXSEg96S8OFM7tWtpduWRFIQ==;4ztw90N3vKz1j9VEamec8g=="
 ---
 

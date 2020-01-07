@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F461DFA17F9ECCC0418523BE1E718038
         width: 452
         height: 298
+  - title: "BlackBerry and Amazon are teaming up at CES to make cars smarter, more secure"
+    excerpt: "\"By working with AWS, we can provide automakers with a unique foundational software platform ... to provide drivers with leading cybersecurity resources and predictive maintenance information via the latest artificial intelligence applications.\""
+    publishedDateTime: 2020-01-07T19:22:00Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/blackberry-and-amazon-are-teaming-up-at-ces-to-make-cars-smarter-more-secure/ar-BBYFTu4
+    type: article
+    provider:
+      name: CNET on MSN.com
+      domain: msn.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.D85CEFD3C3E7A09DF788010540FD3E18
+        width: 700
+        height: 367
 
 secured: "7Q6ADINqgXePAvmSiqIxhl3BqVKFNhk6jG6jfJ4IvwUdjUoIniQQajSJFtpZQq7u11SVEKPgT0AeHvYjl40dgGUyuVm2kk71rWBTsJpviEEmumCPbVBRLo/ZlnLX7K5uOq4Bf9sOxX9ahGNFHAPsLb80c7Sx8SbIfKL2rvqcjWiE1NZYlp3in5SA/k3IsZcdhq0YbSwOWihNBd7rzXoPwtW3Io4oIqxyvG+lekXrPP3/wsMGyKhbig+aYkTUeDDfZdzzRUa/fhTpjkBtAv75Jg==;NLNQjkxM+6HZMU6IgrBbJw=="
 ---

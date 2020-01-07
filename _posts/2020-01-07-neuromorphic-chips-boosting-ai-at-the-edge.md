@@ -46,6 +46,15 @@ related:
       - url: https://www.bing.com/th?id=ON.1E273EC3F0524D0685B400E0010B1859
         width: 580
         height: 305
+  - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
+    excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: Neuromorphic Chip Producers Key Topics Covered Chapter 1 Neuromorphic Chips: Boosting AI at the Edge Chapter 2 References List of Tables Table 1: Global AI Hardware Market ..."
+    publishedDateTime: 2020-01-07T18:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-neuromorphic-chips-market-outlook-to-2024-featuring-brainchip-holdings-intel-corp-ibm-corp-and-samsung-advanced-institute-of-technology-1028800859
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
   - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
     excerpt: "The range of applications made possible with the cost-effective i.MX 8M Plus spans people and object recognition for public safety, industrial machine vision, robotics, hand gesture, and emotion detection with natural language processing for seamless human-to-device interaction with ultra-fast response time and high accuracy. NXP USA ..."
     publishedDateTime: 2020-01-06T17:03:00Z

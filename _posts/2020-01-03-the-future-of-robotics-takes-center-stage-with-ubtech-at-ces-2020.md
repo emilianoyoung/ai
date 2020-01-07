@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
         width: 592
         height: 445
+  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
+    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
+    publishedDateTime: 2020-01-07T20:44:00Z
+    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
+    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
+        width: 700
+        height: 269
 
 secured: "CrJUOx5CBDeaLHUuRmjHdJDeX8Hih27VJOF8+zghZSwb50LhNm3Y4hH3+NfjPMOspcUoIr2U281XxcVr20eMoo2TNc0pWVUZdNOMXJu7/YkA+GNNR1nwTIX34XG6eYPz/4nwaNa0zPl0qSvYrlqlKaPKVJOB22XWr7Q6Bj+iZBaNYDPSxoworsZ3D8jM0q3YeTLoVf1yqnyTMJylWKTLDho/9O/AebomOUUMrh/Ln4MFaP8RgeMSiMkzrak3nCjBbReJ60crQOcY6O8GGRNsDQ==;5SjApRc3SRqu+MAjrv0NwQ=="
 ---

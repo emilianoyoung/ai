@@ -40,21 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F26AEB03F21064A332F7FFF3D69E6437
         width: 700
         height: 393
-  - title: "Samsung and Baidu to start production of an AI chip next year"
-    excerpt: "It is a leading Chinese-language Internet search provider with massive cloud and server infrastructures and services. Baidu KUNLUN is the name of the company's new AI chip, built on its advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI. Thanks to Samsung's 14nm process as well as I-Cube (Interposer-Cube ..."
-    publishedDateTime: 2019-12-18T19:36:00Z
-    sourceUrl: https://www.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-news-40640.php
-    ampUrl: https://m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
-    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_and_baidu_are_starting_production_of_a_cuttingedge_ai_chip_next_year-amp-40640.php
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 74
-    images:
-      - url: https://fdn.gsmarena.com/imgroot/news/19/12/samsung-baidu-kutlin-server-ai-chip/-1220x526/gsmarena_001.jpg
-        width: 1220
-        height: 526
   - title: "Samsung Teases ‘Neon’ AI Tech: Set To Unveil At CES 2020"
     excerpt: "However, Bixby is more popular in its home base with the South Korean language. In comparison, the Samsung Neon seems like a new offering with AI to further enhance its presence in the consumer base across the globe. Samsung has also announced that it would unveil the Neon product at CES 2020 in Las Vegas. The company has begun popularizing ..."
     publishedDateTime: 2019-12-26T05:59:00Z

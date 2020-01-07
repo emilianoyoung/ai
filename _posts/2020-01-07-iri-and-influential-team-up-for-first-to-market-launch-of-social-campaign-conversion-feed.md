@@ -1,32 +1,28 @@
 ---
 category: news
 title: "IRI and Influential Team Up for First-to-Market Launch of Social Campaign Conversion Feed"
-excerpt: "IRI [®] , a global leader in innovative solutions and services for consumer, CPG, retail and media companies, and Influential, the leading AI influencer technology Social Intelligence™ firm and IBM Watson Developer Partner, today announced an upfront to launch a first-to-market product for influencer marketing, utilizing IRI Campaign ..."
+excerpt: "CHICAGO & LOS ANGELES--(BUSINESS WIRE)--IRI ®, a global leader in innovative solutions and services for consumer, CPG, retail and media companies, and Influential, the leading AI influencer technology Social Intelligence™ firm and IBM Watson Developer Partner, today announced an upfront to launch a first-to-market product for influencer ..."
 publishedDateTime: 2020-01-07T15:21:00Z
-sourceUrl: https://www.marketwatch.com/press-release/iri-and-influential-team-up-for-first-to-market-launch-of-social-campaign-conversion-feed-2020-01-07
+sourceUrl: https://www.businesswire.com/news/home/20200107005846/en/IRI-Influential-Team-First-to-Market-Launch-Social-Campaign
 type: article
-quality: 60
-heat: 60
-published: true
+quality: 30
+heat: 30
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-    width: 1200
-    height: 630
+  - url: https://www.bing.com/th?id=ON.8F5106597C530DEF5448689E87E55616
+    width: 700
+    height: 365
     title: "IRI and Influential Team Up for First-to-Market Launch of Social Campaign Conversion Feed"
 
-secured: "ux27y6TCFD7/yqky8S16+4tb0K37QEVTTRadj20Ps4MCci4pQ0NCFKajIrSKZS7YIJReMoKEjsuL6FFwce8a9AcmheEQ8iCr9ClQVtsHbuDREOqVNOBM/sYOx2sCsn6Vd052ZIwVpoJq7dQHZGitHO7PRPjqLLPkCybbA4owbV6gacJvITeJjGg/MzbOqlaClD/O8CKZ822tERoVco3kdQkKLAPjn6ip/ueO/15KEB7Lj0V2RPTvwdk+72jXL/DRttryT9mdipjhzUM0RP6Fxg==;lfG5ZOkMJragGe55PWabEw=="
+secured: "e+0WFrTlxQV97utEWrWQ0fEs8Cao7Ptta8ps7XxCSRzuCfdQY+ZfALQqM3tF79UNRpDuz95aHq0p8qVu67u9PNHdyVt6nl1aCsSnpzeJ0Tn343zIHQgQnuxPS8Vp16Lp9C9bc95k5G54Rh0p/ploru4G/gZYnr8zImywvhE5qxQY4c4OTqEWV7n9P1+IfX5FoEAvTXFNRervWrfuySix/uMFCiJFrWUGkWxj6EQzidGSytzND+H5FyYXjA2OVLPndrUIqX2t2q0O0Hco+wOkcQ==;d9xqb4Yg83oK/mS0BSRmXw=="
 ---
 

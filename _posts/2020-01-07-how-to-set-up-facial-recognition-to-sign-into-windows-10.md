@@ -60,21 +60,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4F1E7EE69C8A5371F42D81B655D83C7
         width: 600
         height: 315
-  - title: "Amazon researchers propose new AI techniques for calculating inflation and improving randomized trials"
-    excerpt: "Amazon says it’s applying AI and machine learning to calculate inflation rates — and to examine the design of randomized trials and experiments. In a pair of academic papers being presented at the 2020 meeting of the American Economic Association in San Diego, scientists at the company detail their work on models that learn correlations ..."
-    publishedDateTime: 2020-01-03T14:00:00Z
-    sourceUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/
-    ampUrl: https://venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/amazon-researchers-propose-new-ai-techniques-for-calculating-inflation-and-improving-randomized-trials/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 71
-    images:
-      - url: https://www.bing.com/th?id=ON.863301A7E8A0CE8517B39815CBB6CBE7
-        width: 700
-        height: 350
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
