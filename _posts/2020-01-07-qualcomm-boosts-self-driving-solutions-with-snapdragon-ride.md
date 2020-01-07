@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
         width: 600
         height: 315
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Eventually, the company believes its new Snapdragon Ride platform can serve as a foundation for full-fledged self-driving cars. Qualcomm announced Snapdragon Ride Monday at CES, the massive consumer electronics show in Las Vegas. Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo ..."
+    publishedDateTime: 2020-01-07T02:46:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
+        width: 700
+        height: 367
   - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
     excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
     publishedDateTime: 2020-01-07T06:11:00Z
@@ -82,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
         width: 580
         height: 358
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
-    publishedDateTime: 2020-01-07T04:02:33Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
-    type: article
-    provider:
-      name: San Diego Union-Tribune on MSN.com
-      domain: msn.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
-        width: 700
-        height: 367
 
 secured: "y54h27jT7rSE0NU5KwZpsWypzhoL/RLZejqLsDdoUZVAty5lMxdpma02QfPwIeyqD0Rhgj5CZ+V7XA+MiHsyHtOiWvqTEc0ZHnWthw8kDZ70mz4SghaYPr15jvhn9EDRETpH2koKSwGq+vCm/Wt0++KEw1H/ltFtxwAauRHbZz3LOIVvJPK3uFPStUddl59d1A/g1vVMY1bNb7gkCwkqmFPycNCJmXoYTOL/97JZKTWA+4PbdINkzczbsohMOwXSqHNflI6rD9uxsgHyq0ADgA==;DLODPGjZgv+VmaINmCbkLA=="
 ---

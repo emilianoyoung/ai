@@ -8,8 +8,8 @@ ampUrl: https://amp.democratandchronicle.com/amp/2619020001
 cdnAmpUrl: https://amp-democratandchronicle-com.cdn.ampproject.org/c/s/amp.democratandchronicle.com/amp/2619020001
 type: article
 quality: 54
-heat: 64
-published: true
+heat: 54
+published: false
 
 provider:
   name: Democrat and Chronicle
@@ -18,23 +18,6 @@ provider:
 topics:
   - AI
   - Computer Vision
-
-related:
-  - title: "Why Congress needs to regulate facial-recognition systems"
-    excerpt: "A MASSIVE government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often than men. The federal National Institute of ..."
-    publishedDateTime: 2019-12-21T19:26:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8E737D47EF3AECF305981AADA3B04373
-        width: 700
-        height: 466
 
 secured: "VW/XOVIjrQdTn/JJvIwCsO4raIiXvhuYfxnuog3g8OKkFHOwGXXavajBKfNTFWshtCcYGF6e/U/RR/vKFCeleeS++RfnGDd+ExxKA4yD8hhAp+xbN9rqFSRQhgQ3cnXMeqD+DqIgyNnYqKlndK8sNT53YELRzdsCKbUOV1G8hBknlLTmabFZeucxL55QYSoK6jbAYoxoY2VumlDCw+VGM2Gl/LJPrcbol2ham9mbVj0qauUPdrvgCjEWWWh8u3huaHx77HDZ4nvEutb9zvSGTg==;P2Arfw2EllDxzk+fFpNDhw=="
 ---

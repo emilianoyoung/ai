@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
 publishedDateTime: 2020-01-06T16:19:00Z
 sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
 ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
 cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
 type: article
-quality: 74
+quality: 72
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 images:
   - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
@@ -109,6 +108,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "Ympf0Iv/fePaeN3v81K2wzQhHT6YMG0lPlk/Xm7hM+Ii1z/nIsZ2YuuD3/tfhAbzoM9mAlLZu2RH9L4rZmSQqNfzzFsBWDuZVAhr+qk1GHJYFTFeIh9vwuBBauqpyebZ9a6/8R0ENkZEMDHnNlVrHglBv4Jm0i34VjRRtGUCBBjB+E1xA5R2c1YuqSUuJKlMlTqArltca+GnWZRcKd+gjZwRh8fEDiHsPmpcPk3UcBdNAD/pAnm3ne8Gw7w8aBswaJHk3p/ABKRma/nx7ljphQ==;el5UWlkrzsFE9+SRqi2mLw=="
+secured: "G6MAWgAgQv37Gwr3NlAcJvP5HhUUBoZxMFVkMYlm6uU4dZ5s/gS5sjBG837y0LyedKd5HnMz3C6dSPpL+o9QgXtJ9STb32gQgmuqE2Iui4pYJ2EGorgjCCIVyfztBD9RXiQajYN1Zod1GNsXYbi1E0ET1wFhu6QzClNJr19MJw0XzddgJziZP9uR5IHlhElXFNbHDQOEGcYICp8QAxJr6DjhxhudHPuqCYopd40gTAdu/SYZdPH2HD9sNzMzigFasz09qVem5jqJQBChzTi3ZQ==;o70UG59jr2uLl5bO+U5xMw=="
 ---
 

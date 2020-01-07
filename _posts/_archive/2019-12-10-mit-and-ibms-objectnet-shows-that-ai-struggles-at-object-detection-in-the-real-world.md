@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/10/mit-and-ibms-objectnet-shows-that-ai-struggles-at-object-detection-in-the-real-world/amp/
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 600
     title: "MIT and IBM’s ObjectNet shows that AI struggles at object detection in the real world"
 
-secured: "1fQtwMd9Wqjb/JFqiC3smr7QWk/iekMLHwLzB3qMDQyExHlY9SE+Ry5jF/wIMF1pPokOuVriWdhRv3zz2xVPza51uHZzNCkPSmMqQPu3xhjo9pqlYcp3tUFOeotxP/c/mhewKYhkCYuC64WA9UA6XzxniUCX1R5QYDWeFE0GJj2uTcuDScXOTTwsp0yuW28bl1/8eFW06FXFdDuXkkhN2Llm3g19irn3s10+AZZQwON7aM/gu+7UcTwHA0qQ0HLEK0RW+hbZ7UJ7xLumKSHX2w==;9S/BJsHHMJKzfWMEYn442w=="
+related:
+  - title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
+    excerpt: "After object recognition method used in this project is Faster R-CNN. The process requires to take a huge number of photos (100+) to ensure the high accuracy of object detection. The images below are three of the samples as the training data. Noting that ..."
+    publishedDateTime: 2019-12-12T11:12:00Z
+    sourceUrl: https://medium.com/cse-468-568-robotic-algorithms/object-recognition-and-object-location-using-ur5e-and-kinect-v2-part-3-3-a406f910ace0
+    type: article
+    provider:
+      name: Medium
+      domain: medium.com
+    quality: 67
+    images:
+      - url: https://miro.medium.com/max/568/1*519hvpXUKt1i2O9TrPZCYQ.png
+        width: 568
+        height: 567
+
+secured: "2HRsuKyVwBJXLeD2ecLmjeJqRlOPcWM8esSGu19xojxlBbWBNI1jzwtPvPg0NA54gMsV33AMp9EOxdo00lCqdsuP02mHeyUEVbCyXNiiCglRmB0Ut/DaAqY35LHctMOU+ohe2ERVyKb9KvocnFxJS2MBmY47D1GbC6z6clKqPoxyMCrk+hogIoGZ3injnurSo2zafO7ckOknONoLQciBomet73KO55XJz1Ij1QoCTO02YhHUUQMZTPy+tEoMGYen14yc5Sga9WsP+VuSwekaew==;L+FpXXthXJv0wWLLO+Qf4g=="
 ---
 

@@ -45,18 +45,18 @@ related:
         width: 700
         height: 381
   - title: "WATCH LIVE: AL Robotics Technology Park launching next phase in robotics training"
-    excerpt: "HUNTSVILLE, Ala. (WAFF) - Technology is advancing at a rapid pace and has had a profound impact on the manufacturing process. Factories have evolved, using intelligent and automated processes, making the concept of a smart factory a reality."
-    publishedDateTime: 2020-01-07T16:10:25Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/watch-live-al-robotics-technology-park-launching-next-phase-in-robotics-training/ar-BBYHSPe
+    excerpt: "The smart factory manufacturing experience is focused on transformative technical areas including: automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics, and 3D printing. “In our constant mission to stay ahead of the demands of the ever-changing manufacturing world, we needed to ..."
+    publishedDateTime: 2020-01-07T15:10:00Z
+    sourceUrl: https://www.waff.com/2020/01/07/al-robotics-technology-park-launching-next-phase-robotics-training/
     type: article
     provider:
-      name: Huntsville-Decatur WAFF on MSN.com
-      domain: msn.com
+      name: WAFF
+      domain: waff.com
     quality: 64
     images:
-      - url: https://www.bing.com/th?id=ON.EAE3782421510B79A08D2795F1385FB0
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.79D5D14F76DDC1BE11CF4C1C851AD58E
+        width: 700
+        height: 394
 
 secured: "A0acnhBHFvuzRm5jXj8lLYkUyhdTLVY7Lbvp9xqfVq3kwywSTWsqUUAeB/BO/EgX/1XuBfsueGg7QMyphdAdPBQ3w6PKGU1qzuVfs3nWlUYoEmKiDiTmmbh+wrunNdn2FAHZmKC85D6QG+1ydwUHcG9DN/0m5W3argWkLCKdfMANpu+bviQt3E8ZVg80I2pr2yzHdt1047MEj4W0sjUnQm0G37oHJUh4nqryAce2jnEuWtfZ+KmnaUAJKW5+AktOn4OBAj59x+7sez5mECETjg==;v1QXrppA0nr4hc2/knZ0tw=="
 ---

@@ -137,6 +137,19 @@ related:
       - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
         width: 700
         height: 499
+  - title: "Church of England questions ethics of investment in Artificial intelligence"
+    excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
+    publishedDateTime: 2019-12-24T06:31:00Z
+    sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
+        width: 640
+        height: 480
   - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
     excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
     publishedDateTime: 2019-12-20T13:07:00Z

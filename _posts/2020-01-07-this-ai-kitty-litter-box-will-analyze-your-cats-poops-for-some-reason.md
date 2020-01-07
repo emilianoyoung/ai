@@ -2,22 +2,16 @@
 category: news
 title: "This AI kitty litter box will analyze your cat’s poops for some reason"
 excerpt: "Sometimes you read about all the new gadgets at CES and have FOMO because you’re not there, and other times you read about an AI cat litter box. LuluPet says that it has the world’s first litter box with “built-in stool and urine image recognition” to analyze cats’... deposits. The goal of the Taiwan-based company’s gadget is to ..."
-publishedDateTime: 2020-01-07T15:25:00Z
-sourceUrl: https://www.theverge.com/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
-ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21054690/ai-smart-kitty-litter-box-cats-poop-pee-ces-health
+publishedDateTime: 2020-01-07T15:25:28Z
+sourceUrl: https://www.msn.com/en-us/news/technology/this-ai-kitty-litter-box-will-analyze-your-cat-e2-80-99s-poops-for-some-reason/ar-BBYHOmW
 type: article
-quality: 87
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -73,6 +67,6 @@ related:
         width: 700
         height: 367
 
-secured: "TMQU+EyHhRIWCfUnv2yAP3IfNo7BIX+L3TDVHoT65S9jlCION9n55JOc3s+Ndo/H4PBQDBUOHwP60kAXyr8hYpTQfvj1eFBAKX8ed91NBz+IuopqIVNCQcH4RsGOx35SQ6Uxk7lIWAC+f9EZMqPtdH8BlqPr+as0DQ2CLkUt8zHj9ZieoIdY7nPBpEIdE/z1YA0AHdv9EGIJAo48TcLVT4zQ+WN7IVzJjhwGRT71g9YSLxDy8znr+eEtppgVkrqtBG1nlz2tXDst2LvVUTvRCQ==;I7tpvYSrkEH4Rtd/J/c0mw=="
+secured: "cUopdhLLI5GEXJfsHmvNcMSHtmMVGXwwYWcGnxCJmjBCbBBYjTqYM3C3QL5xyNEwaRkzaQYevRl+qHDC4Th9qPcKe6KMk6V94Cx8rNridUBWroGxPJpy3Ynst69p7G9xchPzmi3Iu100jvucAHZXVNIdlEuh8KkfWz4tiK/A/E+zNbnYq0d/NOuqqzrZ2oMHWvWfozrBJUWNplk/7l79hSu+Dz9e0V3/KDzePGveodHkjSLqgcK26a1q+NVW9DCRs2jIx8UBkyCQDZGWNXzfhQ==;JkCJIPvMqSER2PEtZbfPqA=="
 ---
 

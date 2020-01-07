@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advance
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
 
 related:
-  - title: "Nvidia Announces New Orin Auto AI Processor"
-    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
-    publishedDateTime: 2019-12-18T17:04:00Z
-    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
-    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
-        width: 950
-        height: 536
   - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
     excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
     publishedDateTime: 2019-12-23T13:54:00Z
@@ -85,6 +70,6 @@ related:
         width: 700
         height: 393
 
-secured: "rWbr/QkfPfYsOCSrvzhxz1+Ud9TJ0wwdRS1JPDvI0ZQhS8yTwaAphj4oLrXSDi9GykO1K1OCQVZD5Hsp7i+ht+L5ox7XfVZJ0WJ7RdbGg5CV8v/OY5N37MGRQceIeThK1dKYyVTdZgbanRNn4YtLi/6rXi5lFnOWuN8jt5te30FiEb90jmFkfXkco60MNvq0mgDTCyFuL/Ea+soymfiaFksv7S6xJpIlupu3aU9QLP3rqOtcuZXJ+dfL/tc7XkhMysKj/poLJlVmd05AFyd/6Q==;6KgF4ElazHDg1qgQBUv+Aw=="
+secured: "+7xvXSA8+Mryqn1j8dR3Wmmjk2y4dv++bxcKj3x8zpjrT3KbfWV9INAb/7sgaCRXdkY/T9tu4SYpH5cV1Hu8HP8dJ5DLQW9MJC02D2u5qT+AXaPO/l+rBdXgpfMTlfPZJFJ5aJZG93xNUrY9mIKD0F2Rx28zYm2wxLNoBFDzPpnhf1lpd4iJ6RrIvaCIR107UyO/zBqnbO/ejSzhX0GOWwaSu2unuuSQcaPezxCW4dxP1ere0vKtkuEM3nua06VFV6znCMNepjiFckYY+01doQ==;LSPl2QYeNfx22tpubPjgRQ=="
 ---
 

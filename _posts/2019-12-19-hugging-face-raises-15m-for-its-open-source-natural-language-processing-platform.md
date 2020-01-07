@@ -8,7 +8,7 @@ ampUrl: https://www.alleywatch.com/2019/12/hugging-face-natural-language-process
 cdnAmpUrl: https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2019/12/hugging-face-natural-language-processing-open-source-clement-delangue/amp/
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8DA425AB9D5538A54DF593256B3E0DC1
         width: 700
         height: 525
-  - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
-    excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
-    publishedDateTime: 2019-12-18T16:18:00Z
-    sourceUrl: https://mobileidworld.com/hugging-face-raises-15-million-expand-natural-language-processing-library-121803/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
-        width: 700
-        height: 490
 
 secured: "33tCq9vNR32L85p71lLOXpuF295b+2UtTKf8mBlRV3hPl/p6bB2dRhlnjBVfAZPE2WdwhDywPmQD0kcANGox5v4AKEoTrQPCuxEwxNBYSdAzkEKDvAvCrN7QabV8b7tP1P+E9jmVhNZxJXpPO/At0QUC6k6U63WyENBXJnj9B6WBj2WgJBqucUNqGuyRdBJkaTyz5fy7eJTo/7B5JERvVCiHSSVfNqcWCnE/xv/FiAMjR3V/m2cvCYR+pdrgNA+MuQKnX8vw+EI/m6xqfEArfQ==;Rrc9+V/fmfD+Z+SrG/ze3A=="
 ---

@@ -99,6 +99,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D50DAB5DDDD81506800830AA34C46262
         width: 700
         height: 367
+  - title: "Squirrel AI Learning Attends the Web Summit to Talk About the Application and Breakthrough of Artificial Intelligence in the Field of Education"
+    excerpt: "Squirrel AI Learning is not only a global leader in artificial intelligence education enterprises, but also the only Chinese high-tech education enterprise that is invited to participate in this event. Derek Li, Founder and Chief Educational Technology Scientist of Squirrel AI Learning, gathered in the same hall with Tony Blair, former British ..."
+    publishedDateTime: 2019-12-18T18:14:00Z
+    sourceUrl: https://finance.yahoo.com/news/squirrel-ai-learning-attends-summit-075800601.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.65277AA862E303837AE41E55F658C0F1
+        width: 400
+        height: 267
 
 secured: "ntSihxeXVDOE2yBebCMuj8ly0yJ+krz6h4bGhT5SzP7HSpPwJE4clVVipiK/fGzEe8KFzveDspT2fAkqnmMfatHHq9rVLn/K1FT8nP6YmaCq+4chge0B/nI2hzvrTPj1dPG5RhT2TJcbgDSLR4kjSnguMdL+fqXFYgQvS1BEuLhk7E8OF7n2TfvkOyktlQln1GgMy+tUjZ2VzsoevmG2kkRMC8PI/wiVCqdwE4JGuStivTgV7uBmLUFVWPHd3NI3nsqlZX8k4+L8jABWyAOxIQ==;WTkqhNLzpB+pGJfmWw5sWw=="
 ---

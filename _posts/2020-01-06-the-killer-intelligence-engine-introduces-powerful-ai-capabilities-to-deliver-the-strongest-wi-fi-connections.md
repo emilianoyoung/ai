@@ -60,6 +60,15 @@ related:
       - url: https://www.bing.com/th?id=ON.3834D35171684CD23218616FAD2D9B27
         width: 700
         height: 393
+  - title: "CES 2020: Investing In Artificial Intelligence"
+    excerpt: "Nvidia is the quintessential picks and shovels company for AI. In Silicon Valley and elsewhere, AI developers use Nvidia's platform for building. The company's GPU chips are the leader for AI and machine learning. I talked to several developers at CES and all were using Nvidia (small sample, but interesting nonetheless). Nvidia is a leader in ..."
+    publishedDateTime: 2020-01-07T17:53:00Z
+    sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 25
 
 secured: "CRu2zLy5+p9v8gcjzOBablc2iBr+X1tJMmwlf53agYQ3wl7nRbVGfXwTUZJ0QxYJvn7NfnY4i9RSKfion0gfDeaY4uYTDJygTFUit+xcwSDa+raFdMGEiOTb0wfnfOChC8aSxvcZkGxzKTOOgPVRXqrWqtEVQRln36LeePexJhZSvC6bXUZCo5gXvxljIVZSjFgmmm8rf8ZHybgtTN1Ihct2f5486sj2aGqahomlQXQTR7RioBbyy4fGJvsUOeQOcF9IUT9VDeSxwVND2XUhLA==;3SK3v+xmEcSjCKxwr6SuUA=="
 ---

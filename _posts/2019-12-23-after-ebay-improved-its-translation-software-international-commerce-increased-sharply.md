@@ -26,117 +26,119 @@ images:
     title: "After eBay improved its translation software, international commerce increased sharply"
 
 related:
-  - title: "Google Translate improves offline translation quality by up to 20%"
-    excerpt: "Bound for a foreign country where you don’t speak the language? Good news: Google has you covered. This afternoon, the Mountain View tech giant announced that Translate, its free multilingual machine translation service, is now more robust. Offline, translation accuracy has improved by an order of magnitud in some cases. Across the 59 ..."
-    publishedDateTime: 2019-12-19T17:39:00Z
-    sourceUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/
-    ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
+  - title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
+    excerpt: "As a product owner for a conversational interface, understanding and improving the user experience without the corresponding visibility or telemetry can feel like driving a car blindfolded. It is important to understand how users are interacting with your bot so that you can continuously improve the"
+    publishedDateTime: 2019-12-19T23:59:46Z
+    sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/18/conversational-logs-5.gif
+        width: 800
+        height: 494
+  - title: "Amazon researchers use AI to improve the recognition of curved text"
+    excerpt: "Optical character recognition (OCR), or the conversion of images of handwritten or printed text into machine-readable text, is a science that dates back to the early ’70s. But algorithms have long struggled to make out characters that aren’t parallel with horizontal planes, which is why researchers at Amazon developed what they call ..."
+    publishedDateTime: 2019-12-26T19:28:00Z
+    sourceUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/
+    ampUrl: https://venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/26/amazon-researchers-use-ai-to-improve-ocr-for-curved-text/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.3A4969141ABB182B57DDC432BE62F148
+      - url: https://www.bing.com/th?id=ON.C3DB77C18C41A81ED896AFF172FCAA7A
         width: 700
         height: 350
-  - title: "Jarvisen Translator Review: A translator for serious travel"
-    excerpt: "However, it’s not so much the hardware, but rather the software that will really determine how far it goes. Language translation, especially when there’s some element of machine learning involved, needs constant refinement. So far, it looks like Jarvisen is serious about improving on what it has here, and that’s good news. The company ..."
-    publishedDateTime: 2019-12-24T15:45:00Z
-    sourceUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/
-    ampUrl: https://www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gadget-reviews/jarvisen-translator-review/?amp
+  - title: "Content optimization using entities: An actionable guide"
+    excerpt: "BERT (Bidirectional Encoder Representations from Transformers) is a Natural Language Processing model that Google introduced in 2018 and began rolling out in October 2019. BERT has the ability to consider the full context of a word based on the words that come before or after named entities. We won’t dive deep, but we’ll look at an example ..."
+    publishedDateTime: 2019-12-24T14:33:00Z
+    sourceUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/
+    ampUrl: https://www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
+    cdnAmpUrl: https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2019/12/24/content-optimization-using-entities/amp/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
+      name: Search Engine Watch
+      domain: searchenginewatch.com
+    quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
+      - url: https://www.bing.com/th?id=ON.6852875905E4632CF5B495ADE3C6E8CD
+        width: 360
+        height: 240
+  - title: "How to Cash in on Conversational AI"
+    excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
+    publishedDateTime: 2019-12-24T16:19:00Z
+    sourceUrl: https://www.channelpartnersonline.com/blog/how-to-cash-in-on-conversational-ai/
+    type: article
+    provider:
+      name: Channel Partners
+      domain: channelpartnersonline.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.6FD3485437CA7CB12A73CD403922EABD
         width: 700
-        height: 366
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+        height: 259
+  - title: "How AI-powered bots could drive the conversation on pending federal regs"
+    excerpt: "In 2017, bots flooded the Federal Communications Commission's online public comments system with millions of fake missives in support of ending Net Neutrality. Two years later, an experiment by a college senior found that simple Artificial Intelligence tools make it easier than ever to fool humans and computers alike, distorting what is ..."
+    publishedDateTime: 2019-12-24T18:06:00Z
+    sourceUrl: https://fcw.com/articles/2019/12/24/deepfake-comment-spam-johnson.aspx
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 36
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
-  - title: "Is Professional Translation Service Necessary?"
-    excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
-    publishedDateTime: 2019-12-18T17:59:00Z
-    sourceUrl: https://gisuser.com/2019/12/is-professional-translation-service-necessary/
+      - url: https://www.bing.com/th?id=ON.2CEF3F9994DE072D58A5D9274E61C744
+        width: 700
+        height: 338
+  - title: "Relevant at a Slant: A Conversation with Joseph Mosconi"
+    excerpt: "But with goblins. And melting sea ice. When I started working in the tech industry — geez, almost 20 years ago now — I spent my days at a small startup working on natural language processing and machine learning. We were attempting to create software that could automatically understand the meaning of webpages and classify them into ..."
+    publishedDateTime: 2019-12-26T04:15:00Z
+    sourceUrl: https://lareviewofbooks.org/article/relevant-at-a-slant-a-conversation-with-joseph-mosconi
     type: article
     provider:
-      name: gisuser.com
-      domain: gisuser.com
+      name: Los Angeles Review of Books
+      domain: lareviewofbooks.org
     quality: 24
     images:
-      - url: http://www.gisuser.com/images/subscribe-to-newsletter.jpg
-        width: 711
-        height: 310
-  - title: "Invoke introduces real-time translation"
-    excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
-    publishedDateTime: 2019-12-23T10:10:00Z
-    sourceUrl: https://www.research-live.com/article/news/invoke-introduces-realtime-translation/id/5063282
-    ampUrl: https://www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
-    cdnAmpUrl: https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5063282&name=invoke-introduces-realtime-translation
+      - url: https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2019/12/josephmosconi.png
+        width: 400
+        height: 321
+  - title: "Semiconductor tech to be more important in future 5G and AI applications"
+    excerpt: "many tech firms also showcased their latest 5G and AI solutions, including Han Tai Technology presenting graphene materials featuring high heat conductivity, Chang Chun Group displaying high-frequency, high-speed copper foil ideal for 5G high-speed communication needs, Xander International exhibiting multi-tasking wireless communication chips ..."
+    publishedDateTime: 2019-12-20T02:14:00Z
+    sourceUrl: https://www.digitimes.com/news/a20191219PD213.html
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 24
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
+      name: Digi Times
+      domain: digitimes.com
+    quality: 18
+  - title: "Computer algorithm helps doctors understand conversations about life threatening diseases"
+    excerpt: "Researchers from the University of Vermont Conversation Lab used machine learning and natural language processing to understand what a conversation about the treatment of life-threatening medical illnesses looks like. This research could eventually help ..."
+    publishedDateTime: 2019-12-18T20:08:00Z
+    sourceUrl: https://electronics360.globalspec.com/article/14420/computer-algorithm-helps-doctors-understand-conversations-about-life-threatening-diseases
     type: article
     provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 15
     images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
-  - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
-    excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
-    publishedDateTime: 2019-12-23T11:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-services-market-from-2020-to-2029-manufacturers-growth-analysis-regions-types-end-users-and-applications-2019-12-23
+      - url: https://electronics360.globalspec.com/images/assets/420/14420/218860_web.jpg
+        width: 1440
+        height: 959
+  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
+    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
+    publishedDateTime: 2019-12-19T12:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a significant market share, and this trend is expected to continue over the forecast period."
-    publishedDateTime: 2019-12-18T18:27:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 11
-  - title: "Compensation: Lost In Translation"
-    excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
-    publishedDateTime: 2019-12-20T22:05:00Z
-    sourceUrl: https://www.industryweek.com/leadership/companies-executives/article/21953642/compensation-lost-in-translation
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 4
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "B08pa7ZU48Zx0J3sz5i19ohOT3A8ONa7qUfo73bqsoUqjfningpGebNDXxaHseJRcRSWj7XYxCmOLw4D5FH6CqY0MNdGQj8FQndz7yQC0mu+WzGn8+85gkRsZPTA64qpLt4/iAR9fiNQBzv796T0zPhbvLJYMvpRdaIroWWo9ZccXRDVpTiBp6pSBUnZYrdnIy/tWsPTOk6A3np1pQildoOOx+cpofUwulRxcFzY4XgFRtUG9+ecLlYeaBhvpHLK7AFo2Lj2G/15wbZR5be6zw==;PltFQQQzLm6X7sxaYI4FCQ=="
 ---

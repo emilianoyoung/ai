@@ -141,6 +141,19 @@ related:
       - url: https://www.bing.com/th?id=ON.580AD101956FF31860AB748A34BB2DCF
         width: 700
         height: 499
+  - title: "Church of England questions ethics of investment in Artificial intelligence"
+    excerpt: "“Artificial intelligence (AI) is an important element of this review,” the spokesman said. The EIAG is in talks with technology experts as well as politicians and theologians “to try to make sense of the issues”, the spokesman said. It wants to reach a conclusion “that is not only grounded in theology and distinctly Anglican but is ..."
+    publishedDateTime: 2019-12-24T06:31:00Z
+    sourceUrl: https://tribune.com.pk/story/2123994/8-church-england-questions-ethics-investment-artificial-intelligence/
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
+        width: 640
+        height: 480
 
 secured: "6B+fyXZ/eFU0Got/5NwcVWbGgKPDbHpLrefPoGSrPOnuw/VosT93NgbjPlLNSLZB+VYv0BfSAciCE3vDbtCd5nHU+QtI2IrJXPgGDQPZ8fKhOuyyvfkGIpkXEG/kJly9loMsXqK8/EMp4pbDgNxspBFTRUhwG9DCwM/cS9nX7OZT5BSzPsknjm1s+kGIbgMsqSU54rZnbENLtRkI7GYtDb340vMoZ0hcGhm7cjpWvqNJ73Ps50a6gXzii4z508lT41wR5kh8vEGAeibqyMaxNA==;gnBvDyXcRF7/5RjlQWhldA=="
 ---

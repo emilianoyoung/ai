@@ -1,26 +1,26 @@
 ---
 category: news
 title: "WATCH LIVE: AL Robotics Technology Park launching next phase in robotics training"
-excerpt: "HUNTSVILLE, Ala. (WAFF) - Technology is advancing at a rapid pace and has had a profound impact on the manufacturing process. Factories have evolved, using intelligent and automated processes, making the concept of a smart factory a reality."
-publishedDateTime: 2020-01-07T16:10:25Z
-sourceUrl: https://www.msn.com/en-us/news/technology/watch-live-al-robotics-technology-park-launching-next-phase-in-robotics-training/ar-BBYHSPe
+excerpt: "The smart factory manufacturing experience is focused on transformative technical areas including: automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics, and 3D printing. “In our constant mission to stay ahead of the demands of the ever-changing manufacturing world, we needed to ..."
+publishedDateTime: 2020-01-07T15:10:00Z
+sourceUrl: https://www.waff.com/2020/01/07/al-robotics-technology-park-launching-next-phase-robotics-training/
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Huntsville-Decatur WAFF on MSN.com
-  domain: msn.com
+  name: WAFF
+  domain: waff.com
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.EAE3782421510B79A08D2795F1385FB0
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.79D5D14F76DDC1BE11CF4C1C851AD58E
+    width: 700
+    height: 394
     title: "WATCH LIVE: AL Robotics Technology Park launching next phase in robotics training"
 
 related:
@@ -55,6 +55,6 @@ related:
         width: 700
         height: 381
 
-secured: "01pL5zsezNgFMKIeMNxwG6wII/JmQpSCNPF8dlvzGjAER5Abdm3aEEQ+xhrLMhfFjf7eoxmHOR8LteO15b94+OGrmzIfc5rsD4TX9HwfpdeeB7GVsgRvxKM9B/OlVMVOuJ82sA3n6icxIqEOG+bE1FmEqXjhUry6lsnfSh6aOfNfoBkBU21RxXOoMHLu8Q9PEyBgMC1m6PmiDI8OzznwBq4m9JDpa8yUTaIc3CjcSn4NB0Dq31Hjnwh2mXimskth84mFFHxoOQFg5SMbwYjXWg==;k+G2v3Af+XUQjuXE9LkmzA=="
+secured: "YdyvrpUJSMjIeNiSn4jF++dbsLG39glvUWAiCkcHFffkWjjCdze9buyY/IAlK5aQbZIxYw9eOfwDxkRltF6YJenFVXD7piCKLPOp6lcf51xV4cFeGn88Rf2hO0w5EJharIZVoFjU6MqvfVVxAq8ZYGr8QjTH5Y2M31+K01DpTl2ZSayCZtwXzH/ugskxtwh35T8qw8uDQmmknTH3fh8Eh330fQEaO3XhHkf1dpFupgt4AywZcVKnEy4x/Dpw9ILPPjDA7eceNp7We6n/jgqJog==;RO4o64SyxoNzPeDdGorMLw=="
 ---
 

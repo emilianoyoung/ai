@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3072C6E5D0E816897C04B1444FA1F84A
         width: 700
         height: 350
+  - title: "Vecna Robotics raises $50 million to automate warehouse tasks with AI"
+    excerpt: "Vecna’s platform incorporates fully autonomous pallet trucks and tow tractors to maximize efficiency. To this end, a component called Pivotal — an AI-based orchestration agent — manages fleets while interfacing with human workers and other equipment to optimize freight capacity, increase warehouse capacity, and cut down on waste."
+    publishedDateTime: 2020-01-07T16:05:00Z
+    sourceUrl: https://venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/
+    ampUrl: https://venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.3D23A14F0B183E1F4B39DACC00629878
+        width: 700
+        height: 350
 
 secured: "KNowJVdWySzMo8rM3MRCkf3/TJY7SbITdeGnW9ex+ec2g7iG+8+ND+aDneIUG7j6JJQBrz1RexEHTkRnZvtuj6Xi+aX9ik2C/AE5hq4/lEf/m1i7r3I5yuViSzoh/6L4xMIELTUJHQPy0UqonjSEXYu83VoVVxagc7zGHfGcOL6O3uuEoAfuhzZNo6ftzwEVWImZv5EcYpYlLUu6sNXCQ6tzMPqVlqWRR/cFIJrnpJSn/IUZcnGjiZ+6SlGDXeAn9b+Rfc9RB2P1ZVgkvMnssw==;g5dRh2VgdsMc0jivVx+tGQ=="
 ---

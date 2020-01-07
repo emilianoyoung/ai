@@ -23,21 +23,6 @@ images:
     height: 1500
     title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
 
-related:
-  - title: "Nvidia secures chip deal with Didi Chuxing"
-    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
-        width: 800
-        height: 600
-
 secured: "1gmql+9ePY0WwBWlvqVsXipIVJuuPTc0VJO0vcLkUka+OtAfgWtQaACIRU3LQPF25ZyYJlWv8vLM4qbr2L16SC/qLUk0UYSrNYK0L0qvShKHQNwf5eiZtCyHBNMnY5BI94DEQG6uFVCiPH7wLC4/56CGc1jCNahfOfWOq4Vn5zDAsAia8QFKZcxAXVAuX8gFJlDaLr1aSFe80OU/BNer2UVfijOGJwgKNty/WjMvy08v9PNQS/VRXMEomSyLl7cY1LpmaBa9iJOS846pphMhSw==;90iJFg/gM2TSY2qj+1hhsg=="
 ---
 

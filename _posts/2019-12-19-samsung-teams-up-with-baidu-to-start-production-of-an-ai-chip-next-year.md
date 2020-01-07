@@ -8,7 +8,7 @@ ampUrl: https://pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of
 cdnAmpUrl: https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/samsung-teams-up-with-baidu-to-start-production-of-an-ai-chip-next-year/amp
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 260
     height: 140
     title: "Samsung teams up with Baidu to start production of an AI chip next year"
-
-related:
-  - title: "Baidu, Samsung Electronics Announce Production of its Cloud-to-Edge AI Accelerator to Start Early 2020"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip’s limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
-    publishedDateTime: 2019-12-18T16:27:00Z
-    sourceUrl: https://www.hpcwire.com/off-the-wire/baidu-samsung-electronics-announce-production-of-its-cloud-to-edge-ai-accelerator-to-start-early-2020/
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 25
-    images:
-      - url: https://www.bing.com/th?id=ON.E756D3452514C219DD00143452F1E4C2
-        width: 405
-        height: 228
 
 secured: "Zp+2BJ0LIwd10a1oCTpfNc5Q0DMA7N6Cpozqt97bWK7WNXp8XbP9QBpNZR0rmWuFRrLalUdBurdN4kVJAnk0gR8YHcgnHWbGd5/Et8Tlh0jeJ+LDizhU0f9cy4cNRsVv/9Sp+KCxNHy/dwxrA/DKkHKQzLpJF3Gyv/ITQNzCzXMnZTfKCvpAvHMHWbv+KANVg2Z/GWAXO3rg2Oi1Cxhtm7rpnJ1c07gAFNNwGdk/E5w62xy2l0PCJ75eNuNk7vlU6OB8Hq53uqtk9pyVeBN0Sg==;aCabTvXUQdx5SFqeq7NtEQ=="
 ---

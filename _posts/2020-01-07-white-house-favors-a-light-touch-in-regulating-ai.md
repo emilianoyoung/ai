@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/white-house-favors-light-touch-regulating-ai
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/white-house-favors-light-touch-regulating-ai/amp
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
+  - title: "White House cautions against over-regulating AI in new guidelines"
+    excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
+    publishedDateTime: 2020-01-07T17:50:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/white-house-cautions-against-over-regulating-ai-in-new-guidelines/ar-BBYIdYb
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
+        width: 700
+        height: 367
   - title: "White House encourages hands-off approach to AI regulation"
     excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector,"
     publishedDateTime: 2020-01-07T14:18:06Z

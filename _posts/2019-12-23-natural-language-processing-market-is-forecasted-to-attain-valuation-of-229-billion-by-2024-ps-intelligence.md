@@ -2,16 +2,18 @@
 category: news
 title: "Natural Language Processing Market is Forecasted to Attain Valuation of $22.9 Billion by 2024: P&S Intelligence"
 excerpt: "NEW YORK, Dec. 23, 2019 (GLOBE NEWSWIRE) -- According to the market research report published by P&S Intelligence, the global natural language processing market share generated revenue of $8.3 billion in 2018 and is expected to reach $22.9 billion by 2024 ..."
-publishedDateTime: 2019-12-23T08:43:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2019/12/23/1963901/0/en/Natural-Language-Processing-Market-is-Forecasted-to-Attain-Valuation-of-22-9-Billion-by-2024-P-S-Intelligence.html
+publishedDateTime: 2019-12-23T08:49:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/19/12/g15031466/natural-language-processing-market-is-forecasted-to-attain-valuation-of-22-9-billion-by-2024-p-s-i
+ampUrl: https://amp.benzinga.com/amp/content/15031466
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15031466
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -103,19 +105,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-    excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -272,6 +261,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "8UAdxES6O0HikkmggoJM2Q6Afg+ePnD+WwflvjlcOa1l2mqrtfElxVhFbbisKBETNhQkOhuKdTTQMUz+gQvS+MV/CUoAxTWXK8RZl/ICnr5/PoiMTZRQFvmnlhxAzuwvo6qCcKorI6icBq2Wa0qolLX/NlBwxSAT+mXairMSxVgJh/D6Q7cdyqO31wPeOC8nkJjZoH9IFMDilmslD0TtDjdPmthbxDQfpvaUGomQT0DOAuzWfsD1SUPlv7m3GhjD3TJHiRXh1eAZgYD1zeiKsA==;HjcMW4QcLY5RbJm0IwF/fA=="
+secured: "W4k2kLwo4+swtWaZxxXu3brp/pu4TBxDvYqo+lemtsDv94DZ0hJjsbT1HX4SGoP/yFf7TOIz7TYv4k0V9726ASWAi3msUqGb9Gk/CFGdct5aQTh1TaMnOyB5IhH5kaCez1m4mVwXujOQuX76SY5iudwcJAIPl75AoylNKJVP8nFkCzC9UTw2SWqK/lFgmji4wOYJzpkqV+VGXIatOzeVOFbqCmBvvaW1yDv8UzBuqgVwFpHhFaiGpWBNy+wPNg0vriIn7asYsT0N9Bns6IWVmQ==;1uTawDIbcjUsnASnGGI/Ig=="
 ---
 

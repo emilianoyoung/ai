@@ -26,19 +26,19 @@ images:
     title: "Employee Recognition – Does It Still Work?"
 
 related:
-  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
-    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
-    publishedDateTime: 2019-12-19T23:19:00Z
-    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
+  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
+    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
+    publishedDateTime: 2019-12-20T22:24:00Z
+    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: HealthITOUTCOMES
+      domain: healthitoutcomes.com
+    quality: 23
     images:
-      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
-        width: 1200
-        height: 600
+      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
+        width: 874
+        height: 355
   - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition For Accurate Employee Time Tracking"
     excerpt: "Payson, UT (PRWEB) - AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME’s face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify the employee’s identity ..."
     publishedDateTime: 2019-12-19T06:52:00Z

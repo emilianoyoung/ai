@@ -50,34 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
         height: 366
-  - title: "After eBay improved its translation software, international commerce increased sharply"
-    excerpt: "A new study co-authored by an MIT economist shows that improved translation software can significantly boost international trade online—a notable case of machine learning having a clear impact on economic activity. The research finds that after eBay improved its automatic translation program in 2014, commerce shot up by 10.9 percent among ..."
-    publishedDateTime: 2019-12-23T13:13:00Z
-    sourceUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.html
-    ampUrl: https://phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-ebay-software-international-commerce-sharply.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 36
-    images:
-      - url: https://www.bing.com/th?id=ON.3B22C3BB725EC512FD9D127A11F3B5AE
-        width: 700
-        height: 465
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
   - title: "Is Professional Translation Service Necessary?"
     excerpt: "There are many free online machine translation services, but they don’t do very well translating phrases and sentences,even as machine software continues to develop and improve. There are also professional document translation serviceswhich involves an ..."
     publishedDateTime: 2019-12-18T17:59:00Z

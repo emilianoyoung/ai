@@ -131,6 +131,17 @@ related:
       - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
         height: 350
+  - title: "Maine City Again Delays Vote on Facial Recognition Tech"
+    excerpt: "(TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first ..."
+    publishedDateTime: 2020-01-07T17:25:00Z
+    sourceUrl: https://www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html
+    ampUrl: https://www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/computing/Maine-City-Again-Delays-Vote-on-Facial-Recognition-Tech.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 54
   - title: "Portland council again delays vote on facial recognition ban"
     excerpt: "The Portland City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first proposed the ban in November."
     publishedDateTime: 2020-01-07T01:21:00Z
@@ -170,6 +181,19 @@ related:
       - url: https://www.bing.com/th?id=ON.598B1B744618B5EF2CA67B2D28796A6C
         width: 600
         height: 315
+  - title: "City delays decision on facial recognition ban"
+    excerpt: "PORTLAND — The City Council Monday stopped short of banning facial recognition technology by municipal departments, postponing action until June 15. Facial recognition technology, which uses a computer program to identify a person based on a captured image or video, is not currently used by any city department. The technology has raised ..."
+    publishedDateTime: 2020-01-07T17:01:00Z
+    sourceUrl: https://www.pressherald.com/2020/01/07/city-delays-decision-on-facial-recognition-ban/
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.7497D6C0B1A49A6F06E61073409C4F4A
+        width: 700
+        height: 466
   - title: "Facial recognition hardware to reach over 800 million devices by 2024"
     excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
     publishedDateTime: 2020-01-07T08:30:00Z

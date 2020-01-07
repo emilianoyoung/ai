@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-18T18:13:00Z
 sourceUrl: https://www.pr.com/press-release/801927
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 3024
     height: 4032
     title: "ALS TDI Collaboration with Google’s Project Euphonia Highlighted in Documentary Series Featuring Former NFL..."
-
-related:
-  - title: "DeepMind and Google recreate former NFL linebacker Tim Shaw’s voice using AI"
-    excerpt: "In August, Google AI researchers working with the ALS Therapy Development Institute shared details about Project Euphonia, a speech-to-text transcription service for people with speaking impairments. They showed that, using data sets of audio from both native and non-native English speakers with neurodegenerative diseases and techniques from ..."
-    publishedDateTime: 2019-12-18T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/
-    ampUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 205
-    images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
-        width: 700
-        height: 350
-  - title: "Uber creates AI to generate data for training other AI models"
-    excerpt: "Generative adversarial networks (GANs) — two-part AI systems consisting of generators that create samples and discriminators that attempt to distinguish between the generated samples and real-world samples — have countless uses, and one of them is producing synthetic data. Researchers at Uber recently leveraged this in a paper titled ..."
-    publishedDateTime: 2019-12-18T19:12:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/
-    ampUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.E27E35E16EE70F60DAED73BD5E247C1F
-        width: 700
-        height: 465
 
 secured: "7RG/SfiQ5fmmzZkJLNNI7mcRQqjtuqp8KK+hGOFfqLXPCIYcRLVp5NaEuENq0TVAEhX6fflNxgkWy5y9uPleFFdWvg6ZPA3Jkmsqp1zzMudzqgJO5dGg3ONhMTGuY92KlnLPQpC+SLVLDrbDX/LY1m75JPHE3sxVJhnat23l+9k4KLe1bKlyFLWlssBJRZMbTbZmEiiB0lNpSTQ54LIVCNCIzQetzTtUb9Hdn2jl3qOECxblczA4LUvdEqjdYXcjgvS5W19/0640S+vqMkmmQA==;/MkUfnie68xFU+st8Ke9+A=="
 ---

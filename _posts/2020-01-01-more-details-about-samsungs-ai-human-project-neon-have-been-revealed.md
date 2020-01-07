@@ -8,7 +8,7 @@ ampUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-pro
 cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
 type: article
 quality: 157
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -38,6 +38,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
+        width: 700
+        height: 525
+  - title: "Samsung's new Neon project is finally unveiled: It's a humanoid AI chatbot"
+    excerpt: "They can't tell you the weather or how old Abraham Lincoln was when he died. \"Neons are not AI assistants,\" the company said. \"Neons are more like us, an independent but virtual living being, who can show emotions and learn from experiences. Unlike AI assistants, Neons do not know it all, and they are not an interface to the internet to ask ..."
+    publishedDateTime: 2020-01-07T17:54:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/?ftag=CAD-16-10abc4e
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.162D1409BD9285CA4E3335EC779779DC
         width: 700
         height: 525
   - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"

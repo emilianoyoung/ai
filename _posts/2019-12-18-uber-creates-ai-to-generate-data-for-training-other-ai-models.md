@@ -8,8 +8,8 @@ ampUrl: https://venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/uber-creates-ai-to-generate-data-for-training-other-ai-models/amp/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: VentureBeat
@@ -29,34 +29,41 @@ images:
     title: "Uber creates AI to generate data for training other AI models"
 
 related:
-  - title: "DeepMind and Google recreate former NFL linebacker Tim Shaw’s voice using AI"
-    excerpt: "In August, Google AI researchers working with the ALS Therapy Development Institute shared details about Project Euphonia, a speech-to-text transcription service for people with speaking impairments. They showed that, using data sets of audio from both native and non-native English speakers with neurodegenerative diseases and techniques from ..."
-    publishedDateTime: 2019-12-18T17:00:00Z
-    sourceUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/
-    ampUrl: https://venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/18/deepmind-and-google-recreate-former-nfl-linebacker-tim-shaws-voice-using-ai/amp/
+  - title: "Winning Strategies for AI in Banking"
+    excerpt: "In the Winning Strategies for AI in Banking report, Business Insider Intelligence looks at several effective strategies used to capture AI's potential in banking, and details how financial institutions like Citi and US Bank have successfully implemented some of these strategies."
+    publishedDateTime: 2019-12-19T21:02:00Z
+    sourceUrl: https://www.businessinsider.com/intelligence/winning-strategies-for-ai-in-banking
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 205
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: https://www.bing.com/th?id=ON.6A079E37CC3F9EE39EC5B1658FE7FAAC
-        width: 700
-        height: 350
-  - title: "ALS TDI Collaboration with Google’s Project Euphonia Highlighted in Documentary Series Featuring Former NFL..."
-    excerpt: "Cambridge, MA, December 18, 2019 --(PR.com)-- The ALS Therapy Development Institute (ALS TDI), the world’s foremost ... of “The Age of A.I.,” a new YouTube Originals documentary series that takes an immersive look at artificial intelligence and its potential to change the world. The new learning series is hosted by Robert Downey Jr ..."
-    publishedDateTime: 2019-12-18T18:13:00Z
-    sourceUrl: https://www.pr.com/press-release/801927
+      - url: https://www.bing.com/th?id=ON.87291EEEDB46FDF28249BB07C55044A6
+        width: 450
+        height: 700
+  - title: "Teradyne, Enflame Collaborate to Ensure Thorough Testing of AI Devices for Data Center Training"
+    excerpt: "Best-In-Class test quality is very important to our success and we are pleased with the powerful test solution Teradyne provides.” “The market for AI chips is very competitive and time sensitive,” said Regan Mills, Vice President of SOC Marketing at Teradyne. “The design complexity and device power requirements make device bring-up and ..."
+    publishedDateTime: 2019-12-23T15:42:00Z
+    sourceUrl: https://www.hpcwire.com/off-the-wire/teradyne-enflame-collaborate-to-ensure-thorough-testing-of-ai-devices-for-data-center-training/
     type: article
     provider:
-      name: PR
-      domain: pr.com
-    quality: 4
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 27
     images:
-      - url: https://img.pr.com/release/1912/450962/pressrelease_original_450962_1576690507.jpg
-        width: 3024
-        height: 4032
+      - url: https://www.bing.com/th?id=ON.24BA367CCC9080EAB19F98C97D60E30C
+        width: 405
+        height: 228
+  - title: "Teradyne & Enflame Collaborate to Ensure Thorough Testing of AI Devices for Data Center Training"
+    excerpt: "Best-In-Class test quality is very important to our success and we are pleased with the powerful test solution Teradyne provides.” “The market for AI chips is very competitive and time sensitive,” said Regan Mills, Vice President of SOC Marketing at Teradyne. “The design complexity and device power requirements make device bring-up and ..."
+    publishedDateTime: 2019-12-20T18:58:00Z
+    sourceUrl: https://finance.yahoo.com/news/teradyne-enflame-collaborate-ensure-thorough-140010470.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 6
 
 secured: "g6bc3Bsc9Tglp8h00QzTYi9e371mjIUDx6sNFIsjB51TqR/UgB4FlikDU076IW0B3eckQxCQAkZlzI5vF1ijeUcUb76arcI5VNzjTSWlOtj4i+2dIaQOm78iKSU7WxRI1rCUyQS5/Qpl1PZjujTMa/kSLYFLTS7AACgZOB6U3QeyQfySR2KfhYmjBeCPkm4fxh33gfvxWTU8q0u8nR2S7m8if/d3ndT09BG4Eh3Tg6id5vxtiDBTJ026ww0Tfk5ZX3pG7FMEVKpiwQgKofayoA==;A7aaZaKfXuusGaGoDGqBtw=="
 ---

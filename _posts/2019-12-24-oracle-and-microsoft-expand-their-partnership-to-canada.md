@@ -8,7 +8,7 @@ ampUrl: https://mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to
 cdnAmpUrl: https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/oracle-and-microsoft-expand-their-partnership-to-canada/amp/
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24BA367CCC9080EAB19F98C97D60E30C
         width: 405
         height: 228
-  - title: "Microsoft’s resolution for 2020 is to empower tech intensity in its customers and partners"
-    excerpt: "Earlier this year, Microsoft announced Azure API for FHIR to enable health system interop and sharing data in ... and the emergence of powerful AI and machine learning tools that can reveal correlations and unlock insights in all that data. The ability to unlock data is foundational to an organization’s digital transformation, and once ..."
-    publishedDateTime: 2019-12-18T16:41:00Z
-    sourceUrl: https://news.microsoft.com/transform/microsofts-resolution-for-2020-is-to-empower-tech-intensity-in-its-customers-and-partners/
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-    images:
-      - url: https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2019/12/GettyImages-1153070018_Resized-1024x567.jpg
-        width: 1024
-        height: 567
 
 secured: "mNNz2poGsAzpaTKTnX5M3xO4yFJDpZUtlNlxTW3wsUN/tLxKMnAGTV/q90Kwjc8MdwkqnUEpiztYZu9D6fUmgtY1F2Euwrtn5kc0+Fgs85BAlxGgH+Ceh4lWYh4oe0Em9vvJctgEimZpMlFIkuSMPwMF4lq6KIc79V9A1YCgCGJTVwbZ/G7bT38WyY2ckch8gCqtMqJ66fsqt+w5XcrBS/0+MJ4Vg9IWz2dQAoMnj/ut5n8L9/sXyoX0q8h8kqNU5qpbyt0Wgt7IaQPbh+kNGA==;aInYRzWiMb8XgBhi5AWCBA=="
 ---

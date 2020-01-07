@@ -673,30 +673,6 @@ related:
       - url: https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png
         width: 620
         height: 300
-  - title: "More Cities Resist Facial Recognition Systems"
-    excerpt: "Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another tool in their crime-fighting toolbox. Some lawmakers — and even some technology giants — are hitting the brakes, the Associated Press reports. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-18T16:25:00Z
-    sourceUrl: https://thecrimereport.org/2019/12/18/more-cities-resist-facial-recognition-systems/
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.1F2D488AC44D76EEB57F03F217934DFE
-        width: 140
-        height: 140
-  - title: "Why some cities and states ban facial recognition technology"
-    excerpt: "Some cities are raising concerns that facial recognition technology misidentifies minorities. Others see its usefulness in law enforcement."
-    publishedDateTime: 2019-12-18T17:07:00Z
-    sourceUrl: https://www.csmonitor.com/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
-    ampUrl: https://www.csmonitor.com/layout/set/amphtml/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
-    cdnAmpUrl: https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/Technology/2019/1218/Why-some-cities-and-states-ban-facial-recognition-technology
-    type: article
-    provider:
-      name: Christian Science Monitor
-      domain: csmonitor.com
-    quality: 39
   - title: "Wyden urges HUD review use of facial recognition"
     excerpt: "Harris, D-Calif., and Reps. Yvette D. Clarke, D-N.Y., Ayanna Pressley, D-Mass., and Rashida Tlaib, D-Mich., on Wednesday asked the Department of Housing and Urban Development to review policies regarding the use of facial recognition technologies in federally assisted housing. In a letter to HUD Secretary Ben Carson, the legislators pointed ..."
     publishedDateTime: 2019-12-18T17:58:00Z

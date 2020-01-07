@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A71FB55C06FEA039E9164A36327AC063
         width: 700
         height: 525
-  - title: "Hugging Face Raises $15 Million to Expand Natural Language Processing Library"
-    excerpt: "Natural language processing company (NLP) Hugging Face has announced it raised $15 million in funding in a round led by Lux Capital, and with participation from A.Capital, Betaworks, Richard Socher, Greg Brockman, and NBA star Kevin Durant. Hugging Face originally launched a chatbot app back in 2017 that allowed users to generate a digital ..."
-    publishedDateTime: 2019-12-18T16:18:00Z
-    sourceUrl: https://mobileidworld.com/hugging-face-raises-15-million-expand-natural-language-processing-library-121803/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 51
-    images:
-      - url: https://www.bing.com/th?id=ON.3286B1D64B0F951399682998DFF2CFC8
-        width: 700
-        height: 490
 
 secured: "XnqlJhlwz4kfJtcc6vGKmY04lr6FqR9FgEBGon25qPQUGQXjeozpcyT1YPG8mV7oTUsFCdbdVTBOuA3ImYSE3pcGN0t0hpB/0BidpxivKNd4xIndNyK59BAMIsbhbxGpDeyOFl/WYtWJZC/OgU4/SnITwKZzKPtUQUydBT3k/bGuHDf39ky284tukjU7CAS9vlK2OXQ8oyu1HMiz9+ZTwulooQ0ElPmQnDBHAvCEe5EhQPh7UHQpPM6oyexOtaR9lMS3asjfDAuodRCGOI7UuQ==;sxl7w72JhqzLdR9GVuucyA=="
 ---

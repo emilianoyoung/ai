@@ -28,30 +28,104 @@ images:
     title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
 
 related:
-  - title: "Employee Recognition – Does It Still Work?"
-    excerpt: "And employers who fail to deliver it often have to face the heat of high employee turnover rates. This is why employee recognition still remains one of the most prominent ways to keep your workforce engaged and motivated. Having employee rewards and recognition program is the most cost-effective way to acknowledge great deeds at the workplace."
-    publishedDateTime: 2019-12-22T19:41:00Z
-    sourceUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830
-    ampUrl: https://www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
-    cdnAmpUrl: https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/workplace-culture/employee-recognition-does-it-still-work-02269830/amp
+  - title: "Is Valley Fair mall’s security robot using facial recognition?"
+    excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
+    publishedDateTime: 2019-12-20T18:55:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/
+    ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 44
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 91
     images:
-      - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
-        width: 700
-        height: 392
-  - title: "WorkMax TIME by AboutTime Technologies Unveils Face Recognition For Accurate Employee Time Tracking"
-    excerpt: "Payson, UT (PRWEB) - AboutTime Technologies, a 16-year veteran of mobile resource management solutions, announces the addition of face recognition for WorkMax TIME. WorkMax TIME’s face recognition was developed to help businesses with mobile workforces gain the most accurate and automated way to help auto-verify the employee’s identity ..."
-    publishedDateTime: 2019-12-19T06:52:00Z
-    sourceUrl: https://www.fieldtechnologiesonline.com/doc/workmax-time-by-abouttime-technologies-recognition-accurate-employee-time-tracking-0001
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
+        width: 1024
+        height: 768
+  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
+    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
+    publishedDateTime: 2019-12-20T19:25:00Z
+    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
+    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
+    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
     type: article
     provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 5
+      name: MassLive
+      domain: masslive.com
+    quality: 45
+    images:
+      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
+        width: 1904
+        height: 1428
+  - title: "Some cities and states balk at face recognition tech"
+    excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
+    publishedDateTime: 2019-12-22T04:00:00Z
+    sourceUrl: https://www.herald-dispatch.com/business/some-cities-and-states-balk-at-face-recognition-tech/article_cd3e3777-f087-5aab-a88c-81800f0a3012.html
+    type: article
+    provider:
+      name: The Herald-Dispatch
+      domain: herald-dispatch.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
+        width: 700
+        height: 469
+  - title: "Prominent Democrats including Kamala Harris are calling for an investigation into how facial recognition tech is used in public housing"
+    excerpt: "Democratic lawmakers asked Ben Carson, head of the Department of Housing and Urban Development, to look into the use of facial recognition in public housing in a letter sent Wednesday. Lawmakers ..."
+    publishedDateTime: 2019-12-18T18:52:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/democrats-want-investigation-into-facial-recognition-in-public-housing-2019-12-1028773463
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+    images:
+      - url: https://images.markets.businessinsider.com/image/5dfa6e08acb8fb243262a449-1776/gettyimages-935005504.jpg
+        width: 1024
+        height: 768
+  - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
+    excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
+    publishedDateTime: 2019-12-19T16:14:00Z
+    sourceUrl: https://www.biometricupdate.com/201912/startup-sensing-feeling-offers-video-emotion-analysis-without-facial-recognition
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
+        width: 900
+        height: 499
+  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
+    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
+    publishedDateTime: 2019-12-20T12:00:00Z
+    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
+    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 11
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-19T13:30:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962806/0/en/OMNIQ-s-Machine-Vision-Vehicle-Recognition-Solution-Selected-for-Security-and-Parking-Management-at-Large-Macau-Casino.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
+    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
+    publishedDateTime: 2019-12-20T01:25:00Z
+    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "T0gGRyo15HiR4teNa94KD6Q2KydzclgpeSSt6RdsSc3fwmQ+mfMvDZiSROTm27ec+G4NQkRwVavfI7HnqeZxLNpcc/VI2N0MbqCeXA2eh7qCyZkshTqOy+suI0DtVZhxTmyEhdNs73QOm0U4UpFmYRU1xuBZTfz7lIdABmtMyhkzk4W1/2IX/hgGEPRbh1hC2ohrWaiCtvwI5uT2sX6icWvDPVkWgGTsvtnKpR+pXm/quoWEXL9pCY4AYymme9MFhYAdsMVayNbl+rieivupFQ==;xr+n/tjMCWfX3wlmtV6okg=="
 ---

@@ -53,6 +53,15 @@ related:
       - url: https://www.bing.com/th?id=ON.3834D35171684CD23218616FAD2D9B27
         width: 700
         height: 393
+  - title: "CES 2020: Investing In Artificial Intelligence"
+    excerpt: "Nvidia is the quintessential picks and shovels company for AI. In Silicon Valley and elsewhere, AI developers use Nvidia's platform for building. The company's GPU chips are the leader for AI and machine learning. I talked to several developers at CES and all were using Nvidia (small sample, but interesting nonetheless). Nvidia is a leader in ..."
+    publishedDateTime: 2020-01-07T17:53:00Z
+    sourceUrl: https://seekingalpha.com/article/4315618-ces-2020-investing-in-artificial-intelligence
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 25
   - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
     excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
     publishedDateTime: 2020-01-06T19:00:00Z

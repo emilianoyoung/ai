@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-you-a-vehicle-insurance-policy-with-ai/amp/
 type: article
 quality: 184
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7CBF79FEA4997AE416B2C9EAB1FFD8C0
         width: 700
         height: 466
+  - title: "Vecna Robotics raises $50 million to automate warehouse tasks with AI"
+    excerpt: "Vecna’s platform incorporates fully autonomous pallet trucks and tow tractors to maximize efficiency. To this end, a component called Pivotal — an AI-based orchestration agent — manages fleets while interfacing with human workers and other equipment to optimize freight capacity, increase warehouse capacity, and cut down on waste."
+    publishedDateTime: 2020-01-07T16:05:00Z
+    sourceUrl: https://venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/
+    ampUrl: https://venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/vecna-robotics-raises-50-million-to-automate-warehouse-tasks-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.3D23A14F0B183E1F4B39DACC00629878
+        width: 700
+        height: 350
 
 secured: "tZs9PIEYZXhaU2OKqnlnfVG/Wdo95+KtyzqtCOZ2LMiGkrN5PyD3BxuowZ8YepF6mucrp8YLzDDJZLz6GcA3ngvLzgkq9SxB92ACbOX+IX7ygS4DOrrZoz/4MQmdiHP5w3SSI2br6fu4i0eyZEP0/FcAt7oGsLNb3DhvB5P10Yv4j9f43/iZWLatFvYENtTC8xeqjskhI4By62/h4JSDxo00wnYD8NQ3cFjHonHOy5uTe+TKerhgPmjaHvG875pXtimVqwJcpwKfi8CQXPhRgZkrIeCg+u4QQc1RQSC4Daw=;qYzA363ZXhpvGRLKLCwdVw=="
 ---

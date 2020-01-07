@@ -33,19 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.927BE6BED159AD2D88E7A921A7BF1791
         width: 700
         height: 376
-  - title: "The Region’s Health Leaders on What’s New — and What the Next Decade Will Bring"
-    excerpt: "Artificial intelligence (AI) is becoming more accurate for screening ... procedures with shorter recovery time will be developed for other heart-valve conditions in patients who otherwise could not receive therapy. During the last 10 years, neuroscientists have been researching the causes of Alzheimer’s disease. There has been much discussion ..."
-    publishedDateTime: 2020-01-07T09:54:00Z
-    sourceUrl: https://businesswest.com/blog/the-regions-health-leaders-on-whats-new-and-what-the-next-decade-will-bring/
-    type: article
-    provider:
-      name: BusinessWest
-      domain: businesswest.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.F610686BA38962BE33DEA72ACFD52818
-        width: 150
-        height: 150
   - title: "The Technology 202: Silicon Valley will face new challenges in 2020. Here's what we're watching."
     excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants’ power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading ..."
     publishedDateTime: 2020-01-06T14:13:00Z

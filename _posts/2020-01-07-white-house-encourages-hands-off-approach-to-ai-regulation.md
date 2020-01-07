@@ -94,6 +94,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
+  - title: "White House cautions against over-regulating AI in new guidelines"
+    excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
+    publishedDateTime: 2020-01-07T17:50:00Z
+    sourceUrl: https://www.msn.com/en-gb/news/offbeat/white-house-cautions-against-over-regulating-ai-in-new-guidelines/ar-BBYIdYb
+    type: article
+    provider:
+      name: Engadget on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
+        width: 700
+        height: 367
 
 secured: "Vl+S8KyRigm+kJyFGxPDglahYY8DrT3NrX7ocHtUWFX98VgY7/g1fhmPm2DZeJB08pKFn+kauHlw0WsD7Wrrlg7JIUKDXJW3IRdBDd4ZfW8w8UmTFnaQ77wm7ic4gpBaTwa/HpornIM3Jrg0aYmDxNqIbu/TKmZZYPx0N1XqZtwDm98INze6r63UDVDw0QnZmRP19mUmCD2sjbxH6RZcIvLCEMSLlu3MXbUXm88RQpPiptDwvYdCzXokzG17vK8Ehx5t4wzZf92hgXAMuAZagw==;mIEERflrwc48rmWPXU114w=="
 ---

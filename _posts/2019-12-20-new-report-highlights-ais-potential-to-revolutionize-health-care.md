@@ -8,8 +8,8 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/New-report-highlights-AIs
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/New-report-highlights-AIs-potential-to-revolutionize-health-care.aspx
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: News Medical
@@ -24,6 +24,21 @@ images:
     width: 620
     height: 480
     title: "New report highlights AI's potential to revolutionize health care"
+
+related:
+  - title: "NAM: Healthcare must proceed with caution in adopting AI"
+    excerpt: "Artificial intelligence has the potential to transform and disrupt healthcare. However, the industry must beware of unintended consequences and not give in to marketing hype and profit motives. That’s the contention of a new National Academy of Medicine ..."
+    publishedDateTime: 2019-12-19T05:40:00Z
+    sourceUrl: https://www.healthdatamanagement.com/news/nam-healthcare-must-proceed-with-caution-in-adopting-ai
+    type: article
+    provider:
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 54
+    images:
+      - url: https://sourcemedia.brightspotcdn.com/dims4/default/a3cf187/2147483647/strip/true/crop/800x420+0+57/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F7e%2F22%2Fd9f681e54ee3ab9f3b04613abee3%2Fthe-keck-center-of-the-national-academies-crop.jpg
+        width: 1200
+        height: 630
 
 secured: "geNAZYHTC+M50FRmmNnwgJEqEWtAqtUmOtDKmO6MEqsORcbKp5Un9mK6flhB9IVsBJ38VwIYDTvo5hOaaF6aYWR5J8/qKc66DBK8ZCzqZkgRiSRSJW80mrN7oWr7I2rvA1vYQU6hJng8PWJgmqtuzLK59IP2YUwY2p96TioBf/Uy7tHpyXz1+1iSvBXeasdSvk2/zFb8v33/lZ25tBtvyq08Zrei8+SI/cUtDr6/WqSyZH2LciMI8G2DFTaPZO1g2Ts/fQS9vjnP35TOqn7thg==;Ds1+51tuW0v2bYyLqMm7jg=="
 ---
