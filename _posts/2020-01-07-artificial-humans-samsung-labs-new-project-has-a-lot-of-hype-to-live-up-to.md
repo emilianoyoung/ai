@@ -89,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E045D65318003F289C30E761049DA334
         width: 700
         height: 414
+  - title: "Samsung Reveals Neon Artificial Human Avatars To Serve As Lifelike Chatbots"
+    excerpt: "Simply put, STAR Labs refers to NEON as \"a friend,\" albeit a virtual one. \"NEON, our first artificial human is here. NEON is a computationally created virtual being that looks and behaves like a real human, with the ability to show emotions and intelligence,\" STAR Labs explains. Thankfully, it does not sound like they have to be fed or ..."
+    publishedDateTime: 2020-01-07T14:45:00Z
+    sourceUrl: https://hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    ampUrl: https://amp.hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.53BFC7B36C787A716EECB79917768A40
+        width: 700
+        height: 393
   - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
     excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
     publishedDateTime: 2020-01-06T19:34:54Z

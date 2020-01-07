@@ -23,6 +23,6 @@ images:
     height: 333
     title: "Clarifai Named a Vision-ary Leader in Computer Vision Platforms report"
 
-secured: "Sc9XBtQSPNSwKfMwK4pc2DJzQ3Iy34sJ6SButZe93JDdY2NX7aytJcUolE0x3hbQoVkrHHbs1nbaORuDNH6rAKzyQNkOXtQT7NkqlO4YrjOYjC+paPpVhX+w0wapbpLupfgb4cQ35I/9NpQVgCen4CayaG+7ij0uAt1f1ftb2g6Kek3RcGtmJp45sGfFqv0rKAG1/vYgho3h9/Ue8YueOuR45HaJH/T/Es3q9QBcdVzSMvkf8oleKhFvnskQBAFQjAJEQav29gSkf/temAsahQ==;Rc9d67HMBpBDS5qo72yZzg=="
+secured: "pq1fhy9xM1n3wkMu3SSos7uiQgwm2ijy3lj0Qvh6iaHervy0g+UjHVl1jWCV9sSCK9qrFwCTp3/0dTVyrYjcr3w1yfl7vXiSjKvihyUXS6Kh2GVEoXB0zoRZ3/zjqf9zzagtcgwM4+w/3OPu61bSdKtM7EgktOY13ahxDd0EYQXnZa+xNVFcBjIDbCruqrMGHMDFbCLg/8GqzVlls6QxlHyOFdeGGSy/E8ZI6r9/K094Qn84fFscy00EXxVFuipr5geideqP544dTX2EzNX9Fg==;VEanAV4xKkqL5WYrkVm3ug=="
 ---
 

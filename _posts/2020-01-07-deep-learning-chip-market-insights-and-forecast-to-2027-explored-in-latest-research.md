@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T12:27:00Z
 sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
 type: article
 quality: 80
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
 
 related:
+  - title: "Machine Learning Market Size will reach 39.98 billion USD by 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has added a new report on Machine Learning market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size. Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the ..."
+    publishedDateTime: 2020-01-07T13:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-3998-billion-usd-by-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
     excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
     publishedDateTime: 2020-01-06T08:36:00Z

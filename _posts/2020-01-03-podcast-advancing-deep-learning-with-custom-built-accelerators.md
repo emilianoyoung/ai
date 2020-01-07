@@ -39,19 +39,32 @@ related:
       - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
         width: 700
         height: 525
-  - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
+    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
+    publishedDateTime: 2020-01-07T14:18:00Z
+    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Neowin
+      domain: neowin.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
+        width: 700
+        height: 394
+  - title: "IBM Launches Advertising Accelerator with Watson"
+    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+        width: 400
+        height: 225
   - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
     excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
     publishedDateTime: 2020-01-07T12:51:00Z

@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
+  - title: "White House encourages hands-off approach to AI regulation"
+    excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector,"
+    publishedDateTime: 2020-01-07T14:18:06Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/white-house-encourages-hands-off-approach-to-ai-regulation/ar-BBYHM2j
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8CBF2F5C2522985B38B7B47080DCC660
+        width: 700
+        height: 367
 
 secured: "vmAoM5MSonhZehOkU7Zl/UOtHYwu8xMPkM7pDChApE1XH1MixY3eOF/568yF6Yg2U2TjFRd/oFLkPu0op2Z8agz+b57CdEUVqcFBcINohQVPuDygBlzrjr6Q0KEp9WYwnwwg8Un7S1s7eh9TeX/FONiRBcPTY5ZlZMbQzcWaF+eAepwDZB1ewHtP9hP9FRHv6U+jafDfBvlTIgf1Vo0k1XJmM7baT1sRusLLbVNMBogsSOA0/Ru37ztVX6EnuxBVmHI6Y5G2aPWsoj1+4bvMxA==;2fUwVv8pzpQvwwKYXOcRZQ=="
 ---

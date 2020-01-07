@@ -33,6 +33,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
         width: 700
         height: 525
+  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
+    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
+    publishedDateTime: 2020-01-07T14:18:00Z
+    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
+        width: 700
+        height: 394
   - title: "Podcast: Advancing Deep Learning with Custom-Built Accelerators"
     excerpt: "Deep learning workloads have evolved considerably over the last few years. Today’s models are larger, deeper, and more complex than neural networks from even a few years ago, with an explosion in size in the number of parameters per model. The Intel Nervana Neural Network Processor for Training (NNP-T) is a purpose-built deep learning ..."
     publishedDateTime: 2020-01-03T16:08:00Z
@@ -47,18 +60,18 @@ related:
         width: 533
         height: 562
   - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+        width: 400
+        height: 225
 
 secured: "nN7XfiOjQ68QuUkKDDQnoJeL0abMCRFHTSL/6jaoOUkAo2xd/m8U3E86kIdF+RBCsZS+Kb/VthQL2GQS+c41xVU0pbkCIKTvhbh1710CteLzPYxSSk0jjjlPXvh4NrS3cf2ivFVD0NQANq9IkiiXsPjAlnbCiZ/28C1UUri39JSfC++WoYDkwdxcmcar8A4JS49jzntEnrXAxWEzGy6vFAZ7RMN7X6eu6r8jCg6P2VNHbQdYhnGTXg85QBSMYSoBl5H0zsz0GQUcCS+FNY5U0A==;8f2liVBLnQF7pImYhkYtSQ=="
 ---

@@ -97,6 +97,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Retail Market Size is Expected to Exhibit USD 27,238.6 million by 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has released a new research study on Artificial Intelligence in Retail market Analysis 2018-2025 inclusive of one or more factors covering regional opportunities, application landscape, product demand trends, and end-use portfolio of the industry over the forecast timeframe. The report also ..."
+    publishedDateTime: 2020-01-07T13:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-is-expected-to-exhibit-usd-272386-million-by-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Security Market Is Likely to Experience a Tremendous Growth in near Future"
     excerpt: "Jan 01, 2020 (HTF Market Intelligence via COMTEX) -- Artificial Intelligence in Security study will help you investigate a detailed division of the market by the end user/industry, by best in class product type and by geography with creation, income, utilization, export & import data in these areas, crunching historical data along with ..."
     publishedDateTime: 2020-01-01T20:13:00Z
@@ -136,6 +149,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
+    excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
+    publishedDateTime: 2020-01-07T12:57:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ai-for-healthcare-start-up-lumiata-expands-leadership-team-with-industry-standouts-to-head-up-platform-engineering-sales-and-marketing-300982377.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: https://www.bing.com/th?id=ON.DEC19AEFCE64C02F9349BF8265F28615
+        width: 700
+        height: 366
   - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
     excerpt: "Other factors attributable to the market growth are the potential impact of AI on speech and voice recognition accuracy, increasing need for better healthcare software, mobile banking, smart home automation applications, and increased demand for multifactor authentication voice-based biometric systems. The Global Speech Technology Market is ..."
     publishedDateTime: 2020-01-07T11:07:00Z

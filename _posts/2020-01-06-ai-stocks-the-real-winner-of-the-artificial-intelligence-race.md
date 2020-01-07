@@ -1,17 +1,19 @@
 ---
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-publishedDateTime: 2020-01-06T16:19:26Z
-sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+excerpt: "Many companies are vying to dominate the artificial intelligence (AI) space. The market is worth billions, and it’s only going to keep getting bigger. According to Grand View Research, by 2025 the global AI market is estimated to hit a stunning $390.9 billion! So, it’s no surprise that tech companies want a piece of the pie, and as big a ..."
+publishedDateTime: 2020-01-06T16:19:00Z
+sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace on MSN.com
-  domain: msn.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
@@ -27,9 +29,9 @@ related:
   - title: "6 ways that Chinese tech is ahead of the rest of the world"
     excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
     publishedDateTime: 2020-01-04T12:00:00Z
-    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
     type: article
     provider:
       name: TechRadar
@@ -107,6 +109,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "xxyngEXgm/kcJQ3KWPs68NAdlsDlL2Fmvk0Wyyg4wTVSV5wBJKgsfQtrtrLbUAkeLk2nkSWqFa50sD5m3ydOzEl+r7B6eINQbPSbtEapS92GTW1b2vCwOZ84Jw5LMhxIYiD+U610/ovIypc0kaAUsMkNfbKseoTvHOPGzhoqfGe7L75nnCO0n+7LLSJfSAaY/v2ePH02RMqD1FboR4MiYLOv77h+4EhQMXiklpEGc3b47RmiT0A76mnjN2B1Ra0MmQQ+Wp+/zQRba3TwEuODsg==;GkwrO+eO0CNStZV/ljwkbA=="
+secured: "jvomwiv3LPwgSpk0hRgxeQin0PzOFOo/ZorEDNIT2HPXUX3o3qac52lcvGknR8gnHAVIuLKTIfRtRbKMhaWwd1RorY37UJ0JeyUfjKLp18fyZu6T1qyd+OGSc7BV7I4JRHIrMRPw+SV5NOgk9VchemYMILRIiZg0sUfUeWJDrMqX8isQJ+xt+BOr7cujhammFTEb4bdTyWtqU5R7Pfvs5AwnHYaCdFdXOWVSrNS2S+5wxlI7w+mPQmci8xf1BiwT6HUEgOUoo4muTCFp/npV+g==;PbalOZ6IAx0YVdO6uBltbA=="
 ---
 

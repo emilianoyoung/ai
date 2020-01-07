@@ -42,6 +42,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning Market Size will reach 39.98 billion USD by 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has added a new report on Machine Learning market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size. Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the ..."
+    publishedDateTime: 2020-01-07T13:19:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-3998-billion-usd-by-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning As A Service Market Technology Growth and Development 2020 to 2026"
     excerpt: "Jan 05, 2020 (Market Insight Reports via COMTEX) -- The global Machine Learning As A Service Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape, manufacturing, and pricing and cost structures. Each section of the ..."
     publishedDateTime: 2020-01-06T02:52:00Z

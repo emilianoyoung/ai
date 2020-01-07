@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 93
     images:
       - url: https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&amp;strip=all
         width: 1200

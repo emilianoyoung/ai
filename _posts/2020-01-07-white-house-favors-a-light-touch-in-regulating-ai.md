@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/white-house-favors-light-touch-regulating-ai
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/white-house-favors-light-touch-regulating-ai/amp
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -85,6 +85,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
+  - title: "White House encourages hands-off approach to AI regulation"
+    excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector,"
+    publishedDateTime: 2020-01-07T14:18:06Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/white-house-encourages-hands-off-approach-to-ai-regulation/ar-BBYHM2j
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.8CBF2F5C2522985B38B7B47080DCC660
+        width: 700
+        height: 367
 
 secured: "WZ6rMg1I7Ix/91KcepsnxjLKq83ZA7HnwKEEuO8p0yPqpJa9W+/dIABh+vy7paX13x4hRipIl3VdPtXMcNE9PTWQAp0Thd/IHQqF1Ywd2eP5rQKVhHHDsTIhXuBKxslsvZ081x9olgcrFDJYtreE3iyj2Hc1dTRoFDlJS4z7OgNMIZjN5XR0sdTVsNyhbVC7ahz84TtynoCufl5l0X5BPjVqoxWejEXuiGH1wFpf3VXajh76WhE1RPZZ3xeyjxmbilwRPIg0hRdMsnCmr1gcLw==;IlmfaKcpNGUMLXi74mhMXg=="
 ---

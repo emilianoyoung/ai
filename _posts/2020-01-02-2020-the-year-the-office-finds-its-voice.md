@@ -8,7 +8,7 @@ ampUrl: https://www.itworld.com/article/3509470/2020-the-year-the-office-finds-i
 cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.amp.html
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -20,19 +20,19 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Not Just Voice: The Natural Language Revolution"
-    excerpt: "What’s really at the heart of the movement changing customer interactions is Natural Language Processing (NLP). Considered a kind of AI, it includes, yes, the speech recognition that enables a voice assistant to respond to a talking human, but only if it understands the use of the words that it hears. Being able to interact in a natural way ..."
-    publishedDateTime: 2020-01-07T11:06:00Z
-    sourceUrl: https://www.dmnews.com/marketing-channels/article/21108689/not-just-voice-the-natural-language-revolution
+  - title: "Is This the Year of Artificial Intelligence?"
+    excerpt: "I've been reading some year-ahead technology predictions. Most, if not all of them, suggest that artificial intelligence (AI) applications should be high on every company's radar. Automation seems to be a key buzzword for 2020, but it's related in a sense to AI. That is, computers will automate some decision-making tasks, and data will go from ..."
+    publishedDateTime: 2020-01-07T14:28:00Z
+    sourceUrl: https://www.rfidjournal.com/articles/view?19142
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 24
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.8E4D3F553CD404B173F47A32F68C3085
-        width: 700
-        height: 423
+      - url: https://www.bing.com/th?id=ON.0B6A4824C0E085CB4FB5E372C5610186
+        width: 96
+        height: 138
 
 secured: "Je4OgubJyXwl3PAN6KXhi7nQR8f5JOrBP6cS29L/tu2HD7y7U+B46PiXLV8FSAAlTTW/StiBtMYy+dcRumUvkO5HudwhQR1rSa3f8eBruKzx567VjVPGlW0iRBKWLrhm17P+SiCbxY3UJ+ehwJ81gx8STU5kvN8mMaCb+R3VTFMATu1nUuppve3GVC1hZL9qNmkvKCwgSYCH09iUIezB9hEuzvpXZGxSP+icoejPHhgqKhYCil/916iqPLbOl5aGQ+YHdkWwlj7s5hPyCX07qQ==;o9sDDMdidCuzGsogSpxLEg=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+publishedDateTime: 2020-01-07T14:51:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+    width: 400
+    height: 225
     title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B3E2A0958C13168EA831AFA46BE9C31D
         width: 700
         height: 525
+  - title: "IBM Advertising Accelerator leverages artificial intelligence for optimum viewer engagement"
+    excerpt: "Powered by IBM Watson, the accelerator will use artificial intelligence to predict the best choice of creative elements to be used in advertising that will, in turn, translate into high engagement and conversion from the audience. Specifically, by leveraging artificial intelligence, three important factors while advertising will be enabled:"
+    publishedDateTime: 2020-01-07T14:18:00Z
+    sourceUrl: https://www.neowin.net/news/ibm-advertising-accelerator-leverages-artificial-intelligence-for-optimum-viewer-engagement
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.24F27A9CB0BEE9E633703A1C3CD6B35D
+        width: 700
+        height: 394
   - title: "Podcast: Advancing Deep Learning with Custom-Built Accelerators"
     excerpt: "Deep learning workloads have evolved considerably over the last few years. Today’s models are larger, deeper, and more complex than neural networks from even a few years ago, with an explosion in size in the number of parameters per model. The Intel Nervana Neural Network Processor for Training (NNP-T) is a purpose-built deep learning ..."
     publishedDateTime: 2020-01-03T16:08:00Z
@@ -62,6 +75,6 @@ related:
       domain: openpr.com
     quality: 13
 
-secured: "0Vrvv9cwTj0Q2acKZyMpl64RTkQLJQg0smjQvBFikULly6+9hpZ97m+6xTjqBBibSQ+A9apvHhRMH61bsbHi3Nm5SNxBsLW3Da3z5/FhhJlsvpd/FyuVPPVDyU9sQgGCKnYHKefh2ZJcKSsekyBcQ7Uk4poOH0eaJ5fxIbkA5OvOjL2FwN6zdEE/JwEWy+q06Bs9MLDGQjpBKA64k/eSoUN5EWKlJBj2Ox8gS5zPv+oZ/tOMjegUs3G539vsG9OJT/d2tnDLhVohMkn4n+Pa7Q==;6hEeTNxIbC42/b5wKCwgHA=="
+secured: "qCcnooYaijjBHIgFTOlrqs9a/C364SmHdP0FV5QI349uGc1SZL4YI6RCgxIRwVvSQWBWuGXLGLZEfpqyhuX7xn/YtKfHOaYrB+PZr6Nbfx+w5UUALDDQteKV095oecPe9O5vytl9rpJcQp8y2QjvWklRsN5ZP7bFTOCeUXdido7Y1+S13jTjBKeX8HN8/G4/knZL9zPFRmDhMqPfr5WEDZk8SGWvjS9AI5rQqFTvHnYmOppH+e1lF7wilqRpyfvsIUdO5qoI4ho1nyATK4LHcA==;thXxHyDenGa3xZIS4OHQKw=="
 ---
 

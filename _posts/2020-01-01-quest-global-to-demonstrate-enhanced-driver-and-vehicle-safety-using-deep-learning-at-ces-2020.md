@@ -69,19 +69,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "With the release of Trains Agent, the open-source solution suite now provides a full AI cluster solution, with resource control and autoML capabilities, bridging the gap between data science and DevOps. Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track ..."
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
-        width: 700
-        height: 368
 
 secured: "oQo/QulFxzOS2fZ1o0rTZAA/xlKWZeOWpd/L4cwhPxBls9ulfQwHRzZgw0gDy+Gw2Lg7vQR04cv5W9R+40cCkOev5EIwv6mRorJlGboRdzRsGAkbef3jjZHMONvw7ljn281cSYbteQgIbb4/dW9UaG4zBCcFi1GTaSAPgkNVQYVorgUtDFCVavnOWjf+eInO9ZmWJd3Q5EZ1IQa8b+u55oal2o+huRvw3IuQpaDDpl66S9PHvhFvPW4Zefx+KSp9u/kT9PKknwTcbbvhfGK81g==;J0nEh9yHYGt23xX8XClp1w=="
 ---

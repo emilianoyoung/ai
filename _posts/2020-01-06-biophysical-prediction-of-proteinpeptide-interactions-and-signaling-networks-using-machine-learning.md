@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T16:07:00Z
 sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,28 +24,15 @@ images:
     title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
 
 related:
-  - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
-    excerpt: "\"The edge is the perfect destination to deploy machine learning applications, especially as technology advancements are enabling accurate localized decision-making,\" said Martyn Humphries, vice president and general manager of i.MX application processors for consumer and industrial markets at NXP. \"With the i.MX 8M Plus we are enabling leading ..."
-    publishedDateTime: 2020-01-06T16:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/nxp-debuts-imx-applications-processor-with-dedicated-neural-processing-unit-for-advanced-machine-learning-at-the-edge-2020-01-06-12184034
+  - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
+    excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200107005204/en/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
-    excerpt: "The i.MX 8M Plus combines a high-performance NPU delivering 2.3 TOPS (Tera Operations Per Second) with a Quad-core Arm® Cortex-A53 sub-system running at up to 2GHz, an independent real-time sub-system with an 800MHz Cortex-M7, a high-performance 800 MHz audio DSP for voice and natural language processing, dual camera Image Signal Processors ..."
-    publishedDateTime: 2020-01-07T01:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/nxp-debuts-mx-applications-processor-170010859.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "e2vv3XME3YlnXVaX8yxRfD5dTUH0prZNO6SYZMj3bN9F/DYSuVnlJsRAabqYuwyHt0aVF4OvXG6kKJ6SIBCmk+WxzGAlF9pUfslTpd+FR/F6QStfb2dHeL/R+jmxJmSorXSTlXFCQeCpwb2SnIDHs4e9y215pLsD2oLqFZqgEjBPIl8q2Q/bi2FKhXf4uAj6zAPuEnGLRKJSZDGAsbGx92fTN4Yz7EJHnIvzbafMUGX8FVWLRjiz2alfvNTLTYeYQHSCNwWE+414eZ7s/Gcwfw==;pBVHM9+CWP2EFig91EOKmw=="
 ---

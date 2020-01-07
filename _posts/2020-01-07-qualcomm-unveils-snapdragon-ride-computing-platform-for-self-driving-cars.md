@@ -24,6 +24,21 @@ images:
     title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
 
 related:
+  - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
+    excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
+    publishedDateTime: 2020-01-07T13:34:00Z
+    sourceUrl: https://www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07
+    ampUrl: https://www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 74
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Qualcomm Officially Enters Self-Driving Market With Snapdragon Ride Platform And Extends Partnership With GM To Include ADAS"
     excerpt: "Today, in Las Vegas, at CES 2020, Qualcomm made what I think is the company’s biggest announcement yet in the automotive market: the unveiling of its new Snapdragon Autonomous driving platform for self-driving cars, called the “Qualcomm Snapdragon Ride”. In addition, Qualcomm announced it is extending its partnership with General Motors ..."
     publishedDateTime: 2020-01-06T19:36:00Z
@@ -69,19 +84,28 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
-  - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
-    excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
-    publishedDateTime: 2020-01-07T06:29:00Z
-    sourceUrl: https://www.autoconnectedcar.com/2020/01/qualcomm-drives-more-autonomous-and-automotive-platforms/
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2020-01-02T16:51:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 24
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
     images:
-      - url: https://www.bing.com/th?id=ON.62C8ECE3C4CC2D22FC0A0E3AAA928DA1
-        width: 569
-        height: 325
+      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+        width: 700
+        height: 459
+  - title: "Self-driving moves closer with new LiDar innovation"
+    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
+    publishedDateTime: 2020-01-05T19:10:00Z
+    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
+    type: article
+    provider:
+      name: motoring.com.au
+      domain: motoring.com.au
+    quality: 4
 
 secured: "IZSIc+r3g4wWUz56mI4gRh7juV9Vr6YDZEpFWKGT2njs024tGlzDuQYEWhWiarXguhI7ux6GFwwckLPl9YaQd18Au53Pnt0m+pJRj/o8+H7gx4m2FopYkf8MSVlJDSyDOhfmnp94Qko7FUyPL1bRbFGfg/lctC1pouWvOkrr5tzFITsH+WOYSRF4rc19cjmoj7oVZH/kKbHMAI91CnffzJakzwclRnG/IzkINaWSRQcpWcLOK1RbfguXSULbKzS/I44u3lYt8Z25MzuJubnl0Q==;LlN7k/UmK5YFFJ/vzf8HkA=="
 ---

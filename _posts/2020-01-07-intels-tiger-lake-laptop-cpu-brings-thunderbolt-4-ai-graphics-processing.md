@@ -90,6 +90,21 @@ related:
       - url: https://www.bing.com/th?id=ON.EDF352B768ED032229E32BF1C844E0AE
         width: 700
         height: 525
+  - title: "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture"
+    excerpt: "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double-digit performance gains.\" The GPU will be based on Intel's new Xe graphics architecture, an integrated graphics system that will offer \"discrete-level ..."
+    publishedDateTime: 2020-01-07T13:15:00Z
+    sourceUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture
+    ampUrl: https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+    cdnAmpUrl: https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.642B412B6F1C1A67B02C37D4737DF539
+        width: 700
+        height: 390
   - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
     excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
     publishedDateTime: 2020-01-07T01:49:00Z
