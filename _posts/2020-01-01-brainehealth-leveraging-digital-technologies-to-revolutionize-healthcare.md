@@ -80,6 +80,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 52
+  - title: "Healthcare trendspotting: Current digital initiatives that portend our healthcare future"
+    excerpt: "Below are examples of how we see this playing out, as governmental programs, healthcare services, and brands pursue initiatives – often powered by artificial intelligence (AI) – that will transform healthcare over the next decade. Governments everywhere are bracing against what has been dubbed a ‘silver tsunami’ – a rapidly rising ..."
+    publishedDateTime: 2020-01-07T16:52:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/opinion/healthcare-trendspotting-current-digital-initiatives-that-portend-our-healthcare-future/3347
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.C4DD5F267C8E6C298E517F066359E185
+        width: 700
+        height: 496
 
 secured: "1d0H98VaVpKesRKQYZg5vQFAWMcCqYZ0/LL6pooSxrO6pWQhDlMQgIZFdvbVxbBlrNTRG9+d14fnN2Yrzy30PYfrSMJ/PdE5kykAdmPErO2g8fZiduS+5d5lMMTD9zjOCdj/f1nY4UjMfOjxnNWUGerWt8iUbQnBq7NJ2/EWqizRaZtgrN8LbGsNN5elVk4lZBIWaLJX+J5OfezKOW0e/z6yvkGyzydDz7tXNvprPJm7td4KVFeMiJEyqxvGkCOX4Sd7BAxTRMwQENFuMS9OKg==;QL86vqkI0BcASRFILcHGsw=="
 ---

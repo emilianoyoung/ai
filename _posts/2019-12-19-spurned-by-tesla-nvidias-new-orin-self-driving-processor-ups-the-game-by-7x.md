@@ -8,7 +8,7 @@ ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-pe
 cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -58,19 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
         width: 700
         height: 364
-  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
-    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
-    publishedDateTime: 2019-12-18T15:44:00Z
-    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 23
-    images:
-      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
-        width: 1344
-        height: 742
 
 secured: "3STqLhabaAtqXL5OpLa6Q9RSQl7rURnFYayqhuSiHATeeelahLAJR4Ks6OX5PYARZTYYM5DIlTXp98yuXgGO487MYxgGbj6Cyq4HJnWonLQPlrLrpwviMEUN/WWFiR9JJnRbaX1yR4yToCkKWdsbHAx9YNN5fB70XcBhbTH5o4NEzrcUmH3kdFhyX3FQgfnH3l2hAGk3Fq4fnU8Pl93f72dmlphkFft/UlLa5yCiiCEBDS5cCEcMkW5lmIh2ruysmoVuKsqA/+97AuHWNWNhyw==;udKA1BM21o1w041dxcAWAQ=="
 ---

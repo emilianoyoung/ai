@@ -2,16 +2,18 @@
 category: news
 title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
 excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-publishedDateTime: 2020-01-06T16:19:26Z
-sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
+publishedDateTime: 2020-01-06T16:19:00Z
+sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: InvestorPlace on MSN.com
-  domain: msn.com
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
   - AI
@@ -107,6 +109,6 @@ related:
       domain: governing.com
     quality: 24
 
-secured: "BdRapRZn1lkl1wxeRrBmWo0CMAc2hQOP7gVWeXUTMef8ikoXpZHttg3rJFSxN665zQ+c0x8cngYvr+0kaUfrg1Xgth9pdVN9v2Lan5Z5upSYVbg2WVdlJnGbdhnOw8orkuG7gtTXGUyPQvjG17g7DbgoHtzi3cYyaDXF4MKS0K7PHLsfBN7yQw/9Pwblq91pXmr0U8AvENKWKQgjYq5GnprO87UgKfvbUWb4CmhGjp0XVP2fOCMn/Qzhm04OaGqWI1mNOLCMeQahzlp0FfSwOA==;NTcfY0BWTfi2KDORGMUV4w=="
+secured: "Ympf0Iv/fePaeN3v81K2wzQhHT6YMG0lPlk/Xm7hM+Ii1z/nIsZ2YuuD3/tfhAbzoM9mAlLZu2RH9L4rZmSQqNfzzFsBWDuZVAhr+qk1GHJYFTFeIh9vwuBBauqpyebZ9a6/8R0ENkZEMDHnNlVrHglBv4Jm0i34VjRRtGUCBBjB+E1xA5R2c1YuqSUuJKlMlTqArltca+GnWZRcKd+gjZwRh8fEDiHsPmpcPk3UcBdNAD/pAnm3ne8Gw7w8aBswaJHk3p/ABKRma/nx7ljphQ==;el5UWlkrzsFE9+SRqi2mLw=="
 ---
 

@@ -39,17 +39,6 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 153
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ... What enforceable rules does HUD have in place to ensure that biometric data collected by facial recognition technologies in federally-assisted properties are kept secure and subject to effective cybersecurity ..."
-    publishedDateTime: 2019-12-18T15:26:00Z
-    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    type: article
-    provider:
-      name: BuzzFeed
-      domain: buzzfeed.com
-    quality: 106
   - title: "Is Valley Fair mall’s security robot using facial recognition?"
     excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
     publishedDateTime: 2019-12-20T18:55:00Z
@@ -401,6 +390,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "C8OuJ0U3hheaz9HZX8QqQshP7OvHMUByObGRZaELW36dLN/I4PVN19M7m7EY2ZuLI5pu6Fhs0cQT83jkFjaEYgmWhX+VtLKrbLjAdE9qmRiTTMTO4OkxB+y+0ymlKUyBZvbdr8UyXXfNntvRiRZDCwmcDnkHRbrATjx5yd9rM5gWNqBsPRpVdKtropBLqruZiEpmO0dr5JIK4WNqMEVm84nLMV65JkTpDTI4W6QQawB6kI/JN06Vez8u6I/4qp5liNNU/wxQjfyu/XHGUG0W5g==;Xg1dDG+/wBFJ7tCbOV1w0w=="
+secured: "c9WPxvoEc6oIgwAMW8IL80/GKigt6+ksHLsMqm/mMscQuNiYA0VCmjpJQiyMSyepSxsqyQ8a2PBhOkO7Yr5TyGcS0gloA4MdWohQjl75PJnrkCIpS4aGoO05uTmIEc7iwLdPGf2iqfmLIfql8c35cjbuNyNbFAeen/0QodTO6iG3T4ln/FJfk+O/JWgnbYbBaDoMNCXKEBFQZIBElM9KEhoU0U5S2+Ml4hhqmK9rw+JtC0cJTMmNtcxyvQ6X4Zcg//8OHi7vdIpsq9au72dxcg==;vlRvz2whwdm5Smpy0qmWcg=="
 ---
 

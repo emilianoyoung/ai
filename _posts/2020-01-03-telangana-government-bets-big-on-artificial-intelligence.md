@@ -80,6 +80,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "Healthcare trendspotting: Current digital initiatives that portend our healthcare future"
+    excerpt: "Below are examples of how we see this playing out, as governmental programs, healthcare services, and brands pursue initiatives – often powered by artificial intelligence (AI) – that will transform healthcare over the next decade. Governments everywhere are bracing against what has been dubbed a ‘silver tsunami’ – a rapidly rising ..."
+    publishedDateTime: 2020-01-07T16:52:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/opinion/healthcare-trendspotting-current-digital-initiatives-that-portend-our-healthcare-future/3347
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.C4DD5F267C8E6C298E517F066359E185
+        width: 700
+        height: 496
 
 secured: "lq5zac2a5mv/pYooygF/lyKvnJJl230+OMMGQ2+zE0s0EWSPIp60lJhrP6iwIh/HnBFgwA4q/so9rBCPMaU6hgxlZ+PuiKcgIRKr8PTmSiRY4lonlqoBSRwV3d2NjDuz/F2Zwmoy26dqaAD/VLdYi76WkzLUirmHxJyscsgdriPRqBll0HAmblfPcciZqf+bO1tlW4/ADwnjo9FQyV5yOTjLzfThb7GWEUT+E/N51o9Po8qRmugldcsZJjmMGXQ/NyCLS+SyEhykO6+J8ksDAg==;eHofq8QV9yb7Y5XMsv74mQ=="
 ---

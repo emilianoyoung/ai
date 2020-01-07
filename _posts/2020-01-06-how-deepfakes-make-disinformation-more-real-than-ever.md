@@ -101,19 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
-  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
-    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
-    publishedDateTime: 2020-01-07T11:33:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
-        width: 300
-        height: 300
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z
@@ -167,6 +154,6 @@ related:
         width: 1368
         height: 576
 
-secured: "l1a9iZZIqQ1oSH98mgwRVwZXSHDGJLh8nVyTQZwaTNQEgglcjgirIcsrPKocexghbRh1f91/X+556jO+nlcPufNw6FYCa3ZvMO7VvbfuFlvNa9gAv6iciI7uiU+zjD/qFmbJWQAu3T/qjkmx6UWjrzOHKNIycNBqXk6uZNscfbn19AFsHHGz/KfMyiBAIozecizin/9jpNM11i/66BNeXgJ2ZThY31RTVYaKvAH/X4F7PsKbbB+TwE3tvHorWY8z84w1+DWDWDXfWQLRsm40+Q==;KaZEFdf0jssYy5sMpL8onQ=="
+secured: "pHZ+a2Xwp8KtsOVWPVPg+GrkhkFdoLgY/uVskespowKnFeGdp+oeJZAZmH/qjObE5956xOWcec1m3yX6YcFK/gFln4LGh6fkVKj1tsShwcy4fgZz9RGswKISwULUTxrl7aCzz2xMI2t4ZJUKfKr20VEwXS41nHd7ibdEt/cDMDbl+zSgfZIw3mUHct9aMeTXwTWpWaJot6NjYsi9NZ9ImdlDdKq3SovYfn6AtD7zbyoyXtrw1sEGzGANtnRj8+/9SH7PW5OlZbRC6dV1rHiE0Q==;qMI9qacHwlYHlJpT6WZ0AQ=="
 ---
 

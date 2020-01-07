@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-d
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/31/baidu-secures-licenses-to-test-self-driving-cars-in-beijing/amp/
 type: article
 quality: 89
-heat: 469
+heat: 479
 published: true
 
 provider:
@@ -232,6 +232,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
         width: 600
         height: 315
+  - title: "Qualcomm is getting into the self-driving market"
+    excerpt: "It might seem strange for a smartphone chip company to tackle self-driving, but in reality, many of the same technologies exist in both products. Qualcomm has long leveraged its mobile chip lead to grab a significant chunk of the broader system-on-a-chip market. Smartphone makers buy Qualcomm Snapdragon chips that contain an ARM-based CPU ..."
+    publishedDateTime: 2020-01-07T16:10:00Z
+    sourceUrl: https://arstechnica.com/cars/2020/01/qualcomm-is-getting-into-the-self-driving-market/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.BD0980330B1B96209049D5586291CE10
+        width: 700
+        height: 350
   - title: "3 deaths in rash self-driving Tesla crashes threaten Elon Musk's autopilot ambitions"
     excerpt: "DETROIT (AP) — Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. Continue Reading Below On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed ..."
     publishedDateTime: 2020-01-03T11:26:00Z

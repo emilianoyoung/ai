@@ -26,7 +26,7 @@ related:
   - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
     excerpt: "Using Avnet's IoTConnect platform, powered by Microsoft's (News - Alert) Azure IoT Suite, developers can seamlessly connect devices that address ... by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet's new Partner ..."
     publishedDateTime: 2020-01-07T14:11:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-avnet-launches-new-iot-partner-program-ces-2020-/2020/01/07/9077502.htm
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/07/9077502.htm
     type: article
     provider:
       name: TMCnet

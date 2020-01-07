@@ -8,8 +8,8 @@ ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-del
 cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
 type: article
 quality: 55
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Windows Central
@@ -25,47 +25,47 @@ images:
     title: "Killer Intelligence Engine now uses AI to deliver stronger and faster Wi-Fi"
 
 related:
-  - title: "Rivet Networks's Killer Intelligence Engine Taps AI Power To Strengthen Your Wi-Fi Connection"
-    excerpt: "River Networks is injecting a bit of artificial intelligence (AI) into is Killer Intelligence Engine to bolster wireless connections. The general idea behind this is to constantly monitor and \"score\" Wi-Fi access points in order to ensure a user is connected to the best available one, thereby resulting in a stronger, faster, and more reliable ..."
-    publishedDateTime: 2020-01-06T15:02:00Z
-    sourceUrl: https://hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    ampUrl: https://amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
+  - title: "Bzigo uses AI and a laser pointer to detect mosquitoes in your home"
+    excerpt: "Benedek would often wake up with mosquito bites. He started the company in 2016 and his team in Tel Aviv spent three years of research and development to create the AI-based mosquito locator. Above: Bzigo researchers operate out of Tel Aviv. Repellents may offer partial protection for a few hours at most and require constant re-application to ..."
+    publishedDateTime: 2020-01-07T16:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/
+    ampUrl: https://venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/amp/
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 46
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.24C60AA77046AE81EC288BDBF714CF7E
+      - url: https://www.bing.com/th?id=ON.748ECC47E5B0681E8B556A783CC7775F
         width: 700
-        height: 336
-  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
-    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
+        height: 393
+  - title: "AI system found to detect breast cancer better than experts"
+    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
+    publishedDateTime: 2020-01-02T11:05:00Z
+    sourceUrl: https://www.irishtimes.com/news/health/ai-system-found-to-detect-breast-cancer-better-than-experts-1.4128713
     type: article
     provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 44
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
+      - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
         width: 700
-        height: 373
-  - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
-    excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
-    publishedDateTime: 2020-01-06T19:00:00Z
-    sourceUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/index.html
-    ampUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
+        height: 367
+  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
+    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
+    publishedDateTime: 2020-01-07T11:33:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
+        width: 300
+        height: 300
 
 secured: "F6LmLHRReHQEMyOEVMLC3ts3b5fhIMw5iqtvLwZf4Lb3JWXKJUVTQArl30J7byvJAItgzCjsXjD2aWzt0oHy8xOsl9ESiDzQuoJEQwWC8XjzesY8AbqKYtcDHuCLllCdEa/QHcmpUugvvRqMcHIcGrgyxKS4TwSbQmFFGwBUJz7slRrsywFtpwvIVh9iqJu8dv/i+TUJZZpfI5Bot9Zv2OmL0+ZHFShTDOBL/XnR76bCOZLe95rsvNG+XOqE/aRv2al3wmN5Zx5CWc1gbM0TcA==;0iCD5KZSDvARV2OTSLSGMA=="
 ---

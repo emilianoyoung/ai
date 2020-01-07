@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
 type: article
 quality: 86
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -102,20 +102,7 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
-  - title: "AI system found to detect breast cancer better than experts"
-    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
-    publishedDateTime: 2020-01-02T11:05:00Z
-    sourceUrl: https://www.irishtimes.com/news/health/ai-system-found-to-detect-breast-cancer-better-than-experts-1.4128713
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
-        width: 700
-        height: 367
 
-secured: "VML+3JFIndiHkGoOf2nnctKaLtdxb2bFpJk9er039R37np0Tg3oqhtdGE5imgT/u4SN6rxIAMMaMwTpPCm4bJqD05aSEoS7NTR7UQ2uC8/pjxBoKL3ADUV/CCdPztmPD4FAEOvM/RlONVRAc3vRqgw4oE4Yw2EPPVl4TfTTpZpKr6Q8QJ8yldlyt2WIDoBal6thUMzmB/GFKUltbFjwxdZetfoVbQbOMNJd9172/fULxnmZohLBRJijR3Dj6Ldm7wCKmSjKhu43M2lRUapEwFA==;VSN/HSal1L1y0vU7sJFcFA=="
+secured: "rD34KmLVybLw6Rx0X34VBeiPdFmtX5SbLnhdSBd8HQ+IZU+fXkh6hAwcas0FY02TUZ9f8CihCkmXK1y1VXcxy6Cgz9STjS6byQrQreMhhntOiwPoJ1Jfx1SzqkaMyDsP6xA9cFekZvzxLsbytw+2G1C1NekAN2zPmu2NZx1PqVc4euidcr/y58p0lc6iugp/dTuroXTzRwZIi2reywZ4ydk2q45MFSu3okpIcMOJtBRoDyeLTJEBcKKbN6+S5+wkTmrsQkYtfP7eLuchVEJX0Q==;l/SmonY8OAm0U5z9PLTHFg=="
 ---
 

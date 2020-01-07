@@ -24,94 +24,49 @@ images:
     title: "AI system found to detect breast cancer better than experts"
 
 related:
-  - title: "Oral-B thinks its AI toothbrush can clean your teeth better than you can"
-    excerpt: "It's easy to joke about some of the inclusions Oral-B made here, especially considering that an AI-powered app might feel like overkill for brushing your teeth. But the company did some clinical tests with the iO and says that users had 100 percent healthier gums after one week and six times more plaque removal from the gumline. And among ..."
-    publishedDateTime: 2020-01-05T22:00:00Z
-    sourceUrl: https://www.engadget.com/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
-    ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
+  - title: "Bzigo uses AI and a laser pointer to detect mosquitoes in your home"
+    excerpt: "Benedek would often wake up with mosquito bites. He started the company in 2016 and his team in Tel Aviv spent three years of research and development to create the AI-based mosquito locator. Above: Bzigo researchers operate out of Tel Aviv. Repellents may offer partial protection for a few hours at most and require constant re-application to ..."
+    publishedDateTime: 2020-01-07T16:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/
+    ampUrl: https://venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/bzigo-uses-ai-and-a-laser-pointer-to-detect-mosquitoes-in-your-home/amp/
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.D317FC07BE5C9651170FC25A54767682
+      - url: https://www.bing.com/th?id=ON.748ECC47E5B0681E8B556A783CC7775F
         width: 700
-        height: 367
-  - title: "AI Is Not Just for Big Tech Companies -- You Can Use AI To Transform Your Organization, Too"
-    excerpt: "The top five companies by market cap — Microsoft, Amazon, Apple, Alphabet and Facebook — are the heaviest users of artificial intelligence (AI). But AI is not the exclusive purview of these organizations. Just about any business (even your own) can adopt and benefit from AI. AI can enable your company to: • Increase the value of its ..."
-    publishedDateTime: 2020-01-06T13:08:00Z
-    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/
-    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/06/ai-is-not-just-for-big-tech-companies-you-can-use-ai-to-transform-your-organization-too/amp/
+        height: 393
+  - title: "Killer Intelligence Engine now uses AI to deliver stronger and faster Wi-Fi"
+    excerpt: "Artificial intelligence is being incorporated into the Killer Intelligence Engine to produce stronger and faster Wi-Fi. AI will detect and move to the best access point, which can reduce latency by up to 50 percent. The AI incorporation is available now for supported devices. The Killer Intelligence Engine now incorporates artificial ..."
+    publishedDateTime: 2020-01-06T13:00:00Z
+    sourceUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi
+    ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
+    cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 55
     images:
-      - url: https://www.bing.com/th?id=ON.E2BF7D35D547222F26DA4707A1070E4B
-        width: 600
-        height: 315
-  - title: "Scientists built an AI that can spot breast cancer better than a doctor"
-    excerpt: "Artificial intelligence is already invading many aspects of our daily lives, but while “smart” virtual assistants like Apple’s Siri and Amazon’s Alexa can be helpful, more powerful AI might actually save your life. In a new study published in the journal Nature explains, cancer-detecting algorithms are becoming so adept at spotting ..."
-    publishedDateTime: 2020-01-02T23:38:00Z
-    sourceUrl: https://bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/
-    ampUrl: https://bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/amp/
-    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/02/ai-breast-cancer-artificial-intelligence-diagnosis/amp/
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.0964E0C007B9ECE04A7042B9F23311CB
-        width: 700
-        height: 462
-  - title: "AI Is Getting Better Than Humans at Catching Cancer"
-    excerpt: "This would save a vast majority of the time and save money and time for healthcare systems that are more and more burdened. Hopefully, a medical system infused with human critical thinking and AI-powered analysis can better battle one of the most deadliest forms of cancer in human history."
-    publishedDateTime: 2020-01-03T20:53:00Z
-    sourceUrl: https://www.popularmechanics.com/science/health/a30391960/ai-diagnosing-cancer/
-    ampUrl: https://www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
-    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/health/amp30391960/ai-diagnosing-cancer/
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.F4E7352BC5538E7FB959A89582362020
-        width: 700
-        height: 350
-  - title: "New study finds Google Health AI system can spot breast cancer from mammograms better than experts"
-    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
-    publishedDateTime: 2020-01-01T20:56:00Z
-    sourceUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254
-    ampUrl: https://www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
-    cdnAmpUrl: https://www-scotsman-com.cdn.ampproject.org/c/s/www.scotsman.com/health/new-study-finds-google-health-ai-system-can-spot-breast-cancer-from-mammograms-better-than-experts-1-5069254/amp
-    type: article
-    provider:
-      name: The Scotsman
-      domain: scotsman.com
-    quality: 45
-    images:
-      - url: https://www.bing.com/th?id=ON.D3A2DCD6DE08CC3B8F57B44FF391B6A4
-        width: 620
-        height: 413
-  - title: "AI system can detect breast cancer better than clinical experts – study"
-    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. We’ve partnered with @GoogleHealth to help make breast cancer screening smarter: https://t.co/L7lUGxBpYT pic.twitter.com/aKyYA3MDgM — Cancer Research UK (@CR_UK) January 1, 2020 ..."
-    publishedDateTime: 2020-01-01T20:45:00Z
-    sourceUrl: https://www.shropshirestar.com/news/uk-news/2020/01/01/ai-system-can-detect-breast-cancer-better-than-clinical-experts-study/
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
+      - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
         width: 700
         height: 525
+  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
+    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
+    publishedDateTime: 2020-01-07T11:33:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
+        width: 300
+        height: 300
 
 secured: "k7c7ge7ap56MNhepfS3RxEFmSwCGCMVrb6/rCgcArBF2cPz1BWKE58UJeR2/W/AFhee7Q3rStDWhhsr1mKG/M5hQ9kxYlr0txSH/Dj5/zVdvdTlNJvRcN38YoZ8nxAkYEdJsJTsGf2ls3b56vT/XpwFnVLxOoWf1ES79NIuXwX1ZrWaLBjZEdbVaL4KNGfqNiBB6WuCMlWPNCsIHJ3F+/2Zz+TMmKxZue+7T9L/q4Mvn4P8CCU+S7P8/qB8Moe/oHovRcRiC3H3xbbSs9zErDA==;t7317NC//y/+jkYyFrk9Mg=="
 ---

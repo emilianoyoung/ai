@@ -3,7 +3,7 @@ category: news
 title: "White House encourages hands-off approach to AI regulation"
 excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector,"
 publishedDateTime: 2020-01-07T14:18:06Z
-sourceUrl: https://www.msn.com/en-us/news/technology/white-house-encourages-hands-off-approach-to-ai-regulation/ar-BBYHM2j
+sourceUrl: https://www.msn.com/en-us/news/technology/white-house-encourages-hands-off-approach-to-ai-regulation/ar-BBYHict
 type: article
 quality: 37
 heat: -1
@@ -95,6 +95,6 @@ related:
         width: 700
         height: 393
 
-secured: "tQEdII8g/rJNNx9KxtUx1sD/e7T9HJWUUbWvJxcwGd5mSYrt9MLSfxUsE0BoT7XDJD7jz8WchN6pp6iNsSu03PaKlJPNTyq9QJyoseB//IwhVoTsaixeLU7y1WFEIXT6O1/ygPgsXxBK3UFKfKZJPbM02NwAh6uXPhs5ZmOsHX5Q/gge8G08IHCERjLRKNgtQcKLPZr/8EcbcWSaT4N3aR42KMOjxv5hWTrKyEFKe0YFAw68cu74w5uGVOFsSUyjMla3PhsMDi6ERbVLiZqRcA==;PbNSN7nv9jl+zX4z3OWnmA=="
+secured: "Vl+S8KyRigm+kJyFGxPDglahYY8DrT3NrX7ocHtUWFX98VgY7/g1fhmPm2DZeJB08pKFn+kauHlw0WsD7Wrrlg7JIUKDXJW3IRdBDd4ZfW8w8UmTFnaQ77wm7ic4gpBaTwa/HpornIM3Jrg0aYmDxNqIbu/TKmZZYPx0N1XqZtwDm98INze6r63UDVDw0QnZmRP19mUmCD2sjbxH6RZcIvLCEMSLlu3MXbUXm88RQpPiptDwvYdCzXokzG17vK8Ehx5t4wzZf92hgXAMuAZagw==;mIEERflrwc48rmWPXU114w=="
 ---
 

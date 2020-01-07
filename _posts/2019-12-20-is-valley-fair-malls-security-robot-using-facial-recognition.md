@@ -38,17 +38,6 @@ related:
       name: BuzzFeed News
       domain: buzzfeednews.com
     quality: 153
-  - title: "Wyden, Harris And Booker Demand HUD Investigation Into The Use Of Facial Recognition In Public Housing"
-    excerpt: "Signed by Senators Ron Wyden, Kamala Harris and Cory Booker, among others, the letter expresses concern that facial recognition ... What enforceable rules does HUD have in place to ensure that biometric data collected by facial recognition technologies in federally-assisted properties are kept secure and subject to effective cybersecurity ..."
-    publishedDateTime: 2019-12-18T15:26:00Z
-    sourceUrl: https://www.buzzfeed.com/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    ampUrl: https://www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    cdnAmpUrl: https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/carolinehaskins1/wyden-harris-and-booker-demand-hud-investigation-into-the
-    type: article
-    provider:
-      name: BuzzFeed
-      domain: buzzfeed.com
-    quality: 106
   - title: "Using Amazon Lex Conversation logs to monitor and improve interactions"
     excerpt: "As a product owner for a conversational interface, understanding and improving the user experience without the corresponding visibility or telemetry can feel like driving a car blindfolded. It is important to understand how users are interacting with your bot so that you can continuously improve the"
     publishedDateTime: 2019-12-19T23:59:46Z

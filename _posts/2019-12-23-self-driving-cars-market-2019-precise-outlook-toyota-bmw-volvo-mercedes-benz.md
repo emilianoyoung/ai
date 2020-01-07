@@ -56,15 +56,6 @@ related:
         height: 630
   - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
     excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
-    publishedDateTime: 2019-12-18T15:45:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-self-driving-car-market-analysis-by-level-of-autonomy-fuel-type-usage-and-region-2019-2030-300976964.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-  - title: "Global Self-driving Car Market Analysis by Level of Autonomy, Fuel Type, Usage and Region (2019-2030)"
-    excerpt: "DUBLIN, Dec. 18, 2019 /PRNewswire/ -- The \"Self-driving Car Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast 2019-2030\" report has been added to ResearchAndMarkets.com's offering. This research study assesses the historical and current scenario of the global self-driving car market, to precisely evaluate its future ..."
     publishedDateTime: 2019-12-19T00:15:00Z
     sourceUrl: https://finance.yahoo.com/news/global-self-driving-car-market-164500275.html
     type: article

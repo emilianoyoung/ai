@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Killer Intelligence Engine now uses AI to deliver stronger and faster Wi-Fi"
-    excerpt: "Artificial intelligence is being incorporated into the Killer Intelligence Engine to produce stronger and faster Wi-Fi. AI will detect and move to the best access point, which can reduce latency by up to 50 percent. The AI incorporation is available now for supported devices. The Killer Intelligence Engine now incorporates artificial ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi
-    ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
-    cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
-        width: 700
-        height: 525
-  - title: "Rivet Networks's Killer Intelligence Engine Taps AI Power To Strengthen Your Wi-Fi Connection"
-    excerpt: "River Networks is injecting a bit of artificial intelligence (AI) into is Killer Intelligence Engine to bolster wireless connections. The general idea behind this is to constantly monitor and \"score\" Wi-Fi access points in order to ensure a user is connected to the best available one, thereby resulting in a stronger, faster, and more reliable ..."
-    publishedDateTime: 2020-01-06T15:02:00Z
-    sourceUrl: https://hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    ampUrl: https://amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rivet-networks-killer-intelligence-engine-ai-power-wi-fi
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 46
-    images:
-      - url: https://www.bing.com/th?id=ON.24C60AA77046AE81EC288BDBF714CF7E
-        width: 700
-        height: 336
   - title: "Cognitive intelligence, in-memory-computing and more in 2020"
     excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
     publishedDateTime: 2020-01-06T08:11:00Z
@@ -64,6 +34,32 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
         height: 373
+  - title: "The Week That Wasn't: Cancer in Space, AI Predicts Intelligence, Curing Blindness"
+    excerpt: "You may have recently seen headlines about a project to send cancer cells to space, neural networks predicting kids' intelligence from MRI scans ... Is it possible to predict how intelligent someone is by using artificial intelligence and an MRI scan of the person's brain? Researchers from around the world participated in a competition to ..."
+    publishedDateTime: 2020-01-03T20:10:00Z
+    sourceUrl: https://www.medscape.com/viewarticle/923353
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.48572AE5B2B1D5509429C38087A5779C
+        width: 700
+        height: 393
+  - title: "10 Leading tech trends: How artificial intelligence will evolve in the coming year"
+    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
+    publishedDateTime: 2020-01-06T06:52:00Z
+    sourceUrl: https://www.dqindia.com/10-leading-tech-trends-artificial-intelligence-will-evolve-coming-year/
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.3834D35171684CD23218616FAD2D9B27
+        width: 700
+        height: 393
 
 secured: "CRu2zLy5+p9v8gcjzOBablc2iBr+X1tJMmwlf53agYQ3wl7nRbVGfXwTUZJ0QxYJvn7NfnY4i9RSKfion0gfDeaY4uYTDJygTFUit+xcwSDa+raFdMGEiOTb0wfnfOChC8aSxvcZkGxzKTOOgPVRXqrWqtEVQRln36LeePexJhZSvC6bXUZCo5gXvxljIVZSjFgmmm8rf8ZHybgtTN1Ihct2f5486sj2aGqahomlQXQTR7RioBbyy4fGJvsUOeQOcF9IUT9VDeSxwVND2XUhLA==;3SK3v+xmEcSjCKxwr6SuUA=="
 ---

@@ -25,47 +25,19 @@ images:
     title: "Rivet Networks's Killer Intelligence Engine Taps AI Power To Strengthen Your Wi-Fi Connection"
 
 related:
-  - title: "Killer Intelligence Engine now uses AI to deliver stronger and faster Wi-Fi"
-    excerpt: "Artificial intelligence is being incorporated into the Killer Intelligence Engine to produce stronger and faster Wi-Fi. AI will detect and move to the best access point, which can reduce latency by up to 50 percent. The AI incorporation is available now for supported devices. The Killer Intelligence Engine now incorporates artificial ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi
-    ampUrl: https://www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
-    cdnAmpUrl: https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/killer-intelligence-engine-will-us-ai-deliver-stronger-wi-fi?amp
+  - title: "Uber Creates Generative Teaching Networks to Better Train Deep Neural Networks"
+    excerpt: "The generator and the learner networks are trained with meta-learning via nested optimization that consists of inner and outer training loops. In the GTN model, the generator produces completely new artificial data that a never-seen-before learner neural network (with a randomly sampled architecture and weight initialization) trains on for a ..."
+    publishedDateTime: 2020-01-06T14:33:00Z
+    sourceUrl: https://towardsdatascience.com/uber-creates-generative-teaching-networks-to-better-train-deep-neural-networks-cab818a735fd
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 55
+      name: Medium
+      domain: towardsdatascience.com
+    quality: 50
     images:
-      - url: https://www.bing.com/th?id=ON.B931BE5270ABF6F7CE4214AB6C10EFFE
+      - url: https://www.bing.com/th?id=ON.365E39BBFE7AD4C5D2569085840AF6BC
         width: 700
-        height: 525
-  - title: "Cognitive intelligence, in-memory-computing and more in 2020"
-    excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
-    publishedDateTime: 2020-01-06T08:11:00Z
-    sourceUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/
-    ampUrl: https://www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    cdnAmpUrl: https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/cognitive-intelligence-memory-computing-2020/amp/
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
-        width: 700
-        height: 373
-  - title: "The Killer Intelligence Engine introduces powerful AI capabilities to deliver the strongest Wi-Fi connections."
-    excerpt: "Austin, Texas - (January 6, 2020) - Rivet Networks is incorporating artificial intelligence (AI) into its Killer Intelligence Engine to help customers establish and maintain stronger and faster wireless connections. Online experiences are often defined by the quality of the Wi-Fi connection, which can be challenging because unlike CPU or ..."
-    publishedDateTime: 2020-01-06T19:00:00Z
-    sourceUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/index.html
-    ampUrl: https://www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
-    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/pressrelease/14769/killer-intelligence-engine-introduces-powerful-ai-capabilities-deliver-strongest-wi-fi-connections/amp.html
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
+        height: 300
 
 secured: "rP0xhIbBHq2JSdEUiWBYeIPIJI/VCN/erqMJxLQCG3fgjtf7TUOsOXR86qwi6h/k7RPzJvqm88/XQ/gT+5J4sQpaLtjxyyb0+/lrrEm/u98wnyVlCa08sbPJKYAsizo91DAXq2bMcGSy/Jkel77Z/EKPeURQgJNwqecxxnmifCySlpp8AEQx5ZND0PPDCU/LkqT9utENT5EzgSwXZ7Fw1adrlrfJRxhVJmnLkIml2tLfT5jQljYXoKjBr0RClc3kcRcVrj4bkD7qdfEkCT1trw==;tQ2rO8JnDg7Ous3J3JsXIA=="
 ---

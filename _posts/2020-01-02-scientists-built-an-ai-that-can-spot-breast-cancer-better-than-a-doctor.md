@@ -98,19 +98,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F5BCB2AD8354F3CB8409CC52D837AC
         width: 700
         height: 525
-  - title: "AI system found to detect breast cancer better than experts"
-    excerpt: "The programme was developed in collaboration with DeepMind, Cancer Research UK Imperial Centre, Northwestern University, and Royal Surrey County Hospital. Researchers said that the AI model was trained and tuned on anonymised mammograms from more than 76,000 women in the UK and more than 15,000 women in the US to see if it could learn to spot ..."
-    publishedDateTime: 2020-01-02T11:05:00Z
-    sourceUrl: https://www.irishtimes.com/news/health/ai-system-found-to-detect-breast-cancer-better-than-experts-1.4128713
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.28C48CAD829C171A9BAE70DEFF49E68C
-        width: 700
-        height: 367
 
 secured: "orDdjyW3cXAmIzH8n7hMLy+n2H0pX8s+K/mPGP303n7e2q13qsBqtiwggv6aBhW+46ofHCQ8gsihBqhXBFnXCDurxDOZ/LQyzUAEOCPu3sWTUcHKjrb1TwEJlf2FoBsAuyx15F6h5mgLTecq2Evwi6OOADqzzQUIl6KKunn6E11il0HN00cc3sEWUi6JwwwI1MIXB2XbfRFmmk9TaE2ZDCDfh7guwS+UR92GwL9Cj4j/6BwAJxFl0tiamXBuz3xIQSHvtYOrPZizDvefIQoWnA==;OFqyyB81X/e2a0WHdJj9jQ=="
 ---

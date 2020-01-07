@@ -2,27 +2,27 @@
 category: news
 title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
 excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
-publishedDateTime: 2020-01-07T13:34:00Z
-sourceUrl: https://www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07
-ampUrl: https://www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07?amp
-cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/qualcomm-boosts-self-driving-solutions-with-snapdragon-ride-2020-01-07?amp
+publishedDateTime: 2020-01-07T16:03:00Z
+sourceUrl: https://finance.yahoo.com/news/qualcomm-boosts-self-driving-solutions-133401637.html
+ampUrl: https://finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
 type: article
-quality: 74
-heat: 144
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-    width: 1024
-    height: 512
+  - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
+    width: 635
+    height: 400
     title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
 
 related:
@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
         width: 600
         height: 315
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Eventually, the company believes its new Snapdragon Ride platform can serve as a foundation for full-fledged self-driving cars. Qualcomm announced Snapdragon Ride Monday at CES, the massive consumer electronics show in Las Vegas. Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo ..."
-    publishedDateTime: 2020-01-07T02:46:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
-        width: 700
-        height: 367
   - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
     excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
     publishedDateTime: 2020-01-07T06:11:00Z
@@ -71,19 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
-  - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
-    excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
-    publishedDateTime: 2020-01-07T12:41:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-ships-market-expected-to-be-the-most-growing-market-during-upcoming-years-kongsberg-rolls-royce-asv-2020-01-07
+  - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
+    excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
+    publishedDateTime: 2020-01-07T06:29:00Z
+    sourceUrl: https://www.autoconnectedcar.com/2020/01/qualcomm-drives-more-autonomous-and-automotive-platforms/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.62C8ECE3C4CC2D22FC0A0E3AAA928DA1
+        width: 569
+        height: 325
   - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
     excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
     publishedDateTime: 2020-01-07T12:13:00Z
@@ -97,29 +82,20 @@ related:
       - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
         width: 580
         height: 358
-  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
-    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
-    publishedDateTime: 2020-01-02T16:51:00Z
-    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+    publishedDateTime: 2020-01-07T04:02:33Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 16
+      name: San Diego Union-Tribune on MSN.com
+      domain: msn.com
+    quality: 20
     images:
-      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
-        height: 459
-  - title: "Self-driving moves closer with new LiDar innovation"
-    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
-    publishedDateTime: 2020-01-05T19:10:00Z
-    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
-    type: article
-    provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 4
+        height: 367
 
-secured: "mK2Q/AIxtd821vg1xNNSk0pSEvtVE0n4C5BeEbA/2Jx9zLkGI6S8RBBQA9Luypf2MU2K1Ly2NV2nW/j/yliaukDPp81jizvgWF6lwdc1wWkKnRxPWNzhtym3zsYqJb3fUXwHLftFkvCtEivUAi+rOe9UY83S0+xtnEJzTuoJ/46IIGRRJy8Jfj+YjjMpEVRcJYAptSB7c5+kI7UooIG/jdZDT95nsgxk4+V7YZoA+R38Z1Dbx9oFG5TEL4Uj6CiJzhggM4AHdzPyA+FL/ROB/A==;kbvayqdF4/1y/z4A71pcPA=="
+secured: "y54h27jT7rSE0NU5KwZpsWypzhoL/RLZejqLsDdoUZVAty5lMxdpma02QfPwIeyqD0Rhgj5CZ+V7XA+MiHsyHtOiWvqTEc0ZHnWthw8kDZ70mz4SghaYPr15jvhn9EDRETpH2koKSwGq+vCm/Wt0++KEw1H/ltFtxwAauRHbZz3LOIVvJPK3uFPStUddl59d1A/g1vVMY1bNb7gkCwkqmFPycNCJmXoYTOL/97JZKTWA+4PbdINkzczbsohMOwXSqHNflI6rD9uxsgHyq0ADgA==;DLODPGjZgv+VmaINmCbkLA=="
 ---
 

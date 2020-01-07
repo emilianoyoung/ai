@@ -25,96 +25,75 @@ images:
     title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
 
 related:
-  - title: "Samsung will unveil Neon, an ‘artificial human,’ at CES 2020"
-    excerpt: "Related: CES 2020: What to expect from the Las Vegas trade show So what is Neon, exactly? That isn’t totally clear yet, but our guess is that it will be a software-based artificial intelligence that will appear human in both its image and communication. The promotional images on the Neon Twitter account show (presumably) fake humans from ..."
-    publishedDateTime: 2019-12-30T16:35:00Z
-    sourceUrl: https://www.androidauthority.com/samsung-neon-1070167/
-    ampUrl: https://www.androidauthority.com/samsung-neon-1070167/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/samsung-neon-1070167/amp/
+  - title: "Samsung's \"artificial humans\" are avatars for chatbots"
+    excerpt: "Samsung has finally revealed its AI-created \"artificial humans\" – and they're essentially clever fronts for chatbots ... “In the near future, one will be able to license or subscribe to a Neon as a service representative, a financial advisor, a healthcare provider, or a concierge,\" the company says. \"Over time, Neons will work as TV ..."
+    publishedDateTime: 2020-01-07T16:42:00Z
+    sourceUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots
+    ampUrl: https://www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots?amp
+    cdnAmpUrl: https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354475/samsungs-artificial-humans-are-avatars-for-chatbots?amp
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 72
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.11A83ECFE76DCCE95B15194980750F18
+      - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
-        height: 357
-  - title: "Meet Neon, Samsung’s artificial human (who is nothing like Bixby) at CES 2020"
-    excerpt: "Samsung is set to unveil a new artificial intelligence product named Neon at CES 2020, and apparently, it will be nothing like the company’s A.I.-powered digital assistant Bixby. Not much is known about Neon so far, aside from what has been posted so far on the product’s social media pages. The pinned tweet for Neon’s official Twitter ..."
-    publishedDateTime: 2019-12-29T15:30:00Z
-    sourceUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/samsung-neon-not-like-bixby-unveiling-ces-2020/?amp
+        height: 401
+  - title: "NEON showcases their first Artificial Human at CES 2020"
+    excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
+    publishedDateTime: 2020-01-07T07:27:00Z
+    sourceUrl: https://themrphone.com/tech/neon-artificial-human
+    ampUrl: https://themrphone.com/tech/neon-artificial-human/amp/
+    cdnAmpUrl: https://themrphone-com.cdn.ampproject.org/c/s/themrphone.com/tech/neon-artificial-human/amp/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-    images:
-      - url: https://www.bing.com/th?id=ON.1A329B9A25AE7401BD4EEB36297BB0E7
-        width: 700
-        height: 366
-  - title: "Smart toothbrush to robot, all that P&G unveiled at CES 2020"
-    excerpt: "It also supports artificial intelligence tracking via the Oral-B iO app that provides real-time individual ... RollBot that is claimed to be a first-of-its-kind robot, when controlled with a smartphone using Bluetooth, delivers a fresh roll of toilet paper. SmellSense, on the other hand, is an electronic sensor monitoring system that will ..."
-    publishedDateTime: 2020-01-06T14:29:00Z
-    sourceUrl: https://www.businesstoday.in/technology/news/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/story/393255.html
-    ampUrl: https://m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
-    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/smart-toothbrush-to-robot-all-that-pg-unveiled-at-ces-2020/1/393255.html
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.434B7A017001E9150ED5D238C4A23A7B
-        width: 505
-        height: 264
-  - title: "Samsung C-Lab To Showcase Artificial Sun & More At CES 2020"
-    excerpt: "Circulus will showcase a companion humanoid robot called 'piBo'. Designed for single-person households ... by education and enjoys teaching basic mathematics tricks to school kids in his spare time. Sumit believes in artificial intelligence and dreams of a fully open, intelligent and connected world."
-    publishedDateTime: 2019-12-30T22:30:00Z
-    sourceUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html
-    ampUrl: https://www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
-    cdnAmpUrl: https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2019/12/samsung-c-lab-to-showcase-artificial-sun-at-ces-2020.html/amp
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
+      name: Mr. Phone
+      domain: themrphone.com
     quality: 44
     images:
-      - url: https://www.bing.com/th?id=ON.56B1BAB36FD19A3E05799094D329A498
+      - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
-        height: 393
-  - title: "Samsung To Launch ‘Artificial Human’ Called Neon"
-    excerpt: "Samsung disclosed that it will introduce an “artificial human” called Neon at CES 2020 on Jan. 7 that is totally different than its artificial intelligence (AI) assistant Bixby, Digital Trends reported. The limited information about Neon was shared on Samsung’s Twitter account, and includes an “Artificial Human” teaser in several ..."
-    publishedDateTime: 2019-12-30T05:54:00Z
-    sourceUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/
-    ampUrl: https://www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
-    cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2019/samsung-to-launch-artificial-human-called-neon/amp/
+        height: 366
+  - title: "Samsung introduces AI-powered ‘artificial human’"
+    excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
+    publishedDateTime: 2020-01-07T08:31:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/samsung-introduces-ai-powered-e2-80-98artificial-human-e2-80-99/ar-BBYGTGd
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: The Statesman on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.71FB25F7133E9686AF742B9C7DBDCBA3
-        width: 457
-        height: 299
-  - title: "Samsung To Unveil An Artificial Human (AH) Called Neon At CES"
-    excerpt: "Samsung will be at CES 2020, and it will be unveiling something vastly different than what it has shown off before called Neon. Neon is said to be an artificial intelligence platform that was developed by Samsung Technology and Advanced Research Lab in the U.S. and is expected to be introduced as a new AI platform of Samsung. Neon has an ..."
-    publishedDateTime: 2019-12-30T21:34:00Z
-    sourceUrl: https://hothardware.com/news/samsung-neon-ai-platform
-    ampUrl: https://amp.hothardware.com/news/samsung-neon-ai-platform
-    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-ai-platform
+      - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
+        width: 700
+        height: 367
+  - title: "How Samsung's 'Artificial Human' Could Eventually Take Your Job"
+    excerpt: "And as great as artificial intelligence might be, there's no guarantee that it'll work as well as a human being. But alas, Samsung is moving towards the concept. And soon enough, we might be seeing \"artificial humans\" transform the office. The opinions expressed here by Inc.com columnists are their own, not those of Inc.com."
+    publishedDateTime: 2020-01-06T18:14:00Z
+    sourceUrl: https://www.inc.com/don-reisinger/how-samsungs-artificial-human-could-eventually-take-your-job.html
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 42
+      name: Inc
+      domain: inc.com
+    quality: 22
     images:
-      - url: https://www.bing.com/th?id=ON.6BA2AB26994A9C27E38533068ED8C508
+      - url: https://www.bing.com/th?id=ON.69838993CCC7549F75D91C50A1669986
         width: 700
-        height: 643
+        height: 324
+  - title: "Samsung demonstrates ‘world’s first artificial human’"
+    excerpt: "Samsung Electronics’ experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathises like a regular person. Each simulated human – which would exist only on screens, not in the real world – would be ..."
+    publishedDateTime: 2020-01-07T09:56:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/samsung-demonstrates-world-s-first-artificial-human-1.4132756
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.E22D72296DE1089BFD05A9D82E282C12
+        width: 700
+        height: 367
 
 secured: "iHSICZqu40C3dRDHGPaPpeD2fLD0jjqr/+1aFMe6jyeAwOEB7uax6F+H1w5AhLLxi8dq2sDl9fAZH2KMuJkwvVqsmnktBzySiF1xm6iI8s+29vs+XfBeSMIV41SDzY8ni1rrPTNcXmkZKSIfDCUSK0ZZj35bSOOF1YMnSV1J95xbp4pNnqyHZFiKDd/0Povxsb2rMZDIliJ8OlZhN+Jf9VJU8vTmsaPoL9AUlLS8fvK/zSldQAqN+UXdgAff8J+0UchGNp4O5uHhUPqHy3AjuQ==;wNS8GKz/QuOXZKCKPV6aTg=="
 ---

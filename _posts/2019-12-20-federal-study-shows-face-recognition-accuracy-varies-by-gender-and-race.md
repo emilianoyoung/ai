@@ -508,19 +508,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
         width: 645
         height: 363
-  - title: "LE agencies pushing back against city, state facial recognition bans"
-    excerpt: "SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are hitting the brakes. Are fears of an all-seeing, artificially intelligent security apparatus overblown?"
-    publishedDateTime: 2019-12-18T15:16:00Z
-    sourceUrl: https://www.policeone.com/investigations/articles/le-agencies-pushing-back-against-city-state-facial-recognition-bans-CwVdj7wjxnNKuKNQ/
-    type: article
-    provider:
-      name: PoliceOne
-      domain: policeone.com
-    quality: 54
-    images:
-      - url: https://media.cdn.lexipol.com/article-images/facialrec_121819_news.jpg?w=1600
-        width: 1600
-        height: 1410
   - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
     excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
     publishedDateTime: 2019-12-19T19:12:00Z

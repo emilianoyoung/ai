@@ -8,7 +8,7 @@ ampUrl: https://www.newindianexpress.com/states/telangana/2020/jan/06/telangana-
 cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2020/jan/06/telangana-government-set-to-use-ai-to-provide-better-healthcare-services-2085694.amp
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -80,6 +80,19 @@ related:
       - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
         width: 1280
         height: 720
+  - title: "Healthcare trendspotting: Current digital initiatives that portend our healthcare future"
+    excerpt: "Below are examples of how we see this playing out, as governmental programs, healthcare services, and brands pursue initiatives – often powered by artificial intelligence (AI) – that will transform healthcare over the next decade. Governments everywhere are bracing against what has been dubbed a ‘silver tsunami’ – a rapidly rising ..."
+    publishedDateTime: 2020-01-07T16:52:00Z
+    sourceUrl: https://www.warc.com/newsandopinion/opinion/healthcare-trendspotting-current-digital-initiatives-that-portend-our-healthcare-future/3347
+    type: article
+    provider:
+      name: Warc
+      domain: warc.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.C4DD5F267C8E6C298E517F066359E185
+        width: 700
+        height: 496
 
 secured: "uUScqc5FK4Tl1ppuuHCgVu0M601EtYh+j+M6TWaRbjmHRlj0QEyEHj44vf2u/RuoGiUZygScm6u/Kn5bamxg3L0360RJYm5mRdg4j1N3n+70pnG7h7Q71d3HuBwyp2TNYYL6Nt1v8UD7qfb40Ok5IV6z9kuU3QUXP4U34rEIsCADBM3vFxIKLR7pHt+Z7LC+O/qboZwuw8I8cwL2AYFioFC+Vl4SQH1117/nr1BtCYRAMTa7GTAOFZKY+20gzbLLyaGLu1s2heJ8I+ktjUEcMQ==;XR8SW7eF37GSwMtHlLLFlw=="
 ---

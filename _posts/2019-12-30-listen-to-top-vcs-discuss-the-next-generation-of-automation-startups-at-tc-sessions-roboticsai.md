@@ -44,6 +44,19 @@ related:
       - url: https://www.bing.com/th?id=ON.545008940EB86145C6D73F7D03BE9001
         width: 700
         height: 381
+  - title: "WATCH LIVE: AL Robotics Technology Park launching next phase in robotics training"
+    excerpt: "HUNTSVILLE, Ala. (WAFF) - Technology is advancing at a rapid pace and has had a profound impact on the manufacturing process. Factories have evolved, using intelligent and automated processes, making the concept of a smart factory a reality."
+    publishedDateTime: 2020-01-07T16:10:25Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/watch-live-al-robotics-technology-park-launching-next-phase-in-robotics-training/ar-BBYHSPe
+    type: article
+    provider:
+      name: Huntsville-Decatur WAFF on MSN.com
+      domain: msn.com
+    quality: 64
+    images:
+      - url: https://www.bing.com/th?id=ON.EAE3782421510B79A08D2795F1385FB0
+        width: 600
+        height: 315
 
 secured: "A0acnhBHFvuzRm5jXj8lLYkUyhdTLVY7Lbvp9xqfVq3kwywSTWsqUUAeB/BO/EgX/1XuBfsueGg7QMyphdAdPBQ3w6PKGU1qzuVfs3nWlUYoEmKiDiTmmbh+wrunNdn2FAHZmKC85D6QG+1ydwUHcG9DN/0m5W3argWkLCKdfMANpu+bviQt3E8ZVg80I2pr2yzHdt1047MEj4W0sjUnQm0G37oHJUh4nqryAce2jnEuWtfZ+KmnaUAJKW5+AktOn4OBAj59x+7sez5mECETjg==;v1QXrppA0nr4hc2/knZ0tw=="
 ---

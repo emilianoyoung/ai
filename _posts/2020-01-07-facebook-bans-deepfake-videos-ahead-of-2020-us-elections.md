@@ -97,19 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
-  - title: "Facebook Moves to Detect and Remove Deepfake Videos"
-    excerpt: "and AI is required to help detect them. “Fake videos of famous or powerful people can be extremely manipulative, causing extremely damaging effects in some cases. It is a bold claim from Facebook to ban all such false videos from their platform, as the software used to recognize them is still in its immature phase and requires more research ..."
-    publishedDateTime: 2020-01-07T11:33:00Z
-    sourceUrl: https://www.infosecurity-magazine.com/news/facebook-remove-deepfake/
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.6DE6394076C32F5002578E1776C4BC61
-        width: 300
-        height: 300
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z

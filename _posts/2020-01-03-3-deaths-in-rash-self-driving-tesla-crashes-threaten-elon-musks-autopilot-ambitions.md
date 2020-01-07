@@ -243,6 +243,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
         width: 600
         height: 315
+  - title: "Qualcomm is getting into the self-driving market"
+    excerpt: "It might seem strange for a smartphone chip company to tackle self-driving, but in reality, many of the same technologies exist in both products. Qualcomm has long leveraged its mobile chip lead to grab a significant chunk of the broader system-on-a-chip market. Smartphone makers buy Qualcomm Snapdragon chips that contain an ARM-based CPU ..."
+    publishedDateTime: 2020-01-07T16:10:00Z
+    sourceUrl: https://arstechnica.com/cars/2020/01/qualcomm-is-getting-into-the-self-driving-market/
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.BD0980330B1B96209049D5586291CE10
+        width: 700
+        height: 350
   - title: "Uber acquires 600 acre in Pittsburgh to build self-driving test track"
     excerpt: "Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track.(AP) Uber Technologies has finally announced the purchase of an almost 600-acre parcel in Findlay Township in Pittsburgh that will be used for a self-driving test track. The San ..."
     publishedDateTime: 2019-12-28T11:12:00Z

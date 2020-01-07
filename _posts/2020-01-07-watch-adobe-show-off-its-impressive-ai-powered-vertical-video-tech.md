@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,6 @@ related:
         width: 700
         height: 367
 
-secured: "X/gbskeaS1ZUROgw0agmMKcRM1ptwvDORuuMsd+el1Q/VQOC5hrT/Lwv+e5GNA9GGwd2LlEuBq8egrudsasYgXq2flButlOyUB0LgZ7O1f+wD2U9qB7ct5DuZCypnaYqYK98tLPCh2120RPo3QmDWXRyxJT4fXhYmGMLjvT08IO6UY8+e9MmZKepKP2KBUG3udjqb9+R8CdpAnMCCltX6RsMe7c+be9N0LyYAPzuHhyW6ovCApVeelLJh9yIO2h+wbPvAUVYqmO2CzTHTBl2qg==;wezbdc77jsqjmogj/Qcuvg=="
+secured: "EWuLb5uxcvQcvfZXgHUXISV8KGdTIZt74eRuswiIXr3g82qww09j0BTgMns9Fm9n9LGYbg4LeKFleyWd5L5KWLmGpPNpRkPqr1dIlqnJAywdqYn1hW1YClmmDa8JV0guvzFPZinrC0ubUPr1l/LSWQ3pxfGsgwORFVYDBIkA1SOwXD27M05F4LcFvGDdevM3WoJrDJVeYWmXsSC61v6K0Gn45y7vDBYERH9SQx+lqhYUfCEZjzteTEPI8+I80hv8eIGvT6nnurupo9v+TxaocA==;MtZorcLeKR00uMN0qoCd3Q=="
 ---
 
