@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4288BE7E71AFA3E8A6D33EC8133362BE
         width: 700
         height: 393
+  - title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
+    excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
+    publishedDateTime: 2020-01-07T02:38:00Z
+    sourceUrl: https://www.techrepublic.com/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.C36725E696F2CEC709A6F4316706F256
+        width: 700
+        height: 525
   - title: "Intel teases new AI chip to succeed Ice Lake at CES 2020 – introducing Tiger Lake"
     excerpt: "Intel has teased its second-generation AI chip at CES 2020. The new chip is called Tiger Lake and is looking to take Intel’s AI chops to the next level. Tiger Lake improved AI engines for enhanced performance across the board. There’s DL Boost for managing complex AI workloads along with low power accelerators. Possibly the most notable ..."
     publishedDateTime: 2020-01-06T05:01:00Z

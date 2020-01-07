@@ -68,6 +68,19 @@ related:
       - url: https://www.bing.com/th?id=ON.01BD3A1C864BB277478A346DD44A879E
         width: 700
         height: 435
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "\"If they build it, they will come.\" \"Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,\" Toyoda said. This so-called Woven City will be a fully ..."
+    publishedDateTime: 2020-01-07T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/toyota-building-tiny-utopian-city-221413545.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
+        width: 700
+        height: 393
 
 secured: "HQwSQmZTYaVD/9fQiYdZaqKx5dsFx6RuUxxSBdBvzujgLKeIpqCFP99vgdRDRsm7ejtnozzsfgNhPh36fWMt4Vkl3qK/LHUIwgd4VBqEmIBLLBv2H5E3Yp4u2tcZxiVWKXUJvpRzABEkolI32m0mDxQrno+/MbsHKsNKL0qpLFV0k/qa0/13pmhK38pBqknlJudNBmd8dXkbNQeKYte1Bo2vn+zx6SkpiFVq53tDnI1m8LtbAwscgk5AI/Ac9IFnslmE5jeCQHhtwKKcRNr2vQ==;bvcxKhZ0uJUweZQ5MHWIZA=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
 excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
 publishedDateTime: 2020-01-06T19:34:54Z
-sourceUrl: https://www.msn.com/en-gb/money/technology/samsungs-mysterious-artificial-human-project-neon-creates-lifelike-ai/ar-BBYFJaT
+sourceUrl: https://www.msn.com/en-gb/finance/technology/samsungs-mysterious-artificial-human-project-neon-creates-lifelike-ai/ar-BBYFJaT
 type: article
 quality: 38
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 279
         height: 157
 
-secured: "4fy30VBDmiL6w/9qaIEU1ETpnDkEYHXil1thFXlSHFNnIhh1qghZwq7NK77OcwW/6Cj55Y643AAhilm65L0VPnJ6V+hqFAz9uedkHTBe9WW5EEwP4vUP9qYopdZZPLbXzMy2DgCtwIJuNlKxIZPndmxQISchHAodDcmvc/hsYQ3s0ugdMFSHiuV+4tP2DzFooaygo545lDBWPLeu7f6c0Z7amhn3TwlZQYHT7Y64tpUxfEHk5iTptw3aZpY577mskNZCQH42vEl0ty+6NtYv0Q==;UgkLdaTQnneaPXMFU+zX2A=="
+secured: "UDWk5AI1zLAXjkISvbr5BLzkYnQH0GyxBwAxK9qIRMTALH1D4deOzHU2weZi8zDLb+rdUx0TiAKFTq0EUPgvN8aM8otxwayyvmk7d5ncjnGH8AhD6qHFnCE/IpaNaAvcU86pHptZSpAc9pqp4fvqCMY4+emvtmpq+z0pxEKIc/ujxR86h+SgHO6JLOY+VaAKIytViESAaARqyyMkOl9n+DKOjI0F5WeU7QfeQMYzic3DeSc65+keuvnecq7MdsrP10IPh1obi8plSJege9ANtg==;inDsfuUcj24PeIf1vsATJg=="
 ---
 

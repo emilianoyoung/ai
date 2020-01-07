@@ -32,7 +32,7 @@ images:
 
 related:
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+    excerpt: "Eventually, the company believes its new Snapdragon Ride platform can serve as a foundation for full-fledged self-driving cars. Qualcomm announced Snapdragon Ride Monday at CES, the massive consumer electronics show in Las Vegas. Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo ..."
     publishedDateTime: 2020-01-07T02:46:00Z
     sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
     ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true

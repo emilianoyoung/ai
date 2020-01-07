@@ -25,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "ps9Ergro/ZrFH12o0BFeuNkVzAl6fAqTN3Wga024Dlt/f39TKuJjA31HKcmkJE0p6tGNjTBzMAaKr01vMSltLX2v1NdTTPMYjtOzdMXiBJ26apXFa4FmAC8VmvkPjN+qadYRxC8OjqT98D0vDrVvzKkrOTVdubc2cBwxU1N9KZx8VPuXF4PikNdj6Iy5v16MAvYC1UBtfNg7zUAxqgV653pFaYEweRmySEjKRWBrNk1gyyd8A1ByO7zRqJ07/80Y2c/k8LOzvnaUR9lDUz/dBQ==;FQuDOBY+TefFO6hUMdhULg=="
+secured: "RS2X/wXHUzIcq0uFoky/nG6QOlTVSmNonV8+tc1GG/JjFF5lmFpF8gFzmH7cWnbws6V15+RBo1m315snyDFMHslx8pdHDdGa+ISKx6CWWGIdr7x1SdUf27IeOZDzyH3jYUf/HMOu9M2eW7aXcJieL2UOb5hea0Q5CNhYLkw39z/0kFMhDXWvJwlMMc9E3wiqqYFZRZbnYaZg1DjaDSbfkwBLJ9d3V4FtpjSjTNNfNSjD376g3xqHMT5Q8ktVIpgfcw8cPGU1ZCA74GYeF+d3kg==;bHOLErCtTCyRXRdtyLXgWQ=="
 ---
 

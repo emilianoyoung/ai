@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-r
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -127,19 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
         height: 367
-  - title: "Self-driving vehicles are coming. NCDOT is paying researchers to help us get ready."
-    excerpt: "Most of those challenges have to do with technology, notably the expected introduction of electric and autonomous or self-driving cars and trucks. “Disruptive technologies will reshape the transportation industry,” Transportation Secretary Jim Trogdon ..."
-    publishedDateTime: 2019-12-18T03:26:56Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/self-driving-vehicles-are-coming-ncdot-is-paying-researchers-to-help-us-get-ready/ar-BBY6bK9
-    type: article
-    provider:
-      name: Raleigh News & Observer on MSN.com
-      domain: msn.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.AC3E67C2CD22DA11AD71552FBE0DA058
-        width: 700
-        height: 393
   - title: "California allows 'light-duty' self-driving delivery vehicles"
     excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
     publishedDateTime: 2019-12-19T00:19:00Z

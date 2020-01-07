@@ -20,19 +20,19 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
-    excerpt: "Unfortunately, Nvidia was not keen on revealing any precise details regarding the GPU but did say that the platform will deliver 200 INT8 TOPS performance ... programmable, software-defined AI platform like Orin.” Nvidia noted that the DRIVE AGX Orin family will include a range of configurations based on a single architecture and should ..."
-    publishedDateTime: 2019-12-18T20:48:00Z
-    sourceUrl: https://www.fudzilla.com/news/automotive/49995-nvidia-announces-new-orin-soc-with-arm-hercules-cpu-cores-and-next-gen-gpu
+  - title: "NVIDIA DRIVEs AGX Orin Opens NVIDIA GPU Cloud & Teamss with DiDi"
+    excerpt: "To train these DNNs, DiDi will use NVIDIA GPU data center servers. For cloud computing, DiDi will also build an AI infrastructure and launch virtual GPU (vGPU) cloud servers for computing, rendering and gaming. DiDi Cloud will adopt a new vGPU license mode to provide users with better experiences, richer application scenarios and more efficient ..."
+    publishedDateTime: 2019-12-19T00:09:00Z
+    sourceUrl: https://www.autoconnectedcar.com/2019/12/nvidia-drives-agx-orin-opens-nvidia-gpu-cloud-teamss-with-didi/
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 39
     images:
-      - url: https://www.fudzilla.com/media/k2/items/cache/f49303acaa6ffb6cebddd2f14fb56944_L.jpg
-        width: 620
-        height: 465
+      - url: https://cdn.autoconnectedcar.com/wp-content/uploads/2019/12/NVIDIAOrin-jpg.jpg
+        width: 2000
+        height: 1500
   - title: "Nvidia secures chip deal with Didi Chuxing"
     excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
     publishedDateTime: 2019-12-18T16:58:00Z
@@ -46,6 +46,19 @@ related:
       - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
         width: 800
         height: 600
+  - title: "Nvidia Opens Drive to All, Unveils SoC for Self-Driving Cars, TensorRT 7"
+    excerpt: "Building on its automotive strength, Didi — China’s largest ride-sharing firm — announced it will be using Nvidia technology for both the development and deployment of its self-driving cars. Baidu, China’s largest search engine, announced that it is using Nvidia V100 GPUs in its recommendation engine, allowing it to achieve a 10x ..."
+    publishedDateTime: 2019-12-18T15:44:00Z
+    sourceUrl: https://www.extremetech.com/computing/303552-nvidia-opens-drive-to-all-unveils-soc-for-self-driving-cars-tensorrt-7
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.extremetech.com/wp-content/uploads/2019/12/Nvidia-conversational-AI.jpg
+        width: 1344
+        height: 742
 
 secured: "osHD6HCow6d4lXye+D7AInj5oFlO62k5TXCC+lqBYreKF62yKcwjZEAcajErTsupDnoiPImmkcTiTbPCPgspZMRnnGkHvhO+3R5c8cwS8poMp9PST/MhvNCPvJW73Wbwx9LARMSuLCSWcg9RhByk2kQ+6FVqptQX8sv2vhEtNWzEfVAvwb9YdlBoNv+ntFR9fz2RU+DmqiwZUhNV/2+D5aEpOYnwU9p5a6p4uAf9AT4/cfNQ1DimTsbckfLZtX2D5pO6xY5q9oxEhX4wa9b1gA==;kqkPze9I+/flEvbLH8cQyQ=="
 ---

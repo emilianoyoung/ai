@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Showcasing the latest in AI voice tech at CES..."
-excerpt: "Harvey Weinstein Charges Puerto Rico Earthquake Middle East Tensions Australia Fires Weinstein Trial NYC March Against Hate Impeachment Updates Golden Globes Winners News US World Politics Entertainment Health MoneyWatch Technology Science Crime Sports Defense chief says U.S. has no plans to withdraw from Iraq Harvey Weinstein faces sexual ..."
+excerpt: "Harvey Weinstein Charges SpaceX Rocket Launch Middle East Tensions Puerto Rico Earthquake John Bolton George Lopez Drone Swarms Ikea Settlement Pier 1 Imports News US World Politics Entertainment Health MoneyWatch Technology Science Crime Sports Defense chief says U.S. has no plans to withdraw from Iraq Harvey Weinstein faces sexual assault ..."
 publishedDateTime: 2020-01-07T01:27:00Z
-sourceUrl: https://www.cbsnews.com/live/video/20200107005302-top-tech-companies-unveiling-their-latest-developments-to-their-ai-voice-technologies/
+sourceUrl: https://www.cbsnews.com/live/video/20200107035221-top-tech-companies-unveiling-their-latest-developments-to-their-ai-voice-technologies/
 type: article
 quality: 37
 heat: 37
@@ -17,11 +17,11 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.9649BF96E9C97F1929A6B8F04B5D7C50
+  - url: https://www.bing.com/th?id=ON.0CAC4339804ABD702D5100E11C8C3D12
     width: 480
     height: 270
     title: "Showcasing the latest in AI voice tech at CES..."
 
-secured: "+naYP8uIiktm/QSeRgZAhFXU+C+fBYdMOcJHi25Ce/yiwdEMeKIrA+foEVGW4F8EOe7TlTMHsEZLlvHHT5U2ovgrHi2AmXFQvrGoRrvX1ceBJ441MCXpAnhxVXf+U21SzTOuKf/yOCYAtGJcELhPaqn795srcTtiIH1ZSuZAxTml4FIsynPojMtB2BRlS0oTNhblr5hIAKltfwBBW8aiDTk1TkJ9PyL/T+jfX7h7FpVpNjLOzDeQ+HE2HMCbTTio2AGqmx/hkDETS95+22/z/Q==;72qkLFSz1jw3bpMYo+Z25g=="
+secured: "8CAFzDlKVxPxzxwndt2De56jnWqSN5pzB5sU0asccf2rgqZNYDJ5Yws/bqRpT92/A8ZhqH7VVVIm+OSRRVNbbQv4U5nVltpKgqtResqMNIocB/AYD3iAN65UfY5rp2tA0+kXVrFWRtWKoU0SAY4Er7N4Nxmt8dUCFa+BDobjx5PM0K2ih5k+QvpnQs8LrRjrC5HaZwo0GUuJRjV6bsK+jw5N1edQyMGnM0YcQ54sExXKQ/3hTIWOkha/ioqZBEbbI6kB8rdsKHsdKkN4DmLm2Q==;fnu3ISZZSSkwmC+ey0DtNQ=="
 ---
 

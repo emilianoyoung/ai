@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
-excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
-publishedDateTime: 2020-01-07T01:49:00Z
-sourceUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance
-ampUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
-cdnAmpUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
+title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
+excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
+publishedDateTime: 2020-01-07T02:38:00Z
+sourceUrl: https://www.techrepublic.com/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+ampUrl: https://www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
 type: article
-quality: 40
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: PCGamesN
-  domain: pcgamesn.com
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: /assets/images/organizations/techrepublic.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
+  - url: https://www.bing.com/th?id=ON.C36725E696F2CEC709A6F4316706F256
     width: 700
-    height: 393
-    title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
+    height: 525
+    title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
 
 related:
   - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
@@ -56,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4288BE7E71AFA3E8A6D33EC8133362BE
         width: 700
         height: 393
-  - title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
-    excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
-    publishedDateTime: 2020-01-07T02:38:00Z
-    sourceUrl: https://www.techrepublic.com/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    ampUrl: https://www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.C36725E696F2CEC709A6F4316706F256
-        width: 700
-        height: 525
   - title: "Intel teases new AI chip to succeed Ice Lake at CES 2020 – introducing Tiger Lake"
     excerpt: "Intel has teased its second-generation AI chip at CES 2020. The new chip is called Tiger Lake and is looking to take Intel’s AI chops to the next level. Tiger Lake improved AI engines for enhanced performance across the board. There’s DL Boost for managing complex AI workloads along with low power accelerators. Possibly the most notable ..."
     publishedDateTime: 2020-01-06T05:01:00Z
@@ -101,7 +89,22 @@ related:
       - url: https://www.bing.com/th?id=ON.EDF352B768ED032229E32BF1C844E0AE
         width: 700
         height: 525
+  - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
+    excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
+    publishedDateTime: 2020-01-07T01:49:00Z
+    sourceUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance
+    ampUrl: https://www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
+    cdnAmpUrl: https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/intel-xe-dg1-destiny-2-ces-2020-gpu-performance?amp
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.F0767CB511D44589DA05567D12086B66
+        width: 700
+        height: 393
 
-secured: "mCjcEE5rgrcCYI/7rS12/ymumfOTEdn8wPTHUZfwfprKc4Cwikd0BvY4Jt/DAOU1YS76bycMgtOBRerPr4g5eEB5OokwdptY/SPsX8n6lzYrfq7gWbTc55Y6b4T+M2mous1ICby2uxJPpOy4MS0ZU0RBHF0bRRv7E+8Xrp+YWoUr9/HkEW9qDA1IQBwU+gKfWoX+aCDd/Hgic0lHOKiz+fLJTe27AHRZbhQTm4jN42TikTZM3IQYfbIIzXZ7RbSyeKSW/lFNRI1yAHgBdT2ByA==;9iBOYty69IkOpBIiZStemA=="
+secured: "Z5uyaFZ8QyY7w7bZiGIM8CS3+PBYV8ij7LsQ4ZRMI47/hQ36xBbM81kvH9ODiL9na9W3t1o1yQSmnfL6bU9HC81y4qN3t6Mtvca4ueZe/bfY7iQYznhKf2MB9jv/sjCyLX1h3mqrGJ0xFBVQuUs89xGkHpo5SSnwLR6G9RvM/a7S1J0MbOD6wOT3C5CPhm1Mo1vGwrpNEpFk/ap1gdTWFsEFN+ny8JILdCB5fRNX5EIlvl0St4AfOBB46KymCHkKpX2KKhnf9VsZbnOGiehygg==;s/yQD06XX6R/UcxKR376UA=="
 ---
 

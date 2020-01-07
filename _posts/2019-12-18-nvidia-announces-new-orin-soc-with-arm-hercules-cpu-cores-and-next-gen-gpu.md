@@ -24,30 +24,75 @@ images:
     title: "Nvidia announces new Orin SoC with Arm Hercules CPU cores and next-gen GPU"
 
 related:
-  - title: "Nvidia Shares Test Record Highs After Unveiling Chip Deals With Alibaba, Baidu and Didi"
-    excerpt: "Nvidia shares are set to open at a fresh all-time high Wednesday after unveiling three key chip deals with some of China's biggest tech giants. “Developing safe autonomous vehicles requires end-to-end AI, in the cloud and in the car,” said Nvidia's Rishi Dhall. “Nvidia AI will enable DiDi to develop safer, more efficient transportation ..."
-    publishedDateTime: 2019-12-18T11:51:00Z
-    sourceUrl: https://www.thestreet.com/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    ampUrl: https://www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
-    cdnAmpUrl: https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-shares-test-record-highs-after-unveiling-chip-deals-with-alibaba-baidu-and-didi
+  - title: "Nvidia Announces New Orin Auto AI Processor"
+    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
+    publishedDateTime: 2019-12-18T17:04:00Z
+    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
+    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 46
-  - title: "Nvidia secures chip deal with Didi Chuxing"
-    excerpt: "Nvidia told reporters that e-commerce giant Alibaba Group Holding and search engine provider Baidu Inc. have started using its chips to run systems that ... but in recent years much of its growth has come from the use of its chips for artificial intelligence, self-driving vehicles and other new areas. Making recommendations -- whether on ..."
-    publishedDateTime: 2019-12-18T16:58:00Z
-    sourceUrl: https://www.autonews.com/automakers-suppliers/nvidia-secures-chip-deal-didi-chuxing
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: https://www.autonews.com/s3/files/styles/800x600/public/RTX3872X.jpg
-        width: 800
-        height: 600
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5dfa566425ab5d0007cebacf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D950%26cropY1%3D39%26cropY2%3D574
+        width: 950
+        height: 536
+  - title: "Spurned by Tesla, NVIDIA’s new Orin self-driving processor ups the game by 7x"
+    excerpt: "NVIDIA’s Xavier chip was used in a multi-processor configuration and paired with GPUs in their DRIVE PX Pegasus self-driving computer, which NVIDIA claimed at the time would be able to offer level 5 autonomous driving. The Orin chip will be capable of scaling from level 2 to level 5 autonomous driving. It will be available to automakers ..."
+    publishedDateTime: 2019-12-19T00:19:00Z
+    sourceUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/
+    ampUrl: https://electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/18/nvidias-orin-self-driving-processor-7x-performance-xavier-tesla/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: https://electrek.co/wp-content/uploads/sites/3/2019/12/NVIDIA-Orin-press-e1576710162686.jpg?quality=82&amp;strip=all&amp;w=1600
+        width: 2000
+        height: 1000
+  - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
+    excerpt: "Nvidia is looking to extend its lead as an AI company by improving its image recognition, language recognition, and decision-making platforms, as well as a new chip for autonomous vehicles. The GPU Technology Conference is one of the biggest conferences around AI each year. At the ongoing GTC 2019 China, Nvidia held a keynote to emphasize the ..."
+    publishedDateTime: 2019-12-18T07:28:00Z
+    sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 71
+  - title: "NVIDIA Announces DRIVE AGX Orin With 200 TOPS Hercules ARM SoC, Next-Gen GPU"
+    excerpt: "It integrates NVIDIA's next-generation GPU architecture and ARM's Hercules CPU cores ... and the complexity of the task requires a scalable, programmable, software-defined AI platform like Orin.\" Orin and Xavier are both programmable through open CUDA and TensorRT APIs and libraries. This means developers can leverage their investments across ..."
+    publishedDateTime: 2019-12-18T14:49:00Z
+    sourceUrl: https://hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    ampUrl: https://amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-drive-agx-orin-200-tops-hercules-arm-soc
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 56
+    images:
+      - url: https://images.hothardware.com/contentimages/newsitem/50193/content/small_nvidia_orin.jpg
+        width: 708
+        height: 425
+  - title: "Nvidia debuts new DRIVE AGX Orin platform for autonomous cars and robots"
+    excerpt: "Nvidia Corp. tonight bid to expand the reach of artificial intelligence systems into autonomous vehicles and robots with the launch of its new Nvidia DRIVE AGX Orin platform. Nvidia DRIVE AGX Orin is a software-defined platform that’s powered by a new system-on-a-chip called Orin. The new chip is said to be the fruit of “billions of dollars ..."
+    publishedDateTime: 2019-12-18T04:34:00Z
+    sourceUrl: https://siliconangle.com/2019/12/17/nvidia-debuts-drive-agx-orin-platform-autonomous-cars-robots/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/NVIDIA.png
+        width: 1138
+        height: 572
 
 secured: "xaY9i+SLXaSDiD957eY6HOhbdO8ZkRYlCU4ziJuNedQBQqquokvoPjbWq7tBlEFUMLe5AV6D5TTs7b5VjJERg1HU4DNT/EgISP4a5CTR3MxMeRqcFN/t1Z+8Cpocz2UR6CPRPkaJMmGcAASmmQKflwC9S0yVt+ept76ZDf7JOX8QILVxUEBcU/YvRTbQPL4aAuYfFmAxewQYRucXG5fR60dDC9HtIae/CdawCx8yVcTYQbUXB+dOeJ0xpgCstCZXfubmfpYE+SGI1XELGgnq8A==;aquBNG59pIQ6MVZP1KiZ+w=="
 ---

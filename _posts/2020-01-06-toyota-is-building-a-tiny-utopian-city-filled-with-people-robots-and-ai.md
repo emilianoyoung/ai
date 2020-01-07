@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -72,6 +72,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4447E8825E210C45CA854F78742593AB
         width: 640
         height: 349
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "\"If they build it, they will come.\" \"Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,\" Toyoda said. This so-called Woven City will be a fully ..."
+    publishedDateTime: 2020-01-07T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/toyota-building-tiny-utopian-city-221413545.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
+        width: 700
+        height: 393
 
 secured: "cgUDZSAi6lhRRbNrxVMeyXeoChd+9HNMpSDoOQvFLOjVnOPZVh0ocAzteEfOLdTqgxye8WAs3AckRAqPV6WgiqIfjA+ax/DCPSDLSqCJMEkHeBJyArtDeFRZY0IX4jNLFmsnfHBTjGTJfPyPCO34URgpt9aJFU4W7WplyqCsg0SOtj1fklMgxLDAOTRd6bGTt8T4vOU1xorbROgoTjlzzyrPma/CoMh3SDt1CY8rsfH0Z6/k1E3avHIXaQfZbuTrti9xcxP4M9LiAf8oSj9e9w==;KN67eR1QqX83LRsSwwiG4g=="
 ---
