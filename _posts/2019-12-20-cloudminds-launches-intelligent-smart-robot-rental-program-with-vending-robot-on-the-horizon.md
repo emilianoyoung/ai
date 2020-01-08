@@ -50,19 +50,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/tPCkckDx2aw_XXC6PPLMKA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/65469c11fd4663fb8b636f1602a851d0
         width: 480
         height: 360
-  - title: "CloudMinds Launches Robot Rental Program"
-    excerpt: "The Smart Robots available to customers have a humanoid design and natural language processing (NLP) capabilities that will facilitate conversations and other interactions in multiple languages. The service seems to be geared primarily towards enterprise customers that may want to use the robot to create unique experiences for guests at ..."
-    publishedDateTime: 2019-12-19T21:44:00Z
-    sourceUrl: https://mobileidworld.com/cloudminds-launches-smart-robot-rental-program-121908/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.59046B142A9993716D67B7D7DBA51F63
-        width: 678
-        height: 655
 
 secured: "RM5AuEukyxDZFYmq2BZwcOutDXNSmPljPW9ETn4Ci+w887NVfdM05/UG//eq0HqUSIF7rEm8QAOA0f2crHr1XZlsWw7wRQSxBSkknLk/eDGN3yp0d79BOp8dA53yETQas5+NQS5sin6FScGda7+m0UnZhlcxmEc6lLck86S9tggbSuTQYwlm+L3+VkwUeWyJIg2CvbUXOqH+lufqVJJ0TG3fmiXvQKxRtqbcAc/rTFHtedPbjUC3ztikYPXQYb8xwJrKT8XPaqx+n+q1qhl22g==;Y9Q+ZOJs0m9QSi2O85zZLw=="
 ---

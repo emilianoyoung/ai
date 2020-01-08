@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2020/01/06/facebook-ban-deepfa
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/01/06/facebook-ban-deepfakes-sources-say-new-policy-may-not-cover-controversial-pelosi-video/?outputType=amp
 type: article
 quality: 137
-heat: 287
+heat: 297
 published: true
 
 provider:
@@ -141,6 +141,21 @@ related:
       - url: https://www.bing.com/th?id=ON.318C8BEA40C2563E4E8D189D1695EAB8
         width: 700
         height: 350
+  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
+    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
+    publishedDateTime: 2020-01-08T22:44:00Z
+    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
+    ampUrl: https://amp.usatoday.com/amp/2836428001
+    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.5B73BE6A1F28AEFEF78F8968D3E3FDFF
+        width: 700
+        height: 393
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z

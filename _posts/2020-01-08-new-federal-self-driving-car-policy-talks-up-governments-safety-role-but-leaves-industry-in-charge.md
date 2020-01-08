@@ -1,29 +1,21 @@
 ---
 category: news
-title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
+title: "New federal self-driving car policy talks up government's safety role but leaves industry in charge"
 excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
-publishedDateTime: 2020-01-08T20:49:00Z
-sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
-ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
-cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+publishedDateTime: 2020-01-08T21:07:00Z
+sourceUrl: https://www.sfchronicle.com/business/article/New-federal-self-driving-car-policy-talks-up-14959865.php
 type: article
-quality: 30
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI
   - AI in Autos
-
-images:
-  - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
-    width: 700
-    height: 466
-    title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
 
 related:
   - title: "VW announces new Silicon Valley self-driving nerve center at CES"
@@ -72,6 +64,6 @@ related:
         width: 700
         height: 350
 
-secured: "egDTQmfbJBHTtCOt9/pK/r1lM8IZcOuDshqgduCHTFZiXK9gcTjtR9t6Uvd9ZeRT9au8mybN2rRfqHaARh4HHRVU1nAtLRuPN1lYkS49QAhGgXWQQxKH5x8pkVSkUH/r1fjuKcOQHtPjCbfb2jraFVGcKjMChYNmE0JAbK2dEFEK1HY2OIWwAFhkUf/E5gQ91g3jfEIBlITj9DEY33JivFmko7j8hEg6mhVFyW98oA16/fFFlTnuWBHQN0mpir62zSLNf9qmOtWxeHHFj1LG8A==;6dQDo/4qj5tc0vKTRecKUA=="
+secured: "kdaDqzBFvI6P8WVnA+aZV0s+8onSY86yEXqs1k1w2lR9WeONBh0G9rk+Z9GLubU6nxlybsL0chhbc2MqBHbZPNfT2lHDZhIbqE+WXSJDLIj+rN7plZhJxwqAWREQUlrnQzo8lCvOTfb+9biXz2yUPOIHP2sgo3n6OkT6n8QNI8SriXZEr0g3lcywCbcgiKhZRM2O1VOVeFPu+zhkIpbE5qZM6or9xhM4MvPauMPuPCwF0ERpm1sQxZ2hLUrgFvN8OTwLsg9mCS7V7GIPi8VLjA==;02iD6lK4BeTDPRcN337rhg=="
 ---
 

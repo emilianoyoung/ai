@@ -24,6 +24,19 @@ images:
     title: "Watch Adobe show off its impressive AI-powered vertical video tech"
 
 related:
+  - title: "Watch Adobe show off its impressive AI-powered vertical video tech"
+    excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
+    publishedDateTime: 2020-01-08T00:42:00Z
+    sourceUrl: https://www.yahoo.com/now/2020-01-07-watch-adobe-intel-press-ces.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D926EFA46C4EDA90BF736E437B4508DF
+        width: 700
+        height: 412
   - title: "Watch Adobe show off its AI-powered vertical video tech"
     excerpt: "Intel has Jason Levine, Principal Worldwide Evangelist for Adobe Creative Cloud, and his fabulous head of hair to thank for the most entertaining part of its CES press event. The chipmaker's executive VP,"
     publishedDateTime: 2020-01-07T10:32:00Z

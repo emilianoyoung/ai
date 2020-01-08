@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advance
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
 
 related:
-  - title: "Nvidia Announces New Orin Auto AI Processor"
-    excerpt: "in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers."
-    publishedDateTime: 2019-12-18T17:04:00Z
-    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
-    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.42094475F6B4E7BE3369ED4A7F93DFF6
-        width: 600
-        height: 315
   - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
     excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
     publishedDateTime: 2019-12-23T13:54:00Z
@@ -72,6 +57,6 @@ related:
         width: 700
         height: 393
 
-secured: "ftLm6DnLju8sFKH9ZDoKHNEO6+N2vITDd/JJIdfxFx/s/ZYQQfViO64M0mDqFwF9V29Sd8vmavkqPP1gWS/ifcobwiJRpSeVjMS3sVlAhdxeb51CnicJql3JehlPZmLZGxj/8CTEyL0PI6sY/uNr/2VC3g0adidVuOgB8iT3Sz2jbr+x6FjaHWVRsQJ9yb4kMbtHgalhH+3n4MlG110FIwbM+bVXDBv4QcWsnOadVrU3JylJYrIiNHjVAPdURW83lom7AuVXCFgeSoz6TtGLIg==;D72fzIGRXn2Oy/QzR82Yeg=="
+secured: "YAsnl/ALNTxk2xFrW4ukwOjEd33A+azbnErUVpU6fwkcV2/YX04ZnKCMigPspPWQIXrmGdTvbaeXhjcZXSYiJ608QVpx6tT1cb+TEKlLosQGMp3P0+2O6C3Gqjt2bi7z/4IBQ71RVPmkk+tAx1sSJmF7qD0QnpfkxlTNuUPpTotJGnNEw0NN1SJh4wG/ZbqK3swR0FheWovy1pLvuXy8ROcRzbhmfooa4G52wKWoeMaryRkg21FxIQUmmgNjxfpfQ9wHNHvIa5Hk3b3GUiKAvQ==;oQFJYEm8PX1OpbXShaZYzA=="
 ---
 

@@ -50,19 +50,6 @@ related:
       - url: https://www.vendingtimes.com/Uploads/Public/Images/Articles/201912/12202019-CloudMinds%20Launches%20Intelligent%20Smart%20Robot%20Rental%20Program.jpg
         width: 1440
         height: 1080
-  - title: "CloudMinds Launches Robot Rental Program"
-    excerpt: "The Smart Robots available to customers have a humanoid design and natural language processing (NLP) capabilities that will facilitate conversations and other interactions in multiple languages. The service seems to be geared primarily towards enterprise customers that may want to use the robot to create unique experiences for guests at ..."
-    publishedDateTime: 2019-12-19T21:44:00Z
-    sourceUrl: https://mobileidworld.com/cloudminds-launches-smart-robot-rental-program-121908/
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.59046B142A9993716D67B7D7DBA51F63
-        width: 678
-        height: 655
 
 secured: "dXkeyfd26aG4rXbAyMWADNmS5XXcVh7KVE0ZCKz1yWyOtUP5ErBVPUnEQdhStkPtTR7d6a/inJ4Ki9clV6l5dIeyJAIji0irjiFlnKPrTfUWymfA7S9rrm23/2r2/AVUPH5cdWoGForIOA3BVC3qGMRudSdx2hz+3dDH9vjgZuwvCVO+i5O2aBTKgJBoLR8f2hMP43RehDVARQTf74J4QHPzpEXdJnFLWFPJk4LqqN2vw3tEU8nrn2kVr2bzlbIRDdtV7VSd3aROS8TqEv/OhA==;wmR5XwHVwfNAO0RD9qUKZg=="
 ---

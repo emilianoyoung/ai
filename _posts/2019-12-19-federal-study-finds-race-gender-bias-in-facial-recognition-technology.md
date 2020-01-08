@@ -541,19 +541,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
-    publishedDateTime: 2019-12-19T21:53:00Z
-    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-215334634.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
-        width: 768
-        height: 510
   - title: "A US government study confirms most face recognition systems are racist"
     excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
     publishedDateTime: 2019-12-20T16:08:00Z
@@ -869,19 +856,6 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
-  - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
-    excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
-    publishedDateTime: 2019-12-19T21:59:00Z
-    sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
-        width: 1280
-        height: 721
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z

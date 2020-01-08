@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-reco
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 153
-heat: 453
+heat: 463
 published: true
 
 provider:
@@ -101,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0EEF2F223E93C0E338D8331CD39F7293
         width: 700
         height: 507
+  - title: "Railway stations to have smart cameras for facial recognition"
+    excerpt: "Railways has entrusted RailTel, a Miniratna PSU under Ministry of Railways with the work of providing IP based VSS with video analytics and facial recognition system. To have a better coverage and clearer image, four types of Full HD Cameras – Dome type (for indoor areas), Bullet type (for platforms), Pan Tilt Zoom type (for parking areas ..."
+    publishedDateTime: 2020-01-08T22:19:00Z
+    sourceUrl: https://www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition-11578513121172.html
+    ampUrl: https://www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition/amp-11578513121172.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/railway-stations-to-have-smart-cameras-for-facial-recognition/amp-11578513121172.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7D2EDE14ECA06EE86C4635BF018657E7
+        width: 600
+        height: 338
   - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
     excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
     publishedDateTime: 2020-01-08T15:27:00Z

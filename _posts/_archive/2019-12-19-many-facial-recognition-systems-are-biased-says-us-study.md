@@ -1,29 +1,34 @@
 ---
 category: news
-title: "Study Highlights Race & Gender Flaws in Facial Recognition"
-excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
-publishedDateTime: 2019-12-19T22:25:00Z
-sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
-ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
-cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
+excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
+publishedDateTime: 2019-12-19T22:11:00Z
+sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
+ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
+cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
 type: article
-quality: 59
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Courthouse News Service
-  domain: courthousenews.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
-  - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
-    width: 1024
-    height: 635
-    title: "Study Highlights Race & Gender Flaws in Facial Recognition"
+  - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
+    width: 700
+    height: 366
+    title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -202,21 +207,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Many Facial-Recognition Systems Are Biased, Says U.S. Study"
-    excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released on Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African-American and Asian faces 10 times to ..."
-    publishedDateTime: 2019-12-19T22:11:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html
-    ampUrl: https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/19/technology/facial-recognition-bias.amp.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.8103386C75BED196102F902DA5C04F87
-        width: 700
-        height: 366
   - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
     excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
     publishedDateTime: 2019-12-20T02:24:00Z
@@ -336,6 +326,21 @@ related:
       - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
         width: 796
         height: 419
+  - title: "Study Highlights Race & Gender Flaws in Facial Recognition"
+    excerpt: "(CN) — Asian Americans and black women are a few groups disproportionately likely to be get misidentified by facial-recognition software, a federal study published Thursday reports. A video surveillance camera hangs on a pole outside City Hall in Springfield, Mass., on Oct. 17, 2019. (AP Photo/Matt O’Brien) Taking more than 18 million ..."
+    publishedDateTime: 2019-12-19T22:25:00Z
+    sourceUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/
+    ampUrl: https://www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+    cdnAmpUrl: https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/study-highlights-race-gender-flaws-in-facial-recognition/amp/
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 59
+    images:
+      - url: https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2019/12/AP19290570512807.jpg?fit=1024%2C635&amp;ssl=1
+        width: 1024
+        height: 635
   - title: "New study shows persistent racial bias in facial recognition"
     excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
     publishedDateTime: 2019-12-20T21:23:00Z
@@ -544,19 +549,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
-    publishedDateTime: 2019-12-19T21:53:00Z
-    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-215334634.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
-        width: 768
-        height: 510
   - title: "A US government study confirms most face recognition systems are racist"
     excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
     publishedDateTime: 2019-12-20T16:08:00Z
@@ -872,19 +864,6 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
-  - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
-    excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
-    publishedDateTime: 2019-12-19T21:59:00Z
-    sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
-        width: 1280
-        height: 721
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z
@@ -940,6 +919,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "okzdzxrxhRsDYe+1RcgvxKuy1/RrOki0S3VbqWvl8h9dtu0CBEafSjIm0/XHXzWQyI/gdw40p4AU9bo2KethJKoaxT2ienjGXt2hLnSPH3q0ADOlaK8fuVQT4gUVs7BUGH6ysXr6nf/S2JFYHOhsWbKRMxkQydy98pq0k/pKZ7hU5DR50vqBenPveqXcRZZ4QaxMmW7LMfX0e7M38KNg+thJ3xLNynrQspkGm187L8g08R7QjDxkmkNK4m0j6qq2e5nfZdHoaoZZI7oBKjFuIA==;HHnBXwCrwnX6f4IcGa1Liw=="
+secured: "ON3iQwexSyRduP+rTJ7QGZizYNRWW4oR+DNH0nxTPhlWIWNZ0jrO1fsc4CIJq4LoWpYyUQ65TouMAdbyFEafgBHyEuQMUJUJQ+41jvOMcto+RrKBFqaMqvBxH1FgjRrqZYPsKt74BSHR5KL6r0EVbsHeVTp75tomV/WaL/8ycKgb0U7S9mY9Vw3MYPKEZvZ7qtCx63g1awBHAW/RwTl/AN1Q1ycQHu5weiSSnSZAtX/vjrSF9fuYjRq64R4oIksnwg5NhLEHowgVRRFBJ3Oqjg==;wQrk1xGkSQJFCgd5+Xs2sw=="
 ---
 
