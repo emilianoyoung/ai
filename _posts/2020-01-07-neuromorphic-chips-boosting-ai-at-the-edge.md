@@ -55,6 +55,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 26
+  - title: "NXP Debuts i.MX Applications Processor with Dedicated Neural Processing Unit for Advanced Machine Learning at the Edge"
+    excerpt: "The range of applications made possible with the cost-effective i.MX 8M Plus spans people and object recognition for public safety, industrial machine vision, robotics, hand gesture, and emotion detection with natural language processing for seamless human-to-device interaction with ultra-fast response time and high accuracy. NXP USA ..."
+    publishedDateTime: 2020-01-06T17:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966719/0/en/NXP-Debuts-i-MX-Applications-Processor-with-Dedicated-Neural-Processing-Unit-for-Advanced-Machine-Learning-at-the-Edge.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.FF66EB29416DCB31C9FEA4D8EA0D30CC
+        width: 150
+        height: 80
 
 secured: "3bn8RKE6uUpaVM644a/oqo8ORXott+osQ2a3iXrtOWrTECyNNq+psZHDpuWNs/MTmSk/OZi1zPMK8gcB5wAhDC8KcRlU/3tbkjebmbV02HCkyLtHVQT7iaiGgTLB3sN03xsUF/Pj8SmFPb2lH2gm+71HLLlXnAl1OoHa7oRUXPRBPbdaH/OCN4j/sz8XFuOChArmn530flkWu7b+RxIhf60eb3eYKWdmfdiyyZRk7YTX95dI12RYgIi/dH8fGCQNc4WMJ18hKy+a+RYneS5gWw==;wZwjdA0A1EgSHfnC4vpYRw=="
 ---

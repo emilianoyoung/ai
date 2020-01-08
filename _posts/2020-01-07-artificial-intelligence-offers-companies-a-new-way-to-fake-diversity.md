@@ -35,6 +35,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E0F1C84FA6A09F235D4410C012E696AE
         width: 700
         height: 400
+  - title: "Dating apps need women. Advertisers need diversity. AI companies offer a solution: fake people"
+    excerpt: "Another company says it's moving past AI-generated headshots and into the generation of full, fake human bodies as early as this month. The AI software used to create such faces is freely available and improving rapidly, allowing small start-ups to easily create fakes that are so convincing they can fool the human eye. The systems train on ..."
+    publishedDateTime: 2020-01-08T01:28:00Z
+    sourceUrl: https://www.sfgate.com/business/article/Dating-apps-need-women-Advertisers-need-14955566.php
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 25
+    images:
+      - url: https://www.bing.com/th?id=ON.504255905759588046C585450129C16E
+        width: 700
+        height: 399
 
 secured: "xMezWRsE4tr1GXl6SzzUCu+6g2m74Y3/u/zMAGzAdVArNhVm4KPFugDljZrT5UsL6cvGV+dAgJenkbIMoQvIzWn1M/c22ng6eLfvluFFmN8K5Rfm96CZYcld5w+FwG7LbiT54x70XOi82AyF+pgyQtvg2BLla+FpX57RacdoUV/bBUJUYqwKTrqoiJZNyDsHXVT/Hv6lKZFTtrhvv7JlNU7v/ySxZqXhxap3cFponNMhKevnR0BPXV0UwBNu35J0obOPsBOcH0CotHSC9ko4BQ==;uo+O3S75Xfi1R7kMwFOopg=="
 ---

@@ -40,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.061DBDB6CF00334B5A1A49BA4F889845
         width: 700
         height: 525
+  - title: "Cancer detection: Google?s AI better than humans but can't replace them yet"
+    excerpt: "While the study is not a pioneering work?NYU research had already established similar results?what makes Google's work unique is the fact that it was conducted across two countries with a larger sample."
+    publishedDateTime: 2020-01-07T21:19:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/cancer-detection-googles-ai-better-than-humans-but-cant-replace-them-yet/ar-BBYIfqY
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CA3A27C227CBE1E6895DF3900F7DC9CC
+        width: 600
+        height: 315
   - title: "Baidu AI reads better than Google's because it's trained to understand Chinese"
     excerpt: "Chinese search giant beats Google and Microsoft in AI language competition Chinese search giant Baidu has beaten Microsoft and Google in an ongoing natural language processing competition, thanks to the linguistic differences between Chinese and English."
     publishedDateTime: 2020-01-01T08:01:58Z

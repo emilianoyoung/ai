@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T19:10:00Z
 sourceUrl: https://www.biometricupdate.com/202001/voice-biometrics-and-analysis-capabilities-demoed-at-ces-2020
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,17 +26,13 @@ images:
 related:
   - title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
     excerpt: "By partnering with UEI on nevo.ai and QuickSet Cloud, we will enable UEI customers to build on an open Virtual Assistant Solution Accelerator, for millions of home products, powered by Microsoft Azure AI and IoT services.” Universal Electronics will host product demonstrations for all their latest technologies and products at Booth #42325 in ..."
-    publishedDateTime: 2020-01-07T16:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/new-nevoai-features-extend-virtual-assistant-capabilities-to-bring-intelligent-services-virtual-agent-and-more-2020-01-07
+    publishedDateTime: 2020-01-07T17:53:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200107005382/en/New-nevo.ai-Features-Extend-Virtual-Assistant-Capabilities
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "5iyPdKUbMN98BYi/Ol20aQu5RR0qybsDv+ji+MzX7S2EiqzmjlOmA7h8ROIpLQybfP24/4F2yH6wRlf7pVx0BwF08sF2lUxmw7Mq1QenEGC+Wh5pTCbxf4GJyMS1sWjZ2/3nvhwhv/sRRBQknQIKIuepwF3/fFAOlw2VxExSQ42OxVylQIYil9nhqALCyDbFQM4v/NhQhlCPHx3o4GDIXakZJKx3tse0pRnwJKGW/0Wu2/zafPD44HG8jOoIU6/czP4u9Kllv3tVowvCIzGNQQ==;l3//zfPJtOX2VGKgTIxERw=="
 ---

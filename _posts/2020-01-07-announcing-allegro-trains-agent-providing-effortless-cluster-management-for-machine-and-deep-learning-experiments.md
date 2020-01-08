@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
-publishedDateTime: 2020-01-07T14:38:00Z
-sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+excerpt: "Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track, reproduce and collaborate on successful machine learning (ML) and deep learning (DL) experiments. Some of the main challenges Trains Agent is built to streamline include: Resource offloading Personalized ..."
+publishedDateTime: 2020-01-07T12:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
 type: article
-quality: 52
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-    width: 400
-    height: 145
+  - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+    width: 700
+    height: 368
     title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 
 related:
@@ -56,7 +54,20 @@ related:
       - url: https://www.bing.com/th?id=ON.15A20EF39F7593717A4D0F1018D21665
         width: 700
         height: 341
+  - title: "Lyft open sources Flyte tool for managing machine learning workflows"
+    excerpt: "The tool is called Flyte, and is described by Lyft as a “structured and distributed platform for concurrent, scalable and maintainable machine learning workflows.” “With data now being a primary asset for companies, executing large-scale compute jobs is critical to the business, but problematic from an operational standpoint,” Lyft ..."
+    publishedDateTime: 2020-01-08T01:15:00Z
+    sourceUrl: https://siliconangle.com/2020/01/07/lyft-open-sources-flyte-tool-managing-machine-learning-workflows/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.83B11F946AD3DF8FE40365B0E2513558
+        width: 700
+        height: 320
 
-secured: "fZt0UfsAEhufst7v9GHd6E27T+eAE46AFAoNFHbywluEUTb0lPwWtYof3EuoZxC9KQzebHvkamPLBEQlm95UL+PB+b0L/De3aT3xjkHh2TMwSqJYuba7Qq/PQF4D/2wGDLibhQr4Em0o6pz2yl+ZN3k7I4mj7N6wss/zkc6dNdrkHKWfpqnbA3rD6Au+gW4uQemstocAMF7pLC4gFjJ2As6tkVH2cCVoNJb2Y1Gttn6T4tOsQ02Z9EL7OAGbo8pkl/pD4k6cjodJvjLkXSbO1Q==;YFeLuhSxyYLAPeQBeigLZA=="
+secured: "QMkIZO45QZ3mglqIwtkHtKUYFWsUPaUnzCeS746Dq7l6Oz94/dwKd+4lbG4DhEEtzmctujy4KwhFE2Ca8ilMvfmTpNEIZZtKQzLTk3HiZOx9WFybYM/JfZYNSByzJ2Nu2fGdkJsu2+/XQVGeh0miggWz2vom4oUgk2e9yeYpg/mmzFbBY2ohgZ27SKmVw+f/0O0SCn4QqyeT+omDXzD4uloB2RGVL/WpivQJ8uO56nhk8jpk32JBw115HlUMikeGQ4h9GE6m4ium1/Qcsjm6zQ==;ORsmeD3MNVNXgYm/DshCuA=="
 ---
 

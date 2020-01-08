@@ -60,6 +60,21 @@ related:
         width: 600
         height: 315
   - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
+    publishedDateTime: 2020-01-08T00:03:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
+    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+        width: 700
+        height: 392
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
     excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
     publishedDateTime: 2020-01-06T22:14:13Z
     sourceUrl: https://www.msn.com/en-us/news/technology/toyota-is-building-a-tiny-utopian-prototype-city-filled-with-people-robots-and-ai/ar-BBYGaK5

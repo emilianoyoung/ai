@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
-excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-publishedDateTime: 2020-01-07T19:02:05Z
-sourceUrl: https://www.msn.com/en-gb/finance/technology/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contests/ar-BBYIeyQ
+excerpt: "DETROIT/LAS VEGAS (Reuters) - Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance ..."
+publishedDateTime: 2020-01-07T19:02:00Z
+sourceUrl: https://news.yahoo.com/lidar-laser-sensing-technology-self-190205146.html
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Reuters on MSN.com
-  domain: msn.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.A91A2F45481277E3486B5E84BD501086
+  - url: https://www.bing.com/th?id=ON.329C807E954EFEAF82E233EDBCF01B2A
     width: 700
-    height: 367
+    height: 466
     title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
 
 related:
@@ -79,6 +79,6 @@ related:
       domain: motoring.com.au
     quality: 4
 
-secured: "+tRS3Ski41+TfKAuxqNy78byZe/JglQ4Ao4KnOWCxZfIVHe+1Bm3oY9u34bXcRhHo3W2qbqq6W/1huzCuSQaIRbVQEgF8a4xt+d7F0nMDfeAbVNs/0Tm+sedCrtsisyuQlGAdCl0bfCRMDK7tcQYWNHWGQZeqlln3N4xLqBJUrDgLhOT0jmsjNPf7iIMCFinvQFYiTXklP7ikCtua7FYKlPGfYn0ncXYqpwGDf9X2UBp0x/oXGN3a5ioFf3TvobayLjiZleskN+kcRCviwVwFQ==;nr+Lodo2DKxEB+8+XWxNvQ=="
+secured: "iyPvD9mp0vrh3Dx7ABagXcQGlPSz8J8AEuh3UpkktpD2dfORDZX9VMUjb6ULKPcThdjqlgplNuKIGs4ZsE1xsLZ+G8ROFSKH9PucN7mkB1Gd1grgkmMCQz3qlAFSGGBj5VbHQyED1zpPytuTtC5Nuh8Xxplb5P0A8MaszRj39Z74C2Xwg3qbu7IjkhS10YK8NTpqZ00rbvdXGk7eMOYPi/qpRcGT9lQHIOHqjfbXz94KuthjK8wTP3dameErFuzl0+E+V4rNKO/wjJfzovPw/w==;Nn2oa6VTTkdRTyJVdHa37g=="
 ---
 

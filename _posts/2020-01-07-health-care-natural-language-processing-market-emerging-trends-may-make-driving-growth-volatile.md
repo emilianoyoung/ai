@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:32:00Z
 sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
+    excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
+    publishedDateTime: 2020-01-07T11:11:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 28
   - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
     publishedDateTime: 2020-01-07T11:09:00Z

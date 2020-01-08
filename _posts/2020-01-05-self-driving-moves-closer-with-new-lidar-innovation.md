@@ -64,18 +64,18 @@ related:
         width: 700
         height: 393
   - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
-    excerpt: "By taking the action to click anywhere on this page, or by clicking the “Continue to Site” button, you agree to allow us and various third parties to store and access cookies on your device for MSN and other Microsoft News websites."
-    publishedDateTime: 2020-01-07T19:02:05Z
-    sourceUrl: https://www.msn.com/en-gb/finance/technology/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contests/ar-BBYIeyQ
+    excerpt: "DETROIT/LAS VEGAS (Reuters) - Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance ..."
+    publishedDateTime: 2020-01-07T19:02:00Z
+    sourceUrl: https://news.yahoo.com/lidar-laser-sensing-technology-self-190205146.html
     type: article
     provider:
-      name: Reuters on MSN.com
-      domain: msn.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.A91A2F45481277E3486B5E84BD501086
+      - url: https://www.bing.com/th?id=ON.329C807E954EFEAF82E233EDBCF01B2A
         width: 700
-        height: 367
+        height: 466
 
 secured: "nTdD3X/7Q8lRmVAhyQ+Vg919hu+dBq42JJgidc+ads3APEJUMsQQmGxxavPcgaD6737xXAFUtPKBOSMBWPR48ML+y73nnDSEpdv9FP1syvpnZXfGPIX+BEu26Dqtjtex9dLfDoHgrb4hbn4zHtBXiyaczjBjBpsw+JqHtEM6aa3u1vO8dfLGzSZYA/18KKaf1x4dmSpmN+o5RiPvkJruJhnpKh03mIu34BMZbvMiNwGDZXI9cfadMIgo1001zBCMEGy7BqM0LEQBypQ/+RTSzg==;NBrDQBPDTinLaZCOU+w5Eg=="
 ---

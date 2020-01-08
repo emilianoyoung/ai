@@ -8,7 +8,7 @@ ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city
 cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0EA7653251F63F550FFBB41E8A1CBEF9
         width: 600
         height: 315
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
+    publishedDateTime: 2020-01-08T00:03:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
+    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+        width: 700
+        height: 392
   - title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
     excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
     publishedDateTime: 2020-01-06T21:35:00Z

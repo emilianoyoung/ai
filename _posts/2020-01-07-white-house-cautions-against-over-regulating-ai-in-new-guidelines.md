@@ -1,23 +1,29 @@
 ---
 category: news
 title: "White House cautions against over-regulating AI in new guidelines"
-excerpt: "Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed innovation-killing models."
-publishedDateTime: 2020-01-07T17:50:00Z
-sourceUrl: https://www.msn.com/en-us/news/technology/white-house-cautions-against-over-regulating-ai-in-new-guidelines/ar-BBYI8Zf
+excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
+publishedDateTime: 2020-01-07T16:50:00Z
+sourceUrl: https://www.engadget.com/2020/01/07/white-house-ai-regulation-guidelines/
+ampUrl: https://www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget on MSN.com
-  domain: msn.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.B3193DA5896A24E8ABC386655AD51633
+  - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
     width: 700
     height: 367
     title: "White House cautions against over-regulating AI in new guidelines"
@@ -213,6 +219,6 @@ related:
         width: 400
         height: 400
 
-secured: "R81l+QPWj4a1i0Lwyg42cke8UaJSaFC7d/14EcuCw8qeqDoLgrKtVmyJP8jR5pkV1Sc1aJ0kjOswO+rLCY0Px0rxs3aTUE+WfEZ+jT5wHl1ErAoY5Zvks7xXwunzj9CCyZvItijUBgauOus1k1vVGbz0G8TefNGZkJD8MmjrAh9HFddgCFrxlkFZJKQkBCl9KnZRgcJP1qaaHTJvVhPSqjbPjFOE8QwiYRWBPqWtLdoqGEFqQyFkfxVlZh8FA7OKw3rAKGd8/4QHqludi25dUw==;n0kTNBimYDvMmK4PD2G2Og=="
+secured: "uEoxZK+JlxfFm+WHJmL+E88Ba+Bt9QDVswXvT5p+zFTO2EbSkFqn8x6il9FMGx2hMioqu6xorwxMqYYx8xsWp9CM8m3ZlcDU5wW/pC19xB9aAiNqf+lOFv71shAnXCHv86217ND9PkRItcIdf6hqAQOng9BBraLSSekwYldxRUvm8UL8cLRt8m3ax4BLnV2wIix1r0tHlsvsT+SMp4dr7mxOX2jQiItNOqGZmHb0yWVf9QwyZD5GDQ9zSDae7TX5TH/AB9Z4ETVL1jWkDZaC1w==;pBQ9OW0btd87UrUynLjxMA=="
 ---
 

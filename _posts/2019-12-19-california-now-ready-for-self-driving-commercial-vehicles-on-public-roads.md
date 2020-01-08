@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-r
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
         height: 367
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
 secured: "q2GVdxfbGCnl6VE+GOfQy2+IBGLAdyUHIvAgTtly+4WkGFlOsjXUBOl8Z+0U4xxETjvZIgMceFFqBYXJVPhn53EA9Ut3McWbgSKT8mZcohXdu3dZckMj8Kc398CQ4pMYzA/9xEA6jQ0StLy4E6YMtI5NMzOpAbDAk3QboE/bBMe32TbGcSiFHSUU7f9gt00GImxTgV7zk6h1sXly5uROw3Hscd+CUbxSVfs2LMU2nWDo37rqE0TE6tmJjJJuFaXe1bFziscbCa2zaUUdSOMM1A==;5UdvkgRDBOyqHQ/c/mg6zA=="
 ---

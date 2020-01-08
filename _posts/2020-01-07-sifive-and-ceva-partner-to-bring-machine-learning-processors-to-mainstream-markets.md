@@ -1,43 +1,81 @@
 ---
 category: news
 title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
-excerpt: "Initial end markets include smart home, automotive, robotics, security and surveillance, augmented reality, industrial and IoT. Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep ..."
-publishedDateTime: 2020-01-07T10:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/sifive-and-ceva-partner-to-bring-machine-learning-processors-to-mainstream-markets-300981297.html
+excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
+publishedDateTime: 2020-01-07T11:11:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
 type: article
-quality: 48
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: https://www.bing.com/th?id=ON.5D034EB12536F1B7D12E4A1F867B4FD7
-    width: 700
-    height: 366
-    title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
-
 related:
-  - title: "Automotive Artificial Intelligence Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics: 1. Market Drivers 1.1 Rising demand for premium segment vehicles 1.2 Increasing trend of autonomous vehicle 1.3 Growing demand for enhanced user ..."
-    publishedDateTime: 2020-01-03T06:40:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-03
+  - title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
+    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Global Health Care Natural Language Processing Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
+    publishedDateTime: 2020-01-07T10:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 57
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-07T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
+    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
+    publishedDateTime: 2020-01-07T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
+    publishedDateTime: 2020-01-07T11:09:00Z
+    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
+  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
+    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
+    publishedDateTime: 2020-01-02T07:03:00Z
+    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
+    type: article
+    provider:
+      name: Australian Techworld
+      domain: techworld.com.au
+    quality: 0
 
-secured: "+3OgICh1nW5XakNAXdq5WykGsiEnvyF5t+jDelH2eZfm6T9kLsZDA+vQ179wzLjY8O7FSuU5HdoB1tBrKlg6/9kiB97C0cFvJOwt3ywlKUdN6U3+23ZwuQgx9id1YKSrDkhXxabtrfZoNSvVcS/GtwJn6X6sv8K5ghD0w6aszHJJikOWBCEHLEPDz6FWXqyi+IaQwmhxGExzNH5cUBPoCaegvrgqPV/z/59nytyF6C2cXd1tYN4cjY0+jHgqMlp/OFQaR56IWdLMJ6BS99/Vmg==;JXt62AcRdWXSYGX06ClhuA=="
+secured: "37xOjxnKnZy53cIWmAXl3Y+HBToqpCB5GtS2APBeKJ5u+VvL8fuEBGz4DWhIae5GRyhxyP4V9/FQjVR8N17Iu16qhGLQw83r4KpLc0y7fvnRt+91SpRumgScsdKph3T5mVOMBoJMouFTdDK+o0Mq0sCmlEnG8/l6+fUCxhSe2un/+6ive0+6nsCaMsiVu/TsQU3cXEK//rl3eO/kio+hZ5cFZVKHdkLnXcQOA+H1U577FmHoPZsENMjfnvPWDRoFPropjNZRF9UY+r2+IqS4Vg==;JuiKGV2B2Y3/yI3Vio2U7A=="
 ---
 

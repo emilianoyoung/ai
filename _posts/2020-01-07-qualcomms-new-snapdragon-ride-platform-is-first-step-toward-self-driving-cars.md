@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s ..."
+excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
 publishedDateTime: 2020-01-07T04:02:33Z
 sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
 type: article
@@ -109,6 +109,6 @@ related:
         width: 700
         height: 367
 
-secured: "M5i+Mct3kzDPtVYCX9m7O2ZkZWMPKIOj5jTSUv7naiMb00wlUOqJyfhNingWwtU9ngj3z7OlPolK7kt+t8Y+8SLd5eQuNSpRZX8dN6sZ5O9KoOaJ7eoGp5e38SHFe7uLpCl9RNYOVNvXmOHZomU8Zk6KneLML0Raikr5TWB3JireacTjgowcJ36wEL1MPQYJk1DODj5ZxMl6uirrYPBtGrYX2+LB4GwS7WKlb/+tZN6x5Acvj6QE+XrL6KnASwY+dOHVXOoCfyBqk2+qODq7TQ==;d8VvmN4xQPmmiKoRKeIGOA=="
+secured: "zn5TEQlwWnyvkGRAKkAmsGRTYODSm0qM3hqVNuGeelZDuoBnG+Hmb8EoyfTiL0yrKfqxrOolR1D3EQHbqaRs8ey29ESw700dqqRv9DLOspIKMeVoj/kTO0tEeYbe1hcIAb9fnYOqwD25MlwiA4gIaayKVToYi+Njeogwb7Ls5nR44k0jNGKrC7+aM+cJJKtd0F0Q+nY2wyXT5J2uiol1Ap4EFZxwVnDSkewA3FbttS0VCBpFOw7sR0H+S9hVRk4MJqZBBAXhchtG4auqkS/4xw==;BsuoSpGHPpd8JA24ohi5eA=="
 ---
 

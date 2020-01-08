@@ -29,6 +29,21 @@ images:
     title: "White House proposes regulatory principles to govern AI use"
 
 related:
+  - title: "White House cautions against over-regulating AI in new guidelines"
+    excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
+    publishedDateTime: 2020-01-07T16:50:00Z
+    sourceUrl: https://www.engadget.com/2020/01/07/white-house-ai-regulation-guidelines/
+    ampUrl: https://www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
+        width: 700
+        height: 367
   - title: "White House encourages hands-off approach to AI regulation"
     excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector ..."
     publishedDateTime: 2020-01-07T14:18:00Z
@@ -177,19 +192,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
-  - title: "White House cautions against over-regulating AI in new guidelines"
-    excerpt: "Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed innovation-killing models."
-    publishedDateTime: 2020-01-07T17:50:00Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/white-house-cautions-against-over-regulating-ai-in-new-guidelines/ar-BBYI8Zf
-    type: article
-    provider:
-      name: Engadget on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.B3193DA5896A24E8ABC386655AD51633
-        width: 700
-        height: 367
   - title: "White House offers guidelines for artificial intelligence regulations"
     excerpt: "The White House on Tuesday proposed 10 principles for federal agencies to consider when developing laws and regulations for the use of artificial intelligence in a variety of fields.Regulations created by agencies should encourage \"fairness,"
     publishedDateTime: 2020-01-07T19:54:00Z

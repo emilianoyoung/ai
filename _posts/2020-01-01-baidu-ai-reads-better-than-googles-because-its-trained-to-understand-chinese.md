@@ -53,6 +53,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5470B37366DE7EB96C35FA370E97BDB8
         width: 325
         height: 217
+  - title: "Cancer detection: Google?s AI better than humans but can't replace them yet"
+    excerpt: "While the study is not a pioneering work?NYU research had already established similar results?what makes Google's work unique is the fact that it was conducted across two countries with a larger sample."
+    publishedDateTime: 2020-01-07T21:19:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/cancer-detection-googles-ai-better-than-humans-but-cant-replace-them-yet/ar-BBYIfqY
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CA3A27C227CBE1E6895DF3900F7DC9CC
+        width: 600
+        height: 315
 
 secured: "b5XTzwC1nZoTO61ODHZjZp3VxYZ5iCX9R0E6wd681vfX3S1CgRX5R8dSL9ZPlJ+LHfXRVIDvbO5A9VhzV+aOsvRzu+uXEIG755WfzYmfAPcPbzX1kRdQHDVY+51RqlkH8LCStsksgWM4b5H8qc0tHd72UUrmf1tNR4it/KR6SkwIiAjQ9e9vrOm8K0Lg1cugDFBtPBo3OX1RPHSJKbp/s9hCJjNYpi3ItZ8CYTXWYJMXeWPSFk+fMAmo4w69Ztgse71TAS7xo3WTKhWiKa+SXA==;64tC3lmrL0BcGvqtzwIgDA=="
 ---

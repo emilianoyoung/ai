@@ -97,15 +97,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
         height: 367
-  - title: "California allows 'light-duty' self-driving delivery vehicles"
-    excerpt: "Self-driving delivery vehicles could soon become a relatively common sight on California streets. The state's Department of Motor Vehicles will allow \"light-duty\" autonomous delivery vehicles under 10,001lbs for testing and commercial uses. Companies will need permits that vary depending on whether or not a backup driver is involved ..."
-    publishedDateTime: 2019-12-19T00:19:00Z
-    sourceUrl: https://www.yahoo.com/now/2019-12-18-california-allows-light-duty-self-driving-delivery-vehicles.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 4
 
 secured: "Mxxnr3R66jyY8mj1Nqs27L8PSdvRaB2f2pK0YWXrtwOGtNIl5k26kVQ/7YJmieKObGAlEVzKT37hvffSzawgg9WUnuubTY4Qvl2dzbwSGtfBKipawowZvwRd7gfPoDnmc43iOk36H0CxITz+CmeQOPxRlS8Gq8pAr2tbPGnDWNj2TIMsEUaY+23AJy2drXgvmdp95EM+cq5iImt9h7t3g/GY6Lk6vlXRzKK7VGmeDzVzZ0BpH63yctS+3WY0T1f3c+yqx+Qq/2yFcyRZmK8+FA==;sZq1karYYuhhJYCnLBnalw=="
 ---
