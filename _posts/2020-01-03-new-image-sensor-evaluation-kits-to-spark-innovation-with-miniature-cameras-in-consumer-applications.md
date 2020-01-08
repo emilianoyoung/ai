@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
         width: 600
         height: 315
-  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
-    excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- The Consumer Technology Association (CTA) is honoring Fluent.ai, a Canadian technology company, for its groundbreaking work with speech recognition technology and artificial intelligence (AI). Fluent.ai is one of several groundbreaking technology companies being recognized as an Innovation Awards ..."
-    publishedDateTime: 2020-01-06T13:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/fluent-ai-named-ces-2020-innovation-honoree-for-its-advancements-in-voice-recognition-technology-1028796191
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
     excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
     publishedDateTime: 2020-01-06T08:11:00Z
@@ -74,6 +65,15 @@ related:
       - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
         width: 580
         height: 305
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- The Consumer Technology Association (CTA) is honoring Fluent.ai, a Canadian technology company, for its groundbreaking work with speech recognition technology and artificial intelligence (AI). Fluent.ai is one of several groundbreaking technology companies being recognized as an Innovation Awards ..."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
 
 secured: "39s99iDihiVy/6pEsFGO4ZMTejKXJG0xUmBkic8ARypXIU0Ouo3maHk7JQj9JDBnRnPPrp8yxqOYrZs1DNian0UxvC0ObvlJohWTbiFblGxgIdshoE1wIgDL+c9BgiB2/ydotpxjr5ifL0nV1SK4USeo+/5t6sAN/fNqpvBd5uv6G9+D0aosoU5XjD+innk1l+zNWuOe64j1WSHKUV97m47b2BmyRP0iluNQVokb4/mjI0P9myedJqqYEvYdfvSWj/fLzenv4T1pCPySzBMMaw==;lp5yZaE4otW0BmaP4uGKpQ=="
 ---

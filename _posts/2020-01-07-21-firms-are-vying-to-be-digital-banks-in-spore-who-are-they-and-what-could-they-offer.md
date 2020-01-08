@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.54AF48A20E510042680E2CCD7C17F191
         width: 457
         height: 300
+  - title: "Xiaomi joins crowd in bid for Singapore banking permit"
+    excerpt: "as it moves to use AI and big data analysis to create a banking platform for small- and medium-sized enterprises. The company said its financial unit formed an alliance with AMTD Group, SP Group and Funding Societies, with the aim of leading innovation in Singapore’s fintech industry and accelerating financial inclusion. Hong Feng ..."
+    publishedDateTime: 2020-01-08T08:47:00Z
+    sourceUrl: https://www.mobileworldlive.com/money/news-money/xiaomi-joins-crowd-in-bid-for-singapore-banking-permit/
+    ampUrl: https://www.mobileworldlive.com/money/news-money/xiaomi-joins-crowd-in-bid-for-singapore-banking-permit/amp/
+    cdnAmpUrl: https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/money/news-money/xiaomi-joins-crowd-in-bid-for-singapore-banking-permit/amp/
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0DF0B2F2F9DC8B3468F56A59DC9672BE
+        width: 622
+        height: 350
 
 secured: "eyVR+gpSTEmFkryEMLwXhE/JM4wTvB0X/CCLfMhZ4cuJ1AVLFrw7W7uZOutxhzDPMRgwOQGuITCQqemO7/+bc7XfQgrThyDln/HlTzBCdJOdbF8X7F80YWYycRywhr78eV2oesy4AI/BytnfzLPXLTmZoEbtaXvS9oZrKuIOVOo+7a50LesCLS61WdnIr+tO9XRw55m5AMQ7gOjBW3ocOfS4z9YtkJpFbjC/nZP+u98Vse27R6l4xTEikEFJf5rbj5tKBH4q3Ln2Xbw2czVrsQ==;OuQn1l46QwG/0Rmbv1Dg6Q=="
 ---

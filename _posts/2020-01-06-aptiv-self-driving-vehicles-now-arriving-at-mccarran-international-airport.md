@@ -202,6 +202,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
         width: 700
         height: 525
+  - title: "For self-driving cars in India, there is still hope"
+    excerpt: "The unedited video showed the self-driving car making its way – the full video is available on its website -- through road intersections without traffic lights, avoiding jaywalking pedestrians and swerving into oncoming traffic like an experienced Delhi cabbie. Like in Jerusalem, drivers in Delhi need to show an intent to move ahead or risk ..."
+    publishedDateTime: 2020-01-08T08:24:00Z
+    sourceUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope-11578469548006.html
+    ampUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.C80EB73F6BA2CD5AFB7968966DBE6CE5
+        width: 600
+        height: 338
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z

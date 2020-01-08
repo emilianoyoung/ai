@@ -189,6 +189,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4F23E058F88682DA844EBADF2BC38C3A
         width: 700
         height: 525
+  - title: "For self-driving cars in India, there is still hope"
+    excerpt: "The unedited video showed the self-driving car making its way – the full video is available on its website -- through road intersections without traffic lights, avoiding jaywalking pedestrians and swerving into oncoming traffic like an experienced Delhi cabbie. Like in Jerusalem, drivers in Delhi need to show an intent to move ahead or risk ..."
+    publishedDateTime: 2020-01-08T08:24:00Z
+    sourceUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope-11578469548006.html
+    ampUrl: https://www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/for-self-driving-cars-in-india-there-is-still-hope/amp-11578469548006.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.C80EB73F6BA2CD5AFB7968966DBE6CE5
+        width: 600
+        height: 338
   - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
     excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
     publishedDateTime: 2020-01-06T22:23:00Z

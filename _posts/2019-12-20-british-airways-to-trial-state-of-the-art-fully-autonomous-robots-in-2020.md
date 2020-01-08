@@ -40,19 +40,6 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106307142-1576845740143britishairways_216861270013799.jpg?v=1576845771
         width: 1280
         height: 853
-  - title: "Robots to help BA passengers find their way around Heathrow"
-    excerpt: "Other innovations being developed by British Airways this year as part of a £6.5 billion investment in improving customer experiences include the use of artificial intelligence to cut delays in preparing aircraft for departure, driverless baggage vehicles and 3D printing of cabin parts. Gatwick Airport began trialling a valet parking robot in ..."
-    publishedDateTime: 2019-12-19T07:55:00Z
-    sourceUrl: https://home.bt.com/news/uk-news/robots-to-help-ba-passengers-find-their-way-around-heathrow-11364419473616
-    type: article
-    provider:
-      name: BT
-      domain: bt.com
-    quality: 39
-    images:
-      - url: https://home.bt.com/images/robots-to-help-ba-passengers-find-their-way-around-heathrow-136441947355102601-191219070225.jpg
-        width: 1400
-        height: 787
 
 secured: "uwXHr8myDFvqEyC48C0tnlCViM1s2uPX2bSXo2uzUSVImKVgEz2b700igSQoI9kEpaJSa3nXbaCl3CowxoQAUOKVoMb+Gz/aWxD6v+kADj20lCmDwe1nXTORg3A30O5dfbErFnUKze4WfaN0Dt8rkmUL+dZGH1ljJyXP/VikWrJkuDwlAyajxwqtnh/g82sdLTd2/rdgnVZEdmvXCLM+1tGcjxZxHFQghFCKzW9S4jYq9I7KmGJqyWjj4s5QTi/ZLInMZuQ/lCEQUN87w4tOcw==;s+TQ/v+bVqX+3ecpkK+xuw=="
 ---

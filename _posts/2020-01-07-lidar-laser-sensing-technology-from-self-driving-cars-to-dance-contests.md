@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
-excerpt: "DETROIT/LAS VEGAS (Reuters) - Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance ..."
-publishedDateTime: 2020-01-07T19:02:00Z
-sourceUrl: https://news.yahoo.com/lidar-laser-sensing-technology-self-190205146.html
+title: "Lidar Laser-Sensing Technology-From Self-Driving Cars to Dance Contests"
+excerpt: "DETROIT/LAS VEGAS — Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronise dance music."
+publishedDateTime: 2020-01-07T22:12:00Z
+sourceUrl: https://www.nytimes.com/reuters/2020/01/07/business/07reuters-tech-ces-lidar.html
 type: article
-quality: 23
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: /assets/images/organizations/nytimes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.329C807E954EFEAF82E233EDBCF01B2A
-    width: 700
-    height: 466
-    title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+  - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+    width: 1200
+    height: 630
+    title: "Lidar Laser-Sensing Technology-From Self-Driving Cars to Dance Contests"
 
 related:
   - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
@@ -79,6 +83,6 @@ related:
       domain: motoring.com.au
     quality: 4
 
-secured: "iyPvD9mp0vrh3Dx7ABagXcQGlPSz8J8AEuh3UpkktpD2dfORDZX9VMUjb6ULKPcThdjqlgplNuKIGs4ZsE1xsLZ+G8ROFSKH9PucN7mkB1Gd1grgkmMCQz3qlAFSGGBj5VbHQyED1zpPytuTtC5Nuh8Xxplb5P0A8MaszRj39Z74C2Xwg3qbu7IjkhS10YK8NTpqZ00rbvdXGk7eMOYPi/qpRcGT9lQHIOHqjfbXz94KuthjK8wTP3dameErFuzl0+E+V4rNKO/wjJfzovPw/w==;Nn2oa6VTTkdRTyJVdHa37g=="
+secured: "8zpNP/enSfuxtrFJgftAJXWg6VVXaDmjMbzjeMDMWiXWFYUMaqe9DRWDGXsRXK9TtLFqDq1CLj8F7RaM69eyzK7/T89Thfc1+GltgAs8JIfdgf1tGA64RCb/fs8tXOEuT4c9iYTOershL9YR99X9vHqfJ8LPGiwhtJxcdeFYWoobtVoS84VIhmVBf7jve7hqSKjmUOLAtewGdJhaUxAEeY+LNflSXIgU2uRbcpSVGnbZWBjIcG5DElGgFIldhDK0/VzyuO14RQuvP+y6I3E30w==;Gw7syLlFwSbU1gSLRdQAtA=="
 ---
 

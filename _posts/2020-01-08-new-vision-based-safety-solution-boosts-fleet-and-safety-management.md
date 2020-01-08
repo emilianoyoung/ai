@@ -37,6 +37,15 @@ related:
       - url: https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/01/08/rk_jointcollage_080120.jpg?itok=aU0eigm7
         width: 763
         height: 509
+  - title: "M1, SIT to develop AI deep learning algorithms for mobile network management"
+    excerpt: "Singapore operator M1 and Singapore Institute of Technology (SIT) have signed a research collaboration agreement, to jointly research and develop artificial intelligence (AI) deep learning algorithms and methodology to upgrade the planning, operations and maintenance of large and complex mobile networks. M1 and SIT plan to jointly develop AI ..."
+    publishedDateTime: 2020-01-08T08:46:00Z
+    sourceUrl: https://www.telecompaper.com/news/m1-sit-to-develop-ai-deep-learning-algorithms-for-mobile-network-management--1321970
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
 secured: "RDUOGXeci7AbbTQvcavZXusvIqSiH9Xv283SgFTHgoGTOtsm1kgn2qMbHIM9IdlIeU60CJ+dz6CcZBYiyDPDd4vsO5HbI4gr7fGNTkpLQ8PPepBuhLWq+a0IoZY/e8K8Xko6QO2s+VySbKs1K7kok49DgW4hY7gh3hySTdHMbVmbbcxsKsdTYDGQ29MZUXCSdwizXT5kD5pEuoJp2qrV+vubqz6Gt+D/mEFVK3QM50VycJVd9QMHz+CyI22IvWi4TrjLmilmXBmAxsCu/dNavQ==;wBbck58gPckz27rACeU2Ww=="
 ---

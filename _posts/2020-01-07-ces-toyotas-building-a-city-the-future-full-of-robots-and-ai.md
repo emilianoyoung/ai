@@ -108,19 +108,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
         width: 700
         height: 365
-  - title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
-    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
-    publishedDateTime: 2020-01-08T01:59:00Z
-    sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.5527AFAC03D03AF8AF7BC8D8A2C5CD73
-        width: 700
-        height: 393
 
 secured: "wNou/LVYLcow9q10AOGnzf/pD2DSllUzEtv0ZTF0j+AAIH70sQeVbffxUZjoy92212xUklNfkvTY4zOaXVsveVteQ+sfPnKcLfJAx3b4Jt4OhnNJrAbMfJXlI0EZSGZ9NMCgZAAw8Xmrqqox8/gMXXC86+NZL5Az/jkqkwEr6FiOmix/c3lqOomUDzx18Z0XMa7muaxll7qlYv8qYrvlV+ACr4FOzDCdQzrcgy53aNADAEC3RmYY9ms3VXBCCnqUeXEkLkfm4zPPa2zt8y4d/A==;Scd9RP/L0s/wber+CoJXAA=="
 ---

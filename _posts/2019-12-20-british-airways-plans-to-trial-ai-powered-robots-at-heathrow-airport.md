@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-robots-at-heathrow-airport.html
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.764F60833E4DB157C02AB01102E98F5C
         width: 400
         height: 400
-  - title: "Robots to help BA passengers find their way around Heathrow"
-    excerpt: "Other innovations being developed by British Airways this year as part of a £6.5 billion investment in improving customer experiences include the use of artificial intelligence to cut delays in preparing aircraft for departure, driverless baggage vehicles and 3D printing of cabin parts. Gatwick Airport began trialling a valet parking robot in ..."
-    publishedDateTime: 2019-12-19T07:55:00Z
-    sourceUrl: https://home.bt.com/news/uk-news/robots-to-help-ba-passengers-find-their-way-around-heathrow-11364419473616
-    type: article
-    provider:
-      name: BT
-      domain: bt.com
-    quality: 39
-    images:
-      - url: https://home.bt.com/images/robots-to-help-ba-passengers-find-their-way-around-heathrow-136441947355102601-191219070225.jpg
-        width: 1400
-        height: 787
 
 secured: "YrKLjybflmZ6/UdR6bqOFS4R8rtfPI3MKeTV3tMW5rM/yi1NvzYPkRR4ooo6PEVRlINKofc+Nw7DqsJS9khyyFiMK0UhfA1SPtOFrNkTVYWNhr/cHHDPUioWHZvw0vhVlbBGXa+cxWBXimY03jasH+Sa3gLQV/kSo50sEUt2iqY0OhblUn09Qdiiu8SEyCsucqxe5IWH/8QN29sapbAUEs1QRYWx5zzqfB8GdUFeT6mAH1rBYeL6O/7ZAN3GY9IAxv15w81nshgxocZRsaVnmg==;BjI+rBSlNvj+8+CuWtA4GQ=="
 ---

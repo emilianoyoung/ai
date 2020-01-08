@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
         height: 401
+  - title: "CES 2020: You have to see these robots and artificial humans"
+    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
+    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
+        width: 700
+        height: 393
   - title: "Samsung introduces AI-powered ‘artificial human’"
     excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
     publishedDateTime: 2020-01-07T08:31:00Z

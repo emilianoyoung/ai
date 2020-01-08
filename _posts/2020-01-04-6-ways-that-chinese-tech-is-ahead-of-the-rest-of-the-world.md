@@ -3,12 +3,12 @@ category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
 excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -125,7 +125,20 @@ related:
       - url: https://www.bing.com/th?id=ON.38794999FB710421434E83B08CDB6E50
         width: 700
         height: 466
+  - title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable – from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/08/ces-2020-039intelligence-of-things039-is-the-major-tech-trend-of-the-decade
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.7444522634BD99A1F174068826D28B82
+        width: 700
+        height: 494
 
-secured: "Gloc7WPQzqAjDSYSHucPYno0iUkm5c++YrhK7sgGmQPa+bANT24pTuhWgJ9L0X/9tEZLC5WkyI9qnmnrvDbukDvyCUkf5rmPiiZqj9MV6T67rPa4JUoYTLkAJOSf3X+m6t3vcH4/dOlAuzQd6s2GO6ccte/UvfoRzEU/Qarkl8EoOndJfinngXry1blDPsBhXOVN1uvpKShc0SI5PWpOJHcLFfxf62Ih8EH7YKIUt04+1UMpMy2nRKtfUkPW0fi4i2r+rnZUi1Lfqu1YHw4QcA==;oWMyz6rplAb9isoHiviW5Q=="
+secured: "hqBVatbwCYK3bwUdSPSHODx0S0Uw6hCAY5lJpxsrx1GLm88UxFeO2bsVOl/vocL7rGDepSHEGsQI3E9Kmq2vyyEQj8aVirN0KNmkGj0MJ9CwuQC4pvbxjg+P43kqVSn7Nn6tdtOjQ+XhBFJuECZa9kKULTJWV+8sEkcyszV/kChGg2Y3atoX51zIHXnee29VcJENHW0qLcI7wimd5h4pdvsXY7nM0HlOFdKOmy1WJAZhIQqMGTc+zcschNvzI4FOllUSAtjr7wZfdlB7/QSckg==;fMIA0tZhClpanIj0XTqXKA=="
 ---
 

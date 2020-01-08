@@ -24,6 +24,15 @@ images:
     title: "M1, SIT to jointly develop AI solutions for mobile network management"
 
 related:
+  - title: "M1, SIT to develop AI deep learning algorithms for mobile network management"
+    excerpt: "Singapore operator M1 and Singapore Institute of Technology (SIT) have signed a research collaboration agreement, to jointly research and develop artificial intelligence (AI) deep learning algorithms and methodology to upgrade the planning, operations and maintenance of large and complex mobile networks. M1 and SIT plan to jointly develop AI ..."
+    publishedDateTime: 2020-01-08T08:46:00Z
+    sourceUrl: https://www.telecompaper.com/news/m1-sit-to-develop-ai-deep-learning-algorithms-for-mobile-network-management--1321970
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "New Vision-Based Safety Solution Boosts Fleet and Safety Management"
     excerpt: "NetraDyne is a software organization, creating solutions to real world problems using computer vision and deep learning technologies. The company leverages global technology centers to push the boundaries of intelligent connectivity. NetraDyne's ..."
     publishedDateTime: 2020-01-08T04:42:00Z

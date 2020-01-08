@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:36:00Z
 sourceUrl: https://uk.news.yahoo.com/robots-artificial-intelligence-highlight-ces-201446850.html
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,23 @@ images:
     width: 700
     height: 393
     title: "Robots, artificial intelligence highlight CES expo"
+
+related:
+  - title: "Robots, artificial intelligence highlight CES expo"
+    excerpt: "Most robots now also come with some sort of Artificial Intelligence function, like the ability to answer questions and hold a basic conversation. But AI can also be found in other devices ..."
+    publishedDateTime: 2020-01-07T20:02:00Z
+    sourceUrl: https://timesofindia.indiatimes.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/videoshow/73152741.cms
+    ampUrl: https://m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms
+    cdnAmpUrl: https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.061380AA86AE4532BA94375726CF5D3A
+        width: 700
+        height: 393
 
 secured: "8O2CJ3LWJWjiof/FETWMJOCz84u4Crdn7GJDYE09243vksnTzy3p3YNXAI5htVMZswq7isjH73wzUFhyIMzSEgzbj7XcHboZcHnksaZs+G88AFUjshGyZXA/EUL5TBxdSDMsS1nNmr3JkDplGDOEtVCgdUKvHcjGSOWBoJ+gvgr7dvOUMqDQLOTegbuvcHExSuXxM02qWBPDC9+VMlmSlZp70FFjQpldqvN2EXzTgcZGROQfGR6/PbljrJrZzSEd7jb9cUsgjTQWIa45XYJCOg==;AZJu38FtdXqbLgp7iV9CdQ=="
 ---

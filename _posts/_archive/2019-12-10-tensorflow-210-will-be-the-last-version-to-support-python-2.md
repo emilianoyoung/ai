@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "TensorFlow 2.1.0 Will Be the Last Version to Support Python 2"
 
-secured: "HymoTFH9n1qJlvZmzRk78pdSq25kuPO90Bjt1ByKzpaajVe7h7upJ+419WDH4GC67A8BW5zFGGjuG7gIMNM3HcuaByK6sPhCojt/vZlJfzjkJC72WZp5CxYKnI+2JI/E5Ox3+mgMgIS3fx02Pc0Yg6zv7a4XPlgPA+OzaR094XPo/9gWCEqXtbVZTBxKPtNXetqBe5K0KcmmTHJ3mVjo8CSouREQDBiW6azD6qRms4SUsE0r+PuAw79FoGxKGtcbC2m2MgkSxnCGwKUW88pV/w==;8WJizjoBJA888OjWi14MOg=="
+secured: "VPo6/4nwMiIAfa9OKJIP9K1hnyZvaRBsuaoqfqZu7thhnlLmxVIGZIE1ykp93/NyJCRL8d//ghEq9AE8pO7qXka54UQskn68hKnOfQPT/esZz1uK3jJs5+xZ9uzNLRioEw0mm4z64LPP3BXLa46N+YsK2fHsP72FG5bZxr5letzKKGGXpNU2EBmhK9i3wjuYhyT4SoFd7cB99XQxPBffuCrIVicYjFmcRMs6+7uASortRiTdLAQLNKyLjQg8wrQsrj4DXsbyfp0D+L4n4DpOGg==;QaAdu12nvDev40FJPUmIgg=="
 ---
 

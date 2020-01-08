@@ -27,6 +27,6 @@ images:
     height: 401
     title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
 
-secured: "JZxxzAHxRnq6NV8xZYXBF+nlixLaZGeNgELCbaY8phH6F/7q3DRgtbewIq+Oln0LCJqUAHpwOvhwlPWzuz0YQECAbjKGZHqqk4e5NizGpFT7WlEsq0TasP9ug7m1xp0pnEpuc7/qqEBEOQGlZdl0gid6dGJquHDB4+wTNKGykKJTPUq6U7YfbJuqJ892O4jqmAtTihxEJOGbC5EZ8PuKOqXWdOnuoboF8wgJwiIfn+Gv1P2MweSzKmdO9GnPU/1ASq4/TRIdkcSBD7gtPnh4NA==;gb9QwJGjiH4cMQAQQBp9aA=="
+secured: "0ItLYCcC4x9CPnQJ6JOBhOiT8pc03Ckxy8iANiMnSnXMH4F2MuNi5BtD3QMGjvc5D0aTZKGFULqODSO8zziT9NLCVVVEYkM7QDmy+id/Jwbj2rWFO0jnZdlSRHmsrqfI9YmDlJFQFcsyfjeCy8xAii1JJc/AOvauDIc881FCfJx78ODWrODoo/m0Zwe/Sxj0h0dN4+kHmH2+Kc9wLe4IB5U8APQI5YMywcuyky2SypuAtLFgUGDASLU8UAdRTV1z+UPrGbQ0B1zxBt0hL5khFA==;vBR0mi0Kw7RvsA/fU8wxtg=="
 ---
 

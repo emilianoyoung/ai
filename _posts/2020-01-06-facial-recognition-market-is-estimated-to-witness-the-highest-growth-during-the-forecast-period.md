@@ -322,6 +322,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8D0FBBC08D69777EF7537F93F8D2B50A
         width: 700
         height: 367
+  - title: "China Facial-recognition Case Puts Big Brother On Trial"
+    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park. Guo Bing took the wildlife park to court, raising the temperature in a growing debate about privacy and abuse of personal data in an ..."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.ibtimes.com/china-facial-recognition-case-puts-big-brother-trial-2898340
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D173C78D8CB4BDC3E35C42C7BE4007B0
+        width: 700
+        height: 468
 
 secured: "RMg5aEMoqEUSKbyjlgwrqVZIAt3e0zkowjST1JlkRi7WrxbypqVv1DguXt/Ek6E5gDXmEdiBZ3D04akDetW1y0BEHlL0exePIU8egYs/S/RFNjDTLQpzfn6LYC2+uoe8uXg58kMmxLZW3IaoifVlyNiluy4ibqCusu3nsDIB17GqFcH9Mht3S4+bavxEKxQWQEMQZ+DBOb8xWzSrFaQZ76P72aJBhUxDTcD7REGAUmGwQo4ikkA//bb0LU+oa7bZK1GeVce+fp+syDWHnv3qmA==;H7OM+45sz9MDlkz7lhj1Xg=="
 ---

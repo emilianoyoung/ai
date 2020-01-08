@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
         width: 700
         height: 394
-  - title: "China facial-recognition case puts Big Brother on trial"
-    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
-    publishedDateTime: 2020-01-08T04:58:46Z
-    sourceUrl: https://www.msn.com/en-us/news/world/china-facial-recognition-case-puts-big-brother-on-trial/ar-BBYITi5
-    type: article
-    provider:
-      name: AFP on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2BC7E21A1AA2F4A15A9048B99B4A0705
-        width: 600
-        height: 315
   - title: "Facial recognition 5G-powered glasses, enhanced biometric passports, and Interpol: border updates from Asia"
     excerpt: "Customs officers in Shenzhen now have biometric facial recognition 5G-powered glasses to scrutinize people crossing the border, following test pilots conducted for two weeks at Shenzhen Bay Port, reports The Standard. The biometric gadgets identify travelers’ faces and flag anyone who appears suspicious or labeled as high-risk, and are very ..."
     publishedDateTime: 2019-12-31T17:51:00Z

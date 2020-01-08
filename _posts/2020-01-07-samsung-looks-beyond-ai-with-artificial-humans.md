@@ -53,6 +53,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
         height: 401
+  - title: "CES 2020: You have to see these robots and artificial humans"
+    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
+    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
+        width: 700
+        height: 393
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z

@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
+  - title: "CES 2020: You have to see these robots and artificial humans"
+    excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/
+    ampUrl: https://www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    cdnAmpUrl: https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/technology/ces-2020-robots-and-artificial-humans/700492/?amp
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
+        width: 700
+        height: 393
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z
@@ -157,6 +172,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "UeI3fM9PZFYsmxeAEpOnroT/+2BGI/fzn+LziP9gRMlTlAK/V4ED5E8YCBH6jN9ONC4zAhSVEURqtHx/Ftra2dpnvQIrrdpw9p2wwqXKL9MzMOz8sTjlyJm3H0qs3LD44dqYI39gjRuel+Dtf08bNLVxzpAgUP5UF0QUe2pPfFED6EJAXynqOgwy05iZttAUafl4XC7g23v1keaoy/MiKiOg0PhcxJnKzkcC6+1k988YYVBY98c8NrYeVR7VHX84fXaaqKlvrlnRW76t1vttKQ==;YS49lSq2rlS6vztLyRh2VQ=="
+secured: "DNPN8VklvEnXdgOzzIIXgkgXW5q3vy81EqzzY+XvENL33fZ97pGn2FkqS9WJxWh9M8G//ArZI/eoOzwSEcFiwFzAFeTNa7t02hzJO32W+/eFWPUKmrdiVKv1zriebipStcbP2c7vGCTOtHFIBuU+wOt8TlpIz6hIV04crTNbA2wexoZ0Fztm/U3hFN8jwI/h/xkqsgBlp+8e7A3TgZfSCrAY+BfzTXXt+IVqeRNZb3enRyN5/cqzVlYNk7fTBe8o/VuzLaNUzx+othlbgUtx5A==;os5zyUaPeJv4hj9tIZ13Vw=="
 ---
 

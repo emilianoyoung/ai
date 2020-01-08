@@ -27,9 +27,9 @@ related:
   - title: "6 ways that Chinese tech is ahead of the rest of the world"
     excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
     publishedDateTime: 2020-01-04T12:00:00Z
-    sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
     type: article
     provider:
       name: TechRadar
@@ -121,6 +121,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable – from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-08T08:41:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/08/ces-2020-039intelligence-of-things039-is-the-major-tech-trend-of-the-decade
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.7444522634BD99A1F174068826D28B82
+        width: 700
+        height: 494
 
 secured: "VCMtJB8/vHa46bVnELwpaIP4lvPDQEhubULBV9EC9xMitIyqT5zu6Oiy3f4J6S6kRU76ZfVUlVKXNh1VsqAWeLGEU1ZHZM9cwrlkO/oXzkLBmttI0YF+hW1XyU9Jz8/1CA99b3i4i1LQ3lP547aSgtUpkDPe3FK4rW5y3l8BReJcA1rgngs3qReCs2C5Mi/w386Lth8TQkGtMo+TSZMT+9rATJNobO0boCJi3hb+nH+447R/x3YOJFwF7gjgBO5t0x2b+l8yz36rHzkgryYrag==;kAB1boBPJYmp8nNqE+vh3g=="
 ---

@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AD789EBB814D1DA3749A04811D0099E7
         width: 700
         height: 394
-  - title: "China facial-recognition case puts Big Brother on trial"
-    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park."
-    publishedDateTime: 2020-01-08T04:58:46Z
-    sourceUrl: https://www.msn.com/en-us/news/world/china-facial-recognition-case-puts-big-brother-on-trial/ar-BBYITi5
-    type: article
-    provider:
-      name: AFP on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.2BC7E21A1AA2F4A15A9048B99B4A0705
-        width: 600
-        height: 315
   - title: "Juniper Research: Facial Recognition Hardware to Feature on over 800m Mobiles by 2024, but Software Will Win Out"
     excerpt: "BASINGSTOKE, England--(BUSINESS WIRE)--A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment ..."
     publishedDateTime: 2020-01-07T07:20:00Z

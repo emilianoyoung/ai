@@ -1,127 +1,140 @@
 ---
 category: news
 title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
-excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
-publishedDateTime: 2020-01-08T01:59:00Z
-sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
+excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable – from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+publishedDateTime: 2020-01-08T08:41:00Z
+sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/08/ces-2020-039intelligence-of-things039-is-the-major-tech-trend-of-the-decade
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
   - AI in Robotics
 
 images:
-  - url: https://www.bing.com/th?id=ON.5527AFAC03D03AF8AF7BC8D8A2C5CD73
+  - url: https://www.bing.com/th?id=ON.7444522634BD99A1F174068826D28B82
     width: 700
-    height: 393
+    height: 494
     title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
 
 related:
-  - title: "The Future of Politics Is Robots Shouting at One Another"
-    excerpt: "The risk arises from two separate threads coming together: artificial-intelligence-driven text generation and social-media chatbots. These computer-generated “people” will drown out actual human discussions on the internet. These efforts will only get ..."
-    publishedDateTime: 2020-01-07T15:58:00Z
-    sourceUrl: https://www.theatlantic.com/technology/archive/2020/01/future-politics-bots-drowning-out-humans/604489/
-    ampUrl: https://amp.theatlantic.com/amp/article/604489/
-    cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
+  - title: "6 ways that Chinese tech is ahead of the rest of the world"
+    excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
+    publishedDateTime: 2020-01-04T12:00:00Z
+    sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
     type: article
     provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 89
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.D48CC30DABF965C2906C0E82721DADB3
-        width: 700
-        height: 364
-  - title: "A.I. sex robots the future of intimacy?"
-    excerpt: "Matt McMullen, owner of RealDoll, says artificial intelligence could help make sex dolls indistinguishable from real people. “I would say probably within five to 10 years the appearance of a robot is going to drastically improve,” McMullen told the Star. “A.I. may start to approach something in the mammal category but I don’t see ..."
-    publishedDateTime: 2020-01-05T18:42:00Z
-    sourceUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy
-    ampUrl: https://torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    cdnAmpUrl: https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/a-i-sex-robots-the-future-of-intimacy/amp
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9D931F2482448D4919E8C31905EAAD4B
-        width: 592
-        height: 445
-  - title: "How HPC, AI, and IoT Drive the Future of Smarter Vehicles"
-    excerpt: "These can take the training data for AI models that are deployed on devices inside smart and connected vehicles ... will require high bandwidth to keep the high performance GPU and CPU cores fed. In addition to being at the front end of autonomous driving and smart cities research, the University of Michigan is also leading the world in network ..."
-    publishedDateTime: 2020-01-07T20:44:00Z
-    sourceUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/
-    ampUrl: https://www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    cdnAmpUrl: https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/01/07/how-hpc-ai-and-iot-drive-the-future-of-smarter-vehicles/amp/
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.C46C08A6F7A8A8BE12E3601A91D69C03
-        width: 700
-        height: 269
-  - title: "The Future of Robotics Takes Center Stage with UBTECH at CES 2020"
-    excerpt: "Each robot is designed to inspire children's imaginations about space exploration while giving them access to advanced, highly programmable technologies such as a new Artificial Intelligence system, a camera with powerful image recognition ability and ..."
-    publishedDateTime: 2020-01-03T14:34:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200103005061/en/Future-Robotics-Takes-Center-Stage-UBTECH-CES
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
-        width: 700
-        height: 365
-  - title: "CES: Toyota's building a city the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+      - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
         height: 393
-  - title: "CES: Toyota's building a city where the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
-  - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
-    excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
-    publishedDateTime: 2020-01-07T22:33:00Z
-    sourceUrl: https://www.edweek.org/ew/articles/2020/01/08/teachers-the-robots-are-coming-but-thats.html
+  - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
+    excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
+    publishedDateTime: 2019-12-30T09:07:00Z
+    sourceUrl: https://www.jsonline.com/story/opinion/2019/12/30/world-must-ban-autonomous-weapons-killer-robots-column/2729729001/
+    ampUrl: https://amp.jsonline.com/amp/2729729001
+    cdnAmpUrl: https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/2729729001
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
+        width: 700
+        height: 393
+  - title: "The Best Tech of the Decade (Page 13)"
+    excerpt: "Intel entering the GPU space means we'll have a 3rd player -- something that hasn't happened since ... You thought I was going to finish this article without mentioning AI, didn't you? We all know artificial intelligence is littered throughout our lives, but I don't think (even most of us) really know just how much. It's not just \"OK Google ..."
+    publishedDateTime: 2019-12-30T03:49:00Z
+    sourceUrl: https://www.tweaktown.com/articles/9301/best-tech-decade/index13.html
+    ampUrl: https://www.tweaktown.com/articles/9301/best-tech-decade/amp.html
+    cdnAmpUrl: https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9301/best-tech-decade/amp.html
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.AEB7303E23BB3303DD45A4090DA56298
+        width: 700
+        height: 324
+  - title: "How Machine Learning Drives the Deceptive World of Deepfakes"
+    excerpt: "Our scientific understanding of the universe is advancing at an unprecedented rate. Join Focal Point as we meet the people building tomorrow’s world. Witness the astonishing discoveries that will propel humanity forward and zero-in on the places where science-fiction becomes science-reality."
+    publishedDateTime: 2020-01-06T21:47:00Z
+    sourceUrl: https://www.seeker.com/videos/tech/how-machine-learning-drives-the-deceptive-world-of-deepfakes
+    type: article
+    provider:
+      name: Seeker
+      domain: seeker.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
+      - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
         width: 700
-        height: 365
+        height: 367
+  - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
+    excerpt: "In order to keep AI-powered devices, such as those in smart city surveillance systems, autonomous cars and healthcare systems responsive enough, the data needs to reside as close as possible to the source. This shift has also been possible due to System-on-Chip (SoC) processors that lend more computing power to edge devices. AI based solutions ..."
+    publishedDateTime: 2020-01-02T01:57:08Z
+    sourceUrl: https://www.msn.com/en-in/news/other/artificial-intelligence-to-the-internet-of-things-technologies-that-defined-the-way-we-lived-in-2019/ar-BBYwVjR
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A57F267D99AE5923A619E93428C3B82C
+        width: 660
+        height: 440
+  - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
+    excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
+    publishedDateTime: 2020-01-07T00:22:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html
+    ampUrl: https://www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Beginning-with-Blueberries-What-Are-the-Ethical-Bounds-of-Tech.html?AMP
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 24
+  - title: "Major tech trend of new decade: 'Intelligence of things'"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-07T22:00:00Z
+    sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.38794999FB710421434E83B08CDB6E50
+        width: 700
+        height: 466
 
-secured: "7Xk+5Y0LWknacXqmHqV6dpgwMbHFZjDdAlz3pjlCh2FTGgkJHSt70FEund/97RqjiTtGD7d3RtAmmZacmjtAj+naQyT38LQo0xr4UfEDg5UunFvK6S7QqAAG9pCXq2mPXoNQKpeHklWS/JcVE9MC9L1aoXnyNRQwEUxwv1fbmDZkWVQHKF+OdGlzWKj6PpwSQKGn0m6jW64Xn+6yjSd6dnk0kL0Xmp5VBs/SLfeJppizi3dVp832Z+B4qry5KzPuRGyRzytt4Nwo6L4efe2rdw==;bYl7u4ldjvNn1lb7ql/GUw=="
+secured: "aGfGVgRqz5p9pngLmqHl95n7teVJ99GN7/FbFPxN4Ub4Meu8IAY7iT0hBP9++FfKOA9OY1jUgZqniVjFGdYL3bIslkWIzIhptvEc3h3gC2UMxVbRUrV/v4btgeG8Yi/dDJYazheXGVxqxtkixd0SpAGzhFewiVx8Yb1/FCWw4LTradkDn97G3lqxyFebSV7dwc9dOtGybReApaa9DgfOxE2GbrakiTr/Bg+rFOhDZp9MLaTw/EoOsLP8zBR3q5+M2rP4MIFmGuqdk516UEYC/Q==;5nK4tEyITuysAzScKEVHmw=="
 ---
 
