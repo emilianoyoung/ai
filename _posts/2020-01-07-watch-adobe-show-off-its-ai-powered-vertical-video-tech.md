@@ -24,20 +24,18 @@ images:
 
 related:
   - title: "Watch Adobe show off its impressive AI-powered vertical video tech"
-    excerpt: "He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create ... Intel also showcased its upcoming discrete graphics card and a 17-inch foldable tablet at the event, but those parts weren't nearly as entertaining as what you can watch below. Follow all the latest news from CES 2020 here!"
-    publishedDateTime: 2020-01-07T09:16:00Z
-    sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
-    ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+    excerpt: "Intel has Jason Levine, Principal Worldwide Evangelist for Adobe Creative Cloud, and his fabulous head of hair to thank for the most entertaining part of its CES press event. The chipmaker&#39;s executive VP,"
+    publishedDateTime: 2020-01-07T10:16:00Z
+    sourceUrl: https://news.yahoo.com/2020-01-07-watch-adobe-intel-press-ces.html
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 187
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.1BD6A0FE9119BCC2512B0EDD502357CD
+      - url: https://www.bing.com/th?id=ON.411A92D3635747EEB70B0DC048B6C009
         width: 700
-        height: 367
+        height: 411
 
 secured: "JIqwjsci7G9WvAXfsmo7C1NJ2LRpMGx0tvATK2eeYDTl5pybZZqVtuhMJ/3HkoGpUZHbUH5gTaP+5It2q/kWf/tjuY3Umb2A73oUG1emyFyEWoFptsoQNNYs68z+z32lgvIKFf2R0uOy5MbUXUJe/264SnwrBuJH433DLcaA2tg6iZHEO2UNab7Y7o+1PPKpIy3qKjsMVpfAQ+pdfjfmcu125+Bb2INQL8SQmzPSk7VoAyNtF8BP//LOpVrkoKpGndXAe3iLn/90PgSDGzD2Jg==;v9tfKk3qIcjMtmJLlr+4Fg=="
 ---

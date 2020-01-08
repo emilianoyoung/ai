@@ -119,19 +119,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
         width: 700
         height: 350
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
-    publishedDateTime: 2019-12-19T20:50:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
-        width: 400
-        height: 518
   - title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
     excerpt: "AI and machine learning can also help advisers glean actionable insights from written ... Our FA Insight research shows that adviser pricing has been holding steady, even in the face of fintech start-ups offering to manage investments for pennies — or for free. The challenge has been that independent advisers have been offering more and ..."
     publishedDateTime: 2019-12-24T15:18:00Z

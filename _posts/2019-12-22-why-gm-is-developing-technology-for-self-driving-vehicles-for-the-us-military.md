@@ -26,21 +26,6 @@ images:
     title: "Why GM is developing technology for self-driving vehicles for the US military"
 
 related:
-  - title: "California Now Ready For Self-Driving Commercial Vehicles On Public Roads"
-    excerpt: "HOUSTON, TEXAS - NOVEMBER 1: A Nuro delivery vehicle completes training routes around the Meyerland ... [+] neighborhood on Nov. 1, 2019, in Houston, TX. (Photo by Annie Mulligan for The Washington Post via Getty Images) The California Department of Motor Vehicles will soon allow light-duty autonomous vehicles to be tested in a commercial ..."
-    publishedDateTime: 2019-12-19T20:42:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2019/12/19/california-now-ready-for-self-driving-commercial-vehicles-on-public-roads/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: https://www.bing.com/th?id=ON.5AD0ED3CA79828A126BA7562433B2506
-        width: 600
-        height: 315
   - title: "Self-driving delivery vehicles plus self-flying drones? Now there’s an Amazon patent for that"
     excerpt: "A diagram accompanying Amazon’s patent application shows how a self-driving ground vehicle and a self-flying drone would work together to make a package delivery. (Amazon Illustration via USPTO) For a long time, Amazon has been looking into applications for self-driving vehicles — and testing fleets of self-flying drones for making package ..."
     publishedDateTime: 2019-12-24T20:12:00Z
@@ -56,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.4168DA6C28A32EF3F1CC14F6E9F9EB49
         width: 700
         height: 381
+  - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
+    excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
+    publishedDateTime: 2019-12-30T16:04:00Z
+    sourceUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/
+    ampUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    cdnAmpUrl: https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+    type: article
+    provider:
+      name: altdriver.com
+      domain: altdriver.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
+        width: 700
+        height: 365
   - title: "For self-driving progress, Aurora focuses inward"
     excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
     publishedDateTime: 2019-12-21T04:00:00Z

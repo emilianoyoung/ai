@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
         width: 685
         height: 445
-  - title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
-    excerpt: "It also may lead to better management and utilization of bees as pollinators. We address an investigation with Recurrent Neural Networks in the task of forecasting bees’ level of activity taking into account previous values of level of activity and environmental data such as temperature, solar irradiance and barometric pressure. We also show ..."
-    publishedDateTime: 2020-01-08T10:13:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56352-8
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.FC92AE63946ADA0BB3FCB77B99FC7C56
-        width: 685
-        height: 473
 
 secured: "0Z4GjpcZyxA4xC7pm8WbvKiFfcc1hBiszdDhZlroh+SMU7Yi7EwFr3XXmQI7fl4gZgAG556Wl6Cs3EA7WIA8jDNU9yyoCHIfgrGTmCy6OfdVnwsDzCG8zUv3TfIvPPtrmXQRHBSSJgwmXvKxmoYKlglJnUs90Qe0zE9EtWdRKusJKy6p1Ni9hwF725ugHMM6cb4eS3ZniULCOFwSzihbvBKBNx9Uxx9diJnuA28nnyLVLpp5XFLIfJhvDCg81bC7XRMJv9X+YFs4aNJVuRcldg==;XL09ISO2tBdA8abxBVCFSw=="
 ---

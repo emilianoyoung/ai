@@ -132,6 +132,19 @@ related:
       - url: https://www.bing.com/th?id=ON.59DFB387B5F8A0DF13EAC0CD6CB01852
         width: 300
         height: 161
+  - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
+    excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
+    publishedDateTime: 2020-01-08T21:28:00Z
+    sourceUrl: https://www.techtree.com/content/features/14005/ces-2020-ibm-launches-advertising-accelerator-watson.html
+    type: article
+    provider:
+      name: Techtree
+      domain: techtree.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.58BA6C624B93346ECE8C987A28B0D845
+        width: 315
+        height: 236
   - title: "IBM launches creative assessment tool"
     excerpt: "IBM's Advertising Accelerator utilizes Watson’s AI in order to help advertisers better understand the creative preferences of an audience segment, and stop attempting outreach to unresponsive audiences in the process. Ad targeting enables marketers to identify core customers, who are often overserved with..."
     publishedDateTime: 2020-01-07T22:30:00Z

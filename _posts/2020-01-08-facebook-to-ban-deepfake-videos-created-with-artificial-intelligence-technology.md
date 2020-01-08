@@ -70,6 +70,17 @@ related:
       - url: https://www.bing.com/th?id=ON.06683A690FCD6DC844296A06F69046E8
         width: 700
         height: 490
+  - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
+    excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
+    publishedDateTime: 2020-01-08T20:23:00Z
+    sourceUrl: https://www.bloomberg.com/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+    ampUrl: https://www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+    cdnAmpUrl: https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-01-08/facebook-s-deepfakes-policy-inadequate-to-some-lawmakers
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
   - title: "Facebook Bans Deepfake Videos Ahead of 2020 US Elections"
     excerpt: "The video wasn’t created by AI but was likely edited using readily available software ... civic and academic backgrounds to help in detecting deepfakes. Facebook had announced a Deep Fake Detection Challenge (DFDC) to produce more research and open source tools to detect deepfakes in September 2019. In the same month, Alphabet’s GOOGL ..."
     publishedDateTime: 2020-01-07T15:34:00Z

@@ -135,6 +135,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
+  - title: "WTF Is An Artificial Human And Where Did They Come From?"
+    excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
+    publishedDateTime: 2020-01-08T21:53:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/
+    ampUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.AD52C0F4EDC529645B3283106104AC94
+        width: 410
+        height: 231
   - title: "Samsung’s artificial human isn’t the smart droid you’ve been looking for"
     excerpt: "These devices are supposed to show “emotions and intelligence,” and should be able to respond to queries “with latency of less than a few milliseconds.” They should also guard your privacy. But Samsung doesn’t explain the underlying tech that would make all of that possible. Forget the physical appearance of these artificial humans ..."
     publishedDateTime: 2020-01-07T11:56:00Z
@@ -247,6 +262,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "QqwO0j73unc/i2pt+jtniMOIJraXBLZetSGzutXDoIiQYmQctQ4w260UpZSBNHvpJF8XU2T9CCT18tv9AJZWaRhCHGu+wY0wZXwgAcnFddg/ho1FZjuniFx2Go2iKePl9rkc3IWMQTGhTFLadsWSAxWw8gBjIgBOMDCzrB50IwkMcP8ucjPnKz4tsge2yXc7zLX3xdB/YEtlsR6obNKfC8LXj1ZMTBm9bqJC63tpDqKG+rJ++gOVZ7c2wpE0tENsGUOtDBLf8obZQlLLtT0E0Q==;IutysgNg4L8OqfewdZNYnA=="
+secured: "bWLGk8D7BuZ5kEO5TYcXRjVtxTFEjJaZRS2cwnEF51ZCfvDzt1J38aYNy5kdVKtwVwpDGgufr7zjMudwvJSv9WS+XFW0wRHX6Jr45S63Dt4LM9OhXyHjHd5hpbZ1X/iZ8t+3umUu0tHDdPKJXH4mSVxG/MU886ttWBvpt/+91fiZu50Bub6XiSwry6i28rMjT14yb9syGYNN2R+qZ4s4kCAjrR9+2zf9l+z1xCQumymCg+cKMU6uOFvP6wl5B5U5DnXERRDwFJvoDeWFx2AYvA==;pMw+GsbV0VU9LgLRyMkloQ=="
 ---
 

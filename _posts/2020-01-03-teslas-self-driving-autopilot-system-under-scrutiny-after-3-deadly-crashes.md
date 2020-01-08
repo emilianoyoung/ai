@@ -19,6 +19,21 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+        width: 635
+        height: 400
+
 secured: "Urw4wHjjcCsd/lymaiRZfXzy0t7u/ln/nSZ0JoYyCOJ7Sann+W/qdsCRSFZkNvnGk8dCHpGoK3S/kVryaqkfYJ4ehZ/yN8Eht1+1A9mRlgV6Mg6hqVGIWXwg4lJiiXh3MzN23a9Y9Kt7GE3A0iMBpo1X0dxg2DVdopGr+MPBL/3duqD8ZhH3lipBwgJG4sUM8vTt2Wb2BkBVh6kB01B1slmkMkb/TuCbdVkDGL2yrUADGJevq65IztkKbkfjTxFuZHxCmLQgegcOJGSKJI+v8g==;b9WoRM3GHF2Gwnm9M8ChUw=="
 ---
 

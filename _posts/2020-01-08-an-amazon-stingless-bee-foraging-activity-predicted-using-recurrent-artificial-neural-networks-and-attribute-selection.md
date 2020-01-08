@@ -24,41 +24,21 @@ images:
     title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
 
 related:
-  - title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
-    excerpt: "Here, we introduce a bespoke machine-learning approach, hierarchical statistical mechanical modeling (HSM), capable of accurately predicting the affinities of PBD–peptide interactions across multiple protein families. By synthesizing biophysical priors within a modern machine-learning framework, HSM outperforms existing computational methods ..."
-    publishedDateTime: 2020-01-06T16:07:00Z
-    sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
+  - title: "Doctrine, Policy, And Strategy: new decade, new business paradigm for Artificial Intelligence?"
+    excerpt: "For a moment consider these statistics – over the next decade, Artificial Intelligence (AI) could generate an additional $15.7 trillion worth of additional economic activity across the world, leading to Global GDP increase of as much as 14% (PWC). AI could increase labour productivity by up to 40% by 2035 (Accenture). In contrast, the end of ..."
+    publishedDateTime: 2020-01-08T21:30:00Z
+    sourceUrl: https://dailytimes.com.pk/535589/doctrine-policy-and-strategy-new-decade-new-business-paradigm-for/
+    ampUrl: https://dailytimes.com.pk/535589/doctrine-policy-and-strategy-new-decade-new-business-paradigm-for/amp/
+    cdnAmpUrl: https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/535589/doctrine-policy-and-strategy-new-decade-new-business-paradigm-for/amp/
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.93A4A697ACE5D9FFA04E4637B2D5C989
-        width: 685
-        height: 468
-  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
-    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
-    publishedDateTime: 2020-01-08T10:15:00Z
-    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
-        width: 685
-        height: 445
-  - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
-    excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200107005204/en/caresyntax-ARC-Sheba-Medical-Center-Launch-Collaboration
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
+      - url: https://www.bing.com/th?id=ON.653419675A679894214DF689A8A775D5
+        width: 240
+        height: 272
 
 secured: "vQs6toDDF4nvSj/M05GoPCD4BWOFFmla+ZmM4xJzmpBHFEEoj08Dqv6iJduVDLHzS33cRVrbLLk3O76LYsE81tGqjKrCtKJABr+4uQa7CqI78XFlgB1kqKfyYDSziCXQKAN4ge0UL2Xmi7G04kI2YvuqeJ40kJFTnqTSDjs3DIKQdFQ9+5c031dpWKB7UXOjYZZBjlpPbQwlj3A/hgU9dwKz8C1tSe4nwd7j1KRwYwmWqLQcBHYtVZ6zByCFrSmAoerPW6uaV6DsrQlff02/7w==;DbrY4f56o6X5uGqYzWTkzA=="
 ---

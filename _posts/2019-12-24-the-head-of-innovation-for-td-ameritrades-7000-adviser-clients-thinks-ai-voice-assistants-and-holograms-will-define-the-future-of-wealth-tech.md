@@ -123,19 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
         width: 700
         height: 350
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
-    publishedDateTime: 2019-12-19T20:50:00Z
-    sourceUrl: https://eurekalert.org/pub_releases/2019-12/mali-hch121919.php
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.D8661A9522AB6A8F83AAA0CF6AA57DF4
-        width: 400
-        height: 518
   - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
     excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
     publishedDateTime: 2019-12-20T22:24:00Z

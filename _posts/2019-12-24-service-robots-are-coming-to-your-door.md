@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
         width: 640
         height: 427
+  - title: "The future of banking is basically robots running everything"
+    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
+    publishedDateTime: 2019-12-23T06:04:00Z
+    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
+        width: 700
+        height: 366
 
 secured: "4ZLbHWE1PUfVIp8g6se8URdyXN/dWwtgvaYZ/5ir6/Hg2AYEMNUSliX34SmYl9srgGCRYqv/Oy3qL7wLqrpylItKPYeP5XOIDAupmYw5TG+8QwdQSkrDPwQAFIRlVbMSDuSUr4m8upiOGufRYPB8gUE4WimIK7WYdah53C4E3brFPD/RZuT7khPZh8l/80Erzg+KS7hCsyUdGnpOIWSsz1e2lYTeBCMxrvz3kShmpRkrhUPr05yNb0fHOFq2jDUfihU9ZLTrSXlQ55dr9qEnVQ==;/wmlZgiLyyxs1Ij1GecDJA=="
 ---

@@ -131,6 +131,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
         width: 700
         height: 392
+  - title: "WTF Is An Artificial Human And Where Did They Come From?"
+    excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
+    publishedDateTime: 2020-01-08T21:53:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/
+    ampUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.AD52C0F4EDC529645B3283106104AC94
+        width: 410
+        height: 231
   - title: "Samsung’s artificial human isn’t the smart droid you’ve been looking for"
     excerpt: "These devices are supposed to show “emotions and intelligence,” and should be able to respond to queries “with latency of less than a few milliseconds.” They should also guard your privacy. But Samsung doesn’t explain the underlying tech that would make all of that possible. Forget the physical appearance of these artificial humans ..."
     publishedDateTime: 2020-01-07T11:56:00Z

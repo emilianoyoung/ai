@@ -37,19 +37,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
         width: 685
         height: 445
-  - title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
-    excerpt: "It also may lead to better management and utilization of bees as pollinators. We address an investigation with Recurrent Neural Networks in the task of forecasting bees’ level of activity taking into account previous values of level of activity and environmental data such as temperature, solar irradiance and barometric pressure. We also show ..."
-    publishedDateTime: 2020-01-08T10:13:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56352-8
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
-    images:
-      - url: https://www.bing.com/th?id=ON.FC92AE63946ADA0BB3FCB77B99FC7C56
-        width: 685
-        height: 473
   - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
     excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
     publishedDateTime: 2020-01-07T12:00:00Z

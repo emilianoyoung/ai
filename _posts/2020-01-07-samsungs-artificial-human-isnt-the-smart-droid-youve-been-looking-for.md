@@ -145,6 +145,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
+  - title: "WTF Is An Artificial Human And Where Did They Come From?"
+    excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
+    publishedDateTime: 2020-01-08T21:53:00Z
+    sourceUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/
+    ampUrl: https://www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    cdnAmpUrl: https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/01/wtf-is-an-artificial-human-and-where-did-they-come-from/amp
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.AD52C0F4EDC529645B3283106104AC94
+        width: 410
+        height: 231
   - title: "Samsung introduces AI-powered ‘artificial human’"
     excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
     publishedDateTime: 2020-01-07T08:31:00Z

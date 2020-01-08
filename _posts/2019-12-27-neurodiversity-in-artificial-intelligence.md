@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 600
     height: 315
     title: "Neurodiversity in Artificial Intelligence"
+
+related:
+  - title: "BUSINESS INTELLIGENCE AND ANALYTICS"
+    excerpt: "\"Business Intelligence and Analytics Market\" research currently out there at Stratagem ... Manufacturing and Construction, Services, and Healthcare, and ICT. Please set a link in the press area of your homepage to this press release on openPR. openPR disclaims liability for any content contained in this release. Cloud Backup Market Future ..."
+    publishedDateTime: 2019-12-23T11:38:00Z
+    sourceUrl: https://www.openpr.com/news/1883677/business-intelligence-and-analytics-market-is-set-to-experience
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "19kPiMxxsCD1ZR+xSqT/HPcb6teLfXNB0Rq9Hn/u+SAjvWYiV2/4ANtwSaeKFuMp4b9NnMe9PQASTzOwJTOxH59+AvWkTyxfKF3Y7RoZKLP7aW5ZkM/pWshoBS8IRMUtzk5Pw8Xql110U5yVuPcuSO8bMohJhYyXI6Gk/c0e4ZSEXeElle9w7pCeoRfnXM2rALEYCSGgGLC0RrGiP0tIKQOf8+XSjeCTOYJFbEzUjn7J8+PUCmmUjUfcUcKUwVWB3onoqoRMxEj3gUcRridDNA==;m1UA+zvAfikxAoW86rpFmw=="
 ---

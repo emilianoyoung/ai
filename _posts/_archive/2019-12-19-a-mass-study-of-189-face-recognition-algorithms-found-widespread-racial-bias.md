@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Massive errors found in facial recognition tech: US study"
-excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
-publishedDateTime: 2019-12-19T21:53:00Z
-sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-215334634.html
+title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
+excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
+publishedDateTime: 2019-12-19T21:59:00Z
+sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=feedburner
 type: article
-quality: 39
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
-    width: 768
-    height: 510
-    title: "Massive errors found in facial recognition tech: US study"
+  - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
+    width: 1280
+    height: 721
+    title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -469,21 +469,6 @@ related:
       - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
         width: 700
         height: 466
-  - title: "Government study finds racial, gender bias in facial recognition software"
-    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
-    publishedDateTime: 2019-12-19T20:33:00Z
-    sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
-    ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
-    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 58
-    images:
-      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
-        width: 645
-        height: 363
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z
@@ -572,19 +557,19 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Police facial recognition: US academic says Kiwis deserve answers"
-    excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
-    publishedDateTime: 2019-12-19T20:21:00Z
-    sourceUrl: https://www.stuff.co.nz/national/118256488/police-facial-recognition-us-academic-says-kiwis-deserve-answers
+  - title: "Massive errors found in facial recognition tech: US study"
+    excerpt: "Washington (AFP) - Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed \"false positives\" rates for ..."
+    publishedDateTime: 2019-12-19T21:53:00Z
+    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-215334634.html
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
-        width: 700
-        height: 394
+      - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
+        width: 768
+        height: 510
   - title: "A US government study confirms most face recognition systems are racist"
     excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
     publishedDateTime: 2019-12-20T16:08:00Z
@@ -900,19 +885,6 @@ related:
       - url: https://www.bing.com/th?id=ON.07918902BCF746E8C22EA7649A18EDF9
         width: 700
         height: 465
-  - title: "A mass study of 189 face-recognition algorithms found widespread racial bias"
-    excerpt: "A new study from the National Institute of Standards and Technology confirmed what other research has previously shown: Many facial recognition algorithms perform better on white people than on people of color. “While it is usually incorrect to make ..."
-    publishedDateTime: 2019-12-19T21:59:00Z
-    sourceUrl: https://www.fastcompany.com/90446114/a-mass-study-of-189-face-recognition-algorithms-found-widespread-racial-bias?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 21
-    images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/12/p-1-federal-study-confirms-racial-bias-in-face-recognition-algorithms.jpg
-        width: 1280
-        height: 721
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-20T18:47:00Z
@@ -968,6 +940,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "sC2P5eum/QvAt/AuMLiDJTWQjvUXB9FIjx9AlzbGVLIPG8f3GuL+/ea3D46tBH1SvG+ywi0gJJfF+52GxBjsYt4JdvugowxEt9DQaa6jGXiVs5HHAvlcLs0ePHbJuvN52x0egcmC9t5QzckXaLKqb0N9I+I59A9uyDvRD5ARAqbWXCugTSW8Y6dtItKqaj+XcyenyGJjCOZf8mcQDj7gHh7qMAIJutq7PbAjA5mJAK7G/QjkPnn1Tsr52Bo5awRUTn5xUASUplhrOJ33wfHVvw==;nz+L7TFahwMQQY4NYQrWOA=="
+secured: "G0Ezv+70C3rmuzowVcElT4KEdQYLft0I5jCfZJ8X49Le5da/gAfjB2upIQPywB+zBOlEC/CM3kys2TnTcWO2fKUy67dFnQg2Q5nC2WAKoEIdih62GH4Na0fszY5KwfUK5AKR0YxxM4Lcz99dccna55hYXlRWxUVgHxRMSItzwZAoWNhYUvJsUNBnjx9vDhDvX8weyzP36uwAz+x5IqlmgHfzNJWqUg8z2T998sleBb8PGj2CD2VG0oJRvs6kMYk3XiDEBtHLhUh91n4rZvZP+A==;QV6Cm67Toy6xkWIG+fLY4A=="
 ---
 

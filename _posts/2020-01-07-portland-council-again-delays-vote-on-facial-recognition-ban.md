@@ -245,6 +245,21 @@ related:
       name: Government Technology
       domain: govtech.com
     quality: 54
+  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
+    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
+    publishedDateTime: 2020-01-08T19:59:00Z
+    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.701F432868F9328BCD2446784C119EDC
+        width: 700
+        height: 379
   - title: "Area Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
     excerpt: "It’s a free app called, Finding Rover, and it used facial recognition technology to identify a missing dog or cat."
     publishedDateTime: 2020-01-08T04:27:00Z

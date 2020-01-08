@@ -8,7 +8,7 @@ ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-
 cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
 type: article
 quality: 59
-heat: 69
+heat: 79
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "The robots are coming, are we ready?"
 
 related:
+  - title: "The future of banking is basically robots running everything"
+    excerpt: "Financial institutions are already using artificial intelligence to cut costs and deliver new services ... whether that’s by a call centre agent, or a robot that impersonates a mortgage vendor. The big change in financial services will come when customers use AI to assess offers from financial institutions. They will have access to AI ..."
+    publishedDateTime: 2019-12-23T06:04:00Z
+    sourceUrl: https://www.wired.co.uk/article/future-of-banking-robots
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FF100133A46209DCB66B36A36075374F
+        width: 700
+        height: 366
   - title: "Service Robots Are Coming To Your Door"
     excerpt: "The development of robotic technology and artificial intelligence (AI) is increasing at a rapid pace. Where once, robots were experimental lab-based creations that were a little shaky on their feet. They are now ready to come into our home to ‘help’ us with our lives. Don’t think that you will never need a robot in your home or life?"
     publishedDateTime: 2019-12-24T12:20:00Z

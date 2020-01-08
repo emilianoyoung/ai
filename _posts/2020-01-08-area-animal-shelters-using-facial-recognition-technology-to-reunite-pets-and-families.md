@@ -260,6 +260,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
         height: 490
+  - title: "Anti-Surveillance Advocates Sue MTA Over Alleged Use Of Facial Recognition Technology"
+    excerpt: "A nonprofit watchdog group is suing the MTA to get information about a video monitor installed in Times Square to deter fare evasion, which drew suspicions that the agency is deploying facial recognition technology. In a lawsuit filed in state Supreme Court on Monday, the Surveillance Technology Oversight Project (STOP), an advocacy group which ..."
+    publishedDateTime: 2020-01-08T19:59:00Z
+    sourceUrl: https://gothamist.com/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    ampUrl: https://champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    cdnAmpUrl: https://champ-gothamist-com.cdn.ampproject.org/c/s/champ.gothamist.com/champ/gothamist/news/anti-surveillance-advocates-sue-mta-over-alleged-use-facial-recognition-technology
+    type: article
+    provider:
+      name: Gothamist
+      domain: gothamist.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.701F432868F9328BCD2446784C119EDC
+        width: 700
+        height: 379
   - title: "North Texas Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
     excerpt: "Watch Caroline Vandergriff’s report on CBS 11 at 10. It will be added to this post after it airs. DENTON, Texas (CBSDFW.COM) – North Texas animal shelters are using new facial recognition technology to reunite families with their missing animals. It’s a scenario all pet owners fear – Fluffy or Fido runs away from home and is unable to ..."
     publishedDateTime: 2020-01-08T03:40:00Z

@@ -23,6 +23,6 @@ images:
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
 
-secured: "3sMn94hdQOZXMrBhRJHgiVsGGkJnO6pOAoknn7O6ys/bHTyqreymdNyskobfvnfHd5g5wTnbaVsAeJp4UboCXJiqvcdoOlrmbmFQcnbgJzt+ngsBMdQxnphpciK20hFSNBBVhVSJ/Z91kcIXbeZlBmdOh8pGxLIxJHfNWA+KPCRYtRGwvbHg3/1Mrr+KcgaZ+zPUThlycd2dcke10ds9cepzT9p6vDHxJyM8727X9P1UhAvow5FlwGFijvoZgbrLNOR/QeeZV4t6i1TcsuQDqQ==;9C8r/cWLP4316tinbSuMhQ=="
+secured: "1yCNXMB1kvJVZM/oYcRGUn7GTWGhhoFYZOe/kd9OUhH6yuo3RGku+VndcNJPSQ4dcINELe0PN/+HBf4cQ2kLocZTpUc2suCK0J4X8z1rBdv/nhqTWYZ29iwCuAuF8vzdrJ3cqfaOj9aYLK4NM44zCrWTWAEuXOZcBxFMC8lbKwnnC8gwB/yO4xaSs105hd2VscNUAvaElIf9W04D2H2wT+c9ezK2wtwL9rAfDmmEwuuHjCQoKrZ8bVYCVFHcweFCR7IKqCYO6ZaQYhCEr2Xuvw==;eZjS54YFJtn2ptUvylN2fw=="
 ---
 
