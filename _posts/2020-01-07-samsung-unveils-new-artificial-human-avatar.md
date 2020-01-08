@@ -95,6 +95,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "AI-powered Avatar At Tech Show Touted As 'Artificial Human'"
+    excerpt: "Star Labs, a startup funded by Samsung, showed the painstakingly detailed AI-powered, two-dimensional digital creations to a large crowd, saying they are able to \"converse and sympathize\" like real people. A demonstration at CES showed conversations and gestures from the digital creations modeled after real humans. According to the California ..."
+    publishedDateTime: 2020-01-08T04:20:00Z
+    sourceUrl: https://www.ibtimes.com/ai-powered-avatar-tech-show-touted-artificial-human-2897632
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.5F92DD86C1E8BC42E9CB4816237E31EB
+        width: 700
+        height: 525
   - title: "How Samsung's 'Artificial Human' Could Eventually Take Your Job"
     excerpt: "And as great as artificial intelligence might be, there's no guarantee that it'll work as well as a human being. But alas, Samsung is moving towards the concept. And soon enough, we might be seeing \"artificial humans\" transform the office. The opinions expressed here by Inc.com columnists are their own, not those of Inc.com."
     publishedDateTime: 2020-01-06T18:14:00Z

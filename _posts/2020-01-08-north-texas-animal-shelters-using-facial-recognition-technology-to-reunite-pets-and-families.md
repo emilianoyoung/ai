@@ -185,6 +185,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
         height: 490
+  - title: "Area Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
+    excerpt: "It’s a free app called, Finding Rover, and it used facial recognition technology to identify a missing dog or cat."
+    publishedDateTime: 2020-01-08T04:27:00Z
+    sourceUrl: https://dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/
+    ampUrl: https://dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/amp/
+    cdnAmpUrl: https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.73B60F69FFB7E1714A9B4B792878BAF9
+        width: 700
+        height: 393
   - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
     excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
     publishedDateTime: 2020-01-08T03:32:00Z

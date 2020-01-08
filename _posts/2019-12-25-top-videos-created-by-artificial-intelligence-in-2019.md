@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-25T04:33:00Z
 sourceUrl: https://analyticsindiamag.com/top-videos-created-artificial-intelligence-2019/
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 700
     height: 466
     title: "Top Videos Created by Artificial Intelligence In 2019"
-
-related:
-  - title: "Top 5 Industries Disrupted by Artificial Intelligence in 2019"
-    excerpt: "The healthcare industry has been pushing more toward AI implementation to help healthcare organizations tackle various issues. Artificial Intelligence is likewise molding the future for the healthcare industry in general, opening new ways to understanding health sciences and efficiency. The most widely recognized use for AI in healthcare ..."
-    publishedDateTime: 2019-12-19T03:08:00Z
-    sourceUrl: https://www.analyticsinsight.net/top-5-industries-disrupted-by-artificial-intelligence-in-2019/
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: https://www.analyticsinsight.net/wp-content/uploads/2019/12/Top-5-Industries-Disrupted-by-Artificial-Intelligence-in-2019.png
-        width: 1592
-        height: 994
 
 secured: "VdHtTPfTU4U/heP9OpiJwdUBoHXJ2jhRMwIt2SkkvSoJB7qNI03LQRX+6XnogbUgoi+tBza8Fso8FBGV9t8NUZ0dRuoKzRDXLD9O2fwyH8A8eVJpA8EPDW0e44BM3VCYgCNpRHwOk81XJvSYdDXj6zeXMNRk6cUCf/Rlm108bZZKl3q6g+wlY/8Ncqvfj4V2F3I0jwwpqssAnxHlMIyzSBtq1KNFSFxVnXKYU/eMvXEnK+731oWa8rsc8oOAEXCUdFo543J8xAOOEZHEiJb3Cw==;xzsKv78qYSw7YW6p0aNKcA=="
 ---

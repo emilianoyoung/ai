@@ -2,7 +2,7 @@
 category: news
 title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
 excerpt: "At the recent re:Invent conference, Amazon Web Services (AWS) announced Amazon SageMaker Studio, an integrated development environment (IDE) for machine learning (ML) that brings code editing, training job tracking and tuning, and debugging all into a ..."
-publishedDateTime: 2019-12-17T00:00:00Z
+publishedDateTime: 2019-12-17T14:01:00Z
 sourceUrl: https://www.infoq.com/news/2019/12/aws-sagemaker-studio-ide/
 type: article
 quality: 39
@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
 
-secured: "YRrifAfWutx6EqepXkaWd2JkuSIMiSEgdjNdhPF+1rcjsQ/TEpsfGIy0t7/TR0YIVfH0luzhdLUChQyHX8E1aBbyHR1fScpYLNa1drVrx2xM/CfiDoEvYRoqv9VoP8KiEBqYXKru6dwE8ufcbjRgcZkpZqG0FzmTrcSJxol7cLablopBlubg5SMD7U5qW6IjLms9B3Lc85KAf4T6rhekjHK5g/kI2qkSl8Bwu+uI1rsgQ8jbLQ5uHTYof4qCzlbhIvsGpdtENUIiMdRo5mkLiA==;UlcXLR4vh6c8IBU5o8AoNA=="
+secured: "hv+qAW6AF4rEtcCYnhLXgoX0HtaWnPjYWSkYePp/x4RQtIoLqheJ8+kBiWTXqP9XvvH5Z+fCUd/LL3GUhXlaCFJxtrO3aLh7rpZQ2oF+AUzbm+5e7tX8FiSr1zAJ+IDcpJy5tzUkLQ6r9dQvanfI3eRz3Em/b+xjUdmzepEA24vlENMj5JcO5upgGciwMpeZSqfbMGlhlw5k6lCVn9WL0YuP70lY2PRJldEugK93Lef5rs3O6L0SxeFFbr4GtbcJbdvlCeXqddU08pu1pac/fw==;oPTC5VIPhmQ5FTf5l9rbPg=="
 ---
 

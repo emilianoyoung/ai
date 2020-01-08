@@ -28,6 +28,19 @@ images:
     title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
+  - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line, however there is not any consensus on whether a robot will ever be intelligent."
+    publishedDateTime: 2020-01-08T03:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Platform Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
     excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as North America, Europe ..."
     publishedDateTime: 2020-01-07T06:30:00Z
@@ -41,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
+    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
+    publishedDateTime: 2020-01-07T11:09:00Z
+    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 6
 
 secured: "Xr5ym1FMbcxxdEYNAuixO+Eqfrzlt2Y8hPoCDeqlCGsPXfTyY5Q1I/tG2o+itRM9wB6qc90ecer9oHvqA8ZZRqZLjmnRx2J2lRrtZNtn0k/tngDK/FP4q2YCF9kXZOGSia7hIZ0AWOeGtcirdNwdFZQUdSApDjFLcZcMy/W3mIouYj0gn7042fviV+2QZvIQTu/VFllU5ZctEf5DRabGIlLm+o5+atQBPj4jCZnHXPkWzYBR+QbAJFQpR+aFVSRQ48nLGzVHuYqzbBzEvG7MYA==;V6iSEhvWsPhSyXL91VSVTg=="
 ---

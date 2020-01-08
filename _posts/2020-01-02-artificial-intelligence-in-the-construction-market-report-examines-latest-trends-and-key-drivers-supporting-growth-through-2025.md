@@ -135,6 +135,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "several of the start-ups like Cerebra's Systems have emerged within the past years behind to vital technological advancements. The Artificial Intelligence Chipsets Market is expected to exceed more than US$ 59 Billion by 2024 at a CAGR of 36% in the given forecast period. Browse the full report here: https://www.marketresearchengine.com ..."
+    publishedDateTime: 2020-01-08T03:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Natural Language Processing (NLP) In Healthcare and Life Sciences Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "Jan 03, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
     publishedDateTime: 2020-01-03T11:42:00Z

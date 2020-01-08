@@ -81,15 +81,6 @@ related:
       - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
         width: 700
         height: 429
-  - title: "Baidu, Samsung team up for AI chips"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
-    publishedDateTime: 2019-12-19T03:42:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
     excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
     publishedDateTime: 2019-12-26T04:09:41Z

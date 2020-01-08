@@ -18,54 +18,45 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Global Health Care Natural Language Processing Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2020-01-07T10:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
+  - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line, however there is not any consensus on whether a robot will ever be intelligent."
+    publishedDateTime: 2020-01-08T03:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 59
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-07T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
+  - title: "Artificial Intelligence Platform Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Based on End-User Industry the global Artificial Intelligence Platform market is segmented in Manufacturing, Healthcare, BFSI, Research and Academia, Transportation, Retail and Ecommerce, and Others. The global Artificial Intelligence Platform market report provides geographic analysis covering regions, such as North America, Europe ..."
+    publishedDateTime: 2020-01-07T06:30:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 44
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
+  - title: "Artificial Intelligence in Education Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
+    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The report scope includes detailed competitive outlook covering market shares and profiles key participants in the global Artificial Intelligence in Education market share. Major industry players with significant revenue share include Pearson, IBM, AWS, Nuance Communications ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-global-trends-statistics-size-share-regional-analysis-by-2025-mre-report-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 42
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
-    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
-    publishedDateTime: 2020-01-02T07:03:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "0N12yo8l9ft5+WbgRJVi547S5dc3K2PY/Yv+wzvFByndDx1V5vijsSt1wu/Yu1yBw0BlKGRNY9aBMyw2xpl/rIKeI2/CREUcBEhn2kE8loInKydV68Qz96zPALR5QyH3/I6lD+eVp27hx62Zlrl4I51o5ZlhoNzyKlMp6n4NTHyjW2h/4mQHJYvxSA6cHt/32ZtAtp8RhtvLz1b+kDqTAlLJ51mu9gCDBIbxnYLP9vYx2TDcoZ24jwtNRVTVLBCT26FIXUoskNvmhiN1dnlQRA==;hN4zIXfHUeWBHQ9XzdwWPg=="
 ---

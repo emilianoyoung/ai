@@ -168,6 +168,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
         height: 490
+  - title: "Area Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
+    excerpt: "It’s a free app called, Finding Rover, and it used facial recognition technology to identify a missing dog or cat."
+    publishedDateTime: 2020-01-08T04:27:00Z
+    sourceUrl: https://dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/
+    ampUrl: https://dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/amp/
+    cdnAmpUrl: https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/video/4396552-area-animal-shelters-using-facial-recognition-technology-to-reunite-pets-and-families/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.73B60F69FFB7E1714A9B4B792878BAF9
+        width: 700
+        height: 393
   - title: "North Texas Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
     excerpt: "Watch Caroline Vandergriff’s report on CBS 11 at 10. It will be added to this post after it airs. DENTON, Texas (CBSDFW.COM) – North Texas animal shelters are using new facial recognition technology to reunite families with their missing animals. It’s a scenario all pet owners fear – Fluffy or Fido runs away from home and is unable to ..."
     publishedDateTime: 2020-01-08T03:40:00Z

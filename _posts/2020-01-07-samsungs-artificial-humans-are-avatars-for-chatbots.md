@@ -86,6 +86,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "AI-powered Avatar At Tech Show Touted As 'Artificial Human'"
+    excerpt: "Star Labs, a startup funded by Samsung, showed the painstakingly detailed AI-powered, two-dimensional digital creations to a large crowd, saying they are able to \"converse and sympathize\" like real people. A demonstration at CES showed conversations and gestures from the digital creations modeled after real humans. According to the California ..."
+    publishedDateTime: 2020-01-08T04:20:00Z
+    sourceUrl: https://www.ibtimes.com/ai-powered-avatar-tech-show-touted-artificial-human-2897632
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.5F92DD86C1E8BC42E9CB4816237E31EB
+        width: 700
+        height: 525
   - title: "Samsung unveils new artificial human avatar"
     excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
     publishedDateTime: 2020-01-07T21:22:00Z
@@ -144,6 +157,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "6cLmvXL8s6u04+5M/pcOcOOiSCPCTY/Urz7fCZwAQAH2nfwqIhPvCAvGJe7n9MYhmbZaGNx8E/GNE0ak/j6u4re3zE9NVqHvnHaCj+Ktf72HcrvMot7bmd5zjfvBrXbUvtggK7xOAwt2QecYLkpznnzYCj5LRet52m3JvbsbkwUOGVwHH1DqI7oHxORyIZp02mTlBlxO3fBuT44lWacLWL+7mSDm4kJlIGHljmyuD52a/jnx43K0UldhfsN7dBAwkioMynfsIs4e6FKcmKKfyw==;AIHWGv8lvBqeCrcYJs/goQ=="
+secured: "n1bsyrZMd4688DdW7bGONQ82I7Om+Nb5ISHwJCuQCdSWRcuL79QNuMvLxOw5EJxOwuQZFU0Uxw0wKHTJVFeFcRLr9NWsEB4Rf6TiF1QJ3yyczPx7HEWt1Povlc+vlg69lKtFL4QSsXDJ7eM+zhcGhyu4k5bDZ+yLsZ0Flx4su09kYwZrJMUXnXcOYMwK6k0hObYRKp7Q1pS1kijryAHgXC0u5p8SOcWVP1GLta2ECrEIJR+/kuSVHPcWBVpRIAQZerPKJlqpfkFR+mEcsAkPVQ==;094VNCFrJ1lvuv88KzEteQ=="
 ---
 

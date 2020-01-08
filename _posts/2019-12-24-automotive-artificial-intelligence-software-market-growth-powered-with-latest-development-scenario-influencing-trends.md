@@ -40,6 +40,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "AI in Logistics and Supply Chain Ecosystem Market 2019: Latest Research Released With In-Depth Industry Intelligence"
+    excerpt: "Moreover, companies like Waymo, Rolls-Royce are coming up with driverless vehicles such as trucks ... Increasing investments of companies in artificial intelligence enabled logistics and supply chain is driving the AI in logistics and supply chain ecosystem Market growth in region. For instance, Chinese company Alibaba invested $248 billion ..."
+    publishedDateTime: 2019-12-17T15:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-ecosystem-market-2019-latest-research-released-with-in-depth-industry-intelligence-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "E7UOusYBCcs0615KvA1VFurGbt2lsntOlKsL7uiiFrYn46WkSFGv/kEhxfDtWYUbzVebe2losu8RDtwWuBxvloEXEhoeXSepIHSxqOQ8ORW9FdznZNXfirABLk0/dgkNQQFCjt4rFcZZwoNPoQYxd4UvaS5foJSXbjUFJbz7h6FIxTxnwIMQz0rv/NXWhFpf9foPpiZ7cDm4535dl61M0+2RNMvA1/IYobaFZn5ZGo/PZowJ7giuExTDnJF1yodMVLZHwC0EJuh6C4MpExcfNw==;BlkN1ETOJqIQQSTyZTttMg=="
 ---

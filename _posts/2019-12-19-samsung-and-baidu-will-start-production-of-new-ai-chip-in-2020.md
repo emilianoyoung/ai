@@ -69,15 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
         width: 600
         height: 337
-  - title: "Baidu, Samsung team up for AI chips"
-    excerpt: "In addition, the new chip allows Ernie, a pre-training model for natural language processing, to infer three times faster than the conventional GPU/FPGA-accelerating model. Leveraging the chip's limit-pushing computing power and power efficiency, Baidu can effectively support a wide variety of functions including large-scale AI workloads ..."
-    publishedDateTime: 2019-12-19T03:42:00Z
-    sourceUrl: https://www.digitimes.com/news/a20191219PR202.html
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "Samsung Neon May Herald the Next Generation of Cognitive, Advanced AI Assistants"
     excerpt: "Samsung has stated that Samsung Neon will premiere at the upcoming CES 2020, and left mysterious teasers on the internet to decode from."
     publishedDateTime: 2019-12-26T08:13:00Z

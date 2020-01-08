@@ -100,6 +100,21 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
+  - title: "Facebook bans 'deepfakes' ahead of US election"
+    excerpt: "Created by artificial intelligence or machine learning ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Loading Facebook and other tech firms last year sponsored a \"deepfake detection challenge,\" offering prize money to researchers who could deliver the most ..."
+    publishedDateTime: 2020-01-08T04:53:00Z
+    sourceUrl: https://www.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
+    ampUrl: https://amp.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
+    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
+        width: 700
+        height: 393
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:11:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-expected-to-witness-a-sustainable-growth-over-2024-2020-01-07
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -119,6 +119,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Chipsets Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
+    excerpt: "several of the start-ups like Cerebra's Systems have emerged within the past years behind to vital technological advancements. The Artificial Intelligence Chipsets Market is expected to exceed more than US$ 59 Billion by 2024 at a CAGR of 36% in the given forecast period. Browse the full report here: https://www.marketresearchengine.com ..."
+    publishedDateTime: 2020-01-08T03:13:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

@@ -81,6 +81,19 @@ related:
       - url: https://www.bing.com/th?id=ON.F7333ABC644BED141E5EE89527871990
         width: 700
         height: 367
+  - title: "AI-powered Avatar At Tech Show Touted As 'Artificial Human'"
+    excerpt: "Star Labs, a startup funded by Samsung, showed the painstakingly detailed AI-powered, two-dimensional digital creations to a large crowd, saying they are able to \"converse and sympathize\" like real people. A demonstration at CES showed conversations and gestures from the digital creations modeled after real humans. According to the California ..."
+    publishedDateTime: 2020-01-08T04:20:00Z
+    sourceUrl: https://www.ibtimes.com/ai-powered-avatar-tech-show-touted-artificial-human-2897632
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.5F92DD86C1E8BC42E9CB4816237E31EB
+        width: 700
+        height: 525
   - title: "Samsung unveils new artificial human avatar"
     excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
     publishedDateTime: 2020-01-07T21:22:00Z

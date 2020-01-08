@@ -2,26 +2,20 @@
 category: news
 title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
 excerpt: "The partnership draws on an artificial intelligence solution developed by Buoy Health, a digital health company that empowers people to manage their own healthcare. Health Action Council's Find the Right Care website will now include Buoy's AI-powered chatbot Buoy Assistant, which gives users a personalized and more accurate view of their ..."
-publishedDateTime: 2020-01-07T14:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/health-action-council-partners-with-buoy-to-help-patients-find-the-right-care-300982717.html
+publishedDateTime: 2020-01-07T15:08:00Z
+sourceUrl: https://finance.yahoo.com/news/health-action-council-partners-buoy-150000161.html
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
 
 related:
   - title: "MIT, Takeda Partner to Develop Healthcare Artificial Intelligence"
@@ -38,6 +32,6 @@ related:
         width: 690
         height: 400
 
-secured: "XVg74vvzRlWp0nLBgG/As3noxckEeDWJOlISD31FCR5sx8hNb4dWF4cJTpUIXW5FnP2ydLVXTHDCoBXHN7j/QIvC+Z1Pd3vpqGcHIO0nhH9dqeuqjiTsEvDuOG6YUfdI14KdYug838++8MJ1PaRDlGzjgwAg8EZ1dpK/C4aNDMMDKmQCculFbh+CMtsGdsf/g5vQ/xC7vEK1nTvff0DSjGmEZhL/i2SLviY25OW59DDzHXsDJX91pyYqRgBaGE5vOVGT4dwZKHLTEcGp77idww==;0mWhzIOcVBtdGy3GMc6pZA=="
+secured: "xnIsZ0vSXzXCYA/x7qW+MVYFWSzRaGrsZo/h4bBdAXYNIvVEesUjsZ20SUjKC7DR7XTmLv2kFZuvxfyt9oqbRjH3y6WftLehzKFIL15LNB5IIUUO6L3o/m6QPHV1j/Y/S8s2lZcumZWFwx0etXdDphaeS1syWW6XUFs1smhXq8gIo7Q7+WFD+veo/NEBhzvBC0gyn3DS2if12njV/LTXMZWVeXXbo7X2JKkucGc6dnpO5zMAjlHmENzKS+E1uqpWRrjKVS01fjl8uxZaPAI7Kw==;FrDAoZL/9KPYPNVWUclPww=="
 ---
 
