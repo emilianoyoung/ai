@@ -278,6 +278,19 @@ related:
       - url: https://www.bing.com/th?id=ON.52C31EBFA936865E2D7586E4B819E083
         width: 323
         height: 400
+  - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
+    excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
+    publishedDateTime: 2020-01-08T15:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/08/ces-2020-10-best-new-tech-gadgets-las-vegas/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.E74BA8C1C89F32FEB6DF0542935DBBD2
+        width: 320
+        height: 180
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z

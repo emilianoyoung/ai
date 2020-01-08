@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
         height: 525
-  - title: "AI-Powered Robot Assistant CIMON Returns Aboard The ISS With 'Emotional Intelligence'"
-    excerpt: "SEE ALSO: This Artificial Intelligence Tool Can Identify Fake News! The team has integrated CIMON with The Watson Tone Analyzer, that gives it the ability to appropriately react with empathy based on the situations. As IBM explains, the robot companion will be able to asses if an astronaut is challenged by a task and provide assistance ..."
-    publishedDateTime: 2019-12-19T14:20:00Z
-    sourceUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence
-    ampUrl: https://in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
-    cdnAmpUrl: https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/science/9631/ai-powered-robot-assistant-cimon-returns-aboard-the-iss-with-emotional-intelligence?amp=1
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 82
-    images:
-      - url: https://www.bing.com/th?id=ON.2E8E329BB0B8B061F9B5E26ABC42E658
-        width: 700
-        height: 393
   - title: "AI used for creation of novel, unconventional artworks"
     excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
     publishedDateTime: 2019-12-23T06:49:00Z

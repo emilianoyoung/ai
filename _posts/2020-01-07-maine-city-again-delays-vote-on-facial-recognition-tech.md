@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.09025C93BACA87948898EA1D02F9A079
         width: 700
         height: 393
+  - title: "Bosch’s facial recognition tech keeps you safe, entertained behind the wheel"
+    excerpt: "This story is part of our continuing coverage of CES 2020, including tech and gadgets from the showroom floor. German supplier Bosch is working on bringing facial recognition technology to the world of cars. Similar to what’s available on many smartphones, the feature is a way to keep the passengers safe, entertained, and comfortable."
+    publishedDateTime: 2020-01-08T14:07:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-facial-recognition-demo-at-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 101
+    images:
+      - url: https://www.bing.com/th?id=ON.9CA546C401B35D1EC2D11DF0FE776247
+        width: 700
+        height: 366
   - title: "Facial Recognition: Friend Or Foe?"
     excerpt: "The growing trend toward more accurate facial recognition is on the rise. It is clear that advances in research — specifically, with more accurate, complex algorithms — are creating an environment of extremely accurate solutions that use the complex and individual characteristics of a person's face for identity purposes. As the former ..."
     publishedDateTime: 2020-01-06T12:52:00Z
@@ -80,6 +95,36 @@ related:
       - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
         width: 700
         height: 393
+  - title: "Upstate NY school district’s facial recognition raises privacy concerns"
+    excerpt: "LOCKPORT, N.Y. (AP) — An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy. The Lockport Central School District said it activated the system on Thursday after meeting conditions set by state education ..."
+    publishedDateTime: 2020-01-06T14:56:00Z
+    sourceUrl: https://www.syracuse.com/state/2020/01/upstate-ny-school-districts-facial-recognition-raises-privacy-concerns.html
+    ampUrl: https://www.syracuse.com/state/2020/01/upstate-ny-school-districts-facial-recognition-raises-privacy-concerns.html?outputType=amp
+    cdnAmpUrl: https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/state/2020/01/upstate-ny-school-districts-facial-recognition-raises-privacy-concerns.html?outputType=amp
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.0EEF2F223E93C0E338D8331CD39F7293
+        width: 700
+        height: 507
+  - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
+    excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
+    publishedDateTime: 2020-01-08T15:27:00Z
+    sourceUrl: https://www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.html
+    ampUrl: https://www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.amp
+    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2020/jan/08/bengaluru-manmad-bhusawal-railway-stations-to-get-facial-recognition-tech-as-test-cases-2086909.amp
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.1884978B2CF82E94D21585476C983F93
+        width: 600
+        height: 390
   - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
     excerpt: "Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on January 8. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as the Crime and ..."
     publishedDateTime: 2020-01-08T14:36:00Z
@@ -241,6 +286,21 @@ related:
       - url: https://www.bing.com/th?id=ON.519D424728468426AD1FAB9853F63439
         width: 400
         height: 200
+  - title: "Chinese tourist sues zoo after being forced to use facial-recognition cameras"
+    excerpt: "Concerns over security of personal data have risen in China after a zoo-goer became the first person in the country to file a lawsuit in relation to a dispute over the usage of facial-recognition cameras. Guo Bing waged war on the country's 'Big-Brother' surveillance system after being required by a safari park to scan his face on security ..."
+    publishedDateTime: 2020-01-08T15:15:00Z
+    sourceUrl: https://www.dailymail.co.uk/news/article-7865273/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
+    ampUrl: https://www.dailymail.co.uk/news/article-7865273/amp/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7865273/amp/Chinese-tourist-sues-zoo-forced-use-facial-recognition-cameras.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.06484958238147A8C4D1609A479F680C
+        width: 636
+        height: 382
   - title: "ATFX launches biometric facial recognition for trading account opening"
     excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
     publishedDateTime: 2020-01-02T12:52:00Z
@@ -304,6 +364,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "NY district launches facial recognition technology after addressing privacy concerns"
+    excerpt: "Lockport City School District in upstate New York recently activated its facial recognition system, which had been delayed to allow the New York State Education Department to investigate the district's privacy policies in response to concerns voiced by students and advocates, EdScoop reports. Following its investigation, the department found ..."
+    publishedDateTime: 2020-01-08T15:35:00Z
+    sourceUrl: https://www.educationdive.com/news/ny-district-launches-facial-recognition-technology-after-addressing-privacy/569988/
+    type: article
+    provider:
+      name: Education Dive
+      domain: educationdive.com
+    quality: 32
+    images:
+      - url: https://www.educationdive.com/user_media/cache/41/f8/41f8d81f3361ad7b6a6c3c7a98732ef8.jpg
+        width: 770
+        height: 364
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z

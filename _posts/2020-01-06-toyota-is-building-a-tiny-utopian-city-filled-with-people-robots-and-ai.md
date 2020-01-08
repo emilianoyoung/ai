@@ -173,6 +173,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
         width: 700
         height: 393
+  - title: "CES: Toyota's city of the future is full of robots and AI systems"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-city-of-the-future-is-full-of-robots-and-ai-systems
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
   - title: "Qualcomm is getting into the self-driving market"
     excerpt: "It might seem strange for a smartphone chip company to tackle self-driving, but in reality, many of the same technologies exist in both products. Qualcomm has long leveraged its mobile chip lead to grab a significant chunk of the broader system-on-a-chip market. Smartphone makers buy Qualcomm Snapdragon chips that contain an ARM-based CPU ..."
     publishedDateTime: 2020-01-07T16:10:00Z

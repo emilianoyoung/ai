@@ -88,6 +88,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "d7jhNOoc+c34qPu1F4QHQ9RakX5YQ/rr1LqcxGj+HtM8bVq0lhgENvfh6Gm1czqMU96H+q/trzPQqHTptGlugtJCRoiJNpO9tQtaMnXhnxAbzRcaw+JmxoPF5qFtp8C2e75GMQM3sdd4UOjNynr8v6jopkeIQyIoLpK49qwtsgTPgWq0r9neBHyiZwjpS74CZQ8Vhp7T30rKntLwCgOfsy0qnugt/9KE70ZMMkt26XBPTZ7PVg7acUAFXQXoi3ErjYuuac7oF64HoRXOZI528Q==;pARCAkLWT680t61PkFgh3g=="
+secured: "1NPbnuyVuMc8lddHZ1cbRLs2/AmqGFZmeJFxFtjhENxEJ7lK5YrgB1YlAjn+4VRpwdQml8oondIqpoeaoVi/2PqSKtPFbgEBORJkYm9/j9Xt/DYKT8Ked4615WRuBOLjY97D50EKZEaKa2t4vg4yfMe6XdBtoWVm4ElxNKrwQwkN1MVbI9ymG3dZBFSnaHJzGbK06Scwy1NDAsm4xuu8dh9JYZDru2EX0kLCG2SOL30B3Li029Inoj8lLEdg2NmLbT8mb+6FyaPLlsBSHspXKQ==;3Xki1+J/yBFbAA9tGPyTPw=="
 ---
 

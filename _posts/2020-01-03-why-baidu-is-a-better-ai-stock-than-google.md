@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-s
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -31,6 +31,21 @@ images:
     title: "Why Baidu Is a Better AI Stock Than Google"
 
 related:
+  - title: "Is Baidu Stock a Buy?"
+    excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
+    publishedDateTime: 2020-01-08T15:40:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.47AB09BFBCC8FC8948810DF5FBE91BBE
+        width: 700
+        height: 466
   - title: "Google's AI better than humans at spotting breast tumors"
     excerpt: "Researchers at Google and several universities are working on an artificial intelligence, or AI, model aimed at improving the accuracy of mammography screening. In the Jan. 1 issue of Nature, they describe the initial results: Computers, it seems, can beat radiologists both in detecting breast tumors and avoiding false alarms. Compared with ..."
     publishedDateTime: 2020-01-03T18:37:00Z

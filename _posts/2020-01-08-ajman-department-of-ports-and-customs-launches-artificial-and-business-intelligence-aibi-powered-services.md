@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Based Medical Device Forecast 2023 and Analysis by Investment, Growth and Impressive Revenue"
-    excerpt: "Get Free Segmentation of AI enabled Medical Devices @ https://www.alltheresearch.com/sample-request/322 -Artificial Intelligence Based Medical Device Revolution by Utilities 2018-2023: In April 2018, the U.S. FDA approved the first fully autonomous AI device IDx-DR for the diagnosis of diabetic retinopathy. This is the first fully autonomous AI ..."
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-forecast-2023-and-analysis-by-investment-growth-and-impressive-revenue-2020-01-07
+  - title: "Can artificial intelligence help us understand racial bias in sports?"
+    excerpt: "In 2019, Iyyer, along with colleagues Jack Merullo, Luke Yeh and others, published a peer-reviewed study at the annual Empirical Methods in Natural Language Processing conference that examined the presence of bias in sports commentary. Why we use positive and negative words to describe people is a fundamental question of the science of ..."
+    publishedDateTime: 2020-01-08T14:40:00Z
+    sourceUrl: https://theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/
+    ampUrl: https://theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/amp/
+    cdnAmpUrl: https://theundefeated-com.cdn.ampproject.org/c/s/theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: The Undefeated
+      domain: theundefeated.com
+    quality: 59
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.7F0A69A0B8F92D33F6F320CDB1F1F550
+        width: 700
+        height: 350
 
 secured: "8iK686fj1hyojsV3jcfuYUEMJZJD06OyTSm+XDQwzkyhbdkbX1TkE++ca7F6BYLu6JbApXkJY0u8Z8QeUVrVHMF7oYPoNHzgsYX9sphjfuTtxU4lV2xtPYlrpFJtdYkSbjd28Ej0lwaI9+Sqkbv+/Qo/gtrS8h1xGYPX8OVYvUAy/VY2b4RjduwYkZbNLXwIjxhs6Xb5+QpEG9bSx7fXynYqq+/xRLKU7gFCgAZs3OldXKSFV6qnJuIMK8JPCmlDzD8rwDhNOVeWBnU5H+78uQ==;fZuYkYVGc2SHHisNUGuq0Q=="
 ---

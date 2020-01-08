@@ -54,6 +54,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A264CB3BC87C5FF6195B7D5AD0C86F3F
         width: 700
         height: 525
+  - title: "Dell's Latitude 9510 shakes up corporate laptops with 5G, machine learning and thin bezels"
+    excerpt: "PCWorld had a chance to delve into the guts of the Latitude 9510, learning more about what’s in it and how it was built. Here are the coolest things we saw: Melissa Riofrio/IDG The Dell Latitude 9510 is shown disassembled, with (top, left to right) the magnesium bottom panel, the aluminum display lid, and the internals; and (bottom ..."
+    publishedDateTime: 2020-01-08T15:03:00Z
+    sourceUrl: https://www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.html
+    ampUrl: https://www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.amp.html
+    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.amp.html
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 59
 
 secured: "HWzvmRi7cIQgqiUnGz/ZpXfz3Ha7hnalBLwsBg00Qb2hUHB2iMoRl/jFZ1/xa57ukE3q8gsRMb1xzCqgrungQw5+8FgkAU0ODIi+gMg6Hm/MlEDq5z+HHZ+/BeMzoyZKoXkjcev97vPuDntstoq5hjFo8k3hS5ECWzBt3dfUx9jQoH9KvelBt43uLPVO+HonA3OP1KYab9I1XlrHnxS/8P5r7LaPj63enF3TCtGzmQ81jC+xvLKFa5+WflP3fnSq07vKY3kC72t54khqtWw+Aw==;JzosYec6PrOwl71KKhryzA=="
 ---

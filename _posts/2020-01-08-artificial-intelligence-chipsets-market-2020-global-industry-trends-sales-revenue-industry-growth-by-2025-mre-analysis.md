@@ -179,19 +179,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
-  - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
-    excerpt: "Other factors attributable to the market growth are the potential impact of AI on speech and voice recognition accuracy, increasing need for better healthcare software, mobile banking, smart home automation applications, and increased demand for multifactor authentication voice-based biometric systems. The Global Speech Technology Market is ..."
-    publishedDateTime: 2020-01-07T11:07:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.AF3294DE263BA10F5DE18F6C9C94D65C
-        width: 700
-        height: 366
 
 secured: "9GWBG/3VsOI51pVWuVK3JYwlqV8q62U2f5q2bFMw1ygTnzEk8NwADfzE6Vrv01OKnVd4dFeWqlJ7KUpPSZnhEVE+vkiJT3BMovaKTQoAkNXSZ/ZF1eTD/HNITj+/arqciho7aFrC0D1qCt0A96ZBgADDE1pQnImHihanRIUPmtEq55y4qm13VDPBedPp1HdWd6+UbdlaRP9jn57vjgl8DxTtYrtxJhf66Riv0UwJ3SoL/pAIESKGxEqocrSIlUhGP0WnjO6YKKwfsmcs8UUgOQ==;hz2eGwpptvyvOd050mWvNQ=="
 ---

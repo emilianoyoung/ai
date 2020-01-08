@@ -284,6 +284,19 @@ related:
       - url: https://www.bing.com/th?id=ON.52C31EBFA936865E2D7586E4B819E083
         width: 323
         height: 400
+  - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
+    excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
+    publishedDateTime: 2020-01-08T15:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/08/ces-2020-10-best-new-tech-gadgets-las-vegas/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.E74BA8C1C89F32FEB6DF0542935DBBD2
+        width: 320
+        height: 180
   - title: "Audi's self-driving car goes for a spin at CES"
     excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
     publishedDateTime: 2020-01-07T13:56:00Z

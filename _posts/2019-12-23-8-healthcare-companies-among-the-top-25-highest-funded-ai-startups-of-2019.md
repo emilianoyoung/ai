@@ -188,19 +188,6 @@ related:
       - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
         width: 600
         height: 532
-  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
-    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
-    publishedDateTime: 2019-12-19T14:08:00Z
-    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
     excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
     publishedDateTime: 2019-12-23T16:26:56Z

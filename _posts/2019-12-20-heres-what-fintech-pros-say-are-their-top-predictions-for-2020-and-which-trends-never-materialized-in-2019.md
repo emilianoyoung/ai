@@ -185,19 +185,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "10 top VCs share their best 2020 healthcare predictions, from a booming IPO market to pharma companies getting into the medical care business"
-    excerpt: "VCs from Venrock, Andreessen Horowitz, and Lux Capital are placing bets on new ways of going to the doctor and discovering medical treatments."
-    publishedDateTime: 2019-12-19T14:08:00Z
-    sourceUrl: https://www.businessinsider.com/venture-capital-investors-healthcare-predictions-2020-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: https://image.businessinsider.com/5df917effd9db251a1421f29?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
     excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
     publishedDateTime: 2019-12-23T19:59:00Z

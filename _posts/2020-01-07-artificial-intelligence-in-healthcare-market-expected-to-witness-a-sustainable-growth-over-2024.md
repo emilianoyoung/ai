@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:11:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-expected-to-witness-a-sustainable-growth-over-2024-2020-01-07
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -180,19 +180,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
-  - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
-    excerpt: "Other factors attributable to the market growth are the potential impact of AI on speech and voice recognition accuracy, increasing need for better healthcare software, mobile banking, smart home automation applications, and increased demand for multifactor authentication voice-based biometric systems. The Global Speech Technology Market is ..."
-    publishedDateTime: 2020-01-07T11:07:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: https://www.bing.com/th?id=ON.AF3294DE263BA10F5DE18F6C9C94D65C
-        width: 700
-        height: 366
 
 secured: "P4c8VLfMi2PuUDC0cr0vy0sRtncc+tAlNhqV47HnU9cyGUcdrAdIigBChYtjpQm1fCvS1aMjqL1exzBX1DegIxMx4EZsyJrgisph5QK/owO8o9fNM14h2YG8HXtUAjfQaE+09ZuWyAxi4zOU79RD8F04pjz3IBV+k6Zrp7o/pPtURgf/5HChKiqaDAg/SA7JoI05kZL0m/ffgZezTMJHPT9MCLF9q7bZqT+eoXmF6r7ihGMC5uKJTOkgd4i7lM4IxAMbv3YVwLPgWeVA89ZCVA==;CbVNtOSuaH8aytVgsJElCQ=="
 ---

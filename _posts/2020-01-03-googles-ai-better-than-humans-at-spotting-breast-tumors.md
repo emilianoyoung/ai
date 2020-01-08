@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.061DBDB6CF00334B5A1A49BA4F889845
         width: 700
         height: 525
+  - title: "Is Baidu Stock a Buy?"
+    excerpt: "For instance, there is the company's \"open-source autonomous vehicle technology platform\" Apollo. Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an edge in this potentially lucrative market with a ..."
+    publishedDateTime: 2020-01-08T15:40:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.47AB09BFBCC8FC8948810DF5FBE91BBE
+        width: 700
+        height: 466
   - title: "Cancer detection: Google?s AI better than humans but can't replace them yet"
     excerpt: "While the study is not a pioneering work?NYU research had already established similar results?what makes Google's work unique is the fact that it was conducted across two countries with a larger sample."
     publishedDateTime: 2020-01-07T21:19:00Z

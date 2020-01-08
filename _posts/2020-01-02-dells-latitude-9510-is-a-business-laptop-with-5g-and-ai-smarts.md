@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-spec
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/02/dell-latitude-9510-hands-on-specs-ai-battery-life/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
       - url: https://www.bing.com/th?id=ON.A264CB3BC87C5FF6195B7D5AD0C86F3F
         width: 700
         height: 525
+  - title: "Dell's Latitude 9510 shakes up corporate laptops with 5G, machine learning and thin bezels"
+    excerpt: "PCWorld had a chance to delve into the guts of the Latitude 9510, learning more about what’s in it and how it was built. Here are the coolest things we saw: Melissa Riofrio/IDG The Dell Latitude 9510 is shown disassembled, with (top, left to right) the magnesium bottom panel, the aluminum display lid, and the internals; and (bottom ..."
+    publishedDateTime: 2020-01-08T15:03:00Z
+    sourceUrl: https://www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.html
+    ampUrl: https://www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.amp.html
+    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3512880/dells-latitude-9510-shakes-up-corporate-laptops-with-5g-machine-learning-and-thin-bezels.amp.html
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 59
   - title: "Dell targets the enterprise with new 5G, AI-enabled Latitude 9510 laptop"
     excerpt: "Another new AI feature adjusts Windows settings automatically to conserve electricity when the ... It features a compact 13.4-inch display, a 10-nanometer chip from Intel’s Ice Lake series and up to 32 gigabytes of RAM. Show your support for our mission by our 1-click subscribe to our YouTube Channel (below) — The more subscribers we ..."
     publishedDateTime: 2020-01-02T20:23:00Z
