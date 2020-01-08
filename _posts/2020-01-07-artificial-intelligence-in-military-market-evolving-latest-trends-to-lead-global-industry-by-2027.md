@@ -57,6 +57,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Food and Beverages Market(2020-2027): Rapid Growth, Growth Drivers and Recent Challenges by Research Study"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027), owing to dynamic changes observed in purchasing pattern of consumers across the globe who are demanding faster services at reasonably low costs that can be affordable to the consumer and better ..."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market2020-2027-rapid-growth-growth-drivers-and-recent-challenges-by-research-study-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "0N12yo8l9ft5+WbgRJVi547S5dc3K2PY/Yv+wzvFByndDx1V5vijsSt1wu/Yu1yBw0BlKGRNY9aBMyw2xpl/rIKeI2/CREUcBEhn2kE8loInKydV68Qz96zPALR5QyH3/I6lD+eVp27hx62Zlrl4I51o5ZlhoNzyKlMp6n4NTHyjW2h/4mQHJYvxSA6cHt/32ZtAtp8RhtvLz1b+kDqTAlLJ51mu9gCDBIbxnYLP9vYx2TDcoZ24jwtNRVTVLBCT26FIXUoskNvmhiN1dnlQRA==;hN4zIXfHUeWBHQ9XzdwWPg=="
 ---

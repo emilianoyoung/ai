@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Market Analysis 2019-2026: Covering Current and Future Growth, Trend, Feasibility, Regional Outlook and Future Forecast"
-excerpt: "Jan 08, 2020 (The Expresswire) -- Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) The artificial intelligence market in North America was valued at US$ 9.72 Bn in 2018."
-publishedDateTime: 2020-01-08T04:04:00Z
-sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08
+excerpt: "Jan 08, 2020 (MENAFN via COMTEX) -- Posted on Jan 8 2020 4:51 AM \"Artificial Intelligence Market top players include Alphabet (Google Inc.), Apple Inc., Baidu, IBM Corporation, IPsoft, Microsoft Corporation, MicroStrategy, Inc, NVIDIA Qlik Technologies Inc, Verint Systems Inc (Next IT Corp) \" The artificial intelligence market in North America ..."
+publishedDateTime: 2020-01-08T05:04:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-analysis-2019-2026-covering-current-and-future-growth-trend-feasibility-regional-outlook-and-future-forecast-2020-01-08-1197452
 type: article
 quality: 31
 heat: -1
@@ -41,6 +41,6 @@ related:
         width: 1200
         height: 630
 
-secured: "sCdd8ijfz5r0gHHnpT6yohrIsppNwMl4MnfX+LDHyXjddzHiHBTM/AkUsGjqmfQQY9EQq5v7dF6xE6kkn+bORB/Fc6WUq0gPi2O4rBJWDfimL6DZ+UJGRlcBrFKmyFJb5hvaU8ySMRKERyxBgI4c5oW4hUG/5HT7zUl831XQn0GaQOAQViuNptWK1pNRD1f7WxEnK5f80jmZlio6CCIXKtRf9H7kuHNJhFRlKUBoF/wnNcYyK+iMhLP+lVkZy9kTdps2FgWOp07PpaTUZ0gPGA==;7MjoQVp7bXnQyxeTyNrK7Q=="
+secured: "IigekXUMAB0oJnsYEQGXsatbBqFmb59/ChfjywCjVT6SAAVyiYNYfuHtFO9GEokQVfuzDuUZbUeDJnhS01/ExQb24T6G5+uGsDCWvYvN4ZFa6duhmeLjihLvKJWx056F183QOzeXbN+ni7BILXXep8PfwFbaDQzDHS2k/Ba9jsYXuE2enURDUm2DH4miRL3D/8/ou4M737gvQUVSQpVzgGieQznNwSTgHcVPwRn/xKwIYtdde5W2sZ9aOSOISalsE9LGkpi0Ttj0iB14F4vk3Q==;s7UnXBC3lSqK/F5+xNWaHA=="
 ---
 

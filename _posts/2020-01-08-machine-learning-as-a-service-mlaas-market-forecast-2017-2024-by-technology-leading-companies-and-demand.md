@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Online Translation Market - Investment Opportunities in Competitive Environment"
-excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
-publishedDateTime: 2020-01-03T10:22:00Z
-sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
+excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
+publishedDateTime: 2020-01-08T05:50:00Z
+sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
 type: article
-quality: 50
+quality: 66
 heat: -1
 published: false
 
@@ -19,13 +19,13 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Online Translation Market - Investment Opportunities in Competitive Environment"
+    title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
 
 related:
   - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
-    excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
-    publishedDateTime: 2020-01-08T05:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -89,6 +76,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Online Translation Market - Investment Opportunities in Competitive Environment"
+    excerpt: "The report further predicts the size and valuation of the global market during the forecast period. Online translation refers to the machine translation which converts the one language into another. With over 6500 languages across the world, it's humanly impossible for an individual to have a sound understanding of many of them. Online ..."
+    publishedDateTime: 2020-01-03T10:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/online-translation-market---investment-opportunities-in-competitive-environment-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -133,6 +133,6 @@ related:
         width: 400
         height: 400
 
-secured: "A9d6mdj5nNWnyQ+iCUn1rUrbyTCYoBkAsABpDEfvQMEJS5pLNt+w8pNy2uDhxF440QDjSSTX71as+MM3yuguZwyYrImPaOGvH/w9oQ8jon0Pz1Zt5pBA4X7fWpm03yxj0HhrExbvPrScUcvYYTIoyv4TdVOfYJdIovTopg9rC+PuCjTLpcJc00t0k2TOWo+D+u5DtqK7t6ghcaQiOfiA3+DhcgdxxH3t/m+StmWR5xy5AMfaIp6Ml4k0M3u/fYd4fFdf9EUnEVb2V+fYzd4GcQ==;f4jqcifFZJ4gO4Zad/xHfg=="
+secured: "aJZOw2c8YNtcFu4N1sJuTvrcG7GtFWeIWFJ1AbyQFThjHPw+VpgffwSi9XnlTiPiOHnygPK9I6odCf/ysYK2q3D7BIquGEs2jHDkZlBB2cWQCh/wbNh+Y+omTP4LGsiAWlu824oN+bp4E/qX5TK+Qs/QJGyF/WqHi6jn8XDZ5CKsQ+JqdZmClgQocmDIlXHESh9ixdh0dn84aNgtMYOqU4XZ6BRa5TEFXUT3I6m6ApBwnAk46fA69fsACFUTbnbxv+THfciOEzNcfTOAa0NJDw==;Ts4n1cHy84nyzatwuKuk6Q=="
 ---
 

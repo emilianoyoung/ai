@@ -24,21 +24,19 @@ images:
     title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
 
 related:
-  - title: "Elon Musk: Underground Highway Using Self-Driving Vehicles May Be Ready in 2020"
-    excerpt: "LAS VEGAS (AP) — An underground transit system using self-driving vehicles underneath the Las Vegas Convention Center could be up and running next year, billionaire Elon Musk announced on social media late Friday. Musk tweeted that The Boring Company’s underground tunnel project in Las Vegas will be “hopefully fully operational” in 2020 ..."
-    publishedDateTime: 2019-12-30T16:04:00Z
-    sourceUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/
-    ampUrl: https://altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
-    cdnAmpUrl: https://altdriver-com.cdn.ampproject.org/c/s/altdriver.com/news/ap-elon-musk-las-vegas-transit/amp/
+  - title: "Self-driving car market 2018-2023 Size, Share, Growth, Recent Development, and Forecast"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-size-share-growth-recent-development-and-forecast-2020-01-08
     type: article
     provider:
-      name: altdriver.com
-      domain: altdriver.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
-        width: 700
-        height: 365
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "rj0j/e+klFgJcUn7VdKlao1ktta6Nj4pzVSrVdoL3qSd2sd9Y9XFR6r4ny86il+u4EyP6fOU1jrIvYPH1l5mWMFA7ozxftV9FtnZU1sJPYiontmxjprfqjQujqAvLwPcBDzA0ls7coCNXQRMwPXrA06Khs6Rac2FX7P6j3mJZx+3tTRXnEmh9m2Uo6Yu3L++1+9lcwEAGYSGQlmaj1XInachL9/NJZjQzSiUHeD9B41xXJt2z9plvcWzQM1sNeP8YJwlTAGU7NLoeDZbwtwrwA==;LrPOPgUSsj0UH+Y8sfX95Q=="
 ---

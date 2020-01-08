@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.15A20EF39F7593717A4D0F1018D21665
         width: 700
         height: 341
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
-    publishedDateTime: 2020-01-07T14:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-        width: 400
-        height: 145
   - title: "Lyft open sources Flyte tool for managing machine learning workflows"
     excerpt: "The tool is called Flyte, and is described by Lyft as a “structured and distributed platform for concurrent, scalable and maintainable machine learning workflows.” “With data now being a primary asset for companies, executing large-scale compute jobs is critical to the business, but problematic from an operational standpoint,” Lyft ..."
     publishedDateTime: 2020-01-08T01:15:00Z
@@ -72,6 +57,19 @@ related:
       - url: https://www.bing.com/th?id=ON.83B11F946AD3DF8FE40365B0E2513558
         width: 700
         height: 320
+  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
+    excerpt: "Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track, reproduce and collaborate on successful machine learning (ML) and deep learning (DL) experiments. Some of the main challenges Trains Agent is built to streamline include: Resource offloading Personalized ..."
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+        width: 700
+        height: 368
 
 secured: "yyXlUrrNkq0H4Y0pl2Ibr0onUWV26S5WcwM3L7R+fMADplgI59TR48m4kGWXPaPk4chPq3qleTiBW1YqmrHzm4yGwwEqDlNBbb2+jX7BLUmUmJ4R3EzOa01IA+O2Au8nhynylQP9tRn7gNqinbYt1EbjSB6vHUZ0DEeBviaN8u5ZeakE6fzftY1R6hvVXw4RHISg50w856wvAnGwL4D440TC8IkNnc4dDrOzxgXMHNgC6GggUFjf82NqACZmxZauqddg/2JDOlerr1yLwAbJPA==;PHQIqb+1+XleqK2lIohK/g=="
 ---

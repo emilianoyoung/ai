@@ -37,6 +37,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
+    excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
     excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
     publishedDateTime: 2019-12-31T04:34:00Z

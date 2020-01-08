@@ -163,6 +163,15 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 16
+  - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
+    excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
+    publishedDateTime: 2020-01-08T06:15:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "1TCBfEnCKxsnbnu3xiO+SyEZCLnSRoZT9/wj5h+PiMqlb2Vr/J2N80pNJAcnXPhGEm8LS7+HtJ0Wb/HsletqimuhAI6be8Tw8+I7gIYHzNs/K4nqa/mAFh9/0BazGJm05+0XrJYNNAKXvAHN821wQTmqdXVhe5T/HhJtFdM2zbn267CaWPx5MA+LD7XeQHjcCpdpGgxT6rRzCLLGsDwTU95jNcHmWMNw90TxADaJCTE2S/ZLMjEhodmKLlCecWqznt/hUgpVNCSLawZRL/LwOg==;Z82/BukrkkSdV65uf0MkRg=="
 ---

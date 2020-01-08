@@ -170,6 +170,15 @@ related:
       name: Warc
       domain: warc.com
     quality: 2
+  - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
+    excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
+    publishedDateTime: 2020-01-08T06:15:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "o+pxufvufOwLRNYeT5RxFo8SOuEz8wY3+WdKvUiBZq6GEbTSUbeEz6i2oRG2WOupanIzl90Fsy2gTwibB4LZEAQ5GKv90pkVFz9zMcQLE/pkrb/yGU9LxpQKYYM7lz4dTp1z266/IYz2ivjwp1GE0rgvLO3l+scLhJrTyEP5p4R15RmHPB1fEkqdDZ5yCZavrDW26SneKEcJGM8dvbiiRoFTB2cu4ZtV1NVgJQ6gJjkIPHHk9djk97QeaeFnE58ZCZKjA+Ow0WSJD0oj+y9m4A==;Hgv/DEMV2mJqENu+gMUFYQ=="
 ---

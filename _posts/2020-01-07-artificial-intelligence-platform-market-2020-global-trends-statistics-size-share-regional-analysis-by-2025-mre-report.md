@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence In Food and Beverages Market(2020-2027): Rapid Growth, Growth Drivers and Recent Challenges by Research Study"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027), owing to dynamic changes observed in purchasing pattern of consumers across the globe who are demanding faster services at reasonably low costs that can be affordable to the consumer and better ..."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market2020-2027-rapid-growth-growth-drivers-and-recent-challenges-by-research-study-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
     publishedDateTime: 2020-01-07T11:09:00Z

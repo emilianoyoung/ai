@@ -160,19 +160,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
-    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
-    publishedDateTime: 2019-12-19T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
     excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
     publishedDateTime: 2019-12-19T10:00:00Z

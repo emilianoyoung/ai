@@ -23,6 +23,6 @@ images:
     height: 630
     title: "Amazon Releases SageMaker Studio IDE for Machine Learning"
 
-secured: "HZ2LShPCGXkNBEoRlt/Yv3d51m3P/F0+zRMMdZFqwHJ8CfluvrnqLW5i2iZYjEYroY4Wgj3iSlA8s5lWP9KgEglHkZk8zYmTBhz09gyXpFDlnQlz6nETFMDTzmTThsTtzAgkiKmvWCFZFaGOPzoshf2yW166BBGukuny2wgJSjKMEmeECbcaFmPeL+lDUjgIwZe2O6xpwmF5o4uljSXVpIi25pe4l04Se+jap3oy8dXohI/sLpEDUoStCF8ey8aAzNnARUG4dFBTzyQxy7F3GA==;4wi0Irx12Q6kowGtMRijfQ=="
+secured: "wJBLVd/Df25NHzR7C62jbre89rbHMZPczSRpx9poNlmtB3vnSzg0kUPMiJ/XMpyA1d3ky5kLCUbb4897BfDE3l3jwWsJEEDr3IENinezWOL3XUll53+Dbgi4F+Y6kT3LW2BAdtiKxSDRlFGnncdbE4zDb1bjzqWgoqWXO0RxvRYtomcS1UDXesDyD9dIxrjA2jbjfHT3AJ/5WCvGOAdNUQd6pdmXG81m3pzcmIzw0RTZPgQnkDWqdDc8r/Z2rOzRf+7olDQ+YSi0rXCnI88xWg==;g0xWJbUIopsaPb7YSOJRlw=="
 ---
 

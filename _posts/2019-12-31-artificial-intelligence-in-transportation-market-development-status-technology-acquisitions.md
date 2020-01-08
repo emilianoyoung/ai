@@ -41,6 +41,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
+    excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Products Market Evolving Technology Analysis and Future Outlook 2019 to 2025"
     excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- MarketInsightsReports has published a report entitled Global Artificial Intelligence Products Market Research Report 2019 that is a detailed observation of several aspects, including the rate of growth, technological advances and various strategies implemented by the main current market players. The report ..."
     publishedDateTime: 2019-12-31T10:59:00Z

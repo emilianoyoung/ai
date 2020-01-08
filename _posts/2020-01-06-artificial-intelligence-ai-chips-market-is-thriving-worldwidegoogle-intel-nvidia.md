@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T20:57:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
 type: article
 quality: 94
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -171,6 +171,15 @@ related:
       name: Warc
       domain: warc.com
     quality: 2
+  - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
+    excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
+    publishedDateTime: 2020-01-08T06:15:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "d4YtLu/vg/d6dRwPRTkdoxZRm80NdliMnsquXsV6ms/ujFuQ37FhHfw+0+qp/GuS3ssH6gnEQwN93vmBEi+dqwEjqk1+I82tWyQuRYNWhY+BObeohi3UGYRklaqZdtJGZxAF+qk+0Hy2265R0cXs+uTkzvddu6J1ZHUFCSBqJd0gGTBSxnOn60YrQE+RFpaXahQ7b7jCiGCSdzCqpawNLQF4ACxwFemBK1PV4fACr9unSMQumDtwVS1txoYeqAvIPkGTIsT+DlkyDAyXZhp+YA==;J3X87mkypukIYJPtpb1Q6g=="
 ---

@@ -5,7 +5,7 @@ excerpt: "The range of applications made possible with the cost-effective i.MX 8
 publishedDateTime: 2020-01-06T17:03:00Z
 sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966719/0/en/NXP-Debuts-i-MX-Applications-Processor-with-Dedicated-Neural-Processing-Unit-for-Advanced-Machine-Learning-at-the-Edge.html
 type: article
-quality: 0
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: https://www.bing.com/th?id=ON.FF66EB29416DCB31C9FEA4D8EA0D30CC

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
-excerpt: "This takes time, and more often than not, time is of the essence when it comes to cancer. Computer vision is everywhere. It’s an integral part of AI-powered smartphone cameras that can recognize and adapt to photographed objects and sensors that help ..."
+excerpt: "This takes time, and more often than not, time is of the essence when it comes to cancer. Computer vision is everywhere. It’s an integral part of AI-powered smartphone cameras that can recognize and adapt to photographed objects and sensors that help autonomous cars and robots navigate their environment. Smart cities use it to monitor traffic ..."
 publishedDateTime: 2019-12-16T10:10:00Z
 sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
 ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
@@ -46,6 +46,6 @@ related:
         width: 700
         height: 525
 
-secured: "3kH4QyP4GhY5EhtFVvQCYrjmIsBxHQVlkuMsuCZn2eHbHu8Y7mD3nMfqNMTY0Vw0d6UfdijdwmhRZOcbkd5CgPLt68/50w7x5t7gXyvJD8UOCaQ+swXBUUPQb3BVvP95r+EiVtoWE5Mcpq+dGWhk3ULJN9C8qY37htKM6sG5fs0WfnAD70uxq5Kg04J5PgdvtqRPbqctdDrQkIbv1ap/OWggwU7BJqcBgR9LPY7LyRC6AB8bHd8Xr09MCfWfov2ux0MgKHv6AmwKMpKmWYvHhg==;T1HOoKEdM1QuBvL1I8z8Rw=="
+secured: "4uz3DYwcOWOSwW22+WoSUmpy7mIidPwoBIB92Frko71vvT69MVaJWMWsFOOP63SxmBnzXpmXZ4OcJbcit1/2QCnA7hjpdnuLxEK2sUKkH0bo8Y2c2jZWi1tzSDpKFDs8AWSocPPE58CfQOYwN8verE9rOLOcvhLPk/m2u5DY+r8tgKRSFuzoVcgj8WY+hBRo4LI+6FiuR+3vnr63pxdcH98FgL7gN/KV+mZZF0CZTFlZZk2LClT8V9dMLQscvxdtuZcy02wUqyIBBshvrIoKqw==;3gp2hvUu4hrHzsZ9C5YR1Q=="
 ---
 

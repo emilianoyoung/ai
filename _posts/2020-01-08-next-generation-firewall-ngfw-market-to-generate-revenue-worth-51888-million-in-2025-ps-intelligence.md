@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
-excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
-publishedDateTime: 2020-01-07T00:24:00Z
-sourceUrl: https://www.autonews.com/ces/intel-ceo-emphasizes-innovation-through-intelligence-ces
+title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
+excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
+publishedDateTime: 2020-01-08T06:15:00Z
+sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
 type: article
-quality: 22
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
-    width: 700
-    height: 525
-    title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -145,6 +139,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 37
+  - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
+    excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
+    publishedDateTime: 2020-01-07T00:24:00Z
+    sourceUrl: https://www.autonews.com/ces/intel-ceo-emphasizes-innovation-through-intelligence-ces
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
+        width: 700
+        height: 525
   - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
     excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
     publishedDateTime: 2020-01-08T00:21:00Z
@@ -165,16 +172,7 @@ related:
       name: Warc
       domain: warc.com
     quality: 2
-  - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
-    excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
-    publishedDateTime: 2020-01-08T06:15:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
 
-secured: "6gr1tloq+HvFZr4szJTItav464z8QJPLY52If9XmkM2rPim7i6sA+MQubUTvjtwYGJNNVrHDmJYmVi3aThZDAHhoCKLNVvhFi8lbmlVZZRWb5x0bXvdBu8iY7iss3UGDARrc1Y+8l8irrvYyLLriT5FW3a+/lsBNF1elIDex4q7bewQetRdf9nJl8kQ9bdg5BWseM8HeSV8wNdg0qVlx1clAVBi5r4J8PmBEWgORvejMusJbubbyqSU++59ah51+e9o0j/iaKDoQMTvBYCW9oA==;wnHHHiprvsBIDljQfqM2zg=="
+secured: "nE0H3Z6+NkOepivLMfL/PLjYCrSTugBwCrh0dFlKPQFA/Wt5h+r7UdZDSdJZIpZ0nPqdCbpKfVDOHGEX3J8NrVv7WaJToN0ioccL8iDbPhg+ExECRtipmhTSS8tAviQ+RcyVe9cbiik4kWBS0abw4eWwiINEmPqmhbzdJTWyDZuJ0SLRrpV48GzcVWaHTfsMfTJnyPdUt1S3xjHmttk/wEaJsWk0e7Cdc68UhPpf9WkW2Fp0F85WGVHNEVHD4IRQooPFiAlquTaHXYtKFTg7ow==;voSDzLG7CbG5TBdXR2u1ng=="
 ---
 

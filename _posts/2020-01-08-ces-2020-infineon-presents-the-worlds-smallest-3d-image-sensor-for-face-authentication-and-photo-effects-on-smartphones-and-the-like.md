@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Challenging the barriers to High Performance Computing in the Cloud"
-excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
-publishedDateTime: 2020-01-07T21:03:00Z
-sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
+title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
+excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
+publishedDateTime: 2020-01-08T06:50:00Z
+sourceUrl: https://finance.yahoo.com/news/ces-2020-infineon-presents-worlds-063300761.html
 type: article
-quality: 24
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - AWS AI
+  - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
-    width: 700
-    height: 612
-    title: "Challenging the barriers to High Performance Computing in the Cloud"
+  - url: https://www.bing.com/th?id=ON.6A8765980AD8F9CF4DF9D21AD394AA1E
+    width: 600
+    height: 433
+    title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
 
 related:
   - title: "Digitally Transforming The Petrol Retail Industry Through AI And Smart IoT"
@@ -54,20 +54,20 @@ related:
       - url: https://www.bing.com/th?id=ON.B117FBA51EF921F1BAECED5D8455AC64
         width: 700
         height: 466
-  - title: "CES 2020: Infineon presents the world's smallest 3D image sensor for face authentication and photo effects on smartphones and the like"
-    excerpt: "When applied in payment transactions using mobile phones or devices that need no bank details, bank cards or cashiers, the payment is carried out via facial recognition. This requires an extremely reliable and secure image and return transmission of the high-resolution 3D image data. The same applies to securely unlocking devices with a 3D image."
-    publishedDateTime: 2020-01-08T06:50:00Z
-    sourceUrl: https://finance.yahoo.com/news/ces-2020-infineon-presents-worlds-063300761.html
+  - title: "Challenging the barriers to High Performance Computing in the Cloud"
+    excerpt: "Access to new and evolving services and applications make it easy to evolve and modernize workflows, like incorporating Artificial Intelligence (AI) with HPC ... innovation without constraints by delivering faster results and improved flexibility. AWS gives organizations the power to create HPC clusters on demand, instead of waiting for ..."
+    publishedDateTime: 2020-01-07T21:03:00Z
+    sourceUrl: https://www.hpcwire.com/solution_content/aws/manufacturing-engineering-aws/challenging-the-barriers-to-high-performance-computing-in-the-cloud/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.6A8765980AD8F9CF4DF9D21AD394AA1E
-        width: 600
-        height: 433
+      - url: https://www.bing.com/th?id=ON.9EDA17F4BEC86F75D9BA261D6BF7E3F3
+        width: 700
+        height: 612
 
-secured: "NtjadULeQf8bY2T8fAjKwCcxqDO/wLJwpr6u6RRntiSsw1k4bHIn6pYBnGG7FHOOWErOjHGARoWJqquYrmre+ZHzuv9qzoVCzhZeZ2+WJme7jZyPRCtM15N3sdC2vFA4eUrRdWny0u6IdIEZrz7JhgOJ785hkCy3EnOm2Wx/UDF1cz118TQ8Jldc5ApT3S3KWaITShmQtzuVZMpHQdUeHSncJl9gvZf5EZBUvrWgeHRVl1dKYpBHjcCNjcpwzD7jF2EPo2m9MmNH3e7m6/5yvA==;7k4zZCu3f9a/iIMuY13Gyg=="
+secured: "kWRuWDT5ZpbbaOKUH2N1W3Q/vL98RZz+oqH9SqzCb1mZtNuvnhGveKBthBreff3unsmOp8Mh0PYG/kc0IVbIsPOcroiTquzsfEMlLz/6rltS2KMCx3VtADOoXyXM+qBZ21KrA3J6c4sjBmXdozlrmB3ek7TixXY8eHUfs9f9Im06UJOYu6yo6z9ZgZLFChKXbn/At/tHtYKBuk6SVVnC4F9FanyB9RGauZ2tSFHC8PZDwfUKEE4rJ4/CAH9+loTACmnyrTL4i18sqnieIWJNZQ==;pP9lGcX3tlHUErAY61D6Mw=="
 ---
 

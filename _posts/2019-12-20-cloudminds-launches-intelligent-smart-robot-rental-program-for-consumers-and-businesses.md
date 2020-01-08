@@ -37,19 +37,6 @@ related:
       - url: https://www.vendingtimes.com/Uploads/Public/Images/Articles/201912/12202019-CloudMinds%20Launches%20Intelligent%20Smart%20Robot%20Rental%20Program.jpg
         width: 1440
         height: 1080
-  - title: "CloudMinds Launches Intelligent Smart Robot Rental Program for Consumers and Businesses"
-    excerpt: "CloudMinds Technology Inc. - a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter for the benefit of all humanity - has launched an innovative Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. From natural language processing (NLP ..."
-    publishedDateTime: 2019-12-19T05:58:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-cloudminds-launches-intelligent-smart-robot-rental-program-consumers-/2019/12/19/9072229.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: https://mms.businesswire.com/media/20191218005837/en/764018/4/CloudMinds_Smart_Robot_Rental_Program_Cloud_Pepper_and_XR-1.jpg
-        width: 480
-        height: 360
   - title: "CloudMinds Launches Intelligent Smart Robot Rental Program, With Vending Robot On The Horizon"
     excerpt: "SANTA CLARA, CA -- CloudMinds Technology Inc. -- a global pioneer in cloud artificial intelligence architecture that makes robots and businesses smarter -- has launched a Smart Robot rental program that provides consumers and businesses easy access to intelligent cloud service robots. The Santa Clara, CA-based company also developed and markets ..."
     publishedDateTime: 2019-12-20T12:26:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-08T03:13:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence In Food and Beverages Market(2020-2027): Rapid Growth, Growth Drivers and Recent Challenges by Research Study"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027), owing to dynamic changes observed in purchasing pattern of consumers across the globe who are demanding faster services at reasonably low costs that can be affordable to the consumer and better ..."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market2020-2027-rapid-growth-growth-drivers-and-recent-challenges-by-research-study-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
