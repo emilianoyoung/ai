@@ -31,6 +31,21 @@ images:
     title: "Qualcomm Officially Enters Self-Driving Market With Snapdragon Ride Platform And Extends Partnership With GM To Include ADAS"
 
 related:
+  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
+    publishedDateTime: 2020-01-08T00:46:00Z
+    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
+    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
+        width: 2048
+        height: 1152
   - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
     excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
     publishedDateTime: 2020-01-07T06:11:00Z

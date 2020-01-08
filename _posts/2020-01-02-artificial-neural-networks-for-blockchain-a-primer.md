@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neu
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,19 @@ related:
       - url: https://www.news-medical.net/image.axd?picture=2014%2f7%2fStroke-620x480.jpg
         width: 620
         height: 480
+  - title: "Study focuses on artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain ..."
+    publishedDateTime: 2020-01-08T00:04:00Z
+    sourceUrl: https://in.news.yahoo.com/study-focuses-artificial-neural-connection-allows-cortical-control-170940659.html
+    type: article
+    provider:
+      name: Yahoo! India News
+      domain: yahoo.com
+    quality: 10
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "np5ASn1vd1Ra/pkzeD79+l62WCf8+3SeV+mV3cslWTASNDDHxKu19/M3DW623I1b9H3UiSY5GkzCWgd8vTtrq4R0UB/Z6wjDheMdZ0/kW1S+AYeuzreoID8vtK5Mm9KSUgMrK+goEPMsOXzU6iqCWEraBOoyFxRYLIBoVPxVevvzXdsw5TC4M69we0Lk0nCNPK+gvDCITxsZ8apal7YYGXMzMa/0H1oUu7af7xM4H+QzEl2olbcylBJJrqMDl7x2U/psVH4jn+Tkj++R/TzrBA==;bQJORVSvtlb0zfL7+oGJRQ=="
 ---

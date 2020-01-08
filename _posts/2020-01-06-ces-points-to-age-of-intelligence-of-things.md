@@ -141,6 +141,17 @@ related:
       - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
         width: 700
         height: 525
+  - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
+    excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
+    publishedDateTime: 2020-01-08T00:21:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-neuromorphic-chips-market-outlook-194500633.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
 
 secured: "1TCBfEnCKxsnbnu3xiO+SyEZCLnSRoZT9/wj5h+PiMqlb2Vr/J2N80pNJAcnXPhGEm8LS7+HtJ0Wb/HsletqimuhAI6be8Tw8+I7gIYHzNs/K4nqa/mAFh9/0BazGJm05+0XrJYNNAKXvAHN821wQTmqdXVhe5T/HhJtFdM2zbn267CaWPx5MA+LD7XeQHjcCpdpGgxT6rRzCLLGsDwTU95jNcHmWMNw90TxADaJCTE2S/ZLMjEhodmKLlCecWqznt/hUgpVNCSLawZRL/LwOg==;Z82/BukrkkSdV65uf0MkRg=="
 ---

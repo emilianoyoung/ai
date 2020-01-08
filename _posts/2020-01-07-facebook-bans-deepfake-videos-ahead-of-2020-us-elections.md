@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.06683A690FCD6DC844296A06F69046E8
         width: 700
         height: 490
+  - title: "Facebook to ban deepfake videos created with artificial intelligence technology"
+    excerpt: "Created by artificial intelligence or machine learning, deepfakes combine or replace content to create images that can be almost impossible to tell are not authentic. “While these videos are still rare on the internet, they present a significant challenge for our industry and society as their use increases,” Facebook's vice president of ..."
+    publishedDateTime: 2020-01-08T00:56:00Z
+    sourceUrl: https://www.tvnz.co.nz/one-news/world/facebook-ban-deepfake-videos-created-artificial-intelligence-technology
+    ampUrl: https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    cdnAmpUrl: https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.39CBCFFEC564E6B86AEAA1E84123493B
+        width: 700
+        height: 393
   - title: "Facebook moves to ban deepfakes"
     excerpt: "Facebook appears to be of the same mind as the social network has announced it ... mislead someone into thinking that a subject of the video said words that they did not actually say It is the product of artificial intelligence or machine learning that merges, replaces or superimposes content onto a video, making it appear to be authentic."
     publishedDateTime: 2020-01-07T07:00:00Z
@@ -133,6 +148,15 @@ related:
     provider:
       name: Hargreaves Lansdown
       domain: hl.co.uk
+    quality: 4
+  - title: "Facebook Bans ‘Deepfake’ Videos, Lets ‘Cheapfakes’ Slide"
+    excerpt: "In response to a growing problem on the Internet in which videos are being manipulated to distort reality — sometimes for political purposes — Facebook ... research and open source tools to detect deepfakes. This project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI ..."
+    publishedDateTime: 2020-01-08T00:48:00Z
+    sourceUrl: https://www.tvweek.com/tvbizwire/2020/01/facebook-bans-deepfake-videos-lets-cheapfakes-slide/
+    type: article
+    provider:
+      name: TVWeek
+      domain: tvweek.com
     quality: 4
 
 secured: "/B37zgEJG/6nx/9RAWnJVfTGNCzRyp7pD58uo+8SBcffCVGbgngP1WFUp6GBnSG+VtE1SHZppf3fC5oUqN7+hUZM/dkUK6CH6knlQ14D0Ifqb5aKLt/+2zjOJxOVTscsaQZbHibLyQ3/yv1dy4DujQinnZZGlCJikDD0pNv3PnhFUfqaojJXrubjlk4i6JE6g5yF9sO/qlMis3boi9MmDhvCM85Y0jF0phzsmAu9CyBaS/me835l1lKKgQQD5R8eN2MV/yAHyLREbZ4AJ6d1vQ==;73VTDqGrkd4JBzFuWMCrSQ=="

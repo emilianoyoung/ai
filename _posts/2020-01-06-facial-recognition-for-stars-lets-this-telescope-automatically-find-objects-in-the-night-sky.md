@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
-excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Photo: Celestron Image recognition is a technology that already powers multi-million dollar research observatories using telescopes that are able to ..."
-publishedDateTime: 2020-01-06T13:16:00Z
-sourceUrl: https://www.gizmodo.com.au/2020/01/facial-recognition-for-stars-lets-this-telescope-automatically-find-objects-in-the-night-sky/
+title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
+excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Steven Bellavia couldn’t find the astrophotography setup he wanted, so he built his own. The… Image recognition is a technology that already ..."
+publishedDateTime: 2020-01-06T13:05:00Z
+sourceUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300
+ampUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
 type: article
-quality: 28
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: /assets/images/organizations/gizmodo.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4DC723B68E02D8837120934BBC84B297
+  - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
     width: 700
     height: 393
-    title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
+    title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
 
 related:
   - title: "NY School Starts Using Facial Recognition Tech to Look for Threats, Upsetting Some"
@@ -220,6 +226,17 @@ related:
       - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
         width: 700
         height: 401
+  - title: "Advocacy Group Sues MTA For Facial Recognition Records"
+    excerpt: "Law360 (January 7, 2020, 7:03 PM EST) -- A privacy advocacy group sued New York's Metropolitan Transportation Authority for stonewalling a request for records concerning its alleged use of facial recognition, after a traveler spotted what appeared to be a facial recognition camera in a Times Square subway station. The Surveillance Technology ..."
+    publishedDateTime: 2020-01-08T00:09:00Z
+    sourceUrl: https://www.law360.com/articles/1232162/advocacy-group-sues-mta-for-facial-recognition-records
+    ampUrl: https://www.law360.com/amp/articles/1232162
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232162
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z
@@ -269,6 +286,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "jnWClYTax6LOA8etYJef5uPhQC+DSqML9qtKL9qzF9AHLglHi/UzulOYJUH64VyPaYt4ittCMKoJxtb8bq4t8a96d6PCYvENh3lvqs64dJjymimCQE0VFfQiRbo+QoP6dPa5OlB8nPVgqE9ndSc5Tw8Tghd2MwuaUxndIbg5+4JcBaQQsvLeqky4x/eYp81gHORQ8/0HONYMBTRMHqrkyQOnH9hu4wswsB2X377yzvfLdh516waCSAb6mmjy3R5GmVZCv0+JdG324kFRVVatxg==;o2C8vI15NhUV8YnIP12MuQ=="
+secured: "MX9QEIzrNGlgsF/MV3FzSBfVdmNbABN54TetsEEGftlOik1DumBkdFLTAp/7Be8NntoU2qDj8W6SkMM9YrUDwJ0LnDFIhe8R9LZnPsYjbHboCheReFICQMxmswZ83segDidadwByXPmVcvESn4RuWNMiFpsc2ssSIUfAgKZV6GBk9XPJQC6h62RKvu5Nyah6cPxkYxYpMVWx7yeYdRApCp2vW3+RuI7jO8uDZp4TDKWRRdby3DB5zRyHoYiFDBUW8R67fEeFHThxAf96Jj1aOQ==;o875In4UIwqpkildAl9j6w=="
 ---
 

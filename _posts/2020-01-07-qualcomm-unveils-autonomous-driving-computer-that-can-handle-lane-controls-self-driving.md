@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
         width: 600
         height: 315
+  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
+    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
+    publishedDateTime: 2020-01-08T00:46:00Z
+    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
+    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 44
+    images:
+      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
+        width: 2048
+        height: 1152
   - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
     excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
     publishedDateTime: 2020-01-07T06:29:00Z

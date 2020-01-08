@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
-    publishedDateTime: 2020-01-07T16:42:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
-        width: 700
-        height: 525
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -90,19 +75,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
-  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
-    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
-    publishedDateTime: 2020-01-07T19:00:00Z
-    sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
-    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
-    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+  - title: "Watch Mobileye’s self-driving car drive through Jerusalem using only cameras"
+    excerpt: "When it comes to self-driving cars, the general axiom for sensors is “the more the merrier.” The safest systems are the ones that use a multiplicity of sensors, such as cameras, radar, ultrasonic, and LIDAR. Having these redundant sensors is the whole point: if one fails, the remaining sensor suite can help navigate the car to safety."
+    publishedDateTime: 2020-01-07T22:02:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
     type: article
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 74
+    quality: 71
     images:
-      - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
+      - url: https://www.bing.com/th?id=ON.94390E19600FD1F646169E01E73CC837
         width: 700
         height: 366
   - title: "Driverless air taxis will come before self-driving cars, says Uber Air partner"
@@ -191,6 +176,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
+    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car."
+    publishedDateTime: 2020-01-07T19:14:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/lidar-sensors-aren-e2-80-99t-just-for-self-driving-cars-anymore/ar-BBYIhEc
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A38C0E69EA583D98CEED2C402845336B
+        width: 700
+        height: 367
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z
@@ -217,19 +215,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
         width: 700
         height: 386
-  - title: "Watch Mobileye’s self-driving car drive through Jerusalem using only cameras"
-    excerpt: "When it comes to self-driving cars, the general axiom for sensors is “the more the merrier.” The safest systems are the ones that use a multiplicity of sensors, such as cameras, radar, ultrasonic, and LIDAR. Having these redundant sensors is the whole point: if one fails, the remaining sensor suite can help navigate the car to safety."
-    publishedDateTime: 2020-01-07T22:02:24Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/watch-mobileye-e2-80-99s-self-driving-car-drive-through-jerusalem-using-only-cameras/ar-BBYIuDT
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.94390E19600FD1F646169E01E73CC837
-        width: 700
-        height: 366
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

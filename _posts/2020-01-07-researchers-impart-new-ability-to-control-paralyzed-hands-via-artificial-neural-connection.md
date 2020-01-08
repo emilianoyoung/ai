@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.295886AD34BC8493ECF12C621151B63E
         width: 700
         height: 421
+  - title: "Study focuses on artificial neural connection allows a new cortical site to control hand movements"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain ..."
+    publishedDateTime: 2020-01-08T00:04:00Z
+    sourceUrl: https://in.news.yahoo.com/study-focuses-artificial-neural-connection-allows-cortical-control-170940659.html
+    type: article
+    provider:
+      name: Yahoo! India News
+      domain: yahoo.com
+    quality: 10
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "iJUIago13LhLicH5NqZ7gGtVFZb8lThq1eBELhW7/riQykcTFU2jeO4g4BCUJlnklaA5nB0GaIhSmYPVhEaEpHQMddnXp9ihvCAI00XWhXJz8fY70n0ll2yq7WLtzO4krLQcqTUeCrfxa+4b0GrZBn1yrpzk78WmC3KG8S+iOQ8LpqrvZAZuZsjv0VVazeNnJXcnQ9CY0u7W95bEGqOqGUo5BFsunW5LGJGgsNx3UZduOBP/nfISBieaDkW5BP/i071v4Z/RdlFmlcmoffXesQ==;KgYBlxVoZkzNzT2rINkTVg=="
 ---

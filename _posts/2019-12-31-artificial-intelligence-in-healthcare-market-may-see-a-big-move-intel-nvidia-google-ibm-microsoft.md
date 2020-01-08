@@ -139,6 +139,17 @@ related:
       - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
         width: 700
         height: 525
+  - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
+    excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
+    publishedDateTime: 2020-01-08T00:21:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-neuromorphic-chips-market-outlook-194500633.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
   - title: "CES points to age of “Intelligence of Things”"
     excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
     publishedDateTime: 2020-01-06T07:04:00Z

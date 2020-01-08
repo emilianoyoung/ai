@@ -65,6 +65,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BB67FFF39EEB9CF42BA57B614F8764BD
         width: 700
         height: 525
+  - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects in the Night Sky"
+    excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Steven Bellavia couldn’t find the astrophotography setup he wanted, so he built his own. The… Image recognition is a technology that already ..."
+    publishedDateTime: 2020-01-06T13:05:00Z
+    sourceUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300
+    ampUrl: https://gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facial-recognition-for-stars-lets-this-telescope-automa-1840776300/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 78
+    images:
+      - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
+        width: 700
+        height: 393
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
@@ -205,6 +220,17 @@ related:
       - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
         width: 700
         height: 401
+  - title: "Advocacy Group Sues MTA For Facial Recognition Records"
+    excerpt: "Law360 (January 7, 2020, 7:03 PM EST) -- A privacy advocacy group sued New York's Metropolitan Transportation Authority for stonewalling a request for records concerning its alleged use of facial recognition, after a traveler spotted what appeared to be a facial recognition camera in a Times Square subway station. The Surveillance Technology ..."
+    publishedDateTime: 2020-01-08T00:09:00Z
+    sourceUrl: https://www.law360.com/articles/1232162/advocacy-group-sues-mta-for-facial-recognition-records
+    ampUrl: https://www.law360.com/amp/articles/1232162
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232162
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."
     publishedDateTime: 2020-01-03T16:49:00Z
@@ -218,19 +244,6 @@ related:
       - url: https://www.bing.com/th?id=ON.071283451E65709FC83665C0C9420BAC
         width: 640
         height: 260
-  - title: "Facial Recognition For Stars Lets This Telescope Automatically Find Objects In The Night Sky"
-    excerpt: "Celestron’s new StarSense Explorer promises to make star spotting impossibly easy using your smartphone’s camera and an image recognition app to know exactly what the telescope is looking at. Photo: Celestron Image recognition is a technology that already powers multi-million dollar research observatories using telescopes that are able to ..."
-    publishedDateTime: 2020-01-06T13:16:00Z
-    sourceUrl: https://www.gizmodo.com.au/2020/01/facial-recognition-for-stars-lets-this-telescope-automatically-find-objects-in-the-night-sky/
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 28
-    images:
-      - url: https://www.bing.com/th?id=ON.4DC723B68E02D8837120934BBC84B297
-        width: 700
-        height: 393
   - title: "N.Y. school district to push forward with facial recognition software despite privacy concerns"
     excerpt: "A New York school district has announced it will begin using controversial facial recognition software for school safety purposes, over the strenuous objections of civil liberties advocates. Beginning this month, the Lockport School District, near the ..."
     publishedDateTime: 2020-01-06T21:00:00Z

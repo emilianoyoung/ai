@@ -2,31 +2,25 @@
 category: news
 title: "Watch Adobe show off its impressive AI-powered vertical video tech"
 excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
-publishedDateTime: 2020-01-07T09:16:00Z
-sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
-ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+publishedDateTime: 2020-01-07T10:16:00Z
+sourceUrl: https://news.yahoo.com/2020-01-07-watch-adobe-intel-press-ces.html
 type: article
-quality: 89
-heat: 101
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.1BD6A0FE9119BCC2512B0EDD502357CD
+  - url: https://www.bing.com/th?id=ON.411A92D3635747EEB70B0DC048B6C009
     width: 700
-    height: 367
+    height: 411
     title: "Watch Adobe show off its impressive AI-powered vertical video tech"
 
 related:
@@ -44,6 +38,6 @@ related:
         width: 700
         height: 367
 
-secured: "DJJYtoKe8snhOG68BoDmBgWvKiNQgYfOBtN47PLzkCsCJWw3PU9LQvx7k+zXN7Vd3YOT0ziW13QigZ6fULD57fko2BFxKc7zEkdLE/ENHJ70dvzz17MV5KuiWZY6vgpRlCRrfGS+rvYQUTxmV3x92nV8jlbHhtV7Zi+5DQDbbeqAVMEldLfvo7w0Jt1nU1ic5J5hkjuzkNbT+taMY6/xpbficA1dUyA+6PYfzDWNCMlWyDaqQBZrc0S3qNlvlSWODNFDu5wbLF4tgQlx8HkaWw==;fmnpahfV2sUbnQpo3vcHHg=="
+secured: "Re0KVR7d+CTSZeqJ6zj9uPUBG+Duga2RZxEo+7iyTdvDb8Of0yZvKL7Sh4EHveIMb+3R5noz4TfhvuYuWXLtKcZ4wPbhcFldocXxjDX0cMmbUYZJljWhkMX+oTlreXe0oGgo90e5ocMa88bET+qKRnKCw4xxmBpl79ll+BJus1Bph9U8Z7nyuhK6e/4jm9FwgZuvi2sWOBgmIm5rtbSg7fMfrZnsZG67rO37DQwwdJSkAQydZLBpqxWKhCPthNxQQE2eGJFG979M1KR2eTt6Kw==;h0KrrWqYAJg5pK7+i9xlvQ=="
 ---
 
