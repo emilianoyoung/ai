@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Global Artificial Neural Network Market Analysis, Trends & Outlook During the Forecast Period, 2018-2028"
-excerpt: "Dublin, Dec 18, 2019 (GLOBE NEWSWIRE via COMTEX) -- Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 ..."
+excerpt: "Dublin, Dec. 18, 2019 (GLOBE NEWSWIRE) -- The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forcast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028."
 publishedDateTime: 2019-12-18T16:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/global-artificial-neural-network-market-analysis-trends-outlook-during-the-forecast-period-2018-2028-2019-12-18
 type: article
@@ -117,19 +117,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Intelligent Virtual Assistant Market Research Technology Outlook 2019-2025"
-    excerpt: "Top Companies in the Global Intelligent Virtual Assistant Market: Microsoft, Nuance, Samsung Electronics, Alphabet, Apple, Amazon, IBM, Baidu, Blackberry, Inbenta Technologies, Facebook, Cognitive Code, Artificial Solutions, Unified Computer Intelligence, Mycroft Ai. Scope Of ReportAn ... and many other market research tools have been used ..."
-    publishedDateTime: 2019-12-18T18:45:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/intelligent-virtual-assistant-market-research-technology-outlook-2019-2025-2019-12-18
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Diabetes Management Market Research, Developments and Precise Outlook 2019-2026"
     excerpt: "Dec 26, 2019 (Market Insight Reports via COMTEX) -- The Report titled \"Artificial Intelligence in Diabetes Management Market\" has recently added by Verified Market Reports to get a stronger and effective business outlook. The report on Artificial Intelligence in Diabetes Management Market delivers executive summary along with data analysis of ..."
     publishedDateTime: 2019-12-27T03:02:00Z
@@ -191,32 +178,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
-  - title: "Self-Driving Car Market Size, Share 2020|Global Industry Analysis and Forecast (2020-2023) by Growth, Application and Region"
-    excerpt: "Dec 19, 2019 (The Expresswire) -- Report on \"Self-Driving Car Market\" (2020) discusses the impact of various attributes influencing the market growth and drivers, further sheds light on market overview, key manufacturers, strategic adopted by them ..."
-    publishedDateTime: 2019-12-19T05:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-size-share-2020global-industry-analysis-and-forecast-2020-2023-by-growth-application-and-region-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Analysis, Size, Share, Growth, Trends and Forecast to 2020"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market. The U.S. alone commands 36% of the global market, making it the world's largest market. According to HSRC's ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-analysis-size-share-growth-trends-and-forecast-to-2020-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
     publishedDateTime: 2019-12-20T16:02:00Z
@@ -278,6 +239,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "88Ogx0xE/4/9csYeECvDxsq+cUvXcW9F09hXHdwZyvblq0v4OgNSMviwx8yB/nmXNYf2mRJFnqh/7QE2ioIKdSpSRCi9GUiM6YMtn3brFl2eHhltgFcFUrxEO1OxCe9R8v+AE4NlxW5RZ0kZOGaV+/bVa5CG9YmWvU/ydfgPYMSmDy9GpSiBlCh0a+lle95SF2rfFEyjXDw33FE9rW49PO06A1vVLmNMAxy174rWtBGTExHIFKXYPuvDgv9JBCQDT+Urgo1ZbDQwZbHjJO9VJA==;dTTi3XoJidG904t61ZG0zQ=="
+secured: "1n2bhC2v7HO1T29Rx/zZeSzRz+OdqLHj1FGZDe/Ci7BObuoDTexU2fxFyR3fmbxsfHsl98Acf59poE2yLHLK7OgW0VgX5aW/FupCOt3t2Sxow0RAftYoOlSaB6kRhZ4woHamR1IN/bagJQa4w3XdqlxCO+zTr2bExfWKHFGbaM9AD+WEkA6sr5NzXajimIOq9ZTTEX++xYJ3axXXkaGfvncVdYB42A98hGdNeEiStMl1xPUtm0wQVnKDXi+gvYViqugWxkOU3EqF/s97/Nkftg==;S4sQwrmdafxetGcSZ5I7lA=="
 ---
 

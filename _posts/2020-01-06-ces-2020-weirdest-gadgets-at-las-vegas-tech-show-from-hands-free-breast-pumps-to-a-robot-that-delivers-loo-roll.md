@@ -26,21 +26,21 @@ images:
     title: "CES 2020 – Weirdest gadgets at Las Vegas tech show from hands-free breast pumps to a robot that delivers loo roll"
 
 related:
-  - title: "CES Gadget Show: Toilet paper robot and tracking the elderly"
-    excerpt: "The robot, around 6-inches tall, has the face of a bear — like the cartoon ones ... The annual showcase is where big companies and startups unveil and promote their latest gadgets, many of them infused with microphones, cameras and artificial intelligence. Though weighted toward the consumer market, much of what’s on display may also ..."
-    publishedDateTime: 2020-01-06T20:36:00Z
-    sourceUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/
-    ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
-    cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
+  - title: "US Cities Are Losing Jobs To Robots"
+    excerpt: "For example, cities in California, home to Silicon Valley, have the highest robot intensities. Robotic use is so hugely popular in California that an entire farm controlled and run by artificial intelligence was set up in 2018. Named the Iron Ox, it is now even selling produce that comes to you from robot farmers! The table below ranks US ..."
+    publishedDateTime: 2020-01-07T03:44:00Z
+    sourceUrl: https://www.worldatlas.com/news/us-cities-that-are-losing-jobs-to-robotic-automation.html
+    ampUrl: https://www.worldatlas.com/amp/news/us-cities-that-are-losing-jobs-to-robotic-automation.html
+    cdnAmpUrl: https://www-worldatlas-com.cdn.ampproject.org/c/s/www.worldatlas.com/amp/news/us-cities-that-are-losing-jobs-to-robotic-automation.html
     type: article
     provider:
-      name: TwinCities.com
-      domain: twincities.com
+      name: WorldAtlas
+      domain: worldatlas.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.7735648E75DAA46E1E33E1F0DFAA3C2D
+      - url: https://www.bing.com/th?id=ON.CB0398C2711C3C9EE6659DD2D7BA220E
         width: 700
-        height: 468
+        height: 408
   - title: "A Café In Tokyo Is Holding Weekly Play Dates And Birthday Parties For Robot Dogs"
     excerpt: "It seems the Aibo can provide companionship and joy to its owner without the complexities that come with having a live doggo in the house. The robot uses artificial intelligence to tailor itself to its owner. “As aibo learns its environment and develops relationships with people, its identity takes on more and more layers,” reads the Aibo ..."
     publishedDateTime: 2020-01-06T11:31:00Z

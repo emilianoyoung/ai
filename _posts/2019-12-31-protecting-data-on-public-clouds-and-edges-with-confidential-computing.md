@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E1E9BC82344CD5B459BADC0ED638FF62
         width: 700
         height: 349
+  - title: "ASUS Announces Tinker Edge T a single-board computer (SBC)"
+    excerpt: "It is also optimized for TensorFlow Lite models, making it easy to compile and run common ML models. NXP i.MX 8M processor With its powerful and modern quad-core ARM-based NXP i.MX 8M processor, Tinker Edge T offers a powerful solution for graphics, machine vision, video, audio, voice, and safety-critical applications. Tinker Edge T features 1 ..."
+    publishedDateTime: 2020-01-08T10:00:00Z
+    sourceUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/
+    ampUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+    cdnAmpUrl: https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
+        width: 700
+        height: 393
 
 secured: "t/Mc9r/zrHbL0ynIUIidovRdQFFgTdUaN++YHO9N5DRJp3GWrtDw6onfPu+Nezd3/vetORenhKRTmdSDM/hkliSue5X1UepuVRr8Oef2GE/iB3XC5GU3Vf5LdfHI5g0/YOKc0Yl0WotoXGeqJTmfmH7lQMFhdKXUFIOQ/nzaAHm06T49eh61pSCN+SL4wIz974XZqIf5aKPL3r/eF6MmuTL9VaYeeqvzSTooH9lLfqoxucGCpKiR8abFgKCV+H4w2JSqaWPzXOzHH2vTH0zBXw==;Iq8iiXXCMykK34j/OPNR1g=="
 ---

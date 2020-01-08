@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
-excerpt: "Health Action Council entered into a new partnership with Buoy Health to help individuals make more informed decisions about where to get the care best suited for their symptoms. The partnership draws on an artificial intelligence solution developed by Buoy Health,"
-publishedDateTime: 2020-01-07T15:08:00Z
-sourceUrl: https://finance.yahoo.com/news/health-action-council-partners-buoy-150000161.html
+excerpt: "/PRNewswire/ -- Health Action Council entered into a new partnership with Buoy Health to help individuals make more informed decisions about where to get"
+publishedDateTime: 2020-01-07T14:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/health-action-council-partners-with-buoy-to-help-patients-find-the-right-care-300982717.html
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
 
 related:
   - title: "MIT, Takeda Partner to Develop Healthcare Artificial Intelligence"
@@ -32,6 +38,6 @@ related:
         width: 690
         height: 400
 
-secured: "fh62IzcKDS6kDONpPqj36vABWC4wOgxIJJ0c+38TjP8PK31YxKCpQ8i8lMzR0IYZHH1Mq/o1Dc/g+K8mUjhP5IfBKgFyKpR8/e5fLWyjmtcwSPro3YKExeCYMR1F9KL0tCiC/FV8rqNDI/1+ewbkmE6Ybtzmy3IXIfqSNO2aRdN01OfgxsCMdpVhLV5IrxPypzfrH+i7YFLbsACdp3BxXBQjf2B5aIquc20CbZ/A0efiWf2Oec8a6EIzLfiIOVV8i+FDZoZYg66zqq3PrMJUjQ==;IyWxjHVRTxhrfcy8nr1yrQ=="
+secured: "uibLeFlHQO/UmTXqW9Ft0E/ZraJo02ifZ95aMDYvuu5xoLyaTHLrBrG8MbryQiwJFHjdfo/T1ZTTHJy23WAyPAK4PZasP4h3F4cC7ykyb+LfRpJOqvk6axjkPnzR4V0aDTTEGTPaAYlp3FfjX6PlC2gfbUXCzq0pS2Q/PdIzgkF+P5IMQ/t/0OhAiIWNf8GQef3/lXZW4UiK3MG40FVpjGgtBEasX9VqWzgvmE5ZH72x4wrzuvTfaS1dS88CiYqM3seU6TyeEE7XqpHiyqKh5Q==;46Ap0/ey1c18ccE5ohP+jw=="
 ---
 

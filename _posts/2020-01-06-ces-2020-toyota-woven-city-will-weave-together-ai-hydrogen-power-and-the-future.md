@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/sebastianblanco/2020/01/06/ces-2020-toyota-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/01/06/ces-2020-toyota-woven-city-will-weave-together-ai-hydrogen-power-and-the-future/amp/
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Forbes
@@ -29,77 +29,47 @@ images:
     title: "CES 2020: Toyota Woven City Will Weave Together AI, Hydrogen Power And The Future"
 
 related:
-  - title: "Toyota is building a tiny utopian city filled with people, robots and AI"
-    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility as a service, robotics, smart home-connected technology, AI and more in a real-world environment,” Toyoda. This so-called Woven City will be a ..."
-    publishedDateTime: 2020-01-06T22:17:00Z
-    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
-    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+  - title: "CES Gadget Show: Toilet paper robot and tracking the elderly"
+    excerpt: "The robot, around 6-inches tall, has the face of a bear — like the cartoon ones ... The annual showcase is where big companies and startups unveil and promote their latest gadgets, many of them infused with microphones, cameras and artificial intelligence. Though weighted toward the consumer market, much of what’s on display may also ..."
+    publishedDateTime: 2020-01-06T20:36:00Z
+    sourceUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/
+    ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
+    cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+      - url: https://www.bing.com/th?id=ON.7735648E75DAA46E1E33E1F0DFAA3C2D
         width: 700
-        height: 392
-  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
-    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
-    publishedDateTime: 2020-01-08T00:03:00Z
-    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
-    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+        height: 468
+  - title: "CES 2020: The ten best new technologies coming out of Las Vegas"
+    excerpt: "uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing difficulties to understand them. OrCam’s founders, Amnon Shashua and Mr. Ziv Aviram, previously founded Mobileye, a driverless car company that was sold to ..."
+    publishedDateTime: 2020-01-06T10:35:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-ten-best-new-technologies-coming-las-vegas/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+      - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
         width: 700
-        height: 392
-  - title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
-    excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
-    publishedDateTime: 2020-01-06T21:35:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/
-    ampUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+        height: 436
+  - title: "Looking to the Future: 2020 Insight"
+    excerpt: "Knowledge management systems help companies accomplish that goal. Throughout all KM solutions and services, a wave of modern technologies, such as AI, machine learning, natural language processing, and others, are serving to enhance traditional capabilities. “Many consumers have become well-acquainted with AI-powered assistants such as Alexa ..."
+    publishedDateTime: 2020-01-07T05:07:00Z
+    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135756
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.01BD3A1C864BB277478A346DD44A879E
-        width: 700
-        height: 435
-  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
-    excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
-    publishedDateTime: 2020-01-06T22:14:13Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/toyota-is-building-a-tiny-utopian-prototype-city-filled-with-people-robots-and-ai/ar-BBYGaK5
-    type: article
-    provider:
-      name: TechCrunch on MSN.com
-      domain: msn.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.4447E8825E210C45CA854F78742593AB
-        width: 640
-        height: 349
-  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
-    excerpt: "\"If they build it, they will come.\" \"Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,\" Toyoda said. This so-called Woven City will be a fully ..."
-    publishedDateTime: 2020-01-07T00:02:00Z
-    sourceUrl: https://www.yahoo.com/now/toyota-building-tiny-utopian-city-221413545.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 31
-    images:
-      - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
-        width: 700
-        height: 393
+      - url: https://dzceab466r34n.cloudfront.net/Images/ArticleImage/127371-global-data-and-hand-ORG.jpg
+        width: 1000
+        height: 540
 
 secured: "CuPWUTk5zugnI+1EEbhCeob2bhYJub9vHk+Wpq8QOUnDXDPrOHAWIrek7fBUtOWsFtiZYd3MSjH6eOvoFaU+ks4n2HiGVCFDqIAY3W7PT7NUu6LJR8byIKmNWCjFJOglhxAokwsAKdtf/Ev+E0jJwj831E+VuJe8tz9EsOEhbklA41AAua5e5dxtp0l7x5QiMJYY6mcg/zG+8KHmf5SvdBopxo0mBK/58jP1tDO1QoaWrMRMs8+v9087qv5DX6w3QkdMzSqr8nl1LG3Tu+OQtw==;54NCp83h5eoHqOapsTWBEQ=="
 ---

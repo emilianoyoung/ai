@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
-publishedDateTime: 2020-01-06T11:03:00Z
-sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning models. Machine learning algorithms are often divided into supervised (the training data ..."
+publishedDateTime: 2020-01-06T11:06:00Z
+sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
+ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
 type: article
-quality: 104
-heat: 114
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: /assets/images/organizations/infoworld.com-50x50.jpg
-      width: 50
-      height: 50
+  name: ITworld
+  domain: itworld.com
 
 topics:
   - AI
-  - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
@@ -29,21 +25,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-related:
-  - title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
-    excerpt: "Is it possible to recreate this neuroscientific miracle in artificial intelligence(AI) agents? Last year, researchers from OpenAI published a paper proposing a technique for concept learning based on a deep learning method known as energy functions. Energy-Based Models are a class of deep learning algorithms that focus on capturing dependencies ..."
-    publishedDateTime: 2019-12-31T15:13:00Z
-    sourceUrl: https://towardsdatascience.com/using-meta-learning-to-train-agents-to-learn-generic-concepts-b8378022b1f7
-    type: article
-    provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.89D67A4F8085D6823FB349299C46BC02
-        width: 700
-        height: 393
-
-secured: "6k3aq9vA7/s124J2SmNiWAOuUjSao2qDV5ui6w8qIMiJOC0LUrcgluS3crssvk1RmH72UAJUPXNoDhg6GQczTURhHyIJJHSi1dNJ7oTqO1w4Slsamf4VDBhtQ7nLD54BKfyzBerBAonScMcV2uloRmPzOi9JXUMFHY0AEIsufvbo24tHbR8X0LeJny3SCifI8qXIXpdz2o2AYcLot33v5oUkwmr7vYA/IHczG/oe+BhWcRkaeKwOcPozjVkojJuZEwzc6mVVxU4X37tXJS6GZg==;Ud/DKnISmZr5N9lDP1n4ug=="
+secured: "Vx0cRpYK7a2OpAUhKD4PWMYQltzPyE7dQlu5jCcrZhgmDUDivmhYFXLaCeJ667pSpV1mGnwZ9t8F9nST1Wec14zsyNKIVPTt5m8QjyQM/KtrLdg1ktFVEFzU8PaXXayfIpxfGQwsALm7LipvSYGEUE+66ivXSUaq8CTdtiwSVihaFOAmIUB9At1qJ37V/SAACzgurpFynW2bxkr0J4tzjoc7aXX66TBL1aOMwe5TPTxusbrFavq4uH9h3ZX/e7JfoHvTZPIb0p4tBddpzYaqnA==;aPv5Iauy3EOXFWFHyTWGwg=="
 ---
 

@@ -109,6 +109,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    publishedDateTime: 2020-01-08T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
+        width: 700
+        height: 366
   - title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
     excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Artificial intelligence (AI) within the consumer, enterprise, government, and defense sectors is migrating from a conceptual “nice to have” to an essential technology driving improvements in quality, efficiency, and speed. According to a new report from Tractica, the top industry sectors where AI is likely ..."
     publishedDateTime: 2020-01-06T12:53:00Z

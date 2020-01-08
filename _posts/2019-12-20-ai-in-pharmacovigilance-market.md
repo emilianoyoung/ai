@@ -36,6 +36,15 @@ related:
       name: IndustryWeek
       domain: industryweek.com
     quality: 19
+  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:18:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "/wQ5vyE8EoMJLxf9E63C/10mdvOfzqSXPEVtig43VWeDJDIqLk2g/poJCGHZIl4Dd3t0c2ZFcF8Jk3k573y7Fw/GxbOKjIhRrZXbVvwswdj2LxtoWJi7BVnFfZbe5nIYYH5HYVYrckvZrmyDLt6OCcD3EVfgSpm3jpinUoI0Bi7dP4UkYe6BqBYnjh+Cb/iIDgYzlOWgde9vzZBYPYJOufaGv9TwgAt5oSDlJ8jKfq6pRJEkCwZsRQPOR46d4H0T89n5tNm5QfTLUswuoXk5wQ==;Ka7aTIKJVmucNNbq4W4vYA=="
 ---

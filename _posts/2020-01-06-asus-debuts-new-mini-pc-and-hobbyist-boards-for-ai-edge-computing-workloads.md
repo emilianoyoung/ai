@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/asus-debuts-new-mini-pc-and-hobbyist-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/asus-debuts-new-mini-pc-and-hobbyist-boards-for-ai-edge-computing-workloads/amp/
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.D57852237CBAC8808C2F7D502008D71B
         width: 700
         height: 588
+  - title: "ASUS Announces Tinker Edge T a single-board computer (SBC)"
+    excerpt: "It is also optimized for TensorFlow Lite models, making it easy to compile and run common ML models. NXP i.MX 8M processor With its powerful and modern quad-core ARM-based NXP i.MX 8M processor, Tinker Edge T offers a powerful solution for graphics, machine vision, video, audio, voice, and safety-critical applications. Tinker Edge T features 1 ..."
+    publishedDateTime: 2020-01-08T10:00:00Z
+    sourceUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/
+    ampUrl: https://www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+    cdnAmpUrl: https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/asus-announces-tinker-edge-t-single-board-computer-sbc/amp/
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.C917F5ACD2A1EE486BFB162994F4850C
+        width: 700
+        height: 393
 
 secured: "a4lvqU5HNRBlyZL3xeder3tqqVdF9dg5EDN25SspyGSq9OffWEeFx1pf9RSoD6Zi4p1LnPQvFnXoJCC6c+oGUaDjumAhU3la5Fu8fP+gRJr633SCYws2sQw9dqBLah/jexbD6r3ektSwsmVLv9Vk+jvc//o1+Pl+YVjMbBZExN1qg+aYxspJQwCM+nsnrCTsXY/XTgC1Q132pA7t9+nyjvgZeb4x9LJtQakV3NPfMhcoErMZokpp55haj3N/buF19u6VeeglOqUdkT/9XrXuVA==;ONCXc0kPJFDMJp1YlY6TJQ=="
 ---

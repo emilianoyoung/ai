@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 150
+heat: 130
 published: true
 
 provider:
@@ -73,32 +73,6 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
-  - title: "CES: Toyota's building a city the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
-        width: 700
-        height: 393
-  - title: "CES: Toyota's building a city where the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
-        width: 700
-        height: 393
   - title: "Teachers, the Robots Are Coming. But That's Not a Bad Thing"
     excerpt: "I don’t think artificial intelligence is there yet.” But researchers are trying to get there. Consider the work of Cynthia Breazeal, an associate professor of Media Arts and Sciences at the MIT Media Lab, who leads the Personal Robots group. The group is conducting randomized control trials of the use of an AI-powered, teddy bear-sized and ..."
     publishedDateTime: 2020-01-07T22:33:00Z
@@ -113,6 +87,6 @@ related:
         width: 700
         height: 365
 
-secured: "BV06XlCIcC3UWdNbbycLPv81KsjVZSZulTnehvtkTvqwYX8bDwaZ/vhTFmbfnrAWo7fggwnsMdMGnCcJRu8voQFNMBKk6OT0yGVPBtjgK2xskrJNQeD1zCKvKHl1y4i3UhK7JjV0skyH9hgc8cKqgcN2TuhqjnJ+vb+U7Em0HuIbHkj131xB8umNh9UGh0wxLrSFv/cnepjE4InhpgZApUfB3FUpQ3F9U5qWhmnpqrELbK3+9qhPfZ30Yqh25YQ7TOYMQMpRO38/Q6Wyq+XqwA==;i/M1ilqJh6/SVYLkl8rDlQ=="
+secured: "Ykgq135JgbuzjfvNg11VIOBtU63EK2cIl5m2gRBR3SEXHhq00BR3ubICyUTrB+89M9h97MtPifujt0iP2DCDuJeHypk0VMAQilPiFwYl34Ahi9dBJa7JbKfxsdpnuTrPd87YRErdb9N/2a68bSn51+iHH/xSDajaAa3HQHKa73NgWr4njEuklAMse8vH8FagX50ABl5Icm0TgIg81366/V8aJaAHwn42CDhk84pjRxEAPFqdPrSk4oNlXFvbSU20UfzskLxd213bbQhN3ePlMg==;xC23XgG7CHiwNqZFqaCh+Q=="
 ---
 

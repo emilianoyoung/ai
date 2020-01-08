@@ -23,19 +23,19 @@ images:
     title: "Samsung demonstrates ‘world’s first artificial human’"
 
 related:
-  - title: "Best Artificial Intelligence Stocks to Buy Feature Many Enticing Choices"
-    excerpt: "The best artificial intelligence stocks to buy feature many enticing choices for investors seeking to ride the technological wave into the future. Artificial intelligence (AI) is an area of computer science that focuses on creating systems that perform tasks requiring human intellect such as visual perception, decision making, translation and ..."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://finance.townhall.com/columnists/pauldykewicz/2020/01/07/best-artificial-intelligence-stocks-to-buy-feature-many-enticing-choices-n2559069
+  - title: "Maxima – World’s First to Embrace Artificial Intelligence in Grocery Retail"
+    excerpt: "Maxima is the world’s first grocery retailer implementing unique Artificial Intelligence (AI) solutions, aimed at improving work efficiency and the customer shopping experience, streamlining operations and reducing costs of running its stores, and balancing employee workloads. Shelf stocking and checkout lines are already being managed by ..."
+    publishedDateTime: 2020-01-08T10:54:00Z
+    sourceUrl: https://www.baltictimes.com/maxima___world_s_first_to_embrace_artificial_intelligence_in_grocery_retail/
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 38
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 50
     images:
-      - url: https://media.townhall.com/_townhall/resources/images/thog.png
-        width: 300
-        height: 300
+      - url: https://media.baltictimes.com/media/photos/147033_9150325365e15b3b47b19d_big.jpg
+        width: 855
+        height: 555
 
 secured: "6kqY7v7EX5eSWoBZa9VxdxjhOI88zEhTarn+knm+lj87Z6apMZ9PYkm928wkW3wRKqxKeN1lnLhX8FkNiHqHzFfZJumuR/SFGBd64Xj8ds1iY9+Ipwww0vBYg/sIQy1kBinvBJu2iig3y5IH2sSyLG+tizzwx3iF3ed/OXkV+lb2MW+kwQY4M0CCGLOtorgRmaApgahfLaGaYTQBIS6AQEmoxxEDkTLg9Vd5fRl/0ClMKMwVeM6eSRmO3PYkM3bWfk644Jq09LKzpJjGpR9hTQ==;NU1rmfQeNp0Ur+gYeA58uw=="
 ---

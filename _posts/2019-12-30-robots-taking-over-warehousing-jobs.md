@@ -69,6 +69,19 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
+    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
+    publishedDateTime: 2020-01-08T10:15:00Z
+    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 18
+    images:
+      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
+        width: 685
+        height: 445
 
 secured: "f+lDHTEklEf8diOsitdE29J0G1xtGHQjvSHxmdKnLLFWv2pu3OohzlCVyBoe0JHGTejg799rOUg6tY/cCYMGYTUmq0f0hKuiHOj/QHfguD04Bd3rGwM/R44NKoyEHxw+nwnrPLASOLW283pYXc0IKx4HD0poW2AgLp/cvz+bOrtD4kKHr4lTpUsHASX5OgcKDlh9meGRpJJOCRNQ1tu4jZu7C5H/gOyZk9vjhl+wCvx7w20ykc0Ix0ehih0lPteSl3lj0RVNx92+w7/1Eec0SQ==;eQhVIYD9V7+Rymw0s0RQiQ=="
 ---

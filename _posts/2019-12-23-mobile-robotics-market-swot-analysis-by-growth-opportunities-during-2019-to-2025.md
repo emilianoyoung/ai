@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T20:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/mobile-robotics-market-swot-analysis-by-growth-opportunities-during-2019-to-2025-2019-12-23
 type: article
 quality: 79
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
-    excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
-    publishedDateTime: 2019-12-19T09:28:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-service-robotics-market-reach-usd-4613-billion-2026-/2019/12/19/9072305.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "DZp2rxbtec9wpCQKVOWcbxgwi9jnyH1ge2An+DPzvM+OIWARFAigG846rkc/57vN1KT561up1N5WVGS9VSoUCjKzrq4Qtg66I3T0Ft2yVxERaN3Bb3YNdEYWB3cLgOPnmINWtjJtYTXdruJ5cO8JahbqnWa0xhMVBJqnf5GrDDwAJ2U2p6IEgqlX+OYB99MjJj1qbNyRu2SZiEiUtyhWl6BMrbQtP1OGeaDe4rcdf8jLbinQt8pE713Tj6cesriUSoY39ODEF1jfx2PUAZauLQ==;eWcsGF20ZFkkbFT7bNt8vg=="
 ---
