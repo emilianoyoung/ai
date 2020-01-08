@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/smart-doors-body-scanning-mirrors-l
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/smart-doors-body-scanning-mirrors-lgs-vision-for-your-home-puts-ai-everywhere/
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

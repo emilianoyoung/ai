@@ -8,7 +8,7 @@ ampUrl: https://www.washingtonpost.com/technology/2020/01/06/facebook-ban-deepfa
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/01/06/facebook-ban-deepfakes-sources-say-new-policy-may-not-cover-controversial-pelosi-video/?outputType=amp
 type: article
 quality: 137
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -85,19 +85,6 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
-  - title: "Facebook says it will ban 'Deepfakes'"
-    excerpt: "WASHINGTON — Facebook said that it would ban videos that were heavily manipulated by artificial intelligence, the latest in a string of changes by the ... Renee DiResta, the technical research manager for the Stanford Internet Observatory, which studies disinformation, pointed out that a challenge of the policy is that the deepfake content ..."
-    publishedDateTime: 2020-01-07T22:33:00Z
-    sourceUrl: https://www.timesfreepress.com/news/business/aroundregion/story/2020/jan/07/facebook-says-it-will-bdeepfakes/512408/
-    type: article
-    provider:
-      name: Times Free Press
-      domain: timesfreepress.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.C8DB27D8060226EED325B1666D756C1A
-        width: 700
-        height: 466
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z

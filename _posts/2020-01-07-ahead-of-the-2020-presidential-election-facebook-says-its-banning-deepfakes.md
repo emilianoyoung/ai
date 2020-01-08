@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/social-media/facebook-deepfake-ban/?amp
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-deepfake-ban/?amp
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -45,6 +45,17 @@ related:
       - url: https://www.bing.com/th?id=ON.AB7310F35FB91CA6CD7DCD7B7218F558
         width: 700
         height: 393
+  - title: "Facebook says it will ban ‘deepfakes’"
+    excerpt: "and there would be “significant incentive” for people to develop fakes that would fool Facebook’s systems. There are many ways to manipulate videos with the help of artificial intelligence, added Matthias Niessner, a professor of computer science at the Technical University of Munich, who works with Google on its deepfake research."
+    publishedDateTime: 2020-01-07T04:57:00Z
+    sourceUrl: https://www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/
+    ampUrl: https://www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/?amp=1
+    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facebook-says-it-will-ban-deepfakes/?amp=1
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
   - title: "Facebook toughens its stance on deepfakes"
     excerpt: "Last September, Facebook launched the Deep Fake Detection Challenge, designed to encourage people from all over the world to produce more research and open source tools to detect deepfakes. The project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI, Cornell Tech ..."
     publishedDateTime: 2020-01-07T07:47:00Z

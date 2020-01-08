@@ -29,7 +29,7 @@ images:
 
 related:
   - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
+    excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics ..."
     publishedDateTime: 2019-12-17T13:38:00Z
     sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
     type: article
@@ -42,6 +42,6 @@ related:
         width: 1200
         height: 630
 
-secured: "A5mOUeE4TTlpzxCuSg5647XhM/y1Krd7NiMfMd/2WYYgs7KmxeHE94+fl6xTRtfsVfEw5gOW7ypq9Ncv30rK0GSxQjXLEHMYk+mn0sBoc9Ha7HFKcbss5VL/largdTETXIgPaYJaS34bNX4q9AT9g+1PzmyEIxDAYMbCR1IV7Z4NJquebJTn7syZIQHT9R1T1aZgH4At7/GjB5F+ZNaSb464MAkJ9KOILQ7X7YLIyI3J7JqeLAq9cYPNy5bhi8sbhqz38DRq8eKh5vqI6pi//g==;W0IePtCRtSTFhefXQOT4mA=="
+secured: "9QEb4e0x1NrF8cptJaEMNuk4W2s7WxAMzaUjZFbuUd/mWS6+G/jFCd2ncLer44qlmHSJpIR6DwHoMyAqE2GLrnvcKmiTtK2XpOiIZhtqJX91S6bEn7QANIt8U8WOkbwaGXAp8CDyEgHp7WFpJe+mRtWnxSLrRdg81vAChqzkitZL6aXJlskCbldlE56tH9Syy0RR0fSEWrZ0dF21H9VF5uM2rxNhV14q+40GOubgb6WwcfcXRn5MeJzGLa/Cztxv+Ix+TgBszLYuPYqu+GMPsQ==;7MVqquWyeyjPhxFLywpVww=="
 ---
 

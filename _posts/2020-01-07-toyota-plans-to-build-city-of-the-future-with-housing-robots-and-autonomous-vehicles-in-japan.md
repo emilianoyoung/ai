@@ -2,22 +2,16 @@
 category: news
 title: "Toyota plans to build 'city of the future' with housing, robots and autonomous vehicles in Japan"
 excerpt: "Fuji in Japan. The \"Woven City\" will include thousands of residents and will test autonomous vehicles, robotics, personal mobility, smart homes and artificial intelligence. Toyota plans to build a \"prototype city of the future\" on a 175-acre site at the base of Mt. Fuji in Japan to test and develop new emerging technologies such as autonomous ..."
-publishedDateTime: 2020-01-07T21:04:00Z
-sourceUrl: https://www.cnbc.com/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
-ampUrl: https://www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
-cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
+publishedDateTime: 2020-01-07T21:20:00Z
+sourceUrl: https://www.msn.com/en-au/finance/company-news/toyota-plans-to-build-city-of-the-future-with-housing-robots-and-autonomous-vehicles-in-japan/ar-BBYIfmd
 type: article
-quality: 76
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: /assets/images/organizations/cnbc.com-50x50.jpg
-      width: 50
-      height: 50
+  name: CNBC on MSN.com
+  domain: msn.com
 
 topics:
   - AI
@@ -325,6 +319,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "u0EyQndphUgQzRIHNcdllBtxqRFnHwJOkw60kIAX/NlZsoP/H3mJR4sGesiPnKcVjBL9YMHKWVMrnzkK5Ke5X8weo3QmryQPzwXwhdCIxKFfgQBf4bJ/B192A22H1IgqdHXPOTg1/n9EQFJOcrhq/3fXAb70sTbcbJU+Z3EO0DuXiEIBAPS4ex+JHRN5n8gMLu6fcmlMlHyD/X5WiS93H/jsxdwIMPPXI3J9t+qwHR8mk4DHoaiuSa90v2R6FUi/Ft2Vf93hLd60ehH9uh+0wQ==;Cm/UQm98mHPdqsaKah9/8A=="
+secured: "M6uXd5asjdydHOLKkaC3M2JlVij4I2+/H9Lu5DMtYn2xUORJHlzfRZts+GhoUBHTpif6gCRKq/UE91Nan9A+s0waCnO/cQN+e6xWaHW/DR3K1p4r8LnMMJkufP44wx09E2sNUjsjl9zt65opl7Vl6q6rTiTdOK90ZI3FwyOhOTcf74U7JriZaV3opBcRtBPG9Ke1v3oN7AomVdcO9H8SIwXul+cUM4LuhputT7DTHFrhcTsChxmeb18rXH2hUFsAP8a++jON/8zvgZwCl09IZA==;nns+m2XNY9YnS1Ej8z/77A=="
 ---
 

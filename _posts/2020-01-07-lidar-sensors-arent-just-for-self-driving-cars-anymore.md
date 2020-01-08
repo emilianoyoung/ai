@@ -1,26 +1,32 @@
 ---
 category: news
 title: "LIDAR sensors aren’t just for self-driving cars anymore"
-excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car."
-publishedDateTime: 2020-01-07T19:14:00Z
-sourceUrl: https://www.msn.com/en-us/finance/other/lidar-sensors-aren-e2-80-99t-just-for-self-driving-cars-anymore/ar-BBYIhEc
+excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
+publishedDateTime: 2020-01-07T19:00:00Z
+sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.A38C0E69EA583D98CEED2C402845336B
+  - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
     width: 700
-    height: 367
+    height: 366
     title: "LIDAR sensors aren’t just for self-driving cars anymore"
 
 related:
@@ -251,6 +257,6 @@ related:
         width: 510
         height: 314
 
-secured: "L5vo1DCtEjcDqXieIomf7OvTE5VA7Iesjz+uF6I+7z6sf/KSDKYC+X6ctRlD6pn0hPk3M0QxwJX20C0s10zqp3SrV2Arje2LdThcQ8YQzksnWU9AKkEzwXbyExb/xxJtQ/w3Mmp8i1HVdQ8vsjtK3W5H1qtKO3++8l3rHP4ytxLOKqJCKMytbK4pJjTGyKiYk06lHqvN0itLFkKy0DwiEAJfONSEKz+iY8H9TQZew0H3hI0uIEeDILnzPU4wBZ3YuQ8AJSEudc76XUq0IMj+xA==;3/emi3X0VLRpASNzFyP2AA=="
+secured: "FKBn2LswDZv6Dcpsn89gn+LcJEVXrMhS7axJDL/CyQ9b1hEbyLJSB2BsWDzevRCvcrtIy+9qQNdzdbw6tTxuC1Xh4iMhLM8qjVsHHvWsGVZnPc4XzBGmm2H/0et7pL0UP5div/25q/Gz2soYhIh/BIo8Gkctazv6MBJK1vfzP2rcfioKPWWuxgwWxUKcaHjShwwLEy+PItEsmiWjdkpq2/aNUHZOsJt00LWVX1n6Tcbxo9rHslSeXNTiY3dqH1lPDz1AxsdDyyXJnSKR0TBrbg==;qvDdSDYY7Ns04ydpQcCSsg=="
 ---
 

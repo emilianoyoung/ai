@@ -23,21 +23,6 @@ images:
     title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
 
 related:
-  - title: "YouTube's series on AI with Robert Downey Jr. is finally available"
-    excerpt: "And it's actually engaging and insightful. If you've ever had a question about artificial intelligence or how it works, YouTube's latest Originals series, The Age of A.I., tries to answer those questions. The new eight-part show, which is available to watch today after a lengthy wait, features Robert Downey Jr. as he attempts to demystify terms ..."
-    publishedDateTime: 2019-12-18T22:22:00Z
-    sourceUrl: https://www.engadget.com/2019/12/18/youtube-age-of-ai-now-available/
-    ampUrl: https://www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2019/12/18/youtube-age-of-ai-now-available/
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 187
-    images:
-      - url: https://www.bing.com/th?id=ON.D8B96B911D06ABFDB26E277DB7813AE2
-        width: 700
-        height: 367
   - title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
     excerpt: "The stated aim of \"The Age of AI\" is to demystify misconceptions about AI, and showcases bizarre new technologies."
     publishedDateTime: 2019-12-20T12:10:00Z

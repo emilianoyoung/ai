@@ -25,6 +25,21 @@ images:
     height: 437
     title: "Toyota plans to build 175-acre smart city in Japan"
 
+related:
+  - title: "Toyota Building a City in Japan That Hates Human-Driven Cars"
+    excerpt: "A traditional closed test track can't replicate the unpredictability of real life on the streets and sidewalks of America, and few of us normal people are eager to share our morning commute with experimental driverless vehicles. So, what's a big-time car ..."
+    publishedDateTime: 2020-01-07T23:19:00Z
+    sourceUrl: https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/
+    type: article
+    provider:
+      name: Automobile
+      domain: automobilemag.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.806E7E58AFB6D280F90A3F0D8D677319
+        width: 700
+        height: 367
+
 secured: "DuIcJe/jL7pnek8ySODYZxraC6Ptk5xUzbRYPSbIrxl10HMQPgaL7yqO9EqL9dRVj4Bo9fVvrQvJ/dW9M7xS7nJ8n7IdwDuKCXOs0DV46x4RomOoibIqC7WnXjDayVA73rmIjVEbXbrlBWWMJvLaZvZ69IrqkR9hhZebIF/MAsbwOHclwD8SG/URnlXQTWCOD+yV4XjQ+57n1Ek+09ton9avwfJcs4L8yQOfVYufopFuGENIPRsujCeTTNtFRZgfH+fF3OEKo+8NiyZtJXM99Q==;MnEGh9qpStRJErAL7coyWA=="
 ---
 

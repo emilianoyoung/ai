@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
+    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
+    publishedDateTime: 2020-01-07T19:00:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
+        width: 700
+        height: 366
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
     publishedDateTime: 2020-01-06T19:42:00Z
@@ -176,19 +191,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
-  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
-    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car."
-    publishedDateTime: 2020-01-07T19:14:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/other/lidar-sensors-aren-e2-80-99t-just-for-self-driving-cars-anymore/ar-BBYIhEc
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A38C0E69EA583D98CEED2C402845336B
-        width: 700
-        height: 367
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z

@@ -70,21 +70,6 @@ related:
         width: 700
         height: 393
   - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it will be ..."
-    publishedDateTime: 2019-12-18T22:50:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/18/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 33
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/07/SJM-WAYMO-0110.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
     excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
     publishedDateTime: 2019-12-19T16:34:00Z
     sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/

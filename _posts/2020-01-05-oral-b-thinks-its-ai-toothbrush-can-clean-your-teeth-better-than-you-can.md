@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/05/oral-b-io-electric-toothbrush-ai-app/
 type: article
 quality: 86
-heat: 137
+heat: 136
 published: true
 
 provider:

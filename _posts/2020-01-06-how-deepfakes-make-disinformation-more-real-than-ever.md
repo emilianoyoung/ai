@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T05:01:00Z
 sourceUrl: https://www.bloomberg.com/news/articles/2020-01-06/how-deepfakes-make-disinformation-more-real-than-ever-quicktake
 type: article
 quality: 54
-heat: 65
+heat: 64
 published: true
 
 provider:
