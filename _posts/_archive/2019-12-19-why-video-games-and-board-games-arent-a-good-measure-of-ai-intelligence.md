@@ -8,7 +8,7 @@ ampUrl: https://www.theverge.com/platform/amp/2019/12/19/21029605/artificial-int
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/19/21029605/artificial-intelligence-ai-progress-measurement-benchmarks-interview-francois-chollet-google
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     title: "Why video games and board games aren’t a good measure of AI intelligence"
 
 related:
-  - title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
-    excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo, but with less developed AI, we still have an edge. On Wednesday, the 36-year-old Go player won a match over an AI program called HanDol, built by ..."
-    publishedDateTime: 2019-12-19T15:53:22Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
-    type: article
-    provider:
-      name: Observer on MSN.com
-      domain: msn.com
-    quality: 12
   - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
     publishedDateTime: 2019-12-19T20:50:00Z

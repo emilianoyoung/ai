@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E04E4448E827979DBCE9D5CEB2C0AF5E
         width: 700
         height: 367
+  - title: "The AI Hand-off Problem And The AI Omniscience Problem Are Getting Worse, Exemplified Ironically By AI Self-Driving Cars Getting Better"
+    excerpt: "Hey, who’s driving that car? By-and-large, today you know who is driving a car by simply looking to see who is sitting behind the wheel. The person at the driving controls is the responsible party for driving the car."
+    publishedDateTime: 2020-01-08T16:03:00Z
+    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/08/the-ai-hand-off-problem-and-the-ai-omniscience-problem-are-getting-worse-exemplified-ironically-by-ai-self-driving-cars-getting-better/
+    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/08/the-ai-hand-off-problem-and-the-ai-omniscience-problem-are-getting-worse-exemplified-ironically-by-ai-self-driving-cars-getting-better/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/08/the-ai-hand-off-problem-and-the-ai-omniscience-problem-are-getting-worse-exemplified-ironically-by-ai-self-driving-cars-getting-better/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.1DFE883B74D9888497A11943DCF6A304
+        width: 600
+        height: 315
   - title: "Chris Kelly: The names have changed but the games remain the same"
     excerpt: "TRANSLATION: “I got this. Go make me a sandwich.” This was bound to be a rocky relationship. The Brazils — the family in perpetual political combat with Notarianni and the Parker House wing of the Democratic Machine — hand-picked Domenick to ..."
     publishedDateTime: 2020-01-08T11:23:00Z

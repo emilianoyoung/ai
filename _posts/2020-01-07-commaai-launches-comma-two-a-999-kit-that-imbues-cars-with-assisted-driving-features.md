@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-
 ampUrl: https://venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/comma-ai-launches-comma-two-a-999-kit-that-imbues-cars-with-assisted-driving-features/amp/
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: https://www.bing.com/th?id=ON.BBBFC6F8CF8A0213ECF53EE08642C279

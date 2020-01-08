@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
         width: 700
         height: 367
+  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs"
+    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
+    publishedDateTime: 2020-01-08T16:36:00Z
+    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
+        width: 700
+        height: 465
   - title: "Beginning with Blueberries: What Are the Ethical Bounds of Tech?"
     excerpt: "(TNS) — Of all the life experiences helping to shape research in an age of data privacy threats, robotic workers and driverless cars, here's one you might not have ... researchers and students probing the ethical implications of artificial intelligence, automation and other technology -- from the viewpoint of disciplines as disparate as ..."
     publishedDateTime: 2020-01-07T00:22:00Z

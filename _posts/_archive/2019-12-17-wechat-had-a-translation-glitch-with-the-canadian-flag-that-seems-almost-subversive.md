@@ -29,6 +29,6 @@ images:
     height: 395
     title: "WeChat had a translation glitch with the Canadian flag that seems almost subversive"
 
-secured: "pZZ+PkqoSqwAMdCc8ZqiDeR4VRsyggeLZT5euL6n8pe2MWv1pUnhqPSBtsgew2wOB+qDep95a841YQiCNAlTUUpEznRNv8+KUIXcHRXmQEZWim+86+jMJy0teBkEzdAucq1v0gviZVNXonvh1pP0l/14C48Vz4WQFiHKouWNZIcIg0Qopj2mI9UU5Dl6cNG43iNh2hkbCYcD4crEQlg4ZPD6MHxi2ef+5IInq0fpKJsckYn6ODD555k7XL0DuHUcPaXHsVPrEGYQnyOtKGK3EQ==;w3sDBxaqI5N421Regbec0A=="
+secured: "zPUtV2f0hbT4CgTgiwYM1+K31KXsnMCqTlVDYQa5XnfZASxWozn/t06WdhClEm3vzVG1+aUCKD0+RE4i92b5H8FBthXtmq2ik2Nj3y0p4dE38xHLWWgE+6tum5zb7yVzhWAJ9p0ggiMvPerhNBBkUYEbSaJO6mEcrjRa0/teEJ5c0cjnoaD5sU6dHmTeuDXcmsvLXm8onPxRoOdIgeA0aT8YLhlCLC/4zcq7hw7DfQdEVp3Mu561Tr12Y+4R9o5AZJ/imtkoV6fVxPZ5iZDefw==;wnSEkVh5Sl1MVH2buM3HAw=="
 ---
 

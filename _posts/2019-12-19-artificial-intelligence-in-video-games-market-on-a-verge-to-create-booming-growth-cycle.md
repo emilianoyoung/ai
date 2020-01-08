@@ -32,15 +32,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7172C490FAE5A010A895950B897EB0F8
         width: 700
         height: 366
-  - title: "Human vs. AI: Board Game Champ, Who Surrendered to Google, Beats AI in Surprise Game"
-    excerpt: "Korean Go master Lee Sedol, an 18-time world champion of the Chinese board game Go, proved that human brains may lose to top-notch artificial intelligence (AI) programs like DeepMind’s AlphaGo, but with less developed AI, we still have an edge. On Wednesday, the 36-year-old Go player won a match over an AI program called HanDol, built by ..."
-    publishedDateTime: 2019-12-19T15:53:22Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/human-vs-ai-board-game-champ-who-surrendered-to-google-beats-ai-in-surprise-game/ar-BBY8dYw
-    type: article
-    provider:
-      name: Observer on MSN.com
-      domain: msn.com
-    quality: 12
 
 secured: "1zbb0Rtm4Uttl203wUG5Cp0GQv9ek9REE2j7cImHZ4iRKVHYcN0UKO7LS0VOt4kruAPyHXJ/JfsmrEZ51DqBBURCAU49cIxe2Xsy+M/GUDykxS+c5LCp1aZm4d1VnP82Ti72tf2W16jRy2nu1aFEhYGPamtnfFQSmdfJsTpTIoXIfYJUYQq+SRDWRuD2t9EIl1vfYqeV0PFj47TlnSZxBdlQQM4sMcKF4Uvbo9FfOqLgjJ3qoc3LTo6CbU17/ib2EQ6hjavSEHwkHeYyRi/ZxQ==;jyzmo+/T6/TiCVZpqbRwCg=="
 ---

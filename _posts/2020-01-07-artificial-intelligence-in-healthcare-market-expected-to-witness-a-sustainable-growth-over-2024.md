@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:11:00Z
 sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-expected-to-witness-a-sustainable-growth-over-2024-2020-01-07
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
+    excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent. This statistical surveying Artificial Intelligence in Healthcare report investigates and ..."
+    publishedDateTime: 2020-01-08T12:11:00Z
+    sourceUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
     excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
     publishedDateTime: 2020-01-07T12:51:00Z

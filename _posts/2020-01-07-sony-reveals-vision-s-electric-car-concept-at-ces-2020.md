@@ -24,36 +24,21 @@ images:
     title: "Sony reveals Vision-S electric car concept at CES 2020"
 
 related:
-  - title: "CES 2020: Amazon, Sony and Toyota put mobility centre stage at tech conference"
-    excerpt: "Separately, Sony unveiled a concept driverless car at the marquee tech event ... The Vision S car also includes Sony artificial intelligence to detect and recognise people. Sony did not give any indication it intends to sell the car to the public. Fiona Howarth, chief executive of Octopus Electric Vehicles, said: “The debut of Sony’s ..."
-    publishedDateTime: 2020-01-07T15:35:00Z
-    sourceUrl: https://www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/
-    ampUrl: https://www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/amp/
+  - title: "Driverless electric shuttle bus displayed by Bosch at CES 2020"
+    excerpt: "They are trained with a wealth of information and vast databases of hundreds of thousands of clips which are processed using artificial intelligence to accurately identify people ... In November last year Apple revealed details of its driverless car system that uses lasers to detect pedestrians and cyclists from a distance."
+    publishedDateTime: 2020-01-08T16:06:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7865097/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865097/amp/Driverless-electric-shuttle-bus-displayed-Bosch-CES-2020.html
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 40
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.68DF5CD2CD325BDB6873EC59EDA3EA72
-        width: 700
-        height: 410
-  - title: "CES 2020: Amazon partners with Lamborgini as Sony puts mobility centre stage at tech conference"
-    excerpt: "Separately, Sony unveiled a concept driverless car at the marquee tech event ... The Vision S car also includes Sony artificial intelligence to detect and recognise people."
-    publishedDateTime: 2020-01-07T12:26:00Z
-    sourceUrl: https://www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/
-    ampUrl: https://www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/ces-2020-amazon-partners-with-lamborgini-as-sony-puts-mobility-centre-stage-at-tech-conference/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.68DF5CD2CD325BDB6873EC59EDA3EA72
-        width: 700
-        height: 410
+      - url: https://www.bing.com/th?id=ON.A40007E47B1994EB687E6D67BC20AFE8
+        width: 636
+        height: 382
 
 secured: "2dbmNbJsff38xMUPWxDivZVmvaLZCgVMbyiQSbqNvMFFeZJbE6+kgmwKVhIVgpbpo/85RxyW+YC6B3R4KP0CTDDblnwPqXlH8y3NY6CWcTZRy+ram3xVrep1soO3r7KKa7ka8RfqMf3U750fHxGYj8Tl0AB+xoz22V+ALW4MVkOZr94JjyfL8h3CCsyJg40CwEPX4Eue0OgjMnTuQHHXqW/QGsQgC9z965nCjI5EFEj9m2UsjGNZa0oxlNVrIqrtYp7Am+HSNO0Qi8ioaL9Llw==;+V8Ys6V1rfxwHo9Kcjuwuw=="
 ---

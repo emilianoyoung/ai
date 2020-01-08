@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
-excerpt: "Sogou has leveraged machine learning and cutting-edge natural language processing technology to create highly integrated solutions. We will continue to explore potential applications of AI technologies and look forward to bringing more industry-leading AI services to users and partners globally.\" AI Vocational Avatar By integrating the latest ..."
-publishedDateTime: 2020-01-08T05:09:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-sogou-showcases-world-class-ai-powered-products-services-/2020/01/08/9078025.htm
+excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
+publishedDateTime: 2020-01-08T03:59:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300983324.html
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.52C31EBFA936865E2D7586E4B819E083
-    width: 323
-    height: 400
+  - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
+    width: 700
+    height: 366
     title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
 
 related:
@@ -347,6 +347,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "8WZNIIijhguEku5T0LrtVknTjmJRdSM3P462uAlRPODpPhjGA7Cpdc9I2Utk4QRt3Z6ItHGR6Pr0DZU/WpUUdpX+5cMuI0GeGopm5uXC+YOY6zdLWCwcpOCJyG59fbffYweTR9LZkEy3Ra+0aELw2OBIocPM7WigC9YrGEkoljUkSzRFCg9fnOBlbXc/nsECGQ/rT78Ii7/LJDKlyahLkN8kWluAudxujUUKFTX/T8J4xjaNtbvr27WE7ewH5JO3Fn37LWXSO0+TGkliayhBtw==;DfheUsjMgGy30KRZqgTLZw=="
+secured: "gA8O8zF8LAWKYOUuiIZyzJHEC7r4xzV2tIZijYAh81+XdlUnQWNyXBLs9YPYsHqiw8r7dBU2aE1FNJHprvw3zQmPhzwHZpTP19StfEm24fIv4O4Dd92z++p7lnJ0Q4u4o/sH1a85SnbVVAfzKVaCYX09f8p8rDWPDmTEMZlrSVj1dT4GdXaRM+ipuzAzZ591aaIki4k3LzAqD4RFG+e3ctwBjLLIQvQYxU7M59jRvnqH/cZNDL87uINsj2hFhggLSE+OTHlPD8bGTZmLQY09iQ==;510TUf2PYkZzsR1CbYef6A=="
 ---
 

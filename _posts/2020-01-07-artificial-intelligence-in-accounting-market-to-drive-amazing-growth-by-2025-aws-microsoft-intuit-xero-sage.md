@@ -165,6 +165,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Healthcare – Global Industry Size, Share, Opportunity, Trends & Forecast to 2030"
+    excerpt: "In this Artificial Intelligence in Healthcare Market – Global Industry Analysis & Forecast to 2030 research report, the central factors driving the advancement of this industry were recorded and the business accessories and end overseers were indulgent. This statistical surveying Artificial Intelligence in Healthcare report investigates and ..."
+    publishedDateTime: 2020-01-08T12:11:00Z
+    sourceUrl: https://www.openpr.com/news/1891892/artificial-intelligence-in-healthcare-global-industry
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
   - title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
     excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
     publishedDateTime: 2020-01-07T14:04:00Z

@@ -262,18 +262,18 @@ related:
         width: 660
         height: 371
   - title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
-    excerpt: "Sogou has leveraged machine learning and cutting-edge natural language processing technology to create highly integrated solutions. We will continue to explore potential applications of AI technologies and look forward to bringing more industry-leading AI services to users and partners globally.\" AI Vocational Avatar By integrating the latest ..."
-    publishedDateTime: 2020-01-08T05:09:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-sogou-showcases-world-class-ai-powered-products-services-/2020/01/08/9078025.htm
+    excerpt: "/PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, brings its"
+    publishedDateTime: 2020-01-08T03:59:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300983324.html
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.52C31EBFA936865E2D7586E4B819E083
-        width: 323
-        height: 400
+      - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
+        width: 700
+        height: 366
   - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
     excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
     publishedDateTime: 2020-01-08T15:15:00Z

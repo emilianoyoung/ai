@@ -8,7 +8,7 @@ ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 104
-heat: 304
+heat: 305
 published: true
 
 provider:
@@ -310,6 +310,6 @@ related:
         width: 700
         height: 466
 
-secured: "g6CUMwOiKJpTSoTdBTA8oIPvuxuB277RMGqLG+GnLwkFaTZs14WbS2c9+HqDKge9J9J1po4hWA7U99IcFpNZR/f815BMyZBUndRayAb8uSw42nwrynz/5jgZ6fbg+ZM+Ak1heW7hxk8xwoE5VEV7CDjlsnPyvYsm3ZflEtwPJQP9ZAc2z9B6STZs1YZ8c6UTFX83qfdsMncHJh3VfWl3gTwQvVMpnlGwOD5ZIkjj7b1Od+S5/pDZ0saCxuLYCUwLJ0Vi8LilBFapkGzHJN1E3A==;f7Gt2lwgQoqzOaDdZsadmA=="
+secured: "e3udMjfTZ0y7TB0RIE+GJZzxmS6q+a8bo8ydCsd/TAt05N4WX4AyIImBI+avMzbibPVA+yPtRO1E2TGoVMRwyKyblVkBm48P0womBLqLcWL8jagu8V6dDBQ7lzicI5x88Tkfb6wmx1vWlrm2KH1zJp36TlPNdeGISTJ+lFMNtWcwqNf2jloAcVKqFklQFOgc6AXnIdWwUUcmFzwQny/rJQcwksrUYs5fjmyVioz7cPRE1yYjEnnY9K+9+f6X4BG5bVmEjSBx35tHVdFKaTPYRQ==;o4A1R8+Cd6odCAmB0uX3xg=="
 ---
 

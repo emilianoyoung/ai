@@ -22,19 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "This ‘lemon’ could help machine learning create better drugs"
-    excerpt: "WEST LAFAYETTE, Ind. – One of the challenges in using machine learning for drug development is to create a process for the computer to extract needed information from a pool of data points. Drug scientists must pull biological data and train the software to understand how a typical human body will interact with the combinations that come ..."
-    publishedDateTime: 2019-12-19T15:32:00Z
-    sourceUrl: https://www.purdue.edu/newsroom/releases/2019/Q4/this-lemon-could-help-machine-learning-create-better-drugs.html
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 39
-    images:
-      - url: https://news.uns.purdue.edu/images/2019/lemon-medsLO.jpg
-        width: 800
-        height: 521
   - title: "Attribute driven inverse materials design using deep learning Bayesian framework"
     excerpt: "Here we present a deep learning inverse prediction framework, Structure Learning for Attribute-driven Materials Design Using Novel Conditional Sampling (SLAMDUNCS), for efficient and accurate prediction of molecules exhibiting target properties. We apply this framework to the computational design of organic molecules for three applications ..."
     publishedDateTime: 2019-12-20T10:32:00Z

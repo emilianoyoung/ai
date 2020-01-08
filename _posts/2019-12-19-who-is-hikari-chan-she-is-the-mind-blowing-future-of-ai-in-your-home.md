@@ -8,7 +8,7 @@ ampUrl: https://www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interv
 cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/gatebox-japan-minori-takechi-interview/?amp
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
         width: 700
         height: 393
-  - title: "The Birth Of The Modern Robot"
-    excerpt: "While they may have originated as a facet of fiction, they have become incorporated into the study of the ethics of artificial intelligence as well. As the study of robotics has matured and ..."
-    publishedDateTime: 2019-12-19T15:12:00Z
-    sourceUrl: https://hackaday.com/2019/12/19/the-birth-of-the-modern-robot/
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: https://hackaday.com/wp-content/uploads/2019/11/flight-technology-tools-astronaut-39644-Cropped.jpg
-        width: 800
-        height: 450
 
 secured: "HG8fNW0Xmu57/Tdik7HxiUfdOhX8dHJtUel/8COT4FZCkQ/ScOB9CHG0wbJfjW3fp/YwjwnzbwLv5wOGTx/HXTQHVKromHmFTcSukO96jJBuXbvWcrfPw2dNchww/IftbsRWsQIWbVvWi3aho4Vh7RAu/mb03MisXwvjUyiVbf7IvZU9ci86vWX4G93edkz92KzkTmzD8ZTC1AXUkdrkTSMZYyE7k8uqWox/6RoKiwQSWZPRxWJOFVOzYr86RSOwnHcdiAtMc1YGFm4WjLupBQ==;AmeV1ILb9cweJIG1/GQLvQ=="
 ---

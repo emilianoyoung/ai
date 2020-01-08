@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
         width: 700
         height: 367
+  - title: "Welcome To The Machine: The AI Revolution Comes To ETFs"
+    excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
+    publishedDateTime: 2020-01-08T16:36:00Z
+    sourceUrl: https://seekingalpha.com/article/4315732-welcome-to-machine-ai-revolution-comes-to-etfs
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.65E239BE94010E441B7A70EF511676D1
+        width: 700
+        height: 465
   - title: "Artificial Intelligence to the Internet of Things: Technologies that defined the way we lived in 2019"
     excerpt: "In order to keep AI-powered devices, such as those in smart city surveillance systems, autonomous cars and healthcare systems responsive enough, the data needs to reside as close as possible to the source. This shift has also been possible due to System-on-Chip (SoC) processors that lend more computing power to edge devices. AI based solutions ..."
     publishedDateTime: 2020-01-02T01:57:08Z

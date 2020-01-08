@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.315747AE1D67FC94C9548F9F92B34C02
         width: 700
         height: 366
-  - title: "The Birth Of The Modern Robot"
-    excerpt: "While they may have originated as a facet of fiction, they have become incorporated into the study of the ethics of artificial intelligence as well. As the study of robotics has matured and ..."
-    publishedDateTime: 2019-12-19T15:12:00Z
-    sourceUrl: https://hackaday.com/2019/12/19/the-birth-of-the-modern-robot/
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: https://hackaday.com/wp-content/uploads/2019/11/flight-technology-tools-astronaut-39644-Cropped.jpg
-        width: 800
-        height: 450
 
 secured: "pcukmW/2/QfTDZt9T1IrzgKj5wQk0jCX3HS6le/fZwZd9Z0/VvY+VhVwxysVa4Dbl+EoU7ybwL/dgfqQ+XacRp363jT7xMLU+4RNmJT0ib5xdNBr1FQsFtLUV/ZkdBp2mEJFe83tM5woHs/3NEXgGyQsEAjZX5jOWZ+uPRerR+RaFg4DR6JoDSBdPpJkwobTy5uBpeuNqAzIRjA96Zwautrsf9832SvYdO8DwU5u0I8cgxMalIspyf8Lcaz1mP+J4qYQ6grSW7DdW4YAB6+YGg==;AiCiaLaucCu0D6FRX78ALg=="
 ---

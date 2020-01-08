@@ -41,19 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.68DF5CD2CD325BDB6873EC59EDA3EA72
         width: 700
         height: 410
-  - title: "Sony reveals Vision-S electric car concept at CES 2020"
-    excerpt: "Sony revealed a driverless, electric concept sedan at this year's Consumer Electronics Show ... These include its imaging and sensing technologies, as well as on-board software regulated using Sony's artificial intelligence, telecommunication and cloud technologies. \"It's not an exaggeration to say that mobile has been the mega-trend of ..."
-    publishedDateTime: 2020-01-07T14:38:06Z
-    sourceUrl: https://www.msn.com/en-gb/finance/technology/sony-reveals-vision-s-electric-car-concept-at-ces-2020/ar-BBYHNM6
-    type: article
-    provider:
-      name: Dezeen on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.9B6A3A4C1DA275CF2061762B6F9544A5
-        width: 700
-        height: 466
 
 secured: "g09ndTU4JjbqueCe6n6jpFdWpWlX1b8ALchhyCRb5x4FdRhsGTn3cmE76GGFUtLiHOrIJtOCFJYtA4vZDhJr5b8ejRz6Bg83fIXyoTJt7xgfEt38+VQTiZOYYG0OK9BvGoz4dlnx8um6BOz8jB16XjQYSdLNSyH4zJfFAaMBOxERcRn5/6YESJb1sRCE0Hc0PR9F3/zDUQxlm8G+uEDWYxIywc1wXO7b1AGy83owvlip1CfgynXxlrwZ1t/A6jsu9Uo+ExywAsY4zFx2wGE0Qw==;bRtK6LBaGorF4qiOBFHUjQ=="
 ---

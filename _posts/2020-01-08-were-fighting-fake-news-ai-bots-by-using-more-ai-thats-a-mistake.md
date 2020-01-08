@@ -8,7 +8,7 @@ ampUrl: https://www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bot
 cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/amp/
 type: article
 quality: 59
-heat: 69
+heat: 70
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         width: 700
         height: 367
 
-secured: "HppjfjGbdybwBhhzT4btMzhKyIrrx3k6HaZnbEZhhaDEVgCW2SZ1TyKHjcep8bhoAUG2JNOd9+ONMaoiEm6t5x8wS5Ld2tEjxmBjs0xuNVLwVgYunPaLwodHlUZgkcIOA7wfxxk4mn+XIEhtPu3gJEds2PIvpxUqprDcqBh43EG/XU5lRwbJAKgYS7TcnXoSZpmK4n0zgUb8N777gdrnrFx1aUIdnKhndJiC6WgD5mXK/9GyebWr0/mhhLPtkRxkwsO/ZFeeWGB/zFg6B3zClw==;3MRqww8+0+Q+xNEAmss66Q=="
+secured: "eC+jY5ttOPXxOcIS1cH1FfgQ/e8AdqE24agWgxNiXc432kGRo9w9ZdIywZk9XEaM+PZ39iv6LPGybFxm3JW09PuOIoy5kbPs72TMCjmp47PDlimff0iEcNtBYS9RIJzkC60V0MZCLLmkUNNSyoRy3L+vbGuOHjvwM9QhDez3lmKlw4XveeIIc888A9uwASl5mNg0SxxFyNy7419NEtJKiHPK7MFKlc3uShbLqQtd7Q/iHti1P5o0AfrW3429sZkK8B/+lFFq8xjkNOMvypMvpA==;OPn5gpn3N4l3kY9oGcfi5A=="
 ---
 
