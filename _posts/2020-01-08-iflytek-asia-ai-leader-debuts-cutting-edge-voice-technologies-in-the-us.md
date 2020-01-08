@@ -1,28 +1,22 @@
 ---
 category: news
 title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
-excerpt: "LAS VEGAS, Jan. 8, 2020 /PRNewswire/ -- Today, iFLYTEK, one of the world's leading artificial intelligence (AI) and speech technology companies, unveiled a number of consumer and business products for the first time in the US."
-publishedDateTime: 2020-01-08T18:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/iflytek-asia-ai-leader-debuts-cutting-edge-voice-technologies-in-the-us-300983397.html
+excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
+publishedDateTime: 2020-01-08T19:10:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-iflytek-asia-ai-leader-debuts-cutting-edge-voice-/2020/01/08/9078596.htm
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
 
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
-
-secured: "t3Eb6SMdp7527YoHfrEMHw7dJRRzx4LLolOvd3P+ON0gR6k8+r2jBEHJLJjDWHhklUQkGzSxhzpcNePPyGpokfw48D9ov0o6fzPxliHkYR84q3LvgGMwXOYUbSsbuTqkXCi2EbfVP+gLdEUFtqz7WuSVyLsa6iM2R79hCkEDJMyiZKgMUZUIh78ae2OKr0ZgkWAf3j73NedeHyjrfIOXkIJMww+L2fV69t2OWGpcoo8if0i54Pid8haCf431Y7affbex5sDYPi949oNX6d+Odg==;ek+XnO4sCrPcFXQtt1zXuw=="
+secured: "DGSYHIgg1G3ck54z11HccoISdD27DvraojzI7eLUVm6YLpl6RqJjHveSyEVct1bS//eDh9Y+e4OSqP2ZG59G0ltKnKwu4rdYxP5HqBYhqixfn/6lzZumsXKQUsEMJzA1qGkdkthqGwrZq+lHW8zL8YoDvK/RXnv3QNNUxsa9Um9aRUfERJ4KPP/mmr8ynMy98h6n04W8RZu9oeqVQnN4qFDTOBnPUZaQAJ9LqX6xqHHdM2Z+F/8vzliAWfNe0v9CYFxNirvnHB7aE0MmJhz7IQ==;8wz7FR77D+w55J3MM3nlJA=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://www.entrepreneur.com/amphtml/344583
 cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344583
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,6 +28,38 @@ images:
     width: 700
     height: 466
     title: "Reachy Is an Expressive, Open-Source Robot"
+
+related:
+  - title: "The hottest thing in robotics is an open source project you've never heard of"
+    excerpt: "While the open source projects behind the rise of data science are reasonably well known (e.g., TensorFlow and Keras, among others), most people aren't aware that robotics is also heavily influenced by open source and, in particular, by the Robot Operating System (ROS). Given the importance of ROS to the swelling open source robotics community ..."
+    publishedDateTime: 2020-01-08T20:56:00Z
+    sourceUrl: https://www.techrepublic.com/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
+    ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 103
+    images:
+      - url: https://www.bing.com/th?id=ON.6CD802C88EF8D24D892B1DED9D1DA9A0
+        width: 700
+        height: 525
+  - title: "Think Robots Will Take Our Jobs? Invest In This One Company"
+    excerpt: "It's not just cobots, though. Machine learning and artificial intelligence will take center stage of the robotics market. The advent of 5G and edge computing will play a role. Leaps in gripping technologies will be made. New robotic tasks will be taught. As RightHand Robotics Head of Product and Marketing Vince Martinelli put it, \"2020 will go ..."
+    publishedDateTime: 2020-01-08T15:05:00Z
+    sourceUrl: https://www.fool.com/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
+    ampUrl: https://www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
+    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
+        width: 700
+        height: 393
 
 secured: "yokndjxo/LS/xgzxrHW/MZcolfpwSue896EIBdRqiJTOHjnVqTwpjS6GCsqXj7rJxR+KSLE0KifHRaZlHgy0wZ4nIX2i3YTU8HvUJBQEPo/ZvPdRgXnWa/1VIyykkbpyj3iGQmdonhoqElbx3xZfOqiKsjC1t4Yv+63DYeRWBu7EGbriXhwx/MUcx/9Y9e/Bbx1CETAE6I96mBTUwCapzkNJNUlnVn+xuL8E/8fAmyCpyDYMp43cNOKYXiMMgxXv6Elk1aC8X5WlmKnq2WZL/w==;WG0KdM9QISgszfWmno2WAg=="
 ---

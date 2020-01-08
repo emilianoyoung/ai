@@ -39,6 +39,15 @@ related:
       - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
         width: 600
         height: 315
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "LAS VEGAS, Jan. 06, 2020 (GLOBE NEWSWIRE) -- The Consumer Technology Association (CTA) is honoring Fluent.ai, a Canadian technology company, for its groundbreaking work with speech recognition technology and artificial intelligence (AI). Fluent.ai is one of several groundbreaking technology companies being recognized as an Innovation Awards ..."
+    publishedDateTime: 2020-01-06T13:00:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/fluent-ai-named-ces-2020-innovation-honoree-for-its-advancements-in-voice-recognition-technology-1028796191
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
     excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
     publishedDateTime: 2020-01-06T08:11:00Z

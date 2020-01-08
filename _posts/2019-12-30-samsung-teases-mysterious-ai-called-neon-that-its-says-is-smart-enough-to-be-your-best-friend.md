@@ -8,7 +8,7 @@ ampUrl: https://www.dailymail.co.uk/sciencetech/article-7837645/amp/Samsung-teas
 cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7837645/amp/Samsung-teases-mysterious-AI-called-Neon-says-smart-best-friend.html
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 636
     height: 382
     title: "Samsung teases mysterious AI called 'Neon' that its says is smart enough to be your 'best friend'"
+
+related:
+  - title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
+    excerpt: "Two years ago, Samsung said it would spend $22 billion on AI by 2020 and would employ 1,000 AI specialists by the same time frame. It has opened AI centers around the globe to work on solving problems for making technology smarter. The company at last year's CES showed off several robots that could do things like monitor health and help with ..."
+    publishedDateTime: 2020-01-06T01:41:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
+        width: 700
+        height: 525
 
 secured: "xF6C9lWgtB37Pnaxm7j3PuTUVvZ2WW9F1uJHK4W+1gD09ViItwUL26iqmT0A4fpVJoyo/9jhvn4kmHDYJxg8LKRNL4P4Ee9YBKq80wTxyjK953ip0thoREuBr8zllauW18DTplWpWVWD5xA5yVzGpiQ6nw1ex+gdXtbB5+e0SmTS14tyIMSVMBbZr+C6bhJXPmglwcYere1k5CGQZnmvXtwhX+xFutwoCOeANcD4ZJcxttaGtvYQjEJe2pX8e88X8EKgcP6+vDuugw0n3JBBlg==;g+wpkq0akCUCkauMRBkhHA=="
 ---

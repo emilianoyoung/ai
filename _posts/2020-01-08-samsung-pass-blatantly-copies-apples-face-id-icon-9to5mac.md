@@ -39,19 +39,6 @@ related:
       - url: https://image.businessinsider.com/5e154fceb2e66a5d7672cdb3?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Samsung copied Apple’s Face ID logo in its CES keynote"
-    excerpt: "In this case, Samsung presented an icon for facial recognition that is almost indistinguishable from Apple’s Face ID icon. As iMore indicates, they’re not exactly the same — the lines all seem a bit thicker and closer together, and the corners are perhaps a touch less rounded — but we’re basically looking at Apple’s Face ID icon ..."
-    publishedDateTime: 2020-01-07T22:10:31Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-copied-apple-e2-80-99s-face-id-logo-in-its-ces-keynote/ar-BBYIySV
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1F01EB69BB3330BEF80CC94BBFD2CA7B
-        width: 700
-        height: 366
 
 secured: "ew9U05rcCuRP1MMKLtQ5OQVgomyjFJdE9HqKZuUF71q3/E/WSX+MnjgSZen1zFTgVFelWHInlfYxtCX+ybR8IakH2VDgQynnJbPusab99pSxGMw0bkk3pcCJ+C3bYdfQE3U0/iMUXp1SRMrWQiZ/ExXOUT7OH534YxGpEip0PP0yTHcj5sSuTUwmhtdHqXMpJlNoCL/6i0VwjSy4gyjo8hF1n9QrVPTpSc9fGe1ho/27zBwsGrc8qh9eWlHp4jLu/NtHyr3+caraUXdvk/OsKg==;mj/uKMgflVKx6N1M4Tz8Dg=="
 ---

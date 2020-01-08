@@ -189,15 +189,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 16
-  - title: "CES points to age of “Intelligence of Things”"
-    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
-    publishedDateTime: 2020-01-06T07:04:00Z
-    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
-    type: article
-    provider:
-      name: Warc
-      domain: warc.com
-    quality: 2
 
 secured: "nE0H3Z6+NkOepivLMfL/PLjYCrSTugBwCrh0dFlKPQFA/Wt5h+r7UdZDSdJZIpZ0nPqdCbpKfVDOHGEX3J8NrVv7WaJToN0ioccL8iDbPhg+ExECRtipmhTSS8tAviQ+RcyVe9cbiik4kWBS0abw4eWwiINEmPqmhbzdJTWyDZuJ0SLRrpV48GzcVWaHTfsMfTJnyPdUt1S3xjHmttk/wEaJsWk0e7Cdc68UhPpf9WkW2Fp0F85WGVHNEVHD4IRQooPFiAlquTaHXYtKFTg7ow==;voSDzLG7CbG5TBdXR2u1ng=="
 ---

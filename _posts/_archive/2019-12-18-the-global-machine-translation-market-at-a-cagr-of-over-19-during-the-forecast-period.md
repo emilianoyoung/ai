@@ -18,6 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
+    publishedDateTime: 2019-12-12T20:53:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
+        width: 1199
+        height: 600
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
     publishedDateTime: 2019-12-17T19:35:00Z
@@ -28,6 +43,6 @@ related:
       domain: yahoo.com
     quality: 11
 
-secured: "q3j8pMw3mQ900BiKakdQ0FK69hi6AGqgR6tI5AFj2Y7YmJ9Ukg+P7GsT3uZzS8ceI9P9c1rZVK0zx3JX6nD1T68o9aGocnmntG1Czu0ww51/BXAfxYI184sUvIoIEJkT27/+2OsGE3cr+xpbLikeSMZ+19spfLeJsVnvfMbGW0N7khnQ7pZJxd+i1yYCqCLJdMRHEf2UM9V9NnM8mVaCs/Nt3iYMqFuy0Vih6z3GKnOKMn16Q6J4ZVhVVC5GPHh+tVm41Q1WFc7GojXwduUMUA==;ifthKU31kQvs845cEyEZ6A=="
+secured: "ynOtPfmMpHeF4Wjs/9Dan/pKZCyzb2ePgAVr/DOzZSZwNyr26F0AwO6ocvyW/NMa40K0hoUqtsxsKFTzirX8tCvLoEdU+enxpqoAAAyvAje4LTG9HbKoGYCo2ZDdLnyTb3VMbk63A1VfaQUcmzaaeNGoX8qeqvSWQ4fO3rJEceVhZTFCVIibLMvBuTKRNJFCfG000is5E4NsPkBaXucnWpSy4syIRlgwzr+w7JuWs96yKia6M8W2FREQuyHbK3uuy2CXIeULaLP2Nkkhwaz6Fg==;ZME9Uyd9w/8W5jVwLos2uQ=="
 ---
 

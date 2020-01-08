@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Government study finds racial, gender bias in facial recognition software"
-excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
-publishedDateTime: 2019-12-19T20:33:00Z
-sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
-ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
-cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+title: "Police facial recognition: US academic says Kiwis deserve answers"
+excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
+publishedDateTime: 2019-12-19T20:21:00Z
+sourceUrl: https://www.stuff.co.nz/national/118256488/police-facial-recognition-us-academic-says-kiwis-deserve-answers
 type: article
-quality: 58
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Stuff.co.nz
+  domain: stuff.co.nz
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
-    width: 645
-    height: 363
-    title: "Government study finds racial, gender bias in facial recognition software"
+  - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
+    width: 700
+    height: 394
+    title: "Police facial recognition: US academic says Kiwis deserve answers"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -471,19 +469,21 @@ related:
       - url: https://www.bing.com/th?id=ON.81A4F520A546CFE573C22A9770616BCA
         width: 700
         height: 466
-  - title: "Japan tech firm aims to supplant Chinese facial recognition rivals"
-    excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
-    publishedDateTime: 2019-12-19T19:12:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Business-trends/Japan-tech-firm-aims-to-supplant-Chinese-facial-recognition-rivals
+  - title: "Government study finds racial, gender bias in facial recognition software"
+    excerpt: "Many facial recognition technology systems misidentify people of color at a higher rate than white people, according to a federal study released Thursday."
+    publishedDateTime: 2019-12-19T20:33:00Z
+    sourceUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software
+    ampUrl: https://thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/475350-government-study-finds-racial-gender-bias-in-facial-recognition-software?amp
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
+      name: The Hill
+      domain: thehill.com
+    quality: 58
     images:
-      - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
-        width: 700
-        height: 350
+      - url: https://www.bing.com/th?id=ON.CBCB5DED80047F4095BF9C53E007A42D
+        width: 645
+        height: 363
   - title: "New face recognition feature at airport"
     excerpt: "AIRASIA has introduced a new way for passengers boarding flights at the Avalon Airport in Melbourne, Australia. The new system called Faces, which stands for Fast Airport Clearance Experience System, scans passengers’ face for identification prior to boarding. Passengers may choose to use this new biometric identification system or present ..."
     publishedDateTime: 2019-12-23T23:56:00Z
@@ -527,51 +527,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
-  - title: "Federal Study Finds Face-Scanning Tech Stumped by Race, Gender"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person's race, gender or age. This is the first time the National Institute of Standards and Technology has investigated demographic differences in how face-scanning algorithms are able to identify people. It comes as lawmakers and privacy ..."
-    publishedDateTime: 2019-12-19T19:57:00Z
-    sourceUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/
-    ampUrl: https://www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/study-face-scanning-tech-stumped-race-gender/2245690/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.14EF19A2D51E27CF7FBE68E4EE748B29
-        width: 700
-        height: 393
-  - title: "Federal study finds racial bias in many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
-    publishedDateTime: 2019-12-19T19:06:00Z
-    sourceUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/
-    ampUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.C4243A15BB13D680E3E0628F52145740
-        width: 700
-        height: 449
-  - title: "Federal study finds racial bias of many facial-recognition systems"
-    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
-    publishedDateTime: 2019-12-19T19:06:00Z
-    sourceUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/
-    ampUrl: https://www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/federal-study-finds-racial-bias-in-many-facial-recognition-systems/?amp=1
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.93AE9731C22EF88B244F6025EB39C038
-        width: 700
-        height: 449
   - title: "Many facial-recognition systems are biased, says U.S. study"
     excerpt: "The majority of commercial facial-recognition systems exhibit bias, according to a study from a federal agency released Thursday, underscoring questions about a technology increasingly used by police departments and federal agencies to identify suspected criminals. The systems falsely identified African American and Asian faces 10 times to 100 ..."
     publishedDateTime: 2019-12-26T08:35:00Z
@@ -630,19 +585,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
         width: 768
         height: 510
-  - title: "Police facial recognition: US academic says Kiwis deserve answers"
-    excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
-    publishedDateTime: 2019-12-19T20:21:00Z
-    sourceUrl: https://www.stuff.co.nz/national/118256488/police-facial-recognition-us-academic-says-kiwis-deserve-answers
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4D2C5489EB6E32E727304F40570F8B3C
-        width: 700
-        height: 394
   - title: "A US government study confirms most face recognition systems are racist"
     excerpt: "Almost 200 face recognition algorithms—a majority in the industry—had worse performance on nonwhite faces, according to a landmark study. What they tested: The US National Institute of Standards and Technology (NIST) tested every algorithm on two of the most common tasks for face recognition. The first, known as “one-to-one” matching ..."
     publishedDateTime: 2019-12-20T16:08:00Z
@@ -843,19 +785,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FE1535BE33E8BEFDDDBE192BA3A297D
         width: 700
         height: 466
-  - title: "Lawmakers look for answers on facial recognition in federally assisted housing"
-    excerpt: "A group of lawmakers has sent a letter to Department of Housing and Urban Development Secretary Ben Carson demanding answers as to how and when federally assisted housing properties use facial recognition technology. The group of eight democratic lawmakers, which includes Sens. Cory Booker, D-N.J., and Kamala Harris, D-Calif., as well as ..."
-    publishedDateTime: 2019-12-19T19:32:00Z
-    sourceUrl: https://www.fedscoop.com/lawmakers-look-answers-facial-recognition-federally-assisted-housing/
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.43E707E30CC0E1940F691C26E40BB257
-        width: 700
-        height: 340
   - title: "Lawmaker Asks DHS Secretary to Reassess Facial Recognition Programs After NIST Report"
     excerpt: "The House Homeland Security Committee chairman urged the Homeland Security secretary to investigate whether the department should pause and assess its facial recognition operations after a National Institute of Standards and Technology report found potential for bias in some leading facial recognition algorithms. Rep. Bennie Thompson ..."
     publishedDateTime: 2019-12-23T16:32:00Z
@@ -908,21 +837,6 @@ related:
       - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
         width: 870
         height: 580
-  - title: "Federal study confirms racial bias of many facial-recognition systems, casts doubt on their expanding use"
-    excerpt: "Facial-recognition systems misidentified people of color more often than white people, a landmark federal study released Thursday shows, casting new doubts on a rapidly expanding investigative technique widely used by law enforcement across the United States. Asian and African American people were up to 100 times more likely to be misidentified ..."
-    publishedDateTime: 2019-12-19T19:57:00Z
-    sourceUrl: https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/
-    ampUrl: https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 27
-    images:
-      - url: https://www.bing.com/th?id=ON.3B5369AAF0EE6149BA061DAA70EC1548
-        width: 700
-        height: 466
   - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
     excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
     publishedDateTime: 2019-12-20T21:17:00Z
@@ -947,19 +861,6 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
-  - title: "Japan expands 'facial-recognition economy' in race with China"
-    excerpt: "TOKYO/GUANGZHOU -- NEC is betting convenience combined with peace of mind over data security will be a winning formula in the market for facial recognition technology. The Japanese electronics maker is counting on its technological edge and encryption techniques to beat out Chinese rivals. There is no question that facial recognition can make ..."
-    publishedDateTime: 2019-12-19T19:27:00Z
-    sourceUrl: https://asia.nikkei.com/Business/Business-trends/Japan-expands-facial-recognition-economy-in-race-with-China
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.29C67EAA48455409733715138B5167B1
-        width: 700
-        height: 350
   - title: "Federal study finds race, gender affect face-scanning tech"
     excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
     publishedDateTime: 2019-12-20T13:32:00Z
@@ -1067,6 +968,6 @@ related:
       domain: msn.com
     quality: 17
 
-secured: "U07OMhXxu2QEjMQM4kZZVJACTHcwXBQVkOGHPL/MMS1FbsHUoLbuX40Xd4uHp8lLgu1DwEcykoiFvLepDcOkIEIUp2aESmy0OI2BEADauGspuNrDYn27nqpMCfBd3vK92NspkeaX+tM2v4xjlQdEaVCs5k+FPvPpy8b2nZelEQXwSeN9q0cDwVBkwmP3zBoxhkVlZjjYYEhDUyoXrSAp3yk6tS/+ht+tkgO5oNSOERyLffJ0WlRx4Vnyz4LbbJ+uCeEI/X+7AGJjd2ctWxZ01g==;eAu0e0MxTal0e+9FJJkAYA=="
+secured: "HBC0uj3pqTP+bEHWKTzO0aX/wZtEd5ZN1+lf/zjvk6dlphytkCHhjEO4Mbuy2HhEldLWPSMoSD0pWWoU0kKXqakPmOWVNlNPzNaQi1VDiaGBw8e4bEcWY7k3ulVSXO16EU23Ehy7KistkkBq4jbUnVUrBONsGg/2tzQwjJv8FJ9CmohfVQdrQ0hF7d7xG6g4yihX1gdh0TujIOZ7gu840abbOnMvksGxWR3Zk5uJ1AgVKXqZveQvwYdj2z6ILcFgircsmqS61Z86XLhKynZbEQ==;8/4l+be307Ko3oU1ZCTwwQ=="
 ---
 

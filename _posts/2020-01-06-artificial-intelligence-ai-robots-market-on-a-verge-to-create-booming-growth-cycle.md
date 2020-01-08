@@ -181,15 +181,6 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 16
-  - title: "CES points to age of “Intelligence of Things”"
-    excerpt: "The Internet of Things will be supplanted by the “Intelligence of Things” as artificial intelligence (AI) plays an increasingly central role in the lives of consumers, according to the Consumer Technology Association, the trade group behind CES. Steve Koenig, vp/research at the Consumer Technology Association, highlighted this topic during ..."
-    publishedDateTime: 2020-01-06T07:04:00Z
-    sourceUrl: https://www.warc.com/newsandopinion/news/ces-points-to-age-of-intelligence-of-things/43081
-    type: article
-    provider:
-      name: Warc
-      domain: warc.com
-    quality: 2
   - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
     excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
     publishedDateTime: 2020-01-08T06:15:00Z

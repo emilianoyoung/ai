@@ -75,36 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
         width: 700
         height: 525
-  - title: "CES 2020: LG pushes AI future with 8K TVs and home appliances"
-    excerpt: "As the Consumer Electronics Show (CES) prepares to open up its showrooms on Tuesday, LG has made clear that artificial intelligence (AI) will be its core focus for 2020. During its CES press conference on Monday evening, LG chief technology officer, I P Park, and founder of Element AI, Jean-Francois Gagné, introduced the company's new tenets ..."
-    publishedDateTime: 2020-01-07T02:44:00Z
-    sourceUrl: https://www.zdnet.com/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
-    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.1B06B352EE7EE82D99CF7B4F396925E3
-        width: 700
-        height: 525
-  - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
-    excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
-    publishedDateTime: 2020-01-06T16:30:00Z
-    sourceUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/
-    ampUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
-        width: 700
-        height: 398
   - title: "Snapdragon Ride is Qualcomm’s autonomous shortcut to self-driving cars"
     excerpt: "Qualcomm has built a modular autonomous car system offering automakers a shortcut to self-driving vehicles, as the chip-maker attempts to extend its footprint outside smartphones and modems. The Qualcomm Snapdragon Ride platform includes multiple chips and accelerators for things like computer vision, packaged into a car-friendly form factor ..."
     publishedDateTime: 2020-01-06T18:30:00Z
@@ -278,7 +248,7 @@ related:
   - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
     excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
     publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+    sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
     type: article
     provider:
       name: NIKKEI

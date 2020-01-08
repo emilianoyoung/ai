@@ -17,187 +17,105 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
-    excerpt: "Jan 06, 2020 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the company profiling ..."
-    publishedDateTime: 2020-01-06T20:57:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06
+  - title: "LG’s CES press conference tried to convince us of its AI future"
+    excerpt: "In its press conference at CES today, LG presented its upcoming lines of TVs and kitchen appliances for the coming year. This year, the emphasis was on AI: in fact, the first 20 minutes of the presentation pushed a speculative look at the future of AI as a consumer ... ultra-large models across its 2020 lineup and 13 new OLED models that ..."
+    publishedDateTime: 2020-01-06T19:42:00Z
+    sourceUrl: https://www.theverge.com/2020/1/6/21050789/lg-8k-tv-oled-lcd-thinq-ai-instaview-refrigerator-washer-dryer-ces-2020
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/6/21050789/lg-8k-tv-oled-lcd-thinq-ai-instaview-refrigerator-washer-dryer-ces-2020
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/6/21050789/lg-8k-tv-oled-lcd-thinq-ai-instaview-refrigerator-washer-dryer-ces-2020
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 94
+      name: The Verge
+      domain: theverge.com
+    quality: 187
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Chips Market Gain Impetus due to the Growing Demand over 2025"
-    excerpt: "Dec 31, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence (AI) Chips Market Report is highly intended to offer robust acumen considering Artificial Intelligence (AI) Chips Market industry to aid a market contender with insightful analysis for Artificial Intelligence (AI) Chips Market size, share, competitive scenario, segments ..."
-    publishedDateTime: 2019-12-31T04:30:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-gain-impetus-due-to-the-growing-demand-over-2025-2019-12-31
+      - url: https://www.bing.com/th?id=ON.2F65745E722A9E09897305BB2162C880
+        width: 700
+        height: 366
+  - title: "CES 2020: LG pushes AI future with 8K TVs and home appliances"
+    excerpt: "As the Consumer Electronics Show (CES) prepares to open up its showrooms on Tuesday, LG has made clear that artificial intelligence (AI) will be its core focus for 2020. During its CES press conference on Monday evening, LG chief technology officer, I P Park, and founder of Element AI, Jean-Francois Gagné, introduced the company's new tenets ..."
+    publishedDateTime: 2020-01-07T02:44:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-lg-pushes-ai-future-with-8k-tvs-and-home-appliances/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
-    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
-    publishedDateTime: 2020-01-07T11:43:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
-    excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
-    publishedDateTime: 2020-01-08T07:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Healthcare Market May See a Big Move | Intel, Nvidia, Google, IBM, Microsoft"
-    excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Healthcare Market Outlook provides thoughtful analysis of current issues facing the industry, along with current facts and statistics about the production and application in Global Artificial Intelligence in Healthcare Market. The latest research publication ..."
-    publishedDateTime: 2019-12-31T09:02:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-may-see-a-big-move-intel-nvidia-google-ibm-microsoft-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Advanced Chatbots Market Is Booming Worldwide | Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation"
-    excerpt: "source=MW&Mode=20 The dominating players in the Advanced Chatbots market are Artificial Solutions, IBM Watson, Naunce Communications, eGain Coporation, Creative Virtual, Next IT Corp., CX Company, Speaktoit, Customer, Codebaby Advanced Chatbots market segregation by product type: Scripted Bots AI Bots The Application can be divided as follows ..."
-    publishedDateTime: 2019-12-31T08:59:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/advanced-chatbots-market-is-booming-worldwide-artificial-solutions-ibm-watson-naunce-communications-egain-coporation-2019-12-31
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Intel confirms 'Tiger Lake' is the next Intel Core processor you need to care about"
-    excerpt: "Melissa Riofrio/IDG Intel unveiled DG1, its first discrete GPU for consumers, at its press conference January 6 at CES in Las Vegas ... The theme was “Innovation through Intelligence,” representing the addition of AI from the edge to the cloud. Intel chief executive Bob Swan walked through a series of announcements focusing on the enterprise."
-    publishedDateTime: 2020-01-07T03:23:00Z
-    sourceUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.html
-    ampUrl: https://www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
-    cdnAmpUrl: https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3512619/intel-confirms-tiger-lake-is-the-next-intel-core-processor-you-need-to-care-about.amp.html
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 48
-  - title: "Neural Network Software Market Is Thriving Worldwide with Google, Neurala, IBM Corporation, Microsoft Corporation"
-    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
-    publishedDateTime: 2020-01-08T13:21:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Chipset Market 2020 Overview, Latest Analysis and Future Forecast By 2025 – Market Research Engine"
-    excerpt: "Based on End-User Industry the global Artificial Intelligence Chipset market is segmented in Consumer Electronics, Automotive, BFSI, IT & Telecommunication, Media & Entertainment, Retail, and Healthcare. The global Artificial Intelligence Chipset Market is expected to exceed more than US$ 56 Billion by 2024 at a CAGR of 33.5% is the given ..."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-overview-latest-analysis-and-future-forecast-by-2025-market-research-engine-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
-    excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
-    publishedDateTime: 2020-01-06T17:45:00Z
-    sourceUrl: https://www.openpr.com/news/1890400/artificial-intelligence-ai-robots-market-on-a-verge-to-create
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 42
-  - title: "Latest release: AI in Fashion Market is Booming Worldwide with CAGR of 38.91% | Microsoft, IBM, Google, AWS, SAP, Facebook, Adobe"
-    excerpt: "nbsp; Market Drivers: Rising Customer Demand for Personalized Fashion Experience Growing Need for Automated Inventory Management in Fashion Industry Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the AI in Fashion market Chapter 2: Exclusive Summary &ndash; the basic information of the AI in Fashion ..."
-    publishedDateTime: 2020-01-06T16:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/latest-release-ai-in-fashion-market-is-booming-worldwide-with-cagr-of-3891-microsoft-ibm-google-aws-sap-facebook-adobe-2020-01-06
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
-    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
-    publishedDateTime: 2020-01-08T02:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipset-124310145.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 37
-  - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
-    excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
-    publishedDateTime: 2020-01-07T00:24:00Z
-    sourceUrl: https://www.autonews.com/ces/intel-ceo-emphasizes-innovation-through-intelligence-ces
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.AA576558169A7C51D18460A0D1DF3BEE
+      - url: https://www.bing.com/th?id=ON.1B06B352EE7EE82D99CF7B4F396925E3
         width: 700
         height: 525
-  - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
-    excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
-    publishedDateTime: 2020-01-08T00:21:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-neuromorphic-chips-market-outlook-194500633.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-neuromorphic-chips-market-outlook-194500633.html
+  - title: "Nvidia touts its unified architecture and pretrained libraries for autonomous cars"
+    excerpt: "And the company is making its pretrained libraries of deep neural network data for self-driving cars available to its partners ... and it is now becoming the heart of artificial intelligence chips for autonomous vehicles. “Everything in the $10 trillion industry will have some degree of autonomy, and that’s what we’re really working ..."
+    publishedDateTime: 2020-01-06T16:30:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/
+    ampUrl: https://venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/nvidia-touts-its-unified-architecture-and-pretrained-libraries-for-autonomous-cars/amp/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 16
-  - title: "Next-Generation Firewall (NGFW) Market to Generate Revenue Worth $5,188.8 Million in 2025: P&S Intelligence"
-    excerpt: "Ltd. China dominated the APAC security policy management market in 2018, mainly because of the growing emphasis on the adoption of artificial intelligence (AI) technologies and intense focus of banks on regulatory compliance. Geographically, the cyber security market is expected to witness the fastest growth in Asia-Pacific, during the forecast ..."
-    publishedDateTime: 2020-01-08T06:15:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1967632/0/en/Next-Generation-Firewall-NGFW-Market-to-Generate-Revenue-Worth-5-188-8-Million-in-2025-P-S-Intelligence.html
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.7AEB38BB363B91C31C73B90E5DAF4A69
+        width: 700
+        height: 398
+  - title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
+    excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
+    publishedDateTime: 2020-01-07T02:38:00Z
+    sourceUrl: https://www.techrepublic.com/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+    ampUrl: https://www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+    images:
+      - url: https://www.bing.com/th?id=ON.C36725E696F2CEC709A6F4316706F256
+        width: 700
+        height: 525
+  - title: "Caris Life Sciences to Present at the 38th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Caris is also advancing precision medicine with Next Generation Profiling™ that combines its innovative service offerings, Caris Molecular Intelligence® and ADAPT Biotargeting System™, with its proprietary artificial intelligence analytics engine, DEAN™, to analyze the whole exome, whole transcriptome and complete cancer proteome."
+    publishedDateTime: 2020-01-02T11:48:00Z
+    sourceUrl: https://www.finanzen.net/nachricht/aktien/caris-life-sciences-to-present-at-the-38th-annual-j-p-morgan-healthcare-conference-8359765
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.net
+    quality: 33
+    images:
+      - url: https://images.finanzen.net/images/logos/finanzennet_600x315.jpg
+        width: 600
+        height: 315
+  - title: "Samsung copied Apple’s Face ID logo in its CES keynote"
+    excerpt: "In this case, Samsung presented an icon for facial recognition that is almost indistinguishable from Apple’s Face ID icon. As iMore indicates, they’re not exactly the same — the lines all seem a bit thicker and closer together, and the corners are perhaps a touch less rounded — but we’re basically looking at Apple’s Face ID icon ..."
+    publishedDateTime: 2020-01-07T22:10:31Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-copied-apple-e2-80-99s-face-id-logo-in-its-ces-keynote/ar-BBYIySV
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1F01EB69BB3330BEF80CC94BBFD2CA7B
+        width: 700
+        height: 366
+  - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
+    excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
+    publishedDateTime: 2020-01-02T15:20:00Z
+    sourceUrl: https://www.theglobeandmail.com/canada/article-canadian-schools-prepping-students-for-jobs-of-the-future-as/
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.0F78F08BA63EFE2A6BBE3524ECC71755
+        width: 700
+        height: 466
 
 secured: "1TCBfEnCKxsnbnu3xiO+SyEZCLnSRoZT9/wj5h+PiMqlb2Vr/J2N80pNJAcnXPhGEm8LS7+HtJ0Wb/HsletqimuhAI6be8Tw8+I7gIYHzNs/K4nqa/mAFh9/0BazGJm05+0XrJYNNAKXvAHN821wQTmqdXVhe5T/HhJtFdM2zbn267CaWPx5MA+LD7XeQHjcCpdpGgxT6rRzCLLGsDwTU95jNcHmWMNw90TxADaJCTE2S/ZLMjEhodmKLlCecWqznt/hUgpVNCSLawZRL/LwOg==;Z82/BukrkkSdV65uf0MkRg=="
 ---

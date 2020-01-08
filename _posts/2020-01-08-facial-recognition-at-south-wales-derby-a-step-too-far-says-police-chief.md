@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -53,6 +53,6 @@ related:
         width: 600
         height: 315
 
-secured: "sD0/7P2BZ6asRYJ63H6pcjF4Od8DhnJmVD6srp3waQfpUQLPGGset4GdxIdU1OmELkVJLt6Zpk7BD2WM93lNoxrom2eweKHSR++atq0t1zO2zYgzJZx338rqzv2hFNIrJSj1pt4FYfzq627tSbaJjNHK+mMH1EUvO5SPKGbTCznTl2g/+M3F0+8a/sDmqBvSshC17a6Ok5MBjLRVXo6eu+CqSKtf7PaTSUpqUACAKCqduCY7QjG5dQQPigiGPrXRQEY+22UVuaj/UzoXZNThGA==;iUtbSvxTILB4jnD3ZaGWXQ=="
+secured: "kKss1DPbSQTnuhUTe0/n0MaI7WBXR3T53dprXfqz7JYyMj/tZnnm7Govfe/htXSF6ivJFvrLI9bltmPnRk9Oh28HI+XfqUQWKMic7j6m1TvMimD49jpYbtARFFxOM6/zoAIsXi9JTy5W+jvXqCznQwItXAnzWXbdyTgrzSMyvmvR45sQ26j0EfyQy7d85v1sqeE18GCCxcyXZ6Vu4Rigbxf5rP5+DJchh/iP4ZSptSmC8t8oVaCUX6+kGxVdjh+54owJZBHTaLCRquaHkfNgHQ==;EZUOIdEelDm1bNLXPavxiw=="
 ---
 

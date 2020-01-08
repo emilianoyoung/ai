@@ -41,21 +41,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F018DF0B9ADDB1DEEB3712D7A8252114
         width: 700
         height: 357
-  - title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
-    excerpt: "Meet #NEON. January 2020. pic.twitter.com/iFkWVVyF6kDecember 17, 2019 Samsung has been mindful to not describe it as a voice assistant or artificial intelligence. Instead the company is using terms like ‘artificial human’ or ‘artificial intelligence being’ to market the project. Honored to have so much coverage even before we unveil."
-    publishedDateTime: 2020-01-02T19:16:00Z
-    sourceUrl: https://www.tomsguide.com/news/samsung-to-announce-neon-at-ces-2020
-    ampUrl: https://www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.3841CB3BCC57682224B20D4AD6BD9799
-        width: 700
-        height: 393
   - title: "AMD could reveal Ryzen 4000 CPUs at CES 2020 to keep the pressure on Intel"
     excerpt: "With all the talk in the processor world very much being of Intel’s next-gen Comet Lake CPUs of late, AMD could throw a spanner in the works of its rival’s PR machine by unveiling Ryzen 4000 chips at ... 2020 As you can see, going by the translation, AMD’s CEO may reveal further details about Zen 3 at a CES press event – Zen 3 being ..."
     publishedDateTime: 2020-01-03T12:26:55Z

@@ -25,60 +25,77 @@ images:
     title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
 
 related:
-  - title: "The Neon ‘artificial human’ presentation at CES 2020 was a trainwreck"
-    excerpt: "I and many of my colleagues in tech journalism gathered at the Neon CES 2020 event to get our first glimpse at what could be a game-changing new frontier in artificial intelligence. However, what we saw wasn’t like a sci-fi film come to life, but rather a poorly-executed pitch of an idea that doesn’t at all match the hype. Neons are the ..."
-    publishedDateTime: 2020-01-08T13:04:00Z
-    sourceUrl: https://www.androidauthority.com/neon-presentation-ces-2020-1072833/
-    ampUrl: https://www.androidauthority.com/neon-presentation-ces-2020-1072833/amp/
-    cdnAmpUrl: https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/neon-presentation-ces-2020-1072833/amp/
+  - title: "Samsung's new Neon project is finally unveiled: It's a humanoid AI chatbot"
+    excerpt: "They can't tell you the weather or how old Abraham Lincoln was when he died. \"Neons are not AI assistants,\" the company said. \"Neons are more like us, an independent but virtual living being, who can show emotions and learn from experiences. Unlike AI assistants, Neons do not know it all, and they are not an interface to the internet to ask ..."
+    publishedDateTime: 2020-01-07T17:54:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 87
+      name: CNET
+      domain: cnet.com
+    quality: 185
     images:
-      - url: https://www.bing.com/th?id=ON.F018DF0B9ADDB1DEEB3712D7A8252114
+      - url: https://www.bing.com/th?id=ON.162D1409BD9285CA4E3335EC779779DC
         width: 700
-        height: 357
-  - title: "CES 2020: Not just an AI assistant, Neon is world’s first ‘Artificial Human’"
-    excerpt: "Taking the human-artificial intelligence (AI) experience a notch higher ... According to a CNBC report, that is exactly what sets Neons apart from regular robots, humanoids, or smart home devices such as Google Assistant and Alexa. These new-age AIs are capable of doing far more than just give weather updates or play music on command."
-    publishedDateTime: 2020-01-08T11:41:00Z
-    sourceUrl: https://www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html
-    ampUrl: https://www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html/amp
-    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html/amp
+        height: 525
+  - title: "More details about Samsung’s AI human project ‘Neon’ have been revealed"
+    excerpt: "It’s unclear whether this artificial human would have AI brains, or would become an avatar of the user. The latter isn’t an especially exciting prospect. It sounds more like an evolution of Samsung’s AR Emoji. But if Neon, turns out to be an AI human-like computer, then Samsung might be one of the first tech companies to unveil what might ..."
+    publishedDateTime: 2020-01-01T20:53:00Z
+    sourceUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/
+    ampUrl: https://bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/01/samsung-neon-ai-what-the-artificial-human-project-might-be-about/amp/
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 56
+      name: BGR
+      domain: bgr.com
+    quality: 157
     images:
-      - url: https://www.bing.com/th?id=ON.9A2429002934658D1D62CB10AB3A032C
+      - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
+        width: 700
+        height: 426
+  - title: "Samsung Reveals Neon Artificial Human Avatars To Serve As Lifelike Chatbots"
+    excerpt: "Simply put, STAR Labs refers to NEON as \"a friend,\" albeit a virtual one. \"NEON, our first artificial human is here. NEON is a computationally created virtual being that looks and behaves like a real human, with the ability to show emotions and intelligence,\" STAR Labs explains. Thankfully, it does not sound like they have to be fed or ..."
+    publishedDateTime: 2020-01-07T14:45:00Z
+    sourceUrl: https://hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    ampUrl: https://amp.hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    cdnAmpUrl: https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-neon-artificial-human-avatars-lifelike-chatbots
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.53BFC7B36C787A716EECB79917768A40
         width: 700
         height: 393
-  - title: "AMD could reveal Ryzen 4000 CPUs at CES 2020 to keep the pressure on Intel"
-    excerpt: "With all the talk in the processor world very much being of Intel’s next-gen Comet Lake CPUs of late, AMD could throw a spanner in the works of its rival’s PR machine by unveiling Ryzen 4000 chips at ... 2020 As you can see, going by the translation, AMD’s CEO may reveal further details about Zen 3 at a CES press event – Zen 3 being ..."
-    publishedDateTime: 2020-01-03T12:26:55Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/amd-could-reveal-ryzen-4000-cpus-at-ces-2020-to-keep-the-pressure-on-intel/ar-BBYA4Gj
+  - title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
+    excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
+    publishedDateTime: 2020-01-08T09:30:00Z
+    sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
+    ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
     type: article
     provider:
-      name: TechRadar on MSN.com
+      name: Business Today
+      domain: businesstoday.in
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
+        width: 505
+        height: 264
+  - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
+    excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
+    publishedDateTime: 2020-01-06T19:34:54Z
+    sourceUrl: https://www.msn.com/en-gb/money/technology/samsungs-mysterious-artificial-human-project-neon-creates-lifelike-ai/ar-BBYFJaT
+    type: article
+    provider:
+      name: The Independent on MSN.com
       domain: msn.com
-    quality: 22
+    quality: 38
     images:
-      - url: https://www.bing.com/th?id=ON.97C9E30F6EC88DF4A3DECCBAAE66BB39
-        width: 700
-        height: 393
-  - title: "Samsung demonstrates ‘world’s first artificial human’"
-    excerpt: "Samsung Electronics’ experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathises like a regular person. Each simulated human – which would exist only on screens, not in the real world – would be ..."
-    publishedDateTime: 2020-01-07T09:56:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/samsung-demonstrates-world-s-first-artificial-human-1.4132756
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.E22D72296DE1089BFD05A9D82E282C12
+      - url: https://www.bing.com/th?id=ON.511EBB3BB07179881AFD68C3FECED71D
         width: 700
         height: 367
 

@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F7DE2EE3AC4F7DA937B58D82BDFC81F9
         width: 700
         height: 350
+  - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
+    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
+    publishedDateTime: 2020-01-08T20:49:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
+        width: 700
+        height: 466
 
 secured: "eBuqWH5HiA4CptWv9C45JqczF8pzq0oUZOEnYiXOyiKuAdERijs9lFT4SxGXSvEJ6H0OELGnDxLm+4xu6F4ED5x/pr6ROfWtVVvZ1EPRTiQNrhqLRMZQVEC5mRUMO+aOe0CA7qQkRrPzruqtyu1pSu3wjRpedIEdoAK2EXpF+UinZ8KH0rHuWNbte3ysPWrYyutYLPst3CPu1cKyaYiszuNzob2ow6MGrz0ylkLAEyBkAGBmuxABgdQg0Mo0rF8R79OtI4dk/WqUqdv7AWa4qw==;BaWoLuMK13u00AoIJ0Wk4g=="
 ---

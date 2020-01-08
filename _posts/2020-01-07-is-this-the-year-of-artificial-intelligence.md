@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T14:28:00Z
 sourceUrl: https://www.rfidjournal.com/articles/view?19142
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,19 @@ images:
     title: "Is This the Year of Artificial Intelligence?"
 
 related:
-  - title: "2020: The year the office finds its voice?"
-    excerpt: "A variety of startups in the industry have attracted venture capital investment, including Seattle-based Saykara, which uses speech recognition to input information into electronic health record systems. This frees doctors from burdensome data-entry requirements. “Physicians spend on average about two hours on screen time for every hour that ..."
-    publishedDateTime: 2020-01-02T11:04:00Z
-    sourceUrl: https://www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.html
-    ampUrl: https://www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.amp.html
-    cdnAmpUrl: https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3509470/2020-the-year-the-office-finds-its-voice.amp.html
+  - title: "5 trends that will impact the adoption of artificial intelligence"
+    excerpt: "The first generation of children born into a world with AI will necessitate a code of ethics for AI products Children born since 2010 make up the first generation of people who will have AI in their lives since birth. Yet, because many children will begin using AI-powered toys, programs, and educational software long before they develop ..."
+    publishedDateTime: 2020-01-08T20:58:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/5-trends-that-will-impact-the-adoption-of-artificial-intelligence
     type: article
     provider:
-      name: ITworld
-      domain: itworld.com
-    quality: 24
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.55D939BFCDA498A54B44FF48611C5D3C
+        width: 700
+        height: 367
 
 secured: "sR6atOBTXRRNktkBzTdUwadBlJTnoj4O+Q+6wzlDty70D+90gnLg7NV8GyUVJ5n/3+V88K5dIhSJpE4GSBQk3FjkyNpf23ZDJedUuQEtQdsxbm6oBXDyaUn/Pgqzj/L/O/Fs8n1MocH+iSVztAMY2+LZPJ5xAuMigKlQaNjVGMSK840F0AGEmzqa2RQGECLLr8H4a+LtWf3TmPtrJtTKPgmNGZZz0o+Tm6h3Afioc4dNzOa6kA3YKm1Fl4Qgk4c8WELM4FsOr1/2GTpIgr8aSg==;J/CXLlaJQQOr8/hE9u4Gxw=="
 ---

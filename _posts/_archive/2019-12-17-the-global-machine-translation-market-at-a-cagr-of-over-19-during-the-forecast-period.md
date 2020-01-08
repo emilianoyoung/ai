@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T19:35:00Z
 sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,21 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
+    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
+    publishedDateTime: 2019-12-12T20:53:00Z
+    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
+    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
+        width: 1199
+        height: 600
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
     publishedDateTime: 2019-12-18T01:07:00Z
@@ -28,6 +43,6 @@ related:
       domain: wfmz.com
     quality: 11
 
-secured: "SOu4pykCVkR3XLPfGO/l9BIZYS1yv7onnCBAYgihUjljgOeHvXPbWh4OuwBsPggAXYDGxxPBRV/sIAUMwO5Me3twJkTfC6k8nX1GyeIlQIuUkICy/ozMYKlSFoQhlLO4OcnjcKugntzSngBofk9pQENqrkAUEv2S7PT6DDxPWgDo9YvPGqPvLt9ZGiiraZEX8F5Gj9z1kIJHx9wnIRpOapIKZ8HnyQhp8xVlWx82rYLHgsQFC1XblY/6yTTJ0YM5OxVnLf56FcKlH014PB+LLw==;diWNcFCk/GWJt8Zt5+fICg=="
+secured: "mI1+0CLqpgQwNYpR/cE9sNTzxB86dfhVovF2LGt+JAd3rNmdzDK4+fDTqtUGvx7QyYihlLdmA5hAQhbLTM+g6ZN/FTbtzLy/tV/1gGPvcJpty+JlvlFk9xwlx8SVwRThjzoF+rS9UM/oLhN0bYQli7/ClCxTQtbbEL10JQVJktswcYCulBI7C8iM1elB38sXHIFEje8Eucks0rwJt6dOkGVa/pd8gr18Lm+O9TYlciJwPBgVZKemuoilTIwlw9S9UpbuV8zMaI4jkyvfb2ENxw==;5Lr6j3SrnyfZ1wzvbNF+oQ=="
 ---
 

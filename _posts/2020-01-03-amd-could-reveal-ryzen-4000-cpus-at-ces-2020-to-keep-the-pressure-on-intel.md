@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9A2429002934658D1D62CB10AB3A032C
         width: 700
         height: 393
-  - title: "Samsung's Neon 'Artificial Human' will debut at CES 2020: What is it?"
-    excerpt: "Meet #NEON. January 2020. pic.twitter.com/iFkWVVyF6kDecember 17, 2019 Samsung has been mindful to not describe it as a voice assistant or artificial intelligence. Instead the company is using terms like ‘artificial human’ or ‘artificial intelligence being’ to market the project. Honored to have so much coverage even before we unveil."
-    publishedDateTime: 2020-01-02T19:16:00Z
-    sourceUrl: https://www.tomsguide.com/news/samsung-to-announce-neon-at-ces-2020
-    ampUrl: https://www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
-    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/samsung-to-announce-neon-at-ces-2020
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 42
-    images:
-      - url: https://www.bing.com/th?id=ON.3841CB3BCC57682224B20D4AD6BD9799
-        width: 700
-        height: 393
   - title: "Samsung demonstrates ‘world’s first artificial human’"
     excerpt: "Samsung Electronics’ experimental research arm has brought to CES 2020 a demonstration of what it calls the world’s first artificial human, a virtual simulation of a human intelligence that learns, converses and sympathises like a regular person. Each simulated human – which would exist only on screens, not in the real world – would be ..."
     publishedDateTime: 2020-01-07T09:56:00Z

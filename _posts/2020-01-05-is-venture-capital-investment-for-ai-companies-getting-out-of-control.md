@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capita
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,19 +85,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
         width: 700
         height: 436
-  - title: "Canadian schools prepping students for jobs of the future as automation, AI continue to transform workplaces"
-    excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said. Our Morning Update and Evening Update newsletters are written by Globe editors, giving you a concise summary of the day’s ..."
-    publishedDateTime: 2020-01-02T15:20:00Z
-    sourceUrl: https://www.theglobeandmail.com/canada/article-canadian-schools-prepping-students-for-jobs-of-the-future-as/
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.0F78F08BA63EFE2A6BBE3524ECC71755
-        width: 700
-        height: 466
 
 secured: "n+A9nMJlgpr2f4W8Tg1z2DHWjLH562z9V0PVfHX4pI2aOT9Tinv/LXfu20VpfgSZu+9ECMKAzH/sD6A1+dPwmRZgyZIetEQQYQ3d8uJwuRxKH9BOa7objwXc4kveEYGvcBHYAxc9F4C7JGh0Ds7sqQu6WgnDscq6lT8+5zlqtpHXbU8X6zkOMUptYbkGEJgOLzHaciAVJF7O4ongY5Vl9iJVDPDa083Bv24zHqB3EyvaHB1gxZFX0g9ejWrlirkUy2FcIDRfVEKK4NOfXW8krg==;7voE2Bl7uvEsxX5OKiggig=="
 ---

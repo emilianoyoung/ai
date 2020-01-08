@@ -101,6 +101,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F06DB0A6B4FFD1950A6069F47A78A21F
         width: 600
         height: 338
+  - title: "Top tech and data predictions for 2020"
+    excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
+    publishedDateTime: 2019-12-26T11:30:00Z
+    sourceUrl: https://www.itproportal.com/features/top-tech-and-data-predictions-for-2020/
+    ampUrl: https://www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-tech-and-data-predictions-for-2020/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
+        width: 700
+        height: 467
   - title: "The Top Ten Fintech Predictions for 2020"
     excerpt: "To my Fintech friends, this is my 4th annual “Top Ten” Fintech prediction ... A.I. Everywhere (True). This is scarily true. Elon Musk said AI is humanity’s biggest existential threat. We are now seeing A.I. used in health care, our criminal justice system and more. The inherent biases in these trained models will become a deathward ..."
     publishedDateTime: 2020-01-02T21:47:00Z
@@ -283,15 +298,6 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
-  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
-    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
-    publishedDateTime: 2020-01-06T14:04:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 6
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

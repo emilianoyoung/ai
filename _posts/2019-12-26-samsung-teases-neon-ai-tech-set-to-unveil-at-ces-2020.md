@@ -55,6 +55,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A2BF41242EC59933A8171A6A6D7DC684
         width: 700
         height: 700
+  - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
+    excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
+    publishedDateTime: 2019-12-26T09:15:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/samsung-announce-mysterious-human-ai-090701619.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.CC7E61B851D4B9E1DF1EE7E45A41CDD7
+        width: 279
+        height: 157
   - title: "Samsung Neon May Herald the Next Generation of Cognitive, Advanced AI Assistants"
     excerpt: "Samsung has stated that Samsung Neon will premiere at the upcoming CES 2020, and left mysterious teasers on the internet to decode from."
     publishedDateTime: 2019-12-26T08:13:00Z

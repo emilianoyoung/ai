@@ -26,19 +26,6 @@ images:
     title: "Advanced technologies can significantly improve healthcare quality, productivity, and access"
 
 related:
-  - title: "Data Quality, Equity Essential for Artificial Intelligence Use"
-    excerpt: "Although the emergence of artificial intelligence (AI) offers the potential for better patient outcomes, lower costs, and improved population health, the technology could also bring numerous unintended consequences. “While there have been a number of promising examples of AI applications in healthcare, we believe it is imperative to proceed ..."
-    publishedDateTime: 2019-12-19T19:28:00Z
-    sourceUrl: https://healthitanalytics.com/news/data-quality-equity-essential-for-artificial-intelligence-use
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.E4C89DCD6DF57890291E658FF4D85F24
-        width: 690
-        height: 400
   - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
     excerpt: "Koios DS Breast 2.0 can be used in conjunction and integrated directly into most major viewing workstation platforms and is directly available on the LOGIQ TM E10, GE Healthcare's next generation digital ultrasound system that integrates artificial intelligence, cloud connectivity, and advanced algorithms. Artificial intelligence software ..."
     publishedDateTime: 2019-12-20T01:10:00Z

@@ -106,6 +106,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
         width: 400
         height: 300
+  - title: "Mayo Clinic Names Health IT Vet to Head Its Digital Health-Care Businesses"
+    excerpt: "The Mayo Clinic has named health-care technology veteran John Halamka as the head of its digital health-care businesses. One of his focus areas will be looking at how neural networks, machine learning and artificial intelligence can improve health care."
+    publishedDateTime: 2019-12-23T12:24:00Z
+    sourceUrl: https://www.wsj.com/articles/mayo-clinic-names-health-it-vet-to-head-its-digital-health-care-businesses-11577097000
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 52
+    images:
+      - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
+        width: 700
+        height: 350
   - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
     excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
     publishedDateTime: 2019-12-20T22:24:00Z

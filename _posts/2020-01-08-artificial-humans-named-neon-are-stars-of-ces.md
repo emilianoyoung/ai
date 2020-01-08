@@ -60,6 +60,36 @@ related:
       - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
         height: 401
+  - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"
+    excerpt: "The technology is still being perfected, and Neon said it plans to beta launch the avatars later this year with certain partners. Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby ..."
+    publishedDateTime: 2020-01-07T13:28:00Z
+    sourceUrl: https://www.zdnet.com/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    ampUrl: https://www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
+        width: 700
+        height: 525
+  - title: "Samsung reveal AI powered 'artificial human'"
+    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
+    publishedDateTime: 2020-01-07T10:34:00Z
+    sourceUrl: https://www.thenews.com.pk/latest/595002-samsung-reveal-ai-powered-artificial-human
+    ampUrl: https://www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    cdnAmpUrl: https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/595002-samsung-reveal-ai-powered-artificial-human
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 61
+    images:
+      - url: https://www.bing.com/th?id=ON.83478E6035271683E24F7BD8E4BE086D
+        width: 700
+        height: 390
   - title: "CES 2020: You have to see these robots and artificial humans"
     excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
     publishedDateTime: 2020-01-08T08:41:00Z
@@ -105,6 +135,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0CDEF78798A9D623681D79C687AEF0E8
         width: 700
         height: 366
+  - title: "Samsung’s artificial human isn’t the smart droid you’ve been looking for"
+    excerpt: "These devices are supposed to show “emotions and intelligence,” and should be able to respond to queries “with latency of less than a few milliseconds.” They should also guard your privacy. But Samsung doesn’t explain the underlying tech that would make all of that possible. Forget the physical appearance of these artificial humans ..."
+    publishedDateTime: 2020-01-07T11:56:00Z
+    sourceUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/
+    ampUrl: https://bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    cdnAmpUrl: https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/01/07/samsung-neon-project-sounds-like-artificial-human-vaporware/amp/
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.E045D65318003F289C30E761049DA334
+        width: 700
+        height: 414
   - title: "Samsung introduces AI-powered ‘artificial human’"
     excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
     publishedDateTime: 2020-01-07T08:31:00Z

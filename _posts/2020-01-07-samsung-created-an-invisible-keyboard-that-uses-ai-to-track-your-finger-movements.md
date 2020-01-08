@@ -8,7 +8,7 @@ ampUrl: https://amp.businessinsider.com/samsung-selfietype-virtual-invisible-key
 cdnAmpUrl: https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/samsung-selfietype-virtual-invisible-keyboard-ai-ces-2020-1
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -42,21 +42,6 @@ related:
       - url: https://www.bing.com/th?id=ON.067F1A31603E42FC731FD83441B7F40E
         width: 700
         height: 350
-  - title: "Tech News: Samsung Unveils AI-Powered Invisible Keyboard 'SelfieType'"
-    excerpt: "South Korean tech giant Samsung unveiled an invisible keyboard for smartphones this week which allows users to type messages on a table or hard surface -- without the need for any extra hardware. The feature, called “Selfietype,” is on display at the CES consumer tech show in Las Vegas. The technology tracks the hand movements of the user ..."
-    publishedDateTime: 2020-01-07T23:07:00Z
-    sourceUrl: https://www.ibtimes.com/tech-news-samsung-unveils-ai-powered-invisible-keyboard-selfietype-2898103
-    ampUrl: https://www.ibtimes.com/tech-news-samsung-unveils-ai-powered-invisible-keyboard-selfietype-2898103?amp=1
-    cdnAmpUrl: https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tech-news-samsung-unveils-ai-powered-invisible-keyboard-selfietype-2898103?amp=1
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.4C9AFEC0B9B2DF5560D83788EF79E288
-        width: 600
-        height: 406
   - title: "Samsung has made an invisible AI-powered keyboard for your phone"
     excerpt: "We all work from our phones more than ever, but typing out emails and long messages is still slow compared to using a keyboard. Samsung has a solution: use AI and your phone’s camera to track your hands as they type on an invisible keyboard right in front of you."
     publishedDateTime: 2020-01-06T15:43:00Z

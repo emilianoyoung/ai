@@ -1,32 +1,28 @@
 ---
 category: news
 title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
-excerpt: "The new architecture includes a classical RISC-V processor, a QuantaFlow Generator and a QF Evolution Space. It is the first time for the industry to see such new architecture, which could change the future of AI and Deep Learning inference solutions. \"Quanta\" is the plural of quantum. QuantaFlow AI SoC architecture is designed to simulate ..."
+excerpt: "/PRNewswire/ -- PQ Labs Inc, unveiled QuantaFlow AI architecture in CES 2020 (South Hall #25858). The new architecture includes a classical RISC-V processor,"
 publishedDateTime: 2020-01-08T18:33:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/ces-2020-ai-quantum-flow-boosts-deep-learning-speed-10x-15x-faster-powered-by-pqlabs-ai-1028804244
+sourceUrl: https://www.prnewswire.com/news-releases/ces-2020-ai--quantum-flow-boosts-deep-learning-speed-10x---15x-faster---powered-by-pqlabsai-300983793.html
 type: article
-quality: 72
-heat: 72
-published: true
+quality: 42
+heat: 42
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.61E473075EBBDF0B22D9E683309FE1FA
-    width: 400
-    height: 249
+  - url: https://www.bing.com/th?id=ON.88ACCC7A8F27603D722EE7144D3A2FAA
+    width: 480
+    height: 360
     title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
 
-secured: "BXL251ORYSfmPr/K8lFdhIQVt2Rhy9I6BJ8u3zWaAdoM0r5KGwduieOxcjR6rCaltW7xBQjVc4hs3jkfPkQSXcL425bIqDnuYZx+sRM7weQzdHDXBOlQUftbv4JErB72N2yQ1PYwt+smduuZ2/7dG+3co6ee8/OF2wG60D5i1aiozrgeri91jvWQDHzkH/XWP3ZzoPD0gNiHVDup7HQJVq2kC8UyIpnBD2yTdfWkwXcRMtIu98ZRScfFcn5N6gT8xdSout0xfzC5r2VdOjzyNQ==;xnf8yZTbNW3R+eG4DTc7Ww=="
+secured: "ZCd3WP4k3/VTgBHRAGiW3r6OE8DVjyZCPa7X9Z5gR9eGJftOA7dRUgp4yAJLf5S6Pbvu62rUnDLqOokrjG9JSj7Z0MOqake0DPj4n2ggL+8U68VcwiLwBY37ST7pML5HGHsUicXacwC+ycwEabqI6jAyuSgULAnf9/eii/HkuOHL0axxNhcOmk9EY544xsiIpixWSHTOlxwXW2L/dHonKz1wwEQokZY1nqMZEwRshaz7vJ6d/0xTVAZkuM/T7QqydSjDh89jfB5Zj5Ld3F6Rbg==;aT2VAnseiYpYhKPMu+KZag=="
 ---
 

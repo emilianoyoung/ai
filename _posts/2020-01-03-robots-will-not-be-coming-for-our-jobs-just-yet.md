@@ -26,21 +26,21 @@ images:
     title: "Robots will not be coming for our jobs just yet"
 
 related:
-  - title: "Think Robots Will Take Our Jobs? Invest In This One Company"
-    excerpt: "It's not just cobots, though. Machine learning and artificial intelligence will take center stage of the robotics market. The advent of 5G and edge computing will play a role. Leaps in gripping technologies will be made. New robotic tasks will be taught. As RightHand Robotics Head of Product and Marketing Vince Martinelli put it, \"2020 will go ..."
-    publishedDateTime: 2020-01-08T15:05:00Z
-    sourceUrl: https://www.fool.com/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
-    ampUrl: https://www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
+  - title: "Robots Stole Blue Collar Jobs, Now AI Is Coming for White Collar Workers"
+    excerpt: "Robots might be taking over the blue-collar jobs of less-educated Americans, but artificial intelligence (AI) is poised to shake up college-educated employees in higher paying jobs, leaving no worker immune to the impact of technology on the American workforce. “[AI] will be used more extensively by the most high-paid and many of the best ..."
+    publishedDateTime: 2020-01-02T21:16:00Z
+    sourceUrl: https://www.voanews.com/usa/all-about-america/robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers
+    ampUrl: https://www.voanews.com/usa/all-about-america/robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers?amp
+    cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/all-about-america/robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers?amp
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
+      name: Voice of America
+      domain: voanews.com
+    quality: 73
     images:
-      - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
+      - url: https://www.bing.com/th?id=ON.31B46DDBFBA8EC78286808C9C9347FCB
         width: 700
-        height: 393
+        height: 466
 
 secured: "gsB/u3/JReqjnW7qTY7anqQ33reI4qypwD73m8sL49e8NDugeDokgoo6+TN6ytvKpvICCMg6zSmcRm8PV4EjNACDUgwW/KLSd7iu77mEcyALLtxpZ1qzrpruTPyAK7TTY4RRG4p6X0UxsBJr9IAjro3Tt4uJ3KbVObNITxaOTW83UcE996hNQCF/mB34yjR/r786pM7bIKFdcfv74JQz1+6h5WJt6XWViqkAz8XU53/o+xSuG+ygMAmbYO8TWIJIJ/BkoKGovQjEcjRKadsTFQ==;IFftGycH3DTHoK6GPhV6Bw=="
 ---

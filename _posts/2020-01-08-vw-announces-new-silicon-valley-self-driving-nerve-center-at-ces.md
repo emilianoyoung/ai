@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-cent
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F7DE2EE3AC4F7DA937B58D82BDFC81F9
         width: 700
         height: 350
+  - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
+    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
+    publishedDateTime: 2020-01-08T20:49:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
+        width: 700
+        height: 466
 
 secured: "ATFHtVH306c/W7V6s2xnHCuOAcuFPOkCLU8QMPtonWUFpZwyKuD2LTbKW3J4obqiv+pedjRFUSu8mAgBooYzFmFiH187cEjGiy+7FNlW2wYGey28bszN+OcduR/S4kb2PbtLrKehHLgjvB6L8nr8NPxmqkOTGDN/w0uYoB+cAH9BwNkZ98nwnVPtxUJphY/mwULo/ECwcYOhtRrtHYFuCQCH0/9PCY+4c3BKHVHjmrQPQ4fUfiIgVj1jdX1N0eQ9DLPHXSDoeIrsQZSo2mwVew==;NCmucDn78ZL7fXwJtCaY9A=="
 ---

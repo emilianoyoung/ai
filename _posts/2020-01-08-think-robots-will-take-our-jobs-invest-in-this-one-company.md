@@ -8,8 +8,8 @@ ampUrl: https://www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/think-robots-will-take-our-jobs-invest-in-rockwell.aspx
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -30,21 +30,36 @@ images:
     title: "Think Robots Will Take Our Jobs? Invest In This One Company"
 
 related:
-  - title: "Robots will not be coming for our jobs just yet"
-    excerpt: "A robot accountant is not C-3PO; it’s Excel or QuickBooks ... It’s only a matter of time before they do a better job than us — just as AlphaZero does. The Artificial Intelligence Index project, based at Stanford University, tracks a wide variety of benchmarks. The machines are making rapid progress at symbolic achievements — such ..."
-    publishedDateTime: 2020-01-03T05:00:00Z
-    sourceUrl: https://www.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
-    ampUrl: https://amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ad0f30ac-2b1d-11ea-a126-99756bd8f45e
+  - title: "The hottest thing in robotics is an open source project you've never heard of"
+    excerpt: "While the open source projects behind the rise of data science are reasonably well known (e.g., TensorFlow and Keras, among others), most people aren't aware that robotics is also heavily influenced by open source and, in particular, by the Robot Operating System (ROS). Given the importance of ROS to the swelling open source robotics community ..."
+    publishedDateTime: 2020-01-08T20:56:00Z
+    sourceUrl: https://www.techrepublic.com/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
+    ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 103
     images:
-      - url: https://www.bing.com/th?id=ON.C2D0656B2C6F0F423A73307B29FFE36A
+      - url: https://www.bing.com/th?id=ON.6CD802C88EF8D24D892B1DED9D1DA9A0
         width: 700
-        height: 393
+        height: 525
+  - title: "Reachy Is an Expressive, Open-Source Robot"
+    excerpt: "However, the robot, being open-source, is capable of so much more ... Related: What Every Entrepreneur Must Know About Artificial Intelligence Reachy's arms are biologically inspired with 7 degrees freedom of movement and can be equipped with a number of manipulators from grabby clamps to five-fingered humanoid hands. The company forewent ..."
+    publishedDateTime: 2020-01-06T15:10:00Z
+    sourceUrl: https://www.entrepreneur.com/article/344583
+    ampUrl: https://www.entrepreneur.com/amphtml/344583
+    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344583
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.50BD9E7138636CCC9B2C333FD87215B6
+        width: 700
+        height: 466
 
 secured: "OPjmXud0vJQzMWWVRLP4z8rzzC7wWeaQemOXu9Vac8yrTd3Dl/oYuNLFCJFyI3Q0aIYFfQoUymWAWVt1YdT4FjSUtW4t6DpkRRnWjrNpEVkZTfOPb+3HIS+cMtbJKyB1l+JRr/P9R4aExg2/NIgCT+zb3sqiUneYukcvMZ7PDpeEzijdH5Zqp2n5bbNXHYfp30pjxBU8XOEEQKMSFxmxVP+zDCIde34HHqmCDepXPWmrDLJfyqYGX84PF9It48hqblHre20vbG4GChaVI1njNQ==;qILWsqoXRN3d1ePvOiT48Q=="
 ---

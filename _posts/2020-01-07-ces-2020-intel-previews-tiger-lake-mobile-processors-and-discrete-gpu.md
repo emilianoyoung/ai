@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4288BE7E71AFA3E8A6D33EC8133362BE
         width: 700
         height: 393
-  - title: "5G, AI, edge, and partnerships discussed at Intel's CES 2020 news conference"
-    excerpt: "Intel CEO Bob Swan stepped on stage at CES 2020 and discussed the company's \"big ambitions\" for 5G network transformation, artificial intelligence (AI), new partnerships, and the 120 companies \"on board [with Intel] driving innovations.\" Here's a closer look at some of the key topics revealed. Intel is advancing the partnership it announced ..."
-    publishedDateTime: 2020-01-07T02:38:00Z
-    sourceUrl: https://www.techrepublic.com/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    ampUrl: https://www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5g-ai-edge-and-partnerships-discussed-at-intels-ces-2020-news-conference/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.C36725E696F2CEC709A6F4316706F256
-        width: 700
-        height: 525
   - title: "Intel teases new AI chip to succeed Ice Lake at CES 2020 – introducing Tiger Lake"
     excerpt: "Intel has teased its second-generation AI chip at CES 2020. The new chip is called Tiger Lake and is looking to take Intel’s AI chops to the next level. Tiger Lake improved AI engines for enhanced performance across the board. There’s DL Boost for managing complex AI workloads along with low power accelerators. Possibly the most notable ..."
     publishedDateTime: 2020-01-06T05:01:00Z
@@ -162,6 +147,6 @@ related:
         width: 280
         height: 158
 
-secured: "zPu4oOFfDubEAjj4flLEQ4aQF3EtWnPIL4e3s6KaKTGpPlcQX/QBTvOyqy7I80tMDOkOl71wSOByObZ4WuhIcU4Cwt1tzDaB1GKAF2GK3yFVcH/mqrQPyOB+aR83CwRYKn+CaTHpxpMGp2z/ou1cO+KLcGrmh5aB8ecfCu6PU0L8awESKmJ6lW6/Wrp1+fnveCw2y/6KaAQciN2QVDCYjtKlStz8o3akASH6tBPuepKG8yZawdHoQFcAy25YiDkkrQyuaXycQQKRkrWL5yxypw==;o+5foFSmJ5hP/DKb+GpwCQ=="
+secured: "nDDDbVM//WKpEaNYD4zOINBTJSMrBWjrWrYM+itjk8V/WEim4+EBwEg66yHXAgClIFrzil+hVbjckm88BAY4vm+D+EBLp2kgkP2rhvDBn9mmy5+eBx6ZT/Bxi5lUUpoh/V4mI95I4oZBA7L4YK7nvld8ayUtdKAh2J0SmQJep/8e0c9Eka1bdthuHdqs91InhBPttrADVuN4y/Jhsk+7kltD1vPgZTVkRpkyDzD7/X60SlVvKD7eaUx63RrJfNF35hY++Ky77EclDNIk51d4Hw==;GEnLs0SK/IZJn8y79zpGeA=="
 ---
 
