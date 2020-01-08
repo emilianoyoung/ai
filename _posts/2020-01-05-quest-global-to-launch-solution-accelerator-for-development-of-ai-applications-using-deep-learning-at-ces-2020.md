@@ -24,77 +24,34 @@ images:
     title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
 
 related:
-  - title: "Woodside using data and machine learning to improve LNG plant safety"
-    excerpt: "\"The journey that we're going through now is increasing the overall data that we're acquiring from Internet of Things (IoT) sensors and robots, and then even more broad use of analytics AI and machine learning for optimisation ... of our plants to enable that high production level that we want to get to,\" Crusan explained during AWS re ..."
-    publishedDateTime: 2020-01-06T02:48:00Z
-    sourceUrl: https://www.zdnet.com/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
-    ampUrl: https://www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
+  - title: "Solidia Technologies and Uncountable Accelerate Development of Next-Generation Concrete Manufacturing with Data Science and AI"
+    excerpt: "This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200108005200/en/ CO2-cured Solidia Concrete lowers the carbon footprint of concrete up to 70% (Photo: Business Wire) Employing data science, machine learning and Artificial Intelligence (AI), Uncountable’s web platform and service ..."
+    publishedDateTime: 2020-01-08T15:26:00Z
+    sourceUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/
+    ampUrl: https://venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/solidia-technologies-and-uncountable-accelerate-development-of-next-generation-concrete-manufacturing-with-data-science-and-ai/amp/
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
-        width: 700
-        height: 525
-  - title: "Robots taking over warehousing jobs"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-    publishedDateTime: 2019-12-30T22:46:00Z
-    sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
-    ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
-    cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
+      - url: https://www.bing.com/th?id=ON.80DAB65964372F9590EF6B4C51FE0770
+        width: 480
+        height: 332
+  - title: "Socionext Collaborates with Foxconn and Network Optix to Deliver Intelligent and Scalable Edge-AI Solutions for Retail and Manufacturing Markets"
+    excerpt: "SUNNYVALE, Calif., Jan. 7, 2020 /PRNewswire/ -- Socionext Inc., a world leading system-on-chip (SoC) solutions provider, has introduced new, intelligent, scalable edge-AI solutions developed in partnership with Foxconn Technology Group and Network Optix Inc. Socionext has partnered closely with Foxconn, a global leader in smart manufacturing ..."
+    publishedDateTime: 2020-01-07T06:45:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/socionext-collaborates-with-foxconn-and-network-optix-to-deliver-intelligent-and-scalable-edge-ai-solutions-for-retail-and-manufacturing-markets-300982215.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 2
+    images:
+      - url: https://www.bing.com/th?id=ON.7A41BC0431217DF5A40665AD64F7C27A
         width: 700
-        height: 466
-  - title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
-    excerpt: "The solution demo aims to improve accuracy of ADAS using Deep Learning models LAS VEGAS and BANGALORE, India, Jan. 2, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will demonstrate Deep Learning driven Advanced Driver Assistance Systems (ADAS) at CES (Consumer Electronic Show) 2020. The deep ..."
-    publishedDateTime: 2020-01-01T23:18:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
-    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
-    publishedDateTime: 2020-01-08T10:15:00Z
-    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
-        width: 685
-        height: 445
-  - title: "Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model"
-    excerpt: "We aimed to develop a computer-aided diagnostic system (CAD) for predicting colorectal polyp histology using deep-learning technology and to validate its performance. Near-focus narrow-band imaging (NBI) pictures of colorectal polyps were retrieved from the database of our institution. Of these, 12480 image patches of 624 polyps were used as a ..."
-    publishedDateTime: 2020-01-08T12:22:00Z
-    sourceUrl: https://www.nature.com/articles/s41598-019-56697-0
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 13
-    images:
-      - url: https://www.bing.com/th?id=ON.F87A682F7E6BBEBDAEE4B377837EDF92
-        width: 685
-        height: 536
+        height: 367
 
 secured: "jcEqf03oHrPjaXRRJRLIQn9uI6yiWKUDbBPfVzNsTkZQEvzHCC5vtSzKuZbqyi8ttA/yx3qc8EFF9uIyZzCx2/rcZ1cAEfL4F4pUnQcOQdjuVTwEfoBCS0Y+LJsOTIYaLJJTCuOGbCc/dF3QrgE7qUWMLELKW02TdDSXdt1VbI0n6cGxD5CSwmTn9vKkBGnUNi4udCuAU+Yivzs3i147DNBP++2EKG7w2wyzW6kSNC/IRzW6Vate38JG0Ip+rNhlCzw5BAQE0cXb72a/ZJMc4Q==;P0JdPx31NciagqQR1Rm9NA=="
 ---

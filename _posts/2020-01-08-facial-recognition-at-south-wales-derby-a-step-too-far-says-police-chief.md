@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 67
+heat: 77
 published: true
 
 provider:
@@ -26,6 +26,19 @@ images:
     title: "Facial recognition at South Wales derby 'a step too far', says police chief"
 
 related:
+  - title: "South Wales Police to once again use facial recognition at Cardiff City v Swansea City derby match"
+    excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
+    publishedDateTime: 2020-01-08T18:31:54Z
+    sourceUrl: https://www.msn.com/en-gb/sports/news/south-wales-police-to-once-again-use-facial-recognition-at-cardiff-city-v-swansea-city-derby-match/ar-BBYKMHw
+    type: article
+    provider:
+      name: Wales Online on MSN.com
+      domain: msn.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
+        width: 600
+        height: 315
   - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

@@ -24,77 +24,34 @@ images:
     title: "Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model"
 
 related:
-  - title: "Woodside using data and machine learning to improve LNG plant safety"
-    excerpt: "\"The journey that we're going through now is increasing the overall data that we're acquiring from Internet of Things (IoT) sensors and robots, and then even more broad use of analytics AI and machine learning for optimisation ... of our plants to enable that high production level that we want to get to,\" Crusan explained during AWS re ..."
-    publishedDateTime: 2020-01-06T02:48:00Z
-    sourceUrl: https://www.zdnet.com/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
-    ampUrl: https://www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
+  - title: "Using a machine learning algorithm with cancer methylation signatures to diagnose colorectal cancer"
+    excerpt: "A team of researchers affiliated with a large number of institutions in China has used a machine-learning algorithm with cancer methylation signatures to diagnose colorectal cancer. In their paper published in the journal Science Translational Medicine, the group describes their new approach to diagnosis and prognostication of colorectal cancer ..."
+    publishedDateTime: 2020-01-03T14:43:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.html
+    ampUrl: https://medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-machine-algorithm-cancer-methylation-signatures.amp
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 45
     images:
-      - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
+      - url: https://www.bing.com/th?id=ON.602086B245707C0266331BDF54270E11
         width: 700
-        height: 525
-  - title: "Robots taking over warehousing jobs"
-    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
-    publishedDateTime: 2019-12-30T22:46:00Z
-    sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
-    ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
-    cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+        height: 527
+  - title: "New Machine Learning to Identify Patients with Colorectal Cancer"
+    excerpt: "platform can identify patients with colorectal cancer and helps predict their disease severity and survival, finds a new study. The non-invasive method adds to recent advances in technologies that analyse circulating tumour DNA (ctDNA) and could help spot colorectal cancers in at-risk patients at earlier stages."
+    publishedDateTime: 2020-01-04T06:21:00Z
+    sourceUrl: https://www.msn.com/en-in/news/other/new-machine-learning-to-identify-patients-with-colorectal-cancer/ar-BBYBtqf
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 59
+      name: News18 on MSN.com
+      domain: msn.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
-        width: 700
-        height: 466
-  - title: "QuEST Global to Demonstrate Enhanced Driver and Vehicle Safety Using Deep Learning at CES 2020"
-    excerpt: "The solution demo aims to improve accuracy of ADAS using Deep Learning models LAS VEGAS and BANGALORE, India, Jan. 2, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will demonstrate Deep Learning driven Advanced Driver Assistance Systems (ADAS) at CES (Consumer Electronic Show) 2020. The deep ..."
-    publishedDateTime: 2020-01-01T23:18:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/quest-global-demonstrate-enhanced-driver-070000056.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 47
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
-        width: 1200
-        height: 1200
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
-    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
-    publishedDateTime: 2020-01-08T10:15:00Z
-    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 18
-    images:
-      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
-        width: 685
-        height: 445
+      - url: https://www.bing.com/th?id=ON.9468D04E556FD488F47B409631CF584E
+        width: 600
+        height: 315
 
 secured: "roXsiGuveLMEQIoZvzm4/7AtvzXkiIXZZ4zDaYaypOiG9CV5+87U1V4DPD4fIb4/jFlTd3pykIH2cfoi1qkFX6HBGhxBwIkCzuwl+vfzKs2OHkUHpktSbfTPGZC4T3aRqPGGJKvPKj1wocwGxwsWa8U9Kuvgo1KlR+BnAQzOlVVZ6edRqsco8nJC/uZu/rRHljYVT/vZ+8eGPGjotEGdbN0dsAzsqIVgrLX8G4yXe+RU9g472I+t2uOHCgTkSSvP8iVCkgHgz/tgJ9tk67D4bQ==;FMel94h2E6g9/ZytQJ1HHw=="
 ---

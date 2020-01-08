@@ -24,21 +24,6 @@ images:
     title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
 
 related:
-  - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
-    excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
-    publishedDateTime: 2020-01-07T16:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
-        width: 635
-        height: 400
   - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
     excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
     publishedDateTime: 2020-01-08T00:46:00Z
@@ -69,6 +54,34 @@ related:
       - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
         height: 367
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
+    images:
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
+        width: 700
+        height: 393
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
 
 secured: "lNoq7EzDBoxjFYJzp27yFQNSYvMFsyQy31ZFxoFP6CpnshM71yOMTKfmx7CE5cGpgZAmmMKKFVPvuQ+akHjwddsaQ6Hzkt+RV7qIfbuhoZ3fzHaVo/B8gBl3PxPK3cqeAd5b8ccN+NoGrsbPGNaNhdCvUSS25NvzrnxSUmVMR5mh+XHCU4xzW4NZs6vWZNq8vqvRnlB+iLd5Ef3BQCGXfvBKmRtCJLJANq3B1pR+zZpKjmYUZZlQdbjyvAZZeFaXuGUpmA0IyeVqB3iynPPEyw==;OKXruITHBSBVGVQOLPWG5A=="
 ---

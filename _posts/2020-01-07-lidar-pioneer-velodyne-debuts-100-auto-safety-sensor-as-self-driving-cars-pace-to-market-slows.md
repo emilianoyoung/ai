@@ -45,21 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
-  - title: "Luminar touts big lidar advances, new self-driving tech business model"
-    excerpt: "Luminar Technologies Inc., one of the most highly valued startups developing lidar for self-driving vehicles, unveiled a new sensor system and a new business model on Tuesday. The Palo Alto company is now offering its hardware, software and systems on a subscription basis to the major auto industry customers who are using Luminar's technology ..."
-    publishedDateTime: 2020-01-07T19:25:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B535C38AF82294F1F5B74AFEE6F8755
-        width: 700
-        height: 393
   - title: "Self-driving moves closer with new LiDar innovation"
     excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
     publishedDateTime: 2020-01-05T19:10:00Z

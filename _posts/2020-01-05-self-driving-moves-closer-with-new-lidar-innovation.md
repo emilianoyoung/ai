@@ -48,21 +48,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
         width: 1069
         height: 589
-  - title: "Luminar touts big lidar advances, new self-driving tech business model"
-    excerpt: "Luminar Technologies Inc., one of the most highly valued startups developing lidar for self-driving vehicles, unveiled a new sensor system and a new business model on Tuesday. The Palo Alto company is now offering its hardware, software and systems on a subscription basis to the major auto industry customers who are using Luminar's technology ..."
-    publishedDateTime: 2020-01-07T19:25:00Z
-    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.html
-    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.9B535C38AF82294F1F5B74AFEE6F8755
-        width: 700
-        height: 393
 
 secured: "nTdD3X/7Q8lRmVAhyQ+Vg919hu+dBq42JJgidc+ads3APEJUMsQQmGxxavPcgaD6737xXAFUtPKBOSMBWPR48ML+y73nnDSEpdv9FP1syvpnZXfGPIX+BEu26Dqtjtex9dLfDoHgrb4hbn4zHtBXiyaczjBjBpsw+JqHtEM6aa3u1vO8dfLGzSZYA/18KKaf1x4dmSpmN+o5RiPvkJruJhnpKh03mIu34BMZbvMiNwGDZXI9cfadMIgo1001zBCMEGy7BqM0LEQBypQ/+RTSzg==;NBrDQBPDTinLaZCOU+w5Eg=="
 ---

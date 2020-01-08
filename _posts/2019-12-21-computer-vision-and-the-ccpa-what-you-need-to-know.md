@@ -58,21 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.50A64CA10F10D262CE912E28E4EB1918
         width: 700
         height: 393
-  - title: "What you need to know about AI when it comes to our culture and decision-making"
-    excerpt: "As the discussion wrapped up, one of the panelists said something that changed how I think about ethics in AI. She pointed out that it’s not the case that machines are going to replace our experts. Teams won’t be made redundant by AI, but rather, by other teams who have learned how to better use AI to tap into business opportunity."
-    publishedDateTime: 2019-12-19T18:10:00Z
-    sourceUrl: https://www.theladders.com/career-advice/what-you-need-to-know-about-ai-when-it-comes-to-our-culture-and-decision-making
-    ampUrl: https://www.theladders.com/career-advice/what-you-need-to-know-about-ai-when-it-comes-to-our-culture-and-decision-making/amp
-    cdnAmpUrl: https://www-theladders-com.cdn.ampproject.org/c/s/www.theladders.com/career-advice/what-you-need-to-know-about-ai-when-it-comes-to-our-culture-and-decision-making/amp
-    type: article
-    provider:
-      name: TheLadders.com
-      domain: theladders.com
-    quality: 55
-    images:
-      - url: https://www.bing.com/th?id=ON.41FC925C7369356E83AEF6C3B021C3A4
-        width: 700
-        height: 393
   - title: "What is the Procedure to Start a FinTech Company?"
     excerpt: "AI and Machine Learning can automatically process an enormous amount of customer’s data and suggest a perfect solution accordingly. If a FinTech company chooses AI, then it will help information are compared and results in suitable services/products that customers want. This essentially means finding what’s right for your customers and ..."
     publishedDateTime: 2019-12-29T02:05:00Z

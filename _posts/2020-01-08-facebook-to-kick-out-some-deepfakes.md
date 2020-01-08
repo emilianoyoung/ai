@@ -129,6 +129,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
         width: 700
         height: 393
+  - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
+    excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
+    publishedDateTime: 2020-01-08T19:45:00Z
+    sourceUrl: https://www.popularmechanics.com/technology/security/a30444133/facebook-bans-deepfakes-election/
+    ampUrl: https://www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    cdnAmpUrl: https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/security/amp30444133/facebook-bans-deepfakes-election/
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.318C8BEA40C2563E4E8D189D1695EAB8
+        width: 700
+        height: 350
   - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T06:23:00Z
@@ -155,6 +170,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ACBA67A17373E642316ED1B0777A68B
         width: 490
         height: 490
+  - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
+    excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
+    publishedDateTime: 2020-01-08T00:33:00Z
+    sourceUrl: https://www.yahoo.com/now/facebook-bans-deceptive-deepfakes-misleadingly-110124689.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.665656FB259061F7FD1F64782E03BF97
+        width: 700
+        height: 453
   - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T15:02:00Z

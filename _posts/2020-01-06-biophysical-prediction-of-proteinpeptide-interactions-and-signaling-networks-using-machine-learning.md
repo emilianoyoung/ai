@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T16:07:00Z
 sourceUrl: https://www.nature.com/articles/s41592-019-0687-1
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,19 +24,41 @@ images:
     title: "Biophysical prediction of protein–peptide interactions and signaling networks using machine learning"
 
 related:
-  - title: "Practical Lessons for Scaling Machine Learning Solutions in the Real World"
-    excerpt: "Instead of thinking about flashy milestones, my wish is that in this new year we make progress streamlining the end to end lifecycle of large scale machine learning solutions. Despite all the progress in machine learning stacks, the implementations of large scale solutions remains a difficult challenge for most organizations. My company ..."
-    publishedDateTime: 2020-01-02T14:28:00Z
-    sourceUrl: https://towardsdatascience.com/practical-lessons-for-scaling-machine-learning-solutions-in-the-real-world-e33c7254a0f6
+  - title: "Deep learning for detecting retinal detachment and discerning macular status using ultra-widefield fundus images"
+    excerpt: "Manual retinal detachment screening is time-consuming and labour-intensive, which is difficult for large-scale clinical applications. In this study, we developed a cascaded deep learning system based on the ultra-widefield fundus images for automated retinal detachment detection and macula-on/off retinal detachment discerning. The performance ..."
+    publishedDateTime: 2020-01-08T10:15:00Z
+    sourceUrl: https://www.nature.com/articles/s42003-019-0730-x
     type: article
     provider:
-      name: Medium
-      domain: towardsdatascience.com
-    quality: 37
+      name: Nature
+      domain: nature.com
+    quality: 18
     images:
-      - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
-        width: 700
-        height: 467
+      - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
+        width: 685
+        height: 445
+  - title: "An Amazon stingless bee foraging activity predicted using recurrent artificial neural networks and attribute selection"
+    excerpt: "It also may lead to better management and utilization of bees as pollinators. We address an investigation with Recurrent Neural Networks in the task of forecasting bees’ level of activity taking into account previous values of level of activity and environmental data such as temperature, solar irradiance and barometric pressure. We also show ..."
+    publishedDateTime: 2020-01-08T10:13:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56352-8
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.FC92AE63946ADA0BB3FCB77B99FC7C56
+        width: 685
+        height: 473
+  - title: "caresyntax & ARC at Sheba Medical Center Launch Collaboration to Predict Surgical Outcomes Using AI and Machine Learning"
+    excerpt: "The collaboration will enable caresyntax to measure surgical data across more than 300 variables in oncological procedures using artificial intelligence and machine learning to develop algorithms that will predict surgical outcomes and enable a higher quality of care for both patients and surgeons. The ARC (Accelerate, Redesign, Collaborate ..."
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200107005204/en/caresyntax-ARC-Sheba-Medical-Center-Launch-Collaboration
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "e2vv3XME3YlnXVaX8yxRfD5dTUH0prZNO6SYZMj3bN9F/DYSuVnlJsRAabqYuwyHt0aVF4OvXG6kKJ6SIBCmk+WxzGAlF9pUfslTpd+FR/F6QStfb2dHeL/R+jmxJmSorXSTlXFCQeCpwb2SnIDHs4e9y215pLsD2oLqFZqgEjBPIl8q2Q/bi2FKhXf4uAj6zAPuEnGLRKJSZDGAsbGx92fTN4Yz7EJHnIvzbafMUGX8FVWLRjiz2alfvNTLTYeYQHSCNwWE+414eZ7s/Gcwfw==;pBVHM9+CWP2EFig91EOKmw=="
 ---

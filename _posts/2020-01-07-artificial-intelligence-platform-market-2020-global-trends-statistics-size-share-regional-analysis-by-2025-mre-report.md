@@ -28,15 +28,41 @@ images:
     title: "Artificial Intelligence Platform Market 2020 Global Trends, Statistics, Size, Share, Regional Analysis By 2025-MRE Report"
 
 related:
-  - title: "Artificial Intelligence Robots Market 2020: Global Industry Trends, Sales Revenue, Industry Growth by 2025 – MRE Analysis"
-    excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 08, 2020: Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence. It’s definitely the foremost controversial: everyone agrees that a mechanism will add a production line, however there is not any consensus on whether a robot will ever be intelligent."
-    publishedDateTime: 2020-01-08T03:13:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-global-industry-trends-sales-revenue-industry-growth-by-2025-mre-analysis-2020-01-07
+  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
+    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
+    publishedDateTime: 2020-01-02T11:32:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 62
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Self-driving car market 2018-2023 Size, Share, Growth, Recent Development, and Forecast"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-size-share-growth-recent-development-and-forecast-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation Market Size, Share 2020 Global Growth Insight, Trends, Industry Key Players, Regional Forecast To 2024"
+    excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
+    publishedDateTime: 2020-01-02T06:16:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -67,28 +93,45 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Food and Beverages Market(2020-2027): Rapid Growth, Growth Drivers and Recent Challenges by Research Study"
-    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027), owing to dynamic changes observed in purchasing pattern of consumers across the globe who are demanding faster services at reasonably low costs that can be affordable to the consumer and better ..."
-    publishedDateTime: 2020-01-08T04:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market2020-2027-rapid-growth-growth-drivers-and-recent-challenges-by-research-study-2020-01-08
+  - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
+    excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
+    publishedDateTime: 2019-12-26T13:00:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-2020-global-business-growth-size-share-sales-revenue-growth-rate-and-regional-forecast-2023-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 41
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
+  - title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2019-12-27T13:22:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2017-2023-growth-size-share-global-forecasts-analysis-company-profiles-2019-12-27
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
+    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
+    publishedDateTime: 2020-01-08T09:05:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
+        width: 700
+        height: 366
 
 secured: "eDg4DrhjMHdtzgjYZCSeeh+7SaghuMgRD8BbsOXYEpTBq8+LpFLVqg4g+Y5uj3S9rBf7qlgngwgNH1gMXma0/8tgJesW8uuuY160pl67WYcKIGzREReP+tBYqHy7Fq2QlZ4YA0tqEHAMgot2yU7woKhb1HkWbqgp237qfxYCLY6G2PJw0ssP9gI2FquGBZ9NlADpiqG3UAorjhPIBqcjlEDuDyYKkAFc+9KqtMrm5IijDsvR43mBuldKD0XxWHPgoxx15RZfwYOMF2vYgjA9HQ==;SaEB6TEl5uTIaPFscgtpSA=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T09:06:00Z
 sourceUrl: https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-growth-emerging-trends-and-forecast-2019-12-20
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     width: 1200
     height: 630
     title: "Cloud Natural Language Processing (NLP) Market 2019-2027 / Growth, Emerging Trends And Forecast"
-
-related:
-  - title: "Artificial Intelligence Chipsets Market: Rising Popularity and Emerging Trends"
-    excerpt: "MARKET SPLIT BY PRODUCT TYPE AND APPLICATIONS: The report segments the Global Artificial Intelligence Chipsets Market on the basis of Types as follows: Deep Learning, Robotics, Digital Personal Assistant, Querying Method, Natural Language Processing & Context Aware Processing On the basis of Application/End-Users, the Global Artificial ..."
-    publishedDateTime: 2019-12-19T18:35:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-rising-popularity-and-emerging-trends-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
 
 secured: "MQGayIl1Mt8Ov6eNKnUXKPhBOPu5gxaeA9FBuind0JRPFvHl6IYNFI5RknXUQVC4nXcruxjRfhqBt5hoz1qYUhdUdVM6/Jv2pwy3dn+ZL8OCunWVMiMXgJcl9FWJF5ivPrUzUUjLrJVs2YygLaUPA4Gvdzr7pYKHt7jxcruRp5OiBfi9Eshl4pCThn0X66kRvASlaQrVwppj1Ia7lGp8Tk3GiFV9sik8C5K4NMAGmgd9ekZLLTE9LKY1LGhSa6XTubalSEbOczzKN8h/t9+Zlg==;8b/uayWn3EZQjSzKP1WJJA=="
 ---

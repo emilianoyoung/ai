@@ -284,19 +284,6 @@ related:
       - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
         width: 700
         height: 366
-  - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
-    excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
-    publishedDateTime: 2020-01-08T15:15:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/08/ces-2020-10-best-new-tech-gadgets-las-vegas/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.E74BA8C1C89F32FEB6DF0542935DBBD2
-        width: 320
-        height: 180
   - title: "Audi's self-driving car goes for a spin at CES"
     excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
     publishedDateTime: 2020-01-07T13:56:00Z
@@ -319,28 +306,10 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
-  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-    publishedDateTime: 2020-01-05T15:00:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
   - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
     excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
     publishedDateTime: 2020-01-06T22:32:00Z
     sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
-  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-    publishedDateTime: 2020-01-06T00:37:00Z
-    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
     type: article
     provider:
       name: YAHOO!

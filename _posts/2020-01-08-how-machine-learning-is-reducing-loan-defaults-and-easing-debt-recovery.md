@@ -8,8 +8,8 @@ ampUrl: https://www.moneycontrol.com/news/technology/fintech-how-machine-learnin
 cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-how-machine-learning-is-reducing-loan-defaults-and-easing-debt-recovery-4798461.html/amp
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -27,34 +27,93 @@ images:
     title: "How Machine Learning is reducing loan defaults and easing debt recovery"
 
 related:
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
-    publishedDateTime: 2020-01-07T14:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+  - title: "Ping-pong playing robot proves AI-driven machines can sense human emotion"
+    excerpt: "At CES 2020, Omron is showcasing new AI technology that supports harmony between machines and people. TechRepublic's Karen Roby talked to Keith Kersten, marketing group manager at Omron Automation, at CES 2020 about artificial intelligence (AI), automation, and a ping-pong playing robot. The following is an edited transcript of their conversation."
+    publishedDateTime: 2020-01-08T18:06:00Z
+    sourceUrl: https://www.techrepublic.com/article/ping-pong-playing-robot-proves-ai-driven-machines-can-sense-human-emotion/
+    ampUrl: https://www.techrepublic.com/google-amp/article/ping-pong-playing-robot-proves-ai-driven-machines-can-sense-human-emotion/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ping-pong-playing-robot-proves-ai-driven-machines-can-sense-human-emotion/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 103
+    images:
+      - url: https://www.bing.com/th?id=ON.792AA2DC99D0C860B4ECCDEA61426D5B
+        width: 700
+        height: 525
+  - title: "Woodside using data and machine learning to improve LNG plant safety"
+    excerpt: "\"The journey that we're going through now is increasing the overall data that we're acquiring from Internet of Things (IoT) sensors and robots, and then even more broad use of analytics AI and machine learning for optimisation ... of our plants to enable that high production level that we want to get to,\" Crusan explained during AWS re ..."
+    publishedDateTime: 2020-01-06T02:48:00Z
+    sourceUrl: https://www.zdnet.com/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
+    ampUrl: https://www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
+        width: 700
+        height: 525
+  - title: "How AI and machine learning can detect changes in Mom's routine"
+    excerpt: "CES 2020: Learn about a new product to keep seniors in their homes longer using machine learning and IoT. TechRepublic's Karen Roby is at CES 2020 in Las Vegas. She spoke with Ryan Herd, the founder of Caregiver Smart Solutions, about a product that uses AI and IoT to help seniors and their caregivers. The following is an edited transcript of ..."
+    publishedDateTime: 2020-01-07T14:27:00Z
+    sourceUrl: https://www.techrepublic.com/article/how-ai-and-machine-learning-can-detect-changes-in-moms-routine/
+    ampUrl: https://www.techrepublic.com/google-amp/article/how-ai-and-machine-learning-can-detect-changes-in-moms-routine/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-machine-learning-can-detect-changes-in-moms-routine/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+  - title: "U.S. to outline strong support for self-driving cars at CES"
+    excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
+    publishedDateTime: 2020-01-08T17:06:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
+        width: 700
+        height: 476
+  - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
+    excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
+    publishedDateTime: 2020-01-08T15:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/08/ces-2020-10-best-new-tech-gadgets-las-vegas/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.E74BA8C1C89F32FEB6DF0542935DBBD2
+        width: 320
+        height: 180
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-05T15:00:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/05/1966201/0/en/Yandex-Self-Driving-Offers-Autonomous-Car-Demonstrations-on-Public-Roads-During-CES-2020.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-06T00:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-        width: 400
-        height: 145
-  - title: "Podcast: Advancing Deep Learning with Custom-Built Accelerators"
-    excerpt: "Deep learning workloads have evolved considerably over the last few years. Today’s models are larger, deeper, and more complex than neural networks from even a few years ago, with an explosion in size in the number of parameters per model. The Intel Nervana Neural Network Processor for Training (NNP-T) is a purpose-built deep learning ..."
-    publishedDateTime: 2020-01-03T16:08:00Z
-    sourceUrl: https://insidehpc.com/2020/01/podcast-advancing-deep-learning-with-custom-built-accelerators/
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.615F0B2E4527344CE7C9BB56E3E8B586
-        width: 533
-        height: 562
+    quality: 0
 
 secured: "wUqsDnjGlY7wvimq4+18CHN6Qm3T+etFMdkj2s52QmyaA/a2Zvr8iSC9+ruaafTsEiWa2iwZA2Ccz1ruGoNBIoVJscodStpxnsNCkHzLgA9jr14hqUJApvTG+trHab6T+AoZGrshvbDOsg00TozwNQuwibUHHr9B5kzuSvc8FiDN/XuniwcL0dT2UIIIikrFVR7PtL1xCg/UIKm87WfzNPGjkWbyrx+lLVYfEkZVBbf3Mi2Hi7g4l8V8LfW7vlwAZEEUfKm0AXvLs2TZsFmCQA==;Oag42NFd1li9mRu+oy6M+A=="
 ---

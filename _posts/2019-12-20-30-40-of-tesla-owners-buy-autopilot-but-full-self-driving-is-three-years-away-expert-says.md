@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owne
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2019/12/18/30-40-of-tesla-owners-buy-autopilot-and-full-self-driving-is-just-3-years-away/amp/
 type: article
 quality: 193
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "30-40% Of Tesla Owners Buy Autopilot (But Full Self Driving Is Three Years Away, Expert Says)"
 
 related:
-  - title: "Tesla Autopilot self-driving tech neutered in Europe"
-    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
-    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
-        width: 620
-        height: 350
   - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
     excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
     publishedDateTime: 2019-12-23T16:33:00Z

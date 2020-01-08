@@ -56,19 +56,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Advance Market Analytics released a new market study on Global Machine Learning as a Service Market with 100+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand detailed analysis."
-    publishedDateTime: 2019-12-17T13:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
     excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
     publishedDateTime: 2019-12-31T06:09:00Z

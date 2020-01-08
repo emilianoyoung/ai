@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:32:00Z
 sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -37,6 +37,32 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 45
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
+    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
+    publishedDateTime: 2020-01-06T06:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

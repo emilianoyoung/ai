@@ -43,21 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.46E19C0BD99713B918F2C6E4471F0311
         width: 600
         height: 315
-  - title: "Tesla Autopilot self-driving tech neutered in Europe"
-    excerpt: "Tesla is significantly reducing the capabilities of its Autopilot self-driving technology in Europe, in order to meet new regulations on driver assist capabilities. Electrek reports that Model S and Model X drivers are abut to receive a firmware update that effectively neuters the capacity of Autopilot, compared to the capabilities in the ..."
-    publishedDateTime: 2019-12-19T18:49:00Z
-    sourceUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798
-    ampUrl: https://www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    cdnAmpUrl: https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/tesla-autopilot-europe-3965798/amp
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.D73A1551234A1DF1AB2778275121F6A2
-        width: 620
-        height: 350
 
 secured: "x9/JgrKQzJHlM5qXZiXDdqV1iH/zKLU6yGQPtCn/tzd5K8FmraMt3tiIkTPWZUGnMS7+7PWekfpWbF4hptE5N509h9IKRURnMDCZ8Ke6AZfrbC5UK6cA+wqp/Htrp2weNpgOdxkU838Wo9lgxX/+0ANlNXm/8H0mYDnk6/VNv/gkCOPD0hWxkrFJ0Kj13XRIBHN9nTCcLXAyRO9ErMsnh+W/G4FIkdNOE9DGfnUPz6DfGjwpDZtqwIVNRW8DY/Hu0+NCU5cbRk2A91tqmrDKpg==;brW63oBat7Ha0Zx64P0KgA=="
 ---

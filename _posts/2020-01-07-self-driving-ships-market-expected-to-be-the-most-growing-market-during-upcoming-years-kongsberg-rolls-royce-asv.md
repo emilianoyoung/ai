@@ -28,6 +28,19 @@ images:
     title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
 
 related:
+  - title: "Deep Learning Chip Market Insights and Forecast To 2027 Explored In Latest Research"
+    excerpt: "Jan 07, 2020 (The Expresswire) -- The global deep learning chip market accounted to US$ 2.04 Bn in 2018 and is expected to grow at a CAGR of 30.0% during the forecast period 2019 - 2027, to account to US$ 21.31 Bn by 2027. With the availability of an enormous amount of data and vast scalability of cloud-based compute power, the chip has become ..."
+    publishedDateTime: 2020-01-07T12:27:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-chip-market-insights-and-forecast-to-2027-explored-in-latest-research-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Machine Learning Market Size will reach 39.98 billion USD by 2025"
     excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Market Study Report has added a new report on Machine Learning market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size. Comprising the current and future trends defining the dynamics of this industry vertical, this report also incorporates the ..."
     publishedDateTime: 2020-01-07T13:19:00Z
@@ -41,15 +54,54 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market Size, Share, Growth Forecast to Cross $54 billion By 2026"
-    excerpt: "According to a new study the Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. Request a sample of this premium report titled at: https://www.marketstudyreport.com/request-a-sample/1695030?utm_source=marketwatch.com&utm_medium=ADS The advancements of robots and the rise in their deployment rate particularly ..."
-    publishedDateTime: 2020-01-02T11:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-growth-forecast-to-cross-54-billion-by-2026-2020-01-02
+  - title: "Machine Learning as a Service Market Outlook: Heading To the Clouds"
+    excerpt: "The Exploration study offers deep assessment of the Global Machine Learning as a Service Market and helps market participants to gain a solid base in the industry. The Research report presents a complete assessment of the market and contains Future trend,"
+    publishedDateTime: 2020-01-08T11:49:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-outlook-heading-to-the-clouds-2020-01-08
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 69
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Translation Market Research and Technology Developments 2020 to 2024"
+    excerpt: "Jan 06, 2020 (Xherald via COMTEX) -- Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language, or the MT software may operate without human ..."
+    publishedDateTime: 2020-01-06T08:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
+    excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Latest Release: Robot Software Market Will Generate Massive Revenue in Coming Years"
+    excerpt: "It is used to perform an autonomous task. The demands for robot software market is anticipated to rise in the forecasted period with growing need to reduce costs while maintaining quality and increasing adoption of Internet of Things (IoT) and Artificial Intelligence (AI). This intelligence report provides a comprehensive analysis of the Global ..."
+    publishedDateTime: 2020-01-07T20:28:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/latest-release-robot-software-market-will-generate-massive-revenue-in-coming-years-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -63,6 +115,45 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
+    publishedDateTime: 2020-01-07T12:06:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
+    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
+    publishedDateTime: 2020-01-08T08:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Food & Beverages Market Insight & Future Assessment for the Period 2019 – 2025"
+    excerpt: "Jan 06, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 Billion by the year 2025. The Asia Pacific region holds the highest Market share in 2017 and is considered the fastest growing Market in the forecasted period. At the country ..."
+    publishedDateTime: 2020-01-06T12:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-insight-future-assessment-for-the-period-2019-2025-2020-01-06
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -93,63 +184,69 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-    excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+  - title: "Artificial Intelligence In Food and Beverages Market(2020-2027): Rapid Growth, Growth Drivers and Recent Challenges by Research Study"
+    excerpt: "The Global Artificial Intelligence (AI) in Food and Beverages Market is anticipated to grow at a robust CAGR over the forecast period (2020-2027), owing to dynamic changes observed in purchasing pattern of consumers across the globe who are demanding faster services at reasonably low costs that can be affordable to the consumer and better ..."
+    publishedDateTime: 2020-01-08T04:58:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-food-and-beverages-market2020-2027-rapid-growth-growth-drivers-and-recent-challenges-by-research-study-2020-01-08
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 36
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Agriculture Market Size Worth $2.9 Billion by 2025 | CAGR: 25.4%: Grand View Research, Inc."
-    excerpt: "/PRNewswire/ -- The global artificial intelligence in agriculture market size is expected to reach USD 2.9 billion by 2025, according to a new report by"
-    publishedDateTime: 2020-01-08T09:05:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/artificial-intelligence-in-agriculture-market-size-worth-2-9-billion-by-2025--cagr-25-4-grand-view-research-inc-300983335.html
+  - title: "Market for Artificial Intelligence Chip Market research to Record Heightened Sales During the Forecast Period 2018 – 2028"
+    excerpt: "VALLEY COTTAGE, N.Y. – Continuous demand for enhancing the efficiency of a task and eliminating the need of human at hazardous places by replacing humans with robots efficient enough to implement tasks by themselves, as a result, is impelling the demand for artificial intelligence technology. Owing to this demand, various vendors with ..."
+    publishedDateTime: 2020-01-03T10:02:00Z
+    sourceUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    ampUrl: https://www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
+    cdnAmpUrl: https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/market-for-artificial-intelligence-chip-market-research-to-record-heightened-sales-during-the-forecast-period-2018-2028/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 34
     images:
-      - url: https://www.bing.com/th?id=ON.E7944AFF37B604D06BED74EE64083792
-        width: 700
-        height: 366
-  - title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
-    excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Artificial intelligence (AI) within the consumer, enterprise, government, and defense sectors is migrating from a conceptual “nice to have” to an essential technology driving improvements in quality, efficiency, and speed. According to a new report from Tractica, the top industry sectors where AI is likely ..."
-    publishedDateTime: 2020-01-06T12:53:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20200106005317/en/Artificial-Intelligence-Software-Market-Reach-126.0-Billion
+      - url: https://www.globalbankingandfinance.com/category/news/wp-content/uploads/2019/07/gbafNews28.jpg
+        width: 1000
+        height: 667
+  - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
+    excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
+    publishedDateTime: 2020-01-07T08:37:00Z
+    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-07/medical-bionic-implants-and-exoskeletons-market-to-raise-at-a-cagr-of-75-over-the-forecast-period
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
     images:
-      - url: https://www.bing.com/th?id=ON.A171C80FE097121EEC593918254B3198
-        width: 150
-        height: 150
-  - title: "The Global Automotive Detection and Ranging Sensor Market is Expected to Reach US $46,821.5 Million by 2024"
-    excerpt: "The rising demand for object detection, high-resolution target separation, 3D detection, and 3600 object recognition technologies are driving the demand for the automotive radar market. Development of long-range radar with high frequency, development of Lidar with non-moving parts, and compact size ultrasonic sensors are among the key emerging ..."
-    publishedDateTime: 2019-12-31T21:50:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-automotive-detection-ranging-sensor-214500040.html
+      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
+        width: 1200
+        height: 448
+  - title: "Artificial Intelligence In Fashion Market to 2027 - Global Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
+    excerpt: "NEW YORK, Dec. 31, 2019 /PRNewswire/ -- The global artificial intelligence in fashion market accounted for US$ 270.0 Mn in 2018 and is expected to grow at a CAGR of 36.9% over the forecast period 2019-2027, to account for US$ 4,391.7 Mn in 2027. Driving factors such as availability of massive amount of data due to increasing proliferation of ..."
+    publishedDateTime: 2020-01-01T00:08:00Z
+    sourceUrl: https://finance.yahoo.com/news/artificial-intelligence-fashion-market-2027-130000161.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
     quality: 0
-  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
-    excerpt: "by Organization Size (Small and Medium-Sized Enterprises, Large Enterprises) by Application (Information Extraction, Question Answering, Machine Translation, Automatic Summarization, Sentiment Analysis Text Processing,"
-    publishedDateTime: 2020-01-08T18:09:00Z
-    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1968053/0/en/Global-Natural-Language-Processing-NLP-Market-is-Set-to-Reach-USD-23-0-billion-by-2024-Observing-a-CAGR-of-20-0-during-2019-2024-VynZ-Research.html
+  - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
+    excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
+    publishedDateTime: 2020-01-07T21:43:00Z
+    sourceUrl: https://www.prnewswire.com/in/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025-valuates-reports-894848027.html
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 0
+    images:
+      - url: https://www.bing.com/th?id=ON.AF3294DE263BA10F5DE18F6C9C94D65C
+        width: 700
+        height: 366
 
 secured: "xATw4vAoDjB+TF9tYMfguMr52/ShDT7TaojIWqsAiZYzxOMl2E/In9Dvccrw8WD05pN1+n6SYnqQ0iQmN8glQD90tueY6a+sUVr9s2EhJ/37+JnnxJjsNzdtR1hEK1tEne1HwgogYee8mAGYAzd2fBQNcYCUfW/SeANLnToyEZMUN4SfjEy2s4spTbM4f6mg4CGl/BfWhf3FkLTwKcpPm0ICc9/FoC98FM6NItpBYcaEtdXtFB/BU07lPlBzarAQbidgvy01uJwuIJelVoQw8Q==;8HGd/eUU2wPwaWUv0h4JMA=="
 ---

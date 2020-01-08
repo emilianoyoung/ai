@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E9856E26D1EB6A28B07B919A9F9A1077
         width: 700
         height: 393
+  - title: "Robots taking over warehousing jobs"
+    excerpt: "But while fears that robots will replace human workers haven’t come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers’ health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more ..."
+    publishedDateTime: 2019-12-30T22:46:00Z
+    sourceUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230
+    ampUrl: https://www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+    cdnAmpUrl: https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/nation-and-world/robots-taking-over-warehousing-jobs-20191230?template=amphtml
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.FA973DA615274EECD95860F9F5E1D6FF
+        width: 700
+        height: 466
   - title: "Workers adapt as robots take over the warehouses"
     excerpt: "But while fears that robots will replace human workers haven't come to fruition, there are growing concerns that keeping up with the pace of the latest artificial intelligence technology is taking a toll on human workers' health, safety and morale. Warehouses powered by robotics and AI software are leading to human burnout by adding more work ..."
     publishedDateTime: 2019-12-31T00:23:00Z

@@ -59,6 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.62C8ECE3C4CC2D22FC0A0E3AAA928DA1
         width: 569
         height: 325
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2020-01-02T16:51:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+        width: 700
+        height: 459
 
 secured: "bUPkE7OsBW1/KAVOy2GouSTjF4E2lRbbvEX7SgY5z0Dg17qfJZvC1MZ0V+O17YbDVMxgw2x7ZQ/c1UztmhoN8C9287m/urYRZY/z3Rve6CTsS19m2E7TtQTLv+mn6U725ahY7NEFyr8+zqau2cAS8Vc64qjiPN5dWCX7Hbd9R6QivjCpPUs2SjoJRVe5sWvtWPfWj3L6cZVarTCSm+dWMZjl+avPrbpoIHp0tgNOXht9SP4yWV5YYrbIZqyfAC4E2+bd17wTedIfzinGCE+ueQ==;RWbqiK7TRTAjOPwl1CNvvg=="
 ---

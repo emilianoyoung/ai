@@ -28,19 +28,15 @@ images:
     title: "Image Recognition Market Will Rise at a CAGR of 59.7% Forecast till 2026"
 
 related:
-  - title: "Medical Bionic Implants And Exoskeletons Market to Raise at a CAGR of 7.5% over the Forecast Period 2017 – 2027"
-    excerpt: "According to National Center for Health Statistics, 185,000 new amputations are consistently being performed in the U.S every year. Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Although Future Market Insights maintains a ..."
-    publishedDateTime: 2020-01-07T08:37:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2020-01-07/medical-bionic-implants-and-exoskeletons-market-to-raise-at-a-cagr-of-75-over-the-forecast-period
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "by Organization Size (Small and Medium-Sized Enterprises, Large Enterprises) by Application (Information Extraction, Question Answering, Machine Translation, Automatic Summarization, Sentiment Analysis Text Processing,"
+    publishedDateTime: 2020-01-08T18:09:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1968053/0/en/Global-Natural-Language-Processing-NLP-Market-is-Set-to-Reach-USD-23-0-billion-by-2024-Observing-a-CAGR-of-20-0-during-2019-2024-VynZ-Research.html
     type: article
     provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 19
-    images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
 
 secured: "7R5fKUWSB/EXYRHSvQTQ8hTJHIxXNL5XXzXGEMfbvVAPCZgGyZiJiTHzAEMgtFAR0v+MZ6Qgj9DrA7yQz02jlI5q5IeWcVhiFdvJUibVRk7+KYrj36dy5mwf56C/5sQYT3RfZugerWfEYwFKxGJ1Komsmen54YAlhbbbGOPT1EgtEIk/guZv6mpj0sFSf/sU7YrfiwC/XBoMQrBs+6DedM/cmHvRtAhFbzbJFZTveYWQSXlXi7boZdWa70cN3DdJAuzuSSiYCLtSfWPaW5TGLg==;TkM+m7EvMdfCvE5suk8rGA=="
 ---

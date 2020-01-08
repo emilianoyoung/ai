@@ -26,45 +26,36 @@ images:
     title: "Luminar touts big lidar advances, new self-driving tech business model"
 
 related:
-  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
-    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
-    publishedDateTime: 2020-01-02T13:48:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
+    excerpt: "On Wednesday at CES, Volkswagen detailed an important new step in the company's march towards self-driving cars: the establishment not just of a new nerve center in Silicon Valley to research and develop the technology, but also the creation of Volkswagen Autonomy, Inc., a subsidiary division to support it. Based out of Belmont, CA (about 25 ..."
+    publishedDateTime: 2020-01-08T18:29:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 72
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
+      - url: https://www.bing.com/th?id=ON.A45CA660A9375BDAD397448799722978
         width: 700
-        height: 366
-  - title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
-    excerpt: "The Consumer Electronics Show has seen big announcements in self-driving car technology in recent years ... Closely held Velodyne counts Ford, China’s Baidu and camera maker Nikon as investors and partners, and is also working with automotive supplier Hyundai Mobis to get its sensors into more vehicles."
-    publishedDateTime: 2020-01-07T19:05:00Z
-    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/
-    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+        height: 367
+  - title: "I Tested Qualcomm’s New Self-Driving System at CES. Here’s What I Learned."
+    excerpt: "But early optimism about the timing of Level 5 self-driving cars fades by the day. It’s going to be years before fully automated driving technology is ready for widespread use. What you are going to see for now are more cars equipped with ADAS, advanced driver assistance systems. That’s what I experienced in my little jaunt down I-15 ..."
+    publishedDateTime: 2020-01-06T19:34:00Z
+    sourceUrl: https://www.barrons.com/articles/ces-2020-qualcomm-self-driving-cars-51578333950
+    ampUrl: https://www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars-51578333950
+    cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars-51578333950
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: Barron's
+      domain: barrons.com
+    quality: 42
     images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
-        width: 1069
-        height: 589
-  - title: "Self-driving moves closer with new LiDar innovation"
-    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
-    publishedDateTime: 2020-01-05T19:10:00Z
-    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
-    type: article
-    provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 4
+      - url: https://www.bing.com/th?id=ON.F7DE2EE3AC4F7DA937B58D82BDFC81F9
+        width: 700
+        height: 350
 
 secured: "eBuqWH5HiA4CptWv9C45JqczF8pzq0oUZOEnYiXOyiKuAdERijs9lFT4SxGXSvEJ6H0OELGnDxLm+4xu6F4ED5x/pr6ROfWtVVvZ1EPRTiQNrhqLRMZQVEC5mRUMO+aOe0CA7qQkRrPzruqtyu1pSu3wjRpedIEdoAK2EXpF+UinZ8KH0rHuWNbte3ysPWrYyutYLPst3CPu1cKyaYiszuNzob2ow6MGrz0ylkLAEyBkAGBmuxABgdQg0Mo0rF8R79OtI4dk/WqUqdv7AWa4qw==;BaWoLuMK13u00AoIJ0Wk4g=="
 ---

@@ -215,6 +215,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "WATCH THIS: Amazing CES footage shows a self-driving car navigating the narrow streets of Jerusalem"
+    excerpt: "The car was developed by Mobileye, a recent Intel acquisition that develops a wide range of mobility devices and software for motor vehicles. Scroll down for video Unlike many other self-driving cars, the Mobileye vehicle doesn’t use any LIDAR or RADAR sensors and instead creates a detailed three-dimensional map of its surroundings using ..."
+    publishedDateTime: 2020-01-08T19:21:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.D65718FD5E77B4031581CEA33F934C4B
+        width: 636
+        height: 382
   - title: "Bosch to offer lower-cost lidar for self-driving cars"
     excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
     publishedDateTime: 2020-01-08T07:06:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars
 cdnAmpUrl: https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-2020-qualcomm-self-driving-cars-51578333950
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     width: 700
     height: 350
     title: "I Tested Qualcomm’s New Self-Driving System at CES. Here’s What I Learned."
+
+related:
+  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
+    excerpt: "On Wednesday at CES, Volkswagen detailed an important new step in the company's march towards self-driving cars: the establishment not just of a new nerve center in Silicon Valley to research and develop the technology, but also the creation of Volkswagen Autonomy, Inc., a subsidiary division to support it. Based out of Belmont, CA (about 25 ..."
+    publishedDateTime: 2020-01-08T18:29:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A45CA660A9375BDAD397448799722978
+        width: 700
+        height: 367
+  - title: "Luminar touts big lidar advances, new self-driving tech business model"
+    excerpt: "Luminar Technologies Inc., one of the most highly valued startups developing lidar for self-driving vehicles, unveiled a new sensor system and a new business model on Tuesday. The Palo Alto company is now offering its hardware, software and systems on a subscription basis to the major auto industry customers who are using Luminar's technology ..."
+    publishedDateTime: 2020-01-07T19:25:00Z
+    sourceUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.html
+    ampUrl: https://www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
+    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/07/luminar-touts-big-lidar-advances-new-self-driving.amp.html
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.9B535C38AF82294F1F5B74AFEE6F8755
+        width: 700
+        height: 393
 
 secured: "B9Kj3JNYAqG73puwskKvl2ndbk5gQ2XdcgStHwSS5KrfEjLT8lE8Jcjl6Lv9MYZOGOrfUkIb2mYoLSzsMPjosCphDfJBV02dN8abSP05MBLqTUKx56s6vGbjn3JFLubz50oPT9Y0Hj2DlASmygQxZnHikRJxQITwO6KU5IuZm1rB14/jXCiCsVyqPJ4llCm8q/fPze1ViL9RwM1iQ0BZQsv2RQ8J+iPVG2MRDN24J9vQZXggRxvgLbkVexcKOaRK7BPHYOZ6pZNpDr5b/rUubg==;Z6y17F6pudWR9NBX6MJTmw=="
 ---

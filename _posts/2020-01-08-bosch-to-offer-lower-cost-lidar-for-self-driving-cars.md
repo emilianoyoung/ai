@@ -215,6 +215,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "WATCH THIS: Amazing CES footage shows a self-driving car navigating the narrow streets of Jerusalem"
+    excerpt: "The car was developed by Mobileye, a recent Intel acquisition that develops a wide range of mobility devices and software for motor vehicles. Scroll down for video Unlike many other self-driving cars, the Mobileye vehicle doesn’t use any LIDAR or RADAR sensors and instead creates a detailed three-dimensional map of its surroundings using ..."
+    publishedDateTime: 2020-01-08T19:21:00Z
+    sourceUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    ampUrl: https://www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    cdnAmpUrl: https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7865617/amp/WATCH-Amazing-CES-footage-shows-self-driving-car-navigating-narrow-streets-Jerusalem.html
+    type: article
+    provider:
+      name: Mail Online
+      domain: dailymail.co.uk
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.D65718FD5E77B4031581CEA33F934C4B
+        width: 636
+        height: 382
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z

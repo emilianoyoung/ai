@@ -57,19 +57,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-    excerpt: "Advance Market Analytics released a new market study on Global Machine Learning as a Service Market with 100+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand detailed analysis."
-    publishedDateTime: 2019-12-17T13:38:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
     publishedDateTime: 2019-12-19T20:50:00Z

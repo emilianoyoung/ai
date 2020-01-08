@@ -78,6 +78,21 @@ related:
       - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
         width: 600
         height: 390
+  - title: "How VDO.AI is building the future of Internet advertising"
+    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
+    publishedDateTime: 2019-12-23T11:03:00Z
+    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
+    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+        width: 700
+        height: 393
   - title: "How can healthcare achieve real technology driven transformation?"
     excerpt: "New Rochelle, NY, December 18, 2019--Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for ..."
     publishedDateTime: 2019-12-19T20:50:00Z

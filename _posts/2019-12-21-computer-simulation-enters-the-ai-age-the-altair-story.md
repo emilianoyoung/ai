@@ -8,8 +8,8 @@ ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: ZDNet
@@ -29,36 +29,60 @@ images:
     title: "Computer simulation enters the AI age: the Altair story"
 
 related:
-  - title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
-    excerpt: "Recent innovations are set to spread through society in the years ahead As 2019 draws to a close, I’d like to review notable technological achievements, trends and breakthroughs that have the most potential to define the 2020s."
-    publishedDateTime: 2019-12-16T10:10:00Z
-    sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
-    ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
-    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
+  - title: "The AI Doctor Will See You Now"
+    excerpt: "“The AI was able to detect smaller details than the human eye could pick up,” she says. Barzilay’s work is featured in the ninth installment of the Sleepwalkers podcast, which tours the effects of artificial intelligence revolution. The episode ..."
+    publishedDateTime: 2019-12-21T08:00:00Z
+    sourceUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/
+    ampUrl: https://www.wired.com/story/ai-doctor-will-see-you-now/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-doctor-will-see-you-now/amp
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.E21FD1ECAED1D696E006B1D0B97557CE
+      - url: https://media.wired.com/photos/5deac17648e9d2000853d4b1/master/pass/Biz-mammogram-521713512.jpg
+        width: 2400
+        height: 1600
+  - title: "How Cold War rivalry helped launch the Chinese computer"
+    excerpt: "It would score a ‘Free World’ technological and cultural victory, while also raising the possibility of a new infrastructure for the global dissemination and translation of Chinese-language material ... At the center of this geopolitical drama was the ‘Sinotype’, a machine devised by Samuel Hawks Caldwell, the father of Chinese computing."
+    publishedDateTime: 2019-12-22T02:08:00Z
+    sourceUrl: https://thenextweb.com/syndication/2019/12/22/how-cold-war-rivalry-helped-launch-the-chinese-computer/
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.C488FD95AAD2629266D7CDB59280F42D
         width: 700
-        height: 393
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+        height: 350
+  - title: "Does the Pentagon have a coherent strategy for AI?"
+    excerpt: "The stakes, as outlined by both CNAS and RAND, are straightforward: if the United States fails to take a lead in AI, and through that lead establish norms and ethics that maintain a global order of security hinged around the durability of American military supremacy, then rivals will instead reap the benefits. Kelsey Atherton blogs about ..."
+    publishedDateTime: 2019-12-20T00:04:00Z
+    sourceUrl: https://www.defensenews.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
+      name: Defense News
+      domain: defensenews.com
+    quality: 39
     images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
+      - url: https://www.bing.com/th?id=ON.4545314F6ED23BDBA1F166B45CBA7882
+        width: 700
+        height: 367
+  - title: "Best Game Ever: Vince Carter has the answer for AI"
+    excerpt: "I had a game in the Rucker too. And there was a game where I scored 51 in Miami, of all places, against a Gary Payton team. And then there’s the one in the playoffs verse the Sixers when AI and I were going back and forth. I scored 50 that game. That was probably it, my most memorable, because of the back-and-forth with one another ..."
+    publishedDateTime: 2019-12-28T19:03:22Z
+    sourceUrl: https://www.msn.com/en-us/sports/nba/best-game-ever-vince-carter-has-the-answer-for-ai/ar-BBYqcNE
+    type: article
+    provider:
+      name: Los Angeles Times on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.9269053D4F8C42FF2EE569540576E875
+        width: 700
+        height: 367
 
 secured: "Qdx+iGHbTSaogtxJjx4aCghlpjdZ+G58DjVSx0GYm+uywibCA8Nbxtr1XGahHqNvBH/irenERihxdrd4QfAkPQ54/Pi32r2Utf+mtDu75O58HyzMuPvwCr5YXKd0gsQYa+XGsRqlDqdtWZcpMqY0xNPOFJM/Tb2d30PhqxcH2mRdLECI4OMn9iiLeZ5aUH3OEP5oM9hMAgKpaMuGseO64nFX3mNM2VKdby6nL+WKqJJ0DZfh7vcoKhIXVW04dm0irRVK4KLc7AF1qevOuPYxQQ==;oxaTxuy6fxuEAZYArEfQHw=="
 ---
