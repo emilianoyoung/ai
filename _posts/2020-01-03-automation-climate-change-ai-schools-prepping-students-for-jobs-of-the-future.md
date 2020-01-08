@@ -26,6 +26,21 @@ images:
     title: "Automation, climate change, AI: schools prepping students for jobs of the future"
 
 related:
+  - title: "Arguments for using AI to combat climate change"
+    excerpt: "has denoted AI as a “game changer”. Discourses of both ethics and public international law, either directly or indirectly, encourage the application of AI in combating climate change. Although the 2015 Paris Agreement does not directly refer to it, the preamble to the agreement recognises “the need for an effective and progressive ..."
+    publishedDateTime: 2020-01-08T18:32:00Z
+    sourceUrl: https://www.thedailystar.net/opinion/environment/news/arguments-using-ai-combat-climate-change-1851343
+    ampUrl: https://www.thedailystar.net/opinion/environment/news/arguments-using-ai-combat-climate-change-1851343?amp
+    cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/environment/news/arguments-using-ai-combat-climate-change-1851343?amp
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.38AF9287BE3852D66A226C64AE847253
+        width: 560
+        height: 292
   - title: "Automation, climate change, AI: Schools prepping students for jobs of the future"
     excerpt: "“The philosophy department is creating the ethics course that the business people and the engineering people who are doing AI will be exposed to, which is a much deeper, deeper way of thinking about it,” Pitt said."
     publishedDateTime: 2020-01-02T13:24:00Z

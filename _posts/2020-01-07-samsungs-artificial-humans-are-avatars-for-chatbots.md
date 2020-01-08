@@ -45,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.40CB6A6A1CB07D74EC3D36B66BD64965
         width: 700
         height: 525
+  - title: "'Artificial humans' named Neon are stars of CES"
+    excerpt: "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,"
+    publishedDateTime: 2020-01-08T18:18:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662
+        width: 2818
+        height: 1594
   - title: "CES 2020: You have to see these robots and artificial humans"
     excerpt: "But Samsung wasn’t finishing off its keynote with just a little robot. The company has much larger ambitions in the world of AI, and its Neon project shows the unique direction it’s choosing to take. Unlike our popular conception of artificial intelligence and android-like creations, Neon boasts a palette of “Artificial Humans” that ..."
     publishedDateTime: 2020-01-08T08:41:00Z
@@ -187,6 +202,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "qtJ1131e7zIfoQi3PhLmTBaAwrPwGrr7xLpSrJCmQtMW7jlYy9JOp2Sc2+JKEDET+23DvNq4QgJnvHDqUbKKltKsRJVBQ64X8InAh0Ion3ULhPAQW6rwxH91Kv7tcqGl41cZrCO1LjUr1cmgkxiQcrCg6ysIvH6wWuSVuRi1uZyDO+Y1psnn834Mz9Z2jn5saJ/Ykh1PzpX2nQHp7Qr+H6qJYyqGFWBbqbukPD8HZUEUZhvdaf57SnqmDmop+n96sygt+oqgx+7Jec8ibFDFgg==;zPDZAi0aDRUY29jCNxqH3A=="
+secured: "vc8L140KbCQsxuRtaIwFF42ZPZjn8bNo3rM18L5SwlUA2uLrR6UkV+ozxfs1IBqsY0FHzI8kUw/kgahgxy+S0qfjsrdDxf16v33YC/d/N5BYuPrAgGCuwJzW3nPWfm7/zMvJBbl6be/hRIsccV0VY+RNI4ko09qXUllZVnQfZ3Imhap8GLjUQAlEmSyWg29Euabb4dbrOtOcyLqgvykNytUBRSa2SUP24VAaIKvtbfI2XWcWrMGUwFX1GtFq8RrzomsM4a7E/0EvXlWsgMstnw==;0zHeQlGlyTa6bAbacSiWfw=="
 ---
 

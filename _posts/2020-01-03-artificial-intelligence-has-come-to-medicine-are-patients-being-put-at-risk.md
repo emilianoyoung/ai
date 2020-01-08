@@ -8,7 +8,7 @@ ampUrl: https://www.latimes.com/business/story/2020-01-03/artificial-intelligenc
 cdnAmpUrl: https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     title: "Artificial intelligence has come to medicine. Are patients being put at risk?"
 
 related:
+  - title: "Artificial intelligence has come to medicine. Are patients being put at risk?"
+    excerpt: "Health products powered by artificial intelligence, or AI, are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could \"outthink cancer.\" Others say computer systems that read X-rays will make radiologists obsolete. \"There's nothing that I've seen in my 30-plus years studying ..."
+    publishedDateTime: 2020-01-08T18:14:00Z
+    sourceUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.html
+    ampUrl: https://medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
+    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-artificial-intelligence-medicine-patients.amp
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.FE650D6B83660BFB6A3ABC06DE37934F
+        width: 700
+        height: 596
   - title: "AI Comes To Medicine Amid Some Concerns About Safety"
     excerpt: "Early experiments in AI provide a reason for caution, said Mildred Cho, a professor of pediatrics at Stanford's Center for Biomedical Ethics. In one case, AI software incorrectly concluded that people with pneumonia were less likely to die if they had asthmaan error that could have led doctors to deprive asthma patients of the extra care they need."
     publishedDateTime: 2020-01-03T22:36:00Z

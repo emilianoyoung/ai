@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T13:19:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-market-size-will-reach-3998-billion-usd-by-2025-2020-01-07
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
     provider:
       name: YAHOO!
       domain: yahoo.com
+    quality: 0
+  - title: "Global Natural Language Processing (NLP) Market is Set to Reach USD 23.0 billion by 2024, Observing a CAGR of 20.0% during 2019–2024: VynZ Research"
+    excerpt: "by Organization Size (Small and Medium-Sized Enterprises, Large Enterprises) by Application (Information Extraction, Question Answering, Machine Translation, Automatic Summarization, Sentiment Analysis Text Processing,"
+    publishedDateTime: 2020-01-08T18:09:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/08/1968053/0/en/Global-Natural-Language-Processing-NLP-Market-is-Set-to-Reach-USD-23-0-billion-by-2024-Observing-a-CAGR-of-20-0-during-2019-2024-VynZ-Research.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 0
 
 secured: "IcrN2Ol02IgY3QHsVSMoDDRJY89fnx37Fy8AcXC988HWqbpf41+kCwVQLfaPxl14lowNvCgiMDHleMZUeBjOyLTgKZg5DPn86cRO3ifFTjUbRWOolEERY/e6lJalrFfYUo+0Q1eQOrDp4Nlh91L6GtLCtX0pAds2aSQ8UjvHCr2jx2jqNT5Prm3S4llumrPJnn6XVZQcYWLUgqIpgsROlYSmN0M7HQk75ezLMHC6ww7PfEGUtxarDIEIL7FC/7YQuBkPXBR0rRjqMfTvboktjw==;kf90MezutBjAapWDPXy8FQ=="

@@ -56,6 +56,19 @@ related:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
         width: 700
         height: 393
+  - title: "Meet the 11 power players of Amazon Web Services who helped build it into the biggest cloud business in the world"
+    excerpt: "Amazon Web Services has nearly half of the public cloud market share, well ahead of Microsoft and Google. These 11 executives are leading the charge."
+    publishedDateTime: 2020-01-08T18:06:00Z
+    sourceUrl: https://www.businessinsider.com/11-executives-power-players-amazon-web-services-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.4E826691C201F42636D61782ADBF4FCD
+        width: 700
+        height: 350
   - title: "The Best Tech of the Decade (Page 13)"
     excerpt: "Intel entering the GPU space means we'll have a 3rd player -- something that hasn't happened since ... You thought I was going to finish this article without mentioning AI, didn't you? We all know artificial intelligence is littered throughout our lives, but I don't think (even most of us) really know just how much. It's not just \"OK Google ..."
     publishedDateTime: 2019-12-30T03:49:00Z

@@ -23,6 +23,21 @@ images:
     height: 368
     title: "Speech recognition tech cuts paperwork for police"
 
-secured: "8zM0t1O3dDnkrUcLfLjKktd5VlMiTpeXR7RQbG4OPtP0T1LVQStGHux16L2Yjz5DR4x16WWYwoEc6iaf/OzUqFU/hS9TcBQxMTK5gfcXnAwo27lgBC6piJsVDJhA8IZ5Eh4/+Enmy5PAM/fmpglaO9UrXYrbndsiyQpBUMNk0BT7XFop2r6B9QWSyNEnXGZbts3aY0neyy3V3FhlF/bzZUe3Hr7q8ndy8LpB6wB0xFWqx3759g9Qb2zDVJQxuBLKYrvOb9d+IZIU0R/p3rVGaQ==;v1qTR2sZ91kVeldB+0V/Gg=="
+related:
+  - title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
+    excerpt: "Speech recognition is in great shape – accuracy levels are good and improving all the time. The accuracy is no longer focused on the easy scenarios, but is now being used for noisier, harder conversational-use cases, making the technology practical for ..."
+    publishedDateTime: 2019-12-09T11:15:00Z
+    sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 32
+    images:
+      - url: https://www.telegraph.co.uk/content/dam/business/spark/business-reporter/Lyonsdown-Icon-AEM.jpg
+        width: 1960
+        height: 1226
+
+secured: "uppTKnS8SKrn2nUUTKWRqTrhjJSOFArHCq9Ah+TIYm7QDF6RyalbcqPmsxOr3NO7z/mMRN1PNWfZQ2DCu4/wvTe5vOAyn1o/lrpdkHGcplPFJyH39AdX6ZIcAKduWnczZjnFQ4OnAkI1USwGdvttcDPz+knExGaBolhRTYPCYS3VNfLrPZ+kLiSrCbdmEUmf/bZr9ve61hW+7TKQ12hrDhLfoZ9tI8JxYGFmCNIV81kKKmaKQkN1eP13/A8kIGzKtPlURDVZ2jmUFJ33SIwXnw==;xAek+YLc2m7+Wu6Lf1wDNA=="
 ---
 

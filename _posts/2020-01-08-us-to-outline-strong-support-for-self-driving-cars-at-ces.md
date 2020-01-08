@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
 type: article
 quality: 74
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "U.S. to outline strong support for self-driving cars at CES"
 
 related:
+  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
+    excerpt: "On Wednesday at CES, Volkswagen detailed an important new step in the company's march towards self-driving cars: the establishment not just of a new nerve center in Silicon Valley to research and develop the technology, but also the creation of Volkswagen Autonomy, Inc., a subsidiary division to support it. Based out of Belmont, CA (about 25 ..."
+    publishedDateTime: 2020-01-08T18:29:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.A45CA660A9375BDAD397448799722978
+        width: 700
+        height: 367
   - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
     excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
     publishedDateTime: 2020-01-07T21:44:00Z
@@ -101,6 +116,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DF659922CA85D0DA9EC0A4FC47B0B61C
         width: 700
         height: 367
+  - title: "Trump administration to outline support for self-driving cars"
+    excerpt: "LAS VEGAS -- The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at CES. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles, dubbed 4.0, which she says unifies efforts across 38 U.S. departments ..."
+    publishedDateTime: 2020-01-08T17:10:00Z
+    sourceUrl: https://www.autonews.com/ces/trump-administration-outline-support-self-driving-cars
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5499366377D9FD1D50A3DD3F716DDCEC
+        width: 700
+        height: 525
   - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
     excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
     publishedDateTime: 2020-01-07T12:13:00Z

@@ -23,6 +23,21 @@ images:
     height: 480
     title: "Shares in Fintech Firm Yusys Hit Limit Up on Baidu Investment"
 
+related:
+  - title: "Nippon Life to Up Investment in Health, AI, Fintech Startups"
+    excerpt: "Tokyo, Jan. 7 (Jiji Press)--Nippon Life Insurance Co. plans to bolster investment in health and artificial intelligence startups, as well as fledgling companies developing fintech, or financial services using information technology. The major Japanese life insurer will increase its investment quota for such startups from the current 10 billion ..."
+    publishedDateTime: 2020-01-08T18:13:00Z
+    sourceUrl: https://www.nippon.com/en/news/yjj2020010700874/nippon-life-to-up-investment-in-health-ai-fintech-startups.html
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.666D0353CCC11A48B4759A96FD5F2811
+        width: 360
+        height: 450
+
 secured: "HKfwP6JRq649qlnoOKylc9/N10VUbslClv+Rtx1UVyRj7sB1mAcp7UKwEKSrInotRtzFoxagzaMBMO6XzLkrYeL0CeWGqnAztYai7bQhoeRLRCZJnHL3IXb9vJkIZPz9qyS0HjDmX/985Pcx4sxi3yMrk6FMY4bCsgfS1W/T6veLi8tc3lFxMKn1pOCrxNZVHQ4aRruPsYCllDn9ICWs/c50i3ubZSh7dD/nFAxXjGnIF+Aee4HXBGTlCfcGpO1wLgKhOkeSdR7jAfqQbdcHMQ==;pPI5JrKR4oJjCpZniT20zw=="
 ---
 

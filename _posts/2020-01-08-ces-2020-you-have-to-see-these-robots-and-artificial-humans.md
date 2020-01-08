@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
         height: 401
+  - title: "'Artificial humans' named Neon are stars of CES"
+    excerpt: "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,"
+    publishedDateTime: 2020-01-08T18:18:00Z
+    sourceUrl: https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    ampUrl: https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662
+        width: 2818
+        height: 1594
   - title: "Study allows artificial neural connection to regain control of paralysed hand"
     excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
     publishedDateTime: 2020-01-08T09:29:00Z
