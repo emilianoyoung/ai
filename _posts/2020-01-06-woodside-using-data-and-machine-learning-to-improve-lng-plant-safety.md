@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/woodside-using-data-and-machine
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/woodside-using-data-and-machine-learning-to-improve-lng-plant-safety/
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
         width: 685
         height: 445
+  - title: "Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model"
+    excerpt: "We aimed to develop a computer-aided diagnostic system (CAD) for predicting colorectal polyp histology using deep-learning technology and to validate its performance. Near-focus narrow-band imaging (NBI) pictures of colorectal polyps were retrieved from the database of our institution. Of these, 12480 image patches of 624 polyps were used as a ..."
+    publishedDateTime: 2020-01-08T12:22:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56697-0
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.F87A682F7E6BBEBDAEE4B377837EDF92
+        width: 685
+        height: 536
 
 secured: "srMzSL+hq8cliEEkQiTrZmP8qjmEv0nxBqKUYLPGkhxLro6Ws1Ls9qjxmEEhwTStOmJ26JhEdU1719xf/Dt2tRM+kDSyOzq/Fc2DGMn8mR2224wcGcCdCO5QGQpA0E7gXfG5PwKGc5ZnTwHKDnq+MNHZZ3xS1QZeRBCd4dQCGViHE5Up+rA7gCNwKIGIHDO/jKc1Mmv7gtnIUwcVT9XIijlLySDdUqZOEpeHiMyrW/Ot5fAcwzfJywNTFtyklR1ppsOoayanFezffcIc1q1MXA==;UlMaqFC+F0oFB7bq86BfOg=="
 ---

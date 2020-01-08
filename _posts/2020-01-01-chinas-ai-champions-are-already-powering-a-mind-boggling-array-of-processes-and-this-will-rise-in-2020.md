@@ -8,7 +8,7 @@ ampUrl: https://amp.scmp.com/tech/start-ups/article/3044188/chinas-ai-champions-
 cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3044188/chinas-ai-champions-are-already-powering-mind-boggling-array
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,23 @@ images:
     width: 700
     height: 367
     title: "China’s AI champions are already powering a mind-boggling array of processes and this will rise in 2020"
+
+related:
+  - title: "We’re fighting fake news AI bots by using more AI. That’s a mistake."
+    excerpt: "During events in which researchers now believe political bots and disinformation played a key role—the Brexit referendum, the Trump-Clinton contest in 2016, the Crimea crisis—there is a widespread belief that smart AI tools allowed computers to pose as humans and help manipulate the public conversation. Pundits and journalists have fueled ..."
+    publishedDateTime: 2020-01-08T12:08:00Z
+    sourceUrl: https://www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/
+    ampUrl: https://www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614810/were-fighting-fake-news-ai-bots-by-using-more-ai-thats-a-mistake/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.87190AF3CE74EA6A8AF5000872184A94
+        width: 700
+        height: 393
 
 secured: "EDklHrYiWcoQdsFRMYPsPNRjtdBruR64/xiq+Pv8qtEpvM2u9CBIDTSn5mvnx0fytV1aGRA9F3Xr82zx0wMVFcB2ZQvxvUNcfkNuwjy+Ahz5nluFI8dh9OajofekYO4rqgFiTQoPDIxBTNtPOKWYsQ7OHzCWdTEkboH85v0s2cU6RQKcmkwKZN9Unp1OGTtI+vGpOIfCT0Hseua7x4LfRzyCFRTwnURED2dmNlLjcU25pOt3BSwKQxqaRegAR3HQeFMaA11RAUUWTBzOOI/YGA==;FQoy6sUmL8z2joow9nMSqw=="
 ---

@@ -115,15 +115,6 @@ related:
       - url: https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2019/12/josephmosconi.png
         width: 400
         height: 321
-  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
-    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
 
 secured: "NdfcC255nsHr3J9KX2/6lX3OWtoqPx2XP+ftzBf7T7j4ti/df7KFrCT2GgbpcIuq4+pDDXBJtImxwJPl2AdMukuAZFgJA8vBQl5xU/1H1RvHYMIuSisxuGk3Gic38KsWcXIIZ7oH2jHKiC5heofLUSOsh+5OG1HoMZGaiWtF6KTgv704/zWXrC+7axGWGLXIJqd6m6+MPguSXgwJdkPb0zDJ89jY7eU4t9YIG53aHjoeFrwHc47RlvEz6iUPtIVqSf8A2bRVnMg0fYrVOaIRrQ==;dtyi8qNJKVkFFTY87nr3dw=="
 ---

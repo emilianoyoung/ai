@@ -171,19 +171,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
-    excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
-    publishedDateTime: 2020-01-07T12:57:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ai-for-healthcare-start-up-lumiata-expands-leadership-team-with-industry-standouts-to-head-up-platform-engineering-sales-and-marketing-300982377.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: https://www.bing.com/th?id=ON.DEC19AEFCE64C02F9349BF8265F28615
-        width: 700
-        height: 366
   - title: "Artificial Intelligence in Accounting Market to Drive Amazing Growth by 2025 | AWS, Microsoft, Intuit, Xero, Sage"
     excerpt: "Most importantly, the report sheds light on strategies that leading players are banking on to maintain their dominance in the Global Artificial Intelligence in Accounting Market. It shows how the market competition will change in the next few years and how players are preparing themselves to stay ahead of the curve. AWS, Microsoft, Intuit ..."
     publishedDateTime: 2020-01-07T12:51:00Z
@@ -193,6 +180,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 13
+  - title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
+    excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
+    publishedDateTime: 2020-01-07T14:04:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-ai-healthcare-start-up-lumiata-expands-leadership-team-/2020/01/07/9077389.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "iqRWUEP7YMfAj37+uTNGBnXx6DOhrl0WH2yKNvFEdlghD0IhojQVYM4WMxGmUbuA6iGVhKrly5p6/bvZT+MrHJi/FfsHX4Q+cDif3AFS4cH2AzcOP8Q3wtYCoCTMjgHt5NZV9dyiGlNNCcMFEwGMcEE0CXV4ULtxZ3AmCdNJQUwdwxnUfnqe0jUMBXW20ED6jSeKR8JSaqjess/db6B0dndouZMNvvVP9tfp/L5YAhgCi9+Vt0rMgDIPov2n2yDhDMAFy9qg76sSRluo8DV4xQ==;IwN0bn5Wr5Rx9ciVwm6hOA=="
 ---

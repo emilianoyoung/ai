@@ -146,6 +146,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3E5038CB1DC1CC40C84F6F6CA0069A97
         width: 700
         height: 350
+  - title: "How Facial Recognition Technology Works"
+    excerpt: "If you got a new smart device over the holidays, there’s a good chance it comes equipped with facial recognition technology. The smart tech unlocks your phone or tablet and allows quick access to a stored credit card, an airline app, bank account and so much more—all based on the unique features of your face. It also leads to questions ..."
+    publishedDateTime: 2020-01-08T12:32:00Z
+    sourceUrl: https://www.adweek.com/digital/how-facial-recognition-technology-works/
+    ampUrl: https://www.adweek.com/digital/how-facial-recognition-technology-works/amp/
+    cdnAmpUrl: https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/digital/how-facial-recognition-technology-works/amp/
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 59
+    images:
+      - url: https://static-adweek-com.cdn.ampproject.org/i/s/static.adweek.com/adweek.com-prod/wp-content/uploads/2020/01/one-platform-yaccarino-content-2020-640x360.jpg
+        width: 640
+        height: 360
   - title: "Maine City Again Delays Vote on Facial Recognition Tech"
     excerpt: "(TNS) — The Portland, Maine, City Council voted unanimously Monday night to postpone voting on a proposal that would prohibit city officials from using facial recognition technology, which critics say infringes on civil liberties and frequently misidentifies people of color. It was the second delay since City Councilor Pious Ali first ..."
     publishedDateTime: 2020-01-07T17:25:00Z

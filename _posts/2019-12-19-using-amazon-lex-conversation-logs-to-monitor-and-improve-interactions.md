@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T23:59:46Z
 sourceUrl: https://aws.amazon.com/blogs/machine-learning/using-amazon-lex-conversation-logs-to-monitor-and-improve-interactions/
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 18
-  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
-    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
 
 secured: "KcltnFLnTO57rJF5KSQrzX/hYKw7bjDIv96ZKqLxLL1lRi1hwaIXKhbfhC5uyVtZG8Ab5ypb0j/Em5jS2s3GtixUlXPb6XshGNGodO4YfQI2cdQ7yvPTW1hBfGZowgI9rctYUSgiLdTO4xPjhvc+33QCyttJ1Ng6Zd/7a1Fibt2Y65FSNrcAUXNkiujXdISI8fGUun1M2aBsd38gWp5ypcEHCyLcWgXISgTwD8P9kUtLRKkYXbMba2mZa3X3odwyspAjc7SMwDhaHa/GM/rh9Q==;clb7inkipVgPH9PT3JgC2w=="
 ---

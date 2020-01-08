@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/03/clearcover-raises-50-million-to-find-you-a-vehicle-insurance-policy-with-ai/amp/
 type: article
 quality: 184
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3D23A14F0B183E1F4B39DACC00629878
         width: 700
         height: 350
+  - title: "Evolv raises $30 million to expedite security screenings with AI"
+    excerpt: "They’re self-contained and portable gates that tap AI, machine learning, and millimeter wave sensors to expedite security screenings in high-traffic places. The founders evidently are not the only people who believe in the products. Evolv this morning announced that it’s raised over $30 million in series C growth capital with participation ..."
+    publishedDateTime: 2020-01-08T12:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/
+    ampUrl: https://venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.2B8A04101BD0BA9084D397C252757E7C
+        width: 700
+        height: 348
 
 secured: "tZs9PIEYZXhaU2OKqnlnfVG/Wdo95+KtyzqtCOZ2LMiGkrN5PyD3BxuowZ8YepF6mucrp8YLzDDJZLz6GcA3ngvLzgkq9SxB92ACbOX+IX7ygS4DOrrZoz/4MQmdiHP5w3SSI2br6fu4i0eyZEP0/FcAt7oGsLNb3DhvB5P10Yv4j9f43/iZWLatFvYENtTC8xeqjskhI4By62/h4JSDxo00wnYD8NQ3cFjHonHOy5uTe+TKerhgPmjaHvG875pXtimVqwJcpwKfi8CQXPhRgZkrIeCg+u4QQc1RQSC4Daw=;qYzA363ZXhpvGRLKLCwdVw=="
 ---

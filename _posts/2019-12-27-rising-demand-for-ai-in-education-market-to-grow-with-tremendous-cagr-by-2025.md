@@ -146,6 +146,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3B27C049A1B4D1B4F546725F336605B9
         width: 600
         height: 315
+  - title: "Deep Learning Market to Grow Based on Increasing Applicability in Automobiles & Healthcare Sectors Till 2025 | Million Insights"
+    excerpt: "FELTON, California, Dec. 18, 2019 /PRNewswire/ -- The global Deep Learning Market is estimated to touch US$ 10.2 billion by the completion of the prediction period. The market was appreciated by US$ 272.0 million in the year 2016. Growing applicability in ..."
+    publishedDateTime: 2019-12-18T10:23:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/deep-learning-market-to-grow-based-on-increasing-applicability-in-automobiles--healthcare-sectors-till-2025--million-insights-300976638.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Machine Learning Chip Market :Technology, Future Trends, Market Opportunities 2019 & Key Players"
     excerpt: "Machine learning is derived from the field of artificial intelligence (AI), which uses algorithm to find out natural patterns in data for the development of computers. This data is used to take better decisions and make predictions in applications, such as stock trading, medicals, machine load forecasting, and others. For instance, many media ..."
     publishedDateTime: 2019-12-24T06:14:00Z

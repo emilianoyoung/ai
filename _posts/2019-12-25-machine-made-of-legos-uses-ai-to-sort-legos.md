@@ -51,17 +51,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
         width: 500
         height: 375
-  - title: "Top 10 artificial intelligence stories of 2019"
-    excerpt: "According to Gartner’s 2019 CIO Agenda survey, organisations that have deployed artificial intelligence (AI) grew from 4% to 14% between 2018 and 2019. Organisations are looking to take advantage of smart speakers such as Alexa and Google Home to provide another channel to market, and are rolling out chatbots as an alternative to call centre ..."
-    publishedDateTime: 2019-12-19T11:49:00Z
-    sourceUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019
-    ampUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
   - title: "Squirrel AI Learning Attends the 2019 Stanford University MediaX Conference: Connecting the Learner and the Learning with Algorithms and Analytics"
     excerpt: "At present, Squirrel AI Learning is using deep learning to enhance the Bayesian-based tracking algorithms of students' knowledge points and KST algorithms, etc.; using SimStudent and Apprentice Learner to establish recommendation strategies through reinforcement learning; and introducing human-in-the-loop methods in machine learning."
     publishedDateTime: 2019-12-20T05:38:00Z

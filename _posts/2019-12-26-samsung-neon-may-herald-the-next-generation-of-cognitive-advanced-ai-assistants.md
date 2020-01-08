@@ -68,19 +68,6 @@ related:
       - url: https://www.bing.com/th?id=ON.01F3B7C9A061BA12755FEF60CFFD71AF
         width: 600
         height: 337
-  - title: "Samsung and Baidu will start production of new AI Chip in 2020"
-    excerpt: "Samsung has announced that it is working with Baidu on a new AI Chip and production of this new artificial intelligence chip will commence next year. This new AI Chip is built on Samsung;s advance XPU home grown neural processor architecture and on the 14 nm process. “We are excited to lead the HPC industry together with Samsung Foundry ..."
-    publishedDateTime: 2019-12-19T11:05:00Z
-    sourceUrl: https://www.geeky-gadgets.com/samsung-and-baidu-will-start-production-of-new-ai-chip-in-2020-19-12-2019/
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: https://www.geeky-gadgets.com/wp-content/uploads/2019/12/samsung-logo2-1.jpeg
-        width: 700
-        height: 429
   - title: "Samsung to unveil NEON at CES 2020, teased to be a human-like AI assistant with support for Hindi"
     excerpt: "Called Neon, the new AI-based product is currently in the works at Samsung Technology Advanced Research Labs (STAR Labs). It will be unveiled in January 2020."
     publishedDateTime: 2019-12-26T04:09:41Z

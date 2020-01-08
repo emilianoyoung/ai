@@ -40,19 +40,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Machine Learning As A Service (MLaaS) Market Forecast 2017-2024 by Technology, Leading Companies and Demand"
-    excerpt: "Jan 08, 2020 (AmericaNewsHour) -- Machine learning refers to the artificial intelligence software which predicts the outputs without any explicit program. Instead of supervising the unsupervised program, machine learning learns from the environment and ..."
-    publishedDateTime: 2020-01-08T05:50:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-forecast-2017-2024-by-technology-leading-companies-and-demand-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence in Transportation Market Development Status & Technology Acquisitions"
     excerpt: "Dec 31, 2019 (HTF Market Intelligence via COMTEX) -- Global Artificial Intelligence in Transportation Market by Manufacturers, Regions, Type and Application, Forecast to 2024 is latest research study released by HTF MI ... 317 1218 sales@htfmarketreport.com Connect with us atLinkedIn | Facebook | Twitter COMTEX ..."
     publishedDateTime: 2019-12-31T04:34:00Z
@@ -96,19 +83,6 @@ related:
     excerpt: "Jan 02, 2020 (The Expresswire) -- Global Machine Translation Market Reports Presents Industry Surveys, Product Descriptions, Different Types of Applications, Major Manufacturers, Machine Translation Market Demand, Market Volume, and Machine Translation Market Development Forecasts 2020-2024. Global “Machine Translation Market”2020 report ..."
     publishedDateTime: 2020-01-02T06:16:00Z
     sourceUrl: https://www.marketwatch.com/press-release/machine-translation-market-size-share-2020-global-growth-insight-trends-industry-key-players-regional-forecast-to-2024-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
-    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
-    publishedDateTime: 2020-01-06T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
     type: article
     provider:
       name: MarketWatch

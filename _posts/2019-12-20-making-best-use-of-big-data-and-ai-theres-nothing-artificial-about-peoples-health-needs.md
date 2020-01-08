@@ -18,21 +18,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Morality and artificial intelligence?"
-    excerpt: "What’s the first thing that comes to mind when you read the words ‘artificial intelligence’? Do you think of an algorithm that ... The examples above are just a flavour of AI’s vast potential – it could completely revolutionise every sector, from healthcare to retail. Eventually, it will have an even greater positive impact on all ..."
-    publishedDateTime: 2019-12-19T11:25:00Z
-    sourceUrl: https://www.techradar.com/nz/news/morality-and-artificial-intelligence
-    ampUrl: https://www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
-        width: 700
-        height: 466
   - title: "Data Quality, Equity Essential for Artificial Intelligence Use"
     excerpt: "Although the emergence of artificial intelligence (AI) offers the potential for better patient outcomes, lower costs, and improved population health, the technology could also bring numerous unintended consequences. “While there have been a number of promising examples of AI applications in healthcare, we believe it is imperative to proceed ..."
     publishedDateTime: 2019-12-19T19:28:00Z

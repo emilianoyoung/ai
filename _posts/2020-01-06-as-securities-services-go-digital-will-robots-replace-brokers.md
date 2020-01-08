@@ -50,6 +50,19 @@ related:
       - url: https://www.bing.com/th?id=ON.345D35FDE5A1FB844B68FF4F5F0C6720
         width: 700
         height: 366
+  - title: "HighRadius raises $125 mn in Series B round"
+    excerpt: "HighRadius was advised by the Atlas Technology Group for the transaction. HighRadius is a FinTech enterprise SaaS that automates accounts receivable and treasury processes with AI-based autonomous systems. Its receivables platform reduces cycle times in the order-to-cash process through automation of receivables and payments processes across ..."
+    publishedDateTime: 2020-01-08T12:58:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/highradius-raises-125-mn-in-series-b-round/
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D6E53615B87914D69A2CF4A2F9608C49
+        width: 400
+        height: 400
   - title: "Fintech startup MioTech closes Series A+ funding round led by Horizons Ventures"
     excerpt: "MioTech, a Hong Kong-based provider of financial data and analytics leveraging the capabilities of AI, today announces that it has closed its Series A+ funding round led by Li Ka-shing’s investment company Horizons Ventures. This is a companion discussion topic for the original entry at https://financefeeds.com/fintech-startup-miotech-closes ..."
     publishedDateTime: 2020-01-06T08:18:00Z

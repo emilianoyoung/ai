@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T03:52:00Z
 sourceUrl: https://www.industryweek.com/supply-chain/article/21119188/building-intelligent-supply-chains-with-ai-analytics-and-blockchain
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,17 +23,15 @@ images:
     title: "Building Intelligent Supply Chains with AI, Analytics and Blockchain"
 
 related:
-  - title: "Identify bottlenecks in your supply chain with machine learning"
-    excerpt: "Machine Learning helps gain visibility into the supply chain to determine where forthcoming bottlenecks can occur. Another way Machine Learning is helping is by reducing costs and improving response time. Machine learning also has the power to better manage and maintain the supply chain assets. Machine Learning provides real-time monitoring ..."
-    publishedDateTime: 2019-12-19T11:37:00Z
-    sourceUrl: https://www.clickz.com/identify-bottlenecks-in-your-supply-chain-with-machine-learning/258910/
-    ampUrl: https://www.clickz.com/identify-bottlenecks-in-your-supply-chain-with-machine-learning/258910/amp/
-    cdnAmpUrl: https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/identify-bottlenecks-in-your-supply-chain-with-machine-learning/258910/amp/
+  - title: "global artificial intelligence in supply chain market"
+    excerpt: "Data Bridge Market research has recently published the comprehensive business research on “Artificial Intelligence in Supply Chain Market” includes historic data, present market trends, future product environment, marketing strategies, technological innovation, upcoming technologies, emerging trends or opportunities, and the technical ..."
+    publishedDateTime: 2019-12-19T12:12:00Z
+    sourceUrl: https://www.openpr.com/news/1881321/global-artificial-intelligence-in-supply-chain-market-covering
     type: article
     provider:
-      name: ClickZ
-      domain: clickz.com
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 32
 
 secured: "439+e2eqeK8CZaO6UzWMfpW6ju18wxi3XEJtMzDVCkscSTeGyvqOxgsb1lUm5jhYgDos7+29ZWN3fJloKzhMoO4o2XmtUOYZunVZUDqw3/hjkjUlAHzC2LGHrUI1Fkt1Zk2B8994BAuGuCZSiGNk7e7TJGVjSW6TmuLNekTrMzA0qXC9yHTLh8SgNXvkHmSH6vRydMHycI45Gk9UOTcQtqjD74omS+aP1IKY137r1k7oYSW3ByZPdDwuski71hCmCHcIk4QUgggfP1lPolR3kQ==;ywuqcI89bJau3WK/mtDeUw=="
 ---

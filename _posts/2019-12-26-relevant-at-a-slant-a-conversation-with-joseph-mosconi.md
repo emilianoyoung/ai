@@ -117,15 +117,6 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 18
-  - title: "Cerence to Bring First-of-its-Kind Voice and Multi-Modal Interaction to Autonomous, Electric Vehicle at CES 2020"
-    excerpt: "Demonstrating a unique focus on the user experience in the autonomous, electric and shared vehicle of the future, Cerence will show how its speech recognition and natural language understanding and output, combined with speech signal enhancement and Saint-Gobain Sekurit’s transparent screen technology, will enable people to interact with the ..."
-    publishedDateTime: 2019-12-19T12:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/cerence-to-bring-first-of-its-kind-voice-and-multi-modal-interaction-to-autonomous-electric-vehicle-at-ces-2020-1028775444
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
 
 secured: "B307PAujBTSWymrAfB072Zb4/PXErccZBzs0ylb5ETSyJ6/mo/EOA3lzzlrQBgukEylGPe3Jh7mNum25YPfN57P+RdkOowZffG5dYfBB8YSbmLRiHwp5atd3+xQixgKgOYI8vH0jz8p8wu/yW6VayYG6/A+IqyZIdzirPKQW73lATDJAeWMzlad0bsRbKuSnlfg6O0Xp1eCGPqATFoaReIAuYqdgeSObdCV9aGZ9+8/fZUTLo/HO8pS9Y4Gcmh75UVMvw2H7NyAx9IfOtT4T5Q==;X7aoXjijjct8F2OTuWAzAg=="
 ---

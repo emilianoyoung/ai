@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8CF4C4AFCA9D86B6870DBC94E3D0C75D
         width: 700
         height: 393
+  - title: "Nvidia Announces New Orin Auto AI Processor"
+    excerpt: "in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers."
+    publishedDateTime: 2019-12-18T17:04:00Z
+    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
+    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.42094475F6B4E7BE3369ED4A7F93DFF6
+        width: 600
+        height: 315
   - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
     excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
     publishedDateTime: 2019-12-25T06:38:00Z

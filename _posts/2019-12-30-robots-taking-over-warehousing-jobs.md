@@ -82,6 +82,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D1E6A101A35EE4A3DC40B09D5A23CA8B
         width: 685
         height: 445
+  - title: "Endoscopic diagnosis and treatment planning for colorectal polyps using a deep-learning model"
+    excerpt: "We aimed to develop a computer-aided diagnostic system (CAD) for predicting colorectal polyp histology using deep-learning technology and to validate its performance. Near-focus narrow-band imaging (NBI) pictures of colorectal polyps were retrieved from the database of our institution. Of these, 12480 image patches of 624 polyps were used as a ..."
+    publishedDateTime: 2020-01-08T12:22:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-56697-0
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.F87A682F7E6BBEBDAEE4B377837EDF92
+        width: 685
+        height: 536
 
 secured: "f+lDHTEklEf8diOsitdE29J0G1xtGHQjvSHxmdKnLLFWv2pu3OohzlCVyBoe0JHGTejg799rOUg6tY/cCYMGYTUmq0f0hKuiHOj/QHfguD04Bd3rGwM/R44NKoyEHxw+nwnrPLASOLW283pYXc0IKx4HD0poW2AgLp/cvz+bOrtD4kKHr4lTpUsHASX5OgcKDlh9meGRpJJOCRNQ1tu4jZu7C5H/gOyZk9vjhl+wCvx7w20ykc0Ix0ehih0lPteSl3lj0RVNx92+w7/1Eec0SQ==;eQhVIYD9V7+Rymw0s0RQiQ=="
 ---

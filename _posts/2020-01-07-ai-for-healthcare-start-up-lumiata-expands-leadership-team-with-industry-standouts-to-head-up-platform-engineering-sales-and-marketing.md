@@ -2,26 +2,20 @@
 category: news
 title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
 excerpt: "The Lumiata AI Platform is designed specifically for healthcare customers to fully unlock the potential of their data and predictive insights. Based in the heart of Silicon Valley, Lumiata is an Artificial Intelligence company purpose-built for the healthcare industry. Powered by over 100 million patient data records, clinical, risk and ..."
-publishedDateTime: 2020-01-07T12:57:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ai-for-healthcare-start-up-lumiata-expands-leadership-team-with-industry-standouts-to-head-up-platform-engineering-sales-and-marketing-300982377.html
+publishedDateTime: 2020-01-07T14:04:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-ai-healthcare-start-up-lumiata-expands-leadership-team-/2020/01/07/9077389.htm
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.DEC19AEFCE64C02F9349BF8265F28615
-    width: 700
-    height: 366
-    title: "AI for Healthcare Start-Up, Lumiata, Expands Leadership Team with Industry Standouts to Head Up Platform Engineering, Sales and Marketing"
 
 related:
   - title: "Artificial Intelligence in Healthcare Market Expected to Witness a Sustainable Growth over 2024"
@@ -194,6 +188,6 @@ related:
         width: 700
         height: 366
 
-secured: "fFwXpv0VfH8Uc6B8vvlvud5ssw117h+2ABGX54jXc7/yEHwzc54R7A/wuiTaq887baUtOqJIcaass/eAiur3RGve7w4xAydTFm9hYs9RYv+yuQi2KCAn3zGmwLRrGPJUlZ4s7iBezzauhc+xLSjzr54p+tdcy111TwppTMK+cTvISc+PeY4Kev6/c1Q84BZTauWo2Awm4PRzoLWRKWapdM3xVsVXIMf58zpfPmfUtfdFwGuANkYPAKRUegrblLe0+BImV0/XRk8NY2990/C4rg==;LMKCsqsmXT+jSbRyNX9otw=="
+secured: "GWMNVbPlsoBhitIfZq8IjLG5yGhfrC2BJaEweB9geGIuJNuDFqphcWRVy5g7tbcbGltNwOAcOOHsXJik5F29AQeiLiOUPa5fTQchD3jU1hpqq8Axen4rRM+8ecrsLVzHqDSyybbs1ZZ7FHeBgeBcn01jafCzpQrkGvg4wEOEbLOfwRqA7SHZ5TcybMlwPKtqOIgrOuCcOLwY+Fk26otwWaT9mXOEfPrRGvxg0dzCloo8k1K4YTdThR47HwcC1FBBi1L3UZfHdDyKxk78D8fLVA==;jFlo7BAkGoz/7M++1j30+g=="
 ---
 

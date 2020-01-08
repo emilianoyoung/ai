@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-19T19:28:00Z
 sourceUrl: https://healthitanalytics.com/news/data-quality-equity-essential-for-artificial-intelligence-use
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "Data Quality, Equity Essential for Artificial Intelligence Use"
 
 related:
-  - title: "Morality and artificial intelligence?"
-    excerpt: "What’s the first thing that comes to mind when you read the words ‘artificial intelligence’? Do you think of an algorithm that ... The examples above are just a flavour of AI’s vast potential – it could completely revolutionise every sector, from healthcare to retail. Eventually, it will have an even greater positive impact on all ..."
-    publishedDateTime: 2019-12-19T11:25:00Z
-    sourceUrl: https://www.techradar.com/nz/news/morality-and-artificial-intelligence
-    ampUrl: https://www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/morality-and-artificial-intelligence
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.7BFA0412C509B170590AAB9997005AB2
-        width: 700
-        height: 466
   - title: "Making best use of Big Data and AI: There’s nothing artificial about people’s health needs"
     excerpt: "A new EPHA Reflection Paper explores the potential of Artificial Intelligence (AI ... The paper proposes to look beyond the hype by taking a level-headed, public health friendly approach to AI’s expansion into the healthcare sector. It is key that AI and related technologies serve the needs of their end users first and foremost ..."
     publishedDateTime: 2019-12-20T13:52:00Z

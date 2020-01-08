@@ -142,6 +142,19 @@ related:
       - url: https://www.bing.com/th?id=ON.070E8E4413A9862B2132E89287CF3A78
         width: 700
         height: 393
+  - title: "Facebook to Kick Out Some Deepfakes"
+    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
+    publishedDateTime: 2020-01-08T11:00:00Z
+    sourceUrl: https://www.technewsworld.com/story/86443.html
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D13D048737B9ABE88723849D2A5A1D89
+        width: 620
+        height: 386
   - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
     publishedDateTime: 2020-01-07T15:02:00Z

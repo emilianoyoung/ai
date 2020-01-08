@@ -27,6 +27,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 10
+  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:18:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2019/12/19/1962870/0/en/Global-Medical-Linear-Accelerators-Market-Outlook-to-2025-Emergence-of-MRI-based-LINACs-Present-Opportunities.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
   - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
     excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
     publishedDateTime: 2019-12-20T00:05:00Z

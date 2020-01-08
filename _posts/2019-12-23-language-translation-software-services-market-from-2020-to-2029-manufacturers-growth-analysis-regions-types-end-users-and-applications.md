@@ -58,6 +58,19 @@ related:
       - url: https://www.bing.com/th?id=ON.0F5E4747201C796AA9328F1BC80F59BF
         width: 700
         height: 366
+  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
+    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
   - title: "Invoke introduces real-time translation"
     excerpt: "US – Market research tech business, Invoke, has added real-time translations to its qualitative/quantitative technology platform. Invoke uses natural language processing and machine learning to offer translations in real time, helping brands to run sessions in many countries and monitor the consumer feedback, in their own language."
     publishedDateTime: 2019-12-23T10:10:00Z
@@ -69,15 +82,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
-    publishedDateTime: 2019-12-17T19:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 11
   - title: "Compensation: Lost In Translation"
     excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
     publishedDateTime: 2019-12-20T22:05:00Z

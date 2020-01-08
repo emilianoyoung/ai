@@ -8,7 +8,7 @@ ampUrl: https://www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machin
 cdnAmpUrl: https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/cmswires-top-10-ai-and-machine-learning-articles-of-2019/amp/
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7D4C9A4B508D0B1552B7D2847E501D04
         width: 500
         height: 375
-  - title: "Top 10 artificial intelligence stories of 2019"
-    excerpt: "According to Gartner’s 2019 CIO Agenda survey, organisations that have deployed artificial intelligence (AI) grew from 4% to 14% between 2018 and 2019. Organisations are looking to take advantage of smart speakers such as Alexa and Google Home to provide another channel to market, and are rolling out chatbots as an alternative to call centre ..."
-    publishedDateTime: 2019-12-19T11:49:00Z
-    sourceUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019
-    ampUrl: https://www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
-    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252475198/Top-10-artificial-intelligence-stories-of-2019?amp=1
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 37
   - title: "Machine Made of LEGOs Uses AI to Sort LEGOs"
     excerpt: "LEGO enthusiast and YouTuber Daniel West has created what he believes to be the next evolution of LEGO sorting machines. His creation is the first of its kind and uses AI and Neural Networks to sort any kind LEGO brick — something that's never been done. His machine is capable of identifying and sorting any LEGO brick every made using an ..."
     publishedDateTime: 2019-12-25T17:03:00Z

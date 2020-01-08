@@ -67,17 +67,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B9FA02316D03526660BE2C72951411B9
         width: 660
         height: 440
-  - title: "Shifa International launches healthcare platform in India"
-    excerpt: "\"Starting with India, we aim to build an inclusive healthcare system, based on new-age technology, where there is no discrimination on the basis of caste, colour, creed or gender,\" Chhabra said. Shifa Care's ecosystem utilises Al (artificial intelligence), epidemiology and genetic sequence, all at one go driven by prediction, mitigation and Al ..."
-    publishedDateTime: 2019-12-19T11:47:00Z
-    sourceUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/articleshow/72886745.cms
-    ampUrl: https://www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
-    cdnAmpUrl: https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/shifa-international-launches-healthcare-platform-in-india/amp_articleshow/72886745.cms
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
   - title: "Aylien Raises €5 Million to Identify and Analyze Risk Events in Real-time in the Financial Services and Risk Intelligence Space Using AI"
     excerpt: "DUBLIN, Dec. 23, 2019 /PRNewswire/ -- Aylien, a leading provider of AI-powered risk intelligence and financial analytics solutions ... and most recently Revolut, the fastest growing fintech company in Europe. Aylien's proprietary Artificial Intelligence ingests, structures, and understands the world's news in 14 languages from over 160 ..."
     publishedDateTime: 2019-12-23T14:03:00Z

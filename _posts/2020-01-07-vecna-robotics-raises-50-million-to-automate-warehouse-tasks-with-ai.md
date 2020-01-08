@@ -59,6 +59,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7CBF79FEA4997AE416B2C9EAB1FFD8C0
         width: 700
         height: 466
+  - title: "Evolv raises $30 million to expedite security screenings with AI"
+    excerpt: "They’re self-contained and portable gates that tap AI, machine learning, and millimeter wave sensors to expedite security screenings in high-traffic places. The founders evidently are not the only people who believe in the products. Evolv this morning announced that it’s raised over $30 million in series C growth capital with participation ..."
+    publishedDateTime: 2020-01-08T12:00:00Z
+    sourceUrl: https://venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/
+    ampUrl: https://venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/evolv-raises-30-million-to-expedite-security-screenings-with-ai/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.2B8A04101BD0BA9084D397C252757E7C
+        width: 700
+        height: 348
 
 secured: "+Tbae1NY3uzYLieHdsZzKCwmeb06nM0dZZ0Ws4x7yTnzRfoXwQUKRYPpnSQGj+dhIsL7UBGoP/fqx4koBUVdqOI8hZYkXyYr0Prx+yNagOFI/8lLeb8bhdOkXS/VKHL2HWj5zT0tQCyppvkeRVvCMwgiqN0gMQ+CrXovrtFU0yQeLpkZ7NJfN117axn//5YNqea19hu76nND13mGrtkkmcxnvEN5cadUE3Fc52ER8ZsWakcKDzymi7lSD7hN8ccfGqFjzXolNGsdZd2GwQjl4g==;j/7KvRo7pHnct+1bmApKDg=="
 ---

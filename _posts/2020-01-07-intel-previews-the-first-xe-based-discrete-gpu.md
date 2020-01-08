@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Intel previews the first Xe-based discrete GPU"
-excerpt: "Intel's presence at CES 2020 hasn't been a significant source of excitement among the PC community. Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has ..."
-publishedDateTime: 2020-01-07T12:41:00Z
-sourceUrl: https://hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
+excerpt: "Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has now ..."
+publishedDateTime: 2020-01-07T13:42:00Z
+sourceUrl: https://www.hexus.net/tech/news/graphics/138533-intel-previews-first-xe-based-discrete-gpu/
 type: article
 quality: 39
 heat: -1
@@ -158,6 +158,6 @@ related:
         width: 280
         height: 158
 
-secured: "1f6k8dEUNVZPnztG9HJvopfqbEHgk2xvUZNQyxbDX6xY+ISfF+54ejZ7MyBnzR+02DZDDpxO2JmOiMziGJpp2qzNsHkCpbh6p3KXFPKE0ytXY4jXU2E+iROVaKTemik22Yi9fKRN6YtymOR5ba9rNtceE2VsFddPgfw1YGzBJ1HSx+GowCfatJ3A6sABViy/pv3CD+Eojv4gu/x6a/HD19yVDhTqtfKXMUsO/eQdPeR8dqknqBlAr9SMcjpPfA6e0KW4ABny/+jJd6xqRKrX4Q==;LLnRagbTzgO4WQfBvoWISg=="
+secured: "G4C163hY/HD3MJUZGsoN7hne6xACvSv46s8uIKacuJnwcYtrVur2sSjvOwbeIQeV/GaSCvjYFMp78va0XIUgaa6j4yJkJQKElICPK7stetuiNN8850h9kFYx3J4i+ZYVrFc1xIWRT9vWWeymV7wD1PI8f0e8UmVSluC4Ki06NA+7vLBox538CKc0BNcClgD4RFfiEUEcpo92L4Vmh+PrQQgk1i+sDy8CDnZAgkut30mqJEOCSho9ozgkMZbAt1bUkkpx39kykU56jRj9sxy1Bg==;hPBgAsCbjnnE5j3aeClBog=="
 ---
 

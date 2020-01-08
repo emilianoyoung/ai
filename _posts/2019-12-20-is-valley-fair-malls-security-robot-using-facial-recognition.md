@@ -8,7 +8,7 @@ ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-rob
 cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
 type: article
 quality: 91
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     title: "Is Valley Fair mall’s security robot using facial recognition?"
 
 related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
   - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
     excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
     publishedDateTime: 2019-12-20T19:25:00Z

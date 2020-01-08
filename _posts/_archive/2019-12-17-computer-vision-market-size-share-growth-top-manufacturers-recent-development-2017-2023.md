@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
 
-secured: "yRjxYpnZ9/I9yIiPY8lWL7kWJbGfsPOIuG6Vd2KTVl/zyy1GC623siOuLcZRtZDB0t93iv5oQFoD0uqN49IDAcSbAZXtUOt0SvnXzWIdlnGFBC/pgiMScTIj/Sx70g5h1P61tycGwqx0uT21wFGzimj1KN+B4nuUwZkSaZZQs+5rehYQMTgBHCJ8bJB9WchB6dCxrXka3qmsHzVGfr+e/wy/YfIE51NGNQrDJvLfnAhB7OAwUEO2iY+toklYwYMuknZWd5a1utDDBX91kX7U0A==;HUj9FSAok6eCfjkbn+2EAA=="
+secured: "WOkP0nIyrP8h7mhMqlv61pKOHdYHPSCzi+S1qquQfClzQC04389rwQLCIfCdsNbuBqbP4XJ//h3GlPcyr/pFbtQc/NrpbDNEJAEtHq9FRYduGi0JpjM3tFW5SXtrmzt5AFDtANCe3x1IwrwcybrkG3gs4oT9FcsdWJTJv1lNrsF1f3pKICs3vXb/eOnBRgwLxAGEq4BIcYWT/kkxteAoayCCHdES6WK09qLxzrN7lFzsypxQ9X2WshfmjHAlQ3mrLd8YycHBPPM3HiJm2D90kw==;djEyt5uPp1ABwEddCf7SAw=="
 ---
 

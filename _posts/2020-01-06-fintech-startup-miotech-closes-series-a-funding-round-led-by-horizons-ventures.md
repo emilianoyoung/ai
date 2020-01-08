@@ -63,6 +63,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8E00A1F8A1FA3036AEF458F46919C6CC
         width: 480
         height: 339
+  - title: "HighRadius raises $125 mn in Series B round"
+    excerpt: "HighRadius was advised by the Atlas Technology Group for the transaction. HighRadius is a FinTech enterprise SaaS that automates accounts receivable and treasury processes with AI-based autonomous systems. Its receivables platform reduces cycle times in the order-to-cash process through automation of receivables and payments processes across ..."
+    publishedDateTime: 2020-01-08T12:58:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/highradius-raises-125-mn-in-series-b-round/
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.D6E53615B87914D69A2CF4A2F9608C49
+        width: 400
+        height: 400
 
 secured: "GioDqwTOl8J4X4ACgEg08U1jgpKPl8xpQqavb6NaibcVyiMmk0TKSldcT/Z3LZ1uR/qRqIe7loupvf9UCsBa75kG+WxjSVUYSM47rPpv16i2jGIJcFBRKxyvsy51DNsPEdhgXojuABBnF/hyhczg+y8ylshR5FLPbMr57XvhXDOsgtqiXG2DiNND2H4vKkJOaeF0PIp0pcddFpeSOR8cpJganh8f67KqRCm571KET3QmvbYRXqgJQCNun85v+lRg2m34nrGei8bun2BoM5HBlA==;6aRG3fvA3ybb7JL3Kh0UwQ=="
 ---

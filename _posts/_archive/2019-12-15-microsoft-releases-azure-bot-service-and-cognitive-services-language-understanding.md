@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-15T00:00:00Z
 sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,21 @@ images:
     height: 847
     title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
 
-secured: "7jvdPpwGjjj1ohQlZB5hjS2/3nZ8/DvSS15ZdBJDe4IxEJ8zvvmc1TiXZVbnsA2iyZblVrLCbA/dINb7FLQBvdfOk6AN081kFLG2x7ok5im9Iuptylc8bTcrDOHLk2saABlhLd2neovm2C2iw9WGskz89LSuzhpC9dw0HjOL3JPK9uQq1sXXwH2KNxga2IR7ST3+r4yHwr51tT83gP4jgdkcVl16UueL1K1PcXAhUeBe5/UWUQrG3RqvePtBjP6o3ZDm+PjCCgvXaoBdW4hAkA==;E76+AUffmApBMlW8mIfxcw=="
+related:
+  - title: "Cloud4C Recognized as Microsoft Azure Expert Managed Service Provider"
+    excerpt: "With 600+ Azure Certified professionals and serving 3500+ enterprises on cloud, Cloud4C is enabling customers to achieve seamless digital cloud journeys with specialized solution offering across SAP core Banking, E-commerce, Big Data & analytics, Cyber security, Open Source Databases, AI/ML, Hybrid Cloud, Devops, Automation, IOT, Blockchain and ..."
+    publishedDateTime: 2019-12-17T12:35:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20191217005363/en/Cloud4C-Recognized-Microsoft-Azure-Expert-Managed-Service
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.2FEB1D14A779D3F6ACAD4C42F0D214F2
+        width: 700
+        height: 365
+
+secured: "bGndr1A9kDi6u1lO+FqeC5yPIyMx0yW0JQh9RX5m947cDaLmV1rNMnqRAPhDo8nWfoGWk5MkgXuBtAsMsT2p1XWvE4qYKzReecTC3cBvw4MNO62ylawHByWQCDL+EMAExf8jxL0V6i5QqXdAJpkRn3zgE4Mq3lzFtFZ8ZkAkuJNHbKYDeEo6TWY4dNC/rBeunSmGWdSn2IlnvtGZIPwHabvEkO2PpvSW7ZZAkuL5oJ6W0acC9wfCxTMl7KtXLWjmbvfiU0JN4xp7Fr0KmzX+mg==;aX4f/9m5b7eFoIVOlHc4rg=="
 ---
 

@@ -18,33 +18,33 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "global artificial intelligence in supply chain market"
-    excerpt: "Data Bridge Market research has recently published the comprehensive business research on “Artificial Intelligence in Supply Chain Market” includes historic data, present market trends, future product environment, marketing strategies, technological innovation, upcoming technologies, emerging trends or opportunities, and the technical ..."
-    publishedDateTime: 2019-12-19T12:12:00Z
-    sourceUrl: https://www.openpr.com/news/1881321/global-artificial-intelligence-in-supply-chain-market-covering
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-19T14:45:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/global-medical-linear-accelerators-markets-2020-2025-leading-vendors-are-varian-medical-systems-elekta-and-accuray-1028776392
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-  - title: "AI in pharmacovigilance market"
-    excerpt: "Key highlights of the global AI in pharmacovigilance market for the forecast years 2019-2026 ... openPR disclaims liability for any content contained in this release. Corporate Governance in FinTech Market is Imminent Enormous Acceptance in Forthc … A massive research report of global Corporate Governance in FinTech Market has been presented ..."
-    publishedDateTime: 2019-12-20T05:51:00Z
-    sourceUrl: https://www.openpr.com/news/1881723/ai-in-pharmacovigilance-market-estimated-to-rise-at-a-lucrative
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 10
+  - title: "Global Medical Linear Accelerators Market Outlook to 2025 - Emergence of MRI-based LINACs Present Opportunities"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market."
+    publishedDateTime: 2019-12-20T00:31:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-medical-linear-accelerators-market-141901932.html
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-  - title: "Becky Partida, research specialist, supply chain management, APQC"
-    excerpt: "We already know that AI and IoT at the edge are key to the acceleration of factory transformation ... and maintenance of the technologies within those four walls. Our research found that while there is a big appetite for digital transformation—83% of companies say they plan to make investments in smart factory technologies in the next ..."
-    publishedDateTime: 2019-12-21T02:55:00Z
-    sourceUrl: https://www.industryweek.com/home/contact/22031279/becky-partida-research-specialist-supply-chain-management-apqc
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
+  - title: "Global Medical Linear Accelerators Markets, 2020-2025 - Leading Vendors are Varian Medical Systems, Elekta, and Accuray"
+    excerpt: "The emergence of artificial intelligence is revolutionizing the medical imaging devices market ... Hence, the application of radiation therapy with LINAC for these treatments is likely to gain a lucrative share in the market. The increasing application of external beam radiation therapy (EBRT) is driving prominent vendors to offer advanced ..."
+    publishedDateTime: 2019-12-20T00:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-medical-linear-accelerators-markets-154500499.html
     type: article
     provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 19
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "FcR/WCkl9dGH1xHBXC0vbpFTqT5Zq5HLYvAKNi93QaqjGMwRijaV2qlWvCXt0jjgExMmyiHD9vuSXCYqmjTh06LffX2rGSNeom5I03x0dxumQAILbG7xpRhtiSliLzira5Qw/O/WM4Tx6a3z8QrqJVSMCluvjsRcp9Jbp/g2lJcgOb/YO17wyS7//glJ8BXmx3t9ntgStPhm3gecR4CIR6rA1RHb51XMrW5sgVLFc2ganurdQHhQv49xrfoRqLDRcFQI0XSPMRTyxa1JkGYmWA==;JwXsM8NDuSzlN5EYqI6I3Q=="
 ---

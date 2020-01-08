@@ -89,6 +89,21 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2019%2F12%2FNine_AI_Marketing_Trends_Set_To_Explode_In_2020-1200x580.png
         width: 1200
         height: 580
+  - title: "2020 AI Predictions: What We Got Right In 2019 And What's In Store For 2020"
+    excerpt: "My hope for 2020 is for there to be less of an effort around frivolous applications of AI and more emphasis on smaller, more focused but real applications of AI that deliver clear benefits and return on investment."
+    publishedDateTime: 2020-01-08T12:16:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/08/2020-ai-predictions-what-we-got-right-in-2019-and-whats-in-store-for-2020/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.211CF77442CDEAD80A8B5C69CE42395C
+        width: 600
+        height: 315
   - title: "The Top 10 Artificial Intelligence Trends Everyone Should Be Watching In 2020"
     excerpt: "Artificial Intelligence (AI) has undoubtedly been the technology story of the 2010s ... AI will increasingly be monitoring and refining business processes While the first robots in the workplace were mainly involved with automating manual tasks such as manufacturing and production lines, today's software-based robots will take on the repetitive ..."
     publishedDateTime: 2020-01-06T05:32:00Z
