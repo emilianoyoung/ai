@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
         width: 700
         height: 393
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "For last few years, you might have noticed a growing number of slightly modified BMW 5 Seriessedans rolling around Las Vegas with a big \"Aptiv\" badge on the side. These are actually Aptiv's self-driving development cars,"
-    publishedDateTime: 2020-01-07T19:12:07Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/aptivs-self-driving-bmws-can-now-take-people-to-and-from-the-las-vegas-airport/ar-BBYIgL0
-    type: article
-    provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.3F68D85BF4A9671D5239CBBB4A0B9696
-        width: 700
-        height: 367
 
 secured: "y54h27jT7rSE0NU5KwZpsWypzhoL/RLZejqLsDdoUZVAty5lMxdpma02QfPwIeyqD0Rhgj5CZ+V7XA+MiHsyHtOiWvqTEc0ZHnWthw8kDZ70mz4SghaYPr15jvhn9EDRETpH2koKSwGq+vCm/Wt0++KEw1H/ltFtxwAauRHbZz3LOIVvJPK3uFPStUddl59d1A/g1vVMY1bNb7gkCwkqmFPycNCJmXoYTOL/97JZKTWA+4PbdINkzczbsohMOwXSqHNflI6rD9uxsgHyq0ADgA==;DLODPGjZgv+VmaINmCbkLA=="
 ---

@@ -2,16 +2,18 @@
 category: news
 title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
 excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-publishedDateTime: 2020-01-07T04:02:33Z
-sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
+publishedDateTime: 2020-01-07T02:46:00Z
+sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
+ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
 type: article
-quality: 20
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune on MSN.com
-  domain: msn.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - AI
@@ -109,6 +111,6 @@ related:
         width: 700
         height: 367
 
-secured: "zn5TEQlwWnyvkGRAKkAmsGRTYODSm0qM3hqVNuGeelZDuoBnG+Hmb8EoyfTiL0yrKfqxrOolR1D3EQHbqaRs8ey29ESw700dqqRv9DLOspIKMeVoj/kTO0tEeYbe1hcIAb9fnYOqwD25MlwiA4gIaayKVToYi+Njeogwb7Ls5nR44k0jNGKrC7+aM+cJJKtd0F0Q+nY2wyXT5J2uiol1Ap4EFZxwVnDSkewA3FbttS0VCBpFOw7sR0H+S9hVRk4MJqZBBAXhchtG4auqkS/4xw==;BsuoSpGHPpd8JA24ohi5eA=="
+secured: "58++l4V94wOrHdtEP1eOd/LgN96UTUSUXQqoO4bOln3pEZhjiaNyLEQ7wiyX+DOSzQ0vihF6Gsl3BmPMfLk6yONRNoVm3Ngia3+tmKBl3qYCVRqaglkL+J9hUWQs/JFImQ029fa6cQW07XDuwdxUrcDuG7x4/tqKAOsp9kcBDwmaB4rSOVsF+Tfie/GzjkBUuuSlX0XCS6+xod7WdhM/ysRUXRZho+iP5cZgqtdapVIlhVLo1gkn5ww5/z2Gw5cgqT36wsM4sFDqUCBehv3NpQ==;926SnfMMiD3dDLNzmC051Q=="
 ---
 

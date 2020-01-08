@@ -3,7 +3,7 @@ category: news
 title: "ZephyrTel to Reinvent its Telco Software Solutions Suite Leveraging Amazon Web Services"
 excerpt: "ZephyrTel will do this by accelerating the migration of its end-to-end Telco software solutions suite and developing new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS in the first year of its formation, a testament to the company's growth strategy and ..."
 publishedDateTime: 2020-01-03T12:27:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-zephyrtel-reinvent-its-telco-software-solutions-suite-leveraging-/2020/01/03/9075699.htm
+sourceUrl: https://www.tmcnet.com/usubmit/2020/01/03/9075699.htm
 type: article
 quality: 11
 heat: -1
@@ -45,6 +45,6 @@ related:
         width: 700
         height: 457
 
-secured: "0H3GpSU23zuLrMq4RRPYOq+Dlp46zARwyarTqrviA62rRRQoCdyBtT7rnYFJfWCGmEGElVJsYPYFip1HyzAe0/tUVML55ACiF5+ML6+IibvmTXQmD4B4mXoJVDWONhqbjo66jTzRSZEcPiWWrnaAjgBfcRnF944MilIQ0QQE3BGfaPZTAfupUZxttlSOslfVm+xwmvR3sRMKsK7WJVcD1v5EPTGDu1hQ5uxWu7Vgfb/Uy/hWdpa5eQ8Txj6Pc3dTzO0VaaMh6zqt5ujxjntapw==;e4irlfPhb0ls2yMezyfPYw=="
+secured: "vkpGql9Y5ebrL/XV6b14V7pLrQw5kao5uIqZk+IrCkAXvS4AQlZPAJn3bc6HSVPor/ZDHbMyQzSkIamtNk3p/+lfJmr4J8fCv6NyD/dIhfVXPgLJjUV/WdLbmxJaKX38QEFSgp1rrCffBfg/muNqOpOruyKMG/y6zgSqJ1ob+wh5JaRyzivXu/dUWv+4G7DPIwJWNFQ8I+hqQ7c3MtKfvuTXq9Sz3ugZVAhp6nZKr5QHY3K6RV6sgn0kFfRCR3c3F+/TrEnFdd9qPYncFCz1Fw==;2fwYSbCErrCTQWzd9NaxTw=="
 ---
 

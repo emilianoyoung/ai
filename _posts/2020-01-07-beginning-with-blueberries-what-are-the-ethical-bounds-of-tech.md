@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.9877845B601363251DC12CD698548587
         width: 700
         height: 393
+  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
+    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
+    publishedDateTime: 2020-01-06T16:19:00Z
+    sourceUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/
+    ampUrl: https://investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    cdnAmpUrl: https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/01/ai-stocks-real-winner-artificial-intelligence-race/amp/
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
+        width: 700
+        height: 393
   - title: "Killer robots are not a fantasy. The world must reject and block these weapons."
     excerpt: "These countries are investing heavily in military applications of artificial intelligence with the goal of gaining a technological advantage in next-generation preparedness for the battlefield. These killer robots, once activated, would select and engage targets without further human intervention. The United States and other countries ..."
     publishedDateTime: 2019-12-30T09:07:00Z
@@ -48,19 +63,6 @@ related:
     quality: 55
     images:
       - url: https://www.bing.com/th?id=ON.B7F336C8827D0176D9155A045BCBDC14
-        width: 700
-        height: 393
-  - title: "AI Stocks: The Real Winner of the Artificial Intelligence Race"
-    excerpt: "I call this the AI Master Key. It is the company that makes the “brain” that all AI software needs to function, spot patterns, and interpret data. It’s known as the “Volta Chip” — and it’s what makes the AI revolution possible. Some of the biggest players in elite investing circles have large stakes in the AI Master Key ..."
-    publishedDateTime: 2020-01-06T16:19:26Z
-    sourceUrl: https://www.msn.com/en-us/finance/topstocks/ai-stocks-the-real-winner-of-the-artificial-intelligence-race/ar-BBYFDPU
-    type: article
-    provider:
-      name: InvestorPlace on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E19425BDD35B95F6799239AD16B94D
         width: 700
         height: 393
   - title: "The Best Tech of the Decade (Page 13)"

@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -99,7 +99,20 @@ related:
       - url: https://www.bing.com/th?id=ON.A112C5E86273E0A498433C651D2AF5BA
         width: 700
         height: 365
+  - title: "CES 2020: 'Intelligence of things' is the major tech trend of the decade"
+    excerpt: "Artificial intelligence (AI) is inching its way into every consumer product imaginable - from wearable devices that read a dog's mood and companionship robots that ask for cuddles to beauty systems that analyse skin tone and outfits that recommend suitable shades of lipstick. These gadgets greeted visitors at Consumer Electronic Show (CES ..."
+    publishedDateTime: 2020-01-08T01:59:00Z
+    sourceUrl: https://www.straitstimes.com/tech/major-tech-trend-of-new-decade-intelligence-of-things
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.5527AFAC03D03AF8AF7BC8D8A2C5CD73
+        width: 700
+        height: 393
 
-secured: "WGXosI4aK6t7EuRPpQvot5tls4vTfcmXT6AXaJQ4iW7HKrOVizY4BqPtw/NF0HQePPGDMHM3VAOUXwMtfdoVNXvhCIF8P4sP2D3s1cd9DVkjqjQwXDZx+Zzcx4Fvl5f7zWMiEA0f8YCf8rdFViepjmoXSp4UAKL5CAZAXIoWfARmQmwMc90tDCdMwSfHIyyGlGWVwu65TunkAmECuTeOWZD+1Iw9WSQ7DINrFOTxiMIBcDaYEKdhElUUnoduPO+TUAlQUSLMDN/1aGN+dICMmg==;iHsujUjovvwj/Gag68OzJg=="
+secured: "e1UJGbUIXRlva3Q3IbDx7USKjIk+N6zi7q2xL9qNcmfHRNSqf49xOi9A5yPoP5u5OvQHbZS/4FTd5ljjoQSSszN1xFs+GwFnODFY+lFsnI+XwZvaFi9cQGG51buJ7bXXh/C/6yjRcKPksXBanHQUFB0y0xnYHd17h+xB5vYJaFRszyTvxhaV4iBa7hF0Jz1ryQEsUoQ6d2dIjUY/3G7z9QGBKnqqaGG3d70WRQoT4FOWuvgAt2NIuzggXxICevDR2ClU2wEXBs7DphEFi+6NFw==;+rz+BkjqLkQanzFzZSOnIQ=="
 ---
 

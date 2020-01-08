@@ -107,18 +107,18 @@ related:
         width: 770
         height: 364
   - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+        width: 400
+        height: 225
   - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
     excerpt: "LAS VEGAS and BANGALORE, India, Jan. 6, 2020 /PRNewswire/ -- QuEST Global, a global product engineering and lifecycle services company, will unveil a solution accelerator which will help to design, train, deploy and manage Deep Learning (DL) models for the development of computer vision applications at CES (Consumer Electronics Show ..."
     publishedDateTime: 2020-01-06T11:00:00Z

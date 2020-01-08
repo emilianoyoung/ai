@@ -101,18 +101,18 @@ related:
         width: 770
         height: 364
   - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-    publishedDateTime: 2020-01-07T11:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+    publishedDateTime: 2020-01-07T14:51:00Z
+    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+        width: 400
+        height: 225
   - title: "LG joins the virtue-signalling crowd with AI standardisation plug"
     excerpt: "Looking around the world, the European Commission has put together a group to create an ethics framework to guide the development of AI, Facebook has backed a German initiative called the ‘Institute for Ethics in Artificial Intelligence’, the UK Government has formed its own AI Council, the US has launched the ‘American AI Initiative ..."
     publishedDateTime: 2020-01-07T11:10:00Z

@@ -24,21 +24,21 @@ images:
     title: "Service Robots Are Coming To Your Door"
 
 related:
-  - title: "Whisk’s AI-powered recipe app lets you send the ingredients to your door"
-    excerpt: "Despite the proliferation of recipe websites and apps, finding and organizing the recipes you want to cook has somehow become more difficult over the years. Recipe sites are overrun with ads and long-winded personal stories, while many apps ignore the fact that many of today’s consumers want to shop for groceries online, not by making a ..."
-    publishedDateTime: 2019-12-19T01:11:00Z
-    sourceUrl: https://techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/
-    ampUrl: https://techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/17/whisks-a-i-powered-recipe-app-lets-you-send-the-ingredients-to-your-door/amp/
+  - title: "The robots are coming, are we ready?"
+    excerpt: "Artificial Intelligence (AI), the natural or human intelligence that can be demonstrated by machines or computer systems, is all around us, with almost every industry racing to embed AI into their products and services. The insurance industry is no exception, having recognized the way in which AI can assist in making their businesses more user ..."
+    publishedDateTime: 2019-12-22T09:06:00Z
+    sourceUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/
+    ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
+    cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.9F0CD8C662F039E63370E60D6E5FB065
-        width: 700
-        height: 366
+      - url: https://www.bing.com/th?id=ON.056FED87F4B4CD36AAB993E33138A9D4
+        width: 640
+        height: 427
 
 secured: "4ZLbHWE1PUfVIp8g6se8URdyXN/dWwtgvaYZ/5ir6/Hg2AYEMNUSliX34SmYl9srgGCRYqv/Oy3qL7wLqrpylItKPYeP5XOIDAupmYw5TG+8QwdQSkrDPwQAFIRlVbMSDuSUr4m8upiOGufRYPB8gUE4WimIK7WYdah53C4E3brFPD/RZuT7khPZh8l/80Erzg+KS7hCsyUdGnpOIWSsz1e2lYTeBCMxrvz3kShmpRkrhUPr05yNb0fHOFq2jDUfihU9ZLTrSXlQ55dr9qEnVQ==;/wmlZgiLyyxs1Ij1GecDJA=="
 ---

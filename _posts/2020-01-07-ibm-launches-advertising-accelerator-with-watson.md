@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Launches Advertising Accelerator with Watson"
-excerpt: "IBM Advertising Accelerator with Watson makes AI more accessible to advertisers, to help drive faster predictive models, enhance creative performance, audience discovery and actionable insights. The new solution continuously learns and predicts, helping advertisers to better understand the composition and preferences of their audience to inform ..."
-publishedDateTime: 2020-01-07T11:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
+excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
+publishedDateTime: 2020-01-07T14:51:00Z
+sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - IBM AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
+    width: 400
+    height: 225
     title: "IBM Launches Advertising Accelerator with Watson"
 
 related:
@@ -155,6 +155,6 @@ related:
       domain: adtmag.com
     quality: 0
 
-secured: "31CXQ69rnOjefxAlkBwsBdbubRgTrWxXG0cQa08kj2lzI2EdKe5nvwrlp/5QH9+pONScqu1AiUluYmBOMDVU7YRKzAMx0rkVU4wslElAl4vQzOIHPTqIVijuw+CAMjB93v92OwN1ZOB9D4b69IuyuYo+igPp5m3ZWLtYgeZuhN4s2jLlz5dSL/1Aa5P6wNWfupmx8edYj2qIAs4Dopsf25BlWjNhzRO0jRUAcWqoNEyMGbzMqQ//5irgMn+Zq1LXRTfFJ65mCV1WTx9/mqLmfA==;xhOPmVkHbO2jXp3grOS0KQ=="
+secured: "qQmrUP+P3P3Lsoz8Tcc2dJ1kBVmz6oKBhG/NQ+5EDQ6b7CkRSjG6sg+XHziAhbhMs1+wFw28jV+F96P4TVOHvyi8FhsY4yg+Ryp4pV2e4fKYaiNJ/iC/Ca94XDjDwZuyDfG7FJ5j42axNbUCNewfBH0tvziuKQj2Y7nUVhSdIXj0/2bMsT6oKW/GOauBhm8yVeDUyY30Z3R7qUB+EwdPNaCfU9+X563o1XPtYJKhIEmteTkm8md0pGBHasB/PU+1hXvNuzuxj8CSarid6whqZQ==;7PP2Os+cLGRUmmTQjcVQ6A=="
 ---
 

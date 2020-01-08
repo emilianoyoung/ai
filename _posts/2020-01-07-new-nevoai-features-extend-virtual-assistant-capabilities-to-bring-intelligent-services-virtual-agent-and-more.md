@@ -2,20 +2,30 @@
 category: news
 title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
 excerpt: "By partnering with UEI on nevo.ai and QuickSet Cloud, we will enable UEI customers to build on an open Virtual Assistant Solution Accelerator, for millions of home products, powered by Microsoft Azure AI and IoT services.” Universal Electronics will host product demonstrations for all their latest technologies and products at Booth #42325 in ..."
-publishedDateTime: 2020-01-07T17:53:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200107005382/en/New-nevo.ai-Features-Extend-Virtual-Assistant-Capabilities
+publishedDateTime: 2020-01-07T16:00:00Z
+sourceUrl: https://www.marketwatch.com/press-release/new-nevoai-features-extend-virtual-assistant-capabilities-to-bring-intelligent-services-virtual-agent-and-more-2020-01-07
 type: article
-quality: 0
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: /assets/images/organizations/marketwatch.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+    width: 1200
+    height: 630
+    title: "New nevo.ai Features Extend Virtual Assistant Capabilities to Bring Intelligent Services, Virtual Agent, and More"
 
 related:
   - title: "Voice biometrics and analysis capabilities demoed at CES 2020"
@@ -32,6 +42,6 @@ related:
         width: 640
         height: 361
 
-secured: "+STbWBJP+PSXpFbgc4Yn3FokEAPbZcPPJiFB7zpG79gKkxkM06/pSK3pELMT95ItVf+76clB4wVSv5dkZZICLiz0Go4THexvxnhc+Lk4mYSQ09TNdapFgzP8hVqt8xJgxkZQQ/eBoq9WUqPQW8pL20MlJihNf/YqAnMfSKYQbBf9LcKyAf7UKsilGpC+68RIsOvj+1qh11sP+TdcgWeB73fwFgPT4SYNf4nl1HxqpftxbI6izJY8I5GGHCCfm0w518xGK9xxxceMkrvvE9X8HQ==;QoYvXj6IKASwI+9DX5Y1JA=="
+secured: "05lHcbhn6HHY1AZNG0uVqfw1P0/9jAxCFULcb2i81GeWNGz+uP774z1IAEgFeRBC9r+BShHtqURZ8iKiMOYdpEmq1H6c6uzhFFFLhwQiylFioDrko/+HX+f/4AtYLfiLy9URHfmEMJaZyvfpsMP3AxsQraQ261L56zHbQEuAaTpfctOeeopap/bSNM0hOD8VhgCfYq1dQlERLMljZrhpPjDiORqlnaXbiplzxR7qkjaXF4FJ/URSE9JbF75e+RLu3zPQtGk/FVzq8o5Gmdl/qA==;pwi1LjyMShz0L25RcEw5Rg=="
 ---
 

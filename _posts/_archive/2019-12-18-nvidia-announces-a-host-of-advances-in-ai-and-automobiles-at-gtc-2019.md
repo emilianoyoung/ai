@@ -8,7 +8,7 @@ ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advance
 cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
 
 related:
+  - title: "Nvidia Announces New Orin Auto AI Processor"
+    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
+    publishedDateTime: 2019-12-18T17:04:00Z
+    sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
+    ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: https://www.bing.com/th?id=ON.42094475F6B4E7BE3369ED4A7F93DFF6
+        width: 600
+        height: 315
   - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
     excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
     publishedDateTime: 2019-12-23T13:54:00Z
@@ -57,6 +72,6 @@ related:
         width: 700
         height: 393
 
-secured: "vDpbVEQWnLhH7CAv9CCZGfhkuis2ST55pojQ0hTkD8eKz3LT8dmKEnZ1xWnI9Niv2qycTfMPB5906WZX1rcqgznMao7Q1UMjbQRxQPyXCrpx2Gk16rk1hXgFRmsvSrWlYO2e2qIrSypUXuyh8KZRzAcem3cdHDPNOnF0P4vswJ6doSkBFKArSwpGOMZkv+A23S5/VSJe3sZ6sWXeGIijkoXq8p7XuITLcBN81SaTty9zGK+XOpYoc4BdyoT4QlymoMBSyT6AmiTJKLD6vGrXGg==;2uyBDS/VcMIFTirX1ObgAw=="
+secured: "6pfu40rNoL3TRxzEgjU0NT5VUMch05N8m4coTC6J6qoXec2BOECgQ4ECMHoQaCRMeog5+tu4ceN6i3vjXtQtGoIdAdf25ytaLTCwGjdXcvyBF+tEB9UUAQsfI5J+eqfm8O9a47j+7ndpw0wCTwKW//cSNSXQ/x5H1T6r8FgtOKLFT9duOzp9aDRmX2wb3sN8RPgZpB79u+EtdAGR0flNTOuobMgQagA4jm/Ibs6e6Xl0uBUIFodsE3njo0NXqWe810zfRMajTziSDw4M53y7oQ==;gzluKAn7O5/CN2FUTT/KUw=="
 ---
 

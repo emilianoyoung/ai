@@ -134,6 +134,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
+    publishedDateTime: 2020-01-08T02:21:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipset-124310145.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
   - title: "Global Neuromorphic Chips Market Outlook to 2024; Featuring BrainChip Holdings, Intel Corp, IBM Corp, and Samsung Advanced Institute of Technology"
     excerpt: "DUBLIN, Jan. 7, 2020 /PRNewswire/ -- The \"Neuromorphic Chips: Boosting AI at the Edge\" report has been added to ResearchAndMarkets.com's offering. This report includes: An overview of the global market for neuromorphic chip and discussion on its future market potential An understanding of the current state of neuromorphic computing and ..."
     publishedDateTime: 2020-01-08T00:21:00Z

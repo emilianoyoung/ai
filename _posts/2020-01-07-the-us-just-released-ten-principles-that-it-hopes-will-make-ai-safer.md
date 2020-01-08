@@ -145,6 +145,21 @@ related:
       - url: https://www.bing.com/th?id=ON.ABBCC1F1D08102D8F757250C4EE3A51C
         width: 700
         height: 393
+  - title: "White House offers guidelines for artificial intelligence regulations"
+    excerpt: "The White House on Tuesday proposed 10 principles for federal agencies to consider when developing laws and regulations for the use of artificial intelligence in a variety of fields."
+    publishedDateTime: 2020-01-07T19:54:00Z
+    sourceUrl: https://thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations
+    ampUrl: https://thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.ACC97E569872117B4FD806564F38E4BA
+        width: 700
+        height: 393
   - title: "White House proposes guidelines for regulating the use of AI"
     excerpt: "But the vagueness of the principles announced by the White House is unlikely to satisfy AI watchdogs who have warned of a lack of accountability as computer systems are deployed to take on human roles in high-risk social settings, such as mortgage lending or job recruitment. The White House said that in deciding regulatory action, U.S. agencies ..."
     publishedDateTime: 2020-01-07T05:13:00Z
@@ -188,19 +203,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8B7AED9E9253892B2C35FA00B2AE394A
         width: 700
         height: 393
-  - title: "White House offers guidelines for artificial intelligence regulations"
-    excerpt: "The White House on Tuesday proposed 10 principles for federal agencies to consider when developing laws and regulations for the use of artificial intelligence in a variety of fields.Regulations created by agencies should encourage \"fairness,"
-    publishedDateTime: 2020-01-07T19:54:00Z
-    sourceUrl: https://www.msn.com/en-us/news/politics/white-house-offers-guidelines-for-artificial-intelligence-regulations/ar-BBYIiua
-    type: article
-    provider:
-      name: The Hill on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.8CB727236E6075DD7CD107596BD1D2EA
-        width: 600
-        height: 315
   - title: "White House Proposes 'Light-Touch Regulatory Approach' for Artificial Intelligence"
     excerpt: "Federal agencies will soon have to demonstrate that any proposed regulations for artificial intelligence technologies in the private sector abide by a new, “first-of-its-kind” series of 10 principles set forth by the Trump administration this week. “On its face, the guidance we describe provides agencies with a common sense, pro ..."
     publishedDateTime: 2020-01-07T18:49:00Z

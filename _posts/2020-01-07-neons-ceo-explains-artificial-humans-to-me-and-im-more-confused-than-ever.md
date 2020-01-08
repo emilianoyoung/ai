@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/neons-ceo-explains-artificial-human
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neons-ceo-explains-artificial-humans-to-me-and-im-more-confused-than-ever/
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -134,6 +134,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 0
+  - title: "Global Conversational AI Platform Market, Forecast to 2027 Featuring Profilings on Microsoft, LiveChat, CM, Alphabet, and Artificial Solutions"
+    excerpt: "The rising advancements and implementation of artificial intelligence in assisting systems powered by automated solutions help the users in restaurant reservations, ordering food and other similar services. The customer support service industry is gaining momentum especially with the implementation of Artificial Intelligence technology ..."
+    publishedDateTime: 2020-01-08T02:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-conversational-ai-platform-market-173000661.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 0
 
 secured: "JWmbngVQhLX/x1d7Qu6ZCfehl7TekZXpQFZRldr4GE5nBuPhftyYG/Rbw9pKkjLbaGbWH6m2LjqenSc4fZP6Z059j0y3nJoZAwPIrXZVG3QuRaZmHAZtYh2EQ8xKxS0iKHzlowKYziQNq/7s+xvs1TgppIYKSD44yClM9QgMBIJ9P74jzsKYLdNlIvLyut9z4Anq/Fhyl6ItQmYmMyJXoJ2SXc1HqwQtmNLjfk0tzcYprfHU3Ku0yWkOmJVwN1TZSaBnQCwCecn788BVT4QJfQ==;j9jV4rq0DpLDK0W/sw2gvA=="

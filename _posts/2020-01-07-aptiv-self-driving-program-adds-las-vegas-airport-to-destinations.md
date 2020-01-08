@@ -8,7 +8,7 @@ ampUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-l
 cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,19 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
         width: 635
         height: 400
-  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-    excerpt: "For last few years, you might have noticed a growing number of slightly modified BMW 5 Seriessedans rolling around Las Vegas with a big \"Aptiv\" badge on the side. These are actually Aptiv's self-driving development cars,"
-    publishedDateTime: 2020-01-07T19:12:07Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/aptivs-self-driving-bmws-can-now-take-people-to-and-from-the-las-vegas-airport/ar-BBYIgL0
-    type: article
-    provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.3F68D85BF4A9671D5239CBBB4A0B9696
-        width: 700
-        height: 367
 
 secured: "b+teSYQzdMISljmKWCOxty1MBVZs6AREvybXsko3AoQJAj+eA8xph4Loz/5vYYsZQI+sTHfqvfEGKP4keLjM6Bw8fPlQsOIakK8n4K457/sWH3rmlqp3h2kotlWEyFpAtWpSi8dHcM/29sNVF7wXhOndp8jpveIbus+TID44tP7Dn9GcCuKk+0lpf6j11GKjpYmNBx3vA2KZe0fhrOUkwWqYez4oYGGfJf5OBSIPdl6w0+r57yr0CzysX5AAUvRZ0wuohKkFkyYyXRF2BQ5mvg==;uJrG+/IJlEhEJ2m3U6UKeQ=="
 ---

@@ -2,16 +2,18 @@
 category: news
 title: "CES trade show to spotlight big tech trends in 5G, self-driving cars, 8K TVs and more"
 excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
-publishedDateTime: 2020-01-06T15:06:52Z
-sourceUrl: https://www.msn.com/en-us/news/technology/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more/ar-BBYFcAp
+publishedDateTime: 2020-01-06T14:06:00Z
+sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more
+ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
+cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/ces-trade-show-to-spotlight-big-tech-trends-in-5g-self-driving-cars-8k-tvs-and-more?_amp=true
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune on MSN.com
-  domain: msn.com
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - AI
@@ -575,6 +577,6 @@ related:
       domain: djc.com
     quality: 4
 
-secured: "RIn1h12hs3QpZEdmxgiEa3Ia06xvhBhefbwi70HT4WZQ5lJnoCDYOvCp6I9AngPcBOeLQrd47exBRn7QzDyWiZhfdZh+Ms3QkQX2fHsyDoqf+Pu0ktEmu2tAaoAWP3jruBeYcdEN/32N06ynrkPtH42SZyBzmIwLJZdHc0JTdWjfhyFoyBMvjVnpFVl5LDj+xV0fNfRIRKVIB6xhQELZadtdSB3YRtzPk84iiCJGeK97/Hl99yj15TI6vniqsPzWQmQVn27R7TTGOquvwcEAzw==;ZJ6gAaNR3lq/DBGZhssVWA=="
+secured: "U4s5jvPs3U586lUFXTQmn7C2XqykAlg4vifdluaMRx1ygEoBlOrYDrYXEb9aSoe9LIn3PoakM9IGgtp7GBORQ6m6lbxEDwFNjfcAILZx8Dc8sHyyuUFG3HZm7vpWJaUwqsgPLQUVX1Yh3J2XKm69zESAGQgh9NYs884jupNMWcwwHDslCphukm4fTB7vTyCe3szuud6FIE+8+WGpLkbC1NXgXCFAH82XCp3W9zKbuZxy2ZGjC4+a6ZpyCsUUzRNb3Knb0nLFZe6FdyKYNACUQQ==;+gzLvIx0c7HJArxf1TZNFQ=="
 ---
 

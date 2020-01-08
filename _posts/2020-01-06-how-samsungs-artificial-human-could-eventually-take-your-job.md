@@ -129,6 +129,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 0
+  - title: "Global Conversational AI Platform Market, Forecast to 2027 Featuring Profilings on Microsoft, LiveChat, CM, Alphabet, and Artificial Solutions"
+    excerpt: "The rising advancements and implementation of artificial intelligence in assisting systems powered by automated solutions help the users in restaurant reservations, ordering food and other similar services. The customer support service industry is gaining momentum especially with the implementation of Artificial Intelligence technology ..."
+    publishedDateTime: 2020-01-08T02:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-conversational-ai-platform-market-173000661.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "LWMrPIQH6r26oRTpq7PYgByETbPEvI6w+6vviVQcVWPghRL9CtdNYTLrjjUuPiuZsgKQY23YVRRyzewyvaoFGm56S9ORQ1kgjOZexnTz0BC5pLxoR6uuuySrvI8GOb5pG6Bt9Pywf8/Oy1EwzZVV796UpKsq3gmysH4EJlQYshJpKggA46bZpNd6zA+LfTmZ/BXN4m38pCTwEbZSVSYkcQE1yLXdeQSKbY7M1wVndPrGDUD/Nybdd1tX+a5aQI5WPVZ7ECNu2YLlmwPOQfhD/g==;o+63w80o6LvHT//DlN1Q3g=="
 ---

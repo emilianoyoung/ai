@@ -1,25 +1,27 @@
 ---
 category: news
 title: "White House offers guidelines for artificial intelligence regulations"
-excerpt: "The White House on Tuesday proposed 10 principles for federal agencies to consider when developing laws and regulations for the use of artificial intelligence in a variety of fields.Regulations created by agencies should encourage \"fairness,"
+excerpt: "The White House on Tuesday proposed 10 principles for federal agencies to consider when developing laws and regulations for the use of artificial intelligence in a variety of fields."
 publishedDateTime: 2020-01-07T19:54:00Z
-sourceUrl: https://www.msn.com/en-us/news/politics/white-house-offers-guidelines-for-artificial-intelligence-regulations/ar-BBYIiua
+sourceUrl: https://thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations
+ampUrl: https://thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations?amp
+cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/477183-white-house-proposes-future-artificial-intelligence-regulations?amp
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Hill on MSN.com
-  domain: msn.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.8CB727236E6075DD7CD107596BD1D2EA
-    width: 600
-    height: 315
+  - url: https://www.bing.com/th?id=ON.ACC97E569872117B4FD806564F38E4BA
+    width: 700
+    height: 393
     title: "White House offers guidelines for artificial intelligence regulations"
 
 related:
@@ -215,6 +217,6 @@ related:
         width: 400
         height: 400
 
-secured: "Koz6ass/GkNk+FxcOesQDDMvpI2kJaVoQyH+2HUdeLZjHrICD/1HOIM31WnQ8Kb4J+Jjv8dG3BhQum9+GK7/2pmOH9qq1ESd9a6tDANY/LniZHCvyHYtTh0X4mPbkgQCQFyFu7lcP2Kg+oTA0gDjs0q0CIP5XQ+oV7pgb5T2Q3TVRVdl6m6ve7Z8ozTzqcuq6pi8vPTOmlsC/XT9HnA3xlYnaNPBIkaLlsEWflzRrPBp4gIHzbzvlZ8pOaU0py96G9jtHpafSa5ONXQQ+Lbz5g==;Yy8tQvN0SKVrTnVC4Vf/Qw=="
+secured: "XV8+aif7g2wglJtQpPZt5pfcO7OXoSCJ1Zg9gKYzc+lA8lfh+aDUjpFVq6dznMzRXL4fuytSKEhOMaovZsP2aHC3BR8bqJV+CZoYf1McT0Kh0vzLH+hu27MZQ7TqhHeIw4by7WioLn7QvZWA/WxUh6ruFqdDBZ+sb84ctuMjGeRBquMUdWdAyz0J724KkARDFGLMooS9rfrUJvnWUpSU+pgeanw1B47802AIsuQVMlsO4IeN4EkrPwlKe+fqNvTTAjxyqK8q7R2k90cHsI8dIQ==;z4eQFoBs/y4I4VnhNfWfiQ=="
 ---
 

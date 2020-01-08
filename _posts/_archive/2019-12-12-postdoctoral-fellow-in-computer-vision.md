@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Postdoctoral Fellow in Computer Vision"
 
-secured: "63BKP1JbPf21KoDKhGj6YXNsHG0TCOxjY2ddXR919i//EgLesdEogzI5J1XaROvKgoPLruuclvmgCiaUnZgGBtDisiBozPvqi/3ZnlTVbxjRIMhK1kM3fKjn9TfbTL2NvVELWnQ9OJv6SRKEVDqXTnHfQFuYsDtrd5/hRKk080u/QAx85HaoVOdRpdd5GEtF5jyOw7Bu9sDNPQjXZhE6/zp0G0XwTHPmHnP9VXFjQHOJ3vBgqoul1KxEQ5XNq4IJ00olIKo1K31icSimgoBUpw==;0aDwk9faa0vmRNW5u9HDrw=="
+secured: "bm75w48MhSwr/QyZ+xMFKFJm69Xf6emvOIzuovtbfPoDvkZOfXLITKMUx6HUpAj2y7UcmQoS+XzEH+tecY8ushN+m6IP9hgq2Zn/4G7AtAgnsAe6F/gHdrJODLAOKS1WMO19PtVPPAH7OfF3dVz7GNDXsT9ZnSIsrRJtQRNn3HrSJyPBqn+/4qhswBHeO9zJTSLIZIO/vlD/X6LvYwBOd+SCb9IqWZ6X7tKLQ3JhctVxVXCV8LqI2LMnrxiSXDZKRdAyjyQOs/RCF+laLAPZow==;e5aAE3n/bqJhee9LUASpuQ=="
 ---
 

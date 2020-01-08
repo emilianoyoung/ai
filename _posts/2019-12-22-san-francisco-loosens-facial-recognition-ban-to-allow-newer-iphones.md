@@ -648,19 +648,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/vt5k_9uQ703L7Gp0iHiZCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTA-/https://s.yimg.com/uu/api/res/1.2/LLoY9AjBRhMbnGKggf2Eug--~B/aD01MTA7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/News/afp.com/2d6ede8735c7d83a64ffee4159bb356a5a4ada2d.jpg
         width: 768
         height: 510
-  - title: "New docs: facial recognition confirmed ON"
-    excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
-    publishedDateTime: 2019-12-19T01:18:00Z
-    sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 39
-    images:
-      - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
-        width: 500
-        height: 281
   - title: "Police facial recognition: US academic says Kiwis deserve answers"
     excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
     publishedDateTime: 2019-12-19T20:21:00Z

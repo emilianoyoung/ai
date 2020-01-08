@@ -645,19 +645,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "New docs: facial recognition confirmed ON"
-    excerpt: "New documents show Canadian officials believed Tarekh Rana – an Ajax, Ontario businessman at the centre of a Global News investigation – may have lied about his identity when he arrived in Canada. But as Mike Drolet explains, immigration officers couldn’t prove Rana was an international fugitive. <iframe src=\"https://globalnews.ca/video ..."
-    publishedDateTime: 2019-12-19T01:18:00Z
-    sourceUrl: https://globalnews.ca/video/6315316/new-docs-facial-recognition-confirmed-on
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 39
-    images:
-      - url: https://i0.wp.com/media.globalnews.ca/videostatic/news/9azpgklyl5-sayl339m63/1218DROLET.jpg?w=500&quality=70&strip=all
-        width: 500
-        height: 281
   - title: "Police facial recognition: US academic says Kiwis deserve answers"
     excerpt: "Georgetown Law Centre on Privacy and Technology researcher Clare Garvie says that case was symptomatic of the lack of regulation of facial recognition systems. She believes people should not be locked up on the basis a facial recognition system finds they look like a celebrity. Garvie has conducted extensive research on the use of such systems ..."
     publishedDateTime: 2019-12-19T20:21:00Z

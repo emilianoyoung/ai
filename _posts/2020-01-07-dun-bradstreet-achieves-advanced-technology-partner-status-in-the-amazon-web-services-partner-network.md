@@ -31,6 +31,17 @@ related:
       - url: https://www.bing.com/th?id=ON.5F3CA40BC104B54D46311FA47CE7A01B
         width: 700
         height: 350
+  - title: "Dun & Bradstreet Achieves Advanced Technology Partner Status in the Amazon Web Services Partner Network"
+    excerpt: "SHORT HILLS, N.J., Jan. 7, 2020 /PRNewswire/ -- Dun & Bradstreet announced today that it has achieved Advanced Technology Partner status in the Amazon Web Services (AWS) Partner Network (APN ... of virtually all sizes digitally transform by embracing data and artificial intelligence (AI)-driven solutions across all phases of the customer ..."
+    publishedDateTime: 2020-01-08T02:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/dun-bradstreet-achieves-advanced-technology-160000085.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/dun-bradstreet-achieves-advanced-technology-160000085.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/dun-bradstreet-achieves-advanced-technology-160000085.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
 
 secured: "EdZi1Ro0Ydlnzbglx6HDXgqv95iTUYHKXktMy8EW8OaTAhW7pbO9aQ0IZ/KcLW9SAHusehIYfm7yJp32yKqkV/svNcBkx57DYudp1sycRIgc/5HJlkDQV2nxhxQNVok7XBkMHMHjA5cTuBgGB9S/UwwFMar+KWNw/1KU6plhDJq4PEDnhfl726NRVm18FTeDmgsfNuDU2m7Ks4S/JuC5YqyDTqQt39TuFZ8fQ6JO8xIny/cPBcXAlcrJTUXtJPPCZbLn0zLT1f6+AeHOfHgxjw==;TLwGe+13E0UOfGE6Cr6BFA=="
 ---

@@ -56,6 +56,21 @@ related:
       - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
         width: 2048
         height: 1152
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-07T02:46:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
+        width: 700
+        height: 367
   - title: "Qualcomm Drives More Autonomous and Automotive Platforms"
     excerpt: "The Snapdragon Ride Platform, based on the Snapdragon family of automotive SoCs and accelerator, is built on scalable and modular heterogenous high-performance multi-core CPUs, energy efficient AI and computer vision (CV) engines, industry-leading GPU. The platform with combination of SoCs and accelerator can be used as needed to address every ..."
     publishedDateTime: 2020-01-07T06:29:00Z
@@ -93,19 +108,6 @@ related:
     quality: 22
     images:
       - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
-        width: 700
-        height: 367
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-07T04:02:33Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYGw1a
-    type: article
-    provider:
-      name: San Diego Union-Tribune on MSN.com
-      domain: msn.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
         height: 367
 

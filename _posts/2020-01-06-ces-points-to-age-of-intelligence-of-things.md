@@ -128,6 +128,17 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
+    publishedDateTime: 2020-01-08T02:21:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-artificial-intelligence-ai-chipset-124310145.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/global-artificial-intelligence-ai-chipset-124310145.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 37
   - title: "Intel CEO emphasizes 'innovation through intelligence' at CES"
     excerpt: "LAS VEGAS – At the start of CES week, Intel focused more on a holistic approach to data gathered from new technologies -- along with 5G, artificial intelligence and edge computing -- without going deep into any new vehicle programs. But CEO Bob Swan and other executives presented the company's vision for \"innovation through intelligence ..."
     publishedDateTime: 2020-01-07T00:24:00Z

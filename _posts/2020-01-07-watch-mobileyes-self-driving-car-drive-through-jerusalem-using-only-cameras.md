@@ -2,16 +2,22 @@
 category: news
 title: "Watch Mobileye’s self-driving car drive through Jerusalem using only cameras"
 excerpt: "When it comes to self-driving cars, the general axiom for sensors is “the more the merrier.” The safest systems are the ones that use a multiplicity of sensors, such as cameras, radar, ultrasonic, and LIDAR. Having these redundant sensors is the whole point: if one fails, the remaining sensor suite can help navigate the car to safety."
-publishedDateTime: 2020-01-07T22:02:24Z
-sourceUrl: https://www.msn.com/en-us/news/technology/watch-mobileye-e2-80-99s-self-driving-car-drive-through-jerusalem-using-only-cameras/ar-BBYIuDT
+publishedDateTime: 2020-01-07T22:02:00Z
+sourceUrl: https://www.theverge.com/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
+ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055450/mobileye-self-driving-car-watch-camera-only-intel-jerusalem
 type: article
-quality: 21
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -39,6 +45,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
+  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
+    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
+    publishedDateTime: 2020-01-07T16:42:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
+        width: 700
+        height: 525
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -238,6 +259,6 @@ related:
         width: 510
         height: 314
 
-secured: "Pgbyg5Eomn9P9IDHzzFBp73+Xfh/bt0VIoXjR0hwep3lOPPu4yWyuZVUa4tP/keawb+Bc66phz3VfI8lJ2hkVj2EeoTSSP74Oo1yHYWOmFva0Y0T/+WAjt0zXrAX7j/NE93ZvGXTsY5y3ACj92z7ySAxuCTo5WJbfHDSKHG008rbZwUxos4e2CbKPd2Mtc1HdTHlqql2/B9b8oMyJ3jrgC0Hb/L7rhkBfSevZgiTtAGrcroVsWWgmhA3q+/7bf+IjdWJYu0C1R8VMQJEtQZwVA==;CcGIrQ3tKgCngH1lJlfFnA=="
+secured: "BR2f1F0r6x9cHsqxhqqCoTOgcaao2hA8Na1Tw5PLa+qg+nfDzw5jE6VNVxJox8/cKwJ4awchEPwix1e5e3Aop/PIonMEeoazCcXlhVcrUeff3SJfbwF0+D8dLQXedjwKnEPjEN7tJpDTMuUpmU+l3UwLAERfD4hk7n5azoeiIK3CzizEZgbzT4XVHHrdOyw/p0gsD+Mpp4IKg214Dh5lXYXPiTPUAFAtn9Nx+cn0Q5ZPnX2FofJybg5jmQAHGm52ifDBRG1EkV4B65Lu5vqdpg==;oMyk0w379f9ywLRRoCXzUA=="
 ---
 

@@ -8,8 +8,8 @@ ampUrl: https://businesstech.co.za/news/technology/348867/the-robots-are-coming-
 cdnAmpUrl: https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/348867/the-robots-are-coming-are-we-ready/amp/
 type: article
 quality: 59
-heat: 59
-published: false
+heat: 69
+published: true
 
 provider:
   name: businesstech.co.za
@@ -24,6 +24,21 @@ images:
     width: 640
     height: 427
     title: "The robots are coming, are we ready?"
+
+related:
+  - title: "Service Robots Are Coming To Your Door"
+    excerpt: "The development of robotic technology and artificial intelligence (AI) is increasing at a rapid pace. Where once, robots were experimental lab-based creations that were a little shaky on their feet. They are now ready to come into our home to ‘help’ us with our lives. Don’t think that you will never need a robot in your home or life?"
+    publishedDateTime: 2019-12-24T12:20:00Z
+    sourceUrl: https://www.roboticstomorrow.com/story/2019/12/service-robots-are-coming-to-your-door/14598/
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.DEC596C15F8687A66FDA8A83EDA3FBBE
+        width: 680
+        height: 583
 
 secured: "iDd/qjK3TlXZjAxKq98H4LG3cS2SsRHVDp8/LmqzIK2PQlojKwopIZ9/wwmhb4SOpOACX2vhqpV8aYd6hDL4CQjEk4j/0mYWW5tBJb7oU9jeYXjQs/tdN55w/AU0n2CqFL7Nwn4zQsslqNQhRN3HdioSYcK6q8hw+pPgynnBOvc5cZjDZ4Z1Q/09SC4JTG2A8GS3P0EN0rdM/tMnVtexfom1Ir6KBhFJNBXhOfyNRtQLLzgRNznoONij8tXO4y5WwRCDENdogw1v15J37JzfyQ==;WH5b/Pq2UUrnl/P9+OdzfA=="
 ---

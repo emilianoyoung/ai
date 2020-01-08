@@ -128,6 +128,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C605DAA99C66737BF9426AF4AFFCD1BF
         width: 700
         height: 403
+  - title: "Global Conversational AI Platform Market, Forecast to 2027 Featuring Profilings on Microsoft, LiveChat, CM, Alphabet, and Artificial Solutions"
+    excerpt: "The rising advancements and implementation of artificial intelligence in assisting systems powered by automated solutions help the users in restaurant reservations, ordering food and other similar services. The customer support service industry is gaining momentum especially with the implementation of Artificial Intelligence technology ..."
+    publishedDateTime: 2020-01-08T02:01:00Z
+    sourceUrl: https://finance.yahoo.com/news/global-conversational-ai-platform-market-173000661.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "vMrw0cjR1pDClfiLfRM5PcudZ/AKbryqRXkq/jpKlju2zgzk+pbp70u8sYUG8rI0nDMGCGOzZykT7K4nSwsz/xrorvm4p3mIVlLQXu6iHB5q75JuXXE1yqlJjRBlDCwg0M0LQZ0xFMMOJt7N8lbWuInJjCZSqh2YZl4ly/aEb2j16vUacIi/o9cIMwgQltDq50zjZmIMdhgB5m9Yp/tvVIeNmJtNvXR6kOCUR6VXIZfjzrhVuNuj1ePSS05ZpJNtF93TYoQdSe3T8YmhaMpcHQ==;sHbvLFjefwbYUohqqvEa5w=="
 ---
