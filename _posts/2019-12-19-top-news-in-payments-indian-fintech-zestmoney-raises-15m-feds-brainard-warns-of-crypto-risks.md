@@ -39,19 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3A7DE9548D74A4CA5FC41F98AC12D366
         width: 700
         height: 466
-  - title: "Fintech startup ZestMoney secures new $15 million funding led by Goldman Sachs"
-    excerpt: "ZestMoney, an Indian fintech startup that is helping secure loans and make purchases online to those ... With lack of access to credit cards in India, ZestMoney assesses other data points and uses AI to help those without credit scores build a profile and become credit-worthy. ZestMoney aims to disburse credit of worth $1 billion in 18 months ..."
-    publishedDateTime: 2019-12-19T04:24:00Z
-    sourceUrl: https://thetechportal.com/2019/12/19/zestmoney-funding-goldman-sachs/
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 20
-    images:
-      - url: https://thetechportal.com/wp-content/uploads/2019/12/zestmoney.png
-        width: 766
-        height: 400
 
 secured: "vAw4BegoVL9iokvbZW8hEJhbrBDevhGvODJYiE2TutmORSuEfPeDkG5nQc4qxCyMZ99sqZKjeuvaGM7vdaS2f/Q55OcBSRJNJUWeUDWLfFRXMrCWVGq1uX0wHmCc7Ug3f7s7Pm2aZ3zEnaW0vxi/15h7VNygjIZFy81f3d+y+fEWhcZAAGdsSaOX5osDHOezob7i0ix4TRrhcH69/klGcaUKtQJ4hmcPqO4Z5XdrbnoGFXzF792o0KFS18cqAShXskHWZIYV7HcURH47upOlPA==;kMTwKpcAjf2OGBmGv3MQ6g=="
 ---

@@ -26,17 +26,15 @@ images:
 related:
   - title: "New imaging system and artificial intelligence algorithm accurately identify brain tumors"
     excerpt: "A novel method of combining advanced optical imaging with an artificial intelligence algorithm produces accurate, real-time intraoperative diagnosis of brain tumors, a new study finds. Published in Nature Medicine on January 6, the study examined the diagnostic accuracy of brain tumor image classification through machine learning, compared with ..."
-    publishedDateTime: 2020-01-06T16:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.html
-    ampUrl: https://medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-imaging-artificial-intelligence-algorithm-accurately.amp
+    publishedDateTime: 2020-01-06T16:21:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/nlh-nis010320.php
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 63
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 43
     images:
-      - url: https://www.bing.com/th?id=ON.76F892DEBFB7FFD0E84139B9767E16D7
+      - url: https://www.bing.com/th?id=ON.CB0DFA91721A0166CFABFE321D29D425
         width: 700
         height: 393
 

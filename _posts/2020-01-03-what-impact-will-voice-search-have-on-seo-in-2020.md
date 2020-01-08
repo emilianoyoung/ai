@@ -54,6 +54,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+    excerpt: "financial summary, business strategy and planning, SWOT analysis and current developments. The scope of the report includes a detailed study of global and regional markets for Machine Learning as a Service Market with the reasons given for variations in the growth of the industry in certain regions. The Machine Learning as a Service Market has ..."
+    publishedDateTime: 2020-01-08T04:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "How AI will fuel consumerism in 2020"
     excerpt: "With AI, these problems become easier. The use of deep Q-learning (reinforcement learning ... Cloud providers like Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) and Alibaba will reap all these profits, not to mention the great margins on these cloud services. Spotify allows streaming of music. YouTube allows streaming ..."
     publishedDateTime: 2020-01-03T14:32:00Z

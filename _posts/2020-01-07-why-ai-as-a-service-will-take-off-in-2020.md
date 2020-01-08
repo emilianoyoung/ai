@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service-will-take-off-in-2020/amp/
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -38,6 +38,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+    excerpt: "financial summary, business strategy and planning, SWOT analysis and current developments. The scope of the report includes a detailed study of global and regional markets for Machine Learning as a Service Market with the reasons given for variations in the growth of the industry in certain regions. The Machine Learning as a Service Market has ..."
+    publishedDateTime: 2020-01-08T04:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200

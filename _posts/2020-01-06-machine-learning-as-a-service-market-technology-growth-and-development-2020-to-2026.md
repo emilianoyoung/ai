@@ -43,6 +43,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D582512C09D9815C6DC3379A7068B5B7
         width: 600
         height: 315
+  - title: "Machine Learning as a Service Market 2020 Analysis Forecast Research and Development Report 2025 – Market Research Engine"
+    excerpt: "financial summary, business strategy and planning, SWOT analysis and current developments. The scope of the report includes a detailed study of global and regional markets for Machine Learning as a Service Market with the reasons given for variations in the growth of the industry in certain regions. The Machine Learning as a Service Market has ..."
+    publishedDateTime: 2020-01-08T04:26:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-analysis-forecast-research-and-development-report-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "What impact will voice search have on SEO in 2020?"
     excerpt: "The introduction of IBM’s Watson in 2010 paved the way for voice technology devices. Watson is a powerful voice recognition question-answer computer system that stunned the world as a super-intelligent, thinking, and speaking robot that was able to beat Trivia grandmasters on the TV quiz show, ‘Jeopardy’. In the following year ..."
     publishedDateTime: 2020-01-03T20:06:00Z

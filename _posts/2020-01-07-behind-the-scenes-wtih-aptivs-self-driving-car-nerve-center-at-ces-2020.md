@@ -228,6 +228,19 @@ related:
       - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
         width: 1120
         height: 629
+  - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
+    excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
+    publishedDateTime: 2020-01-07T17:21:00Z
+    sourceUrl: https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
+        width: 700
+        height: 386
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

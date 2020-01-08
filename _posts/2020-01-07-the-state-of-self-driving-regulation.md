@@ -215,6 +215,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
+    excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
+    publishedDateTime: 2020-01-07T17:21:00Z
+    sourceUrl: https://www.extremetech.com/extreme/304158-behind-the-scenes-wtih-aptivs-self-driving-car-nerve-center-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
+        width: 700
+        height: 386
   - title: "Behind the Scenes Wtih Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z

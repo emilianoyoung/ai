@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C1D4564EBBDC39BAECF13B63B6DC890F
         width: 700
         height: 393
+  - title: "Big Tech is coming for banking, experts predict fintech’s 2020"
+    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: \"The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organisations’ offering their customers banking products."
+    publishedDateTime: 2019-12-26T02:03:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/26/big-tech-is-coming-for-banking-experts-predict-fintechs-2020
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3F8FC1CE2B919F4CE4E1C4192BA82F2F
+        width: 700
+        height: 456
 
 secured: "dWquW5vXWa5Klm3S6zOP9AxcgpwW15AI13lyrkmNzVoeKTEzNjFhtEA27ez/l93Hz6HtIpT6wtXpjstAT0HzezeR6sc+BEKtyuADrjMueO/KfdGJm51DReAO9Qb4jM93ungeg0/GVC3thSsyOt0R70duvmq2H9+uGwS9870HErPpDAHhV0f7pHTtEP3oyKgkrn+Mkq1/kii8tSg1D+wZjJh3z8rg1GFrttci9HqvnRUeVlxYnjDUbhnSsqUORl39NE68JAabziR4S6q9MCozyg==;elaISxPE8+oPZ2/wQ8Hu7A=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://cio.economictimes.indiatimes.com/amp/news/strategy-and-managemen
 cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/big-tech-is-coming-for-banking-experts-predict-fintechs-2020/72963251
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: https://www.bing.com/th?id=ON.4ACF7429BECC2440573E663F934827F8
         width: 700
         height: 466
+  - title: "Big Tech is coming for banking, experts predict fintech’s 2020"
+    excerpt: "Transparency in AI is critical and ethics in AI is critical and it needs regulatory oversight ... I do think this raises the stakes for pure fintech startups.” Frank Rotman: \"The trend is broader than ‘tech getting into finance.’ It should be seen as ‘customer-facing organisations’ offering their customers banking products."
+    publishedDateTime: 2019-12-26T02:03:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/26/big-tech-is-coming-for-banking-experts-predict-fintechs-2020
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.3F8FC1CE2B919F4CE4E1C4192BA82F2F
+        width: 700
+        height: 456
 
 secured: "qVSCf5+3wK9emkfAmBAJmlB4xJ7+XscA/DjvYMcAQtoPq+0TvrjpfdZHwirXj5QA5mtpOgWY1tNrJ4szS582RDgfF8hkUkla5eIL/LynUGY9Iqm4LJCcNgt74WMLr0uBdsMVsGTDsWIoZP7Q/0vbHXPV+/7w4RiaggRLqYXSjlYgZ+mv0AueAgila3Ph6e9XVShJKQvlTKYs9hnHOxdrNl08LIpWkceszu7jNmObDivTyOXlS0pvjeFi7ifqn4RR3wwcH9dmsAXDknCFVd4Y7w==;bcgybrXbrPDUsz7oKTbQqg=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
 excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
 publishedDateTime: 2020-01-06T23:01:00Z
-sourceUrl: https://asia.nikkei.com/Editor-s-Picks/Interview/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
+sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
 type: article
 quality: 24
 heat: -1
@@ -144,6 +144,21 @@ related:
       - url: https://www.bing.com/th?id=ON.2077A703B7FB1571BBE6931ED462A44C
         width: 700
         height: 318
+  - title: "CES 2020: Zany cars of the future shown off in Vegas"
+    excerpt: "The efforts go far beyond new sensors for driverless vehicles - this year there are a host of flamboyant designs ... Toyota is displaying its LQ Level 4 concept car, which is designed for automated driving. It also has a built-in artificial intelligence assistant of its own called Yui. A number of flying machine concepts are also on show."
+    publishedDateTime: 2020-01-08T05:17:00Z
+    sourceUrl: https://www.bbc.com/news/technology-51030022
+    ampUrl: https://www.bbc.com/news/amp/technology-51030022
+    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51030022
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1AB0618AD2BAD6D4CE80BAD29E44ABB1
+        width: 700
+        height: 393
   - title: "Qualcomm eyes self-driving cars with Snapdragon Ride Platform at CES 2020"
     excerpt: "Qualcomm is making a bigger play for automotive, with the aim to do to everything from providing a 5G connection to powering self-driving cars. And it has signed an expanded partnership with General Motors for infotainment and advanced driver-assistance systems. The San Diego wireless chip giant at CES in Las Vegas unveiled its first ..."
     publishedDateTime: 2020-01-06T19:41:00Z
@@ -271,6 +286,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7BFB340A60772DB7DED80DF2CF43355B
         width: 660
         height: 371
+  - title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
+    excerpt: "The latest upgrade, Sogou Simultaneous Interpretation 3.0, significantly enhances the efficiency and accuracy of machine translation by combining computer vision and AI self-learning capabilities that enable the instant capture and comprehension of multimodal information presented by the speaker. It is the first machine interpretation system ..."
+    publishedDateTime: 2020-01-08T03:59:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300983324.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
+        width: 700
+        height: 366
   - title: "Audi's self-driving car goes for a spin at CES"
     excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
     publishedDateTime: 2020-01-07T13:56:00Z
@@ -321,6 +349,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "w88TM1ckRhARvrVZ9SnV24GlGmipdo6YtFAah//WQRZ9h3iHjhDw5NvjpHt2Pmn9c4OeXDfU4mYcwGZdZ/jsT/is5bv42Vln/e9cGnX8SSrmdkdrAs3YR8+brZaIzaoGRs6K23E6lQXDfgGvqln8xU9Go5UmvqLQYxqF816xPpdpw2aHsi5kZ1kJfx2XdT0Q2gGPY0vAHlZbiU52lWHoNq+FmDd7Lch4auPX6rm4RgNjH371jC7u17iaCkOKkieIHFU76uxlxf0mqklV9qACyA==;CGgrAE5n23MwIY2jimlGkQ=="
+secured: "qlLFuIfvRrtapHIJDZzDsMeFzm3CMVYHQ+9XoqCG+H+YVGKI9vxzjN1LIrPrSSNVSR/XdXXz0uWfPD3HOLCkQycAUM8yCzOkIavIgG9YlOryqkf4sP0fIwojEcIknpw1R1WgpfuhjwceMeQNVfge1gwy+/4upEteL7Rwmy9SunwkyQXhVsrVwoz6Yf4qJ00jkOUW2EQ9DVkdTris3ku5oXRZypKrsJxlmO6JOksotCt8g+tUZME40NAfqki9IkprOBlx0GJ+9vyQUe5Uql8BYw==;pLLhDq0/BQBcIeXYSWIFiQ=="
 ---
 
