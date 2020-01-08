@@ -39,19 +39,6 @@ related:
       - url: https://img.manufacturing.net/files/base/indm/all/image/2020/01/16x9/Metal_gear_wheels_with_the_engraving_Artificial_Intelligence___3d_render_888759400_5200x3072.5e14b67450ee2.png?auto=format&amp;fit=max&amp;w=1200
         width: 1920
         height: 1080
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
-        width: 700
-        height: 368
 
 secured: "c6ZI5BTWD9PwoP9QQZqvhaW35mZsbyNTsi0DKCivMWePu/b1JsNV/jsUYrx+6IwI9Kc6o1o5N2GhaRLzd108yuqUA02wfeCCfRLg6yNioP17Xl6UbHlogEBh7pU0y2BQ24vYWxOMlabkAOiJjUIYFXpC7CEm+dZJBXUuJhbXheren0W74rdBRjvB6rpWRAUdCQJsFFg4qLfHTG4KtOuiRZlj5Hxfdw8C9BnaVbRVvlr5GcAszeUluqMf7N3grl98JMeB9kaslXlYCf3Uso2EUw==;8WsZsw3PLrX5LrOSLV0ZEw=="
 ---

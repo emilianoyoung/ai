@@ -283,6 +283,15 @@ related:
       - url: https://www.bing.com/th?id=ON.784F25187E75423B3A7AB3D8CB36DB56
         width: 685
         height: 386
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
   - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
     excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
     publishedDateTime: 2019-12-30T13:32:00Z

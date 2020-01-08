@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-langua
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
 quality: 93
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,23 +29,6 @@ images:
     height: 600
     title: "Google launches AutoML Natural Language with improved text classification and model training"
 
-related:
-  - title: "4G Clinical Launches Innovative Clinical Supply Software Leveraging Natural Language Processing (NLP)"
-    excerpt: "Dec. 19, 2019 /PRNewswire/ -- 4G Clinical today announced the launch of 4C Supply™, a cutting-edge clinical supply optimization software powered by Natural Language Processing (NLP). The new product addresses the increased pressures on clinical supply professionals to continuously adapt to new trial information as protocol complexity ..."
-    publishedDateTime: 2019-12-19T13:53:00Z
-    sourceUrl: https://finance.yahoo.com/news/4g-clinical-launches-innovative-clinical-132000906.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/4g-clinical-launches-innovative-clinical-132000906.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 44
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/uEjWcTC9moxa74KfoJFLTw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY5MDtoPTgwMA--/https://s.yimg.com/uu/api/res/1.2/93ddzB_eGKp4WZ9cU5Ojjw--~B/aD00MDA7dz0zNDU7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/c9b19827adf404db80ba5ef1f9874cbc
-        width: 345
-        height: 400
-
-secured: "HmL3HThcHjmtJo3eVlTXeMtW3IZFUxEUfFD5qpIWP7Sf4ZDLc1/a77CVWKetYTSCQEBlXHD4va/8qZpEyMa63umIzg9t83fJjoTG8r38azDc7UL/+XiCacfNZTuA09fFM6JaeF819bqVL4lkibnQyt0fB1/i4qCQJ9C1iHYMU9/l1ZKGGT34QgoXlUzsXxfI3KbhOzW94zrVVXKUwJI5+cmMAB09nUKWaML2VpNqtmDJWCVCwkFXL6IziAf9LS4hdnFsIwGB1Bgai8jd5dmvCA==;+wHBu1izPoCnEJmULpCEmg=="
+secured: "ZHqBKsYVT4Zyg2RNj4Y1CHYkucDkPAZVi3jrpC2KqQvxSNChrieEu8wDaksdOwuYkBr620ebHzQ5Fj5klnskhOqIgPiR0tKc8IWtnxRuIrsuBVnS58X6wnY7BbJ3UsPT3aaa+xRHuX+JtfTAmUJLNPTrBO/Go1MxQKCHZX132VIZFPjZMojm3sAaqugNFQN2u1lsBu6rlrTWTbQUaQon3e6QsZvf95thWG5Pkg8Tvew+n8lj6et1bu3gPlcgj2hyLcdb7sDkdLhk30cr+8xq4Q==;4xdvtaWGyErZae3W9yhZYA=="
 ---
 

@@ -27,13 +27,15 @@ images:
 related:
   - title: "AI Can Now Diagnose Tumor In Just 2 Minutes"
     excerpt: "The complex, difficult and time-consuming task of diagnosing brain tumors from tissue samples extracted during surgery stands to become a relic of the past with the advent of a new technology based on artificial intelligence (AI) that can do this job in about two minutes with an ... intraoperative brain tumor diagnosis.\" Even more useful ..."
-    publishedDateTime: 2020-01-07T09:38:12Z
-    sourceUrl: https://www.msn.com/en-us/health/medical/ai-can-now-diagnose-tumor-in-just-2-minutes/ar-BBYH477
+    publishedDateTime: 2020-01-07T08:38:00Z
+    sourceUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034
+    ampUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
+    cdnAmpUrl: https://www-medicaldaily-com.cdn.ampproject.org/c/s/www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
     type: article
     provider:
-      name: Medical Daily on MSN.com
-      domain: msn.com
-    quality: 137
+      name: Medical Daily
+      domain: medicaldaily.com
+    quality: 157
     images:
       - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
         width: 640

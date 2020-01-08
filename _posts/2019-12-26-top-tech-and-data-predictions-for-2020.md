@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.04FCF9A19F1AEB542FA11CC50E34B3C6
         width: 116
         height: 116
-  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
-    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
-    publishedDateTime: 2019-12-19T13:42:00Z
-    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
-        width: 116
-        height: 116
 
 secured: "8noWDaXyx+dFXMtr46Lkr8s3xYVmUxv2eHlvHuPRMmoV+tHn1YR+6j0L/Ip2zqKcHVZnU9mSxOu+3QAV9bp8yIjSgJPi9w0DJR0aajq26FqvtKMQla08sYcrmsn+4D7iJHkFX7mDmfcXcT1GiX/JHGMMYaijsVxgf0ul/tC4rGq6EJ+1hMXuj1uTtj4a/gU9Ynddvvz+BJGAdC8lA4+dt1l7CJiq2VmIMjbQeTU5LUKEUcDRKP1XfVGsb9B0nwmeCL45QTLbLdpHhiQD/LQcCA==;HawQpjiCMqPjaTdH8COwVw=="
 ---

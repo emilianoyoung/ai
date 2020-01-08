@@ -66,6 +66,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Market 2020 Industry Analysis, Trend, Size, Share, Strategies and Opportunities Forecast to 2026"
+    excerpt: "Wiseguyreports.Com adds &ldquo;Artificial Intelligence Market &ndash;Market Demand, Challenges, Opportunities, Strategic Analysis of Top Key Players and Forecast to 2026&rdquo; Report to Its Research Database."
+    publishedDateTime: 2020-01-08T13:36:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-analysis-trend-size-share-strategies-and-opportunities-forecast-to-2026-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
     excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
     publishedDateTime: 2020-01-07T11:09:00Z

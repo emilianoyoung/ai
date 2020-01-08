@@ -86,6 +86,21 @@ related:
       - url: https://www.bing.com/th?id=ON.60F64349CD927E75C14839459C72D0DB
         width: 700
         height: 393
+  - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
+    excerpt: "Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on January 8. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as the Crime and ..."
+    publishedDateTime: 2020-01-08T14:36:00Z
+    sourceUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html
+    ampUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.84AC95BE47A4AB627C104AE4BE898619
+        width: 700
+        height: 393
   - title: "CES trying facial recognition for badge pickup at some venues"
     excerpt: "CES is piloting facial recognition kiosks that can streamline badge pickup at some venues at this year’s show. The Consumer Technology Association, which sponsors CES, has placed kiosks with facial recognition technology across some of the trade show’s 11 venues, including the Westgate, Mandalay Bay and the Las Vegas Convention Center’s ..."
     publishedDateTime: 2020-01-06T22:53:00Z

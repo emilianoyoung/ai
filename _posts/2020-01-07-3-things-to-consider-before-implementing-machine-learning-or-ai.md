@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T17:48:00Z
 sourceUrl: https://www.manufacturing.net/home/blog/21108798/3-things-to-consider-before-implementing-machine-learning-or-ai
 type: article
 quality: 56
-heat: 76
+heat: 66
 published: true
 
 provider:
@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E7BF7AD3FF42C3B68F70B8BC5F4AAD8
         width: 700
         height: 473
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
-    images:
-      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
-        width: 700
-        height: 368
 
 secured: "4XXAToMXZD5XSOWfYMytSQRjhGMy90VQuXkahQ14v2bSVwToQjUfp/rzPZR34e68+wvkYghUuIhrvfCxI5fQ3d6ZaIZnRZxy+ecas0ihFqB0WwPyh8yTAAmgbAuxNM9uGxBLvhhjM1MhrTYZGAQZaos65dskAtXefl34gJQnTBGPr4NEZLlyrUuEvLjgojZNDvvpSCr5/IM+NOCk1aSgCHLaYRb8cGVD/Qu/BQoTXjb1f7qaaeY/0H6B9V7y3W6ITEXzwJzune4j8Vnwh36lpQ==;jMk0Zf+Ve0N69tUDDBZl1w=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
-excerpt: "The latest upgrade, Sogou Simultaneous Interpretation 3.0, significantly enhances the efficiency and accuracy of machine translation by combining computer vision and AI self-learning capabilities that enable the instant capture and comprehension of multimodal information presented by the speaker. It is the first machine interpretation system ..."
-publishedDateTime: 2020-01-08T03:59:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/sogou-showcases-world-class-ai-powered-products-and-services-at-ces-2020-300983324.html
+excerpt: "Sogou has leveraged machine learning and cutting-edge natural language processing technology to create highly integrated solutions. We will continue to explore potential applications of AI technologies and look forward to bringing more industry-leading AI services to users and partners globally.\" AI Vocational Avatar By integrating the latest ..."
+publishedDateTime: 2020-01-08T05:09:00Z
+sourceUrl: https://www.tmcnet.com/usubmit/-sogou-showcases-world-class-ai-powered-products-services-/2020/01/08/9078025.htm
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - Natural Language Processing
 
 images:
-  - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
-    width: 700
-    height: 366
+  - url: https://www.bing.com/th?id=ON.52C31EBFA936865E2D7586E4B819E083
+    width: 323
+    height: 400
     title: "Sogou Showcases World-Class AI-Powered Products and Services at CES 2020"
 
 related:
@@ -334,6 +334,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "9QLJorOGfJBVBSczUd+GI+vcRLMc0PrxA0G51D2+E+hQ7eZdIOP0hLPAlznNyCqoaa7muhQJSlvYMUy8A4bxKwraYZyQwraU5oIxk1XKBkfspKLik0nh5nGt7jGF9cia+3qKhIG0pKHtvL38lb2fId5atAhPfZs8Ip2/3lhREM50pmV+QjHdYoAd2LL7CBNG25HITwtma2jK9hMDOoEykC20J98tm6ZNoYH9IxDXoZa42uYEjczLBeYdgPK4fh56LHhBGG4R9FODhwU65sr9tg==;QzjNsb+OK/21sp5cPqr0fw=="
+secured: "uYngTApnFLwG6Bd+iuXho5yKhIPkZb4BzZ77sYZev7RuV+4hObKncZDLN0Wt6Ht6ioCZVnTN2S6kCZQ6wOgd+dHcrJvZ56GebSsGZsviBg2t48s2gkkjHXPJ7u1XXjjX/zqWkcbLc8abTCqk/uRroAK8U7nX8dautnH8cT35qWfW+axMGohvyNbF7aDv2i8bPQ3ejGoIopl4fiwYn+NTXqxq6LnFGoW3PippH2CtJsreXjWKGVvCa0cDn/BUo2HBriFgHbpvLfmf38TFS311IQ==;jMbT42dcG55N8kJ1Iufmvw=="
 ---
 

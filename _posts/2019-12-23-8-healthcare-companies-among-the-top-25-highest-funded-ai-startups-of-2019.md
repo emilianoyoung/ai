@@ -210,19 +210,6 @@ related:
       name: USA Today on MSN.com
       domain: msn.com
     quality: 19
-  - title: "Generic Oncology Drugs Market is expected to grow at a CAGR of ~6.2% during the forecast period of 2018 to 2028"
-    excerpt: "Advanced technologies such as real world data, mobile apps, and artificial intelligence have successfully been able to achieve a high engagement ... In addition to this, the company achieved a CE mark for its gene modifying therapy used for the treatment of blood cancer. Pfizer Inc. has been focusing on the over 39 therapies, in order to ..."
-    publishedDateTime: 2019-12-19T13:36:00Z
-    sourceUrl: https://www.pharmiweb.com/press-release/2019-12-19/generic-oncology-drugs-market-is-expected-to-grow-at-a-cagr-of-62-during-the-forecast-period-of-2
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 4
-    images:
-      - url: https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png
-        width: 1200
-        height: 448
   - title: "What will Fintech scene look like in 2020 according to the industry experts"
     excerpt: "... in most fintechs will likely become even more widespread within the industry and since the trend doesn’t seem to be going anywhere and AI has now become an essential part of our everyday lives, Fintech won’t be an exception either. Fintech will have the easiest time with personalized information this following year according to the ..."
     publishedDateTime: 2019-12-23T13:15:00Z

@@ -24,19 +24,6 @@ images:
 
 related:
   - title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
-    excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI ... Vision Zebra Medical Vision’s imaging analytics platform allows healthcare institutions to identify patients at risk of disease and ..."
-    publishedDateTime: 2019-12-19T13:15:00Z
-    sourceUrl: https://apnews.com/Business Wire/03d0640a43784b7b9d477f400579a414
-    type: article
-    provider:
-      name: Associated Press News
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: https://apnews.com/images/PaidContent3.png
-        width: 700
-        height: 450
-  - title: "Zebra Medical Vision Announces Agreement With DePuy Synthes to Deploy Cloud Based Artificial Intelligence Orthopaedic Surgical Planning Tools"
     excerpt: "Zebra Medical Vision, the deep learning medical imaging analytics company, announces today a global co-development and commercialization agreement with DePuy Synthes* to bring Artificial Intelligence (AI) opportunities to orthopaedics, based on imaging data. This press release features multimedia. View the full release here: https ..."
     publishedDateTime: 2019-12-20T00:12:00Z
     sourceUrl: https://finance.yahoo.com/news/zebra-medical-vision-announces-agreement-130000572.html

@@ -118,6 +118,19 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 48
+  - title: "Neural Network Software Market Is Thriving Worldwide with Google, Neurala, IBM Corporation, Microsoft Corporation"
+    excerpt: "A new business intelligence report released by Advance Market Analytics with title \"Global Neural Network Software Market Insights, Forecast to 2025.This report provides a detailed overview of key factors in the Global Neural Network Software Market and factors such as driver,"
+    publishedDateTime: 2020-01-08T13:21:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/neural-network-software-market-is-thriving-worldwide-with-google-neurala-ibm-corporation-microsoft-corporation-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence (AI) Robots Market On a verge to Create Booming Growth Cycle"
     excerpt: "Global Artificial Intelligence (AI) Robots Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The study provides information on market trends and ..."
     publishedDateTime: 2020-01-06T17:45:00Z

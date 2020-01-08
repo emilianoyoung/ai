@@ -291,6 +291,15 @@ related:
       - url: https://www.finextra.com/about/finextra-logo-alt-16-9.jpg
         width: 480
         height: 270
+  - title: "Fluent.ai Named CES 2020 Innovation Honoree for its Advancements in Voice Recognition Technology"
+    excerpt: "The speech technology start-up will be highlighted for its Multi-Wake Word and Intent Recognition technology, in addition to announcing a new partnership with COMMAX Inc."
+    publishedDateTime: 2020-01-06T14:04:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966557/0/en/Fluent-ai-Named-CES-2020-Innovation-Honoree-for-its-Advancements-in-Voice-Recognition-Technology.html
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 6
 
 secured: "okyAOKfexh2rMyvrctEuY3sAqDaxHc9I6vBmRB9Nave+AqOJVJpQYcX+uE1+6GGsjCvCshiTC1j0Q6qd/yVG4Nr/ECJYi+wIXhWyfdEIA73+C08mOEe6tCb6t/Tc8qlG8Cozzud1KDB3B6wR+L4NotqhFi5nRP/pM4Nrp7YPQxvaQcMWV7vxEFB/3SSespfBhRRxqwyKDRcCsiN6w8yCtiMN8mT8m89BM0ohu+kWiawnGq41o1JJaVcBodSdK8ZLQOKsg7cl5G8Vldj/LnXzNg==;w85+wrscUdDytR96OGNHCg=="
 ---

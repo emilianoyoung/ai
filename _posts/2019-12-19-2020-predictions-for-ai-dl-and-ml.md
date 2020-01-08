@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2019/12/19/2020-predictions-for-ai-dl-and-ml/amp/
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -59,19 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D07FACD5162710262A5002CA6851E91E
         width: 700
         height: 467
-  - title: "Healthcare’s digital transformation: 5 predictions for 2020"
-    excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
-    publishedDateTime: 2019-12-19T13:42:00Z
-    sourceUrl: https://www.cio.com/article/3509462/healthcare-s-digital-transformation-5-predictions-for-2020.html
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.7248D3545DD61F3FB3530C9789110632
-        width: 116
-        height: 116
 
 secured: "VAAHmraRSDfDheo9vMJe9ujieoHsA9dD7civfVSbBQceBR4F2Nn78FGvrXQERmRe5gHvbDujvF+T0fdZgWHIaOeUwyhVBVP/ToF19TjY5lVN/l098bSp+oAQwWyR5iPoKVsxQrKxml885JRVh6IPx5SXonZe8q00qy9A5GAaOzNYaRh7Klw0EL0liyhhd42ArmB3uObvreM9Mee15ujvxdHTdbgOWGR8BOorHwAO613tUjHqV8rUxTtqZowZ1+S1kd7/3EsUq1MsWIdpx8RbeA==;g0Iu1c2BuNo1GFguGYU+Nw=="
 ---

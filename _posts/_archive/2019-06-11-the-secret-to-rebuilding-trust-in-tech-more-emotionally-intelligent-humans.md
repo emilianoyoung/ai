@@ -22,6 +22,6 @@ images:
     height: 720
     title: "The secret to rebuilding trust in tech: More emotionally intelligent humans"
 
-secured: "Sp1KuCAQYEQyCWEY6thcZWujKf1uoIpWGZEWx9Q0cAnDkI3duwrLEZPiTdFvqc85asXGjhgoOgaybdysX+Er3XqYjnNiLiK9nYGXDAOZjK9tdoda+8UIl4RLYFu7SiBDIOZA/TFP0PZkw9PCqOYvIAgNZbg/Pv2SnCQge6nbPIRnQNiXZlaJ6mmmIciLlicfZc5nhYxbv6r8FvRu7/iEW4ZSbV4FY9Zu4f+AnKXI7dQIt+OH7Fh28IxbaH/BvWwjD9WKOgyeMQHYiThyc2nEpg==;r6Ks+C8NJjQpsYCHzEjCRw=="
+secured: "+1fHyqi9JSqDUOvkmu/4RLdYt+CBgTeh7iqOnVo9cv6Ho/XUi9Br+0KsVPbXuewxS8EkfGUoZdDk4tFipV81SWXtl3Znxeu++XuKuFvYZPsBuEJalsbJ+DtztWguJlZTMahu0ZV0l6CRzwuDC0WqknN6YlyABJIXVhHHvIRnb8BrXqHojCSCPF9j4eeVicLsGwnUmxzIJuqKKY77Ulg21Q3tbzIWpLxr8m4RQptJ3ct1LOE4Y1i4uibJcdPAbIj3JeEt6qEYEAPy87xTI3F1AQ==;6tvjYh4xa2TJP4O7I9koMg=="
 ---
 

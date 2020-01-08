@@ -75,6 +75,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BB67FFF39EEB9CF42BA57B614F8764BD
         width: 700
         height: 525
+  - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
+    excerpt: "Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on January 8. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as the Crime and ..."
+    publishedDateTime: 2020-01-08T14:36:00Z
+    sourceUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html
+    ampUrl: https://www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/railway-stations-at-bengaluru-manmad-bhusawal-to-get-facial-recognition-tech-as-test-cases-4798261.html/amp
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: https://www.bing.com/th?id=ON.84AC95BE47A4AB627C104AE4BE898619
+        width: 700
+        height: 393
   - title: "Facial recognition system now 'operational' for Lockport Schools"
     excerpt: "For months, the Lockport City School District continued to take steps toward using facial recognition technology in their schools. Now the system is online. In a message posted on the Lockport Schools website, Superintendent Michelle Bradley said ..."
     publishedDateTime: 2020-01-03T02:12:00Z
