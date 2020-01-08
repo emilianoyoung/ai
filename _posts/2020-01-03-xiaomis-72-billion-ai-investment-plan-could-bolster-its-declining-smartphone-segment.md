@@ -55,6 +55,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8EF0FA1358FD28FE41933CFB2B5C5FC5
         width: 700
         height: 525
+  - title: "Investment in cloud and AI to increase in Brazil"
+    excerpt: "74% of Brazilian companies polled will invest in new technologies, as well as education and training of their workforce (73%) as top priorities this year, regardless of macroeconomic conditions. Artificial intelligence: How to build the business case AI might be a hot topic but you'll still need to justify those projects."
+    publishedDateTime: 2020-01-08T13:40:00Z
+    sourceUrl: https://www.zdnet.com/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    ampUrl: https://www.zdnet.com/google-amp/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.E1D82976899F509D748EAC41112EE71E
+        width: 700
+        height: 525
   - title: "Sweden to invest $585 million in artificial intelligence"
     excerpt: "Artificial intelligence is used today in a number of areas, such as internet search engines, self-driving vehicles and computers that can detect cancer. But that's just a fraction of possible uses. Nearly forty Swedish companies, including Volvo, ABB and Ericsson, have been reportedly associated with the program. Within the framework of the ..."
     publishedDateTime: 2020-01-04T11:08:00Z

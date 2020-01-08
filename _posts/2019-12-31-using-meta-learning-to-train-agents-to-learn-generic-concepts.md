@@ -24,19 +24,19 @@ images:
     title: "Using Meta-Learning to Train Agents to Learn Generic Concepts"
 
 related:
-  - title: "Deep learning vs. machine learning: Understand the differences"
-    excerpt: "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep learning, which require a much higher level of computing resources, the most common algorithms are Naive Bayes, Decision Tree, Logistic Regression ..."
-    publishedDateTime: 2020-01-06T11:03:00Z
-    sourceUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
-    ampUrl: https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
-    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
+  - title: "Wanted: More types of machine learning"
+    excerpt: "Now that we’re big into machine learning in the cloud, perhaps we should start thinking about how to do it better ML (machine learning) is handy stuff. Now that public cloud computing has made it cheap, I’m seeing all types of cloud-based applications applying this technology effectively. Basically, there are three types of machine learning."
+    publishedDateTime: 2019-12-31T11:36:00Z
+    sourceUrl: https://www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.html
+    ampUrl: https://www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.amp.html
+    cdnAmpUrl: https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3511938/wanted-more-types-of-machine-learning.amp.html
     type: article
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 104
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C6E9BA3D0630CDD05A14B309F332A045
+      - url: https://www.bing.com/th?id=ON.EDB8A3074336F3C2697F37C1A464B57B
         width: 116
         height: 116
 

@@ -35,6 +35,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C804938391BA753784698887DC8D5BC4
         width: 700
         height: 525
+  - title: "Samsung unveils AI-powered rolling robot at CES"
+    excerpt: "The chief research scientist of Samsung, who joined the tech giant in 2018, noted that Ballie's on-device AI capabilities are based on the mobile interface, which he says also meets standards for data protection and privacy. \"We believe AI is the future of personalized care,\" said Seung, who formerly was a professor in computer science and ..."
+    publishedDateTime: 2020-01-08T13:02:00Z
+    sourceUrl: https://www.upi.com/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    ampUrl: https://www.upi.com/amp/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CC514A73C4BEADB62320AF224BB74A05
+        width: 700
+        height: 465
   - title: "CES 2020: Samsung looks beyond AI with artificial humans"
     excerpt: "Using neural networks and other artificial intelligence techniques, CORE R3 has been trained up with information about how humans look, behave and interact and “can computationally create lifelike reality that is beyond normal perception to distinguish”, according to STAR Labs."
     publishedDateTime: 2020-01-07T10:25:00Z

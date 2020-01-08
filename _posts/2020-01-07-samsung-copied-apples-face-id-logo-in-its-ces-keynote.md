@@ -24,6 +24,21 @@ images:
     title: "Samsung copied Apple’s Face ID logo in its CES keynote"
 
 related:
+  - title: "Samsung Pass blatantly copies Apple's Face ID icon - 9to5Mac"
+    excerpt: "Samsung Pass allows you to use your saved biometric information (fingerprint, iris, or face recognition) to log into accounts, apps and websites. You can also add in personal information such as your address and card information so you can populate this quickly and more easily. You can see above Samsung’s presentation slide on the left ..."
+    publishedDateTime: 2020-01-08T13:38:00Z
+    sourceUrl: https://9to5mac.com/2020/01/08/samsung-pass/
+    ampUrl: https://9to5mac.com/2020/01/08/samsung-pass/amp/
+    cdnAmpUrl: https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/08/samsung-pass/amp/
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 44
+    images:
+      - url: https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Samsung-Pass.jpg?quality=82&amp;strip=all&amp;w=1000
+        width: 1000
+        height: 500
   - title: "Samsung uses strikingly similar images to Apple's Face ID and Touch ID icons in its CES keynote"
     excerpt: "While talking about its own biometric technology, Samsung took a bite out of its rival Apple's design palette."
     publishedDateTime: 2020-01-08T05:52:00Z

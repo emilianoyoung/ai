@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C804938391BA753784698887DC8D5BC4
         width: 700
         height: 525
+  - title: "Samsung unveils AI-powered rolling robot at CES"
+    excerpt: "The chief research scientist of Samsung, who joined the tech giant in 2018, noted that Ballie's on-device AI capabilities are based on the mobile interface, which he says also meets standards for data protection and privacy. \"We believe AI is the future of personalized care,\" said Seung, who formerly was a professor in computer science and ..."
+    publishedDateTime: 2020-01-08T13:02:00Z
+    sourceUrl: https://www.upi.com/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    ampUrl: https://www.upi.com/amp/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/01/08/Samsung-unveils-AI-powered-rolling-robot-at-CES/5601578487669/
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CC514A73C4BEADB62320AF224BB74A05
+        width: 700
+        height: 465
   - title: "Samsung Ballie robot unveiled at CES"
     excerpt: "The Ballie robot is a rolling robot which is designed to be helpful and reacts to you, it comes with Artificial Intelligence and has a range of functions. At the core of Samsung’s human-centered vision is personalized care, enhancing the health and well-being of consumers by satisfying their individual needs. During his opening remarks ..."
     publishedDateTime: 2020-01-07T10:55:00Z

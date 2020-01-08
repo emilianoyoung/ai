@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8EF0FA1358FD28FE41933CFB2B5C5FC5
         width: 700
         height: 525
+  - title: "Investment in cloud and AI to increase in Brazil"
+    excerpt: "74% of Brazilian companies polled will invest in new technologies, as well as education and training of their workforce (73%) as top priorities this year, regardless of macroeconomic conditions. Artificial intelligence: How to build the business case AI might be a hot topic but you'll still need to justify those projects."
+    publishedDateTime: 2020-01-08T13:40:00Z
+    sourceUrl: https://www.zdnet.com/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    ampUrl: https://www.zdnet.com/google-amp/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/investment-in-cloud-and-ai-to-increase-in-brazil/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.E1D82976899F509D748EAC41112EE71E
+        width: 700
+        height: 525
   - title: "Xiaomi's $7.2-billion AI investment plan could bolster its declining smartphone segment"
     excerpt: "Xiaomi plans to invest more than $7 billion over a five-year period in an \"All in AIoT\" strategy – hoping to bolster its declining smartphone segment."
     publishedDateTime: 2020-01-03T15:00:00Z

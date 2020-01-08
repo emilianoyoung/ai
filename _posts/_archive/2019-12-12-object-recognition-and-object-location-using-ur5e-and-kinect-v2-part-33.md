@@ -27,6 +27,6 @@ images:
     height: 567
     title: "Object Recognition and Object Location using UR5e and Kinect V2 (Part 3/3)"
 
-secured: "2RjjTTYXd81b3e2toRDARFpter+Nv28FxrrFxoGtqnFjO97Yw2ygXmwqPTC8GAWL0pNqsutNC9TNfEzsv7F6o4YN6m82nXBdzF1AZ0j7WilRXd6qbJ8t2OzLEL8v82RLSYqdU9/dXpEKeTZJAtTu2XMhjW3uMY27XZIjAeqBo2+Hf5dAvVy7AzmZdigXrCXUfwsCz8ZwAeF5yEfuaYeSFT/JFmoMNJpXeSi5A3X4aBd8znCZVQyMYWtQqrsj6KTaYVPFBPA1azC5ZoHyn0Pouw==;lSxj0a5mkwIzwZpuyx017g=="
+secured: "jyehRFJApKNDw08DCUZrBhsncsWco4qDZKjyNgO15ZIfW2ZrJe54ZDM2WOPfz1DITB3KedDmiPLp/6dSU0HCi/Fe8DyLjpSkRhYplY03MH5y6X5QD70PuMxBKQekybi+hcRKQQIZcbyOyksDI0StHzzGe1yA7LGvF9Ue0aNLK8B21bG4nC8LpTMabEe4Eo1suAtFBiVD1Of3UMNbwFCWaWY0tYEHOsnbxlXZ1tIrMhfG0V9gmwsXP7Vm1U0EjamXzmzuwLq66M/IF9nc6KBu2A==;197tO9v6K2J50Bwamblbxg=="
 ---
 

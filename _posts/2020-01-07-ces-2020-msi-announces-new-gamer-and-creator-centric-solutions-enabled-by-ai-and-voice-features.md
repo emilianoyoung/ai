@@ -26,21 +26,21 @@ images:
     title: "CES 2020: MSI announces new gamer and creator-centric solutions enabled by AI and voice features"
 
 related:
-  - title: "Byton's electric SUV features a massive 48-inch display, controlled by your voice"
-    excerpt: "Aiqudo's platform understands voices in seven languages and can open apps, pull up directions, make calls, and even send money. Through voice recognition, the Byton screens will pull up personalized playlists, favorite contacts, and preferred apps for different drivers and passengers. SEE ALSO: Take a look at Byton's electric SUV beyond its ..."
-    publishedDateTime: 2020-01-05T23:45:00Z
-    sourceUrl: https://mashable.com/article/byton-m-byte-voice-ai-ces/
-    ampUrl: https://mashable.com/article/byton-m-byte-voice-ai-ces.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/byton-m-byte-voice-ai-ces.amp
+  - title: "CES 2020: Mobvoi announces TicPods 2 Pro with AI-based motion and hands-free technologies"
+    excerpt: "One of the first out of the gate comes to us from Mobvoi Inc. via an announcement at CES 2020 in Vegas. The new TicPods 2 Pro bring some advanced features we haven't seen on other wireless earbuds, powered by Mobvoi's AI technologies. The earbuds as sleek, coming in 42% smaller than the original TicPods with a matching slim charging case."
+    publishedDateTime: 2020-01-08T12:47:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-mobvoi-announces-ticpods-2-pro-with-ai-based-motion-and-handsfree-technologies/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpods-2-pro-with-ai-based-motion-and-handsfree-technologies/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpods-2-pro-with-ai-based-motion-and-handsfree-technologies/
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
     images:
-      - url: https://www.bing.com/th?id=ON.7B974A240BD174170C56DD5484E8B888
+      - url: https://www.bing.com/th?id=ON.0099AA98D4CFB6372F5536D754B55643
         width: 700
-        height: 367
+        height: 525
 
 secured: "2ymqDsjNPe2wNAY0OBb/Q0wLAroA3GoGUWBzqkFoC+ndujb6IlIUGvHmerHXOFmSvVrvaptG2cKSCfWJD7UQv4ORfNPUq4lMQR5H1MeJDZu8DilR5CDmBP7M6WUauTKjcc4cCiHs+AoQQd4l1q3GnB8E+GN/bUTH6kcjTaFVR2vAaRMbBIcQdr4QRXX2+2owHljLw8q+6fEHhJvdqrwLTFtE9rF5SLtt3QJLo6RL7+bK1pQjxwEaWGEfABWsJQR2LmSylp76kjzawh/CT+BevQ==;7dSEUJeT3CkjWPCIPjif9Q=="
 ---
