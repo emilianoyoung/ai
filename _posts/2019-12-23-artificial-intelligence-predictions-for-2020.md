@@ -42,21 +42,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39404075%2F0x0.jpg%3FcropX1%3D194%26cropX2%3D4595%26cropY1%3D0%26cropY2%3D2474
         width: 1200
         height: 675
-  - title: "2020 predictions for healthcare IT from six industry experts"
-    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
-    publishedDateTime: 2019-12-19T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
-        width: 700
-        height: 393
   - title: "Top tech and data predictions for 2020"
     excerpt: "Chad Meley, Vice President, Marketing, Artificial Intelligence, IoT and Customer Experience Solutions Cloud Public clouds will move from competing on commodity compute and storage to competing on full stack data analytics offerings. AWS, Azure, GCP, Alibaba and other public clouds will aggressively partner with enterprise data analytic vendors ..."
     publishedDateTime: 2019-12-26T11:30:00Z

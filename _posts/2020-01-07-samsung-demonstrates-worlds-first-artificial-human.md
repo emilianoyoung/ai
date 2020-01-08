@@ -23,19 +23,21 @@ images:
     title: "Samsung demonstrates ‘world’s first artificial human’"
 
 related:
-  - title: "Maxima – World’s First to Embrace Artificial Intelligence in Grocery Retail"
-    excerpt: "Maxima is the world’s first grocery retailer implementing unique Artificial Intelligence (AI) solutions, aimed at improving work efficiency and the customer shopping experience, streamlining operations and reducing costs of running its stores, and balancing employee workloads. Shelf stocking and checkout lines are already being managed by ..."
-    publishedDateTime: 2020-01-08T10:54:00Z
-    sourceUrl: https://www.baltictimes.com/maxima___world_s_first_to_embrace_artificial_intelligence_in_grocery_retail/
+  - title: "CES 2020: Not just an AI assistant, Neon is world’s first ‘Artificial Human’"
+    excerpt: "Taking the human-artificial intelligence (AI) experience a notch higher ... According to a CNBC report, that is exactly what sets Neons apart from regular robots, humanoids, or smart home devices such as Google Assistant and Alexa. These new-age AIs are capable of doing far more than just give weather updates or play music on command."
+    publishedDateTime: 2020-01-08T11:41:00Z
+    sourceUrl: https://www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html
+    ampUrl: https://www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html/amp
+    cdnAmpUrl: https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ces-2020-not-just-an-ai-assistant-neon-is-worlds-first-artificial-human-4796631.html/amp
     type: article
     provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 50
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 56
     images:
-      - url: https://media.baltictimes.com/media/photos/147033_9150325365e15b3b47b19d_big.jpg
-        width: 855
-        height: 555
+      - url: https://www.bing.com/th?id=ON.9A2429002934658D1D62CB10AB3A032C
+        width: 700
+        height: 393
 
 secured: "6kqY7v7EX5eSWoBZa9VxdxjhOI88zEhTarn+knm+lj87Z6apMZ9PYkm928wkW3wRKqxKeN1lnLhX8FkNiHqHzFfZJumuR/SFGBd64Xj8ds1iY9+Ipwww0vBYg/sIQy1kBinvBJu2iig3y5IH2sSyLG+tizzwx3iF3ed/OXkV+lb2MW+kwQY4M0CCGLOtorgRmaApgahfLaGaYTQBIS6AQEmoxxEDkTLg9Vd5fRl/0ClMKMwVeM6eSRmO3PYkM3bWfk644Jq09LKzpJjGpR9hTQ==;NU1rmfQeNp0Ur+gYeA58uw=="
 ---

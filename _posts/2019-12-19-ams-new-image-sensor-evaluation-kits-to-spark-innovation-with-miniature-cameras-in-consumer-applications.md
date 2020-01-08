@@ -24,19 +24,32 @@ images:
     title: "ams: New Image Sensor Evaluation Kits to Spark Innovation With Miniature Cameras in Consumer Applications"
 
 related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
-    publishedDateTime: 2019-12-20T00:00:00Z
-    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
+  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and ..."
+    publishedDateTime: 2019-12-23T22:04:00Z
+    sourceUrl: https://www.prnewswire.com/il/news-releases/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems-300979007.html
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
-        width: 400
-        height: 258
+      - url: https://www.bing.com/th?id=ON.46155DB4CF0EC91A4731A9ADB89BEE4F
+        width: 480
+        height: 360
+  - title: "Foresight Selects Cognata as Simulation Partner for Camera Vision Systems"
+    excerpt: "Working with some of the largest autonomous vehicle makers in the world, Cognata brings the disruptive power of artificial intelligence and computer vision to the ADAS and autonomous driving simulation world and shaves years off the verification and validation process. For more information, visit http://www.cognata.com."
+    publishedDateTime: 2019-12-24T00:40:00Z
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/foresight-selects-cognata-as-simulation-partner-for-camera-vision-systems/article_0521f10e-d3f3-52e8-8b5f-d6556f5ea209.html
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
+    images:
+      - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+        width: 1280
+        height: 720
 
 secured: "276rJvByIWbOpqmlXyMAnXMWK9Ef8Yf9NDSCiRMsxz3YH/lFUDpbVTdDyFHxCYv/LXfio6QveWfoBVxtBSNPuspvsTjVJ03FgM6XWTak2kRKGGZ9pftiOR34EwWF8JiUIt4DqCkwr1hNgEwXEdQqdG2HT1HaSNM9bTp23HCHrkQF8BNuYgIdLgC2ng7P9xGoF783Aljy/HuqO6ZyM8KqRWhaYviHz6anYtdceUqyjyTK83J45JlAhpj9eJFm93WYOXBMb6BEm1zQL6VX8wwfiw==;8B4l7YEwGPuOfe5/lxYwCA=="
 ---

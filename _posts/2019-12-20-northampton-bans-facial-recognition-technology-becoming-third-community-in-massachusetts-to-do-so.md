@@ -41,6 +41,19 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
+  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
+    publishedDateTime: 2019-12-20T23:50:00Z
+    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    type: article
+    provider:
+      name: BCW
+      domain: businesscomputingworld.co.uk
+    quality: 54
+    images:
+      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
+        width: 512
+        height: 512
   - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
     excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
     publishedDateTime: 2019-12-19T23:19:00Z

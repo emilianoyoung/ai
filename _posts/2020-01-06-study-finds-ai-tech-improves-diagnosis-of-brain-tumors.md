@@ -69,6 +69,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3C7C440A35390427C0C0DE612832D3C2
         width: 700
         height: 393
+  - title: "AI matches humans at diagnosing brain cancer from tumour biopsy images"
+    excerpt: "An artificial intelligence can now diagnose some cancers from brain tumour biopsy images with the same level of accuracy as humans. The AI analyses high-resolution images of tumours produced using a method called stimulated Raman histology (SRH). Todd Hollon at the University of Michigan and his colleagues generated more than 2 million SRH ..."
+    publishedDateTime: 2020-01-08T11:45:00Z
+    sourceUrl: https://www.newscientist.com/article/2229306-ai-matches-humans-at-diagnosing-brain-cancer-from-tumour-biopsy-images/
+    ampUrl: https://www.newscientist.com/article/2229306-ai-matches-humans-at-diagnosing-brain-cancer-from-tumour-biopsy-images/amp/
+    cdnAmpUrl: https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2229306-ai-matches-humans-at-diagnosing-brain-cancer-from-tumour-biopsy-images/amp/
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 57
+    images:
+      - url: https://www.bing.com/th?id=ON.DA4A3F03B58370FDDAD02272FB61478B
+        width: 700
+        height: 466
   - title: "Artificial intelligence can accurately diagnose brain tumours within minutes"
     excerpt: "Sharing the full story, not just the headlines It is the latest study to show the benefits of machine-learning artificial intelligence in healthcare. Earlier this month researchers showed a Google-based AI was as good as humans at spotting incidences of breast cancer – and it was much better at avoiding false positives. Sir Simon Stevens ..."
     publishedDateTime: 2020-01-06T16:09:00Z

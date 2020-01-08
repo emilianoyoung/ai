@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.04FCF9A19F1AEB542FA11CC50E34B3C6
         width: 116
         height: 116
-  - title: "2020 predictions for healthcare IT from six industry experts"
-    excerpt: "Advanced technologies have caused a significant impact on the development of the healthcare industry. Artificial Intelligence (AI) and Machine Learning (ML) in particular, have allowed for significant breakthroughs in life science and healthcare research and treatments, whether that’s automating critical but repetitive tasks to free up time ..."
-    publishedDateTime: 2019-12-19T10:30:00Z
-    sourceUrl: https://www.itproportal.com/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    ampUrl: https://www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/2020-predictions-for-healthcare-it-from-six-industry-experts/
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.070C5D536A37846355C0CC250735E83E
-        width: 700
-        height: 393
   - title: "Healthcare’s digital transformation: 5 predictions for 2020"
     excerpt: "Healthcare's digital transformation is underway ... Voice-recognition will possibly make the biggest gains in digital health in the coming year. I had predicted last year that artificial intelligence (AI) will make progress but will struggle with an adoption gap. AI has indeed made progress, and there are several emerging areas where the ..."
     publishedDateTime: 2019-12-19T13:42:00Z

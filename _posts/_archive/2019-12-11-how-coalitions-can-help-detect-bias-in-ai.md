@@ -27,6 +27,6 @@ images:
     height: 428
     title: "How Coalitions Can Help Detect Bias In AI"
 
-secured: "dIoJmTkudMjulGTqGQeLEN+qTjnNq20ig2bw5OkQ6/6zHOOgmoSVFnq/pAIOtB33Gy3t96BRLw1BT2blHLbvEVe64/x4CPrBr+qG8NcsA40AQV/KVdscz8HGhwqUCbJJYtxgmpMpMEeyZ01ETfr6eyBMgXEW3KSMIcyCObhOgMBr4H8ZVkYXNjuIoN6NcqBsETXj/YxJGXjEgPpEIQ8qWfgnIl2Ybe1n6ngXYLAaC5EJqpLXusWRe9CEXEOFD6UCHF1SMT19k93BfNJn/AV8sQ==;WjgKlew31+ct5z0XP55opw=="
+secured: "TvkWvIluemw1zImkFa/QgscYDlxFxOc6BxEWX8UJ2c7vRgS6H4QeS22QP0vcAK7UxgpMkaeCup6iRWHrw9U2MJAv1Bokc/KQ5GM3LmaW8NCH5928ozPaFiIBA6s2j9Xal0oAqAopO60tyf7VsV5Qutk1/yxiXuYZdfduC5MTHewbJuNIj2aM2dYYoX52/hOJqR52TmdHz3V25aBxCh5/gMhE8tD8mo7a6PElWXaUaPXxiwI3N9pedjkO4lHgQhsg8ZROn1YC/aFQN2MJFj9G2Q==;Jj2khwwSRm18UJaZZRgRxA=="
 ---
 

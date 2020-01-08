@@ -46,6 +46,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3A803E1448A89C3A2C774D05EA2C7473
         width: 700
         height: 376
+  - title: "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo"
+    excerpt: "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped with an Ambarella CVflow-powered AI vision system on chip (SoC). Until now, developers had ..."
+    publishedDateTime: 2020-01-08T11:05:00Z
+    sourceUrl: https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
+    ampUrl: https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
+    cdnAmpUrl: https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 77
+    images:
+      - url: https://www.bing.com/th?id=ON.170029963C439E3BA9D7EF1B94F84365
+        width: 700
+        height: 405
   - title: "Alabama Robotics Technology Park to launch new robotics program"
     excerpt: "The smart factory manufacturing experience is focused on transformative technical areas, including automation & robotics, cybersecurity, artificial intelligence, augmented reality, virtual reality, data analytics and 3D printing. “Launching RTP 2.0 is exciting for Alabama companies as they gain access to some of the most revolutionary ..."
     publishedDateTime: 2019-12-31T19:39:00Z

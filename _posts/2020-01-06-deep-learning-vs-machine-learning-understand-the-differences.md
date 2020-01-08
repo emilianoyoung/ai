@@ -25,6 +25,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "Vx0cRpYK7a2OpAUhKD4PWMYQltzPyE7dQlu5jCcrZhgmDUDivmhYFXLaCeJ667pSpV1mGnwZ9t8F9nST1Wec14zsyNKIVPTt5m8QjyQM/KtrLdg1ktFVEFzU8PaXXayfIpxfGQwsALm7LipvSYGEUE+66ivXSUaq8CTdtiwSVihaFOAmIUB9At1qJ37V/SAACzgurpFynW2bxkr0J4tzjoc7aXX66TBL1aOMwe5TPTxusbrFavq4uH9h3ZX/e7JfoHvTZPIb0p4tBddpzYaqnA==;aPv5Iauy3EOXFWFHyTWGwg=="
+secured: "sXrLxhKU9YrZ+pF8Z2LSoQgkEbHQZ+f4nHwh4+tF52LuTiIn/cBJPi4heAhYAqYVYFhqfW/mju8mhFaLzm1pmZrMEZM7aqttt33ifm3XYzDS7AfFrdJYie91yzVFocItyk7hK1AF2zlx+N3NdItt5CctEDdWlOIqV0u36xcBLVYBVaQ3o6TD8X6uC6nHKZ7WbZ1lyDyDxbN9F9h4llUmPJR4diaoZ2Sw7bJ+ma3lssWKer9mkfUeKPpOwpXQ0HzqwT25vQlkatJb+RvceKwGmg==;wErCpXivyy/S8qL7IcvrbA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "The best artificial intelligence stocks to buy feature many enticing c
 publishedDateTime: 2020-01-07T11:00:00Z
 sourceUrl: https://finance.townhall.com/columnists/pauldykewicz/2020/01/07/best-artificial-intelligence-stocks-to-buy-feature-many-enticing-choices-n2559069
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: https://media.townhall.com/_townhall/resources/images/thog.png

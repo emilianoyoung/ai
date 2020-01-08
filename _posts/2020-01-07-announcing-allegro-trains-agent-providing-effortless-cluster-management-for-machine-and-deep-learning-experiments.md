@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
+excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
 publishedDateTime: 2020-01-07T14:38:00Z
 sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
 ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
@@ -26,50 +26,35 @@ images:
     title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 
 related:
-  - title: "Lyft releases Flyte, a platform for maintaining AI workflows"
-    excerpt: "Hot on the heels of Uber’s open-sourcing of an AI debugging tool this morning, Lyft announced the release of Flyte, which it describes as a structured and distributed platform for concurrent, scalable, and maintainable machine learning workflows. The company says that Flyte has been serving AI model training and data processing internally for ..."
-    publishedDateTime: 2020-01-07T19:14:00Z
-    sourceUrl: https://venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/
-    ampUrl: https://venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/lyft-releases-flyte-a-platform-for-maintaining-ai-workflows/amp/
+  - title: "3 Things to Consider Before Implementing Machine Learning or AI"
+    excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
+    publishedDateTime: 2020-01-07T17:48:00Z
+    sourceUrl: https://www.manufacturing.net/home/blog/21108798/3-things-to-consider-before-implementing-machine-learning-or-ai
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 56
     images:
-      - url: https://www.bing.com/th?id=ON.68772F950A8A4933EE79F85D3AE88FAF
-        width: 700
-        height: 350
-  - title: "Uber open-sources Manifold, a visual tool for debugging AI models"
-    excerpt: "It’s a part of the ride-hailing company’s Michelangelo ML platform, where it’s helped various product teams analyze countless AI models. And as of today, it’s available in open source on Github. “Since highlighting [Manifold] … earlier this year, we have received a lot of feedback from the community regarding its potential in ..."
-    publishedDateTime: 2020-01-07T18:08:00Z
-    sourceUrl: https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/
-    ampUrl: https://venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/07/uber-open-sources-manifold-a-visual-tool-for-debugging-ai-models/amp/
+      - url: https://img.manufacturing.net/files/base/indm/all/image/2020/01/16x9/Metal_gear_wheels_with_the_engraving_Artificial_Intelligence___3d_render_888759400_5200x3072.5e14b67450ee2.png?auto=format&amp;fit=max&amp;w=1200
+        width: 1920
+        height: 1080
+  - title: "Finally, a good use for AI: Machine-learning tool guesstimates how well your code will run on a CPU core"
+    excerpt: "In three papers released over the past seven months, ten computer scientists describe Ithemal (Instruction THroughput Estimator using MAchine Learning), a tool for predicting the number processor clock cycles necessary to execute an instruction sequence when looped in steady state, and include a supporting benchmark and algorithm. Throughput ..."
+    publishedDateTime: 2020-01-07T09:01:00Z
+    sourceUrl: https://www.theregister.co.uk/2020/01/07/predictive_model_design/
+    ampUrl: https://www.theregister.co.uk/AMP/2020/01/07/predictive_model_design/
+    cdnAmpUrl: https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/01/07/predictive_model_design/
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Register
+      domain: theregister.co.uk
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.15A20EF39F7593717A4D0F1018D21665
+      - url: https://www.bing.com/th?id=ON.6E7BF7AD3FF42C3B68F70B8BC5F4AAD8
         width: 700
-        height: 341
-  - title: "Lyft open sources Flyte tool for managing machine learning workflows"
-    excerpt: "The tool is called Flyte, and is described by Lyft as a “structured and distributed platform for concurrent, scalable and maintainable machine learning workflows.” “With data now being a primary asset for companies, executing large-scale compute jobs is critical to the business, but problematic from an operational standpoint,” Lyft ..."
-    publishedDateTime: 2020-01-08T01:15:00Z
-    sourceUrl: https://siliconangle.com/2020/01/07/lyft-open-sources-flyte-tool-managing-machine-learning-workflows/
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.83B11F946AD3DF8FE40365B0E2513558
-        width: 700
-        height: 320
+        height: 473
 
-secured: "+z+xd+1rXML6BOunhccLD7M7xl3N/nqowcKX4eRTzo1Rg26FTvEbJW2cV+f+CgooIhRC+F6frcdPypWPmr1IM9o2fzj5yqiEyzhClXnS+cS1kgyCMuO8FG/jJ96BKmqNtqZyep1QO3mqadwhvNlRs7KuuUE1/o/lfBu0mcVnI+mURVWPnIXco6eHolYY26RdEEWEiuy/8kYQ/MQ/m/EMvb2KYSxAUuQLKykRkm+c52lSh6iLEeDFDI7RUGvvSiWbKZ42tFgmdPSY9z4VgHZkJw==;5E+8vYkdfqXYuGg/wGFPsQ=="
+secured: "gnW6a9TH9Jr++aQFxBhGvdpWjGCXrzZfsgwEfqsRkK+OwwG7zKjhMCHLBAZZosBn32iCB/wFosl11DsKC5rPEAbTorNpO25yqm53MKIaXo/w8uIBZA2gVnKOpaj40uKc1mLqXflRHY6+SmI2GPSySd6SuE4mdQmyJbTiipSE/sgr4Ex2ylNLwGcOfF2J8JV8yDzPO/5MWAP9VHjmGqbyywiYhHQhb4ISaO0gvXOfSclvhZIH2/KIJjy5vJodlkn5l0A7ok4xGOFU5C4z+4TYKQ==;14A/2QtwS+6J14XbmdOILw=="
 ---
 

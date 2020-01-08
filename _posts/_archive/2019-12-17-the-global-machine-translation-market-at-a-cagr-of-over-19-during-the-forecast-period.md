@@ -1,27 +1,21 @@
 ---
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-publishedDateTime: 2019-12-17T19:26:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
+publishedDateTime: 2019-12-17T19:35:00Z
+sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Yahoo Finance
+  domain: yahoo.com
 
 topics:
   - AI
   - Natural Language Processing
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
   - title: "Google Translate improves offline translation quality by up to 20%"
@@ -88,6 +82,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "kEQy3d8cvGWJ0rQeAIkVapKcDb/UStR/FG3Blel9aQs9qI69YFQ9ksdZWvfYPclNCjLfgzGI0MKw8S+Pc1Oki3yFKvPK59MXZK8K4NPxPdD23BL8LUA9hVPJ5rTaUxl4Knmd6Deq/GLeU/IepNl2XU0rnlh6zgJ4DCSLxvkApA2Nfydi8ffQ43cKIOVIREI0/j4wWkmn+XyWmvQ8LsO5nyASd9VHvx9AzEB7fSNZyIQWMRGQXQdghVKcB+x9vqjckK4Vp8j4mDCpPWpSseuNsw==;Th2C/B6ivOsQ2Kl1WKAJGw=="
+secured: "wAGhQDLPAlk6pSYsM9qh57QmbEPLV3JXpMGKEJ31IF+P8dqATvq01SR4NXxGsEFcvMIqyorb569IrrByZJKy5HAFgIBkYXHxLnCWv7pJ47Wy44TTLOkFyuLfUV3ADqLGW0pGgpjunSTp61unDcv/RODckMZeWo4jrhPQ+zY/+K2XZN7OBZ9V9bWM4KAwVyRYMdKMqoYS9L4XQ307kt137lFnK65zofJnvuJLrT1EbOl632RNB8mUiMcggNanXHsBaiOwlePLXvkhipM+VwLvjQ==;BRRDlXWA+C7uMKj52+Swbw=="
 ---
 

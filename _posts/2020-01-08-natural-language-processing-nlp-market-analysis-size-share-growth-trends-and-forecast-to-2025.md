@@ -54,6 +54,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Artificial Intelligence as a Service Market is predicted to grow at a CAGR of 33% to reach around $ 11.4 billion by 2025"
+    excerpt: "The study is segmented by Application/ end users [Application I, Application II, Application III & ], products type [Machine Learning (ML) and Deep Learning & Natural Language Processing (NLP)] and profiled players such as IBM, Google, Amazon Web Services, Microsoft, Salesforce, FICO]. Get Access to sample pages @ https://www.htfmarketreport ..."
+    publishedDateTime: 2020-01-08T11:38:00Z
+    sourceUrl: https://www.openpr.com/news/1891801/artificial-intelligence-as-a-service-market-is-predicted-to-grow
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "X854857Pn9F0LxV4UDZSjQkNsKlrN9BgnoOFbBKt8uNBma65iQbll41qY0FclsAO4IZnqjoTpFRFW25qreoWCnP/HIpE/EzkHoCsKCTLmOGDy7vWoIb79Ka7ja7tunVZ51Dud34RbjroQvJO0YSjBOofGSxdLwcOLKZTbsMI6HouLeJR1ShOLxo3GvBrdHpGTGmZWyikaZmpe8dXK/HLmNrLizm8WC1wWzh8w8aLo/h+I1CBxTQDVGlJItjE8ASbV1rlU8aBvNEEuPACCpxwRA==;GybG7p6HJEICvbpcF68Qng=="
 ---
