@@ -30,7 +30,7 @@ images:
 
 related:
   - title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
-    excerpt: "This takes time, and more often than not, time is of the essence when it comes to cancer. Computer vision is everywhere. It’s an integral part of AI-powered smartphone cameras that can recognize and adapt to photographed objects and sensors that help autonomous cars and robots navigate their environment. Smart cities use it to monitor traffic ..."
+    excerpt: "Recent innovations are set to spread through society in the years ahead As 2019 draws to a close, I’d like to review notable technological achievements, trends and breakthroughs that have the most potential to define the 2020s."
     publishedDateTime: 2019-12-16T10:10:00Z
     sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
     ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E21FD1ECAED1D696E006B1D0B97557CE
         width: 700
         height: 393
+  - title: "What does the next decade have in store for UK fintech?"
+    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
+    publishedDateTime: 2019-12-20T05:14:00Z
+    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
+    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
+        width: 960
+        height: 640
 
 secured: "Qdx+iGHbTSaogtxJjx4aCghlpjdZ+G58DjVSx0GYm+uywibCA8Nbxtr1XGahHqNvBH/irenERihxdrd4QfAkPQ54/Pi32r2Utf+mtDu75O58HyzMuPvwCr5YXKd0gsQYa+XGsRqlDqdtWZcpMqY0xNPOFJM/Tb2d30PhqxcH2mRdLECI4OMn9iiLeZ5aUH3OEP5oM9hMAgKpaMuGseO64nFX3mNM2VKdby6nL+WKqJJ0DZfh7vcoKhIXVW04dm0irRVK4KLc7AF1qevOuPYxQQ==;oxaTxuy6fxuEAZYArEfQHw=="
 ---

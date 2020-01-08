@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
-excerpt: "Banking and Financial Services, Retail and E-Commerce, Media and Entertainment, Insurance, Healthcare, Defense, Others), Organization Sizes (Small and Medium Enterprises, Large Enterprises) To comprehend Global Machine Learning as a Service market dynamics in the world mainly, the worldwide Machine Learning as a Service market is analyzed ..."
+excerpt: "Advance Market Analytics released a new market study on Global Machine Learning as a Service Market with 100+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand detailed analysis."
 publishedDateTime: 2019-12-17T13:38:00Z
 sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
 type: article
@@ -28,20 +28,64 @@ images:
     title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
 
 related:
-  - title: "Microsoft releases Azure Bot Service and Cognitive Services Language Understanding"
-    excerpt: "Microsoft Azure Bot Service and Microsoft Cognitive Services Language Understanding (LUIS) are now available. “Conversational AI, or making human and computer interactions more natural, has been a goal since technology became ubiquitous in our society."
-    publishedDateTime: 2019-12-15T00:00:00Z
-    sourceUrl: https://sdtimes.com/ai/microsoft-releases-azure-bot-service-cognitive-services-language-understanding/
+  - title: "Deep Learning Market May Set New Growth Story | Clarifai, Entilic, Google, HyperVerge, IBM"
+    excerpt: "Dec 24, 2019 (HTF Market Intelligence via COMTEX) -- HTF MI has added one more investigative report of valuable nature to its repository. Global Deep Learning Market have been compiled following extensive research, and analysis of various market segments. The report includes market revenue sizing, latest and ongoing trends, threats & key ..."
+    publishedDateTime: 2019-12-24T08:02:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/deep-learning-market-may-set-new-growth-story-clarifai-entilic-google-hyperverge-ibm-2019-12-24
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 93
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: https://sdtimes.com/wp-content/uploads/2017/12/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png
-        width: 1575
-        height: 847
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Cars and Light Trucks Market May Set New Growth Story | BMW, Bosch, Ford, Hyundai"
+    excerpt: "Dec 30, 2019 (HTF Market Intelligence via COMTEX) -- An extensive analysis of the Global Artificial Intelligence (AI) Cars and Light Trucks market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins. The report starts by an introduction about the ..."
+    publishedDateTime: 2019-12-30T10:15:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-cars-and-light-trucks-market-may-set-new-growth-story-bmw-bosch-ford-hyundai-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Market 2019 Size, Statistics, Growth, Revenue, Analysis & Trends Industry Forecast Report -2025|Market Research Engine"
+    excerpt: "The Artificial Intelligence Market is segmented on the lines of its technology, end-user and regional. Based on technology it covers Machine learning, Natural language processing, Image processing and Speech recognition. Based on end-user it covers Media & advertising, BFSI, IT & telecom, Retail, Healthcare, Automotive & transportation and Others."
+    publishedDateTime: 2019-12-30T05:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2019-size-statistics-growth-revenue-analysis-trends-industry-forecast-report--2025market-research-engine-2019-12-30
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Global Machine Translation(MT) System Market to Witness a Pronounce Growth During 2025"
+    excerpt: "Market Research Report Store offers a latest published report on Machine Translation(MT) System Market Analysis and Forecast 2019-2025 delivering key insights and providing a competitive advantage to clients through a detailed report. In 2018, the global Machine Translation(MT) System market size was xx million US$ and it is expected to reach ..."
+    publishedDateTime: 2019-12-31T06:09:00Z
+    sourceUrl: https://www.openpr.com/news/1887580/global-machine-translation-mt-system-market-to-witness
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 11
+  - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
+    excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
+    publishedDateTime: 2019-12-26T11:07:00Z
+    sourceUrl: https://www.openpr.com/news/1885852/speech-and-voice-recognition-market-set-for-rapid-growth-with
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
-secured: "9tHpxUoUs4jdNqaa1fYTBIm59W2+ysnPwEspb7RNoy0YHQegiLPUXAzH5llJxq1AHWaWjgtFHFIkEndRcOYtoVMGZCeEK+oDNMkk3iSD3NhbEsURgs04joSsZuVbPwwWZFBSK0dGh+w1Qaojph1eRkq64wx7B/Uc755lKLoNWo5byhDmmYLonCP537hPTw7X0x/AdkRSXnzTNUl5R6gUB6YmtgPhse0XHTQTskVdHbNT/aFMBLHOSn9fthzJV0hheeCNIApnJ8Ivb7pn1L3CnA==;rMquayN7oDIGkLuUfVKZpQ=="
+secured: "I8syyJwIvtSYtCO6EgYo3Pkj6pYyIitfy3s7NWjQSkYqfV0tzAjRuMwG3CEPZ1hjVFgDyytmPFydTeH5vapo6WbqbIxb8PkHr6u2Ed8M65O17x9Gxvhyw2oX7eI2PVaQTztZZgBMtQqLk4gEqb8R3sv61oflQ5XiN368h9C3Cz22hOtPC5MnMkZiXBu3esMNGyo+efy8cGc66TgN58LGMwYz5RSjwzEAHDeokYjt7r+S7UU1cxTkyfpqExBT53Ypf4WkESsJ7LBgDjDSOQxkGA==;W3pqi+21jt5js72rsd52aw=="
 ---
 

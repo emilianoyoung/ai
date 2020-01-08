@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
-excerpt: "The partnership draws on an artificial intelligence solution developed by Buoy Health, a digital health company that empowers people to manage their own healthcare. Health Action Council's Find the Right Care website will now include Buoy's AI-powered chatbot Buoy Assistant, which gives users a personalized and more accurate view of their ..."
-publishedDateTime: 2020-01-07T14:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/health-action-council-partners-with-buoy-to-help-patients-find-the-right-care-300982717.html
+excerpt: "Health Action Council entered into a new partnership with Buoy Health to help individuals make more informed decisions about where to get the care best suited for their symptoms. The partnership draws on an artificial intelligence solution developed by Buoy Health,"
+publishedDateTime: 2020-01-07T15:08:00Z
+sourceUrl: https://finance.yahoo.com/news/health-action-council-partners-buoy-150000161.html
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-    width: 600
-    height: 315
-    title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
 
 related:
   - title: "MIT, Takeda Partner to Develop Healthcare Artificial Intelligence"
@@ -38,6 +32,6 @@ related:
         width: 690
         height: 400
 
-secured: "rGTrXTOIFusKG1wnDklK5q9GFhDbBMezNrvZ8Z3ULHo/DPO+3aEHbYoVbDOmO+XENv/OHZ9lrUIIkSnos6Fqk+wkUsHX0H1Gt3OgW8vi8Iein9Ftsnj2+mEHIorv7a+pD3TUjFfXPLYl5NgwoGo8ZuxJ4k0h4XjQzPzGYMYdJ71Mnfmw1AOzVeUVuMnWfuWui7bqha2hbKx/Vm13LiMxy2N4r6qLLXkgj1Yvn0ekvrVI63R9AJmP1A8USEKe2CBW/04jmM+VfF7wZOwSZhZyOA==;1s0zkCFLaJAcqQtjIF39qg=="
+secured: "fh62IzcKDS6kDONpPqj36vABWC4wOgxIJJ0c+38TjP8PK31YxKCpQ8i8lMzR0IYZHH1Mq/o1Dc/g+K8mUjhP5IfBKgFyKpR8/e5fLWyjmtcwSPro3YKExeCYMR1F9KL0tCiC/FV8rqNDI/1+ewbkmE6Ybtzmy3IXIfqSNO2aRdN01OfgxsCMdpVhLV5IrxPypzfrH+i7YFLbsACdp3BxXBQjf2B5aIquc20CbZ/A0efiWf2Oec8a6EIzLfiIOVV8i+FDZoZYg66zqq3PrMJUjQ==;IyWxjHVRTxhrfcy8nr1yrQ=="
 ---
 

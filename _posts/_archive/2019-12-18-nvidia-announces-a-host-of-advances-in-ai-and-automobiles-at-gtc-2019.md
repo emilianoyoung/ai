@@ -31,7 +31,7 @@ images:
 
 related:
   - title: "Nvidia Announces New Orin Auto AI Processor"
-    excerpt: "At the company’s GPU Technology Conference (GTC) in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers. While dubbed a “robotics” processor, the key target application is ..."
+    excerpt: "in China, Nvidia announced the new Orin AI processor or system-on-chip (SoC). Drive AGX Orin is the next generation to the Drive Xavier SoC currently in use by many auto OEMs and tier one automotive equipment suppliers."
     publishedDateTime: 2019-12-18T17:04:00Z
     sourceUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/
     ampUrl: https://www.forbes.com/sites/tiriasresearch/2019/12/18/nvidia-announces-new-orin-auto-ai-processor/amp/
@@ -72,6 +72,6 @@ related:
         width: 700
         height: 393
 
-secured: "K7Z/6QUZdvGLQ2+qTn41g9NbonPAenuLm/17pB7sZeDsgwYstKK45Bgi0asBvf6l6jH1PYiQPMltX+mza2pFmGUeUM2W+RPBFC1Mt4HZl2fk5QsvfnA+8yjvBIqPnIPU/kDJY2bJK1qXWPXUhmAp/htsXmIjZZtyzV+523gKx00O2RjhUAI3HuuPH+Q1/9Ip2OGokrNkQyHWCpd3jC8tV+VHcv7Z/9cUMe4jhNlWc6c5S5zJxqmJR12yM3a9d1Knpx/DB41Ajz4PvLParxz9uA==;skobQHhcoE3HACN5Ag37cA=="
+secured: "rCuc3wU4bFnP0OFg0EsLx6/EHWeepMtvKoTw1X8Ngldn8B5br5m7jEhT9ULtQl8IXDO6Soq77m/w3GLogdIuIJPwgKI86YQbVJwr/GCIDQhHWSnA1s4/B6Ut6Cei49WPe37+ZwL8VbTa+p9WfbY+Xoux07+VqZdfel763OwdnlCTv82+nRk+Y+n/oQpjVJk3SN4vRP/v6oCev8gluSi6W1MSp+nuAwc5K8Cn53mzew3WboJQ8yVgizTokZBFN4yj1sN9LV4/zsa+i58J/Rpd+A==;yl0115gBREHgMNsvX7h+Cg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fi
 cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,34 +26,36 @@ images:
     title: "What does the next decade have in store for UK fintech?"
 
 related:
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
+  - title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
+    excerpt: "Recent innovations are set to spread through society in the years ahead As 2019 draws to a close, I’d like to review notable technological achievements, trends and breakthroughs that have the most potential to define the 2020s."
+    publishedDateTime: 2019-12-16T10:10:00Z
+    sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
+    ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
+    cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
     images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
+      - url: https://www.bing.com/th?id=ON.E21FD1ECAED1D696E006B1D0B97557CE
         width: 700
         height: 393
-  - title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
-    excerpt: "We can expect innovation around the edges more than at the core, and a big focus on integrated payments,” Oglesby said. In the next year, FIS will be positioned to focus on AI and identity management technology to reduce account takeover and improve anti-money laundering, with both U.S. and global needs for the payments market, said Krista ..."
-    publishedDateTime: 2019-12-20T05:34:00Z
-    sourceUrl: https://www.paymentssource.com/news/fis-fiserv-and-global-payments-are-larger-but-so-is-the-fintech-threat
+  - title: "Computer simulation enters the AI age: the Altair story"
+    excerpt: "That dialectic of design and simulation is pervading the world thanks to AI, Scapa believes. \"We are at a moment in time where for many things that we do, the algorithms are driving decisions,\" is the way Scapa broadly views the landscape of society, not just engineering. \"For me it's all about how algorithms are assisting humans to make deci ..."
+    publishedDateTime: 2019-12-21T20:22:00Z
+    sourceUrl: https://www.zdnet.com/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    ampUrl: https://www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/computer-simulation-enters-the-ai-age-the-altair-story/
     type: article
     provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 23
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: https://sourcemedia.brightspotcdn.com/dims4/default/8dcb1f5/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F3a%2Fd0%2Fd29f3beb406da0ef149c5abf2614%2F335510135-1-5.jpg
-        width: 1200
-        height: 630
+      - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
+        width: 700
+        height: 525
 
 secured: "EMS6qhWxTKDtin4jGKQLcR8knUS/bDcwMZV4xE7FY+V05k8eOenzWUclW5b6DZwHiw5tpIkaDZaJ40WXGgehBMzqbGv9ZbyK2tqBUGd8gDW64SJ5oxm3z63AKt/mG5L185u7C9jvCGqomjf+kReD/eXLTIP0F3fc8lLyQxbTUzCBSio9yec8u5+eB6se6I8XfZDHFWIYNT7cILRHC+wz+fKi1M9A5CzHdZW7SMZmDFbJZAAQlzz2CuUM0l3hwoYIzOfcBlvzyoY8y4NaWN6MrA==;tkE+JatkSUfCPdzLlCajIw=="
 ---

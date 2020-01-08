@@ -82,19 +82,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
-    images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
   - title: "Compensation: Lost In Translation"
     excerpt: "It's all in the translation -- at least in terms of executive compensation and its global spectrum ... In terms of the outlook for U.S. executives, Kingdom advises them to look at the industrial machine that was the U.S. and the industrial machine that is becoming global. \"Take a look at what globalization can mean -- it isn't pretty."
     publishedDateTime: 2019-12-20T22:05:00Z

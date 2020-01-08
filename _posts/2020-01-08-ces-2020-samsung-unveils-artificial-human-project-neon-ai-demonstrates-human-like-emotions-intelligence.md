@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
-excerpt: "Two years ago, Samsung said it would spend $22 billion on AI by 2020 and would employ 1,000 AI specialists by the same time frame. It has opened AI centers around the globe to work on solving problems for making technology smarter. The company at last year's CES showed off several robots that could do things like monitor health and help with ..."
-publishedDateTime: 2020-01-06T01:41:00Z
-sourceUrl: https://www.cnet.com/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
-ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
+excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
+publishedDateTime: 2020-01-08T09:30:00Z
+sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
+ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
 type: article
-quality: 87
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Business Today
+  domain: businesstoday.in
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
-    width: 700
-    height: 525
-    title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
+  - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
+    width: 505
+    height: 264
+    title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
 
 related:
   - title: "More details about Samsung’s AI human project ‘Neon’ have been revealed"
@@ -44,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "Samsung Neon: Here's when we'll get details on the mysterious AI"
+    excerpt: "Two years ago, Samsung said it would spend $22 billion on AI by 2020 and would employ 1,000 AI specialists by the same time frame. It has opened AI centers around the globe to work on solving problems for making technology smarter. The company at last year's CES showed off several robots that could do things like monitor health and help with ..."
+    publishedDateTime: 2020-01-06T01:41:00Z
+    sourceUrl: https://www.cnet.com/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    ampUrl: https://www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-neon-heres-when-well-get-details-on-the-mysterious-ai/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.1C8233CEA5DD295AC36A9AA1326082D5
+        width: 700
+        height: 525
   - title: "Samsung's new Neon project is finally unveiled: It's a humanoid AI chatbot"
     excerpt: "They can't tell you the weather or how old Abraham Lincoln was when he died. \"Neons are not AI assistants,\" the company said. \"Neons are more like us, an independent but virtual living being, who can show emotions and learn from experiences. Unlike AI assistants, Neons do not know it all, and they are not an interface to the internet to ask ..."
     publishedDateTime: 2020-01-07T17:54:00Z
@@ -119,21 +131,6 @@ related:
       - url: https://www.bing.com/th?id=ON.53BFC7B36C787A716EECB79917768A40
         width: 700
         height: 393
-  - title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
-    excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
-    publishedDateTime: 2020-01-08T09:30:00Z
-    sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
-    ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
-    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
-        width: 505
-        height: 264
   - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
     excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
     publishedDateTime: 2020-01-06T19:34:54Z
@@ -161,6 +158,6 @@ related:
         width: 279
         height: 157
 
-secured: "SazEHqGJTH5vrz0p11vyVPXap6NKwIZKzOYneX08QLhk+8iV4xaae/TyHzZ6lfWFc8egVQkjDKbcixZq1MSzdmP7050RrxWWxLppELcc1+ZBnvmS5M+bnSUI2E4kYcncmdVKY6efL2tnyPtkG3evTlrT38k705EKWhXcMUfPGbftyi2oYoL23cB2CG7p/OAhdrn9fgZbD8HzDqxKcCt351xWi++oNMGyxw4oFc0Xw8907DCzDA56EiH1y2qZ4q0+R32NDz6oybtA+/20QAILJQ==;A1E9lm0H8eKfKEd4S+ru5g=="
+secured: "WIMm/l1OMFRsG4vYbvbtEzhn5glqN8yLGEUO8ApE9XN9t11VQvJgTcT2Neo27h4DhSaJvbXuVnDuE3tzJuPrd8EUbh0bTLPUC+ocvDUaWFjAqhtzzeoNT/4Mpi6SHQ7kCNhPjDIOtQbIyUlRUyH7JUstxLN7+VBTlzilI/4YTkTAd8RAQDSAVXPrf3mKx0GUm9EmQMJhfOBsUMJQGBtpeYRaMki6tkV62B/KxXPytMR/PWqvkIaewauSYbMA6cntsCbQ7cZwWK/qFlEzbCZ6mQ==;mvI8FxpSu31egY30w68vUg=="
 ---
 

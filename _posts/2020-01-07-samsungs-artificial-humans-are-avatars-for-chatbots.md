@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
         width: 700
         height: 393
+  - title: "Study allows artificial neural connection to regain control of paralysed hand"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
+    publishedDateTime: 2020-01-08T09:29:00Z
+    sourceUrl: https://www.deccanchronicle.com/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    ampUrl: https://www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
+        width: 700
+        height: 392
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z
@@ -172,6 +187,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "DNPN8VklvEnXdgOzzIIXgkgXW5q3vy81EqzzY+XvENL33fZ97pGn2FkqS9WJxWh9M8G//ArZI/eoOzwSEcFiwFzAFeTNa7t02hzJO32W+/eFWPUKmrdiVKv1zriebipStcbP2c7vGCTOtHFIBuU+wOt8TlpIz6hIV04crTNbA2wexoZ0Fztm/U3hFN8jwI/h/xkqsgBlp+8e7A3TgZfSCrAY+BfzTXXt+IVqeRNZb3enRyN5/cqzVlYNk7fTBe8o/VuzLaNUzx+othlbgUtx5A==;os5zyUaPeJv4hj9tIZ13Vw=="
+secured: "m4sXHp/9kIEZ7A4LpGHjGffSNWq7obSfbhaAf5/hwmsZ3g8tmnWEmyMTl54VBdZUrjqw9sGy1NRnrE1XMIMVSGp1Y7yhiDIEcGTv8vz6g+1AxPCj3cVQP5BhbrMrdjSh01CR+jVlXk4Bknke3ykGx2QPa9+VElQiJ14cla0UU0Q+owSazdruspeqwXn/VCzbORv5VRVFOvCY81M4EHNT5AECdnPoF8hoPxPFxLJUwPpg8o6Kz8jJubLaH6DUgiUJ3BoaFvkvqT2fObVJvKVwzQ==;zUxmChUXtiX8uASgJH9QyQ=="
 ---
 

@@ -65,19 +65,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
-    images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
   - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
     excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
     publishedDateTime: 2019-12-23T11:50:00Z
@@ -101,6 +88,6 @@ related:
       domain: industryweek.com
     quality: 4
 
-secured: "YkgtqCJi+8IjctkI5TKN54I36m2LHbBm//GgEPQumszvslVUCgXiCiN6razktCEPX71rne9f7z7DrK89wdQZiINf894dx5B7sYwGWJ18T6E5s+7gRP4UfgV08CU7xuNSwD/lOlSaQaiIo22/WbKt4FCSoNSsqNdDYsH2kcm8N1BJvQnVfjSvLcTUKmWCpydq/A7TnS+fTyWdMO48M5j7YDG+DadxaR7iBuu44yRljPjomBTh1M00ZmreBOQcovLMOGLw/Sf3PX4wrGbBeb4B1Q==;yT9e2rp/2lfhiJRYflUFjA=="
+secured: "nmIUYjDNotJuOFgcZugsE4Vps2epFeFlMZzrjT7n2dCAmZucoyPy7JTVo5muomxBM2HOjQcraSzFh3CqUJdR+FrZrzM/OUGOfOlifFkkW+fh6Y6u6E36dhIeG6s8nsU/GRJxnISw3fj8viaxsgryHlthFEshblqTMgQ4atdXgMhbF/4sVWCkTyFM9+M2ONtuyGP4CxrFSucZ2gTEUcXWps2lIP6GePTP3UsGRROR+0jbxdTZBNrnpT7cYfQttrae51PWMq5QYeF3e2JVpqZs3g==;doa9F5X1L3h/68MVjjJ4UQ=="
 ---
 

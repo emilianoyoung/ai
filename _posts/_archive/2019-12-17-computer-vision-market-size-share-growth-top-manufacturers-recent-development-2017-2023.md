@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
-excerpt: "Dec 17, 2019 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting, and understanding the digital text, images or videos, which are then extracted as high dimensional ..."
+excerpt: "Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are used for collecting, processing, interpreting,"
 publishedDateTime: 2019-12-17T13:22:00Z
 sourceUrl: https://www.marketwatch.com/press-release/computer-vision-market-size-share-growth-top-manufacturers-recent-development-2017-2023-2019-12-17
 type: article
 quality: 59
-heat: 79
+heat: 69
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Computer Vision Market Size, Share, Growth, Top Manufacturers, Recent Development 2017-2023"
 
 related:
-  - title: "Natural Language Processing (NLP) Market 2019-2027 / Trends, Share, Growth And Opportunity"
-    excerpt: "Dec 19, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the natural ..."
-    publishedDateTime: 2019-12-19T10:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-trends-share-growth-and-opportunity-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Smart Speaker Market Top Manufacturers, Consumption, Sales, Revenue & Trend For Next 5 Years"
     excerpt: "Get Access to Sample Pages @ https://www.marketgrowthinsight.com/sample/38718 Advancement in microphones, automated speech recognition technology, and natural language processing (NLP) help the smart speakers to identify and process the voice command of ..."
     publishedDateTime: 2019-12-19T09:50:00Z
@@ -51,6 +38,6 @@ related:
       domain: techworld.com.au
     quality: 0
 
-secured: "0g1QI9sYnnAKE4K7jwU12BA03zgDFccyfq2uUFaV5s8PXa0Fwk6KOv4oqAtBXA+T2OJ0EVTGrltTExDlU7l1Xty8mEk/eHnopSXZEMyEaMwf/y0B59p7S58u8VRdcWSovr25yERZ8LPTRimAJsZvOyxPz2dFgsuidxA9wwoUGDF2vS0UkwczoilhAFA+7PpNkToYr6O/MQm1mxoC757aeAf1XHHkmW9weIoQyD5Ie8XsRiqvUEaWJnS1g1KShS9nXzkQpcw36Warbu0aMrUYTw==;yb6OdE8TLJvqVPoKWfeb8A=="
+secured: "6r2iP+M6cYsg0QGuKc3p2qzY/KQk6DDIrO61zYOptGIstSFrq9YVUJfjLjWE5WzCbVYVyMfRKQ/fpr+v0/IOxbaZhF1/lz27XEvo4/REpb7lf0A6BxIJF3TUkHZmHOrjtZpaYy0uhtubNeTkK2cuoXRf/RivOgkx+4QQV/FmDBQr/tcnFsNxOL9uk2Mo82NWpnxe+eVyywQXB+Eto1oOBx1gyxHekNFamE8TUtC8jR480bhqOk5pYbCO2NWOhDUHqBtilGiShTeiQzDBKBUNOA==;Vro/1MsVWDFUQrmAm2oDcA=="
 ---
 

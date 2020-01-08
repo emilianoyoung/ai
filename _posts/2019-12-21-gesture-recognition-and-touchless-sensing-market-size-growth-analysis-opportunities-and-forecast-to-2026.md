@@ -106,19 +106,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Artificial Intelligence Software Industry Analysis 2019, Market Growth, Trends, Opportunities Forecast To 2024"
-    excerpt: "A New Market Study, titled &ldquo;Artificial Intelligence Software Market Upcoming Trends, Growth Drivers and Challenges&rdquo; has been featured on WiseGuyReports. This report provides in depth study of &ldquo;Artificial Intelligence Software Market&rdquo; using SWOT analysis i.e. Strength, Weakness, Opportunities and Threat to the organization."
-    publishedDateTime: 2019-12-19T08:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-software-industry-analysis-2019-market-growth-trends-opportunities-forecast-to-2024-2019-12-19
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Service Robotics Market to Reach USD 46.13 billion by 2026; Increasing Automation of Routine Tasks to Favor Market Growth: Fortune Business Insights"
     excerpt: "the number of robots have grown three times from previous levels. Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role ..."
     publishedDateTime: 2019-12-19T09:28:00Z

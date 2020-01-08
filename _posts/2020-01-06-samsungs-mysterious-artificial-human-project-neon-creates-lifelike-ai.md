@@ -129,6 +129,21 @@ related:
       - url: https://www.bing.com/th?id=ON.53BFC7B36C787A716EECB79917768A40
         width: 700
         height: 393
+  - title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
+    excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
+    publishedDateTime: 2020-01-08T09:30:00Z
+    sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
+    ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
+        width: 505
+        height: 264
   - title: "Samsung to announce mysterious human-like AI NEON at CES 2020"
     excerpt: "Samsung has been teasing about the unveiling of a human-like AI tech called NEON at the CES next month. Samsung STAR Labs CEO, Pranav Mistry has been tweeting about NEON since the mid of this month. This ‘Human-like” AI tech has been in the works for quite a while now and the company has shared teasers in multiple languages which may hint ..."
     publishedDateTime: 2019-12-26T09:15:00Z

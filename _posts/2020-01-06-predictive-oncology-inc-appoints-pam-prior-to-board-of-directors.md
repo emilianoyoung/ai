@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Predictive Oncology Inc. Appoints Pam Prior to Board of Directors"
-excerpt: "Helomics applies artificial intelligence to its rich data gathered from patient tumors to both personalize ... by providing an evidence-based roadmap for therapy. In addition to its proprietary precision oncology platform, Helomics offers boutique CRO services that leverage its TruTumor™, patient-derived tumor models coupled to a wide range ..."
-publishedDateTime: 2020-01-06T13:00:00Z
-sourceUrl: https://markets.businessinsider.com/news/stocks/predictive-oncology-inc-appoints-pam-prior-to-board-of-directors-1028796181
+excerpt: "Ms. Prior, CPA, 57, is the founder and CEO of Priorities Group, Inc., a provider of CFO services to small and mid-sized businesses. Most recently, Ms. Prior was CFO at Schiller Grounds Care, a privately held lawn equipment manufacturing company;"
+publishedDateTime: 2020-01-06T14:41:00Z
+sourceUrl: https://finance.yahoo.com/news/predictive-oncology-inc-appoints-pam-140010226.html
+ampUrl: https://finance.yahoo.com/amphtml/news/predictive-oncology-inc-appoints-pam-140010226.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/predictive-oncology-inc-appoints-pam-140010226.html
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: /assets/images/organizations/businessinsider.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Healthcare
 
-secured: "wBnswZDFfCJ7LzIcHgG0uWxaXRGalCZ8ny5Rnloqa3662zUHPSocAQNeQqEZxApvSFbMLoCVu6Ha8QHLm7MmXzi//MkjKW7rpczMBIjLP266JYZra8RdBiTo4A/fE54YbDZiGrNmfBhmzzT7RORqXmdHJEVtiPzTgdzN08xNK07INUcH/0p7TFwSlykM5jgbMTf6TEbPHorF9nv0HZOVAhUJRgp2Yj75HjDufx8ekIDYrNDTlliQjeTHPvaye/A3VA0k1vJkuDVHojlgZ+wm0g==;Zez/reaJuy3O9t017P+eFA=="
+secured: "n9WGCxPdtGAnsPvjyriFdWksoJvdoClsREvYGZxWZF0T/apNQt9gAmHjMXXnbGQ3eh3Bi7FNltaKkxS0NVziTUJb2gphxkFXpxTqlcmTZaqazWSg5/z2o0x4U6qWtBrzWkWwq/wkhyVWIA8qgKVTXBoUOM0YJZunM3MCLSfSrzqLTLAbFdlRGvFfWVKwiej6+QMwGk/tK8cb+XSJrOzo9ykcfA7GaiPQST3WlvPbGrlq99f6kUnaZYETK1+wWj+Aec6JHZzUD9rh9c50yvSOPQ==;+44QWOvyxDHtfHRQXKpIdA=="
 ---
 

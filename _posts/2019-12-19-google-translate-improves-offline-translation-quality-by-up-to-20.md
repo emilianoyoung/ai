@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/19/google-translate-improves-offline-tra
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/19/google-translate-improves-offline-translation-quality-by-up-to-20/amp/
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -69,19 +69,6 @@ related:
       name: research
       domain: research-live.com
     quality: 24
-  - title: "University of Tartu developing translation programme with Mozilla Firefox"
-    excerpt: "Mark Fišel, please tell us what this project is about? It all began with language technologists from four universities wanting to do a European Commission-funded research project together on machine translation. One idea was to fit machine translation into a web browser. Thanks to a contact person at the University of Edinburgh, we asked ..."
-    publishedDateTime: 2019-12-19T08:45:00Z
-    sourceUrl: https://news.err.ee/1015468/university-of-tartu-developing-translation-programme-with-mozilla-firefox
-    type: article
-    provider:
-      name: ERR News
-      domain: news.err.ee
-    quality: 23
-    images:
-      - url: https://s.err.ee/photo/crop/2019/12/05/717549he319t24.jpg
-        width: 672
-        height: 475
   - title: "Language Translation Software & Services Market From 2020 To 2029: Manufacturers Growth Analysis, Regions, Types, End Users and Applications"
     excerpt: "Global language translation software & services market segmentation by component: Solution, Rule-Based Machine Translation, Statistical-Based Machine Translation, Hybrid Machine Translation, Services, Translation, Localization, Interpretation, Transcription, Others. Global language translation software & services market segmentation by ..."
     publishedDateTime: 2019-12-23T11:50:00Z

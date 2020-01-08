@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Samsung unveils new artificial human avatar"
-excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
-publishedDateTime: 2020-01-07T21:22:00Z
-sourceUrl: https://www.khmertimeskh.com/50677524/samsung-unveils-new-artificial-human-avatar
+title: "Study allows artificial neural connection to regain control of paralysed hand"
+excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
+publishedDateTime: 2020-01-08T09:29:00Z
+sourceUrl: https://www.deccanchronicle.com/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+ampUrl: https://www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
 type: article
-quality: 24
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Khmer Times
-  domain: khmertimeskh.com
+  name: Deccan Chronicle
+  domain: deccanchronicle.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.6AB13BA742F546ED158CD85A26B4653C
+  - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
     width: 700
-    height: 410
-    title: "Samsung unveils new artificial human avatar"
+    height: 392
+    title: "Study allows artificial neural connection to regain control of paralysed hand"
 
 related:
   - title: "Neon's CEO explains artificial humans to me and I'm more confused than ever"
@@ -69,21 +71,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
         width: 700
         height: 393
-  - title: "Study allows artificial neural connection to regain control of paralysed hand"
-    excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
-    publishedDateTime: 2020-01-08T09:29:00Z
-    sourceUrl: https://www.deccanchronicle.com/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    ampUrl: https://www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 56
-    images:
-      - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
-        width: 700
-        height: 392
   - title: "NEON showcases their first Artificial Human at CES 2020"
     excerpt: "The artificial intelligence can do and will do more than just giving weather updates and ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What do you guys think of the NEONs? Will we have such a future? Let us know what you ..."
     publishedDateTime: 2020-01-07T07:27:00Z
@@ -138,6 +125,19 @@ related:
       - url: https://www.bing.com/th?id=ON.5F92DD86C1E8BC42E9CB4816237E31EB
         width: 700
         height: 525
+  - title: "Samsung unveils new artificial human avatar"
+    excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
+    publishedDateTime: 2020-01-07T21:22:00Z
+    sourceUrl: https://www.khmertimeskh.com/50677524/samsung-unveils-new-artificial-human-avatar
+    type: article
+    provider:
+      name: Khmer Times
+      domain: khmertimeskh.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.6AB13BA742F546ED158CD85A26B4653C
+        width: 700
+        height: 410
   - title: "How Samsung's 'Artificial Human' Could Eventually Take Your Job"
     excerpt: "And as great as artificial intelligence might be, there's no guarantee that it'll work as well as a human being. But alas, Samsung is moving towards the concept. And soon enough, we might be seeing \"artificial humans\" transform the office. The opinions expressed here by Inc.com columnists are their own, not those of Inc.com."
     publishedDateTime: 2020-01-06T18:14:00Z
@@ -183,6 +183,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "RlZi7K0RcaXL8p4WjPX1y9nS6rvGgUkBguhm7HYmojtE7ic/V+1U7o4s3D7RoImN0dKstGdg7tnF81D8z60zq49S8l6OqZowfDx/swMNbWosqO9k0iOHfEUZ2nPZvndlKwEqOxLbyH7hWc/cCWb3ED4BGST8G2w7CgDuH40tspmQWaZziMcBD16tZAl3dI5C5wTJD2itFNADsemAL/GwyC3a7zHxhpmLFp4dfd5dXLqbGMY+E+7vIevstsKbOh3Q+5YPY4swdrUKUo3bdmQ5Sg==;uXLOh1NVz5c0cm9aSucoWg=="
+secured: "YuFCXWcbN4Ao348uvIfAanr2If8tfLz9umwFFkhKpC9ypCDj9Z0USSDFjMWpPWVxuUXqmfbi621vu6z+VBO1FXflh7/zBBZlu4FXwGXH0q+UtWsFE9/SIjBhPaOPhQLiTdcUEzNZ718eIpeyGAQMVZc/8Y0dhgO4mYmz9JZaKuQ94k7djoMmsF3iT88tgkW1/z9EPdIZTAa9rKJZ2jV88GQUxmlMFGgJeFrisuX9fc81lCalhHWTOVCMkdH6VNRqQtzIW7Aylc5onodKsfwViw==;Ldf300w7ipS3iq+crGm0/Q=="
 ---
 

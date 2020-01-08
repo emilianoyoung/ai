@@ -128,6 +128,21 @@ related:
       - url: https://www.bing.com/th?id=ON.53BFC7B36C787A716EECB79917768A40
         width: 700
         height: 393
+  - title: "CES 2020: Samsung unveils 'Artificial Human' project Neon; AI demonstrates human-like emotions, intelligence"
+    excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
+    publishedDateTime: 2020-01-08T09:30:00Z
+    sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
+    ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 40
+    images:
+      - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
+        width: 505
+        height: 264
   - title: "Samsung's mysterious 'artificial human' project Neon creates lifelike AI"
     excerpt: "Samsung has developed artificial intelligence avatars that are virtually indistinguishable from real humans, according to leaked footage of the firm’s secretive Neon project. Developed by Samsung Technology and Advanced Research Lab in the US,"
     publishedDateTime: 2020-01-06T19:34:54Z

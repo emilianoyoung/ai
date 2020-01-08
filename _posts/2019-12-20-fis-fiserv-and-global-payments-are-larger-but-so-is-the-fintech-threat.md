@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T05:34:00Z
 sourceUrl: https://www.paymentssource.com/news/fis-fiserv-and-global-payments-are-larger-but-so-is-the-fintech-threat
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,38 +22,6 @@ images:
     width: 1200
     height: 630
     title: "FIS, Fiserv and Global Payments are larger, but so is the fintech threat"
-
-related:
-  - title: "What does the next decade have in store for UK fintech?"
-    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
-    publishedDateTime: 2019-12-20T05:14:00Z
-    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
-    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 44
-    images:
-      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
-        width: 960
-        height: 640
-  - title: "Tech will drive change in health care throughout next decade"
-    excerpt: "The decade ahead will be filled with change for the health care industry. Here is a look at what experts see as the biggest innovations ... “Not only for HIV, but for other infectious diseases, cancer and much more.” Artificial intelligence and other technology will play a larger role in advancing therapies, many predict."
-    publishedDateTime: 2019-12-26T16:47:00Z
-    sourceUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.html
-    ampUrl: https://www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    cdnAmpUrl: https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/seattle/news/2019/12/26/tech-will-drive-change-in-health-care-throughout.amp.html
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.550B47382B63CC1BC73E44AC81A5D556
-        width: 700
-        height: 393
 
 secured: "hRbe/S8xK9l9MBVXYx5qDwtJcPR42MQgiUfUwGUsd9lD4h1rke19rSJEjnlMWXduWMfOo7qYjcGmDtC21RQgq+DXebIXAbi+UChIpQdNfuknzrP/njmYEmEtfGQ8ehSJXejBNcXqkGQVr6NqSvGH8khnqNX5WFAxLDDiVEt+DwZYLdTdpCJpzyYcga5p6mdm7fDDy+DS4/8JvjZnb7U1Q0j3ktgc4L98EcV5iuu3gKZGocEvLN8h4gqk5I7MMLCVLVX9B1/vtV3bpYkSFFORmQ==;a6vM0Oydl1cQRibqtA1keQ=="
 ---

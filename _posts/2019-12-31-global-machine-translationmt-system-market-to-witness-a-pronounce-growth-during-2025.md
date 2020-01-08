@@ -57,6 +57,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Machine Learning as a Service Market is set to Experience Revolutionary Growth by 2025| Google, Microsoft, IBM, Amazon Web Services"
+    excerpt: "Advance Market Analytics released a new market study on Global Machine Learning as a Service Market with 100+ market data Tables, Pie Chat, Graphs & Figures spread through Pages and easy to understand detailed analysis."
+    publishedDateTime: 2019-12-17T13:38:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-is-set-to-experience-revolutionary-growth-by-2025-google-microsoft-ibm-amazon-web-services-2019-12-17
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
     excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
     publishedDateTime: 2019-12-26T11:07:00Z

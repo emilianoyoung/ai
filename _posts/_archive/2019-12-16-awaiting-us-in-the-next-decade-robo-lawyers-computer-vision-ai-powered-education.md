@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Awaiting us in the next decade: Robo lawyers, computer vision, AI-powered education"
-excerpt: "This takes time, and more often than not, time is of the essence when it comes to cancer. Computer vision is everywhere. It’s an integral part of AI-powered smartphone cameras that can recognize and adapt to photographed objects and sensors that help autonomous cars and robots navigate their environment. Smart cities use it to monitor traffic ..."
+excerpt: "Recent innovations are set to spread through society in the years ahead As 2019 draws to a close, I’d like to review notable technological achievements, trends and breakthroughs that have the most potential to define the 2020s."
 publishedDateTime: 2019-12-16T10:10:00Z
 sourceUrl: https://www.marketwatch.com/story/awaiting-us-in-the-next-decade-robo-lawyers-computer-vision-ai-powered-education-2019-12-16
 ampUrl: https://www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
 cdnAmpUrl: https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9966E008-1DBD-11EA-87D1-F95C118C2ABD
 type: article
 quality: 98
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -45,7 +45,22 @@ related:
       - url: https://www.bing.com/th?id=ON.99E0FAA6EB4E39571C96DCDCA74731E2
         width: 700
         height: 525
+  - title: "What does the next decade have in store for UK fintech?"
+    excerpt: "“In addition, regulations and technology have to adapt to ensure that we can live up to the promise of fintech and AI’s possibilities. This will affect any area of banking, from customer service to risk mitigation, including fraud detection.” Speaking of regulation, regtech will increase in relevance and prominence in the global financial ..."
+    publishedDateTime: 2019-12-20T05:14:00Z
+    sourceUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/
+    ampUrl: https://www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+    cdnAmpUrl: https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/what-does-the-next-decade-have-in-store-for-uk-fintech/amp/
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: https://www.cityam.com/wp-content/uploads/2019/12/48666792132_c2083b1c9f_k-960x640.jpg
+        width: 960
+        height: 640
 
-secured: "mREy7bAufZXuLv9sJe94X4HxpXaCb+1kUMwYJ5D4dsGQU53gNkDFYvZ9TTXymx7B8yNwHVXrJWGGP+ynyU8De28HjxOliWn8lOfi6aw0IPoUmy9yb+KWD4rhqH6KR1BLgmDgvRltOuHRJmlNJDYF2Ue/h+cJWXjHBi0EeTTFytsL1RcKr8dBnrGGtzRFUlIM+bt6u/YXi14loojRX0sa/F02YD0YGkifKc4DgmcAwF8ccIYcaXawG7ZCsM+bQvG50ZLQPyAOnOB2gsp4F/anuQ==;VilOAkukFva+PngZhBV0UQ=="
+secured: "n76DimPFR6p5grzp7NkfN5M/c+6Cy9GDEj9Pgj/Cc9FjrVXZyv6XZiRSJoYxd87cMIDf2o8VGWukkHtD4dgiz/1H3dxXP2wGUf3QrpfzvHOwZyKbLLcF4esMLATIS9GBHq3NF0BnmfehAVtNromXHp8WGxcsVFVtvx+inBvzrH7ZLPU0aCqdKxZ3fmX//Ujkhx9uhVtYZ3QWV7EzOEw5m2PpWPop4laBvjo4yunMaKst46NI2vGcqIIqqUsM0kWtJ4ucYhxAIcbSQ5oggU2I2g==;HTuRwm6+bCaEovoTHF0Qhg=="
 ---
 

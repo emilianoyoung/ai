@@ -71,6 +71,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BE6F8508CF75D91D136434F98DE0F468
         width: 700
         height: 393
+  - title: "Study allows artificial neural connection to regain control of paralysed hand"
+    excerpt: "However, new research showed that an artificial neural connection (ANC ... The researchers will continue to investigate whether extended use of an ANC will enhance the activity of spared neural networks and facilitate functional recovery so that patients will be able to regain voluntary control of paralysed body parts even if they discontinue ..."
+    publishedDateTime: 2020-01-08T09:29:00Z
+    sourceUrl: https://www.deccanchronicle.com/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    ampUrl: https://www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/science/science/080120/study-allows-artificial-neural-connection-to-regain-control-of-paralys.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 56
+    images:
+      - url: https://www.bing.com/th?id=ON.9C35DD909968A8A101607F2EFC611D2F
+        width: 700
+        height: 392
   - title: "Samsung introduces AI-powered ‘artificial human’"
     excerpt: "debuted on Tuesday at the CES 2020 in Las Vegas with its ‘Artificial Human’ project called, Neon. Project Neon makes digital human avatars look extremely real and the company claims that the avatars are able to “converse and sympathize” like real people."
     publishedDateTime: 2020-01-07T08:31:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.nbcnewyork.com/news/local/ny-school-starts-using-facial-reco
 cdnAmpUrl: https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/local/ny-school-starts-using-facial-recognition-tech-to-look-for-threats-upsetting-some/2254592/?akmobile=y&akdevice=androidphone&sslEnabled=true&amp
 type: article
 quality: 153
-heat: 383
+heat: 373
 published: true
 
 provider:
@@ -315,19 +315,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8D0FBBC08D69777EF7537F93F8D2B50A
         width: 700
         height: 367
-  - title: "China Facial-recognition Case Puts Big Brother On Trial"
-    excerpt: "Facial-recognition technology has become embedded in China, from airports to hotels, e-commerce sites and even public toilets, but a law professor had enough when asked to scan his face at a safari park. Guo Bing took the wildlife park to court, raising the temperature in a growing debate about privacy and abuse of personal data in an ..."
-    publishedDateTime: 2020-01-08T04:58:00Z
-    sourceUrl: https://www.ibtimes.com/china-facial-recognition-case-puts-big-brother-trial-2898340
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D173C78D8CB4BDC3E35C42C7BE4007B0
-        width: 700
-        height: 468
   - title: "Facial Recognition Market is estimated to witness the highest growth during the forecast period…"
     excerpt: "The Global Facial Recognition Market research study provides a comprehensive 360° view and insights, outlining the major outcomes of the industry. These essential insights assist the decision-makers in formulating better business plans and make informed ..."
     publishedDateTime: 2020-01-06T07:54:00Z

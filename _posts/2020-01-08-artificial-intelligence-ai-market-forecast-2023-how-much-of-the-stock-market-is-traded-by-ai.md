@@ -1,11 +1,11 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
-excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
-publishedDateTime: 2020-01-07T11:43:00Z
-sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
+title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
+excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
+publishedDateTime: 2020-01-08T07:54:00Z
+sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
 type: article
-quality: 82
+quality: 75
 heat: -1
 published: false
 
@@ -19,14 +19,15 @@ provider:
 
 topics:
   - AI
-  - AI in Robotics
-  - AI Hardware
+  - AI in Autos
+  - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
     width: 1200
     height: 630
-    title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"
@@ -55,15 +56,15 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI"
-    excerpt: "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),"
-    publishedDateTime: 2020-01-08T07:54:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08
+  - title: "Global Artificial Intelligence (AI) Chipset Market is on Rise Due to Rapid Developments in Big Data Analytics"
+    excerpt: "The applications of AI chipsets are found in smartphones, robotics, smart wearables, automobiles, security systems, and medical imaging. The smartphone segment dominated the market with near 30% of the market share in 2017 and is expected to sustain its lead with a 29.33% CAGR over the review period. Artificial intelligence chipsets are adopted ..."
+    publishedDateTime: 2020-01-07T11:43:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipset-market-is-on-rise-due-to-rapid-developments-in-big-data-analytics-2020-01-07
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 82
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
@@ -194,6 +195,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "R0wXibVXt66c3BMjGZLGAyvyA8YOABfB7Ttge9NHGwlr7C30GkHS12E6W+/3X1JI7azabRyRRcEkoFhtUVSc4UkVDySkpYbFrGNyy9eXkr2xGKrJQasnQSn7t8qfBMZ7URVM7qjZ4PHq3Nk5e4BIsO7QM7OqomLLmwj7IpByEz44M6nm2yrgQxq0rwcINNTclh3MZc2bBVRZRyU+MBS0Jjj1Qd6pv2FxyAWUZwzVzGzI7TCbmMzwBlI5J1tfHpsHvCo4+bdKrRJRBZXq1gimWA==;VeukE24W3buDXRw7UgAQcw=="
+secured: "88+MpXXpcEhUbxJOwbH57ibXPKQWxwfFfgUFHpdaY1/iScGbhNQdaoZXPL7EgC9wyc8BjYAzKzmi0Np28sAwAmVzKrjJ+PzRXpBl6yKMEs1RcXYgtbtKr8LRm1qRyalyq21GOmqYxUA2/uxvCx/hCxBIJ/FHvXxK/uGGIjCbHjxlyrxwSZV/WjU9v2Pu7AKa9QdRPJzGgzqx95e1gj8m5uqk4SbjpCBfUqk5R24xahmJrEzyjhxMetgPIg6rSlXBN3RXZX52G9QipcdbGJyeNw==;LNeZJeYaCyZ48NXLYvEXhA=="
 ---
 
