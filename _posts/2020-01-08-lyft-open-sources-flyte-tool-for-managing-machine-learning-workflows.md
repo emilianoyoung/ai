@@ -55,18 +55,20 @@ related:
         width: 700
         height: 341
   - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track, reproduce and collaborate on successful machine learning (ML) and deep learning (DL) experiments. Some of the main challenges Trains Agent is built to streamline include: Resource offloading Personalized ..."
-    publishedDateTime: 2020-01-07T12:00:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+    excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
+    publishedDateTime: 2020-01-07T14:38:00Z
+    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
+    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 32
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 52
     images:
-      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
-        width: 700
-        height: 368
+      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
+        width: 400
+        height: 145
 
 secured: "cyT4ZNOy0dLe6O6hi2Ygc7eXI2JDMu6YtJG+5Bh7xc6zxclRe1d9I6AcmS5WgUAdhNd4niq7wmp0tiDeHkuUqJO4anebmPCiPXUEO5eHCECXoZL/15ha/MoFj+NNWoBRyxlLM08WytULleHOr9gDDLwmpQpD2+79oCwgxk6mRWAp18uI3nfhia/eLsGE+0VSSiAO+XQRzTAbyGJ90IXbeZxG5hnECGu4ijvwN+qrT9fTMp8RINRw2PXtBjEHRQW1r2CuAOXn6+wl7iOboDXQ8Q==;7D+J70B7lgjaHlWi6c5WCg=="
 ---

@@ -116,21 +116,21 @@ related:
       - url: https://www.bing.com/th?id=ON.642B412B6F1C1A67B02C37D4737DF539
         width: 700
         height: 390
-  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
-    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance.IANS | January 08, 2020, 09:09 IST Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile ..."
-    publishedDateTime: 2020-01-08T03:39:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+  - title: "Intel unveils next-gen mobile chip Tiger Lake"
+    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed ‘Tiger Lake’ built on Intel’s 10nm+ process. The Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance. According to Intel Executive Vice President Gregory Bryant, Tiger Lake is designed to bring Intel ..."
+    publishedDateTime: 2020-01-08T06:56:00Z
+    sourceUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece
+    ampUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.F24F90E84777322FBF5BE67EA16C62C5
-        width: 700
-        height: 379
+      - url: https://www.bing.com/th?id=ON.47CB08A5D099CB9D6647994D866F7E01
+        width: 615
+        height: 384
   - title: "Intel previews the first Xe-based discrete GPU"
     excerpt: "Intel's presence at CES 2020 hasn't been a significant source of excitement among the PC community. Looking at its event schedule you can see a selection of conferences about AI and automotive type projects. However, we did see the Ghost Canyon NUC, Comet Lake-H processors, and a Tiger Lake processors tease yesterday. The iconic chipmaker has ..."
     publishedDateTime: 2020-01-07T12:41:00Z

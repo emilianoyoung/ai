@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
-excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance.IANS | January 08, 2020, 09:09 IST Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile ..."
-publishedDateTime: 2020-01-08T03:39:00Z
-sourceUrl: https://cio.economictimes.indiatimes.com/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-ampUrl: https://cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+title: "Intel unveils next-gen mobile chip Tiger Lake"
+excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed ‘Tiger Lake’ built on Intel’s 10nm+ process. The Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance. According to Intel Executive Vice President Gregory Bryant, Tiger Lake is designed to bring Intel ..."
+publishedDateTime: 2020-01-08T06:56:00Z
+sourceUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece
+ampUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
+cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.F24F90E84777322FBF5BE67EA16C62C5
-    width: 700
-    height: 379
-    title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
+  - url: https://www.bing.com/th?id=ON.47CB08A5D099CB9D6647994D866F7E01
+    width: 615
+    height: 384
+    title: "Intel unveils next-gen mobile chip Tiger Lake"
 
 related:
   - title: "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU"
@@ -158,6 +158,6 @@ related:
         width: 280
         height: 158
 
-secured: "DHQFEyGNxdN6LcXBFjBbShu/5DwM8a/kQBuqPJ21HWJx3y5/k4OnSwQo/D/uJ/joQMdU/2WP2xM8bxHWuoNVHR3M/Np6YCvjqngePdoa1Vdq1rU74QfvM8YvZBKcDwAXbU8rYx6xSpLqEBB8tZpSjPQUrrR8Crilj5k1kxPpMXFPTGF3bNBMggE0Bul/8jaMz8aNwnQZ9jAgdhFihfBpV8QpZoqnP+54mKN16IBAcq5Ky4Cqp10jsjnZfYZKfkbuBOlV3il45oM+5jM7nAOFaQ==;709PIL9x/78GQMC+5HuZow=="
+secured: "F/ZOfCS28mndcXJDUxOiJOW3UcTQDuih9oOs0Es8AZFpNwXqjDEWb6HCzfkA0iVmVG+ScrJXJ3b/ao9utAaeD2yOITWulXVNU+0ioF6r0BiAKbFiT8Meouq7cKtAuaKUwVcQ/IzVpBtp311TPse9s84MpK6CszFpSyFMW4XY/eueK1JdXpnoPAlfJiwdnOsdFMTFNl700aJok1vpoI6U0D5UED9ATq0NjgoZIZyv9V140nw2B6ujQcvS8GK8n72iW2xJkACwNPg8wAeo4wQL9w==;Snhm59RRpOiY2YREjNof5Q=="
 ---
 

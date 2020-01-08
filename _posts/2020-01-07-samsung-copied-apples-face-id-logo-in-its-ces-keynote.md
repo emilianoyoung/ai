@@ -24,19 +24,19 @@ images:
     title: "Samsung copied Apple’s Face ID logo in its CES keynote"
 
 related:
-  - title: "LG’s CES press conference tried to convince us of its AI future"
-    excerpt: "In its press conference at CES today, LG presented its upcoming lines of TVs and kitchen appliances for the coming year. This year, the emphasis was on AI: in fact, the first 20 minutes of the presentation pushed a speculative look at the future of AI as a consumer service."
-    publishedDateTime: 2020-01-06T19:42:41Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/lg-e2-80-99s-ces-press-conference-tried-to-convince-us-of-its-ai-future/ar-BBYG0dA
+  - title: "Samsung uses strikingly similar images to Apple's Face ID and Touch ID icons in its CES keynote"
+    excerpt: "While talking about its own biometric technology, Samsung took a bite out of its rival Apple's design palette."
+    publishedDateTime: 2020-01-08T05:52:00Z
+    sourceUrl: https://www.businessinsider.com/samsung-copied-apple-face-id-touch-id-icon-ces-keynote-2020-1
     type: article
     provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 37
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
     images:
-      - url: https://www.bing.com/th?id=ON.404372D3FAF93CF42F891DA5AD528964
-        width: 700
-        height: 367
+      - url: https://image.businessinsider.com/5e154fceb2e66a5d7672cdb3?width=1200&format=jpeg
+        width: 1200
+        height: 600
 
 secured: "Te4x6+98VdpIDTtWW9qvp/4L0Of9vP/oRB79V59gGfc0rpUVI3lcgVnnAuQE5H0y/zTQpqmftaM3pTeq4fE9Xp8QJJE1rewXKvcrV2fh0/WHYK3a722fJSXIIBCrL+RuAhSkYpH8zYjiu5qw2fwsYfPFysJH2qeAm3wJ6MAKWLvpmQ1q0R/M9hoLZvvnx2dgfDkBn6yM8Z8wps4OM1/4SvRxxVP/s/bFuhv/oywYfTOFjtmg1SMzaYeT8PhUNvy7EwKd9khl0nadMeeYJ5psMA==;qlH/4a6NoKIjzPvoDuPeQA=="
 ---

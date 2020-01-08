@@ -256,19 +256,6 @@ related:
       - url: https://www.bing.com/th?id=ON.05381EA7CA7E129D71951D6FADC6E451
         width: 700
         height: 350
-  - title: "Self-driving vehicles will render transport landscape obsolete"
-    excerpt: "Of all the pending legislation to be announced by Government Ministers in 2019, up there on the list of least expected must be proposed new legal provisions to allow autonomous, self-driving cars to begin operation on Irish public roads. However, there it is. Making room for driverless cars is firmly on Minister for Transport Shane Ross’s to ..."
-    publishedDateTime: 2019-12-19T06:40:00Z
-    sourceUrl: https://www.irishtimes.com/business/technology/self-driving-vehicles-will-render-transport-landscape-obsolete-1.4119602
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: https://www.irishtimes.com/image-creator/?id=1.4119601&origw=1136
-        width: 600
-        height: 315
   - title: "General Motors Might Soon Deploy a Self-Driving Car with No Steering Wheel"
     excerpt: "The US NHTSA is reviewing petitions to allow a limited number of low-speed, highly automated delivery vehicles without human occupants on American roads."
     publishedDateTime: 2019-12-24T08:48:00Z

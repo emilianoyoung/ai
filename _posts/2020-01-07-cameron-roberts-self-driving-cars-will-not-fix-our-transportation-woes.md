@@ -215,6 +215,19 @@ related:
       - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
         width: 1120
         height: 629
+  - title: "Bosch to offer lower-cost lidar for self-driving cars"
+    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+    publishedDateTime: 2020-01-08T07:06:00Z
+    sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
+        width: 700
+        height: 393
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z

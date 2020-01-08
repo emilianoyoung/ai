@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T16:15:00Z
 sourceUrl: https://www.nature.com/articles/s41551-019-0487-z?error=cookies_not_supported&code=e89ff1a0-d8f9-42f7-b965-6e899f5b659f
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,32 @@ images:
     title: "Detection of anaemia from retinal fundus images via deep learning"
 
 related:
-  - title: "Pixelmator Pro: Image magic via machine learning"
-    excerpt: "Last week, however, Pixelmator Pro introduced a breakthrough feature called ML Super Resolution that uses machine learning to increase the resolution (size) of an image without losing (much) detail or introducing unwanted artifacts. The blog post announcing the new feature proudly proclaimed, “Yes, zooming and enhancing images like they do in ..."
-    publishedDateTime: 2019-12-19T06:33:00Z
-    sourceUrl: https://www.houstonchronicle.com/business/drmac/article/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
-    ampUrl: https://www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
-    cdnAmpUrl: https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/drmac/amp/Pixelmator-Pro-Image-magic-via-machine-learning-14915990.php
+  - title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
+    excerpt: "The performance of the chosen features was then analysed through multivariate, and univariate machine learning models, with generalized linear models (GLM) having the best performance. Due to the high correlation between NISS and PS14 and the fact that they aggregate complex information such as gravity of the wound to estimate the extent of ..."
+    publishedDateTime: 2019-12-19T10:40:00Z
+    sourceUrl: https://www.nature.com/articles/s41597-019-0337-6
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 39
+      name: Nature
+      domain: nature.com
+    quality: 21
+    images:
+      - url: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-019-0337-6/MediaObjects/41597_2019_337_Fig1_HTML.png
+        width: 685
+        height: 416
+  - title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
+    excerpt: "The identified urinary biomarkers could be used to develop a point of care test for UTI but require further validation. This is one of the first studies to use machine learning methods to select clinical features and urinary immunological markers to predict culture results for uncomplicated UTI in primary care. We found that cloudiness of urine ..."
+    publishedDateTime: 2019-12-23T10:18:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-55523-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.7029E9AE32C9202E1A022036C6534D37
+        width: 685
+        height: 514
 
 secured: "hLm9ovCxQAM9J5I12mfUmfgAmfCdDm4wVhU35MJiBYIlcUYzIQExxoScX7FuNVpRJJmxvh/ByEK2pezOgGDYoDz3mphtCXAfQkxThpqr/UwwlIC67lHYhMdf6UhO0vbCt/rETvxvKNPZ2kPa2PTOzB33mgno9mCouST9CeV1O/CLpa1v3Goe8gJRnUs6wVce5dBEkJjeLgjzZZu0EoMp6CVcasgDIbAxGO1NpKl2jE/YEW6IloEBKu5alCdBxF70zkzXpH7X0g9lmNaF8TwKeQ==;KVxY3jJKj1CkdGHWEbqBgg=="
 ---

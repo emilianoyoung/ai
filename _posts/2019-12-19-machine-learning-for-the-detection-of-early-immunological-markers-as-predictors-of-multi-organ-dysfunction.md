@@ -24,19 +24,32 @@ images:
     title: "Machine learning for the detection of early immunological markers as predictors of multi-organ dysfunction"
 
 related:
-  - title: "Bochum team wins second place in machine-learning competition"
-    excerpt: "With their algorithm for material-property prediction, Dr. Yury Lysogorskiy and Dr. Thomas Hammerschmidt of the Interdisciplinary Centre for Advanced Materials Simulation Icams of Ruhr-Universität Bochum (RUB) won the second place in an international competition on machine learning. The secret of their success was the combination of data ..."
-    publishedDateTime: 2019-12-19T15:35:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2019-12/rb-btw121919.php
+  - title: "Detection of anaemia from retinal fundus images via deep learning"
+    excerpt: "Owing to the invasiveness of diagnostic tests for anaemia and the costs associated with screening for it, the condition is often undetected. Here, we show that anaemia can be detected via machine-learning algorithms trained using retinal fundus images, study participant metadata (including race or ethnicity, age, sex and blood pressure ..."
+    publishedDateTime: 2019-12-23T16:15:00Z
+    sourceUrl: https://www.nature.com/articles/s41551-019-0487-z?error=cookies_not_supported&code=e89ff1a0-d8f9-42f7-b965-6e899f5b659f
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 39
     images:
-      - url: https://www.eurekalert.org/multimedia/pub/web/220164_web.jpg
-        width: 1440
-        height: 960
+      - url: https://www.bing.com/th?id=ON.19C51A1405BE85B8D7B18A025EF1CA5A
+        width: 685
+        height: 657
+  - title: "Identification of clinical and urine biomarkers for uncomplicated urinary tract infection using machine learning algorithms"
+    excerpt: "The identified urinary biomarkers could be used to develop a point of care test for UTI but require further validation. This is one of the first studies to use machine learning methods to select clinical features and urinary immunological markers to predict culture results for uncomplicated UTI in primary care. We found that cloudiness of urine ..."
+    publishedDateTime: 2019-12-23T10:18:00Z
+    sourceUrl: https://www.nature.com/articles/s41598-019-55523-x
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 13
+    images:
+      - url: https://www.bing.com/th?id=ON.7029E9AE32C9202E1A022036C6534D37
+        width: 685
+        height: 514
 
 secured: "sV0Ia0su1m6uVRmgkMpgjsqJ6iIiLkGwDs8BIiksGw0Zfg/5GG1yG3rdwKsf2gu++eyLnCwCbZqxM+vAAH9wlIJglMf1l41303U0GOiSVX2l0gj2OTUBJnVZAXLf3gYrcPlpYeyImza8+9t5N8bc9TifDO4+ixKGhggHar+m6jJ7fLRMOL72ZjnYuA16n/UvIPtTQH62Wm0SAnSasXR+bgHJtjPJng9D3q5jGPdXriw81NHBfUjssj7FLj4uEntfJMK3uF58QvL2l1UFLXpEeQ==;P37A26bIL0pe3FhzeFOPyQ=="
 ---

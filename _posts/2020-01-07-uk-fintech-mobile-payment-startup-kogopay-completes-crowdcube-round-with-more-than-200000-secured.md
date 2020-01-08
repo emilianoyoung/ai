@@ -25,6 +25,21 @@ images:
     height: 436
     title: "UK Fintech Mobile Payment Startup KogoPAY Completes Crowdcube Round With More Than £200,000 Secured"
 
+related:
+  - title: "FinTech KogoPay secures £200k in crowdfunding round on Crowdcube"
+    excerpt: "The FinTech will also utilize the funding in improving its customer experience and efficiency using AI. Established in 2018, KogoPAY is a FinTech that provides a mobile payment app and aims to deliver instant transactions between Europe and Asia and local ..."
+    publishedDateTime: 2020-01-08T07:58:00Z
+    sourceUrl: https://ibsintelligence.com/ibs-journal/ibs-news/fintech-kogopay-secures-200k-in-crowdfunding-round-on-crowdcube/
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0EB613B1CAF3B6738ED483B84360514B
+        width: 200
+        height: 200
+
 secured: "jCKeSzAorPrZ0Gyk5f+Y7rckazc1RsEQI3BCnzGUpnVe+dyuleQ7gYYQUfP56d9tItTTIvFg7R7aYFssOFEedIABQB68K6K+MSu+T33V3cFh85CcwWvB9qSoRylRyrx3bGbm/JVJb56HC7JwQ6qe3cdsLB0Wips+S53QgaNKLzQKv/JQkITXaCP9gW6+yG9V4aoVoLjEjM3QUCaew4nPtjWb6eaGZ6jqa2kC8zwsLusw+qJgmZuH5bhfG5R4mbZFGUYfOKRmxiDitC4jKbWMiQ==;HZuXvv3b0ZE5sZJxdF+DmQ=="
 ---
 

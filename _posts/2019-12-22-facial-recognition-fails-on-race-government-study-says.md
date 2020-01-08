@@ -86,21 +86,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "It's Hard to Ban Facial Recognition Tech in the iPhone Era"
-    excerpt: "After San Francisco in May placed new controls, including a ban on facial recognition, on municipal surveillance, city employees began taking stock of what technology agencies already owned. They quickly learned that the city owned a lot of facial recognition technology—much of it in workers’ pockets. City-issued iPhones equipped with Apple ..."
-    publishedDateTime: 2019-12-19T07:00:00Z
-    sourceUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/
-    ampUrl: https://www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/hard-ban-facial-recognition-tech-iphone/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: https://media.wired.com/photos/5dfa60016abd1f00080da871/master/pass/Biz-manonstreet-1002774792.jpg
-        width: 2400
-        height: 1600
   - title: "U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
     publishedDateTime: 2019-12-19T23:39:00Z

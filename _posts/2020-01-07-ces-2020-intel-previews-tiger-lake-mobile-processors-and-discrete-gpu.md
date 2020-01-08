@@ -105,21 +105,21 @@ related:
       - url: https://www.bing.com/th?id=ON.642B412B6F1C1A67B02C37D4737DF539
         width: 700
         height: 390
-  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
-    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance.IANS | January 08, 2020, 09:09 IST Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile ..."
-    publishedDateTime: 2020-01-08T03:39:00Z
-    sourceUrl: https://cio.economictimes.indiatimes.com/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
-    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+  - title: "Intel unveils next-gen mobile chip Tiger Lake"
+    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed ‘Tiger Lake’ built on Intel’s 10nm+ process. The Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance. According to Intel Executive Vice President Gregory Bryant, Tiger Lake is designed to bring Intel ..."
+    publishedDateTime: 2020-01-08T06:56:00Z
+    sourceUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece
+    ampUrl: https://www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/gadgets/intel-unveils-next-gen-mobile-chip-tiger-lake/article30511145.ece/amp/
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.F24F90E84777322FBF5BE67EA16C62C5
-        width: 700
-        height: 379
+      - url: https://www.bing.com/th?id=ON.47CB08A5D099CB9D6647994D866F7E01
+        width: 615
+        height: 384
   - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
     excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
     publishedDateTime: 2020-01-07T01:49:00Z
@@ -162,6 +162,6 @@ related:
         width: 280
         height: 158
 
-secured: "DMwae6Qw0xQDHKhOAiX3EI0DZm8evAzMrqE2bbsxz1W+F4CSVRaMvrcV9GqJayoQ1SpfxehHyhr75RQ1V6HV70EfnEaCxhxx5LTzwvrY1B1Y2a60/PJ/a9EnpmVfJUje2xMpfaE1KxGR8A9WiOZaHotelTp3je6hIHnh/EkogUz5Cjt0OtlTmxeVVyLB2MMDTWya92NG3SEPtUjYD4otjAMH2M3fD9YRQ7BkQMoePxMz4VQjHu3zuZiV+Hwc+5q7DXJ+cuFUkR/z31JG/q3SvA==;5ORvsH0IVbjfFne+i9FRGw=="
+secured: "Ybaa3vB5+O0mAO+q4GQO5U61AwalfS+zvJ5jqiobQ0Xv/qeB3Nin0RuNjrMXTMMrU4+Es6xIIF00hoLtd3+OwfVdJmabZND0+C8WU/1EbP+eR4yK+UqlGJPuf4lsi3gbzCf2vZNc7NNyQhrw3UDM37zLgZomoRhEfCvZesn3z7nEmzYSpWLqUH5hT03r1geqdugg6nr0mIGu2NZfqBmNE+frDvdmFkRktPQh8Au+1emPXyF5rv+FycFZTuSVRnxcT0jcJzS1qadJHSlZ97x6gg==;EYJQVW1a+A/JCCk/22j4CA=="
 ---
 

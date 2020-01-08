@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
-excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
-publishedDateTime: 2020-01-07T16:42:00Z
-sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
-cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+title: "Bosch to offer lower-cost lidar for self-driving cars"
+excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
+publishedDateTime: 2020-01-08T07:06:00Z
+sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
 type: article
-quality: 85
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: /assets/images/organizations/cnet.com-50x50.jpg
-      width: 50
-      height: 50
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
+  - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
     width: 700
-    height: 525
-    title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
+    height: 393
+    title: "Bosch to offer lower-cost lidar for self-driving cars"
 
 related:
   - title: "On Whether You Could Successfully Hide And Escape Via An AI Self-Driving Car"
@@ -45,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.1C8119FFF26B25FF99E440AF93E152C1
         width: 600
         height: 315
+  - title: "Aptiv's self-driving BMWs can now take people to and from the Las Vegas airport"
+    excerpt: "These are actually Aptiv's self-driving development cars, which have been gathering data while taking showgoers and tourists alike around the city. Now, their reach is about to expand in a big way. Aptiv announced this week that it has once again expanded the area in which its self-driving BMWs can operate. Specifically, the company has been ..."
+    publishedDateTime: 2020-01-07T16:42:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aptiv-self-driving-bmw-las-vegas-airport-ces/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 85
+    images:
+      - url: https://www.bing.com/th?id=ON.25E1D22B8F1939396E4F53FD674AD4EB
+        width: 700
+        height: 525
   - title: "AI-Driven Electric Motorcycle Shows Self-Driving Tech Is About More Than Autonomous Driving"
     excerpt: "And, it will learn your driving habits and adjust accordingly, using onboard artificial intelligence. “We prioritized data-driven thinking at the epicenter of the company, employing radical innovations in sensor fusion, robotics and AI,” Dom Kwong, the co-founder and CTO of Damon Motorcycles, said in a statement. “This level of deep ..."
     publishedDateTime: 2020-01-07T17:42:00Z
@@ -219,19 +228,6 @@ related:
       - url: https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg
         width: 1120
         height: 629
-  - title: "Bosch to offer lower-cost lidar for self-driving cars"
-    excerpt: "German automotive supplier Bosch said Thursday it has developed a sensor that lets cars \"see\" a three-dimensional view of the road, aiming to lower the cost of technology that could speed the development of self-driving vehicles. Privately-held Bosch said the internally-developed lidar sensor, which it will show at the Consumer Electronics Show ..."
-    publishedDateTime: 2020-01-08T07:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/bosch-offer-lower-cost-lidar-160000894.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
-        width: 700
-        height: 393
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z
@@ -285,6 +281,6 @@ related:
         width: 510
         height: 314
 
-secured: "FUFO4o5Ov+BCs8eGqMuyICIN+qXK7kD0mgX2xQYYeQnhG0uaKvl6jbwutjGO2q6aug+TijuTfMw8aSIbkkRgiksPryYd7NCNdhby3A5QXFwQ2uOY5jKfAZLJ/dDR3rHmsbhJEVtyv9h7+jpTosQdW8/LedtpSLLPO1+XMivoULfugSfFTyPSsND9nCdh7I1faqHPvnG3af2LsjHEk7v75coSwsrGVJyr5hbCjEVFmBOmsydx6Ud2UIW9LMhgUtBVv1XG2S11icUdFcLtyBuhGQ==;wRyJPPx8l4uVYdgsg+hBUQ=="
+secured: "tNmZmYww/zsBWSemkDR6EokaitXXifJMDUqcVmmnAO5ohdHcy32dtfslowwy1WpqBxVqhe9gLRrAwvkJUmYGRWBYQFzUki9MiSdJpYD/ZfoNeue9gUnX2lfQkXNIxd7XebMpzo3WbtuQLSGnsjKcBGDzFWFlabW9j8Mu/4JBzJKjotUSjTHhQsIHHgdWI1TRBRPFX4REEj0HnZpN9o0MNxW352AiHLelWPHtQxLwZkpTRcEygrk1eypXNZUyuHz3t5zkOFuvpBh9Bl/2MLU+5g==;rVSnqNSe2jbGvH04Wt2j/A=="
 ---
 

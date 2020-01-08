@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
-excerpt: "The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables researchers to acquire thousands ..."
-publishedDateTime: 2019-12-16T10:19:00Z
-sourceUrl: https://finance.yahoo.com/news/computer-vision-microscopy-image-analysis-100600604.html
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Computer Vision for Microscopy Image Analysis. Computer Vision and Pattern Recognition\" book from Elsevier Science and Technology has been added to ResearchAndMarkets.com's offering. High-throughput microscopy enables ..."
+publishedDateTime: 2019-12-16T11:14:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191216005283/en/Computer-Vision-Microscopy-Image-Analysis-2020--
 type: article
-quality: 0
-heat: 0
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Yahoo Finance
-  domain: yahoo.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Computer Vision
 
-secured: "lsSIeZIFs/oZwteBI0tHBdjzZUCqKKD+Aqcs8VhcmXLuuJypmOvWBzhpXws2N9bfDi4XANLLwd3QFWPM90S5oG6ngfhOzCCd8ROG/D7/67gt9+i82kBWh8+hkl9LbhwVUkg6z2Sb2hO+M6DsLESdtefWXmBl9HP5BQkPjqU802j3CHBcKjDKu4kBp2aRNKVIuJb4Wj1FJtFtScg9IPgjGjG5KZ8OOOkGlwLyD2H7mB+SI2As2XENNCnLk3Vwuo4FbsXfUv3/xL6RtpBfzkrWZQ==;56lfi6HoHR8QGQiJtMyZxw=="
+images:
+  - url: https://mms.businesswire.com/media/20191216005283/en/371054/23/ResearchAndMarkets_800px.jpg
+    width: 1200
+    height: 627
+    title: "Computer Vision for Microscopy Image Analysis, 2020 - Computer Vision and Pattern Recognition - ResearchAndMarkets.com"
+
+secured: "Y2iRyqBoi+RrWNp1o+Z0FurCNMptlQCfIKDUfPMOlfcSi9m4HUqNvmC6XAuWJRTBRYHlz5AlRlzFzqcqA7hbOwbM1vZ6aYJxSPwF5OfsKwfN0JXDQXzTaXyBo205tZO9rKlWPOCZO7vZmleDGoIQI1mRYkGnuP+Ao1YTI3s5IMOh/9l93L0aK02ROYVqYQqveD5tJzOB51H+tpuPFcItWqFfAyeNE4iehqTu8/4Nv0UFT2QcaeX4TfbZdM5NAjIcbyWT7no6miXbQJw2jfGOrQ==;Z56jH3RqVxzXi1T65sKeCQ=="
 ---
 
