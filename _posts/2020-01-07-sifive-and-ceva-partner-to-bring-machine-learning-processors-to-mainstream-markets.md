@@ -1,81 +1,43 @@
 ---
 category: news
 title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
-excerpt: "Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep neural networks to maximize performance, battery life and to add new intelligent features. Cloud-based AI inference is not ..."
-publishedDateTime: 2020-01-07T11:11:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/-sifive-ceva-partner-bring-machine-learning-processors-mainstream-/2020/01/07/9077061.htm
+excerpt: "Initial end markets include smart home, automotive, robotics, security and surveillance, augmented reality, industrial and IoT. Domain-specific SoCs which can handle machine learning processing on-device are set to become mainstream, as the processing workloads of devices increasingly includes a mix of traditional software and efficient deep ..."
+publishedDateTime: 2020-01-07T10:00:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/sifive-and-ceva-partner-to-bring-machine-learning-processors-to-mainstream-markets-300981297.html
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Global Health Care Natural Language Processing Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2020-01-07T10:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Natural Language Processing (NLP) Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025. Natural language processing for healthcare and life sciences is a field of computer ..."
-    publishedDateTime: 2020-01-07T12:06:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
-  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
-    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
-    publishedDateTime: 2020-01-02T07:03:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
+images:
+  - url: https://www.bing.com/th?id=ON.5D034EB12536F1B7D12E4A1F867B4FD7
+    width: 700
+    height: 366
+    title: "SiFive and CEVA Partner to Bring Machine Learning Processors to Mainstream Markets"
 
-secured: "TL3Gsw2P+rKmEo6a6TejmDECRjjc6ArhexkA4R1sATJ6ljSm0ZpA1PcAIGmQzsrwhyvRicK/E0HW0pb8UXUyW/kqj6xfkWBiSFHT/doWho14tdPyFPXe11FlJQ/AP2TTt+ls1OVizHzo0veteOxA8xAzw62xVRMsrcYICtSXBn26dZ0OGOeBGcoqZI1y0TRTM2bWsJz3bDspi7eO2ohwSfDAbJSfWMeTGH/p8i1xglG8Q0tE2QBs2Ns4J1m21wkHiy4+YfDE8chQjvQMqy0DQA==;YbfiHsy8IPF2+h0DmDmimQ=="
+related:
+  - title: "Automotive Artificial Intelligence Market- What Are The Main Factors That Contributing Towards Industry Growth?"
+    excerpt: "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics: 1. Market Drivers 1.1 Rising demand for premium segment vehicles 1.2 Increasing trend of autonomous vehicle 1.3 Growing demand for enhanced user ..."
+    publishedDateTime: 2020-01-03T06:40:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-03
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+
+secured: "VJqjJXyMH0PQJMX0+2uwpTvka6IPlh93IIsMINAfieAluGSOXVR/s11LRJ++uP0JMEw75tX6dEJ83qP3cHg0jRZuRPrgostOTLhmkJzZ/TBjSfEwV5iqmlfxe2KTVilqYbSJUk8S0tlwId+OFuOskiISWQqYpuzX6+xBrLtl4tOuwQzepKpFvCnvaUimcevYKLVrTbjU3RCfsLuQRxCTkBw/HjlZ2GJm+rSAXuIlzitNPP5IOPB2/nyiUgWS8UOa6srseDsIvRZD3Us5/8Os3g==;zRX2j0e1+zZyynHcRHR/BA=="
 ---
 

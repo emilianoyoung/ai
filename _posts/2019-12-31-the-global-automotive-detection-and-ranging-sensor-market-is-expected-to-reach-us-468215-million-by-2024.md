@@ -83,6 +83,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Self-driving Ships Market Expected To Be the Most Growing Market During Upcoming Years | Kongsberg, Rolls-Royce, ASV"
     excerpt: "Jan 07, 2020 (Reporthive Research via COMTEX) -- Global Self-driving Ships Market Growth 2020-2025 contains wide-extending factual fact-based assessment for on Self-driving Ships market, which enables the customer to separate the future collaboration and estimate right execution. The report offers a detailed research on industry situations ..."
     publishedDateTime: 2020-01-07T12:41:00Z

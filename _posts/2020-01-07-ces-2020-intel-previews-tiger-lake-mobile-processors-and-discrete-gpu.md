@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-l
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/
 type: article
 quality: 89
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -105,6 +105,21 @@ related:
       - url: https://www.bing.com/th?id=ON.642B412B6F1C1A67B02C37D4737DF539
         width: 700
         height: 390
+  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
+    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance.IANS | January 08, 2020, 09:09 IST Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile ..."
+    publishedDateTime: 2020-01-08T03:39:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F24F90E84777322FBF5BE67EA16C62C5
+        width: 700
+        height: 379
   - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
     excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
     publishedDateTime: 2020-01-07T01:49:00Z
@@ -147,6 +162,6 @@ related:
         width: 280
         height: 158
 
-secured: "fAPdCREFdeXkvuLlqbq36DYlS5GENgj5JL+WvldfGQuNya60KhMk+aVkiSb/T535h9UG6ujyNq93AMdPsU2UAzDyaKLH6APXSVE6g/xEEmno8zAfCHUpWo6n8m2n4Nr0E1hx8dQ9ZsXjZaUZyd4JvjuUjkbhM2x6BVhblQRh+0SLSTG9xRAQIqTE5LvhxS/F6y7BkUoSCGfT1y4Zj7fwpBiDcFHxKeem0kd91zaAYzvZFOSbDsWTiCPMR+ODD7WG7X+ztnVTX1PjO8BAyWJXJA==;EzdrXWJHjEQ+kVD7lnok2A=="
+secured: "lppSY1nFMi5B9WuubmQ2eda/wmHS7KmHJWapHY/cNQSSAAuxbwzU3H57opTqRitPOVn/B1dRT2GMu2JPQFvzL3OJQIsoWhuIAqBij9eQglfehwwanKFRDBiLKa7uDbxynni/jsCSDc6C+Zw1Djh6fSGEsn0ZezyG5BIq/Ix8zfL1sZgso0mbvJ8mAI4BfceOPZMJaXnKJ/L1eSN8Tuzf9+Xr8cjSH09ZXIEAk0XjbuhAvE5gsc2wYbt9xpddqz5sUgPCXso5ZLvbWGWTM0AJig==;Pu3bWpENFTI0F3y6PI5ipQ=="
 ---
 

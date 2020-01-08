@@ -114,6 +114,21 @@ related:
       - url: https://www.bing.com/th?id=ON.642B412B6F1C1A67B02C37D4737DF539
         width: 700
         height: 390
+  - title: "Intel unveils next-gen mobile chip 'Tiger Lake'"
+    excerpt: "Chip-maker Intel has unveiled a next frontier in mobile computing codenamed 'Tiger Lake'. Built on Intel's 10nm+ process, the Artificial Intelligence (AI)-driven new chips are set to deliver improved graphics and video streaming performance.IANS | January 08, 2020, 09:09 IST Las Vegas: Chip-maker Intel has unveiled a next frontier in mobile ..."
+    publishedDateTime: 2020-01-08T03:39:00Z
+    sourceUrl: https://cio.economictimes.indiatimes.com/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    ampUrl: https://cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    cdnAmpUrl: https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/internet/intel-unveils-next-gen-mobile-chip-tiger-lake/73148657
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.F24F90E84777322FBF5BE67EA16C62C5
+        width: 700
+        height: 379
   - title: "Intel Xe powered Destiny 2 on a thin and light laptop live on stage at CES 2020"
     excerpt: "could make for a mighty mobile combo when combined… but we all know how tricky multiple GPU rendering can be. Tiger Lake will also be available in tiny form factors, including the smallest U-series motherboard shown off by Intel’s Gregory Bryant during the conference. AI performance is also said to be vastly improved over Ice Lake processors."
     publishedDateTime: 2020-01-07T01:49:00Z

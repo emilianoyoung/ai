@@ -2,7 +2,7 @@
 category: news
 title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
 excerpt: "I heard Microsoft offers Azure Machine Learning studio [1] which is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure, I would like to give it a try and see how to apply the skills I ..."
-publishedDateTime: 2019-12-16T03:43:00Z
+publishedDateTime: 2019-12-16T00:00:00Z
 sourceUrl: https://medium.com/@jimmyhk99/the-good-the-bad-and-the-ugly-about-nlp-with-azure-machine-learning-studio-3990e9eb49b
 type: article
 quality: 59
@@ -27,6 +27,6 @@ images:
     height: 401
     title: "The good, the bad and the ugly about building NLP pipeline in Azure Machine Learning Studio"
 
-secured: "xXknbUcPBoNWzI7OU0/+q9W+iYvim/0mpC7g7MSMAbcobpAIhfevrV/4GDZONNR0Fwedbw0n8m5PcmYpyXKoCUcPQyt37KKV/HRNET0oWeUw0ACKB+I/sFI6Fb2q+kSFISCaLM8tdMsvcabYsp4176ERY7pF9aCRlTIqkhlcdcrKpW/jx/yOBH4V6ivRFQFntoEzySiz22jkB9K3wZ1MdizkW9Y1ENeo1Z6zVWMxcqvEgMdkTdJAHS8XmKYe4UgIkuuoAiwOmtqs24QswDbnpg==;yxkyjE2SSbys85E+8UJHFQ=="
+secured: "6zBHTBeruyGdo6DDuQC865rex+L9Iqzyylv2M3HIJ+2uRUkI4tz54C3VgnXI6exUH+PW20mu+l2RqFS2cwEScYR/UIaXv0Vn7LIiOv1Ads/p62Owlm+XQq+/ALWEpUJf41SibRpPWI5A1gDEUaNpSqHW7yUdUgD2FtaX7866w5td1uv4PY5OUPsA6KgScN4JY2yN7TvFj3tV7f1GPQl7EphV9ULouBFb+NL91SWfq4cOVK7xf1W1lkHR8DatvsZwXPiuwG3qtRyhUi46P7/H+w==;Mg07Lg40AgxGJPGjIHs33Q=="
 ---
 

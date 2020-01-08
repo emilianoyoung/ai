@@ -8,7 +8,7 @@ ampUrl: https://www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-br
 cdnAmpUrl: https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/2019/indian-fintech-zestmoney-funding-fed-brainard-crypto-risks/amp/
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,41 +26,6 @@ images:
     title: "Top News In Payments: Indian FinTech ZestMoney Raises $15M; Fed’s Brainard Warns Of Crypto Risks"
 
 related:
-  - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
-    excerpt: "In recent years, a growing number of Indian startups has stepped in to address this void. ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with over 3,000 merchants (up from some 800 in late April), including Flipkart, Amazon, and Paytm, to offer financing ..."
-    publishedDateTime: 2019-12-19T03:05:00Z
-    sourceUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/
-    ampUrl: https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
-    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2019/12/18/zestmoney-goldman-sachs/amp/
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 54
-  - title: "Bahrain’s Aion invests $1mln in fintech for youth drive"
-    excerpt: "The work environment at Aion ensure exposure to crucial fintech areas such as digital identity, e-KYC, Big Data, AI & machine learning, personal financial management, P2P lending, and more. The programme will scale up to include 100 outstanding young graduates and train them in the digital banking space. “We expect 70 per cent of the existing ..."
-    publishedDateTime: 2019-12-19T06:39:00Z
-    sourceUrl: https://www.zawya.com/mena/en/business/story/Bahrains_Aion_invests_1mln_in_fintech_for_youth_drive-SNG_162526491/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/SNG_162526491/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_162526491/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-  - title: "AI-powered retirement fintech secures $6.5m in Series A funding for global expansion"
-    excerpt: "A London-based digital retirement solutions provider is set for global growth after securing $6.5m in a Series A funding round. ABAKA, which uses AI to offer financial advice and solutions to users, has secured the funding in a round led by Thames Trust, Ace&Co and Downing Ventures. Headquartered in London and with offices in France ..."
-    publishedDateTime: 2019-12-19T07:18:00Z
-    sourceUrl: https://bdaily.co.uk/articles/2019/12/19/ai-powered-retirement-fintech-secures-65m-in-series-a-funding-for-global-expansion
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 32
-    images:
-      - url: https://bdaily.co.uk/images/uploads/DqryPWa0lMBobQypHpB6kQxMbOHEPfvTfmFESfFV.jpeg?w=940&h=430&fit=crop-45-50&s=2234323f13335cecd0d343f5de79eb07
-        width: 940
-        height: 430
   - title: "Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney"
     excerpt: "Bangalore-based ZestMoney announced today that it has raised $15 million from Goldman Sachs and existing investors Naspers Fintech, Quona Capital and Omidyar Network ... ZestMoney assesses other data points and uses AI to help these people build a profile and become credit-worthy. The startup has partnered with more than 3,000 merchants ..."
     publishedDateTime: 2019-12-20T00:05:00Z

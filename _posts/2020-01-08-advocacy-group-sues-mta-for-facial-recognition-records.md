@@ -179,6 +179,34 @@ related:
       - url: https://www.bing.com/th?id=ON.1076CBC33A3EFC9CFE2A52463EFE2BAB
         width: 700
         height: 490
+  - title: "North Texas Animal Shelters Using Facial Recognition Technology To Reunite Pets And Families"
+    excerpt: "Watch Caroline Vandergriff’s report on CBS 11 at 10. It will be added to this post after it airs. DENTON, Texas (CBSDFW.COM) – North Texas animal shelters are using new facial recognition technology to reunite families with their missing animals. It’s a scenario all pet owners fear – Fluffy or Fido runs away from home and is unable to ..."
+    publishedDateTime: 2020-01-08T03:40:00Z
+    sourceUrl: https://dfw.cbslocal.com/2020/01/07/texas-animal-shelters-facial-recognition-technology-reunite-pets-families/
+    ampUrl: https://dfw.cbslocal.com/2020/01/07/texas-animal-shelters-facial-recognition-technology-reunite-pets-families/amp/
+    cdnAmpUrl: https://dfw-cbslocal-com.cdn.ampproject.org/c/s/dfw.cbslocal.com/2020/01/07/texas-animal-shelters-facial-recognition-technology-reunite-pets-families/amp/
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 48
+    images:
+      - url: https://www.bing.com/th?id=ON.19CA9315A56CC2B937EF86DF291D17F1
+        width: 640
+        height: 379
+  - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
+    excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
+    publishedDateTime: 2020-01-08T03:32:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/08/cyberlink-faceme-ai-facial-recognition/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.519D424728468426AD1FAB9853F63439
+        width: 400
+        height: 200
   - title: "ATFX launches biometric facial recognition for trading account opening"
     excerpt: "Fintech company ATFX has announced that it has launched a brand new face recognition technology for trading account opening. The latest addition has been made in order to ensure the security and safety services to the clients. Face recognition technology will now verify customer identities when opening trading accounts online. The Far East is ..."
     publishedDateTime: 2020-01-02T12:52:00Z

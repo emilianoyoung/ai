@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-excerpt: "Allegro AI's open-source Trains suite strives to empower data scientists, researchers and algorithm engineers to seamlessly run, track, reproduce and collaborate on successful machine learning (ML) and deep learning (DL) experiments. Some of the main challenges Trains Agent is built to streamline include: Resource offloading Personalized ..."
-publishedDateTime: 2020-01-07T12:00:00Z
-sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+excerpt: "Trains Agent is a full AI cluster solution built for resource control and autoML, eliminating the heavy-lifting of machine learning and deep learning DevOps' requirements. TEL AVIV, Israel, Jan. 7, 2020 /PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro ..."
+publishedDateTime: 2020-01-07T14:38:00Z
+sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
+ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
+cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
-    width: 700
-    height: 368
+  - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
+    width: 400
+    height: 145
     title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
 
 related:
@@ -68,6 +70,6 @@ related:
         width: 700
         height: 320
 
-secured: "EcFaN6WursmfVIcix5yw/sPCxOriqPziJGvI8eRmF8KjMC7awep7dg1jOXvnrpGhUGEUxXxyCMGmMwdaaeoNR8ySpmYgynvRoStg1G0b5tN+J/IJ5aEqpa3gyZYxnR+BfiMsmq9j3AEhqA/1k6m5Odc/f0kJo1wEyt8G/XsmJo2koMlhU4AnJWWPMbNOrjz+CcSdzIX+P2BPmHnD7kNHvXO8LqlWqkkBFpPOwFOqUe611omu9Z7g2m0ey0znVgtpF+u8ghtpvNqGIqNITMzVHw==;Ny71qGeNX2dM7Z66xYshoQ=="
+secured: "AyK+Q0K9oisRBq4Nw3V3DHZFT7lAqds+bKLf/XC362zN6w9IFeUpq3AmWXVejRVb3ZUH96ZVbsftH6zOBFJscus4es7AHEffjupWiCh5Q/W/42/kRzD0ltIdrSaPL2+tnDaWG9R9gGA5FhavH60zuDOzx87PKhL6cmriIz9f6a8D9m1CRMKAT506FEqgj6aSdv984Pt2Ae/0TnAVTJl1VcgfN0FWFO4Qjiz0uUFj4M1yx1YX/wHIdasIQ26CpDT2sezlwxKhGFcI6KUeJpoEgw==;IAaQsmQ45jkfoq/8rCudcg=="
 ---
 

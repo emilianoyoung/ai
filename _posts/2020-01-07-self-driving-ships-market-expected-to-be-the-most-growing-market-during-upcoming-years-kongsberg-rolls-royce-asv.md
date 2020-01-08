@@ -93,6 +93,19 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
+    excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Software Market to Reach $126.0 Billion in Annual Worldwide Revenue by 2025, According to Tractica"
     excerpt: "BOULDER, Colo.--(BUSINESS WIRE)--Artificial intelligence (AI) within the consumer, enterprise, government, and defense sectors is migrating from a conceptual “nice to have” to an essential technology driving improvements in quality, efficiency, and speed. According to a new report from Tractica, the top industry sectors where AI is likely ..."
     publishedDateTime: 2020-01-06T12:53:00Z

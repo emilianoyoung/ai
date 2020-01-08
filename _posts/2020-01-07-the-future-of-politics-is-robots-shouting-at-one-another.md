@@ -8,7 +8,7 @@ ampUrl: https://amp.theatlantic.com/amp/article/604489/
 cdnAmpUrl: https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/604489/
 type: article
 quality: 89
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -73,6 +73,19 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
+  - title: "CES: Toyota's building a city the future full of robots and AI"
+    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
+    publishedDateTime: 2020-01-07T21:00:00Z
+    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
+        width: 700
+        height: 393
   - title: "CES: Toyota's building a city where the future full of robots and AI"
     excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
     publishedDateTime: 2020-01-07T21:00:00Z
@@ -113,6 +126,6 @@ related:
         width: 700
         height: 393
 
-secured: "e1UJGbUIXRlva3Q3IbDx7USKjIk+N6zi7q2xL9qNcmfHRNSqf49xOi9A5yPoP5u5OvQHbZS/4FTd5ljjoQSSszN1xFs+GwFnODFY+lFsnI+XwZvaFi9cQGG51buJ7bXXh/C/6yjRcKPksXBanHQUFB0y0xnYHd17h+xB5vYJaFRszyTvxhaV4iBa7hF0Jz1ryQEsUoQ6d2dIjUY/3G7z9QGBKnqqaGG3d70WRQoT4FOWuvgAt2NIuzggXxICevDR2ClU2wEXBs7DphEFi+6NFw==;+rz+BkjqLkQanzFzZSOnIQ=="
+secured: "yNVy3G2K23ToI1SEQ1NvjJOIFC3xncUgwpMVVH6AtZAPCmdvAsQFAhvhZw4my4IqKCVPV3f6w32rH9C855QLMl795rpl5l9z2s1lJOm+g1rHUcRCuPiePOXslj3WqlHEpSd+r8ZXZqzC6rqIeoOudD21QbC8itqGBkrwyepjCZiCZni1qZEuc1UWWm9kcmCsAlNtHkENFGutJ+ef8HCEGOASxCxVpUF9GGVYlODTziyqF5QGWZm6SGSfnZT2KgTmb2imzyKOr5Gt2c0g/w7maw==;aFxQ/KRBqTG09S5tQcsM3g=="
 ---
 
