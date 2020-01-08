@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-ces-concept-self-driving-cars-augmented-driving/
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://www.bing.com/th?id=ON.B0D98BADDFC83C08620131BA35FB332A
         width: 700
         height: 466
-  - title: "BYU offers 'crash course' in self-driving car technology"
-    excerpt: "Named in honor of its architect, professor DJ Lee, the city of \"Leehi\" was constructed for one purpose: teaching students the technology (and vocabulary) behind self-driving cars. “We tried to make it as close to real life as we could so students could truly test the algorithms running their cars,” said Lee, a professor of electrical and co ..."
-    publishedDateTime: 2019-12-19T16:47:00Z
-    sourceUrl: https://news.byu.edu/intellect/byu-offers-crash-course-in-self-driving-car-technology
-    type: article
-    provider:
-      name: The Digital Universe
-      domain: byu.edu
-    quality: 24
-    images:
-      - url: https://brightspotcdn.byu.edu/dims4/default/9094d21/2147483647/strip/true/crop/2143x1607+129+0/resize/400x300!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fa1%2F50%2F4b66b3174836a541721c9030ddb3%2F1910-44-017.jpg
-        width: 400
-        height: 300
 
 secured: "Lc31LBGkKDodyrD6rq1ekcijNGft++PEWhY35APDyBtf2zyoOP4RY7Em6bzWOA8pXm6wyXKyFSIM8EGKJetqw2fDLtYSrh+3o0k369gYWI7RlxBVS9bHKtZeoSGHnd9aZnxl8NKhNfknv3Q5sy8C6ekyvAcHzS/Q076eU0WjTxnkvkMhLONLGxfKMiAShzUKjEIEKQfzAq5smLh5PXLQXl1Cjdtx2R262H8emSy53ikfkg1g12RT3LBQB7VeE9nOrey3RORXm03E/hU1ELN8Ug==;/4/Ajr3eyurvzGBBYZtEuQ=="
 ---

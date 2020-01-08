@@ -23,6 +23,6 @@ images:
     height: 368
     title: "Speech recognition tech cuts paperwork for police"
 
-secured: "+9jhnx0Sc5LH4L6BNq2buRlldZ4xjF+sVOOE4WT96UuKz1bivBl2QgenvUjCOJo0Vek/40aZU4yV3UrXVwp2xs7cUQF9Pw17iJOZUK64/YJqbmgZ83p0mhDg36y1ZjHE8ZEPLN/pyaorRyGY6UQrwm/4Y5Wo+Qv+PdKn7dpEY6WF195i7mF3MZ44rgwqU+sgprKxPS3P9ZRTs/0xr3juOZf+OlBDcsQMXOdqaCS+N+b+XokE0QdEYZgqAgloC145M8iOPMF72V5AXt1TBH1paw==;5nBxnNrcgY+ZVvH2k/eTJA=="
+secured: "8zM0t1O3dDnkrUcLfLjKktd5VlMiTpeXR7RQbG4OPtP0T1LVQStGHux16L2Yjz5DR4x16WWYwoEc6iaf/OzUqFU/hS9TcBQxMTK5gfcXnAwo27lgBC6piJsVDJhA8IZ5Eh4/+Enmy5PAM/fmpglaO9UrXYrbndsiyQpBUMNk0BT7XFop2r6B9QWSyNEnXGZbts3aY0neyy3V3FhlF/bzZUe3Hr7q8ndy8LpB6wB0xFWqx3759g9Qb2zDVJQxuBLKYrvOb9d+IZIU0R/p3rVGaQ==;v1qTR2sZ91kVeldB+0V/Gg=="
 ---
 

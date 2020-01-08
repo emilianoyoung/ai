@@ -795,19 +795,6 @@ related:
       - url: https://www.motherjones.com/wp-content/uploads/2019/12/blog_fmr_rate_chinese.jpg?w=1200&amp;h=630&amp;crop=1
         width: 1200
         height: 580
-  - title: "NIST Study Evaluates Effects of Race, Age, Sex on Face Recognition Software"
-    excerpt: "A new NIST study examines how accurately face recognition software tools identify people of varied sex, age and racial background. How accurately do face recognition software tools identify people of varied sex, age and racial background? According to a new study by the National Institute of Standards and Technology (NIST), the answer depends ..."
-    publishedDateTime: 2019-12-19T16:50:00Z
-    sourceUrl: https://www.miragenews.com/nist-study-evaluates-effects-of-race-age-sex-on-face-recognition-software/
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.CF16DAAA88DBEF65DB80206F32BEE6C7
-        width: 700
-        height: 393
   - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
     excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
     publishedDateTime: 2019-12-20T12:55:00Z

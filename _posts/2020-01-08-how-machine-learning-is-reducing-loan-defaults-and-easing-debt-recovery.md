@@ -27,21 +27,6 @@ images:
     title: "How Machine Learning is reducing loan defaults and easing debt recovery"
 
 related:
-  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
-    excerpt: "Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains ecosystem. Trains Agent is a complementary solution joining the open-source solution suite with Allegro Trains,"
-    publishedDateTime: 2020-01-07T14:38:00Z
-    sourceUrl: https://finance.yahoo.com/news/announcing-allegro-trains-agent-providing-130000268.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/announcing-allegro-trains-agent-providing-130000268.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.02F599A5B2B8B10E73D9B64A5A36B648
-        width: 400
-        height: 145
   - title: "Podcast: Advancing Deep Learning with Custom-Built Accelerators"
     excerpt: "Deep learning workloads have evolved considerably over the last few years. Today’s models are larger, deeper, and more complex than neural networks from even a few years ago, with an explosion in size in the number of parameters per model. The Intel Nervana Neural Network Processor for Training (NNP-T) is a purpose-built deep learning ..."
     publishedDateTime: 2020-01-03T16:08:00Z
@@ -55,6 +40,19 @@ related:
       - url: https://www.bing.com/th?id=ON.615F0B2E4527344CE7C9BB56E3E8B586
         width: 533
         height: 562
+  - title: "Announcing Allegro Trains Agent, Providing Effortless Cluster Management for Machine and Deep Learning Experiments"
+    excerpt: "/PRNewswire/ -- Allegro AI, the deep learning, computer vision open-source company, officially welcomes Allegro Trains Agent to the Allegro Trains"
+    publishedDateTime: 2020-01-07T12:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/announcing-allegro-trains-agent-providing-effortless-cluster-management-for-machine-and-deep-learning-experiments-300982514.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.9473C9D598C542E61C065C7207B4C1DD
+        width: 700
+        height: 368
 
 secured: "wUqsDnjGlY7wvimq4+18CHN6Qm3T+etFMdkj2s52QmyaA/a2Zvr8iSC9+ruaafTsEiWa2iwZA2Ccz1ruGoNBIoVJscodStpxnsNCkHzLgA9jr14hqUJApvTG+trHab6T+AoZGrshvbDOsg00TozwNQuwibUHHr9B5kzuSvc8FiDN/XuniwcL0dT2UIIIikrFVR7PtL1xCg/UIKm87WfzNPGjkWbyrx+lLVYfEkZVBbf3Mi2Hi7g4l8V8LfW7vlwAZEEUfKm0AXvLs2TZsFmCQA==;Oag42NFd1li9mRu+oy6M+A=="
 ---

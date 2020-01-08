@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Deep learning vs. machine learning: Understand the differences"
-excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning models. Machine learning algorithms are often divided into supervised (the training data ..."
+excerpt: "Both can handle numeric (regression) and non-numeric (classification) problems, although there are several application areas, such as object recognition and language translation, where deep learning models tend to produce better fits than machine learning ..."
 publishedDateTime: 2020-01-06T11:06:00Z
 sourceUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html
 ampUrl: https://www.itworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html
@@ -25,6 +25,6 @@ images:
     height: 116
     title: "Deep learning vs. machine learning: Understand the differences"
 
-secured: "0qpeEPMzvYc9GqyDQUnwt3nTBwkiqfGRUjnPuu/eaK9Fm87SG0QGCEBBdeCUyQzbXlU+lNFP9bDXAOUJt0c66iE0cb1OOK9oskeqfWmaIyYB36EVOg/Ite7K734YuCqmxExJ1NC+mcY/pzIJEgHa8kYooCFkLI48rS27XzF6T6yoBdjbLv+tKEGbbhsfVR3NCbQjW/jsbUPgmdLNi6klbGxzKREuI2o8PTWtzc9cKzE5T7V8uSbNsYiugWKFFZTMDwuJNN7lzAAOB7dOCJEQDQ==;V91hNuLlP7p4INTI7NWGzA=="
+secured: "QmA+VqbG5ZK3PXWOxtIrHcBDD4e49Hn5cwwmfxgjMp1aY6KhE+NuCClYiHF0xRYQ0N692ditZeTd8hfrIAEkboESZTfA5Yk/oE6JlDGkYpQdCYevZc5rjuH3bdCwIfrGN9fHewWch3Kykcvsim7AeoQcEqmQd+f16ANfGNrXeaoa2QvNn/CKShWmDJ5wvvwKNicFix1e1p7s1fKCnFMPdbVJH3vShnJ4LLlTQc4CD6rtIqJcAZnAa1O4fp33mmCzoWUVS9xBQb2kvRBn0W1+cA==;xtlTSUcus6+EfnkViwTNiA=="
 ---
 

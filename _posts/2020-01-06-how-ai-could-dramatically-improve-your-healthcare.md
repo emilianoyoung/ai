@@ -8,7 +8,7 @@ ampUrl: https://thefutureofthings.com/13914-how-ai-could-dramatically-improve-yo
 cdnAmpUrl: https://thefutureofthings-com.cdn.ampproject.org/c/s/thefutureofthings.com/13914-how-ai-could-dramatically-improve-your-healthcare/amp/
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -52,6 +52,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
         width: 400
         height: 300
+  - title: "Role of Advanced Technology in Improving Healthcare"
+    excerpt: "The advent of the latest technologies such as robotics, nanotechnology, 3D printing, VR/AR, artificial intelligence, and others certainly makes the future of healthcare exciting. Though there are apprehensions that technology may make healthcare professionals redundant in the healthcare delivery system, this is far from being true. In the field ..."
+    publishedDateTime: 2020-01-08T17:51:00Z
+    sourceUrl: https://www.tmcnet.com/topics/articles/2020/01/08/444185-role-advanced-technology-improving-healthcare.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2362DF4F41E83861B83F9D29666285DF
+        width: 700
+        height: 363
 
 secured: "/m6+WZ/SVlyptcK3kwvX1TjtbeuIi24+aI3Nqbz2IOjJ8IEOS44lyQJQIMw/tJLN08IsmWCE2vh7U5ExB4HE9QIClG+a88BfMRjZki7ttcvjOjchQQNInAIg5xreG0PnKhLif4BCk0C+gQOQPbqn3sSSVsrDI0sRUE6TkioYNaMehwthRyFXwrH0e0Zbw0NRY0STHozT8GjhuP1u3k3c9BdM9AdVraRpv/2O4Lt8+ryKs0H2DjMAlWTbdrpWgzmPRDY4wwxXccxpIWRFjC1dPw==;mbxRnpTN68rVfz/18BHYcQ=="
 ---

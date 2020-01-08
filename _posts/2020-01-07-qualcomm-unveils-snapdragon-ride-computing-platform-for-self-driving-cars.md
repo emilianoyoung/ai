@@ -24,36 +24,51 @@ images:
     title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
 
 related:
-  - title: "Qualcomm Enters the Autonomous-Car Computing Ring with Snapdragon Ride"
-    excerpt: "Qualcomm explains that it's built on \"scalable and modular heterogenous high-performance multi-core CPUs, energy-efficient AI and computer vision (CV) engines, and industry-leading GPU. The platform, with a combination of SoC (System on a chip) and accelerator can be used as needed to address every market segment offering industry-leading ..."
-    publishedDateTime: 2020-01-08T00:46:00Z
-    sourceUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/
-    ampUrl: https://www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
-    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/qualcomm-snapdragon-ride-autonomous-platform-first-look/amp/
+  - title: "U.S. to outline strong support for self-driving cars at CES"
+    excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
+    publishedDateTime: 2020-01-08T17:06:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
     type: article
     provider:
-      name: Motor Trend
-      domain: motortrend.com
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
+        width: 700
+        height: 476
+  - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
+    excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
+    publishedDateTime: 2020-01-07T21:44:00Z
+    sourceUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/
+    ampUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
+    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.11D81EFBBDFB6658A4CD5FCF22D79283
+        width: 700
+        height: 466
+  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
+    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
+    publishedDateTime: 2020-01-03T04:00:00Z
+    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 44
     images:
-      - url: https://www.motortrend.com/uploads/sites/5/2020/01/Qualcomm-Snapdragon-autonomous-platform-04.jpg
-        width: 2048
-        height: 1152
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-07T02:46:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
+      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
         width: 700
-        height: 367
+        height: 393
   - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
     excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
     publishedDateTime: 2020-01-07T06:11:00Z
@@ -69,19 +84,58 @@ related:
       - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
         width: 700
         height: 393
-  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
-    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
-    publishedDateTime: 2020-01-07T19:22:26Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
     type: article
     provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 22
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+        width: 635
+        height: 400
+  - title: "Self-driving cars will not fix our transportation woes"
+    excerpt: "It’s 2035, and you’re going to a movie. As you walk out the door, you reach for your phone instead of the car keys because you don’t have a car. Instead, you’ve ordered your ride to come to you. The car that arrives has no driver or steering wheel."
+    publishedDateTime: 2020-01-05T16:50:01Z
+    sourceUrl: https://www.msn.com/en-ca/autos/ownership/self-driving-cars-will-not-fix-our-transportation-woes/ar-BBYDgil
+    type: article
+    provider:
+      name: The Conversation on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.DF659922CA85D0DA9EC0A4FC47B0B61C
         width: 700
         height: 367
+  - title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
+    excerpt: "WASHINGTON (Reuters) - The U.S. National Highway Traffic Safety Administration is holding talks with General Motors Co <GM.N> on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James ..."
+    publishedDateTime: 2020-01-02T16:51:00Z
+    sourceUrl: https://in.finance.yahoo.com/news/exclusive-u-agency-talks-gm-213429423.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 16
+    images:
+      - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
+        width: 700
+        height: 459
+  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
+    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
+    publishedDateTime: 2020-01-08T11:16:00Z
+    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 10
+    images:
+      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
+        width: 700
+        height: 525
 
 secured: "IZSIc+r3g4wWUz56mI4gRh7juV9Vr6YDZEpFWKGT2njs024tGlzDuQYEWhWiarXguhI7ux6GFwwckLPl9YaQd18Au53Pnt0m+pJRj/o8+H7gx4m2FopYkf8MSVlJDSyDOhfmnp94Qko7FUyPL1bRbFGfg/lctC1pouWvOkrr5tzFITsH+WOYSRF4rc19cjmoj7oVZH/kKbHMAI91CnffzJakzwclRnG/IzkINaWSRQcpWcLOK1RbfguXSULbKzS/I44u3lYt8Z25MzuJubnl0Q==;LlN7k/UmK5YFFJ/vzf8HkA=="
 ---

@@ -18,17 +18,34 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
-    excerpt: "CHICAGO, Dec. 19, 2019 /PRNewswire/ -- A New York City based large volume private practice radiology group conducted a quality assurance review that included an 18 month software evaluation in the breast center comprised of nine (9) specialist radiologists using an FDA cleared artificial intelligence software by Koios Medical, Inc as a second ..."
-    publishedDateTime: 2019-12-19T23:45:00Z
-    sourceUrl: https://www.benzinga.com/pressreleases/19/12/n15022616/new-findings-show-artificial-intelligence-software-improves-breast-cancer-detection-and-physician-
-    ampUrl: https://amp.benzinga.com/amp/content/15022616
-    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15022616
+  - title: "Advanced technologies can significantly improve healthcare quality, productivity, and access"
+    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
+    publishedDateTime: 2019-12-20T05:47:00Z
+    sourceUrl: https://www.news-medical.net/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
+    ampUrl: https://www.news-medical.net/amp/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
+    cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg
+        width: 620
+        height: 480
+  - title: "Data Quality, Equity Essential for Artificial Intelligence Use"
+    excerpt: "Although the emergence of artificial intelligence (AI) offers the potential for better patient outcomes, lower costs, and improved population health, the technology could also bring numerous unintended consequences. “While there have been a number of promising examples of AI applications in healthcare, we believe it is imperative to proceed ..."
+    publishedDateTime: 2019-12-19T19:28:00Z
+    sourceUrl: https://healthitanalytics.com/news/data-quality-equity-essential-for-artificial-intelligence-use
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.E4C89DCD6DF57890291E658FF4D85F24
+        width: 690
+        height: 400
 
 secured: "mo9NGWlu6cNKGOxel6WWQixvl+0SP8kEnYkGlSoDfGB5K6SQGS4kCPw5peVa3dmo3enRY8KOXz8m9KsO6zuUX050H5vkFrhnRGBOVbC+qkbOzDMIOXJy/2PLPV3cvGgiUmc0+gyg4xtKZ9HP5aneMhp0ofkiS9x4muIyNnkBeaNfThTp7oZdtawln78qagJhxP0d0Ucu3q+jBjrVyIDriPmbKjTKQBMawuV9eu+pUdvvOq0kyoixzyMWypYm2u9BE2kXhfLMKHkfMDt1Cc9xzA==;k8BN0et00cjabjz1AxdZeg=="
 ---

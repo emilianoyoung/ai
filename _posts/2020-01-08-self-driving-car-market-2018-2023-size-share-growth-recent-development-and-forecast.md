@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Self-driving car market 2018-2023 Size, Share, Growth, Recent Development, and Forecast"
 
-related:
-  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
-    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
-    publishedDateTime: 2020-01-03T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
-        width: 635
-        height: 400
-
 secured: "2WgEnjVxoY+dtYyASKjBt557r7DDQBldzTiE0ohMyfpT8V/aUrkeuDwyzuf/TFY23udgcTX+14PdeqocKRZm+aD+3zESUymfBd8WRGILOCRYb8tl+j/0jASwgh93cXxhCqUOxkthkonlb5FfQjXo7qDmC1sM+7hdzxDTJsUb6YL5jXIyXtTtkn20RQ4h+r5JehUiCT8rEa/zdsy08jgfSl7PIDa4Ud31RezUFvTQHoy/5rA2deTBGx3j/gSzls8cUB8j+Tkka9ouiQszFYRDTA==;Mkjsx68y/4Y6syd0SFMR0Q=="
 ---
 

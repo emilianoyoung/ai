@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
         width: 700
         height: 466
+  - title: "Role of Advanced Technology in Improving Healthcare"
+    excerpt: "The advent of the latest technologies such as robotics, nanotechnology, 3D printing, VR/AR, artificial intelligence, and others certainly makes the future of healthcare exciting. Though there are apprehensions that technology may make healthcare professionals redundant in the healthcare delivery system, this is far from being true. In the field ..."
+    publishedDateTime: 2020-01-08T17:51:00Z
+    sourceUrl: https://www.tmcnet.com/topics/articles/2020/01/08/444185-role-advanced-technology-improving-healthcare.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.2362DF4F41E83861B83F9D29666285DF
+        width: 700
+        height: 363
 
 secured: "eEaXhiLQ2uhY5aUUaX0HsCcZWyFNiE8i3xkrCfw2+PqBpPZyuBvUWJe//oztKZgmFr1DFQUauKblo4ZFi9YS69Asg2XqIgPdP15UbsGK3X1u6l6cJzfEFQUL+CcXcOMW1qJPfI5dzqQAB6/FJlmqjfSzUcwXaRUpDuE+K0HINa+7QcUAuZhHxmb6Nc0wBZ6xkC+fG7nKX3JPbVJgeF+InJ2NoXzatC1lzCJ1GtOav+Qjv2hsUMNSN7CArFXTgwY8OHHPbn+ueRTfQP6pbzTADw==;U08P1B7WSxi9DcSgng8s2w=="
 ---

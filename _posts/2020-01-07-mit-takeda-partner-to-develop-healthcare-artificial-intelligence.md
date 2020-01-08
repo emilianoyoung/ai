@@ -27,7 +27,7 @@ related:
   - title: "Health Action Council Partners with Buoy to Help Patients Find the Right Care"
     excerpt: "The partnership draws on an artificial intelligence solution developed by Buoy Health, a digital health company that empowers people to manage their own healthcare. Health Action Council's Find the Right Care website will now include Buoy's AI-powered chatbot Buoy Assistant, which gives users a personalized and more accurate view of their ..."
     publishedDateTime: 2020-01-07T15:14:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-health-action-council-partners-with-buoy-help-patients-/2020/01/07/9077608.htm
+    sourceUrl: https://www.tmcnet.com/usubmit/2020/01/07/9077608.htm
     type: article
     provider:
       name: TMCnet

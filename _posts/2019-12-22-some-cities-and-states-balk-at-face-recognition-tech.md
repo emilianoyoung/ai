@@ -80,19 +80,6 @@ related:
       - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
-    excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
-    publishedDateTime: 2019-12-19T16:14:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-sensing-feeling-offers-video-emotion-analysis-without-facial-recognition
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
-        width: 900
-        height: 499
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z

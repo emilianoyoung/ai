@@ -178,6 +178,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C80EB73F6BA2CD5AFB7968966DBE6CE5
         width: 600
         height: 338
+  - title: "Miles to go for self-driving cars to hit the streets in India"
+    excerpt: "The unedited video showed the self-driving car winding its way through road intersections without traffic lights, avoiding jaywalking pedestrians and merging effortlessly into oncoming traffic like an experienced Delhi cabbie (the full video is available on its website). As in Jerusalem, drivers in Delhi too need to show an intent to move ahead ..."
+    publishedDateTime: 2020-01-08T17:55:00Z
+    sourceUrl: https://www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india-11578504089622.html
+    ampUrl: https://www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india/amp-11578504089622.html
+    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/miles-to-go-for-self-driving-cars-to-hit-the-streets-in-india/amp-11578504089622.html
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
+        width: 600
+        height: 338
   - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
     excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
     publishedDateTime: 2020-01-06T22:23:00Z

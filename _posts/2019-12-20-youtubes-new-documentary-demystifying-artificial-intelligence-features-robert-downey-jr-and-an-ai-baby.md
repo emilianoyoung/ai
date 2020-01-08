@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-20T12:10:00Z
 sourceUrl: https://www.businessinsider.com/youtube-ai-documentary-series-hosted-by-robert-downey-jr-2019-12
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     title: "YouTube's new documentary demystifying artificial intelligence features Robert Downey Jr. and an AI baby"
 
 related:
-  - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
-    excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
-    publishedDateTime: 2019-12-19T16:07:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50851409
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50851409
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50851409
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
-        width: 700
-        height: 393
   - title: "Robert Downey Jr launches YouTube doco featuring University of Auckland's AI baby"
     excerpt: "YouTube has premiered a Robert Downey Jr-fronted series, with the first episode focusing on a University of Auckland lab's research project."
     publishedDateTime: 2019-12-22T11:23:00Z

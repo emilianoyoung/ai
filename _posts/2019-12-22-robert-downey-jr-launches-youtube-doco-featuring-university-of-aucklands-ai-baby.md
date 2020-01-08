@@ -36,21 +36,6 @@ related:
       - url: https://image.businessinsider.com/5dfcac31855cc24ca50ff462?width=1200&format=jpeg
         width: 1200
         height: 600
-  - title: "Robert Downey Jr launches YouTube doc featuring AI baby"
-    excerpt: "The Avengers star is expected to give the Age of AI mass appeal. One AI expert said there was \"lots of eye candy for viewers with short attention spans\". Calum Chace, author of four books on the subject, added that artificial intelligence is a \"large, complex, and important\" subject. And he noted that YouTube - whose parent company Google is a ..."
-    publishedDateTime: 2019-12-19T16:07:00Z
-    sourceUrl: https://www.bbc.co.uk/news/technology-50851409
-    ampUrl: https://www.bbc.co.uk/news/amp/technology-50851409
-    cdnAmpUrl: https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-50851409
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.2AAA05198E635AFAE320318F29799CCC
-        width: 700
-        height: 393
 
 secured: "m7TY3hR0++ODdIcpp+SekSiDj9LkZiFo1nVYbA6GtffyI27Z6dTctFiyCDGH3POco3O7AcviUnAg/spteQOBESG2dmLwysPGuunzykBszVHrdOJQsJQf5xA+pBaQMFqhmzYUPhAZEtlEaQNGLDnCNpYpYfTOTyghXrKwNCJzsGI5bQGkOq2IHZVHSuL6S5vBZ/OmoOglxgyZj4HO31815eYQ3vmd46AH3cRv0/Fe/TZZOtLma9BnFK0kWhwYt7IMtSOO+Ud8+S68SER3H4993w==;6mzRTFmvO5Afl/qnj3Vvpg=="
 ---

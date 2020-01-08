@@ -75,6 +75,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
   - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
     excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
     publishedDateTime: 2019-12-26T11:07:00Z

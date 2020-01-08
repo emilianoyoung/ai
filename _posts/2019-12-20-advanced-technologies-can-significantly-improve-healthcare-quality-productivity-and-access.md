@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20191220/Advanced-technologies-can
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20191220/Advanced-technologies-can-significantly-improve-healthcare-quality-productivity-and-access.aspx
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,21 +26,28 @@ images:
     title: "Advanced technologies can significantly improve healthcare quality, productivity, and access"
 
 related:
-  - title: "AI’s Promise: $140 Billion In Productivity Gains For Financial Services Firms"
-    excerpt: "But now we can quantify just how big of an enhancement AI will have on the bottom line for financial services companies around the globe. According to consulting firm Accenture its $140 billion. That’s in productivity gains and cost savings by 2025, all because of artificial intelligence and augmented technology. Accenture recently studied ..."
-    publishedDateTime: 2019-12-19T16:29:00Z
-    sourceUrl: https://www.forbes.com/sites/donnafuscaldo/2019/12/19/ais-promise-140-billion-in-productivity-gains-for-financial-services-firms/
-    ampUrl: https://www.forbes.com/sites/donnafuscaldo/2019/12/19/ais-promise-140-billion-in-productivity-gains-for-financial-services-firms/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/donnafuscaldo/2019/12/19/ais-promise-140-billion-in-productivity-gains-for-financial-services-firms/amp/
+  - title: "Data Quality, Equity Essential for Artificial Intelligence Use"
+    excerpt: "Although the emergence of artificial intelligence (AI) offers the potential for better patient outcomes, lower costs, and improved population health, the technology could also bring numerous unintended consequences. “While there have been a number of promising examples of AI applications in healthcare, we believe it is imperative to proceed ..."
+    publishedDateTime: 2019-12-19T19:28:00Z
+    sourceUrl: https://healthitanalytics.com/news/data-quality-equity-essential-for-artificial-intelligence-use
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.13003156F72ED3F921DCCC77D931035E
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.E4C89DCD6DF57890291E658FF4D85F24
+        width: 690
+        height: 400
+  - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
+    excerpt: "Koios DS Breast 2.0 can be used in conjunction and integrated directly into most major viewing workstation platforms and is directly available on the LOGIQ TM E10, GE Healthcare's next generation digital ultrasound system that integrates artificial intelligence, cloud connectivity, and advanced algorithms. Artificial intelligence software ..."
+    publishedDateTime: 2019-12-20T01:10:00Z
+    sourceUrl: https://finance.yahoo.com/news/findings-show-artificial-intelligence-software-004500787.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 1
 
 secured: "RRSwWUwWj88zUquNXC+nr7BEYtllf9rlkwd32xLXZo+kBBR42+zLoYSNED8a1ccGARstq5yXJq+bH08KB7xkwwegHyDQgnqQ979MpfLIlEv1+ajmK/2HG4vTAibm+x+wGgy4WhSGkdaTWY+nJGlCWauqbD07DPt0UW/rnZCwVvKYWyZEv2iqGgd5/dtQjg+Gy05IrNsPkbzY3p8p6D37IrCvB/mghUkqVMwuzENNyo9nyw3JhnXs4bAygQY9Zww3D6sbn0gi+EL5YMnq5ODjPQ==;AvKxaWT5FndDMXe3ZAui3A=="
 ---

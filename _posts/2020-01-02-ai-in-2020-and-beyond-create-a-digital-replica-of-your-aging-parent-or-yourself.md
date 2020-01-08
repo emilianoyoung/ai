@@ -205,6 +205,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DCF29E77D08D17AD86D32E8702B68D71
         width: 600
         height: 390
+  - title: "Decrappifying brain images with deep learning"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T17:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uota-dbi010820.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.454B02E12AAF5C0F447652DC6E0F9723
+        width: 640
+        height: 360
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
     publishedDateTime: 2019-12-29T00:06:00Z

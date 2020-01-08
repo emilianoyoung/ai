@@ -80,19 +80,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
         width: 700
         height: 469
-  - title: "Startup Sensing Feeling offers video emotion analysis without facial recognition"
-    excerpt: "The technology is also advertised as GDPR-compliant out of the box. It does not record images, use facial recognition, or tracking. The company was started with a £72 thousand (US$94 thousand) grant from Innovate UK and has raised £436,500 (roughly $571,000), according to CrunchBase, and is supported by tech accelerator Wayra UK. Affect ..."
-    publishedDateTime: 2019-12-19T16:14:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-sensing-feeling-offers-video-emotion-analysis-without-facial-recognition
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg
-        width: 900
-        height: 499
   - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
     excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
     publishedDateTime: 2019-12-20T12:00:00Z
@@ -114,6 +101,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "oKxw+jKlWqsKHZPXOpBAr36wYqNOdNM809zZVMCqvVeN8l0X0xGaYrM29IijHO/xQhRmvuKFvxCfDaf/KqpbcQaB63tHqgsnCY7EPTXk7M4TQvEuORL0DPrVmd3h+pfhXG9sVXq0SpwQqOAOB/hgvrgcBqWv5jOjsHwE4KRAniV56+CY5Q2EJrePSGKasKyutxgzYZ7OGyRYAUcxvxwcpdQykv9X3NXiw2myY2/AdSkqvc+V6c1fp5PTHws1Qr2JATuLar6+5vPt0a6JRNYGuA==;1/fRnxK4gainFvEvtlcgpA=="
+secured: "riCNnzOo+ZuzOBzQDM/W4OITOcQsJeZj9otb3CwNa4DB/U/L8JICw2vPuIA09vSi+8VLlzojlq+nffCpR8L0RklBMx7jZ7n1PU+Nrl8/gNd+cvmAROkJ99lBJHwaiBfQO/5ln2jpqDPjHaSb9TEDmo5HfwwYgrBXlSDBxqx8FrfABzON+iT7NK/+z94Pf+nsn1ih01WRfOO/nFDmFExM/1D8U9BuK/lG4/FyEAyLVEDYhfpSHvcyP9Ml6o1CSRLRFFK5rXq3dsK0VdUVc+lQbw==;sbX3ymFIwJ7H/rhd216sCw=="
 ---
 

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested ... and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health. Several trials in the ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -17,7 +17,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "QeamIPFiXXcyZt/WEAuPyU0zQnpD07nnawe2p3/YRz4u/EuxFIKG5q1gW7LgCDitdgNq0ubD/FKFWhQWUqN1rNri5JuUh+EmKF9clAZTJqNVb3moyho4Sf2633vcLcqwo7zSqSoqqdVGxrvZ1OfPYS04ud8Zxs07G31HBk3fkdO60n7RZlyRqp/4igrGTwSyhH/c65EDnoOKRSwMcjtc1mMFdbW7BQGUJBaiXFX0Lbor4Wy13y1S3HxEmi4BHJHLDYHTcbYBW2SKBGucIbab8g==;PnC7632j7BukE13WXAzEYw=="
+secured: "wofI+Uy1e1yDAQTSzMg/Esyc3+rq8ZFw1yJTCD9UhAG3ok3tCtGU4YGsBjbODUNO43LwRlK8qDjl6Bl2b71+OtPeAE2nuGuZftVTn2ZG5Fl+keeBEcuIW7e4H0JLLmPo36muxUwhZK5akwRZAVLdbVF0U08TsuO64jNRilQgg1UNxADXrJ6ZIc3ZhMZ8MegZpJp1jGtyqfaeJxDkkr5nmLCgkT2UgwcvbF6NM1TaUj4exBCNavnjs9fLj1+sIwKbAwJ3ZCSLyUawSWIY46NbuQ==;cAmG1rFBaevd67RlSb0IbQ=="
 ---
 

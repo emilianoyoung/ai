@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/top-minds-in-machine-learning-predict-where-ai-is-going-in-2020/amp/
 type: article
 quality: 210
-heat: 380
+heat: 390
 published: true
 
 provider:
@@ -198,6 +198,19 @@ related:
       - url: https://www.bing.com/th?id=ON.DCF29E77D08D17AD86D32E8702B68D71
         width: 600
         height: 390
+  - title: "Decrappifying brain images with deep learning"
+    excerpt: "\"If you know the optical properties of your system, then you can deblur your images and get twice the resolution of the original,\" he explained. They believed that deep learning -- a form of machine-learning that uses multiple layers of analysis to progressively extract higher level features from raw input -- could be very useful for increasing ..."
+    publishedDateTime: 2020-01-08T17:19:00Z
+    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/uota-dbi010820.php
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.454B02E12AAF5C0F447652DC6E0F9723
+        width: 640
+        height: 360
   - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
     excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
     publishedDateTime: 2020-01-02T15:17:00Z

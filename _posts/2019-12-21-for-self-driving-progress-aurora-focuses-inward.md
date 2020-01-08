@@ -69,21 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9D258F5ED0A57767773496F9A1500EC2
         width: 700
         height: 393
-  - title: "What if there was no pizza guy? California could allow fully self-driving vehicle deliveries"
-    excerpt: "If a self-driving car delivers pizza to your house, will a human still carry the box right to your door? Californians may soon be asking these types of questions after the Department of Motor Vehicles’ announcement that it will begin approving applications for permits for light-duty autonomous delivery vehicles next month. The state said it ..."
-    publishedDateTime: 2019-12-19T16:34:00Z
-    sourceUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/
-    ampUrl: https://www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    cdnAmpUrl: https://www-santacruzsentinel-com.cdn.ampproject.org/c/s/www.santacruzsentinel.com/2019/12/19/what-if-there-was-no-pizza-guy-california-could-allow-fully-self-driving-vehicle-deliveries/amp/
-    type: article
-    provider:
-      name: Santa Cruz Sentinel
-      domain: santacruzsentinel.com
-    quality: 33
-    images:
-      - url: https://www.santacruzsentinel.com/wp-content/uploads/2019/12/SJM-WAYMO-0110-1.jpg?w=1024&amp;h=547
-        width: 1024
-        height: 547
   - title: "Why GM is developing technology for self-driving vehicles for the US military"
     excerpt: "GM is gambling that the military will want to buy its car technology to use on military vehicles. That's why the automaker started GM Defense."
     publishedDateTime: 2019-12-23T06:00:00Z

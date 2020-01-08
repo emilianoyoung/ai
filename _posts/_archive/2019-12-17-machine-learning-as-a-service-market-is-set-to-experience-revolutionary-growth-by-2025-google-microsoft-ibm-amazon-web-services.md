@@ -76,6 +76,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
   - title: "Speech and Voice Recognition Market Set for Rapid Growth With Microsoft, Hoya, Apple, Mercedes-Benz USA, HARMAN International, Google"
     excerpt: "Global Speech and Voice Recognition Market research report makes use of SWOT analysis and Porter’s Five Forces analysis to disclose the strengths, weaknesses, opportunities, and threats in the industry. This Speech and Voice Recognition Market report is an important source of guidance for companies and individuals offering industry chain ..."
     publishedDateTime: 2019-12-26T11:07:00Z
@@ -86,6 +95,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "4UQlw6DSLQq3p139N/iuv5PIoW3mrYBUJOpKGMJMXQo602wvdXCfXEfx700DKXIhFWJ4rSyTzcEVr2QClxugSxu14s3kuCWKXADLRDEaiJdbEfOTxQN9d6RckQuARCgDpzz5/WibJueOIOxv7B8tHNlU4mjLViL2UYeOURftCLF0hSG8AgqTZ8y+S2GVbP+evipsTyI1XlIAGegQ07aFK0wYNFYa7faed2u7zWT1kvDYKQAv4QN931aum8XQdK7gA2UKJIysDTMsecKTik9yIQ==;rfUTwE5VCxuN0dIBqsGXyg=="
+secured: "BVPXS66ip4WTWv5WfyHwtaQAWivFCbcnF8tRpzFG2sE6MgstirMmFJgkz6F53FeJ0pKNjKDvbrYGQSCsV1kvu0mELAD50n84+zC2Ap7IHv6g8ACM7wzYL02nUTcU+MybcS9pFVEW32ruwLhVB11EyEQGnKUipDTeeHA51VuQeksIpHwTJVUPcz3iSr94gUedn2agPKazN4VBlmjr0BCNEjBbeBLDlutlEfw3b5dx8E6/LfpfW/ZBik9q40HwuVoJ6wtgjE7Zw9/r4DYRgcwfXQ==;spU95NumT9bo9H0Usxthyw=="
 ---
 

@@ -308,6 +308,19 @@ related:
       - url: https://www.bing.com/th?id=ON.329C807E954EFEAF82E233EDBCF01B2A
         width: 700
         height: 466
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
+    publishedDateTime: 2020-01-08T17:40:00Z
+    sourceUrl: https://finance.yahoo.com/news/lidar-laser-sensing-technology-self-190205368.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "Ao9HgojGu07L3QnFlbHCDUFnGso5LT+azNVGD+yha+/3hSoRVOv0vLqXStk97tmycbLvg4HOctPe0DyqJpyZV+LNKGJxm6+uRbb4KS0lt4ELLZZv35L7LZdmZj/Edtg0fsY0i9Wo9dTZIVAH+ah1WtMAnurQv6jPuek1XrzpSAjnYTP67fjWTTIY2gEkplx4GAQ7qT1KhUlloiN/zRW++i3o1wxc15/Gqsp7PaAIi2+aXyfC383UMvjYUACCpg25axZz84819Nl4GCn/inUazg==;ObYYJbaTq890I5iFo1mI0w=="
 ---

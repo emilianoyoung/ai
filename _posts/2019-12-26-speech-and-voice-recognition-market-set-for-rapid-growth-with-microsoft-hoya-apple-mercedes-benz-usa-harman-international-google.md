@@ -79,6 +79,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 11
+  - title: "Artificial Intelligence in Video Games Market On a verge to Create Booming Growth Cycle"
+    excerpt: "Global Artificial Intelligence in Video Games Market Size, Status and Forecast 2019-2025 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support. The influencing Factors of the report is growth of this market include ..."
+    publishedDateTime: 2019-12-19T20:50:00Z
+    sourceUrl: https://www.openpr.com/news/1881539/artificial-intelligence-in-video-games-market-on-a-verge
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 9
 
 secured: "xdHRd2xmDSWnmV3JmhVCSSt2AsIWqiTaAdv/VKvpkv9ml0d3VGSp9gP0s1vw8w0/vR89hCUX7IPcfBLWy4cHA9POrrGStglNVYwOuw9cLwe4B8HYhU6F7CPoLk6VG0ls02MbojO1PGRYqDf5jO4nR7deOHSudF8kVXtQ+425iiWZP8EqEbBiC6H/uAy0wC2fTVAS9cArvEymzHlzK4U6HLpNJ2By6y0O0DuI+gzcDgKdWC6j38GVISgn3qQE//gI7og58V81NFmbn0nRq/QHNQ==;IbLhVCtmBtt/fvESBNFGRA=="
 ---
