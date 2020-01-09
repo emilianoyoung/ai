@@ -241,6 +241,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
         width: 700
         height: 437
+  - title: "CES 2020: Toyota is building a 'smart' city to test AI, robots and self-driving cars"
+    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
+    publishedDateTime: 2020-01-08T10:38:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/ces-2020-toyota-is-building-a-smart-city-to-test-ai-robots-and-self-driving-cars/ar-BBYJCtd
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.DCE98714E3FFC4B43F9F325276DAF0AB
+        width: 600
+        height: 315
   - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
     excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
     publishedDateTime: 2020-01-06T22:14:13Z

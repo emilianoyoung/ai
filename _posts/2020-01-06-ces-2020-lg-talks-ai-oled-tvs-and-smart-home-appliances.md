@@ -279,15 +279,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
-  - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
-    excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
-    publishedDateTime: 2020-01-06T22:32:00Z
-    sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "ja6nrRM9Sj1Y/xGjTvOZzTxohnNH9z7dV0LW22ZkSc8/FejCniLVub42ZaYAE2KVOoVY2Pw6jiYek1lgLaiRH4eDyBi2CYtpTZLGZbnJm5a5K92VHm/7OoAyqAJ3PSgpfx0kFVkXRJvt8KSewYX2DDEzV3v0SJqpuCUuAmssD7p+ayMCWFVfx5ndQZG8vKy8AKCgQ0ArktPp5A45aLEEPN66xsFftQ++gqthPWrzwrUT9LLFn3iFg0U9Aky+cZ1YtKcQ/vCSW1l/cZsaVgA6rg==;j+u0AV/FuvM71auTAeVEhA=="
 ---

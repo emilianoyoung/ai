@@ -131,6 +131,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AC98FF1EDD8FF3CA36805AAB71F0A24F
         width: 700
         height: 436
+  - title: "My first self-driving car ride with an empty driver seat was surprisingly not terrifying"
+    excerpt: "Last year at CES, I rode in what felt like an endless stream of self-driving cars up and down the Las Vegas Strip. Lo and behold, for every ride a \"safety engineer\" or \"operator\" was inches from the steering wheel, foot hovering above the brake. Safety first, I get it. But still, lame. This year Russian self-driving company Yandex moved the ..."
+    publishedDateTime: 2020-01-09T03:33:00Z
+    sourceUrl: https://mashable.com/article/self-driving-car-no-driver-yandex-ces/
+    ampUrl: https://mashable.com/article/self-driving-car-no-driver-yandex-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-car-no-driver-yandex-ces.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 65
+    images:
+      - url: https://www.bing.com/th?id=ON.52B23113EADED4C19553CF37E8CBE7CD
+        width: 700
+        height: 367
   - title: "Yandex to Up the Ante With Self Driving Demonstrations at CES"
     excerpt: "Yandex N.V. YNDX is leaving no stone unturned to bolster presence in the autonomous driving space. During the Consumer Electronics Show (CES) 2020, the company plans to demonstrate rides with self-driving cars. The demonstration will be held on the public streets of Las Vegas. These cars will feature the latest generation of Yandex’s ..."
     publishedDateTime: 2020-01-06T15:57:00Z
@@ -217,6 +232,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7E39400AC24D8E0B776EF3A6580EC00F
         width: 400
         height: 286
+  - title: "CES 2020 Spotlights Tech Trends: Self-Driving Cars, 8K TVs and 5G"
+    excerpt: "Others, however, are harder to forecast. What new artificial intelligence service will blossom to become the next Amazon Alexa or Google Home? Can self-driving car technology take a meaningful step forward? CES, the sprawling consumer electronics trade show that opens Tuesday and runs through Friday in Las Vegas, may provide a clue when it ..."
+    publishedDateTime: 2020-01-06T18:04:00Z
+    sourceUrl: https://www.cpapracticeadvisor.com/small-business/news/21120119/ces-2020-spotlights-tech-trends-selfdriving-cars-8k-tvs-and-5g
+    type: article
+    provider:
+      name: CPA Practice Advisor
+      domain: cpapracticeadvisor.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.97BEF2841C169967D3EA79EC79D77E7A
+        width: 700
+        height: 464
   - title: "The state of self-driving regulation"
     excerpt: "David Estrada, a leading autonomous vehicle lawyer now working at self-driving car startup Nuro, talked to MT about his views on state and federal regulation in the self-driving space. — The FAA is one of several agencies investigating a rash of mysterious drone sightings in Nebraska and Colorado. — The EPA is moving toward finalizing its ..."
     publishedDateTime: 2020-01-07T15:00:00Z

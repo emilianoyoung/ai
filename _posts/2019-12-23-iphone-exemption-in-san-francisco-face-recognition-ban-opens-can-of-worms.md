@@ -90,21 +90,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "Federal study confirms facial recognition is a biased mess"
-    excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
-    publishedDateTime: 2019-12-20T02:16:00Z
-    sourceUrl: https://mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives/
-    ampUrl: https://mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives.amp
-    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/nist-study-facial-recognition-tech-bias-false-positives.amp
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: https://mondrian.mashable.com/2019%252F12%252F20%252Fd0%252F810943fa599d4a39974f0bd0e47aee26.bf804.jpg%252F1200x630.jpg?signature=1ceEoEnj3VYNzh59iD28jz0jNxQ=
-        width: 1200
-        height: 630
   - title: "ProBeat: Enough with the government facial recognition"
     excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
     publishedDateTime: 2019-12-20T18:30:00Z
@@ -150,21 +135,6 @@ related:
       - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
         width: 1400
         height: 933
-  - title: "Facial-Recognition Software Suffers From Racial Bias, U.S. Study Finds"
-    excerpt: "A far-reaching government analysis of the most widely used facial recognition algorithms found most of them appeared to suffer from racial bias, misidentifying Asian- and African-Americans far more often than Caucasians."
-    publishedDateTime: 2019-12-20T02:24:00Z
-    sourceUrl: https://www.wsj.com/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
-    ampUrl: https://www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-software-suffers-from-racial-bias-u-s-study-finds-11576807304
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: https://images.wsj.net/im-138364/social
-        width: 1280
-        height: 640
   - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
     excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
     publishedDateTime: 2019-12-26T11:34:00Z

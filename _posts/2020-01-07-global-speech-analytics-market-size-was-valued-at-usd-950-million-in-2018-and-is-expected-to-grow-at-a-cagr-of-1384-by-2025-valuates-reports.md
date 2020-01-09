@@ -154,6 +154,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
+    excerpt: "New York, January 09, 2020: The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type, Offering type, Process type, Application type and Regional Analysis. By Technology type this market is segmented on the basis of Context Awareness,"
+    publishedDateTime: 2020-01-09T02:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Security Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
+    excerpt: "New York, January 09, 2020: Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-01-09T02:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Voice Recognition Market Size, Growth Forecast Poised to Touch USD 150 billion by 2026"
     excerpt: "Jan 02, 2020 (AmericaNewsHour) -- Market Study Report Has Added A New Report On Voice Recognition Market That Provides A Comprehensive Review Of This Industry With Respect To The Driving Forces Influencing The Market Size. Comprising The Current And Future Trends Defining The Dynamics Of This Industry Vertical, This Report Also Incorporates The ..."
     publishedDateTime: 2020-01-02T12:03:00Z

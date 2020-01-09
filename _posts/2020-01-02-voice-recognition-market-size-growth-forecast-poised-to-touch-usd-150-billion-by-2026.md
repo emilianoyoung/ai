@@ -158,6 +158,32 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Automotive Artificial Intelligence Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
+    excerpt: "New York, January 09, 2020: The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type, Offering type, Process type, Application type and Regional Analysis. By Technology type this market is segmented on the basis of Context Awareness,"
+    publishedDateTime: 2020-01-09T02:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Security Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
+    excerpt: "New York, January 09, 2020: Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-01-09T02:54:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Market 2020 Global Industry Analysis, Segments, Top Key Players, Drivers and Trends by 2025 – Market Research Engine"
     excerpt: "Jan 07, 2020 (Heraldkeepers) -- New York, January 07, 2020: The developments of a lot of human-like robots and increase within their preparation rate in ... The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions."
     publishedDateTime: 2020-01-07T05:38:00Z

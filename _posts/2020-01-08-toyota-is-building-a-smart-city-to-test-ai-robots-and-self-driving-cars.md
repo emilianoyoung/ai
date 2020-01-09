@@ -8,7 +8,7 @@ ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
 type: article
 quality: 104
-heat: 325
+heat: 335
 published: true
 
 provider:
@@ -246,6 +246,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
         width: 700
         height: 437
+  - title: "CES 2020: Toyota is building a 'smart' city to test AI, robots and self-driving cars"
+    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
+    publishedDateTime: 2020-01-08T10:38:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/ces-2020-toyota-is-building-a-smart-city-to-test-ai-robots-and-self-driving-cars/ar-BBYJCtd
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.DCE98714E3FFC4B43F9F325276DAF0AB
+        width: 600
+        height: 315
   - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
     excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
     publishedDateTime: 2020-01-06T22:14:13Z
@@ -338,6 +351,6 @@ related:
         width: 500
         height: 500
 
-secured: "zoMmFGOKo5uKgnf3BStZW6EykXONDEyz1VAk4ri3nK0t0KMrLUDopQVUfw0CfFjNF1oTpps3odOFsZ5SfZZvV8g/Fdgp5Z0LiFl7n2R4euQqU9rO86zE6huTbqz9rc2I0rJqKomksnZBI21iB6ohplxFlIrGKs4FCBaUtvUwM36REV1Ie0UVcAOAeSxokj59u0nKIA9EYQNuu8hI5ocx/NuTTIjSSbsjGNh3cWE52MEiRVB7MDA3vYb7rv8zQEKpjlizjd32MmwXnYu76RU5aA==;eNb9C4a8QKrF5EsDoKfSEw=="
+secured: "1vTZd3GeuXkL8EbXfkwTRafEe7Yyv+UTPLD/IJF8WBMqBQtXI8WCHrxIM6Cxs5g4gWZUfFCdi28virZ9xxXHSdJLgxtwpWz2XD1ac8pP/6E3zJcyNtCh098pRUz4M4d5+/c77tF7CFZRVM6omWCcaBKsau6vdg4gR8S0BhTPhfa69z78BDVFG8UVA1ikYqApBuq0esqxFgo52qxhxV+4kj9ZlQsVBBkcIlNMyT7vaKyP+4bw6ZJHoY+jCz8Jvag7ILgFUFflpfcw3GmVa15hPQ==;yXKe6vAbT2I085Qvaeqyaw=="
 ---
 

@@ -53,19 +53,6 @@ related:
       - url: https://mobileidworld.com/assets/AIchip.jpeg
         width: 400
         height: 298
-  - title: "Baidu and Samsung team up for mass production of AI chip"
-    excerpt: "Baidu will provide advanced AI platforms to maximize the performance of AI, while Samsung will apply its foundry manufacturing technologies to high-performance computing chips, which are dedicated to edge computing as well as cloud computing, an area in which Baidu has been trying to catch up with its local rivals including Alibaba and Tencent."
-    publishedDateTime: 2019-12-20T03:06:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Baidu-and-Samsung-team-up-for-mass-production-of-AI-chip
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F8%2F8%2F0%2F1%2F24031088-2-eng-GB%2FCropped-1576660829RTS2038J.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces
-        width: 1600
-        height: 900
 
 secured: "IY3XG94H5CBh9wA+RkzQw02kB/YquAhjhZJwJaMV+oV/pLZylqXMifito6y/HB4TKvQ1kzYyEW3ocf7V9O0NvTBZqPVazZupXqL1ZiVD38wBFp4kAFQcli+QAeS9DrhlST7ZyxQzcEa4OH5vYM7Dsi3H5ZTUpDLahedLVsAAFfv37kYngGNpEJFjCoJoiAdm9ve7Y/7NmYjAPgFw7lwvO02hswP+m/ode+YKvusFLDf1jx48rX0TCn7G79mMXj+f6sjEyxdqkz/uTqipVF241A==;kU/SjiHWrHFqhPO9oTPWAA=="
 ---

@@ -40,19 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.14FC265759AB6A450544484402A5194F
         width: 700
         height: 393
-  - title: "Baidu and Samsung team up for mass production of AI chip"
-    excerpt: "Baidu will provide advanced AI platforms to maximize the performance of AI, while Samsung will apply its foundry manufacturing technologies to high-performance computing chips, which are dedicated to edge computing as well as cloud computing, an area in which Baidu has been trying to catch up with its local rivals including Alibaba and Tencent."
-    publishedDateTime: 2019-12-20T03:06:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Baidu-and-Samsung-team-up-for-mass-production-of-AI-chip
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F8%2F8%2F0%2F1%2F24031088-2-eng-GB%2FCropped-1576660829RTS2038J.jpg?source=nar-cms&width=1600&height=900&fit=cover&gravity=faces
-        width: 1600
-        height: 900
   - title: "New edge AI accelerators coming from Samsung-Baidu partnership and Innodisk"
     excerpt: "Baidu and Samsung Electronics are planning to begin mass producing a cloud-to-edge AI accelerator chip in early 2020 ... The chip also accelerates the ERNIE pre-training module for NLP to three times faster than the conventional GPU/FPGA-accelerating model. I-Cube technology connects a logic chip and high bandwidth memory with an interposer ..."
     publishedDateTime: 2019-12-30T20:29:00Z

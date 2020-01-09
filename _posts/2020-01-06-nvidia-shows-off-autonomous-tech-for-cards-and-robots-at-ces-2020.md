@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/nvidia-shows-off-autonom
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nvidia-shows-off-autonomous-tech-for-cards-and-robots-at-ces-2020/
 type: article
 quality: 91
-heat: 281
+heat: 271
 published: true
 
 provider:
@@ -281,15 +281,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 19
-  - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
-    excerpt: "Pony.ai is working to revolutionize the future of transportation by building safe and ... ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America ..."
-    publishedDateTime: 2020-01-06T22:32:00Z
-    sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "iQEpsp0tW/oHtN4BJKQxXfmTDi1iH5T59F+pnQQQ9ZzA9XH1x/7PDeZTE7z9tzWdIyzRf0WsY/EDh7vRE3H5l7sN+n6JLgZ/W75AsLUcFFNN+DjUQCvIChg7CdiDxUoON4Iq1Tji8CVeRfFgzkcU/HC4++tIMeLOXNU0TQoXfRpSyk20sNOYrqhzIB8C9Sj/UL2Ttv5LWqJp+n6Q59EZJA/HBteqsAKH/wVlqLMwfUCxDbAvm1b4u8dS1cOb7xPRB/owsb6cDfe6giBIIrhkww==;y37x0pARBC35gr2AZOcUGA=="
 ---

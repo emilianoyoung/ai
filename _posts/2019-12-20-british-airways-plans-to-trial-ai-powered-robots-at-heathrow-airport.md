@@ -8,7 +8,7 @@ ampUrl: https://www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-
 cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/12/20/british-airways-to-trial-ai-powered-robots-at-heathrow-airport.html
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1280
     height: 853
     title: "British Airways plans to trial A.I.-powered robots at Heathrow Airport"
-
-related:
-  - title: "British Airways to trial state-of-the-art, fully autonomous robots in 2020"
-    excerpt: "this year the airline also explored artificial intelligence, driverless baggage vehicles and 3D printing to further improve punctuality for customers LONDON, UK, 2019-Dec-20 — /Travel PR News/ — In the latest stage of British Airways’ investment in airport automation, the airline has announced that from 2020 it will trial AI-powered ..."
-    publishedDateTime: 2019-12-20T02:23:00Z
-    sourceUrl: https://travelprnews.com/british-airways-to-trial-state-of-the-art-fully-autonomous-robots-in-2020-549955/travel-press-release/2019/12/19/
-    type: article
-    provider:
-      name: Travel PR News
-      domain: travelprnews.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.764F60833E4DB157C02AB01102E98F5C
-        width: 400
-        height: 400
 
 secured: "YrKLjybflmZ6/UdR6bqOFS4R8rtfPI3MKeTV3tMW5rM/yi1NvzYPkRR4ooo6PEVRlINKofc+Nw7DqsJS9khyyFiMK0UhfA1SPtOFrNkTVYWNhr/cHHDPUioWHZvw0vhVlbBGXa+cxWBXimY03jasH+Sa3gLQV/kSo50sEUt2iqY0OhblUn09Qdiiu8SEyCsucqxe5IWH/8QN29sapbAUEs1QRYWx5zzqfB8GdUFeT6mAH1rBYeL6O/7ZAN3GY9IAxv15w81nshgxocZRsaVnmg==;BjI+rBSlNvj+8+CuWtA4GQ=="
 ---
