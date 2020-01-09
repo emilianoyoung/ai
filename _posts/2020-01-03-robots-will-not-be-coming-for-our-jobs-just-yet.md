@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.31B46DDBFBA8EC78286808C9C9347FCB
         width: 700
         height: 466
+  - title: "Robots: Now coming to a workplace near you"
+    excerpt: "Robots excel at straightforward, repetitive tasks that tend to be mundane and ... The social media giant said it would ban \"deepfake\" videos made using artificial intelligence, as long as they're not satire and might mislead \"an average person.\" More than 4,500 companies, including startups and industry powerhouses, will showcase their new ..."
+    publishedDateTime: 2020-01-09T19:12:00Z
+    sourceUrl: https://www.cbsnews.com/news/robots-now-coming-to-a-workplace-near-you/
+    ampUrl: https://www.cbsnews.com/amp/news/robots-now-coming-to-a-workplace-near-you/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robots-now-coming-to-a-workplace-near-you/
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DD2B75534A77E90F15E44F68207A4D99
+        width: 700
+        height: 367
 
 secured: "gsB/u3/JReqjnW7qTY7anqQ33reI4qypwD73m8sL49e8NDugeDokgoo6+TN6ytvKpvICCMg6zSmcRm8PV4EjNACDUgwW/KLSd7iu77mEcyALLtxpZ1qzrpruTPyAK7TTY4RRG4p6X0UxsBJr9IAjro3Tt4uJ3KbVObNITxaOTW83UcE996hNQCF/mB34yjR/r786pM7bIKFdcfv74JQz1+6h5WJt6XWViqkAz8XU53/o+xSuG+ygMAmbYO8TWIJIJ/BkoKGovQjEcjRKadsTFQ==;IFftGycH3DTHoK6GPhV6Bw=="
 ---

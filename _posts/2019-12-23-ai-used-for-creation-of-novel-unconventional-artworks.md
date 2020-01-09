@@ -55,19 +55,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
         width: 1199
         height: 675
-  - title: "National Defense in the Age of Ethical AI"
-    excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
-    publishedDateTime: 2019-12-20T18:43:00Z
-    sourceUrl: https://www.theatlantic.com/sponsored/booz-allen-2019/national-defense-age-ethical-ai/3235/?preview=1
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
-        width: 700
-        height: 424
   - title: "How to Cash in on Conversational AI"
     excerpt: "And the technology that drives these experiences has become more accessible as Google and other API providers move speech and natural language processing to the cloud and reduce the cost of implementing conversational self-service. It isn’t surprising, then, that Gartner has also predicted that virtual agents will drive $1.2 trillion in ..."
     publishedDateTime: 2019-12-24T16:19:00Z

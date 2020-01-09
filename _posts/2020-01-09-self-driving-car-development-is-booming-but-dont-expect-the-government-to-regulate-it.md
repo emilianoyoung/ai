@@ -30,234 +30,232 @@ images:
     title: "Self-driving car development is booming, but don't expect the government to regulate it"
 
 related:
-  - title: "What it’s like to ride in a self-driving Lyft"
-    excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars, powered by Aptiv. Lyft has been testing these vehicles in Vegas since early ..."
-    publishedDateTime: 2020-01-09T11:00:00Z
-    sourceUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/
-    ampUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+  - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
+    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
+    publishedDateTime: 2020-01-08T10:21:00Z
+    sourceUrl: https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html
+    ampUrl: https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
+    cdnAmpUrl: https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
-    quality: 74
+      name: CNN
+      domain: cnn.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.4715F38D382F3E87B5BF3B7B0657E1B5
-        width: 700
-        height: 394
-  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
-    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
-    publishedDateTime: 2020-01-02T13:48:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 72
-    images:
-      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
-        width: 700
-        height: 366
-  - title: "Telecom Stock Roundup: Qualcomm Boosts Self-Driving, Ericsson's IoT Drive & More"
-    excerpt: "In the past five trading days, telecom stocks trended down as geopolitical tensions rattled the market and threatened to spoil the initial euphoria associated with the likely signing of the “Phase One” trade deal between the United States and China."
-    publishedDateTime: 2020-01-09T13:57:00Z
-    sourceUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09
-    ampUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-    images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
-    excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
-    publishedDateTime: 2020-01-07T21:44:00Z
-    sourceUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/
-    ampUrl: https://www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
-    cdnAmpUrl: https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/aptiv-self-driving-program-adds-las-vegas-airport-to-destinations-1930290/amp/
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.11D81EFBBDFB6658A4CD5FCF22D79283
-        width: 700
-        height: 466
-  - title: "U.S. to Outline Strong Support for Self-Driving Cars at CES"
-    excerpt: "LAS VEGAS — The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles -- dubbed 4.0, which she says unifies ..."
-    publishedDateTime: 2020-01-08T21:01:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2020/01/08/business/08reuters-tech-ces-selfdriving.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
-  - title: "Qualcomm Officially Enters Self-Driving Market With Snapdragon Ride Platform And Extends Partnership With GM To Include ADAS"
-    excerpt: "Today, in Las Vegas, at CES 2020, Qualcomm made what I think is the company’s biggest announcement yet in the automotive market: the unveiling of its new Snapdragon Autonomous driving platform for self-driving cars, called the “Qualcomm Snapdragon Ride”. In addition, Qualcomm announced it is extending its partnership with General Motors ..."
-    publishedDateTime: 2020-01-06T19:36:00Z
-    sourceUrl: https://www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/
-    ampUrl: https://www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-    images:
-      - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
-        width: 600
-        height: 315
-  - title: "Sony joins race to develop vision sensor for self-driving vehicles"
-    excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
-    publishedDateTime: 2020-01-03T04:00:00Z
-    sourceUrl: https://www.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    ampUrl: https://amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/f3996f7c-2a5c-11ea-bc77-65e4aa615551
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.682B59E236E0AF9B4B3415E7D115533A
+      - url: https://www.bing.com/th?id=ON.66E11273F9E874F8AD8F5778C45BFD91
         width: 700
         height: 393
-  - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
-    excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
-    publishedDateTime: 2020-01-07T16:03:00Z
-    sourceUrl: https://finance.yahoo.com/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/qualcomm-boosts-self-driving-solutions-133401637.html
+  - title: "Toyota is building a tiny utopian city filled with people, robots and AI"
+    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility as a service, robotics, smart home-connected technology, AI and more in a real-world environment,” Toyoda. This so-called Woven City will be a ..."
+    publishedDateTime: 2020-01-06T22:17:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
+    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+        width: 700
+        height: 392
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "“If they build it, they will come.” “Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,” Toyoda said. This so-called Woven City will be ..."
+    publishedDateTime: 2020-01-08T00:03:00Z
+    sourceUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/
+    ampUrl: https://techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/06/toyota-is-building-a-tiny-utopian-city-filled-with-people-robots-and-ai/amp/
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
+        width: 700
+        height: 392
+  - title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
+    excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
+    publishedDateTime: 2020-01-06T21:35:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/
+    ampUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: https://www.bing.com/th?id=ON.01BD3A1C864BB277478A346DD44A879E
+        width: 700
+        height: 435
+  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
+    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
+    publishedDateTime: 2020-01-07T19:00:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
+        width: 700
+        height: 366
+  - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
+    excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
+    publishedDateTime: 2020-01-02T17:44:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
+    ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
+        width: 700
+        height: 233
+  - title: "Toyota plans to build 175-acre smart city in Japan"
+    excerpt: "Japanese carmaker Toyota has announced plans to create a 175-acre smart city in Japan where it will test driverless cars and artificial intelligence. The project, announced at the Consumer Electronics Show in Las Vegas, will break ground at the base of Mount Fuji in 2021. Woven City will initially be home to 2,000 people who will test ..."
+    publishedDateTime: 2020-01-07T12:07:00Z
+    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/07/toyota-plans-build-175-acre-smart-city-japan/
+    ampUrl: https://www.telegraph.co.uk/technology/2020/01/07/toyota-plans-build-175-acre-smart-city-japan/amp/
+    cdnAmpUrl: https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/07/toyota-plans-build-175-acre-smart-city-japan/amp/
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
+        width: 700
+        height: 437
+  - title: "Self-driving shuttles mapping and testing, coming soon to Linden area"
+    excerpt: "COLUMBUS (WCMH) – Life could soon be getting a little easier for residents in the south Linden area. Through a grant funded pilot project, SmartColumbus is bringing two self-driving shuttles to the area. They are currently in the mapping and testing phase. “There’s definitely a sense of excitement just seeing them, seeing something ..."
+    publishedDateTime: 2020-01-09T11:08:00Z
+    sourceUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/
+    ampUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    cdnAmpUrl: https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4F63490687C4894A297A75B8AAA3E6A8
+        width: 700
+        height: 393
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Makers of self-driving car supporting technology Lidar are looking at other avenues to work in while waiting for the autmobiles to take off. Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new ..."
+    publishedDateTime: 2020-01-09T11:30:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.5E65B606C1888F89059EA97DAA66A20E
+        width: 700
+        height: 392
+  - title: "CES 2020: Toyota is building a 'smart' city to test AI, robots and self-driving cars"
+    excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
+    publishedDateTime: 2020-01-08T10:38:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/ces-2020-toyota-is-building-a-smart-city-to-test-ai-robots-and-self-driving-cars/ar-BBYJCtd
+    type: article
+    provider:
+      name: CNN on MSN.com
+      domain: msn.com
+    quality: 32
+    images:
+      - url: https://www.bing.com/th?id=ON.DCE98714E3FFC4B43F9F325276DAF0AB
+        width: 600
+        height: 315
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "Toyota researches and tests robotics, material science, automated driving and alternative fuel technology in labs all around the world. Now the automaker is trying a new and far more ambitious project: build a prototype city on a 175-acre site at the foot of Mount Fugi in Japan,"
+    publishedDateTime: 2020-01-06T22:14:13Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/toyota-is-building-a-tiny-utopian-prototype-city-filled-with-people-robots-and-ai/ar-BBYGaK5
+    type: article
+    provider:
+      name: TechCrunch on MSN.com
+      domain: msn.com
+    quality: 31
+    images:
+      - url: https://www.bing.com/th?id=ON.4447E8825E210C45CA854F78742593AB
+        width: 640
+        height: 349
+  - title: "Toyota is building a tiny utopian prototype city filled with people, robots and AI"
+    excerpt: "\"If they build it, they will come.\" \"Imagine a fully controlled site that will allow researchers, engineers and scientists the opportunity to freely test technology such as autonomy, mobility-as-a-service, robotics, smart home-connected technology, AI and more, in a real-world environment,\" Toyoda said. This so-called Woven City will be a fully ..."
+    publishedDateTime: 2020-01-07T00:02:00Z
+    sourceUrl: https://www.yahoo.com/now/toyota-building-tiny-utopian-city-221413545.html
     type: article
     provider:
       name: YAHOO!
       domain: yahoo.com
-    quality: 44
+    quality: 31
     images:
-      - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
-        width: 635
-        height: 400
-  - title: "Feds largely leave self-driving-car rules to makers"
-    excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
-    publishedDateTime: 2020-01-09T12:34:00Z
-    sourceUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
-    ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
-    cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
-    type: article
-    provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.F973CBD6981BF110DF6DD500B5577C4A
-        width: 700
-        height: 498
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-07T02:46:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 40
-    images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
-        width: 700
-        height: 367
-  - title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
-    excerpt: "Theoretically, each time a self-driving car goes for maximum braking power, it'll rediscover worn tires, since there's no feedback loop beyond a car's wheel-speed sensors (the ones that inform anti-lock braking systems and stability control when a tire is locking up or sliding) to reveal grip deficiencies. Put another way, unaware that its ..."
-    publishedDateTime: 2020-01-09T17:38:00Z
-    sourceUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/
-    ampUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
-    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 38
-    images:
-      - url: https://www.bing.com/th?id=ON.DB96056EB99633948718FB883354D1E7
+      - url: https://www.bing.com/th?id=ON.CC89B0B3272E9283ECA5EA86942ADB2E
         width: 700
         height: 393
-  - title: "Video: MARTYkhana where self-driving all-electric DeLorean does flawless drifts like a pro"
-    excerpt: "Thought that an autonomous car maneuvering safely through a car park was impressive? Think again. Eggheads at Stanford University have just made the coolest self-driving car you'll ever see - a self-driving DeLorean drifting like a pro. Yes, there are car manufacturers which have begun testing their autonomous prototypes in real-world ..."
-    publishedDateTime: 2020-01-03T11:06:00Z
-    sourceUrl: https://www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/
-    ampUrl: https://www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/lite/
+  - title: "Toyota Building a City in Japan That Hates Human-Driven Cars"
+    excerpt: "A traditional closed test track can't replicate the unpredictability of real life on the streets and sidewalks of America, and few of us normal people are eager to share our morning commute with experimental driverless vehicles. So, what's a big-time car ..."
+    publishedDateTime: 2020-01-07T23:19:00Z
+    sourceUrl: https://www.automobilemag.com/news/toyota-woven-city-future-tech-testing-grounds/
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 34
-    images:
-      - url: https://www.bing.com/th?id=ON.A505910B44F9D6328F234E368719C71A
-        width: 660
-        height: 440
-  - title: "Feds Tout Safety, Eased Rules In Self-Driving Cars Policy"
-    excerpt: "Law360 (January 8, 2020, 7:17 PM EST) -- The Trump administration on Wednesday updated its federal policy for developing self-driving cars, reinforcing safety guidelines and unifying federal agencies' efforts while promising to ease any regulatory barriers to U.S. innovation and competitiveness in the space. The 56-page road map issued by the ..."
-    publishedDateTime: 2020-01-09T00:24:00Z
-    sourceUrl: https://www.law360.com/articles/1232568/feds-tout-safety-eased-rules-in-self-driving-cars-policy
-    ampUrl: https://www.law360.com/amp/articles/1232568
-    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232568
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
-  - title: "Watch: Mobileye’s self-driving car on streets of Jerusalem"
-    excerpt: "Intel Corp. has released a video showing a Mobileye self-driving car navigating the streets of Jerusalem using cameras but no other sensors. The video was released by Intel, which acquired the Jerusalem-based Mobileye in 2017 for a whopping $15.3 billion, at the 2020 Consumer Electronics Show (CES) in Las Vegas, where Mobileye also announced ..."
-    publishedDateTime: 2020-01-09T13:12:00Z
-    sourceUrl: https://www.timesofisrael.com/watch-mobileyes-self-driving-car-on-streets-of-jerusalem/
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
+      name: Automobile
+      domain: automobilemag.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.036C145036BC45A59B6F375DD441FAFB
+      - url: https://www.bing.com/th?id=ON.806E7E58AFB6D280F90A3F0D8D677319
         width: 700
-        height: 437
-  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
-    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
-    publishedDateTime: 2020-01-07T12:13:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+        height: 367
+  - title: "Toyota Building a City Japan That Hates Human-Driven Cars"
+    excerpt: "A traditional closed test track can't replicate the unpredictability of real life on the streets and sidewalks of America, and few of us normal people are eager to share our morning commute with experimental driverless vehicles. So, what's a big-time car ..."
+    publishedDateTime: 2020-01-07T21:02:31Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/toyota-building-a-city-in-japan-that-hates-human-driven-cars/ar-BBYIfsD
     type: article
     provider:
-      name: Computing
-      domain: computing.co.uk
+      name: Automobile on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.492F67F4F8CB602AF0472B31254E0C86
+        width: 700
+        height: 367
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
+    publishedDateTime: 2020-01-07T19:02:00Z
+    sourceUrl: https://news.yahoo.com/lidar-laser-sensing-technology-self-190205146.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
     quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
-        width: 580
-        height: 358
-  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
-    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
-    publishedDateTime: 2020-01-08T11:16:00Z
-    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
+      - url: https://www.bing.com/th?id=ON.329C807E954EFEAF82E233EDBCF01B2A
+        width: 700
+        height: 466
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
+    publishedDateTime: 2020-01-08T17:40:00Z
+    sourceUrl: https://finance.yahoo.com/news/lidar-laser-sensing-technology-self-190205368.html
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 10
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
     images:
-      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
-        width: 700
-        height: 525
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "umOniiPxM5bK+vl3j/iDzU+MzVSIpOaC/1OyQsaxCuCIj5mJmRQ+v2g/Q5D39DVjatdHxgGe2SaIeYg6jMP2nWmA1W7R48yWzm09UDWkp5O83+NRYZjwbEJHqTWUlubmQIM1vGc/QLfkoM92M8rXKvrMHlIv57CDEW+MAnZnYHItncQvwtbbC0o0tL9Fdwvipm8AfEKM8JFiOcJ00t5NtUCR+wUzaLV0sV5vHv0ScNCDvaIxe7/6B17Ix1w7luF46d4NsIbYnX7gc2CHqRtRQg==;h1QzE2tQbb1aCZF56TunlA=="
 ---

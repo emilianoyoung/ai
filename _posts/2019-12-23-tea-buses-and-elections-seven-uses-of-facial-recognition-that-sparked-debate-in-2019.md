@@ -60,36 +60,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "Is Valley Fair mall’s security robot using facial recognition?"
-    excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
-    publishedDateTime: 2019-12-20T18:55:00Z
-    sourceUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/
-    ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
-    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 91
-    images:
-      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
-        width: 1024
-        height: 768
-  - title: "ProBeat: Enough with the government facial recognition"
-    excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
-    publishedDateTime: 2019-12-20T18:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/
-    ampUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
     excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
     publishedDateTime: 2019-12-23T03:14:00Z
@@ -687,15 +657,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/igWZMCZFzb_1NKlxdwMAdw--~B/aD0yODg5O3c9MzY3NTtzbT0xO2FwcGlkPXl0YWNoeW9u/https://s.yimg.com/os/creatr-images/2019-11/4abd4530-04d3-11ea-bf9f-af6029b13702
         width: 3675
         height: 2889
-  - title: "Federal study shows face recognition accuracy varies by gender and race"
-    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
-    publishedDateTime: 2019-12-20T18:47:00Z
-    sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-21T00:30:00Z

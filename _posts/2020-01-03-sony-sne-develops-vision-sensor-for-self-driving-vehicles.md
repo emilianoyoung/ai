@@ -50,19 +50,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
-  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
-    excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
-    publishedDateTime: 2020-01-08T17:40:00Z
-    sourceUrl: https://finance.yahoo.com/news/lidar-laser-sensing-technology-self-190205368.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 23
-    images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
 
 secured: "rj0j/e+klFgJcUn7VdKlao1ktta6Nj4pzVSrVdoL3qSd2sd9Y9XFR6r4ny86il+u4EyP6fOU1jrIvYPH1l5mWMFA7ozxftV9FtnZU1sJPYiontmxjprfqjQujqAvLwPcBDzA0ls7coCNXQRMwPXrA06Khs6Rac2FX7P6j3mJZx+3tTRXnEmh9m2Uo6Yu3L++1+9lcwEAGYSGQlmaj1XInachL9/NJZjQzSiUHeD9B41xXJt2z9plvcWzQM1sNeP8YJwlTAGU7NLoeDZbwtwrwA==;LrPOPgUSsj0UH+Y8sfX95Q=="
 ---

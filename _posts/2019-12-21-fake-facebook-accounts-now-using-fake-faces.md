@@ -26,21 +26,6 @@ images:
     title: "Fake Facebook accounts now using fake faces"
 
 related:
-  - title: "Facebook, Twitter disable sprawling inauthentic operation that used AI to make fake faces"
-    excerpt: "Facebook and Twitter on Friday disabled a massive, global network of fake accounts that pushed pro-Trump messages and covered its tracks using inauthentic photos generated with the aid of artificial intelligence. The use of AI to trick social-media ..."
-    publishedDateTime: 2019-12-20T18:21:00Z
-    sourceUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/
-    ampUrl: https://www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2019/12/20/facebook-twitter-disable-sprawling-inauthentic-operation-that-used-ai-make-fake-faces/?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 150
-    images:
-      - url: https://www.washingtonpost.com/resizer/x5H-OQpIEL-bhlE_kZGB-KLLQE8=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5QPN6BCZMI6VMBU3Z64FNIZTM.jpg
-        width: 1440
-        height: 960
   - title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
     excerpt: "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,"
     publishedDateTime: 2019-12-20T20:43:00Z
@@ -56,6 +41,21 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
+  - title: "Facebook Removes Accounts With AI-Generated Profile Photos"
+    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
+    publishedDateTime: 2019-12-20T20:21:00Z
+    sourceUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/
+    ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
+    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
+        width: 400
+        height: 430
   - title: "Facebook removed fake accounts that used AI to create fake profile pictures"
     excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
     publishedDateTime: 2019-12-20T21:51:00Z
@@ -101,21 +101,19 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
         width: 1200
         height: 797
-  - title: "Facebook Discovers Fakes That Show Evolution of Disinformation"
-    excerpt: "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch Media Group, parent company of the Falun Gong-related publication and conservative news ..."
-    publishedDateTime: 2019-12-20T20:22:00Z
-    sourceUrl: https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html
-    ampUrl: https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html
-    cdnAmpUrl: https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html
+  - title: "Facebook removes accounts with AI-generated profile photos"
+    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
+    publishedDateTime: 2019-12-23T14:30:00Z
+    sourceUrl: https://arstechnica.com/tech-policy/2019/12/facebook-removes-accounts-with-ai-generated-profile-photos/?comments=1
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
     images:
-      - url: https://static01.nyt.com/images/2019/12/20/business/20takedown3/merlin_166226280_01e1cbc9-c350-4082-8c26-13e406edc001-facebookJumbo.jpg
-        width: 1050
-        height: 550
+      - url: https://www.bing.com/th?id=ON.1B6429B6A645C009FB38E2F188FC753C
+        width: 700
+        height: 350
   - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
     excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
     publishedDateTime: 2019-12-22T12:58:00Z
@@ -202,19 +200,19 @@ related:
       - url: https://www.bing.com/th?id=ON.328E1541D746291061CED01A26FFA669
         width: 700
         height: 466
-  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
-    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
-    publishedDateTime: 2019-12-21T16:42:00Z
-    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
+  - title: "Facebook removes manipulative accounts with AI-generated pics"
+    excerpt: "SAN FRANCISCO • Facebook has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers have said. Researchers from the New York-based Graphika and the Digital Forensics Research Lab, an arm of the Washington-based Atlantic ..."
+    publishedDateTime: 2019-12-21T21:49:00Z
+    sourceUrl: https://www.straitstimes.com/world/united-states/facebook-removes-manipulative-accounts-with-ai-generated-pics
     type: article
     provider:
-      name: Dhaka Tribune
-      domain: dhakatribune.com
-    quality: 36
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
-        width: 443
-        height: 249
+      - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
+        width: 1200
+        height: 799
   - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
     excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
     publishedDateTime: 2019-12-20T19:50:00Z

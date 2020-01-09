@@ -28,6 +28,19 @@ images:
     title: "Meet the 11 power players helping Amazon's massively profitable cloud uphold its market dominance over Microsoft and Google"
 
 related:
+  - title: "The CTO of LinkedIn explains how and why it's making the massive shift to Microsoft's cloud, 3 years after the $26.2 billion acquisition"
+    excerpt: "LinkedIn CTO Raghu Hiremagalur explains why it's moving to Azure after three years under Microsoft's fold. It plans to go all in on Microsoft's cloud."
+    publishedDateTime: 2020-01-09T19:22:00Z
+    sourceUrl: https://www.businessinsider.com/linkedin-microsoft-acquisition-azure-cloud-2020-1
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: https://www.bing.com/th?id=ON.BDFACF58D8C319ECCA0D94F611882D85
+        width: 700
+        height: 350
   - title: "The CTO of LinkedIn explains how and why it's making the massive shift to Microsoft's cloud, three years after the $26.2 billion acquisition"
     excerpt: "LinkedIn CTO Raghu Hiremagalur explains why it's moving to Azure after three years under Microsoft's fold. It plans to go all-in on Microsoft's cloud."
     publishedDateTime: 2020-01-08T21:03:00Z

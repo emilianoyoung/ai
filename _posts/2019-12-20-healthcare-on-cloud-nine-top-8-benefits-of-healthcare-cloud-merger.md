@@ -24,19 +24,19 @@ images:
     title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
 
 related:
-  - title: "NAM report: The success of healthcare AI depends on building consensus"
-    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
-    publishedDateTime: 2019-12-20T18:23:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
+  - title: "Harness AI power to transform healthcare"
+    excerpt: "To address the twin problems of diagnosing cancer early and to treat it at a fraction of the cost, the field of Artificial Intelligence must be explored In 1910 ... With 11.5 lakh new cancer patients being registered every year in the country, the healthcare system is reeling under overburdened workforce and inadequate infrastructure."
+    publishedDateTime: 2019-12-27T19:11:00Z
+    sourceUrl: https://www.dailypioneer.com/2019/columnists/harness-ai-power-to-transform-healthcare.html
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 54
     images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
+      - url: https://www.dailypioneer.com/images/logo.jpg
+        width: 325
+        height: 325
 
 secured: "ruYluBvpLPeRyvuSEdpAjN5S0Z8ScLOfhhMO0Y/toNKppT7rTPXdIXZHhUiv/Eu5N8NmbhLE1hjLCuEB57C2WKOQibxPWcHOttkKic6EEzXntSHnlHrjXc/G9uI+J28WKERlSvq7WdRMhAw7Bk8owqffczeLzTsFljPrS/wzDW9vWFltdFp6jo/w2cEKk8FuKC1YoKSrMm1gdH2GOUpaiPaGG5InKFwPwgJZ2OvMvyFMymV13bkd50XgEDGgpwztmUSZXZpfoITZZsECvg6kCA==;8bP/Lt+q1pOVRqSqBIOcrg=="
 ---

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "IBM to Google: Istio, Knative, TensorFlow should be under 'open governance'"
-excerpt: "The kinds of projects IBM has in mind are the Kubernetes-related Istio and Knative, and the TensorFlow machine learning framework – all of which happen to be managed by Google. For its part, Google has maintained that it will not donate Knative and Istio to a foundation for the foreseeable future. An open letter from the Knative steering ..."
+excerpt: "The kinds of projects IBM has in mind are the Kubernetes-related Istio and Knative, and the TensorFlow machine learning framework – all of which happen to be managed by Google. For its part, Google has maintained that it will not donate Knative and Istio ..."
 publishedDateTime: 2019-12-20T09:52:00Z
 sourceUrl: https://www.theregister.co.uk/2019/12/20/ibm_istio_knative_tensorflow_should_be_under_open_governance/
 ampUrl: https://www.theregister.co.uk/AMP/2019/12/20/ibm_istio_knative_tensorflow_should_be_under_open_governance/
@@ -25,6 +25,6 @@ images:
     height: 448
     title: "IBM to Google: Istio, Knative, TensorFlow should be under 'open governance'"
 
-secured: "ud7IL0PRIpRcxR8KThsQl/gTvZIqS3U52oufKFmznaf4ExSpJ/go9uz9D/z6xFdicKzrlrKNj/kbtBrltpLCJeecUr90JjjMneT2mj90hrJa44fvH5Kg5YBw1M+ZcO//Uvd382MNtERZzRAgmPv2BsCTIISpi+n89I7dH/UNf8FrE5kxo4BXz8ISKwWoynXSSRPbB8BrvD9B9rOdlqJ1OxIQlq8v6AbyVhnRzYy4u6IQgMxiXWrRXMlj4AgeTURrAn55ZrMhmD32XDWP+fib9Q==;nujVOasGywVQLRhe9ftlEQ=="
+secured: "N1rNlIFwWt99I1Q+RxUpueMG+NW694Pme8VwQ9GHgI3Vm2/kEyAGxOXzya0dL17yY3Nwg/CDJTCfEuKbm2jaPK/ZxWpBN03NLvXnOEy3n862bnWTJHyL2/+N8MLcbdy0dInuvZBzClzY8jIHuRdIJ0ZwVMkQFfOCKkLELITnpiouK6t7j07lo6FD5Rk7DjUXK6jz9FQHxiezFDN2KPB8WQXc96P/Lm0OAG8wKCPhIA4F3knaaAczVgzwOEu+sPw0U04GjlVs8gVQiY0KcqVIKQ==;ixslm01Mi6hK+8OIDjOaKg=="
 ---
 

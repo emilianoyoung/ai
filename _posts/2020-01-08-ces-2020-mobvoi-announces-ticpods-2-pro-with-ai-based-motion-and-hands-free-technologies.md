@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpo
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-mobvoi-announces-ticpods-2-pro-with-ai-based-motion-and-handsfree-technologies/
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2E2776383204F03F441E0772957DE5F8
         width: 700
         height: 393
-  - title: "CES 2020: The ten best new technologies coming out of Las Vegas"
-    excerpt: "uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing difficulties to understand them. OrCam’s founders, Amnon Shashua and Mr. Ziv Aviram, previously founded Mobileye, a driverless car company that was sold to ..."
-    publishedDateTime: 2020-01-06T10:35:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-ten-best-new-technologies-coming-las-vegas/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
-        width: 700
-        height: 436
 
 secured: "1or1vThaecOhOSbP3h4RbayJjlQ8IX3tMN4HTRVva85OXIY29mYKVaQ7h9GEJ/bmndoswZxbcPFpRXsJjP31bvRyaf4uuyXFTH/sC/wP5on0613m0NE/q8K82D1QzmHotgKbD+exlBJgx7YXpHFsdXjvQsnzfcY5fpydBcs4auuLeypPspU62DYfly1ZHtco2rVus2NpgJCqIjSPcYYKwdWP8GV8U3f7ZhhhM4fardlA1tvj/YLCOsS9KtAbL2y/UYS7JKj+jQcEycNa5rk70A==;gHdTlx1SHfk6pQAyJToFQQ=="
 ---

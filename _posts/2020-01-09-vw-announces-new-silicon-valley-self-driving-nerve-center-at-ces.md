@@ -97,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.04CF764C8E08DC8698725F3B4CC0841C
         width: 700
         height: 350
+  - title: "FTC commissioner on new tech like self-driving cars: I 'see lots of risk'"
+    excerpt: "Among the self-driving cars, connected gadgets, and promises of a reimagined world powered by 5G at CES 2020, FTC Commissioner Rebecca Slaughter sees new risks of cybercrime. It’s not just the physical products on hand at the massive consumer tech convention,"
+    publishedDateTime: 2020-01-09T19:33:00Z
+    sourceUrl: https://finance.yahoo.com/news/rebecca-slaughter-on-5g-self-driving-cars-and-privacy-192635027.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.A64EAFBC97A3AC3E9F859B1910E25482
+        width: 700
+        height: 489
 
 secured: "HGvz8qRCWNL8kqYInVYLaZB0qhFCwrnZZEa1lRlWPxpnwfzjtbfFvoorCo35r+q61neGPgd7JMa0MZLiDsL3FafD/ysrpM/kwMVQw/N3PValVZAOKvO24e+D9LyVmlaD/xUdwM9+AGuCR5d82GeTz0pG2WBQ3FtnJfdTdVxB8QvTFDbN+1+3Qol1ulelqIWWc1BxA1OQITmWYzmYUzXr0mdO+mCW0p+Sf3zE8LA5LSMeeg4h+U1iYRZsbGFAGVydqAtMzcRrbN0tYmgSwFiXJg==;YoSXe3p0nXEgeW7rXAk8Cw=="
 ---

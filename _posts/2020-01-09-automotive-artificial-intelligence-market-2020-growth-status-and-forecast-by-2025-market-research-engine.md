@@ -2,8 +2,8 @@
 category: news
 title: "Automotive Artificial Intelligence Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
 excerpt: "New York, January 09, 2020: The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type, Offering type, Process type, Application type and Regional Analysis. By Technology type this market is segmented on the basis of Context Awareness,"
-publishedDateTime: 2020-01-09T08:13:00Z
-sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-09
+publishedDateTime: 2020-01-09T02:54:00Z
+sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
 type: article
 quality: 49
 heat: -1
@@ -295,6 +295,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "rwFJJC5uARsU2uedKWeXNtITvDbpeXbnnP1zU7skdPnekaH1iBkexDOhmi5GpK621ma8F0ce8cUXsm/29gwtRgEOdDmeHZiH5Rqimvi27vkXzJB53ErfsXcEz/1xv4ST3Q7BgDU5vDeQgyDtYC7GERJCq+RoggJCLpmehF9AX/uN98FLfpoVuJ6qCDgxJWr9ZuQNfL4nZ0PzGHfJUDjyq27bqhC0o5vDsiqpesLo9RaQXIQb7CS1VgkNIwGuPFS7zcmhs76AxWwKMZX0wvUBkQ==;HuZtvDPwwMApn6gxPEwFlg=="
+secured: "cmqyrI/BR6+duPqG3REX+0NeMgvKNs7GLGCYAAF18F467B0uZob+zhcux9SlTsq7FRx7XExYvWaStAM/uzoH0/RnRsMZLU2V2bDLk62vMu9AH4sFp79mmbW+kysvR1JHHGbWZg9gV65kEdG78JAbFwzUP7NxatzrFlYhOijUszGCPGLzpvNNkK+qn+GNCtcLXc5OlgXjoipQStGLwuW2uzhu9x2FZpomzlptU3ju8+u4ialFUtBPBe+ytCo2YxHnpPYijZ5v87zJNdZFeoWeSQ==;1a6UJd9K0H9vle6nG6vBWg=="
 ---
 

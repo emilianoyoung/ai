@@ -8,7 +8,7 @@ ampUrl: https://www.voanews.com/usa/all-about-america/robots-stole-blue-collar-j
 cdnAmpUrl: https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/usa/all-about-america/robots-stole-blue-collar-jobs-now-ai-coming-white-collar-workers?amp
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -41,6 +41,21 @@ related:
       - url: https://www.bing.com/th?id=ON.C2D0656B2C6F0F423A73307B29FFE36A
         width: 700
         height: 393
+  - title: "Robots: Now coming to a workplace near you"
+    excerpt: "Robots excel at straightforward, repetitive tasks that tend to be mundane and ... The social media giant said it would ban \"deepfake\" videos made using artificial intelligence, as long as they're not satire and might mislead \"an average person.\" More than 4,500 companies, including startups and industry powerhouses, will showcase their new ..."
+    publishedDateTime: 2020-01-09T19:12:00Z
+    sourceUrl: https://www.cbsnews.com/news/robots-now-coming-to-a-workplace-near-you/
+    ampUrl: https://www.cbsnews.com/amp/news/robots-now-coming-to-a-workplace-near-you/
+    cdnAmpUrl: https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robots-now-coming-to-a-workplace-near-you/
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.DD2B75534A77E90F15E44F68207A4D99
+        width: 700
+        height: 367
 
 secured: "Cyx7kcblRiiZEMRZ/oIEG0VzFlsiDBSTUB4CHBBFw0LI4dysUVTrLA0qZvEykywg0H+5KnyXtQF5ZGHKnpeBcmtAWDmOjlml1ALMmRyxs0Hmg9P8ITgohtysHExcsgkUy830rQmMvDBZra7MQdOHCVo82isWOtQ4UzM62CqpGjUrLU7l9+hlkg11qCDunUkfuc0x1dkh0boH0TOHt50gusw1aGa9Nyj3sjLrSSNpjde9tIvlQBQ4fsS2O3F9poUSh1sHrhlxTDczmL4USZ6O5Q==;ixTX9tBCXqtFMYCVbtWt6w=="
 ---

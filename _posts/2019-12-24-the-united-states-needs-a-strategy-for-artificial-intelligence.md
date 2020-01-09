@@ -53,19 +53,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
         width: 1199
         height: 675
-  - title: "National Defense in the Age of Ethical AI"
-    excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
-    publishedDateTime: 2019-12-20T18:43:00Z
-    sourceUrl: https://www.theatlantic.com/sponsored/booz-allen-2019/national-defense-age-ethical-ai/3235/?preview=1
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.48B97274BD3784E5B67D7DE82ABA69EE
-        width: 700
-        height: 424
   - title: "AI used for creation of novel, unconventional artworks"
     excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
     publishedDateTime: 2019-12-23T06:49:00Z
