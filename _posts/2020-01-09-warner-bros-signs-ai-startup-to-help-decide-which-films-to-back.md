@@ -1,25 +1,31 @@
 ---
 category: news
 title: "Warner Bros. signs AI startup to help decide which films to back"
-excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
-publishedDateTime: 2020-01-09T10:38:37Z
-sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
+excerpt: "“right now, an AI cannot make any creative decisions” “Artificial intelligence sounds scary. But right now, an AI cannot make any creative decisions,” Queisser told THR. “What it is good at is crunching numbers and breaking down huge data sets and showing patterns that would not be visible to humans. But for creative decision ..."
+publishedDateTime: 2020-01-09T10:38:00Z
+sourceUrl: https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+ampUrl: https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Verge on MSN.com
-  domain: msn.com
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: /assets/images/organizations/theverge.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
+  - url: https://www.bing.com/th?id=ON.4B3EEC6ABCD0C42E12CB70FB4C5DD0A0
     width: 700
-    height: 367
+    height: 366
     title: "Warner Bros. signs AI startup to help decide which films to back"
 
 related:
@@ -53,7 +59,20 @@ related:
       - url: https://www.bing.com/th?id=ON.886BA77FE1DBB7144554D606B76D2AC6
         width: 700
         height: 525
+  - title: "Warner Bros to start using artificial intelligence to help with movie releases"
+    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
+    publishedDateTime: 2020-01-09T12:10:00Z
+    sourceUrl: https://sg.news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 33
+    images:
+      - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
+        width: 700
+        height: 466
 
-secured: "zOiHfNnykisQgEW75A5Mz714VU77vYF+vFgyVmGiZDwnpwGXPt90XYaUJtEAF7vlXmCQNzlR9sxMgLUQ/9V1sa4CltSu8gwUNEvpreYMSjt0yP4UjaNypiREjdl0J/+WSyoZfpO4JS5Q6NcFdtZUr1N3MIzVOh+QPBKS4vtU/ma8JUaI5sdksMwBBVXBSaBpP3uyx2E29pDbnEdicdr02vFm9x6x8RFsUC9v9LV882mUwlmYLaSo4ZQ0wFY9bOyjodv2D+snpOJAoQ3Cp7V3rw==;2DCv7/TT9+PdDvbtsVmQxg=="
+secured: "TgckeRJTKXAxmJvcRgKk7EhYARwqWOOHuueOsYXm6KwOPmxR7rFgFGdSp0g/tYqYv352yC2I2bwWb8DQ+HgMsOlhqVz0GfSt4LBTKy7vcb/9l7M39L1xMkBHLEWtbrqcKnbUaQSBnTGvaOMe2RyCMHMNAxcgfN+jyaVLa3Q1Zupj24ZOTgypkoU7MFZ4Q4igu/8o5r8pFVlTu4v+dYkphjKyc1v3/4WXBgYqsM+MlDu0Imv3raPf53yH3pkIComqE18QoU6LE6FkZyf3MEKkZQ==;gT47Neqy3G8HU2fHVHae1Q=="
 ---
 

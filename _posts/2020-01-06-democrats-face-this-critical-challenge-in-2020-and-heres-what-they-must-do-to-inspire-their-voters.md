@@ -26,19 +26,6 @@ images:
     title: "Democrats face this critical challenge in 2020 — and here’s what they must do to inspire their voters"
 
 related:
-  - title: "The Technology 202: Silicon Valley will face new challenges in 2020. Here's what we're watching."
-    excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants’ power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading ..."
-    publishedDateTime: 2020-01-06T14:13:00Z
-    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/06/the-technology-202-silicon-valley-will-face-new-challenges-in-2020-here-s-what-we-re-watching/5e12353f88e0fa32a51474e2/
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 11
-    images:
-      - url: https://www.bing.com/th?id=ON.83F59B4B78183541FE867D075ADB0F72
-        width: 700
-        height: 465
   - title: "Silicon Valley will face new challenges in 2020. Here's what we're watching."
     excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants' power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading an ..."
     publishedDateTime: 2020-01-06T15:50:00Z

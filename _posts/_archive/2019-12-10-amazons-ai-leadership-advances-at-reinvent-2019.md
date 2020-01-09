@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Amazon's AI Leadership Advances at re:Invent 2019"
-excerpt: "AWS breaks down its capabilities across three domains: frameworks and infrastructure, ML services which includes Amazon SageMaker, and its suite of off-the-shelf models, developer APIs and services. Over a dozen announcements were made in ML spanning these ..."
+excerpt: "These include: Amazon Rekognition Custom Labels, which allows organizations to build custom ML-based image recognition capabilities to identify objects or images specific to their business; Amazon Fraud Detector, which detects online identity and payment f ..."
 publishedDateTime: 2019-12-10T15:29:00Z
 sourceUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/
 ampUrl: https://www.cmswire.com/information-management/amazons-ai-leadership-advances-at-reinvent-2019/amp/
@@ -19,6 +19,6 @@ topics:
   - AI
   - AWS AI
 
-secured: "eKVFWvTEZj6ZJ4c+kPLqUe536Akc3K0N9C4Z6CVQQTztfajgERJqx41BlcF2YC5qEJvIm5QCEcIaKmqSCPBXUhUhfd5DIO6rZAFPfW/AROjR9W1ZvnRPetn4nR8GUZ63UI1fD4e0kbh6tnvdO9Xrj4dA1iYuaxAGiD8eBVrH+xMUEOJpFRJPG345WF1PRh3UeQICNZ/iZA0Nmf1miVXP1/hvwo84BJM8xafAUpkoNJf7uoY+xANeyrHfpvJOe1F3b9dFRu/FkYzWnlt8vDEQdg==;FmnRBh4O67vWgjcJM2G1kw=="
+secured: "rBZz2cgc+UkPIqGF5dhRe4GPzeTJaJ0DoYZkH/qtI8L0U56NPKDCughZCa4fw3XMsCgaGWQlMkBLuawtOXVTSfZAMXV8xWGVA4UdY6/krK/XVc01HqJiYQV/dCbh57vdQXgtyTCIXkMODu7B3Q5jrIywz/8jdp/W/d4g6OMxTZuQ9mtx7vDxB+0y8vuZw2iTqH73n+QDmaAtDt10ZTehB/nKgSg6kIYVru7J7o1FSorh85mEeVMZapggvr5yxNEjZ602uvwtgf9tMFt6H3lh9g==;vWgaDGRRmyRUj2skRSAJoA=="
 ---
 

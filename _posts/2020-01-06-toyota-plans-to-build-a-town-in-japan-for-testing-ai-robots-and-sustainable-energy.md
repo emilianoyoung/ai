@@ -244,6 +244,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
         width: 700
         height: 437
+  - title: "Self-driving shuttles mapping and testing, coming soon to Linden area"
+    excerpt: "COLUMBUS (WCMH) – Life could soon be getting a little easier for residents in the south Linden area. Through a grant funded pilot project, SmartColumbus is bringing two self-driving shuttles to the area. They are currently in the mapping and testing phase. “There’s definitely a sense of excitement just seeing them, seeing something ..."
+    publishedDateTime: 2020-01-09T11:08:00Z
+    sourceUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/
+    ampUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    cdnAmpUrl: https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4F63490687C4894A297A75B8AAA3E6A8
+        width: 700
+        height: 393
   - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
     excerpt: "Makers of self-driving car supporting technology Lidar are looking at other avenues to work in while waiting for the autmobiles to take off. Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new ..."
     publishedDateTime: 2020-01-09T11:30:00Z

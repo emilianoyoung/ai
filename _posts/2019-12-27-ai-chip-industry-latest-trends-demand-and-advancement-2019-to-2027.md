@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-27T04:58:00Z
 sourceUrl: https://www.marketwatch.com/press-release/ai-chip-industry-latest-trends-demand-and-advancement-2019-to-2027-2019-12-26
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -80,21 +80,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
-    excerpt: "Lagging in semiconductors, China sees a chance to overtake the US with AI chips as 5G ushers in new era 4. Modular design method will makes chips easier and faster to develop. The traditional method of chip design “cannot efficiently respond to the fast evolving, fragmented and customised needs of chip production”, the Damo Academy said."
-    publishedDateTime: 2020-01-02T23:28:00Z
-    sourceUrl: https://www.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    ampUrl: https://amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    cdnAmpUrl: https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3044381/alibabas-tech-brain-trust-sees-new-ai-advances-industrial-iot
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 50
-    images:
-      - url: https://www.bing.com/th?id=ON.5176A19A7044A2FE9450B6C1146DC8EB
-        width: 700
-        height: 367
   - title: "Healthcare Provider Analytics Market Latest Trends, Technology Advancement and Demand Forecasts, 2019 – 2026, IBM, SAP, Microsoft, HPE, Cisco, TIBCO"
     excerpt: "Advanced analytics consists of the most common interrelated technologies of artificial intelligence / machine learning, natural language processing (NLP) and extraction, and big data technologies. Although not widely distributed in healthcare, all of these techniques and techniques are used at varying levels in most of the vendors introduced in ..."
     publishedDateTime: 2019-12-27T04:25:00Z

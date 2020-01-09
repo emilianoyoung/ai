@@ -129,6 +129,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
         width: 635
         height: 400
+  - title: "Feds largely leave self-driving-car rules to makers"
+    excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
+    publishedDateTime: 2020-01-09T12:34:00Z
+    sourceUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers
+    ampUrl: https://www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+    cdnAmpUrl: https://www-dispatch-com.cdn.ampproject.org/c/s/www.dispatch.com/business/20200109/feds-largely-leave-self-driving-car-rules-to-makers?template=ampart
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.F973CBD6981BF110DF6DD500B5577C4A
+        width: 700
+        height: 498
   - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
     excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
     publishedDateTime: 2020-01-07T02:46:00Z

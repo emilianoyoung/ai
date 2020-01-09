@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-c
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Warner Bros. will use AI to help make decisions on movie releases"
 
 related:
+  - title: "Warner Bros. signs AI startup to help decide which films to back"
+    excerpt: "“right now, an AI cannot make any creative decisions” “Artificial intelligence sounds scary. But right now, an AI cannot make any creative decisions,” Queisser told THR. “What it is good at is crunching numbers and breaking down huge data sets and showing patterns that would not be visible to humans. But for creative decision ..."
+    publishedDateTime: 2020-01-09T10:38:00Z
+    sourceUrl: https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.4B3EEC6ABCD0C42E12CB70FB4C5DD0A0
+        width: 700
+        height: 366
   - title: "Warner Bros. will use AI to decide which movies to green light"
     excerpt: "\"The system can calculate in seconds what used to take days to assess by a human when it comes to general film package evaluation or a star's worth,\" said Tobias Queisser, founder of Cinelytic, the LA startup whose AI-driven project management system WB will be relying on. Despite making a $1 billion hit with Joaquin Phoenix-starring Joker last ..."
     publishedDateTime: 2020-01-09T00:33:00Z
@@ -44,19 +59,19 @@ related:
       - url: https://www.bing.com/th?id=ON.886BA77FE1DBB7144554D606B76D2AC6
         width: 700
         height: 525
-  - title: "Warner Bros. signs AI startup to help decide which films to back"
-    excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
-    publishedDateTime: 2020-01-09T10:38:37Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
+  - title: "Warner Bros to start using artificial intelligence to help with movie releases"
+    excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
+    publishedDateTime: 2020-01-09T12:10:00Z
+    sourceUrl: https://sg.news.yahoo.com/warner-bros-to-start-using-artificial-intelligence-to-help-with-movies-releases-103308407.html
     type: article
     provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 37
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 33
     images:
-      - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
+      - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
         width: 700
-        height: 367
+        height: 466
 
 secured: "VZnB0gCI/qzP1MzYHCAzIrtSZ59nsu1apt0Z6hCzsit9v8t0hLNnl30OsoKWvfv/9VBRCFXKQ7QUwsnDvWCpBul9c+KNn1wT13Z1+dy9Yka5Rji59KvTQGAliOau1rSm7FdI0SGbkjBYZU/MjtIk+3KJkudL9XCp9dwhNrgOT0qTOE1+pBSwyJnhcKZ1TzTlXr1COXd9S+8OOY7jatj+ND4FU4QqJvkRvN1xqUo9aDE0YuNm19TRWE1jkZjHhtuDhG82WqC074NIK0UjtL9oGw==;MatNSWv6+qSnCfv6As4Jdw=="
 ---

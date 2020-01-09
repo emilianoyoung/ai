@@ -215,21 +215,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7920CD8894C02750379EEE36399BC359
         width: 700
         height: 466
-  - title: "Facebook location tracking and the need for a digital ad watchdog – News roundup"
-    excerpt: "According to research from AdStage, cost per milles (CPMs) on Facebook have grown 90% year-on-year ... Back in July, Instagram launched its anti-bullying tools, including a pop-up that provided a warning to users when its AI detects that a comment they are posting could be offensive. According to the platform, this prompt has seen some good ..."
-    publishedDateTime: 2019-12-20T11:15:00Z
-    sourceUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/
-    ampUrl: https://www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
-    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/social-media-marketing/social-media-governance/news-roundup-20-december-2019/amp/
-    type: article
-    provider:
-      name: Smart Insights
-      domain: smartinsights.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.2826D893BA7265B9F8E8D44B6027F527
-        width: 550
-        height: 550
   - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
     excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
     publishedDateTime: 2019-12-20T19:50:00Z

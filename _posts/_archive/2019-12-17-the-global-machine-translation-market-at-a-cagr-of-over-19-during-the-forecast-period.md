@@ -1,21 +1,27 @@
 ---
 category: news
 title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
-publishedDateTime: 2019-12-17T19:35:00Z
-sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
+excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
+publishedDateTime: 2019-12-17T19:26:00Z
+sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Yahoo Finance
-  domain: yahoo.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+    width: 600
+    height: 315
+    title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
   - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
@@ -33,16 +39,7 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
         width: 1199
         height: 600
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-18T01:07:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-global-machine-translation-market-at-a-cagr-of-over/article_f028e5aa-dc0c-5577-930d-693d92c9e430.html
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
 
-secured: "G40OsILoAVtiLIyQJtq2xK5iiXRpNb9BrWtXNExaUkcjm6OFE7PhGnNd0ZZG/rmTlz7gHxw4UhnKa4Fr1KPs3Ss++IVoHxt0P59du5VvorTHegAHBSksgzqOfOiopSEdW0bjNmA3IXU8jW7f1xuy4zvBr2bE4ePYpDAaps71IsZpbBwQOYaVyYbP0vu6tpGJ2hSNXZLeEw57V0ulid0uQx8uJxQAYzNpO8F9kWpoXB9F+QQKLFCrxGdEfp4QfusS5jhtgweLAUTQKrsRHmTY3A==;x9TmHlMeKjDf9DbibyU/ng=="
+secured: "1fAI1+qotC0jkTYwPxLLUB1lpEOyNWWHnTKvgBtWT/RjVivmIL2TALJRhBzYXG92q1mvChMHE+E0Wtjq20WcDxYVBSlZV9LAzRsisrdiU6TTafIkoSSl/nEYihq7704c3Tk0N+ZFJCaFc1UYgY2pu2gketITzAZG+K0wJ1Tl9XF8pS90tjshISs+5/wk/H+3WZ4kXklfHAlCQrBrIOaxx+xNlUTfc4I8644IxfSaAX5Oz8AE2q3dj2uBBvqOuEEbF/rZqm2psSizg9j83T2OZw==;W+fOJky85yrqG1vyPcqO8Q=="
 ---
 

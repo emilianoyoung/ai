@@ -26,89 +26,75 @@ images:
     title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
 
 related:
-  - title: "AI Chip Industry Latest Trends, Demand and Advancement 2019 to 2027"
-    excerpt: "Major artificial intelligence applications for which AI chips are being used include Machine Learning (ML), Natural Language Processing (NLP), Expert Systems, Automated Speech Recognition, AI Planning, and Computer Vision. Machine Learning is a branch of artificial intelligence that enables machines to develop the ability of self-learning and ..."
-    publishedDateTime: 2019-12-27T04:58:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/ai-chip-industry-latest-trends-demand-and-advancement-2019-to-2027-2019-12-26
+  - title: "Three AI Technology Trends To Watch In 2020"
+    excerpt: "John Turner is the founder of SeedProd, the most popular coming-soon page solution for WordPress used by over 800,000 websites. Today we are going to take a look at the newest trends in artificial intelligence as we enter 2020."
+    publishedDateTime: 2020-01-09T12:33:00Z
+    sourceUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/
+    ampUrl: https://www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/01/09/three-ai-technology-trends-to-watch-in-2020/amp/
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Conversational AI Market Growth and Technology Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- The report titled \"Conversational AI Market\" report will be very useful to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends, SWOT analysis, policies, and clients operating in several regions. The qualitative and quantitative ..."
-    publishedDateTime: 2019-12-27T03:19:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/conversational-ai-market-growth-and-technology-advancement-outlook-2019-to-2025-2019-12-26
+      - url: https://www.bing.com/th?id=ON.8E924E479DAD5D88CD24A9C794DEA21E
+        width: 600
+        height: 315
+  - title: "Alibaba’s tech brain trust sees new AI advances, industrial IoT among big trends in 2020"
+    excerpt: "It predicted a variety of chips, designed specifically for blockchain and embedded with core algorithms, will emerge and be used in smartphones and various terminals as well as cloud computing operations. Sign up now for our 50% early bird offer from SCMP Research: China AI Report. The all new SCMP China AI Report gives you exclusive first-hand ..."
+    publishedDateTime: 2020-01-03T05:46:00Z
+    sourceUrl: https://sg.news.yahoo.com/alibaba-tech-brain-trust-sees-141623301.html
+    ampUrl: https://sg.news.yahoo.com/amphtml/alibaba-tech-brain-trust-sees-141623301.html
+    cdnAmpUrl: https://sg-news-yahoo-com.cdn.ampproject.org/c/s/sg.news.yahoo.com/amphtml/alibaba-tech-brain-trust-sees-141623301.html
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market Growth, Analysis and Advancement Outlook 2019 to 2025"
-    excerpt: "Dec 26, 2019 (Xherald via COMTEX) -- Automotive Artificial Intelligence Industry 2019 global market research report analyzes the market status, share, growth rate, future trends, market drivers, opportunities and challenges, risks and entry barriers, sales channels, distributors and Porter's Five Forces Analysis. Furthermore Ripe Olive's ..."
-    publishedDateTime: 2019-12-26T07:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-analysis-and-advancement-outlook-2019-to-2025-2019-12-26
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Speech-to-text API Market 2020 Latest Advancement and Precise Outlook – 2026"
-    excerpt: "Recent Developments:– In October 2019, Google launched a new recorder app. The new Recorder app uses speech recognition and Artificial Intelligence (AI) to transcribe lectures, meetings, and interviews, which means that it must have enhanced capacity to denote separate speakers, clarifying the audio streams. – In October 2019, Microsoft ..."
-    publishedDateTime: 2020-01-02T06:55:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/speech-to-text-api-market-2020-latest-advancement-and-precise-outlook-2026-2020-01-02
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Data Science And Machine Learning Service Market Enhancement, Rising Growth, Demand and Developments by 2025"
-    excerpt: "Jan 01, 2020 (Xherald via COMTEX) -- The Data Science And Machine Learning Service Market as of late Published Global Market look into study with in excess of 100 industry enlightening work area and Figures spread through Pages and straightforward itemized ..."
-    publishedDateTime: 2020-01-01T16:15:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: YAHOO!
+      domain: yahoo.com
     quality: 50
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Healthcare Provider Analytics Market Latest Trends, Technology Advancement and Demand Forecasts, 2019 – 2026, IBM, SAP, Microsoft, HPE, Cisco, TIBCO"
-    excerpt: "Advanced analytics consists of the most common interrelated technologies of artificial intelligence / machine learning, natural language processing (NLP) and extraction, and big data technologies. Although not widely distributed in healthcare, all of these techniques and techniques are used at varying levels in most of the vendors introduced in ..."
-    publishedDateTime: 2019-12-27T04:25:00Z
-    sourceUrl: https://www.openpr.com/news/1886221/healthcare-provider-analytics-market-latest-trends
+      - url: https://www.bing.com/th?id=ON.58633CB2E1E500BCA7EB8BDD05EF6A8E
+        width: 700
+        height: 393
+  - title: "Tech in the 2020s: Five big trends"
+    excerpt: "Put together, 5G and IOT could mean anything we want it to – and dealing with this constant flood of data would require new artificial intelligence to sift through it ... Would we move any closer to AI-powered driverless vehicles becoming a mainstay on motorways? Despite the hype, Parry pointed out that what fully automated vehicles we ..."
+    publishedDateTime: 2020-01-03T16:11:00Z
+    sourceUrl: https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12290164
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
-  - title: "Language Translation Machine Market 2019 Business Strategies, Product Sales and Growth Rate, Assessment to 2025"
-    excerpt: "The report named, *Global Language Translation Machine Market Analysis, 2014-2025* has been added to the archive of market research studies by QY Research. The industry experts and researchers have offered reliable and precise analysis of the global Language Translation Machine market in view of numerous aspects such as growth factors ..."
-    publishedDateTime: 2019-12-31T12:12:00Z
-    sourceUrl: https://www.openpr.com/news/1887841/language-translation-machine-market-2019-business-strategies
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B309304190811EB77142C1E5132140A3
+        width: 700
+        height: 466
+  - title: "Top tech trends 2019"
+    excerpt: "Equipped with machine learning, deep learning, artificial neural networks and Natural Language Processing (NLP) features, it was unstoppable in 2019-even going to the extent of altering our thinking patterns and predicting diseases that we’re likely to contract in the future. Sectors such as telecom, health, retail, lifestyle and oil and gas ..."
+    publishedDateTime: 2020-01-09T10:41:00Z
+    sourceUrl: https://www.ameinfo.com/industry/technology/top-tech-trends-2019
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.B3A16C7F7DAE4E1C09C26BE2325FC798
+        width: 700
+        height: 466
+  - title: "The Technology 202: Silicon Valley will face new challenges in 2020. Here's what we're watching."
+    excerpt: "States are also expected to take a greater role on issues such as autonomous vehicles and facial recognition. 4. Tech giants’ power and size will be under the microscope as antitrust investigations heat up at the federal and state level. Antitrust will continue to dominate the tech policy debate, especially as the House subcommittee leading ..."
+    publishedDateTime: 2020-01-06T14:13:00Z
+    sourceUrl: https://www.washingtonpost.com/news/powerpost/paloma/the-technology-202/2020/01/06/the-technology-202-silicon-valley-will-face-new-challenges-in-2020-here-s-what-we-re-watching/5e12353f88e0fa32a51474e2/
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 11
+    images:
+      - url: https://www.bing.com/th?id=ON.83F59B4B78183541FE867D075ADB0F72
+        width: 700
+        height: 465
 
 secured: "qbwzM5s6nbZFkQCYT4nnxRJbLtUAeuoAFjJyCDFjaVdIYZzMlG9XPO31T7o9VhXi1V1I9PNajH9tb8HKJnu27ifXQtS7WziLpweWFn0Cd5kBMW8DOqnR/jkISwg7GpyJIJ2ALypqzh5t4EC8l786eO4lMXc+eO+LiayM+WYR1QVQ2hGneDRUfgvdqDmeiP9t1b3i42PHkIfXlE+fDOSlMerEKGPcmvN9wkGnZT+j+1MIPCmKqgwSFy+Mye54gmLMelzGj+Z2ZLz62dmHfmwd2Q==;+wIs25vBvXmwTYfbxBB9wQ=="
 ---

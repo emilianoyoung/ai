@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,24 +31,19 @@ images:
 
 related:
   - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "This machine translation market analysis considers sales from the defense, IT, automotive, and healthcare. Our study also finds the sales of machine translation in APAC, Europe, MEA, North America, and South America. In 2018, the defense segment had a ..."
-    publishedDateTime: 2019-12-17T19:35:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-machine-translation-market-cagr-191500691.html
-    type: article
-    provider:
-      name: Yahoo Finance
-      domain: yahoo.com
-    quality: 11
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
     excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-18T01:07:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-global-machine-translation-market-at-a-cagr-of-over/article_f028e5aa-dc0c-5577-930d-693d92c9e430.html
+    publishedDateTime: 2019-12-17T19:26:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
+        width: 600
+        height: 315
 
-secured: "UYSEA8EDRBWOL8PXWW2a/9P37B/RdWCQdYBgZFvFlzprff3ShmjObXc9x53vtGh3/fVAx1aod3PUNTaCdFTqD3gW+BSUR95seQD6iUN07J6AXOAJqDWzPKJRpj1VPn/WfHHGPNcwVXEGEeLepjhcZMiAySX8og6LxEBHrZgokl0EiMamAxlJweszvw+bOOpopRzMDykb0lWEkC10hfg106MzCZzTT+El6DlGHZ6GcQuJhY95wtpVMoi2XVtO5MuTYoO7k9WoSnZW1J+h0eFLCg==;bicMrQeSedrbiaTRoBNB/w=="
+secured: "FoJpWVbDRntpX64n1nDV5OVt3eih3G6IRK1cpVO5bvaFP4JjrT2dbYv++gNviKjbpKozUK04f3h7crNihdnEH+NNhHjNkIrVKm5OiHAXc8WXBLPswnlkG6MkHr4xbPuBQ3owUZgM0lUX32XK08uTbK8n02AKfb7QIpelUq3hWTAtgswzYiWITV8mBac2+5AnTm3AFTOqAGqAPlnwJIxV+mpmWp2ZHYk88n4RlaLMCcyuetkgkH72oz/SXiNb5L5/U0E+u5uxulTyZPCz+80Caw==;n4fwHIZGxMNHwPbbBUpesA=="
 ---
 
