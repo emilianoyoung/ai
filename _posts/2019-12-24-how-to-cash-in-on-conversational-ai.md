@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A5B8B3203D13434C93047A4F6E0A52E5
         width: 700
         height: 525
+  - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
+    excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
+    publishedDateTime: 2019-12-24T01:19:00Z
+    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/
+    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
+        width: 1199
+        height: 675
   - title: "National Defense in the Age of Ethical AI"
     excerpt: "Picture a similar scenario in a future war zone—with the agents replaced by soldiers and the drones armed and fully autonomous—and you can begin to imagine how artificial intelligence (AI) promises to reshape global security. The stakes are high. According to Secretary of Defense Mark Esper, “whoever gets to robotics and AI first ..."
     publishedDateTime: 2019-12-20T18:43:00Z

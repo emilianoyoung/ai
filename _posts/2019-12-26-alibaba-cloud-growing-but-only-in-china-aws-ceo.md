@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Alibaba Cloud growing but only in China: AWS CEO"
-excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
-publishedDateTime: 2019-12-26T06:00:00Z
-sourceUrl: https://www.dailypioneer.com/2019/technology/alibaba-cloud-growing-but-only-in-china--aws-ceo.html
+excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're ..."
+publishedDateTime: 2019-12-26T10:27:00Z
+sourceUrl: https://news.webindia123.com/news/Articles/Science/20191226/3479813.html
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
   - AWS AI
-
-images:
-  - url: https://www.bing.com/th?id=ON.001BBFD194748A01F7A12D3CCB20C7FE
-    width: 700
-    height: 560
-    title: "Alibaba Cloud growing but only in China: AWS CEO"
 
 related:
   - title: "AWS CEO claims Alibaba Cloud isn't a threat"
@@ -81,6 +75,6 @@ related:
         width: 700
         height: 350
 
-secured: "z1V01pHdBSm6R/uodHygXuyPdynpOhlln4Vx1zLUFaFX+AfIFLCg5x5ERxInNylde+jvB4+SDuRfUuJbbgVXcMUVol8zo8eHx4l+bLFJx3cbNTuD1LPWn7ezJ5rPZWH5GGWjmmxl5u9guIrgaKf2mcd9r/xeRkPuaLTcnmFmV6CYiRvRt+ADYKoatnCeffWt2ojGvozFWyacmytoJCOXC8jAd2kl221LUzQuWMOfx/empnf8DVo9IY68zXsBUt355h6NX/XSWElYB5SLFst09A==;8hzBzjgBouwUQn7L4yKhMQ=="
+secured: "VNVY+uqOJdrrddb0dVKE/u1BUERY3vqIcHLXVkiVwPtMAPvTAI3ekLJbysuDmHh7HN2khq7bAbK3w5o0fWPKO+zhFYw6DOaz6tDWfQlwpjqhPlQQ4909VkEFGlopKq8cfOZj39jH2ZzFetJuPmKoJm6K6+LI4DrYw5AXIyUAYhgRs85BNb9j/RctD7lRu3G0NVeLP/+Mz4wZTYkdQ+9/pFbtv4/QrmoKnB2lMHWO9od7lZ0njIpEuSg1cvML4phIYK/rc0O3u6tS5SYGoeS92g==;kgwsVzVXfh8PRgcPBuyRig=="
 ---
 

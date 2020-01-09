@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
+  - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
+    excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
+    publishedDateTime: 2020-01-09T05:00:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-09/police-criticised-for-plans-to-use-facial-recognition-cameras-at-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.6E44457506BC036E850D8E69B4B52210
+        width: 700
+        height: 393
   - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z
@@ -53,6 +66,6 @@ related:
         width: 600
         height: 315
 
-secured: "kbxl8fBdfai1v8BbAXn4ef6YKyoDfVDI8X/A4AIWvi5mbkuclgP40jhkAT+AybHitcKaI95vb6A4V4msxVZlunRyyzounsS5O3J9n4Lq3MF0G5bBfVeFzJbG75ptbkds/UqNVBwmzs69IFDufI21Nc0q1wvbhXYQqVpLaS5yDc8QGn47Q1cklciNYBDbjLm4c8as//R0UMU7nUcCkHaXnB8t1w8ZShGToJ4rEMlcHFbQHsknERzTJU3gF9ceCJWesXjn+QwLYT2aUsretNWd4Q==;p/QiY2HiDU9U1LaLTd0nyw=="
+secured: "waBj3CF4HRsqcFyyilpYU0EUHPGorozsIhbOZtxUt671YgAcf/thjWuSODnI4dEHhhcISds8GOgB+8DkkkToRBjLkqTkW5zRZgXoxiExxC5TdP1AWtFmaRTFyUg3IgCnuRxGlAAquRWv2FjWaRFV2Jal5HXY0N7hpO0eDaEI7oPSlwZaeq0DSbetlPWBtrdnugq0ddWENiuQn45KT3KnJLyjIw21PAYgrJ+6WC6dfaMp4EGSqePbnaR29z/z3fXeHBZJFz78aSKtMWixjMGzzg==;VA5rS5Mbj5t9Oc+1ALKJBg=="
 ---
 

@@ -147,19 +147,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
-    publishedDateTime: 2019-12-20T05:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Global Artificial Neural Network Market Analysis & Trends During the Forecast Period, 2018-2028 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Artificial Neural Network Market Analysis & Trends - Industry Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Neural Network Market is poised to grow strong during the forecast period 2018 to 2028. Some of the prominent trends that the market is witnessing ..."
     publishedDateTime: 2019-12-20T16:02:00Z

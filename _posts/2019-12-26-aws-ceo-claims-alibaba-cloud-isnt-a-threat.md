@@ -54,19 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C25E1F93AFCDB173B98876E135F32619
         width: 280
         height: 210
-  - title: "Alibaba Cloud growing but only in China: AWS CEO"
-    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
-    publishedDateTime: 2019-12-26T06:00:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/alibaba-cloud-growing-but-only-in-china--aws-ceo.html
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.001BBFD194748A01F7A12D3CCB20C7FE
-        width: 700
-        height: 560
   - title: "Amazon plots quantum leap as Alibaba makes strides in cloud"
     excerpt: "LAS VEGAS -- Top cloud computing provider Amazon Web Services sees Alibaba Group Holding catching up in the sector, but largely limited to China, CEO Andy Jassy told Nikkei, with the Amazon.com unit aiming to widen the gap with the competition by strengthening efforts in such areas as artificial intelligence and quantum computing. AWS was ..."
     publishedDateTime: 2019-12-26T00:13:00Z
@@ -80,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.F951046B07FA4F2E1789601153C43642
         width: 700
         height: 350
+  - title: "Alibaba Cloud growing but only in China: AWS CEO"
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're ..."
+    publishedDateTime: 2019-12-26T10:27:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Science/20191226/3479813.html
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "ijqj4b66cKFO7iQX55jz3x7JnEBjxSq1EpUTX8rcU1Y32wrr9Ps8jlPcS1eKXwCSifALaQrYfiUm5AinG84Y7PhxpygKN9HEDz/R/eC0X2sFGS26c9obeefX1/G2FXtlRBYYoKxOP2xyRFHRRm+xWhX7/syfqsGuitW3Fd6LOJ1AcYBK/2ngVgguUEnLLmMUvnmvjIXu7cDXOqKjaP9Mdv8pWKZ8/k+xeE/YYQAcOMlCUtR+cCr/BQHwtZAfA3WfuxbcyyZOAUk/w0SgBSMfsg==;dT70zd03nEM2CAq8+6jAUw=="
 ---

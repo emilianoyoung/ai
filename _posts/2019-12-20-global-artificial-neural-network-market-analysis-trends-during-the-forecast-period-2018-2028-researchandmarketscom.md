@@ -152,19 +152,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence as a Service Market Business Opportunities, Current Trends & Industry Analysis by Key Players and Forecast - 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- The Global Artificial Intelligence as a Service Market Report is highly intended to offer robust acumen considering Artificial Intelligence as a Service Market industry to aid a market contender with insightful analysis for Artificial Intelligence as a Service Market size, share, competitive scenario ..."
-    publishedDateTime: 2019-12-20T05:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-business-opportunities-current-trends-industry-analysis-by-key-players-and-forecast---2025-2019-12-20?mod=mw_quote_news
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial Intelligence (Ai) In Manufacturing Market Size, Growth and Forecast to 2025"
     excerpt: "Global artificial intelligence (ai) in manufacturing market is estimated to grow at a CAGR of 33.5% during the forecast period (2019-2025). The global AI in manufacturing market value was nearly $1.3 billion in 2018 which is estimated to reach around $9.8 billion in 2025. AI is widely applicable in various sectors such as healthcare ..."
     publishedDateTime: 2019-12-26T09:56:00Z

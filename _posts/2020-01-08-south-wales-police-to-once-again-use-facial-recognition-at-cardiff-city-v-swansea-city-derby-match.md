@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.C4ED7DD5487182F1B725A9B9F9D1223B
         width: 700
         height: 367
+  - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
+    excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
+    publishedDateTime: 2020-01-09T05:00:00Z
+    sourceUrl: https://www.itv.com/news/wales/2020-01-09/police-criticised-for-plans-to-use-facial-recognition-cameras-at-cardiff-v-swansea-match/
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.6E44457506BC036E850D8E69B4B52210
+        width: 700
+        height: 393
   - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

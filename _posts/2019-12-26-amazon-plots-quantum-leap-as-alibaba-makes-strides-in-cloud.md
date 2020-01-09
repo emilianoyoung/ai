@@ -68,18 +68,14 @@ related:
         width: 280
         height: 210
   - title: "Alibaba Cloud growing but only in China: AWS CEO"
-    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're working with customers, and they're considering who they're going to use in China is where we mostly see them. I don't think they have much of a presence in ..."
-    publishedDateTime: 2019-12-26T06:00:00Z
-    sourceUrl: https://www.dailypioneer.com/2019/technology/alibaba-cloud-growing-but-only-in-china--aws-ceo.html
+    excerpt: "According to a report in Nikkei Asian Review on Thursday, AWS is set to take a big leap with Artificial Intelligence and quantum computing. \"I would say that we mostly see Alibaba, as we're ..."
+    publishedDateTime: 2019-12-26T10:27:00Z
+    sourceUrl: https://news.webindia123.com/news/Articles/Science/20191226/3479813.html
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.001BBFD194748A01F7A12D3CCB20C7FE
-        width: 700
-        height: 560
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "tdg+J4bkRBs2rFyTb1Bo/G52X7kRsfZmebcNdw2HEmx50FzG8yVbPjK+oPgvq4vhFd6fkKxmuOMuybY9RLBApjaOW4+AB+uQjjh4HVmBJSgHyEN5dXPZn7VYyTLdmxiJAYMfpE3EVqYdbmm4mlYJFGV/vFpl3JuuVWmR5jYZtqtQoVYJ/ToA3IebBpFo8uxAnwLRMRHPZRyGW2UBZEQPf2hM+XyNaPkFGe49TzaHE6TttZDbgdZovfu3Dm7B1sZWrNnj+OTCIS4wZ+Ls8t5QDg==;q6JQEIgOHFP/IFJAvUHoaw=="
 ---

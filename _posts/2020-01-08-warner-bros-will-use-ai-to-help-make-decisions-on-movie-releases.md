@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Warner Bros. will use AI to help make decisions on movie releases"
-excerpt: "It's not making the final call on a movie, though. AI is about to play more of a role in the movie-making process. Warner Bros. Pictures has unveiled plans to use Cinelytic's AI project management system to assist in making decisions on movies during the \"greenlight process.\" No, it won't have the final say on whether or not a movie goes forward."
-publishedDateTime: 2020-01-08T22:53:00Z
-sourceUrl: https://www.engadget.com/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
-ampUrl: https://www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
+excerpt: "AI is about to play more of a role in the movie-making process. Warner Bros. Pictures has unveiled plans to use Cinelytic's AI project management system to assist in making decisions on movies during the \"greenlight process."
+publishedDateTime: 2020-01-08T23:53:00Z
+sourceUrl: https://www.msn.com/en-gb/finance/technology/warner-bros-will-use-ai-to-help-make-decisions-on-movie-releases/ar-BBYLij9
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
-      width: 50
-      height: 50
+  name: Engadget UK on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.E8478C17F9F1E92CBEE6A9B644DE51FD
+  - url: https://www.bing.com/th?id=ON.B24F991ADAF7B1DBA61403CAD8710285
     width: 700
     height: 367
     title: "Warner Bros. will use AI to help make decisions on movie releases"
@@ -45,6 +39,6 @@ related:
         width: 700
         height: 525
 
-secured: "lun+ZmSgXemF988cvLGa9QsIxRD2PKlo7WNOM1MgxRZt4+pnD8WTnPnvb3Wi1ef9ONzxhG5kyVGwacIofgWcYxKHvLgFvyM7A+EQWARNMklrezKgf+wRKeCPskmOnt1fjtKqxxVvesGSQWPvDQiPz5Kh9/+A/g/r1P1Ek41eHdgOGiVpEFxh3/XIp/CTb0/kGIM/g+265WfHr1XsdCkMvluMCaQlG6ht512tmVEE8MvBZkTjx/85amM7mUOLwootw0QzEp8dJZZPxJvmIaGQMQ==;gmoZJ97Iway41QSwINAFxw=="
+secured: "fYSnFvMuXPQdHCdZhW+6hbIP5t62esTj5fJX2Wgef9mgoF7dOX6JQtW8x7B1W0Kkh2w9DqpdMrUbWpDS3Ep5Pif47m1vqY4z7YeviHvtUjLS0zf73j1CcvOWlnVn9Z31tYXLtvugRzTq7XqKzNNz/bkOZYpp9avRIlklenks92baFVsPQ+nCzD2eEIwqL/rQdMQimzxTrZIAsAC8k+E1WP0ILl6DYg49KlK77QckT7tZI5MWUq6/2YlK/uGN5Mz06Q50uI0QcSIpJeCsn/lMKQ==;m/HCmiuAHjBy5hevRvNCgA=="
 ---
 
