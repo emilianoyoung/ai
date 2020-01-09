@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T00:47:00Z
 sourceUrl: https://customerthink.com/how-to-reduce-call-volume-with-computer-vision-ai/
 type: article
 quality: 54
-heat: 64
+heat: 65
 published: true
 
 provider:
@@ -38,6 +38,6 @@ related:
         width: 600
         height: 400
 
-secured: "VCVW76OSQBXuZvZGnDnptuoBw6WX/b414gUTd2/QnR4S6Cih3gjaea1bTHpICRKSkdV81cXWCMl4HLEXFumkkv+cJxq4NSeaES9mQAaROv/7Mtqpm2wwz/VeS3rHBmp6wvtYPRJKyjIIJyH+d2wBBuNhIQnvaS8UzEJ9SAU56EgBRsuDMnpuq5s8/eIbmcWiX9KX/OPQhyyRctbqQxKsKNSw55HnGoYlAXOgdiRW9fD1SjrggAyzFHVd+eWuGW71TynV0nZMtEWzlyvLsyRFuw==;T52jtXYRisj27lvSfXbRVQ=="
+secured: "vr+WBm8CWkl2kg/tg8PeogM2aCDWRMOmX8tGAMsaWRZ78/eMH0VOR+Wmw/rvUY98NTI3tQIFCg4P8sfYD9lvlt+BU6J/wpE5sP/721/Jd9Wy/xF9nL6aDyLPNXLC9lol/wMHUKrl1o6vbVpQfShWaKcCWuTeJ7ddOqZBMe0h65nTpEH1dhU2an7j8YO66DkxE1aGkJiS0LWS/sUi2GSjYgwCV9eIX5SZ90UE1yOcWYEF+asAXYrBJmrAhSx0tmbUdP2FoarkmxcDCollwCUKaA==;KWpiAsz/n5BduuN3wzv2WQ=="
 ---
 

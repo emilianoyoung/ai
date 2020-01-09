@@ -61,15 +61,6 @@ related:
       name: adtmag.com
       domain: adtmag.com
     quality: 13
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-25T00:06:00Z
-    sourceUrl: https://finance.yahoo.com/news/global-emotion-detection-recognition-market-140900237.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "Zg2fGbHNBpvPt632YmuWs636mMEXBa1VehIzWY0uko41U/WVRcJQ5TIguMqygA0MRHjFYGR/UpbTfcfkvog7sT/aKmDAxp1CE32r14RNLOGAEXO4UlYW2Ca4Q6DI0M7W38C4TwtT2Nfq3t5MYR4g0LnYxzvNqJy8Iw+6D5EJSKywuM+c7dv9SZMLGv96D1pyBBDjEFZW3da64ZPnf3lIt6+oWx0cLiopbhkH6Oi1QvLgSL18SLKrCkbF4Z+MrWZtsoWtli7eaySUTFHl9D6uYw==;DKX5EChdz2Upb+VnmsVCFw=="
 ---

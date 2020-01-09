@@ -8,8 +8,8 @@ ampUrl: https://www.cnet.com/google-amp/news/warner-bros-will-use-ai-to-decide-w
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/warner-bros-will-use-ai-to-decide-which-movies-to-green-light/
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: CNET
@@ -30,18 +30,16 @@ images:
 
 related:
   - title: "Warner Bros. will use AI to help make decisions on movie releases"
-    excerpt: "It's not making the final call on a movie, though. AI is about to play more of a role in the movie-making process. Warner Bros. Pictures has unveiled plans to use Cinelytic's AI project management system to assist in making decisions on movies during the \"greenlight process.\" No, it won't have the final say on whether or not a movie goes forward."
-    publishedDateTime: 2020-01-08T22:53:00Z
-    sourceUrl: https://www.engadget.com/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
-    ampUrl: https://www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
-    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
+    excerpt: "AI is about to play more of a role in the movie-making process. Warner Bros. Pictures has unveiled plans to use Cinelytic's AI project management system to assist in making decisions on movies during the \"greenlight process."
+    publishedDateTime: 2020-01-08T23:53:00Z
+    sourceUrl: https://www.msn.com/en-gb/finance/technology/warner-bros-will-use-ai-to-help-make-decisions-on-movie-releases/ar-BBYLij9
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: Engadget UK on MSN.com
+      domain: msn.com
+    quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.E8478C17F9F1E92CBEE6A9B644DE51FD
+      - url: https://www.bing.com/th?id=ON.B24F991ADAF7B1DBA61403CAD8710285
         width: 700
         height: 367
 

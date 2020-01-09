@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-mode
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/08/amazon-researchers-trained-an-ai-model-in-multiple-languages-to-improve-product-searches/amp/
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:

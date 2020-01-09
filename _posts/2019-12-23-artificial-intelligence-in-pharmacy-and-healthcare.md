@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-23T17:08:00Z
 sourceUrl: https://medium.com/@ypg.publication/artificial-intelligence-in-pharmacy-and-healthcare-9029bdbcbeb6
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "Artificial Intelligence in Pharmacy and Healthcare"
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Analysis, Size, Share, Growth, Trends and Forecast to 2024"
-    excerpt: "The report analyzes the artificial intelligence in healthcare market, By Component (Hardware, Software and Services), By Technology (Natural Language Processing, Machine Learning and Others), By End User (Healthcare Providers, Pharmaceutical Organizations ..."
-    publishedDateTime: 2019-12-20T07:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-size-share-growth-trends-and-forecast-to-2024-2019-12-30
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Artificial intelligence in healthcare sector: advancements and setbacks"
     excerpt: "Artificial Intelligence has been mastering several fields leading to a giant leap in tech evolution and healthcare is no different. With AI top trends reshaping the healthcare sector, we can see research and applications leading to results we thought never existed. It is difficult to think about growth opportunities in healthcare without ..."
     publishedDateTime: 2019-12-28T09:17:00Z

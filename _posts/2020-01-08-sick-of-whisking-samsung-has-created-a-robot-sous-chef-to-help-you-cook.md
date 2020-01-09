@@ -8,7 +8,7 @@ ampUrl: https://robbreport.com/gear/personal-technology/samsung-bot-chef-2891606
 cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/gear/personal-technology/samsung-bot-chef-2891606/amp/
 type: article
 quality: 58
-heat: 68
+heat: 69
 published: true
 
 provider:
@@ -40,6 +40,6 @@ related:
         width: 700
         height: 394
 
-secured: "LqUUGlZB4D/hNZ7oYDpHjGy1vInIf4N5C9nVdZAW7VHv9IbBJix8mzzfgRyr7b4xFgQcplj36kZTiVAIU9SQ9g2Yp+K+7Vlab/cLZ083YlIbQOrkRWoFYpY+d7pWez2BjdZjrdxxysVJNHCNpR9/MDE8OZm3VH7rIzrkW2u3k2IUfz7bBD4zAD80KdSmxojipwrt/taOTXVMKp85qTpuB2/JJWxo9D+X+LBSARgTioKheupac/C81V9UDfF2GkVfxU1a+fflDDLh9nWdVcO0HQ==;uMikmxnW1Pdhp86f2p9nJA=="
+secured: "J+izmVRNxddcsJCSuMpnaOvNuNOU8YjfiIS6BgYneBtFYGjLkPcqsjgMQq05i7aIN+prXQ4hPiiDgGqQLKETywbyzllRh4PfXF+TLCf1pUfg4CCEaQSe7NJlK8CfMZGrwMGW+ETt4EhGyrSnXR3lb/uTdde+hyT23fOpBwtuc2jw0oYNGbTsOw/QtvGMnxH7nyVIb4ReCAOyec45DihIgriAY8fG+NNXKvw5zrqpKkodldYUMYEPa21EDhaO8GLpQHcCGw8BL29oLiHc80Z2hQ==;02lqcZNGUqSKJT3I0a25NA=="
 ---
 

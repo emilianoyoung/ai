@@ -8,7 +8,7 @@ ampUrl: https://www.thedailystar.net/opinion/environment/news/arguments-using-ai
 cdnAmpUrl: https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/opinion/environment/news/arguments-using-ai-combat-climate-change-1851343?amp
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

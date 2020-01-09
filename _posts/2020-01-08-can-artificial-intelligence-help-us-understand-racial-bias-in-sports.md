@@ -8,7 +8,7 @@ ampUrl: https://theundefeated.com/features/artificial-intelligence-racial-bias-i
 cdnAmpUrl: https://theundefeated-com.cdn.ampproject.org/c/s/theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/amp/
 type: article
 quality: 59
-heat: 70
+heat: 69
 published: true
 
 provider:

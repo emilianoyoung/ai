@@ -24,60 +24,47 @@ images:
     title: "New image sensor evaluation kits to spark innovation with miniature cameras in consumer applications"
 
 related:
-  - title: "Ambarella & AWS Bring ML Solutions to Edge Applications"
-    excerpt: "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip)."
-    publishedDateTime: 2020-01-03T15:08:00Z
-    sourceUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03
-    ampUrl: https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
-    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp
+  - title: "AI in 2020: From Experimentation to Adoption"
+    excerpt: "and 40% are using pre-built AI applications, such as chatbots and virtual agents. I see the excitement building with clients every day. Consider just a couple of recent examples. Legal software developer LegalMation has leveraged IBM Watson and our natural language processing technology to help attorneys automate some of the most mundane ..."
+    publishedDateTime: 2020-01-07T19:15:00Z
+    sourceUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/
+    ampUrl: https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
-        width: 1024
-        height: 512
-  - title: "QuEST Global to Launch Solution Accelerator for Development of AI Applications Using Deep Learning at CES 2020"
-    excerpt: "This solution that will be showcased at Booth# 1909, Westgate, will enable data scientists, data analysts and data engineers to develop deep learning based machine vision applications in a fast and efficient manner with minimum effort. It offers a simplified model creation process through a visual, menu driven interface, making development of ..."
-    publishedDateTime: 2020-01-05T23:07:00Z
-    sourceUrl: https://finance.yahoo.com/news/quest-global-launch-solution-accelerator-230000351.html
+      - url: https://www.bing.com/th?id=ON.E07A4A74594198B8CF670901A25E9747
+        width: 600
+        height: 315
+  - title: "Putting Recommendation Engines to the Test in the Dell EMC AI Innovation Lab"
+    excerpt: "The retail world and its use cases for recommendation engines will be dramatically transformed by advances in artificial intelligence over the next five years ... The path to a solution The Lab team is exploring the use and optimization of neural networks to drive recommendation engines. The focus is on neural networks because they can ..."
+    publishedDateTime: 2020-01-06T08:11:00Z
+    sourceUrl: https://www.hpcwire.com/2020/01/06/putting-recommendation-engines-to-the-test-in-the-dell-emc-ai-innovation-lab/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 34
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 36
     images:
-      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
-        width: 500
-        height: 500
-  - title: "ZephyrTel Taps AI and ML with Amazon SageMake for Innovations in Telco Software Solutions"
-    excerpt: "ZephyrTel announced that it has signed a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to accelerate the migration of its end-to-end Telco software solutions suite and develop new innovations utilising artificial intelligence and machine learning (AI/ML) with Amazon SageMaker. ZephyrTel had entered into a SCA with AWS ..."
-    publishedDateTime: 2020-01-06T02:34:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16165-zephyrtel-taps-ai-and-ml-with-amazon-sagemake-for-innovations-in-telco-software-solutions
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.73B20EFAAA42242C57DF92986FB9B9D7
+      - url: https://www.bing.com/th?id=ON.65EE4A7A43EF5FF11DBBB4275BF77C0D
         width: 700
-        height: 379
-  - title: "GIGABYTE Technology Co.: GIGABYTE Brings AI, Cloud Solutions and Smart Applications to CES 2020 to Enable Future Today"
-    excerpt: "Studio area will feature GIGABYTE's state of art laptop for creators - AERO series. Since 2017, the creator laptops have been introducing advance and exclusive features such as ultra-thin screen bezel, X-Rite Pantone display calibration, and Microsoft Azure AI. With each iteration upping its predecessor in performing using the latest CPU and ..."
-    publishedDateTime: 2020-01-02T17:08:00Z
-    sourceUrl: https://www.finanznachrichten.de/nachrichten-2020-01/48524162-gigabyte-technology-co-gigabyte-brings-ai-cloud-solutions-and-smart-applications-to-ces-2020-to-enable-future-today-200.htm
+        height: 490
+  - title: "Europe's colocation boom set to continue in 2020"
+    excerpt: "With the rising popularity of e-sports platforms such as Twitch; AI-enabled technology like facial recognition; and infrastructure for driverless vehicles ... enough to pivot to respond to customer demands and changing needs as necessary. From artificial intelligence and human augmentation technology to cryptocurrency and e-commerce, the ..."
+    publishedDateTime: 2020-01-06T09:50:00Z
+    sourceUrl: https://www.datacenterdynamics.com/opinions/europes-colocation-boom-set-continue-2020/
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 17
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.A611B201AD16A925C3B0A75ADD6A62D1
-        width: 700
-        height: 457
+      - url: https://www.bing.com/th?id=ON.105AC44E922A2139AE27D81692A49436
+        width: 580
+        height: 305
 
 secured: "39s99iDihiVy/6pEsFGO4ZMTejKXJG0xUmBkic8ARypXIU0Ouo3maHk7JQj9JDBnRnPPrp8yxqOYrZs1DNian0UxvC0ObvlJohWTbiFblGxgIdshoE1wIgDL+c9BgiB2/ydotpxjr5ifL0nV1SK4USeo+/5t6sAN/fNqpvBd5uv6G9+D0aosoU5XjD+innk1l+zNWuOe64j1WSHKUV97m47b2BmyRP0iluNQVokb4/mjI0P9myedJqqYEvYdfvSWj/fLzenv4T1pCPySzBMMaw==;lp5yZaE4otW0BmaP4uGKpQ=="
 ---
