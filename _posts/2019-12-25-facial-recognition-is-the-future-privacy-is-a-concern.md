@@ -54,17 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
         width: 700
         height: 367
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning ... Hikvision and Tencent. Amazon, which markets face-scanning software to U.S ..."
-    publishedDateTime: 2019-12-19T23:43:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.usatoday.com/amp/2704291001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2704291001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
   - title: "Facial recognition fails on race, suggests government study"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-20T12:29:00Z
@@ -95,21 +84,6 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
-  - title: "U.S. government study finds racial bias in facial recognition tools"
-    excerpt: "Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to heighten increasing skepticism of technology widely used by law enforcement agencies."
-    publishedDateTime: 2019-12-19T23:39:00Z
-    sourceUrl: https://www.reuters.com/article/us-usa-crime-face/u-s-government-study-finds-racial-bias-in-facial-recognition-tools-idUSKBN1YN2V1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YN2V1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YN2V1
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: https://s4.reutersmedia.net/resources_v3/images/rcom-default.png
-        width: 1200
-        height: 630
   - title: "Federal study confirms facial recognition is a biased mess"
     excerpt: "We all knew facial-recognition technology was flawed, just perhaps not this flawed. A new study from the National Institute of Standards and Technology, published on Dec. 19, lays out in painstaking detail how facial-recognition tech misidentifies the elderly, young, women, and people of color at rates higher than that of white men."
     publishedDateTime: 2019-12-20T02:16:00Z
@@ -306,19 +280,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 66
-  - title: "Federal study: Facial recognition systems most benefit middle-aged white males"
-    excerpt: "The US National Institute of Standards and Technology today released its 2019 report on facial recognition. And there are no surprises here, it’s just as dystopian as we’ve been warning you about all year. On the group’s conclusions, Patrick Grother, a NIST computer scientist and the report’s primary author, said: While it is usually ..."
-    publishedDateTime: 2019-12-19T23:14:00Z
-    sourceUrl: https://thenextweb.com/artificial-intelligence/2019/12/19/federal-study-facial-recognition-systems-most-benefit-middle-aged-white-males/
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 65
-    images:
-      - url: https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/Facial-recognition-796x419.jpg
-        width: 796
-        height: 419
   - title: "New study shows persistent racial bias in facial recognition"
     excerpt: "A new government study has found that racial bias is a persistent problem in facial recognition software. Released by the National Institute for Standards and Technology (NIST), the study found that racial minorities are significantly more likely to be misidentified than white individuals. Researchers analyzed 189 facial recognition algorithms ..."
     publishedDateTime: 2019-12-20T21:23:00Z
@@ -753,19 +714,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9161678894862BFB614D2F2E199A8C29
         width: 200
         height: 150
-  - title: "Massive errors found in facial recognition tech, especially in case of nonwhites: U.S. study"
-    excerpt: "WASHINGTON – Facial recognition systems can produce wildly inaccurate results, especially for nonwhites, according to a U.S. government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of dozens of facial recognition algorithms showed “false positives” rates ..."
-    publishedDateTime: 2019-12-19T23:43:00Z
-    sourceUrl: https://www.japantimes.co.jp/news/2019/12/20/world/science-health-world/massive-errors-found-facial-recognition-tech-especially-case-nonwhites-u-s-study/
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 28
-    images:
-      - url: https://cdn.japantimes.2xx.jp/wp-content/uploads/2019/12/f-facial-a-20191221-870x580.jpg
-        width: 870
-        height: 580
   - title: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban"
     excerpt: "After federal study finds racial bias in facial recognition tech, advocates renew calls for ban originally appeared on abcnews.go.com Advocacy groups and lawmakers are renewing calls for a ban on government use of facial recognition technology in the wake of a sweeping new study that found a majority of the software exhibits a racial bias."
     publishedDateTime: 2019-12-20T21:17:00Z
@@ -874,15 +822,6 @@ related:
       name: MediaPost
       domain: mediapost.com
     quality: 19
-  - title: "Facial recognition systems show rampant racial bias, government study finds"
-    excerpt: "Federal researchers have found widespread evidence of racial bias in nearly 200 facial recognition algorithms in an extensive government study, highlighting the technology's shortcomings and potential for misuse."
-    publishedDateTime: 2019-12-19T23:37:55Z
-    sourceUrl: https://www.msn.com/en-us/news/us/facial-recognition-systems-show-rampant-racial-bias-government-study-finds/ar-BBYaJ6m
-    type: article
-    provider:
-      name: CNN on MSN.com
-      domain: msn.com
-    quality: 17
 
 secured: "BZ/V1QbuGlATER4ttK7Qp2PgTYBonvGNfNZJTiGWmQE0Xst8UKSktcGhEBhkAqwysv01ZLkrEf8N2f+sQZG7RSiEz6CCbmd2daBEEUZTwomYc7ZzRglxVtUdJQpvlG22nFZgKgsrcjlDJLWYN3yMaPqgl/B8kmg+HG6Hn2Jiv0kbsLbfcjSbZaVbH0j9qzvuCLvhmQnmcp18iBEXGSCCjLvyHnjqh4Xez6qqgQcG+b9bgPCmMQ7q1zsd6vuF5qnV6149dAbVhExyBygkWh5NIw==;gJhAsreKrfH3EOaT9p1NLw=="
 ---

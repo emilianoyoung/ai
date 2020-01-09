@@ -54,19 +54,6 @@ related:
       - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
         width: 512
         height: 512
-  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
-    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
-    publishedDateTime: 2019-12-19T23:19:00Z
-    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z

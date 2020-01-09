@@ -1,30 +1,28 @@
 ---
 category: news
 title: "U.S. pushes light regulations for AI, in contrast to Europe"
-excerpt: "The Trump administration is rolling out new non-binding guidelines Wednesday for regulating driverless cars and trucks ... voluntary guidelines for federal agencies' treatment of artificial intelligence, which President Donald Trump's advisers say ..."
-publishedDateTime: 2020-01-08T19:57:00Z
-sourceUrl: https://www.politico.com/news/2020/01/08/self-driving-cars-regulation-096267
-ampUrl: https://www.politico.com/amp/news/2020/01/08/self-driving-cars-regulation-096267
-cdnAmpUrl: https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/01/08/self-driving-cars-regulation-096267
+excerpt: "Newly announced guidelines on self-driving cars are the latest example of the Trump administration&#39;s aversion to &quot;innovation-killing&quot; mandates."
+publishedDateTime: 2020-01-08T19:54:00Z
+sourceUrl: https://news.yahoo.com/u-pushes-light-regulations-ai-195426101.html
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
   - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.3B220CDD92A9B990383C51FC1824FFA8
-    width: 700
-    height: 466
+  - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png
+    width: 1200
+    height: 1200
     title: "U.S. pushes light regulations for AI, in contrast to Europe"
 
-secured: "a01rHFO1m536Xsct8XNLVSS9FCBA9Ts/hK5Wz5jBTMDGUcX04Od62e/TNieKg1CZQOhdS9rNoJsNxb1IxS3gte0jF3f4H3ZCmAtga/QNTnIbECRbNf5uDONX4nF98ozblnAbL+fRAt0TVPWCwbiqiJfG7SJzAub1yAWcXzEUsF1DHiC0677LcFRMy5BXfRGGgbLTQlB/WShjYmDrAaoSgzxMEijoD5ub4Egn31UUjccAoVEEuKLjJm39vVNRHpJTxCTlH4wnrhE4+Hsz/C+7Gw==;CyJXxmk/Oq+spZl7vi8Zaw=="
+secured: "D+Lkk4jRZyrX9pUOqPOX2sJ3KsefWonY4onVacGZFIvtQf0Qqa3c5t9qv33cvQ8r4OHMrSUxTyWtDHsipOB6IEjGHb+zr4kNB8lG5mZZvnN1DQkd5EyKDn8DHgnBpSS/GsglFPXcdbCO5OcswEegKFVr6NL6wYabN3r2mniIbrCH22/2jYkXzT/eK2zZnykFDBtc7WBfU5gQWY6+5xBwAHzu7LhnwqbnkGMMza1dCtHs+hlbLpm4MgHIH8chdygswsmCTuTqdK4es8R8C6g7mg==;nqfVJ2kkNYEkSw3wdygRMw=="
 ---
 

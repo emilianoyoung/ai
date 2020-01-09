@@ -54,19 +54,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
         width: 1904
         height: 1428
-  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
-    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
-    publishedDateTime: 2019-12-19T23:19:00Z
-    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z
@@ -101,6 +88,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "wOVNsFFqeIyS0sxPplVJlVOwUOXYhXhPkSjbptddsn5oQvyJltyZFij0XO+TwMuR7Ti1BEOXQxAw9Lp7ltzjVB/yyHyf02UWNq/Ppd9hA3L1qhLlPycpeIdwAfj389IdrTsO72iNxj5pt/D3qXHk8DG+WZMnYfdc2e8iF1u5wYo8YMQeneqsmImQyeF0rF6t7j9sIss4EaH53JESi3UmoKYmD2uf21DuFs5JZtRwOUpTDHE0/3aVL3CcfcIpumx35iYxQGR6jqxEUVSPOOKF5Q==;tDX7fTDoqR/cUIFZrHZN5Q=="
+secured: "TUiQHIHN2Wd2j7eDNE1BBOjl6s3orfOw1ROlZo/Eezdjm/48H1YsqOmvb3eluo6q0VsGdjm2O1qMLjcWrPgX1jvg8bIJqUbAjbzyqzmvKyqrDF/fn26gzGyJ3e+x297BLGFbi6CjoB8SMzoOTuingjLcPR4zUDIb8+zbIZEey5ZDcjm1F1jucuvJXi5dyDJg58XmB1HC/d2+aAQAV0CURegVK7h1xeb4z5y7qIrFaVrrkOYI83kLQ6Z9XjJuI+xlPF0Nqn4RPes09hNkjMyK0Q==;Q1qOA8c3Tg8TVxIHS7f1yw=="
 ---
 

@@ -57,16 +57,20 @@ related:
         width: 700
         height: 393
   - title: "New federal self-driving car policy talks up government’s safety role but leaves industry in charge"
-    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at the CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
-    publishedDateTime: 2020-01-08T19:52:00Z
-    sourceUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/
-    ampUrl: https://www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
-    cdnAmpUrl: https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/?amp=1
+    excerpt: "The White House and the Transportation Department announced a revamped self-driving car policy at CES in Las Vegas on Wednesday, outlining efforts to get more than three dozen federal agencies working together on the potentially revolutionary technology. In a speech at the show, a vast annual get-together for tech companies, Transportation ..."
+    publishedDateTime: 2020-01-08T20:49:00Z
+    sourceUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html
+    ampUrl: https://www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
+    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/new-federal-self-driving-car-policy-talks-up-governments-safety-role-but-leaves-industry-in-charge/2020/01/08/b35a1918-322f-11ea-a053-dc6d944ba776_story.html?outputType=amp
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 10
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 30
+    images:
+      - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
+        width: 700
+        height: 466
 
 secured: "B9Kj3JNYAqG73puwskKvl2ndbk5gQ2XdcgStHwSS5KrfEjLT8lE8Jcjl6Lv9MYZOGOrfUkIb2mYoLSzsMPjosCphDfJBV02dN8abSP05MBLqTUKx56s6vGbjn3JFLubz50oPT9Y0Hj2DlASmygQxZnHikRJxQITwO6KU5IuZm1rB14/jXCiCsVyqPJ4llCm8q/fPze1ViL9RwM1iQ0BZQsv2RQ8J+iPVG2MRDN24J9vQZXggRxvgLbkVexcKOaRK7BPHYOZ6pZNpDr5b/rUubg==;Z6y17F6pudWR9NBX6MJTmw=="
 ---

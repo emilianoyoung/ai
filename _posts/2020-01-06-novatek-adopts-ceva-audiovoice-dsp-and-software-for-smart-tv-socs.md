@@ -3,9 +3,9 @@ category: news
 title: "Novatek Adopts CEVA Audio/Voice DSP and Software for Smart TV SoCs"
 excerpt: "CEVA's WhisPro operates in tandem with ClearVox and offers customers like Novatek a robust CEVA DSP-based speech recognition solution for always-listening devices such as smart TVs, smart speakers, smartphones and Bluetooth® earbuds to interact with cloud-based voice assistant services. This holistic integration of voice pre-processing and ..."
 publishedDateTime: 2020-01-06T12:27:00Z
-sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/novatek-adopts-ceva-audio-voice-dsp-and-software-for-smart/article_93c6359c-fa61-549d-80c7-efb827a8ee8a.html
+sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/novatek-adopts-ceva-audio-voice-dsp-and-software-for-smart/article_93c6359c-fa61-549d-80c7-efb827a8ee8a.html
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg
+    width: 1280
+    height: 720
+    title: "Novatek Adopts CEVA Audio/Voice DSP and Software for Smart TV SoCs"
 
 related:
   - title: "Vogtec Selects DSP Group’s SmartVoice SoC With HDClear™ For Cybic AI Bicycles With Built-In Voice User Interface"
@@ -37,6 +43,6 @@ related:
       domain: telecompaper.com
     quality: 3
 
-secured: "LEPMbeCfDt63oRBlOsvHKzQhEfrvmp9vzc0lFGtQ9Ht63WA7r8KhpdjwUhM16KrO8bZ5uVA36K9pgnJMwC8kqnZLECebgywEoxcacFHH2T6RsJmzxuCkAHTY2iH8QeYLPBg7mlUpgnKvere5OUlzakRqsuy/MURuNkpcybGfV9CTQn2gLgVCWfH8u3LYmPxqhkKrRE7920kWl0mkou3Zw0AQ3hVQVwwU9sE7OkAcCV0Qbj2nXtpMDxRxpOWJVB7+hp3IxD7IO7kVV9TYgMuFAg==;rwaLVpnuc/NtIKD5VcMgKA=="
+secured: "IEq5WzOUwURWPSN+jXV8Uj9Ktnab+5R9YLcpIbIX+9c17C8lxskRGsPHMni/5WyJ2gSMYWDg71q0FmAplTbvEQy4AzjzHveirCj39kfjEBisu5IxJzl4B7jgx3UKv/newn2xrezbJ/8eCY09et0q0Q1isQdE7b0GiZOJbGnaZNj1rJo8IvsvXaqZvVL2RIHwU8yJtWMkDQUie7v3t1CLPaGRBeFC5t3Utex4cuKsjOXm3tr2+VhiR5QpOg16XufkS4PymxZWUFvwQOXGYk/llA==;u6odC3IG7XEGQc/e17XKmA=="
 ---
 

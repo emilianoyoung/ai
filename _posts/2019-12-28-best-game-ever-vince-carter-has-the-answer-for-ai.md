@@ -66,19 +66,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C488FD95AAD2629266D7CDB59280F42D
         width: 700
         height: 350
-  - title: "Does the Pentagon have a coherent strategy for AI?"
-    excerpt: "The stakes, as outlined by both CNAS and RAND, are straightforward: if the United States fails to take a lead in AI, and through that lead establish norms and ethics that maintain a global order of security hinged around the durability of American military supremacy, then rivals will instead reap the benefits. Kelsey Atherton blogs about ..."
-    publishedDateTime: 2019-12-20T00:04:00Z
-    sourceUrl: https://www.defensenews.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4545314F6ED23BDBA1F166B45CBA7882
-        width: 700
-        height: 367
 
 secured: "lXKEGQPXkWb0wPGLJxCukq8ZQBGPsHFR2wy45fc+iQzT6AWTOQSQs2yM6t3Jjf/45Xe6AYZzZ9k7TGkX3sNmdVT8hqXEmOIIT03uLmdCViIXX6eq1316JesnxSKjqbCuDYRHen+rQyXubSXSv67Z6ikqqat15j750f8aFWMoSShlBuo1Nh4M9PnnS00EfDLqNPkVhPumwV97XJfawwzR9x9KZrffpXC7n2jDUMxUNvLFm+Ao7sHxmCa4TPImtpjmCxVmymVUt4TlXqfg2lVThw==;OT3zOehQRYt0kAq59csjYQ=="
 ---

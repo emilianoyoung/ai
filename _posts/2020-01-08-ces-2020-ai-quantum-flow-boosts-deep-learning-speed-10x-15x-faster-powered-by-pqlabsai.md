@@ -23,6 +23,21 @@ images:
     height: 360
     title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
 
+related:
+  - title: "CES 2020, AI + Quantum Flow boosts Deep Learning speed 10x - 15x Faster - powered by pqlabs.ai"
+    excerpt: "PQ Labs Inc, unveiled QuantaFlow AI architecture in CES 2020 (South Hall 25858). The new architecture includes a classical RISC-V processor, a QuantaFlow Generator and a QF Evolution Space. It is the first time for the industry to see such new architecture,"
+    publishedDateTime: 2020-01-09T00:09:00Z
+    sourceUrl: https://finance.yahoo.com/news/ces-2020-ai-quantum-flow-193300829.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.DF4A00D4D87B52020395F110B11EA968
+        width: 400
+        height: 249
+
 secured: "yUlB/fYcBUcRXHovUVcA1IGvKbKYxvvVtZ3TdjiSxTfIOu3/qE6mzmXizBx/V66yDvjyhtAzpjaNJhYWAsJsrLs8qdTuWBtzw42eqNeAuvRcnGEjFWIZFr8EcPVufiE8gLZt7+5z3AeGuf2ruWVF/cuMnLwvKsAz/NlBXD9zf+wpHRlpFhRcnL2VRgshLhYaJv22QHTbfCxE7B/B84qnQ+M6RPMFtxcyIUjn+wq18NoT8iqwZOlfHLKw50RhfFldUiJbRZJBCjIBUxR9JpqBig==;iuSRxvbRfRuNhyMAS7opNQ=="
 ---
 

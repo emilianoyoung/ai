@@ -318,6 +318,19 @@ related:
       - url: https://www.bing.com/th?id=ON.519D424728468426AD1FAB9853F63439
         width: 400
         height: 200
+  - title: "Railway stations at Bengaluru, Manmad, Bhusawal to get facial recognition tech as test cases"
+    excerpt: "New Delhi, Jan 8 (PTI) Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing ..."
+    publishedDateTime: 2020-01-09T00:03:00Z
+    sourceUrl: https://in.news.yahoo.com/railway-stations-bengaluru-manmad-bhusawal-134843719.html
+    type: article
+    provider:
+      name: Yahoo! India News
+      domain: yahoo.com
+    quality: 43
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
   - title: "Chinese tourist sues zoo after being forced to use facial-recognition cameras"
     excerpt: "Concerns over security of personal data have risen in China after a zoo-goer became the first person in the country to file a lawsuit in relation to a dispute over the usage of facial-recognition cameras. Guo Bing waged war on the country's 'Big-Brother' surveillance system after being required by a safari park to scan his face on security ..."
     publishedDateTime: 2020-01-08T15:15:00Z

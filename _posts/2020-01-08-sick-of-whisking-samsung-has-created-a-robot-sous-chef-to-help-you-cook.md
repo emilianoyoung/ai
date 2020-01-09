@@ -8,8 +8,8 @@ ampUrl: https://robbreport.com/gear/personal-technology/samsung-bot-chef-2891606
 cdnAmpUrl: https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/gear/personal-technology/samsung-bot-chef-2891606/amp/
 type: article
 quality: 58
-heat: 58
-published: false
+heat: 68
+published: true
 
 provider:
   name: Robb Report
@@ -24,6 +24,21 @@ images:
     width: 700
     height: 394
     title: "Sick of Whisking? Samsung Has Created a Robot Sous-Chef to Help You Cook"
+
+related:
+  - title: "Sick of Whisking? Samsung Has Created a Robot Sous-Chef to Help You Cook"
+    excerpt: "First unveiled last year at the Kitchen and Bath Industry Show, the AI-powered cobot (collaborative robot) known as Bot Chef was back in the kitchen for ... The cyborg helper also features advanced internal and external sensors that work alongside artificial intelligence-based planning algorithms. The idea is that Bot Chef will help you cook ..."
+    publishedDateTime: 2020-01-09T00:02:00Z
+    sourceUrl: https://www.yahoo.com/lifestyle/sick-whisking-samsung-created-robot-180001785.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.83A72BB447A8B588644CB9C554F83BF8
+        width: 700
+        height: 394
 
 secured: "LqUUGlZB4D/hNZ7oYDpHjGy1vInIf4N5C9nVdZAW7VHv9IbBJix8mzzfgRyr7b4xFgQcplj36kZTiVAIU9SQ9g2Yp+K+7Vlab/cLZ083YlIbQOrkRWoFYpY+d7pWez2BjdZjrdxxysVJNHCNpR9/MDE8OZm3VH7rIzrkW2u3k2IUfz7bBD4zAD80KdSmxojipwrt/taOTXVMKp85qTpuB2/JJWxo9D+X+LBSARgTioKheupac/C81V9UDfF2GkVfxU1a+fflDDLh9nWdVcO0HQ==;uMikmxnW1Pdhp86f2p9nJA=="
 ---

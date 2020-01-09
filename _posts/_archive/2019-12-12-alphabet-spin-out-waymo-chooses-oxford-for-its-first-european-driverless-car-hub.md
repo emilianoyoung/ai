@@ -23,6 +23,6 @@ images:
     height: 799
     title: "Alphabet spin-out Waymo chooses Oxford for its first European driverless car hub"
 
-secured: "20OU7XwWqWNfA8uNxSdPvmJ24CLohDCR80ZCnjoNx2PSt9JrYSzpDgRX9OZSldWcisiIUiw0R+M3ejWJSeQrduiI4MNjhiRBYLtPqOTHr1c0HbJKpKmWbGzcM3iphUzWDbFBuaj7fF309WUo6FQFTlPffxbGCNRAx/feHZsFZELtCmuZT7FY5JoTBYbf/Y5xDfmi42/kR6yCb2S+NMn2tku9q5UPvAnz5dLdJU1w+ip0PHXnDaEM0sZbkzrQmXry7hU3hZai1d/C0OGtM57Bzg==;AV//yWAUkfk72PbFvfwtnw=="
+secured: "316qRxtX0O9NwQPHtgjvhGA480vc/Aue3fpYHzs+0TjCPLvqQ2znlPLiiwm8fB5Xf8v+UB7/tADfFOTjCcEPPgfgRS7r93PQRxZt8PRQ/DKy9J5MQFrGtJ4nbmxbaKemTTlBeplftiI4ArtvxMRdXjQa5NV/hawA/MX3aXmfcrhqirBq0aa45YGn9K6FgzRabuZCyT2K/+QmfSpSHYhG7CJtE6wTsD7SjMQiZHKxp2IySCyn5BGs9VTKKwUHgeYepeJv1EcgigfDN31hGtw9ww==;Desar7vTMAc5syiedV3K/Q=="
 ---
 

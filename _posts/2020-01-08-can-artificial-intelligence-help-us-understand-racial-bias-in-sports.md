@@ -38,6 +38,6 @@ related:
       domain: zawya.com
     quality: 18
 
-secured: "ijFJTnVoM/U4WqY1jypnsn3FLT9mC6qGBVTQ0i6LGCItan3Z7ZaBeH57BaWaLJsBQNYdi7jWoXZXgbXNTc4Pj8HyZzG/xYElVcuE7Rqf/0BHWiddTcusxEzb11ZM7NECDDpXOTPtbDivVKq9WtFgvnp2nbHXIvz15izGkZ8IdkcAsDr0bfxfeSXqLKYJ1vcyZQ4XzfsePs30lYqzUQHl5BFIeVXdI1L3KaormuTNeZqya0Nq2Vv7n/KZn9jry+2XLIn93+Q1q4unZzwXnqdVKw==;Q94Qf4jSeBZy24W8v9pxKw=="
+secured: "jSq3HRiR5BAhzDc0kzDDvCub+MXVNqWWrr0PEEBtBWjwDeQdPvlEHUjcruC9L/D55FJNZe6TOl8Wv1mcPJouioGR6I+8P3HY6BLXeGBS60vqCnAEhge850I4HlyeSQ3MVnLAXkSE83ImdbEGh/GIUzncGBMXIeW3A05I/jXKiBdMkWd1Ih1tU3ZMZUj3MTGhFTTlGfNNdgtMxXtTeq9Nh8MNysx/U9bK2z6DBefN7jEypz9VfpA+h539G8/wgtTBkzkLDETum+cZ/4ebcsIjtw==;gnbhxXlGMLku3xbCmpd8Ow=="
 ---
 

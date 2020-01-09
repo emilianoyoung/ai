@@ -80,6 +80,21 @@ related:
       - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
         width: 700
         height: 476
+  - title: "U.S. outlines strong support for self-driving cars at CES"
+    excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
+    publishedDateTime: 2020-01-09T00:03:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
+        width: 700
+        height: 476
   - title: "How Machine Learning is reducing loan defaults and easing debt recovery"
     excerpt: "Machine Learning is helping these new age fintechs to streamline the entire lending ... Get access to India's fastest growing financial subscriptions service Moneycontrol Pro for as little as Rs 599 for first year. Use the code \"GETPRO\". Moneycontrol Pro offers you all the information you need for wealth creation including actionable investment ..."
     publishedDateTime: 2020-01-08T14:47:00Z

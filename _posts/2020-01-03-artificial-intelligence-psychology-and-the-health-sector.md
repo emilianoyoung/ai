@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google’s DeepMind beat Lee Se-dol at the Chinese game of Go, which is a much more complex game than chess (2.08 x 10170 possible moves), through teaching itself the game. 4 The best AI Go programs have been clearly advancing at an exponential rate. 5 Network technology is also ..."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
@@ -17,9 +17,9 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
-  - Machine Learning
   - Google AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -27,6 +27,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "/+8oU9ncfeA8uJnxk6thpoXA+W1PyZU7JEvUrZ8ydBDlnPk99GazW/AJ+6pjQwnqqW6GuZLUH1wTV+ojz2PHfvgB2gEIA4ZGR/ZH4XU4ZylujH7DyRM0j/ZgyssrQ0A7J3E9if43mj1bJNybkD3IXU3MH+CdnAaeqKnG2Rh+UYQ/bTff2KFj9jpao4xgAHitTtOQRenCsaeoDihQXPPilVM0yLX7PmdVx/Gl2eMoJrebdzf22Ns4+LrKNFB/gfBi5OJanJfFnfnxCE2TpIQFBw==;vxBdRWTg6FJ8I511OKFTtw=="
+secured: "Rd7L55lBh5ZBFzj4HliT829q5FRQL+leCdQ/ydL35aonh28DaeUH+MT+C/L+robLTYh0ndq5STVySDIi+tED36JTspf35+0Pzb2l84A9mBUDTkR8sqqvGxjb/zY7Fjvbrl/MsuFJM7TUxtYdL17SnoxaLbxd/LO5AhTD1kAfohao4jLKxMK17XsGRjnDJ0m5tt0nArKO/Ofm9tr0GSdRy4J9Un97tD5xu+/m6DQmgsGFU7pOyLo70d2mXy7rBQczxwEquUquBELUc2ldB7VIwQ==;xl7UGHJE7EA+BPTNBArCAw=="
 ---
 

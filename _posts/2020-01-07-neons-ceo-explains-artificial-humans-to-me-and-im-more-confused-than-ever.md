@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/neons-ceo-explains-artificial-human
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/neons-ceo-explains-artificial-humans-to-me-and-im-more-confused-than-ever/
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -61,6 +61,21 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662
         width: 2818
         height: 1594
+  - title: "WTF Is an Artificial Human and Where Did They Come From?"
+    excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
+    publishedDateTime: 2020-01-09T00:02:00Z
+    sourceUrl: https://gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074
+    ampUrl: https://gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.7D8AFA194D6774E2E9C90E378FFC257F
+        width: 700
+        height: 393
   - title: "Artificial humans? Samsung Labs' new project has a lot of hype to live up to"
     excerpt: "The technology is still being perfected, and Neon said it plans to beta launch the avatars later this year with certain partners. Samsung has ramped up its efforts to develop artificial intelligence in the past few years, vowing in 2018 to invest $22 billion in AI and 5G by 2020. Although most of the company's focus has revolved around Bixby ..."
     publishedDateTime: 2020-01-07T13:28:00Z

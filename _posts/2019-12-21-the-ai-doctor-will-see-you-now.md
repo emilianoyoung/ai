@@ -57,19 +57,6 @@ related:
       - url: https://www.bing.com/th?id=ON.C488FD95AAD2629266D7CDB59280F42D
         width: 700
         height: 350
-  - title: "Does the Pentagon have a coherent strategy for AI?"
-    excerpt: "The stakes, as outlined by both CNAS and RAND, are straightforward: if the United States fails to take a lead in AI, and through that lead establish norms and ethics that maintain a global order of security hinged around the durability of American military supremacy, then rivals will instead reap the benefits. Kelsey Atherton blogs about ..."
-    publishedDateTime: 2019-12-20T00:04:00Z
-    sourceUrl: https://www.defensenews.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
-    type: article
-    provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.4545314F6ED23BDBA1F166B45CBA7882
-        width: 700
-        height: 367
   - title: "Best Game Ever: Vince Carter has the answer for AI"
     excerpt: "I had a game in the Rucker too. And there was a game where I scored 51 in Miami, of all places, against a Gary Payton team. And then there’s the one in the playoffs verse the Sixers when AI and I were going back and forth. I scored 50 that game. That was probably it, my most memorable, because of the back-and-forth with one another ..."
     publishedDateTime: 2019-12-28T19:03:22Z

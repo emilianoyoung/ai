@@ -8,7 +8,7 @@ ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-rob
 cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -55,19 +55,6 @@ related:
       - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
         width: 1904
         height: 1428
-  - title: "San Francisco is changing its facial recognition ban after it accidentally made the iPhones it gave to city employees illegal"
-    excerpt: "The city banned local agencies from using gadgets equipped facial recognition technology in May, but problems with the ban quickly became apparent."
-    publishedDateTime: 2019-12-19T23:19:00Z
-    sourceUrl: https://www.businessinsider.com/san-francisco-amended-its-facial-recognition-ban-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-    images:
-      - url: https://image.businessinsider.com/5be9a570110d4c4bdb4e4a02?width=1200&format=jpeg
-        width: 1200
-        height: 600
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z

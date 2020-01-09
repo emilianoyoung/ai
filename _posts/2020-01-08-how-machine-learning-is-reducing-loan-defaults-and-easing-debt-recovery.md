@@ -83,6 +83,21 @@ related:
       - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
         width: 700
         height: 476
+  - title: "U.S. outlines strong support for self-driving cars at CES"
+    excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
+    publishedDateTime: 2020-01-09T00:03:00Z
+    sourceUrl: https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1
+    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
+        width: 700
+        height: 476
   - title: "The 10 best new technologies coming out of CES 2020, including robots and wearable devices"
     excerpt: "The robot that brings you toilet paper It has been estimated that the average person ... The Hear, a wearable camera made by Israeli tech company OrCam, uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing ..."
     publishedDateTime: 2020-01-08T15:15:00Z

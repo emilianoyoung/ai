@@ -74,6 +74,21 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662
         width: 2818
         height: 1594
+  - title: "WTF Is an Artificial Human and Where Did They Come From?"
+    excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
+    publishedDateTime: 2020-01-09T00:02:00Z
+    sourceUrl: https://gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074
+    ampUrl: https://gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074/amp
+    cdnAmpUrl: https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/wtf-is-an-artificial-human-and-where-did-they-come-from-1840870074/amp
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.7D8AFA194D6774E2E9C90E378FFC257F
+        width: 700
+        height: 393
   - title: "Samsung reveal AI powered 'artificial human'"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathise ... The company envisions commercial opportunities to create avatars to be service representatives, financial advisors, healthcare providers or concierges. \"We have always dreamed of such virtual ..."
     publishedDateTime: 2020-01-07T10:34:00Z
