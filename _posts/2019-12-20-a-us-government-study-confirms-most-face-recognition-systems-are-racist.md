@@ -488,17 +488,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "Federal study finds race, gender bias in facial recognition technology A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. Check out this story on azcentral.com: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race ..."
-    publishedDateTime: 2019-12-20T00:24:00Z
-    sourceUrl: https://www.azcentral.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.azcentral.com/amp/2704291001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2704291001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 39
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
     publishedDateTime: 2019-12-20T08:15:00Z

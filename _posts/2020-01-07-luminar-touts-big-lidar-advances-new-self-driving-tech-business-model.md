@@ -71,6 +71,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
+  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
+    excerpt: "The German automaker also announces the creation of the Volkswagen Autonomy, Inc. division to support these new operations."
+    publishedDateTime: 2020-01-09T00:31:47Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/vw-announces-new-silicon-valley-self-driving-nerve-center-at-ces/ar-BBYKN7e
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0F218D55D08B82CD72D97CC4120217AC
+        width: 700
+        height: 367
 
 secured: "eBuqWH5HiA4CptWv9C45JqczF8pzq0oUZOEnYiXOyiKuAdERijs9lFT4SxGXSvEJ6H0OELGnDxLm+4xu6F4ED5x/pr6ROfWtVVvZ1EPRTiQNrhqLRMZQVEC5mRUMO+aOe0CA7qQkRrPzruqtyu1pSu3wjRpedIEdoAK2EXpF+UinZ8KH0rHuWNbte3ysPWrYyutYLPst3CPu1cKyaYiszuNzob2ow6MGrz0ylkLAEyBkAGBmuxABgdQg0Mo0rF8R79OtI4dk/WqUqdv7AWa4qw==;BaWoLuMK13u00AoIJ0Wk4g=="
 ---

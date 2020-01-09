@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-cent
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -75,6 +75,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
+  - title: "VW announces new Silicon Valley self-driving nerve center at CES"
+    excerpt: "The German automaker also announces the creation of the Volkswagen Autonomy, Inc. division to support these new operations."
+    publishedDateTime: 2020-01-09T00:31:47Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/vw-announces-new-silicon-valley-self-driving-nerve-center-at-ces/ar-BBYKN7e
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.0F218D55D08B82CD72D97CC4120217AC
+        width: 700
+        height: 367
 
 secured: "ATFHtVH306c/W7V6s2xnHCuOAcuFPOkCLU8QMPtonWUFpZwyKuD2LTbKW3J4obqiv+pedjRFUSu8mAgBooYzFmFiH187cEjGiy+7FNlW2wYGey28bszN+OcduR/S4kb2PbtLrKehHLgjvB6L8nr8NPxmqkOTGDN/w0uYoB+cAH9BwNkZ98nwnVPtxUJphY/mwULo/ECwcYOhtRrtHYFuCQCH0/9PCY+4c3BKHVHjmrQPQ4fUfiIgVj1jdX1N0eQ9DLPHXSDoeIrsQZSo2mwVew==;NCmucDn78ZL7fXwJtCaY9A=="
 ---

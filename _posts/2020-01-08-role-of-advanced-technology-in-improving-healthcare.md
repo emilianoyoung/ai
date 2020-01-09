@@ -52,19 +52,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8FCCD7553B9610ACB527989F2B4CE3BD
         width: 700
         height: 466
-  - title: "15 things to know about Amazon's healthcare strategy heading into 2020"
-    excerpt: "He also reported the company aims to use the cloud and artificial intelligence to improve healthcare. 3. In March, Amazon made a $2 million investment in Boston-based Beth Israel Deaconess Medical Center to test artificial intelligence tools. The two have partnered since 2016 when Beth Israel bought AWS's cloud software and reported significant ..."
-    publishedDateTime: 2020-01-06T16:24:00Z
-    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/15-things-to-know-about-amazon-s-healthcare-strategy-heading-into-2020.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
-        width: 400
-        height: 300
 
 secured: "YeGTL+1fC+kVmxR6QZRq07sxP0dINopsHVDucNhDIkkJm9nmBjwM0c9jbJ1LONwOu2Ay59bHOHt/Ea28A68nZuxe7s8tIzdJdAncs9JsgOHcxxGXh8mkCtLmSRDhR+93Bk+1f19RHMZ9Y00+I7JUw8URVwLnR7jDIxJVKyaUO4VeopMHfUAnLq6JXaQJOYmaavIHkpygouZ1Lf4JYxQ+oqssCgRv1vLw4Nn6ju13oRXZ3ccjfBUllVbxqa6NAG8tgKiSg4eRa4frn8dAFq3RjA==;Kjcx3iekH8/px2htXM0IWg=="
 ---

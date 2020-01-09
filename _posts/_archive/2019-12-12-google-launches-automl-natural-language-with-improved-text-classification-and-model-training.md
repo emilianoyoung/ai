@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Google launches AutoML Natural Language with improved text classification and model training"
-excerpt: "Earlier this year, Google took the wraps off of AutoML Natural Language, an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for ..."
+excerpt: "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. After a months-long beta, AutoML today launched in general availability for customers globally, with support for tasks like classification, sentiment ..."
 publishedDateTime: 2019-12-12T17:57:00Z
 sourceUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/
 ampUrl: https://venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/12/google-launches-automl-natural-language-with-improved-text-classification-and-model-training/amp/
 type: article
-quality: 95
-heat: 95
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
   - Natural Language Processing
 
 images:
@@ -30,6 +29,6 @@ images:
     height: 600
     title: "Google launches AutoML Natural Language with improved text classification and model training"
 
-secured: "h3a8ef2TURJNo4H2VG6WCGBEnyl6WDQuSKWtJlQYQnhMU0fZRcS/PKfMTTaXPzpYOGTq2YesLhsh6JnVaODn5WfvpByJYvJVT1fIVHhn9JJ3Zv7tg1Tfj6RmSkwpUtgd+racO5iMLDu4tAHho2OnJd6kbMSv2vPtMel5DQjVP2s/A8PmcIukW9gmct6gLmhSE16jOeeZP5+M+owxeWkHmzQ1+6PmORqpJa2BGxlfolDR4Gm9Y3iqf6m+ZiT3617/Q3SQubMA4izV7oHrg8lHOg==;HjvWw40ln2kMWyaSjQNQyg=="
+secured: "HelvUisP8PbJ63gX40dKOwXsNbqb5LprYEBMTzhr+rlguTs0lckV/JuICI0AwGLuxAra9GR3xLHnPt/U8pvtEWEiOlkbmY5txEmUYrTrw58NlH3lgsdRM0jppb4NvzG9aVQsBFVeuhJfjkU7YlTUkLgl6+EUSRj00sh9CoxR+mFKuKKFfhOrQ0PJ25GtJdsdAt/KbPQsXLLY6l6f1UDAlGawvO6WFYXAbKK5saMGNkB3njsFyFe9xyxf2cHQ+UAmgso53DsqB5J7i12yjGemFA==;Ep952yn+FOscKwdozaewTQ=="
 ---
 

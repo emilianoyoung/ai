@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-06T13:03:00Z
 sourceUrl: https://www.petri.com/everything-you-need-to-know-about-azure-infrastructure-december-2019-edition
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 700
     height: 393
     title: "Everything You Need to Know About Azure Infrastructure – December 2019 Edition"
+
+related:
+  - title: "Three things you don't know about policies shaping AI"
+    excerpt: "Policy is a good place to start to make sure security and fairness and transparency shape the development and implementation. A panel at CES 2020 discussed how to shape laws that govern AI, investments to fund the technology, and training programs to make sure the workforce is ready for the revolution. Lynne Parker, deputy chief technology ..."
+    publishedDateTime: 2020-01-08T23:25:00Z
+    sourceUrl: https://www.techrepublic.com/article/three-things-you-dont-know-about-policies-shaping-ai/
+    ampUrl: https://www.techrepublic.com/google-amp/article/three-things-you-dont-know-about-policies-shaping-ai/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/three-things-you-dont-know-about-policies-shaping-ai/
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.A85240589358EFFB1738B66F15193D25
+        width: 700
+        height: 525
+  - title: "15 things to know about Amazon's healthcare strategy heading into 2020"
+    excerpt: "He also reported the company aims to use the cloud and artificial intelligence to improve healthcare. 3. In March, Amazon made a $2 million investment in Boston-based Beth Israel Deaconess Medical Center to test artificial intelligence tools. The two have partnered since 2016 when Beth Israel bought AWS's cloud software and reported significant ..."
+    publishedDateTime: 2020-01-06T16:24:00Z
+    sourceUrl: https://www.beckershospitalreview.com/healthcare-information-technology/15-things-to-know-about-amazon-s-healthcare-strategy-heading-into-2020.html
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
+        width: 400
+        height: 300
 
 secured: "ls5O70jlrWxslGo5tJwnwZ0QQ1chSB+tdw28aovxnNlhXxnYqMDaGoguG79VnzX+StMjK/DaHGv4pCl2R02JVTa/X97Z/vH3AelE+QYu61euYpos0fN0J3miKI+sgzeosEDlz6K00VfENjFsVRiWpOoMp3Dp+QhuH9prXok+uud3ec8flTNJCDsNjnwVtv6++XnPoSBzdiuYrQPS0FDe12XD0+LSnZbYS78vcSR4HdfC+DTZPa2iQUoxBnhlN6XG+KHGm3tx+asE2sxo9OGTqg==;urC27gnZHl4A05QDLkq2Aw=="
 ---

@@ -3,9 +3,9 @@ category: news
 title: "Going fast: Buy a demo table at TC Sessions: Robotics+AI 2020"
 excerpt: "Startup founders, set your sites on TC Sessions: Robotics+AI, which takes place on March 3, 2020. This annual day-long event draws the brightest minds and makers from these two industries — 1,500 attendees last year alone. And if you really want to make 2020 a game-changing year, grab yourself a demo table and showcase your early-stage ..."
 publishedDateTime: 2020-01-08T21:25:00Z
-sourceUrl: https://techcrunch.com/2020/01/07/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/
-ampUrl: https://techcrunch.com/2020/01/07/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
-cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
+sourceUrl: https://techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/
+ampUrl: https://techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
+cdnAmpUrl: https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/08/going-fast-buy-a-demo-table-at-tc-sessions-robotics-ai-2020/amp/
 type: article
 quality: 87
 heat: -1
@@ -60,6 +60,6 @@ related:
         width: 700
         height: 381
 
-secured: "elEL20w9WadWTn6THurGDjFGbGx/mv6Wy2kwWC+lljGI2JF/cuUX6JjuhpW/pPHIDz18VqJOmeh/cNB1RajlYQOXxj6coRTeDt96vmeoGSPE4NF9pSNTEQ7kfle4/TKCOQbeHSRaMVtm/QDMA+jrp+xXO+21sHZV+gbh/CskXVStykC6yHnCF4f4/2AxZwt8j5wrp5NGgzlC2CSd6YB/5BFBcOk0Gvuvp/NKPshHodKXqj1Ud4b4yX1QPCyF/4MkL3+Aq21CDz+xe0ThyRAOsw==;1Lu3vHZUjY9qCMySYhgbQw=="
+secured: "n02fEoWzi/BZ/kP6ZzUm0CKYQGYDMvy+JsnvrPcHlm+F47p23gLF9dRrjXzAilzL/VpiU8dVMwVwuTVUsWOHIM++GdBgaE9cCnFvx0KUE9pWvZrvwI3MvV8kK4y68vLGPdB5Rh+uNm0fKh73mKs1Xg/5rPy7nm8XCeWWpHNLSTX/YcwG903DB9cgFHS7V/HAO5Ep2e2RDn8zjf47aZzC5hW9Zem24val443p3peZ/mSyKq7R0r7p4e+0fyo1z4Ykj6xFmrUxDAeed4gOpOm19g==;naIrRX9JkE8oObPLc9AcMw=="
 ---
 

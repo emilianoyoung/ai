@@ -25,7 +25,7 @@ related:
   - title: "Novatek Adopts CEVA Audio/Voice DSP and Software for Smart TV SoCs"
     excerpt: "CEVA's WhisPro operates in tandem with ClearVox and offers customers like Novatek a robust CEVA DSP-based speech recognition solution for always-listening devices such as smart TVs, smart speakers, smartphones and Bluetooth® earbuds to interact with cloud-based voice assistant services. This holistic integration of voice pre-processing and ..."
     publishedDateTime: 2020-01-06T12:27:00Z
-    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_business/novatek-adopts-ceva-audio-voice-dsp-and-software-for-smart/article_93c6359c-fa61-549d-80c7-efb827a8ee8a.html
+    sourceUrl: https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/novatek-adopts-ceva-audio-voice-dsp-and-software-for-smart/article_93c6359c-fa61-549d-80c7-efb827a8ee8a.html
     type: article
     provider:
       name: WFMZ-TV

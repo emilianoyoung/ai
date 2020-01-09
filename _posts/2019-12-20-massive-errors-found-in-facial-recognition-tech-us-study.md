@@ -501,17 +501,6 @@ related:
       - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
         width: 1200
         height: 808
-  - title: "Federal study finds race, gender bias in facial recognition technology"
-    excerpt: "Federal study finds race, gender bias in facial recognition technology A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. Check out this story on azcentral.com: https://www.usatoday.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race ..."
-    publishedDateTime: 2019-12-20T00:24:00Z
-    sourceUrl: https://www.azcentral.com/story/tech/2019/12/19/facial-recognition-study-finds-results-biased-race-gender-and-age/2704291001/
-    ampUrl: https://amp.azcentral.com/amp/2704291001
-    cdnAmpUrl: https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/2704291001
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 39
   - title: "NIST confirms that facial recognition doesn’t work equally well for all"
     excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
     publishedDateTime: 2019-12-20T15:26:00Z
