@@ -599,19 +599,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "Facial Recognition Turns Out To Be Not So Great If You Aren’t a White Man"
-    excerpt: "The National Institute of Standards and Technology released a report today about the accuracy of facial recognition software. The news was grim: most algorithms make a lot more errors when the subject is anything other than a white male, which means that women and people of color are more likely to be misidentified. But this got me curious ..."
-    publishedDateTime: 2019-12-20T01:31:00Z
-    sourceUrl: https://www.motherjones.com/kevin-drum/2019/12/facial-recognition-turns-out-to-be-not-so-great-if-you-arent-a-white-man/
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 38
-    images:
-      - url: https://www.motherjones.com/wp-content/uploads/2019/12/blog_fmr_rate_chinese.jpg?w=1200&amp;h=630&amp;crop=1
-        width: 1200
-        height: 580
   - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
     publishedDateTime: 2019-12-21T02:14:00Z

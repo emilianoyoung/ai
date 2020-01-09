@@ -8,7 +8,7 @@ ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-rob
 cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-20T01:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "Teko9XvqDfrmmcPOujIAUvoiCVqZTVNpkl8c0LpimxRw+fBhFSACqO4TbcOLxruAPMMi8WEl8vtXmczLXVa/4Eytw8Uxetx5Karm/KKsg5+r8hvYt1tIL+mfkGfNqwqdSlQ/dbzNmeZt/0kDNMGE8dh7cTmhWE06QTjky2ijk/S1P7Sev5w/5HRUt5XQJh0AJE6p6i47fLBEotiBagVNYKCSMKrsfGujQW5ysLhRgoju7G9VU8NUWp215K7IFNW3DIw8efvv2n4tM/cxsMW44A==;vwLNX16+BjtDX3ne6SU+mw=="
 ---

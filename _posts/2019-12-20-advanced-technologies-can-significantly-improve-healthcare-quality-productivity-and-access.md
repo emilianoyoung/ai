@@ -25,17 +25,6 @@ images:
     height: 480
     title: "Advanced technologies can significantly improve healthcare quality, productivity, and access"
 
-related:
-  - title: "New Findings Show Artificial Intelligence Software Improves Breast Cancer Detection and Physician Accuracy"
-    excerpt: "Koios DS Breast 2.0 can be used in conjunction and integrated directly into most major viewing workstation platforms and is directly available on the LOGIQ TM E10, GE Healthcare's next generation digital ultrasound system that integrates artificial intelligence, cloud connectivity, and advanced algorithms. Artificial intelligence software ..."
-    publishedDateTime: 2019-12-20T01:10:00Z
-    sourceUrl: https://finance.yahoo.com/news/findings-show-artificial-intelligence-software-004500787.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 1
-
 secured: "RRSwWUwWj88zUquNXC+nr7BEYtllf9rlkwd32xLXZo+kBBR42+zLoYSNED8a1ccGARstq5yXJq+bH08KB7xkwwegHyDQgnqQ979MpfLIlEv1+ajmK/2HG4vTAibm+x+wGgy4WhSGkdaTWY+nJGlCWauqbD07DPt0UW/rnZCwVvKYWyZEv2iqGgd5/dtQjg+Gy05IrNsPkbzY3p8p6D37IrCvB/mghUkqVMwuzENNyo9nyw3JhnXs4bAygQY9Zww3D6sbn0gi+EL5YMnq5ODjPQ==;AvKxaWT5FndDMXe3ZAui3A=="
 ---
 

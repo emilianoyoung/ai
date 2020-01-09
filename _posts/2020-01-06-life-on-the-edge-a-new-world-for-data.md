@@ -25,6 +25,21 @@ images:
     height: 233
     title: "Life on the edge: A new world for data"
 
+related:
+  - title: "Data for Machine Learning Get’s a New Lease on Language"
+    excerpt: "With each annotation, we automatically capture the X and Y coordinates, OCR (Optical Character Recognition) the annotation and have the option to machine or manually translate the captured text. Through our Human-in-the-Loop step, both the OCR and translation text can be reviewed and edited. This ensures Venga’s clients receive the cleanest ..."
+    publishedDateTime: 2020-01-09T00:59:00Z
+    sourceUrl: https://slator.com/press-releases/data-for-machine-learning-gets-a-new-lease-on-language/
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.56F706E07FE44B10BEDE3D96BC594D65
+        width: 700
+        height: 466
+
 secured: "ZZYjyJ7ld/0FODRcfn7A1cEV6yfwFjnq/tOR7IbI6q0/fADDSICX7yruETYSwNiipaPN7+Z9/y/MYLFXxwtxL7RgGmILVCm4n04lXuNFxY9M3pWhSH+zU7canf4Dd+JzpIK26Ck4fI9LpUQ3oBdD064m0NTc8c1MmY7L3WXBcMNGJjwTDn1sHA/YUzcVTF+dOVUcjVKlS3npBgMsuqXI/IZPeiB3pRKWwKc+If8KqOgvR0PfPlcLoXTvhDUBXxvlfGIssQkry8S/1n5Vdh+JJA==;jsMMXeQXAfwjREj582F1+g=="
 ---
 

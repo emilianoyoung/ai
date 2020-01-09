@@ -78,15 +78,6 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
-  - title: "OMNIQ’s Machine Vision Vehicle Recognition Solution Selected for Security and Parking Management at Large Macau Casino"
-    excerpt: "About OMNIQ Corp. OMNIQ Corp. operates two divisions, HTS Image Processing and Quest Solution. HTS Image Processing is a leading provider of computer vision image processing-based solutions using patented and proprietary AI technology to provide real-time surveillance and monitoring for homeland security, traffic & parking management ..."
-    publishedDateTime: 2019-12-20T01:25:00Z
-    sourceUrl: https://finance.yahoo.com/news/omniq-machine-vision-vehicle-recognition-133010570.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "w/+aO8VY4uRs6/iF+WPtgdszPKPX+DU/GNPn1cPk1ZQjyVpuREmDADgouc2PHkaBT9W0U5lG656KGGz2yCWptOhOj0Z950qC8yq/tdA1IU9uFwiEqVC/Tw9X6tB8PMAzJ/Iqa6Ixr4sojxh8JtBRLYXJjCsx4845L7sQThOEj1tqPiiVAQ7lwkca8JQWuOPE6876HQMK031YV8YDdAFUu8SkxTDbuQf9/Oh9Vlve4fYhXoiPWg8zrkHF5qGkysZR+rzae7xPpsXLGkcIrH3YSg==;A+8pQXocRu3ruFfZ77bFUQ=="
 ---

@@ -8,7 +8,7 @@ ampUrl: https://www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-deve
 cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/26/baidu-taps-samsung-to-develop-new-ai-chips.aspx
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F88E95F1B6D1DB9D4E8C7C73FB435EAE
         width: 660
         height: 300
-  - title: "Samsung, Baidu to Start Production of New Leading-Edge AI Chip Early Next Year"
-    excerpt: "Baidu and Samsung Electronics announced that Baidu’s first cloud-to-edge AI accelerator, Baidu KUNLUN, has completed its development and will be mass-produced early next year. Baidu KUNLUN chip is built on the company’s advanced XPU, a home-grown neural processor architecture for cloud, edge, and AI, as well as Samsung’s 14-nanometer (nm ..."
-    publishedDateTime: 2019-12-20T01:29:00Z
-    sourceUrl: https://www.thefastmode.com/technology-solutions/16114-samsung-baidu-to-start-production-of-new-leading-edge-ai-chip-early-next-year
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 30
 
 secured: "9vmxTYG9CrREMTmgEs5+n84CeHT/IK/Vs2UuBWacoWauYxnG2G/SCWabdIhAY2bhkWpfigqntcd2JB7hTB1DfGHuEVhEK7EfHylPLYqSJ/b6isx6ZKY2oc4EBGKjf5qUXY+XU32TCbR2BhLanMIbqrpTCD2e6DO+SGQ7L00JmJ+lH7nAxO+vG6QczjS+GutQ1ddaMm71jHMF5QbvReETUMUxwCFjah33uwN0SjeJACjkFpHxxUit5s3Uc/0CvipjfkJTmo3jbFaCl/RAAb1Iyg==;cuNjm4LKFJWI9mNCHDbAAw=="
 ---

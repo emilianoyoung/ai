@@ -18,6 +18,19 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Avnet’s new Partner Program gives developers a place to build and scale IoT solutions"
+    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet’s new Partner Program enables system integrators ..."
+    publishedDateTime: 2020-01-09T02:34:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/09/avnet-partner-program/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 17
+    images:
+      - url: https://www.bing.com/th?id=ON.8419E86C3C31CA8D42815487746F6BEB
+        width: 400
+        height: 200
   - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
     excerpt: "At CES 2020, Avnet is launching a new Partner Program designed to provide developers with a place to build complete IoT solutions."
     publishedDateTime: 2020-01-08T14:06:00Z
