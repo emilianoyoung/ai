@@ -69,6 +69,21 @@ related:
       - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
         width: 1024
         height: 512
+  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
+    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
+    publishedDateTime: 2020-01-09T01:16:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
+        width: 700
+        height: 366
   - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
     excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
     publishedDateTime: 2020-01-07T21:44:00Z

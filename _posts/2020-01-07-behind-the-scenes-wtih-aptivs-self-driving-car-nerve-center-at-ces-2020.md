@@ -84,6 +84,21 @@ related:
       - url: https://www.bing.com/th?id=ON.A479F29547C00AEC76009415B3FC47BF
         width: 600
         height: 315
+  - title: "LIDAR sensors aren’t just for self-driving cars anymore"
+    excerpt: "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the environment around the car. Essentially, they help autonomous vehicles “see” other objects, like cars, pedestrians, and cyclists. Chris Urmson ..."
+    publishedDateTime: 2020-01-07T19:00:00Z
+    sourceUrl: https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    ampUrl: https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.CA5772348BBE16A9499928B1928F8AAF
+        width: 700
+        height: 366
   - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
     excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020's opening day, Qualcomm announced the Snapdragon Ride platform, which it envisions as the autonomous driving platform for the ..."
     publishedDateTime: 2020-01-06T19:42:00Z
@@ -172,6 +187,21 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
+  - title: "Ericsson reveals plans for 5G, IoT – and self-driving buses"
+    excerpt: "In one of Ericsson’s no-fills, garage-like labs, students are developing technology to allow a human operator to control remotely the steering wheel and pedals of a self-driving vehicle in order to prevent an accident. The technology, which is in its early stages, relies on a reliable 5G network, with low latency and capable of processing a ..."
+    publishedDateTime: 2020-01-02T17:44:00Z
+    sourceUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses
+    ampUrl: https://www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Ericsson-reveals-plans-for-5G-IoT-and-self-driving-buses?amp=1
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.254E1A2ACBD417F28FCEA4B6C6800831
+        width: 700
+        height: 233
   - title: "Cameron Roberts: Self-driving cars will not fix our transportation woes"
     excerpt: "This future of autonomous, on-demand electric vehicles is tantalizing. It promises a hands-free solution to various transportation woes. The prevailing belief is that a system of self-driving cars will solve several environmental and social problems without us needing to worry about messy stuff like politics, activism or changing our travel habits."
     publishedDateTime: 2020-01-07T02:14:00Z
@@ -217,6 +247,36 @@ related:
       - url: https://www.bing.com/th?id=ON.9155C460A01B52A5A7DFB9979CE97A77
         width: 600
         height: 338
+  - title: "Self-driving shuttles mapping and testing, coming soon to Linden area"
+    excerpt: "COLUMBUS (WCMH) – Life could soon be getting a little easier for residents in the south Linden area. Through a grant funded pilot project, SmartColumbus is bringing two self-driving shuttles to the area. They are currently in the mapping and testing phase. “There’s definitely a sense of excitement just seeing them, seeing something ..."
+    publishedDateTime: 2020-01-09T11:08:00Z
+    sourceUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/
+    ampUrl: https://www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    cdnAmpUrl: https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/self-driving-shuttles-mapping-and-testing-coming-soon-to-linden-area/amp/
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 44
+    images:
+      - url: https://www.bing.com/th?id=ON.4F63490687C4894A297A75B8AAA3E6A8
+        width: 700
+        height: 393
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Makers of self-driving car supporting technology Lidar are looking at other avenues to work in while waiting for the autmobiles to take off. Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new ..."
+    publishedDateTime: 2020-01-09T11:30:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.5E65B606C1888F89059EA97DAA66A20E
+        width: 700
+        height: 392
   - title: "Aptiv Self-Driving Vehicles Now Arriving at McCarran International Airport"
     excerpt: "McCarran joins the list of over 3,400 popular destinations that Aptiv's self-driving vehicles currently service in Las Vegas, including restaurants, hotels, entertainment venues and other high-traffic locations, like the Las Vegas Convention Center. \"Data has shown that a significant portion of ride-hailing demand comes from passengers ..."
     publishedDateTime: 2020-01-06T22:23:00Z
@@ -323,6 +383,19 @@ related:
       - url: https://www.bing.com/th?id=ON.7B9DD954E35409EEA913C6A609768DD6
         width: 700
         height: 386
+  - title: "Honda's cutesy CES concept shows self-driving cars don't mean giving up control"
+    excerpt: "The thought of giving up control in the car, frankly, scares people. Honda sees this, and it hopes to calm those nerves with what it calls the Augmented Driving Concept. Making its debut at CES 2020,"
+    publishedDateTime: 2020-01-09T17:18:23Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/hondas-cutesy-ces-concept-shows-self-driving-cars-dont-mean-giving-up-control/ar-BBYcAnX
+    type: article
+    provider:
+      name: Roadshow on MSN.com
+      domain: msn.com
+    quality: 20
+    images:
+      - url: https://www.bing.com/th?id=ON.7C413DAB130A5CD377DB3D9111D29646
+        width: 700
+        height: 367
   - title: "Tech in 2020: From Elon Musk's self-driving car pledge to 5G networks and Playstation 5"
     excerpt: "The famously optimistic Elon Musk promised in February 2019 that his firm Tesla’s self-driving vehicles will be so sophisticated by the end of 2020, humans will be confident enough to fall asleep while their car is driving itself, adding: “I am certain of that. That is not a question mark.” Given Musk’s numerous bold statements over the ..."
     publishedDateTime: 2019-12-31T08:09:00Z

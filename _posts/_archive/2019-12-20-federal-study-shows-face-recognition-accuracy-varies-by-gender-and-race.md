@@ -1,30 +1,21 @@
 ---
 category: news
-title: "Is Valley Fair mall’s security robot using facial recognition?"
-excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
-publishedDateTime: 2019-12-20T18:55:00Z
-sourceUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/
-ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
-cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+title: "Federal study shows face recognition accuracy varies by gender and race"
+excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+publishedDateTime: 2019-12-20T18:47:00Z
+sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
 type: article
-quality: 91
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: YAHOO!
+  domain: yahoo.com
 
 topics:
   - AI
-  - AI in Robotics
   - Computer Vision
-
-images:
-  - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
-    width: 1024
-    height: 768
-    title: "Is Valley Fair mall’s security robot using facial recognition?"
 
 related:
   - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
@@ -57,6 +48,21 @@ related:
       - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
         width: 1024
         height: 576
+  - title: "Is Valley Fair mall’s security robot using facial recognition?"
+    excerpt: "Is there some security guard directing (the robot) to to go to a video arcade and spy on young girls playing Skee-Ball?” According to a U.S. Department of Commerce report this month, many facial-recognition algorithms — the software that uses artificial intelligence to compare and match images — produced mis-identifications, with the ..."
+    publishedDateTime: 2019-12-20T18:55:00Z
+    sourceUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/
+    ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+    cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 91
+    images:
+      - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
+        width: 1024
+        height: 768
   - title: "ProBeat: Enough with the government facial recognition"
     excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
     publishedDateTime: 2019-12-20T18:30:00Z
@@ -147,17 +153,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T18:00:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
     excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
     publishedDateTime: 2019-12-28T07:00:00Z
@@ -697,15 +692,6 @@ related:
         height: 2889
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
-    publishedDateTime: 2019-12-20T18:47:00Z
-    sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 19
-  - title: "Federal study shows face recognition accuracy varies by gender and race"
-    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-21T00:30:00Z
     sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
     type: article
@@ -741,6 +727,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "Teko9XvqDfrmmcPOujIAUvoiCVqZTVNpkl8c0LpimxRw+fBhFSACqO4TbcOLxruAPMMi8WEl8vtXmczLXVa/4Eytw8Uxetx5Karm/KKsg5+r8hvYt1tIL+mfkGfNqwqdSlQ/dbzNmeZt/0kDNMGE8dh7cTmhWE06QTjky2ijk/S1P7Sev5w/5HRUt5XQJh0AJE6p6i47fLBEotiBagVNYKCSMKrsfGujQW5ysLhRgoju7G9VU8NUWp215K7IFNW3DIw8efvv2n4tM/cxsMW44A==;vwLNX16+BjtDX3ne6SU+mw=="
+secured: "LYWVeh7kOpeknXlQpOfBQcLfYaU85WJPzG2NCv1lwnfC+iuL1+SLlVG+pL0GKCHEn7LNoZDNPCkF2S/t5WQTtiHfLOI8PLL+wM38IwkoeuKxZ5waY3/nu9jF3621FBnswqIOPYYxXXvadvJuGn0KzeVt9sAM0SLPuKmXjB1ZmJjUZ255ENZTvglxBpLoQpPh2g2FcSZj4dt7cCdZIQBs/+eVDTvwtqR6TE5igOn6bzkJB2Qc1qYslrayYqgF/TtDG5BJgJ2gogzwTkNd6dBxyA==;WvRWqh9f9zDmQW+tmhgMoQ=="
 ---
 

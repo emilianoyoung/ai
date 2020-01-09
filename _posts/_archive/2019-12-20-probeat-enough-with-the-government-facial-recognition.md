@@ -1,21 +1,33 @@
 ---
 category: news
-title: "Federal study shows face recognition accuracy varies by gender and race"
-excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
-publishedDateTime: 2019-12-20T18:47:00Z
-sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
+title: "ProBeat: Enough with the government facial recognition"
+excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
+publishedDateTime: 2019-12-20T18:30:00Z
+sourceUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/
+ampUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
 type: article
-quality: 19
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
+
+images:
+  - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
+    width: 1200
+    height: 600
+    title: "ProBeat: Enough with the government facial recognition"
 
 related:
   - title: "San Francisco loosens facial recognition ban to allow newer iPhones"
@@ -63,21 +75,6 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
-  - title: "ProBeat: Enough with the government facial recognition"
-    excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
-    publishedDateTime: 2019-12-20T18:30:00Z
-    sourceUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/
-    ampUrl: https://venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/probeat-enough-with-the-government-facial-recognition/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
-        width: 1200
-        height: 600
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
     excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
     publishedDateTime: 2019-12-23T03:14:00Z
@@ -153,17 +150,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A3D7D907F525F602C0DBF0BA9D8A94D7
         width: 640
         height: 433
-  - title: "Can Facial Recognition Tech Stocks Calm Public Jitters?"
-    excerpt: "The old admonition to be careful what you wish for because you might just get it applies to facial recognition. Useful in opening your iPhone and in helping law enforcement bring criminals to heel, the technology's proliferation also portends a dystopian future in which people live in a surveillance state and our every move is analyzed by ..."
-    publishedDateTime: 2019-12-20T18:00:00Z
-    sourceUrl: https://www.fool.com/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    ampUrl: https://www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    cdnAmpUrl: https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2019/12/20/can-facial-recognition-tech-stocks-calm-public-jit.aspx
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
     excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
     publishedDateTime: 2019-12-28T07:00:00Z
@@ -703,6 +689,15 @@ related:
         height: 2889
   - title: "Federal study shows face recognition accuracy varies by gender and race"
     excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
+    publishedDateTime: 2019-12-20T18:47:00Z
+    sourceUrl: https://news.yahoo.com/2019-12-20-nist-face-recognition-bias-study.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 19
+  - title: "Federal study shows face recognition accuracy varies by gender and race"
+    excerpt: "Researchers have studied the potential for bias in facial recognition algorithms before, but now it's the US government's turn to weigh in. The National Institute of Standards and Technology has published a study indicating \"demographic differentials\" in the majority of the facial recognition algorithms it tested. The report, which examined ..."
     publishedDateTime: 2019-12-21T00:30:00Z
     sourceUrl: https://www.yahoo.com/now/2019-12-20-nist-face-recognition-bias-study.html
     type: article
@@ -738,6 +733,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "LYWVeh7kOpeknXlQpOfBQcLfYaU85WJPzG2NCv1lwnfC+iuL1+SLlVG+pL0GKCHEn7LNoZDNPCkF2S/t5WQTtiHfLOI8PLL+wM38IwkoeuKxZ5waY3/nu9jF3621FBnswqIOPYYxXXvadvJuGn0KzeVt9sAM0SLPuKmXjB1ZmJjUZ255ENZTvglxBpLoQpPh2g2FcSZj4dt7cCdZIQBs/+eVDTvwtqR6TE5igOn6bzkJB2Qc1qYslrayYqgF/TtDG5BJgJ2gogzwTkNd6dBxyA==;WvRWqh9f9zDmQW+tmhgMoQ=="
+secured: "7PGjlZ67KEJrb6GHu0KYBlIt1+DDU9+YfRI/eZAKl0BTNVRwEVHET9dZXzSon6dI76y93Rz/I4elP8HBC/xmRiO0OQb5/bbXiWTUpACynmbSE+ef7GlWmcla0tLoplxi+6bryrw57JHT3UBdBLYC6on8LCDElxW1L9HouYKRDFNTTxCdfHdMbhAo0YIkBJU4PUNy1PMymL+WAFoQkFa+DFIJa3RfDZb0E5YRhOP47x4StBue0qGFmfnZNnAw0Xm39hAD2zv4+9odXLSaaBP+/Q==;kKGjMoip7okf1+TchY6bVA=="
 ---
 

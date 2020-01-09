@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velody
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       name: Governing
       domain: governing.com
     quality: 24
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new customers who would use the technology for everything from monitoring cattle to helping a disc jockey synchronize dance music."
+    publishedDateTime: 2020-01-08T17:40:00Z
+    sourceUrl: https://finance.yahoo.com/news/lidar-laser-sensing-technology-self-190205368.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 23
+    images:
+      - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
+        width: 500
+        height: 500
 
 secured: "jP1Pb711Hft8ITViU41/gGU3cQNptNBUsSHWv3avnatQTvbajzD2dMR1cJ1TnnDWOneFj7NDp9wKGibo4fItiT+AyQ15yEUx0tysKUKN9ZgQ3nTdWmMcDx9CW2xNYbndEkqW26zopnFFpjWFUOb3mlNT2fBKl56M8HSI3BMJpdfKW0RSKTA9s5+/vlC5o9H1N+3SFPEjw/o2Yur815QMZFquIeFREKDL+jhF3qJ8Q1gEs9QJ7LNSUfZnLPdndKxiLRhrYEog+uGJch2cAEJMHQ==;VTFM433V2EaRdOeFSvXynQ=="
 ---

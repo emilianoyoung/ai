@@ -8,8 +8,8 @@ ampUrl: https://www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot
 cdnAmpUrl: https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/01/06/ces-gadget-show-toilet-paper-robot-and-tracking-the-elderly/amp/
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: TwinCities.com
@@ -26,47 +26,36 @@ images:
     title: "CES Gadget Show: Toilet paper robot and tracking the elderly"
 
 related:
-  - title: "CES 2020: Toyota Woven City Will Weave Together AI, Hydrogen Power And The Future"
-    excerpt: "Inside the homes, there will be “in-home robotics to assist with daily living,” Toyota says. That means sensor-based AI for health checks, an especially important feature in an aging society like Japan’s. There will also be a digital operating system for the city’s infrastructure with an AI to test and manage the communications coming ..."
-    publishedDateTime: 2020-01-06T22:41:00Z
-    sourceUrl: https://www.forbes.com/sites/sebastianblanco/2020/01/06/ces-2020-toyota-woven-city-will-weave-together-ai-hydrogen-power-and-the-future/
-    ampUrl: https://www.forbes.com/sites/sebastianblanco/2020/01/06/ces-2020-toyota-woven-city-will-weave-together-ai-hydrogen-power-and-the-future/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2020/01/06/ces-2020-toyota-woven-city-will-weave-together-ai-hydrogen-power-and-the-future/amp/
+  - title: "A Café In Tokyo Is Holding Weekly Play Dates And Birthday Parties For Robot Dogs"
+    excerpt: "It seems the Aibo can provide companionship and joy to its owner without the complexities that come with having a live doggo in the house. The robot uses artificial intelligence to tailor itself to its owner. “As aibo learns its environment and develops relationships with people, its identity takes on more and more layers,” reads the Aibo ..."
+    publishedDateTime: 2020-01-06T11:31:00Z
+    sourceUrl: https://www.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
+    ampUrl: https://amp.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
+    cdnAmpUrl: https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/a-caf-in-tokyo-is-holding-weekly-play-dates-and-birthday-parties-for-robot-dogs/
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: IFLScience
+      domain: iflscience.com
+    quality: 54
     images:
-      - url: https://www.bing.com/th?id=ON.0EA7653251F63F550FFBB41E8A1CBEF9
-        width: 600
-        height: 315
-  - title: "CES 2020: The ten best new technologies coming out of Las Vegas"
-    excerpt: "uses artificial intelligence to identify the person who is speaking, and then employ lip reading technology to isolate the sound of their voice, making it easier for those with hearing difficulties to understand them. OrCam’s founders, Amnon Shashua and Mr. Ziv Aviram, previously founded Mobileye, a driverless car company that was sold to ..."
-    publishedDateTime: 2020-01-06T10:35:00Z
-    sourceUrl: https://www.telegraph.co.uk/technology/2020/01/06/ces-2020-ten-best-new-technologies-coming-las-vegas/
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.BFC1869F83113FF6D32D584710130C20
+      - url: https://www.bing.com/th?id=ON.2B8518971C36376823319B3AFCA779FB
         width: 700
-        height: 436
-  - title: "Looking to the Future: 2020 Insight"
-    excerpt: "Knowledge management systems help companies accomplish that goal. Throughout all KM solutions and services, a wave of modern technologies, such as AI, machine learning, natural language processing, and others, are serving to enhance traditional capabilities. “Many consumers have become well-acquainted with AI-powered assistants such as Alexa ..."
-    publishedDateTime: 2020-01-07T05:07:00Z
-    sourceUrl: https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=135756
+        height: 393
+  - title: "CES 2020 – Weirdest gadgets at Las Vegas tech show from hands-free breast pumps to a robot that delivers loo roll"
+    excerpt: "Robots get a bad rep sometimes but Japanese robotic startup Groove X has designed ... It works by replacing traditional car visors with a transparent LCD and intuitive camera. Artificial intelligence within the visors allows it to determine where the Sun is hitting the drivers face so it can provide shade to these areas only."
+    publishedDateTime: 2020-01-06T09:49:00Z
+    sourceUrl: https://www.thesun.co.uk/tech/10678456/ces-2020-weirdest-gadgets-at-show/
+    ampUrl: https://www.thesun.co.uk/tech/10678456/ces-2020-weirdest-gadgets-at-show/amp/
+    cdnAmpUrl: https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/10678456/ces-2020-weirdest-gadgets-at-show/amp/
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 38
     images:
-      - url: https://dzceab466r34n.cloudfront.net/Images/ArticleImage/127371-global-data-and-hand-ORG.jpg
-        width: 1000
-        height: 540
+      - url: https://www.bing.com/th?id=ON.2FA3FB2FAC4618D514094F470BAEFAA2
+        width: 700
+        height: 466
 
 secured: "JiKK5m41Xr2D7eFMOsd5QsQrOyu50EwsrKgbWvEBZnjM+555v+ceXhtAvP8/HdpVGCOuOpfpzED7NsRt1zZKPJ3rVaTW6aNcReLFFdCnptv6iZKDV/DQFjmsE0Fyi710eICr5LjKPtKoRewA0Flk19ZW9AOeSJFsGQEtH/LmdQFuwRHFxpp5cAhVGu6i7groWTtBW3REPI4O9fgofMdaynP0kJtrFcYctKzNu4UkUNeij8p8+e5T3qpBjtDNMwvouqSulOIPYBOF0+f2pdwb8Q==;p/mGog4WQAkg1bzor2QCSg=="
 ---
