@@ -58,21 +58,6 @@ related:
       - url: https://www.bing.com/th?id=ON.006FF4A2D7FC3BA66C41DC60A5316F3D
         width: 700
         height: 393
-  - title: "Overcoming Racial Bias In AI Systems And Startlingly Even In AI Self-Driving Cars"
-    excerpt: "A growing call for XAI, explainable AI, continues to mount as more and more AI systems are being fielded and underlay our everyday lives. Here’s an interesting question: Could AI-based true self-driving cars become racially biased (and/or biased in other factors such as age, gender, etc.)? Sure, it could happen. This is a matter that ought to ..."
-    publishedDateTime: 2020-01-04T15:15:00Z
-    sourceUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/?ss=ai
-    ampUrl: https://www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/04/overcoming-racial-bias-in-ai-systems-and-startlingly-even-in-ai-self-driving-cars/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: https://www.bing.com/th?id=ON.19C345D1069A685957DCBAC8889B1A34
-        width: 600
-        height: 315
   - title: "Be Resolved To Put Self-Driving Cars On Your Bucket List"
     excerpt: "Here’s an item I’d suggest you include on your bucket list: Make use of a true self-driving car. Before I further elaborate, do you think that the bucket list item about self-driving cars should be in the same category as the high-risk high adventure set, or is it more rightfully placed into the camp of achieving everyday activities?"
     publishedDateTime: 2019-12-28T14:13:00Z
@@ -118,21 +103,6 @@ related:
       - url: https://www.bing.com/th?id=ON.DDC2DDFF9B727AF75F72D774FCD771B4
         width: 700
         height: 449
-  - title: "Sony to test self-driving cars to boost sensing, safety technologies"
-    excerpt: "Sony Corp said it would start testing self-driving cars as early as this year to beef up the company’s sensing and safety technologies, as the Japanese electronics and entertainment giant accelerates its automotive push."
-    publishedDateTime: 2020-01-07T07:35:00Z
-    sourceUrl: https://www.reuters.com/article/us-sony-autonomous-idUSKBN1Z60MF
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60MF
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60MF
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
-        width: 700
-        height: 466
   - title: "Bosch thinks its new lidar system is the breakthrough self-driving cars need"
     excerpt: "Bosch, the German supplier that's responsible for building so many car-related components, won't be left out of the self-driving car discussion. Instead, it wants to help shape the conversation. On Thursday, the company revealed the first information on its new lidar system. Lidar, a laser-based tool that gives autonomous cars \"sight,\" so to ..."
     publishedDateTime: 2020-01-02T08:03:00Z
@@ -219,32 +189,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A23690DECED0605C78EC9FC43CEC5B47
         width: 700
         height: 394
-  - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
-    excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
-    publishedDateTime: 2020-01-06T10:31:00Z
-    sourceUrl: https://www.msn.com/en-in/news/other/deadly-tesla-car-crashes-raise-questions-on-self-driving-cars/ar-BBYEXqP
-    type: article
-    provider:
-      name: News18 on MSN.com
-      domain: msn.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.B7E09AF6178723C0E895718F26CC93E9
-        width: 600
-        height: 315
-  - title: "Qualcomm is getting into the self-driving market"
-    excerpt: "It might seem strange for a smartphone chip company to tackle self-driving, but in reality, many of the same technologies exist in both products. Qualcomm has long leveraged its mobile chip lead to grab a significant chunk of the broader system-on-a-chip market. Smartphone makers buy Qualcomm Snapdragon chips that contain an ARM-based CPU ..."
-    publishedDateTime: 2020-01-07T16:10:00Z
-    sourceUrl: https://arstechnica.com/cars/2020/01/qualcomm-is-getting-into-the-self-driving-market/
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.BD0980330B1B96209049D5586291CE10
-        width: 700
-        height: 350
   - title: "3 deaths in rash self-driving Tesla crashes threaten Elon Musk's autopilot ambitions"
     excerpt: "DETROIT (AP) — Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets. Continue Reading Below On Sunday, a Tesla Model S sedan left a freeway in Gardena, California, at a high speed ..."
     publishedDateTime: 2020-01-03T11:26:00Z
@@ -471,19 +415,6 @@ related:
       - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
         width: 700
         height: 393
-  - title: "Sony unveils self-driving car to be tested in fiscal 2020"
-    excerpt: "The system combines Sony technologies, including artificial intelligence and cloud ... but aims to use it to acquire self-driving-related technologies know-how by testing them on the prototype ..."
-    publishedDateTime: 2020-01-06T18:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/CES-2020/Sony-unveils-self-driving-car-to-be-tested-in-fiscal-2020
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.59BBCCB091A76D5C616F0D06E931803B
-        width: 700
-        height: 350
   - title: "Qualcomm pushes into self-driving cars with Snapdragon Ride Platform"
     excerpt: "Announced at the Consumer Electronics Show today, Qualcomm’s Snapdragon Ride Platform is designed to make it easier for automakers to transform their vehicles into self-driving cars. The platform includes everything needs to run an autonomous vehicle, including the artificial intelligence software needed to avoid collisions, and compact ..."
     publishedDateTime: 2020-01-07T02:02:00Z

@@ -7,8 +7,8 @@ sourceUrl: https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-wa
 ampUrl: https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
 cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 217
 published: true
 
 provider:
@@ -28,6 +28,49 @@ images:
     height: 366
     title: "Warner Bros. signs AI startup that claims to predict film success"
 
-secured: "8FyRcmv4xVlhXkN1NLSN2xrPrwiGfdDfIp57pfJU2/lJnypx0as2FfRuHyjk2HaxlWrKk+79w/ho4iNe+SoCOVRnj0/d5Tw62zhoNpH3Gro0UEr9CFRQCkO9N1WC44wNDFLoaaAkZyf8ixeod80U6xL09uyAPmZ7Np2nH8O8z9aderfmiLj+aTEYqZ5ctOaoP1WuwP3xQnrUPh10mOVBob4OCW/Me11/mcTQSMLwCZ/CtXAH9SCGBsfnK58l4y9TL0F7EPkKvmc16thZ/RX+iA==;n/wvUWGDTAqygYBEST6eOw=="
+related:
+  - title: "No, Warner Bros. is not letting AI decide what movies it makes"
+    excerpt: "Numerous other outlets picked up the story, sending Twitter and Reddit users into a tizzy as film fans began panicking that AI—and not humans—will soon decide whether or not certain films get made. The truth is not quite so dire, but it does highlight the growing relationship between technology and Hollywood. Cinelytic, an analytics and ..."
+    publishedDateTime: 2020-01-09T15:25:00Z
+    sourceUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/
+    ampUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.68DDD0D7F7B26DF7EEF6685CBD4949D5
+        width: 700
+        height: 393
+  - title: "Warner Bros. signs AI startup to help decide which films to back"
+    excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
+    publishedDateTime: 2020-01-09T10:38:37Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
+    type: article
+    provider:
+      name: The Verge on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
+        width: 700
+        height: 367
+  - title: "Warner Bros. signs with AI company to help choose which movies to reboot (yes, really)"
+    excerpt: "Last fall, STX became a client of Cinelytic, a company that offers AI for navigating decisions around prospective film projects. It’s a questionable move, but one that doesn’t seem out of line for a five-year-old film studio willing to try anything. What’s much more troubling is this week’s announcement that Warner Bros. has just ..."
+    publishedDateTime: 2020-01-09T16:05:00Z
+    sourceUrl: https://www.fastcompany.com/90450218/warner-bros-signs-with-ai-company-to-help-choose-which-movies-to-reboot-yes-really?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.A071083D3CA911EF26969D39320A10BD
+        width: 700
+        height: 393
+
+secured: "aUQ8OeUSbn7HqRSFzhWUpv6yKG4Ve3/SetUAihWdiL3zQ8aiSjLjkDtMD2IYXkLtvrOTI9pqoiDVTJTY46fTcRqW3pfDupDXZanj+SzS+SU0pUOxaiPt8I+cBym7PH/4S+eDV84YaxXl84zIYTcPM2xhvilPCAUrpEpfSCBG+cnInsr9twsXFqAL6PXYbahjCD/whqpVd3qf6PkfwdrLmxqNLU8+dhBvrWY8WkuAETflXsx/qNuTlMi7S1XqdyVaJ6C3OjsD+Fs5oqhq8VrhHzOQ2H9X4buPkICN+quJK3g=;joNe+MeTaTAT4xTzEWs7wg=="
 ---
 

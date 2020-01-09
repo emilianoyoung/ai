@@ -82,45 +82,6 @@ related:
       - url: https://www.bing.com/th?id=ON.916BF1178E8104A83847A62370B21073
         width: 700
         height: 365
-  - title: "CES: Toyota's building a city the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
-        width: 700
-        height: 393
-  - title: "CES: Toyota's building a city where the future full of robots and AI"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-building-a-city-where-the-future-full-of-robots-and-ai
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
-        width: 700
-        height: 393
-  - title: "CES: Toyota's city of the future is full of robots and AI systems"
-    excerpt: "Fuji in Japan on 175 acres of land and will be based on a clean-sheet design. Designed for efficiency and ease of mobility, the city will allow Toyota to develop and test autonomous systems, robotics, smart-home systems, artificial intelligence, and future transportation systems in a real-world environment. The city will have designated streets ..."
-    publishedDateTime: 2020-01-07T21:00:00Z
-    sourceUrl: https://www.motorauthority.com/news/1126637_ces-toyota-s-city-of-the-future-is-full-of-robots-and-ai-systems
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.3289AA2B3F679976EEEBC37101396CCB
-        width: 700
-        height: 393
 
 secured: "aQfG6y/jj7kvRPpTtquhk7LByyPMiDlpbuzlhDbN5vcIrBoXdrgPBXiqruEUh4phQ9YO1iWL7fVx8Kz2qJvdWajnVdNPv7qEf+3uwOcAxnShmdIcQBpJCK7/jOAYmqODF9L4VEFWZLdqGLiRfWH/WPTlzhbOiYZNOnOgcb+HDb9fC/RAP208QfVEUsV9sH/MuuhvTyy6EJBkIMC8aXXJ9cZ42XDSlJAYlYGYZJnD1tgMT5WCtfLAtkXaZ4TkqcIi0aD8Zdol9r+8WkubMrNO8Q==;98j+mnCXrZ8GGna3TupYBw=="
 ---

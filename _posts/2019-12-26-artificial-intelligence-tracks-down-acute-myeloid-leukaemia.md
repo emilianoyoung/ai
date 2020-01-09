@@ -19,7 +19,7 @@ topics:
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
-    excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine, especially in the field of diagnostics. \"We aimed to investigate the potential on the basis of a ..."
+    excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is ..."
     publishedDateTime: 2019-12-20T16:54:00Z
     sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
     ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp

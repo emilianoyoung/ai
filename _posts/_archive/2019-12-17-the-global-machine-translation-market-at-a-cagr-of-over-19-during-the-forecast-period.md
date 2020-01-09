@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-17T19:26:00Z
 sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,22 +24,16 @@ images:
     title: "The global machine translation market at a CAGR of over 19% during the forecast period"
 
 related:
-  - title: "Automation And Machine Learning: Transforming The Office Of The CFO"
-    excerpt: "In the right hands, automation and machine learning can be a fantastic combination for CFOs ... Accenture’s global talent and organization lead for financial services, Andrew Woolf, says the challenge for businesses is to “pivot their workforce to ..."
-    publishedDateTime: 2019-12-12T20:53:00Z
-    sourceUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/
-    ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
+  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
+    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
+    publishedDateTime: 2019-12-16T17:52:00Z
+    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df289ffe961e1000738f1ce%2F0x0.jpg
-        width: 1199
-        height: 600
+      name: openpr.com
+      domain: openpr.com
+    quality: 10
 
-secured: "t3822Csrt7CAepJ6QowjclhqsvILEoc8xvkCfSMumsS8AJmEaBjUoGzrgYPxwfmYjkXWoRCO/H8B/RTBzvncgeB05AHkVQb24zkNqxJOEc+aRIIR48KoIWJnsr01s2kI3KvzQVVpPHDWH91jjPgGXUAfVLMa6Zx33Kw1/peQxbgoWsUNhKQo6Q4PyOvvhRFnrdMIrhWUz7LW194V/izYkajKxHi5Bye/iMAHtwEQhR+WHdcpE0bA76+DNdodDo7E+ni5BIBq0q68/iJ4H6Lnvw==;y+9WXG/u5yGrq86SRXX1OA=="
+secured: "bLM8JPfEnHwaukCucsQ14/19taUW1XRrGKhrpP753snGNG2zHctaVoM58761lM9y+sQVjFjsNbt1qyHNdiGMuzhvyiTNHXsRZugeXnZg1fSDCHrTwWlma/DGGar9ZfAUUBEmc5Its2B+6IjVrVlfyrr3r/dajuEJkAX/QoSzav0IiQUbH24gjaf/VV0gHxBUREQ9ZTEeovGf7hfECiys68N1cQ6feFVKsG5/58+qJC2wN0w3k2qv8mjinmlDsLer1bBH20rStgbdkEfTBZWI7g==;Zj4hrK8nJNEP0oVjoVuMnA=="
 ---
 

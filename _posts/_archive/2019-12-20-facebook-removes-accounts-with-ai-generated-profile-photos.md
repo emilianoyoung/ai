@@ -1,23 +1,32 @@
 ---
 category: news
-title: "Facebook bans pro-Trump media outlet over fake accounts"
-excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
-publishedDateTime: 2019-12-20T20:22:00Z
-sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+title: "Facebook Removes Accounts With AI-Generated Profile Photos"
+excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
+publishedDateTime: 2019-12-20T20:21:00Z
+sourceUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/
+ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
+cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
 type: article
-quality: 24
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Wired
+  domain: wired.com
+  images:
+    - url: /assets/images/organizations/wired.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Facebook AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
+    width: 400
+    height: 430
+    title: "Facebook Removes Accounts With AI-Generated Profile Photos"
 
 related:
   - title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
@@ -35,21 +44,6 @@ related:
       - url: https://images.wsj.net/im-138654/social
         width: 1280
         height: 640
-  - title: "Facebook Removes Accounts With AI-Generated Profile Photos"
-    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
-    publishedDateTime: 2019-12-20T20:21:00Z
-    sourceUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/
-    ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
-        width: 400
-        height: 430
   - title: "Facebook removed fake accounts that used AI to create fake profile pictures"
     excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
     publishedDateTime: 2019-12-20T21:51:00Z
@@ -222,19 +216,17 @@ related:
       - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
         width: 1200
         height: 799
-  - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
-    excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
-    publishedDateTime: 2019-12-20T19:50:00Z
-    sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
+  - title: "Facebook bans pro-Trump media outlet over fake accounts"
+    excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
+    publishedDateTime: 2019-12-20T20:22:00Z
+    sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
     type: article
     provider:
-      name: NBC News on MSN.com
-      domain: msn.com
-    quality: 28
-    images:
-      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
-        width: 301
-        height: 274
+      name: The Financial Times
+      domain: ft.com
+    quality: 24
   - title: "Facebook removes hundreds of fake accounts promoting Trump"
     excerpt: "Facebook said Friday it removed more than 900 accounts, groups, and pages on its own platform and Instagram for using fake accounts to mislead users, including with false profile photos generated by artificial intelligence ... Graphika and the Digitial Forensics Research Lab. The Epoch Times was founded in 2000 by John Tang and a group of ..."
     publishedDateTime: 2019-12-21T10:46:00Z
@@ -275,6 +267,6 @@ related:
         width: 594
         height: 397
 
-secured: "XCS28hUYgEFWZx0C8FcJR5f8qpfM5Akkt/qXe84341GJhY7xZxUPHu4353F3NhWA6WwS75S2RAudK7UNlzk7nQAxcWhbxAYS6hp2mx/15vwTsLK9MGpzkCAihapLeoNndKZ5sSDOIJAgXY1iKMqCsO02mpiHraHuVrLPK8+LL+ptUPSU2WYnJHHY7VmSZq6C/QQe3zakn+rRCKmRs073yeCKhFQCtNP6oW4vM77kXyDM62/+ykZwdwtSjRB03i4t0ciofukELVA10MVm7MpP9g==;LaSq98k+5T95SwL00mLGxg=="
+secured: "wYBUPwq4Z2EI0fbGC+VUEpNL3q0p9AKQ5lr2dLTXbKF+swAkIY7ewJs2MBEI1rkb7Vc8JGslKPYG/Hi+1jb0UD1nrWDiwMdOH+i8n9KNXzMEuXu5em50SbBSHh28VdtitiecKEdzF9yFKOcjOuJ/uYBJYHdcI10krdJgIhrO6czlPc1dlvUBWrT3Rtp3F6jzuq6iXN9L1YVE6DeIt/IVSUoECQtnLktV/n9A9CR6OGQhcq09+NMF9mAzPp9yEMUa/xeHHLOwYUIMnEoyf1NMNA==;dJctp7CLrXf6ybLtyNvoLQ=="
 ---
 

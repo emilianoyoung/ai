@@ -7,8 +7,8 @@ sourceUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-fo
 ampUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
 type: article
-quality: 85
-heat: 95
+quality: 185
+heat: 205
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     title: "Soul Machines raises $40 million for AI-powered customer-facing digital avatars"
 
 related:
+  - title: "Deep Genomics raises $40 million Series B for AI drug discovery platform"
+    excerpt: "Founded in 2015, Deep Genomics has developed a platform that uses deep learning-based technology to help geneticists, chemists, and molecular biologists create therapies. Its software system, Saturn, is used to search across 69 billion molecules and pinpoint 1,000 compounds that can be used to alter the composition of cells. Deep Genomics ..."
+    publishedDateTime: 2020-01-07T17:39:00Z
+    sourceUrl: https://betakit.com/deep-genomics-raises-40-million-series-b-for-ai-drug-discovery-platform/
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.F42FA334174E0946E30D0069C780D3B9
+        width: 700
+        height: 466
   - title: "Samsung unveils AI-powered digital avatar"
     excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
     publishedDateTime: 2020-01-07T07:18:09Z
@@ -44,6 +57,6 @@ related:
         width: 700
         height: 525
 
-secured: "liZto7taXjBIJCie+9qnw/vamKlcr1gEj534T5zspUS9Bs2Hb+RBkEz6SCuC3QB3TIMIabQTf0d7dW3qYRMjZHteoBGmMeoQ65e6OKW8rAsEwlMUQACGXAB50T9Mt2AqkWR5uggsjLvAZQ/l5iT9JUejCU3I82CJfxqrZr4plTUG1GiMhy+X9j4WfY9K+Ug+ev+C8+aSbwb/mE6D75Om367+gCe6aiG59AXHCIczvzITSdyKiIu9mliVBk6F3sk1o3II0XnD6IHzM3TsdLmdoQ==;zksETl4MnELgFN5j7+PvZA=="
+secured: "BcGpuDosNBPErMXCxGCRYLxUCuViIhgDV/AiO2b6QPaEGf59phI8AoPYqnyx8xG7jYIm9tFzDvPZHAuGhDv385HbS0RFPwnGuwJ2/WqHLX5yfOcFSebDK6+pFXubq0cjtq3maNltizmggCvHB0E/K5ongJCw8D7XCCGyVbMaD3mIH+qhrhoQhqyersKcmnca0lFGAXL/UK4vPHOGk9CHrmBClrbnafegbNK6aXKiXAcPOz2cMcKqzNOAaRZhzHp5nr0t9bib3I5wZywiqerHHAC2adCgZY3154epi7pYrt8=;sI8LglHLyyM+b5EpzQ0WLg=="
 ---
 

@@ -8,7 +8,7 @@ ampUrl: https://yourstory.com/mystory/leverage-robotics-transform-finance-accoun
 cdnAmpUrl: https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/leverage-robotics-transform-finance-accounting/amp
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       - url: https://www.bing.com/th?id=ON.79D5D14F76DDC1BE11CF4C1C851AD58E
         width: 700
         height: 394
+  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
+    excerpt: "Robosen Robotics' visionary craftsmanship and cutting-edge technology in artificial joint driving algorithms and digital electric drive technology, provide T9's artificial intelligence (AI) - Easy to remember voice commands, complex animations completed with precision control, captivating dance performances and innovative stunts. These ..."
+    publishedDateTime: 2020-01-09T20:59:00Z
+    sourceUrl: https://www.tmcnet.com/usubmit/-robosen-robotics-debuts-t9-ces-2020-worlds-most-/2020/01/09/9079372.htm
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
 
 secured: "yI5xYkBZIZnJyyTtTexOVnn8j0VEmlHreNZF2bjwQj2mESw9eVDhlpcW/meB9X5MrqHQ65tvlbU5jBtB4eTVLgj23+eQkpk244/NaNn7lf2deAmjftqWOBiu7dtBJmSg8rkAkKu7eAvuktyGaoT07OzC27dh/2uliu2sbBvUY7b3/99qF5E0EUQwJygn4NMEN7G0H7qgU4kz1Dtc2T0nBswuApyToTPT25MOVGhoX3Ur63LvSI7G/3EVQfPp1UXwZLlW7uYwWdIQKMkwzwqOHQ==;F2JT1x/gNoDxw1Qu75GGJQ=="
 ---

@@ -2,8 +2,8 @@
 category: news
 title: "Automotive Artificial Intelligence Market 2020 Growth, Status and Forecast by 2025 – Market Research Engine"
 excerpt: "New York, January 09, 2020: The Automotive Artificial Intelligence Market is segmented on the Basis of Technology type, Offering type, Process type, Application type and Regional Analysis. By Technology type this market is segmented on the basis of Context Awareness,"
-publishedDateTime: 2020-01-09T02:54:00Z
-sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-08
+publishedDateTime: 2020-01-09T08:13:00Z
+sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-2020-growth-status-and-forecast-by-2025-market-research-engine-2020-01-09
 type: article
 quality: 49
 heat: -1
@@ -274,8 +274,8 @@ related:
     quality: 0
   - title: "Global Speech Analytics Market Size was Valued at USD 950 Million in 2018 and is Expected to Grow at a CAGR of 13.84% by 2025 | Valuates Reports"
     excerpt: "/PRNewswire/ -- Speech Analytics has become increasingly popular in the telecommunications industry because of the huge amount of data produced by"
-    publishedDateTime: 2020-01-07T21:43:00Z
-    sourceUrl: https://www.prnewswire.com/in/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025-valuates-reports-894848027.html
+    publishedDateTime: 2020-01-07T11:07:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/global-speech-analytics-market-size-was-valued-at-usd-950-million-in-2018-and-is-expected-to-grow-at-a-cagr-of-13-84-by-2025--valuates-reports-300982567.html
     type: article
     provider:
       name: PR Newswire
@@ -295,6 +295,6 @@ related:
       domain: yahoo.com
     quality: 0
 
-secured: "cmqyrI/BR6+duPqG3REX+0NeMgvKNs7GLGCYAAF18F467B0uZob+zhcux9SlTsq7FRx7XExYvWaStAM/uzoH0/RnRsMZLU2V2bDLk62vMu9AH4sFp79mmbW+kysvR1JHHGbWZg9gV65kEdG78JAbFwzUP7NxatzrFlYhOijUszGCPGLzpvNNkK+qn+GNCtcLXc5OlgXjoipQStGLwuW2uzhu9x2FZpomzlptU3ju8+u4ialFUtBPBe+ytCo2YxHnpPYijZ5v87zJNdZFeoWeSQ==;1a6UJd9K0H9vle6nG6vBWg=="
+secured: "DKBPbVSivDAy7yK5GpaycvFPletv0cmwbHLREyL0DXqJdLuXXUMYE1rK8tDqtXlcX56nPd3GZiBmUxEuv3nd7vDljPRwMUjDiuXpjm32dn/pGJhSf0jcOIYeuQgGLKy885+u7WSEYAgG+fsRYrg9TVjaWu3dKpKh33zZZAuKwHsvPUwI+MAs4A9R5VCyUnEsusCFse7EAiBnDoa3ORRMVAK8hNDzzH2bVeW63FDtR0xM+k+AHM2Q5OkVWyIcGqkwub+hswuxnuTYJWUzyXVvdA==;I2HG53k0jF90v13jIptGZg=="
 ---
 

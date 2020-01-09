@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T07:40:00Z
 sourceUrl: https://thenextweb.com/facebook/2020/01/07/facebook-vows-to-crack-down-on-misleading-deepfakes/
 type: article
 quality: 54
-heat: 64
+heat: 74
 published: true
 
 provider:
@@ -28,6 +28,21 @@ images:
     title: "Facebook vows to crack down on ‘misleading’ deepfakes"
 
 related:
+  - title: "Facebook to ban deepfake videos created with artificial intelligence technology"
+    excerpt: "Created by artificial intelligence or machine learning, deepfakes combine or replace content to create images that can be almost impossible to tell are not authentic. “While these videos are still rare on the internet, they present a significant challenge for our industry and society as their use increases,” Facebook's vice president of ..."
+    publishedDateTime: 2020-01-08T00:56:00Z
+    sourceUrl: https://www.tvnz.co.nz/one-news/world/facebook-ban-deepfake-videos-created-artificial-intelligence-technology
+    ampUrl: https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    cdnAmpUrl: https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
+    type: article
+    provider:
+      name: TVNZ 1
+      domain: tvnz.co.nz
+    quality: 53
+    images:
+      - url: https://www.bing.com/th?id=ON.39CBCFFEC564E6B86AEAA1E84123493B
+        width: 700
+        height: 393
   - title: "Facebook cracks down on misleading videos"
     excerpt: "They will be removing a video if it \"uses artificial intelligence or machine learning ... RELATED: Is that video real? Research lab fights Deepfake videos to stop spread of misinformation The bottom line: you still can't believe everything you see on Facebook. It's best to get your news from a trusted source."
     publishedDateTime: 2020-01-08T19:57:00Z

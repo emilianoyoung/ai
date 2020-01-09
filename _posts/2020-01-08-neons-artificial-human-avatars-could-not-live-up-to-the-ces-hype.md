@@ -75,6 +75,21 @@ related:
       - url: https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662
         width: 2818
         height: 1594
+  - title: "I met Samsung’s artificial humans, and they showed me the future of A.I."
+    excerpt: "What is Neon? Shrouded in mystery leading up to CES 2020, all we knew was that Neon had something to do with artificial intelligence. Was it a Google Assistant competitor? A robot? Something more? “It’s a preview of a wonderful technology we have, and a wonderful future we can create together,” Neon’s CEO Pranav Mistry said at the start ..."
+    publishedDateTime: 2020-01-09T19:29:00Z
+    sourceUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neon-artificial-human-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 73
+    images:
+      - url: https://www.bing.com/th?id=ON.DE8C1FB24159B2B0A0BC1EF52331F668
+        width: 700
+        height: 366
   - title: "WTF Is an Artificial Human and Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-09T00:02:00Z

@@ -7,9 +7,9 @@ sourceUrl: https://www.washingtonpost.com/technology/2020/01/07/dating-apps-need
 ampUrl: https://www.washingtonpost.com/technology/2020/01/07/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-solution-fake-people/?outputType=amp
 cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/01/07/dating-apps-need-women-advertisers-need-diversity-ai-companies-offer-solution-fake-people/?outputType=amp
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 145
+heat: 165
+published: true
 
 provider:
   name: Washington Post
@@ -50,6 +50,6 @@ related:
         width: 700
         height: 399
 
-secured: "aaJXN+TBwnSNgFXcCCaV/Zhhj5BvUzuifSQ6dGf6aa2FwpRnWCSmf+yuUZGJvHRyqbbVWtxe0foZPkJox0JyI979t03+G05eJpxvb2XiPV/uYcOQtjLXcpM7n3+bhQ34NPRIwNVHPJQjsEEFzFQ4nDe0N9aU197LpxIE6umLmrX/bqttKHO8oisBy3UBRNHpQfZ+j1jS2wyz09p0c7KaV6fCG+C/hwZEHaqHw2sekgMw96vGM1Mfb5gNliBPBXIMrSjhrbIw56jMEZSHfCfVjg==;rKdoXL8HDJHIeyAJLJZbUA=="
+secured: "I5QRm6FHTUTF7k6VeCIRAkvbMgzVTW+bu3ioKW6piJNYGNFZjTxwc3jk88aHjIe2JeP8D2l9Ns1RPqppvglt/vxPHCZDYtwL+kMYf6c0mRZcaxo9jWI7FR8iNqW0z0gWdCPOi5VJrs7uuBqQ6AhbcWNMypMuGvwnu38wwspiyZO/3+KmKyT/WRJuJpDdJl9JzNV9MQVLmBCy3yrrLy5kdXdnW093NYetzR9LqGtZqEHbUI7CscSK8AgnR/XneHKU2deXqdNkmlOtoMS4wCQR4LnyhnTT0Ybeek1G9fLT44E=;daH/lmLvMa9clfpuU9zSdA=="
 ---
 

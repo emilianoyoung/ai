@@ -44,21 +44,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E8478C17F9F1E92CBEE6A9B644DE51FD
         width: 700
         height: 367
-  - title: "No, Warner Bros. is not letting AI decide what movies it makes"
-    excerpt: "Numerous other outlets picked up the story, sending Twitter and Reddit users into a tizzy as film fans began panicking that AI—and not humans—will soon decide whether or not certain films get made. The truth is not quite so dire, but it does highlight the growing relationship between technology and Hollywood. Cinelytic, an analytics and ..."
-    publishedDateTime: 2020-01-09T15:25:00Z
-    sourceUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/
-    ampUrl: https://qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
-    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1782009/warner-bross-deal-with-cinelytic-is-not-the-end-of-moviemaking/amp/
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.68DDD0D7F7B26DF7EEF6685CBD4949D5
-        width: 700
-        height: 393
   - title: "Warner Bros. will use AI to decide which movies to green light"
     excerpt: "\"The system can calculate in seconds what used to take days to assess by a human when it comes to general film package evaluation or a star's worth,\" said Tobias Queisser, founder of Cinelytic, the LA startup whose AI-driven project management system WB will be relying on. Despite making a $1 billion hit with Joaquin Phoenix-starring Joker last ..."
     publishedDateTime: 2020-01-09T00:33:00Z
@@ -104,19 +89,6 @@ related:
       - url: https://www.bing.com/th?id=ON.A8382A7A2205BB5A04C9231204D5787D
         width: 700
         height: 350
-  - title: "Warner Bros. signs AI startup to help decide which films to back"
-    excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
-    publishedDateTime: 2020-01-09T10:38:37Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
-    type: article
-    provider:
-      name: The Verge on MSN.com
-      domain: msn.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
-        width: 700
-        height: 367
   - title: "Warner Bros to start using artificial intelligence to help with movie releases"
     excerpt: "Warner Bros has signed a deal with an artificial intelligence company to help it with movie releases. The studio has confirmed it will be using a 'revolutionary new AI-driven project management system', launched last year by Cynelytic, a Los Angeles-based AI and cloud tech company. The platform provides forecasting and financial modelling ..."
     publishedDateTime: 2020-01-09T12:10:00Z
@@ -130,19 +102,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
         width: 700
         height: 466
-  - title: "Warner Bros. signs with AI company to help choose which movies to reboot (yes, really)"
-    excerpt: "Last fall, STX became a client of Cinelytic, a company that offers AI for navigating decisions around prospective film projects. It’s a questionable move, but one that doesn’t seem out of line for a five-year-old film studio willing to try anything. What’s much more troubling is this week’s announcement that Warner Bros. has just ..."
-    publishedDateTime: 2020-01-09T16:05:00Z
-    sourceUrl: https://www.fastcompany.com/90450218/warner-bros-signs-with-ai-company-to-help-choose-which-movies-to-reboot-yes-really?partner=feedburner
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 29
-    images:
-      - url: https://www.bing.com/th?id=ON.A071083D3CA911EF26969D39320A10BD
-        width: 700
-        height: 393
 
 secured: "hXzEjiMlUanUEM1jdS7kXuqncJqRj66Sa+tHDPnubDc6gqEsuyv70OXJE+GN/Qxx2vlcdfL8xA3STLBubr9G0u8oZFI9FdOCkoBigm7UKpeDPWmq6HoGN9qtXZ5jMR8I066urWjfPTIzoTiabenZYGoSfdbpHXUwe1D1ywucZyJA5TwIcCGeTOkOvomCCt6zJuhWWyI1QPQqWg/P6uhm9sVgCMiQMxH9wQ0nvcXeI26FcskvleLZ5jW3cmy8VYl7On4Ypfl11TSSq6SN9VyJTA==;ILXujDOeG8kafFThTaymNA=="
 ---

@@ -30,6 +30,21 @@ images:
     title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
 
 related:
+  - title: "Lawmakers voice skepticism over Facebook's deepfake ban"
+    excerpt: "Facebook's global policy chief faced tough questions before a House panel on Wednesday as lawmakers voiced skepticism over the company's efforts to crack down on manipulated videos — known as deepfakes — ahead of the 2020 election."
+    publishedDateTime: 2020-01-08T18:01:00Z
+    sourceUrl: https://thehill.com/policy/technology/477358-lawmakers-voice-skepticism-over-facebooks-deepfake-ban
+    ampUrl: https://thehill.com/policy/technology/477358-lawmakers-voice-skepticism-over-facebooks-deepfake-ban?amp
+    cdnAmpUrl: https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/477358-lawmakers-voice-skepticism-over-facebooks-deepfake-ban?amp
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 142
+    images:
+      - url: https://www.bing.com/th?id=ON.0EEC19B260904EA070395A7D80E5C19F
+        width: 700
+        height: 393
   - title: "Facebook bans deepfakes, but new policy may not cover controversial Pelosi video"
     excerpt: "Facebook has banned users from posting computer-generated, highly manipulated videos, known as deepfakes, seeking to stop the spread of a novel form of misinformation months before the 2020 presidential election. But the policy — first reported by The Washington Post ... not appear to cover the infamously altered “drunk” video of Pelosi ..."
     publishedDateTime: 2020-01-07T13:31:00Z
@@ -60,21 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.24E2DA8C1E637FF42073192C66DB4A90
         width: 700
         height: 439
-  - title: "Facebook will ban deepfakes, but many fake videos can still fall through the cracks"
-    excerpt: "In context: Facebook is stirring more controversy around its content policies with new changes that focus on fake videos created using artificial intelligence. At the same time ... The company poured $10 million towards research grants, hoping to encourage experts to contribute their ideas and spearhead development."
-    publishedDateTime: 2020-01-07T22:49:00Z
-    sourceUrl: https://www.techspot.com/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    ampUrl: https://www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    cdnAmpUrl: https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83439-facebook-ban-deepfakes-but-many-fake-videos-can.html
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 68
-    images:
-      - url: https://www.bing.com/th?id=ON.06683A690FCD6DC844296A06F69046E8
-        width: 700
-        height: 490
   - title: "Facebook’s Deepfakes Policy ‘Inadequate’ to Some Lawmakers"
     excerpt: "Facebook Inc.’s new policy to address “deepfake” videos came under fire from some lawmakers and disinformation experts who say it fails to address other kinds of online manipulation. The criticism, in interviews,"
     publishedDateTime: 2020-01-08T20:23:00Z
@@ -86,21 +86,6 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
-  - title: "Facebook to ban deepfake videos created with artificial intelligence technology"
-    excerpt: "Created by artificial intelligence or machine learning, deepfakes combine or replace content to create images that can be almost impossible to tell are not authentic. “While these videos are still rare on the internet, they present a significant challenge for our industry and society as their use increases,” Facebook's vice president of ..."
-    publishedDateTime: 2020-01-08T00:56:00Z
-    sourceUrl: https://www.tvnz.co.nz/one-news/world/facebook-ban-deepfake-videos-created-artificial-intelligence-technology
-    ampUrl: https://amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
-    cdnAmpUrl: https://amp-tvnz-co-nz.cdn.ampproject.org/c/s/amp.tvnz.co.nz/news/story/JTJGY29udGVudCUyRnR2bnolMkZvbmVuZXdzJTJGc3RvcnklMkYyMDIwJTJGMDElMkYwOCUyRmZhY2Vib29rLWRlZXBmYWtlcw==
-    type: article
-    provider:
-      name: TVNZ 1
-      domain: tvnz.co.nz
-    quality: 53
-    images:
-      - url: https://www.bing.com/th?id=ON.39CBCFFEC564E6B86AEAA1E84123493B
-        width: 700
-        height: 393
   - title: "Facebook Bans Deepfake Videos Ahead of 2020 US Elections"
     excerpt: "The video wasn’t created by AI but was likely edited using readily available software ... civic and academic backgrounds to help in detecting deepfakes. Facebook had announced a Deep Fake Detection Challenge (DFDC) to produce more research and open source tools to detect deepfakes in September 2019. In the same month, Alphabet’s GOOGL ..."
     publishedDateTime: 2020-01-07T15:34:00Z
@@ -131,21 +116,6 @@ related:
       - url: https://www.bing.com/th?id=ON.327DEBCE6EA5C76FA0286ABDA745FA22
         width: 700
         height: 393
-  - title: "Facebook bans 'deepfakes' ahead of US election"
-    excerpt: "Created by artificial intelligence or machine learning ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Loading Facebook and other tech firms last year sponsored a \"deepfake detection challenge,\" offering prize money to researchers who could deliver the most ..."
-    publishedDateTime: 2020-01-08T04:53:00Z
-    sourceUrl: https://www.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
-    ampUrl: https://amp.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
-    cdnAmpUrl: https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/world/north-america/facebook-bans-deepfakes-ahead-of-us-election-20200108-p53pup.html
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.E22DDA378C9145A9CF38BE2C75A7D559
-        width: 700
-        height: 393
   - title: "Facebook Is Banning Deepfake Videos Ahead of the 2020 Election"
     excerpt: "However, the video was altered with artificial intelligence. In other words, it was a deepfake. While it may be too late for the folks who saw and shared this particular political deepfake, Facebook is trying to prevent the ... Dr. Joan Donovan, research director of the Technology and Social Change Project at Harvard's Shorenstein Center ..."
     publishedDateTime: 2020-01-08T19:45:00Z
@@ -161,34 +131,6 @@ related:
       - url: https://www.bing.com/th?id=ON.318C8BEA40C2563E4E8D189D1695EAB8
         width: 700
         height: 350
-  - title: "Fake Trump video? How to spot deepfakes on Facebook and YouTube ahead of the presidential election"
-    excerpt: "Facebook and other tech companies are sponsoring a \"Deepfake Detection Challenge\" to encourage AI researchers to develop new ways to automatically detect ... Nearly two-thirds of Americans recently surveyed by Pew Research said altered images and videos caused a great deal of confusion in understanding the basic facts of current events. “"
-    publishedDateTime: 2020-01-08T22:44:00Z
-    sourceUrl: https://www.usatoday.com/story/tech/2020/01/08/deepfakes-facebook-youtube-donald-trump-election/2836428001/
-    ampUrl: https://amp.usatoday.com/amp/2836428001
-    cdnAmpUrl: https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/2836428001
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 30
-    images:
-      - url: https://www.bing.com/th?id=ON.5B73BE6A1F28AEFEF78F8968D3E3FDFF
-        width: 700
-        height: 393
-  - title: "Facebook to ban deepfakes, sources say, but not all doctored videos"
-    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 per cent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
-    publishedDateTime: 2020-01-07T06:23:00Z
-    sourceUrl: https://www.afr.com/technology/facebook-to-ban-deepfakes-sources-say-but-not-all-doctored-videos-20200107-p53pl0
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.070E8E4413A9862B2132E89287CF3A78
-        width: 700
-        height: 393
   - title: "Facebook to ban deepfakes, sources say"
     excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96% of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection challenge ..."
     publishedDateTime: 2020-01-07T05:10:00Z
@@ -202,6 +144,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3ACBA67A17373E642316ED1B0777A68B
         width: 490
         height: 490
+  - title: "Facebook toughens its stance on deepfakes"
+    excerpt: "Last September, Facebook launched the Deep Fake Detection Challenge, designed to encourage people from all over the world to produce more research and open source tools to detect deepfakes. The project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI, Cornell Tech ..."
+    publishedDateTime: 2020-01-07T07:47:00Z
+    sourceUrl: https://mobilemarketingmagazine.com/facebook-toughens-its-stance-on-deepfakes
+    type: article
+    provider:
+      name: Pepsi
+      domain: mobilemarketingmagazine.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.244CE3BF978B190073F9C0C86D12559A
+        width: 620
+        height: 500
   - title: "Facebook bans deceptive deepfakes and some misleadingly modified media"
     excerpt: "Hence the new policy bans deepfake content that involves the use of AI technologies to \"merge ... in a Deep Fake Detection Challenge which was announced last fall -- \"to produce more research and open source tools to detect deepfakes\". While says Facebook has been working with news agency Reuters to offer free online training courses for ..."
     publishedDateTime: 2020-01-08T00:33:00Z
@@ -215,41 +170,6 @@ related:
       - url: https://www.bing.com/th?id=ON.665656FB259061F7FD1F64782E03BF97
         width: 700
         height: 453
-  - title: "Facebook to Kick Out Some Deepfakes"
-    excerpt: "However, Twitter has proposed plans to label content that is fake, misleading, or artificially manipulated or created using artificial intelligence ... principal analyst at Constellation Research. \"The selective approach keeps it confusing,\" he told the E-Commerce Times. Facebook has the technology to make its strategy work, Wang said."
-    publishedDateTime: 2020-01-08T11:00:00Z
-    sourceUrl: https://www.technewsworld.com/story/86443.html
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.D13D048737B9ABE88723849D2A5A1D89
-        width: 620
-        height: 386
-  - title: "Facebook to ban deepfakes, sources say, but new policy may not cover controversial Pelosi video"
-    excerpt: "\"These misleading videos were created using low-tech methods and did not rely on AI-based techniques, but were at least as misleading as ... Such videos made up roughly 96 percent of all deepfake videos found last year, according to the research firm Deeptrace Labs. Facebook and other tech firms last year sponsored a \"deepfake detection ..."
-    publishedDateTime: 2020-01-07T15:02:00Z
-    sourceUrl: https://www.sentinelsource.com/news/national_world/facebook-to-ban-deepfakes-sources-say-but-new-policy-may/article_988ca207-de70-5863-a6ae-37a8871f7d24.html
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 12
-    images:
-      - url: https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/custom/image/ce3b1b48-2e8a-11e7-9b31-dbe46a2a163d.jpg
-        width: 1368
-        height: 576
-  - title: "Facebook bans deepface ahead of US presidential election"
-    excerpt: "No news or research item is a personal recommendation to deal. Hargreaves Lansdown may not share ShareCast's (powered by Digital Look) views. (Sharecast News) - Facebook announced a new policy that bans AI-manipulated videos known as 'deepfakes' that could ..."
-    publishedDateTime: 2020-01-07T15:16:00Z
-    sourceUrl: https://www.hl.co.uk/shares/stock-market-news/company--news/facebook-bans-deepface-ahead-of-us-presidential-election
-    type: article
-    provider:
-      name: Hargreaves Lansdown
-      domain: hl.co.uk
-    quality: 4
   - title: "Facebook Bans ‘Deepfake’ Videos, Lets ‘Cheapfakes’ Slide"
     excerpt: "In response to a growing problem on the Internet in which videos are being manipulated to distort reality — sometimes for political purposes — Facebook ... research and open source tools to detect deepfakes. This project, supported by $10 million in grants, includes a cross-sector coalition of organizations including the Partnership on AI ..."
     publishedDateTime: 2020-01-08T00:48:00Z

@@ -75,21 +75,6 @@ related:
       - url: https://www.bing.com/th?id=ON.22B0AB343C2308B0EAAA625D7CFD1F4D
         width: 700
         height: 525
-  - title: "Toyota plans to build 'city of the future' with housing, robots and autonomous vehicles in Japan"
-    excerpt: "Fuji in Japan. The \"Woven City\" will include thousands of residents and will test autonomous vehicles, robotics, personal mobility, smart homes and artificial intelligence. Toyota plans to build a \"prototype city of the future\" on a 175-acre site at the base of Mt. Fuji in Japan to test and develop new emerging technologies such as autonomous ..."
-    publishedDateTime: 2020-01-07T21:04:00Z
-    sourceUrl: https://www.cnbc.com/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
-    ampUrl: https://www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
-    cdnAmpUrl: https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/07/toyota-to-build-city-of-the-future-to-test-emerging-tech-in-japan.html
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: https://www.bing.com/th?id=ON.4F90164C92A9255588318DED4308E670
-        width: 700
-        height: 393
   - title: "Snapdragon Ride is Qualcomm’s autonomous shortcut to self-driving cars"
     excerpt: "Qualcomm has built a modular autonomous car system offering automakers a shortcut to self-driving vehicles, as the chip-maker attempts to extend its footprint outside smartphones and modems. The Qualcomm Snapdragon Ride platform includes multiple chips and accelerators for things like computer vision, packaged into a car-friendly form factor ..."
     publishedDateTime: 2020-01-06T18:30:00Z

@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.09025C93BACA87948898EA1D02F9A079
         width: 700
         height: 393
+  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
+    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
+    publishedDateTime: 2020-01-07T08:30:00Z
+    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 139
+    images:
+      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
+        width: 700
+        height: 401
   - title: "Bosch’s facial recognition tech keeps you safe, entertained behind the wheel"
     excerpt: "This story is part of our continuing coverage of CES 2020, including tech and gadgets from the showroom floor. German supplier Bosch is working on bringing facial recognition technology to the world of cars. Similar to what’s available on many smartphones, the feature is a way to keep the passengers safe, entertained, and comfortable."
     publishedDateTime: 2020-01-08T14:07:00Z
@@ -428,19 +441,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7497D6C0B1A49A6F06E61073409C4F4A
         width: 700
         height: 466
-  - title: "Facial recognition hardware to reach over 800 million devices by 2024"
-    excerpt: "A new report from Juniper Research found that facial recognition hardware, such as Face ID on recent iPhones, will be the fastest growing form of smartphone biometric hardware. This means it will reach over 800 million in 2024, compared to an estimated 96 million in 2019. The new research, Mobile Payment Authentication: Biometrics, Regulation ..."
-    publishedDateTime: 2020-01-07T08:30:00Z
-    sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.3037AF1395AE26F2CF2A941E34D54601
-        width: 700
-        height: 401
   - title: "Advocacy Group Sues MTA For Facial Recognition Records"
     excerpt: "Law360 (January 7, 2020, 7:03 PM EST) -- A privacy advocacy group sued New York's Metropolitan Transportation Authority for stonewalling a request for records concerning its alleged use of facial recognition, after a traveler spotted what appeared to be a facial recognition camera in a Times Square subway station. The Surveillance Technology ..."
     publishedDateTime: 2020-01-08T00:09:00Z
@@ -451,6 +451,17 @@ related:
     provider:
       name: Law360
       domain: law360.com
+    quality: 39
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and alert certain district personnel, as well as law enforcement, if a weapon is detected."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
     quality: 39
   - title: "Facial recognition, gun detection system implemented in Lockport schools despite controversy"
     excerpt: "A facial recognition system was implemented on January 2, 2020 in the Lockport school district in New York state, following ongoing debates with parents, guardians and the New York State Education Department (NYSED), reports WGRZ. In May 2019, parents and guardians were informed about the implementation of the Aegis system, writes ..."

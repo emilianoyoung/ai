@@ -5,7 +5,7 @@ excerpt: "A new report from Juniper Research found that facial recognition hardw
 publishedDateTime: 2020-01-07T08:30:00Z
 sourceUrl: https://www.helpnetsecurity.com/2020/01/07/facial-recognition-hardware/
 type: article
-quality: 39
+quality: 139
 heat: -1
 published: false
 
@@ -439,6 +439,17 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "School Board Amends Facial Recognition Rules in Lockport, N.Y."
+    excerpt: "The facial recognition software works by using a database of flagged individuals and sending an alert to district personnel when a flagged person is detected on school property. The object recognition feature would reportedly detect 10 types of guns and alert certain district personnel, as well as law enforcement, if a weapon is detected."
+    publishedDateTime: 2020-01-09T20:52:00Z
+    sourceUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html
+    ampUrl: https://www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    cdnAmpUrl: https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/School-Board-Amends-Facial-Recognition-Rules-in-Lockport-NY.html?AMP
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
   - title: "NY district launches facial recognition technology after addressing privacy concerns"
     excerpt: "Lockport City School District in upstate New York recently activated its facial recognition system, which had been delayed to allow the New York State Education Department to investigate the district's privacy policies in response to concerns voiced by students and advocates, EdScoop reports. Following its investigation, the department found ..."
     publishedDateTime: 2020-01-08T15:35:00Z
@@ -501,6 +512,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "D75HQzXTJlGds0OMU0YqDsfBuwFm00pNOlcJSHB1JKp9SMDCmfsPwFaop/MzOs1iWXs3PQGW5skJqPJbjbor5zwzNWgtqrhKFVpjHaHLbrtggvEjDdte0OBz0trLATyrv1Z1LDXzz9tu5r30WPx8p2WvdLyxBUm4g5kTKr3qku/BLmk51PDtYelSsMDxn1duy6G4Xe9eaDX9KOvWZ4zD0OWcagcl4ZKPgzBs5ZjatDYmPv/5WHS6g9YU2ElDGDI8putb73lWGNeyUhG2NUqqKg==;VDCfFJi/JSFzDgqOtEZRow=="
+secured: "s995guRYul+HYKoVkjtHKztAOcejil+Eh4yICu1X+ursF2sJchBxS/QCoCEVgNLPmsjhf5GXj0SfQnmSgTY7pW6DYDeqXiNtcmdECAso2E1B1ka4jULAFGazky/CDBxQhpA2F7QRvqEYMrqH7RoFONzXz2+axem9cauaNZEypCY0/XUaVBYR703Af7SH0Ht9Kpbh+KbzLVX+UqxSELH0khB6Ao6Pf1lWU9O0DkRn+Tvplfbdhu4S9oeoZCtcnV3p3/1clWQx2mKhC6o3ZO4Ap+9wDne/ExPQD0yHPk/t9U4=;IqdrZDvcFg96BfWaK2tXBQ=="
 ---
 

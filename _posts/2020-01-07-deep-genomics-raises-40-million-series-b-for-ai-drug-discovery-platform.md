@@ -24,21 +24,34 @@ images:
     title: "Deep Genomics raises $40 million Series B for AI drug discovery platform"
 
 related:
-  - title: "TypingDNA raises $7 million for AI that identifies people by how they type"
-    excerpt: "TypingDNA announced this morning that it has raised $7 million in series A funding led by Gradient Ventures, Google’s AI-focused venture fund, with participation from Techstars Ventures and EU-based fund GapMinder. According to CEO Popa, the proceeds will fund the build-out of TypingDNA’s developer support network and tools to integrate its ..."
-    publishedDateTime: 2020-01-04T19:59:00Z
-    sourceUrl: https://venturebeat.com/2020/01/04/typingdna-raises-7-million-for-ai-that-identifies-people-by-how-they-type/
-    ampUrl: https://venturebeat.com/2020/01/04/typingdna-raises-7-million-for-ai-that-identifies-people-by-how-they-type/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/04/typingdna-raises-7-million-for-ai-that-identifies-people-by-how-they-type/amp/
+  - title: "Soul Machines raises $40 million for AI-powered customer-facing digital avatars"
+    excerpt: "Plus, it’s worth noting that AI-generated high-fidelity avatars aren’t exactly the most novel thing on the planet. In November 2018, during China’s annual World Internet Conference, state news agency Xinhua debuted a digital version of anchor Qiu Hao — Xin Xiaohao — capable of reading headlines around the clock. Startup Vue.ai ..."
+    publishedDateTime: 2020-01-09T15:48:00Z
+    sourceUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/
+    ampUrl: https://venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/soul-machines-raises-40-million-for-ai-powered-customer-facing-digital-avatars/amp/
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
+    quality: 185
     images:
-      - url: https://www.bing.com/th?id=ON.AA92362F71CE0EFED1483749349E37E6
+      - url: https://www.bing.com/th?id=ON.E270B502A305B5F2AA98C60E9660377D
         width: 700
         height: 350
+  - title: "Samsung unveils AI-powered digital avatar"
+    excerpt: "A Samsung lab on Tuesday unveiled a digital avatar it described as an AI-powered \"artificial human,\" claiming it is able to \"converse and sympathize\" like real people. The announcement at the opening of the 2020 Consumer Electronics Show in Las Vegas touted a new kind of artificial intelligence called NEON,"
+    publishedDateTime: 2020-01-07T07:18:09Z
+    sourceUrl: https://www.msn.com/en-us/news/technology/samsung-unveils-ai-powered-digital-avatar/ar-BBYGMUI
+    type: article
+    provider:
+      name: AFP on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.2A50C1218F3C3F1FFC389BFE0595640E
+        width: 700
+        height: 525
 
 secured: "iuwF4rGykjPqJZYUMWTXg9M589MGpHrh6QvSUPTVUjK4dEPhN5AP01+/EzXjqhNkWZOdDRCA9Peaxa4axNNF1TLbViBXUrMCvVYd5QBN9ux51V5RItc91rzyoNVnD6/IRCVNbBR7OGyUyabVlrKfkMhLaoRv2glAB3gkotEypFLYnkxQsbLwXqawHWjTFyjEAsNrSrkzAUTEKmJL3N4zpnjdhFjC+INZYgfkOMy2oietp/3R6JI9CjxDU2NNV3nhjyfepJyitGuEK+rpylaxkg==;v99mRiPG3VIO8FrOW4yD7A=="
 ---

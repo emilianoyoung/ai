@@ -33,7 +33,7 @@ related:
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 45
+    quality: 145
     images:
       - url: https://www.bing.com/th?id=ON.E0F1C84FA6A09F235D4410C012E696AE
         width: 700

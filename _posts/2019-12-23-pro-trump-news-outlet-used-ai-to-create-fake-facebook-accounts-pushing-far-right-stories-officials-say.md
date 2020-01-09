@@ -226,19 +226,6 @@ related:
       - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
         width: 1200
         height: 799
-  - title: "Pro-Trump media outlet used artificial intelligence to create fake people, Facebook says"
-    excerpt: "Facebook took down more than 600 accounts tied to The Epoch Times, a media outlet that has spent heavily on digital ads to push pro-Trump conspiracy theories."
-    publishedDateTime: 2019-12-20T19:50:00Z
-    sourceUrl: https://www.msn.com/en-us/news/us/pro-trump-media-outlet-used-artificial-intelligence-to-create-fake-people-facebook-says/ar-BBYcYam
-    type: article
-    provider:
-      name: NBC News on MSN.com
-      domain: msn.com
-    quality: 28
-    images:
-      - url: https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYcP7a.img?h=274&amp;w=300&amp;m=6&amp;q=60&amp;o=f&amp;l=f&amp;x=184&amp;y=151
-        width: 301
-        height: 274
   - title: "Facebook bans pro-Trump media outlet over fake accounts"
     excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
     publishedDateTime: 2019-12-20T20:22:00Z

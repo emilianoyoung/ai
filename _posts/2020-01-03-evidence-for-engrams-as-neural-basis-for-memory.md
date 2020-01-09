@@ -43,17 +43,17 @@ related:
         height: 615
   - title: "Google's AI for mammograms doesn't account for race"
     excerpt: "Google is working on an AI tool for mammograms that researchers hope will one day be more accurate than human radiologists. The tech giant paid for a study, the results of which were published last week (Jan."
-    publishedDateTime: 2020-01-09T16:31:00Z
-    sourceUrl: https://www.msn.com/en-us/finance/other/googles-ai-for-mammograms-doesnt-account-for-race/ar-BBYMMwb
+    publishedDateTime: 2020-01-09T16:00:51Z
+    sourceUrl: https://www.msn.com/en-us/health/other/googles-ai-for-mammograms-doesnt-account-for-race/ar-BBYMMwb
     type: article
     provider:
       name: Quartz on MSN.com
       domain: msn.com
     quality: 37
     images:
-      - url: https://www.bing.com/th?id=ON.63751EEC863C98E42902A15790EC648F
-        width: 600
-        height: 315
+      - url: https://www.bing.com/th?id=ON.B6AAC8200056CD960BC3A5CC1D3FC329
+        width: 700
+        height: 367
 
 secured: "jXIpiwneT1tWGlbIZWseW0lz+3fLSHHGxR2mps9iDPMRFp2dCivZcbD+o/xnRMh21dclL03PIvf5yhCHAAPFDG3u0YsmwleoL3G2Ao5nxSfkB5xqYKQQToNkrj1wyV7q03VvR2EWloa2krHaUjd53osSh5I/jIKQoUSHT9tuuh3x2Gok1p+SCEyYiIShfCcoP1ikkpy2c3dfGgoFH7fbvyFk6EtLrLocqNonDAtOoyM67J2BI8Ci+VGSLGYIc98KwtGPGGFTTCWoTjEEvHgOYg==;rtcMn5WSHr/MfltREHLeaw=="
 ---

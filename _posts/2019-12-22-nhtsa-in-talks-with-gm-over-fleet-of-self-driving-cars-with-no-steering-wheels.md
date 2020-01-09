@@ -39,21 +39,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/rtrqa6xwtfG_bGgYmMy8WA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDA-/https://s.yimg.com/uu/api/res/1.2/hLP5KAlUNytGplgLP5tISw--~B/aD01MjU7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/34527da737a1f97a6fc450a150149615
         width: 800
         height: 525
-  - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
-    excerpt: "Theoretically, passengers could be picked up from their home or the office in the self-driving pod vehicle, brought to the Hub, and then board the aircraft. Hyundai says the Hub could also be a location for “community activities,” essentially helping embed them into urban life rather than – as with current airports – having them silo ..."
-    publishedDateTime: 2019-12-20T19:22:00Z
-    sourceUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/
-    ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
-        width: 1275
-        height: 781
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:36:00Z

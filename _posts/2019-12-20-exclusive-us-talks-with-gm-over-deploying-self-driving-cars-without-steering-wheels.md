@@ -8,7 +8,7 @@ ampUrl: https://news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.htm
 cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/exclusive-u-agency-talks-gm-213711681.html
 type: article
 quality: 134
-heat: 344
+heat: 334
 published: true
 
 provider:
@@ -25,21 +25,6 @@ images:
     title: "Exclusive: U.S. talks with GM over deploying self-driving cars without steering wheels"
 
 related:
-  - title: "This is Hyundai’s vision of city travel: Flying cars and self-driving pods"
-    excerpt: "Theoretically, passengers could be picked up from their home or the office in the self-driving pod vehicle, brought to the Hub, and then board the aircraft. Hyundai says the Hub could also be a location for “community activities,” essentially helping embed them into urban life rather than – as with current airports – having them silo ..."
-    publishedDateTime: 2019-12-20T19:22:00Z
-    sourceUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/
-    ampUrl: https://www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
-    cdnAmpUrl: https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-vision-of-city-travel-flying-cars-and-self-driving-pods-ces-2020-20604047/amp/
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
-    images:
-      - url: https://scdn.slashgear.com/wp-content/uploads/2019/12/Hyundai-flying-car-concept-ces-2020-0.jpeg
-        width: 1275
-        height: 781
   - title: "General Motors pushes for self-driving car tests sans steering wheel"
     excerpt: "Flying cars may still be the stuff of science fiction, but self-driving vehicles are much closer to reality. It seems every automaker and supplier company these days is hard at work developing this technology, including GM. Pushing forward into the future, Reuters reported Friday this venerable Detroit-based firm is in talks with the National ..."
     publishedDateTime: 2019-12-23T18:36:00Z

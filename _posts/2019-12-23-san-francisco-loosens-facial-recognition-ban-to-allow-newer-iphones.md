@@ -370,21 +370,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D9CE358975665D8B25C199F61E587C51
         width: 700
         height: 393
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T19:25:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
   - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
     excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
     publishedDateTime: 2019-12-23T05:11:00Z

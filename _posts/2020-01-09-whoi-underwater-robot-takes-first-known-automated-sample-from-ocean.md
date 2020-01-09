@@ -28,8 +28,8 @@ images:
 related:
   - title: "Underwater robot becomes first to autonomously collect an ocean sample"
     excerpt: "The team of scientists working on NIU plans to continue perfecting the robot's artificial intelligence. Researchers hope to integrate an algorithmic component called \"gaze tracking\" to help the robotic vehicle see and interpret its surroundings like an ROV pilot. Scientists also plan to develop a human-language interface that will allow ..."
-    publishedDateTime: 2020-01-09T19:36:00Z
-    sourceUrl: https://www.upi.com/Science_News/2020/01/09/Underwater-robot-becomes-first-to-autonomously-collect-an-ocean-sample/3581578587806/?spt=slh&or=1
+    publishedDateTime: 2020-01-09T19:38:00Z
+    sourceUrl: https://www.upi.com/Science_News/2020/01/09/Underwater-robot-becomes-first-to-autonomously-collect-an-ocean-sample/3581578587806/
     ampUrl: https://www.upi.com/amp/Science_News/2020/01/09/Underwater-robot-becomes-first-to-autonomously-collect-an-ocean-sample/3581578587806/
     cdnAmpUrl: https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/01/09/Underwater-robot-becomes-first-to-autonomously-collect-an-ocean-sample/3581578587806/
     type: article
