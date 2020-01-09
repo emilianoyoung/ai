@@ -6,8 +6,8 @@ publishedDateTime: 2019-12-23T12:20:00Z
 sourceUrl: https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-in-depth-research-2020-will-improve-your-decision-making-power-2019-12-23
 type: article
 quality: 50
-heat: 50
-published: false
+heat: 60
+published: true
 
 provider:
   name: MarketWatch
@@ -25,6 +25,21 @@ images:
     width: 1200
     height: 630
     title: "Automotive Artificial Intelligence Market In-Depth Research 2020 Will Improve your Decision-Making Power"
+
+related:
+  - title: "Voice Recognition Market Booming by Size, Revenue and Trend in 2020 Scrutinized in New Research"
+    excerpt: "Dec 25, 2019 (WiredRelease via COMTEX) -- An extensive and elaborate primary research on Global Voice Recognition Market report sheds light on numerous facets such as growth factors, statistical growth, business enhancement strategies, financial status to help Voice Recognition marketers and clients to understand the market globally."
+    publishedDateTime: 2019-12-25T11:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2019-12-25
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
 
 secured: "7JYA1dnoP7Uxr6WwWxyWZecgkK/gJzRv8lclAvyWlCifGq7wK3WOppXjV/9TZMFiM64XEmPmdGGthoODpoJvk7vNrAK9DCWFYNskQRH+wKC5ERtTZGZftDVsWWxHvgh2H7WP1GFLmRywIwo00yVfjHptoedrYYFiUuqcFtWiK0BQNaKfkSRndlS8jZK/gPGXWodxmT2gEFudCKKU7ci26oMLww02YMRybsopGnVI5xJinRVaE0kilLBGCuH8Lm+Epkw8BBADM/6w1EK72aMugg==;+I+X4Ftl/mN4yo69Nq2w6Q=="
 ---

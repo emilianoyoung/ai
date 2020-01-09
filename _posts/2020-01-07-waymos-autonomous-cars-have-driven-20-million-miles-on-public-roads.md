@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: https://www.bing.com/th?id=ON.67383C9CA50A8E52EB278F106626C649
         width: 700
         height: 393
+  - title: "Autonomous cars won't be on Israel's roads so quickly"
+    excerpt: "Israel may be a world auto-tech technology power, but driverless cars face many regulatory obstacles ... and the local branches of multinationals are making presentations at the exhibition in sensors, connectivity, artificial intelligence, improved quality of life in vehicles, and autonomous driving. Mobileye, the leading Israeli company ..."
+    publishedDateTime: 2020-01-09T13:05:00Z
+    sourceUrl: https://en.globes.co.il/en/article-israeli-smart-cars-wont-be-on-the-roads-so-quickly-1001314297
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.87CC04B37584B0F68F05BEA1208A9278
+        width: 700
+        height: 343
 
 secured: "5S14cmBn5BgnPSZqm41JAS89i9M/8sTFZ7HT1QVZkPzf2p/cqJWjd6mz+Spc2KMcREqs2m/0wyh9BMzPylFiYb4E4Tp4XmCO6ffJ8hi1G2c/NGV772R2pDwXZBhvg9yvG9ddoNALkqEKpFuS5lq6FrQ0Rs0iSnmz/nbbBKPhaflMUiqzyiEljKt0csEasVHVdDRyEK6gjXxjaCT/+hnoK95noDN4JpJ2GIyzJL+jAaZG2gcM0i9VOn4tU1t4pOKjb0/bn9GsNvIQbugKCYqkNA==;rfu9TdtCsbAsT91rME2/DA=="
 ---

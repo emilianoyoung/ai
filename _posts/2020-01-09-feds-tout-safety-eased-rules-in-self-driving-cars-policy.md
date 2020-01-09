@@ -123,21 +123,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F341DCC22AE2F422B1F2F6569FA465E5
         width: 635
         height: 400
-  - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
-    excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
-    publishedDateTime: 2020-01-08T22:30:00Z
-    sourceUrl: https://www.autoblog.com/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
-    ampUrl: https://www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
-    cdnAmpUrl: https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/01/08/autonomy-principles-ces-trump-elaine-chao/
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
-        width: 700
-        height: 393
   - title: "Feds largely leave self-driving-car rules to makers"
     excerpt: "The Trump administration on Wednesday announced its most recent round of guidelines for makers of autonomous vehicles, and they still rely on the industry to police itself despite calls for specific regulations. Transportation Secretary Elaine Chao announced the proposed guidelines in a speech at the CES gadget show in Las Vegas, saying in prep ..."
     publishedDateTime: 2020-01-09T12:34:00Z
@@ -183,19 +168,19 @@ related:
       - url: https://www.bing.com/th?id=ON.A505910B44F9D6328F234E368719C71A
         width: 660
         height: 440
-  - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
-    excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
-    publishedDateTime: 2020-01-09T00:01:00Z
-    sourceUrl: https://www.yahoo.com/now/feds-pledge-keep-hands-off-222100743.html
+  - title: "Watch: Mobileye’s self-driving car on streets of Jerusalem"
+    excerpt: "Intel Corp. has released a video showing a Mobileye self-driving car navigating the streets of Jerusalem using cameras but no other sensors. The video was released by Intel, which acquired the Jerusalem-based Mobileye in 2017 for a whopping $15.3 billion, at the 2020 Consumer Electronics Show (CES) in Las Vegas, where Mobileye also announced ..."
+    publishedDateTime: 2020-01-09T13:12:00Z
+    sourceUrl: https://www.timesofisrael.com/watch-mobileyes-self-driving-car-on-streets-of-jerusalem/
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: The Times of Israel
+      domain: timesofisrael.com
     quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.97BCD41C7E3AE206BD83305B031429B7
+      - url: https://www.bing.com/th?id=ON.036C145036BC45A59B6F375DD441FAFB
         width: 700
-        height: 393
+        height: 437
   - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
     excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
     publishedDateTime: 2020-01-07T12:13:00Z

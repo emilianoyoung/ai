@@ -54,21 +54,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
         width: 700
         height: 367
-  - title: "Facial recognition fails on race, suggests government study"
-    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
-    publishedDateTime: 2019-12-20T12:29:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50865437
-    ampUrl: https://www.bbc.com/news/amp/technology-50865437
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
-        width: 1024
-        height: 576
   - title: "Facial recognition fails on race, government study says"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-22T00:27:00Z
@@ -513,19 +498,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2BB9B7CEEC1C8417F3224E44431584F7
         width: 300
         height: 170
-  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
-    excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
-    publishedDateTime: 2019-12-20T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/CyberLink-Showcase-Latest-Applications-FaceMe®-AI-Facial
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: https://mms.businesswire.com/media/20191220005091/en/764015/23/CES2020_ENG.jpg
-        width: 1200
-        height: 627
   - title: "Black and Asian faces misidentified more often by facial recognition software"
     excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
     publishedDateTime: 2019-12-20T13:25:00Z

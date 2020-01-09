@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
-excerpt: "“As each patient’s cancer is unique, we have developed a therapy that turns their solid tumor’s genetic signature into ... Our partnership with NEC ensures that TG4050 is benefitting from its world-leading expertise in artificial intelligence and its unique algorithm that is used to select up to 30 patient-specific antigens that allow ..."
-publishedDateTime: 2020-01-07T00:35:00Z
-sourceUrl: https://www.businesswire.com/news/home/20200106006021/en/Transgene-NEC-Start-Clinical-Trials-TG4050-AI-Powered
+excerpt: "capabilities - Novel immunotherapy is fully tailored to each individual by generating an immune response that targets highly specific patient tumor mutations - First patients enrolled in two Phase 1 trials at the Mayo Clinic and Toulouse Oncopole TOKYO,"
+publishedDateTime: 2020-01-07T02:06:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/a15081848/transgene-and-nec-start-two-clinical-trials-with-tg4050-an-ai-powered-cancer-vaccine-for-ovarian-a
+ampUrl: https://amp.benzinga.com/amp/content/15081848
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15081848
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - AI in Healthcare
-
-images:
-  - url: https://www.bing.com/th?id=ON.8E7D9199122526D36C7790BADA779261
-    width: 700
-    height: 365
-    title: "Transgene and NEC Start Two Clinical Trials with TG4050, an AI-Powered Cancer Vaccine for Ovarian and Head & Neck Cancers"
 
 related:
   - title: "Transgene starts trials of ‘digital’ cancer vaccine with NEC"
@@ -60,6 +56,6 @@ related:
       domain: benzinga.com
     quality: 6
 
-secured: "6uIbHcMyABU0+icFvQ/xhJ5WIWNGMMM0ASE4QAxot8vxt71cWAHkZ8QCPlJ3lZLIqjXZUBK3bmjfpgkf6uAyDe/+Sn4nd4ewZVEBFAhoWXj+GItGFCUliAGC9Ub3IlZcLWCDyrO5AeE0/hNfEUDmwvZ17GMMTWz2PX3uEeWs+M/njftUmg0CoZ24SmFnBCe14mrmVMykOKUuF76WHo+1sUdfOmWDwVohD1pWZv3Dnjpnl8wIgV2nFe1eHOQ9GO6lAp6zS3oSZdlT+qpCiQn1QA==;XJzW4W9f7rrN0a7W7sIV1A=="
+secured: "rRHx7fOua144RaqxearS4kEIB+f8NPqH6420MBW7r+BrEynQ9Mxb5UkPCBUZLUiscQqr04QOt5nHG8n/6C3b+8YNelCaSTeFAiNig5rfO/3MkggVOC33maidNzm9HVwPYfFgp+lVw/beGpe4l83Db2Iu7FHG422oA50ZQhMzfZxP5NXCfkCpIDZpyZa1Ddkl9V7jl5SxmT5z+DjM6bBowCT7AguDYtoB2nJCf2B7NstEDCvCMuJHuoEHD4Spu2fEc8gH8st4QUOsCjmPtVzS8A==;zLCTwSCOK1g9vP8f5dFhoQ=="
 ---
 

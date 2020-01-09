@@ -8,8 +8,8 @@ ampUrl: https://theundefeated.com/features/artificial-intelligence-racial-bias-i
 cdnAmpUrl: https://theundefeated-com.cdn.ampproject.org/c/s/theundefeated.com/features/artificial-intelligence-racial-bias-in-sports/amp/
 type: article
 quality: 59
-heat: 69
-published: true
+heat: 59
+published: false
 
 provider:
   name: The Undefeated
@@ -24,19 +24,6 @@ images:
     width: 700
     height: 350
     title: "Can artificial intelligence help us understand racial bias in sports?"
-
-related:
-  - title: "Ajman Department of Ports and Customs launches artificial and business intelligence (AI/BI) powered services"
-    excerpt: "Ajman, UAE: In line with the Ajman Digital Transformation Roadmap, Ajman Department of Ports and Customs (DPC) launched an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government’s strategy for embedding Artificial Intelligence in its operations."
-    publishedDateTime: 2020-01-08T08:47:00Z
-    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Ajman_Department_of_Ports_and_Customs_launches_artificial_and_business_intelligence_AIBI_powered_services-ZAWYA20200108082309/
-    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 18
 
 secured: "yit88jrBUFExdm4T+ISzIk9uFkdnZ5UV9s1NKQ5oawq827FwL+VbDPLUkvKCo4H70ws/dFM9a/0EieqW/BkMlX0VvsJzRn0G5rg7LQcKLhsijfdpp6fQKbG4SSpxEP9Ddg7HBlJBh+rQ9/EMyGQ1r4jSXLLlIsmxPYc9RVIdPrLev6TBnbVHnzewxvNhicnEqC9P6b/bK0XdZ7KHhKJUMh+YhmmW5f13bVuOVVqVtZPcHRXz/Ww6qqf78+QKUYqCvfGEu/B8GC9PGkgAvGoAcA==;ywZkKQdWhdK1HWAwIQArKw=="
 ---

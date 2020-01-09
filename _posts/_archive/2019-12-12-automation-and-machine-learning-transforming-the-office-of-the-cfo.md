@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/workday/2019/12/12/automation-and-machine-l
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/workday/2019/12/12/automation-and-machine-learning-transforming-the-office-of-the-cfo/amp/
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,20 +30,22 @@ images:
     title: "Automation And Machine Learning: Transforming The Office Of The CFO"
 
 related:
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+  - title: "Confluence Of AI On The Edge And Computer Vision In The Wood Pallets Industry"
+    excerpt: "Computer vision is a field of artificial intelligence that trains machines to interpret and understand the visual world. One of the goals of computer vision is for machines to see and process images in the same way humans do. Computer vision through ..."
+    publishedDateTime: 2019-12-13T12:46:00Z
+    sourceUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/
+    ampUrl: https://www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2019/12/13/confluence-of-ai-on-the-edge-and-computer-vision-in-the-wood-pallets-industry/amp/
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
+      name: Forbes
+      domain: forbes.com
+    quality: 101
     images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F12%2Fa-51.jpg
+        width: 960
+        height: 641
 
-secured: "FoJpWVbDRntpX64n1nDV5OVt3eih3G6IRK1cpVO5bvaFP4JjrT2dbYv++gNviKjbpKozUK04f3h7crNihdnEH+NNhHjNkIrVKm5OiHAXc8WXBLPswnlkG6MkHr4xbPuBQ3owUZgM0lUX32XK08uTbK8n02AKfb7QIpelUq3hWTAtgswzYiWITV8mBac2+5AnTm3AFTOqAGqAPlnwJIxV+mpmWp2ZHYk88n4RlaLMCcyuetkgkH72oz/SXiNb5L5/U0E+u5uxulTyZPCz+80Caw==;n4fwHIZGxMNHwPbbBUpesA=="
+secured: "OEMkRSt3ATcbCnkykL7vSDKll2sPCTdeQnGs4iIVT2DBNy6TAGFcVNL6cTdc8Rqw1M1F/yd7xboplBl7MjIaZE5zNm7vxRXRMZsrFpjiE8xbN56jFu+XYt7yh26kUDsirowIQOa6NYppyAU+DTstIJ0HUltPPWlVsCSbV2yR+0pXt7g3XKM0bzgjdtpCMUazHO7MgvQ/rspkYFKVo/AE8mVOiluDGepoyPdk0VdEjc1YNJbgJ52R+7ds75Nc1UkebkVdiADffg99i6Ln+9av4A==;/EUueepaxbUnLJY1bkzqrA=="
 ---
 

@@ -18,36 +18,62 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Health Care Natural Language Processing Market Emerging Trends may Make Driving Growth Volatile"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Global Health Care Natural Language Processing Market Report 2019 - Market Size, Share, Price, Trend and Forecast is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
-    publishedDateTime: 2020-01-07T10:32:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
+  - title: "Artificial Intelligence (AI) In Cyber Security Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "On The basis Of Application, the market is segmented into: BFSI, IT & Telecom, Aerospace and Defense, Healthcare and Other. (exclusive new year offer:Upto 35% Discount on this report) The browse Full report description and TOC: https://www.marketinsightsreports.com/reports/07101351892/global-artificial-intelligence-ai-in-cyber-security-market ..."
+    publishedDateTime: 2020-01-01T17:17:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 63
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Voice Recognition Software Market to Witness Stunning Growth to Generate Massive Revenue"
-    excerpt: "Jan 07, 2020 (HTF Market Intelligence via COMTEX) -- Voice recognition software is the subfield of computational linguistics that uses speech recognition algorithms to identify the spoken languages and act accordingly. Voice recognition software market is expected to mark significant growth over forecasted period owing to increasing consumers ..."
-    publishedDateTime: 2020-01-07T20:28:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/voice-recognition-software-market-to-witness-stunning-growth-to-generate-massive-revenue-2020-01-07
+  - title: "Artificial Intelligence in Aviation Market Enhancement, Rising Growth, Demand and Developments by 2025"
+    excerpt: "Jan 01, 2020 (Market Insight Reports via COMTEX) -- The Artificial Intelligence in Aviation Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"Artificial Intelligence in Aviation Market\". The report provides information and ..."
+    publishedDateTime: 2020-01-01T14:07:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-enhancement-rising-growth-demand-and-developments-by-2025-2020-01-01
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 51
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Language Translation Software Market - Key Market Trends Significant To The Growth Prospects"
-    excerpt: "flag=Sandrep_id=39017 The global language translation software market is segmented based on component, function, application, end use vertical, and geography. On the basis of component, the market is sub segmented into solution and service. The solution component is further bifurcated into hybrid machine translation, rule-based machine ..."
-    publishedDateTime: 2020-01-06T06:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/language-translation-software-market---key-market-trends-significant-to-the-growth-prospects-2020-01-06
+  - title: "Self-driving car market 2018-2023 Size, Share, Growth, Recent Development, and Forecast"
+    excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
+    publishedDateTime: 2020-01-08T05:50:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/self-driving-car-market-2018-2023-size-share-growth-recent-development-and-forecast-2020-01-08
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence Based Medical Device Forecast 2023 and Analysis by Investment, Growth and Impressive Revenue"
+    excerpt: "Get Free Segmentation of AI enabled Medical Devices @ https://www.alltheresearch.com/sample-request/322 -Artificial Intelligence Based Medical Device Revolution by Utilities 2018-2023: In April 2018, the U.S. FDA approved the first fully autonomous AI device IDx-DR for the diagnosis of diabetic retinopathy. This is the first fully autonomous AI ..."
+    publishedDateTime: 2020-01-08T01:53:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-based-medical-device-forecast-2023-and-analysis-by-investment-growth-and-impressive-revenue-2020-01-07
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Artificial Intelligence in Defense and Aerospace Market: Dynamics, Segments, Size and Demand Analysis during 2019-2025"
+    excerpt: "Jan 07, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Defense and Aerospace Industry was valued at USD 6.1 Billion in the year 2017. Global Artificial Intelligence in Defense and Aerospace Industry is further estimated to grow at a CAGR of 14.3% from 2019 to reach USD 17.62 Billion by the year 2025. The Asia Pacific region holds ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-and-aerospace-market-dynamics-segments-size-and-demand-analysis-during-2019-2025-2020-01-07
     type: article
     provider:
       name: MarketWatch
@@ -57,28 +83,30 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Global Machine Translation Market 2020 Witnessing Robust Growth and Advancement (AppTek, Asia Online, Cloudwords, IBM, Lighthouse, Lingo24)"
-    excerpt: "Jan 07, 2020 (MENAFN via COMTEX) -- (MENAFN - MarketersMEDIA) The Machine Translation Market report provides study with in-depth overview, describing about the Product, Industry Scope and elaborates market outlook and status to 2025. Dublin, United State - January 7, 2020 /MarketersMedia/ -- Global Machine Translation Market Research Report ..."
-    publishedDateTime: 2020-01-08T01:53:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/global-machine-translation-market-2020-witnessing-robust-growth-and-advancement-apptek-asia-online-cloudwords-ibm-lighthouse-lingo24-2020-01-07
+  - title: "How AI and Cybersecurity Will Intersect in 2020"
+    excerpt: "So much of the discussion about cybersecurity's relationship with artificial intelligence and machine learning (AI/ML) revolves around how AI and ML can improve security product functionality. However, that is actually only one dimension of a much broader collision between cybersecurity and AI. As applied use of AI/ML starts to advance and ..."
+    publishedDateTime: 2019-12-30T19:32:00Z
+    sourceUrl: https://www.darkreading.com/application-security/how-ai-and-cybersecurity-will-intersect-in-2020/d/d-id/1336621
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 37
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence in Military Market Evolving latest trends to lead global industry by 2027"
-    excerpt: "A leading market research firm Facts & Factors (FnF) added a research report on “Russia and NATO Artificial Intelligence in Military Market“ by Application (Warfare Platform, Information Processing,Logistics & Transportation, Target Recognition, Battlefield Healthcare, Simulation & Training, Threat Monitoring & Situational Awareness ..."
-    publishedDateTime: 2020-01-07T11:09:00Z
-    sourceUrl: https://www.openpr.com/news/1890912/artificial-intelligence-in-military-market-evolving-latest
+      - url: https://www.bing.com/th?id=ON.7B320A7BD46F819F9E41A0DEC0FF95BE
+        width: 480
+        height: 270
+  - title: "Ajman Department of Ports and Customs launches artificial and business intelligence (AI/BI) powered services"
+    excerpt: "Ajman, UAE: In line with the Ajman Digital Transformation Roadmap, Ajman Department of Ports and Customs (DPC) launched an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government’s strategy for embedding Artificial Intelligence in its operations."
+    publishedDateTime: 2020-01-08T08:47:00Z
+    sourceUrl: https://www.zawya.com/mena/en/press-releases/story/Ajman_Department_of_Ports_and_Customs_launches_artificial_and_business_intelligence_AIBI_powered_services-ZAWYA20200108082309/
+    ampUrl: https://www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
+    cdnAmpUrl: https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200108082309/
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 6
+      name: Zawya
+      domain: zawya.com
+    quality: 18
 
 secured: "AhgSADZCO1wo+4bRUPL6zNOmzJzWLtcTumdsg368kWBzE++ID7RW9lDYfMReth2XkQyIxWp9LGRKFM/poiiLgV/5w6I+5tTcI8qBHYOlLSa/shbAC8fUV2gx6r59KceRUeOKoDK1YIgH4lc16DqpyuDYwWYDNEPNQONSmEUDJRTUpd0iXQLtnj4ht53CEoaP3QbwMFWqxBbKZr7HUvLdqAdPhNYAZcek82ZP2ogRnuwwin0tJqi2fUdBYjGhKqVvZxnnihiabkzevVd6vg9YJw==;1hoZYijN2+907tUPcIi11Q=="
 ---

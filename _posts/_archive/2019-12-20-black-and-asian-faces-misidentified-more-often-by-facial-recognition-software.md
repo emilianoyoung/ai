@@ -1,27 +1,23 @@
 ---
 category: news
-title: "Federal study finds race, gender affect face-scanning tech"
-excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-publishedDateTime: 2019-12-20T13:32:00Z
-sourceUrl: https://www.pix11.com/news/national/federal-study-finds-race-gender-affect-face-scanning-tech
+title: "Black and Asian faces misidentified more often by facial recognition software"
+excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
+publishedDateTime: 2019-12-20T13:25:00Z
+sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
+ampUrl: https://www.cbc.ca/amp/1.5403899
+cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
 type: article
-quality: 24
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WPIX
-  domain: pix11.com
+  name: CBC.ca
+  domain: www.cbc.ca
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
-    width: 1200
-    height: 630
-    title: "Federal study finds race, gender affect face-scanning tech"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -54,21 +50,6 @@ related:
       - url: https://www.bing.com/th?id=ON.6E631EE71E1EE3ECE4B0087D22D0290E
         width: 700
         height: 367
-  - title: "Facial recognition fails on race, suggests government study"
-    excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
-    publishedDateTime: 2019-12-20T12:29:00Z
-    sourceUrl: https://www.bbc.com/news/technology-50865437
-    ampUrl: https://www.bbc.com/news/amp/technology-50865437
-    cdnAmpUrl: https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-50865437
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
-    images:
-      - url: https://ichef.bbci.co.uk/news/1024/cpsprodpb/181CC/production/_110246789_facialrecognition3.gif
-        width: 1024
-        height: 576
   - title: "Facial recognition fails on race, government study says"
     excerpt: "A US government study suggests facial recognition algorithms are far less accurate at identifying African-American and Asian faces compared to Caucasian faces. African-American females were even more likely to be misidentified, it indicated. It throws fresh doubt on whether such technology should be used by law enforcement agencies. One critic ..."
     publishedDateTime: 2019-12-22T00:27:00Z
@@ -514,19 +495,6 @@ related:
         width: 300
         height: 170
   - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
-    excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555 ..."
-    publishedDateTime: 2019-12-20T12:55:00Z
-    sourceUrl: https://www.businesswire.com/news/home/20191220005091/en/CyberLink-Showcase-Latest-Applications-FaceMe®-AI-Facial
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: https://mms.businesswire.com/media/20191220005091/en/764015/23/CES2020_ENG.jpg
-        width: 1200
-        height: 627
-  - title: "CyberLink Will Showcase the Latest Applications of its FaceMe® AI Facial Recognition Solution at CES 2020"
     excerpt: "CyberLink Corp. (5203.TW), a pioneer of AI and facial recognition technologies, will showcase FaceMe® with several innovative applications of its cutting-edge AIoT technologies for use cases covering authentication, access control, safety, security, visitor analytics and more at CES 2020, booth #25555, Hall South 2, in the Las Vegas Convention ..."
     publishedDateTime: 2019-12-21T02:14:00Z
     sourceUrl: https://finance.yahoo.com/news/cyberlink-showcase-latest-applications-faceme-135500304.html
@@ -539,17 +507,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
         width: 480
         height: 251
-  - title: "Black and Asian faces misidentified more often by facial recognition software"
-    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
-    publishedDateTime: 2019-12-20T13:25:00Z
-    sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
-    ampUrl: https://www.cbc.ca/amp/1.5403899
-    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 36
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
@@ -626,6 +583,19 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
+  - title: "Federal study finds race, gender affect face-scanning tech"
+    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
+    publishedDateTime: 2019-12-20T13:32:00Z
+    sourceUrl: https://www.pix11.com/news/national/federal-study-finds-race-gender-affect-face-scanning-tech
+    type: article
+    provider:
+      name: WPIX
+      domain: pix11.com
+    quality: 24
+    images:
+      - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
+        width: 1200
+        height: 630
   - title: "Government study finds racial bias in facial-recognition tech"
     excerpt: "A new federal study from the National Institute of Standards and Technology has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. Yahoo Finance's Tech Editor Dan Howley joins The Final Round to discuss"
     publishedDateTime: 2019-12-20T21:29:00Z
@@ -698,6 +668,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "9jeXiii5z5M4/gLdFgFXQ/HOnjl2nYCdU1CtCUrW5P5T1Iu6jx+6lCoR4n5nGPjk/SqKCiDljCbQsYfVm2Kro8J/dXO9B6k1EwUiw2RUZyyDaS6jfxpYunrC7AnTu756ViA81sTojHWkrOKpIJr2PpYOlUKJel6m5a67/XlIEO0Wc8+9DBCugciZUlHxyte33Vb7HAZaqjbGsjSg4Vcb+aeSyKhbW5+aAF/A+b1GxjqeFfBvzaMPBnlTPnnZ+QTg7nlwLBU4uiezMkhiZlHhyw==;PFDMh3+GbVZKPHI0Xv0i1Q=="
+secured: "Ac5ezASRcbNW5nw3YqySy11cRrk0KNF24bWTRWpUrAZsRVtirU9SVCYTt3IHg+zT4W9hDK5M/dDXq7ZEqkuV/iTcjGRjvoPl/Jb7Swt20wWteZ0axGzBa0ol+Fe6a3KckgBmjGBSi3bI/t3EAomxltOffAYL7nHk1pUkeWkukazsRhDjcQXYff1FkUftKQawFeyiv5UHh364eXVApwi7VVQSKZoFQu1hvh8SHONP/bB7X/zBvWY/yd8laVXlO2nykeKZ7y+DKefABN4I4VO9jQ==;7LJVjWOKLb1kZaA3LhC0uA=="
 ---
 

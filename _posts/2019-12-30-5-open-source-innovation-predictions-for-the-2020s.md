@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/5-open-source-innovation
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-open-source-innovation-predictions-for-the-2020s/
 type: article
 quality: 74
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -311,17 +311,6 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 6
-  - title: "Europe Artificial Intelligence in Fashion Market to 2027 - Regional Analysis and Forecasts by Offerings; Deployment; Application; End-User Industry"
-    excerpt: "NEW YORK, Dec. 30, 2019 /PRNewswire/ -- The Europe artificial intelligence in fashion market accounted for US$ 69.2 Mn in 2018 and is expected to grow at a CAGR of 34.0% over the forecast period 2019-2027, to account for US$ 933.9 Mn in 2027. Availability of massive amount of data due to increasing proliferation of digital services such as ..."
-    publishedDateTime: 2019-12-30T13:32:00Z
-    sourceUrl: https://finance.yahoo.com/news/europe-artificial-intelligence-fashion-market-132000522.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/europe-artificial-intelligence-fashion-market-132000522.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 0
 
 secured: "DPo57sk4Dp3Umw2LaAPLvUhi1LgP6SrbCOmD7ho9FtrphZh43zCDE5UE3KpdadWhAQpBUGqaWgIwUtIVLtsA830qDcI0g2V3eJ08VolmnWSmAlfsdhZxmNJaPaKawcv+FQklqIhugPvMwT1uZJIwtxV+b5nbEAwAEDbei9Ca48iRqzBJUDcQSNPSmAPSD++ILAR9kYBrCIocFPVd93s95nu+DdLb/eBECbE9DrrulGzfoOOSiQ6zBWBSeXfKlwG4z6c3o6+4nGP6vk780LrmUg==;3XEVMiGzC2JFuDYvB84+dw=="
 ---

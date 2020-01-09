@@ -23,6 +23,21 @@ images:
     height: 315
     title: "APSU’s Science on Tap returns Jan. 7 with talk on facial recognition technology"
 
+related:
+  - title: "San Diego’s massive, 7-year experiment with facial recognition technology appears to be a flop"
+    excerpt: "At the stroke of midnight on December 31, the City of San Diego’s long experiment with facial recognition technology came to an abrupt end. For seven years, police had used a sophisticated network of as many as 1,300 mobile cameras (smartphones and tablets) and compiled a database of some 65,500 face scans—placing California’s second ..."
+    publishedDateTime: 2020-01-09T13:00:00Z
+    sourceUrl: https://www.fastcompany.com/90440198/san-diegos-massive-7-year-experiment-with-facial-recognition-technology-appears-to-be-a-flop?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 27
+    images:
+      - url: https://www.bing.com/th?id=ON.BB05149FC3C39CBF97306B7E6AD2DA1B
+        width: 700
+        height: 394
+
 secured: "VFBn8hSFJN2ry2HJ/Xq3P3syXS1tH+V9FCjyf+A0jpW8e/oCwSLJmRuN6bCXgOpZVbY2QdAE34cghXiTmPLg4/D8Pouw+dNQUSzOTMMB984gW3fl6OBI6AqmFiFbmlC6wQTCWx+UPBF3qot/xfyTY3PPdLXwNcOfIoDG7iDrz9y75pjRQqr4gh+iAdakMxlxITyAVGsJYdVrGdRzyEvx3LDtGGW8BwxIRU414f2PGkJypG2TTCSdkYHWsdxdIgnpopVO0fW0V5136rbLqqNdiA==;ocdC79p9Lg7OuWxqlshRFw=="
 ---
 

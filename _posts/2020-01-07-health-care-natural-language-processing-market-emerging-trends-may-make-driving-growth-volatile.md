@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-07T10:32:00Z
 sourceUrl: https://www.marketwatch.com/press-release/health-care-natural-language-processing-market-emerging-trends-may-make-driving-growth-volatile-2020-01-07
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 6
-  - title: "Artificial Intelligence Service Market Rising Trends, Huge Demand, Business Strategies, High Growth Rate By 2029"
-    excerpt: "Artificial Intelligence Service has wide applications in various industries and is used for BFSI, Telecommunications and IT, Retail and E-Commerce, Government and Defense, Healthcare, Manufacturing, Energy and Utilities, Construction and Engineering, Others. Also, the market is anticipated to grow because of the innovation of novel ..."
-    publishedDateTime: 2020-01-02T07:03:00Z
-    sourceUrl: https://www.techworld.com.au/mediareleases/37263/artificial-intelligence-service-market-rising/
-    type: article
-    provider:
-      name: Australian Techworld
-      domain: techworld.com.au
-    quality: 0
 
 secured: "+jafdC/gdrIqDZoTxTChVF3cbh8LS39Z9VtcXMtXMS2rty6Nss0PC88fQz0BpzLY4X1UNPQSxvcjqM+Hqs873gqTL6SnHphjia/y92Gjq3H4BeTAaWWiWHbcspNXgN6Rn94QWKQBCcxVRrOTUfqTjwKIm7kja16n7qFqnhuoAhMqBLNpq/GyIAsLmUCp7QZI+txSkVAo6bJUMTZ7jlJPAxAlTKkj8PWbV10ETS865g75TwLbCoavcLtDaP/UCIfAK65wtkkqzZ/7y51lcNZMDw==;hdpQwfVPgetlr9TfIPW0vw=="
 ---

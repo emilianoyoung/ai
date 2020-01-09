@@ -41,6 +41,19 @@ related:
       - url: https://www.bing.com/th?id=ON.E734C90767551A09112E5BB310CC1D43
         width: 700
         height: 350
+  - title: "Autonomous cars won't be on Israel's roads so quickly"
+    excerpt: "Israel may be a world auto-tech technology power, but driverless cars face many regulatory obstacles ... and the local branches of multinationals are making presentations at the exhibition in sensors, connectivity, artificial intelligence, improved quality of life in vehicles, and autonomous driving. Mobileye, the leading Israeli company ..."
+    publishedDateTime: 2020-01-09T13:05:00Z
+    sourceUrl: https://en.globes.co.il/en/article-israeli-smart-cars-wont-be-on-the-roads-so-quickly-1001314297
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.87CC04B37584B0F68F05BEA1208A9278
+        width: 700
+        height: 343
 
 secured: "wKIyycabbEcU2LITlYBfBdyFKiGATYOU5TWFSGL7a4jVV7r3oYJMpDcvPFqnv3NSMaz9OUsX7HzpDcT/xvxl69A6fS0a4jmJImn74HrKjqY/MQF79+OT4SdU211DMqzYHHpGDmwh080NluOvoB9a8VFXVUh1goXbMq7ZSBsW59Eir+6XVQcZE3H+N+lLgVN45Em7S8M805Vmsk2QWErWRIlUNpd7o4fcA9a+3FgMDOgXiPbp2iqwpfK4Lq6W8dCByiskIC2SjA2FRxHMv5wE9A==;ZGvqVs3B4TQDEeMCnoaXiQ=="
 ---

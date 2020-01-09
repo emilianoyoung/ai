@@ -28,15 +28,28 @@ images:
     title: "Self-driving Cars and Trucks Market Overview, Industry Trends and Growing Opportunities Till 2026"
 
 related:
-  - title: "Self-driving Cars Market 2019 Precise Outlook – Toyota, BMW, Volvo, Mercedes-Benz"
-    excerpt: "Dec 23, 2019 (Market Insight Reports via COMTEX) -- This Self-driving Cars Market study offers a comprehensive, 360 degree analysis on the Self-driving Cars market, bringing to fore insights that can help stakeholders identify the opportunities as well as challenges. It tracks the global Self-driving Cars market across key regions, and offers ..."
-    publishedDateTime: 2019-12-23T08:56:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/self-driving-cars-market-2019-precise-outlook-toyota-bmw-volvo-mercedes-benz-2019-12-23
+  - title: "AI For Drug Discovery Market 2019-2027 / Size, Growth, Trends And Future Opportunities"
+    excerpt: "Dec 26, 2019 (AmericaNewsHour) -- The report covers the forecast and analysis of the AI for drug discovery market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million). The study includes drivers and restraints of the AI for drug discovery ..."
+    publishedDateTime: 2019-12-26T12:23:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/ai-for-drug-discovery-market-2019-2027-size-growth-trends-and-future-opportunities-2019-12-26
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 59
+    images:
+      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
+        width: 1200
+        height: 630
+  - title: "Smart Office Market 2016-2022 / Demand, Share, Trends, Growth And Opportunities"
+    excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
+    publishedDateTime: 2019-12-24T09:31:00Z
+    sourceUrl: https://www.marketwatch.com/press-release/smart-office-market-2016-2022-demand-share-trends-growth-and-opportunities-2019-12-24
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
