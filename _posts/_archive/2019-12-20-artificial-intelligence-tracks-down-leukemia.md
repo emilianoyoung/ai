@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Artificial intelligence tracks down leukemia"
-excerpt: "this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is ..."
+excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal iScience. Artificial intelligence is a much-discussed topic in medicine, especially in the field of diagnostics. \"We aimed to investigate the potential on the basis of a ..."
 publishedDateTime: 2019-12-20T16:54:00Z
 sourceUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.html
 ampUrl: https://medicalxpress.com/news/2019-12-artificial-intelligence-tracks-leukemia.amp
@@ -86,6 +86,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "2oQaIxz0qG5ba/jGEtSFFs2n3oP37AeGe6frqJvILnBsQFql4F2jawmcPbC1itIF4BUyDzRYkT3YWovm5Z5ssUh463QfE0qZOm4yBDp15lUtXAjEFpRymgk2xIDH+ZKzOk6DyID5YdvHU8anD8n8sGDcuZfxJo7dRC7BkDz9Us7znMslLvPz7ChTYgVKwSmKxRgBGJXgf/cfvQBDRE1vPHEla/mUw6aheMMgn1QLcD2tQaBq7xdQ8ifqJI6/Cw6oOeEoDGfHrvjkondki6cs3Q==;svPVvWg1eyG5gQSxKXiohw=="
+secured: "sE3lVKjFWr5o4snfHbgbxhXI3L8I2vsKmgmOR7blutuqkWxGoS/1hkGamjP1UUfHzoCtdOeCzPureF8MQ0zuEzlG/4FuUIC3EsQwYKfzFB/mVPcMctEX3JPSW3ZaIMOLGvcQTP0aWGspABuB9/CE0LsPRCOLS0dFnlBF4z1AskS0TuUwxRlowLo4onCicLsJ7SD8vhrBMKMB+bg9WU9gz0bqXliS63nvm+dXLzePSJgIwA97FlUdMJWLbl/2uIQPWCJlCwd93Eq6FoQiHdjpMw==;GOUIq1hjdwAkbQPxgLGnrQ=="
 ---
 

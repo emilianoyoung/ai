@@ -84,6 +84,19 @@ related:
       - url: https://www.bing.com/th?id=ON.047158C9B732D3A5E790E59E5C72FE41
         width: 700
         height: 366
+  - title: "Why voice will be big in 2020"
+    excerpt: "We’ll all become a lot more accustomed to managing our houses through ecosystems such as Google Now. Google announced this month at CES that they were asking TV manufacturers to begin to install microphones for far-field voice recognition in order to make TV’s speakers function the same way a smart speaker works today - meaning all TVs in ..."
+    publishedDateTime: 2020-01-09T20:30:00Z
+    sourceUrl: https://www.thedrum.com/opinion/2020/01/09/why-voice-will-be-big-2020
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2CC4FD2BB981DB74ADE70B8F6BCB277E
+        width: 700
+        height: 465
 
 secured: "5SLSfndIoEPSA7ckm7rXCYGWhJTEuD0HXcSsY5tnZgsCCNwHKCdObcErx5UvdzlWNy+BH0S2EQEcd454AmsrTTy0/sd0WG4GQKabHMIihpsF2pfV38VGxUYY8t3nJhgpTZb9Xt5BgzGmRPkDpKoLoF5m3fHa2KcaUBnrfoQAqcXHpfxcqP1zg/cuOs2mzXljA20tDb675v4pYsOIOGV7dZEMGJFXCEbOflnpDH8qhhWLFcthca+jEShhe9vuk73Spi3mf48fuqHlRYVuk1EEFQ==;XFVVZ3GU7KgOtQnKxcuOWw=="
 ---

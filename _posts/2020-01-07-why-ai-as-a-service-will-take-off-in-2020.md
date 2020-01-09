@@ -8,7 +8,7 @@ ampUrl: https://www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/01/07/why-ai-as-a-service-will-take-off-in-2020/amp/
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -83,6 +83,19 @@ related:
       - url: https://www.bing.com/th?id=ON.047158C9B732D3A5E790E59E5C72FE41
         width: 700
         height: 366
+  - title: "Why voice will be big in 2020"
+    excerpt: "We’ll all become a lot more accustomed to managing our houses through ecosystems such as Google Now. Google announced this month at CES that they were asking TV manufacturers to begin to install microphones for far-field voice recognition in order to make TV’s speakers function the same way a smart speaker works today - meaning all TVs in ..."
+    publishedDateTime: 2020-01-09T20:30:00Z
+    sourceUrl: https://www.thedrum.com/opinion/2020/01/09/why-voice-will-be-big-2020
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.2CC4FD2BB981DB74ADE70B8F6BCB277E
+        width: 700
+        height: 465
 
 secured: "6/9a9pzT15sAQAxlKPlQmrDCqrNvZ6Ums1114kRgE0f1EexElDvux1GdtYJo9mH9WrwLxlOqgHZrSuw5ayQb7bQPQ3k2vn9xMmBiEUurpkwDoMh4XcD66heb8eQnlYxeWUl/plP+f2p2XWLbjU05w2IXY1JmSto7Mze0qGxlLFtGZOm9pXUk1pXtaVMUfCVEA2S1HgzpAmKvy4FT+NU2NXO6DI4LSXwh3hAVidi8JgHaAY5SSpAh6OPGfTqTsp40ylVvefeU/kMKhrKtQwrIkw==;ER0kCkTVUcEiKdcgWFwIPA=="
 ---

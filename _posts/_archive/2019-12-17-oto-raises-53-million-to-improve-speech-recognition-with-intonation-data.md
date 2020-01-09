@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 232
+heat: 212
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
         width: 400
         height: 258
-  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
-    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
-    publishedDateTime: 2019-12-20T19:09:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
-        width: 700
-        height: 388
   - title: "Speech recognition tech cuts paperwork for police"
     excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
     publishedDateTime: 2019-12-12T20:40:00Z
@@ -134,17 +121,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -182,6 +158,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "rFD1aq0lbwVGRrfIT4knzr30723gH9iykMyzSlYAQ4WjafHCKkO4AYeHJySQ9ZADlVQCPhLky19eXAojfLoF+TEy2A9lG4hei5RAon41qo04gHTmLft9m0SZVnTCWPt83zL4rcgduEfJG+2ny3bhyt1PW/jQ+LxguU3HDsKjbS7Z7VGAHze5SJiVjPHwmuicGkYgxshyp3ijHIjtEhTvzw/DWXpzU7uf4UyYFU3dpFzB6sn0xjSJl1pEwqsUZwNHbSXYqJauJLWwRmSIYBrYtQ==;RoqGSpy6szj0ERTGpUxXqg=="
+secured: "bvVL0psBR57xUyM+NgyoQAxknH1Dr+kvLuZ3Wx5KA5DpRhJbYZWSWRGcwksFmTqA7pTVb3//WBORea1BWS+KZH3LuoUl8m/n7tcBRtcFd3giMhUOTFAVUeMbushLlv2Rl432gm8ALN5xDEqiacn4fSpc3Qen3jo0o1yD6e3apXNUVb8lDSdAZ5iCLtuVTph2huf9AhXolg8BGn19n/6XuU4Pr67XGkIYI6Lu8xd2HRnDTNj6KIoi3rvHSExuqvewJKhijWB1Ey4QuFPjm0ELng==;3DXq9K8DLdfOpTNh4Wxl9g=="
 ---
 

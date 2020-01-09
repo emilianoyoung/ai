@@ -58,6 +58,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0BAFD377701A7645F2A9416ACC90AEF2
         width: 700
         height: 525
+  - title: "We hit the road with Comma.ai's assisted-driving tech at CES 2020"
+    excerpt: "George Hotz wants to make driving chill. The Comma.ai CEO rolled out the latest version of his company's assisted-driving hardware here at CES 2020, featuring a more user-friendly interface and a cleaner install. The Comma Two is a piece of hardware about the size of a smartphone that can be mounted on your windshield. A forward-facing camera ..."
+    publishedDateTime: 2020-01-09T21:41:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/comma-ai-assisted-driving-george-hotz-ces-2020/
+    ampUrl: https://www.cnet.com/google-amp/news/comma-ai-assisted-driving-george-hotz-ces-2020/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/comma-ai-assisted-driving-george-hotz-ces-2020/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.58E464A21E4BE47C7494081576A42BF2
+        width: 700
+        height: 367
   - title: "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot"
     excerpt: "He believes robots can be \"life companions.\" Ballie \"understands you ... But Samsung and others believe that will change, thanks to artificial intelligence. \"The devices you use will understand you as an individual, blurring the boundaries between the digital and physical worlds, and changing the way you interact with your cities and ..."
     publishedDateTime: 2020-01-07T03:05:00Z

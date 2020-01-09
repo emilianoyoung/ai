@@ -26,36 +26,6 @@ images:
     title: "Fake Facebook accounts now using fake faces"
 
 related:
-  - title: "Facebook, Twitter Remove AI-Powered Fake Accounts With Pro-Trump Messages"
-    excerpt: "Facebook and Twitter have taken down a global network of fake accounts used in a coordinated campaign to push pro-Trump political messages, including some that used artificial intelligence tools to try to mask the behavior,"
-    publishedDateTime: 2019-12-20T20:43:00Z
-    sourceUrl: https://www.wsj.com/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
-    ampUrl: https://www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
-    cdnAmpUrl: https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-twitter-remove-ai-powered-fake-accounts-with-pro-trump-messages-11576873453
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 88
-    images:
-      - url: https://images.wsj.net/im-138654/social
-        width: 1280
-        height: 640
-  - title: "Facebook Removes Accounts With AI-Generated Profile Photos"
-    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
-    publishedDateTime: 2019-12-20T20:21:00Z
-    sourceUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/
-    ampUrl: https://www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
-    cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-removes-accounts-ai-generated-photos/amp
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.4C2D183377D6EDAEF1F1C81CE9BB6BB7
-        width: 400
-        height: 430
   - title: "Facebook removed fake accounts that used AI to create fake profile pictures"
     excerpt: "Researchers who studied the group of accounts said it's the first time they've seen AI-generated images used at such a large scale, raising concerns about how the social network will tackle this problem ahead of the 2020 US presidential election. Facebook, which owns Instagram, also took down fake accounts from the photo-sharing service."
     publishedDateTime: 2019-12-20T21:51:00Z
@@ -101,19 +71,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg
         width: 1200
         height: 797
-  - title: "Facebook removes accounts with AI-generated profile photos"
-    excerpt: "It represents an alarming new development in the information wars, as it appears to be the first large-scale deployment of AI-generated images in a social network. In a report on the influence operation, researchers from disinformation groups Graphika and DFRLab noted that this was the first time they had seen the technology used to support an ..."
-    publishedDateTime: 2019-12-23T14:30:00Z
-    sourceUrl: https://arstechnica.com/tech-policy/2019/12/facebook-removes-accounts-with-ai-generated-profile-photos/?comments=1
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: https://www.bing.com/th?id=ON.1B6429B6A645C009FB38E2F188FC753C
-        width: 700
-        height: 350
   - title: "Facebook says group used AI-generated faces to push pro-Trump messages"
     excerpt: "Facebook Inc has taken down a well-financed campaign that used dozens of artificially generated faces to spread pro-Trump and anti-Chinese government messages, the company and outside researchers said on Friday. Researchers from New York-based Graphika and the Digitial Forensics Research Lab, an arm of the Washington-based Atlantic Council ..."
     publishedDateTime: 2019-12-22T12:58:00Z
@@ -213,17 +170,19 @@ related:
       - url: https://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_pic.jpg
         width: 1200
         height: 799
-  - title: "Facebook bans pro-Trump media outlet over fake accounts"
-    excerpt: "According to Facebook, TheBL operated a sprawling network of fake accounts, posing as Americans and generating unique profile photos using artificial intelligence ... and Atlantic Council's Digital Forensic Research Lab, said: “The strong focus on ..."
-    publishedDateTime: 2019-12-20T20:22:00Z
-    sourceUrl: https://www.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-    ampUrl: https://amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
-    cdnAmpUrl: https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/182b7b9a-235b-11ea-b8a1-584213ee7b2b
+  - title: "Facebook discovers new fakes that show evolution AI generated disinformation"
+    excerpt: "And they said it was worrying to see it already being used in a coordinated effort on Facebook ... AI systems being created in labs at big tech companies like Google, the network of fake accounts showed \"an eerie, tech-enabled future of disinformation,\" said Graham Brookie, director of the Atlantic Council’s Digital Forensic Research Lab."
+    publishedDateTime: 2019-12-21T16:42:00Z
+    sourceUrl: https://www.dhakatribune.com/world/north-america/2019/12/21/facebook-discovers-new-fakes-that-show-evolution-ai-generated-disinformation
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 24
+      name: Dhaka Tribune
+      domain: dhakatribune.com
+    quality: 36
+    images:
+      - url: https://www.bing.com/th?id=ON.0D56C71503F82BA121D940E9C67C7E34
+        width: 443
+        height: 249
   - title: "Facebook removes hundreds of fake accounts promoting Trump"
     excerpt: "Facebook said Friday it removed more than 900 accounts, groups, and pages on its own platform and Instagram for using fake accounts to mislead users, including with false profile photos generated by artificial intelligence ... Graphika and the Digitial Forensics Research Lab. The Epoch Times was founded in 2000 by John Tang and a group of ..."
     publishedDateTime: 2019-12-21T10:46:00Z

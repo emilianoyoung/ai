@@ -39,15 +39,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4BA2FF03A809A6691723FDA42C833AFC
         width: 700
         height: 393
-  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
-    excerpt: "Robosen Robotics' visionary craftsmanship and cutting-edge technology in artificial joint driving algorithms and digital electric drive technology, provide T9's artificial intelligence (AI) - Easy to remember voice commands, complex animations completed with precision control, captivating dance performances and innovative stunts. These ..."
-    publishedDateTime: 2020-01-09T20:59:00Z
-    sourceUrl: https://www.tmcnet.com/usubmit/-robosen-robotics-debuts-t9-ces-2020-worlds-most-/2020/01/09/9079372.htm
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
 
 secured: "YdyvrpUJSMjIeNiSn4jF++dbsLG39glvUWAiCkcHFffkWjjCdze9buyY/IAlK5aQbZIxYw9eOfwDxkRltF6YJenFVXD7piCKLPOp6lcf51xV4cFeGn88Rf2hO0w5EJharIZVoFjU6MqvfVVxAq8ZYGr8QjTH5Y2M31+K01DpTl2ZSayCZtwXzH/ugskxtwh35T8qw8uDQmmknTH3fh8Eh330fQEaO3XhHkf1dpFupgt4AywZcVKnEy4x/Dpw9ILPPjDA7eceNp7We6n/jgqJog==;RO4o64SyxoNzPeDdGorMLw=="
 ---

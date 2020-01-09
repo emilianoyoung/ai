@@ -60,6 +60,19 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
         width: 700
         height: 393
+  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
+    excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
+    publishedDateTime: 2020-01-09T19:52:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/robosen-robotics-debuts-t9-at-ces-2020---the-worlds-most-advanced-and-programmable-robot-300984628.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.E5D113B274EEDFAE15CDB5B019462FD5
+        width: 650
+        height: 464
 
 secured: "yokndjxo/LS/xgzxrHW/MZcolfpwSue896EIBdRqiJTOHjnVqTwpjS6GCsqXj7rJxR+KSLE0KifHRaZlHgy0wZ4nIX2i3YTU8HvUJBQEPo/ZvPdRgXnWa/1VIyykkbpyj3iGQmdonhoqElbx3xZfOqiKsjC1t4Yv+63DYeRWBu7EGbriXhwx/MUcx/9Y9e/Bbx1CETAE6I96mBTUwCapzkNJNUlnVn+xuL8E/8fAmyCpyDYMp43cNOKYXiMMgxXv6Elk1aC8X5WlmKnq2WZL/w==;WG0KdM9QISgszfWmno2WAg=="
 ---

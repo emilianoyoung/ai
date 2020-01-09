@@ -8,7 +8,7 @@ ampUrl: https://www.zdnet.com/google-amp/article/brazil-to-create-national-artif
 cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-to-create-national-artificial-intelligence-strategy/
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Brazil to create national artificial intelligence strategy"
 
 related:
-  - title: "7 Classic Books To Deepen Your Understanding of (Artificial) Intelligence"
-    excerpt: "M.C. Escher's artwork was an inspiration for Douglas Hofstadter's 1979 book \"Gödel, Escher, Bach: An ... [+] Eternal Golden Braid\", sometimes referred to as the Bible of artificial intelligence. The field of artificial intelligence has never been the subject of more attention and analysis than it is today. Almost every week, it seems ..."
-    publishedDateTime: 2019-12-24T01:19:00Z
-    sourceUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/
-    ampUrl: https://www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2019/12/23/7-classic-books-to-deepen-your-understanding-of-artificial-intelligence/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e01661325ab5d0007cf2a6b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1910%26cropY1%3D168%26cropY2%3D1242
-        width: 1199
-        height: 675
   - title: "AI used for creation of novel, unconventional artworks"
     excerpt: "A lot of talk is going on about unconventional and extravagant works of art created by artificial intelligence (AI) -- currently on display in various places across the nation. An artistic toy car named Gangu with quirky tires and a twisted body colored in red, blue and green has been on display since Nov. 14 at the National Museum of Emerging ..."
     publishedDateTime: 2019-12-23T06:49:00Z

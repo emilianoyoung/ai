@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/the-hottest-thing-in-rob
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-hottest-thing-in-robotics-is-an-open-source-project-youve-never-heard-of/
 type: article
 quality: 103
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -61,7 +61,20 @@ related:
       - url: https://www.bing.com/th?id=ON.8A7D16F88FD95F59A64B32B962375AA0
         width: 700
         height: 393
+  - title: "Robosen Robotics Debuts T9 at CES 2020 - The World's Most Advanced and Programmable Robot"
+    excerpt: "Featuring more than 3,000 State-of-the-Art Components and 22 Proprietary Servo Motors, T9 Is Both Vehicle and Robot, Transmuting Instantly Through Voice or App Control; Three Intuitive and Easy Programming Platforms Make Coding Fun with T9's Advanced Robotics and Artificial Intelligence LAS VEGAS,"
+    publishedDateTime: 2020-01-09T19:52:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/robosen-robotics-debuts-t9-at-ces-2020---the-worlds-most-advanced-and-programmable-robot-300984628.html
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: https://www.bing.com/th?id=ON.E5D113B274EEDFAE15CDB5B019462FD5
+        width: 650
+        height: 464
 
-secured: "YBZUljJ52G/IFBCvVcTdEpphrUAFASYKk3FrffdDcMc3Y2OTIPOWDe5FtbKjb/RmE5/NSQbPQfgBTBlrLSFB5zpfJj/mP0qGIDH/+e4unA0rabYZnPdwWupDHfv6jd9YGuGqFEUcf/4aL3IMzV25eD0VlfBw9lzWzOtSnYmxMrJiDuOmzY6Mxetb9gQL7USG8oCmPgODIn52BrmEqhlRDaBHfQkwWqJuVKgXnof7JEZaReg18S+HZw22WJB1OqkgfruErPPW4zaBVQa4B3p/7w==;pKF8Y2gluQqWMoAkv+oeQA=="
+secured: "bOHgUobrq06YejGMRd7vuphVgEJx3li3/KRY8naLmmX9XaFnSHdnsFPi0P55oIB+9p+2W9ao11XK5INzyj56j4aOWVRXqHDE93jZdKp0fakujaTq2936U4O4yUR3gd7E0ZejtAoqvElSBLQfAUjRg/YFzj174mCv7Md8j8FPlNr0E+OlZfu4LB4LE2eFS9OkM0sm/QYAtZm8d0xh05OuPrE258llbE1C25/DEMrZkb/x+048mS06UUsUE8AhQ4/ycESnrExW9fhzOMPZC/iu2w==;V6BnYgpHcIMoxMjKWtzFKw=="
 ---
 

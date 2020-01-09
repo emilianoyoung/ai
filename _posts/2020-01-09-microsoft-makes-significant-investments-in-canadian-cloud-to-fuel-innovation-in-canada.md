@@ -6,8 +6,8 @@ publishedDateTime: 2020-01-09T13:00:00Z
 sourceUrl: https://www.marketwatch.com/press-release/microsoft-makes-significant-investments-in-canadian-cloud-to-fuel-innovation-in-canada-2020-01-09
 type: article
 quality: 61
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,43 +28,34 @@ images:
     title: "Microsoft Makes Significant Investments in Canadian Cloud to Fuel Innovation In Canada"
 
 related:
-  - title: "Amazon's Cloud arm to speed up drone innovation in India"
-    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
-    publishedDateTime: 2020-01-06T10:54:00Z
-    sourceUrl: https://www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india-11578306083845.html
-    ampUrl: https://www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india/amp-11578306083845.html
-    cdnAmpUrl: https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/amazon-s-cloud-arm-to-speed-up-drone-innovation-in-india/amp-11578306083845.html
+  - title: "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver"
+    excerpt: "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ..."
+    publishedDateTime: 2020-01-09T21:12:00Z
+    sourceUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868
+    ampUrl: https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
+    cdnAmpUrl: https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 80
     images:
-      - url: https://www.bing.com/th?id=ON.98DCC856A5B2BA285F2B3CF5FF860901
-        width: 600
-        height: 337
-  - title: "Amazon's Cloud arm to drive drone innovation in India"
-    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
-    publishedDateTime: 2020-01-07T01:10:00Z
-    sourceUrl: https://www.newkerala.com/news/2020/2583.htm
+      - url: https://www.bing.com/th?id=ON.1E71BDA590D6D5ED0F599463AB56879D
+        width: 700
+        height: 316
+  - title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
+    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
+    publishedDateTime: 2020-01-09T14:54:00Z
+    sourceUrl: https://www.autonews.com/ces/ces-conversation-tara-prakriya-general-manager-or-microsoft-azure-iot-mobility
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 24
+      name: Automotive News
+      domain: autonews.com
+    quality: 46
     images:
-      - url: https://www.newkerala.com/news/pics/r/family_vacation_dog.jpg
-        width: 500
-        height: 333
-  - title: "Amazon's Cloud arm to drive drone innovation in India (Lead)"
-    excerpt: "\"AWS was a natural choice for us which will help drone manufacturers and developers as its Artificial Intelligence (AI) and Machine Learning (ML) capabilities, open data sets and technical prowess are simply unmatched,\" Rahat Kulshreshtha, President, DFI, told IANS. The industry body signed an MoU with AWS at the 'Drone Festival of India 2020 ..."
-    publishedDateTime: 2020-01-06T16:58:00Z
-    sourceUrl: https://news.webindia123.com/news/articles/India/20200106/3485042.html
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      - url: https://www.bing.com/th?id=ON.4387D6B84C6E44309C32EDA8B6C57496
+        width: 700
+        height: 525
 
 secured: "5B1zaOCiGgD9hjEXWPatRj+HQh6/ZE05vWZN+p+CGE5ERG78N6lAI1O9E/I0gMt7NPkICwrXLx/t1LuTJE6vpbNtRzl+3x0QGYL78920ew2v5E2TPxmyeR0omvHsvWrd/OmfRvwr93HP1jZiyKnxEhicsr6QwnSsb0kTwDuhrLS0mA81HQVsFKxe3YuBzVE13bArO0DpsBcWGsroztKaU/Re69hygk2HdLINhzmArblF40dcIvLRuLo1kY3HsaHBlo7u8X/lUOmf2iJ/5yXFwQ==;KQeVQKpzbUY9CmNYa2xhhA=="
 ---

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Why Indian Railways is installing facial recognition technology at its railway stations"
-excerpt: "The Railway Protection Force (RPF) wants to identify criminals who may be roaming the railway stations by linking the facial recognition system with the existing databases like the Crime as well as Criminal Tracking Network and systems. Indian Railways takes big step to enhance security! Bengaluru, Manmad and Bhusawal railway stations have been ..."
-publishedDateTime: 2020-01-09T16:49:00Z
-sourceUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/
-ampUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
-cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
+excerpt: "wants to identify criminals who may be roaming the railway stations by linking the facial recognition system with the existing databases like the Crime as well as Criminal Tracking Network and systems."
+publishedDateTime: 2020-01-09T21:50:56Z
+sourceUrl: https://www.msn.com/en-in/news/other/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/ar-BBYN14Q
 type: article
-quality: 66
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: The Financial Express on MSN.com
+  domain: msn.com
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://www.bing.com/th?id=ON.4F37C0940AB20FDC14D33D44D8C1AF25
-    width: 660
-    height: 440
+  - url: https://www.bing.com/th?id=ON.BCBC4E38225222EDFD39564D682B0289
+    width: 600
+    height: 315
     title: "Why Indian Railways is installing facial recognition technology at its railway stations"
 
 related:
@@ -512,6 +510,6 @@ related:
       domain: openpr.com
     quality: 6
 
-secured: "wxjE3CGP3elC6O7/48vuxOTdd6Sw3PP9FKp0G3RuXTsjkC0kbP6eOUj5WHE+dpd7rYErMXFgUeP/b44BMMKAggXKHJakHEdNuNNUP3yxIe/pAIY8fyxlir5hC0Rx3ZLdMIaj15kuJhSba9MqnYGvXbYOoX+fk4ZoRX19HCmnID9cvq5tuL0HD9KgUrbmfoYI4+IBHGCG8iNsvva0P8gpH6/Sv0uwtEAwV+rJ/yGByyKOoR2xj/zUZB3RsaSYuvgMp3eBzeeeC1sK/cA2esDDgA==;Z6xS3oHGzAPTmBMJTkjv5Q=="
+secured: "CAfVrOyVcIvincAPt0HYzT714nmUHnW38zJf5ens9ZNK+h5GBlb15xyroDeyT9DkW8OAeNBgC6OBJcfTFhPv8HSH26Hrv0FwXgr/kiyuYFxd9YM30MmGCUZSgFh6617F4jzJFbD4jN5cO2lrLJ10pLRMyvHWLve+ebfQZbzjwpnP+RVGzAO2q4H60nFLHc5Qj7ujHQ4h7CG9WdnZXHPD6xRxEQ1CIWAXez8FnBxTj4zBYinXe6kJmzbEzZxpfoYStxWP3OUtUzSnhDDsJZ16pg==;KEx42RzIq2oWWNHeGgEIeg=="
 ---
 

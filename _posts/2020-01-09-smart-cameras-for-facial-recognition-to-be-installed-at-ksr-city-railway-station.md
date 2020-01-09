@@ -144,21 +144,6 @@ related:
       - url: https://www.bing.com/th?id=ON.7D2EDE14ECA06EE86C4635BF018657E7
         width: 600
         height: 338
-  - title: "Why Indian Railways is installing facial recognition technology at its railway stations"
-    excerpt: "The Railway Protection Force (RPF) wants to identify criminals who may be roaming the railway stations by linking the facial recognition system with the existing databases like the Crime as well as Criminal Tracking Network and systems. Indian Railways takes big step to enhance security! Bengaluru, Manmad and Bhusawal railway stations have been ..."
-    publishedDateTime: 2020-01-09T16:49:00Z
-    sourceUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/
-    ampUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
-    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.4F37C0940AB20FDC14D33D44D8C1AF25
-        width: 660
-        height: 440
   - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
     excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
     publishedDateTime: 2020-01-08T15:27:00Z
@@ -348,6 +333,19 @@ related:
       - url: https://www.bing.com/th?id=ON.19CA9315A56CC2B937EF86DF291D17F1
         width: 640
         height: 379
+  - title: "Why Indian Railways is installing facial recognition technology at its railway stations"
+    excerpt: "wants to identify criminals who may be roaming the railway stations by linking the facial recognition system with the existing databases like the Crime as well as Criminal Tracking Network and systems."
+    publishedDateTime: 2020-01-09T21:50:56Z
+    sourceUrl: https://www.msn.com/en-in/news/other/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/ar-BBYN14Q
+    type: article
+    provider:
+      name: The Financial Express on MSN.com
+      domain: msn.com
+    quality: 46
+    images:
+      - url: https://www.bing.com/th?id=ON.BCBC4E38225222EDFD39564D682B0289
+        width: 600
+        height: 315
   - title: "CyberLink FaceMe AI facial recognition integrated with iMedtac’s Automatic Dispensing Cabinet"
     excerpt: "CyberLink, a pioneer of AI and facial recognition technologies, announced that its FaceMe AI facial recognition engine has been integrated with iMedtac’s Automatic Dispensing Cabinet. This smart medicine cabinet is powered by IoT and facial recognition technology, integrating into an AIoT iHospital service platform and enhancing ..."
     publishedDateTime: 2020-01-08T03:32:00Z

@@ -52,19 +52,6 @@ related:
       - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
         width: 400
         height: 258
-  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
-    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
-    publishedDateTime: 2019-12-20T19:09:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
-        width: 700
-        height: 388
   - title: "Speech recognition and synthesis sample"
     excerpt: "Shows how to use Speech Recognition and Speech Synthesis (Text-to-speech) in UWP apps. In addition, translations are shown for speech recognition and text-to-speech for supported languages. Translations provided may not be using ideal phrasing and are provided for demonstration purposes only. Some speech recognition features require acceptance ..."
     publishedDateTime: 2019-12-21T22:35:00Z
@@ -130,17 +117,6 @@ related:
       - url: https://www.bing.com/th?id=ON.CC8C9CDD8E5D8EF359B1271D3E7C255F
         width: 700
         height: 393
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
   - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
     excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
     publishedDateTime: 2019-12-16T17:52:00Z
@@ -178,6 +154,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "MEVKLh5FjO84bm7IOeHPv0bQvCGkHaaXY5vt/ebZhLA55avoMiiWw7VgEn95QE+bHk8b45iV0W+AUS/qbNBNoVVfcvlY2b5MJ0atEVW6WAKO0v5oBqM47e+ai2SWA/cLCHFw3rHPxEirW5zGdlsJF5VKCkycxDZjx6DnVzlowB66wSPxv/2YHpxjZDwrq1F6QW8M5GBnt5rjj11lUikeKM3pTKQW8EDyySt2SH7//SRy+IgQOx5CEbUX56I/HZ5vPErQ51qQilmvu43yhh69Aw==;WBvUSkmSnXVo5ds/KrL1SA=="
+secured: "czkHKpNV5nAfHAOBXguSbDV0zS6DDNmKnCIC9JmTsmjRqDW5ErsCohcOboCh6i7CCKnEM0xbaeA1eLuk6Q5LWIW0i8ee+PCAu+WBqGO+1DJvwXDzq4yJb3YscayEkgyrQmaBzPJVYV5gcSjKaZVbIhTDif+AHL169duIYAbQHGPQcHcXJKq1NsQ3uNSg4S55QfAQ3jgAoqRrCEmaqt/+C2DZJi+NvKyEfMSwOp191pxM4+rg89TlT/J4EA38djH+4luDHvs03y/3iThEVujMaA==;TcG22UQ9AT0k+9U+U9FLYQ=="
 ---
 
