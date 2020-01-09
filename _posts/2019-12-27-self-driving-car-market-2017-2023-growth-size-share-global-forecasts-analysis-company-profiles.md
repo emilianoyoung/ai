@@ -93,19 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market 2020 Industry Analysis, Trend, Size, Share, Strategies and Opportunities Forecast to 2026"
-    excerpt: "Wiseguyreports.Com adds &ldquo;Artificial Intelligence Market &ndash;Market Demand, Challenges, Opportunities, Strategic Analysis of Top Key Players and Forecast to 2026&rdquo; Report to Its Research Database."
-    publishedDateTime: 2020-01-08T13:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-analysis-trend-size-share-strategies-and-opportunities-forecast-to-2026-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Neural Network Software Market 2020: Global Business Growth, Size, Share, Sales Revenue, Growth Rate and Regional Forecast 2023"
     excerpt: "Dec 26, 2019 (AB Digital via COMTEX) -- Market Scenario: Emergence of artificial intelligence and the latest technologies&nbsp;are the driving factors of the growth of neural network software market. With the increasing use of artificial intelligence along with neural network software in which the learning process of the brain can extract ..."
     publishedDateTime: 2019-12-26T13:00:00Z

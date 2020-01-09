@@ -456,19 +456,6 @@ related:
       - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
         width: 1200
         height: 808
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
-    publishedDateTime: 2019-12-20T08:15:00Z
-    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-081542674.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/IHIqo6l2pIQyOmmvXAKJ.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/AzK4WrlkjaAQyC7.7fyijA--~B/aD0xOTI0O3c9Mjg4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_US/News/US-AFPRelax/istock_892452254.8f85a151252.original.jpg
-        width: 1279
-        height: 853
   - title: "U.S. government study finds racial bias in facial recognition tools"
     excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
     publishedDateTime: 2019-12-21T00:14:00Z

@@ -50,21 +50,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
-    publishedDateTime: 2019-12-20T08:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
-    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
-        width: 400
-        height: 518
   - title: "How VDO.AI is building the future of Internet advertising"
     excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
     publishedDateTime: 2019-12-23T11:03:00Z

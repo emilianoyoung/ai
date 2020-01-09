@@ -48,21 +48,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "How can healthcare achieve real technology driven transformation?"
-    excerpt: "Real transformation in healthcare through the adoption of artificial intelligence (AI), robotics, telecommunications, and other advanced technologies could provide significant improvements in healthcare quality, productivity, and access. The current status and future challenges and opportunities for integrating technology into consumer ..."
-    publishedDateTime: 2019-12-20T08:04:00Z
-    sourceUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.html
-    ampUrl: https://medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2019-12-healthcare-real-technology-driven.amp
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: https://scx2.b-cdn.net/gfx/news/2019/howcanhealth.jpg
-        width: 400
-        height: 518
   - title: "Healthcare start-up Qure.ai develops software to provide fast and accurate diagnosis of Tuberculosis"
     excerpt: "Founded in 2016, Qure.ai uses deep learning and Artificial Intelligence (AI) to bring access to quality healthcare, especially in remote areas. “We work closely with NITI Aayog and the Piramal Foundation’s Piramal Swasthya initiative, to leverage AI to enable faster diagnosis of TB in remote areas,” Warier said. To fulfill the vision of ..."
     publishedDateTime: 2019-12-26T07:57:00Z

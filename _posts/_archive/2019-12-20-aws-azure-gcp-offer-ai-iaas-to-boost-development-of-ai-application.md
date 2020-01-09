@@ -1,8 +1,8 @@
 ---
 category: news
 title: "AWS, Azure, GCP offer AI IaaS to boost development of AI application"
-excerpt: "Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP) have offered AI IaaS (infrastructure as a service) products to promote application of AI technologies through reducing technological barriers for developers, according to Digitimes Research analyst Joyce Chen. Chen was speaking at a \"5G x AI Trends\" seminar jointly ..."
-publishedDateTime: 2019-12-20T01:09:00Z
+excerpt: "AI IaaS products offered by AWS, Azure and GCP mainly consist of edge AI tools used in IoT, AutoML (automated machine learning) and MarTech (marketing technology), Chen said. Edge AI tools, such as AI cameras, help users to test AI solutions developed ..."
+publishedDateTime: 2019-12-20T09:09:00Z
 sourceUrl: https://www.digitimes.com/news/a20191219PD215.html
 type: article
 quality: 34
@@ -17,6 +17,6 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "3103ff3r0/AA0rc3aRDqDeiGF7rLIBDQHnre1iLUsuHpANsWVpyDLhzM/pDvFvWonaADaZjOecpIPy2NRg13eHBb7mo+LfxqdVxDDdzXp5jnWPjP1l0RgmVlMRuqS/gx2TBVIZUlU340T9qq/kvonY5597p3CjLGPL+8LTS43wP4eRMxbWp5/4WXbxJZvxrjGgSnnhFXpaWT1ocWx0m2jAB+S/HoUBw8KKWmCDvx0Q0RTTYkzFhB3pNjFRC1e1DBhRSRP+7Nx+CBQB5adiUzcw==;rQ0vzvcqAhOJbD+TPZINOA=="
+secured: "5Dj1k39VfkaKi3IhYYkycO2O9Niex/fP6G/IlGHCLLaduEHe30q5Av1Tya7jqsDUTKMYvRIk3lwfbx8hSvakFRj+TUDdU+WvD+Y48GlhWKA94ty1COKXufzJwP83N8YrR7hkWixa5aw+QCcqGirDTFpQLP4V/kfM6gCzfX+LkaYgkGsns8rofbMeWqwwiiRUCIxvygZkqH8Pwi8N6mRXyL4+vo4L8Ty0JFrvXaVyYpF3gowhqxZSYZXiqZ/kYd7w+Fuhr+fToaYt/1SgPX6OPg==;C0g+UukRmwZq5NAVbwhFVw=="
 ---
 

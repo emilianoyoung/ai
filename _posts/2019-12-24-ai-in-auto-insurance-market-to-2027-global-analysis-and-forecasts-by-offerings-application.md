@@ -62,19 +62,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence in Healthcare Market Technological Growth and Precise Outlook 2019 to 2025"
-    excerpt: "Dec 20, 2019 (Xherald via COMTEX) -- Global Artificial Intelligence in Healthcare Market Size, Status and Forecast 2019-2025 The global \"Artificial Intelligence in Healthcare Market\" 2019 research report provides information regarding market size, share, trends, growth, cost structure, global market competition landscape, market drivers ..."
-    publishedDateTime: 2019-12-20T09:00:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-technological-growth-and-precise-outlook-2019-to-2025-2019-12-20
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Automotive Artificial Intelligence (AI) Market Analysis, Size, Share, Growth and Opportunity Assessment till 2025"
     excerpt: "Dec 27, 2019 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period 2017-2025. The market growth is primarily driven by the rising demand for smart ..."
     publishedDateTime: 2019-12-27T05:37:00Z

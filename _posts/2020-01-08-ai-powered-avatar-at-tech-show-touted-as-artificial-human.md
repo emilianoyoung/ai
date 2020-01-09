@@ -214,6 +214,21 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
+  - title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
+    excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
+    publishedDateTime: 2020-01-09T09:49:00Z
+    sourceUrl: https://www.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    ampUrl: https://amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    cdnAmpUrl: https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/more-job-cuts-stare-us-samsung-showcases-neon-artificial-humans-ready-do-everything-we-do-37362
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.1CC71175EDA4676CC03A4674362FAF84
+        width: 700
+        height: 494
   - title: "Samsung unveils new artificial human avatar"
     excerpt: "AFP – A Samsung laboratory yesterday unveiled a digital avatar it described as an artificial intelligence-powered “artificial human”, claiming ... The NEON creators said the new virtual humans are the product of advances in technologies including neural networks and computational reality. According to Star Labs, NEON is inspired ..."
     publishedDateTime: 2020-01-07T21:22:00Z
@@ -240,6 +255,19 @@ related:
       - url: https://www.bing.com/th?id=ON.69838993CCC7549F75D91C50A1669986
         width: 700
         height: 324
+  - title: "NEON artificial humans at CES behave, converse, and sympathize just like real people"
+    excerpt: "called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence. called the woven city, the hydrogen-powered ecosystem will be used to test and develop driverless vehicles, robotics, smart home technology and artificial intelligence."
+    publishedDateTime: 2020-01-09T09:40:00Z
+    sourceUrl: https://www.designboom.com/technology/neon-artificial-human-ces-01-08-2020/?player=video
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 19
+    images:
+      - url: https://www.designboom.com/wp-content/uploads/2020/01/NEON-artificial-humans-CES-designboom-Fb.jpg
+        width: 818
+        height: 431
   - title: "Ivanka Trump, artificial humans, Apple and maybe a PS5? What to expect from this year’s CES 2020"
     excerpt: "CES 2020 is just a few days away with new developments expected in the realm of robotics, consumer electronics, 5G, artificial intelligence (AI) and autonomous driving. Also, Apple Inc. will be making a rare appearance at CES this year. The last time the company appeared at the annual tradeshow was way back in 1992. While the company won’t be ..."
     publishedDateTime: 2020-01-03T14:37:00Z

@@ -8,7 +8,7 @@ ampUrl: https://www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-cent
 cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-silicon-valley-self-driving-center-ces-autonomy/
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -75,6 +75,19 @@ related:
       - url: https://www.bing.com/th?id=ON.EF8A682D1EA3B21D9258DEDD2FBD9551
         width: 700
         height: 466
+  - title: "Chinese companies flex their self-driving muscle at CES 2020"
+    excerpt: "LAS VEGAS -- Chinese startup AutoX says mass production of self-driving cars will be a reality \"soon\" thanks to a tie-up on affordable sensors with compatriot DJI, the world's leading consumer drone maker. DJI, which controls more than 60% of the global market for consumer drones, rolled out two light detection and ranging, or LIDAR ..."
+    publishedDateTime: 2020-01-09T09:19:00Z
+    sourceUrl: https://asia.nikkei.com/Business/CES-2020/Chinese-companies-flex-their-self-driving-muscle-at-CES-2020
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.04CF764C8E08DC8698725F3B4CC0841C
+        width: 700
+        height: 350
   - title: "VW announces new Silicon Valley self-driving nerve center at CES"
     excerpt: "The German automaker also announces the creation of the Volkswagen Autonomy, Inc. division to support these new operations."
     publishedDateTime: 2020-01-09T00:31:47Z

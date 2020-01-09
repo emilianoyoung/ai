@@ -93,19 +93,6 @@ related:
       - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
         width: 1200
         height: 630
-  - title: "Artificial Intelligence Market 2020 Industry Analysis, Trend, Size, Share, Strategies and Opportunities Forecast to 2026"
-    excerpt: "Wiseguyreports.Com adds &ldquo;Artificial Intelligence Market &ndash;Market Demand, Challenges, Opportunities, Strategic Analysis of Top Key Players and Forecast to 2026&rdquo; Report to Its Research Database."
-    publishedDateTime: 2020-01-08T13:36:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-industry-analysis-trend-size-share-strategies-and-opportunities-forecast-to-2026-2020-01-08
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
   - title: "Self-driving Car Market 2017-2023: Growth, Size, Share, Global Forecasts Analysis, Company Profiles"
     excerpt: "A self-driving car, also known as an autonomous car or driverless car, is a vehicle that uses a combination of sensors, cameras, radars and artificial intelligence (AI), to travel between destinations without the need of any human effort. To qualify as fully autonomous, a vehicle must be able to navigate without human intervention, to a ..."
     publishedDateTime: 2019-12-27T13:22:00Z

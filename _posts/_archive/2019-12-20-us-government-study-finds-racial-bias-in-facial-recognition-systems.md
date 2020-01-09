@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Racial bias plagues facial recognition software, US agency finds"
-excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
-publishedDateTime: 2019-12-20T09:13:00Z
-sourceUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/
-ampUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
-cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
+title: "U.S. government study finds racial bias in facial recognition systems"
+excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
+publishedDateTime: 2019-12-20T09:46:00Z
+sourceUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/
+ampUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
+cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Computer Vision
 
 images:
-  - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
-    width: 2000
-    height: 1333
-    title: "Racial bias plagues facial recognition software, US agency finds"
+  - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
+    width: 700
+    height: 350
+    title: "U.S. government study finds racial bias in facial recognition systems"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -101,21 +105,6 @@ related:
       - url: https://venturebeat.com/wp-content/uploads/2018/03/shutterstock_731158624-e1576819636533.jpg?fit=1200%2C600&amp;strip=all
         width: 1200
         height: 600
-  - title: "U.S. government study finds racial bias in facial recognition systems"
-    excerpt: "(Reuters) – Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
-    publishedDateTime: 2019-12-20T09:46:00Z
-    sourceUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/
-    ampUrl: https://venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
-    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/20/u-s-government-study-finds-racial-bias-in-facial-recognition-systems/amp/
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.5735D51F98A8D2DE451D59ACE843323E
-        width: 700
-        height: 350
   - title: "iPhone exemption in San Francisco face recognition ban opens can of worms"
     excerpt: "Some do try to catch up, sometimes in haste and often with rather disastrous results. One example is the battle to protect privacy and security against face recognition. A new San Francisco law that banned such technologies from government use amusingly included even the use of Apple iPhones. Now a silent amendment that undoes that error may ..."
     publishedDateTime: 2019-12-23T03:14:00Z
@@ -252,6 +241,21 @@ related:
       - url: https://www.dailydot.com/wp-content/uploads/2019/12/facial-recognition-racial-bias.png
         width: 1000
         height: 500
+  - title: "Racial bias plagues facial recognition software, US agency finds"
+    excerpt: "A sweeping study backed by the US government found facial-recognition programs misidentify people of color far more frequently than white people, indicating racial bias plagues the software. Algorithms wrongly matched photos of black and Asian people 10 to 100 times more often than white people, according to the study from the US Department of ..."
+    publishedDateTime: 2019-12-20T09:13:00Z
+    sourceUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/
+    ampUrl: https://nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
+    cdnAmpUrl: https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2019/12/20/racial-bias-plagues-facial-recognition-software-us-agency-finds/amp/
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: https://thenypost.files.wordpress.com/2019/12/shutterstock_1160291101.jpg?quality=80&amp;strip=all&amp;w=1200
+        width: 2000
+        height: 1333
   - title: "Massive errors found in facial recognition tech: US study"
     excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology.PTI | December 21, 2019, 08:38 IST Washington: Facial recognition systems can produce wildly inaccurate ..."
     publishedDateTime: 2019-12-21T03:08:00Z
@@ -443,19 +447,6 @@ related:
       - url: https://cdn.technologyreview.com/i/images/ap17193571675443.jpg?sw=1200&amp;cx=0&amp;cy=205&amp;cw=1993&amp;ch=1122
         width: 1200
         height: 808
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
-    publishedDateTime: 2019-12-20T08:15:00Z
-    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-081542674.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/IHIqo6l2pIQyOmmvXAKJ.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/AzK4WrlkjaAQyC7.7fyijA--~B/aD0xOTI0O3c9Mjg4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_US/News/US-AFPRelax/istock_892452254.8f85a151252.original.jpg
-        width: 1279
-        height: 853
   - title: "NIST confirms that facial recognition doesn’t work equally well for all"
     excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
     publishedDateTime: 2019-12-20T15:26:00Z
@@ -754,6 +745,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "cZE0ILyqKOBlXX7ZvgF1cHtcMWZGdGRi4Cb8z7fcpAtiIOqYzmUzcaG0Skrp/D2i9sXiDsgQX0jBjuCnUPXHTZfePqB9udSMbLEy4JVSUvOS6Mh7ZPiWjtqM/TAewZoZJQ4pAKzOLAnVPi6o8lIvuG6QtMVG0l0IBBQvtaVRg5pVRtiulEsfeSO4XPAviexg/Q1x0KoiFvdaE3km11GCa1OSuoMzzuI7JhlT79ehuTr6FU3gCsVjWVO5w0ghkLb6ofhr8hCGWBcRwOqcK1ZCvQ==;eTHlRE9+U7I2yk4CbsHP9Q=="
+secured: "mTEHQT+UxlwfXb2grZEqVu61a/HJ7o8PRROAAvd2ZJukpm1i24dHCGq2G3yh/Cv89tNyVnuwRpvLoumQco+A7XT5IeJ1vXzQyb2MP3164ob1ChvQbSUABMvU80FAx2FzI+JSj37betrTxxWjpxN6pGztxwYQSNMfLoT/3rFp5veSzJltLDOt9BB9wYcMMqiNLwVFUK23/44Uvt4Na/2fL1Ve/iLb6BsQTWOyt2QqwNYFY98s/vl91B1ngHTc0L0u/hXGAGwL9IFO75Cq2yomaA==;tlqzPrgeieJkjbmvk0kzQw=="
 ---
 

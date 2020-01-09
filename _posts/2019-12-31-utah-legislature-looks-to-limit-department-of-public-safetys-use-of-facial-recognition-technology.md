@@ -361,6 +361,19 @@ related:
       - url: https://www.bing.com/th?id=ON.519BC2A3A0C22105031C582A4B9D4428
         width: 700
         height: 507
+  - title: "New York school district's facial recognition raises privacy concerns"
+    excerpt: "An upstate New York school district has begun using facial recognition technology to look for threats, over the objection of civil rights advocates who say it compromises student privacy."
+    publishedDateTime: 2020-01-05T14:00:00Z
+    sourceUrl: https://www.omaha.com/news/trending/new-york-school-district-s-facial-recognition-raises-privacy-concerns/article_83f5a40f-ec99-5d35-b098-976808493f59.html
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.63591F20A6E418B7A9CED80ACDCEAB8C
+        width: 700
+        height: 393
   - title: "Grill thief arrested after photo ran through facial recognition software, police say"
     excerpt: "CLERMONT, Fla. – The Clermont Police Department said a 31-year-old Apopka woman accused stealing a grill has been arrested after a surveillance photo of her was ran through facial recognition software. Heather Reynolds has been charged with grand theft. Police said on Nov. 20 officers responded to Ace Hardware on State Road 50 after a call in ..."
     publishedDateTime: 2019-12-27T21:15:00Z

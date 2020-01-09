@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-16T17:52:00Z
 sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -18,20 +18,16 @@ topics:
   - Computer Vision
 
 related:
-  - title: "The global machine translation market at a CAGR of over 19% during the forecast period"
-    excerpt: "These factors have increased the demand for language translation and interpretation services which will lead to the expansion of the global machine translation market at a CAGR of over 19% during the forecast period. Increase in localization of video ..."
-    publishedDateTime: 2019-12-17T19:26:00Z
-    sourceUrl: https://www.prnewswire.com/news-releases/the-global-machine-translation-market-at-a-cagr-of-over-19-during-the-forecast-period-300975942.html
+  - title: "AI in Education Market Projected to reach $ 3,683.5 Million by 2023 | Key players include IBM, Microsoft, AWS, Google and AWS"
+    excerpt: "and Region - Global Forecast to 2023\", MarketsandMarkets forecasts the global Artificial Intelligence (AI) in education market to grow from USD 537.3 Million in 2018 to USD 3,683.5 Million by 2023, at a Compound Annual Growth Rate (CAGR) of 47.0% during the forecast period. The AI technology is playing a crucial role in enhancing and improving ..."
+    publishedDateTime: 2019-12-20T12:08:00Z
+    sourceUrl: https://www.openpr.com/news/1882281/ai-in-education-market-projected-to-reach-3-683-5-million
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg
-        width: 600
-        height: 315
+      name: openpr.com
+      domain: openpr.com
+    quality: 7
 
-secured: "auF7+LdDRWAwEsCNpucw5J/pbbsOCiyGXUlZvqRdVUIDB1VGTrGyg6Oltu+hOPGya3bQDcaQkBdEUQVuKtCfw5K8jhbROyiOZ13tXri+ChnJsTM2KIonGfNVjPkBxgg2kTiuqYiM3XjjJQ3mjld+r6o//8ykTxcf615lBSdzUCmR3sqWGho+YZxCiS+fHXkdrXldmIeS4O5eR1/7LYoKu+iC2j45P7aqBjHqr02DP/orY/Tpg5QDK2OZpeLSGwOZGkyF5ZOJqCFhL8sgjLQFAw==;921pYPM2s8PU5ltiHzTVQQ=="
+secured: "+Zmz+gbZ5a9ca0bTs22VZJFxSLuGANQudqQmsoh4TQ0GdiyGwfFCPN8DTRaqSs0VYTJVw5S1hjJP89hothhIWz75S0us9dYtktpe6JPjgA1aD7E541sPfvCFdVz8YqFdd4LvCRcCVrt5xkZ0NdNfWYzqbbU8h+VkT9PB82hzuKXA1eGbVsyihUZ/XHIhbtA3gwSU0imrL06l/6W9C3CNG6LRvysQHmPY47mRuqPksz032R4LWKSZv6AhlxW2XrQP+Sjh8nJJGLkXemtMOvXGdg==;WDPJRut/1fEymTbwn4hkbQ=="
 ---
 

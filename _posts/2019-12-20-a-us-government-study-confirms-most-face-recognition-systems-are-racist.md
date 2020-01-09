@@ -443,19 +443,6 @@ related:
       - url: https://www.bing.com/th?id=ON.74DA5E73503462C58C7B28BAEE0659B2
         width: 700
         height: 433
-  - title: "Massive errors found in facial recognition tech: US study"
-    excerpt: "Facial recognition systems can produce wildly inaccurate results, especially for non-whites, according to a US government study released Thursday that is likely to raise fresh doubts on deployment of the artificial intelligence technology. The study of ..."
-    publishedDateTime: 2019-12-20T08:15:00Z
-    sourceUrl: https://news.yahoo.com/massive-errors-found-facial-recognition-tech-us-study-081542674.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
-    images:
-      - url: https://s.yimg.com/ny/api/res/1.2/IHIqo6l2pIQyOmmvXAKJ.g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NTMuMzMzMzMzMzMzMzMzNA--/https://s.yimg.com/uu/api/res/1.2/AzK4WrlkjaAQyC7.7fyijA--~B/aD0xOTI0O3c9Mjg4NjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_US/News/US-AFPRelax/istock_892452254.8f85a151252.original.jpg
-        width: 1279
-        height: 853
   - title: "NIST confirms that facial recognition doesn’t work equally well for all"
     excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
     publishedDateTime: 2019-12-20T15:26:00Z
