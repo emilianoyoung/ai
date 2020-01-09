@@ -1,14 +1,14 @@
 ---
 category: news
 title: "6 ways that Chinese tech is ahead of the rest of the world"
-excerpt: "Your smartphone comes from China, a country where ‘phone commerce’ via a messaging app is commonplace. It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high ..."
+excerpt: "It’s the home of Huawei, Alibaba, Baidu, Tencent and Xaomi, and it’s home to massive investments in AI, 5G, self-driving cars, robotics, electric vehicles and even missions to Mars. Here are just a few ways that an increasingly high-tech China is ..."
 publishedDateTime: 2020-01-04T12:00:00Z
-sourceUrl: https://www.techradar.com/in/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-ampUrl: https://www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
-cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+sourceUrl: https://www.techradar.com/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+ampUrl: https://www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
+cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/6-ways-that-chinese-tech-is-ahead-of-the-rest-of-the-world
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -88,19 +88,6 @@ related:
       - url: https://www.bing.com/th?id=ON.AEB7303E23BB3303DD45A4090DA56298
         width: 700
         height: 324
-  - title: "How Machine Learning Drives the Deceptive World of Deepfakes"
-    excerpt: "Our scientific understanding of the universe is advancing at an unprecedented rate. Join Focal Point as we meet the people building tomorrow’s world. Witness the astonishing discoveries that will propel humanity forward and zero-in on the places where science-fiction becomes science-reality."
-    publishedDateTime: 2020-01-06T21:47:00Z
-    sourceUrl: https://www.seeker.com/videos/tech/how-machine-learning-drives-the-deceptive-world-of-deepfakes
-    type: article
-    provider:
-      name: Seeker
-      domain: seeker.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
-        width: 700
-        height: 367
   - title: "Welcome To The Machine: The AI Revolution Comes To ETFs"
     excerpt: "Artificial Intelligence - and the machine learning algorithms that underlie it - is showing up pretty much everywhere these days, so it's no surprise that there's now an AI-powered ETF firm, EquBot. EquBot's founders, CEO Chida Khatua and COO Art Amador, join Let's Talk ETFs to explain the inner workings of their AI Powered Equity and ..."
     publishedDateTime: 2020-01-08T16:36:00Z
@@ -165,6 +152,6 @@ related:
         width: 700
         height: 494
 
-secured: "nZtNJ5r92gcqechxb2lCWLx9efkWCo7nyv+ExW6ZwNNm3pxiyxTS71Pgkx+WGMQac/S+eJwiFobDBUnjeCvN0bFI7uFuWlRASQW8mjjUDwmBe/ckz3D+UZylOenw+0ekZPJAb7w6M11HK/bFAakjlb6DcnjraKjxG8UoAb+NMfVfyG5plUbIsZ/De1jiVnCQIqZaq4oI69R5TWNYQv9+MskrPWxt/5BrYJ4gmG8moY2q0wpsolYAYDmqf32jZ0IP0g/NWYMcFdTeQdDDc6VfNw==;+HI9RmdNSz+4+rgDbvbHJw=="
+secured: "Fg1/q5FN3TRrnsUe+/9dXkmvUFXgx8au9ybiOvCWrpgcXs+c1W8gK8hLpAVsF4/D22ZPcFSyNiyEaNnjFLv4L3KZAzFkFpOYg5kV0XxtNDcH/T4AQ4UnqFLjO5VtCEXX1mK2yl4XBK9OG8MBRAaNgNVSx4TwoqYJALoaxddy4HNlAWzcL7TUvD3mhPh29OWbO2vHiqtuPPPzZIbP0bfeZDgSynU9pooogW866SBwYYx3G5AsgSqebxaBswUp/bHizNi9BMWnU9COcSEYnlrD+Q==;vs/l9UNe456B8jSwlNl7iw=="
 ---
 

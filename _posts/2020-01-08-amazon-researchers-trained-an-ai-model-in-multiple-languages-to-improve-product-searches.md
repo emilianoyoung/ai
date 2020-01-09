@@ -28,6 +28,6 @@ images:
     height: 350
     title: "Amazon researchers trained an AI model in multiple languages to improve product searches"
 
-secured: "m1aVCrCzLVP72EXlVtbQszymlgsh2ZX22GS1Ic771LmksDO905KbZ8SjvgpNz9Np/aqUfmySiFvGNKuQqPZpZeNP+EMP/3t/T5Z50INfgW9Ixs3SLCTM0rQdeFYwrE6g/WtKZZe/CjhLlelQstO8n47vzVJy17lCDAIWtR6KP5/aco0a+4iLRZ6p89KfPuTyp8gS099sMGC8tIuxjftAVIwPl9T+Ap3n9kHenPXyqeHKqn6VLuJCfAYsytzu8LmeGhEGplUJ0iJpUjW0jJMzqA==;cEAU7F2qmllPIfvlIVI4bA=="
+secured: "OfngzVGc3sC19Lv8YX4HcAp9NAXL83sSLZUebT/Gd3N/5hTHJwyeJb80iwgMXfcFjAlCHmZZNGvt0gUjwqNSg9vl96hJNdu6Z5TaYBa0ogBivaJJtEXlGep/abvNoo87j5SS+Tw94YLxkoNxc9rBHRZW/COo0f3i/ZMSbjizGlM/+4QOgAZJYvqZyDOtuIkcTg6Bh151J+kvPNDTUlYLeJNhY9h9TFikkyGYqCWnNCftLQUrtKWRk0gFegnjZv2DI2x8MdGADvmnA1JuS4jUvQ==;YIkDEIVIQVzXlZ7lUrlxBw=="
 ---
 

@@ -99,15 +99,6 @@ related:
       - url: https://www.bing.com/th?id=ON.5176A19A7044A2FE9450B6C1146DC8EB
         width: 700
         height: 367
-  - title: "ARTIFICIAL INTELLIGENCE MARKET Status and Trend: Top Key Players, Industry Dynamics, And Regional Scope 2023"
-    excerpt: "Global Artificial Intelligence Market 2018-2023 report includes different applications such as Deep Learning, Robotics, Digital Personal Assistant, Querying Method, NLP and Context-Aware Processing. This report aims to estimate the Global Artificial ..."
-    publishedDateTime: 2019-12-20T07:52:00Z
-    sourceUrl: https://www.openpr.com/news/1881970/artificial-intelligence-market-status-and-trend-top-key
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
   - title: "Language Translation Machine Market 2019 Business Strategies, Product Sales and Growth Rate, Assessment to 2025"
     excerpt: "The report named, *Global Language Translation Machine Market Analysis, 2014-2025* has been added to the archive of market research studies by QY Research. The industry experts and researchers have offered reliable and precise analysis of the global Language Translation Machine market in view of numerous aspects such as growth factors ..."
     publishedDateTime: 2019-12-31T12:12:00Z
