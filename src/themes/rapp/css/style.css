@@ -46,14 +46,20 @@ html {
   --text-color-primary-button: #FFFFFF;
   --text-color-secondary-button: #f0083f;
   --background-color-normal: #FFFFFF;
-  --background-color-menu: #efefefd9;
+  --background-color-menu: #fffffff9;
   --background-color-tag: #efefef;
   --background-color-primary-button: #f0083f;
-  --background-color-secondary-button: none;
+  --background-color-secondary-button: #E5E5E5;
   --background-color-textbox: #FFFFFF;
-  --border-color-secondary-button: #f0083f;
+  --background-color-progress-bar: #E5E5E5;
+  --background-color-progress-value: #f0083f;
+  --background-color-secondary-progress-value: #ED95AB;
+  --background-color-modal-dialog: #FFFFFF;
+  --border-color-secondary-button: #E5E5E5;
   --border-color-textbox: #f0083f;
   --border-color-newsletter-wrapper: #f0083f;
+  --visible-in-light: block;
+  --visible-in-dark: none;
 }
 
 html[data-theme='dark'] {
@@ -68,16 +74,29 @@ html[data-theme='dark'] {
   --background-color-menu: #111111d9;
   --background-color-tag: #777777;
   --background-color-primary-button: #f0083f;
-  --background-color-secondary-button: none;
+  --background-color-secondary-button: #191D28;
   --background-color-textbox: #FFFFFF;
+  --background-color-progress-bar: #191D28;
+  --background-color-progress-value: #f0083f;
+  --background-color-modal-dialog: #000000;
   --border-color-secondary-button: #f0083f;
   --border-color-textbox: rgba(255, 255, 255, 0.4);
   --border-color-newsletter-wrapper: rgba(255, 255, 255, 0.4);
+  --visible-in-light: none;
+  --visible-in-dark: block;
 }
 
 /* ------------------------------
    Global styles
 ---------------------------- */
+
+
+.visible-in-light {
+  display: var(--visible-in-light);
+}
+.visible-in-dark {
+  display: var(--visible-in-dark);
+}
 
 html,
 body,
@@ -163,9 +182,14 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font-size: 100%;
-  font: inherit;
   vertical-align: baseline;
+}
+
+header {
+  margin-top: 120px;
+}
+footer {
+  margin-top: 120px;
 }
 
 article,
@@ -205,6 +229,15 @@ table {
   border-spacing: 0;
 }
 
+small {
+  font-size: x-small;
+}
+
+p {
+  margin-top: 0px;
+  margin-bottom: 16px;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
@@ -213,6 +246,10 @@ body {
   letter-spacing: 0;
   background-color: var(--background-color-normal);
   color: var(--text-color-normal);
+}
+
+body.modal-open {
+  overflow: hidden;
 }
 
 img {
@@ -235,7 +272,8 @@ h5,
 h6 {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  margin: 0;
+  margin-top: 24px;
+  margin-bottom: 16px;
   padding: 0;
 }
 
@@ -320,6 +358,16 @@ menu style
 .navbar .navbar-nav .show>.nav-link {
   color: var(--text-color-link);
   text-decoration: underline;
+}
+
+.navbar.active_sc .site-title {
+  color: var(--text-color-normal);
+  font-size: 18px;
+  font-weight: 600;
+  display: block;
+}
+:not(.active_sc) .site-title {
+  display: none;
 }
 
 /* --------------------------------
@@ -739,9 +787,9 @@ Newsletter
 
 .newsletter-wrapper {
   background: none;
-  border: 1px solid var(--border-color-newsletter-wrapper);
   position: relative;
   overflow: hidden;
+  border: 1px solid var(--border-color-newsletter-wrapper);
   border-radius: 5px;
   padding: 0;
   text-align: left;
@@ -804,12 +852,19 @@ Start App Feature style
 }
 
 .title {
-  padding-bottom: 90px;
+  padding-bottom: 40px;
   width: 100%;
 }
 
-.title h3 {
+.title h1 {
   font-weight: 700;
+  font-size: 42px;
+  line-height: 1.2em;
+  padding-bottom: 20px;
+}
+
+.title h3 {
+  font-weight: 400;
   font-size: 36px;
   line-height: 1.2em;
   padding-bottom: 20px;
@@ -1286,6 +1341,304 @@ Close Meet the team style
 
 
 
+/* --------------------------------
+
+Start App Listing style
+
+-------------------------------- */
+
+.cd-headline br {
+  display: none;
+}
+
+.cd-words-wrapper {
+  display: inline-block;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+}
+
+.cd-words-wrapper span {
+  display: inline-block;
+  position: absolute;
+  white-space: nowrap;
+  left: 0;
+  top: 0;
+  color: var(--text-color-accent);
+}
+
+.cd-words-wrapper span.is-visible {
+  position: relative;
+}
+
+.cd-words-wrapper span {
+  opacity: 0;
+}
+
+.cd-words-wrapper span.is-visible {
+  opacity: 1;
+}
+
+.app-listing-sec {
+  width: 100%;
+  position: relative;
+}
+
+.app-listing {
+  width: 100%;
+  float: left;
+}
+
+.app-listing h2 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 1.2em;
+  margin-bottom: 10px;
+}
+
+.app-listing .appbox {
+  float: left;
+}
+
+.app-listing-sec .single-app {
+  text-align: center;
+  margin: 50px 10px 10px 10px;
+}
+
+.app-listing-sec .single-app :not(.subscribed) a:hover,
+.app-listing-sec .single-app :not(.subscribed) a small:hover {
+  color: var(--text-color-accent) !important;
+}
+
+.app-listing-sec .single-app img.app-icon {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  padding: 10px;
+  margin: 0 auto;
+  border: 2px solid #191D28;
+  background-color: #191D28;
+}
+
+.app-listing-sec .single-app h3 {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  margin: 0;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.2em;
+  overflow: hidden; 
+  white-space: nowrap; 
+  word-break: break-all;
+  color: var(--text-color-accent);
+}
+
+.app-listing-sec .single-app h3 small {
+  font-weight: 100;
+  font-size: 20px;
+  color: var(--text-color-normal);
+}
+
+.app-listing-sec .single-app p {
+  font-weight: 500;
+  font-size: 18px;
+  padding-top: 12px;
+}
+
+.app-listing-sec .single-app ul li {
+  display: inline-block;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
+.app-listing-sec .single-app i {
+  margin-right: 12px;
+}
+
+.app-listing-sec .single-app .subscribe-button {
+  display: block;
+  margin: 0 auto;
+  color: var(--text-color-normal);
+  background-color: var(--background-color-secondary-button);
+  border-radius: 8px;
+  width: 130px;
+  height: 40px;
+  padding: 7px 0px;
+}
+
+.app-listing-sec .single-app .download-button {
+  display: block;
+  margin: 15px auto;
+  width: 130px;
+}
+
+.app-listing-sec .single-app .progress-button {
+  display: inline-block;
+  border: 0 none;
+  overflow: hidden;
+  position: relative;
+  background: var(--background-color-progress-bar) !important;
+}
+
+.app-listing-sec .single-app :not(.subscribed).progress-button:hover .progress-value {
+  background-color: var(--background-color-secondary-progress-value);
+}
+
+.app-listing-sec .single-app .progress-button .progress-value {
+  background-color: var(--background-color-progress-value);
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+}
+
+.app-listing-sec .single-app .subscribe-button .subscribe-label,
+.app-listing-sec .single-app .subscribe-button .subscribed-label {
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+:not(.subscribed) .subscribe-label {
+  display: block;
+}
+:not(.subscribed) .subscribed-label {
+  display: none;
+}
+.subscribed .subscribe-label {
+  display: none;
+}
+.subscribed .subscribed-label {
+  display: block;
+}
+a.subscribed {
+  cursor: default !important;
+}
+
+.app-listing-sec .single-app .progress-button .progress-value.background-horizontal {
+    height: 100%;
+}
+
+.app-listing-sec .single-app .votes {
+  font-size: x-small;
+  display: block;
+  line-height: 2.6;
+  width: 130px; 
+  margin: 0 auto;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none;
+  /* Hidden by default */
+  position: fixed;
+  /* Stay in place */
+  z-index: 9999;
+  /* Sit on top */
+  padding-top: 100px;
+  /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* Full width */
+  height: 100%;
+  /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0);
+  /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal Content */
+.modal-content {
+  max-width: 500px;
+  background-color: var(--background-color-modal-dialog);
+  margin: auto;
+  padding: 20px 25px;
+  border: 1px solid #888;
+  width: 80%;
+  -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.modal-content .single-app {
+  margin: 0px;
+}
+
+.modal-content .newsletter-wrapper {
+  background: none;
+  position: relative;
+  border: 1px solid var(--border-color-newsletter-wrapper);
+  overflow: hidden;
+  border-radius: 8px;
+  padding: 0;
+  text-align: left;
+  float: none;
+  display: inline-block;
+  background-color: #fff;
+  line-height: 1.428571429;
+  color: #8d8d8d;
+  width: 100%;
+}
+
+.modal-content .newsletter-wrapper i {
+  color: #f0083f;
+  position: absolute;
+  right: 15px;
+  top: 21px;
+  z-index: 1;
+  font-weight: 900;
+}
+
+.modal-content .newsletter-wrapper .email {
+  font-size: 18px;
+  padding: 13px;
+  font-weight: bold;
+  border: none;
+  width: 100%;
+}
+
+.modal-content .newsletter-wrapper .submit-button {
+  border: none;
+  padding: 9px;
+  margin-right: 10px;
+  color: #fff;
+  background: #f0083f;
+  border-radius: 3px;
+  font-weight: bold;
+  width: 100%;
+  cursor:pointer;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.close:hover,
+.close:focus {
+  color: var(--text-color-normal);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* --------------------------------
+
+Close App Listing style
+
+-------------------------------- */
+
+
 
 /* --------------------------------
 
@@ -1663,12 +2016,8 @@ Start Footer copyright style
 .copyright-text {
   width: 100%;
   text-align: center;
-  background-color: var(--background-color-menu);
+  background-color: var(--background-color-normal);
   padding: 20px 0;
-}
-
-.copyright-text p {
-  color: #ffffff;
 }
 
 
@@ -1688,12 +2037,11 @@ Start Responsive style
 @media only screen and (max-width : 767px) {
   .navbar .navbar-collapse {
     text-align: center;
-    background-color: #1e222d;
+    background-color: var(--background-color-menu);
   }
 
   .navbar-toggler {
-    color: #ffffff;
-    border: 1px solid #ffffff;
+    color: var(--text-color-normal);
   }
 
   .hero-section .pos-r {
@@ -1789,6 +2137,7 @@ Start Responsive style
 }
 
 @media only screen and (max-width : 400px) {
+
   .hero-content .btn-group {
     width: 100%;
   }
@@ -1817,10 +2166,10 @@ Start Responsive style
 
   .newsletter-wrapper {
     background: none;
-    border: 1px solid var(--border-color-newsletter-wrapper);
-    border-radius: 5px;
     position: relative;
     overflow: hidden;
+    border: 1px solid var(--border-color-newsletter-wrapper);
+    border-radius: 5px;
     padding: 0;
     text-align: left;
     float: none;
@@ -1869,7 +2218,6 @@ Start Responsive style
 
   .navbar-toggler {
     color: #ffffff;
-    border: 1px solid #ffffff;
   }
 
   .hero-content h1 {
@@ -2334,6 +2682,10 @@ Start Blog page style
 }
 
 @media only screen and (max-width : 767px) {
+  .cd-headline br {
+    display: block;
+  }
+
   .sidebar-widget {
     padding-top: 60px;
   }
@@ -2534,7 +2886,8 @@ Start post style
   margin-bottom: 40px;
 }
 
-.post-meta-left, .post-meta-right {
+.post-meta-left,
+.post-meta-right {
   display: inline-block;
   vertical-align: middle;
   width: 75%;
@@ -2596,11 +2949,21 @@ p.post-publisher {
 
 @media screen and (max-width: 1024px) {
 
+  .navbar .navbar-collapse {
+    text-align: center;
+    background-color: var(--background-color-menu);
+  }
+
+  .navbar-toggler {
+    color: var(--text-color-normal);
+  }
+
   #post-intro {
     margin-bottom: 20px;
   }
 
-  .post-meta-left, .post-meta-right {
+  .post-meta-left,
+  .post-meta-right {
     width: 100%;
   }
 

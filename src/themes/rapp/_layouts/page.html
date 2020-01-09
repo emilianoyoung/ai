@@ -4,9 +4,9 @@
         {% include jify file="_includes/head.html" mode="inclusive" indent_level=2 %}
     </head>
     <body>
-        <div class="wrapper">
+        <div class="container">
             {% include jify file="_includes/header.html" indent_level=3 %}
-            <section>
+            <section{% if page.category == 'content' %} style="max-width: 800px; margin: 0 auto;"{% endif %}>
                 {% include jify function="render_content" content=content indent_level=4 %}
             </section>
             {% include jify file="_includes/footer.html" indent_level=3 %}

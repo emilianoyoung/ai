@@ -2,9 +2,11 @@
 
 <nav class="navbar navbar-expand-lg fixed-top center-brand static-nav">
     <div class="container">
-        <a class="navbar-brand" href="#">
-            <img src="{{ site.baseurl }}/assets/images/logo.png" alt="logo" class="logo-default">
+        <a class="navbar-brand" href="/">
+            <img src="{{ site.baseurl }}/assets/images/logo-light.png" alt="logo" class="visible-in-light logo-default">
+            <img src="{{ site.baseurl }}/assets/images/logo-dark.png" alt="logo" class="visible-in-dark logo-default">
         </a>
+        <span class="site-title">Inside Out</span>
         <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#xenav">
             <i class="fas fa-bars fa-2x"></i>
         </button>
@@ -17,7 +19,7 @@
             item_class="nav-item"
             link_class="nav-link"
             current_link_class="active"
-            indent_level=4 %}
+            indent_level=2 %}
     </div>
     <!--/.CONTAINER-->
 </nav>
@@ -26,18 +28,6 @@
 {% if page.layout == "home" -%}
 <!--hero section-->
 <header class="hero-section" id="home">
-
-    <!--bg animation-->
-    <div class="main-line">
-        <div class="main-line-w">
-            <div class="line-num one"></div>
-            <div class="line-num two"></div>
-            <div class="line-num three"></div>
-            <div class="line-num four"></div>
-        </div>
-    </div>
-    <!--bg animation-->
-
     <div class="container">
         <div class="row">
             <div class="col-md-7">
@@ -87,15 +77,14 @@
 <!--/.hero section-->
 {% else -%}
 <!--inner page banner-->
-{% include jify function="get_config" of="theme" key="header.banner_image" -%}
-<header class="inner-page-banner"{% if config %} style="background-image: url({{ config }});"{% endif %}>
+<header>
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="inside-title">
-                    <h2>{{ page.title }}</h2>
-                    <p>{{ page.description }}</p>
-                </div><!--/.inside-title-->
+                <div class="title text-center">
+                    <h1>{{ page.title }}</h1>
+                    <p>{{ page.excerpt }}</p>
+                </div><!--/.title-->
             </div>
         </div>
     </div><!--/.container-->

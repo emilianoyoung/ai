@@ -2,10 +2,15 @@ $(function($) {
 
   "use strict";
 
+  var earlierScrollTop = localStorage.getItem("scrollTop");
+  if (earlierScrollTop != null) {
+    localStorage.removeItem("scrollTop");
+    window.scrollTo({ top: earlierScrollTop });
+  }
 
-/*=========================== scroll background ===========================*/
+  /*=========================== scroll background ===========================*/
 
-  $(window).scroll(function(){
+  $(window).scroll(function () {
 
     var wScroll = $(this).scrollTop();
 
@@ -22,10 +27,10 @@ $(function($) {
   /*=========================== close scroll background ===========================*/
 
   /*=========================== smooth menu ===========================*/
-  $('body').scrollspy({target: ".navbar", offset: 50});
+  $('body').scrollspy({ target: ".navbar", offset: 50 });
 
   // Add smooth scrolling on all links inside the navbar
-  $("#xenav a").on('click', function(event) {
+  $("#xenav a").on('click', function (event) {
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {
       // Prevent default anchor click behavior
@@ -38,7 +43,7 @@ $(function($) {
       // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
       $('html, body').animate({
         scrollTop: $(hash).offset().top
-      }, 800, function(){
+      }, 800, function () {
 
         // Add hash (#) to URL when done scrolling (default click behavior)
         window.location.hash = hash;
@@ -52,19 +57,19 @@ $(function($) {
 
   /*=========================== screenshot app ===========================*/
 
- var owls = $("#screenshot-owl");
-    owls.owlCarousel({
+  var owls = $("#screenshot-owl");
+  owls.owlCarousel({
 
-        autoplay: true,
-        autoplayTimeout:6000,
-        autoplayHoverPause:true,
-        items: 4,
-        loop: true,
-        center: false,
-        margin: 20,
-        stagePadding: 0,
-        dots:true,
-        nav:false,
+    autoplay: true,
+    autoplayTimeout: 6000,
+    autoplayHoverPause: true,
+    items: 4,
+    loop: true,
+    center: false,
+    margin: 20,
+    stagePadding: 0,
+    dots: true,
+    nav: false,
 
         animateOut:'fadeOutDown',
         animateIn:'fadeInDown',
