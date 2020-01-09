@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.11D81EFBBDFB6658A4CD5FCF22D79283
         width: 700
         height: 466
+  - title: "U.S. to Outline Strong Support for Self-Driving Cars at CES"
+    excerpt: "LAS VEGAS — The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles -- dubbed 4.0, which she says unifies ..."
+    publishedDateTime: 2020-01-08T21:01:00Z
+    sourceUrl: https://www.nytimes.com/reuters/2020/01/08/business/08reuters-tech-ces-selfdriving.html
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
+        width: 1200
+        height: 630
   - title: "Sony joins race to develop vision sensor for self-driving vehicles"
     excerpt: "The Japanese company, which is the world's leading provider of camera sensors, is joining the global race to develop the “lidar” vision-sensing technology that is a crucial component of self-driving cars’ safety and functionality. “Smartphones probably made the biggest impact in the 21st century in terms of changing people’s lives."
     publishedDateTime: 2020-01-03T04:00:00Z
@@ -82,6 +95,19 @@ related:
     quality: 44
     images:
       - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
+        width: 700
+        height: 393
+  - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
+    excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
+    publishedDateTime: 2020-01-09T00:01:00Z
+    sourceUrl: https://www.yahoo.com/now/feds-pledge-keep-hands-off-222100743.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.97BCD41C7E3AE206BD83305B031429B7
         width: 700
         height: 393
 

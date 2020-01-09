@@ -105,6 +105,21 @@ related:
       - url: https://www.bing.com/th?id=ON.8A12904E595EB27CE997DEB4BFDFD80C
         width: 700
         height: 525
+  - title: "US government proposes a 'light-touch' to developing AI regulation"
+    excerpt: "The White House has proposed principles that seek to prevent federal agencies from \"needlessly hamper[ing] artificial intelligence (AI) innovation and growth\". In a draft memorandum [PDF] released on Tuesday, the government presented its vision for how AI regulation should be developed, saying that federal agencies should have a \"light-touch ..."
+    publishedDateTime: 2020-01-09T04:01:00Z
+    sourceUrl: https://www.zdnet.com/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    ampUrl: https://www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.588EAF2D6DFD33B52B33B124E330B0A4
+        width: 700
+        height: 525
   - title: "Trump administration’s new AI principles seek to limit regulatory ‘overreach’ to promote innovation"
     excerpt: "The White House is releasing the principles Tuesday at the behest of President Donald Trump, under the American AI Initiative. Future regulations on artificial intelligence could have an outsized impact on Amazon and Microsoft, two of the largest developers of AI technologies. Microsoft President Brad Smith has called for regulations to create ..."
     publishedDateTime: 2020-01-07T05:03:00Z

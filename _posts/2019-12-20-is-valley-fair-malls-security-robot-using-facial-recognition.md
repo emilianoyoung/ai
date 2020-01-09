@@ -8,7 +8,7 @@ ampUrl: https://www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-rob
 cdnAmpUrl: https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2019/12/20/is-valley-fair-malls-security-robot-using-facial-recognition/amp/
 type: article
 quality: 91
-heat: 131
+heat: 101
 published: true
 
 provider:
@@ -27,34 +27,6 @@ images:
     title: "Is Valley Fair mall’s security robot using facial recognition?"
 
 related:
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T19:25:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
   - title: "Some cities and states balk at face recognition tech"
     excerpt: "Local journalism continues to make a difference. Local journalism continues to make a difference. SPRINGFIELD, Mass. — Police departments around the U.S. are asking citizens to trust them to use facial recognition software as another handy tool in their crime-fighting toolbox. But some lawmakers — and even some technology giants — are ..."
     publishedDateTime: 2019-12-22T04:00:00Z
@@ -68,17 +40,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2FFB84A0FB68BC955918A861492C71ED
         width: 700
         height: 469
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
 
 secured: "Teko9XvqDfrmmcPOujIAUvoiCVqZTVNpkl8c0LpimxRw+fBhFSACqO4TbcOLxruAPMMi8WEl8vtXmczLXVa/4Eytw8Uxetx5Karm/KKsg5+r8hvYt1tIL+mfkGfNqwqdSlQ/dbzNmeZt/0kDNMGE8dh7cTmhWE06QTjky2ijk/S1P7Sev5w/5HRUt5XQJh0AJE6p6i47fLBEotiBagVNYKCSMKrsfGujQW5ysLhRgoju7G9VU8NUWp215K7IFNW3DIw8efvv2n4tM/cxsMW44A==;vwLNX16+BjtDX3ne6SU+mw=="
 ---

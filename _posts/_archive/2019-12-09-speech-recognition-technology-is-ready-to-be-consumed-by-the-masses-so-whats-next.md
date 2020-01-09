@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-09T11:15:00Z
 sourceUrl: https://www.telegraph.co.uk/business/business-reporter/speech-recognition-technology/
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,21 +23,6 @@ images:
     height: 1226
     title: "Speech recognition technology is ready to be consumed by the masses – so what’s next?"
 
-related:
-  - title: "Speech recognition tech cuts paperwork for police"
-    excerpt: "It uses speech recognition and connects directly to the department's computer-aided dispatch (CAD) and records management systems (RMS), enabling officers to fill out reports faster and giving them more time to keep an eye on the community. “We wanted to ..."
-    publishedDateTime: 2019-12-12T20:40:00Z
-    sourceUrl: https://gcn.com/articles/2019/12/12/voice-recognition-police-reports.aspx
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg
-        width: 760
-        height: 368
-
-secured: "PByEPzojo0F5q5u/gimqA4OOe1JR80+z2yXiZCN3ugifbmjdPpY0bqNvq271gkTyeHHCGnjcTofGcU4Tq4dmi2IBKgwdbfJlvgwGfVGTFxHM8IHBQtNsmd0fWywNO0LEhjldkuejlAx5rpQcWYCRDlh6TxpyOiHkbIFTVRCK6N0Hzicpx+SDewK5/phJoxkwMDpCN7ZN+M3Q1JGINsg0xcw4BQdV5o3D/T7wE0Xaksn+J38mIoL9MW2j72WZs/nP4Il1yswIcLYsbu/gLLy/FQ==;g1o54QsNal66Bb6MNlRToQ=="
+secured: "DfDxwFcqtDl65gN2pFQI6YNupbDra0sjS+cPjUsEYRyYhMq+5LbghkAIrcfxEN/1IJoOJVJWd6pGiNfs9DUrNoMm/ZmHF8Vj/+vGhQ6fSbN7sQAYOCvJOOGzlJnTS6rbdqAV2uo27y1/YOnaoetEcPqnkpAiPttwjQdPC8mbgTq/6UkxA3ZKpi/z/+sBvcMjnICpSzN60nMJI2K7RLucXT00GGU541hzlT0T3C7GBKcd03h5nQWk5AxUJ4WAG+kcvu72lY1V59VctDJ36X3nRg==;qn58o6L1YT0YcvOp9Pm4Fg=="
 ---
 

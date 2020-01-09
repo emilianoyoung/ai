@@ -39,45 +39,6 @@ related:
       - url: https://www.mercurynews.com/wp-content/uploads/2019/12/SJM-L-ROBOT-12xx.jpg?w=1024&amp;h=768
         width: 1024
         height: 768
-  - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
-    type: article
-    provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
-    quality: 54
-    images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
-  - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
-    excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
-    publishedDateTime: 2019-12-20T19:25:00Z
-    sourceUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html
-    ampUrl: https://www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    cdnAmpUrl: https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/news/2019/12/northampton-bans-facial-recognition-technology-becoming-third-community-in-massachusetts-to-do-so.html?outputType=amp
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 45
-    images:
-      - url: https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/EOA55WYUU5FU5LBI6RP22DPN7U.JPG
-        width: 1904
-        height: 1428
-  - title: "Amazon’s Face Recognition Disproportionately Matched Congressional Members of Color With Mugshots"
-    excerpt: "The test results of Amazon Rekognition, released Thursday, revealed that most of the politicians misidentified by the technology were black and Latino, including U.S. Rep. John Lewis. “This test confirms that facial recognition is flawed, biased and ..."
-    publishedDateTime: 2019-12-20T12:00:00Z
-    sourceUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108
-    ampUrl: https://www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    cdnAmpUrl: https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/amazon-s-face-recognition-disproportionately-matched-co-1827954108/amp
-    type: article
-    provider:
-      name: The Root
-      domain: theroot.com
-    quality: 11
 
 secured: "w/+aO8VY4uRs6/iF+WPtgdszPKPX+DU/GNPn1cPk1ZQjyVpuREmDADgouc2PHkaBT9W0U5lG656KGGz2yCWptOhOj0Z950qC8yq/tdA1IU9uFwiEqVC/Tw9X6tB8PMAzJ/Iqa6Ixr4sojxh8JtBRLYXJjCsx4845L7sQThOEj1tqPiiVAQ7lwkca8JQWuOPE6876HQMK031YV8YDdAFUu8SkxTDbuQf9/Oh9Vlve4fYhXoiPWg8zrkHF5qGkysZR+rzae7xPpsXLGkcIrH3YSg==;A+8pQXocRu3ruFfZ77bFUQ=="
 ---

@@ -43,13 +43,13 @@ related:
       domain: telecompaper.com
     quality: 17
   - title: "Synaptics Announces Industry-First Edge Computing Video SoCs with Secure AI Framework at CES 2020"
-    excerpt: "Jan. 06, 2020 (GLOBE NEWSWIRE) -- CES 2020 - Synaptics® Incorporated (NASDAQ: SYNA), the leading developer of human interface solutions, today announced a new Smart Edge AI™ platform, the VideoSmart™ VS600 family of high-performance multimedia System on a Chip (SoC) solutions that combines a CPU, NPU, and GPU into a single software ..."
-    publishedDateTime: 2020-01-06T15:14:00Z
-    sourceUrl: https://finance.yahoo.com/news/synaptics-announces-industry-first-edge-130010072.html
+    excerpt: "New Multimodal Platform Purpose Built with Perceptive Intelligence for Applications Including Smart Displays, Smart Cameras, Video Soundbars, Media Streamers"
+    publishedDateTime: 2020-01-06T13:03:00Z
+    sourceUrl: https://www.globenewswire.com/news-release/2020/01/06/1966410/0/en/Synaptics-Announces-Industry-First-Edge-Computing-Video-SoCs-with-Secure-AI-Framework-at-CES-2020.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: GlobeNewswire
+      domain: globenewswire.com
     quality: 6
 
 secured: "lwbI3tU/3C3tlxYNb2Zn22n05adRcMdabGSgYVx5kpRx6a6MXlW5yCoJ5xD8B+nzNfCBJTlN4QjuT17vyN+6jJnpwg1/Pdep6vRi27wASG/XpM4VIPNOYnccQpTx8XVVxm1PiVVp5srbaIQbxq/msCuKhkfZ4DRTKZOtXyabBH9vgMVKSfSQvOWbzbUxN2kcnilaWgydMfFDu7mmqkSSjLTg3y41Al5hN+LPvit6aF5xJN5UfPGoQ7dW6OTErB2Ty3Ln5VhEGPOVy/sKRIogRQ==;EJoKH8AmCMfIPIJ/CQIlhw=="

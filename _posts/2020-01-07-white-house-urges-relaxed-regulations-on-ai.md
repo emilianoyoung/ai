@@ -89,6 +89,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E4F8C9326C8747F20B688E213B4E9E7F
         width: 700
         height: 366
+  - title: "US government proposes a 'light-touch' to developing AI regulation"
+    excerpt: "The White House has proposed principles that seek to prevent federal agencies from \"needlessly hamper[ing] artificial intelligence (AI) innovation and growth\". In a draft memorandum [PDF] released on Tuesday, the government presented its vision for how AI regulation should be developed, saying that federal agencies should have a \"light-touch ..."
+    publishedDateTime: 2020-01-09T04:01:00Z
+    sourceUrl: https://www.zdnet.com/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    ampUrl: https://www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.588EAF2D6DFD33B52B33B124E330B0A4
+        width: 700
+        height: 525
   - title: "White House urges federal agencies and European allies to avoid overregulation of AI"
     excerpt: "The White House is calling on U.S. lawmakers and businesses, as well as European nations and allies, to avoid overregulation of artificial intelligence. The announcement comes as part of AI regulatory principles introduced today by the Trump administration. “Europe and our allies should avoid heavy handed innovation-killing models ..."
     publishedDateTime: 2020-01-07T05:01:00Z

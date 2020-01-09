@@ -8,7 +8,7 @@ ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z60GL
 cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z60GL
 type: article
 quality: 187
-heat: 317
+heat: 327
 published: true
 
 provider:
@@ -87,6 +87,21 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.8A12904E595EB27CE997DEB4BFDFD80C
+        width: 700
+        height: 525
+  - title: "US government proposes a 'light-touch' to developing AI regulation"
+    excerpt: "The White House has proposed principles that seek to prevent federal agencies from \"needlessly hamper[ing] artificial intelligence (AI) innovation and growth\". In a draft memorandum [PDF] released on Tuesday, the government presented its vision for how AI regulation should be developed, saying that federal agencies should have a \"light-touch ..."
+    publishedDateTime: 2020-01-09T04:01:00Z
+    sourceUrl: https://www.zdnet.com/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    ampUrl: https://www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.588EAF2D6DFD33B52B33B124E330B0A4
         width: 700
         height: 525
   - title: "White House urges federal agencies and European allies to avoid overregulation of AI"

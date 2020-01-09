@@ -1,21 +1,21 @@
 ---
 category: news
-title: "White House cautions against over-regulating AI in new guidelines"
-excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
-publishedDateTime: 2020-01-07T16:50:00Z
-sourceUrl: https://www.engadget.com/2020/01/07/white-house-ai-regulation-guidelines/
-ampUrl: https://www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
-cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+title: "US government proposes a 'light-touch' to developing AI regulation"
+excerpt: "The White House has proposed principles that seek to prevent federal agencies from \"needlessly hamper[ing] artificial intelligence (AI) innovation and growth\". In a draft memorandum [PDF] released on Tuesday, the government presented its vision for how AI regulation should be developed, saying that federal agencies should have a \"light-touch ..."
+publishedDateTime: 2020-01-09T04:01:00Z
+sourceUrl: https://www.zdnet.com/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+ampUrl: https://www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
+cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: ZDNet
+  domain: zdnet.com
   images:
-    - url: /assets/images/organizations/engadget.com-50x50.jpg
+    - url: /assets/images/organizations/zdnet.com-50x50.jpg
       width: 50
       height: 50
 
@@ -23,10 +23,10 @@ topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
+  - url: https://www.bing.com/th?id=ON.588EAF2D6DFD33B52B33B124E330B0A4
     width: 700
-    height: 367
-    title: "White House cautions against over-regulating AI in new guidelines"
+    height: 525
+    title: "US government proposes a 'light-touch' to developing AI regulation"
 
 related:
   - title: "White House proposes regulatory principles to govern AI use"
@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.FFA93CC533D309EC0DF03A9E4545BB07
         width: 700
         height: 466
+  - title: "White House cautions against over-regulating AI in new guidelines"
+    excerpt: "The White House will formally announce its AI regulation guidelines at CES Wednesday. Today, the White House proposed 10 principles for federal agencies to consider when regulating artificial intelligence, Reuters reports. The guidelines stress limiting regulatory \"overreach\" and encourage Europe and other allies to \"avoid heavy handed ..."
+    publishedDateTime: 2020-01-07T16:50:00Z
+    sourceUrl: https://www.engadget.com/2020/01/07/white-house-ai-regulation-guidelines/
+    ampUrl: https://www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/white-house-ai-regulation-guidelines/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.350C4E443D276783D735204FCE009132
+        width: 700
+        height: 367
   - title: "White House encourages hands-off approach to AI regulation"
     excerpt: "While experts worry about AI technologies like intrusive surveillance and autonomous weaponry, the US government is advocating a hands-off approach to AI’s regulation. The White House today unveiled 10 principles that federal agencies should consider when devising laws and rules for the use of artificial intelligence in the private sector ..."
     publishedDateTime: 2020-01-07T14:18:00Z
@@ -87,21 +102,6 @@ related:
     quality: 87
     images:
       - url: https://www.bing.com/th?id=ON.8A12904E595EB27CE997DEB4BFDFD80C
-        width: 700
-        height: 525
-  - title: "US government proposes a 'light-touch' to developing AI regulation"
-    excerpt: "The White House has proposed principles that seek to prevent federal agencies from \"needlessly hamper[ing] artificial intelligence (AI) innovation and growth\". In a draft memorandum [PDF] released on Tuesday, the government presented its vision for how AI regulation should be developed, saying that federal agencies should have a \"light-touch ..."
-    publishedDateTime: 2020-01-09T04:01:00Z
-    sourceUrl: https://www.zdnet.com/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
-    ampUrl: https://www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
-    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-government-proposes-a-light-touch-to-developing-ai-regulation/
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.588EAF2D6DFD33B52B33B124E330B0A4
         width: 700
         height: 525
   - title: "White House urges federal agencies and European allies to avoid overregulation of AI"
@@ -236,6 +236,6 @@ related:
         width: 400
         height: 400
 
-secured: "uEoxZK+JlxfFm+WHJmL+E88Ba+Bt9QDVswXvT5p+zFTO2EbSkFqn8x6il9FMGx2hMioqu6xorwxMqYYx8xsWp9CM8m3ZlcDU5wW/pC19xB9aAiNqf+lOFv71shAnXCHv86217ND9PkRItcIdf6hqAQOng9BBraLSSekwYldxRUvm8UL8cLRt8m3ax4BLnV2wIix1r0tHlsvsT+SMp4dr7mxOX2jQiItNOqGZmHb0yWVf9QwyZD5GDQ9zSDae7TX5TH/AB9Z4ETVL1jWkDZaC1w==;pBQ9OW0btd87UrUynLjxMA=="
+secured: "ZGJ513rETDcNAfYOWRTk/OUhnDdhgtzMIsNrMtltgK141o7k7xCxgi/Jb5uqDkGwWdkUYlFZSIv2gVojPQN6cd9QH5uvWITIDrUVCraN9Phm8cAe5DjYhG6knynJUiiJKLygtE2vX4DFudh4shtNAx0vEEaBicnuttjb+69qUOgeZa27PIpEiqrT2/lb0x5yVAEBBvAkncUpIq7AQrg2ETWMVCaog+HpKjMel/u4dNn6tvG/gTwsIb26y/8HJ1EwOQ9bScAe9xGM6vAN2m2/fA==;qrJlCaQtn41xEb6xtjSJPQ=="
 ---
 

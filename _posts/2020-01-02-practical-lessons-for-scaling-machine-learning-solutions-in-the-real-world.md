@@ -78,6 +78,15 @@ related:
       - url: https://www.bing.com/th?id=ON.C1F7A4F88456153D7C68C04023EB8F8A
         width: 700
         height: 316
+  - title: "Consider 3 questions before implementing machine learning or AI"
+    excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
+    publishedDateTime: 2020-01-08T03:50:00Z
+    sourceUrl: https://www.plantservices.com/industrynews/2020/consider-3-questions-before-implementing-machine-learning-or-ai/
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 19
 
 secured: "2Oo4VgRtsL7CRPr54pK64aQ4Upf+sXBWsuDPQkU7LE6iyJfC7JKSQKhMEtB+FOXtu1BZW0snBVKtODAjPDQkDyk3uuMf2OFiTN7JRs0DkJ3cEgviofD10zNHb2a7wPkr9XElXJd1dS2Erx+xvepNnbx2uk5I3LEGmDo5A/eufllVs+jOv/4eMyLuSYIwT8IVMkoJFLAaKBabSqKTmJy3vAyLFDdx5r2IEoOfP1nPcacIaX5y8f3xDHrgyfSGz7i0cJWvcuTA20XBtLxLO1Egkg==;Y15rFf5Y+JMYErcgThxQAg=="
 ---

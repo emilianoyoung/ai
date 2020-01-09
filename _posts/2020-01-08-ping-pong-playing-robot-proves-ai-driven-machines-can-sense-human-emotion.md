@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/ping-pong-playing-robot-
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ping-pong-playing-robot-proves-ai-driven-machines-can-sense-human-emotion/
 type: article
 quality: 103
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -56,21 +56,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 84
-  - title: "U.S. to outline strong support for self-driving cars at CES"
-    excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
-    publishedDateTime: 2020-01-08T17:06:00Z
-    sourceUrl: https://www.reuters.com/article/us-tech-ces-selfdriving-idUSKBN1Z72I1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1Z72I1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z72I1
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: https://www.bing.com/th?id=ON.29FAA086F693ACF22F2EDC2628B0951C
-        width: 700
-        height: 476
   - title: "U.S. outlines strong support for self-driving cars at CES"
     excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
     publishedDateTime: 2020-01-09T00:03:00Z

@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence tracks down acute myeloid leukaemia"
-excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
-publishedDateTime: 2019-12-26T04:57:00Z
-sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
+excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
+publishedDateTime: 2019-12-26T07:18:00Z
+sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
+cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: https://www.bing.com/th?id=ON.082816082A820C6CFDB350FFA78BF192
+    width: 700
+    height: 379
+    title: "Artificial intelligence tracks down acute myeloid leukaemia"
 
 related:
   - title: "Artificial intelligence tracks down leukemia"
@@ -88,6 +96,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "ZpjEQD3AaQZR5OVEn9gVKJ+fFi72c8mwUUB6407+eEldKyBnM3aJpDDRpQkACFyWfjfvw4oc7Z0yXpeJdZpit11NEXusF0j5crVsomUWexrr0mmT92IgjR+/oa0f7XWOyifXEHlQVo8JdTviQgXaS5d8vszQ9EaVHsUZWY8ZuTg/tyNrCE/aoxUpjUASimyhso1XwZ61ad+hRo0dY+VQ7TjUcB4PRbpG1mkKpgIcd/1/FfqkkxIxH0ZWad+NZO+pmbL5/lqsb0iqKdXVoSV2uA==;jYtnTko4QYGtY91yUmSpBQ=="
+secured: "Q6DMKTErbzZSqERtt4eni4Uvg0s1ZeTuehikj2SOMdROnk8xKndQX094g5zt/8UOzZeCSZqxejQMeQGhufSazWMuxHOiv7L2ui3Q6Aoand37+bSEnLCAfVKrH+QRm0iVJeJNNGQgmPv+Aw+4X4MCx7Jrk3gwZe0CC1vX+unwxNMkgo03+g1K2zkgY4m55U7h7ffbPVH+9X1tBVIH3UiBjVlYPiE86cU+gadMHkpyuLm7KwqwP+Dt12hVqzyCA+OIN/ffDNrIio1SJGqb4UrMAQ==;L9EXwQLqs6WdzJOP5NGhwQ=="
 ---
 

@@ -1,31 +1,38 @@
 ---
 category: news
-title: "How deep learning can transform your marketing results"
-excerpt: "Whether you outsource a deep learning solution to a vendor or bring that expertise in-house, here’s what marketers need to do to make deep learning work. Technology continues to push the boundaries of what’s possible for marketers. While most marketing executives understand that software can drive growth, not everyone is familiar with the ..."
-publishedDateTime: 2020-01-02T15:14:00Z
-sourceUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/
-ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
-cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+title: "Consider 3 questions before implementing machine learning or AI"
+excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
+publishedDateTime: 2020-01-08T03:50:00Z
+sourceUrl: https://www.plantservices.com/industrynews/2020/consider-3-questions-before-implementing-machine-learning-or-ai/
 type: article
-quality: 59
-heat: 109
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: Smart Insights
-  domain: smartinsights.com
+  name: Plant Services
+  domain: plantservices.com
 
 topics:
   - AI
-  - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.0113C3EFA92A9C277EF0AB9E8873C445
-    width: 700
-    height: 292
-    title: "How deep learning can transform your marketing results"
+  - AWS AI
 
 related:
+  - title: "How deep learning can transform your marketing results"
+    excerpt: "Whether you outsource a deep learning solution to a vendor or bring that expertise in-house, here’s what marketers need to do to make deep learning work. Technology continues to push the boundaries of what’s possible for marketers. While most marketing executives understand that software can drive growth, not everyone is familiar with the ..."
+    publishedDateTime: 2020-01-02T15:14:00Z
+    sourceUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/
+    ampUrl: https://www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+    cdnAmpUrl: https://www-smartinsights-com.cdn.ampproject.org/c/s/www.smartinsights.com/digital-marketing-strategy/how-deep-learning-can-transform-your-marketing-results/amp/
+    type: article
+    provider:
+      name: Smart Insights
+      domain: smartinsights.com
+    quality: 59
+    images:
+      - url: https://www.bing.com/th?id=ON.0113C3EFA92A9C277EF0AB9E8873C445
+        width: 700
+        height: 292
   - title: "3 Things to Consider Before Implementing Machine Learning or AI"
     excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
     publishedDateTime: 2020-01-07T17:48:00Z
@@ -78,16 +85,7 @@ related:
       - url: https://www.bing.com/th?id=ON.8B1CF287F86D1C97B703C9C6E5B3A30F
         width: 700
         height: 467
-  - title: "Consider 3 questions before implementing machine learning or AI"
-    excerpt: "Today’s cutting-edge research on cloud solutions for manufacturers highlights how artificial intelligence and machine learning have the potential to prevent downtime, improve safety, and reduce material waste. That’s exciting for industry leaders, who are always looking for ways to refine these core efforts. At AWS’s re:Invent conference ..."
-    publishedDateTime: 2020-01-08T03:50:00Z
-    sourceUrl: https://www.plantservices.com/industrynews/2020/consider-3-questions-before-implementing-machine-learning-or-ai/
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 19
 
-secured: "V1FzFcPcxnPmUak7QiLNLgelQpMAr7cVDvy93NklC7CjJmfUxIshbN8GGgSDLmexqZR0k5Q/FHmr3Uw0PIjFgb1TrDIg/l4opyehh9I8EuEHzP+zchPnV86lf5uWO9e0mGH94+yb3CooePtkiRPwUnNo16jn+BAROawRSY1Na22AE3f2WKTSFmj2BuCwFWLQRXqUj88xFCONkT4QoE94S5OSKnw7+2kbgFsiQzZF5GOf50FIb5cqmspSKH2XSG3GyTX0A8Mv/esKT0ahu4IL+Q==;Vqn5c5c7snewGkI5tDn+FA=="
+secured: "PWAsjIOa6AMPuf2hOboJAGuBkKUCzsYTc4HcC4xu30wAzKO0y7MLp94NFJfFgU5LX5AkwpKdbzvQYVYtGirmL1m+FCuz695Y9c70nLxOpgjxJndLFP04rdyXfN1d/hIkj9AKRwq7rAQYpL32LHCngXIlkUOwMff99IhbHbATqI0nxQ50XS9CtCeX/2OvUe4I0VCkguOtgMqQiP1IuQRQdLoK5+9HccSLIoPCJ+n/fidPUxF2ErLnI5O0ARif/7YpoyT9k/UYpQuSa5sD65cEgQ==;u7l8zpSbwZA0nFGhlyzSYw=="
 ---
 
