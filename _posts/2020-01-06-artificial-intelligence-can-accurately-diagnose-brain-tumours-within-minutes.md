@@ -39,6 +39,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
         width: 640
         height: 463
+  - title: "Artificial Intelligence can help diagnose brain tumours, says study"
+    excerpt: "The AI technique bested top American neuropathologists, including professionals from Columbia University, the University of Miami and the University of Michigan Artificial Intelligence (AI) based on a combination of deep-learning algorithms and laser-imaging technology can be utilised to examine brain tissue and detect a brain tumour in ..."
+    publishedDateTime: 2020-01-09T05:58:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece
+    ampUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.F60272D826013E045B1690813D43242B
+        width: 615
+        height: 384
   - title: "Artificial Intelligence matches human brain cancer diagnosis: study"
     excerpt: "PARIS, France - An Artificial Intelligence (AI) computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. More than 15 million people worldwide are diagnosed with cancer every year, and 80 percent of those will undergo surgery. In the United States ..."
     publishedDateTime: 2020-01-06T22:21:00Z

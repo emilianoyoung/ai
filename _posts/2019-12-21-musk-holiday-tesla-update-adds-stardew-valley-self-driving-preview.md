@@ -78,21 +78,6 @@ related:
       - url: https://mondrian.mashable.com/2019%252F12%252F20%252F12%252F1c0a887a9e2747f68c71386dd77d9ae8.dbd35.jpg%252F1200x630.jpg?signature=QlWeXGtn4lnpV4HbssIk-ipOnlo=
         width: 1200
         height: 630
-  - title: "Tesla full self-driving ‘sneak preview’ and more games coming in holiday update"
-    excerpt: "Tesla CEO Elon Musk tweeted tonight that Tesla has a “holiday update” with a few special gifts in store. The update includes a Tesla full self-driving “sneak preview” and popular indie video game “Stardew Valley,” among other things. Earlier this year, Musk said that full self-driving would reach “early access” by the end of ..."
-    publishedDateTime: 2019-12-20T04:12:00Z
-    sourceUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/
-    ampUrl: https://electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/19/tesla-full-self-driving-more-games-holiday-update/amp/
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 85
-    images:
-      - url: https://www.bing.com/th?id=ON.B90898698F3ABBC796748F33285C831F
-        width: 700
-        height: 337
   - title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
     excerpt: "The update has been in the works for some time now, but it's finally out now. It brings an early look at Tesla's full self-driving (FSD) tech, the new and improved \"Camping Mode,\" and various \"smart\" features. Let's start by digging a little deeper into the FSD preview, as it's simultaneously the most exciting and disappointing part of this update."
     publishedDateTime: 2019-12-26T20:11:00Z
@@ -149,17 +134,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/SGz80wlVK0MWY4WKcaF3KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjAuNjQ-/https://s.yimg.com/uu/api/res/1.2/ZQDr9coVPpFGavu5XynBQA--~B/aD01NjM7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/robb_report_967/6c6770320ed6c58bb5d644bec0e6d115
         width: 1000
         height: 563
-  - title: "Musk: Holiday Tesla update adds 'Stardew Valley,' self-driving preview"
-    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
-    publishedDateTime: 2019-12-20T04:34:00Z
-    sourceUrl: https://news.yahoo.com/2019-12-19-tesla-fsd-stardew-musk.html
-    ampUrl: https://news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
-    cdnAmpUrl: https://news-yahoo-com.cdn.ampproject.org/c/s/news.yahoo.com/amphtml/2019-12-19-tesla-fsd-stardew-musk.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 39
   - title: "Telsa Adds 'Stardew Valley' Dash Game & Offers Full Self Driving Preview For Holiday 2019"
     excerpt: "Essentially, this means we’ll have a closer look and understanding of how Tesla aims to introduced Full Self Driving into its line-up of semi-autonomous cars. No date has been confirmed for the release of the Holiday 2019 pack, but expect more Tweets from Musk soon noting when you can get the latest from your car. In related news, Tesla has l ..."
     publishedDateTime: 2019-12-20T15:39:00Z

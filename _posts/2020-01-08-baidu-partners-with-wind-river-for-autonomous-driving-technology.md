@@ -8,7 +8,7 @@ ampUrl: https://auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu
 cdnAmpUrl: https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/baidu-partners-with-wind-river-for-autonomous-driving-technology/73155435
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
         width: 700
         height: 459
+  - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
+    excerpt: "ON Semiconductor (Nasdaq: ON), driving energy efficient innovations, and Pony.ai, a leading autonomous driving technology company, announced today that they will collaborate on developing next-generat"
+    publishedDateTime: 2020-01-06T22:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "MxTSwGI5Cf8xUIyi9r8gYkNBq1SnIPoHuzPKo4/RC9o0E1OoW8nn+THU6cGNyIo4zJUEetK9ly6c+9sijTyxBHQRaqrKKdQK3irk8dI89jwmWh8wK+5Rpot+LEoE216yT4p9o0oMKVTklSJTuL7fal0EkTSdf1Asa1g1EbbKqXepa/edm8ZwJeSS88IqwUm1U+iD0CvH7CaW91FtE+y8s3N4tlEG9x3yMM3cPz00mmtxBa8AfVj5SZH/lFpQF71jdiJaRBuwoKvUESALfJCcFw==;NUrIwugdzE7i/y+3ko/Grw=="
 ---

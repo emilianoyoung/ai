@@ -1,45 +1,47 @@
 ---
 category: news
-title: "AI Can Now Diagnose Tumor In Just 2 Minutes"
-excerpt: "The complex, difficult and time-consuming task of diagnosing brain tumors from tissue samples extracted during surgery stands to become a relic of the past with the advent of a new technology based on artificial intelligence (AI) that can do this job in about two minutes with an ... intraoperative brain tumor diagnosis.\" Even more useful ..."
-publishedDateTime: 2020-01-07T08:38:00Z
-sourceUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034
-ampUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
-cdnAmpUrl: https://www-medicaldaily-com.cdn.ampproject.org/c/s/www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
+title: "Artificial Intelligence can help diagnose brain tumours, says study"
+excerpt: "The AI technique bested top American neuropathologists, including professionals from Columbia University, the University of Miami and the University of Michigan Artificial Intelligence (AI) based on a combination of deep-learning algorithms and laser-imaging technology can be utilised to examine brain tissue and detect a brain tumour in ..."
+publishedDateTime: 2020-01-09T05:58:00Z
+sourceUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece
+ampUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
 type: article
-quality: 157
-heat: 227
-published: true
+quality: 76
+heat: -1
+published: false
 
 provider:
-  name: Medical Daily
-  domain: medicaldaily.com
+  name: Business Line
+  domain: thehindubusinessline.com
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Healthcare
 
 images:
-  - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
-    width: 640
-    height: 463
-    title: "AI Can Now Diagnose Tumor In Just 2 Minutes"
+  - url: https://www.bing.com/th?id=ON.F60272D826013E045B1690813D43242B
+    width: 615
+    height: 384
+    title: "Artificial Intelligence can help diagnose brain tumours, says study"
 
 related:
-  - title: "Artificial Intelligence can help diagnose brain tumours, says study"
-    excerpt: "The AI technique bested top American neuropathologists, including professionals from Columbia University, the University of Miami and the University of Michigan Artificial Intelligence (AI) based on a combination of deep-learning algorithms and laser-imaging technology can be utilised to examine brain tissue and detect a brain tumour in ..."
-    publishedDateTime: 2020-01-09T05:58:00Z
-    sourceUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece
-    ampUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
-    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+  - title: "AI Can Now Diagnose Tumor In Just 2 Minutes"
+    excerpt: "The complex, difficult and time-consuming task of diagnosing brain tumors from tissue samples extracted during surgery stands to become a relic of the past with the advent of a new technology based on artificial intelligence (AI) that can do this job in about two minutes with an ... intraoperative brain tumor diagnosis.\" Even more useful ..."
+    publishedDateTime: 2020-01-07T08:38:00Z
+    sourceUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034
+    ampUrl: https://www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
+    cdnAmpUrl: https://www-medicaldaily-com.cdn.ampproject.org/c/s/www.medicaldaily.com/ai-can-now-diagnose-tumor-just-2-minutes-448034?amp=1
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 76
+      name: Medical Daily
+      domain: medicaldaily.com
+    quality: 157
     images:
-      - url: https://www.bing.com/th?id=ON.F60272D826013E045B1690813D43242B
-        width: 615
-        height: 384
+      - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
+        width: 640
+        height: 463
   - title: "Artificial Intelligence matches human brain cancer diagnosis: study"
     excerpt: "PARIS, France - An Artificial Intelligence (AI) computer model can diagnose and identify 10 of the most common types of brain cancer with the same accuracy as human doctors, researchers said Monday. More than 15 million people worldwide are diagnosed with cancer every year, and 80 percent of those will undergo surgery. In the United States ..."
     publishedDateTime: 2020-01-06T22:21:00Z
@@ -127,6 +129,6 @@ related:
         width: 600
         height: 315
 
-secured: "31ZDZwWoxMslZ9kCNWxZItri/IwBxKoBvbURb1ou5Svu9vt0kJhMVaKnujYmsma605ZSN76tCuorbis0ZGxvAih4aMyMQKeCE+TbRe8QD0pAszq5AX1WGuJUrFdvFJ999i1riGmAEdURh2waM3+N2C5qBv6uvKnbz4D5K0QeANc/yuIB2Lo+JfQfj2SCj+ufHPUAAIFIc1ThZu3QavZxZ5nfru0VrBYniR6Gyb6FsICqZVUwwI90dLY290CQzKpOMIjruHzf/TRncJDGsZegIg==;/M6CwFm82EhNQMPEy16mBQ=="
+secured: "OC+nSV3b93u6WPq49pGC2zyl9yiwMvWI6QnxNQGLB31U56RX9EFJtJUKvgYgdOHrMWwTE3xW2q4ewPfGd9EzDF52T2Q2CAIFSCuyvOiJmR2SMxR1zF7MXV8UFwAFXau3vhr6E99IMM2FnDoB7c1Vu18/Nm/S0rqxKSL7jqiOpVDY5q9o+VDsbVwG601GhoR6pUBadmFXhA796S1swWb4ETAoaYT1zufoORSJin8yh+uXqzz+nQBrQvOSAXFKDbTv1B7PwSJLMUgdw8dcUF6/Fg==;k5Vo3pc4uGxIyxvpNV76Yg=="
 ---
 

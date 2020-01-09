@@ -1,21 +1,32 @@
 ---
 category: news
-title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
-excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
-publishedDateTime: 2020-01-06T00:37:00Z
-sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
+title: "How AI And Robotics Can Change Taxation"
+excerpt: "The use of AI in taxation can revolutionize the way taxes are paid and how they are collected. From automating reports to improving risk management, AI and robotics can change the future of taxation."
+publishedDateTime: 2020-01-09T05:35:00Z
+sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/
+ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
+cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
 type: article
-quality: 0
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: /assets/images/organizations/forbes.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Autos
+
+images:
+  - url: https://www.bing.com/th?id=ON.B90435851A28B94EC9FDBDCFA1C405B0
+    width: 600
+    height: 315
+    title: "How AI And Robotics Can Change Taxation"
 
 related:
   - title: "Ping-pong playing robot proves AI-driven machines can sense human emotion"
@@ -48,21 +59,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
         width: 700
         height: 525
-  - title: "How AI And Robotics Can Change Taxation"
-    excerpt: "The use of AI in taxation can revolutionize the way taxes are paid and how they are collected. From automating reports to improving risk management, AI and robotics can change the future of taxation."
-    publishedDateTime: 2020-01-09T05:35:00Z
-    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/
-    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
-    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: https://www.bing.com/th?id=ON.B90435851A28B94EC9FDBDCFA1C405B0
-        width: 600
-        height: 315
   - title: "How AI and machine learning can detect changes in Mom's routine"
     excerpt: "CES 2020: Learn about a new product to keep seniors in their homes longer using machine learning and IoT. TechRepublic's Karen Roby is at CES 2020 in Las Vegas. She spoke with Ryan Herd, the founder of Caregiver Smart Solutions, about a product that uses AI and IoT to help seniors and their caregivers. The following is an edited transcript of ..."
     publishedDateTime: 2020-01-07T14:27:00Z
@@ -126,7 +122,16 @@ related:
       name: GlobeNewswire
       domain: globenewswire.com
     quality: 0
+  - title: "Yandex Self-Driving Offers Autonomous Car Demonstrations on Public Roads During CES 2020"
+    excerpt: "LAS VEGAS, Jan. 05, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ:YNDX), a technology company that builds intelligent products and services powered by machine learning, announced that it will be providing demonstration rides in its self-driving cars with no one behind the steering wheel on the public streets of Las Vegas during CES 2020. Following ..."
+    publishedDateTime: 2020-01-06T00:37:00Z
+    sourceUrl: https://finance.yahoo.com/news/yandex-self-driving-offers-autonomous-150010927.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
-secured: "AE3Wv1WhFZSp44GWIuFOux+1FRZmgXij8DRMoTStSoBlC3gdnMGo4iNUgZkVeV4Wzx5Tqd3v3SqJW6xinUgVUt4FiF5/A7ljQJ7hR4sLEa310neRkqkrn8E9pi88KmM6VdscW9aWIMJZKvleUAneQNe+gEVEN0cJLT9c73G4wFSsjPuYLx8xobmelRRgOw+rfqzXdkuzyZkgBRsrcSnLbR2pwQitD3kOG41AJ83X4CZaQXGqGu5dN3FJu3EZx0qwjJXXwvUmvn+OD6+d0SLBTg==;JNYfh9PP6JScizgJCsZOrA=="
+secured: "crJK32fsZARdC4exjJPq1f8rKYuadVZTReqq3WObnIL2QnVKUBMrK0/++2YZwezNAYhVFQW1QUoeXFBkwfmveobhtF7YTG3REFeGIIBOUPAnYBVABTSyyDc91EhoYFrkWUgI/GZeH+IK6bVrmGE07Q1QxOlF2JTJfQFOwtypTM6XFROVcxi9Y2DyxGWEEid9knR1IkPIeCabksml/uaunKuBvstY+eqJ7uAcI+lAeRrX1Z8R0/wHePadwH86QxAtnkciAf0Bxy6qJyIvW5QI6g==;GiDZ0cUWwuBXo4Wt/mT0Aw=="
 ---
 

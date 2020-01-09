@@ -54,6 +54,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
         width: 700
         height: 525
+  - title: "How AI And Robotics Can Change Taxation"
+    excerpt: "The use of AI in taxation can revolutionize the way taxes are paid and how they are collected. From automating reports to improving risk management, AI and robotics can change the future of taxation."
+    publishedDateTime: 2020-01-09T05:35:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.B90435851A28B94EC9FDBDCFA1C405B0
+        width: 600
+        height: 315
   - title: "U.S. outlines strong support for self-driving cars at CES"
     excerpt: "The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration’s latest principles for autonomous vehicles — dubbed 4."
     publishedDateTime: 2020-01-09T00:03:00Z

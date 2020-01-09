@@ -67,6 +67,15 @@ related:
       - url: https://www.bing.com/th?id=ON.0DED307B6DE5A282573DAEC38C14DDB9
         width: 700
         height: 459
+  - title: "ON Semiconductor and Pony.ai Collaboration on Next-Gen Image Sensing and Processing Technologies for Autonomous Vehicles"
+    excerpt: "ON Semiconductor (Nasdaq: ON), driving energy efficient innovations, and Pony.ai, a leading autonomous driving technology company, announced today that they will collaborate on developing next-generat"
+    publishedDateTime: 2020-01-06T22:32:00Z
+    sourceUrl: https://finance.yahoo.com/news/semiconductor-pony-ai-collaboration-next-160010440.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "dVaEYIjuHoxVjl2wFC8e7UiGz+4JShkvE6+WBsjONSeIUx3Iy9l3HCA9x2KmfmcS47Fz11jYH9jAhOC+ThM+4ZMSPB70PIpZD+FfEiotr0kA19h8rlNTo13zkZq/8xFm4eLxPP4OoPepgkFSsMcbNPcniPp0GoatuwCuyF0hTX1VS3+szMAdIvIoFzCKCiyrqO9XifHYOBfy5brJkIvABQ/F1VE/8tnOPiOckx+NKd8MSD27TcJi0KdAmzQAZ4wm/Uzs8pGHtYSDxZ6EtIXcoQ==;ofjrOhWqy3ilQaBr/T5ZCg=="
 ---

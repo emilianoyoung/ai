@@ -57,6 +57,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F057BB0AAF8C3BC001A3CD857F423B32
         width: 700
         height: 525
+  - title: "How AI And Robotics Can Change Taxation"
+    excerpt: "The use of AI in taxation can revolutionize the way taxes are paid and how they are collected. From automating reports to improving risk management, AI and robotics can change the future of taxation."
+    publishedDateTime: 2020-01-09T05:35:00Z
+    sourceUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/
+    ampUrl: https://www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/09/how-ai-and-robotics-can-change-taxation/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: https://www.bing.com/th?id=ON.B90435851A28B94EC9FDBDCFA1C405B0
+        width: 600
+        height: 315
   - title: "How AI and machine learning can detect changes in Mom's routine"
     excerpt: "CES 2020: Learn about a new product to keep seniors in their homes longer using machine learning and IoT. TechRepublic's Karen Roby is at CES 2020 in Las Vegas. She spoke with Ryan Herd, the founder of Caregiver Smart Solutions, about a product that uses AI and IoT to help seniors and their caregivers. The following is an edited transcript of ..."
     publishedDateTime: 2020-01-07T14:27:00Z

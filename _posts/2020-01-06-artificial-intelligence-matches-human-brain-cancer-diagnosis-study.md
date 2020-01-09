@@ -40,6 +40,21 @@ related:
       - url: https://www.bing.com/th?id=ON.6E1413E7D2ED234627226A7EA228772F
         width: 640
         height: 463
+  - title: "Artificial Intelligence can help diagnose brain tumours, says study"
+    excerpt: "The AI technique bested top American neuropathologists, including professionals from Columbia University, the University of Miami and the University of Michigan Artificial Intelligence (AI) based on a combination of deep-learning algorithms and laser-imaging technology can be utilised to examine brain tissue and detect a brain tumour in ..."
+    publishedDateTime: 2020-01-09T05:58:00Z
+    sourceUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece
+    ampUrl: https://www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+    cdnAmpUrl: https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/artificialintelligencecan-help-diagnose-brain-tumourssays-study/article30521276.ece/amp/
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.F60272D826013E045B1690813D43242B
+        width: 615
+        height: 384
   - title: "Study Finds AI Tech Improves Diagnosis of Brain Tumors"
     excerpt: "Hollon, the lead author, trained a convolutional neural network – a technology abbreviated as CNN that is better known for ... “This is the first prospective trial evaluating the use of artificial intelligence in the operating room,” Hollon said in a statement issued by the university. “We have executed clinical translation of an ..."
     publishedDateTime: 2020-01-06T22:38:00Z

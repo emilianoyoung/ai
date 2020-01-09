@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.F4ACE41A00EB0163B210C15E866358A4
         width: 300
         height: 250
-  - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out ... We, therefore, wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said. \"In the long term, we intend to apply this ..."
-    publishedDateTime: 2019-12-26T05:42:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.9C13B679BC278E1F3C17F50F17153D41
-        width: 700
-        height: 392
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
     publishedDateTime: 2019-12-26T07:18:00Z
@@ -95,6 +80,19 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Artificial intelligence can now track down blood cancer"
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through. Thus, there is an enormous data pool. We have collected virtually everything that is currently ..."
+    publishedDateTime: 2019-12-26T05:42:00Z
+    sourceUrl: https://asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    type: article
+    provider:
+      name: The Asian Age
+      domain: asianage.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.AFC5BAD606C85D0FABC71CA45D521056
+        width: 700
+        height: 392
 
 secured: "sIaIogcU6Hevn8u2L5nkuyChIoCi1QeUs1H/sYO6m7otsUIY4e0KxZXhZCpeviguaeH0mIChp2Co74fsgMVctEHNEzCos3aFhfVRfygcgV01mAtRX0CBMSVLVHwco53A3e7sfc3VfU/3lVrhnx//++WvYyRnhJjH/BjcdK5Rz1+Vd86e775gA3mWlzmsQthd3Mu/QH9PExsLOzJNiXl+6qqZ5MWGjIbHMnHctUAeJ7on5YFFLbYd0fbzZDM5UTFMQ7fSbTzmCuXMUL8ZTeJ/wg==;ipsnCv3Ecnxox86KMPWJfA=="
 ---
