@@ -34,6 +34,19 @@ related:
       - url: https://www.bing.com/th?id=ON.ADB16081C9D8A122CEFB0B39A5435DB9
         width: 700
         height: 373
+  - title: "Overcoming Bias in Artificial Intelligence, Machine Learning"
+    excerpt: "January 09, 2020 - Artificial intelligence is often seen as the silver bullet to the healthcare industry’s numerous problems. Machine learning technologies have been shown to more quickly and accurately read radiology scans, identify high-risk patients, and reduce provider’s administrative burden. But recent studies have revealed the ..."
+    publishedDateTime: 2020-01-09T14:32:00Z
+    sourceUrl: https://healthitanalytics.com/news/overcoming-bias-in-artificial-intelligence-machine-learning
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.FD1964989E5B81287E5D2E14B3093956
+        width: 690
+        height: 400
   - title: "10 Leading tech trends: How artificial intelligence will evolve in the coming year"
     excerpt: "The following are highlights from the Academy’s predicted top 10 trends in the tech community for this year: Artificial intelligence evolves from perceptual intelligence to cognitive intelligence Artificial intelligence has reached or surpassed humans in the areas of perceptual intelligence such as speech to text, natural language processing ..."
     publishedDateTime: 2020-01-06T06:52:00Z

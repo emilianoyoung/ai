@@ -33,21 +33,6 @@ related:
       - url: https://www.bing.com/th?id=ON.D7E872AB31C6CBA3BBE8155071BCD622
         width: 700
         height: 525
-  - title: "The 8 coolest robots spotted at CES 2020"
-    excerpt: "Ballie is a small, round, rolling robot that is designed to support, understand, and react to the needs of its owner, specifically in households. With on-device artificial intelligence (AI) capabilities, Ballie uses sensors and data within the home to create immersive experiences for the user. Ballie can connect with and control other smart ..."
-    publishedDateTime: 2020-01-07T19:49:00Z
-    sourceUrl: https://www.techrepublic.com/article/the-8-coolest-robots-spotted-at-ces-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.BC9F8F12A87F2C390C6AB20644FDD5EF
-        width: 700
-        height: 525
   - title: "CES 2020: LG talks AI, OLED TVs and smart home appliances"
     excerpt: "The company's LGThinQ will apparently figure out when appliances like its Washer need maintenance and if you're using them wrong. LG Electronics went big on AI, TVs and home appliances as it kicked off Monday's CES 2020 press conferences before the CES show floor throws open its doors Tuesday. The Korean company showed off its 2020 wares to a ..."
     publishedDateTime: 2020-01-06T17:53:00Z
@@ -164,21 +149,6 @@ related:
       - url: https://www.bing.com/th?id=ON.665D223E61352879E76A4F847DE2732B
         width: 640
         height: 427
-  - title: "CES 2020: Samsung shows off ball-shaped ‘Ballie’ robot, new gaming monitor lineup"
-    excerpt: "One of the quirkiest technologies that Samsung showed off at CES 2020 is a robot butler. Ballie is a ball-shaped artificial intelligence (AI)-powered rolling robot that helps users around their house. The video shared by the company shows the extent of Ballie’s capabilities, which includes opening the smart curtains at a pre-defined time ..."
-    publishedDateTime: 2020-01-07T07:34:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM.html
-    ampUrl: https://m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.8CFF430863A1D77F8C64C27827616D63
-        width: 700
-        height: 393
   - title: "Ambarella introduces new high performance camera chips for autonomous cars at CES 2020"
     excerpt: "Ambarella, an AI vision silicon company, today announced the CV22FS and CV2FS automotive camera system on chips (SoCs) with ‘CVflow’ AI processing and ASIL B compliance to enable safety-critical applications. Both chips target forward-facing monocular and stereovision ADAS cameras, as well as computer vision ECUs for L2+ and higher levels ..."
     publishedDateTime: 2020-01-06T11:20:00Z
@@ -248,19 +218,6 @@ related:
       - url: https://www.bing.com/th?id=ON.38E61986F3A60416F4D0FA3FD2793E68
         width: 700
         height: 366
-  - title: "Autonomous driving to take off in 2020, China robotaxi CEO says"
-    excerpt: "The taxi departed, stopped and changed lanes all on its own. After studying in the U.S., Han developed self-driving tech for Baidu at the Chinese company's Silicon Valley location. Han left the search engine giant to co-found WeRide in 2017, and the startup has traced a rapid ascent. \"Right now, we operate about 100 robotaxis, and so far we've ..."
-    publishedDateTime: 2020-01-06T23:01:00Z
-    sourceUrl: https://asia.nikkei.com/Business/China-tech/Autonomous-driving-to-take-off-in-2020-China-robotaxi-CEO-says
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: https://www.bing.com/th?id=ON.A697F5F9F837897450E473404EF4FA36
-        width: 700
-        height: 350
   - title: "Audi's self-driving car goes for a spin at CES"
     excerpt: "Audi's autonomous car is taking people on self-driving trips at the CES technology show in Las Vegas.The German car manufacturer launched the AI:Me autonomous concept car in 2019, but at CES it drives autonomously around a rooftop carpark."
     publishedDateTime: 2020-01-07T13:56:00Z

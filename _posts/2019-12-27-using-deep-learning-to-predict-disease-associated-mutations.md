@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Using deep learning to predict disease-associated mutations"
-excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
-publishedDateTime: 2019-12-27T16:39:00Z
-sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
-ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
-cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
+excerpt: "A research team implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years ..."
+publishedDateTime: 2019-12-27T22:39:00Z
+sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: /assets/images/organizations/sciencedaily.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
-    width: 700
-    height: 266
-    title: "Using deep learning to predict disease-associated mutations"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -306,6 +302,6 @@ related:
         width: 592
         height: 568
 
-secured: "+azpzT2WhBknwO4FDzeW7QinY/TT/oLme5ryjBVwY2811x1Ufp+Reeq5Z3cXmx+7PT00/ugQ0D+PmGl+sUYe6loyq+7GIq3g/LTXsK8GJBn4016naXVDVYQ7TxVZ8TGW7+O6s5SLJrQcj37WfJnBgkognJYvliVKNgTtSpYhRhvPIoGyQfgIEXANHR7UAYH7jsnRlRoTR1LcQkFG5IMDPs3Zdru4N17Pml6aLBFC5CIHGOb63z8pv3EkoQLCD5SB+ShRJB4Ec4MaDT+LP7k1EQ==;y93U2wD6Qugo6P/HXKi06A=="
+secured: "XUq4N/xghcbm2v28NVQBsLKZKzaQQY9kLke31+OQc+qV3ZrJp15jjym0lGiGi7kityICL4zj+3p+k8R/nL/aXOsQf1nlFh4PoYjRo1rmEasy5V7KIM+EkYeNRyxVbqVnnKLo5jLbPMDpaRoczR66ft41czBI1p0TrHu8S2t2UPiv4OHPp+q8vfu5hXyK+5pqB2KGBi8oMvE5BAyIrQKWBVdcMpIhYMSPVbA5h0JrZTgnOA76M7MfEijD+YoN+Yw7XJj7WOG0mKJa6uyWv8k8dQ==;/atkZkqdE3FtuyCigLsnVA=="
 ---
 

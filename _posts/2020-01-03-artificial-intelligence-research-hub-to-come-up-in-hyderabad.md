@@ -51,6 +51,15 @@ related:
       - url: https://www.bing.com/th?id=ON.A77D479665F48AED00BA5584011766E9
         width: 700
         height: 415
+  - title: "Ajman Department of Ports and Customs Launches Artificial and Business Intelligence (AI/BI) Powered Services"
+    excerpt: "launched in November 2018 an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government's strategy"
+    publishedDateTime: 2020-01-09T14:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/ajman-department-ports-customs-launches-143500570.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "7oF7OWdmJqCc1ezde+3Z4sUMrQYe/6QAomMrvOPddAFjceRMZzPGbGrTeFnqaN+7FdCKJSTh6FqQI1xDf8E2v0prgd712qCOFkLOdc0pN4NJ9gFPoX5FuCY1zh/4sq0GhhrQrzwQOr8kuIvBtzFp+RELf61ZF4gwX+XMJYadtjE6Z6IvGBJgJr8rN2lgqCSjr3HeJv2LVc7S0krtXy6aa+yPily1EcYa+m/dQrtnraBLmQbe7yg9YMyEP2D92CrWz7PFAo/CgH1XVh9v+swHCA==;xAX+IsAEYyufOKuqH58lSg=="
 ---

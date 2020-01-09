@@ -8,7 +8,7 @@ ampUrl: https://amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4
 cdnAmpUrl: https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/church-england-investment-big-tech-35a0d65c-93be-4f8a-8e0b-5a2fe72369e5.html
 type: article
 quality: 105
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -137,15 +137,6 @@ related:
       - url: https://www.bing.com/th?id=ON.BB0F6755733DA91D3C8A709FEF6CA54B
         width: 640
         height: 480
-  - title: "Artificial Intelligence Robotics Market Potential Growth, Share, Demand And Analysis Of Key Players- Research Forecasts To 2025"
-    excerpt: "The report offers extensive study of the global Artificial Intelligence Robotics market pertaining to the key opportunities and drivers that are influencing the market growth. Key emerging trends and their impact on the present as well as upcoming market developments are also mapped in the report. Moreover, the report throws light on the ..."
-    publishedDateTime: 2019-12-20T13:07:00Z
-    sourceUrl: https://www.openpr.com/news/1882491/artificial-intelligence-robotics-market-potential-growth
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
 
 secured: "O2amSTmBvRfu4Gi6eeOea9WhhPOi7Q4hwuSPG83rgA5fFEY9mJfbWE4YT/qkC5xuxU10cvTLbmTyfi83qabqQjVUyA7lCl6Y9PRborZzocp7ODPxzSwHUdGLEgeHji9Tgrkx+IhY/BuyhhlHmy3vud+iBWyr6zztp0lOWDV6WoGPLaK6PyFAy26Fu4jSeobbsSqyPrHRFhwhXr81SId7Ck8efT/P9uuVwh5nurMErHjsUEtGHMLHB9S5bYmeNHZ4V0eO9Fk7tQA23xvHPXlf3g==;IEjQg49ffDfe3ms7ThvSpg=="
 ---

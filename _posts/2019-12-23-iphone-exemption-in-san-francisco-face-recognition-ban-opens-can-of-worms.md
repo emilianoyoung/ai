@@ -502,17 +502,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
         width: 480
         height: 251
-  - title: "Black and Asian faces misidentified more often by facial recognition software"
-    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
-    publishedDateTime: 2019-12-20T13:25:00Z
-    sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
-    ampUrl: https://www.cbc.ca/amp/1.5403899
-    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 36
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
@@ -589,19 +578,6 @@ related:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
     quality: 26
-  - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-    publishedDateTime: 2019-12-20T13:32:00Z
-    sourceUrl: https://www.pix11.com/news/national/federal-study-finds-race-gender-affect-face-scanning-tech
-    type: article
-    provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 24
-    images:
-      - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
-        width: 1200
-        height: 630
   - title: "Government study finds racial bias in facial-recognition tech"
     excerpt: "A new federal study from the National Institute of Standards and Technology has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. Yahoo Finance's Tech Editor Dan Howley joins The Final Round to discuss"
     publishedDateTime: 2019-12-20T21:29:00Z

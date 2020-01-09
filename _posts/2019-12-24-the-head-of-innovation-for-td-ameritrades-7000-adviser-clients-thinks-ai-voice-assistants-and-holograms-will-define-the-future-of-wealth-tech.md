@@ -6,7 +6,7 @@ publishedDateTime: 2019-12-24T15:18:00Z
 sourceUrl: https://markets.businessinsider.com/news/stocks/td-ameritrade-institutional-innovation-director-on-artificial-intelligence-voice-tech-2019-12-1028783981
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -28,95 +28,19 @@ images:
     title: "The head of innovation for TD Ameritrade's 7,000 adviser clients thinks AI, voice assistants, and holograms will define the future of wealth tech"
 
 related:
-  - title: "Mediaplanet and Dr. Mike Discuss the Future of Healthcare"
-    excerpt: "healthcare will be connected more than ever before in the past. Innovations that utilize everything from artificial intelligence, data, and analytics to virtual reality are creating better health outcomes for the population as whole. Doctors and health systems have been slow to adopt these crucial technologies, but it is key to improving the ..."
-    publishedDateTime: 2019-12-20T14:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
-    ampUrl: https://markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
-    cdnAmpUrl: https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mediaplanet-and-dr-mike-discuss-the-future-of-healthcare-1028779391
+  - title: "Listening in? How voice assistants lost their innocence in 2019"
+    excerpt: "It's important that humans intervene to gauge whether the voice assistant’s interpretation of requests is accurate, and to train its speech recognition and natural language processing algorithms, a machine-learning practice known as \"supervised learning.\" Simply providing general input data and then letting the software learn on its own isn't ..."
+    publishedDateTime: 2019-12-30T04:10:00Z
+    sourceUrl: https://www.thestar.com.my/tech/tech-news/2019/12/30/listening-in-how-voice-assistants-lost-their-innocence-in-2019
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Healthcare start-up Qure.ai develops software to provide fast and accurate diagnosis of Tuberculosis"
-    excerpt: "Founded in 2016, Qure.ai uses deep learning and Artificial Intelligence (AI) to bring access to quality healthcare, especially in remote areas. “We work closely with NITI Aayog and the Piramal Foundation’s Piramal Swasthya initiative, to leverage AI to enable faster diagnosis of TB in remote areas,” Warier said. To fulfill the vision of ..."
-    publishedDateTime: 2019-12-26T07:57:00Z
-    sourceUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.html
-    ampUrl: https://www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
-    cdnAmpUrl: https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2019/dec/26/healthcare-start-up-qureai-develops-software-to-provide-fast-and-accurate-diagnosis-of-tuberculosis-2081128.amp
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.CCD7DD67820537C62988E7A09CEBFF21
-        width: 600
-        height: 390
-  - title: "How VDO.AI is building the future of Internet advertising"
-    excerpt: "Gurgaon, Haryana, India: Business Wire India: Advertising technologies are undergoing a transformation. VDO.AI is the technology innovator in digital video. The company which derives its name, VDO.AI from its raison d’etre- the integration of video content with advanced targeting capabilities, has already reached over 300 million people ..."
-    publishedDateTime: 2019-12-23T11:03:00Z
-    sourceUrl: https://www.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J.html
-    ampUrl: https://m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/brand-post/how-vdo-ai-is-building-the-future-of-internet-advertising/story-O4i8eSsZpY7v0LBni6YT2J_amp.html
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
-    images:
-      - url: https://www.bing.com/th?id=ON.54FCCC73E0A0B25C8E5F8DC1CC6DCFB7
+      - url: https://www.bing.com/th?id=ON.9FE6CFF7EB58FC71650CF1D4AF8BBDAC
         width: 700
-        height: 393
-  - title: "NAM report: The success of healthcare AI depends on building consensus"
-    excerpt: "Without shared ideas and goals regarding the use of artificial intelligence in healthcare, the technology is unlikely to ever reach its full life-saving, quality-improving potential, suggests a new report from the National Academy of Medicine. In \"Artificial Intelligence in Health Care: The Hope, the Hype, the Promise, the Peril,\" NAM members ..."
-    publishedDateTime: 2019-12-20T18:23:00Z
-    sourceUrl: https://www.beckershospitalreview.com/artificial-intelligence/nam-report-the-success-of-healthcare-ai-depends-on-building-consensus.html
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg
-        width: 400
-        height: 300
-  - title: "Mayo Clinic Names Health IT Vet to Head Its Digital Health-Care Businesses"
-    excerpt: "The Mayo Clinic has named health-care technology veteran John Halamka as the head of its digital health-care businesses. One of his focus areas will be looking at how neural networks, machine learning and artificial intelligence can improve health care."
-    publishedDateTime: 2019-12-23T12:24:00Z
-    sourceUrl: https://www.wsj.com/articles/mayo-clinic-names-health-it-vet-to-head-its-digital-health-care-businesses-11577097000
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 52
-    images:
-      - url: https://www.bing.com/th?id=ON.E8C81C1BD49BE4D51DE0CE9EA53183E9
-        width: 700
-        height: 350
-  - title: "Healthcare On Cloud Nine: Top 8 Benefits Of Healthcare-Cloud Merger"
-    excerpt: "Empowering patients and clinicians with analytics, the recent wave has health organizations leveraging real-time data-driven solutions, artificial intelligence, and cloud services to align with the culture of preventive and wellness-centric care. The cloud will be central to future digital transformations in healthcare. What is uncertain for ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/healthcare-on-cloud-nine-top-benefits-of-healthcare-cloud-merger-0001
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 39
-    images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
-  - title: "Imagia Partners With Top US And Canadian Hospitals To Facilitate AI Accelerated Healthcare Discoveries"
-    excerpt: "Imagia, a leading healthcare AI company that unites healthcare expertise and advanced artificial intelligence technology to improve patient outcomes, today announced EVIDENS partnerships with the following major North American hospitals: Center hospitalier universitaire de Québec - Université Laval, Centre intégré universitaire de santé et ..."
-    publishedDateTime: 2019-12-20T14:03:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/imagia-partners-with-top-facilitate-ai-accelerated-healthcare-discoveries-0001
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 18
+        height: 524
 
 secured: "pOGxLJbmv7Z51LpYKA+YNJDyAnGw1tU5LZdPATw/ulc64Mp+tVaMhEfwihjqvkwx+BTk5XE7pxEYJhLLWi+WS1blWieTveCwwE4ckOsFlqZNb3tVqvHBpOzr+9CFCdPKL3aX0dfw0u3KoKCkC9uOfNfX5NcZLtgmYfz54KDvq/6IvpGjIYj+up1sfGG5/xTqcNsA5Rou9JaCNPUxSGHBCPjTTKUmVu+6IEAzb6FK/6u9/a/Np4CQ8MF/6Qyxt/SgHWcqEd6MlyIYH/b0TiePvw==;g1IaT104intMkJOjZ2mOeg=="
 ---

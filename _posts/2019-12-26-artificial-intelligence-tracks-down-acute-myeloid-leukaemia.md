@@ -79,15 +79,15 @@ related:
       domain: sciencedaily.com
     quality: 49
   - title: "Artificial intelligence can now track down blood cancer"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T11:12:00Z
-    sourceUrl: https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    ampUrl: https://www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
-    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/lifestyle/health-and-wellbeing/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    excerpt: "Artificial intelligence tracks down acute myeloid leukaemia ... This approach could support conventional diagnostics and accelerate therapy of the disease. \"Some studies have been carried out on this topic and the results are available through."
+    publishedDateTime: 2019-12-26T05:46:00Z
+    sourceUrl: https://www.asianage.com/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    ampUrl: https://www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
+    cdnAmpUrl: https://www-asianage-com.cdn.ampproject.org/c/s/www.asianage.com/amp/life/health/261219/artificial-intelligence-can-now-track-down-blood-cancer.html
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: The Asian Age
+      domain: asianage.com
     quality: 39
 
 secured: "dNUomG9/Agsvi7S2TMbVV85HV9DEpw+ar5H8wg4n1VCg6qjPkzliDMk++RmuNhO6QVScBwurJ2R+i+ZqXth5ZWUco8Z9lU+V+jD/zmksgX/+IjgkMyZzuHDAaE657jcTFLWKbuhJiZwxysXzGHXWV2RCm3dESVfjV37tVxqW2eRikkFI+toc06D9YFbpTAGsuZmuuerfUckCDgbVrhNvAp6Jlr+nn6Hs+wSDLxa7s0C7kM4ypg3XmvAHcNyHcRTwu+39PXntMLD+m/IoY0+BeA==;RKH2jtLm1/IS51tvxDM7Sw=="

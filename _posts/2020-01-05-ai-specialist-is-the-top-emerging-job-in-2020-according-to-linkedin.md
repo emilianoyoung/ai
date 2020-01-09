@@ -164,21 +164,6 @@ related:
       - url: https://www.bing.com/th?id=ON.2396890D089F2BC96A690A8D32E6A78D
         width: 600
         height: 315
-  - title: "Using deep learning to predict disease-associated mutations"
-    excerpt: "A research team led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU), in collaboration with Professor Junwen Wang from Mayo Clinic, Arizona in the United States (a former HKU colleague), implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in ..."
-    publishedDateTime: 2019-12-27T16:39:00Z
-    sourceUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.html
-    ampUrl: https://phys.org/news/2019-12-deep-disease-associated-mutations.amp
-    cdnAmpUrl: https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2019-12-deep-disease-associated-mutations.amp
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.66A492AEE99C3898BB539082B39D91E8
-        width: 700
-        height: 266
   - title: "Telangana to train 30K students in AI in 3 years"
     excerpt: "The next pillar, which is developing talent, aims to train 30,000 students in AI, ML, Data Science and DL in the next three years. One of the most important pillars of the framework is governance, ethics and privacy,” he explained. Sharing the government’s goal for 2020, Rama Rao concluded by saying, “Our primary goal is to attract and ..."
     publishedDateTime: 2020-01-03T02:18:00Z
@@ -237,6 +222,15 @@ related:
       - url: https://www.bing.com/th?id=ON.5A68C7E2C4F1AA3E9B841E170DD06194
         width: 700
         height: 393
+  - title: "Using deep learning to predict disease-associated mutations"
+    excerpt: "A research team implemented a robust deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. This is the first deep learning approach for the prediction of disease-associated metal-relevant site mutations in metalloproteins, providing a new platform to tackle human diseases. During the past years ..."
+    publishedDateTime: 2019-12-27T22:39:00Z
+    sourceUrl: https://www.sciencedaily.com/releases/2019/12/191227104942.htm
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
     publishedDateTime: 2019-12-29T00:06:00Z

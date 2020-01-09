@@ -1,26 +1,26 @@
 ---
 category: news
 title: "FLIR Systems and ANSYS to Speed Thermal Camera Machine Learning for Safer Cars"
-excerpt: "The FLIR thermal dataset programs were created for machine learning in advanced driver assistance development (ADAS), AEB, and AV systems. The current AV and ADAS sensors face challenges in darkness or shadows, sun glare and inclement weather such as most fog."
+excerpt: "The FLIR thermal dataset programs were created for machine learning in advanced driver assistance development (ADAS), AEB, and AV systems. The current AV and ADAS sensors face challenges in darkness or shadows, sun glare and inclement weather such as most fog. Thermal cameras, however, can effectively detect and classify objects in these ..."
 publishedDateTime: 2020-01-07T12:07:00Z
-sourceUrl: https://www.ksl.com/article/46700910/flir-systems-and-ansys-to-speed-thermal-camera-machine-learning-for-safer-cars
+sourceUrl: https://www.businesswire.com/news/home/20200107005299/en/FLIR-Systems-ANSYS-Speed-Thermal-Camera-Machine
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: KSL
-  domain: ksl.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Machine Learning
 
 images:
-  - url: https://www.bing.com/th?id=ON.4F521360CF624CACA23D6FCAB9DF8A0B
-    width: 614
-    height: 345
+  - url: https://www.bing.com/th?id=ON.F69BF60D772CD1A28B61771E2D7302FD
+    width: 700
+    height: 365
     title: "FLIR Systems and ANSYS to Speed Thermal Camera Machine Learning for Safer Cars"
 
 related:
@@ -34,6 +34,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "KYYE5Yi0Q0cBBKYqG5R0UBFC+cgA7+geUSZ8zjrzye+3+Nucvt0ALNDNaVIvJT2aBXkweNVzMbaEKmlJUob7E2RZmyuLmhN0Lvw5bnVEa1jCqL28Z5xPqZ6/AO5d/FANGizi0naXXEUmyhtkJPU2aFOwsnK09Bd9fApA1uanvUwm5Q91doTeIY5U/vm/aq9WakaUSHUKhz0SL5UJKCNX3ivpjIxvEZpJdVW6ngr/CUEpAguLx9HSFYNcacd65vu+9Fv4MNGGNU5NqZLUf2RcRw==;SQxzUcRkBthxGexdvXuRxg=="
+secured: "zYtWsTIKHX88gthMwnai3i2BY7uwai8di0LHsv67F5/XyRvaEB4/FO8mX55jCR8nPAaF6CbCtpGoPMmYhD6335qMh1DyWmRzrfgqyCd+XvVUFwGaQRGDrKBT80GxJbzoylgC40ogeumjZpQE7Bc3V7uED66iyhAPmfaakhplbsuvNmSRb7Sdfi4uFSxJ+aW8t9Lz3JM9k5FMk+izjXPQIGaj5I/qy3NCVPgZaw2HI4F8VBYFNWVBc6cSJELY/z+ioW8yhp/fskk3Dq7z44CaoQ==;GhLeowN+Sw7dYXxZ9jKWIg=="
 ---
 

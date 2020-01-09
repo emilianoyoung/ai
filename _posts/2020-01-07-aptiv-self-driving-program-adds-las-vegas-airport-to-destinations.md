@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
+  - title: "Telecom Stock Roundup: Qualcomm Boosts Self-Driving, Ericsson's IoT Drive & More"
+    excerpt: "In the past five trading days, telecom stocks trended down as geopolitical tensions rattled the market and threatened to spoil the initial euphoria associated with the likely signing of the “Phase One” trade deal between the United States and China."
+    publishedDateTime: 2020-01-09T13:57:00Z
+    sourceUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09
+    ampUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "U.S. to Outline Strong Support for Self-Driving Cars at CES"
     excerpt: "LAS VEGAS — The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles -- dubbed 4.0, which she says unifies ..."
     publishedDateTime: 2020-01-08T21:01:00Z

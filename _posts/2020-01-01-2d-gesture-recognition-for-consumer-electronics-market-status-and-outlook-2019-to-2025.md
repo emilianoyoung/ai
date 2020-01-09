@@ -44,6 +44,21 @@ related:
       - url: https://www.bing.com/th?id=ON.5161C6BF0D86F009C8522D2A00DB4998
         width: 700
         height: 437
+  - title: "Facial and voice recognition in cars sounds like a privacy nightmare"
+    excerpt: "With this conceptual system, cameras and sensors pick up everything you do in the car. Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data analytics company executive Colin Sutherland told me in a recent ..."
+    publishedDateTime: 2020-01-09T14:42:00Z
+    sourceUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/
+    ampUrl: https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    cdnAmpUrl: https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 76
+    images:
+      - url: https://www.bing.com/th?id=ON.8C342A103904B414ED1D7EC9E777DA51
+        width: 700
+        height: 367
   - title: "Image Recognition Market New Research Report| Attrasoft Inc, NEC Corporation, Google Inc"
     excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning Imaging, Security Surveillance, Marketing Advertising, Image Search, Segmentation on the ..."
     publishedDateTime: 2020-01-02T12:05:00Z

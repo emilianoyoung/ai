@@ -8,7 +8,7 @@ ampUrl: https://m.hindustantimes.com/tech/artificial-intelligence-research-hub-t
 cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/artificial-intelligence-research-hub-to-come-up-in-hyderabad-soon/story-qQv2BBu6sidulEy1SBLNRM_amp.html
 type: article
 quality: 137
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       - url: https://www.bing.com/th?id=ON.A77D479665F48AED00BA5584011766E9
         width: 700
         height: 415
+  - title: "Ajman Department of Ports and Customs Launches Artificial and Business Intelligence (AI/BI) Powered Services"
+    excerpt: "launched in November 2018 an Integrated Customs System positioning the Emirate at the forefront of digital transformation in international trade and in conformity with the UAE Government's strategy"
+    publishedDateTime: 2020-01-09T14:41:00Z
+    sourceUrl: https://finance.yahoo.com/news/ajman-department-ports-customs-launches-143500570.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 0
 
 secured: "Pwe9Ramxh2w9W03spLQOOIN9JkDzdysCZYC565twuzytFaDoJSiTg8Qaoa/mmE+teqxqNhMCood7JQEdvNhDYN4n8pZUVtxhdPJMjbjgskxCeeR1hqgA3MC/sYdVA1J6M1SjVJcYZ8BdNlls2Ew5sIGrzxBeI9WR4VT2C3SDdo0wJzDbYcDuf/tspNbcdv5q8vG55KrmE4IrSIUN4hoNLwksAYZVugaO6x8T18HAsHN1q0XYdh7kDEsbH+DxOHqFLGEZCWxumf9RUGZhKhoEN5btZZWMpgm5kribur/fgII=;2mPAHgK0hwkCJ4rvfQOE1w=="
 ---

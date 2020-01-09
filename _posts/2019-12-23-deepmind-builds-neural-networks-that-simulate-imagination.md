@@ -1,29 +1,32 @@
 ---
 category: news
 title: "DeepMind Builds Neural Networks that Simulate Imagination"
-excerpt: "Incorporating imagination into artificial intelligence(AI) agents have long been an elusive goal of researchers ... Last year, they published a new revision of a famous research paper that outlined one of the first neural network architectures to achieve this goal. How can we define imagination in the context of AI agents?"
-publishedDateTime: 2019-12-23T17:24:00Z
-sourceUrl: https://towardsdatascience.com/deepmind-builds-neural-networks-that-simulate-imagination-921b31903705
+excerpt: "Recently, I’ve been spending time on a couple of scenarios that relate to imagination in deep learning systems which reminded me of a very influential paper Alphabet’s subsidiary DeepMind published last year in this subject. Imagination is one of those ..."
+publishedDateTime: 2019-12-23T14:36:00Z
+sourceUrl: https://medium.com/@jrodthoughts/deepmind-builds-neural-networks-that-simulate-imagination-921b31903705
 type: article
-quality: 56
-heat: 56
-published: false
+quality: 69
+heat: 69
+published: true
 
 provider:
   name: Medium
-  domain: towardsdatascience.com
+  domain: medium.com
+  images:
+    - url: /assets/images/organizations/medium.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - Machine Learning
   - Google AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.4E3B3FA566ED7973E955F10C61B212C1
-    width: 700
-    height: 393
+  - url: https://miro.medium.com/max/946/1*F9Mxz-_Uqf7QOsCcXIkuUw.jpeg
+    width: 946
+    height: 532
     title: "DeepMind Builds Neural Networks that Simulate Imagination"
 
-secured: "M7BH4MSzaCbcg+8JfgdO3gHAJV3U9942J8YHzo31A3TsNvJ6tc7zmpz7xuH0GgUqRdcH+e6vMGij/ho96L7u2ZDP0irYgYbiOQH8KEtV8lyVZoBL8LMFAWqIDb0xdgXFLMY+iTSxhl22W2bFxrNIMG84IQmtT/h1qrVzpUSMfJrFmhQ5slXZsn7GLi0zAD1zsbblxBzWmLB8MlpMYwXTpraTJv1PovW6TXIRpcduWIkHQe9FES47C/vm4oStW8e+1ckF9AZkHJ7y7lSlXYi0Ng==;mNpGNjRrfV3BqakfCHJF1Q=="
+secured: "yVKWtgCZw8kzyqfvCD0REau72FKgualOxvNNSWPMO2dFZyjpFaAfyB2KuSoOp4NFluENc0g8Mh7DJe7gXIacXVAz6PUsVfiuIcM0aY/KLZFCQBg4pZbuK0ii4An0YtHjpe/ieRUR/eg/y3hk9jJUnujFNvedIy2L5SZ/2Q79Yto1ZdAz/EwaZHZhIqq+vtRyrG/MXikxdCeuH0tNW5x6QRif00ZTLXPM3hkQlpROE2/WfAQEtuk7izwZWCWsE6Epa6ePyq//njB3oWryMnzGxQ==;UranwIM0MLvyvL+YYTQBOg=="
 ---
 

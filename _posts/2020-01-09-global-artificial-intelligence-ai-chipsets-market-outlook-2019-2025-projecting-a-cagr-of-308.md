@@ -2,21 +2,21 @@
 category: news
 title: "Global Artificial Intelligence (AI) Chipsets Market Outlook, 2019-2025: Projecting a CAGR of 30.8%"
 excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Intelligence (AI) Chipsets Market 2019-2025\" report has been added to ResearchAndMarkets.com's offering. The artificial intelligence chipset market is anticipated to grow at a CAGR of 30."
-publishedDateTime: 2020-01-09T12:38:00Z
-sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
+publishedDateTime: 2020-01-09T11:39:00Z
+sourceUrl: https://www.benzinga.com/pressreleases/20/01/g15097326/global-artificial-intelligence-ai-chipsets-market-outlook-2019-2025-projecting-a-cagr-of-30-8
+ampUrl: https://amp.benzinga.com/amp/content/15097326
+cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15097326
 type: article
-quality: 39
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - AI in Robotics
-  - AI in Healthcare
   - AI Hardware
 
 related:
@@ -224,6 +224,6 @@ related:
       domain: globenewswire.com
     quality: 0
 
-secured: "TznRdWi1FN3I/2lmA7sjle8maE0YZ+5z3bcHrn+4MbQoUyNAWpjtu7QSjiaFuMoFbk935M568xVFo5iT/VvPwnV+mOQLQ3MxhRmC1ikEuP8ezPTv+xB3A9YcaA+4K1Z6LmKA1M3RvuNWHugUUVChPmgzCjRsu8cMJGvnhVa5gi8cJT3VNtkrg+W8vVGHXdkkgWJUBlL2cM58bxOfsMCb1gA1iyBp5uopWUPsAq7cJ7u+GN2jyR1OePBYhcWUDsijyWmUbgw+/KJeiERDe30+BQ==;/cURd24KI0oAD8FzOmbl1g=="
+secured: "qpfRoXOgidmZ557SZphLtFm9OGt0uBU2AQ8RcGvKLevjSJpmxEFl6QcpV1S3ouyCTAzSrKkdEuozUx/kFw7MjLXXQdoxLMEjeV7W8Q/uBna1OZSXPWkWchd428BJzV3ucfxGYCD2G/TCdoyG62DUtC9TAFQbi+yCRAXjkP8QGJETRi3peySYOgRig7hftkw18LeVWU1WyGgGhLtxczOIxFdSDPpnIh6ntpHSDciGUkgivOq+wPxGndhv4N72Xrt+hj6MqWOfoLe9CpxQBJjzgg==;ylJGcuSfIiuXEW8meWvOUA=="
 ---
 

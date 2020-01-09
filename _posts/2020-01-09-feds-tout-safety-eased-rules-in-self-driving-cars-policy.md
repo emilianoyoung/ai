@@ -50,6 +50,21 @@ related:
       - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
         width: 700
         height: 366
+  - title: "Telecom Stock Roundup: Qualcomm Boosts Self-Driving, Ericsson's IoT Drive & More"
+    excerpt: "In the past five trading days, telecom stocks trended down as geopolitical tensions rattled the market and threatened to spoil the initial euphoria associated with the likely signing of the “Phase One” trade deal between the United States and China."
+    publishedDateTime: 2020-01-09T13:57:00Z
+    sourceUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09
+    ampUrl: https://www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
+    cdnAmpUrl: https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/telecom-stock-roundup%3A-qualcomm-boosts-self-driving-ericssons-iot-drive-more-2020-01-09?amp
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+    images:
+      - url: https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg
+        width: 1024
+        height: 512
   - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
     excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
     publishedDateTime: 2020-01-07T21:44:00Z

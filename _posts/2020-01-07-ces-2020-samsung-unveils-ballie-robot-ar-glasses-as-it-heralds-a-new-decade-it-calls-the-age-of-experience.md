@@ -26,19 +26,34 @@ images:
     title: "CES 2020: Samsung unveils 'Ballie' robot, AR glasses as it heralds a new decade it calls the ‘Age of Experience’"
 
 related:
-  - title: "Human-focused tech drives Samsung with AI, 5G, and IoT solutions at CES 2020"
-    excerpt: "At CES 2020, Samsung introduces Ballie, an empathetic AI robot which respects privacy and encourages fitness. Samsung electronics kicked off their CES 2020 presentation emphasizing a focus on human-centric tech. Samsung CEO and president H.S. Kim described Samsung's vision of robots as \"life companions,\" and introduced \"Ballie,\" a small ..."
-    publishedDateTime: 2020-01-07T11:51:00Z
-    sourceUrl: https://www.techrepublic.com/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
-    ampUrl: https://www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
-    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/human-focused-tech-drives-samsung-with-ai-5g-and-iot-solutions-at-ces-2020/
+  - title: "Samsung showcases AI life companion concept robot called Ballie"
+    excerpt: "Samsung revealed a concept AI-powered robot called Ballie (pronounced Ball-E) at CES 2020. Called a life companion robot, Ballie is designed to offer personalized care by interacting with its surroundings, people, animals and connected devices. The robot is meant for doing basic tasks around the house, although the full extent of its ..."
+    publishedDateTime: 2020-01-07T18:24:00Z
+    sourceUrl: https://www.gsmarena.com/samsung_showcases_ai_life_companion_concept_robot_called_ballie-news-40899.php
+    ampUrl: https://m.gsmarena.com/samsung_showcases_ai_life_companion_concept_robot_called_ballie-amp-40899.php
+    cdnAmpUrl: https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_showcases_ai_life_companion_concept_robot_called_ballie-amp-40899.php
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 157
+    images:
+      - url: https://www.bing.com/th?id=ON.992BB2319A21D4FB4218BE5986D29912
+        width: 476
+        height: 249
+  - title: "The 8 coolest robots spotted at CES 2020"
+    excerpt: "Ballie is a small, round, rolling robot that is designed to support, understand, and react to the needs of its owner, specifically in households. With on-device artificial intelligence (AI) capabilities, Ballie uses sensors and data within the home to create immersive experiences for the user. Ballie can connect with and control other smart ..."
+    publishedDateTime: 2020-01-07T19:49:00Z
+    sourceUrl: https://www.techrepublic.com/article/the-8-coolest-robots-spotted-at-ces-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-8-coolest-robots-spotted-at-ces-2020/
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 84
+    quality: 89
     images:
-      - url: https://www.bing.com/th?id=ON.C804938391BA753784698887DC8D5BC4
+      - url: https://www.bing.com/th?id=ON.BC9F8F12A87F2C390C6AB20644FDD5EF
         width: 700
         height: 525
   - title: "Samsung unveils AI-powered rolling robot at CES"
@@ -56,19 +71,36 @@ related:
       - url: https://www.bing.com/th?id=ON.CC514A73C4BEADB62320AF224BB74A05
         width: 700
         height: 465
-  - title: "CES 2020: Samsung looks beyond AI with artificial humans"
-    excerpt: "Using neural networks and other artificial intelligence techniques, CORE R3 has been trained up with information about how humans look, behave and interact and “can computationally create lifelike reality that is beyond normal perception to distinguish”, according to STAR Labs."
-    publishedDateTime: 2020-01-07T10:25:00Z
-    sourceUrl: https://www.thestar.com.my/tech/tech-news/2020/01/07/ces-2020-samsung-looks-beyond-ai-with-artificial-humans
+  - title: "Ballie is Samsung's cute and creepy smart home robot"
+    excerpt: "Artificial intelligence will be at the heart of a lot of Ballie's functionality, though Samsung executives stressed during the keynote that it's on-device AI that Ballie won't share with others. We still have a lot of questions about just what Samsung has planned for Ballie, including what this robot will cost and when it will be available."
+    publishedDateTime: 2020-01-07T04:04:00Z
+    sourceUrl: https://www.tomsguide.com/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
+    ampUrl: https://www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
+    cdnAmpUrl: https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/ballie-is-samsungs-cute-and-creepy-smart-home-robot
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.98551653C9A22F554254D741F376E156
+      - url: https://www.bing.com/th?id=ON.4F08080CBE91A7463D5AA1D45918C312
         width: 700
-        height: 481
+        height: 393
+  - title: "CES 2020: Samsung shows off ball-shaped ‘Ballie’ robot, new gaming monitor lineup"
+    excerpt: "One of the quirkiest technologies that Samsung showed off at CES 2020 is a robot butler. Ballie is a ball-shaped artificial intelligence (AI)-powered rolling robot that helps users around their house. The video shared by the company shows the extent of Ballie’s capabilities, which includes opening the smart curtains at a pre-defined time ..."
+    publishedDateTime: 2020-01-07T07:34:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM.html
+    ampUrl: https://m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/ces-2020-samsung-shows-off-ball-shaped-ballie-robot-new-gaming-monitor-lineup/story-cA09ZIDYCJjhGDKMmSSOZM_amp.html
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.8CFF430863A1D77F8C64C27827616D63
+        width: 700
+        height: 393
   - title: "Samsung Ballie robot unveiled at CES"
     excerpt: "The Ballie robot is a rolling robot which is designed to be helpful and reacts to you, it comes with Artificial Intelligence and has a range of functions. At the core of Samsung’s human-centered vision is personalized care, enhancing the health and well-being of consumers by satisfying their individual needs. During his opening remarks ..."
     publishedDateTime: 2020-01-07T10:55:00Z
@@ -95,26 +127,6 @@ related:
       - url: https://www.bing.com/th?id=ON.9B325A079686E7FF4BA506F5CA93CE02
         width: 700
         height: 454
-  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
-    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
-    publishedDateTime: 2020-01-06T15:00:00Z
-    sourceUrl: https://markets.businessinsider.com/news/stocks/philips-expands-its-range-of-consumer-focused-digital-health-solutions-at-ces-2020-1028796711
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-  - title: "Philips expands its range of consumer-focused digital health solutions at CES 2020"
-    excerpt: "“By integrating smart devices, software applications and services with cloud-based artificial intelligence, Philips is delivering evidence-based personal ... Headquartered in the Netherlands, the company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as well as in consumer health and ..."
-    publishedDateTime: 2020-01-07T13:41:00Z
-    sourceUrl: https://finance.yahoo.com/news/philips-expands-range-consumer-focused-160000986.html
-    ampUrl: https://finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
-    cdnAmpUrl: https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/philips-expands-range-consumer-focused-160000986.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 18
 
 secured: "60lYGTtpZ1LXvZfVfhWk5jIiSmk94DQnxtDOUmNqcYlU6ZrRM1s9yFj2Ci9hs6kAKDWA3BsdgvBYo6RDxOH+7egCvzSIi8fwEDaKS4o9ufLMNJ0mXWiVSpiaAqme1v3SbN687bHnvOGfqxPM8tAVV+Z+/IuaCpbOVGnNuCanfI7fnNlcLuOZ7hQDlcY1fzMPtgOeMdQ3FZ2AclfjPbgX+g7qfn/yyz8IvsCUbeNfb3jW+IPz0zmqOIVZFOIDPmjXQrufiAjUPyGDNlVSiHO6TQ==;A4iTEitMEdA0CaU2x2MWvw=="
 ---

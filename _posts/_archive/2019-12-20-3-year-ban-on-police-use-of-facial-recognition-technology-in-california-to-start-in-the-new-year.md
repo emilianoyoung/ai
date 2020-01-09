@@ -1,33 +1,23 @@
 ---
 category: news
-title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
-excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
-publishedDateTime: 2019-12-20T14:27:00Z
-sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+title: "3-year ban on police use of facial recognition technology in California to start in the new year"
+excerpt: "Regional law enforcement agencies have used facial recognition technology for years to help them identify people who are either unwilling or unable to identify themselves. To do that, they run images taken with mobile devices against a database of nearly two million mugshots, looking for a match. A new state law that goes into effect in the new ..."
+publishedDateTime: 2019-12-20T14:23:00Z
+sourceUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year
+ampUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
+cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
 type: article
-quality: 82
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - AI
   - Computer Vision
-
-images:
-  - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
-    width: 1400
-    height: 933
-    title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
 
 related:
   - title: "Facial recognition fails on race, government study says"
@@ -105,6 +95,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0D97A72D03295C362086BBB80E0A8893
         width: 700
         height: 437
+  - title: "Federal study of top facial recognition algorithms finds ‘empirical evidence’ of bias"
+    excerpt: "A new federal study has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. According to the study by the National Institute of Standards and Technology (NIST), algorithms currently sold in the market can misidentify members of some groups up to 100 times more frequently than ..."
+    publishedDateTime: 2019-12-20T14:27:00Z
+    sourceUrl: https://www.theverge.com/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    ampUrl: https://www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2019/12/20/21031255/facial-recognition-algorithm-bias-gender-race-age-federal-nest-investigation-analysis-amazon
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 82
+    images:
+      - url: https://cdn.vox-cdn.com/thumbor/Tm2a9osU8HM3hQxzQtDhgOTq094=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/65945317/jbareham_170417_1617_0001.0.jpg
+        width: 1400
+        height: 933
   - title: "Mumbai: Ola takes up AI-enabled safety, facial recognition for driver"
     excerpt: "He further added, \"Our safety initiatives such as Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system, are innovations that have all been built in India and now lead the global benchmarks for the mobility industry. We are committed to further innovating on key areas like safety, consumer and ..."
     publishedDateTime: 2019-12-26T11:34:00Z
@@ -502,17 +507,6 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/fbuideh7CHgtlVamC4.E5w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/en/business-wire.com/07765564b095539b53904206d4088bdf
         width: 480
         height: 251
-  - title: "Black and Asian faces misidentified more often by facial recognition software"
-    excerpt: "People walk past a poster simulating facial recognition software at the Security China 2018 exhibition in Beijing in 2018. A U.S. government study found many facial recognition algorithms falsely identified African-American and Asian faces 10 to 100 times more than Caucasian faces. (Thomas Peter/Reuters)"
-    publishedDateTime: 2019-12-20T13:25:00Z
-    sourceUrl: https://www.cbc.ca/news/technology/facial-recognition-race-1.5403899
-    ampUrl: https://www.cbc.ca/amp/1.5403899
-    cdnAmpUrl: https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5403899
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 36
   - title: "Apple iPhone Exemption In San Francisco Facial Recognition Law Creates Hassle"
     excerpt: "San Fransisco: Law regulating use of facial recognition technology passed They had not factored in Apple's Face ID, it seems A new amendment makes exception for the device Facial recognition and its wide use across smartphones have thrown up a quandary for law enforcement. While such technologies come with safety and privacy concerns ..."
     publishedDateTime: 2019-12-23T11:43:00Z
@@ -578,30 +572,6 @@ related:
       - url: https://s.yimg.com/uu/api/res/1.2/..BQHLzlXgm7779xFZResQ--~B/aD01NTg7dz05OTI7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_us/gma/us.abcnews.go.com/face-recognition-file-ap-ml-191220_hpMain_16x9_992.jpg
         width: 992
         height: 558
-  - title: "3-year ban on police use of facial recognition technology in California to start in the new year"
-    excerpt: "Regional law enforcement agencies have used facial recognition technology for years to help them identify people who are either unwilling or unable to identify themselves. To do that, they run images taken with mobile devices against a database of nearly two million mugshots, looking for a match. A new state law that goes into effect in the new ..."
-    publishedDateTime: 2019-12-20T14:23:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year
-    ampUrl: https://www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/public-safety/story/2019-12-20/3-year-ban-on-police-use-of-facial-recognition-technology-in-california-to-start-in-the-new-year?_amp=true
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 26
-  - title: "Federal study finds race, gender affect face-scanning tech"
-    excerpt: "A study by a U.S. agency has found that facial recognition technology often performs unevenly based on a person’s race, gender or age. But the nuanced report published Thursday is unlikely to allay the concerns of critics who worry about bias in face-scanning applications that are increasingly being adopted by law enforcement, airports and a ..."
-    publishedDateTime: 2019-12-20T13:32:00Z
-    sourceUrl: https://www.pix11.com/news/national/federal-study-finds-race-gender-affect-face-scanning-tech
-    type: article
-    provider:
-      name: WPIX
-      domain: pix11.com
-    quality: 24
-    images:
-      - url: https://ewscripps.brightspotcdn.com/dims4/default/327fdf2/2147483647/strip/true/crop/1372x720+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fc0%2F31%2Fd2d1373b4d799df8f725668f1e68%2Fscreen-shot-2019-12-20-at-4.55.26%20AM.png
-        width: 1200
-        height: 630
   - title: "Government study finds racial bias in facial-recognition tech"
     excerpt: "A new federal study from the National Institute of Standards and Technology has found that many of the world’s top facial recognition algorithms are biased along lines of age, race, and ethnicity. Yahoo Finance's Tech Editor Dan Howley joins The Final Round to discuss"
     publishedDateTime: 2019-12-20T21:29:00Z
@@ -674,6 +644,6 @@ related:
       domain: mediapost.com
     quality: 19
 
-secured: "LEDqva9n9JJk340H875+8HrGZrQfVLQFBKjMfd0dvqeU2sWXKAG2yScBsHidN6dFcZrhvbChOcWrzlxw0jZzoj6ugOX7X0iZPK6k+nEets4ljyy4WoNi1B8jfZqhy4ANT7LS1ek7W/MwH+JrShZ6leV1XeAEXWwVT75BRE5ivt/vti6zdSdFZmxwYuvkxeX6oTjfigxO+pPs5tbEE2Lvw7FV1iP8TLHuQnzL4pjYawFN7Nd1hYR38IiBTO9P1+Ww7ERZUYrC/08YtE9zolmrcQ==;z0ZGGFdV6DYdrXzzs+rDTg=="
+secured: "bKUcLbUW9T/GIAVbYBSQxQ6dVDzz9t69MgEmRx0fwM/mK6dJYZYwarxe8ksn4KXeIh3Hc+LSKmWL/J99Je0BBDDgjjTlG1yvOgB1Bm3WuWafyluHBezJfpfRalq2DUEJ+KEH9lKX/d/rfQwKVd5t1CQWy+uX5qEW0RmMKbvtRi4/pCL++5GVkEZu2DAMr+VjTM1w8CSZEFvrp1Hd8w2VXvErwKKJqWEpa1VHmHvpCRp6MoUrk0n96IfwRBBwXFT5HjEtMyq5CwRSpE3rrr04kw==;aTuG02WTYYFFralzm5Pddw=="
 ---
 
