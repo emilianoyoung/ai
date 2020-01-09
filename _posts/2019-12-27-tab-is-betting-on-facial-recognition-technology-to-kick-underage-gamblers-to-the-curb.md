@@ -170,19 +170,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 69
-  - title: "Even The Government Admits Facial Recognition Is Racially Biased"
-    excerpt: "A new federal study from the National Institute of Standards and Technology (NIST) confirms, again, that facial recognition technology is riddled with a fundamental racial bias. Using nearly 200 facial recognition algorithms developed by 99 corporations on 18 million images from federal databases, the algorithms’ accuracy was found to vary ..."
-    publishedDateTime: 2019-12-20T16:50:00Z
-    sourceUrl: https://www.vice.com/en_us/article/n7jwx7/even-the-government-admits-facial-recognition-is-racially-biased
-    type: article
-    provider:
-      name: VICE
-      domain: vice.com
-    quality: 69
-    images:
-      - url: https://video-images.vice.com/articles/5dfcf649db0e93009a997763/lede/1576860263454-GettyImages-1080070086.jpeg?crop=1xw:0.8458646616541353xh;center,center&amp;resize=1200:*
-        width: 4000
-        height: 2250
   - title: "Is facial recognition keeping us safe... or turning us into Big Brother Britain?"
     excerpt: "As you go about your everyday life, it’s now likely your face is being digitally stored by everyone from the police to retailers. So is facial recognition keeping you safe or turning us into Big Brother Britain? Facial-recognition technology – biometric software that maps facial features and stores the data as a ‘faceprint’ for later ..."
     publishedDateTime: 2019-12-28T07:00:00Z

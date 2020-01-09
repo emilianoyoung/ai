@@ -8,7 +8,7 @@ ampUrl: https://venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-spe
 cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2019/12/17/oto-raises-5-3-million-to-improve-speech-recognition-with-intonation-data/amp/
 type: article
 quality: 102
-heat: 232
+heat: 222
 published: true
 
 provider:
@@ -145,15 +145,6 @@ related:
       name: The Root
       domain: theroot.com
     quality: 11
-  - title: "Computer Vision Market Key Players And Production Information Analysis With Forecast 2026"
-    excerpt: "According to Stratistics MRC, the Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and ..."
-    publishedDateTime: 2019-12-16T17:52:00Z
-    sourceUrl: https://www.openpr.com/news/1879887/computer-vision-market-key-players-and-production-information
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
     excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
     publishedDateTime: 2019-12-23T20:30:00Z
@@ -182,6 +173,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "MMK/+g01kssZT7j4nc219YJB4wS8e7OEhbUiyomH5grlDof2FDm11zFo20bsFZW4Mmxpnlz+jhMOHc2RYZTbif6OsFGHcq4zemsua8iWZGzFx9Yv0530+xngzhkAEwTZF7oiGPxZu2yoLLE01q/Hs9GEsgyUe+EKMcKY+/L8MuAg32Wq6AYP/CgFoDuI6tHXKRLgZeoyZnTghFsn9ptjzwEaK+XYiOFLtrDNWoguV7UFWn25EqDVYbpp41FyI784hR9XkXjinsqamtpsoh3o0g==;faYoD165zecwVftDI2f71A=="
+secured: "S2RLlG3VL9hPHJbYwx0brbBaFqXO+fyG78pPbjw3k+w3LF+kB/ht09fueXsPp+1CjU4vE73XO3rw8BOnLdCkVoB5SaTXdko8UkPrSpifQZPKKEFwVhV9St1/4NoqShrUn2o/zHLsF5FgO5OymS/UZ0bVXB59BuyoczkyjuiT4CBeRNMUN9Fqg9mrxrIgGtZwUMgXhvaWTRgoE+M37WAaaEkCItEPyHiQTPe0t7Ouw+MYlOaTJNzFzletLClGM5XsD8nJrkgp4l35a8i57d0dCQ==;BvuzdbAh1mjz0XrfeErCSg=="
 ---
 

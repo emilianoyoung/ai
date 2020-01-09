@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Automotive Artificial Intelligence Market :Analysis In Electronics Segment, Research and Forecasts 2017 to 2024"
 
-secured: "zWQzdmWQP1n2SSNEyVCLPKd8k+1LIxN/+h3XHiOeNV5lIzriq6YtJPZ2NuEIxmMBEy+x79KuMZf6MO8QNrjIEnGqGcF38fyORKJLUgrLoRQYxElDcmCSLPhRb7E+iBb3wdrJuoFxWBiKp1F5wqwRZH1wv2K8z2t3+/UP2lzge4qy24Dm6wIUi1tTX9s0P0F81Ch0a+k0URnzUikVb3ZnzykD74KyrhFMhZ9Bimr3iIk0LsdJ6syBXxS7G5xHulNwk7mpqD35Ua8Iq+wyHbkTnw==;gtNO1SyMksEz8ziPAi4c9w=="
+secured: "qyQXdzIQHSx8ClU9v8urHmF8Tqi4YRqpvS3uAuVcMmq1c4n/TEeVPskl9OIWlxKwPObUqQ90eSnoEN9sPOcr2K/qC982qsV08sEVDa7XYjaFocDHuhsh8RMD58rOEKEsnUQLOKS4lON+XN3SiKPPEcy0iAjmG+WOgUXAnCTVv5UEIezWBb8sGMkNYNsiok5y/Z9UltFrWweLo7QxYE4x5E06DgQkc2ht/j3iXslhVQ3JL/x1wiRRcdeDnOSq8nj/mKiAae7MpSXBPkIbcwjKbQ==;EDMJyUv21ppenkH8dw+fdQ=="
 ---
 

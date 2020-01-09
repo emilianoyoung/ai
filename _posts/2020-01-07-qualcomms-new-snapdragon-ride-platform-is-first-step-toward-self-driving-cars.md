@@ -159,6 +159,21 @@ related:
       - url: https://www.bing.com/th?id=ON.F973CBD6981BF110DF6DD500B5577C4A
         width: 700
         height: 498
+  - title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
+    excerpt: "Theoretically, each time a self-driving car goes for maximum braking power, it'll rediscover worn tires, since there's no feedback loop beyond a car's wheel-speed sensors (the ones that inform anti-lock braking systems and stability control when a tire is locking up or sliding) to reveal grip deficiencies. Put another way, unaware that its ..."
+    publishedDateTime: 2020-01-09T17:38:00Z
+    sourceUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/
+    ampUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.DB96056EB99633948718FB883354D1E7
+        width: 700
+        height: 393
   - title: "Video: MARTYkhana where self-driving all-electric DeLorean does flawless drifts like a pro"
     excerpt: "Thought that an autonomous car maneuvering safely through a car park was impressive? Think again. Eggheads at Stanford University have just made the coolest self-driving car you'll ever see - a self-driving DeLorean drifting like a pro. Yes, there are car manufacturers which have begun testing their autonomous prototypes in real-world ..."
     publishedDateTime: 2020-01-03T11:06:00Z

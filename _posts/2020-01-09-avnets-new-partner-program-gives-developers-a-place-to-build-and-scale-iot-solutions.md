@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-09T02:34:00Z
 sourceUrl: https://www.helpnetsecurity.com/2020/01/09/avnet-partner-program/
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Avnet’s new Partner Program gives developers a place to build and scale IoT solutions"
 
 related:
+  - title: "Avnet Launches Partner Program to Boost IoT Development"
+    excerpt: "Partner Program will enable developers to reduce time and costs required to build IoT applications and scale their businesses."
+    publishedDateTime: 2020-01-09T17:58:00Z
+    sourceUrl: https://finance.yahoo.com/news/avnet-launches-partner-program-boost-144202742.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A79768FABDC1F3129B0A11BFF5229873
+        width: 635
+        height: 400
   - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
     excerpt: "At CES 2020, Avnet is launching a new Partner Program designed to provide developers with a place to build complete IoT solutions."
     publishedDateTime: 2020-01-08T14:06:00Z

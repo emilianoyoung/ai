@@ -288,6 +288,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D264674445A75BDCEB4BE98A7FFCEBF1
         width: 600
         height: 315
+  - title: "For Self-Driving Cars, Lidar Amps Up at CES 2020"
+    excerpt: "LAS VEGAS – If self-driving cars are failing to live up to their initial hype, it isn’t for lack of investment in lidar, which is broadly agreed to be a key sensor technology needed for their eventual success. With Bosch’s recent announcement that it’s making lidar sensors for autonomous cars, it seems like the list of auto-related ..."
+    publishedDateTime: 2020-01-09T16:01:00Z
+    sourceUrl: https://www.extremetech.com/electronics/304053-for-self-driving-cars-lidar-amps-up-at-ces-2020
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.19341F5FC3D33A5044F1C2D917D1C3D6
+        width: 700
+        height: 386
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z

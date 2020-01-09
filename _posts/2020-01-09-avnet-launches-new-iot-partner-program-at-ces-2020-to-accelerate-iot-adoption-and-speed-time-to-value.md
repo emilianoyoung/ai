@@ -24,6 +24,19 @@ images:
     title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
 
 related:
+  - title: "Avnet Launches Partner Program to Boost IoT Development"
+    excerpt: "Partner Program will enable developers to reduce time and costs required to build IoT applications and scale their businesses."
+    publishedDateTime: 2020-01-09T17:58:00Z
+    sourceUrl: https://finance.yahoo.com/news/avnet-launches-partner-program-boost-144202742.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.A79768FABDC1F3129B0A11BFF5229873
+        width: 635
+        height: 400
   - title: "Avnet’s new Partner Program gives developers a place to build and scale IoT solutions"
     excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet’s new Partner Program enables system integrators ..."
     publishedDateTime: 2020-01-09T02:34:00Z

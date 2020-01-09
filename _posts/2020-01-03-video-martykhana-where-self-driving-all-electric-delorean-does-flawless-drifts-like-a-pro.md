@@ -174,6 +174,21 @@ related:
       - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
         height: 367
+  - title: "Want to Help Self-Driving Cars Drive Better? Give 'Em a Better Feel for Their Tires"
+    excerpt: "Theoretically, each time a self-driving car goes for maximum braking power, it'll rediscover worn tires, since there's no feedback loop beyond a car's wheel-speed sensors (the ones that inform anti-lock braking systems and stability control when a tire is locking up or sliding) to reveal grip deficiencies. Put another way, unaware that its ..."
+    publishedDateTime: 2020-01-09T17:38:00Z
+    sourceUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/
+    ampUrl: https://www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    cdnAmpUrl: https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/bridgestone-smart-strain-sensor-tire-wear-autonomous/amp/
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.DB96056EB99633948718FB883354D1E7
+        width: 700
+        height: 393
   - title: "Feds Tout Safety, Eased Rules In Self-Driving Cars Policy"
     excerpt: "Law360 (January 8, 2020, 7:17 PM EST) -- The Trump administration on Wednesday updated its federal policy for developing self-driving cars, reinforcing safety guidelines and unifying federal agencies' efforts while promising to ease any regulatory barriers to U.S. innovation and competitiveness in the space. The 56-page road map issued by the ..."
     publishedDateTime: 2020-01-09T00:24:00Z
