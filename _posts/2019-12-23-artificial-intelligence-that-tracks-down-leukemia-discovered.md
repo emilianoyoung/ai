@@ -56,21 +56,6 @@ related:
       - url: https://www.bing.com/th?id=ON.42A01FAFDBB6F7289D13A68EE7207414
         width: 350
         height: 215
-  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
-    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms ..."
-    publishedDateTime: 2019-12-26T07:18:00Z
-    sourceUrl: https://health.economictimes.indiatimes.com/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    ampUrl: https://health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    cdnAmpUrl: https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/diagnostics/artificial-intelligence-tracks-down-acute-myeloid-leukaemia/72974624
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: https://www.bing.com/th?id=ON.082816082A820C6CFDB350FFA78BF192
-        width: 700
-        height: 379
   - title: "Artificial intelligence tracks down leukemia"
     excerpt: "Used in practice, this approach could support conventional diagnostics and possibly accelerate the beginning of therapy. The research results have been published in the journal 'iScience'. Artificial intelligence can detect one of the most common forms of blood cancer -- acute myeloid leukemia (AML) -- with high reliability. Researchers at the ..."
     publishedDateTime: 2019-12-23T17:48:00Z
@@ -93,6 +78,19 @@ related:
       - url: https://www.bing.com/th?id=ON.AFC5BAD606C85D0FABC71CA45D521056
         width: 700
         height: 392
+  - title: "Artificial intelligence tracks down acute myeloid leukaemia"
+    excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
+    publishedDateTime: 2019-12-26T13:15:00Z
+    sourceUrl: https://www.newkerala.com/news/read/269852/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.html
+    type: article
+    provider:
+      name: New Kerala
+      domain: newkerala.com
+    quality: 39
+    images:
+      - url: https://www.newkerala.com/news/pics/r/coffee-mug-01.jpg
+        width: 500
+        height: 316
 
 secured: "iwzPYnxUyzGTH3+SE9ZCal4NFUCCvmVpixvwokNzu1DYH4JNrfV6uHPoAP0cxYWGf5TqkPLwePWGBzmb74nO7CZaFAhtJf45jFZ5P6mVwgmjorebzKJHjDEkUS+xuyHx98a7MIImX6j0xo8qDo1ikZK7CMjrZBTQw8Mi1bCv8RVSWMAvlmX4yOKaBfkPdQjacNe1fZd6wB9T+2kYlVSrMBOrPf/6/V3VXQ5AsFdgbVPxShCTW+vLZYgWhCyFIBCQZ/T9TgXXbc+rkcQZY0dkHw==;KjSnLUomHLoK2Q8922mmuA=="
 ---

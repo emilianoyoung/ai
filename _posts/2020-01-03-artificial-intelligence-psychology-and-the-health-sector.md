@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care 18. AI can also support other aspects of mental health. Several trials in the ..."
 publishedDateTime: 2020-01-03T12:36:00Z
-sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
-ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
-cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+sourceUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
+ampUrl: https://www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
+cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 61
-heat: 61
-published: true
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Psychology Today
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI
   - AI in Healthcare
-  - Google AI
 
 images:
   - url: https://www.bing.com/th?id=ON.9EF735D2ACFE22833A640112EA4F79A6
@@ -26,6 +25,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "jyXwuhdDjQhVTsIVjKKZ4mBndFHH++bRJlvEw6rh+IaiOmMK9Z/MHM0TnLBCVrfaLoV2Jp+/DB2ICxD+XWX/Prt2g4tH//AJrCugGq+0OzNf8c4NJgbbobUAtFdA2QzFbyrmayNspZNWYU/Tsyy1AR7rW/7uHHlxWuxtDs/O0gV73LRXEaHP+8OPiTJg7GS2fivxGZSqG2tcuijnMMCYl060vT6TUSm/6KsiV6GCUmssgqq+LIm4Jhx0IiKcLHuy6rbY/RTJc42Pg3wG4QmAfg==;COotg93jZjktMObB/tRYPg=="
+secured: "DWknUU6E/olY2CdtUN/HdHKAXvAp7OjFQgP5kWaP2GHO1yjYADFwkWoJm9kU8usqfWo1CtOA+9bAyuR5FUxRH6yNJt1uvb8N4pDQYMOqyvPrq7h5RhV2H/qKgDAC5Js6I6vsK6ln3eJ4/454UV6gp//Vr/sjowM3cREqANoz6ARRsxxREnYGt+jqtDxngbjUCrhGa9yqmzUEJDW2Z6+O2/LN4s/04hv4Y3Nwt61tTnSXAgnhFxjxUSjplwAxv0B4npK0WCF5EP1oAul1E4QJkQ==;NtCvEvUE7yaZ4Ztjsq7r8A=="
 ---
 

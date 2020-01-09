@@ -42,6 +42,19 @@ related:
       name: YAHOO!
       domain: yahoo.com
     quality: 9
+  - title: "Avnet Launches New IoT Partner Program at CES 2020 to Accelerate IoT Adoption and Speed Time to Value"
+    excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can seamlessly connect devices that address ... simplicity—by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Partner Program speeds solution development Avnet’s new ..."
+    publishedDateTime: 2020-01-09T07:11:00Z
+    sourceUrl: https://www.businesswire.com/news/home/20200107005104/en/Avnet-Launches-New-IoT-Partner-Program-CES
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: https://www.bing.com/th?id=ON.713DC9CC9D1B54B56AC11B7B0B956A57
+        width: 700
+        height: 365
   - title: "Avnet launches new IoT Partner Program"
     excerpt: "Using Avnet’s IoTConnect platform, powered by Microsoft’s Azure IoT Suite, developers can connect devices that address both the ... assets and systems to be connected securely by leveraging pre-built and proven Smart Applications that are equipped with a suite of AI services for specific industry verticals. Avnet said its new Partner ..."
     publishedDateTime: 2020-01-08T11:07:00Z

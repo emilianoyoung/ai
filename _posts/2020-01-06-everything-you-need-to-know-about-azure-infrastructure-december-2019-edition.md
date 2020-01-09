@@ -52,6 +52,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
         width: 400
         height: 300
+  - title: "Anxious about AI? This podcast will break it all down for you"
+    excerpt: "If you enjoy geeking out to AI-related topics including public attitudes to AI, government policy, killer robots, ethics and driverless cars, AI trends and breakthroughs, then you will love this. The latest episode is an hour of conversation between Yuval Noah Harari, author of 21 Lessons for the 21st Century, and Tegmark. They cover ..."
+    publishedDateTime: 2020-01-09T07:19:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/anxious-about-ai-this-podcast-will-break-it-all-down-for-you-1.4132987
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.31C9D266D561106FB26DB475D93D8AC1
+        width: 700
+        height: 367
 
 secured: "ls5O70jlrWxslGo5tJwnwZ0QQ1chSB+tdw28aovxnNlhXxnYqMDaGoguG79VnzX+StMjK/DaHGv4pCl2R02JVTa/X97Z/vH3AelE+QYu61euYpos0fN0J3miKI+sgzeosEDlz6K00VfENjFsVRiWpOoMp3Dp+QhuH9prXok+uud3ec8flTNJCDsNjnwVtv6++XnPoSBzdiuYrQPS0FDe12XD0+LSnZbYS78vcSR4HdfC+DTZPa2iQUoxBnhlN6XG+KHGm3tx+asE2sxo9OGTqg==;urC27gnZHl4A05QDLkq2Aw=="
 ---

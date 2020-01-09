@@ -8,7 +8,7 @@ ampUrl: https://www.techrepublic.com/google-amp/article/three-things-you-dont-kn
 cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/three-things-you-dont-know-about-policies-shaping-ai/
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
       - url: https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/1.jpg
         width: 400
         height: 300
+  - title: "Anxious about AI? This podcast will break it all down for you"
+    excerpt: "If you enjoy geeking out to AI-related topics including public attitudes to AI, government policy, killer robots, ethics and driverless cars, AI trends and breakthroughs, then you will love this. The latest episode is an hour of conversation between Yuval Noah Harari, author of 21 Lessons for the 21st Century, and Tegmark. They cover ..."
+    publishedDateTime: 2020-01-09T07:19:00Z
+    sourceUrl: https://www.irishtimes.com/business/technology/anxious-about-ai-this-podcast-will-break-it-all-down-for-you-1.4132987
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.31C9D266D561106FB26DB475D93D8AC1
+        width: 700
+        height: 367
   - title: "Everything You Need to Know About Azure Infrastructure – December 2019 Edition"
     excerpt: "And while they were late to market and stumbled with “Azure v1”, they evolved and focused on the rights things: hybrid, customer feedback, and developing for future trends such as containers, AI/machine learning, and IoT. Ask yourself this: would an organization such as the US military have a lot of devices to manage, a need for off-site ..."
     publishedDateTime: 2020-01-06T13:03:00Z
