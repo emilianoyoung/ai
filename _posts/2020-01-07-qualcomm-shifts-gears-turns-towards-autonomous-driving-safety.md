@@ -20,75 +20,34 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
-    publishedDateTime: 2020-01-07T02:46:00Z
-    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
-    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
-    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+  - title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
+    excerpt: "The Consumer Electronics Show has seen big announcements in self-driving car technology in recent years ... Closely held Velodyne counts Ford, China’s Baidu and camera maker Nikon as investors and partners, and is also working with automotive supplier Hyundai Mobis to get its sensors into more vehicles."
+    publishedDateTime: 2020-01-07T19:05:00Z
+    sourceUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/
+    ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
-        width: 700
-        height: 367
-  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
-    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
-    publishedDateTime: 2020-01-07T06:11:00Z
-    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
-    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
-    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+      - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1415000bf81b00062454db%2F0x0.jpg
+        width: 1069
+        height: 589
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 35
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
-        width: 700
-        height: 393
-  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
-    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
-    publishedDateTime: 2020-01-07T12:13:00Z
-    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
-    type: article
-    provider:
-      name: Computing
-      domain: computing.co.uk
-    quality: 23
-    images:
-      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
-        width: 580
-        height: 358
-  - title: "Qualcomm's Snapdragon Ride wants to power tomorrow's self-driving car tech"
-    excerpt: "Qualcomm and its Snapdragon CPU branding are likely familiar names for mobile phone aficionados, but watch out, because we're going to likely see more of it in our cars in the near future. On Monday ahead of CES 2020 's opening day,"
-    publishedDateTime: 2020-01-07T19:22:26Z
-    sourceUrl: https://www.msn.com/en-us/autos/news/qualcomms-snapdragon-ride-wants-to-power-tomorrows-self-driving-car-tech/ar-BBYG0iM
-    type: article
-    provider:
-      name: Roadshow on MSN.com
-      domain: msn.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.77D65AEC3459E4B591C6F7E37CB1E251
-        width: 700
-        height: 367
-  - title: "Qualcomm's new Snapdragon Ride platform is first step toward self-driving cars"
-    excerpt: "SAN DIEGO - After years of supplying Bluetooth and cellular connectivity to automakers, Qualcomm is pivoting toward safety with its new Snapdragon Ride platform, which aims to bring advanced driver assistance features such as automated parking,"
-    publishedDateTime: 2020-01-08T22:47:26Z
-    sourceUrl: https://www.msn.com/en-us/news/technology/qualcomms-new-snapdragon-ride-platform-is-first-step-toward-self-driving-cars/ar-BBYLhPt
-    type: article
-    provider:
-      name: Tribune News Service on MSN.com
-      domain: msn.com
-    quality: 20
-    images:
-      - url: https://www.bing.com/th?id=ON.2EE31DD748E496716926E446B26451F1
-        width: 700
-        height: 367
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+        width: 635
+        height: 400
 
 secured: "R8TnWTrGaD8rD9Gtwp0MGbK0i51BYSHNKwQB7FSmQ9Tfl4EFFvpZKm+C8oED1LD+soAHwy6qyF69Qox4RkTQXpYmGq3QyIhxJMmyjetLWjoDvOlzc3jUamA1Z653bz2OxMss+z3ifIaLqk74jU5Te11ecOldEa1IfRGZG0aCyMiXvAFdkIX1EYVvXQ87vPjq5L0S9gU5KGxJJyYy5kygz89O9WnpO4+PvtPcWx2hGfyjiMkeO9bhOQcwEKfXGhh4w8q7Eg2+1kdkP0EYkoEabA==;CVmNtUpirJtBWQ53uhpVvg=="
 ---

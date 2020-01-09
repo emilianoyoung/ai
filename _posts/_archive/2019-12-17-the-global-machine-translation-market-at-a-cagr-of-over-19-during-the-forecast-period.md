@@ -43,6 +43,6 @@ related:
       domain: wfmz.com
     quality: 11
 
-secured: "byx0JDrn3ZIjShsqZzrWKDCnerSANvG5M/Y7vNonhEngXh2+9w0X48LCukd8lWPtRnkwWWzLzynZCgMENp5/wVd+ODSL8bBO5q07kPTYxH43HkiRI63CDFKH1Xd+nplB0pHmTfdA9P/VIB8VKNp7Oiqn+DUGdX74WK86I1WwfyLt54hBl2/ah8oxkhCFMhFWd8ulYRI/51DZtzOxt4S0rW3K/m/o++BY+9bwxPiTqeBb0dBV0JxH8LGkQ/uDCroneFm5K4YWzIJ0s0RIsldA8A==;pHxi246tWTCpEN4L3ff6bg=="
+secured: "G40OsILoAVtiLIyQJtq2xK5iiXRpNb9BrWtXNExaUkcjm6OFE7PhGnNd0ZZG/rmTlz7gHxw4UhnKa4Fr1KPs3Ss++IVoHxt0P59du5VvorTHegAHBSksgzqOfOiopSEdW0bjNmA3IXU8jW7f1xuy4zvBr2bE4ePYpDAaps71IsZpbBwQOYaVyYbP0vu6tpGJ2hSNXZLeEw57V0ulid0uQx8uJxQAYzNpO8F9kWpoXB9F+QQKLFCrxGdEfp4QfusS5jhtgweLAUTQKrsRHmTY3A==;x9TmHlMeKjDf9DbibyU/ng=="
 ---
 

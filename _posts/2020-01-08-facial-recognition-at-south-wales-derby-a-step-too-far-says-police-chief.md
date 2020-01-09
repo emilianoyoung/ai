@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2020/jan/08/facial-recognition-at
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/jan/08/facial-recognition-at-south-wales-derby-a-step-too-far-says-police-chief
 type: article
 quality: 57
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -39,6 +39,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
+  - title: "Police to Implement Facial Recognition at Cardiff-Swansea Football Match"
+    excerpt: "South Wales Police has announced that it will be deploying facial recognition technology at the upcoming Premier League football match between Cardiff City FC and Swansea City FC at Cardiff City Stadium this Sunday, 12 January. In a statement, South Wales Police said: “We will be deploying our facial recognition technology at key areas ahead ..."
+    publishedDateTime: 2020-01-09T11:17:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/police-implement-facial-recognition/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.79369EB21DF3A5335AF056FFBEB3E7E4
+        width: 300
+        height: 300
   - title: "Police criticised for plans to use facial recognition cameras at Cardiff v Swansea match"
     excerpt: "South Wales Police has been criticised for its plans to use live facial recognition surveillance at this Sunday’s Cardiff City v Swansea City football match. Fans, rights campaigners and a Police and Crime Commissioner say the plans are “a step too far”. South Wales Police used the surveillance technology last October at another match ..."
     publishedDateTime: 2020-01-09T05:00:00Z
@@ -66,6 +79,6 @@ related:
         width: 600
         height: 315
 
-secured: "HbXJz7cLb4IorhIExOXiKdcAOzjFlcwS1BBQNvOteAVvl7PTGS+bT59VwBu5lE5QEI+YsYE7PM+aPBXPNiq8mxmdg//WHuBrQfp72E9+EaED2YnDVIfMbTrQLsLTiDuJ2UyCUopJA5Wrw9BRUP9yQbOe6xuwuw5KkFeWuenRwhwJ6lHYxfI8XqqKPK1PQOOJ+ANLup/GzW5ATKTgF3CPJsCZlUz9x7eyhXdt2Igh1Ij4S+gfQiU2dSCsxm3fFE2iWgJ9UYhxHtsQj4vthNsNaA==;Ty/ejGrUpMpveP8IMlfl6w=="
+secured: "yEvTyxnbyjZCU8/aQQLAbfu+Y9LE1q6Yog/qAv+QX87rlueoH1NLjUWd/3r1JhkGXlzcadKshHv+0UYjYG15SD5nbkl5Z89NRQNeZuE1gnVsbee3VPs564zlf3/gRBAzAyxoOMOuMfoIoB217s+7ifHL2mCtZurg7n2HxQ7g5b5E01yederyVSHyriDw3nAAehHUM4NMeY/xU6u7uBfyI/J0Yn8QW2k8WnWRSe28moOThOrg6Y9ZMe/41pJa3g64u89P7lL1mTV1bH4hZRu/vw==;KQWJ1a8AvVO75iFskn+Vig=="
 ---
 

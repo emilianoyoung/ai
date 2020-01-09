@@ -20,19 +20,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
-    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
-    publishedDateTime: 2020-01-03T16:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
+  - title: "Qualcomm unveils autonomous driving computer that can handle lane controls, self-driving"
+    excerpt: "Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full self-driving that it aims to have on the road by 2023.(Getty Images/iStockphoto) Qualcomm Inc on Monday announced a computing system for autonomous vehicles designed to handle everything from lane controls to full ..."
+    publishedDateTime: 2020-01-07T06:11:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O.html
+    ampUrl: https://m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/qualcomm-unveils-autonomous-driving-computer-that-can-handle-lane-controls-self-driving/story-NYcE7cIzFsgrkTo7evRH0O_amp.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 24
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 35
     images:
-      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
-        width: 635
-        height: 400
+      - url: https://www.bing.com/th?id=ON.677715F0CCB82D8F61B565FD9F5E1F75
+        width: 700
+        height: 393
 
 secured: "Urw4wHjjcCsd/lymaiRZfXzy0t7u/ln/nSZ0JoYyCOJ7Sann+W/qdsCRSFZkNvnGk8dCHpGoK3S/kVryaqkfYJ4ehZ/yN8Eht1+1A9mRlgV6Mg6hqVGIWXwg4lJiiXh3MzN23a9Y9Kt7GE3A0iMBpo1X0dxg2DVdopGr+MPBL/3duqD8ZhH3lipBwgJG4sUM8vTt2Wb2BkBVh6kB01B1slmkMkb/TuCbdVkDGL2yrUADGJevq65IztkKbkfjTxFuZHxCmLQgegcOJGSKJI+v8g==;b9WoRM3GHF2Gwnm9M8ChUw=="
 ---

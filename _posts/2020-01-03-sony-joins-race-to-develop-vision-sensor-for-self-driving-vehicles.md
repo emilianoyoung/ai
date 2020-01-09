@@ -26,6 +26,36 @@ images:
     title: "Sony joins race to develop vision sensor for self-driving vehicles"
 
 related:
+  - title: "What it’s like to ride in a self-driving Lyft"
+    excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars, powered by Aptiv. Lyft has been testing these vehicles in Vegas since early ..."
+    publishedDateTime: 2020-01-09T11:00:00Z
+    sourceUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/
+    ampUrl: https://qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781876/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/amp/
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.4715F38D382F3E87B5BF3B7B0657E1B5
+        width: 700
+        height: 394
+  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
+    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
+    publishedDateTime: 2020-01-02T13:48:00Z
+    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
+    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 72
+    images:
+      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
+        width: 700
+        height: 366
   - title: "Aptiv self-driving program adds Las Vegas airport to destinations"
     excerpt: "Mobility company Aptiv announced Tuesday that it entered into a pilot program with McCarran International Airport, adding to a list of over 3,400 destinations around Las Vegas its self-driving vehicles serve through a partnership with Lyft. The rides to and from the airport are not yet available to the public on the Lyft program, as Aptiv ..."
     publishedDateTime: 2020-01-07T21:44:00Z
@@ -54,6 +84,21 @@ related:
       - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
         width: 1200
         height: 630
+  - title: "Qualcomm Officially Enters Self-Driving Market With Snapdragon Ride Platform And Extends Partnership With GM To Include ADAS"
+    excerpt: "Today, in Las Vegas, at CES 2020, Qualcomm made what I think is the company’s biggest announcement yet in the automotive market: the unveiling of its new Snapdragon Autonomous driving platform for self-driving cars, called the “Qualcomm Snapdragon Ride”. In addition, Qualcomm announced it is extending its partnership with General Motors ..."
+    publishedDateTime: 2020-01-06T19:36:00Z
+    sourceUrl: https://www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/
+    ampUrl: https://www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/amp/
+    cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/06/qualcomm-officially-enters-self-driving-market-with-snapdragon-ride-platform-and-extends-partnership-with-gm-to-include-adas/amp/
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+    images:
+      - url: https://www.bing.com/th?id=ON.CF44A8F96BDF6E8CD9630E6CF2A80368
+        width: 600
+        height: 315
   - title: "Qualcomm Boosts Self-Driving Solutions With Snapdragon Ride"
     excerpt: "Qualcomm Incorporated QCOM recently unveiled the first-of-its-kind automotive platform — Snapdragon Ride — which enables automakers to transform their vehicles into self-driving cars using AI. The chip maker giant’s latest foray into the automotive command and control systems is likely to give tough competition to major players like ..."
     publishedDateTime: 2020-01-07T16:03:00Z
@@ -84,19 +129,36 @@ related:
       - url: https://www.bing.com/th?id=ON.3F6B9BC5D46AF70AB5E956503BB4FE20
         width: 700
         height: 393
-  - title: "Trump administration to outline support for self-driving cars"
-    excerpt: "LAS VEGAS -- The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at CES. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles, dubbed 4.0, which she says unifies efforts across 38 U.S. departments ..."
-    publishedDateTime: 2020-01-08T17:10:00Z
-    sourceUrl: https://www.autonews.com/ces/trump-administration-outline-support-self-driving-cars
+  - title: "Qualcomm’s new Snapdragon Ride platform is first step toward self-driving cars"
+    excerpt: "Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar’s assets, invested in Lyft and bought autonomous technology startup Cruise Automation. Still, self-driving cars are likely years away from showing up on roadways in significant numbers. In the meantime, Qualcomm is ..."
+    publishedDateTime: 2020-01-07T02:46:00Z
+    sourceUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars
+    ampUrl: https://www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
+    cdnAmpUrl: https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2020-01-06/qualcomm-dives-deeper-into-auto-tech-with-snapdragon-ride-platform-aimed-at-self-driving-cars?_amp=true
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 40
     images:
-      - url: https://www.bing.com/th?id=ON.5499366377D9FD1D50A3DD3F716DDCEC
+      - url: https://www.bing.com/th?id=ON.E24D1079985483F2962DD82201AA0D1E
         width: 700
-        height: 525
+        height: 367
+  - title: "Video: MARTYkhana where self-driving all-electric DeLorean does flawless drifts like a pro"
+    excerpt: "Thought that an autonomous car maneuvering safely through a car park was impressive? Think again. Eggheads at Stanford University have just made the coolest self-driving car you'll ever see - a self-driving DeLorean drifting like a pro. Yes, there are car manufacturers which have begun testing their autonomous prototypes in real-world ..."
+    publishedDateTime: 2020-01-03T11:06:00Z
+    sourceUrl: https://www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/
+    ampUrl: https://www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/auto/car-news/video-martykhana-where-self-driving-all-electric-delorean-does-flawless-drifts-like-a-pro/1811916/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 34
+    images:
+      - url: https://www.bing.com/th?id=ON.A505910B44F9D6328F234E368719C71A
+        width: 660
+        height: 440
   - title: "Feds pledge to keep their hands off the wheel regarding self-driving"
     excerpt: "LAS VEGAS — The Trump administration on Wednesday signaled strong support for self-driving vehicles as it released new guidance from federal agencies at the annual CES tech conference. U.S. Transportation Secretary Elaine Chao unveiled the administration's latest principles for autonomous vehicles — dubbed AV 4.0 — which she says unifies ..."
     publishedDateTime: 2020-01-09T00:01:00Z
@@ -110,6 +172,43 @@ related:
       - url: https://www.bing.com/th?id=ON.97BCD41C7E3AE206BD83305B031429B7
         width: 700
         height: 393
+  - title: "Feds Tout Safety, Eased Rules In Self-Driving Cars Policy"
+    excerpt: "Law360 (January 8, 2020, 7:17 PM EST) -- The Trump administration on Wednesday updated its federal policy for developing self-driving cars, reinforcing safety guidelines and unifying federal agencies' efforts while promising to ease any regulatory barriers to U.S. innovation and competitiveness in the space. The 56-page road map issued by the ..."
+    publishedDateTime: 2020-01-09T00:24:00Z
+    sourceUrl: https://www.law360.com/articles/1232568/feds-tout-safety-eased-rules-in-self-driving-cars-policy
+    ampUrl: https://www.law360.com/amp/articles/1232568
+    cdnAmpUrl: https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1232568
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "Qualcomm unveils Snapdragon Ride computing platform for self-driving cars"
+    excerpt: "Qualcomm has unveiled a new computing platform, called Snapdragon Ride, which it claims will make it easier for vehicle makers to build self-driving cars. The new computing system was unveiled on Monday at the Consumer Electronics Show (CES) in Las Vegas, where the chipmaker said that it will start shipping the system to manufacturers later ..."
+    publishedDateTime: 2020-01-07T12:13:00Z
+    sourceUrl: https://www.computing.co.uk/ctg/news/3084892/qualcomm-snapdragon-ride-self-driving-cars
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 23
+    images:
+      - url: https://www.bing.com/th?id=ON.3735B34324DD4F53E1F5C7F2D8AC02AB
+        width: 580
+        height: 358
+  - title: "Self-driving shuttles coming to Linden in first test in US residential neighborhood, official says"
+    excerpt: "Self-driving shuttles are scheduled to start traveling in Linden in late January. The free service will be the first residential test in the country for self-driving shuttles, said Mandy Bishop, Smart Columbus' program manager. Get the news delivered to your inbox: Sign up for our morning, afternoon and evening newsletters The shuttles will run ..."
+    publishedDateTime: 2020-01-08T11:16:00Z
+    sourceUrl: https://www.dispatch.com/news/20200108/self-driving-shuttles-coming-to-linden-in-first-test-in-us-residential-neighborhood-official-says
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 10
+    images:
+      - url: https://www.bing.com/th?id=ON.A92A3D26CE799C9B0A84C8DFCEACF8A3
+        width: 700
+        height: 525
 
 secured: "P7usGmgZevhXavw/kR6HSa54+GJDSsytDl+a+HpPlw7+DNvWcAKjuZH8Rv066m8AeQjVHLTE0iPxTvP/kpxVc5twVmKJ3I9NSf1rdxXy59b5sMErc4k8y+henrpwr0wisxoC8FhC/AIe3rwkbRk6vSIpAxmtaBbdd2pvQYdcUJ3YSiU+wZWysmF1XWQiEGYMWwy8afFcl7EUQtqNbdAGUIVUQKg22cjph8iN6oJ6kVtmxFzlC9EaoAzYDSldt+R2Si9d0GqVkcGUgqrOH/hlIQ==;Kl/1bK09d6QcB2mdLgy9RQ=="
 ---

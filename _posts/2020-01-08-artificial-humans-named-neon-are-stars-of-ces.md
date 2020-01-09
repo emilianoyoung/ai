@@ -60,6 +60,21 @@ related:
       - url: https://www.bing.com/th?id=ON.7DBDFF2097DBFCEF18EA7AE85C04002E
         width: 700
         height: 401
+  - title: "Neon’s ‘artificial human’ avatars could not live up to the CES hype"
+    excerpt: "It combines proprietary technology with neural networks to create these artificial humans, though the starting point was real humans. The (slightly) interactive Neons demoed at CES were based on real people, but the gestures and expressions are, according to the company, generated independently. The early Neon videos which wowed everyone last ..."
+    publishedDateTime: 2020-01-08T22:10:00Z
+    sourceUrl: https://www.engadget.com/2020/01/08/neon-artificial-human-avatars-ces-hype-could-not-live-up-to-the-ces-h/
+    ampUrl: https://www.engadget.com/amp/2020/01/08/neon-artificial-human-avatars-ces-hype-could-not-live-up-to-the-ces-h/
+    cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/08/neon-artificial-human-avatars-ces-hype-could-not-live-up-to-the-ces-h/
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.7ED2CB096ABDD29F8A1B2F308B8E02C8
+        width: 700
+        height: 393
   - title: "WTF Is an Artificial Human and Where Did They Come From?"
     excerpt: "In short, a Neon is an artificial intelligence in the vein of Halo’s Cortana or Red Dwarf’s Holly, a computer-generated life form that can think and learn on its own, control its own virtual body, has a unique personality, and retains its own set of memories, or at least that’s the goal. A Neon doesn’t have a physical body (aside from ..."
     publishedDateTime: 2020-01-09T00:02:00Z
@@ -206,19 +221,6 @@ related:
       - url: https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png
         width: 500
         height: 500
-  - title: "AI-powered Avatar At Tech Show Touted As 'Artificial Human'"
-    excerpt: "Star Labs, a startup funded by Samsung, showed the painstakingly detailed AI-powered, two-dimensional digital creations to a large crowd, saying they are able to \"converse and sympathize\" like real people. A demonstration at CES showed conversations and gestures from the digital creations modeled after real humans. According to the California ..."
-    publishedDateTime: 2020-01-08T04:20:00Z
-    sourceUrl: https://www.ibtimes.com/ai-powered-avatar-tech-show-touted-artificial-human-2897632
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: https://www.bing.com/th?id=ON.5F92DD86C1E8BC42E9CB4816237E31EB
-        width: 700
-        height: 525
   - title: "More job cuts stare at us as Samsung showcases NEON 'artificial humans' ready to do everything we do"
     excerpt: "It should now be, \"Whether artificial intelligence will take over the world ... you will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. What's more, over time, these NEONs which come in several different avatars, should be able to work as TV anchors ..."
     publishedDateTime: 2020-01-09T09:49:00Z

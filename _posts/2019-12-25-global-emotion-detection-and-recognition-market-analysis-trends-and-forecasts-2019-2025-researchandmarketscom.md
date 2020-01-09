@@ -18,106 +18,56 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Tea, buses and elections: seven uses of facial recognition that sparked debate in 2019"
-    excerpt: "From identifying voters in Afghanistan to speeding up service for tea lovers in India, the use of facial recognition surged in 2019 with expectations that it will become even more widespread next year,"
-    publishedDateTime: 2019-12-23T05:32:00Z
-    sourceUrl: https://www.reuters.com/article/us-global-tech-facial-recognition-yearen-idUSKBN1YR0C1
-    ampUrl: https://mobile.reuters.com/article/amp/idUSKBN1YR0C1
-    cdnAmpUrl: https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1YR0C1
+  - title: "Big data predictions: 8 analytics trends in 2020"
+    excerpt: "The demand for real-time or near real-time analytics will require fast CPUs and in-memory processing. Companies want the ability to instantaneously respond to online sales activities, alerts about their production infrastructures, or sudden changes in financial markets and portfolios. 2. Natural-language processing Voice-based applications ..."
+    publishedDateTime: 2019-12-30T16:57:00Z
+    sourceUrl: https://www.techrepublic.com/article/big-data-predictions-8-analytics-trends-in-2020/
+    ampUrl: https://www.techrepublic.com/google-amp/article/big-data-predictions-8-analytics-trends-in-2020/
+    cdnAmpUrl: https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/big-data-predictions-8-analytics-trends-in-2020/
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: https://www.bing.com/th?id=ON.4A7AB807FF86D507128724737090F8E3
+      - url: https://www.bing.com/th?id=ON.ADFB2B905FBA1AB08620BEB2DD8BBEBA
         width: 700
-        height: 466
-  - title: "Emotion Recognition Market Competitive Analysis with Growth and Future Scope 2019 to 2025"
-    excerpt: "Emotion recognition is the process of identifying human emotion, most typically from facial expressions as well as from verbal expressions. This is both something that humans do automatically but computational methodologies have also been developed. Product Segments of the Emotion Recognition Market on the basis ofTypesare: Detecting ..."
-    publishedDateTime: 2019-12-23T05:11:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/emotion-recognition-market-competitive-analysis-with-growth-and-future-scope-2019-to-2025-2019-12-23
+        height: 525
+  - title: "5 trends that will impact AI, analytics and data governance in 2020"
+    excerpt: "From the algorithms that drive credit limits to the use of facial recognition software, AI-driven technologies are under scrutiny from consumers and governments alike. As a result, many organizations are expected to add Digital Ethics Officers in the coming year. These officers will be responsible for implementing ethical frameworks to make ..."
+    publishedDateTime: 2019-12-24T18:00:00Z
+    sourceUrl: https://www.healthdatamanagement.com/opinion/5-trends-that-will-impact-ai-analytics-and-data-governance-in-2020
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Health Data Management
+      domain: healthdatamanagement.com
+    quality: 39
     images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Why Congress needs to regulate facial-recognition systems"
-    excerpt: "A MASSIVE government study in which more than 18 million images of more than 8 million people were run through almost 200 algorithms has confirmed what researchers have been warning for years: Facial-recognition systems misidentify people of color more often than white people, and women more often than men. The federal National Institute of ..."
-    publishedDateTime: 2019-12-21T19:26:00Z
-    sourceUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html
-    ampUrl: https://www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    cdnAmpUrl: https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/why-congress-needs-to-regulate-facial-recognition-systems/2019/12/21/98f6b0f0-235b-11ea-86f3-3b5019d451db_story.html?outputType=amp
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 44
-    images:
-      - url: https://www.bing.com/th?id=ON.8E737D47EF3AECF305981AADA3B04373
+      - url: https://www.bing.com/th?id=ON.8D656BD9E1815D67532F7B9303D12D58
         width: 700
-        height: 466
-  - title: "Startup Speechly raises over $2M to launch natural language and speech recognition technology"
-    excerpt: "The differentiation point in the technology is the way natural language understanding and speech recognition are combined, the company says in the announcement, delivering a faster and more intuitive experience. The company cites a CB Insight forecast that voice recognition will be a $49 billion market in 2024. “It is hard, but not impossible ..."
-    publishedDateTime: 2019-12-20T19:09:00Z
-    sourceUrl: https://www.biometricupdate.com/201912/startup-speechly-raises-over-2m-to-launch-natural-language-and-speech-recognition-technology
+        height: 367
+  - title: "Experts Predict 2020 Trends for NLP, Embedded BI and Data Literacy"
+    excerpt: "As noted by TechTarget, here are the Analytics 2020 trends for Natural Language Processing (NLP), Embedded BI and Data Literacy predicted by industry experts. The year 2020 is expected to feature the ubiquitous AI capabilities of intelligent assistants enabled by NLP. Mike Leone, an analyst at Enterprise Strategy Group said, “there’s a lot ..."
+    publishedDateTime: 2019-12-27T08:39:00Z
+    sourceUrl: https://www.analyticsinsight.net/experts-predict-2020-trends-nlp-embedded-bi-data-literacy/
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.B77584DF0FA255056FB88A0FFDB18269
+      - url: https://www.bing.com/th?id=ON.D84A7E9BD027D93ECA99E28B7614612A
         width: 700
-        height: 388
-  - title: "Image Recognition Market (2020 - 2029) - CAGR Rate, Ongoing Trends, Analysis And Forecast 2029"
-    excerpt: "Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality, Scanning & Imaging, Security & Surveillance, Marketing ..."
-    publishedDateTime: 2019-12-23T07:49:00Z
-    sourceUrl: https://www.marketwatch.com/press-release/image-recognition-market-2020---2029---cagr-rate-ongoing-trends-analysis-and-forecast-2029-2019-12-23
+        height: 395
+  - title: "The Forrester Wave™: Multimodal Predictive Analytics And Machine Learning Solutions"
+    excerpt: "In our 24-criteria evaluation of multimodal predictive analytics and machine learning (PAML) providers, we identified the 13 most significant ones — Dataiku, Datawatch, FICO, IBM, KNIME, MathWorks, Microsoft, RapidMiner, Salford Systems (Minitab), SAP, SAS, TIBCO Software, and World Programming — and researched, analyzed, and scored them."
+    publishedDateTime: 2020-01-03T01:31:00Z
+    sourceUrl: https://adtmag.com/whitepapers/2019/12/ibm-the-forrester-wave-multimodal-predictive-analytics-and-machine-learning-solutions-ds-eds-us.aspx?tc=page0
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png
-        width: 1200
-        height: 630
-  - title: "Exhibition in China reflects on loss of anonymity to recognition technology"
-    excerpt: "SHENZHEN, China (Reuters) - An art exhibition exploring the impact of facial recognition technology has opened in China, offering a rare public space for reflection on increasingly pervasive ..."
-    publishedDateTime: 2019-12-25T00:05:00Z
-    sourceUrl: https://finance.yahoo.com/news/exhibition-china-reflects-loss-anonymity-045729663.html
-    type: article
-    provider:
-      name: YAHOO!
-      domain: yahoo.com
-    quality: 22
-    images:
-      - url: https://www.bing.com/th?id=ON.9B5B6C169C5CBA86389DA2E2A580F514
-        width: 700
-        height: 495
-  - title: "Fingerprint Recognition for the Car: Use Cases and Design Considerations"
-    excerpt: "It handles models like WaveRNN and Tacotron 2. RNNs are also used for speech recognition and language translation. In addition, the new compiler is optimized to handle transformer-based models like BERT (Bidirectional Encoder Representations from Transformers). BERT is used for natural language processing tasks. On top of that, Nvidia is ..."
-    publishedDateTime: 2019-12-23T20:30:00Z
-    sourceUrl: https://www.electronicdesign.com/markets/automotive/article/21119162/fingerprint-recognition-for-the-car-use-cases-and-design-considerations
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 5
-  - title: "Global Emotion Detection and Recognition Market Analysis, Trends, and Forecasts 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "The Emotion Detection and Recognition market worldwide is projected to grow by US$116.7 Billion, driven by a compounded growth of 39.2%. Natural Language Processing, one of the segments analyzed and sized in this study, displays the potential to grow at over 40%. The shifting dynamics supporting this growth makes it critical for businesses in ..."
-    publishedDateTime: 2019-12-24T14:37:00Z
-    sourceUrl: https://www.oaoa.com/news/business/article_30f26941-943b-5bee-bde2-3c9025779204.html
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: adtmag.com
+      domain: adtmag.com
+    quality: 13
 
 secured: "N33djKOeXN0xZe6cL8x67SCx64I/8bsjQAEljRd4UNxkgJLBUf4h5BoUmn8MmFYqEAALwdlkDYqrLcFV6cQQv+o1S92fPs05hH5q49U+9q2GJ3GH6j6efkD5DTnYpmZyQKDJ+zEA3JMjVztpZHpUQ0j7htmZoP+owndHAmPY2+bCWJF+vcFiycuEuNsQcystod4y8DE6gskcqPT23BdcB8xNR8dQ8c6UfoGfk6QIre1+jEiZkW2rTlfOZG0Q3KdEbFGtEfXrXI15mVSSBwQc4Q==;sU9zUsbR19o0v3UIkSrkIg=="
 ---

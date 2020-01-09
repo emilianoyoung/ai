@@ -45,17 +45,6 @@ related:
       - url: https://www.bing.com/th?id=ON.87A7059D2B99B008BA4D07D1041495F5
         width: 600
         height: 315
-  - title: "What is Deep Learning? Everything you need to know"
-    excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
-    publishedDateTime: 2019-12-20T10:06:00Z
-    sourceUrl: https://www.techradar.com/news/what-is-deep-learning
-    ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
   - title: "AWS Takes Machine Learning Global, Makes It More Accessible & Easy"
     excerpt: "“This announcement is a ball about making it easier for developers to add machine learning predictions to their products and their processes by integrating those predictions directly with their databases,” said Matt Wood, VP of artificial intelligence at AWS. It won’t be long until all applications have machine learning and artificial ..."
     publishedDateTime: 2019-12-26T09:34:00Z
@@ -92,6 +81,6 @@ related:
         width: 700
         height: 288
 
-secured: "xhGWSOaX+tp0zV/NuZPSYjlwuPIEAGC6LhDT2/3SJqAdBrv9dLFXzyD7XY6QMwc1LlXPhDVMUvFKtLLQYDmPlE8e0N/g7VSTNxELfL91ODowexjMiOSmxeQd5uqtfNREBvd9baK3lSvLu/aR1aj7iOzjyyMMTRVJBNYTXxBQFK1qSO1MuxiudsgtukwNJx5S8O+CBs2xJ6h6+rG1XDm3i3wKmL+DZCZBK4bvv59vLGdDHa5Ly3WMsD/q50cIIpFIQvqftsjsgHBJFcFexoknUA==;5N4c3PVMnpt+4sG/2QMHYA=="
+secured: "o0vTPg0fKW8Y1BBsiihyPbm7Ut6BZ+eORDkbRb/QbLiE9+4OaQJSXgkw1BkAQ9WTamMnoymBnfMSa3MpVIiKumtJ4sPmDgSgN0u+i2+kZtNCMsU6vOOIlPQN+ISVGbFVOQOBk9yInOzicRbJlTkGu8XRloMSnDUHfePs94ppkB63AB16ZZD7LM9ee1ZjpSfmmuv2E0ftHFjs29+84KC/zPqinpCsgFYSfBLheiZTzSUrCv5Tt/sxlhK7Hx/nI4Nz41oxVxWET9T4ezT5yaiYog==;OHjcHs0ujejZqkNJEuwDhQ=="
 ---
 

@@ -54,17 +54,6 @@ related:
       - url: https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5df8a126e961e10007393d3f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453
         width: 1199
         height: 675
-  - title: "What is Deep Learning? Everything you need to know"
-    excerpt: "Deep learning, which is a branch of artificial intelligence, aims to replicate our ability to learn and evolve in machines. At the end of the day, deep learning allows computers to take in new information, decipher it, and produce an output—all without ..."
-    publishedDateTime: 2019-12-20T10:06:00Z
-    sourceUrl: https://www.techradar.com/news/what-is-deep-learning
-    ampUrl: https://www.techradar.com/amp/news/what-is-deep-learning
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/what-is-deep-learning
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 69
   - title: "Highlights of the day: Chinese chipmakers developing AI-based ASICs"
     excerpt: "Chinese chipmakers are also developing HPC chips for AI and deep learning applications with the goal of volume producing them in 2021. The development in China is promising big challenges to the US vendors, such as Intel, who have been dominanting forces ..."
     publishedDateTime: 2019-12-23T08:20:00Z

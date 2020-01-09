@@ -6,7 +6,7 @@ publishedDateTime: 2020-01-02T16:10:00Z
 sourceUrl: https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     title: "2010 – 2019: The rise of deep learning"
 
 related:
-  - title: "How Machine Learning Drives the Deceptive World of Deepfakes"
-    excerpt: "Our scientific understanding of the universe is advancing at an unprecedented rate. Join Focal Point as we meet the people building tomorrow’s world. Witness the astonishing discoveries that will propel humanity forward and zero-in on the places where science-fiction becomes science-reality."
-    publishedDateTime: 2020-01-06T21:47:00Z
-    sourceUrl: https://www.seeker.com/videos/tech/how-machine-learning-drives-the-deceptive-world-of-deepfakes
-    type: article
-    provider:
-      name: Seeker
-      domain: seeker.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
-        width: 700
-        height: 367
   - title: "Goodbye 2019, hello 2020: The year in cloud reviewed – and what is on the horizon"
     excerpt: "It was the hottest topic as 2018 drew to a close; the launch of AWS Outposts, with VMware as partner in crime ... or anything to do with machine learning, deep learning, or artificial intelligence. The month before, Confluent secured a $2.5 billion valuation having undergone a license change of its own. At the time, co-founder Jay Kreps ..."
     publishedDateTime: 2020-01-02T11:52:00Z

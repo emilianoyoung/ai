@@ -55,6 +55,21 @@ related:
       - url: https://www.bing.com/th?id=ON.68348F25697C1CAD8871386CB909E695
         width: 700
         height: 426
+  - title: "CES 2020: Artificial humans? Samsung Labs' Neon project has a lot of hype to live up to"
+    excerpt: "What is AI? Everything you need to know about Artificial Intelligence A guide to artificial intelligence, from machine learning and general AI to neural networks. Read More Instead, Neons will be called Frank, Natasha or Hana, and they will be your air steward, teacher, doctor, personal trainer, or even the anchor presenting the news on TV ..."
+    publishedDateTime: 2020-01-07T16:11:00Z
+    sourceUrl: https://www.zdnet.com/article/ces-2020-artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    ampUrl: https://www.zdnet.com/google-amp/article/ces-2020-artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    cdnAmpUrl: https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-artificial-humans-samsung-labs-new-project-has-a-lot-of-hype-to-live-up-to/
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.F5E0BD62D9D3C7ADA889529210EDE002
+        width: 700
+        height: 525
   - title: "Samsung Reveals Neon Artificial Human Avatars To Serve As Lifelike Chatbots"
     excerpt: "Simply put, STAR Labs refers to NEON as \"a friend,\" albeit a virtual one. \"NEON, our first artificial human is here. NEON is a computationally created virtual being that looks and behaves like a real human, with the ability to show emotions and intelligence,\" STAR Labs explains. Thankfully, it does not sound like they have to be fed or ..."
     publishedDateTime: 2020-01-07T14:45:00Z
@@ -98,6 +113,21 @@ related:
       - url: https://www.bing.com/th?id=ON.511EBB3BB07179881AFD68C3FECED71D
         width: 700
         height: 367
+  - title: "CES 2020: Samsung's STAR Labs unveils 'Artificial Human' project Neon; shows human-like emotions, intelligence"
+    excerpt: "STAR Labs 'artificial human' project, Neon, has been the talk of Consumer Electronics Show ... In the near future, one will be able to license or subscribe to a NEON as a service representative, a financial advisor, a healthcare provider, or a concierge. Over time, NEONs will work as TV anchors, spokespeople, or movie actors; or they can ..."
+    publishedDateTime: 2020-01-09T11:28:00Z
+    sourceUrl: https://www.businesstoday.in/technology/launch/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/story/393373.html
+    ampUrl: https://m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    cdnAmpUrl: https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ces-2020-samsung-unveils-artificial-human-project-neon-ai-human-like-emotions-intelligence/1/393373.html
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5DC8A7427586D681FBB68CBB574AD61D
+        width: 505
+        height: 264
 
 secured: "iHSICZqu40C3dRDHGPaPpeD2fLD0jjqr/+1aFMe6jyeAwOEB7uax6F+H1w5AhLLxi8dq2sDl9fAZH2KMuJkwvVqsmnktBzySiF1xm6iI8s+29vs+XfBeSMIV41SDzY8ni1rrPTNcXmkZKSIfDCUSK0ZZj35bSOOF1YMnSV1J95xbp4pNnqyHZFiKDd/0Povxsb2rMZDIliJ8OlZhN+Jf9VJU8vTmsaPoL9AUlLS8fvK/zSldQAqN+UXdgAff8J+0UchGNp4O5uHhUPqHy3AjuQ==;wNS8GKz/QuOXZKCKPV6aTg=="
 ---

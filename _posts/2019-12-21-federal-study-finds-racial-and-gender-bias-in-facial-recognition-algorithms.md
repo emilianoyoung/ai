@@ -183,19 +183,6 @@ related:
       - url: https://video-images.vice.com/articles/5dfcf649db0e93009a997763/lede/1576860263454-GettyImages-1080070086.jpeg?crop=1xw:0.8458646616541353xh;center,center&amp;resize=1200:*
         width: 4000
         height: 2250
-  - title: "U.S. Government Study Finds Racial Bias in Facial Recognition Tools"
-    excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
-    publishedDateTime: 2019-12-20T10:46:00Z
-    sourceUrl: https://www.nytimes.com/reuters/2019/12/20/technology/20reuters-usa-crime-face.html
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-        width: 1200
-        height: 630
   - title: "UPDATE 2-U.S. government study finds racial bias in facial recognition tools"
     excerpt: "Dec 20 (Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that ..."
     publishedDateTime: 2019-12-21T01:26:00Z

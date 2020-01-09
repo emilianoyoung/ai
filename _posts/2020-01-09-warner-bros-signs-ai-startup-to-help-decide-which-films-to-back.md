@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Warner Bros. signs AI startup to help decide which films to back"
-excerpt: "“right now, an AI cannot make any creative decisions” “Artificial intelligence sounds scary. But right now, an AI cannot make any creative decisions,” Queisser told THR. “What it is good at is crunching numbers and breaking down huge data sets and showing patterns that would not be visible to humans. But for creative decision ..."
-publishedDateTime: 2020-01-09T10:38:00Z
-sourceUrl: https://www.theverge.com/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
-ampUrl: https://www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
-cdnAmpUrl: https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/9/21058094/ai-film-decision-making-warner-bros-signs-cinelytic
+excerpt: "Storied film studio Warner Bros. has signed a deal with Cinelytic, an LA startup that uses machine learning to predict film success. The studio will use Cinelytic’s algorithms “to guide decision-making at the greenlight stage,"
+publishedDateTime: 2020-01-09T10:38:37Z
+sourceUrl: https://www.msn.com/en-us/news/technology/warner-bros-signs-ai-startup-to-help-decide-which-films-to-back/ar-BBYMcgv
 type: article
-quality: 87
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Verge
-  domain: theverge.com
-  images:
-    - url: /assets/images/organizations/theverge.com-50x50.jpg
-      width: 50
-      height: 50
+  name: The Verge on MSN.com
+  domain: msn.com
 
 topics:
   - AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.4B3EEC6ABCD0C42E12CB70FB4C5DD0A0
+  - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
     width: 700
-    height: 366
+    height: 367
     title: "Warner Bros. signs AI startup to help decide which films to back"
 
 related:
@@ -60,6 +54,6 @@ related:
         width: 700
         height: 525
 
-secured: "4gQl8i4rajhbxw5IcG1kdpx9IDv5HTEN4Oy6YKwr+7yuoeST0VhhktXMBmW2C25LXR3G9EPszWg3geDH7jMufQblmNS6nBvBPl8KNOq4U1HHLyy5eYjqfJwa1FwVbLHRq3nk98huZMZOyBnjh+m6cnRXlUGONpuJ99ONkjx3V3JNJtl2tcFnc0GbHHexWSz0tcuEPmwaPjPXhvXQADf7r+dxCZuKNRLIq/qmPsRwNbdLTiCGWX9XUsw09FToiCyXkE3AjsGXwL7kgzqw5vX8Ww==;sIPwfoCAgDr8PQA7+j3BxA=="
+secured: "zOiHfNnykisQgEW75A5Mz714VU77vYF+vFgyVmGiZDwnpwGXPt90XYaUJtEAF7vlXmCQNzlR9sxMgLUQ/9V1sa4CltSu8gwUNEvpreYMSjt0yP4UjaNypiREjdl0J/+WSyoZfpO4JS5Q6NcFdtZUr1N3MIzVOh+QPBKS4vtU/ma8JUaI5sdksMwBBVXBSaBpP3uyx2E29pDbnEdicdr02vFm9x6x8RFsUC9v9LV882mUwlmYLaSo4ZQ0wFY9bOyjodv2D+snpOJAoQ3Cp7V3rw==;2DCv7/TT9+PdDvbtsVmQxg=="
 ---
 

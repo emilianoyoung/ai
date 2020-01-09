@@ -23,6 +23,21 @@ images:
     height: 367
     title: "Self-driving cars will not fix our transportation woes"
 
+related:
+  - title: "Trump administration to outline support for self-driving cars"
+    excerpt: "LAS VEGAS -- The Trump administration on Wednesday will signal strong support for self-driving vehicles as it releases new guidance from federal agencies at CES. Transportation Secretary Elaine Chao is unveiling the administration's latest principles for autonomous vehicles, dubbed 4.0, which she says unifies efforts across 38 U.S. departments ..."
+    publishedDateTime: 2020-01-08T17:10:00Z
+    sourceUrl: https://www.autonews.com/ces/trump-administration-outline-support-self-driving-cars
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.5499366377D9FD1D50A3DD3F716DDCEC
+        width: 700
+        height: 525
+
 secured: "9wegc46u8ptiSuUMKnXGZGr5XhZ1Fmuu/PoLAkcuYJdCXNlhcXwrQ0SGwsTQ5XfoRZiO9jw0E7Soq6S1v6lRGl8DHphkTfNUxEcg6uoXyD+uG+RsgJN8KuimGwBluFzkINobr1DxrgU9vdMXoiGXDBuXvVA3ZiudIR1ZAqWYM+pXlH04NYUGN0VCMvsKqGeXAB3Ekjs/4t3I5fNV3L84S96UoKf0h/MhqNdsgfnVHla3dZobMIEM9w8xOnUt9uGWREsfJD9/L3iYSH1PhZhVwA==;XsrMv/bBG3qjKhl2X/12Hg=="
 ---
 

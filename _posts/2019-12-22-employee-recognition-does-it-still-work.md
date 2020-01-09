@@ -25,21 +25,6 @@ images:
     height: 392
     title: "Employee Recognition – Does It Still Work?"
 
-related:
-  - title: "Why Medical Dictation Is Still Better Than Voice Recognition ... For Now"
-    excerpt: "While health professionals increasingly use voice recognition and artificial intelligence-backed software programs for clinical documentation, they yield errors in seven percent of dictated words. While this number may seem like a small margin of error, it still leaves room for compromises in healthcare quality and patient safety. Up to 98,000 ..."
-    publishedDateTime: 2019-12-20T22:24:00Z
-    sourceUrl: https://www.healthitoutcomes.com/doc/why-medical-dictation-is-still-better-than-voice-recognition-for-now-0001
-    type: article
-    provider:
-      name: HealthITOUTCOMES
-      domain: healthitoutcomes.com
-    quality: 23
-    images:
-      - url: https://vertassets.blob.core.windows.net/sites/contentbribes/HITO-nl-popup.png
-        width: 874
-        height: 355
-
 secured: "zqY1XVoWYLiSn27RMiilQFIdbRAPx7CubAFQcPr7YJEO7cc4krJ1iG4NVUe/zuzIUyN8iyDFlrKIBCfnffziGlShzS5q7/iSgUk73j7zjG2Qh4/Yzd7T9/T/GYXZByMdXZVxkf4ZtyrKuZiHlTd34WZOHz9k82KuphPpzHpbH+Aj5NWUM+8N/ZKF94yMLBatoJO1KT3pTby7SCrQJnVHyv4275k0IGJ31R2tgdPA/ldPGdlBeQbL/DssMpl6TM3cWh9S5TwwSrW8LDgiwC3ghQ==;gSzgdqy5bvu011e7pbFUtA=="
 ---
 

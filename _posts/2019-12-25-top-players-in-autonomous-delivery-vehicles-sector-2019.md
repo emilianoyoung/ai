@@ -24,34 +24,17 @@ images:
     title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
 
 related:
-  - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
-    excerpt: "Baidu, which is China’s most prominent company in the field of AI ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote. When asked about specific timelines around the public availability for autonomous vehicles ..."
-    publishedDateTime: 2019-12-18T07:28:00Z
-    sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
-    ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+  - title: "Volvo Group Names Lead For New Autonomous Unit"
+    excerpt: "Nils Jaeger will oversee Volvo's efforts in autonomous and connected vehicles, including the driverless Vera port vehicle ... Volvo also has a partnership with Nvidia to develop artificial intelligence for self-driving vehicles. \"The Volvo Autonomous Solutions team will meet a growing demand and offer the best possible solutions to customers ..."
+    publishedDateTime: 2019-12-20T16:39:00Z
+    sourceUrl: https://www.benzinga.com/news/19/12/15026864/volvo-group-names-lead-for-new-autonomous-unit
+    ampUrl: https://amp.benzinga.com/amp/content/15026864
+    cdnAmpUrl: https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15026864
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: https://www.bing.com/th?id=ON.8CF4C4AFCA9D86B6870DBC94E3D0C75D
-        width: 700
-        height: 393
-  - title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
-    excerpt: "Top Team Innovates with Smart Contract based Insurance Settlement Solution Using Cutting-edge Machine Learning and Distributed Ledger Technology The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain ..."
-    publishedDateTime: 2019-12-23T13:54:00Z
-    sourceUrl: https://www.prnewswire.co.uk/news-releases/icertis-announces-winner-of-india-s-largest-ai-and-blockchain-hackathon-815839819.html
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.AD454DCF092DFC78D1D74D26DBCBD6DF
-        width: 600
-        height: 315
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "JDs731FFOJe/AiGVriW0pRWJfKaLXLtsMa+ekP5TmLE3zbD08F019QXLAObLvOvZMKMEy+H7FIB0HI/BRmNcVFqMkZRHPT4IGvoS6ucAH115je0oMCFzpayBbTMh/3k5/hmeDkhU1R0odE1SsajoGGI/P044RYfwKgJEdWrhzge06/JiP3MYcxiaMWlakEbvRp0WgkYOPJtEC53/mEX/nDTKd9WK6BqSd6omqLG/f61SDH0pqUeIZFwyRcJGJVkzMnzxhnHEbYxq1V1WqTKLHg==;7GEYAXSFwJ94BNkDDfch1g=="
 ---

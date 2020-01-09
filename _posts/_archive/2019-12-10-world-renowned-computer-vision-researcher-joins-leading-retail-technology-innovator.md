@@ -2,27 +2,21 @@
 category: news
 title: "World-renowned Computer Vision Researcher Joins Leading Retail Technology Innovator"
 excerpt: "With an expertise in computer vision, machine learning, and perception-based human computer interfaces, Darrell presently leads UC Berkeley's top-ranked Artificial Intelligence Laboratory, which has produced a great deal of fundamental work including ..."
-publishedDateTime: 2019-12-10T20:08:00Z
-sourceUrl: https://www.bakersfield.com/ap/news/world-renowned-computer-vision-researcher-joins-leading-retail-technology-innovator/article_f174fa5b-1084-5c6e-9306-2fe70e8a468d.html
+publishedDateTime: 2019-12-10T20:30:00Z
+sourceUrl: https://www.businesswire.com/news/home/20191210005983/en/World-renowned-Computer-Vision-Researcher-Joins-Leading-Retail
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
   - Computer Vision
 
-images:
-  - url: https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png
-    width: 1200
-    height: 630
-    title: "World-renowned Computer Vision Researcher Joins Leading Retail Technology Innovator"
-
-secured: "qI7klx+MTTPKIG3+qSy90zglDZFgFM+qr0kkdIM+3gDlFMpt/N2kIeKFHdqkZrNXOYvBwbjhc10rZxH9TxvddOvp1RAOqPbgFowDh94vAGSFD7F3es0BEWXkoFNjsOhaSNOdRKZpazz80JvZO4fMQcJE9yr8NWFwVj0Y2wDUBPgF0eASHc8zIH2Vpn/1PXh70M4t97o0CyfdTpw6AfMEgFE2BaoqTGkA+vyto1zNoE1xJvurDNU90yjIFMOJOHnyZerfaX7lW0CQILQWuDIJ7A==;1hVsBUbuyvBFOefMChQ3zA=="
+secured: "1IrK5X7+Zci0eRFS1DgfUohKZRhlscxiXsGyIrLxiu0juZ26Eu7xefC3bkUzh9Mojv6zJ2z6JRKF+RV4+fypfgAqJ169EuExWHqwNv0w8hY6kbOOPBtMcmLY4aJcLGxGmCJJn97ng5PbyOiLeV01OA2YbN72MpgeR3bAN7jE7s3GqUTikPjiKCKPQ09NSVCp7PN1039LNyGPPO1M3xpM0gD0YnUUzSi8X2PYFqK3MNsxzrGiInX2BtzYEOxwykUMTx2CBmKJ4MchJI1mr+WGaA==;Ho0Kg1WIIfp5UjtRfRFfCA=="
 ---
 

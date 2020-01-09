@@ -52,6 +52,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6E807899EDD97D60A39873F2A0BD1CA1
         width: 600
         height: 315
+  - title: "Police to Implement Facial Recognition at Cardiff-Swansea Football Match"
+    excerpt: "South Wales Police has announced that it will be deploying facial recognition technology at the upcoming Premier League football match between Cardiff City FC and Swansea City FC at Cardiff City Stadium this Sunday, 12 January. In a statement, South Wales Police said: “We will be deploying our facial recognition technology at key areas ahead ..."
+    publishedDateTime: 2020-01-09T11:17:00Z
+    sourceUrl: https://www.infosecurity-magazine.com/news/police-implement-facial-recognition/
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 38
+    images:
+      - url: https://www.bing.com/th?id=ON.79369EB21DF3A5335AF056FFBEB3E7E4
+        width: 300
+        height: 300
   - title: "South Wales Police to once again use facial recognition to deter troublemakers at Cardiff City v Swansea City derby match"
     excerpt: "The technology is to be used once again in order to minimise the chances of trouble at the match between Cardiff City and Swansea City"
     publishedDateTime: 2020-01-08T18:31:54Z

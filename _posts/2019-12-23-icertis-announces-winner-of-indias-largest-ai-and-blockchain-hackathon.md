@@ -24,34 +24,36 @@ images:
     title: "Icertis Announces Winner of India's Largest AI and Blockchain Hackathon"
 
 related:
-  - title: "Nvidia announces a host of advances in AI and Automobiles at GTC 2019"
-    excerpt: "Baidu, which is China’s most prominent company in the field of AI ... In China, Didi and SAIC have already partnered with Nvidia for its AI platform for self-driving cars. A few other autonomous vehicle concepts were also shown during the keynote. When asked about specific timelines around the public availability for autonomous vehicles ..."
-    publishedDateTime: 2019-12-18T07:28:00Z
-    sourceUrl: https://www.techradar.com/in/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
-    ampUrl: https://www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
-    cdnAmpUrl: https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-announces-a-host-of-advances-in-ai-and-automobiles-at-gtc-2019
+  - title: "Farmers’ kids win India’s largest AI, Blockchain hackathon"
+    excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. “We were amazed by the range and depth ..."
+    publishedDateTime: 2019-12-24T14:33:00Z
+    sourceUrl: https://www.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP.html
+    ampUrl: https://m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP_amp.html
+    cdnAmpUrl: https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/farmers-kids-win-india-s-largest-ai-blockchain-hackathon/story-AZoVycvkfe6Egg46L2jqaP_amp.html
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.8CF4C4AFCA9D86B6870DBC94E3D0C75D
+      - url: https://www.bing.com/th?id=ON.AA2934010CD097B899217A016CC6C78A
         width: 700
         height: 393
-  - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
-    excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
-    publishedDateTime: 2019-12-25T06:38:00Z
-    sourceUrl: https://analyticsindiamag.com/top-players-autonomous-delivery-vehicles-sector-2019/
+  - title: "Farmers' kids win India's largest AI, Blockchain hackathon"
+    excerpt: "The Hackathon challenge required the teams to build a web and mobile interface, develop and train their AI/ML algorithms and utilize appropriate cloud services including the Microsoft Azure Blockchain as a Service. \"We were amazed by the range and depth of submissions and the sheer quality of talent on display. It also underscores the talent ..."
+    publishedDateTime: 2019-12-25T10:17:00Z
+    sourceUrl: https://english.manoramaonline.com/news/campus-reporter/2019/12/25/farmers-kids-win-indias-largest-ai-blockchain-hackathon.html
+    ampUrl: https://english.manoramaonline.com/news/campus-reporter/2019/12/25/farmers-kids-win-indias-largest-ai-blockchain-hackathon.amp.html
+    cdnAmpUrl: https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/news/campus-reporter/2019/12/25/farmers-kids-win-indias-largest-ai-blockchain-hackathon.amp.html
     type: article
     provider:
-      name: India
-      domain: analyticsindiamag.com
-    quality: 24
+      name: Manorama Online
+      domain: manoramaonline.com
+    quality: 59
     images:
-      - url: https://www.bing.com/th?id=ON.ADF1C0D6AF294B0F9C2C687AC95AABB7
+      - url: https://www.bing.com/th?id=ON.41FF715CD980C29C40AD0564CC22BAD7
         width: 700
-        height: 393
+        height: 364
 
 secured: "jhJtLIBT3rauS6ORbQJg5pwk4Bm0nVnD5nPo4FPhUsxKB1bCHsyDyv7tbaCWHFB3HhFgnTqju7W+oCXNdkCAWdGES0mrSzXFiRnsF55Sw8YCqGMHN1uF3lSayJn06D7/Wkqx79DM7wfsrcFAHuMoxV1IheqQv1hGFhIcSIqq8ZaQ907KkKattJU1DnsFGZq8UupZB3xXbF1ahTJ+964n2eWdrOhQAFbmzGLYPUm4+s0QCkH3IkUxXEOdXhO6qs1M9xdDqPf11W7VA3Zft278NA==;IcCCBedksCzKkRX7rd2jLA=="
 ---

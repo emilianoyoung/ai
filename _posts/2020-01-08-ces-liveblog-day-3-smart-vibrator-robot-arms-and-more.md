@@ -8,7 +8,7 @@ ampUrl: https://www.wired.com/story/ces-2020-liveblog-day-3/amp
 cdnAmpUrl: https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-liveblog-day-3/amp
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 700
     height: 466
     title: "CES Liveblog Day 3: Smart Vibrator, Robot Arms, and More"
+
+related:
+  - title: "Sensors and robotics are becoming more and more inseparable"
+    excerpt: "The robot thus formed could determine the state of an object by touch. Subsequently, research work on computer image processing and object recognition using TV cameras. In 1968, J. McCarthy and others at the Stanford Artificial Intelligence Laboratory in the United States studied a novel subject-developing computer systems with hands ..."
+    publishedDateTime: 2020-01-09T11:00:00Z
+    sourceUrl: https://www.itproportal.com/features/sensors-and-robotics-are-becoming-more-and-more-inseparable/
+    ampUrl: https://www.itproportal.com/amp/features/sensors-and-robotics-are-becoming-more-and-more-inseparable/
+    cdnAmpUrl: https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/sensors-and-robotics-are-becoming-more-and-more-inseparable/
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.C67D7F2ECB2AA157ABBD34248BD89622
+        width: 700
+        height: 466
 
 secured: "O8JKW+/tGjewE9I0b3ArJP6G4dpcq7fUCXcPrEkM+ST72Rk+HwvOH8bnpwegQOae0Sb1vcPBecFjy92utnMihQfAwUPjyDQTkYU2jfmC7ml7Cx//OAkFhSki/854BTD5bzLfbLVx3FaMd/JQgpp0ELjm5gniYO64qP+KrOgVd5Ek4TyOyZ+dZoxVdNggWWXKvMOiut714vwTJzlwOOOcrmRjLk8uHyJ0lkpX598Fd7E5TU0uvobFdCWMlKewM9VgBfO792x8g8JdKdgqcmkT4w==;kPIOCG3nJomYfsItNOefiA=="
 ---

@@ -271,6 +271,19 @@ related:
       - url: https://www.bing.com/th?id=ON.1D14B61B8685ABEA05F40881483B5EDF
         width: 700
         height: 393
+  - title: "CES 2020: What it's like to ride in a self-driving Lyft"
+    excerpt: "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app, I was presented with the option to travel in one of its autonomous cars,"
+    publishedDateTime: 2020-01-09T11:00:50Z
+    sourceUrl: https://www.msn.com/en-us/autos/news/ces-2020-what-its-like-to-ride-in-a-self-driving-lyft/ar-BBYMi90
+    type: article
+    provider:
+      name: Quartz on MSN.com
+      domain: msn.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.D264674445A75BDCEB4BE98A7FFCEBF1
+        width: 600
+        height: 315
   - title: "Behind the Scenes With Aptiv’s Self-Driving Car Nerve Center at CES 2020"
     excerpt: "As fun as it is to get a ride in a self-driving car (even if it does have a safety driver) there are only so many times that is exciting enough to write about. So, for a change, Aptiv, a leading automotive component supplier and innovator in self-driving technology, offered me a behind-the-scenes tour of their Las Vegas Technical Center instead ..."
     publishedDateTime: 2020-01-07T17:21:00Z

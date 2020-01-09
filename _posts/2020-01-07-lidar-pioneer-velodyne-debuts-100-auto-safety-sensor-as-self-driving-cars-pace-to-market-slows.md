@@ -8,8 +8,8 @@ ampUrl: https://www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velody
 cdnAmpUrl: https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/01/07/lidar-pioneer-velodyne-debuts-100-auto-safety-sensor-as-self-driving-cars-pace-to-market-slows/amp/
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Forbes
@@ -30,30 +30,30 @@ images:
     title: "Lidar Pioneer Velodyne Debuts $100 Auto Safety Sensor As Self-Driving Cars’ Pace To Market Slows"
 
 related:
-  - title: "Bosch’s sharp-sighted lidar rounds out its suite of self-driving technology"
-    excerpt: "One of its top executives explained lidar fills a big sensor gap in its suite of autonomous driving technology, and it makes driverless cars a viable possibility. Self-driving cars need to paint a highly detailed digital image of the world around them in order to operate safely and reliably in a variety of different conditions. Bosch has spent ..."
-    publishedDateTime: 2020-01-02T13:48:00Z
-    sourceUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/
-    ampUrl: https://www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
-    cdnAmpUrl: https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-announces-first-lidar-for-self-driving-cars-ahead-of-ces-2020/?amp
+  - title: "Sony (SNE) Develops Vision Sensor for Self-Driving Vehicles"
+    excerpt: "The Tokyo, Japan-based company is joining the race to develop LiDAR (Light Detection and Ranging) vision-sensing technology, which is a vital part for safety and functionality in self-driving vehicles. Self-driving cars, which are set to disrupt the automobile industry, have already hit the roads of California, Texas, Arizona, Washington ..."
+    publishedDateTime: 2020-01-03T16:05:00Z
+    sourceUrl: https://finance.yahoo.com/news/sony-sne-develops-vision-sensor-151403675.html
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 72
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 24
     images:
-      - url: https://www.bing.com/th?id=ON.DA5C09FD9F05EB489637721590E06E49
-        width: 700
-        height: 366
-  - title: "Self-driving moves closer with new LiDar innovation"
-    excerpt: "Bosch creates first long-range LiDar for cars that makes autonomous driving safer Self-driving cars might just have moved a step closer after German automotive powerhouse Robert Bosch revealed what it says is the world’s first long-range LiDar system. The Light Detection and Ranging (LiDar) system, critical to a car’s ability to identify ..."
-    publishedDateTime: 2020-01-05T19:10:00Z
-    sourceUrl: https://www.motoring.com.au/self-driving-moves-closer-with-new-lidar-innovation-122300/
+      - url: https://www.bing.com/th?id=ON.1706D6168AAE4F906F97C5E1997C51B6
+        width: 635
+        height: 400
+  - title: "Qualcomm Shifts Gears, Turns Towards Autonomous Driving Safety"
+    excerpt: "Its foray into safety/autonomy systems pits it against several large rivals, including Google-parent Alphabet-Waymo and Intel-Mobileye. In addition, Telsa and other automakers have their own in-house initiatives. Ford bought artificial intelligence start-up Argo for $1 billion to bolster its autonomous driving work. GM acquired Sidecar's assets ..."
+    publishedDateTime: 2020-01-07T22:26:00Z
+    sourceUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html
+    ampUrl: https://www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
+    cdnAmpUrl: https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/news/headlines/Qualcomm-Shifts-Gears-Turns-Towards-Autonomous-Driving-Safety.html?AMP
     type: article
     provider:
-      name: motoring.com.au
-      domain: motoring.com.au
-    quality: 4
+      name: Governing
+      domain: governing.com
+    quality: 24
 
 secured: "jP1Pb711Hft8ITViU41/gGU3cQNptNBUsSHWv3avnatQTvbajzD2dMR1cJ1TnnDWOneFj7NDp9wKGibo4fItiT+AyQ15yEUx0tysKUKN9ZgQ3nTdWmMcDx9CW2xNYbndEkqW26zopnFFpjWFUOb3mlNT2fBKl56M8HSI3BMJpdfKW0RSKTA9s5+/vlC5o9H1N+3SFPEjw/o2Yur815QMZFquIeFREKDL+jhF3qJ8Q1gEs9QJ7LNSUfZnLPdndKxiLRhrYEog+uGJch2cAEJMHQ==;VTFM433V2EaRdOeFSvXynQ=="
 ---

@@ -38,19 +38,6 @@ related:
       - url: https://www.bing.com/th?id=ON.29F42CF3E2263A308997BD78C2C68CC6
         width: 700
         height: 350
-  - title: "How Machine Learning Drives the Deceptive World of Deepfakes"
-    excerpt: "Our scientific understanding of the universe is advancing at an unprecedented rate. Join Focal Point as we meet the people building tomorrow’s world. Witness the astonishing discoveries that will propel humanity forward and zero-in on the places where science-fiction becomes science-reality."
-    publishedDateTime: 2020-01-06T21:47:00Z
-    sourceUrl: https://www.seeker.com/videos/tech/how-machine-learning-drives-the-deceptive-world-of-deepfakes
-    type: article
-    provider:
-      name: Seeker
-      domain: seeker.com
-    quality: 39
-    images:
-      - url: https://www.bing.com/th?id=ON.CE7159D1CC8B9BF35C8BD54872D50A4B
-        width: 700
-        height: 367
 
 secured: "hl+7V4tvfkO9q7NkcHGQSUY6LFtnIc6GTQ960hnfUuenWPpRZhB67ELWFLlNz4Sm1pWzq3VpZV0tymAsM22h465clBf56o8ZBGjpOuuWB/R0ceZlOSw7XU/QHqT6dria1jA/2BasHqKFP0PvAHK3lPPXJip3WLnw+WO5uZOh8PHnFX4AY0vuv9tntChxXdxVYb0LVB6E3kWbF8ToIPgnfbEz1cn4aK2ZdgyVl6rjfuWhopNzU9JGC026LOCgdSuHJexv1WDAf+hvw7B4xGOY1w==;rniQZ10BRzhHbn4+inD+mQ=="
 ---

@@ -46,18 +46,18 @@ related:
         width: 700
         height: 466
   - title: "AI Accelerator Card Offers Face, Object Recognition Applications"
-    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. This is a companion discussion topic for the original ..."
-    publishedDateTime: 2019-12-20T23:50:00Z
-    sourceUrl: https://businesscomputingworld.co.uk/t/ai-accelerator-card-offers-face-object-recognition-applications/213552
+    excerpt: "The card is built with a third-generation Movidius Myriad X Vision Processing Unit (VPU) from Intel, which is particularly well-suited to computer vision applications like face and object recognition. According to Innodisk, the AI accelerator card ..."
+    publishedDateTime: 2019-12-20T00:00:00Z
+    sourceUrl: https://findbiometrics.com/biometrics-news-ai-accelerator-card-offers-face-object-recognition-applications-122008/
     type: article
     provider:
-      name: BCW
-      domain: businesscomputingworld.co.uk
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
     quality: 54
     images:
-      - url: https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg
-        width: 512
-        height: 512
+      - url: https://findbiometrics.com/wp-content/uploads/computervision.jpeg
+        width: 400
+        height: 258
   - title: "Northampton bans facial recognition technology, becoming third community in Massachusetts to do so"
     excerpt: "The Northampton City Council voted to ban facial recognition technology Thursday night, becoming the third community in the state to do so. The ordinance, which passed unanimously in the nine-person city council, prohibits Northampton from collecting and using people’s biometric information through surveillance technology, according to ..."
     publishedDateTime: 2019-12-20T19:25:00Z
@@ -240,6 +240,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "1CQtPsttCs8tA0Rkb9+lFviOQtruJt+oWV8nBDvvXnrpwydFCnk1RvBUlZwSIaOcNEF2x974P3BIBw1Wq1kCarHtHquiJSF2BSGW9AQyduxHGAQDrX2xcz8AqXTmw2vf65MUEO3QiGLC6GxQShQmzOfGOXABinMKIxja4PTkVoL0sibdxXfucBnYX0W8aOrkYAHTmPphFgXhB5bHZMEJ5iDnmFfJv0Wo7f+j1ZCHFWq0Eg1vHXj5+fjwUVvBElaB76uqjq9qvlR0lOpehHe23Q==;LMJZ6ekiyhjjhjBgvdDWjQ=="
+secured: "mM0N7HzZnsHkeiPk48uXKCEl2+XSRAmDAUi7Jh/75jUz+LpK6rSW9LPJSg0NMhNJDeE50hGNJWTdn8SZQelHrQFwnRRFfGObJfSxzMK/VXJQANRbCJeY6PDsohvxFADz5LNItau+m6LCXIOF/kgaWeAC7JeKU9RnJ3eIErfN6hYw88qMuNdKkLIEMiP6At3GPUF96lf2LAt/b4l7ZzLxvDy4XOkxRk6vFkVxKwh/GjiElLqo4xhvYZAa4jX7vhkPi6Slc58yS4IwazjuZs3r9A==;1WUHMsiQxedv3RlW2cd7yw=="
 ---
 

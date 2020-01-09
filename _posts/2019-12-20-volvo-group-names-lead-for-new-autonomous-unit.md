@@ -19,6 +19,21 @@ topics:
   - AI
   - AI in Autos
 
+related:
+  - title: "Top Players In Autonomous Delivery Vehicles Sector: 2019"
+    excerpt: "We have all heard about autonomous driving mostly in terms of driverless cars, taxis and buses ... While companies strive hard to make up for these challenges, let’s sit back and wait for the comforts that these artificial intelligence devices will bring."
+    publishedDateTime: 2019-12-25T06:38:00Z
+    sourceUrl: https://analyticsindiamag.com/top-players-autonomous-delivery-vehicles-sector-2019/
+    type: article
+    provider:
+      name: India
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.ADF1C0D6AF294B0F9C2C687AC95AABB7
+        width: 700
+        height: 393
+
 secured: "pVO9mS9HyiYevMZjEEhJGSXAvs8FiCBriQwCaq95EFTPMgAnk1ARjRMMvR1L4L0zz9dCgKJb7ZvmoOSUva8ILO4r06SOwQYP8OLnnKyvo44/Yvtf469gZazF6LC1BTh77UGZsFSCw+7urrGLcPx9O+FVYPk1eBmOuyS2j4jiwknT9C5XB3Bop2NF2pirOhotG4SqJ+wXzuveP+zEe/MZ9tw6EsSb9j0dncAKHT5JqikoK/I7l5uiOS03rqmRaEhb4J9Mxu8ZdiZ2irLGP3TtBw==;9JAr63kfpDB3xlJKwsoLdg=="
 ---
 

@@ -244,6 +244,21 @@ related:
       - url: https://www.bing.com/th?id=ON.AAEC4A53E940E3C37BAEFBB71F29E062
         width: 700
         height: 437
+  - title: "Lidar laser-sensing technology: from self-driving cars to dance contests"
+    excerpt: "Makers of self-driving car supporting technology Lidar are looking at other avenues to work in while waiting for the autmobiles to take off. Self-driving cars employ lidar, a remote sensing technology using pulsed laser light the way radar uses radio waves, and lidar makers waiting for the automotive market to take off are courting new ..."
+    publishedDateTime: 2020-01-09T11:30:00Z
+    sourceUrl: https://www.deccanchronicle.com/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    ampUrl: https://www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    cdnAmpUrl: https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/090120/lidar-laser-sensing-technology-from-self-driving-cars-to-dance-contes.html
+    type: article
+    provider:
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 43
+    images:
+      - url: https://www.bing.com/th?id=ON.5E65B606C1888F89059EA97DAA66A20E
+        width: 700
+        height: 392
   - title: "CES 2020: Toyota is building a 'smart' city to test AI, robots and self-driving cars"
     excerpt: "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment."
     publishedDateTime: 2020-01-08T10:38:00Z
