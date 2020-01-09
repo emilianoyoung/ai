@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Watch Adobe show off its impressive AI-powered vertical video tech"
-excerpt: "Intel has Jason Levine, Principal Worldwide Evangelist for Adobe Creative Cloud, and his fabulous head of hair to thank for the most entertaining part of its CES press event. The chipmaker&#39;s executive VP,"
-publishedDateTime: 2020-01-07T10:16:00Z
-sourceUrl: https://news.yahoo.com/2020-01-07-watch-adobe-intel-press-ces.html
+excerpt: "The Adobe evangelist showed how easy it is to erase backgrounds and select subjects with the combined powers of Adobe's Sensei AI engine and Intel's chips. He also showed off Adobe's AI-powered instant vertical video tech, which can be used to create vertical clips from horizontal ones. The technology doesn't just crop videos, though ..."
+publishedDateTime: 2020-01-07T09:16:00Z
+sourceUrl: https://www.engadget.com/2020/01/07/watch-adobe-intel-press-ces/
+ampUrl: https://www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
+cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/07/watch-adobe-intel-press-ces/
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
-  name: YAHOO!
-  domain: yahoo.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: /assets/images/organizations/engadget.com-50x50.jpg
+      width: 50
+      height: 50
 
 topics:
   - AI
   - AI Hardware
 
 images:
-  - url: https://www.bing.com/th?id=ON.411A92D3635747EEB70B0DC048B6C009
+  - url: https://www.bing.com/th?id=ON.1BD6A0FE9119BCC2512B0EDD502357CD
     width: 700
-    height: 411
+    height: 367
     title: "Watch Adobe show off its impressive AI-powered vertical video tech"
 
 related:
@@ -51,6 +57,6 @@ related:
         width: 700
         height: 367
 
-secured: "HcfQ7Dew7ohAEjjjixoLZjIXB4xLel7YIZW/Z4OKM47rK2OYNGat52lmxRWSjmXzMsKDOPkD1jsjLT6F/lVROoOupzqC/XfcZ59GRl6rKzohL99nhbzr+g89qrrQB8uYEJ9yYlQ8fdeMDvH6+S3tgpOFzJ7Ah3opkhAct3hwhdRunpZ344SxIqQhmM6oFvauOY6DKI/5MA89IL2ohwqFv9QNRD0BA4U8jkFD4fbDFdDtcNcuSBFqdHb0y7cP8Gt+KLCZSgutUflwF8FzAilkIw==;3FHrfSTqIQdd5zzHtr0aEg=="
+secured: "UUSAqOrk65MWz37dj0hVd0+bmyg5farA4ORLEjw+rxW5jKLGLNgPv6BBZUBhggWi0Yuc3bUKHfkfG8g0knML0r973JBTocKe5DId3nUOhWoZvQBN6abc/0n5gMJbARACuklqgQZVPKPRSV6KEAqgVfELD37m9qZkUcTcBFlfJVYiQaPQ4iTLQUn88SArBLDH1tAirtYmffLPjkn9f7y67hztzTxf/K6RktmmJ7vqPKYjJC4Qm1zX/2q4y57mhyLABxXzXC7WBEZUUjmT9aMMTg==;rpeAq5pTh0sVpRkIPND8TQ=="
 ---
 

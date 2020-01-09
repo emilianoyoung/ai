@@ -1,29 +1,29 @@
 ---
 category: news
-title: "In 2020, let’s stop AI ethics-washing and actually do something"
-excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
-publishedDateTime: 2019-12-27T10:07:00Z
-sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
-ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
-cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
+excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
+publishedDateTime: 2020-01-09T01:49:00Z
+sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: MIT Technology Review
-  domain: technologyreview.com
+  name: Variety
+  domain: variety.com
 
 topics:
   - AI
-  - AI Ethics
+  - Facebook AI
 
 images:
-  - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
+  - url: https://www.bing.com/th?id=ON.CFF578B438952A2323A2C2ED155BC1ED
     width: 700
     height: 393
-    title: "In 2020, let’s stop AI ethics-washing and actually do something"
+    title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
 
 related:
   - title: "Top minds in machine learning predict where AI is going in 2020"
@@ -146,6 +146,21 @@ related:
       - url: https://www.bing.com/th?id=ON.809AFEB18E18751E63FC09CBD66B6358
         width: 600
         height: 315
+  - title: "In 2020, let’s stop AI ethics-washing and actually do something"
+    excerpt: "Last year, just as I was beginning to cover artificial intelligence, the AI world was getting a major wake-up call. There were some incredible advancements in AI research in 2018—from reinforcement learning to generative adversarial networks (GANs) to better natural-language understanding. But the year also saw several high-profile ..."
+    publishedDateTime: 2019-12-27T10:07:00Z
+    sourceUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/
+    ampUrl: https://www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    cdnAmpUrl: https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/614992/ai-ethics-washing-time-to-act/amp/
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: https://www.bing.com/th?id=ON.1572B9AE166C04A65A84FA17DF0F0C75
+        width: 700
+        height: 393
   - title: "The Top 5 Fintech Trends Everyone Should Be Watching In 2020"
     excerpt: "Here are the top 5 fintech trends everyone should be watching in 2020 because they will impact anything that involves money. 1. Hyper-personalization via big data and AI For many years, marketing experts espoused the benefits of personalization to attract customers and keep them loyal. Today, thanks to big data and artificial intelligence that ..."
     publishedDateTime: 2019-12-30T05:27:00Z
@@ -204,21 +219,6 @@ related:
       - url: https://www.bing.com/th?id=ON.454B02E12AAF5C0F447652DC6E0F9723
         width: 640
         height: 360
-  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
-    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
-    publishedDateTime: 2020-01-09T01:49:00Z
-    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
-    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
-    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 54
-    images:
-      - url: https://www.bing.com/th?id=ON.CFF578B438952A2323A2C2ED155BC1ED
-        width: 700
-        height: 393
   - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
     excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
     publishedDateTime: 2020-01-02T15:17:00Z
@@ -306,6 +306,6 @@ related:
         width: 592
         height: 568
 
-secured: "ViNwgB/+A45+GXvlOPAftCdUq40pDP6qeR53Lna2wCF9wJzjZfYe1/A+e0418ydBNP9qwC1ht/8fIe4/Li70rD5uHAdfKyDCpSXx4djegjMt1/cR3TI92S5ozSUGt5zsEjJhLfgmcXCX66AFXEtA1+zWP4i/niPMwgHTZpg37M3Bimf1wXQajz4Gc90uu+SNsUz7JOfeZOXCftGnZahA6Riegp4rXr2cnH0hNiebDWOUDsZ8FnMkG6fKuWgiTfjU9M514xWLDTHoJcm6UVp67A==;aFRFPIfvJz1Fqt2Yhwy86g=="
+secured: "PEnHjE65rEbkWaV0tVS2s5ImNp3dM35mvmCztsV0Ls3/N7OhLgmQb2f5stg8tAQcJYATbgLFM2vUwUFT8hfqZhkYuE8L+U7mGYGhW6nCFaP2C2Z5a5SMhvcE+YHXpHvXb+chYXHGqvKDFDPaIU4AXUz3ze4RRbsnDaqwwSTLfcp1jgsdM9E4drAtoHI2oq8VhR/af6bxUbXo5IxUp1L7mAy6bRUr88iAAlNkF9ElOQXXHRj2YAoSUftgc+ycCWrSRJt684cYjcvgMt2jQdvjGQ==;PCIq+C+h4caji+ZCLArVVQ=="
 ---
 

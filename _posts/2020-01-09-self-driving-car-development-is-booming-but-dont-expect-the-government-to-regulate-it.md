@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
-excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
-publishedDateTime: 2020-01-06T21:35:00Z
-sourceUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/
-ampUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
-cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+title: "Self-driving car development is booming, but don't expect the government to regulate it"
+excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
+publishedDateTime: 2020-01-09T01:16:00Z
+sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
 type: article
-quality: 80
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: CNET
+  domain: cnet.com
   images:
-    - url: /assets/images/organizations/venturebeat.com-50x50.jpg
+    - url: /assets/images/organizations/cnet.com-50x50.jpg
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
-  - url: https://www.bing.com/th?id=ON.01BD3A1C864BB277478A346DD44A879E
+  - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
     width: 700
-    height: 435
-    title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
+    height: 366
+    title: "Self-driving car development is booming, but don't expect the government to regulate it"
 
 related:
   - title: "Toyota is building a 'smart' city to test AI, robots and self-driving cars"
@@ -89,6 +90,21 @@ related:
       - url: https://www.bing.com/th?id=ON.BDA578679B76BEC80AB3E3383EC5007C
         width: 700
         height: 392
+  - title: "Toyota plans to build a town in Japan for testing AI, robots, and sustainable energy"
+    excerpt: "“We want to turn AI into intelligence amplified in a world where AI has negative connotations,” he said. “Right now, you might think this guy has lost his mind. Is he a Japanese version of Willy Wonka?” He said he believes it is a chance to weave together a new kind of city, all with views of Mount Fuji in Japan."
+    publishedDateTime: 2020-01-06T21:35:00Z
+    sourceUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/
+    ampUrl: https://venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+    cdnAmpUrl: https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/toyota-plans-to-build-a-town-of-the-future-in-japan/amp/
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: https://www.bing.com/th?id=ON.01BD3A1C864BB277478A346DD44A879E
+        width: 700
+        height: 435
   - title: "Toyota plans to build 'city of the future' with housing, robots and autonomous vehicles in Japan"
     excerpt: "Fuji in Japan. The \"Woven City\" will include thousands of residents and will test autonomous vehicles, robotics, personal mobility, smart homes and artificial intelligence. Toyota plans to build a \"prototype city of the future\" on a 175-acre site at the base of Mt. Fuji in Japan to test and develop new emerging technologies such as autonomous ..."
     publishedDateTime: 2020-01-07T21:04:00Z
@@ -134,21 +150,6 @@ related:
       - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
         width: 700
         height: 466
-  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
-    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
-    publishedDateTime: 2020-01-09T01:16:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 66
-    images:
-      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
-        width: 700
-        height: 366
   - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
     excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
     publishedDateTime: 2020-01-06T10:31:00Z
@@ -336,6 +337,6 @@ related:
         width: 500
         height: 500
 
-secured: "5/qJt00yQb3WPPpP8dk942nWPm0VRNtGCFSKYQSTFMVBUYi5wE5xSUpbk7JloGmHMjayadE2gptCrToRfZVdJfVPaXY/fheeaQy3GcIuqgddHy0ej4fSvlOX/6Pp2kTBU1qBPiblhXuN4oRTbCPQd6xa0kuXfvVj4K+/QzdzkwCvCLLDy5O0J4PcnI3MMWpRdolfDDVpbV6+rSj5PYUOpxqSDPoasbxZ1KpaJBXGHm5IvdNRsLeifcPG1aTWbxQ32bgugPJ8LXQfkuJ0LTB6aQ==;pX+zfH1o0nFO0gJryOEADw=="
+secured: "umOniiPxM5bK+vl3j/iDzU+MzVSIpOaC/1OyQsaxCuCIj5mJmRQ+v2g/Q5D39DVjatdHxgGe2SaIeYg6jMP2nWmA1W7R48yWzm09UDWkp5O83+NRYZjwbEJHqTWUlubmQIM1vGc/QLfkoM92M8rXKvrMHlIv57CDEW+MAnZnYHItncQvwtbbC0o0tL9Fdwvipm8AfEKM8JFiOcJ00t5NtUCR+wUzaLV0sV5vHv0ScNCDvaIxe7/6B17Ix1w7luF46d4NsIbYnX7gc2CHqRtRQg==;h1QzE2tQbb1aCZF56TunlA=="
 ---
 

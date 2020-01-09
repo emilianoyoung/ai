@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Artificial intelligence drives autonomous ship project at Stena Line"
-excerpt: "Swedish shipping company Stena Line is expanding the reach of artificial intelligence (AI) as a fuel-efficiency and cost-saving tool within ... The pilot is using an AI-supported automation system modelled on 5G-enabled driverless transport. It uses Ericsson 5G technology to achieve upload speeds of over 200Mbps and download speeds above ..."
-publishedDateTime: 2019-12-18T11:32:00Z
+excerpt: "Swedish shipping company Stena Line is expanding the reach of artificial intelligence (AI ... controlled from a command centre using the operating mobile network.” The self-driving MilliAmpère is equipped with sensors that record its surroundings ..."
+publishedDateTime: 2019-12-18T11:00:00Z
 sourceUrl: https://www.computerweekly.com/news/252475683/Artificial-intelligence-drives-autonomous-ship-project-at-Stena-Line
 ampUrl: https://www.computerweekly.com/news/252475683/Artificial-intelligence-drives-autonomous-ship-project-at-Stena-Line?amp=1
 cdnAmpUrl: https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252475683/Artificial-intelligence-drives-autonomous-ship-project-at-Stena-Line?amp=1
@@ -19,6 +19,6 @@ topics:
   - AI
   - AI in Autos
 
-secured: "P0swYmu8SFI8G0H6jK4jdLmYiGyiKv/SZGjwM6j7nJJVRDgwAV+o5e+0iE5nx7AdDvIC08/tnja+2ypK9DV3r0+iKjsGNd9YjG7y4KIWuxzhM9AdfCOeETjk/U0rNOmgU/DAJ7LHyemmtsswHzoXdmbqgvVMz4lz+UwDTZAKNIcJLZpe0p31kSOI7uWPUNyF1RFVpysVxRUoGRJeva1nUu6IiCiIU8mWRodQAK1+PBdG5lY+B8BMRqAa2Fivw6jUQcuUThCoVYhuNhKhY3fvYg==;aT6C0JdDWFEsfSpCBo6ItA=="
+secured: "kruxtza0DfWEsGSO+rAEqGIhlhq46Avdu+xeX6GYEvFcxF25o3xdx7jO1MxEweQrEWL8HpkXy+aQ6kyn6s9s0mCxtiQ7rp6tnmush91arxoxP+w3WbjQ0imIBKgYCAAPj45G41hUXVLSZdn+fINdT27dQP+7vIqKlgqedNCVCEz3ff26J1bzLw0eoI20laolCs/z2em0dKnVKpw5mx2Wjd4as1sW2rlU3616d9c90VH/rFY6sX4xM1RSsOlEEKMcGuU3zpLBYWr55ggbuId4Aw==;DxyoxeptO2PIej7GZkPwUg=="
 ---
 

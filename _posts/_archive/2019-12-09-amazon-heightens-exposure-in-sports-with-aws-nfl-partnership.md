@@ -2,15 +2,15 @@
 category: news
 title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
 excerpt: "More on the Headlines AWS and NFL intend to develop a platform — Digital Athlete — by leveraging the former’s Artificial Intelligence (AI), ML and computer vision technologies such as Amazon Rekognition. These technologies will be applied to NFL’s ..."
-publishedDateTime: 2019-12-09T00:00:00Z
-sourceUrl: https://finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
+publishedDateTime: 2019-12-09T15:36:00Z
+sourceUrl: https://sg.finance.yahoo.com/news/amazon-heightens-exposure-sports-aws-145602312.html
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Yahoo Finance
+  name: Yahoo Singapore Finance
   domain: yahoo.com
 
 topics:
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Amazon Heightens Exposure in Sports With AWS-NFL Partnership"
 
-secured: "Gb2g9g/gVEuikAQpjVgxoNXeHs1XI0Okbnt1Rpw/t/4oPWGhLjJYVTCukTl57SsEAeIwV9iv5HEEqjtRIUfduiePKAhfugYVrrNmko0TAbZydHVd/BelPZx3mw8TFtnM/T4VwEfDWgMvTKCnVlyafGQ37ce2N4uqdDilr/KS1XsSUWvJzSOM2cl3m5L5QqEg0CoTD54xiDWxVPl+Y+SVi3U6Dgn569IWphf/MaoJZvXbzYNsy/TSkFxlU5opTNprKCo9xK1xrC0HAGJgqB6Vnw==;ASzLGrwfyb4TKaCyVru+8A=="
+secured: "T4yYbfkSNCG2g0RaUHJ5waR03POZGDXow/s2Iut2ZGkwSFEyPv3bpn3AX6+eM5oJvnEa+sb/+RWJwqy5WjLdhYCVas2Tw+Jkour1PaqOTEXuKlq8ep5f4eKp9AAxf0/gPGmATMt7g99ZLSue4s70ZdnpeGI2qWnik0cK2RImT0SOqEwCPINbO9/GibaChPKyTDHc5iwRZDEns0NTuH/Nrm/F5OeTM4JkQiq9xo5o6cO0Na24AaHV0x29kctOpNWxTcSOya5px+CUifeXpl/FEw==;8nDUGhhAWYO+wfD4LND/vA=="
 ---
 

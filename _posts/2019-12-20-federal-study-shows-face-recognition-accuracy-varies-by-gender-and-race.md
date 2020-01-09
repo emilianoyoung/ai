@@ -93,21 +93,6 @@ related:
       - url: https://mondrian.mashable.com/2019%252F12%252F20%252Fd0%252F810943fa599d4a39974f0bd0e47aee26.bf804.jpg%252F1200x630.jpg?signature=1ceEoEnj3VYNzh59iD28jz0jNxQ=
         width: 1200
         height: 630
-  - title: "Many facial recognition tools convey racial bias, study finds"
-    excerpt: "Some systems had a harder time identifying people of color than Caucasians, an NIST study says. Many facial recognition systems have a harder time identifying African-American, Asian and native groups than Caucasians, according to a study released Thursday by the National Institute of Standards and Technology. There were higher rates of false ..."
-    publishedDateTime: 2019-12-20T00:54:00Z
-    sourceUrl: https://www.cnet.com/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
-    ampUrl: https://www.cnet.com/google-amp/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/many-facial-recognition-tools-convey-racial-bias-study-finds/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: https://cnet2.cbsistatic.com/img/p9IG6w128l_iSkKspX8F9S27UmQ=/756x567/2019/12/19/6e7f242f-2f81-410f-aadb-82a146434d1c/gettyimages-614202874.jpg
-        width: 756
-        height: 567
   - title: "ProBeat: Enough with the government facial recognition"
     excerpt: "A U.S. government study released this week found that 189 facial recognition algorithms from 99 developers “falsely identified African-American and Asian faces 10 to 100 times more often than Caucasian faces.” Enough. This should be the last such study. We are long overdue for federal governments to regulate or outright ban facial recognition."
     publishedDateTime: 2019-12-20T18:30:00Z

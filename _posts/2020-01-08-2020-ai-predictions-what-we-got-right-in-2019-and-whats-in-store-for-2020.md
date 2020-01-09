@@ -208,6 +208,21 @@ related:
       - url: https://www.bing.com/th?id=ON.454B02E12AAF5C0F447652DC6E0F9723
         width: 640
         height: 360
+  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
+    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
+    publishedDateTime: 2020-01-09T01:49:00Z
+    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.CFF578B438952A2323A2C2ED155BC1ED
+        width: 700
+        height: 393
   - title: "AI in 2020 and beyond: create a digital replica of your aging parent or yourself"
     excerpt: "“Rather than having conversational interfaces respond to discrete things, it understands the context and can respond to (your) intent.” Much has been said and written about the future of AI, and the role it will play – good and potentially bad – in practically everything consumers and businesses engage in. What pretty much everyone ..."
     publishedDateTime: 2020-01-02T15:17:00Z

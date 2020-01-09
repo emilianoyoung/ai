@@ -148,6 +148,21 @@ related:
       - url: https://www.bing.com/th?id=ON.3870BF3078F8B552CFD1568503A10BA8
         width: 700
         height: 466
+  - title: "Self-driving car development is booming, but don't expect the government to regulate it"
+    excerpt: "This has been true of self-driving car development, too. People started out by repurposing tons of equipment and software, piling it into a car and seeing how long they could go without touching the steering wheel. We're way past that now, and the amount of money being poured into the space by automakers and huge technology companies is proof ..."
+    publishedDateTime: 2020-01-09T01:16:00Z
+    sourceUrl: https://www.cnet.com/roadshow/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    ampUrl: https://www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-cars-government-regulation-nhtsa-dot-elaine-chao-ces/
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.A0304D0DA0B48EF1B77A35AE227C24E2
+        width: 700
+        height: 366
   - title: "Deadly Tesla Car Crashes Raise Questions on Self-Driving Cars"
     excerpt: "Three crashes involving Teslas that killed three people have increased scrutiny of the company’s Autopilot driving system just months before CEO Elon Musk has planned to put fully self-driving cars on the streets."
     publishedDateTime: 2020-01-06T10:31:00Z

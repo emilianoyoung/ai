@@ -218,6 +218,21 @@ related:
       - url: https://www.bing.com/th?id=ON.454B02E12AAF5C0F447652DC6E0F9723
         width: 640
         height: 360
+  - title: "Mark Cuban Talks Investing in AI and Regulating Big Tech at Variety’s CES Summit"
+    excerpt: "One important reason why he believes that is because the behemoths are “doing the research that’s keeping our country competitive with other countries in terms of AI.” If Facebook, Google and Amazon were broken up, they would not have the same resources to invest in cutting-edge research. “This is the new space mission,” Cuban said of AI."
+    publishedDateTime: 2020-01-09T01:49:00Z
+    sourceUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/
+    ampUrl: https://variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    cdnAmpUrl: https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/biz/news/mark-cuban-ai-tikok-variety-entertainment-summit-1203461358/amp/
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 54
+    images:
+      - url: https://www.bing.com/th?id=ON.CFF578B438952A2323A2C2ED155BC1ED
+        width: 700
+        height: 393
   - title: "Researchers use deep learning to predict disease related mutations of metal binding sites in protein"
     excerpt: "Washington D.C. [USA], Dec 28 (ANI): In an effort to find the origin of various human diseases, a research team has used deep learning approach to predict disease-associated mutations of the metal-binding sites in a protein. The research was led by Professor Hongzhe Sun from the Department of Chemistry at the University of Hong Kong (HKU ..."
     publishedDateTime: 2019-12-29T00:06:00Z

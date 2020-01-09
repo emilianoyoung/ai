@@ -107,18 +107,18 @@ related:
         width: 770
         height: 364
   - title: "IBM Launches Advertising Accelerator with Watson"
-    excerpt: "First-to-Market Advertising Solution Leverages Artificial Intelligence to Predict Creative Elements and Classify Audiences to Help Drive Optimum Engagement for Clients LAS VEGAS, Jan. 7, 2020 /PRNewswire/ -- At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson ..."
-    publishedDateTime: 2020-01-07T14:51:00Z
-    sourceUrl: https://finance.yahoo.com/news/ibm-launches-advertising-accelerator-watson-120000898.html
+    excerpt: "We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners."
+    publishedDateTime: 2020-01-07T11:00:00Z
+    sourceUrl: https://www.prnewswire.com/news-releases/ibm-launches-advertising-accelerator-with-watson-300982292.html
     type: article
     provider:
-      name: YAHOO!
-      domain: yahoo.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 39
     images:
-      - url: https://www.bing.com/th?id=ON.B141330EE04AE35E0D9261E42C1E4502
-        width: 400
-        height: 225
+      - url: https://www.bing.com/th?id=ON.196CF4D67EB66DCA7578C544B244C603
+        width: 700
+        height: 366
   - title: "CES 2020: IBM Launches Advertising Accelerator with Watson"
     excerpt: "At the 2020 Consumer Electronics Show (CES), IBM (NYSE: IBM) today announced the launch of Advertising Accelerator with Watson, a first-to-market offering that leverages artificial intelligence (AI) to predict the optimal combination of creative elements to help drive high engagement and conversion for a given audience. The predictive solution ..."
     publishedDateTime: 2020-01-08T21:28:00Z

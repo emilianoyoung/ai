@@ -206,6 +206,19 @@ related:
       - url: https://www.bing.com/th?id=ON.08AAA37E43C518A19302CA6EA3332BAB
         width: 700
         height: 394
+  - title: "Meet the rising stars of autonomous cars and trucks who are developing the self-driving future"
+    excerpt: "Business Insider's transportation team searched for the brightest young minds behind self-driving cars and trucks making significant strides in the fledgling industry despite — or in many cases thanks to — their relative youth. From drifting an autonomous DeLorean and modeling forest fires to building ocean-exploring robots and winning ..."
+    publishedDateTime: 2019-12-23T16:33:00Z
+    sourceUrl: https://markets.businessinsider.com/news/stocks/rising-stars-self-driving-autonomous-vehicles-uber-lyft-waymo-argo-2019-12-1028782819
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+    images:
+      - url: https://www.bing.com/th?id=ON.779759E614A8501F92FE415FD74EFD0A
+        width: 700
+        height: 350
   - title: "NHTSA in talks with GM over fleet of self-driving cars with no steering wheels"
     excerpt: "WASHINGTON — The U.S. National Highway Traffic Safety Administration is holding talks with General Motors on the automaker's petition to deploy a limited number of self-driving vehicles on American roads without steering wheels or other human controls, the head of the agency said on Friday. Acting NHTSA Administrator James Owens said his ..."
     publishedDateTime: 2019-12-21T19:35:00Z
