@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Artificial Intelligence, Psychology, and the Health Sector"
-excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential rate, 3 with deep learning neural networks leading many achievements. IBM’s Deep Blue beat Gary Kasparov in chess, and more recently Google ..."
+excerpt: "One such software application, Artificial Intelligence (AI), has been suggested to be growing at an exponential ... 17 These types of AI assistance have been frequently evaluated and have been found to help reduce treatment barriers and access to mental health care. 18 AI can also support other aspects of mental health."
 publishedDateTime: 2020-01-03T12:36:00Z
 sourceUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector
 ampUrl: https://www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 cdnAmpUrl: https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/psychology-in-society/202001/artificial-intelligence-psychology-and-the-health-sector?amp
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 61
+heat: 61
+published: true
 
 provider:
   name: Psychology Today
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
   - Machine Learning
 
 images:
@@ -25,6 +26,6 @@ images:
     height: 413
     title: "Artificial Intelligence, Psychology, and the Health Sector"
 
-secured: "yBbdPkGnL/jgIoxMar5T0GchHMhO9UZlTurt19WsRTqi9hhwNFpwz0HHjSWo+FB1l6RDqjYitu3Z6uEqifsA0xlndAelNbMCB9YAT/Uredro1hGZsajeOMdy+B1vEOla6W/L9CCxmgBfHLxo6EyYXjJOfQXR2/nArryLfKduKEPETcDEOB57wLC3iqjpafvuEnIqNE9mWK04IaOQAV3QlyaAUhmhT0P/UfYjeegjIilH9JrnArU6YJ2jq/KpLhFccKLqpB0yUeMMXK7kxyqNJA==;1fyZA4/0v2qaHrA6l5RwdA=="
+secured: "HAONmZW+TF+ODxCpstgIY7vVkartxm+DeIM5AaMVgFYt8lr8ilrksN9tdmAoWgYkmnKR+NGO7Us/5V1o2Z7X2Sb2iSea18i2SPsT5XxTBTZbbE+QpL2RAgFbpfVsvWVlfl3umytrY1P4qwWPGqqHAFfdqAp/p9fi6UJx988NIq23GB1Rga4N8oOFUrRKD7ir/HpmdBVXj1Qho/XNw1nVAsoiaqsT+CPrhPQNy4UsmzrsLXZpsDMlL3H8O0Cj3Zjeoc5rtiFxWxhTZXvHprfGlw==;CWuHNHf5CEuR41beR+46Tw=="
 ---
 

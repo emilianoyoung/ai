@@ -5,7 +5,7 @@ excerpt: "Dublin, Jan. 09, 2020 (GLOBE NEWSWIRE) -- The \"Global Artificial Inte
 publishedDateTime: 2020-01-09T12:38:00Z
 sourceUrl: https://www.globenewswire.com/news-release/2020/01/09/1968370/0/en/Global-Artificial-Intelligence-AI-Chipsets-Market-Outlook-2019-2025-Projecting-a-CAGR-of-30-8.html
 type: article
-quality: 22
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI Hardware
 
 related:
   - title: "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA"

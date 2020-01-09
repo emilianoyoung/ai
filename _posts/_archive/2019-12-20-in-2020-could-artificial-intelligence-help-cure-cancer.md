@@ -1,8 +1,8 @@
 ---
 category: news
 title: "In 2020, Could Artificial Intelligence Help Cure Cancer?"
-excerpt: "But as a new decade dawns, artificial intelligence may buy more time for those who need it most ... Vu agrees that, while AI is not a replacement for a medicinal cure that may one day end cancer, advances in data sharing and analysis in health care could lead to what does. By finding associations within the data, AI can point researchers ..."
-publishedDateTime: 2019-12-20T13:20:00Z
+excerpt: "But as a new decade dawns, artificial intelligence may buy more time for those who need ... with the same cancer and similar characteristics to help choose the right therapy for the right patient at the right time.” Vu cited the Eastern Cooperative ..."
+publishedDateTime: 2019-12-20T10:15:00Z
 sourceUrl: https://www.thedailybeast.com/in-2020-could-artificial-intelligence-help-cure-cancer
 type: article
 quality: 19
@@ -17,6 +17,6 @@ topics:
   - AI
   - AI in Healthcare
 
-secured: "etQaj2fx4Q248i27R/jdjjwJNwBAxvBEaE1KBdsq+8S6jXUOZbsMRWpbTFUerRLbb44jWhN9j6ybKquw6ulvm9g7GqLd+ueAGINFHIRAszoPh9uNFKzbhugy3TV71TBeRsHvGGR3WZXckdXLuFkBRxlqK8fNVJPK5Np2s2NFFyIhWnNcArRLdPQ3OG4udD8Hxrivs8LLL/AKJcrGkMCgSq7tK5PJbAA1v6ORTEsrvfuuYpxvx/TFIpIq1AppOjekGftqYNASQiS1xv3lWTAH+w==;Swbq3hyB8xJ4J41XhNk3jg=="
+secured: "FuiMWhVO60mAUx+Uo40zDvefaNzIZSsUMO4kiyfjOWjgKeJZbDZn0eLRDl5jVz104nlcZOuxvmec3bYcD0gvLdMlwkWhghxIxS7cW1+TNAhIadC/kLC9h5H9GLDC9aGSWHuF6okzIxWmNYVhQDiHe1xtPSsuhDLffhek7OPOR1TnE3pzr1xNt1FveQrbsrp1bceWA9OLIiv9gU+a2CNl/KUb26+nMz+SGBrczP7gktiPJRnwRIZnrVt7k0BLnFdJfbrFsIFlsDxptYLaJKN91Q==;Pe4qCo9d1ECbXrkOi2l7+w=="
 ---
 

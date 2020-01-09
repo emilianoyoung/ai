@@ -2,19 +2,27 @@
 category: news
 title: "Prostate cancer can now be diagnosed better using artificial intelligence"
 excerpt: "Researchers at Radboud university medical center have developed a 'deep learning' system that is better than most pathologists at determining the aggressiveness of prostate cancer. The AI system, which uses tissue samples to arrive at its diagnosis, taught itself to identify prostate cancer based on data from over 1200 patients. The Radboud ..."
-publishedDateTime: 2020-01-09T15:25:00Z
-sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/rumc-pcc010920.php
+publishedDateTime: 2020-01-09T16:04:00Z
+sourceUrl: https://medicalxpress.com/news/2020-01-prostate-cancer-artificial-intelligence.html
+ampUrl: https://medicalxpress.com/news/2020-01-prostate-cancer-artificial-intelligence.amp
+cdnAmpUrl: https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-01-prostate-cancer-artificial-intelligence.amp
 type: article
-quality: 16
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
+
+images:
+  - url: https://www.bing.com/th?id=ON.1A369F64EAEF9A2636A45ADDC232AFC5
+    width: 700
+    height: 461
+    title: "Prostate cancer can now be diagnosed better using artificial intelligence"
 
 related:
   - title: "Artificial Intelligence can Detect and Grade Prostate Cancer: Here’s How"
@@ -33,6 +41,6 @@ related:
         width: 300
         height: 250
 
-secured: "LddL9lEWCZM1w9+XA9vOS9Qw8gsuPPW7a2TDXgB1P6gPJZhm4ife+QLWkhr4hjOGnWKMDCRnLMsTHsXl+J6j1M77ETdG8pwOyRnnH6Sh8hWAQ0rxk9FcjGIVDeRjwha4K4TGhIBeT0fA27le03kh32fVyoknmpw8sRJ3jFW1f0+hWQyc1rabEUwxi42rjH3/DJ/FMcQSrCkJotm5qmrWWHZOTBroCMTBFZnfTfvVEVIha12Lf/m9/tLEWh80jMi/zvAlcHJnWWI0Fe2lMmbjeA==;X4faivfYSNIm+o9PlI/fsw=="
+secured: "LSaLmrfoRJughcNiCAGI8q113A/4ucfl+DflIpaQlaUjfFKxlx2EAXTohYNwfckYIid10G8yQTvYw4afcKEnV01nL2YhhIQnftQ65tE7Nc4mveQ7TgIwrlkt4XxhV9yBwBdCqQZTMBiovyl7Aifaf1DumhZaDajEUOZhpM5vuN2iUzJyrqeFi5YscTV4G59BgEj7Tq6Ih0BPoXBS6fecccf7BQ96C9il4vodHquSSUMRef73Hlh/n3OKDduSal+nMue+j3hOh/e+nza7hOW9EA==;vkhBLy/fH7K+J/LMMyByVg=="
 ---
 

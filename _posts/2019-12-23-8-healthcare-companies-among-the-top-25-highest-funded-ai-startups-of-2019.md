@@ -175,19 +175,6 @@ related:
       - url: https://www.bing.com/th?id=ON.EAE7A1842026EE7A5399D6909D335B0C
         width: 700
         height: 350
-  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
-    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
-    publishedDateTime: 2019-12-20T16:01:00Z
-    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
-        width: 600
-        height: 532
   - title: "AI, 5G, 'ambient computing': What to expect in tech in 2020 and beyond"
     excerpt: "Research out of MIT and IBM Watson suggests that while AI will for sure impact the workplace, it won’t lead to a huge loss of jobs. That's a somewhat optimistic take given an alternate view that AI-driven automation is going to displace workers. The research suggests that AI will increasingly help us with tasks that can be automated ..."
     publishedDateTime: 2019-12-23T16:26:56Z

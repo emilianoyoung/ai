@@ -56,6 +56,21 @@ related:
       - url: https://www.bing.com/th?id=ON.0B6C05A93C7C53C1E7B45AF0BBDD2202
         width: 700
         height: 365
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-26T23:10:00Z
+    sourceUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research
+    ampUrl: https://www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    cdnAmpUrl: https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/total-e-commerce-revenue-will-reach-us3-52-trillion-in-2020-but-not-in-self-driving-trucks-according-to-new-research.amp
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 28
+    images:
+      - url: https://www.bing.com/th?id=ON.B5D0636991944A8589E78BFE6BDD4A57
+        width: 700
+        height: 466
   - title: "For self-driving progress, Aurora focuses inward"
     excerpt: "PALO ALTO, Calif. — In the realm of self-driving vehicles, the number of miles driven in autonomous mode is often used as a proxy for progress. So it might seem alarming next month when an annual batch of mileage statistics scheduled to be released by the California Department of Motor Vehicles shows Aurora Innovation drove significantly ..."
     publishedDateTime: 2019-12-21T04:00:00Z
@@ -82,6 +97,19 @@ related:
       - url: https://www.bing.com/th?id=ON.D9127A500F2C093BA6FF6CA3A867787D
         width: 700
         height: 367
+  - title: "E-commerce revenue will hit $3.52 trillion in 2020, but self-driving trucks won't be making deliveries"
+    excerpt: "While car manufacturers like Tesla dive deep into the development of driverless, self-driving vehicles, the technology is still very raw and is far from close to commercial use. And while driverless delivery trucks would be a dream-come-true for the e-commerce industry, Beardslee pointed out that it won’t be happening anytime soon ..."
+    publishedDateTime: 2019-12-27T00:03:00Z
+    sourceUrl: https://finance.yahoo.com/news/e-commerce-revenue-hit-3-225402104.html
+    type: article
+    provider:
+      name: YAHOO!
+      domain: yahoo.com
+    quality: 8
+    images:
+      - url: https://www.bing.com/th?id=ON.3E0838D3CF71062F0406C401D8D1F3BE
+        width: 700
+        height: 472
 
 secured: "Mxxnr3R66jyY8mj1Nqs27L8PSdvRaB2f2pK0YWXrtwOGtNIl5k26kVQ/7YJmieKObGAlEVzKT37hvffSzawgg9WUnuubTY4Qvl2dzbwSGtfBKipawowZvwRd7gfPoDnmc43iOk36H0CxITz+CmeQOPxRlS8Gq8pAr2tbPGnDWNj2TIMsEUaY+23AJy2drXgvmdp95EM+cq5iImt9h7t3g/GY6Lk6vlXRzKK7VGmeDzVzZ0BpH63yctS+3WY0T1f3c+yqx+Qq/2yFcyRZmK8+FA==;sZq1karYYuhhJYCnLBnalw=="
 ---

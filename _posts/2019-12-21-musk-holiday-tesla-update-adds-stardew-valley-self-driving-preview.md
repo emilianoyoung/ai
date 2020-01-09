@@ -18,21 +18,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla holiday software update will preview full-self driving mode, add Stardew Valley"
-    excerpt: "With it, Tesla owners will get a \"sneak preview\" of the firm's \"full self-driving\" mode. Oh, and for the gamers out there, Teslas will get a copy of quirky farming sim Stardew Valley. Tesla holiday software update has FSD sneak preview, Stardew Valley, Lost Backgammon & a few other things — Elon Musk (@elonmusk) December 20, 2019 The bigger ..."
-    publishedDateTime: 2019-12-20T15:05:00Z
-    sourceUrl: https://www.cnet.com/roadshow/news/tesla-software-update-full-self-drive-mode-stardew-valley/
-    ampUrl: https://www.cnet.com/google-amp/news/tesla-software-update-full-self-drive-mode-stardew-valley/
-    cdnAmpUrl: https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-software-update-full-self-drive-mode-stardew-valley/
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 97
-    images:
-      - url: https://www.bing.com/th?id=ON.FEFD7B5658F0BD8C6C27EC7399C96286
-        width: 700
-        height: 393
   - title: "First look at Tesla’s ‘Full Self-Driving Sneak Preview’"
     excerpt: "Now that Tesla started pushing its holiday update to the fleet, we get our first look at what Elon Musk called Tesla’s “Full Self-Driving Sneak Preview.” Last week, the CEO announced that Tesla is working on a “holiday update” that would include a “Full Self-Driving sneak preview,” new video games, and “a few more things.”"
     publishedDateTime: 2019-12-24T14:25:00Z
@@ -63,6 +48,21 @@ related:
       - url: https://icdn2.digitaltrends.com/image/digitaltrends/tesla-model-3-red-2-1200x630-c-ar1.91.jpg
         width: 720
         height: 376
+  - title: "Podcast: Tesla Holiday Update, Self-Driving ‘Sneak Preview’, Rivian news, and more"
+    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla’s massive ‘Holiday Update’, the Full Self-Driving ‘Sneak Preview’, some big news from Rivian, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub ..."
+    publishedDateTime: 2019-12-27T16:48:00Z
+    sourceUrl: https://electrek.co/2019/12/27/podcast-tesla-holiday-update-self-driving-sneak-preview-rivian-news/
+    ampUrl: https://electrek.co/2019/12/27/podcast-tesla-holiday-update-self-driving-sneak-preview-rivian-news/amp/
+    cdnAmpUrl: https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2019/12/27/podcast-tesla-holiday-update-self-driving-sneak-preview-rivian-news/amp/
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: https://www.bing.com/th?id=ON.ABFD9041F80618DD471187B9574C1116
+        width: 700
+        height: 393
   - title: "Tesla's latest update adds a full self-driving visualization preview, better voice commands, and more"
     excerpt: "The update has been in the works for some time now, but it's finally out now. It brings an early look at Tesla's full self-driving (FSD) tech, the new and improved \"Camping Mode,\" and various \"smart\" features. Let's start by digging a little deeper into the FSD preview, as it's simultaneously the most exciting and disappointing part of this update."
     publishedDateTime: 2019-12-26T20:11:00Z
@@ -78,17 +78,6 @@ related:
       - url: https://www.bing.com/th?id=ON.4B14C8F358AF3350C318453703B114B2
         width: 700
         height: 481
-  - title: "Musk: Holiday Tesla Preview Adds 'Starview Valley,' Self-Driving Preview"
-    excerpt: "Elon Musk tweeted tonight that a \"holiday\" update will add farming RPG Stardew Valley as a playable game, and include a Full Self-Driving \"sneak preview,\" as well as other things. Late last year, Tesla expanded testing of full autonomous features among employees, and Musk has continued to promise it will arrive for the customers who've ordered ..."
-    publishedDateTime: 2019-12-20T15:30:00Z
-    sourceUrl: https://www.entrepreneur.com/article/344126
-    ampUrl: https://www.entrepreneur.com/amphtml/344126
-    cdnAmpUrl: https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344126
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 68
   - title: "What Does Tesla’s Self-Driving Mode Really Look Like? A New Software Update Gives a Sneak Peek"
     excerpt: "Just in time for the holidays, Tesla is releasing an update to the software that powers its sleek vehicles, including a new game and even a preview its much-anticipated self-driving mode. A specific release date hasn’t been announced, but word of its impending delivery comes straight from Musk’s own Twitter account. In it, Musk gives a ..."
     publishedDateTime: 2019-12-20T22:16:00Z
@@ -119,17 +108,34 @@ related:
       - url: https://s.yimg.com/ny/api/res/1.2/SGz80wlVK0MWY4WKcaF3KQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjAuNjQ-/https://s.yimg.com/uu/api/res/1.2/ZQDr9coVPpFGavu5XynBQA--~B/aD01NjM7dz0xMDAwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/robb_report_967/6c6770320ed6c58bb5d644bec0e6d115
         width: 1000
         height: 563
-  - title: "Telsa Adds 'Stardew Valley' Dash Game & Offers Full Self Driving Preview For Holiday 2019"
-    excerpt: "Essentially, this means we’ll have a closer look and understanding of how Tesla aims to introduced Full Self Driving into its line-up of semi-autonomous cars. No date has been confirmed for the release of the Holiday 2019 pack, but expect more Tweets from Musk soon noting when you can get the latest from your car. In related news, Tesla has l ..."
-    publishedDateTime: 2019-12-20T15:39:00Z
-    sourceUrl: https://hypebeast.com/?post=4840796
-    ampUrl: https://hypebeast.com/2019/12/tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk?amp=1
-    cdnAmpUrl: https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2019/12/tesla-vehicles-in-dash-car-game-update-stardew-valley-rpg-full-self-driving-elon-musk?amp=1
+  - title: "Tesla's holiday FSD preview shows a Neural Net that's improving very quickly"
+    excerpt: "These jokes, while lighthearted, show Tesla’s all-in bet on Elon Musk’s idea that a suite of cameras and a Neural Network are enough to teach a fleet of vehicles how to drive autonomously. Unlike self-driving companies such as Waymo and Cruise, Tesla is intent on not using LiDAR, a component that is pretty much ubiquitous among firms ..."
+    publishedDateTime: 2019-12-24T19:34:00Z
+    sourceUrl: https://www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/
+    ampUrl: https://www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/amp/
+    cdnAmpUrl: https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-holiday-update-fsd-preview-neural-net-improvements/amp/
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 30
+      name: Tesla News
+      domain: teslarati.com
+    quality: 41
+    images:
+      - url: https://www.bing.com/th?id=ON.668834CD84ADBCB4928D300E65012FC1
+        width: 700
+        height: 420
+  - title: "Uber will build a self-driving test track in the Pittsburgh area"
+    excerpt: "According to our partners at TribLive.com, the rideshare company is buying about 600 acres of land. This comes nearly a year after Uber resumed testing self-driving cars in Pittsburgh. The company had shut down the program for most of 2018 after a deadly crash in Arizona. Uber is also testing self-driving semitrucks at a site in Hazelwood."
+    publishedDateTime: 2019-12-27T12:53:00Z
+    sourceUrl: https://www.wpxi.com/news/uber-will-build-self-driving-test-track-pittsburgh-area/RP65ESEY6BFIJKI3YSPF4EFR7U/
+    type: article
+    provider:
+      name: WPXI
+      domain: wpxi.com
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.34CC98E1DC4A3DBCA061DCF5E7E587EA
+        width: 700
+        height: 393
 
 secured: "/kdeCCyqeIJZaFDslH7dL7PDHSxlG3t51LE3USsoPlqGfkZMtkh0uQ3b2yaqQmnGSsI0gRmIFz2D0ud5t+6WYyvs3qz83UhexZMOu0Y6+Xr0alzYx1wic6yuVN/bbwwpFIsCCrTVDH9EJByWB935I/GUAxoQYlW3TTIgrwZ6PVikJfpgyJKvvcThdDapRjyr8J30bnovD/ov9hfEGO0EU1a3j6RqT6kxa38Fhdf/67226t11d8cOz4VUdV4hm9Oob2tdhrOUPtWr0ZuzDztyzQ==;/e99mFGphggMHD3PFbVMog=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "iFLYTEK, Asia AI Leader, Debuts Cutting-Edge Voice Technologies in the US"
 excerpt: "Jarvisen – A new generation translator that enables effortless communication between 60 languages. This consumer product is powered by iFLYTEK voice recognition, machine translation, and voice synthesis technologies. Jarvisen has an instant response rate of less than .5 seconds as well as a built in 2-year global data plan for coverage in ..."
 publishedDateTime: 2020-01-08T19:10:00Z
-sourceUrl: https://www.tmcnet.com/usubmit/2020/01/08/9078596.htm
+sourceUrl: https://www.tmcnet.com/usubmit/-iflytek-asia-ai-leader-debuts-cutting-edge-voice-/2020/01/08/9078596.htm
 type: article
 quality: 18
 heat: -1
@@ -32,6 +32,6 @@ related:
         width: 1280
         height: 720
 
-secured: "WbsuYGiOOOzAp2qzTOnA2/jsjEDqWKZ8ElHyApnobJ+DDsKVI/rYcTsEaOQIRfwe0Apoo2RCx9mwAJramRbIE7srNhE7pdny4txUaWiJoxxV+HkbdIxAEag+okhpdUQ2wmdWF+8Cr23ukki51EYnmw/OLHfrEuHSv62COBTOBqBvC7zTharfoJGNnfIhTe3SllyNJZg3TL7do/KonRpbJ3z0NFaT2kadL2ktVsmCP575ygeW44bStx4sdh9n5Law6n4aMg92X9UodnuMurPTaw==;5lBNMexdGJywnyAJtBsySg=="
+secured: "ZnyDCtp9ItFnFw8Fm5Y66xFZBwFPMI7GYAewRtqhmb/ApkxaFgTojujgEHR/qTRNzu8fGxNfSpMD9htazAJpJ5ckzCMucksTmuF/j61SkL+Plqy0oM56jE1D9C4PS80nZKtluCtUCqFO6iICQaMXmO0ImKmAMH7L3a1PyO96kLI/XghUyC73+OmoQ6v+U6aN5plKiisQu0Bmwke+zEgWjsm5EzLgHjpWjO3jiDwp4PjHUjdjCDDYv4ATLlip/ZloN+iqLkEOPqxKHzFbr7FL9w==;iBx/o+bEK28/wDXVbBPWKg=="
 ---
 

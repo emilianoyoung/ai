@@ -8,7 +8,7 @@ ampUrl: https://www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-c
 cdnAmpUrl: https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/08/warner-bros-ai-movie-decisions-cinelytic/
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -100,6 +100,19 @@ related:
       - url: https://www.bing.com/th?id=ON.3C30AB745A0189E16761D6F7BF488B88
         width: 700
         height: 466
+  - title: "Warner Bros. signs with AI company to help choose which movies to reboot (yes, really)"
+    excerpt: "Last fall, STX became a client of Cinelytic, a company that offers AI for navigating decisions around prospective film projects. It’s a questionable move, but one that doesn’t seem out of line for a five-year-old film studio willing to try anything. What’s much more troubling is this week’s announcement that Warner Bros. has just ..."
+    publishedDateTime: 2020-01-09T16:05:00Z
+    sourceUrl: https://www.fastcompany.com/90450218/warner-bros-signs-with-ai-company-to-help-choose-which-movies-to-reboot-yes-really?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.A071083D3CA911EF26969D39320A10BD
+        width: 700
+        height: 393
 
 secured: "VZnB0gCI/qzP1MzYHCAzIrtSZ59nsu1apt0Z6hCzsit9v8t0hLNnl30OsoKWvfv/9VBRCFXKQ7QUwsnDvWCpBul9c+KNn1wT13Z1+dy9Yka5Rji59KvTQGAliOau1rSm7FdI0SGbkjBYZU/MjtIk+3KJkudL9XCp9dwhNrgOT0qTOE1+pBSwyJnhcKZ1TzTlXr1COXd9S+8OOY7jatj+ND4FU4QqJvkRvN1xqUo9aDE0YuNm19TRWE1jkZjHhtuDhG82WqC074NIK0UjtL9oGw==;MatNSWv6+qSnCfv6As4Jdw=="
 ---

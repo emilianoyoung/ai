@@ -8,7 +8,7 @@ ampUrl: https://amp.theguardian.com/technology/2019/dec/12/googles-self-driving-
 cdnAmpUrl: https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2019/dec/12/googles-self-driving-car-project-buys-british-ai-firm-latent-logic
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,21 @@ topics:
   - AI
   - AI in Autos
 
-secured: "beOAIQt3GaAkF2ct3RmEE23QQaZKZGMeq9NUQtpJrZ08PpOBA1baDhIsTV3WSeVB+/22L+uZ4K7sSjUn5VNwFN2joY/35gGNPoyjyKVruQ2k/mf0BViGQomh8/+MTp5eHB565fvV66Hgo0C6stIQh+qfJYJ1tJrtPteb2aQmvHCXhMqOsYZbr2jGTJtliyFRqj2VJV5qMpkp1YxGpOzwQwYDWw1YqjNokhBzdDJ0seKlQoC7EaThTQ4iAp6HYo9t0YjZv0LsJOkiSkNH2efc3Q==;SBUHm/o+1hMtwrKoSR/5pA=="
+related:
+  - title: "Waymo acquires AI-powered simulation startup Latent Logic"
+    excerpt: "Waymo LLC, Alphabet Inc.’s autonomous driving subsidiary ... projects can insert these virtual humans into the simulations they use to train the artificial intelligence powering their vehicles. The result, according to Latent Logic, is a closer-to ..."
+    publishedDateTime: 2019-12-12T17:48:00Z
+    sourceUrl: https://siliconangle.com/2019/12/12/waymo-acquires-ai-powered-simulation-startup-latent-logic/
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/12/waymo.png
+        width: 718
+        height: 400
+
+secured: "dffP9oymL5jwRIrcYwaUpAIaEsNk3QfzzDDMk/w2cUOfrzKvqguuakdfaxzyBAw2qhyJe4N4LzPNiyTjj6uQ1hVF9c7QejtzYpvyUt1JXyGtHJ+XVzxg9O77qmpXInCmh4rEIYlKZ+/Jh1OClp0SKGC/D+eixjcFIpirHPIpws4g1icneCRM0+TDRecNMlednATZ5Cyqb7YszPPZNM8aqR3Po238ayp0z7rKEpw6SN5RSFcub0RtiQRNyOK4QunGIw/wqSHK4+AqGSb4LPcvGg==;uf3NMXRClnC5ZnZK2+LkSg=="
 ---
 

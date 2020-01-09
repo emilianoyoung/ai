@@ -131,6 +131,36 @@ related:
       - url: https://www.bing.com/th?id=ON.7D2EDE14ECA06EE86C4635BF018657E7
         width: 600
         height: 338
+  - title: "Smart cameras for facial recognition to be installed at KSR City Railway Station"
+    excerpt: "In an effort to enhance security at the Krantiveera Sangolli Rayanna City Railway Station (KSR Bengaluru) and to identify and prevent criminals, especially human traffickers, from entering the station, the South Western Railway is all set to use facial-recognition software linked to advanced artificial intelligence. According to the railways ..."
+    publishedDateTime: 2020-01-09T16:48:00Z
+    sourceUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece
+    ampUrl: https://www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+    cdnAmpUrl: https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/smart-cameras-for-facial-recognition-to-be-installed-at-ksr-city-railway-station/article30526551.ece/amp/
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 69
+    images:
+      - url: https://th.thgim.com/static/theme/default/base/img/og-image.jpg
+        width: 300
+        height: 300
+  - title: "Why Indian Railways is installing facial recognition technology at its railway stations"
+    excerpt: "The Railway Protection Force (RPF) wants to identify criminals who may be roaming the railway stations by linking the facial recognition system with the existing databases like the Crime as well as Criminal Tracking Network and systems. Indian Railways takes big step to enhance security! Bengaluru, Manmad and Bhusawal railway stations have been ..."
+    publishedDateTime: 2020-01-09T16:49:00Z
+    sourceUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/
+    ampUrl: https://www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
+    cdnAmpUrl: https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/infrastructure/railways/why-indian-railways-is-installing-facial-recognition-technology-at-its-railway-stations/1817770/lite/
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 66
+    images:
+      - url: https://www.bing.com/th?id=ON.4F37C0940AB20FDC14D33D44D8C1AF25
+        width: 660
+        height: 440
   - title: "Bengaluru, Manmad, Bhusawal railway stations to get facial recognition tech as test cases"
     excerpt: "NEW DELHI: Facial recognition technology backed by artificial intelligence has been installed at Bengaluru, Manmad and Bhusawal stations as test cases to identify and nab criminals, railway officials said on Wednesday. The objective of the Railway Protection Force (RPF) is to link the facial recognition system with existing databases such as ..."
     publishedDateTime: 2020-01-08T15:27:00Z

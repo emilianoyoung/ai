@@ -8,7 +8,7 @@ ampUrl: https://www.news-medical.net/amp/news/20200102/Evidence-for-engrams-as-n
 cdnAmpUrl: https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200102/Evidence-for-engrams-as-neural-basis-for-memory.aspx
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,34 @@ images:
     title: "Evidence for engrams as neural basis for memory"
 
 related:
-  - title: "Engrams emerging as the basic unit of memory"
-    excerpt: "Though scientist Richard Semon introduced the concept of the \"engram\" 115 years ago to posit a neural basis for memory, direct evidence for engrams has ... Experiments in rodents have revealed that engrams exist as multiscale networks of neurons. An experience becomes stored as a potentially retrievable memory in the brain when excited neurons ..."
-    publishedDateTime: 2020-01-02T19:39:00Z
-    sourceUrl: https://www.eurekalert.org/pub_releases/2020-01/piam-eea010220.php
+  - title: "Google’s AI for mammograms doesn’t account for racial differences"
+    excerpt: "Google is working on an AI tool for mammograms that researchers hope will one day be more accurate than human radiologists. The tech giant paid for a study, the results of which were published last week (Jan.1) in Nature. Its findings, at first glance, look promising. But experts caution that AI has a long way to go before it can replace a ..."
+    publishedDateTime: 2020-01-09T16:00:00Z
+    sourceUrl: https://qz.com/1781123/googles-ai-for-mammograms-doesnt-account-for-race/
+    ampUrl: https://qz.com/1781123/googles-ai-for-mammograms-doesnt-account-for-race/amp/
+    cdnAmpUrl: https://qz-com.cdn.ampproject.org/c/s/qz.com/1781123/googles-ai-for-mammograms-doesnt-account-for-race/amp/
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
+      name: Quartz
+      domain: qz.com
+    quality: 87
     images:
-      - url: https://www.bing.com/th?id=ON.D7A00974F6EC85C5AE008DE8D042371D
-        width: 639
-        height: 426
+      - url: https://www.bing.com/th?id=ON.140FFCAD734363AFECF8E2C203DCB220
+        width: 700
+        height: 615
+  - title: "Google's AI for mammograms doesn't account for race"
+    excerpt: "Google is working on an AI tool for mammograms that researchers hope will one day be more accurate than human radiologists. The tech giant paid for a study, the results of which were published last week (Jan."
+    publishedDateTime: 2020-01-09T16:31:00Z
+    sourceUrl: https://www.msn.com/en-us/finance/other/googles-ai-for-mammograms-doesnt-account-for-race/ar-BBYMMwb
+    type: article
+    provider:
+      name: Quartz on MSN.com
+      domain: msn.com
+    quality: 37
+    images:
+      - url: https://www.bing.com/th?id=ON.63751EEC863C98E42902A15790EC648F
+        width: 600
+        height: 315
 
 secured: "jXIpiwneT1tWGlbIZWseW0lz+3fLSHHGxR2mps9iDPMRFp2dCivZcbD+o/xnRMh21dclL03PIvf5yhCHAAPFDG3u0YsmwleoL3G2Ao5nxSfkB5xqYKQQToNkrj1wyV7q03VvR2EWloa2krHaUjd53osSh5I/jIKQoUSHT9tuuh3x2Gok1p+SCEyYiIShfCcoP1ikkpy2c3dfGgoFH7fbvyFk6EtLrLocqNonDAtOoyM67J2BI8Ci+VGSLGYIc98KwtGPGGFTTCWoTjEEvHgOYg==;rtcMn5WSHr/MfltREHLeaw=="
 ---

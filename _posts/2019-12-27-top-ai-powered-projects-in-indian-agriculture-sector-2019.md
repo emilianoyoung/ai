@@ -65,6 +65,19 @@ related:
       - url: https://sourcemedia.brightspotcdn.com/dims4/default/2a851d4/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2F49%2Fe7%2Fe09490f74068a0054d016c83a5a9%2Fsoftware-architect.jpg
         width: 1200
         height: 630
+  - title: "Volkswagen self-driving shuttles to operate in Qatar from 2022"
+    excerpt: "Autonomous services are scheduled to begin before the next FIFA World Cup kicks off. According to the automaker, there will be a fleet of 35 self-driving ID Buzz people movers operating on semi-fixed routes in the Westbay district of Doha. There will also be 10 autonomous Scania buses to transport larger groups of people. From the announcement ..."
+    publishedDateTime: 2019-12-22T13:06:00Z
+    sourceUrl: https://www.caradvice.com.au/815243/world-cup-volkswagen-self-driving-shuttles/
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 24
+    images:
+      - url: https://www.bing.com/th?id=ON.13362133FC7097D97564B194CBCBC9BB
+        width: 700
+        height: 364
   - title: "Uber buys parcel near Pittsburgh for self-driving test track"
     excerpt: "Uber Technologies is increasing its footprint in the Pittsburgh area with the purchase of a $9.5 million parcel to be used as a new test track for self-driving cars. Uber spokeswoman Sarah Abboud confirmed the purchase to the Pittsburgh Tribune-Review but said she could not immediately share more details about the plan. The San Francisco ride ..."
     publishedDateTime: 2019-12-27T15:39:00Z

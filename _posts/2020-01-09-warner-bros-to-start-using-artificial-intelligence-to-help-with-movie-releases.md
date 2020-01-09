@@ -96,6 +96,19 @@ related:
       - url: https://www.bing.com/th?id=ON.6FDB87F7C208FE325A49172BF5BC8540
         width: 700
         height: 367
+  - title: "Warner Bros. signs with AI company to help choose which movies to reboot (yes, really)"
+    excerpt: "Last fall, STX became a client of Cinelytic, a company that offers AI for navigating decisions around prospective film projects. It’s a questionable move, but one that doesn’t seem out of line for a five-year-old film studio willing to try anything. What’s much more troubling is this week’s announcement that Warner Bros. has just ..."
+    publishedDateTime: 2020-01-09T16:05:00Z
+    sourceUrl: https://www.fastcompany.com/90450218/warner-bros-signs-with-ai-company-to-help-choose-which-movies-to-reboot-yes-really?partner=feedburner
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 29
+    images:
+      - url: https://www.bing.com/th?id=ON.A071083D3CA911EF26969D39320A10BD
+        width: 700
+        height: 393
 
 secured: "BIoSx+ipy/gwr+6f8xRJFxJKnHEhBa8xvX7nC9bMVRSfqqZo4+htZVLu6pjOB5zBvkLl2AcHPudGrxSoFkvGkiCyU1QKWVKYNwuKpvmXu9gPZBkhZFvNA/o6CcwACB/6IRQ4r3/l+ZZGbonNPhdPlbBGOfDvPKfM6MoohmODX5uh/Zs3xp9OBCnGbmptu98aUKtXYDRhToBa2XPVzzAEQxEYlVB+M069DWllYtJUEgvNWHkLpUEFRkum+rxnsbD/1wy0hex6uru6rnixVNsMKg==;KF9DjhcO6sj3pnWAZuV8MA=="
 ---

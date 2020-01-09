@@ -23,6 +23,21 @@ images:
     height: 525
     title: "A CES conversation with Tara Prakriya, general manager or Microsoft Azure IoT mobility"
 
+related:
+  - title: "A CES conversation with Microsoft's Tara Prakriya"
+    excerpt: "A: Azure is organized like you would expect a hyperscale cloud, that is aspiring to be everyone's computer, to be. There are many specific areas, including storage, networking and all those pieces. We have a very large investment in IoT as well as in AI. The reason why Azure AI and IoT are really interesting is because in many cases they ..."
+    publishedDateTime: 2020-01-09T14:54:00Z
+    sourceUrl: https://www.autonews.com/ces/ces-conversation-microsofts-tara-prakriya
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: https://www.bing.com/th?id=ON.32E0303AB6F67A6F1A91F4C5E87F41AD
+        width: 700
+        height: 525
+
 secured: "5pcaw4E+OE/qZQGXchTxRN3fI0f8m0bOxQNMpikS6oKaKOjmc/UmIQPEC47O5ppfRdXYmD6GGTfHaDLne2mKS4ACACemFiFcVu/Ez+pMY3oCyjErp/++KRhDDr0UmMxGzFkqXeb+bryEHntiG5HH42mH1HHf3zli7ysM6p0Grw6pSj/aXjpDDJcwlGYCDSld0pX8tMCyCpOLVnQO/Qm/ZMF0XT1igL0nhZ+J6cnnQsrBr48IohDf+nMLWpVGBIHgid0W1K4oOFoAcWSnGoBnww==;ViIy6oBKLmeSAm8guZRb9Q=="
 ---
 

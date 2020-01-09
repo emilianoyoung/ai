@@ -490,19 +490,6 @@ related:
       - url: https://www.bing.com/th?id=ON.E96CDA039E016DC17DDD1F0BD7387719
         width: 700
         height: 392
-  - title: "NIST confirms that facial recognition doesn’t work equally well for all"
-    excerpt: "It’s a fact you’ve probably heard before: Facial recognition technology doesn’t work equally well for all people. In general, today’s facial recognition algorithms tend to be best at identifying white, male faces and can struggle when it comes to the faces of women or people of color. Now, a new study from the National Institute of ..."
-    publishedDateTime: 2019-12-20T15:26:00Z
-    sourceUrl: https://www.fedscoop.com/nist-facial-recognition-demographics-study/
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: https://s3.amazonaws.com/fedscoopwp-media/wp-content/uploads/2019/01/17101751/GettyImages-490070699.jpg
-        width: 1920
-        height: 1113
   - title: "U.S. government study finds racial bias in facial recognition tools"
     excerpt: "(Reuters) - Many facial recognition systems misidentify people of color more often than white people, according to a U.S. government study released on Thursday that is likely to increase skepticism of technology widely used by law enforcement agencies. The study by the National Institute of Standards and Technology (NIST) found that, when ..."
     publishedDateTime: 2019-12-21T00:14:00Z

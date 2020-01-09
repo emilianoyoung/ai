@@ -78,17 +78,13 @@ related:
     quality: 39
   - title: "Artificial intelligence tracks down acute myeloid leukaemia"
     excerpt: "This approach could support conventional diagnostics and accelerate therapy of the disease ... wanted to find out what an analysis of the transcriptome can achieve using artificial intelligence, that is to say, trainable algorithms,\" Schultze said."
-    publishedDateTime: 2019-12-26T13:15:00Z
-    sourceUrl: https://www.newkerala.com/news/read/269852/artificial-intelligence-tracks-down-acute-myeloid-leukaemia.html
+    publishedDateTime: 2019-12-26T04:58:00Z
+    sourceUrl: https://news.webindia123.com/news/articles/Health/20191226/3479695.html
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 39
-    images:
-      - url: https://www.newkerala.com/news/pics/r/coffee-mug-01.jpg
-        width: 500
-        height: 316
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "sIaIogcU6Hevn8u2L5nkuyChIoCi1QeUs1H/sYO6m7otsUIY4e0KxZXhZCpeviguaeH0mIChp2Co74fsgMVctEHNEzCos3aFhfVRfygcgV01mAtRX0CBMSVLVHwco53A3e7sfc3VfU/3lVrhnx//++WvYyRnhJjH/BjcdK5Rz1+Vd86e775gA3mWlzmsQthd3Mu/QH9PExsLOzJNiXl+6qqZ5MWGjIbHMnHctUAeJ7on5YFFLbYd0fbzZDM5UTFMQ7fSbTzmCuXMUL8ZTeJ/wg==;ipsnCv3Ecnxox86KMPWJfA=="
 ---

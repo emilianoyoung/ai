@@ -171,19 +171,6 @@ related:
       - url: https://www.bing.com/th?id=ON.8A4BE012CF7CD9D233F8FD8C96F74305
         width: 700
         height: 350
-  - title: "Here's what fintech pros say are their top predictions for 2020, and which trends never materialized in 2019"
-    excerpt: "Business Insider Intelligence's fintech research team asked industry leaders for their 2020 fintech predictions — and what didn't pan out in 2019."
-    publishedDateTime: 2019-12-20T16:01:00Z
-    sourceUrl: https://www.businessinsider.com/fintech-pros-predict-2020-trends-2019-12
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
-    images:
-      - url: https://www.bing.com/th?id=ON.650FD7A14F8154CCB9C27E04211E20A5
-        width: 600
-        height: 532
   - title: "8 healthcare companies among the top 25 highest-funded AI startups of 2019"
     excerpt: "Artificial intelligence-focused startups in the U.S. raised a total of $10.7 billion in 2019, spanning seed, early- and late-stage funding rounds for just under 500 startups, Forbes reports. Of the 25 AI startups that raised the most money this year, several either cater primarily to the healthcare industry or have introduced healthcare ..."
     publishedDateTime: 2019-12-23T19:59:00Z
